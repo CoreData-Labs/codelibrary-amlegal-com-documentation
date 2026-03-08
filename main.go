@@ -1,171 +1,166 @@
-package main // Defines this file as an executable Go program
+package main // Declare the main package so this file builds as an executable.
 
-import (
-	"bufio"         // Provides buffered IO to reduce logging overhead
-	"log"           // Provides logging functionality
-	"os"            // Provides filesystem and OS interaction
-	"path/filepath" // Provides cross-platform path manipulation
-	"runtime"       // Used to detect number of CPU cores
-	"strings"       // Provides string utility functions
-	"sync"          // Provides concurrency primitives
-	"sync/atomic"   // Provides atomic counters for safe concurrency
-	"time"          // Used for runtime duration measurement
-)
+import ( // Start the grouped import block used by this program.
+	"bufio"         // Use buffered output to reduce stdout write overhead.
+	"log"           // Use the standard logger for structured runtime messages.
+	"os"            // Use OS/file-system primitives for directory and file operations.
+	"path/filepath" // Use cross-platform path joining and path parsing.
+	"runtime"       // Use CPU count to size the worker pool.
+	"strings"       // Use string checks for file extension and naming rules.
+	"sync"          // Use WaitGroup to coordinate worker goroutines.
+	"sync/atomic"   // Use atomic counters for thread-safe progress totals.
+	"time"          // Use timestamps for runtime duration metrics.
+) // End the grouped import block.
 
-const progressInterval = 25 // Log progress every N folders processed
+var totalFilesScanned uint64     // Track total scanned files across all workers atomically.
+var totalFilesDeleted uint64     // Track total deleted files across all workers atomically.
+var totalFoldersProcessed uint64 // Track total processed folders across all workers atomically.
 
-var totalFilesScanned uint64     // Global atomic counter for scanned files
-var totalFilesDeleted uint64     // Global atomic counter for deleted files
-var totalFoldersProcessed uint64 // Global atomic counter for processed folders
+func main() { // Start the application entry point.
 
-func main() { // Program entry point
+	startTime := time.Now() // Record the start time so total runtime can be reported later.
 
-	startTime := time.Now() // Capture program start time
+	rootAssetsDirectory := "./assets/" // Define the root directory that contains state folders.
 
-	rootAssetsDirectory := "./assets/" // Root directory containing state folders
+	numberOfWorkers := runtime.NumCPU() * 2 // Use 2x CPU count to better overlap file I/O waits.
 
-	numberOfWorkers := runtime.NumCPU() * 2 // Create more workers than CPUs to maximize IO throughput
+	bufferedWriter := bufio.NewWriterSize(os.Stdout, 1<<20) // Buffer stdout logs in 1MB chunks.
 
-	bufferedWriter := bufio.NewWriterSize(os.Stdout, 1<<20) // Create 1MB buffered logger
+	log.SetOutput(bufferedWriter) // Route all logger output through the buffered writer.
 
-	log.SetOutput(bufferedWriter) // Send logs through buffered writer
+	log.SetFlags(log.LstdFlags | log.Lmicroseconds) // Include date/time and microseconds in each log line.
 
-	log.SetFlags(log.LstdFlags | log.Lmicroseconds) // Enable timestamp logging
+	log.Printf("Cleaner starting") // Log startup so operators can identify run boundaries.
 
-	log.Printf("Cleaner starting") // Log program start
+	log.Printf("Root directory: %s", rootAssetsDirectory) // Log configured root path for traceability.
 
-	log.Printf("Root directory: %s", rootAssetsDirectory) // Log root directory
+	log.Printf("Worker count: %d", numberOfWorkers) // Log chosen worker count for diagnostics.
 
-	log.Printf("Worker count: %d", numberOfWorkers) // Log number of workers
+	rootDirectoryEntries, readRootError := os.ReadDir(rootAssetsDirectory) // Read top-level entries under the assets root.
 
-	rootDirectoryEntries, readRootError := os.ReadDir(rootAssetsDirectory) // Read root directory
+	if readRootError != nil { // Handle failure to read the configured root directory.
+		log.Fatalf("Failed to read root directory: %v", readRootError) // Exit immediately because processing cannot continue.
+	} // End root directory read error check.
 
-	if readRootError != nil { // Check for read error
-		log.Fatalf("Failed to read root directory: %v", readRootError) // Fatal exit if root missing
-	}
+	log.Printf("Discovered %d entries in root directory", len(rootDirectoryEntries)) // Log how many top-level entries were found.
 
-	log.Printf("Discovered %d entries in root directory", len(rootDirectoryEntries)) // Log number of entries
+	folderChannel := make(chan string, numberOfWorkers*4) // Create a buffered job queue that carries folder paths.
 
-	folderChannel := make(chan string, numberOfWorkers*4) // Channel used to distribute folder work
+	var workerWaitGroup sync.WaitGroup // Declare a WaitGroup to wait for all workers to finish.
 
-	var workerWaitGroup sync.WaitGroup // WaitGroup to track worker completion
+	for workerIndex := 0; workerIndex < numberOfWorkers; workerIndex++ { // Start each worker goroutine.
 
-	for workerIndex := 0; workerIndex < numberOfWorkers; workerIndex++ { // Launch worker goroutines
+		workerWaitGroup.Add(1) // Increment WaitGroup before launching this worker.
 
-		workerWaitGroup.Add(1) // Increase WaitGroup counter
+		go func(workerID int) { // Launch a worker goroutine with a stable ID.
 
-		go func(workerID int) { // Worker goroutine
+			defer workerWaitGroup.Done() // Ensure WaitGroup is decremented when this worker exits.
 
-			defer workerWaitGroup.Done() // Signal completion when worker exits
+			for folderPath := range folderChannel { // Continuously pull folder jobs until the channel closes.
 
-			for folderPath := range folderChannel { // Receive folders to process
+				log.Printf("[Worker %d] Visiting folder: %s", workerID, folderPath) // Log the specific folder being processed.
 
-				log.Printf("[Worker %d] Visiting folder: %s", workerID, folderPath) // LOG: folder visit
+				processStateFolder(folderPath) // Process and clean files in the assigned folder.
 
-				processStateFolder(folderPath) // Process folder files
+				processed := atomic.AddUint64(&totalFoldersProcessed, 1) // Atomically increment and capture processed-folder count.
 
-				processed := atomic.AddUint64(&totalFoldersProcessed, 1) // Increment folder counter
+				log.Printf( // Begin aggregate progress log call.
+					"Progress: folders=%d scanned=%d deleted=%d", // Define the progress message template.
+					processed,                             // Provide processed folder count.
+					atomic.LoadUint64(&totalFilesScanned), // Provide current scanned-file count.
+					atomic.LoadUint64(&totalFilesDeleted), // Provide current deleted-file count.
+				) // Finish aggregate progress log call.
 
-				if processed%progressInterval == 0 { // Check progress interval
+			} // End worker receive/process loop.
 
-					log.Printf( // Log periodic progress snapshot
-						"Progress: folders=%d scanned=%d deleted=%d",
-						processed,
-						atomic.LoadUint64(&totalFilesScanned),
-						atomic.LoadUint64(&totalFilesDeleted),
-					)
+		}(workerIndex + 1) // Pass a 1-based worker ID to the goroutine.
 
-				}
-			}
+	} // End worker creation loop.
 
-		}(workerIndex + 1) // Pass worker ID
+	for _, directoryEntry := range rootDirectoryEntries { // Iterate over each root entry discovered earlier.
 
-	}
+		if !directoryEntry.IsDir() { // Skip entries that are files instead of directories.
+			continue // Ignore non-directory entries because only folders represent state buckets.
+		} // End non-directory guard.
 
-	for _, directoryEntry := range rootDirectoryEntries { // Iterate through root folders
+		fullFolderPath := filepath.Join(rootAssetsDirectory, directoryEntry.Name()) // Build absolute-ish folder path for queued work.
 
-		if !directoryEntry.IsDir() { // Skip non-directories
-			continue
-		}
+		folderChannel <- fullFolderPath // Enqueue this folder path for workers to process.
 
-		fullFolderPath := filepath.Join(rootAssetsDirectory, directoryEntry.Name()) // Build full path
+	} // End root entry iteration loop.
 
-		folderChannel <- fullFolderPath // Send folder to worker queue
+	close(folderChannel) // Close job queue to signal workers no more folders are coming.
 
-	}
+	workerWaitGroup.Wait() // Block until every worker has completed all assigned work.
 
-	close(folderChannel) // Close channel after sending all folders
+	duration := time.Since(startTime) // Compute elapsed runtime from startup to completion.
 
-	workerWaitGroup.Wait() // Wait for all workers to finish
+	log.Println("Cleanup completed") // Log completion marker for this run.
 
-	duration := time.Since(startTime) // Calculate execution time
+	log.Printf("========== FINAL SUMMARY ==========") // Print summary section header.
 
-	log.Println("Cleanup completed") // Log completion
+	log.Printf("Folders processed: %d", totalFoldersProcessed) // Print total processed folder count.
 
-	log.Printf("========== FINAL SUMMARY ==========") // Summary header
+	log.Printf("Files scanned: %d", totalFilesScanned) // Print total scanned file count.
 
-	log.Printf("Folders processed: %d", totalFoldersProcessed) // Total folders
+	log.Printf("Files deleted: %d", totalFilesDeleted) // Print total deleted file count.
 
-	log.Printf("Files scanned: %d", totalFilesScanned) // Total scanned files
+	log.Printf("Execution time: %s", duration) // Print total runtime duration.
 
-	log.Printf("Files deleted: %d", totalFilesDeleted) // Total deleted files
+	log.Printf("===================================") // Print summary section footer.
 
-	log.Printf("Execution time: %s", duration) // Total runtime
+	bufferedWriter.Flush() // Flush buffered logs so all output reaches stdout.
+} // End main function.
 
-	log.Printf("===================================") // Summary footer
+func processStateFolder(folderPath string) { // Process one state folder and delete mismatched files.
 
-	bufferedWriter.Flush() // Flush buffered logs to ensure output written
-}
+	stateFolderName := filepath.Base(folderPath) // Extract the state slug from the folder name.
 
-func processStateFolder(folderPath string) { // Process a single folder
+	requiredStatePattern := "-" + stateFolderName + "-" // Build filename token that valid files must contain.
 
-	stateFolderName := filepath.Base(folderPath) // Extract state name from folder
+	filesInDirectory, readError := os.ReadDir(folderPath) // Read all direct children inside this folder.
 
-	requiredStatePattern := "-" + stateFolderName + "-" // Build expected filename pattern
+	if readError != nil { // Handle inability to read this specific folder.
+		log.Printf("Failed to read directory %s: %v", folderPath, readError) // Log the folder read failure and continue overall run.
+		return                                                               // Stop processing this folder because entries are unavailable.
+	} // End folder read error check.
 
-	filesInDirectory, readError := os.ReadDir(folderPath) // Read folder contents
+	deletedInFolder := 0 // Track how many files were deleted in this folder.
 
-	if readError != nil { // Check for read error
-		log.Printf("Failed to read directory %s: %v", folderPath, readError) // Log error
-		return
-	}
+	for _, fileEntry := range filesInDirectory { // Iterate over every directory entry in the folder.
 
-	deletedInFolder := 0 // Counter for files deleted in this folder
+		if fileEntry.IsDir() { // Skip nested directories to avoid recursive cleanup behavior.
+			continue // Continue with next entry because only files are relevant.
+		} // End nested-directory guard.
 
-	for _, fileEntry := range filesInDirectory { // Iterate through directory entries
+		fileName := fileEntry.Name() // Capture the filename for filtering and logging.
 
-		if fileEntry.IsDir() { // Skip nested directories
-			continue
-		}
+		if !strings.HasSuffix(fileName, ".txt") { // Keep scope limited to exported text files.
+			continue // Skip non-text files.
+		} // End extension filter.
 
-		fileName := fileEntry.Name() // Get file name
+		atomic.AddUint64(&totalFilesScanned, 1) // Increment global scanned-file counter for each .txt file inspected.
 
-		if !strings.HasSuffix(fileName, ".txt") { // Skip non-text files
-			continue
-		}
+		if !strings.Contains(fileName, requiredStatePattern) { // Identify files that do not belong in this state folder.
 
-		atomic.AddUint64(&totalFilesScanned, 1) // Increment global scanned counter
+			fullFilePath := filepath.Join(folderPath, fileName) // Build full path to the misplaced file.
 
-		if !strings.Contains(fileName, requiredStatePattern) { // Check if file belongs to wrong state
+			removeError := os.Remove(fullFilePath) // Attempt to delete the misplaced file.
 
-			fullFilePath := filepath.Join(folderPath, fileName) // Build full file path
+			if removeError != nil { // Handle delete failures without stopping the whole run.
 
-			removeError := os.Remove(fullFilePath) // Attempt to delete file
+				log.Printf("ERROR deleting %s: %v", fullFilePath, removeError) // Log failed deletion with path and error details.
 
-			if removeError != nil { // Handle deletion error
+			} else { // Continue on successful file deletion.
 
-				log.Printf("ERROR deleting %s: %v", fullFilePath, removeError) // Log deletion failure
+				log.Printf("Deleted file: %s", fullFilePath) // Log successful file deletion.
 
-			} else {
+				atomic.AddUint64(&totalFilesDeleted, 1) // Increment global deleted-file counter atomically.
 
-				log.Printf("Deleted file: %s", fullFilePath) // LOG: successful file deletion
+				deletedInFolder++ // Increment per-folder deleted count for summary logging.
+			} // End delete result branch.
+		} // End misplaced-file condition.
+	} // End folder file iteration loop.
 
-				atomic.AddUint64(&totalFilesDeleted, 1) // Increment global delete counter
-
-				deletedInFolder++ // Increment folder delete counter
-			}
-		}
-	}
-
-	log.Printf("Finished folder %s | deleted=%d", folderPath, deletedInFolder) // Log folder summary
-}
+	log.Printf("Finished folder %s | deleted=%d", folderPath, deletedInFolder) // Log per-folder completion summary.
+} // End processStateFolder function.
