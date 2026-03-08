@@ -134,16 +134,7 @@ async function processRegionForExports(
 ) {
     console.log(`\n=== START REGION: ${regionSlug} ===`); // Log the start of region processing
 
-    // Step 1: Define the region's download folder path
-    const regionDownloadFolder = path.join(
-        ASSET_OUTPUT_BASE_DIRECTORY,
-        regionSlug
-    ); // Create the full path for the region's download folder
-
-    // Step 2: Configure the browser to use the region's download folder
-    await configureBrowserDownloadPath(page, regionDownloadFolder); // Tell Puppeteer/CDP where to save files
-
-    // Step 3: Fetch the list of clients for this region from the API
+    // Step 1: Fetch the list of clients for this region from the API
     const regionApiUrl = `${API_BASE_DOMAIN}${REGIONS_API_ENDPOINT}${regionSlug}/`; // Construct the region-specific API URL
     const regionData = await retrieveRegionDetails(
         page,
@@ -156,7 +147,7 @@ async function processRegionForExports(
     const clients = regionData.clients || []; // Extract the array of clients
     console.log(`[${regionSlug}] Found ${clients.length} clients.`); // Log the number of clients found
 
-    // Step 4: Process clients in batches to manage concurrency
+    // Step 2: Process clients in batches to manage concurrency
     const CONCURRENT_CLIENT_LIMIT = 2; // Maximum number of simultaneous exports
     let clientIndex = 0; // Initialize the client index for batching
 
@@ -182,15 +173,21 @@ async function processRegionForExports(
         ); // List the clients in the current batch
 
         // Create and run the Promises for the current batch concurrently
-        const exportPromises = clientsToProcess.map((client) =>
-            processSingleClientExport(
-                page,
-                client,
-                regionSlug,
-                regionDownloadFolder,
-                authenticationCookieValue
-            )
-        ); // Create a Promise for each client export in the batch
+        const exportPromises = clientsToProcess.map(async (client) => {
+            // Use one page per client to isolate navigation and download folder settings.
+            const clientPage = await page.browser().newPage();
+            try {
+                await initializeClientPageSession(clientPage); // Establish site origin/session before API fetches.
+                await processSingleClientExport(
+                    clientPage,
+                    client,
+                    regionSlug,
+                    authenticationCookieValue
+                );
+            } finally {
+                await clientPage.close();
+            }
+        }); // Create a Promise for each client export in the batch
 
         // Wait for ALL jobs in the current batch to finish
         await Promise.all(exportPromises); // Execute all promises concurrently and wait for completion
@@ -207,25 +204,33 @@ async function processRegionForExports(
  * @param {puppeteer.Page} page - The Puppeteer page instance.
  * @param {Object} clientData - The client object containing slug.
  * @param {string} regionSlug - The slug identifier for the region.
- * @param {string} regionDownloadFolder - The local folder path for downloads.
  * @param {string} authenticationCookieValue - The authentication fingerprint cookie value.
  */
 async function processSingleClientExport(
     page,
     clientData,
     regionSlug,
-    regionDownloadFolder,
     authenticationCookieValue
 ) {
     const clientSlug = clientData.slug; // Extract the client slug
     if (!clientSlug) return; // Skip if no slug is present
+    const clientStateSlug = resolveClientStateSlug(
+        clientData,
+        regionSlug,
+        clientSlug
+    ); // Resolve the state folder for this client.
+    const clientDownloadFolder = path.join(
+        ASSET_OUTPUT_BASE_DIRECTORY,
+        clientStateSlug
+    ); // Build per-state download folder.
+    await configureBrowserDownloadPath(page, clientDownloadFolder); // Ensure browser writes to this client's state folder.
 
     // Step 1: Determine expected filename and check for existing file
     // Format: [client_slug]-[region_slug]-1.txt (e.g., sandpoint-ak-1.txt)
     const exportBaseName = `${clientSlug}-${regionSlug}${VERSION_FILE_SUFFIX}`; // Base name without extension
     const finalExportFileName = `${exportBaseName}${EXPORT_FILE_EXTENSION}`; // Full final filename
     const finalExportFilePath = path.join(
-        regionDownloadFolder,
+        clientDownloadFolder,
         finalExportFileName
     ); // Full local path
 
@@ -338,8 +343,7 @@ async function processSingleClientExport(
             await downloadExportFileAndRename(
                 page,
                 exportJobUuid,
-                finalExportFilePath,
-                regionSlug
+                finalExportFilePath
             ); // Trigger download and handle file renaming
             console.log(
                 `[${clientSlug}] 🎉 Download completed and verified: ${finalExportFileName}`
@@ -838,10 +842,9 @@ async function retrieveVersionAndTableOfContents(
  * @param {puppeteer.Page} page - The Puppeteer page instance.
  * @param {string} exportJobUuid - The UUID of the export job.
  * @param {string} saveFilePath - The final, desired local path for the downloaded file.
- * @param {string} regionSlug - The slug of the region (used for logging and folder management).
  * @returns {Promise<boolean>} True if download and rename succeeded, false otherwise.
  */
-async function downloadExportFileAndRename(page, exportJobUuid, saveFilePath, regionSlug) {
+async function downloadExportFileAndRename(page, exportJobUuid, saveFilePath) {
     const regionDownloadFolder = path.dirname(saveFilePath); // Get the directory path
     const finalExportFileName = path.basename(saveFilePath); // Get the desired final filename
     let tempFilePath; // Variable to hold the path of the temporary downloaded file
@@ -889,16 +892,9 @@ async function downloadExportFileAndRename(page, exportJobUuid, saveFilePath, re
 
         tempFilePath = path.join(regionDownloadFolder, actualDownloadedFileName); // Full path to downloaded temp file
 
-        // Create state folder (ny, ca, tx, etc)
-        const stateFolder = path.join(ASSET_OUTPUT_BASE_DIRECTORY, regionSlug);
-        ensureDirectoryExists(stateFolder);
-
-        // Final file location inside the state folder
-        const finalFilePath = path.join(stateFolder, finalExportFileName);
-
         // Step 5: Rename + move file
         try {
-            fs.renameSync(tempFilePath, finalFilePath);
+            fs.renameSync(tempFilePath, saveFilePath);
         } catch (e) {
             throw new Error(
                 `Failed to move file from ${path.basename(
@@ -1068,6 +1064,53 @@ function collectAllTOCItemsForExport(tocArray, scope = []) {
         }
     }
     return scope; // Return the accumulated scope list
+}
+
+/**
+ * Navigates a fresh client page to the API domain so browser-context fetch requests
+ * are not sent from an about:blank origin.
+ * @param {puppeteer.Page} page - The Puppeteer page instance.
+ * @returns {Promise<void>}
+ */
+async function initializeClientPageSession(page) {
+    await page.goto(API_BASE_DOMAIN, {
+        waitUntil: "domcontentloaded",
+        timeout: BROWSER_NAVIGATION_TIMEOUT_MS,
+    });
+}
+
+/**
+ * Resolves the state folder slug for a client.
+ * Falls back to region slug when no explicit state metadata exists.
+ * @param {Object} clientData - Client metadata from the region API.
+ * @param {string} regionSlug - Region fallback slug.
+ * @param {string} clientSlug - Client slug fallback source.
+ * @returns {string} Lowercase state slug for local folder routing.
+ */
+function resolveClientStateSlug(clientData, regionSlug, clientSlug) {
+    const slugMatch =
+        typeof clientSlug === "string"
+            ? clientSlug.match(/-([a-z]{2})$/i)
+            : null;
+    const slugDerivedState = slugMatch ? slugMatch[1] : null;
+
+    const possibleValues = [
+        clientData?.state_slug,
+        clientData?.state,
+        clientData?.state_abbr,
+        clientData?.region_slug,
+        clientData?.region?.slug,
+        slugDerivedState,
+        regionSlug,
+    ];
+
+    for (const value of possibleValues) {
+        if (typeof value === "string" && value.trim()) {
+            return value.trim().toLowerCase();
+        }
+    }
+
+    return "unknown-state";
 }
 
 /**
