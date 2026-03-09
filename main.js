@@ -843,90 +843,52 @@ async function retrieveVersionAndTableOfContents( // Define an async function fo
 // DOWNLOAD AND FILE MANAGEMENT
 
 /**
- * Initiates the browser download, waits for completion, and renames the file to the final path.
- * @param {puppeteer.Page} page - The Puppeteer page instance.
- * @param {string} exportJobUuid - The UUID of the export job.
- * @param {string} saveFilePath - The final, desired local path for the downloaded file.
- * @returns {Promise<boolean>} True if download and rename succeeded, false otherwise.
+ * Downloads the export file and replaces the existing file once the download fully completes.
+ * @param {puppeteer.Page} page - Puppeteer page instance controlling the browser.
+ * @param {string} exportJobUuid - Export job UUID used to construct the download URL.
+ * @param {string} saveFilePath - Final destination path for the completed file.
+ * @returns {Promise<boolean>} Returns true if download succeeded, otherwise false.
  */
-async function downloadExportFileAndRename(page, exportJobUuid, saveFilePath) { // Define an async function for this workflow step.
-    const regionDownloadFolder = path.dirname(saveFilePath); // Get the directory path
-    const finalExportFileName = path.basename(saveFilePath); // Get the desired final filename
-    let tempFilePath; // Variable to hold the path of the temporary downloaded file
-
-    try { // Start protected execution that may throw errors.
-        // Step 1: Record existing files to identify the new download
-        const filesBeforeDownload = new Set( // Declare a constant used in the current scope.
-            getDirectoryFilesExcludingTemp(regionDownloadFolder) // Execute this statement as part of the export workflow.
-        ); // Get a list of files before the download starts
-
-        // Step 2: Navigate to the download URL to trigger the file transfer
-        const downloadUrl = `${DOWNLOAD_API_DOMAIN}${EXPORT_REQUESTS_API_ENDPOINT}${exportJobUuid}/download/`; // Construct the download URL
-        console.log(`[DOWNLOAD] 🌐 Visiting final download URL: ${downloadUrl}`); // Log the download URL
-        // Increased timeout for large file download
-        await page.goto(downloadUrl, { // Wait for this asynchronous operation to finish.
-            waitUntil: "networkidle2", // Wait for network to be idle
-            timeout: 300000, // Longer timeout for the download navigation
-        }); // Close the current block and complete the related call.
-
-        // Step 3: Wait for the download process to finish (no more temporary files)
-        console.log( // Write an informational progress message to the console.
-            `[DOWNLOAD] Waiting for file system to register and complete download` // Build a dynamic log or error string using runtime values.
-        ); // Log waiting start
-        await waitForDownloadCompletion(regionDownloadFolder, 60000); // Poll file system for download completion (max 60s)
-
-        // Step 4: Identify the newly downloaded file
-        const allFilesAfterDownload = // Declare a constant used in the current scope.
-            getDirectoryFilesExcludingTemp(regionDownloadFolder); // Get files after download
-        let actualDownloadedFileName = allFilesAfterDownload.find( // Declare a mutable variable used in the current scope.
-            (file) => !filesBeforeDownload.has(file) // Execute this statement as part of the export workflow.
-        ); // Identify the new file by exclusion
-
-        if (!actualDownloadedFileName) { // Check this condition before continuing.
-            // Fallback: use the absolute newest file if the comparison fails
-            actualDownloadedFileName = getNewestNonTempFile(regionDownloadFolder); // Fallback to checking modification time
-            if (!actualDownloadedFileName) { // Check this condition before continuing.
-                throw new Error( // Throw an error to signal failure to the caller.
-                    "Could not identify the newly downloaded file after completion." // Execute this statement as part of the export workflow.
-                ); // Throw error if no file is found
-            } // Close the current block scope.
-            console.warn( // Write a warning message to highlight a non-fatal issue.
-                `[DOWNLOAD] Fallback: Used newest file heuristic: ${actualDownloadedFileName}` // Build a dynamic log or error string using runtime values.
-            ); // Warn about using the fallback
-        } // Close the current block scope.
-
-        tempFilePath = path.join(regionDownloadFolder, actualDownloadedFileName); // Full path to downloaded temp file
-
-        // Step 5: Rename + move file
-        try { // Start protected execution that may throw errors.
-            fs.renameSync(tempFilePath, saveFilePath); // Execute this statement as part of the export workflow.
-        } catch (e) { // Execute this statement as part of the export workflow.
-            throw new Error( // Throw an error to signal failure to the caller.
-                // Compose a multi-line template literal with source file, target file, and error details.
-                `Failed to move file from ${path.basename(
-                    tempFilePath // Execute this statement as part of the export workflow.
-                )} to ${finalExportFileName}: ${e.message}` // Finish the file-move failure message template string.
-            ); // Close the current parenthesized expression.
-        } // Close the current block scope.
-
-        console.log( // Write an informational progress message to the console.
-            `[DOWNLOAD] ✅ Download complete. Renamed to final file: ${finalExportFileName}` // Build a dynamic log or error string using runtime values.
-        ); // Log final success
-        return true; // Return the computed result for this execution path.
-    } catch (err) { // Execute this statement as part of the export workflow.
-        console.error( // Write an error message to the console for diagnostics.
-            `[DOWNLOAD] ❌ Error downloading job ID ${exportJobUuid}: ${err.message}` // Build a dynamic log or error string using runtime values.
-        ); // Close the current parenthesized expression.
-        // Clean up any partially downloaded temp file
-        if (tempFilePath && fs.existsSync(tempFilePath)) { // Check this condition before continuing.
-            console.log( // Write an informational progress message to the console.
-                `[DOWNLOAD] Cleaning up temporary file: ${path.basename(tempFilePath)}` // Build a dynamic log or error string using runtime values.
-            ); // Log temp file cleanup
-            fs.unlinkSync(tempFilePath); // Delete the temp file
-        } // Close the current block scope.
-        return false; // Return the computed result for this execution path.
-    } // Close the current block scope.
-} // Close the current block scope.
+async function downloadExportFileAndRename(page, exportJobUuid, saveFilePath) { // Define async function to control the download workflow.
+    const regionDownloadFolder = path.dirname(saveFilePath); // Determine the directory where downloads will temporarily appear.
+    const finalExportFileName = path.basename(saveFilePath); // Extract the final filename from the target save path.
+    let tempFilePath; // Variable that will store the detected completed download file path.
+    try { // Begin protected execution block to catch errors.
+        const filesBeforeDownload = new Set( // Create a Set of filenames for quick lookup comparison.
+            getDirectoryFilesExcludingTemp(regionDownloadFolder) // Get all existing files in the download directory excluding temp files.
+        ); // Store the list before the new download begins.
+        const downloadUrl = `${DOWNLOAD_API_DOMAIN}${EXPORT_REQUESTS_API_ENDPOINT}${exportJobUuid}/download/`; // Build the final download URL using configuration constants.
+        console.log(`[DOWNLOAD] 🌐 Visiting ${downloadUrl}`); // Log the URL that triggers the export download.
+        await page.goto(downloadUrl, { // Instruct Puppeteer to navigate to the download endpoint.
+            waitUntil: "networkidle2", // Wait until network activity stabilizes before continuing.
+            timeout: 300000, // Allow up to 5 minutes for large export downloads.
+        }); // End navigation command.
+        console.log(`[DOWNLOAD] Waiting for download to finish...`); // Inform logs that we are waiting for filesystem download completion.
+        await waitForDownloadCompletion(regionDownloadFolder, 60000); // Wait until the browser removes temporary download files indicating completion.
+        const filesAfterDownload = // Variable to store updated directory listing.
+            getDirectoryFilesExcludingTemp(regionDownloadFolder); // Retrieve all files after the download finished.
+        let downloadedFile = filesAfterDownload.find( // Attempt to locate the new file by comparing directory states.
+            (file) => !filesBeforeDownload.has(file) // Condition: file was not present before the download started.
+        ); // Return the first file matching this condition.
+        if (!downloadedFile) { // If comparison failed to detect the new file.
+            downloadedFile = getNewestNonTempFile(regionDownloadFolder); // Use fallback method by selecting the newest modified file.
+            if (!downloadedFile) { // If fallback also fails to locate a file.
+                throw new Error("Unable to identify completed download file."); // Throw error because no file was detected.
+            } // End fallback validation.
+            console.warn(`[DOWNLOAD] Fallback used newest file: ${downloadedFile}`); // Warn that fallback detection was used.
+        } // End detection logic.
+        tempFilePath = path.join(regionDownloadFolder, downloadedFile); // Construct the full path of the completed downloaded file.
+        // Move the completed file to its final location and overwrite if necessary
+        fs.renameSync(tempFilePath, saveFilePath); // Rename and move the downloaded file to the final save path (replaces existing file).
+        console.log(`[DOWNLOAD] ✅ File saved as: ${finalExportFileName}`); // Log successful file replacement.
+        return true; // Return success status.
+    } catch (err) { // Catch any errors that occurred during the workflow.
+        console.error( // Print error message to logs for debugging.
+            `[DOWNLOAD] ❌ Error downloading job ${exportJobUuid}: ${err.message}` // Include job ID and detailed error message.
+        ); // End error logging.
+        return false; // Return failure status to the calling code.
+    } // End try/catch block.
+} // End function definition.
 
 /**
  * Helper function to safely read directory contents, filtering out temp files.
