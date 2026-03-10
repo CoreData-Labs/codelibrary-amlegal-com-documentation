@@ -1,8 +1,8 @@
 TOWN OF MONROVIA, INDIANA
 CODE OF ORDINANCES
-2022 S-1 Supplement contains:
-Local legislation current through Ord. 2022-03, passed 7-26-2022
-State legislation current through 2022 ALS Pamphlet #3
+2026 S-2 Supplement contains:
+Local legislation current through Ord. 2025-07, passed 8-26-2025; and
+State legislation current through 2025 Indiana Legislative Servive, Pamphlet #3
  
 Published by:
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -438,7 +438,8 @@ oath.
    (B)   Executive sessions may be held only in the following instances:
       (1)   Where authorized by federal or state statute;
       (2)   For discussion of strategy with respect to any of the following:
-         (a)   Collective bargaining;
+         (a)   Collective bargaining, which does not include a discussion or
+meeting under I.C. 20-29-6-7;
          (b)   Initiation of litigation or litigation that is either pending or
 has been threatened specifically in writing. As used in this division,
 “litigation” includes any judicial action or administrative law proceeding
@@ -456,6 +457,9 @@ by the parties. This clause does not affect a political subdivision’s duty to
 comply with any other statute that governs the conduct of the real property
 transaction, including I.C. 36-1-10 or I.C. 36-1-11.
          (e)   School consolidation.
+         However, all such strategy discussions must be necessary for
+competitive or bargaining reasons and may not include competitive or bargaining
+adversaries.
       (3)   For the discussion of the assessment, design and implementation of
 school safety and security measures, plans, and systems.
       (4)   Interviews and negotiations with industrial or commercial prospects
@@ -487,9 +491,10 @@ an employee, a student, or an independent contractor who is a physician.
 federal statute;
       (8)   To discuss before a placement decision an individual student's
 abilities, past performance, behavior, and needs;
-      (9)   To discuss a job performance evaluation of individual employees.
-This subdivision does not apply to a discussion of the salary, compensation, or
-benefits of employees during a budget process;
+      (9)   To discuss a job performance evaluation, employee-specific
+compensation, or employment matters of individual employees. This subdivision
+does not apply to a general discussion of the salary, compensation, or benefits
+of employees during a budget process;
       (10)   When considering the appointment of a public official, to do the
 following:
          (a)   Develop a list of prospective appointees;
@@ -508,6 +513,41 @@ at a meeting that is open to the public.
 performance of the role of its members as public officials; and
       (12)   To prepare or score examinations used in issuing licenses,
 certificates, permits, or registrations under I.C. 25.
+      (13)   To discuss information and intelligence intended to prevent,
+mitigate, or respond to the threat of terrorism.
+      (14)   To train members of a Board of Aviation Commissioners appointed
+under I.C. 8-22-2 or members of an airport authority board appointed under I.C.
+8-22-3 with an outside consultant about the performance of the role of the
+members as public officials. A board may hold not more than one executive
+session per calendar year under this subdivision.
+      (15)   For discussion by the governing body of a state educational
+institution of:
+         (a)   The assessment of; or
+         (b)   Negotiation with another entity concerning;
+the establishment of a collaborative relationship or venture to advance the
+research, engagement, or education mission of the state educational
+institution. However, this subdivision does not apply to any discussions
+regarding research that is prohibited under I.C. 16-34.5-1-2 or under any other
+law.
+      (16)   To discuss either of the following:
+         (a)   Employee health care options with respect to special exceptions
+for coverage.
+         (b)   Employee handbook changes.
+      (17)   To review negotiations on the performance of publicly bid
+contracts when public knowledge regarding the review would cause a likelihood
+of increased costs.
+      (18)   To discuss soliciting proposals for the purpose of awarding
+contracts for goods or services, when:
+         (a)   Proprietary data, trade secrets, or other information is
+contained in the bidder's proposal relating to the bidder's unique methods of:
+            1.   Conducting business; or
+            2.   Determining prices or premium rates to be charged for services
+under the terms of the proposal; and
+         (b)   Public knowledge regarding the discussion would reasonably be
+expected to result in private loss to the providers of the information
+described in division (B)(18)(a).
+      (19)   To have communications with an attorney that are subject to the
+attorney-client privilege.
    (C)   A final action must be taken at a meeting open to the public.
    (D)   (1)   Public notice of executive sessions must state the subject
 matter by specific reference to the enumerated instance or instances for which
@@ -917,6 +957,11 @@ recording its proceedings;
 instruments that are required by statute to be acknowledged, without charging a
 fee; and
          (k)   Perform all other duties prescribed by statute.
+   (D)   Except as provided in I.C. 5-11, the Clerk-Treasurer is not liable, in
+an individual capacity, for any act or omission occurring in connection with
+the performance of the requirements set forth in division (C)(2), unless the
+act or omission constitutes gross negligence or an intentional disregard of the
+requirements.
 (I.C. 36-5-6-6)
 § 32.04 DEPUTIES AND EMPLOYEES OF THE CLERK-TREASURER.
    (A)   The Clerk-Treasurer shall appoint the number of deputies and employees
@@ -928,6 +973,16 @@ responsible for the billing and collection of that utility's rates and charges,
 the Clerk-Treasurer shall appoint those employees who are also responsible for
 that billing and collection. These employees serve at the Clerk-Treasurer's
 pleasure.
+(I.C. 36-5-6-7)
+   (C)   If the Clerk-Treasurer is unable to perform the fiscal requirements of
+the Clerk-Treasurer's position, the town shall hire or contract with a
+qualified certified public accountant to:
+      (1)   Provide guidance to the Clerk-Treasurer regarding the performance
+of the Clerk-Treasurer's responsibilities; or
+      (2)   Perform the Clerk-Treasurer's fiscal responsibilities.
+      The Clerk-Treasurer is considered to be unable to perform the fiscal
+requirements of the Clerk-Treasurer's position if the town is declared
+unauditable under I.C. 5-11-1-9(b).
 (I.C. 36-5-6-7)
    (C)   (1)   The Clerk-Treasurer may hire or contract with competent
 attorneys or legal research assistants on terms the Clerk-Treasurer considers
@@ -2089,55 +2144,43 @@ Rates and Charges
 50.99   Penalty
 AVAILABILITY FEE; EQUIVALENT DWELLING UNITS
 § 50.01 FEE ESTABLISHED; EDU TABLE.
-   (A)   There is hereby established an availability fee of $3,000 for all new
-connections to the system. The availability fee will be based according to the
-following Equivalent Dwelling Unit (EDU) table, with the Unit Equivalent for
-each user being multiplied by the then-existing availability fee:
+   (A)   There is hereby established an availability (capacity) fee of $4,650
+for all new connections to the system. The availability fee will be based
+according to the following Equivalent Dwelling Unit (EDU) table, with the Unit
+Equivalent for each user being multiplied by the then-existing availability
+fee:
 EQUIVALENT DWELLING UNIT TABLE
 Type of User Unit Equivalent
 Type of User                               Unit Equivalent
-Single Family Residences and Condominiums  1.00
-Multi-Family Residences                     
-1 Bedroom                                  .64
-2 Bedroom                                  .96
-3+ Bedrooms                                1.00
-Assembly Halls, Lodges, Veteran            .01/seat
-Organizations
-Barber Shops                               .60/chair
-Bars and Cocktail Lounges                  .10/seat
-Bowling Alleys                             .32/lane
-Churches                                   .01/seat
-Day Care Centers                           .03/child and staff
-Doctor/Dentist Office                      2.00/1000 sq. ft. of building area
-Drive-In/Drive-Thru restaurant             .40/car space
-Hospital                                   .50/bed
-Institutions other than hospitals          .40/bed
 Kennel                                     .10/cage
 Laundromats                                1.00/washing machine
-Mobile Home parks                          .75/space
+Mobile Home Parks                          .75/space
 Motels/Hotels                              .32/room
 Nursing Home                               .30/bed
-Offices/Governmental Agencies              .50/1000 sq. ft. of building area
-Restaurants                                .10/seat
-Retail Space                               1.00/1000 sq. ft. of building area
-w/ fountain space, add                     .10/seat
-Rooming Houses                             .30/renter
+Offices/Governmental Agencies              .50/1,000 sq. ft. of building area
+Restaurants                                .05/seat
+Retail Space                               1.00/1,000 sq. ft. of building area
+Rooming Houses                             .40/renter
 Schools                                    .05/pupil and staff
 w/ cafeterias and/or showers               .09/pupil and staff
 Service Station                            .70/island
 Theaters                                   .01/seat
-Warehouses                                 .04/1000 sq. ft. of building area
-Manufacturing facilities                   depends on type of industry
-(usage shall be estimated and converted to  
+Warehouses                                 .04/1,000 sq. ft. of building area
+Manufacturing Facilities
+(usage shall be estimated and converted to depends on type of industry
 EDUs based on 310 gpd)
 Other Facilities                           Negotiated
+Minimum charge per user - regardless of    $56.73/$55.73 if on grinder
+classification
  
    (B)   The $3,000 availability fee is effective on May 9, 2005, except that
 those entities that have already received approval from the Planning Commission
 and/or Town Board to begin construction, or who have negotiated a rate under
 Ord. 4-2003 prior to May 9, 2005, the effective date of the amending ordinance,
-shall pay the prior referenced availability fee.
-(Ord. 4-2003, passed 7-14-2003; Am. Ord. passed 5-9-2005)
+shall pay the prior referenced availability fee. The availability fee was
+amended to $4,560 on December 19, 2023.
+(Ord. 4-2003, passed 7-14-2003; Am. Ord. passed 5-9-2005; Am. Ord. 4-2003, Amd.
+No. 1, passed 12-19-2023; Am. Ord. 2025-07, passed 8-26-2025)
 § 50.02 PAYMENT OF FEE.
    The fee is to be paid as follows: One-half of the fee must be paid prior to
 the issuance of any building permit, and ½ of the fee is to be paid prior to
@@ -2819,14 +2862,14 @@ account being considered delinquent.
    (B)   Within a reasonable time after a determination that an account is
 delinquent, a billing statement shall be sent notifying the user that their
 account is past due.
-   (C)   If an account remains unpaid after 30 days have passed from the end of
-the month for which the charges were incurred, additional action will be taken
-as follows:
+   (C)    If an account remains delinquent after 30 days have passed from the
+end of the month for which the charges were incurred, additional action will be
+taken as follows:
       (1)   A late payment fee of 10% will be imposed for each such delinquent
 payment.
-   (D)   If an account remains unpaid after 60 days have passed from the end of
-the month for which the charges were incurred, additional action will be taken
-as follows:
+   (D)    If an account remains delinquent after 60 days have passed from the
+end of the month for which the charges were incurred, additional action will be
+taken as follows:
       (1)   A late payment fee of 10% will be imposed for each such delinquent
 payment.
       (2)   Notice shall be sent to the obligated party regarding the
@@ -2841,9 +2884,9 @@ amount while including monthly billings occurring during the period of the
 payment plan. The payment plan will be documented in the town sewer utility
 computer program. If the payment plan requirements are not met, the actions in
 (E) below will be followed.
-   (E)   If an account remains unpaid after 90 days have passed from the end of
-the month for which the charges were incurred, additional action will be taken
-as follows:
+   (E)   If an account remains delinquent after 90 days have passed from the
+end of the month for which the charges were incurred, additional action will be
+taken as follows:
       (1)   A late payment fee of 10% will be imposed for each such delinquent
 payment.
       (2)   A lien will be recorded in the Office of the Recorder of Morgan
@@ -2857,7 +2900,8 @@ authorized by the Council.
 Council may instruct its attorney to proceed with foreclosure on the lien, in
 their discretion and in accordance with statute.
 (Ord. 11-1999, passed 9-27-1999; Am. Ord. passed 8-25-2005; Am. Ord. passed 9-
-12-2005; Am. Ord. 2021-01, passed 5-24-2021)
+12-2005; Am. Ord. 2021-01, passed 5-24-2021; Am. Ord. 2021-01, Amd. No. 1,
+passed 9-27-2022)
 § 50.45 REPORT OF WASTEWATER CHARACTERISTICS.
    All users contributing more than 10,000 gallons per month, and whose waste
 strength is greater than 250 mg BOD/l or 250 mg SS/l or 30 mg/l ammonia, shall
@@ -3046,9 +3090,20 @@ personal assistive mobility device.
          (b)   A vehicle that is propelled by electric power obtained from
 overhead trolley wires, but not operated upon rails.
          (c)   The term does not include an electric foot scooter.
-      (3)   MOTOR VEHICLE, for purposes of I.C. 9-32, includes a semitrailer,
-trailer, an off-road vehicle, a snowmobile, a mini-truck, a manufactured home,
-or a recreational vehicle. The term does not include an electric foot scooter.
+      (3)   MOTOR VEHICLE, for purposes of I.C. 9-32-1 through I..C. 9-32-11,
+I.C. 9-32-13-25, I.C. 9-32-13-26, I.C. 9-32-14, and I.C. 9-32-16 through I.C.
+9-32-18, includes a semitrailer, trailer, an off-road vehicle, a snowmobile, a
+mini-truck, a manufactured home, or a recreational vehicle. The term does not
+include an electric foot scooter.
+      (4)   MOTOR VEHICLE, for purposes of I.C. 9-32-13 (except I.C. 9-32-13-25
+and I.C. 9-32-13-26) and I.C. 9-32-15, includes a semitrailer, an off-road
+vehicle, a snowmobile, a mini-truck, a manufactured home, or a recreational
+vehicle. The term does not include:
+         (a)   An electric foot scooter; or
+         (b)   A trailer that is:
+            1.   Without motive power;
+            2.   Designed for carrying property; and
+            3.   Designed for being drawn by a motor vehicle.
 (I.C. 9-13-2-105)
    MOTORCYCLE. 
       (1)   A motor vehicle with motive power that:
@@ -3602,8 +3657,8 @@ Vehicles.
 (I.C. 9-13-2-16)
    FISCAL BODY. The Town Council.
 (I.C. 9-13-2-63)
-   OFFICER.  The Town Marshal, his or her designee, or a member of the Town
-Police Department. (I.C. 9-22-1-2)
+   OFFICER.  A regular member of the Town Police Department, the Town Marshal,
+or the Deputy Town Marshal. (I.C. 9-22-1-2(2), (3))
    OWNER.   
       (1)   Except as otherwise provided in division (2) below, means a person,
 other than a lienholder, that:
@@ -3667,16 +3722,13 @@ appear and pay all costs; or
 under I.C. 9-22-1-19;
 the vehicle is considered abandoned and must be disposed of under this chapter.
 (I.C. 9-22-1-7)
-   (C)   (1)   Subject to division (2), if the properly identified person who
-owns or holds a lien on a vehicle appears at the site of storage before
-disposal of the vehicle or parts and pays all costs relating to a tow, the
-storage of the vehicle, and all allowable fees, as applicable, the vehicle or
-parts shall be released.
+   (C)   (1)   If the properly identified person who owns or holds a lien on a
+vehicle appears at the site of storage before disposal of the vehicle or parts
+and pays all costs relating to a tow, the storage of the vehicle, and all
+allowable fees, as applicable, the vehicle or parts shall be released.
       (2)   A towing service or storage yard may charge an inspection fee to an
 owner, a lienholder, or an insurance company representative to inspect a
-vehicle or retrieve items from the vehicle. A fee under this division must be
-refunded if the costs relating to a tow, the storage of the vehicle, and all
-allowable fees, as applicable, are paid under division (1).
+vehicle or retrieve items from the vehicle.
       (3)   A towing service or storage yard must accept payment made by any of
 the following means from a person seeking to release a vehicle under this
 division:
@@ -3713,6 +3765,41 @@ released;
          (c)   A description of the vehicle or parts;
          (d)   Costs paid; and
          (e)   The date of release.
+      (7)   A towing service or storage yard shall release property to a
+properly identified person who owns or holds a lien on the vehicle not later
+than 24 hours after the towing service's or storage yard's receipt of:
+         (a)   Payment of 75% of the amount of the invoice;
+         (b)   Proof of a bond obtained by the owner for the remaining 25% of
+the amount of the invoice, payable in the event the owner does not comply with
+a court order under division (10); and
+         (c)   A copy of a complaint filed with the Attorney General alleging a
+violation of I.C. 24-14 under I.C. 24-14-10-1.
+      (8)   The owner shall file a civil complaint in the appropriate
+jurisdiction not later than 30 days after providing the items required to
+release the vehicle under division (7) if the disputed invoice amount has not
+been resolved. A towing service or storage yard may bring a civil complaint in
+an appropriate jurisdiction at any time within the same 30-day period asking
+the court to resolve the disputed invoice amount.
+      (9)   A civil complaint filed under division (8) must include the amounts
+in the invoice that are disputed and the reasons those amounts are disputed. A
+copy of the invoice and any evidence of reasonableness or unreasonableness must
+be filed with the complaint.
+      (10)   After a civil complaint is filed under division (8), the court
+shall make a determination as to whether the amount charged by the towing
+service or storage yard is reasonable. If the court determines that the amount
+is reasonable, the court shall order the owner to pay the amount of the
+invoice, minus the amount paid under division (7)(a). If the court determines
+that the amount charged was unreasonable, the court shall determine a
+reasonable amount and order the owner to pay that amount minus the amount paid
+under division (7)(a). If the reasonable amount determined by the court is less
+than the amount paid under division (7)(a), the court shall order the towing
+service or storage yard to pay the owner the difference in those amounts. The
+court may also require either party to pay or refund any additional amount and
+may impose any monetary penalties that the court determines to be appropriate.
+      (11)   Nothing in this section creates, implies, or otherwise grants
+insurance coverage for the amount billed by a towing service or storage
+facility that is not within the owner's automobile insurance policy or other
+policy of insurance.
 (I.C. 9-22-1-8)
 § 90.06 DISCOVERY OF VEHICLE ABANDONED ON PRIVATE PROPERTY.
    (A)   (1)   A person who finds a vehicle believed to be abandoned on private
@@ -3759,23 +3846,34 @@ following information:
       (1)   The date, time, officer's name, Town Police Department, and address
 and telephone number to contact for information;
       (2)   That the vehicle or parts are considered abandoned;
-      (3)   That the vehicle or parts will be removed after 72 hours;
+      (3)   That the vehicle or parts will be removed after:
+         (a)   Twenty-four hours, if the vehicle is located on or within the
+right-of-way of an interstate highway or any highway that is designated as part
+of the state highway system under I.C. 8-23-4; or
+         (b)   Except as provided in division (B), 72 hours, for any other
+vehicle.
       (4)   That the person who owns the vehicle will be held responsible for
 all costs incidental to the removal, storage, and disposal of the vehicle; and
       (5)   That the person who owns the vehicle may avoid costs by removal of
 the vehicle or parts within:
-         (a)   Thirty-six hours, if the vehicle is located on or within the
+         (a)   Twenty-four hours, if the vehicle is located on or within the
 right-of-way of an interstate highway or any highway that is designated as part
 of the state highway system under I.C. 8-23-4; or
          (b)   Seventy-two hours for any other vehicle.
+   (B)   Division (A) applies only to an abandoned vehicle as defined in I.C.
+9-13-2-1(2). The Town Council may adopt an ordinance that establishes a
+different waiting period for the removal of an abandoned vehicle, which must be
+at least 72 hours but not more 14 days, for the purpose of allowing a person to
+park their vehicle that is registered to their residence on the street outside
+of that residence.
 (I.C. 9-22-1-11)
-   (B)   If a vehicle or a part tagged under division (A) of this section is
+   (C)   If a vehicle or a part tagged under division (A) of this section is
 not removed within the applicable period, the officer shall prepare a written
 abandoned vehicle report of the vehicle or parts, including information on the
 condition and missing parts. Photographs may be taken to describe the condition
 of the vehicle or parts.
 (I.C. 9-22-1-12)
-   (C)   (1)   If the vehicle is a junk vehicle and the market value of an
+   (D)   (1)   If the vehicle is a junk vehicle and the market value of an
 abandoned vehicle or parts is less than:
          (a)   One thousand dollars; or
          (b)   In a municipality that has adopted an ordinance under division
@@ -3797,18 +3895,19 @@ has been demolished.
 officer may dispose of a vehicle or parts under division (A). However, the
 market value established by the ordinance may not be more than $750.
 (I.C. 9-22-1-13)
-   (D)   (1)   If in the opinion of the officer the market value of the
+   (E)   (1)   If in the opinion of the officer the market value of the
 abandoned vehicle or parts is at least:
          (a)   one thousand dollars; or
          (b)   In a municipality that has adopted an ordinance under division
-(C)(2) above, the amount established by the ordinance; the officer, before
+(C)(2) above, the amount established by the ordinance;    the officer, before
 placing a notice tag on the vehicle or parts, shall make a reasonable effort to
 ascertain the person who owns the vehicle or parts or who may be in control of
 the vehicle or parts.
-      (2)   After 72 hours, the officer shall require the vehicle or parts to
-be towed to a storage yard or towing service.
+      (2)   Except as provided in division (B), after 72 hours, the officer
+shall require the vehicle or parts to be towed to a storage yard or towing
+service.
 (I.C. 9-22-1-14)
-   (E)   Upon complaint of a person who owns or controls private property that
+   (F)   Upon complaint of a person who owns or controls private property that
 a vehicle has been left on the property for at least 48 hours without the
 consent of the person who owns or controls the property, an officer shall
 follow the procedures set forth in divisions (A) through (D) of this section.
@@ -3863,63 +3962,228 @@ CHAPTER 91: ANIMALS
 Section
 General Provisions
    
-91.01   Definitions
+91.01   Permitting chapter violations
    
-91.02   Limitation on keeping certain animals; sanitation
+91.02   Animal Control Officer
+   
+91.03   Running at large
+Domestic Animals
+   
+91.35   Definitions
+   
+91.36   Destruction of abandoned and suffering animals
+   
+91.37   Harboring or maintaining certain domestic animals prohibited
+   
+91.38   Impoundment of domestic animals
 Dogs
    
-91.15   Prohibited conduct; owner responsible
+91.60   Prohibited conduct; owner responsible
    
-91.16   Running at large prohibited
+91.61   Impoundment of dogs
    
-91.17   Dogs in heat; confinement
+91.62   Rabies immunization required
+   
+91.63   Quarantining and vaccination of biting dog
+   
+91.64   Dog kennels
+   
+91.65   Noise disturbance
+   
+91.66   Dog waste
+Statutory reference:
+   General authority relative to animals, see I.C. 36-8-2-6
+   Municipal home rule, see I.C. 36-1-3-1 et seq.
 GENERAL PROVISIONS
-§ 91.01 DEFINITIONS.
-   For the purpose of this chapter, the following definitions shall apply
-unless the context clearly indicates or requires a different meaning.
-   AT LARGE. Off the premises of the owner, and not under the control of the
-owner or his or her agent either by leash, cord, chain, or otherwise.
-   DOG. Any member of the canine family, 6 months of age or over, male or
-female.
-   OWNER. Every person having a right of property to an animal and every person
-who keeps or harbors an animal, has it in his or her care, or permits it to
-remain on or about the premises owned or occupied by him or her.
-§ 91.02 LIMITATION ON KEEPING CERTAIN ANIMALS; SANITATION.
-   (A)   It shall be unlawful to have or keep any goats, sheep, swine or pigs,
-horses, mules, ponies, cattle, rabbits, chickens, ducks, geese, turkeys,
-guineas, or other farm animals or fowl within 200 feet of any residence, other
-than the residence of the person so keeping or having these animals.
-   (B)   No person shall cause or allow any stable or place where any animal or
-fowl is, or may be, kept to become unsanitary.
-Penalty, see §
+§ 91.01 PERMITTING CHAPTER VIOLATIONS.
+   It shall be unlawful for any person to allow any animal or fowl that is
+under his or her care, custody, or control, or that he or she owns, to violate
+any of the provisions of this chapter.
+(Ord. 2022-12, passed 12-20-2022)
+§ 91.02 ANIMAL CONTROL OFFICER.
+   (A)   The office of the Town Marshal is responsible for animal control
+enforcement in the town. Officers shall patrol the town in search of dogs and
+other domesticated animals that are in violation of any of the provisions of
+this chapter, and shall coordinate with the County Animal Control Officer or
+Humane Society to apprehend and impound them in conformance with the provisions
+of this chapter.
+   (B)   The Animal Control Officer shall keep an accurate record of all dogs
+impounded by the county, showing the date of impoundment and a brief
+description of each dog. Such records shall be always open to the public for
+inspection.
+(Ord. 2022-12, passed 12-20-2022)
+§ 91.03 RUNNING AT LARGE.
+   It shall be unlawful for any animal or fowl to run at large.
+(Ord. 2022-12, passed 12-20-2022) Penalty, see §
 10.99
+DOMESTIC ANIMALS
+§ 91.35 DEFINITIONS.
+   For the purpose of this chapter, the following definitions apply unless the
+context clearly indicates or requires a different meaning.
+   AT LARGE. Any dog found off the premises of his or her owner and not under
+the control of a competent person, restrained within a motor vehicle, housed in
+a veterinary hospital or kennel, on a leash or at heal beside a competent
+person and obedient to that person's command.
+   DOG.  Both male and female animals of the canine species, whether altered or
+not.
+   DOMESTIC ANIMAL. Cattle, calves, horses, mules, swine, sheep, goats, dogs,
+cats, poultry or other bird, and any animals of the bovine, equine, ovine,
+caprine, porcine, canine, feline or avian species.
+   FREE-ROAMING.  A domestic feline/cat that has an owner but is allowed to
+roam to other property or streets not owned by the animal owner.
+   OWNER.  Every person having a right of property to an animal and every
+person who keeps or harbors an animal, has it in his or her care or permits it
+to remain on or about the premises owned or occupied by him or her.
+   STRAY OR ABANDONED FELINES/CATS. Felines or cats that have no owner and live
+in the wild or in abandoned houses.
+(Ord. 2022-12, passed 12-20-2022)
+§ 91.36 DESTRUCTION OF ABANDONED AND SUFFERING ANIMALS.
+   Any police officer or the County Animal Control Officer may destroy or kill
+or cause to be destroyed or killed any animal found abandoned and suffering and
+not property cared for, or appearing to be injured, diseased or suffering past
+recovery for any useful purpose.
+(Ord. 2022-12, passed 12-20-2022)
+Statutory reference:
+   Abandoning domestic animals, see LC. 35-46-3-7
+§ 91.37 HARBORING OR MAINTAINING CERTAIN DOMESTIC ANIMALS PROHIBITED.
+   No person shall keep, maintain, harbor or stable domestic animals,
+consisting of cattie, calves, horses, mules, swine, sheep, goats, poultry, or
+other farm animals or fowl, within 200 feet of any residence within the town
+limits, other than the residence of the person so keeping or having these
+animals.
+(Ord. 2022-12, passed 12-20-2022) Penalty, see §
+10.99
+§ 91.38 IMPOUNDMENT OF DOMESTIC ANIMALS.
+   (A)   As used in this section, the term DOMESTIC ANIMALS includes felines/
+cats.
+   (B)   Any free-roaming, stray or abandoned cats shall be reported to the
+County Humane Society, which is the only agency or person authorized to pick-
+up, trap and transport animals.
+   (C)   The captured animal will be taken to the Humane Society and held for
+disposal unless the animal owner or an adoptive person claims the animal. If
+the animal is not claimed in seven days, it will become the property of the
+County Humane Society.
+   (D)   It is ordered that any animal claimed shall be spayed or neutered and
+have a microchip implanted at the expense of the owner or adoptive person
+before the animal is released.
+   (E)   If the trapped animal is tagged and already spayed or neutered, then
+the officer will make one attempt to find the owner and release it to the
+owner's custody. If the owner is not found, the animal will be transported to
+the Humane Society.
+   (F)   The Humane Society will provide the name and address of the animal
+owner who claims the impounded animal, and that name will be entered in a
+database for future reference if the animal is trapped a second time or more.
+   (G)   (1)   Additional times of capture will require the owner to be cited
+into Town Court on a charge of allowing felines/cats to free-roam.
+      (2)   Fines shall be the amount specified tn
+Chapter 34, plus court fees.
+      (3)   If an owner has repeated violations, the judge may order the animal
+remanded to the Humane Society for disposal.
+(Ord. 2022-12, passed 12-20-2022)
 DOGS
-§ 91.15 PROHIBITED CONDUCT; OWNER RESPONSIBLE.
-   It shall be unlawful for any owner to fail to exercise proper care and
+§ 91.60 PROHIBITED CONDUCT; OWNER RESPONSIBLE.
+   It shall be unlawful for any owner to fall to exercise proper care and
 control of his or her dog or dogs so as to prevent the following actions by it
-or them:
-   (A)   Molesting of passersby;
-   (B)   Chasing of passing vehicles;
+or them:   
+   (A)   Molesting passersby;
+   (B)   Chasing passing vehicles;
    (C)   Attacking other domestic animals;
    (D)   Trespassing upon private property or school property;
-   (E)   Damaging private or public property;
+   (E)   Damaging private property;
    (F)   Habitual barking or loud and continued noise; or
-   (G)   Unnecessary foul or noxious odors which offend people in the
+   (G)   Unnecessary foul or noxious odors that offend people in the
 neighborhood.
-Penalty, see §
+(Ord. 2022-12, passed 12-20-2022) Penalty, see §
 10.99
-§ 91.16 RUNNING AT LARGE PROHIBITED.
-   It shall be unlawful to permit any dog to run at large within the corporate
-limits of the town. Any dog running at large within the town shall be
-impounded.
-Penalty, see §
+§ 91.61 IMPOUNDMENT OF DOGS.
+   (A)   Any dog discovered running at large may be apprehended and confined by
+a police officer or the County Humane Society, and impounded at the dog pound
+or other suitable place. The apprehending
+officer or official shall make a good and complete record of each dog
+apprehended, including the breed, color, and sex of each dog.
+   (B)   The owner of any dog impounded under the provisions of this section
+may reclaim the dog from the Humane Society upon payment to the proper
+authority of the following fees:
+      (1)   A fee for apprehending and impounding the dog as specified in
+Chapter 34; and
+      (2)   A storage and maintenance fee per day as specified in
+Chapter 34 during the period the dog is impounded.
+   (C)   All dogs impounded shall be kept and maintained for a period of seven
+days, excluding the date of impoundment. Any dog not reclaimed within such
+period of time may be destroyed in a humane manner by a duly licensed humane
+society.
+(Ord. 2022-12, passed 12-20-2022)
+§ 91.62 RABIES IMMUNIZATION REQUIRED.
+   A tag showing evidence of vaccination as required by law shall be worn by
+every dog.
+(Ord. 2022-12, passed 12-20-2022) Penalty, see §
 10.99
-§ 91.17 DOGS IN HEAT; CONFINEMENT.
-   Every female dog in heat shall be confined in a building or secure enclosure
-in any manner that the dog cannot come into contact with another dog except for
-planned breeding.
-Penalty, see §
+Statutory reference:
+   Harboring unvaccinated dogs, see I.C. 35-46-3-1
+§ 91.63 QUARANTINING AND VACCINATION OF BITING DOG.
+   Any dog that bites a person shall be held in quarantine by the owner for at
+least ten days. The dog shall be given a rabies shot before being released if a
+rabies shot has not been given within the past year.
+(Ord. 2022-12, passed 12-20-2022) Penalty, see §
 10.99
+§ 91.64 DOG KENNELS.
+   (A)   As used In this section, the term KENNEL shall refer to a place where
+three or more dogs are kept for another person, with the operator charging a
+fee.
+   (B)   It shall be unlawful to operate a kennel without a license. All
+applications for a kennel license shall be made to the Clerk-Treasurer and
+shall contain all information necessary to determine whether the license should
+be issued. The annual fee for a kennel license shall be as prescribed in
+Chapter 34, payable to the Clerk-Treasurer when the application for a license
+is made.
+(Ord. 2022-12, passed 12-20-2022) Penalty, see §
+10.99
+§ 91.65 NOISE DISTURBANCE.
+   No person shall keep or harbor any dog within the town that, by frequent and
+habitual barking, howling, or yelping, creates unreasonably loud and disturbing
+noises of such a character, intensity and duration as to disturb other persons
+and interrupt the peace, quiet and good order of the town.
+(Ord. 2022-12, passed 12-20-2022) Penalty, see §
+10.99
+§ 91.66 DOG WASTE.
+   (A)   Purpose. Due to the fact that the Town Council believes that dog waste
+is a public safety concern in that it can carry disease and, further, it can be
+unhealthy, the town is passing this section to protect the public health and
+welfare and to restrict the deposit of animal waste on property within the
+town.
+   (B)   Restrictions.
+      (1)   No person shall knowingly allow a dog kept by that person to
+defecate on a public street, byway, municipally-owned or public land or
+building, or upon private property in the town, without the prior permission of
+the owner of such property. However, if the dog defecates on property described
+herein, and its owner or keeper promptly removes the feces to a proper waste
+container, or otherwise disposes of such material in a manner that is
+inoffensive and reasonable to public sensitivities, then it is not a violation
+of this section.
+      (2)   Notwithstanding the provisions of division (B)(1) above, the owner
+of a dog serving a vision-impaired person in an auxiliary ocular capacity, or
+in any capacity to assist such person with a physical impairment, may permit
+such dog to deposit waste on ground situated outside of pedestrian or vehicular
+traffic way, and is relieved of the requirement to remove any feces to the
+extent such requirement is impractical for a person of such impairment.
+   (C)   Enforcement. This section shall be enforced by the town, including the
+Town Police Department, as well as the Town Code Enforcement Bureau, and their
+authorized assignees to enforce this section.
+   (D)   Violations and penalties.
+      (1)   A person who violates any provisions of this section shall be
+punishable by fine imposed for such violation and such fine shall be as listed
+in
+Chapter 34.
+      (2)   In addition to the fine established by this section, violation of
+this section is hereby declared to be a public nuisance, which may be abated by
+the Town Code Enforcement Bureau, by restraining order, preliminary and
+permanent injunctions, or by other means provided for by law, and the town may
+take action to recover costs of the nuisance abatement.
+      (3)   Each event or occurrence shall be a separate and distinct
+violation.
+      (4)   The presiding Town Court and/or other court of competent
+jurisdiction shall have jurisdiction over such violations and penalties.
+(Ord. 2022-12, passed 12-20-2022)
 CHAPTER 92: NUISANCES
 Section
 Weeds
@@ -3937,6 +4201,11 @@ Weeds
 92.06   Abatement by town
    
 92.07   Liability
+Noise
+   
+92.20   Unreasonable noise declared a public nuisance
+   
+92.21   Unlawful noises
  
    
 92.99   Penalty
@@ -4029,6 +4298,124 @@ costs and reasonable attorney's fees. If the municipality or county obtains a
 judgment under this division (B), the municipality or county may obtain a lien
 in the amount of the judgment on any real or personal property of the owner.
 (I.C. 36-7-10.1-4)
+NOISE
+§ 92.20 UNREASONABLE NOISE DECLARED A PUBLIC NUISANCE.
+   (A)   The making of sound of a volume, frequency, pattern, or duration that
+prohibits, disrupts, injures, or endangers the health, safety, welfare,
+prosperity, comfort, or repose of persons of ordinary sensitivities within the
+town has so increased as to constitute a public nuisance.
+   (B)   The sole intent of the provisions of this subchapter is declared to
+be, as a matter of legislative determination, to secure and promote the health,
+safety, welfare, prosperity, comfort, and repose of persons in this town by
+reducing unreasonable noise, and a determination of violation of this
+subchapter may not be based on the content of any message conveyed during the
+creation of any noise, or the identity of any person responsible for or
+associated with the creation of any noise.
+(Ord. 2023-03, passed 5-30-2023)
+§ 92.21 UNLAWFUL NOISES.
+   (A)   For purposes of this subchapter, UNREASONABLE NOISE shall mean sound
+that is of a volume, frequency, or pattern that prohibits, disrupts, injures,
+or endangers the health, safety, welfare, prosperity, comfort, or repose of
+reasonable persons of ordinary sensitivities within the town, given the time of
+day and environment in which the sound is made.
+   (B)   Except as otherwise provided in this subchapter, it shall be unlawful
+for any person to make, continue, or cause to be made or continued any
+unreasonable noise.
+   (C)   In addition to the foregoing, any person who performs any of the acts
+enumerated in this division, or who causes or allows the performance of any of
+such acts in or upon any property owned, occupied, or controlled by him or her,
+shall be in violation of this section.
+      (1)   Horns and signaling devices. The sounding of any horn or signaling
+device on any automobile, motorcycle, or other vehicle in a public street or
+public place of the town, in a manner that makes unreasonable noise, and
+continues to do so after being asked to stop.
+      (2)   Machines and devices for producing sound. Playing, using, or
+operating, or permitting to be played, used, or operated, any radio,
+television, digital media player, loudspeaker, sound amplifier, musical
+instrument, or any machine or device for producing or reproducing sound in a
+manner that makes unreasonable noise, and continuing to do so after being asked
+to stop, except when a permit granted therefor for some special occasion is in
+effect. The operation of any such machine or device in a manner that produces
+sound plainly audible to a person with normal hearing:
+         (a)   From any place other than the property on which the sound source
+is located, when the machine or device is being operated between the hours of
+10:00 p.m. and 7:00 a.m; or
+         (b)   From a distance greater than 75 feet from the sound source of
+the machine or device when it is in any public street or public place of the
+town.
+      (3)   Yelling or shouting. Yelling, shouting, hooting, whistling, or
+singing in any public street or public place of the town in a manner that makes
+unreasonable noise, and continuing to do so after being asked to stop, except
+when a permit granted therefor for some special occasion is in effect.
+      (4)   Animals or birds. The keeping of any animal or bird that makes
+unreasonable noise and the failure to prevent the continuation of the
+unreasonable noise after being asked to do so.
+      (5)   Exhausts blowers, engines, and motors. The operation or use of any
+engine, motor, power unit on a motorboat, motor vehicle, motorcycle, or other
+vehicle or craft of any kind, blower or power fan in a manner that makes
+unreasonable noise, and continuing to do so after being asked to stop, except
+when a permit granted therefor for some special occasion is in effect; or
+operation or possession in any public street or public place of the town of any
+motor vehicle, motorcycle, or other machine powered by an engine or motor
+equipped with straight pipes, baffles, muffler cutouts, bypasses, an expansion
+chamber, or any exhaust system constructed or capable of being operated so that
+the exhaust bypasses the muffler or noise-reducing device, except when a permit
+granted therefor for some special occasion is in effect. Operation or
+possession of any engine, motor, power unit, blower, or power fan not equipped
+with a muffler or other noise-reducing device that complies with applicable
+federal, state, and local standards:
+         (a)   In any public street or public place of the town between the
+hours of 10:00 p.m. and 7:00 a.m.; or
+         (b)   Between the hours of 10:00 p.m. and 7:00 a.m. in a manner that
+makes sound plainly audible to a person with normal hearing from any place
+other than the property on which the sound source is located, shall be prima
+facie evidence of a violation of this division. This division shall not apply
+to persons who are entrants or participants in a scheduled race or sporting
+event that involves the use of racing motor vehicles or equipment while
+involved in such activities, nor to owners or operators of equipment or devices
+used in the construction, demolition, or similar labor or maintenance trades.
+      (6)   Defect in a vehicle or a load. The use of any automobile,
+motorcycle, or other vehicle so out of repair, or so loaded, or in such manner
+as to create unreasonable grating, grinding, rattling, or other noise, and
+continuing to do so after being asked to stop.
+      (7)   Construction or repair of buildings. The erection, demolition,
+alteration, or repair of any building, or the excavation therefor, between the
+hours of 7:00 p.m. and 7:00 a.m., except in the case of urgent necessity in the
+interest of public health and safety, and then only with a permit from the
+Division of Construction and Business Services of the Department of Business
+and Neighborhood Services. That permit may be granted for a period not to
+exceed three days while the emergency continues, but may be renewed for periods
+of three days while the emergency continues; or
+         (a)   When being operated by a public utility in connection with
+emergency repairs of such utility; or
+         (b)   If the Town Council determines that the public health and safety
+will not be impaired by sound made by such operation between the hours of 7:00
+p.m. and 7:00 a.m., and that loss or inconvenience would result to any party in
+interest, and the Division grants permission for such operation between the
+hours of 7:00 p.m. and 7:00 a.m., upon application being made at the time the
+permit for the work is issued or during the progress of the work.
+      (8)   Vendor's vehicle. Using, operating or playing, or permitting to be
+used, operated, or played, any bell, radio, musical instrument, loudspeaker,
+sound amplifier, or other machine or device for producing or reproducing sound
+in or upon any vehicle used for the transportation and sale of any goods, wares
+or merchandise in any public street or public place of the town, which
+equipment is set to produce any noise, music, or sound in excess of 115
+decibels, measured at six inches from the sound-producing amplifier of the
+speaker; the use or operation of any vehicle so equipped, with such sound-
+producing equipment in operation, between the hours of 10:00 p.m. and 10:00
+a.m., in any public street or public place; or the operation of such sound-
+producing equipment on any vehicle moving along or upon any public street or
+public place.
+   (D)   Exceptions. Exceptions to the designated unlawful noise include sounds
+associated with the use of legal consumer fireworks during the following days
+and times:
+      (1)   Between the hours of 5:00 p.m. and two hours after sunset on June
+29 through July 3, and July 5 through July 9.
+      (2)   Between the hours of 10:00 a.m. and 12:00 midnight on July 4.
+      (3)   Between the hours of 10:00 a.m. on December 31 and 1:00 a.m. on
+January 1.
+(Ord. 2023-03, passed 5-30-2023) Penalty, see §
+92.99
 § 92.99 PENALTY.
    Any person violating any provision of this chapter for which no specific
 penalty is provided shall be subject to §
@@ -8227,16 +8614,16 @@ required to provide adequate stacking and turn lanes.
 shall be equal to or greater than current AASHTO Standards.
 (4)   See street standards specified in the MD Zoning District.
 (Ord. passed 10-11-2004)
-[https://export.amlegal.com/media/ef9553c3d52931a74a9612c32d199b98344ac424/
+[https://export.amlegal.com/media/eb644e80a496a28dd46ddea3219fcee12373e2f2/
 IMAGES/0-0-0-937.jpg]
  
-[https://export.amlegal.com/media/ef9553c3d52931a74a9612c32d199b98344ac424/
+[https://export.amlegal.com/media/eb644e80a496a28dd46ddea3219fcee12373e2f2/
 IMAGES/0-0-0-939.jpg]
  
-[https://export.amlegal.com/media/ef9553c3d52931a74a9612c32d199b98344ac424/
+[https://export.amlegal.com/media/eb644e80a496a28dd46ddea3219fcee12373e2f2/
 IMAGES/0-0-0-941.jpg]
  
-[https://export.amlegal.com/media/ef9553c3d52931a74a9612c32d199b98344ac424/
+[https://export.amlegal.com/media/eb644e80a496a28dd46ddea3219fcee12373e2f2/
 IMAGES/0-0-0-943.jpg]
  
    (K)   A proposed subdivision street shall be designed to minimize through
@@ -8955,6 +9342,8 @@ I.C. Cites          Code Section
 5-2-8-2             33.36
 5-3-1               31.072;
                     153.017
+5-11                32.03
+5-11-1-9(b)         32.04
 5-11-1-27           Ch. 33, Appendix
 5-11-10             33.55
 5-11-10-1.6         33.04
@@ -8979,8 +9368,11 @@ I.C. Cites          Code Section
 6-1.1-17-3          33.20
 8-14-1              33.07
 8-14-2              33.07
+8-22-2              31.016
+8-22-3              31.016
 8-23-4              90.07
 9-13-2-1            90.02
+9-13-2-1(2)         90.07
 9-13-2-6            70.01
 9-13-2-8            90.02
 9-13-2-16           90.02
@@ -9024,7 +9416,7 @@ I.C. Cites          Code Section
 9-21-20-3           70.01
 9-22                90.02
 9-22-1-1            90.03
-9-22-1-2            90.02
+9-22-1-2(2)         90.02
 9-22-1-4            90.04
 9-22-1-5            90.05
 9-22-1-7            90.05
@@ -9043,8 +9435,14 @@ I.C. Cites          Code Section
 9-22-1-32           90.10
 9-22-6              90.02;
                     90.08
-9-32                70.01;
-                    90.02
+9-32                90.02
+9-32-1–9-32-11    70.01
+9-32-13             70.01
+9-32-13-25          70.01
+9-32-13-26          70.01
+9-32-14             70.01
+9-32-15             70.01
+9-32-16–9-32-18   70.01
 13-22               31.072
 13-23               31.072
 13-24               31.072
@@ -9055,6 +9453,7 @@ I.C. Cites          Code Section
 16-18-2-110         70.01
 16-22-8             70.01
 16-34.5-1-2         31.016
+20-29-6-7           31.016
 22-9-1-4 et seq.    94.02
 22-9.5-1-1 et seq.  94.01
 22-9.5-2-2          94.02
@@ -9075,7 +9474,9 @@ I.C. Cites          Code Section
 22-13-2-7(b)        151.17
 22-15-3-1           151.20
 22-15-4-2           151.18
+24-14               90.05
 24-14-5             90.05
+24-14-10-1          90.05
 25                  31.016
 31-37-3-2           130.01
 31-37-3-3           130.01
@@ -9092,10 +9493,13 @@ I.C. Cites          Code Section
                     35.02
 34-13-3-12          35.02
 34-28-5             71.04
+35-46-3-1           91.62
+35-46-3-7           91.36
 35-47-2-3           35.41
 35-47-11-2          131.01-
                     131.03
 36-1-2-11           90.07
+36-1-3-1 et seq.    Ch. 91
 36-1-3-4            153.004
 36-1-3-5            153.004
 36-1-3-8(a)(10)     10.99
@@ -9166,6 +9570,7 @@ I.C. Cites          Code Section
 36-7-10.1-4         92.07
 36-8                32.16;
                     32.19
+36-8-2-6            Ch. 91
 36-9-23             50.44
 36-9-23 et seq.     50.46
 36-9-23-30          50.43
@@ -9250,6 +9655,7 @@ Ord. No.            Date Passed Description
 –                 4-14-2003   50.43
 4-2003              7-14-2003   50.01-
                                 50.06
+4-2003, Amd. No. 1  12-19-2023  50.01
 –                 8-25-2003   50.43
 01-2004             3-8-2004    TSO II
 2-2004              3-8-2004    TSO II
@@ -9309,7 +9715,7 @@ Ord. No.            Date Passed Description
 09-2005             8-8-2005    TSO II
 10-2005             10-10-2005  154.01
 11-2005             10-10-2005  31.005
-12-205              10-10-2005  TSO II
+12-2005             10-10-2005  TSO II
 13-2005             10-10-2005  TSO II
 --                  6-12-2006   151.20
 --                  5-27-2008   32.19
@@ -9354,6 +9760,7 @@ Ord. No.            Date Passed Description
 01-2011             2-22-2021   33.55
 2021-01             5-24-2021   50.44,
                                 50.46
+2021-01, Amd. No. 1 9-27-2022   50.44
 2021-02             5-24-2021   71.50 -
                                 71.57
 2021-02, Amd. No. 1 8-24-2021   71.51,
@@ -9367,6 +9774,17 @@ Ord. No.            Date Passed Description
 2022-02             6-28-2022   TSO II
 2022-03             7-26-2022   35.50 -
                                 35.58
+                                91.01 -
+                                91.03,
+2022-12             12-20-2022  91.35 -
+                                91.38,
+                                91.60 -
+                                91.66
+                                92.20,
+2023-03             5-30-2023   92.21,
+                                92.99
+2023-03, Amd. No. 1 6-27-2023   92.99
+2025-07             8-26-2025   50.01
                                
  
  
