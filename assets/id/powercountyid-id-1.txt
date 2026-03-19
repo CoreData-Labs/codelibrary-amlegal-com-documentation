@@ -3,7 +3,7 @@ of
 POWER COUNTY, IDAHO
 1998
 Code current through:
-Ord. 2022-01, passed April 25, 2022
+Ord. O-2025-03, passed May 27, 2025
 Published by:
 STERLING CODIFIERS
 an
@@ -12,7 +12,7 @@ American Legal Publishing Company
 1-833-226-3439 * www.amlegal.com
 PREFACE
 This County Code of Power County, as supplemented, contains ordinances up to
-and including ordinance 2022-01, passed April 25, 2022. Ordinances of the
+and including ordinance O-2025-03, passed May 27, 2025. Ordinances of the
 County adopted after said ordinance supersede the provisions of this code to
 the extent that they are in conflict or inconsistent therewith. Consult the
 County office in order to ascertain whether any particular provision of the
@@ -214,57 +214,994 @@ clarification purposes only. Such change to the County's ordinances is not
 meant to amend passage and effective dates of such original ordinances. (1998
 Code)
 1-3-2: DEFINITIONS, GENERAL:
-Whenever the following words or terms are used in this Code, they shall have
-such meanings herein ascribed to them unless the context makes such meaning
-repugnant thereto:
+ACCESS: The primary means of vehicular ingress/egress to a parcel or structure.
+ACCESSORY BUILDINGS AND USES: Accessory buildings and use are those customarily
+associated with and clearly subordinate to a principal building or use. An
+“accessory apartment” is an independent (separate entrance, bathroom and
+kitchen) living unit within a single-family dwelling permitted by this title
+that is maintained solely for the use of family members.
+ACTIVE OPEN SPACE: Open space that is used for sports, exercise, or active play
+is classified as “active open space”. Active open space consists mainly of
+recreational facilities, including the following: playground equipment, playing
+fields (baseball, soccer, football, track), playing courts (basketball,
+handball, tennis), beach area (swimming, volleyball, frisbee, running), pools,
+ice skating rinks, greenways and esplanades (running, biking, rollerblading,
+hopscotch, and other active play), multipurpose play area (open lawns and paved
+areas for active recreation, such as running games, informal ball playing,
+skipping rope, etc.), skiing, equestrian activities, and golf courses,
+including pitch and putt. Open space does not include parking areas.
+ADDRESS OR SERVICE ADDRESS: The official County-assigned unique identification
+number for a parcel and/or structure that uniquely defines its location within
+the County. This address may be used for mail delivery if allowed by the U.S.
+Postal Service.
+ADJACENT: Includes all parcels that directly border a lot and all parcels
+separated from the lot by only a public or private easement or right-of-way,
+including roads and irrigation canals.
+ADJOINING AND CONTIGUOUS: Properties which share a common boundary.
+ADMINISTRATOR: The County employee (employed either directly or via a contract
+with another agency or private firm) responsible for the administration of this
+title.
+AFFECTED PERSON: A person or entity owning or having an interest in property or
+residing within one-half (1/2) mile of CAFO, or resident or property owner
+whose health, safety or property rights will be affected.
 AGENT: A person acting on behalf of another with authority conferred, either
 expressly or by implication.
+AGRICULTURAL PROCESSING: “Initial agricultural processing” includes all uses,
+as addressed in land use section of Power County’s Comprehensive Plan,
+agricultural processing, and farm products - wholesale.
+AGRIVOLTAICS: The co-located use of land to integrate agricultural practices
+with solar photovoltaic energy generation in a mutually beneficial manner.
+AIRPORT: Refers to the American Falls or Pocatello Airports, as indicated by
+the context. The following definitions are used in administration of the
+airport safety standards of
+chapter 10 of this title.
+   A.   Obstruction: Any structure, growth, or other object, including a mobile
+object, which exceeds any height limitation established in
+chapter 10 of this title.
+   B.   Primary Surface: A surface longitudinally centered on a runway. The
+primary surface extends two hundred feet (200') beyond each end of the runway
+and the elevation of any point on the primary surface is the same as the
+elevation of the nearest point on the runway centerline.
+   C.   The width of the primary surface for the utility runway at the American
+Falls Airport is two hundred fifty feet (250').
+   D.   The width of the primary surface for runway 16/34 at the Pocatello
+Airport is five hundred feet (500').
+   E.   The width of the primary surface for runway 03/21 at the Pocatello
+Airport is one thousand feet (1,000').
+   F.   Runway: A defined area on an airport prepared for landing and takeoff
+of aircraft along its length.
+   G.   Tree: For the purposes of
+chapter 10 of this title, any object of natural growth.
+AIRPORT OR POWER COUNTY AIRPORT: The American Falls Airport located in Power
+County, Idaho, owned and operated by Power County, Idaho.
+AIRPORT BOARD: The Airport Advisory Board of Power County.
+ALTERNATIVE SUPPORT STRUCTURE: Clock towers, steeples, silos, light poles,
+water towers, buildings or similar structures that may support
+telecommunication facilities.
+ANIMAL: Any horse, mare, colt, mule, cow, bull, calf, jack, jenny, goat, sheep,
+poultry, or swine as in
+Title 5, Chapter 7 of Power County Ordinance.
+ANIMAL, DOMESTIC: Animals customarily reared as pets, including dogs, cats,
+rabbits, fish, etc., and farm animals.
+ANIMAL, FARM: See definition of “livestock”.
+ANIMAL UNIT: Livestock shall comprise animal units as follows: cows and horses,
+one unit each, but one-half (1/2) unit if less than one year of age; sheep,
+llamas and goats, one-half (1/2) unit each, but one-fourth (1/4) unit if less
+than one year of age; rabbits and fowl, one unit for twenty-five (25) of any
+species or combination thereof.
+ANIMAL, WILD: Animals that are customarily not reared as domestic animals or
+livestock.
+ANTENNA: Any system of wires, poles, rods, reflecting discs, or similar devices
+used for the transmission or reception of electromagnetic waves when such
+system is either external to or attached to the exterior of a structure.
+Antennas shall include devices having active elements extending in any
+direction, and directional beam type arrays having elements carried by and
+disposed from a generally horizontal boom that may be mounted upon and rotated
+through a vertical mast or tower interconnecting the boom and antenna support,
+all of which elements are deemed to be a part of the antenna.
+ANTENNA, BUILDING MOUNTED: Any antenna, other than an antenna with its supports
+resting on the ground, directly attached or affixed to a building.
+ANTENNA, GROUND MOUNTED: Any antenna with its base placed directly on the
+ground.
+APPLICANT: A person or legal entity seeking approvals or permits pursuant to
+this chapter having an ownership or interest in real property of a nature
+sufficient to determine the use to which the real property will be put as
+proposed in the applications for approval or permits.
+APPOINTED MEMBERS: All voting members of the Planning and Zoning Commission who
+are appointed by the Board of County Commissioners as used in
+Title 2, Chapter 1.
+APPROACH: Any vehicular entrance upon a County right-of-way.
+AREA: The area of a sign shall be measured as the area of the smallest,
+straight-sided geometric figure that can be defined by and include the extreme
+limits of the copy or message (including graphics as well as text) on the sign.
+Contrasting frames or borders shall be measured as part of the copy or message.
+AREA OF SPECIAL FLOOD HAZARD: The land in the floodplain within a community
+subject to a one percent (1%) or greater chance of flooding in any given year.
+Designation on maps always includes the letters A or V.
+AWNING: A fabric or plastic shelter supported by a noncombustible rigid
+framework attached to a building.
+BASE FLOOD: The flood having a one percent (1%) chance of being equaled or
+exceeded in any given year; also referred to as the “100-year flood”.
+Designation on maps always includes the letters A or V.
+BASIC RULE: Any person who shall operate any motor-driven watercraft on the
+public waters within Power County, Idaho, in a careless or heedless manner so
+as to be grossly indifferent to the person or property of other persons, or at
+a rate of speed greater than will permit him, in the exercise of reasonable
+care, to bring said motor-driven watercraft to a stop within the assured clear
+distance ahead, shall be guilty of the crime of careless operation of a
+watercraft.
+BATTERY STORAGE FACILITY: An energy storage facility that uses battery
+technologies to absorb electricity, store that electricity for a period of
+time, and then deliver that electricity to the electric grid. Battery
+enclosures and battery systems, and other equipment used to support the
+operation of battery storage facilities, including underground or aboveground
+electrical transmission or communication lines, electric transformers,
+telecommunications equipment, and access road(s).
+BEST MANAGEMENT PRACTICES (BMPs): A practice or combination of practices
+determined to be the most effective and practicable means of preventing or
+reducing the amount of pollution generated as per Idaho Code section 25-3803
+(4).
+BOARD OF COUNTY COMMISSIONERS: Elected officials who are vested with all
+executive and legislative authority of the County and whose powers, authority
+and duties are outlined in Idaho Code title 31.
+BOCC: Refers to the Power County Board of Commissioners.
+BONFIRE: The open burning of cut trees, vegetation or lumber. As used in
+Title 4, Chapter 1
+BUILDING: Any structure having a roof supported by columns or walls used or
+intended for supporting or sheltering any use or occupancy.
+BUILDING ADMINISTRATOR: Power County staff appointed by the Board of County
+Commissioners whose duties are to exercise the powers delegated to him/her and
+is charged with administration and enforcement of ordinance.
+BUILDING BULK: Building bulk may be measured and compared in terms of floor
+area ratio (the total square footage of all floors as a percent of lot size) or
+similar measures.
+BUILDING CODE: The current version of the international building code, the
+international residential code and the international energy conservation code
+as adopted by the State of Idaho.
+BUILDING HEIGHT: The vertical distance from mean natural grade to the highest
+point on a building. “Building height” excludes chimneys, vents, and antennas.
+BUILDING INSPECTOR: An individual appointed by the Building Official to inspect
+buildings under construction, approve construction, and authorize occupancy.
+BURN: All burning except a recreational fire. As used in
+Title 4, Chapter 1.
+CAFO: As defined by Idaho Code section 67-6529, including the contiguous area
+or parcel of land or the use of a contiguous area or parcel of land, upon which
+there are confined or fed livestock, fish or birds in enclosures or as defined
+including a waste management system. (Areas or parcels of land are deemed
+contiguous when separated by County roads. Areas or parcels of land also are
+deemed contiguous if they are not adjacent, but are operated by the same
+persons or entity and a pipeline exists which is capable of conveying liquid
+waste to the nonadjacent land.)
+CAFO FACILITY: Barns, corrals, pastures, feed storage, waste treatment systems,
+composting areas and waste lagoons and where there are confined or fed
+livestock, fish or birds in enclosures or ponds.
+CAFO FOOTPRINT: The designated real property within which corrals, barns or
+other improvements, feed storage areas, animal feeding areas, waste storage
+areas including lagoons and any area that requires runoff containment
+(excluding farm ground), are located as defined within the NPDES permit or NMP
+of the facility.
+CAFO SITE ADVISORY TEAM: A team comprised of representatives from the Idaho
+State Department of Agriculture (ISDA), Idaho Division of Environmental Quality
+(IDEQ), and an official designee of Power County Board of Commissioners and any
+other person or entity identified by the Board of Commissioners. The CAFO site
+advisory team may invite representatives of the State universities of Idaho and
+the following Federal agencies: U.S. Environmental Protection Agency (EPA),
+U.S. Natural Resources Conservation Services (NRCS), U.S. Geological Survey
+(USGS), and the United States Department of Agricultural Research Services
+(USDA), to participate as advisors/consultants to the team.
+CAMOUFLAGED TOWER: Any telecommunication tower that due to design or appearance
+entirely hides, obscures, or conceals the presence of the tower and antennas.
+CLEAR VISION TRIANGLE: The area that provides the visibility required for safe
+access to public roads. “Clear vision triangles” shall be determined as
+follows:
+   A.   At local road intersections in residential subdivisions: the “clear
+vision triangle” includes the area defined by extending a line between two (2)
+points, one on each lot line paralleling the road, each of which is thirty feet
+(30') from the intersection;
+   B.   At all other road intersections: the “clear vision triangle” includes
+the area defined by extending a line between two (2) points, one on each lot
+line paralleling the street, each of which is eighty feet (80') from the
+intersection; and
+   C.   At other points of access: the “clear vision triangle” includes the
+area defined by extending a line between two (2) points, one on the lot line
+paralleling the street, and one on the outer edge of the driveway, each of
+which is fifteen feet (15') from the point where the driveway enters the road.
 CODE: The County Code of Power County.
-COUNTY: The County of Power, State of Idaho 1 .
+COMMERCIAL: The purchase, sale or other transaction involving the handling or
+disposition of any article, substance or commodity for livelihood or profit, or
+the ownership or management of office buildings, offices, recreational or
+amusement enterprises or the maintenance and use of offices by professions and
+trades rendering services. Commercial shall not include any transactions of
+substances or commodities normally associated with industrial uses such as
+chemicals, food processing, mining, etc.
+COMMERCIAL- INDUSTRIAL: Includes all land uses as addressed in the land use
+section of Power County’s Comprehensive Plan, PCCP, that include an outdoor or
+only partially enclosed work and/or materials handling and/or storage yard. All
+such uses shall be considered industrial
+COMMERCIAL OPERATION DATE: The date in which an electrical production system
+becomes fully operational and can begin selling power.
+COMMERCIAL WIND TURBINE: Total height exceeds one hundred fifty feet (150') or
+the nameplate capacity exceeds one hundred (100) kilowatts.
+COMMISSION: The Power County Planning and Zoning Commission, The Historical
+Preservation Commission, created by this chapter. As used in
+Title 2, Chapter 1 and
+Title 2, Chapter 2,
+COMMON DRIVEWAY: A vehicular access serving three (3) or four (4) parcels,
+which has an approach to a public road or connects to a private road. Common
+driveways shall be named.
+COMPATIBILITY: Land uses need not be identical to be compatible, but must be
+sited, designed, constructed, and used in such a way that the normal functions
+and operation of neighboring uses do not seriously conflict, and so that their
+appearance is harmonious.
+COMPOSTING: The biological decomposition of organic waste or matter under
+controlled conditions turned to the soils at agronomic rates as defined by
+Idaho Code 39-7403. It is accomplished in such a way to promote aerobic
+degradation. The process inhibits pathogens, viable weed seeds and odors.
+COMPREHENSIVE PLAN: Refers to Power County comprehensive plan.
+CONFINED ANIMAL FEEDING OPERATIONS “CAFO” ANIMAL UNIT: A term used to establish
+an equivalency for various species of animals and livestock densities in each
+zone district. A density of no more than one animal unit per twenty-one
+thousand seven hundred eighty (21,780) square feet, one-half (1/2) acre.
+CONFORMING USE: Any use existing at the effective date hereof or any amendment
+thereto, which meets the criteria of this chapter.
+CONTROL BOARD: The advisory board created to oversee the regulation and
+enforcement process. As in
+Title 5, Chapter 4.
+CORRAL: An enclosed area in which animals are housed and fed without the
+presence of crops, forage growth, and other vegetation, which are not sustained
+in the normal growing season.
+COUNTY: The County of Power, State of Idaho.
+COUNTY HIGHWAY SYSTEM OR COUNTY SECONDARY HIGHWAYS: All public highways in a
+county except those included within the State highway system, those under
+another State agency, those included within city highway systems of
+incorporated cities, and those under Federal control.
+CUL-DE-SAC: A dead-end street that provides a turnaround at its terminus.
+DANGEROUS ANIMAL: Any animal or a species or a type likely to cause injury to a
+person, or any animal which has demonstrated a propensity to attack or cause
+injury to a person. This term specifically includes animals such as, but not
+limited to, lions, tigers, leopards, ligers, panthers, jaguars, lynxes, pumas,
+mountain lions, cougars, cheetahs, ocelots, bears, wolves, coyotes, nonhuman
+primates, crocodiles, alligators, as well as any poisonous reptile, and any
+hybrid or crossbreeds of these or other dangerous species. Animals specifically
+excluded from the term include those animals commonly accepted as domestic in
+the United States, including but not limited to ostrich, llama, emu, bison,
+bison hybrids and the like which are farmed for food or fiber, or animals
+commonly regarded and kept as household pets.
+DEVELOPER: An individual, firm, corporation, partnership, association,
+syndicate, trust or other legal entity that executes applications and initiates
+proceedings for subdivision of land. The developer need not be the owner of the
+land, but he shall be the agent of the owner.
+DEVELOPMENT: Any manmade changes to improved or unimproved real estate,
+including but not limited to buildings or other structures, mining, dredging,
+filling, grading, paving, excavation or drilling operations located within the
+area of special flood hazard.
+DIRECTIONAL SIGN: On-site directional signs are used to identify points of
+access, the direction of travel, and handicapped parking spaces, and to perform
+similar functions in off- street parking and loading areas. They include no
+advertising or promotional copy, but may include a logo. Off-site directional
+signs identify and provide directions to an off-highway use. They include no
+advertising or promotional copy, but may include a logo.
+DISPOSITION: The final action that has been recommended for a record by the
+records retention schedule that has been approved for the office that produces
+or generates the record. As used in
+Title 1, Chapter 8.
+DRIVEWAY: For the purposes of this chapter, the term “driveway” shall mean a
+vehicular entrance upon a public or private roadway, or connects to a common
+driveway, which provides access to a four-plex or smaller multi-family
+dwelling, or two (2) or fewer single-family residential lots or parcels.
+Driveways shall not be named.
+DWELLING: A habitable structure.
+DWELLING UNIT: A room or group of rooms (including sleeping, eating, cooking,
+and sanitation facilities, but not more than 1 kitchen), which constitutes an
+independent housekeeping unit, occupied or intended for occupancy by one
+household on a long-term basis.
+EFFECTIVE COMMUNICATION: Power County will generally, upon request, provide
+appropriate aids and services leading to effective communication for qualified
+persons with disabilities so they can participate equally in Power County
+programs, services, and activities, including qualified sign language
+interpreters, documents in Braille, and other ways of making information and
+communications accessible to people who have speech, hearing, or vision
+impairments.
 EMPLOYEES: Whenever reference is made in this Code to a County employee by
-title only, this shall be construed as though followed by the words "of Power
-County".
-FISCAL YEAR: The fiscal year shall commence on October 1 of each year 2 .
-GENDER: A word importing either the masculine or feminine gender only shall
-extend and be applied to the other gender and to persons.
+title only, this shall be construed as though followed by the words “of Power
+County”.
+EMPLOYEE HOUSING: That portion of housing within a planned unit development
+reserved for occupation by employees of the PUD.
+EMPLOYMENT: Power County does not discriminate on the basis of disability in
+its hiring or employment practices and complies with all regulations
+promulgated by the U.S. Equal Employment Opportunity Commission under title I
+of the ADA.
+EPCRA: The Emergency Planning and Community Right to Know Act of 1986 created
+to help communities plan for chemical emergencies. It also requires industry to
+report on the storage, use and releases of hazardous substances to Federal,
+State, and local governments.
+EXISTING CAFO: A CAFO built and in operation prior to the effective date of
+County regulations or this chapter.
+EX OFFICIO MEMBERS: Nonvoting members who are appointed by the Board of County
+Commissioners. As used in
+Title 2, Chapter 1.
+FACILITIES: The components or structures built for the utility transmission
+system, which would include the electrical transmission towers and wires, the
+construction to substations, and any other components of the utility
+transmission system which would be erected, constructed or placed within Power
+County.
+FARM SERVICE: Includes all uses as addressed in Power County Comprehensive
+Plan, agricultural uses, animal husbandry services, horticultural services,
+wholesale agricultural chemicals, and wholesale and retail farm equipment and
+supplies.
+FEEDLOT: See definition of confined feeding operation.
+FLOOD OR FLOODING: A general and temporary condition of partial or complete
+inundation of normally dry land areas from:
+   A.   The overflow of inland or tidal waters; and/or
+   B.   The unusual and rapid accumulation of runoff of surface waters from any
+source.
+FLOOD INSURANCE RATE MAP (FIRM): The official map on which the Federal
+Insurance Administration has delineated both the areas of special flood hazard
+and the risk premium zones applicable to the community.
+FLOOD INSURANCE STUDY: The official report provided by the Federal Insurance
+Administration that includes flood profiles, the Flood Boundary - Floodway Rate
+Map, and Community Panel No. 160109 0001C.
+FLOODWAY: The channel of a river or other watercourse and the adjacent land
+areas that must be reserved in order to discharge the base flood without
+cumulatively increasing the water surface elevation more than one foot (1').
+FIREARM: Pursuant to Idaho Code, the term “firearm” or “firearms” means and
+includes:
+   A.   Any pistol, revolver, rifle, weapon or other instrument of any
+description from which any shot, projectile, or bullet may be discharged by
+igniting any type of gunpowder or by use of carbon dioxide (CO2) cartridges,
+compressed air or other propellants, or by use of springs or mechanical means;
+or
+   B.   Any firearm as defined in 18 USC section 921; or
+   C.   Any deadly or dangerous weapon as defined in 18 USC section 930.
+FISCAL YEAR: The fiscal year shall commence on October 1 of each year.
+GRANDFATHER CLAUSE: Also known as grandfather policy, grandfather policy,
+grandfathering, or being grandfathered in is a provision in which an old rule
+continues to apply to some existing situations while a new rule will apply to
+all future cases.
+GROSS DENSITY: The number of dwelling units per acre within the boundaries of a
+parcel.
+GROUND SIGN: A freestanding sign that does not exceed eight feet (8') in height
+above grade.
+GROUND WATER VULNERABILITY AREA: Any land within a special flood hazard area,
+any wetlands, and any area where the ground water table is, at least
+seasonally, within sixty inches (60") of the land surface.
+GOVERNING BOARD: The Board of County Commissioners of Power County, Idaho.
+GUYED TOWER: A telecommunications tower that is supported in whole or in part
+by guy wires and ground anchors or other means of support besides the
+superstructure of the tower itself.
+HAZARDOUS MATERIALS: Those chemicals or substances which are physical hazards
+or health hazards as defined in International Fire Code whether the materials
+are in usable or waste condition.
+HAZARDOUS SUBSTANCES: Any material regulated by EPCRA or similar Federal
+authorities.
+HEIGHT, TELE-COMMUNICATI ONS TOWER: The distance measured from the original
+grade at the base of the tower to the highest point of the tower. This
+measurement excludes any attached antennas, protection devices (e.g., lightning
+rods) and lighting.
+HEIGHT, UTILITY TRANSMISSION TOWER: The distance measured from the original
+grade at the base of the tower to the highest point of the tower. This
+measurement excludes any attached antennas, protection devices (e.g., lightning
+rods) and lighting.
+HIGHER DENSITY RESIDENTIAL USE: Any residential structure designed for
+occupancy by more than two (2) families. Includes, without distinction,
+apartments, condominiums, duplexes, townhouses, and all other forms of attached
+housing. Also includes mobile home parks.
+HISTORIC PRESERVATION: The research, documentation, protection, restoration and
+rehabilitation of buildings, structures, objects, districts, areas, and sites
+significant in the history, architecture, archaeology or culture of this State,
+this County or the Nation. As used in
+Title 2, Chapter 2.
+HISTORIC PROPERTY: Any building, structure, area or site that is significant in
+the history, architecture, archaeology or culture of the County, the State, or
+the Nation. As used in
+Title 2, Chapter 2.
+HOBBYIST WIND TURBINE: Total height is less than sixty feet (60') and the
+nameplate under one kilowatt.
+HOME OCCUPATION: A commercial activity conducted in a dwelling or a building
+accessory to a dwelling. “Home occupations”, by definition, comply with the
+performance standards of section
+10-17-2, appendix B of this title.
+HOME OCCUPATION SIGN: See
+Appendix B, Section 10-17-2 of this Title.
+INDUSTRIAL: Includes all land uses as defined in Power County’s Comprehensive
+Plan plus any use defined as “commercial”. Specifically includes confined
+feeding operations and land application of wastewater or sludge.
+INOPERATIVE VEHICLE: Does not work as intended.
+JUNKYARD: A place that buys or stores machines and other things that are old,
+not useful, or broken, and sells them or their parts to other people.
+KENNEL: Any place other than a veterinary hospital on which more than four (4)
+dogs and/or more than four (4) cats, of six (6) months in age or older are
+kept, or any number of dogs or cats are kept for the purpose of sale,
+placement, boarding, care, or breeding.
+COMMERCIAL KENNELS: Any location where one or more female dogs are kept
+primarily for breeding and the offspring thereof are sold for profit, and any
+location other than a veterinary hospital, where dogs are received for boarding
+and/or care.
+HOBBY KENNELS: Any location other than a veterinary hospital and a commercial
+kennel where four (4) or more dogs over four (4) months of age are kept.
+LARGE-SCALE DEVELOPMENT: Any subdivision or land use change, or group of
+subdivisions or land use changes created from the same parcel, that includes
+more than forty (40) proposed dwelling units or that potentially generates more
+than four hundred (400) automobile trips per day at peak occupancy. See section
+10-13-7 of this title.
+LARGE-SCALE ENERGY PROJECTS: Projects capable of producing, as per nameplate
+capacity, 10 megawatts (MW) or more; or projects that encumber 100 or more
+acres of land that produces power via the harnessing of wind, solar, or battery
+energy for transmission or storage.
+LATTICE TOWER: A telecommunication tower that consists of vertical and
+horizontal supports and crossed metal braces.
+LIVESTOCK: Defined to consist of cows, inclusive of all bovine; sheep,
+inclusive of all ovine; goats, inclusive of all caprine; horses, inclusive of
+all equine; rabbits; and fowl, inclusive of all turkeys, chickens, ducks, geese
+and pigeons.
+LOCAL PLANNING ACT: Idaho Code title 67, chapter 65 Local Land Use Planning
+refers to sections 67-6501 through 67-6537, and subsequent amendments.
+LOGO: A “logo” is simply graphic symbol used to identify a use.
+LOT: A designated parcel, tract or area of land established by plat or as
+otherwise permitted by law, to be used, developed or built upon as a unit.
+LOT COVERAGE: The percent of the lot covered by structures, including the main
+and all accessory buildings, and impervious surfaces, including patios, drives,
+and walks.
+LOT SPLIT: Creation of any parcel of land for the purpose of sale, lease,
+rental or development.
+LOWEST FLOOR: The lowest floor of the lowest enclosed area (including
+basement). An unfinished or flood resistant enclosure, usable solely for
+parking of vehicles, building access or storage, in an area other than a
+basement area, is not considered a building’s lowest floor; provided, that such
+enclosure is not built so as to render the structure in violation of the
+applicable non-elevation design requirements of this Chapter found at
+subsection
+9-1-6B1b of this Chapter.
+MANUFACTURED HOME: A structure, transportable in one or more sections, which is
+built on a permanent chassis and is designed for use with or without a
+permanent foundation when connected to the required utilities. For floodplain
+management purposes, the term “manufactured home” also includes park trailers,
+travel trailers, and other similar vehicles placed on a site for greater than
+one hundred eighty (180) consecutive days. For insurance purposes, the term
+“manufactured home” does not include park trailers, travel trailers, and other
+similar vehicles.
+MCL: Maximum contaminant level in the Idaho Department of Health and Welfare’s
+water quality standards and wastewater treatment requirements.
+MEMORANDUM OF UNDERSTANDING: Memorandum of understanding between Power County
+and the CAFO site advisory team relative to CAFO siting is an agreement wherein
+Power County will provide the team with certain information set forth in the
+application in section
+10-21-7 of this chapter. Once the CAFO facility application is complete and
+submitted to the team, the team (or their designees) shall conduct an on-site
+evaluation. Unless specifically waived in writing, the applicant and/or owners
+and County officials (or their designees) shall always be present during
+evaluations of team. If the designated County official is unable to
+participate, then an alternate County official shall be appointed. The
+completed CAFO applications shall be reviewed and a suitability determination
+submitted to the County’s Planning and Zoning Commission by the team
+coordinator within thirty (30) days of the team’s receipt of the application,
+together with the supporting data for their findings. The suitability
+determination shall:
+   A.   Identify which of the following environmental risk categories a
+proposed CAFO site falls into:
+      1.   High risk,
+      2.   Moderate risk,
+      3.   Low risk, or
+      4.   Insufficient information to make a determination.
+   B.   Describe which technical factors contribute to high, moderate and low,
+or insufficient risk categories. Along with designation of a risk category, the
+suitability determination shall indicate whether or not mitigation of risk is
+possible based on available technology, best management practices (BMPs), etc.
+The team members or their designees shall sign the suitability determination.
+MINE: A “mine” includes both the extraction of a mineral resource from the
+earth and its initial processing, including sorting and crushing. The
+conversion of a mineral resource to another form (i.e., smelting, burning) is
+an industrial activity, and must be located in an Industrial Zoning District. A
+“surface mine”, as defined by the Idaho Board of Land Commissioners, is an area
+where minerals are extracted by removing the overburden lying above and
+adjacent to natural deposits thereof and mining directly from the natural
+deposits thereby exposed.
+MINOR UTILITY INSTALLATIONS: Includes cable television, electric power, and
+telephone cables and transmission lines, and natural gas pipelines that serve
+the area through which they are routed. Also includes transformer boxes and
+other minor appurtenances to those transmission lines or pipelines.
+MOBILE HOME PARK: Any lot used for occupancy by manufactured homes that will
+not be placed on a permanent foundation.
+MODIFICATIONS TO POLICIES AND PROCEDURES: Power County will make all reasonable
+modifications to policies and programs to ensure that people with disabilities
+have an equal opportunity to enjoy all of its programs, services, and
+activities. For example, individuals with service animals are welcomed in Power
+County offices, even where pets are generally prohibited.
+MONOPOLE: A telecommunication tower of a single pole design.
+MOTOR VEHICLE: Includes automobiles, trucks, trailers, campers, motorcycles,
+tractors or any machine propelled by power other than human power, designed to
+travel along the ground by use of wheels, treads, runners or slides, and
+transports persons or property or pulls machinery.
+NAMEPLATE: A wall sign that identifies the occupants and address of a building.
+NAMEPLATE CAPACITY: The maximum energy output that an energy generator can
+produce without exceeding design thermal limits.
+NAVIGABLE STREAM OR LAKE: As designated on the United States geological survey
+(USGS) map and/or the Power County zoning maps.
+NET DENSITY: The number of dwelling units per acre within the boundaries of a
+parcel or building site after utility rights of way, dedications, and easements
+that prohibit the surface use of the site are deducted.
+NEW CONSTRUCTION: Structures for which the “start of construction” commenced on
+or after the effective date hereof.
+NIGHT: One-half (1/2) hour before sunrise and one-half (1/2) hour after sunset.
+NMP: Nutrient management plan which is approved by the respective State or
+Federal agency that has jurisdiction or regulatory authority over the CAFO.
+NONCONFORMING: Any preexisting telecommunications facility or solar facility
+that was in existence prior to the adoption hereof and that has not been issued
+a conditional use permit or was issued a conditional use permit prior to the
+adoption date hereof.
+NONCONFORMING USE: A lawful use of land or a building that does not conform to
+the regulations of the district or zone but existed prior to the enactment of
+this chapter or any amendment thereto.
+NPDES PERMIT: National pollutant discharge elimination system permit that is
+issued by the respective State or Federal agency that has jurisdiction or
+regulatory authority over the CAFO.
 NUISANCE: Anything offensive to the sensibilities of reasonable persons, or any
 act or activity creating a hazard which threatens the health and welfare of
 inhabitants of the County, or any activity which by its perpetuation can
 reasonably be said to have a detrimental effect on the property of a person or
 persons within the community.
+OCCUPANCY: The use of a building or lot. Occupancies are classified using the
+International Building Code, chapter 3 sections 301 through 312.
 OCCUPANT: As applied to a building or land, shall include any person who
 occupies the whole or any part of such building or land whether alone or with
 others.
+ODOR ABATEMENT PLAN: Idaho Code section 25-3803(4), Best Management Practices
+and Idaho Code section 25-3804, design and construction.
 OFFENSE: Any act forbidden by any provision of this Code or the omission of any
 act required by the provisions of this Code.
+OFFICE: Any office, department, board, commission, committee, agency or any
+other division of the County.
 OFFICERS: Whenever reference is made in this Code to a County officer by title
-only, this shall be construed as though followed by the words "of Power
-County".
+only, this shall be construed as though followed by the words “of Power
+County”.
+OPEN BURNING: The burning of a bonfire, rubbish fire or other fire in an
+outdoor location where fuel being burned is not contained in an incinerator,
+outdoor fireplace or barbecue pit.
+OPERATION: Other than nominal use; when a facility is used regularly as an
+integral part of an active system of telecommunications it shall be deemed in
+operation.
+OUTDOOR MATERIAL HANDLING OR STORAGE: Stockpiling, storage, processing, or
+packaging of materials for any reason (it need not be for commercial use),
+including the long-term storage of construction materials and inoperative
+machinery or vehicles, that is not enclosed in a building and that is visible
+from a public street.
 OWNER: As applied to a building or land, shall include any part owner, joint
 owner, tenant in common, joint tenant or lessee of the whole or of a part of
 such building or land.
-PERSON: Any public or private corporation, firm, partnership, association,
-organization, government or any other group acting as a unit, as well as a
+PARKING AREA: The entire parking and vehicular circulation area(s) associated
+with a given project, including parking spaces, access drives, and aisles.
+PASSIVE OPEN SPACE: Open space that is used for relaxation, such as sitting or
+strolling, is classified as “passive”. Facilities may include the following:
+plazas or medians with seating, a percentage of beach areas (sunbathing),
+picnicking areas, greenways and esplanades (sitting, strolling), paths,
+accessible restricted use lawns, gardens, church yards or cemeteries with
+seating, and publicly accessible natural areas used, for example, for
+strolling, dog walking, and birdwatching.
+PERSON: Any public, private, municipal corporation, joint stock association,
+firm, partnership, association, trust, other business or non-profit entity
+organization, county, governmental agency of the State and Federal government
+or any other group, organization or combination acting as a unit, as well as a
 natural person.
 PERSONAL PROPERTY: Shall include every description of money, goods, chattels,
 effects, evidence of rights in action and all written instruments by which any
 pecuniary obligation, right or title to property is created, acknowledged,
 transferred, increased, defeated, discharged or diminished and every right or
 interest therein.
+PERSONAL WIND TURBINE: Total height is less than one hundred fifty feet (150')
+and the nameplate is less than one hundred (100) kilowatts.
+PERSONAL-USE ENERGY PROJECTS: Wind turbine(s) or solar array(s) with a total
+nameplate capacity of 200 kilowatts or less associated with single family
+dwellings.
+PLANNED UNIT DEVELOPMENT: Development of land of not less than one hundred
+(100) acres in which the standard land use regulations may be modified or
+waived in order to promote beneficial development of an entire tract of land in
+conformance with an approved planned unit development permit accentuating
+usable open space, recreational uses, public amenities, community housing, and
+harmonious development with surrounding properties and the county at large. For
+purposes of this chapter, a planned unit development may be and hereinafter is
+referred to as a “PUD” or planned unit development.
+PLAT: A map of representation of a named subdivision of land into lots, blocks,
+and roads to be recorded as a public document.
+PLATFORM: A support system that may be used to connect antennas and antenna
+arrays to telecommunication towers or alternative support structures.
+POLE SIGN: Freestanding signs that exceed eight feet (8') in height above
+grade.
+POSSESS: To bring an object, or to cause it to be brought, onto the property of
+a public or private elementary school, secondary school, or alternate school,
+or onto a vehicle being used for school provided transportation, or to exercise
+dominion and control over an object located anywhere on such property or in
+such vehicle.
+POWER COUNTY HIGHWAY DISTRICT: The public road agency having jurisdiction for
+primary and secondary roads in the unincorporated areas of the County.
+PREMISES: Any dwelling, flats, rooming houses, apartment houses, hospital,
+schools, hotels, restaurants, boarding houses, places of business,
+manufacturing or business establishments or any other building or structure.
+PRIMARY ACCESS POINT: That primary point designated on a private or public
+road, or common driveway from which the driveway to a parcel or structure
+intersects the private or public road or common driveway.
+PRIVATE ROAD: Means of vehicular access which has not been accepted for
+maintenance by the Board or a public highway agency and which does not meet the
+definition of a driveway, common driveway or public road.
+PROJECTING SIGN: A “projecting sign” is attached to the wall of a building and
+projects away from that wall. Projecting signs may extend no more than seven
+feet (7') from the building wall, and may not extend to within two feet (2') of
+the near curb line. Projecting signs do not extend more than three feet (3')
+above the roof line of the building to which they are attached.
+PROPERTY: Any road, highway, park, public or private enclosure, lot or tract of
+land, whether vacant or occupied and all buildings, structure or facilities
+located thereon.
+PUBLIC NUISANCE: The unreasonable, unwarranted, or unlawful use of one’s
+property in a manner that substantially interferes with the enjoyment or use of
+another individual’s property, without an actual trespass or physical invasion
+to the land.
+PUBLIC OFFICER: Shall be the Building Administrator, and/or any other official
+designated by the Governing Body charged with administration and enforcement of
+the act.
+PUBLIC SERVICE PROVIDER: A “potentially affected public service provider” is
+any local agency, including special districts that provides any public facility
+or service that may possibly be affected by a proposed development. State law
+specifically states that school districts are potentially affected public
+service providers.
+PUBLIC RECORD: Includes, but is not limited to, any writing containing
+information relating to the conduct or administration of the public’s business
+prepared, owned, used, or retained by any state or local agency regardless of
+physical form or characteristics. As in
+1-8.
+PUBLIC WATER: Any river, lake or other body of water within Power County,
+Idaho.
+PUBLIC ROAD: A street, road, thoroughfare, alley, or highway; a right-of-way
+for public use that provides vehicular access, as defined by Idaho Code section
+40-117 and section 50-1301.
+PZC: The Planning and Zoning Commission of Power County.
+RECREATIONAL FIRE: The burning of materials other than rubbish where fuel being
+burned is not contained in an incinerator, outdoor fireplace or barbecue pit
+and with a total fuel area of three feet (3') or less in diameter and two feet
+(2') or less in height for pleasure, religious, ceremonial, cooking or similar
+purposes. As in
+4-1.
+RECREATIONAL VEHICLE: As per Idaho Code section 49-119, “recreational vehicle”
+means a motor home, travel trailer, fifth- wheel trailer, park model
+recreational vehicle, truck camper or folding camping trailer, with or without
+motive power, designed for recreational or emergency occupancy. It does not
+include pick-up hoods, shells, or canopies designed, created or modified for
+occupational usage. School buses or van type vehicles which are converted to
+recreational use, are defined as recreational vehicles.
+REPLACEMENT: For the purposes of this Appendix, the term “replacement” does not
+include the temporary removal of an existing sign for repair or refurbishment.
+RESERVOIR HIGH WATER MARK: The “reservoir high water mark” shall be at
+elevation 4,354.5 feet above mean sea level USC and GS datum. (Refer to the
+Spaceholder Contract among the United States Bureau of Reclamation), the
+American Falls Reservoir District, and the Falls Irrigation District for
+storage in the American Falls Replacement Dam and for Construction and
+Operation and Maintenance of the American Falls Replacement Dam Program, 14-06-
+100-851 S, revision dated April 24, 1980, part IV article 25, page 28,
+paragraph (e) item (2) which says, “The water surface elevation of the
+replacement dam shall not exceed a maximum of 4,354.5 feet above mean sea level
+USC and GS datum”.
+SINGLE FAMILY RESIDENCE: The place of dwelling of one head of family and his or
+her dependent and used for living quarters by persons at least four (4) months
+out of the year.
+RESIDENTIAL DENSITY: The number of dwelling units allowed in a planned
+development which is calculated by dividing the gross area, less the land area
+set aside for nonresidential uses (commercial or public) by the number of
+dwelling units. The use of land area will be determined by the predominate use
+of the building. In the event a building does not have a predominate use (i.e.,
+half commercial and half residential), two thousand (2,000) square feet of
+commercial use shall equal one residential dwelling unit.
+RESOURCE-RELATED RECREATION: Resource-related recreational uses, as permitted
+in the A Zoning District, include facilities like spas associated with hot
+springs and cross-country ski centers and guest ranches: i.e., those that must
+be in a rural area to take advantage of the natural setting for recreation. For
+example, a bowling alley or amusement park is not a resource-related
+recreational facility.
+REZONE: Assign land or property to a different category of restrictions on use
+and development.
+SATELLITE DISH: A device incorporating a reflective surface that is solid, open
+mesh, or bar configured that is dish, cone, horn, or cornucopia shaped and is
+used to transmit and/or receive electromagnetic signals. This definition is
+meant to include, but is not limited to, what are commonly referred to as
+satellite earth stations, TVROs (satellite television receives only) and
+satellite microwave antennas.
+SCHOOL: A private or public elementary school, secondary school, or alternate
+school.
+SECURE ENCLOSURE: Pursuant to Idaho Code is one from which the animal cannot
+escape and for which exit and entry is controlled by the owner of the premises
+or owner of the animal. As in
+5-7.
+SERVIENT PROPERTY: Property over which a private road passes, or property
+served by a private road easement.
+SETBACK: The minimum distance between the property line and the outer wall, at
+grade, or any above grade extension, of the principal building on the same lot.
+The space within that distance is called a “yard”.
+   A.   The front setback is measured from the lot line paralleling a public
+street to the principal building. Corner lots have two (2) front yards.
+      1.   Set back will be considered from county right of way.
+      2.   The rear setback is measured from the rear lot line to the principal
+building. The rear lot line is parallel, or more or less parallel, to the
+street. Corner lots have two (2) rear yards, but may treat either as a side
+yard for the purposes of this title.
+   B.   The side setback is measured from the side lot line to the principal
+building.
+SETBACK AREA: The space on a lot required to be left open and unoccupied by
+buildings or structures by the front, side or rear yard requirements of this
+chapter or by delineation on a recorded subdivision plat as defined under
+section
+10-21-8 of this chapter.
+SHORELINE: The line of demarcation between water and land at the time in
+question without regard to property lines or high or low water lines or marks.
+SIGN: Any object or structure used to identify, advertise, or in any way
+attract or direct attention to any use, building, person, or product by any
+means, including, but not limited to, the use of lettering, words, pictures,
+and other graphic depictions or symbols. Specific types of signs are defined in
+section
+10-17-1, appendix A of this title.
+SILVICULTURE: The cultivation (but not processing) of trees, including
+planting, thinning, and harvesting.
+SINGLE-FAMILY DWELLING: A detached structure designed for occupancy by one
+family. Also includes, as required by Idaho Code sections 67-6530 through 6532,
+“any home in which eight (8) or fewer unrelated mentally and/or physically
+handicapped persons reside: and which is supervised”. Includes both
+conventional dwellings and manufactured homes that:
+   A.   Comply with the National Manufactured Home Construction and Safety
+Standards Act (USC 5407 - 5426) HUD Manufactured House Construction Safety Act
+of 1974 or the International Building Code;
+   B.   Have all hitches, wheels, chassis, and other running gear removed and
+are attached to a permanent foundation; and
+   C.   Are permanently connected to on site or central utilities. Recreational
+vehicles and travel trailers shall not be used as single-family dwellings,
+except that a recreational vehicle or travel trailer may be used as a temporary
+dwelling to replace a home destroyed by fire or another catastrophe for a
+period of up to one year.
+   Exception: Manufactured homes placed in the Agricultural Zoning District
+need not have all hitches, wheels, chassis and other running gear removed, or
+be attached to a permanent foundation.
+SITE PLAN: A site plan illustrates all those details of a proposed development
+needed to demonstrate compliance with this title, including the location of
+existing and proposed property lines, easements, buildings, parking areas and
+points of access to streets, streets, sidewalks, buffers and other measures
+designed to mitigate potential nuisances, signs, and other features of the
+site.
+SKETCH PLAN: A general or conceptual site plan of a development. It must
+include the approximate location of all lot lines and streets, the approximate
+location and exterior dimensions of all structures, the approximate location,
+size, and circulation pattern of all parking areas, and the approximate
+location and dimensions of all landscaped buffers.
+SOLAR ENERGY ARRAY: A collection of solar panels that generate electricity.
+SOLAR FARM: (Solar energy system (SES)). The components and subsystems required
+to convert solar energy into electric or thermal energy suitable for use. The
+area of the SYSTEM includes all the land inside the perimeter of the system,
+which extends to any fencing. The term applies, but is not limited to, solar
+photovoltaic (PV) systems, solar thermal systems, and solar hot water systems.
+SOLAR POWER FACILITY: A solar energy array, the related facility and equipment,
+including but not limited to, underground or aboveground electrical
+transmission or communications lines, electric transformers, battery storage
+facility, telecommunications equipment, roads, fencing, meteorological towers,
+agrivoltaics systems, and/or maintenance yards and structures.
+SOLAR POWER FACILITY LARGE-SCALE: A solar energy array capable of producing
+and/or storing, as per nameplate capacity, 10 megawatts (MW) or more; or solar
+power facilities that encumber 100 or more acres of land.
+SOLAR POWER FACILITY PERSONAL-USE: A solar energy array with a total nameplate
+capacity of 200 kilowatts or less, associated with single or two-family
+dwellings, or personal use.
+SOLAR POWER FACILITY SMALL-SCALE: A solar energy array with a nameplate
+capacity of 200 kilowatts to ten megawatts that does not otherwise meet the
+definition of large-scale solar power facilities.
+SOLAR PROJECT, GROUND-MOUNTED: A solar energy system that is mounted on a rack
+or pole that rests on or is attached to the ground.
+SOLAR PROJECT, ROOF-MOUNTED: A solar energy system that is mounted on a rack
+fastened to or resting on a roof of a structure.
+NAMEPLATE CAPACITY: The maximum energy output that an energy generator can
+produce without exceeding design thermal limits.
+SOLID WASTE: Shall mean any and all trash or litter to include, but not be
+limited to, debris associated with the construction or demolition of buildings;
+inoperative vehicle bodies, chassis, or parts thereof; cardboard; wood scrap;
+shingles; concrete; and waste materials of an inert nature such as ashes,
+plastic, metals, cinders, tires, appliances, or tree parts; and those items,
+including liquids which by their nature are noxious, odorous or are subject to
+the development of bacteria, virus or other hazards to health including waste
+accumulations of animal or vegetable matter including animal parts or
+carcasses, and including waste that attends the preparation, use, serving,
+cooking, dealing in, or storing of meats, fish, fowl, fruits, and vegetables.
+The term “solid waste” does not include sewage, human body waste or hazardous
+wastes as determined by the United States Environmental Protection Agency;
+machinery, implements and vehicles used for farming on a farm as defined by
+Idaho Code 63-604; or agricultural waste limited to manures and crop residues.
+SOLID WASTE DISPOSAL SYSTEM: All lands, sites, facilities, equipment, and
+manpower, necessary or used for, the collection, transportation, storage,
+treatment, processing, reuse, recycling, or other means necessary for the
+handling and disposal of solid waste. Said system shall include the approved
+public disposal site and approved system components in existence at the time of
+adoption of the Ordinance codified in this Chapter and as approved subsequent
+to the adoption of said Ordinance.
+SOLID WASTE DISPOSAL SYSTEM COMPONENT: Any public site, collection location,
+disposal facility, transportation element, or other functioning part of the
+solid waste disposal system for the County where one or more phases of solid
+waste disposal is carried out by one or more persons.
+START OF CONSTRUCTION: Includes substantial improvement, and means the date the
+building permit was issued, provided the actual start of construction, repair,
+reconstruction, placement or other improvement was within one hundred eighty
+(180) days of the permit date. The actual start means either the first
+placement of permanent construction of a structure on a site, such as the
+pouring of slab or footings, the installation of piles, the construction of
+columns, or any work beyond the stage of excavation; or the placement of a
+manufactured home on a foundation. Permanent construction does not include land
+preparation, such as clearing, grading and filling; nor does it include the
+installation of streets and/or walkways; nor does it include excavation for a
+basement, footings, piers, or foundation or the erection of temporary forms;
+nor does it include the installation on the property of accessory buildings,
+such as garages or sheds not occupied as dwelling units or not part of the main
+structure.
 STATE: State of Idaho.
 STREET: Shall include alleys, lanes, courts, boulevards, public ways, public
 squares, public places and sidewalks.
+STRUCTURE: Any object, including any mobile object, constructed or installed by
+man, including, without being limited to, buildings, towers, tanks, cranes,
+smokestacks, earth formations, and overhead transmission lines.
+STRUCTURE-INTEGRATED ENERGY GENERATION SYSTEMS: The full integration of energy
+generation into the design and construction of a building or other structure.
+This term includes integrated photovoltaics such as solar roofs, solar facades,
+and individual lights and call boxes powered by solar cells. It also includes
+wind generators such as micro turbines that are integrated into bell towers and
+other design features of the structure.
+SUBSTANTIAL IMPROVEMENT: Any repair, reconstruction or improvement of a
+structure, the cost of which equals or exceeds fifty percent (50%) of the
+market value of the structure either:
+   A.   Before the improvement or repair is started, or
+   B.   If the structure has been damaged and is being restored, before the
+damage occurred. For the purposes of this definition, “substantial improvement”
+is considered to occur when the first alteration of any wall, ceiling, floor,
+or other structural part of the building commences, whether or not that
+alteration affects the external dimensions of the structure.
+SUBDIVISION: Division of a parcel into four (4) or more parcels of less than
+twenty (20) acres each for the purpose of sale, lease, rental, or development.
+The minimum lot size for a permitted residence is five acres. Certain land
+divisions are exempt from the permit requirements or this title; see subsection
+10-2-2B of this title.
+SUBSTANTIAL IMPROVEMENT: Any repair, reconstruction or improvement of a
+structure, the cost of which equals or exceeds fifty percent (50%) of the
+market value of the structure either:
+   A.   Before the improvement or repair is started, or
+   B.   If the structure has been damaged and is being restored, before the
+damage occurred. For the purposes of this definition, “substantial improvement”
+is considered to occur when the first alteration of any wall, ceiling, floor,
+or other structural part of the building commences, whether or not that
+alteration affects the external dimensions of the structure.
+SUBSTATION: An electrical substation as a subsidiary station of an electricity
+transmission system, containing transformers, switches, control equipment,
+circuit breakers and other elements, including line termination structures.
+Substations are to be fenced enclosures or buildings.
+SUSPENDED SIGN: A sign attached to the ceiling of an arcade or canopy and hangs
+over a sidewalk with a vertical clearance of at least eight feet (8').
+TELECOMMUNICATION FACILITY: A facility, site, or location that contains one or
+more antennas, telecommunication towers, alternative support structures,
+satellite dish antennas, other similar communication devices, and support
+equipment which is used for transmitting, receiving, or relaying
+telecommunications signals.
+TELECOMMUNICATION FACILITY COLOCATED: A telecommunication facility comprised of
+a single telecommunication tower or building supporting multiple antennas,
+dishes, or similar devices owned or used by more than one public or private
+entity.
+TELECOMMUNICATION SUPPORT FACILITY: The telecommunication equipment buildings
+and equipment cabinets.
+TELECOMMUNICATIONS TOWER: Any structure that is designed and constructed
+primarily for the purpose of supporting one or more antennas, including
+camouflaged towers, lattice towers, guy towers, or monopole towers. This
+includes radio and television transmission towers, microwave towers, and common
+carrier towers.
+TEMPORARY SIGNS: Includes: 1) construction signs; 2) political signs placed no
+more than sixty (60) days before the election to which they relate and removed
+within ten (10) days after that election; 3) real estate signs; 4) window
+signs; and 5) other temporary signs displaced by commercial or industrial uses.
+All temporary signs displayed in commercial or industrial zoning districts must
+fit within the sign size permitted by this Appendix. A “construction sign” is a
+ground or wall sign that identifies a building under construction. Construction
+signs include no advertising or promotional copy, but identify the building’s
+planned use, owners or operators, designers, construction contractors, and
+financiers. Construction signs shall be permitted for all nonresidential
+construction, but shall not exceed six (6) square feet in the RR Zoning
+Districts. A “political sign” promotes the election of a candidate or support
+for a political party or position. Political signs may be of any type, but are
+subject to the time and size limitations of subsection D3a(4) of this Section
+in the RR Zoning Districts. “Real estate signs” are wall, ground, or window
+signs which indicate that the property on which they are placed is for sale,
+lease, or rent. Real estate signs are subject to the limitations of subsection
+D3a(3) of this Section in the RR Zoning Districts. No temporary sign shall
+remain longer than one hundred eighty (180) days.
 TENANT: As applied to a building or land, shall include any person who occupies
 the whole or any part of such buildings or land, whether alone or with others.
+TOTAL HEIGHT: Total height of a wind turbine shall be determined by using a
+measurement which includes the total height of the structure plus the maximum
+size of the rotor radius.
+TRAFFIC-CONTROL SIGN: Standard regulatory signs, including stop and yield
+signs, speed limit signs, etc.
+USABLE OPEN SPACE: Shall not include the area encompassed by streets, parking
+areas, slopes over fifty percent (50%) unless the slope provides a specific
+beneficial use, or areas included within a required setback. Parking areas that
+support specific recreational uses such as trails may be counted as open space
+at the discretion of the board.
+USE: See definition of occupancy.
+USES: Those land use classifications as set forth in the Power County
+comprehensive plan and this code.
+UTILITY POLE MOUNTED ANTENNA: An antenna attached, without regard to mounting,
+to or upon an existing or replacement electric transmission or distribution
+pole, streetlight, traffic signal, athletic field light, utility support
+structure or other similar structure approved by the Power County planning and
+zoning department.
+UTILITY TRANSMISSION SYSTEM: The electrical transmission towers and wires used
+for the transmission of electrical power of two hundred thirty thousand
+(230,000) volts or more, and associated substations and switchyards, across the
+county to connect with systems in other counties, not for origination,
+destination or termination within Power County.
+VARIANCE: According to Idaho Code section 67-6516, “A variance is a
+modification of the requirements of the ordinance as to lot size, lot coverage,
+width, depth, front yard, side yard, rear yard, setbacks, parking space, height
+of buildings, or other ordinance provision affecting the size or shape of
+structure or the placement of the structure upon lots, or the size of lots”.
+Land use cannot, by definition, be varied.
+WALL SIGN: Either painted directly on the wall of a building or directly
+attached to the wall of a building, and parallel with the wall to which they
+are attached. Directly attached wall signs shall protrude no more than eighteen
+inches (18") from the building to which they are attached. Wall signs do not
+extend above the roof line of the building to which they are attached.
+WASTE: The presence of:
+   A.   Liquid Waste: Wastewater and other waste material in liquid form, which
+is generated as a by-product of a CAFO.
+   B.   Solid Waste: Waste material in solid form, which is generated as a
+byproduct of a CAFO.
+WASTE MANAGEMENT SYSTEM: The process area or mechanism employed for the
+retention, storage, or treatment of waste.
+WASTE STORAGE: Area where liquid and/or solid manure is stored, excluding
+corrals.
+WASTE TIRE: A tire that is no longer suitable for its original intended purpose
+because of wear, damage or defect, and includes tire bodies, carcasses, casings
+or parts of tires in any form.
+WASTE TIRE COLLECTION SITE: A site where waste tires are temporarily collected
+before being offered for recycling or reuse, and where more than two hundred
+(200) waste tires are kept on site on any day.
+WATERCRAFT: Any boat, ship, raft, jet ski or other motor-driven device designed
+for travel on or through water.
+WATER MITIGATION PLAN: A description of the source of water that will be used
+to serve the development, a description of any potential impacts that may
+result from the use of such water supply, and a plan to mitigate any such
+potential impacts resulting from the use of such water supply. Water mitigation
+plans must comply with Idaho department of water resources (IDWR) regulations
+and water rights and the mitigation plan must be approved by IDWR.
+WEAPON: The term “weapon or weapons” means and includes any pistol, revolver,
+rifle or other instrument of any description from which any shot, projectile,
+or bullet may be discharged by any means other than those described in the
+definition of “firearm” of this section which shall include, but not be limited
+to, “soft air guns”, “traditional BB guns”, paintball guns and other similar
+type instruments.
+WIND FARM: A wind energy conversion system which converts wind energy into
+electricity through the use of a wind driven turbine generator. A system shall
+be deemed to be a “wind farm” or a “large” or “commercial” project if it
+consists of one or more wind turbines exceeding one hundred fifty feet (150')
+or one hundred (100) kilowatt nameplate capacity on the same or adjoining
+parcels. A “wind farm” or “large” project shall be required to meet the same
+criteria as a “commercial” project for the purposes of this chapter. Large or
+commercial wind conversion systems shall be required to follow the same
+criteria as set out herein for personal wind turbines as well as the commercial
+wind turbines. In the event of a conflict in regulations, the commercial
+section shall be the controlling section.
+WIND TURBINE: Any machine used to produce electricity by converting the kinetic
+energy of wind to electrical energy. Wind turbines consist of the entire
+turbine apparatus and any other buildings, support structures or other related
+improvements necessary for the generation of electric power.
 WRITTEN, IN WRITING: May include printing and any other mode of representing
 words and letters, but when the written signature of any person is required by
 law to any official or public writing or bond, it shall be in the proper
 handwriting of such person, or in case he is unable to write, by his proper
-mark. (1998 Code)
- 
-Notes
-1 1. I.C. § 31-141.
-2 1. I.C. § 31-1601.
+mark.
+ZONE: An area or stretch of land having a particular characteristics, purpose,
+or use, or subject to particular restrictions. (Ord. 87-01, 4-13-1987; amd.
+Ord. 87-03, 6-22-1987; Ord. 90-05, 11-13-1990; Ord. 92-03, 6-22-1992; Ord. 92-
+04, 9-21-1992, eff. 10-1-1992; Ord. 96-02, 1-22-1996; Ord. 96-03, 5-13-1996,
+eff. 5-22-1996; 1998 Code; Ord. 2000-1, 1-3-2000; Ord. 2002-02, 4-1-2002; Ord.
+2006-01, 8-28-2006; Ord. 2006-02, 8-28-2006; Ord. 2010-01, 10-26-2009; Ord.
+2010-05, 6-14-2010; Ord. 2015-2, 3-9-2015; Ord. 2015-3, 3-9-2015; Ord. 2018-01,
+1-8-2018; Ord. 2018-07, 10-1-2018; Ord. 2018-08, 12-3-2018; Ord. 2019-01, 1-14-
+2019; Ord. 2019-02, 1-14-2019; Ord. 2020-02, 2-24-2020; Ord. O-2025-03, 5-27-
+2025)
 1-3-3: CATCHLINES:
 The catchlines of the several sections of the County Code are intended as mere
 catchwords to indicate the content of the section and shall not be deemed or
@@ -1986,63 +2923,53 @@ potato waste shall not be accepted at the Power County landfill, effective May
 15, 1996. (Res. 96-01, 5-20-1996)
 4-2-13: FEES:
    A.   Purpose: The purpose of this section is to establish fees to cover the
-partial costs of operating and maintaining Power County's solid waste disposal
+partial costs of operating and maintaining Power County’s solid waste disposal
 system.
    B.   Authority: This section is adopted pursuant to the authority granted by
 Idaho Code Chapter 44, Title 31 and Power County Code Chapter 2, Title 4, which
 allows Power County to charge and collect fees for use of the county solid
 waste disposal system.
    C.   Definitions:
-      1.   One hundred and fifty (150) pounds = one (1) cubic yard.
-      2.   A three hundred (300) gallon container = 1.4 cubic yards.
-      3.   The following terms shall apply to this chapter as written unless
-context indicates or requires a different meaning:
-AGRICULTURAL TIRES:          Any farm implement tires and rubber tracks.
-BIG TRUCK TIRES:             Any tire with a wheel diameter larger than
-                             nineteen (19) inches.
-                             Relates to institutional, retail and wholesale
-                             businesses including, but not limited to:
-COMMERCIAL RATE:             hospitals, nursing homes, restaurants, motels,
-                             service stations, offices, banks, residential
-                             rental complexes, and mobile home parks.
-                             The average family sized refuse container, which
-HOUSEHOLD REFUSE UNIT (HRU): is a ninety (90) gallon container. One (1) HRU =
-                             sixty dollars ($60.00) per twenty (22) cubic yard/
-                             year.
-                             Any waste that cannot be placed into one of the
-                             specialized pits or piles defined as Specialized
-NON-SPECIALIZED WASTE:       Waste. This is waste that is commonly referred to
-                             as having to be dumped on the floor, which then is
-                             transported to a facility out of county for
-                             disposal, not retained on site.
-                             Waste has been sorted to allow it to be dumped as
-                             either construction/demolition waste, brush waste,
-SPECIALIZED WASTE:           or metal waste. This distinction shall be in the
-                             discretion of the staff evaluating each load
-                             presented for disposal at any Power County
-                             Facility.
-                             An unsecured load shall be defined as any load,
-                             which is not sufficiently secured to prevent
-UNSECURED LOAD:              debris from the load from blowing out of, falling
-                             from, or leaving the transport vehicle in any way.
-                             A secured load will be able to prevent the waste
-                             materials from escaping the load.
-WASTE VOLUME CALCULATION:    The method used to determine the commercial rate.
- 
+      1.   150 pounds = 1 cubic yard.
+      2.   A 300 gallon container = 1.4 cubic yards.
+      3.   Agricultural Tires: Any farm implement tires and rubber tracks.
+      4.   Big Truck Tires: Any tire with a wheel diameter larger than nineteen
+(19) inches.
+      5.   “Commercial rate” relates to institutional, retail and wholesale
+businesses including, but not limited to: hospitals, nursing homes,
+restaurants, motels, service stations, offices, banks, residential rental
+complexes, and mobile home parks.
+      6.   “Household refuse unit (HRU)” means the average family sized refuse
+container, which is a 90 gallon container. 1 HRU = $60.00 per 22 cubic yard/
+year.
+      7.   Non-Specialized Waste: Any waste that cannot be placed into one of
+the specialized pits or piles defined as Specialized Waste. This is waste that
+is commonly referred to as having to be dumped on the floor, which then is
+transported to a facility out of county for disposal, not retained on site.
+      8.   Specialized Waste: Waste has been sorted to allow it to be dumped as
+either construction/demolition waste, brush waste, or metal waste. This
+distinction shall be in the discretion of the staff evaluating each load
+presented for disposal at any Power County Facility.
+      9.   Unsecured Load: An unsecured load shall be defined as any load,
+which is not sufficiently secured to prevent debris from the load from blowing
+out of, falling from, or leaving the transport vehicle in any way. A secured
+load will be able to prevent the waste materials from escaping the load.
+      10.   “Waste volume calculation” is the method used to determine the
+commercial rate.
    D.   Site Distinction: The American Falls Transfer Station is hereby
 designated as the primary solid waste disposal facility for Power County. All
 other solid waste disposal sites, shall be designated as satellite transfer
 sites.
-   E.   Annual Review and Assessment: The Board of County Commissioners will
+   E.   Annual Review And Assessment: The board of county commissioners will
 review the rate schedule annually. The board of county commissioners will
 accept, review, and adjust, when necessary, any erroneous assessments by way of
 written request.
-   F.   Residential Fees:
+   F.   Residential Fees.
       1.   Residential Rates: A household rate of sixty dollars ($60.00) will
 be assessed on every household in Power County for the year 2023 and every year
 thereafter. This rate is based on an average family sized ninety (90) gallon
 container which equals twenty-two (22) cubic yards per year.
-   G.   Commercial Fees:
+   G.   Commercial Fees.
       1.   A commercial rate for institutional, retail and wholesale businesses
 which include, but are not limited to: hospitals, nursing homes, restaurants,
 motels, service stations, offices, banks, residential rental complexes, mobile
@@ -2052,39 +2979,39 @@ waste disposed of per year per business.
       2.   Waste Volume Calculation: The following table will be used to
 determine the applicable rate charged to commercial businesses:
  
-Waste                                   Number of   Volume        Waste volume
-container x Number of  x Pick ups per x weeks per x adjustment  = produced
-size        containers   week           year        (x0.65)       annually (cu.
-(cu.yd.)                                                          yd.)
+Waste                                   Number of   Volume       Waste volume
+container x Number of  x Pick ups per x weeks per x adjustment = produced
+size        containers   week           year        (x 0.65)     annually
+(cu. yd.)                                                        (cu. yd.)
  
       3.   Waste Fee Calculation: The following table will be used to determine
 the solid waste fee:
  
-Total waste volume   Household refuse     Cost of household   Total solid waste
-produced annually  ÷unit (22 cu. yds.) x refuse unit       = fee assessed
-(cu. yd.)                                 ($60.00)
+Total waste volume   Household refuse   Cost of household   Total solid waste
+produced annually  ÷unit             x refuse unit       = fee assessed
+(cu. yd.)            (22 cu. yds.)      ($60.00)
  
       4.   Minimum Rate For Commercial Businesses: The sixty dollar ($60.00)
-household rate identified above in subsection D(1) will be the minimum annual
+household rate identified above in subsection D(l) will be the minimum annual
 rate for a commercial business.
    H.   Specialized Waste Disposal Fees: The fees for the following types of
 specialized waste disposal: construction demolition material; brush; and metal,
 when said materials are properly separated, as determined by the staff
 evaluating each load presented for disposal at any Power County Facility, shall
 be as follows:
-      1.   Pick-up Truck No Trailer/frailers with no Truck Load: shall not be
+      1.   Pick-up Truck No Trailer/Trailers with no Truck Load: shall not be
 charged for the first load in a day (due to the already charged residential and
 commercial fees), but shall be charged ten dollars ($10.00) per load for each
-load during the remainder of . that day.
-      2.   Bobtail Truck (Two (2)-Ton Truck): shall be charged forty-five
-dollars ($45.00) per load.
-      3.   Ten (10)-Wheel Truck: shall be charged fifty-five dollars ($55.00)
-per load.
+load during the remainder of that day.
+      2.   Bobtail Truck (2-Ton Truck): shall be charged forty-five dollars
+($45.00) per load.
+      3.   10-Wheel Truck: shall be charged fifty-five dollars ($55.00) per
+load.
       4.   Semi-Truck Trailer: shall be charged one hundred dollars ($100.00)
 per load.
-      5.   Pull Trailers Longer Than Ten (10) Feet: shall be charged thirty
-dollars ($30.00) per load of demo/concrete, and twenty-five dollars ($25.00)
-per load of brush or metal.
+      5.   Pull Trailers Longer Than 10 Feet: shall be charged thirty dollars
+($30.00) per load of demo/concrete, and twenty-five dollars ($25.00) per load
+of brush or metal.
    I.   Other Fees: Fees for other types of waste disposal are outlined as
 follows:
       1.   Non-Specialized Waste: no fee shall be charged for the first five
@@ -2131,20 +3058,20 @@ disposal at any Power County Facility, shall be as follows:
 per load.
          b.   Brush: shall be charged twenty-five dollars ($25.00) per load.
          c.   Metal: shall not be charged a fee.
-   K.   Out of County Waste: Any waste delivered to the transfer station which
+   K.   Out Of County Waste: Any waste delivered to the transfer station which
 originates from outside of Power County, or is presented for disposal by a non-
 Power County resident will not be accepted.
-   L.   Right to Refuse Excessive or Nonconforming Waste: The County reserves
+   L.   Right To Refuse Excessive Or Nonconforming Waste: The County reserves
 the right to refuse to accept waste presented for disposal at any Power County
 facility, if in the discretion of the staff at said facility, the waste does
 not conform to that which can be safely accepted and disposed of in compliance
 with state and federal laws and regulation, or which the facility lacks the
 capacity to efficiently and effectively dispose of.
-   M.   Right to Charge for Contaminated Loads: The County reserves the right
+   M.   Right To Charge For Contaminated Loads: The County reserves the right
 to charge a fee calculated by Staff for the cost of cleaning up contaminated
 loads dumped in specialized containers. The fee shall be based on the cost of
-workhours plus machinery, with the minimum fee being one hundred dollars
-($100.00)
+work hours plus machinery, with the minimum fee being one hundred dollars
+($100.00).
    N.   Free Days:
       1.   Twice annually on a schedule to be established by the cities and the
 county there shall be a free day for residential yard waste.
@@ -2153,9 +3080,9 @@ the State to dispose of specifically designated hazardous materials.
    O.   Miscellaneous Fees: From time to time the Power County Landfill, at the
 direction of the Power county Board of County Commissioners, may provide for
 sale, any biproducts from the Power County Landfill, including but not limited
-to, surplus topsoil, wood chips, gravel, etc. ((Res. 94-05, 9-15-1994; amd.
-Res. 97-08, 9-22-1997; Res. 99-07, 9-27-1999; Res. 2000-07, 8-28-2000; Res.
-2001-3, 5-29-2001; Res. 2001-4, 5-29-2001; Ord. 2022-01, 4-25-2022)
+to, surplus topsoil, wood chips, gravel, etc. (Res. 94-05, 9-15-1994; amd. Res.
+97-08, 9-22-1997; Res. 99-07, 9-27-1999; Res. 2000-07, 8-28-2000; Res. 2001-3,
+5-29-2001; Res. 2001-4, 5-29-2001; Ord. 2022-01, 4-25-2022; Ord. - - )
 4-2-14: TRANSPORTING GARBAGE IN COVERED VEHICLES:
 No person shall be permitted to transport garbage, refuse, rubbish and ashes
 over the streets and highways of the county in anything other than secured or
@@ -5434,6 +6361,346 @@ Violations: Violation of the provisions or requirements of this code shall be
 subject to the penalties as set forth in Power County Building Ordinance No.
 2020-03, instrument No. 216517.
 (Ord. 2017-03, 12-18-2017; amd. Ord. 2020-03, 9-14-2020)
+CHAPTER 2
+ABATEMENT OF DANGEROUS BUILDINGS
+SECTION:
+8-2-1: Legal Authority
+8-2-2: Declaration Of Finding And Policy
+8-2-3: Purpose
+8-2-4: Reserved
+8-2-5: Administrative Procedure
+8-2-6: Inquiry
+8-2-7: Right Of Entry
+8-2-8: Notice Of Order
+8-2-9: Service Or Notice And Order
+8-2-10: Method Of Service
+8-2-11: Vacation And Demolition
+8-2-12: Notice To Vacate
+8-2-13: Compliance
+8-2-14: Appeal Process
+8-2-15: Reserved
+8-2-16: Compliance
+8-2-17: Costs
+8-2-18: Penalty
+8-2-19: Validity
+8-2-1: LEGAL AUTHORITY:
+This regulation is adopted under the authority granted to the Board of County
+Commissioners. (Ord. 2009-02, - - ; amd. Ord. O-2024-03, - - )
+8-2-2: DECLARATION OF FINDING AND POLICY:
+The Board of County commissioners finds that provisions for adequate and
+reasonable control over accumulation of articles or dangerous building
+maintained or permitted by any person to the injury, annoyance or inconvenience
+of the public, is necessary the desirable. The adoption of development of
+conditions that are injurious to the health, safety and welfare of the
+inhabitants with Power County, Idaho, is in the best public interest. (Ord.
+2009-02, - - ; amd. Ord. O-2024-03, - - )
+8-2-3: PURPOSE:
+The purpose of this regulation is to protect, preserve, upgrade and promote the
+environmental quality of Power County and protect the health and welfare of the
+citizens by making it unlawful to maintain conditions which are injurious to
+the health, safety and welfare of the inhabitants within Power County to
+provide for the uniform administration and enforcement thereof.
+It shall be unlawful for any person in charge of or in possession of any
+property in the county to permit a nuisance or dangerous building to be
+maintained or continued thereon.
+Dangerous, unsafe or unsanitary structures found to have any of the following
+defects shall be deemed dangerous and unsafe building provided that such
+conditions or defects exist to the extent that the life, property, health,
+welfare of safety of the public or its occupants are endangered.
+   A.   Whenever the building or structure, or any portion thereof, because of
+dilapidation, deterioration, decay, vandalism, or faulty construction, or the
+removal, movement or instability of any part of the ground necessary for the
+purpose of supporting such building or the deterioration, decay or inadequacy
+of its foundation or any part of its foundation or any other cause is likely to
+partially or completely collapse.
+   B.   Whenever any portion or member or appurtenance thereof (i.e., porch
+chimney, signs) is likely to fail or to become detached or dislodge or to
+collapse and thereby injure persons or damage property.
+   C.   Whenever the building or structure, because of inadequate maintenance,
+dilapidation, decay, damage, faulty construction or arrangement, trash, filth,
+inadequate light, air ventilation or sanitation facilities or otherwise is
+determined to be unsafe, unsanitary, unfit for human habitation or in such a
+condition that is likely to cause sickness or disease.
+   D.   Whenever, for any reason, the building or structure, or any portion
+thereof, is manifestly unsafe for the purpose for which it is being used.
+   E.   Whenever the building or structure is in such a condition as to
+constitute a public nuisance as known in the common law or in equity
+jurisprudence.
+   F.   Whenever any portion of a building or structure remain on a site after
+the demolition or destruction of the building or structure or whenever ay
+building or structure is abandoned for a period in excess of six months so as
+to constitute such building or portion thereof an attractive nuisance or hazard
+to the public.
+   G.   Whenever any portion thereof has been damaged by fire, earthquake,
+wind, flood or by any other cause, to such an extent that the structural
+strength or stability thereof is materially less than it was before such
+catastrophe and is less than the minimum requirements of the Building Code for
+new building of similar structure purpose or location.
+   H.   Whenever the building or structure has been so damaged by fire, wind,
+earthquake or flood, or has become so dilapidated or deteriorated to become,
+      1.   An attractive nuisance to children.
+      2.   A harbor for vagrants, criminal or immoral persons.
+      3.   Enable persons to resort thereto for the purpose of committing
+unlawful or immoral acts.
+   I.   Whenever any building or structure has been constructed, exists or is
+maintained in violation of any specific requirement or prohibition applicable
+to such building or structure provided by the building regulations of this
+jurisdiction, as specified in the 2018 Building Code or of any law or ordinance
+of this state or jurisdiction relating to the condition, location or structure
+of building.
+   J.   Whenever any building or structure, because of obsolescence,
+dilapidation condition, deterioration, damage, inadequate exits, lack of
+sufficient fire-resistive construction, faulty electric wiring, gas connections
+or heating apparatus, or other cause, is determined to be a fire hazard.
+   K.   Whenever any building, because of a change in the use of that building,
+is determined to be unsafe to the users or occupants so that life, health,
+property or safety of the public or the occupants is endangered. (Ord. 2009-02,
+- - ; amd. Ord. O-2024-03, - - )
+8-2-4: RESERVED:
+8-2-5: ADMINISTRATIVE PROCEDURE:
+The Building Official is hereby authorized to enforce the provisions of this
+code. The Building Official shall have the power to render interpretations of
+this code and to adopt and enforce rules and supplemental regulations in order
+to clarify the application of its provisions. Such interpretations, rules, and
+regulations shall be in conformity with intent and purpose of this code. The
+Building Official may consult with such person or persons as he/she feels may
+be of assistance to take such action as may be required to enforce the
+provisions of this code. (Ord. 2009-02, - - ; amd. Ord. O-2024-03, - - )
+8-2-6: INQUIRY:
+The Building Official may make an inquiry and inspection when he/she observes
+conditions which appear to constitute a dangerous building as defined in
+section
+8-2-4 or upon receiving a complaint in writing, signed by sender and describing
+the existence of such complaint to inform that dangerous building may exist by
+the public health, police or fire authority. (Ord. 2009-02, - - ; amd. Ord. O-
+2024-03, - - )
+8-2-7: RIGHT OF ENTRY:
+After making inquiry as defined in Section
+8-2-6, the Building Official shall investigate said complaint or condition
+after contacting the property owner. Legal steps to correct the violation will
+be taken should entry of property be denied or restricted by the property
+owner. (Ord. 2009-02, - - ; amd. Ord. O-2024-03, - - )
+8-2-8: NOTICE AND ORDER:
+The Building Official shall issue a notice and order directed to the record
+owner of the property. The notice and order shall contain:
+   A.   The street address and legal description sufficient for identification
+of the premises upon which the dangerous building or structure is located.
+   B.   A brief statement and concise description of the conditions found.
+   C.   A statement of the action required to be taken as determined by the
+Building Official.
+      1.   If the conditions are in violation of Section
+8-2-4, the nuisance or dangerous condition must be abated within thirty (30)
+days from the date of service of the notice; or an amount of time determined by
+the Building Official to be reasonable under the circumstances, and stated
+within the notice; and the parties receiving such notice shall have ten (10)
+days from the date of service of the notice to request a hearing before the
+Governing Body.
+      2.   If the Building Official has determined a violation of Section
+8-2-4 exists and that the building or structure shall be vacated or demolished
+within a certain time from the date of the order as determined by the Building
+Official to be reasonable.
+   D.   Statements advising that any person having any record little or legal
+interest in the building may appeal from the notice and order or any action of
+the public official to the Governing Body, provided the appeal is made in
+writing as provided in this regulation and filed with the Planning and Zoning
+Administrator within ten (10) days from the date of service of such notice and
+order; and that failure to appeal with constitute a waiver of all rights to an
+administrative hearing and determination of the matter.
+   E.   Failure to abate the condition or to request a hearing within the time
+allowed may result in prosecution as provided in section 8-2-22 or abatement of
+the conditions by the County as provided in section 8-2-21. (Ord. 2009-02, - -
+; amd. Ord. O-2024-03, - - )
+8-2-9: SERVICE OR NOTICE AND ORDER:
+The notice and order, and any amended or supplemental notice and order, shall
+be served upon the record owner and posted on the property; and one copy
+thereof shall be served on each of the following, if know to the Building
+Official or disclosed from official public records.
+   A.   The holder of any mortgage or deed of trust or other lien or
+encumbrance of record.
+   B.   The owner or holder of any lease of record.
+   C.   The holder of any other legal interest of record in or to the property.
+(Ord. 2009-02, - - ; amd. Ord. O-2024-03, - - )
+8-2-10: METHOD OF SERVICE:
+   A.   Service of the notice and order shall be made upon all persons entitled
+thereto either personally or by mailing a copy of such notice and order by
+certified mail, postage prepaid, to each such person at their address as it
+appears on the last assessment roll of the county or as known to the Building
+Official.
+   B.   If the person in charge or possession of the real property is a
+resident of Power County, Idaho, then written notice may be personally served
+by the Building Official or Power County Sheriff.
+   C.   If no address of any such person appears or is not known to the
+Building Official, then a copy of the notice and order shall be so mailed,
+addressed to such person, at the address of the property involved in the
+proceedings. The failure of any such person to receive such notice shall not
+affect the validity of any proceedings taken under this section. Service by
+certified mail in the manner herein provided shall be effective on the date of
+mailing. (Ord. 2009-02, - - ; amd. Ord. O-2024-03, - - )
+8-2-11: VACATION AND DEMOLITION:
+The Following standards shall be followed by the Building Official (and by the
+Governing Body if an appeal is taken) in ordering the vacation or demolition of
+any dangerous building or structure:
+   A.   Any building declared a dangerous building under this code shall be
+made to comply with one of the following:
+      1.   The building shall be repaired in accordance with the current
+building code or other current code applicable to the type of substandard
+conditions requiring repair; or
+      2.   The building shall be demolished at the option of the building
+owner; or
+      3.   If the building does not constitute an immediate danger to the life,
+limb, property or safety of the public, it may be vacated, secured and
+maintained again.
+      4.   Such remedial steps shall be taken as designated by the Building
+Official in the notice or as later determined.
+   B.   If any building or structure is in such condition as to make it
+immediately dangerous to the life, limb property or safety of the public or its
+occupants, it shall be ordered to be vacated and demolished. (Ord. 2009-02, - -
+; amd. Ord. O-2024-03, - - )
+8-2-12: NOTICE TO VACATE:
+   A.   Posting: Every notice to vacate shall, in addition to being served as
+provided in Section
+8-2-9 and
+8-2-10, be posed at or upon each exit of the building and shall be in
+substantially the following form:
+DO NOT ENTER
+UNSAFE TO OCCUPY
+It is a misdemeanor to occupy this building, or to remove or deface this
+notice.
+Building Official of Power County, Idaho
+(Ord. 2009-02, - - ; amd. Ord. O-2024-03, - - )
+8-2-13: COMPLIANCE:
+Whenever such notice is posted, the Building Official shall include a
+notification thereof in the notice and order issued under Section
+8-2-8, Reciting the emergency and specifying the conditions which necessitate
+the posting. No person shall remain in or enter any building, which has been so
+posted, except that entry may be made to demolish or remove such building. No
+person shall remove or deface any such notice after it is posted until the
+required repair, demolition, or removal has been completed and a certificate of
+occupancy has been issued, or the building official has certified the repair
+and compliance. (Ord. 2009-02, - - ; amd. Ord. O-2024-03, - - )
+8-2-14: APPEAL PROCESS:
+Any person receiving notice and order under Section
+8-2-8 may appeal any action by the Building Official under his/her regulation
+by filing a written appeal at the Planning Administrators office. This appeal
+shall be filed within ten (10) days from the date of service of such order or
+action of the Building Official. Processing of Appeal:
+   A.   Upon receipt of any appeal filed pursuant to this section, the Planning
+Administrator shall present it at the next regular or special meeting of the
+Planning and Zoning Commission with no deposit required.
+   B.   As soon as practicable after receiving the written appeal, the Planning
+Administrator shall fix a date, time for the hearing of the appeal. Such date
+shall not be less than ten (10) days or more than sixty (60) days from the date
+the appeal was filed with the Planning Administrator.
+   C.   Written notice of the time and place of the hearing shall be given at
+least ten (10) days prior to the date of the hearing to each appellant and the
+Building Official by the Planning Administrator either by causing a copy of
+such notice to be delivered to the appellant or Official by ailing a copy
+thereof.
+   D.   Any person felt to be aggrieved by any notice or order of the Building
+Official may file a written appeal with the Planning Administrator, which
+appeal shall state the legal interest of the appeal shall state the legal
+interest of the appellant, a brief statement of the specific action or order
+protested, and a statement of any material facts claim to support the
+contentions of the appellant. The appeal shall also contain a brief statement
+of the relief sought and reasons why it is claimed to protested order actions
+should be reversed, modified, or otherwise set aside. The appeal shall contain
+the signature, official mailing address, email address and telephone number of
+any and all appellants.
+   E.   Failure of any person to file an appeal in accordance with the
+provisions listed shall constitute a waiver of the right to an administrative
+hearing and adjudication of the notice and order or any portion thereof.
+   F.   Except for vacation orders made pursuant to Section
+8-2-11, enforcement of any notice and order of the Building Official issued
+under this regulation shall be stayed during the pending or an appeal there
+from which is properly and timely filed.
+   G.   Appeal procedure shall be as follows.
+      1.   The Planning and Zoning Commission shall schedule the hearing on the
+appeal, and shall notify the Building Official and the appellant of the date
+and time of that hearing.
+      2.   The Planning and Zoning Commission at the hearing on the appeal may
+place witnesses under oath, receive exhibits and consider the presentation and
+arguments of all parties.
+      3.   The Planning and Zoning Commission may take a matter under
+advisement, and issue a decision in due course, or issue a decision at the time
+of the hearing on the appeal.
+      4.   Subpoena powers for attendance at the hearing and shall be available
+for any party, through the Planning and Zoning Commission.
+      5.   The Planning and Zoning Commission may make such further regulations
+or procedures as is necessary to conduct the hearing on the appeal, to
+informally and yet appropriately reach a decision
+      6.   The decision of the Planning and Zoning Commission shall be in
+writing and shall contain Findings of Fact and a determination of the issues
+presented and the requirements for compliance. A copy of the decision shall be
+delivered through the appellant personally or sent by certified mail, and
+posted upon the property.
+      7.   The PZC’s decision may be appealed to the BOCC using the appeals
+procedure of subsection 8-10-2 of this chapter. Any person wishing to appeal a
+decision shall file a notice of appeal with the Building Official within
+fourteen (14) days after notice of the decision of the Planning and Zoning
+Commission.
+      8.   The Board of County Commissioners shall schedule the hearing on the
+appeal, and shall notify the Building Official and the appellant of the date
+and time of that hearing.
+      9.   The Board of County Commissioners, at the hearing on the appeal, may
+place witnesses under oath, receive exhibits and consider the presentation and
+arguments of all parties.
+      10.   The Board of County Commissioners may take a matter under
+advisement, and issue a decision in due course, or issue a decision at the time
+of the hearing on the appeal.
+      11.   Subpoena powers for attendance at the hearing and shall be
+available for any party, through the Board of County Commissioners.
+      12.   The Board of County Commissioners may make such further regulations
+or procedures as is necessary to conduct the hearing on the appeal, to
+informally and yet appropriately reach a decision
+      13.   The decision of the Board of County Commissioners shall be in
+writing and shall contain Findings of Fact and a determination of the issues
+presented and the requirements for compliance. A copy of the decision shall be
+delivered to the appellant personally or sent by certified mail, and posted
+upon the property. (Ord. 2009-02, - - ; amd. Ord. O-2024-03, - - )
+8-2-15: RESERVED:
+8-2-16: COMPLIANCE:
+   A.   After any order of the Building Official or the governing body made
+pursuant to this regulation shall have become final, no person to whom any such
+order is directed shall fail, neglect or refuse to obey any such order. Any
+such person who fails to comply with any such order is guilty of a penalty as
+provided in Section
+8-2-18.
+   B.   If after any order of the Building Official or governing body made
+pursuant to this code has become final, the person to whom such order is
+directed shall fail, neglect or refuse to obey such order, the Building
+Official may:
+      1.   Cause the person to be prosecuted under the section addressing
+penalties.
+      2.   Institute any appropriate action to abate such nuisance or dangerous
+building. (Ord. 2009-02, - - ; amd. Ord. O-2024-03, - - )
+8-2-17: COSTS:
+The expense incurred in the abatement of a nuisance or dangerous building shall
+be made a personal obligation of the property owner. The Building Official
+shall receive a record of all costs incurred to abate property, which shall
+include any and all costs incurred in enforcing this ordinance, including
+administrative costs and attorney fees.
+   A.   The Building Official will give all receipts and information to the
+County Clerk to send a statement of such costs to the last know address of the
+owner of record of such property.
+   B.   If such costs are not paid within ten (10) days from the mailing of
+such notice, the Governing Body may proceed to pass a resolution levying a
+Special Assessments for such charges against the property legally described in
+the notice as sent by the Building Official. The Governing Body shall certify
+such assessments and taxes are collected and paid to the County. The costs
+shall become a lien on any real property owned by the responsible party.
+   C.   The County may take any steps allowed by Idaho law to collect its costs
+or damages. (Ord. 2009-02, - - ; amd. Ord. O-2024-03, - - )
+8-2-18: PENALTY:
+Should any person fail to comply with the notice and order or fail to request a
+hearing thereon, the Building Official may cause a compliant to be filed in the
+District Court of Power County, Idaho, against such alleged violator. Each day
+during on which a violation occurs or continues after notice has been served
+shall constitute a separate offense, or misdemeanor. (Ord. 2009-02, - - ; amd.
+Ord. O-2024-03, - - )
+8-2-19: VALIDITY:
+This act shall take precedence over any and all regulations that may conflict
+herewith and any part of any resolution that conflicts herewith is hereby
+repealed. (Ord. 2009-02, - - ; amd. Ord. O-2024-03, - - )
 TITLE 9
 FLOOD CONTROL
 CHAPTER 1
@@ -8140,71 +9407,149 @@ Note: The buffering requirements of section
 resulting in greater setback requirements.
 (Ord. 2019-01, 1-14-2019)
 CHAPTER 9
-AOCI AREA OF CITY IMPACT ZONING DISTRICT
+AOC - AREA OF IMPACT ZONING DISTRICT
 SECTION:
-10-9-1: Scope; Purpose
-10-9-2: County Retains Jurisdiction
-10-9-3: County Adoption Of City Plans And Codes
-10-9-4: Joint Review Of Development Proposals
-10-9-5: Governing Body Review Of Development Proposals
-10-9-6: Transfer Of Jurisdiction
-10-9-1: SCOPE; PURPOSE:
+10-9-1: American Falls
+10-9-2: Rockland
+10-9-3: Scope; Purpose
+10-9-4: County Retains Jurisdiction
+10-9-5: County Adoption Of City Plans And Codes
+10-9-6: Joint Review Of Development Proposals
+10-9-7: Governing Body Review Of Development Proposals
+10-9-8: Transfer Of Jurisdiction
+10-9-1: AMERICAN FALLS:
+   A.   Area Of Impact Established: As required by Idaho Code section 67-6526,
+amd. Senate Bill NO. 1403 an Area of Impact for the City of American Falls is
+hereby established.
+   B.   Area Boundaries: The boundaries of the American Falls Area of City
+Impact are illustrated on the map attached to ordinance 95-02, amd. ord. 2025-
+01, 2-10-2025 on file in the Office of the County Clerk, which is hereby made a
+part of this section. These boundaries have been established after due
+consideration of the statutorily required factors of trade area, geographic
+factors, and areas that can reasonably be expected to be annexed to the City in
+the future.
+   C.   Future Land Use Map for Area Of Impact: The future land use pattern for
+the American Falls Area of Impact, as identically incorporated into the
+Comprehensive Plan of Power County and the City of American Falls, is
+illustrated on said map, which is hereby made a part of this section.
+   D.   Ordinances Applicable:
+      1.   The American Falls Development Code, as amended, shall apply to all
+development within the Area of Impact established by this section.
+      2.   Processing of land use applications, including subdivisions,
+building permits, conditional use permits, planned unit developments,
+variances, zoning amendments, and other land use regulations within the Area of
+Impact of American Falls and Power County shall first be submitted with the
+appropriate fee to the Power County Building Administrator. After receipt of
+the appropriate fee, Power County shall forward information submitted by
+applicant to the City of American Falls for review.
+   E.   Governing Body Review Of Development Proposals: Final hearings and
+action on all zoning matters, and the final plat of all subdivisions within the
+Area of Impact established by this section, shall be heard by Power County
+Planning and Zoning Commission. City of American Falls Development Code will be
+taken into consideration for properties located in the impact area.
+   F.   Final Appeal: Final appeals of the decisions of the Power County
+Planning and Zoning Commission in regard to the Area of Impact shall be
+referred to the Power County Commissioners. The Power County Commissioners
+shall determine whether the decision being appealed is in compliance with the
+Comprehensive Plan and the American Falls Development Code, and affirm, modify,
+or overturn that decision accordingly. (Ord. 2018-05, 10-1-2018; amd. Ord. O-
+2025-1, 2-10-2025)
+10-9-2: ROCKLAND:
+   A.   Area Of City Impact Established: As required by Idaho Code section 67-
+6526, amd Senate Bill NO. 1403, Area of Impact for the City of Rockland is
+hereby established.
+   B.   Area Boundaries: The boundaries of the Rockland Area of City Impact are
+illustrated on the map attached to ordinance 98-02, amd. ordinance 2025-01, 2-
+10-2025 on file in the Office of the County Clerk, which is hereby made a part
+of this section. These boundaries have been established after due consideration
+of the statutorily required factors of trade area, geographic factors, and
+areas that can reasonably be expected to be annexed to the City in the future.
+   C.   Future Land Use Map For Area Of Impact: The future land use pattern for
+the Rockland Area of Impact, as identically incorporated into the Comprehensive
+Plans of Power County and the City of Rockland, is illustrated on said map,
+which is hereby made a part of this section.
+   D.   Ordinances Applicable:
+      1.   The Rockland Development Code, as amended, or the County Development
+Code, and the most restrictive Code shall apply to all development within the
+Area of Impact established by this section. However, this language is not to
+imply that the two (2) codes may not work in conjunction with one another. The
+intent is to promote safety.
+   E.   Governing Body Review Of Development Proposals:
+      1.   Action on all zoning matters, and the final plat of all subdivisions
+within the Area of Impact established by this section, shall be taken by the
+Power County Planning and Zoning Commission and shall be governed by Rockland
+Development Code.
+      2.   Approval of appeals, by the Power County Commissioners, shall be
+based on compliance with the Rockland Development Code and/or the County
+Development Code as stipulated in subsection D1 of this section, except where
+that requirement has previously been waived by the Rockland City Council.
+   F.   Transfer Of Jurisdiction: Any developer may, upon filing a complete and
+properly prepared petition for annexation to the City of Rockland, request that
+Planning, Zoning and Building Code jurisdiction be immediately transferred to
+the City, in advance of the final approval of the annexation. This request
+shall be made, in writing, to the County Zoning Administrator, who shall
+independently confirm that the request for annexation has been properly filed,
+and notify the City of Rockland of the transfer of jurisdiction. (Ord. 2018-05,
+10-1-2018; amd. Ord. O-2025-1, 2-10-2025)
+10-9-3: SCOPE; PURPOSE:
 This chapter provides for the zoning of the American Falls and Rockland Areas
-of City Impact. It places the Areas of City Impact in a single zoning district,
-within which the County will enforce the cities' plans and ordinances. (Ord.
-2019-01, 1-14-2019)
-10-9-2: COUNTY RETAINS JURISDICTION:
+of Impact. It places the Areas of Impact in a single zoning district, within
+which the County will enforce the cities’ plans and ordinances. (Ord. 2019-01,
+1-14-2019; amd Ord. 2025-01, 2-10-2025)
+10-9-4: COUNTY RETAINS JURISDICTION:
 The County retains jurisdiction over the area of impact, except as provided in
 this chapter.
    A.   American Falls: All applications for the approval of subdivisions,
-special use permits, and Zoning Map amendments, will be reviewed and approved
-by the city. The County retains jurisdiction over the area of American Falls
-Area of City Impact only as an Appellate Court.
-   B.   Rockland: All applications for the approval of subdivisions, special
-use permits, and Zoning Map amendments, will be reviewed and approved by the
-city. The County retains jurisdiction over the Area of Rockland City Impact
-only as an Appellate Court. (Ord. 2019-01, 1-14-2019)
-10-9-3: COUNTY ADOPTION OF CITY PLANS AND CODES:
-   A.   American Falls: The County hereby adopts the "American Falls
-Comprehensive Plan" and "American Falls Development Code" by reference, as they
-apply to the American Falls Area of City Impact.
-   B.   Rockland: The County hereby adopts the "Rockland Comprehensive Plan"
-and "Rockland Development Code" by reference, as they apply to the Rockland
-Area of City Impact. (Ord. 2019-01, 1-14-2019)
-10-9-4: JOINT REVIEW OF DEVELOPMENT PROPOSALS:
-   A.   The City of American Falls shall be invited to appoint a member of the
-City Council to also serve as a member of the County Planning and Zoning Board
-for the purpose of serving as a liaison between the two (2) boards.
-   B.   The City of Rockland shall be invited to appoint a member of the City
-Council to also serve as a member of the County Planning and Zoning Board for
-the purpose of serving as a liaison between the two (2) boards.
+conditional use permits, and zoning map amendments, will be reviewed and
+approved by the County. The County retains jurisdiction over the Area of
+Impact.
+   B.   Rockland: All applications for the approval of subdivisions,
+conditional use permits, and zoning map amendments, will be reviewed and
+approved by the County. The County retains jurisdiction over the Area of
+Impact. (Ord. 2019-01, 1-14-2019; amd Ord. 2025-01, 2-10-2025)
+10-9-5: COUNTY ADOPTION OF CITY PLANS AND CODES:
+   A.   American Falls: The County hereby adopts the “American Falls
+Comprehensive Plan” and “American Falls Development Code” by reference, as they
+apply to the American Falls Area of Impact.
+   B.   Rockland: The County hereby adopts the “Rockland Comprehensive Plan”
+and “Rockland Development Code” by reference, as they apply to the Rockland
+Area of Impact. (Ord. 2019-01, 1-14-2019; amd Ord. 2025-01, 2-10-2025)
+10-9-6: JOINT REVIEW OF DEVELOPMENT PROPOSALS:
+   A.   The City of American Falls shall be invited to appoint a member of its
+City Council to act as a liaison between the City Council and County Planning
+and Zoning Board.
+   B.   The City of Rockland shall be invited to appoint a member of its City
+Council to act as a liaison between the City Council and County Planning and
+Zoning Board.
       1.   Public hearings shall be held in accordance to Idaho law.
          a.   The County Planning and Zoning Commission is responsible for
 calendaring the hearings.
          b.   The County Planning and Zoning Commission Chairperson shall
 preside and conduct the hearing.
-   C.   The city and Power County Planning and Zoning Commissions may jointly
+   C.   Each city with Power County Planning and Zoning Commission may jointly
 grant a waiver of specified requirements of the American Falls or Rockland
 Development Codes, where compliance with those requirements is impractical, in
 advance of annexation, and annexation is not possible. (Ord. 2019-01, 1-14-
-2019)
-10-9-5: GOVERNING BODY REVIEW OF DEVELOPMENT PROPOSALS:
+2019; amd Ord. 2025-01, 2-10-2025)
+10-9-7: GOVERNING BODY REVIEW OF DEVELOPMENT PROPOSALS:
    A.   Except where jurisdiction is transferred prior to annexation, as
-provided below, all appeals from decisions in the Area of City Impact shall be
-taken by the BOCC, as provided in this title.
+provided below, all appeals from decisions in the Area of Impact shall be taken
+by the BOCC, as provided in this title.
    B.   The final plat of all subdivisions within the area of impact
-established by this title must be approved by both Governing Bodies. Approval
-shall be based on compliance with the American Falls or Rockland Development
-Code, and final plat approval shall be obtained from the city before requesting
-final approval from Power County. (Ord. 2019-01, 1-14-2019)
-10-9-6: TRANSFER OF JURISDICTION:
+established by this title must be approved by both the City Council and County
+Planning and Zoning Board. Approval shall be based on compliance with the
+American Falls or Rockland Development Code, and final plat approval shall be
+obtained from the city before requesting final approval from Power County.
+(Ord. 2019-01, 1-14-2019; amd Ord. 2025-01, 2-10-2025)
+10-9-8: TRANSFER OF JURISDICTION:
 Any developer may, upon filing a complete and properly prepared petition for
 annexation to the City of American Falls or the City of Rockland, request that
 planning, zoning, and Building Code jurisdiction be immediately transferred to
 the city, in advance of the final approval of the annexation. This request
-shall be made, in writing, to the Administrator, who shall independently
-confirm that the request for annexation has been properly filed and notify the
-city of the transfer of jurisdiction. (Ord. 2019-01, 1-14-2019)
+shall be made, in writing, to the Power County Building Administrator, who
+shall independently confirm that the request for annexation has been properly
+filed and notify the city of the transfer of jurisdiction. (Ord. 2019-01, 1-14-
+2019; amd Ord. 2025-01, 2-10-2025)
 CHAPTER 10
 ASOD AIRPORT SAFETY OVERLAY DISTRICT
 SECTION:
@@ -13199,3 +14544,477 @@ occupancy of any buildings, structures, or premises in violation of this
 chapter together with appropriate damages therefor. These remedies shall be
 accumulative and in addition to all other legal remedies and penalties herein
 set forth in this section and/or provided by law. (Ord. 2010-05, 6-14-2010)
+CHAPTER 23
+SOLAR FARMS
+SECTION:
+10-23-1: Purpose and Scope
+10-23-2: Permitting Requirements
+10-23-3: Definitions
+10-23-4: Burden Of Proof
+10-23-5: Areas Limiting Solar Facility Location
+10-23-6: Areas Prohibiting Solar Facility Location
+10-23-7: Conditional Use Permit
+10-23-8: Preexisting And Future Solar Facilities
+10-23-9: Compliance
+10-23-10: Additional Requirements For Solar Farms
+10-23-11: Transfer Of Ownership
+10-23-1: PURPOSE AND SCOPE:
+This Chapter establishes the regulations and siting criteria for new and
+expanding energy generation projects in Power County. The regulations contained
+herein are designed to protect and promote the public health, safety, and
+community welfare of Power County; to promote the proper location and
+development of such projects based on the effective use of local resources; and
+avoid unreasonable adverse impacts on the use and peaceful enjoyment of nearby
+lands for lawful purposes.
+The Planning and Zoning Commission (“PZC”) should carefully consider
+alternatives to locating solar facility and structures on any type of working
+agricultural land, including CRP land, due to the potential adverse impact.
+Alternatives on public land or land not actively managed or used for
+agriculture should be preferred. The location of the solar array systems must
+be in compliance with the Power County comprehensive plan. (Ord. - - )
+10-23-2: PERMITTING REQUIREMENTS:
+   A.   Relationship to Other Procedural Requirements: The following
+requirements apply to all solar energy facilities within this Title. Where
+there is a conflict between these requirements and those noted elsewhere in
+Title 10, the requirements of this Chapter shall govern.
+   B.   Permit Required: A permit is required prior to commencing any
+construction or ground-disturbing activities related to the installation of a
+small-scale or large-scale energy project.
+   C.   Coordination and Documentation: The applicant shall provide the County
+with copies of all applications for state and federal permits and licenses at
+the time of submitting a permit application, or within 30 calendar days after
+receiving notice of an incomplete application. Upon the issuance of any state
+or federal permits or licenses, environmental assessments, records of decision,
+memoranda of understanding, exemptions, variances, or other similar
+authorizations of approvals related to the proposed energy project, the
+applicant shall provide copies of these documents to the County. (Ord. - - )
+10-23-3: DEFINITIONS:
+All definitions are also listed in Power County Code
+Title 1, Chapter 3.
+AGRIVOLTAICS: The co-located use of land to integrate agricultural practices
+with solar photovoltaic energy generation in a mutually beneficial manner.
+BATTERY STORAGE FACILITY: An energy storage facility that uses battery
+technologies to absorb electricity, store that electricity for a period of
+time, and then deliver that electricity to the electric grid. Battery
+enclosures and battery systems, and other equipment used to support the
+operation of battery storage facilities, including underground or aboveground
+electrical transmission or communication lines, electric transformers,
+telecommunications equipment, and access road(s).
+COMMERCIAL OPERATION DATE: The date in which the system becomes fully
+operational and can begin selling power.
+LARGE-SCALE SOLAR POWER FACILITY: A solar energy array capable of producing
+and/or storing, as per nameplate capacity, 10 megawatts (MW) or more; or solar
+power facilities that encumber 100 or more acres of land.
+NAMEPLATE CAPACITY: The maximum energy output that an energy generator can
+produce without exceeding design thermal limits.
+PERSONAL-USE SOLAR POWER FACILITY: A solar energy array with a total nameplate
+capacity of 200 kilowatts or less, associated with single or two-family
+dwellings, or personal use.
+SMALL-SCALE SOLAR POWER FACILITY: A solar energy array with a nameplate
+capacity of 200 kilowatts to ten megawatts that does not otherwise meet the
+definition of large-scale solar power facilities.
+SOLAR ENERGY ARRAY: A collection of solar panels that generate electricity.
+SOLAR POWER FACILITY: A solar energy array, the related facility and equipment,
+including but not limited to, underground or aboveground electrical
+transmission or communications lines, electric transformers, battery storage
+facility, telecommunications equipment, roads, fencing, meteorological towers,
+agrivoltaics systems, and/or maintenance yards and structures. (Ord. - - )
+10-23-4: BURDEN OF PROOF:
+   A.   The applicant shall have the burden of proving compliance, and the
+intent to comply, with all applicable requirements of this Title. In addition
+to the application requirements detailed in this Title, the County reserves the
+right to require additional information as needed to make an informed decision
+regarding a permit request. (Ord. - - )
+10-23-5: AREAS LIMITING SOLAR FACILITY LOCATION:
+Solar facilities may be permitted in the following areas, subject to
+conditional use and approval by the PZC but are subject to review and approval
+of the federal aviation administration (FAA) and other appropriate agencies, if
+applicable:
+   A.   One-half (1/2) mile radius from heliports.
+   B.   One mile radius from private airport runway(s).
+   C.   Three (3) mile radius from public use airport runway(s).
+   D.   Applicants for projects within an airport influence area shall certify
+compliance with or exemption from all Federal Aviation Administration (FAA)
+Regulations. (Ord. 2002-02, 4-1-2002; amd. Ord. - - )
+10-23-6: AREAS PROHIBITING TELECOMMUNICATION FACILITY LOCATION:
+No solar facilities will be allowed in the following areas:
+   A.   Historic sites, as defined by state and/or federal regulation.
+   B.   Critical species habitats, as defined by state and/or federal
+regulation.
+   C.   Wetlands, as defined by state and/or federal regulation.
+   D.   Floodplains, as defined by state and/or federal regulation.
+   E.   Prohibited within five hundred feet (500') of hospitals, schools,
+institutions of higher education, and daycare centers for purpose of allaying
+possible safety concerns.
+   F.   Between I-86 and the Snake River, from Rockland interchange west to the
+Cold Water exit interchange. (Ord. 2002-02, 4-1-2002; amd. Ord. - - )
+10-23-7: CONDITIONAL USE PERMIT:
+   A.   All solar installation except residential use solar facilities as
+defined in
+10-23-3 shall require an approved Conditional use permit.
+   B.   Application: In addition to the conditional use permit application
+requirements the following information shall be included in the application.
+      1.   Proof of a lease, deed or purchase agreement for the parcel for the
+proposed solar farm;
+      2.   Report from Power County Treasurer and/or Assessors office on how
+electrical entity will affect Power County tax base at proposed location.
+      3.   Type of solar panel to be used and any hazardous chemicals contained
+in the solar panels and measures to prevent leakage;
+      4.   Name and address of the manufacturer, and model of the solar panels;
+      5.   Expected energy output and anticipated useful life of the system,
+development phases, likely markets for the generated energy, and possible
+future expansions;
+      6.   Information on the visual impact of the proposed solar farm using
+photos or computer-generated images of the project on the site to demonstrate
+the appearance of the project from off site.
+      7.   Agricultural impact analysis. An analysis reviewing soils types,
+existing use of land and water showing the projected change to the agricultural
+impact to County production and water usage.
+      8.   Storm water management plan. An engineered plan showing the impact
+of the impervious surface change and the management of the projected increase
+in runoff.
+      9.   Maintenance and construction schedule. The applicant shall provide a
+written description of the maintenance program to be used to maintain the solar
+energy system, and the anticipated construction schedule;
+      10.   Digital versions of all planning and construction documents
+submitted in PDF format.
+      11.   A decommissioning plan as required by section
+10-23-9 C;
+      12.   Distance from the proposed solar farm to the nearest habitable
+dwelling unit on a parcel which does not contain the solar farm;
+      13.   A security plan detailing on-site security provisions which may
+include fencing, security guards, video surveillance, and similar measures;
+      14.   A landscaping plan illustrating the number, size, type and spacing
+of trees proposed to screen the solar farm from nearby roadways;
+      15.   Additional information, documentation, and conditions as may be
+requested by the PZC; and
+      16.   The PZC may waive or modify some of the above requirements at the
+request of the applicant if the PZC determines that those items would not be
+needed to properly review the project.
+   B.   Findings. To approve a conditional use permit for a solar facility, the
+PZC shall find that:
+      1.   The applicable procedural requirements have been met;
+      2.   The proposal is compatible with existing homes, businesses and
+neighborhoods and with the natural characteristic of the area.
+      3.   The proposal adequately addresses site constraints or hazards, and
+adequately mitigates any negative environmental, social and economic impacts.
+      4.   Services and facilities for the proposal are available and adequate.
+      5.   The proposal will meet the duly adopted requirements of other
+agencies with jurisdiction.
+      6.   The proposal is not in conflict with the comprehensive plan.
+   C.   Decommissioning: The applicant shall submit a decommissioning plan to
+the County which shall address all of the following:
+      1.   Defined conditions upon which decommissioning will be initiated
+(such as, end of land lease, no power production for nine months, obsolete
+equipment and similar circumstances);
+      2.   A description as to how the useful life of the system will be
+determined and who will make this determination;
+      3.   Restoration of property to the condition prior to development of the
+solar farm including measures to ensure that soils are not contaminated during
+decommissioning;
+      4.   The timeframe for completion of decommissioning activities;
+      5.   An engineer’s cost estimate for all aspects of the decommissioning
+plan;
+      6.   Description of any agreement with the landowner regarding
+decommissioning;
+      7.   Provisions for updating the decommissioning plan;
+         a.   Removal Of Facilities: It is the express policy of Power County
+that solar facilities be removed once they are no longer in use and not a
+functional part of providing solar service and that it is the solar facility
+owner’s responsibility to remove such facilities and restore the site to its
+original condition or a condition approved by the Power County planning and
+zoning department. This restoration shall include removal of any subsurface
+structure or foundation, including concrete, used to support the solar array
+down to three feet (3') below the surface. After a solar facility is no longer
+in operation due to abandonment, the solar facility owner shall have ninety
+(90) days to effect removal and restoration unless weather prohibits such
+efforts.
+         b.    Security for Removal: The solar facility owner shall provide to
+Power County, prior to the issuance of the conditional use permit or the
+issuance of a building permit, a surety bond equal to a written estimate from a
+qualified solar facility removal contractor to guarantee that the solar
+facility will be removed when no longer in operation. Power County will be
+named as obligee in the bond and must approve the bonding company. (Ord. 2002-
+02, 4-1-2002)
+         c.   A statement signed by the owner or operator that they take full
+responsibility for reclaiming the site in accordance with the decommissioning
+plan and the conditional land use permit upon cessation of use. (Ord. - - )
+10-23-8: PREEXISTING AND FUTURE SOLAR FACILITIES:
+   A.   Nonconforming And Conforming: Solar facilities may add to, or replace
+solar array and facilities upon approval of the Power County planning and
+zoning department. Routine maintenance and repair on solar facilities is
+permitted.
+      1.   Existing Use Review: Existing Use Review For solar facilities
+Beginning January 31, 2024, all solar facility owners, applicable to the
+requirements of this chapter operating in Power County prior to the adoption of
+this chapter, shall provide the information required (including proof of bond
+and proof of insurance), of this chapter and pay an annual fee of one hundred
+fifty dollars ($150.00) per facility site on or before January 31 of each year.
+Failure to provide this information shall result in a civil forfeiture of three
+hundred dollars ($300.00) per day until the information is received by the
+Power County planning and zoning department.
+         a.   Maintenance and annual summary report. Every solar farm must be
+kept and maintained in good repair and condition at all times and shall not
+pose a potential safety hazard. The applicant shall keep a record of all
+maintenance performed and repairs made to and replacement of equipment and
+parts. The applicant shall provide a summary of this maintenance record with
+additional information listed in 10-23-8 A.1. (Ord. - - )
+10-23-9: COMPLIANCE:
+   A.   Revocation: Grounds for revocation of the conditional use permit shall
+be limited to one of the following findings:
+      1.   The owner of such site, service provider and/or solar facility owner
+fails to comply with the requirements of this chapter.
+      2.   The permittee has failed to comply with the conditions of approval
+imposed.
+   B.   Revocation Process:
+      1.   The owner of such site, service provider and/or tower owner shall be
+notified by certified mail of noncompliance by the Power County planning and
+zoning department.
+      2.   The owner shall comply with such notice within thirty (30) days to
+the satisfaction of the Power County planning and zoning department.
+      3.   If compliance is not obtained with thirty (30) days, the Power
+County planning and zoning department shall notify the Power County prosecutor
+of the noncompliance and proceed with the revocation process. (This time period
+may be extended by staff to adjust for seasonal limitations.
+   C.   Abandonment: Any solar facility that is not operated for a continuous
+period of nine (9) months shall be considered abandoned. Time may be extended
+upon review and approval of the Power County planning and zoning department, if
+the solar owner demonstrates a good faith effort to secure operation. In such
+circumstances, the following shall apply:
+      1.   The owner of such solar facility shall remove all equipment
+including all supporting equipment and building(s) within ninety (90) days of
+receipt of notice from the planning and zoning department notifying the owner
+of such abandonment. If removal to the satisfaction of the planning and zoning
+department does not occur within said ninety (90) days, the Power County Board
+may order removal utilizing the established bond and salvage solar array and
+all supporting equipment and buildings.
+      2.   The recipient of a conditional use permit for a solar facility under
+this chapter shall notify the planning and zoning department when the facility
+is no longer in operation. (Ord. 2024-05, 4,22,2024; amd. Ord. - - )
+10-23-10: ADDITIONAL REQUIREMENTS FOR SOLAR FACILITIES:
+Safety/access. A security fence shall be placed around the perimeter of the
+solar farm with a locked gate. Lock boxes and keys shall be provided at locked
+entrances for emergency personnel access. The height and material of the fence
+shall be as approved by the PZC depending upon the location of the facility.
+   A.   Building Permit. A building permit must be obtained within two years of
+approval of the conditional use permit. Commencement of the operation of the
+solar farm shall occur within two years from the date of building permit. These
+timeframes may be extended for cause upon application, review, and approval by
+the PZC.
+   B.   The facility shall be designed for interconnection to a public utility
+electrical power grid, and shall be operated with such interconnection. All
+electrical interconnection or distribution lines shall comply with all
+applicable codes.
+   C.   The portion of the premises on which the array of collector panel
+structures is located shall not be paved with asphalt or any other surface
+material that is impervious to rainwater.
+   D.   Plantings shall be installed around the perimeter of the parcel or
+parcels containing the solar farm, at the discretion of the PZC. The PZC may
+modify the landscaping requirement depending upon the location of existing
+plant material on the site or if additional plantings are needed to buffer
+existing land uses.
+   E.   Setbacks. Solar panels shall be setback a minimum of 50 feet from all
+right of way lines and ten feet from all other lot lines except solar panels
+shall not be placed closer than 100 feet from the lot line of another parcel
+containing a single-family home or residence.
+   F.   Height. A ground mounted solar energy system shall not exceed a height
+of 20 feet above natural grade at the time of project approval, as depicted on
+the site plan. The height shall be measured from the highest point of the panel
+when oriented at its maximum tilt to the ground immediately below the panel.
+   G.   Electrical Interconnections. All electrical interconnection or
+distribution lines shall comply with all applicable codes. The applicant shall
+provide evidence to the County of approval of connection from the applicable
+utility company.
+   H.   Use of above-ground transmission lines for the solar energy system
+shall be prohibited within the site. (Ord. - - )
+10-23-11: TRANSFER OF OWNERSHIP:
+Prior to a change in the ownership or operation of a solar energy system,
+including but not limited to the sale or lease of that system or the underlying
+property, the current land owner or operator shall provide written notice to
+the County at least 60 days prior to that change becoming effective. This
+notice shall inform the County of the intended transfer of control of the solar
+energy system or the underlying property, and shall include a copy of the
+instrument or agreement effectuating that transfer. Such an instrument or
+agreement shall include an express statement that the new owner or operator of
+the solar energy collector system or the underlying property shall not be
+permitted to operate that system until compliance with the terms of this
+section, including requirements for continuing security and other conditions of
+approval has been established. (Ord. - - )
+CHAPTER 24
+AGRICULTURE PROTECTION AREAS
+SECTION:
+10-24-1: Purpose
+10-24-2: Adoption of New Chapter To Zoning Ordinance
+10-24-3: Definition
+10-24-4: Creation And Designation Of APA
+10-24-5: Review Process
+10-24-6: Expansion Or Modification Of An APA
+10-24-7: Termination Of An APA
+10-24-8: Enrollment Duration And Review
+10-24-9: Fees
+10-24-10: Enforcement, Prohibitions, And Penalties
+10-24-11: Severability
+10-24-12: Effective Date
+10-24-1: PURPOSE:
+The purpose of this chapter is to provide for agricultural and timber producers
+of Power County may make application to commit lands actively devoted to
+agriculture for future agricultural use. An APA designation aims to protect
+productive farmland, rangeland, and forest land; promote farm viability;
+support the local agricultural economy; and provide for long-term planning
+stability. This ordinance sets out the process for creation of Agriculture
+Protection Areas. (Ord. O-2025-02, 4-28-2025)
+10-24-2: ADOPTION OF NEW CHAPTER TO ZONING ORDINANCE:
+The Power County Title 10 - Development Code is hereby amended to add the
+following new chapter 24 - Agriculture Protection Areas. (Ord. O-2025-02, 4-28-
+2025)
+10-24-3: DEFINITION:
+For the purpose of this Chapter, the following definitions shall apply unless
+the context clearly indicates or requires a different meaning.
+AGRICULTURE PRODUCTION: Activities or conditions conducted on the land actively
+devoted to agriculture as defined in section 63-604, Idaho Code, or on forest
+land as defined in section 63-1701, Idaho Code.
+AGRICULTURE PROTECTION AREA (APA): Specific parcels of land in a designated
+geographic area voluntarily created under the authority of this chapter for the
+purpose of protecting and preserving agricultural land.
+AGRICULTURE PROTECTION AREA COMMISSION: The advisory board to governing body
+created pursuant to section 67-97085, Idaho Code.
+APPLICANT: Anyone who owns fire (5) contiguous acres or more of land that has
+been in active agricultural or forest production for the previous three (3)
+consecutive years, consistent with the provision of section 63-604 and 63-1701,
+Idaho Code, and who voluntarily applies for that land to be part of an
+agricultural protection area.
+AREA OF IMPACT (AOI): Area designated by county ordinance where city growth and
+development are expected to occur.
+HARDSHIP: A situation or circumstance over which a landowner in an agricultural
+protection area has no control and can the petition for removal for reasons
+that include but are not limited to an adverse result in litigation against the
+farm or landowner, death of a close family member that would lead to
+unanticipated financial hardships, significant tax liabilities, bankruptcy due
+to another person’s fraud, or any other illegal activity.
+PROPOSAL: Written documents submitted to a governing board or agricultural
+protection area commission from a landowner regarding his property. (Ord. O-
+2025-02, 4-28-2025)
+10-24-4: CREATION AND DESIGNATION OF APA:
+   A.   An Agriculture Protection Area shall be designated as an “APA.” An APA
+designation is a voluntary land use designation available to landowners who
+wish to protect their agricultural land from future nonagricultural
+development. To qualify for an APA designation, the land must be:
+      1.   At least five (5) continuous acres,
+      2.   Actively devoted to an agricultural or forest purpose,
+      3.   Assessed as agriculture or forest land, and
+      4.   Located within a zone that allows for agricultural or forest use.
+   B.   Landowners wishing to establish an APA must submit an application to
+the Power County Planning and Zoning office. At a minimum, the application
+shall include the following:
+      1.   Name, phone number, email, and mailing address of the land owner,
+      2.   Proof of land ownership,
+      3.   A legal description of the parcels, structures, and facilities
+proposed to be included in the APA,
+      4.   A map showing the boundaries of the proposed APA,
+      5.   A statement outlining the current contiguous acreages of land, land
+use, agricultural productivity, and other relevant characteristics of the land
+to be included in the APA,
+      6.   The number of years the land has been in agricultural or forest
+production, the types of agricultural or forest commodities produced, and the
+applicants plan to continue using the land for agricultural purposes,
+      7.   Proximity to planned development with existing entitlements,
+      8.   Agricultural production capability of the land within the proposed
+APA, and
+      9.   Other local impacts relevant to the proposed APA.
+   C.   Notwithstanding the criteria and review process outlined in this code,
+the board of County Commissioners may place additional conditions on lands
+designated as an APA, including, but not limited to, setbacks from existing
+public rights of way, setbacks from existing public structures, and a review of
+the land’s APA designation after twenty (20) years.
+   D.   Once the APA Commission makes it recommendation to the Board of County
+Commissioners they shall hold a public hearing and issue its decision within
+sixty (60) days. Failure to make a decision shall render the APA Commission’s
+recommendation final. The Board of County Commissioners decision shall include
+findings of facts supporting its decision.
+   E.   Upon making its decision, the Board of County Commissioners shall:
+      1.   Record the designation of an APA, a legal description of the area,
+and any findings and facts with the county recorder within ten (10) days;
+      2.   Amend county land use planning maps to reflect the boundaries of the
+APA; and
+      3.   Notify relevant public officials and agencies of the designation.
+(Ord. O-2025-02, 4-28-2025)
+10-24-5: REVIEW PROCESS:
+   A.   Upon receipt of a completed application, the APA commission shall
+review the proposal and make a recommendation to the Board of County
+Commissioners within sixty (60) days of receiving the application. The
+application shall be evaluated on the following criteria:
+      1.   The total contiguous acreage of the land is at least five (5) acres
+in size and is actively devoted to agricultural or forest production,
+      2.   Adjacent to an existing Area of City Impact,
+      3.   Possible conflict with existing city annexation or development plans
+or agreements,
+      4.   Proximity to existing public rights of way,
+      5.   Proximity to planned transportation corridors or future public
+rights of way,
+      6.   Proximity to planned airport expansion or development,
+      7.   Proximity to planned development with existing entitlements,
+      8.   Agricultural production capability of the land within the proposed
+APA, and
+      9.   Other local impacts relevant to the proposed APA.
+   B.   Notwithstanding the criteria and review process outlined in this code,
+the Board of County Commissioners may place additional conditions on lands
+designated as an APA, including, but not limited to, setbacks from existing
+public rights of way, setbacks from existing public structures, and a review of
+the land’s APA designation after twenty (20) years.
+   C.   Once the APA Commission makes its recommendation to the Board of County
+Commissioners, the Board of County Commissioners shall hold a public hearing
+and issue its decision within 60 days. Failure to decide shall render the APA
+Commission’s recommendation final. The Board of County Commissioners decision
+shall include findings and facts supporting its decision.
+   D.   Upon making its decision, the Board of County Commissioners shall:
+      1.   Record the designation of an APA, a legal description of the area,
+and any findings and facts with the County Recorder within ten (10) days;
+      2.   Amend county land use planning maps to reflect the boundaries of the
+APA; and
+      3.   Notify relevant Public Officials and agencies of the designation.
+(Ord. O-2025-02, 4-28-2025)
+10-24-6: EXPANSION OR MODIFICATION OF AN APA:
+An expansion, modification, or removal of an existing APA shall follow the same
+application, review, and hearing procedures outlined in this code. Any
+expansion of an APA Shall be contiguous to the APA. (Ord. O-2025-02, 4-28-2025)
+10-24-7: TERMINATION OF AN APA:
+A Landowner wishing to terminate an APA must request in writing a meeting with
+the Board of County Commissioners. The meeting request shall include a proof of
+hardship submitted to the Power County Planning Administrator. Early
+termination of the APA shall only occur upon the proving by the land owner of
+an undue hardship as defined in this code. The landowner seeking to terminate
+an APA is not taken lightly, and will be carefully considered. (Ord. O-2025-02,
+4-28-2025)
+10-24-8: ENROLLMENT DURATION AND REVIEW:
+Lands designated as an APA will remain so designated for a period of twenty
+(20) years. A landowner wishing to end an approved APA designation after twenty
+(20) years must notify the Board of County Commissioners in writing of their
+desire not to renew the land’s APA designation. Failure of the landowner to
+notify the County, or failure of the County to review the APA terns, will
+result in the APA designation continuing for another twenty (20) years. (Ord.
+O-2025-02, 4-28-2025)
+10-24-9: FEES:
+An application fee shall be required to cover administrative costs, including,
+but not limited to, reviewing materials, conduction public meeting and
+hearings, processing and recording documents, and updating county land use
+maps. (Ord. O-2025-02, 4-28-2025)
+10-24-10: ENFORCEMENT, PROHIBITIONS, AND PENALTIES:
+   A.   Unless otherwise approved by the Board of County Commissioners, the
+following land uses are not allowed within an APA:
+      1.   The siting of large confined animal feeding operation (CAFO);
+      2.   The siting of residential, commercial, manufacturing, industrial,
+solar energy, wind energy, or battery storage structures; or
+      3.   Any other nonagricultural land uses.
+   B.   The Board of County Commissioners or acting code enforcement officer
+shall be responsible for enforcing the provisions of this ordinance. Any person
+found to be in violation of this code shall be guilty of a misdemeanor and
+punishable as provided in Section 18-113, Idaho Code. (Ord. O-2025-02, 4-28-
+2025)
+10-24-11: SEVERABILITY:
+If any section, subsection, sentence, cause, or phrase of this title is held to
+be invalid by any court of competent jurisdiction, such decision shall not
+affect the validity of the remaining portions of this title and they shall
+remain in full force and effect. (Ord. O-2025-02, 4-28-2025)
+10-24-12: EFFECTIVE DATE:
+This chapter shall be in full force and effect from and after its passage,
+approval and publication according to law. (Ord. O-2025-02, 4-28-2025)
