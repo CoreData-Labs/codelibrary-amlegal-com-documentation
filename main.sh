@@ -39,7 +39,7 @@ function main() {
         # Push if:
         #   A) File changes exceed threshold
         #   B) Max wait time exceeded
-        if [[ $changed_files_count -ge $MIN_CHANGE_THRESHOLD && $elapsed_seconds -ge $MIN_WAIT_SECONDS ]]; then
+        if [[ $changed_files_count -ge $MIN_CHANGE_THRESHOLD || $elapsed_seconds -ge $MIN_WAIT_SECONDS ]]; then
 
             # No-op protection: avoid empty commits
             if [[ $changed_files_count -eq 0 ]]; then
