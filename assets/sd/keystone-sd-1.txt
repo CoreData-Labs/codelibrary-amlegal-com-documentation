@@ -571,7 +571,7 @@ Health Officer
 31.61   General powers and duties
    
 31.62   Right of entry
-FINANCE OFFICER
+*** FINANCE OFFICER ***
 § 31.01 APPOINTMENT.
    There shall be appointed a Finance Officer instead of an Auditor, Clerk and
 Treasurer. The Finance Officer shall perform all of the duties of the Auditor,
@@ -668,7 +668,7 @@ inventory shall also include the Police Department.
 (1992 Code, § 1-2-8) (Ord. 31, § 4-8, passed 10-1-1975)
 Statutory reference:
    Authority, see SDCL Ch. 9-14
-MUNICIPAL ATTORNEY
+*** MUNICIPAL ATTORNEY ***
 § 31.25 APPOINTMENT.
    There is hereby created the Office of Municipal Attorney, an executive
 office of the town. The Attorney shall be appointed by the Board of Trustees.
@@ -687,7 +687,7 @@ he or she shall reduce the opinion to writing.
 (1992 Code, § 1-2-10) (Ord. 31, § 5-1, passed 10-1-1975)
 Statutory reference:
    Authority, see SDCL Ch. 9-14
-ENGINEER
+*** ENGINEER ***
 § 31.40 APPOINTMENT.
    There is hereby created the position of Engineer. The Engineer shall be
 appointed by the Board of Trustees.
@@ -707,7 +707,7 @@ the other duties as may be directed to his or her office.
 (1992 Code, § 1-2-13) (Ord. 31, § 6-3, passed 10-1-1975)
 Statutory reference:
    Authority, see SDCL Ch. 9-14
-HEALTH OFFICER
+*** HEALTH OFFICER ***
 § 31.60 APPOINTMENT; QUALIFICATIONS; TERM OF OFFICE.
    On the first meeting of the Board of Trustees in the month of May of each
 year, there may be appointed by the Board, 1 Health Officer who shall be a
@@ -780,7 +780,7 @@ Library Board
 32.60   Powers, duties and limitations
    
 32.61   Reports to Board of Trustees
-PARKS AND RECREATION BOARD
+*** PARKS AND RECREATION BOARD ***
 § 32.01 BOARD CREATED.
    There is hereby created a Parks and Recreation Board for the town, to be
 known as the Keystone Parks and Recreation Board, to establish, improve, care
@@ -856,7 +856,7 @@ be subject to the limitations and enjoy those privileges and immunities all as
 provided by state law. Whenever the prior approval of the Board of Trustees is
 required before the Board can act, the prior approval shall be first obtained.
 (1992 Code, § 1-6-13) (Ord. 50, § 12, passed 12-16-1981)
-LIBRARY BOARD
+*** LIBRARY BOARD ***
 § 32.50 LIBRARY BOARD CREATED.
    There is hereby created for the Town of Keystone, a Library Board to be
 known as the Keystone Town Library Board.
@@ -1102,7 +1102,7 @@ Other Taxes
  
    
 35.99   Penalty
-RETAIL SALES AND USE TAX
+*** RETAIL SALES AND USE TAX ***
 § 35.01 PURPOSE OF SALES TAX.
    The purpose of this subchapter is to provide revenue for the Town of
 Keystone, by imposing a municipal retail sales and use tax.
@@ -1148,7 +1148,7 @@ town limits are exempt from municipal sales and use tax even if delivery is
 made to a truck of the construction company within the town.
 (1992 Code, § 11-1-4) (Ord. 31, § 12-1.4, passed 10-1-1975; Am. Ord. 11-1-4,
 passed 9-21-2005)
-OTHER TAXES
+*** OTHER TAXES ***
 § 35.05 EXCISE TAX IMPOSED.
    In addition, there is hereby imposed an excise tax on the privilege of the
 use, storage and consumption within the jurisdictions of the town of tangible
@@ -2923,7 +2923,7 @@ Routes and Zones
 70.166   Deviation or truck routes permitted temporarily
    
 70.167   Bus loading and unloading zone
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 70.001 DEFINITIONS.
    For the purpose of this title, the following definitions shall apply unless
 the context indicates or requires a different meaning.
@@ -3090,7 +3090,7 @@ authorized emergency vehicle from the duty to drive with due regard for the
 safety of all persons, nor shall the provisions protect the driver from the
 consequences of his or her reckless disregard for the safety of others.
 (1992 Code, § 12-1-85) (Ord. 31, § 15-13, passed 10-1-1975)
-PROHIBITED OPERATION OF MOTOR VEHICLE
+*** PROHIBITED OPERATION OF MOTOR VEHICLE ***
 § 70.020 OPERATION OF VEHICLE WITHOUT CERTIFICATE OF TITLE.
    The owner, or any person without the consent of the owner being first
 obtained, who shall operate a motor vehicle in this municipality under a
@@ -3158,7 +3158,7 @@ mandatory to tilt the beams of the head lamps downward, provided that at all
 times as required by state law, at least 2 lights shall be displaced on the
 front of and on opposite sides of every motor vehicle other than a motorcycle.
 (1992 Code, § 12-1-8) (Ord. 53, § 23-7, passed 2-17-1982)
-OBEDIENCE TO OFFICERS
+*** OBEDIENCE TO OFFICERS ***
 § 70.040 USE OF BLUE LIGHT BY FIREFIGHTERS.
    (A)   A motor vehicle operated by a member of an organized Fire Department
 may be equipped with 2 flashing blue lights displayed to the front or 1 blue
@@ -3192,7 +3192,7 @@ direction of a police officer or Fire Department official, given pursuant to
 this section.
 (1992 Code, § 12-1-18) (Ord. 31, § 15-3, passed 10-1-1975) Penalty, see §
 10.99
-RULES AND REGULATIONS
+*** RULES AND REGULATIONS ***
 § 70.060 OVERRIDING ROAD CONDITIONS.
    It shall be unlawful for any person to drive a motor vehicle on a highway
 located in this municipality at a speed greater than is reasonable and prudent
@@ -3663,7 +3663,7 @@ totally or partially blind person, not carrying a cane or walking stick or not
 being guided by a dog, of the rights or privileges conferred by law upon
 pedestrians crossing streets or highways.
 (1992 Code, § 12-1-83) (Ord. 31, § 15-71, passed 10-1-1975)
-MOTOR VEHICLES
+*** MOTOR VEHICLES ***
 § 70.120 BRAKES REQUIRED.
    Every motor vehicle and every trailer, semitrailer and pole trailer, any
 combination of the vehicles operating upon a highway within this state shall be
@@ -3708,7 +3708,7 @@ thereon and, when standing upon any grade, turning the front wheels of the
 vehicle to the curb or side of the street.
 (1992 Code, § 12-1-71) (Ord. 31, § 15-57, passed 10-1-1975) Penalty, see §
 10.99
-TRAFFIC DEVICES
+*** TRAFFIC DEVICES ***
 § 70.140 INSTALLATION AND MAINTENANCE OF TRAFFIC CONTROL DEVICES.
    The Chief of Police shall place and maintain provisions of the traffic
 ordinances and laws and to guide, warn and regulate traffic; the traffic
@@ -3822,7 +3822,7 @@ public nuisance and the authority having jurisdiction over the highway is
 hereby empowered to remove the same, or cause it to be removed without notice.
 (1992 Code, § 12-1-69) (Ord. 31, § 15-55, passed 10-1-1975) Penalty, see §
 10.99
-ROUTES AND ZONES
+*** ROUTES AND ZONES ***
 § 70.160 DESIGNATION OF LOADING ZONES.
    The Chief of Police is hereby authorized to determine the location of
 passenger and freight curb loading zones and shall place and maintain
@@ -3942,7 +3942,7 @@ handlebars
    
 71.32   Helmets and eye protection required for persons riding motorcycles,
 motor bikes, and the like
-SNOWMOBILES
+*** SNOWMOBILES ***
 § 71.01 OPERATING AT EXCESSIVE SPEED OR RECKLESSLY; OPERATING WITHOUT REQUIRED
 MUFFLER.
    No person shall operate a snowmobile in the following manner:
@@ -3986,7 +3986,7 @@ display a lighted head lamp and tail lamp in accordance with SDCL § 3220a as
 may have been approved by the South Dakota Department of Public Safety at least
 equivalent to that required for motorcycles.
 (1992 Code, § 12-3-4) (Ord. 54, § 24-4, passed 2-17-1982)
-MOTORCYCLES AND MOPEDS
+*** MOTORCYCLES AND MOPEDS ***
 § 71.20 OPERATING WITHOUT DRIVER’S LICENSE.
    (A)   No person shall operate a motorcycle on the public streets or highways
 without a motor vehicle driver's license or permit upon which a state testing
@@ -4363,7 +4363,7 @@ Animal Drawn Conveyances
 90.98   Enforcement
    
 90.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 90.01 ANIMAL WASTE; RESPONSIBILITY.
    (A)   No person shall create or maintain any condition or equipment or keep
 any animal, fowl, pet or insect under his or her jurisdiction in which causes
@@ -4381,7 +4381,7 @@ exempt from this section.
 mammal, bird, reptile, amphibian, or fish, except humans.
 (Ord. 2-1-12, passed 2-21-2007; Am. Ord. passed 7-18-2012) Penalty, see §
 90.99
-DOGS AND OTHER ANIMALS
+*** DOGS AND OTHER ANIMALS ***
 § 90.15 DEFINITIONS.
    For the purpose of this section, the following definitions shall apply
 unless the context indicates or requires a different meaning.
@@ -4475,7 +4475,7 @@ Control Ordinance.
    (B)   Therefore, the provisions of the Pennington County Ordinance will
 apply in any situations not directly addressed.
 (1992 Code, § 2-1-11) (Ord. 44A, § 1.0108, passed 2-18-1987)
-ANIMAL DRAWN CONVEYANCES
+*** ANIMAL DRAWN CONVEYANCES ***
 § 90.40 DEFINITIONS.
    For the purpose of this section, the following definitions shall apply
 unless the context indicates or requires a different meaning.
@@ -5143,7 +5143,7 @@ Full-Service On-Sale Restaurant Licenses
 Cross-reference:
    Animal drawn conveyances, see §§
 90.40 et seq.
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 110.01 BUSINESS LICENSES REQUIRED.
    (A)   License. No business required to have a state sales tax license not
 specifically exempt from municipal licensing shall engage in business without
@@ -5342,7 +5342,7 @@ be paid at the same time and in the same manner as the fees paid in SDCL § 35-
    (C)   All fees received under this section shall be deposited into the
 general fund of the Town of Keystone.
 (Ord. 7-5-5-B, passed 7-16-2003)
-LICENSES FOR TAXI CABS AND BUSES
+*** LICENSES FOR TAXI CABS AND BUSES ***
 § 110.30 DEFINITIONS.
    For the purpose of this section, the following definitions shall apply
 unless the context indicates or requires a different meaning.
@@ -5429,7 +5429,7 @@ at 1 time;
 to comply with the terms of the license or for the other good cause as the
 Board of Trustees may find.
 (1992 Code, § 6-2-11) (Ord. 46, § 19A-6, passed 4-18-1979)
-FULL-SERVICE ON-SALE RESTAURANT LICENSES
+*** FULL-SERVICE ON-SALE RESTAURANT LICENSES ***
 § 110.50 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context indicates or requires a different meaning.
@@ -6275,7 +6275,7 @@ Medical Cannabis Establishments
  
    
 114.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 114.01 DEFINITIONS.
    (A)   Unless an alternative definition is explicitly stated in this section,
 this chapter utilizes the definitions for cannabis-related terms which are
@@ -6334,7 +6334,7 @@ any person possess or ingest marijuana in any public place or any place that is
 open to the public.
 (Ord. passed 6-16-2021) Penalty, see §
 114.99
-LICENSING AND REGULATION OF CANNABIS ESTABLISHMENTS
+*** LICENSING AND REGULATION OF CANNABIS ESTABLISHMENTS ***
 § 114.15 LICENSE REQUIRED.
    (A)   No cannabis establishment may be located or operate in the town
 without the appropriate valid and current cannabis establishment license issued
@@ -6538,7 +6538,7 @@ only if an officer, director or general partner or a person who managed,
 supervised or controlled the operation of the cannabis establishment, knowingly
 allowed such act to occur on the premises.
 (Ord. passed 9-1-2021)
-MEDICAL CANNABIS ESTABLISHMENTS
+*** MEDICAL CANNABIS ESTABLISHMENTS ***
 § 114.35 APPLICATION FOR LOCAL PERMIT/LICENSE.
    A medical cannabis establishment desiring to operate in the town shall be
 required to apply for a permit and/or license from the town. Applications for a
@@ -7733,7 +7733,7 @@ shall not create liability on the part of the community or any official or
 employee thereof for any flood damages that result from reliance on this
 chapter or any administrative decision lawfully made thereunder.
 (1992 Code, § 4-3-6) (Ord. passed 3-6-2013)
-STATUTORY AUTHORIZATION, PURPOSE AND OBJECTIVES
+*** STATUTORY AUTHORIZATION, PURPOSE AND OBJECTIVES ***
 § 152.20 STATUTORY AUTHORIZATION.
    (A)   The Legislature of the State of South Dakota has in SDCL Ch. 9-36 and
 § 7-18-14 delegated the responsibility of local governmental units to adopt

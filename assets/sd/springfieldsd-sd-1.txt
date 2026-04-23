@@ -150,7 +150,7 @@ Article X. Transitional Provisions
 1.0261   Schedule
    
 1.0262   Effective Date of Charter
-PREAMBLE
+***** PREAMBLE *****
 We, the people of Springfield, in the county of Bon Homme and the State of
 South Dakota, in order to secure for ourselves the benefits of municipal home
 rule and to exercise all the powers of local self-government under the
@@ -158,7 +158,7 @@ Constitution and the laws of the State of South Dakota, pursuant to the
 provisions of Article IX of the Constitution of the State of South Dakota and
 as defined by Chapter 6-12 South Dakota Compiled Laws do hereby adopt this
 Charter for the City of Springfield.
-ARTICLE I. INCORPORATION-BOUNDARIES-ANNEXATION-FORM
+***** ARTICLE I. INCORPORATION-BOUNDARIES-ANNEXATION-FORM *****
 § 1.0201 INCORPORATION.
    The inhabitants of the City of Springfield within the corporate limits as
 defined in Section 102 of this Charter or subsequently altered by annexation
@@ -175,7 +175,7 @@ said annexation shall be in accordance with State Law.
 § 1.0204 FORM.
    The form of government established by this Charter shall be the “Mayor-
 Alderman Form”.
-ARTICLE II. POWERS-CONSTRUCTION-INTERGOVERNMENTAL RELATION
+***** ARTICLE II. POWERS-CONSTRUCTION-INTERGOVERNMENTAL RELATION *****
 § 1.0205 POWERS.
    The city shall have all powers possible for a city to have under the
 Constitution and laws of the State of South Dakota as fully and completely as
@@ -193,7 +193,7 @@ body, all powers shall be vested in the Common Council.
 may participate in the financing thereof, jointly or in cooperation, by
 contract or otherwise, with any one or more states, civil divisions, or public
 agencies thereof or the United States of any agency thereof.
-ARTICLE III. COMMON COUNCIL
+***** ARTICLE III. COMMON COUNCIL *****
 § 1.0208 COMPOSITION.
    There shall be a Common Council of six aldermen elected by the qualified
 voters of the city by wards, and a Mayor elected at large on a nonpolitical
@@ -384,7 +384,7 @@ regulations is available for review by the general public.
 § 1.0224 AUTHENTICATION AND RECORDING.
    The Finance Officer shall authenticate by his signature and record in full
 all ordinances and resolutions adopted by the Common Council.
-ARTICLE IV. CITY ADMINISTRATION
+***** ARTICLE IV. CITY ADMINISTRATION *****
 § 1.0225 MAYOR.
    There shall be an officer of the city, entitled the Mayor, who shall be the
 chief executive and administrative officer of the city and who shall be
@@ -481,7 +481,7 @@ Charter, the Common Council or the Mayor.
    The City Attorney may appoint such Deputy City Attorneys as he deems
 advisable and may secure additional legal services as he may deem necessary
 subject to approval by the Common Council.
-ARTICLE V. FINANCE AND TAXATION
+***** ARTICLE V. FINANCE AND TAXATION *****
 § 1.0231 FISCAL YEAR.
    The fiscal year of the city shall begin on the first day of January and end
 on the last day of December or as otherwise determined by State law.
@@ -579,7 +579,7 @@ special assessments upon property for special benefits incurring to such
 property as a consequence of any municipal public work, service or improvement,
 and to provide for the payment of all or any part of the cost of the work,
 service or improvement out of the proceeds of such special assessments.
-ARTICLE VI. PLANNING
+***** ARTICLE VI. PLANNING *****
 § 1.0240 BOARDS AND COMMISSIONS.
    The Common Council may appoint planning boards and commissions as deemed
 necessary. The powers, duties and scope of activity of such boards and/or
@@ -626,7 +626,7 @@ Meetings shall be held at the call of the Chairman and at such other times as
 the Board may determine. The Chairman, or in his absence the acting chairman,
 may administer oaths and compel the attendance of witnesses. All meetings shall
 be open to the public.
-ARTICLE VII. NOMINATIONS AND ELECTIONS
+***** ARTICLE VII. NOMINATIONS AND ELECTIONS *****
 § 1.0245 CITY ELECTIONS.
    (a)   Regular Elections: The regular annual city election shall be held on
 the second Tuesday of April in each year or as required by State law.
@@ -663,13 +663,13 @@ initiative and referendum procedures or a Charter amendment shall be presented
 by its title for voting by ballot. In all respects, Charter amendments shall
 follow the procedures required by State law for the initiative or referendum,
 or as may be provided by this Charter.
-ARTICLE VIII. INITIATIVE, REFERENDUM, RECALL
+***** ARTICLE VIII. INITIATIVE, REFERENDUM, RECALL *****
 § 1.0249 RECALL OF ELECTED OFFICIALS.
    There are hereby reserved to the electors of the city powers of initiative,
 referendum and recall of elected officials. The provisions of the Constitution
 and laws of the State of South Dakota governing the initiative, referendum and
 recall of elected officials shall apply to the use thereof in the city.
-ARTICLE IX. GENERAL PROVISIONS
+***** ARTICLE IX. GENERAL PROVISIONS *****
 § 1.0250 PERFORMANCE BONDS.
    The Mayor, Finance Officer, and such other officers and employees of the
 city as the Common Council may require, shall give bonds for the faithful
@@ -760,7 +760,7 @@ eminent domain, the city shall proceed according to State law.
    (g)   The city may provide for punishment by fine or imprisonment or both
 within the limits allowed by State law for violations of this Charter or any
 ordinance adopted by the Common Council.
-ARTICLE X. TRANSITIONAL PROVISIONS
+***** ARTICLE X. TRANSITIONAL PROVISIONS *****
 § 1.0256 OFFICERS AND EMPLOYEES.
    (a)   Rights and Privileges Preserved: Nothing in this Charter except as
 otherwise specifically provided shall affect or impair the rights or privileges
@@ -1107,7 +1107,7 @@ Order of Business
  
    
 30.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 POWERS OF THE COUNCIL.
    The Common Council shall be the judge of the election and qualifications of
 its own members. It shall determine its own rules of procedure, punish its
@@ -1184,7 +1184,7 @@ The compensation of the Municipal Finance Officer shall be set by resolution of
 the Common Council, and employees shall receive compensation as fixed by the
 Common Council, by resolution, from time to time.
 (Prior Code, § 1.0701)
-ELECTION OF COUNCIL MEMBERS
+**** ELECTION OF COUNCIL MEMBERS ****
 § 30.20 ELECTIVE OFFICERS.
    The elective officers of the city, to be elected by city elections, shall be
 a Mayor and two Council members from and representing each ward. A Council
@@ -1227,7 +1227,7 @@ incapacity.
    Except as shall be provided otherwise by ordinance, each ward of the city
 shall constitute an election precinct for municipal purposes.
 (Prior Code, § 2.0104)
-ORDER OF BUSINESS
+**** ORDER OF BUSINESS ****
 § 30.35 REGULAR MEETINGS.
    (A)   At all regular meetings of the Common Council, after the same shall
 have been called to order and the roll call noted by the Municipal Finance
@@ -1323,7 +1323,7 @@ Officials of the City
 31.40   Utilities Superintendent
    
 31.41   Garbage Inspector
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 PUBLIC RECORDS.
    Every municipal officer shall keep a record of the official acts and
 proceedings of his or her office, and shall be open to public inspection during
@@ -1342,7 +1342,7 @@ ordinances.
    (C)   It shall be the duty of the city to pay the premium(s) on all bonds
 required to be furnished by, and for, city officers and employees.
 (Prior Code, § 1.0702)
-APPOINTED OFFICIALS PROCEDURES; REGULATIONS
+**** APPOINTED OFFICIALS PROCEDURES; REGULATIONS ****
 § 31.15 APPOINTIVE OFFICERS.
    (A)   The appointive officers of the city shall be a Municipal Finance
 Officer, Attorney, Engineer, Chief of Police, police officers, Street
@@ -1394,7 +1394,7 @@ office.
 and shall be similar to the oath prescribed in §
 1.0251 of the City Charter.
 (Prior Code, § 1.0307)
-OFFICIALS OF THE CITY
+**** OFFICIALS OF THE CITY ****
 § 31.35 POWERS AND DUTIES OF MAYOR.
    The powers and duties of the Mayor are enumerated in the City Charter §
 1.0226.
@@ -1572,7 +1572,7 @@ Board of Health
  
    
 32.99   Penalty
-BOARD OF ADJUSTMENT; COMMON COUNCIL
+**** BOARD OF ADJUSTMENT; COMMON COUNCIL ****
 § 32.01 ESTABLISHMENT AND PROCEDURE.
    A Board of Adjustment is hereby established pursuant to SDCL § 11-4-24. The
 Common Council shall act as and perform all the duties and exercise the powers
@@ -1795,7 +1795,7 @@ fully the causes and basis thereof, shall be filed with the administrative
 official. He or she shall record properly such complaint, immediately
 investigate, and take action thereon as provided by this subchapter.
 (Prior Code, § 3.1505)
-BOARD OF HEALTH
+**** BOARD OF HEALTH ****
 § 32.20 RIGHT TO APPOINT.
    (A)   (1)   The Common Council may, at its discretion, form a City Board of
 Health to supplement the duties and/or activities of the State Board of Health.
@@ -1947,7 +1947,7 @@ Volunteer Fire and Ambulance Department
 33.21   False alarm
    
 33.22   Provincial police power
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 33.01 CHIEF OF POLICE, POLICE OFFICERS; POWERS AND DUTIES.
    (A)   The Chief of Police shall perform such duties as shall be prescribed
 by the governing body for the preservation of peace.
@@ -1970,7 +1970,7 @@ violation of any ordinance of said city, or to prevent the violation of any of
 said ordinances.
 (Prior Code, § 10.0506) Penalty, see §
 10.99
-VOLUNTEER FIRE AND AMBULANCE DEPARTMENT
+**** VOLUNTEER FIRE AND AMBULANCE DEPARTMENT ****
 § 33.15 ESTABLISHMENT.
    There is hereby established a City Fire Department and a City Ambulance
 Department.
@@ -2040,7 +2040,7 @@ Municipal Sales and Taxes; Use Tax
  
    
 34.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 PAYMENT OF WARRANTS.
    (A)   All warrants shall be paid in the order in which they are presented
 out of the funds upon which they may be drawn.
@@ -2048,7 +2048,7 @@ out of the funds upon which they may be drawn.
 sufficient money in the fund upon which it is drawn to pay the same.
    (C)   If not, it shall be registered as provided by law.
 (Prior Code, § 1.0604)
-MUNICIPAL SALES AND TAXES; USE TAX
+**** MUNICIPAL SALES AND TAXES; USE TAX ****
 § 34.15 PURPOSE.
    The purpose of this subchapter is to provide additional needed revenue for
 the city by imposing a municipal retail sales and use tax pursuant to the
@@ -2200,7 +2200,7 @@ Depreciation of Water Utilities
 50.62   Investment
    
 50.63   Retention
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 CITY-OWNED UTILITIES.
    The city-owned public utilities are the water system and sewer system.
 (Prior Code, § 5.0101)
@@ -2472,7 +2472,7 @@ the deposit.
 water deposit rates and charges, including the categories of collection, as to
 residential, commercial, or any other special categories or rates.
 (Prior Code, § 5.0308) (Ord. 410, passed 9-2-1992; Ord. 486, passed 9-7-2010)
-WATER REGULATIONS
+**** WATER REGULATIONS ****
 § 50.25 ACCESSIBILITY/READING OF METER.
    (A)   The water meter of each consumer or subscriber shall be so located on
 the premises of the dwelling, household, residence, or establishment so that it
@@ -2551,7 +2551,7 @@ the negligence or willful act of the owner, lessee, or occupant, and costs of
 such losses or repairs may be recovered in an action against such owner,
 lessee, or occupant, or against any or all of them.
 (Prior Code, § 5.0316)
-CONSTRUCTION; MAINTENANCE
+**** CONSTRUCTION; MAINTENANCE ****
 § 50.40 TRENCHES.
    All trenches left open shall be properly guarded and barricaded in the
 daytime, and at nighttime shall be further guarded by placing red lights at the
@@ -2566,7 +2566,7 @@ partly filled with dirt, wet down with water, and thoroughly tamped, and such
 process to be continued until all earth removed from the excavation is put back
 into the trench, and leave the trench in a smooth, even condition.
 (Prior Code, § 5.0205)
-DEPRECIATION OF WATER UTILITIES
+**** DEPRECIATION OF WATER UTILITIES ****
 § 50.55 OBJECTIVES AND PUBLIC INTEREST.
    (A)   Since it is an accepted accounting principle to recognize depreciation
 as an operating expense of enterprise facilities in determining gross and net
@@ -2794,7 +2794,7 @@ Construction; Maintenance
 51.40   Trenches
    
 51.41   Refilling
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2915,7 +2915,7 @@ for the sewer rents or rates accrued for services utilized on said premises
 which may be recovered in an action against such owner, lessee, or occupant, or
 against any or all of them.
 (Prior Code, § 5.0603)
-SEWAGE REGULATIONS
+**** SEWAGE REGULATIONS ****
 § 51.20 CITY SEWER MAINS; COST.
    Costs assessed for sewer service lines and mains shall be as follows.
    (A)   Initial hookup to existing sewer mains. A tapping fee shall be
@@ -3067,7 +3067,7 @@ one-eighth of an inch to the foot and one-fourth inch, if practicable.
 sewer connection without first having passed through a trap which has been
 approved by the Utilities Superintendent.
 (Prior Code, § 5.0508)
-CONSTRUCTION; MAINTENANCE
+**** CONSTRUCTION; MAINTENANCE ****
 § 51.40 TRENCHES.
    All trenches left open shall be properly guarded and barricaded in the
 daytime, and at nighttime shall be further guarded by placing red lights at the
@@ -3109,7 +3109,7 @@ Garbage Collection; Regulations
  
    
 52.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3218,7 +3218,7 @@ collection services rendered, and remit the remaining portion, if any, to the
 householder, occupant, business establishment, or industrial plant depositing
 the same.
 (Prior Code, § 4.0310)
-GARBAGE COLLECTION; REGULATIONS
+**** GARBAGE COLLECTION; REGULATIONS ****
 § 52.15 BURNING GARBAGE.
    It shall be unlawful for any person to burn garbage or refuse within the
 limits of the city.
@@ -3390,7 +3390,7 @@ Operation of Motor Vehicles
  
    
 70.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3480,7 +3480,7 @@ highway in the city, which vehicle shall have metal mud lugs attached to its
 wheels in such a manner as to injure or destroy such city property.
 (Prior Code, § 10.0502) Penalty, see §
 70.99
-OPERATION OF MOTOR VEHICLES
+**** OPERATION OF MOTOR VEHICLES ****
 § 70.20 DRIVING ON THE RIGHT.
    All persons operating, using, or driving any vehicle or vehicles upon any of
 the streets of the city shall keep to the right-hand side of the center of the
@@ -3802,7 +3802,7 @@ Bicycles
  
    
 72.99   Penalty
-GOLF CARTS
+**** GOLF CARTS ****
 § 72.01 REGULATIONS ON GOLF CARTS.
    (A)   For the purposes of this subchapter, the term GOLF CART means a four-
 wheeled vehicle originally and specifically designed and intended to transport
@@ -3835,7 +3835,7 @@ to the rear of the cart as provided in SDCL§ 32-15-8.
 all times. There cannot be more people in, or on, said vehicle than the vehicle
 seating capacity.
 (Ord. 522, passed 5-8-2019)
-BICYCLES
+**** BICYCLES ****
 § 72.15 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4038,7 +4038,7 @@ Nuisance Vehicles
  
    
 90.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.001 NUISANCES DECLARED.
    The commission of each and every one of the acts prohibited in this chapter,
 is hereby declared to be a public nuisance.
@@ -4126,7 +4126,7 @@ outside of, and beyond, the city limits, except those streets and avenues
 designated as state highways.
 (Prior Code, § 4.0316) Penalty, see §
 90.999
-WEEDS AND NOXIOUS VEGETATION
+**** WEEDS AND NOXIOUS VEGETATION ****
 § 90.020 NOXIOUS WEEDS AND PLANTS.
    The following weeds and plants are hereby declared to be noxious weeds, and
 are hereby declared to be nuisances, to-wit: rag weed, thistles of any kind,
@@ -4181,7 +4181,7 @@ obstruct the view of the drivers of vehicles approaching any street
 intersection.
 (Prior Code, § 4.0606) Penalty, see §
 90.999
-ABANDONED BUILDINGS
+**** ABANDONED BUILDINGS ****
 § 90.040 CONDITIONS, DEFECTS OF BUILDINGS/STRUCTURES.
    For the purpose of this subchapter, any building, structure, or premises
 which has any or all conditions or defects hereinafter described shall be
@@ -4552,7 +4552,7 @@ of the state (SDCL § 21-10-6), including, but not limited to, the taxing of the
 cost thereof by special assessment against the real property on which the
 public nuisance occurred, and bylaws, as from time to time amended.
 (Prior Code, § 4.0711) (Ord. 411, passed 9-2-1992)
-NUISANCE VEHICLES
+**** NUISANCE VEHICLES ****
 § 90.065 OBJECTIVES AND DECLARATION OF PUBLIC INTEREST.
    Nuisance vehicles, or parts thereof, constitute a hazard to the health,
 safety, and welfare of the people of the city, in that such vehicles can harbor
@@ -4795,7 +4795,7 @@ Impoundment
  
    
 91.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.001 DEFINITIONS.
    (A)   For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4860,7 +4860,7 @@ as applicable, but animals other than dogs are not required to be licensed.
    (B)   Animals specifically prohibited shall not be allowed within the city
 limits.
 (Prior Code, § 6.0101)
-PERMITS
+**** PERMITS ****
 § 91.015 RAISING OF DOMESTIC ANIMALS; PERMIT NEEDED.
    (A)   This subchapter prohibits or restricts the raising of dogs, or other
 animals, as defined under OWNER in §
@@ -4931,7 +4931,7 @@ ordinances shall apply to the holder of such a permit or renewal, including §§
 91.999(A) through (C), and all sections applicable thereto. The issuance of a
 quantity animal permit shall not exempt the owner from licensing requirements.
 (Prior Code, § 6.0211) (Ord. 407, passed 3-6-1991)
-LICENSING
+**** LICENSING ****
 § 91.030 ANNUAL LICENSE FEE.
    Each owner, keeper, and person in charge of any dog shall, before May 1 in
 each year, pay a license fee to the City Finance Officer or police officer for
@@ -4974,7 +4974,7 @@ each year shall be subject to an additional penalty fee for each dog license.
    (B)   The fee may be reviewed by the Common Council from time to time.
 (Prior Code, § 6.0305) Penalty, see §
 91.999
-DOGS
+**** DOGS ****
 § 91.050 DOGS AT LARGE.
    (A)   It shall be unlawful for any person, firm, or corporation, or owner of
 any dog, whether licensed or unlicensed, to allow any dog owned or controlled
@@ -5032,7 +5032,7 @@ infections or dangerous disease. It shall be unlawful for any person or owner
 to not immediately report such act to a veterinarian or other authority.
 (Prior Code, § 6.0207) Penalty, see §
 91.999
-LIVESTOCK
+**** LIVESTOCK ****
 § 91.070 ANIMALS AT LARGE.
    It shall be unlawful for any person being the owner, or having in his or her
 charge, any horses, cattle, or other domestic animals or chickens, or other
@@ -5096,7 +5096,7 @@ horse or mule, hog, sheep, or goat, $25. In addition to the foregoing fees for
 impounding, the actual charges for keeping and the expense of giving notice and
 selling the same, in the case of a sale thereof, before claimed by the owner.
 (Prior Code, § 9.0106)
-IMPOUNDMENT
+**** IMPOUNDMENT ****
 § 91.090 ANIMALS AND IMPOUNDMENT.
    Whenever the Chief of Police of said city shall find it necessary to remove
 from any place any hogs, cattle, mules, horses, or other animals in the
@@ -5373,7 +5373,7 @@ Fair Housing Board
  
    
 93.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 SHORT TITLE.
    This chapter shall be known and may be cited as the “Fair Housing Ordinance
 of the City of Springfield, South Dakota.”
@@ -5579,7 +5579,7 @@ person from complying with the provisions of this chapter or an order issued
 thereunder.
 (Prior Code, § 13.0402) Penalty, see §
 93.99
-FAIR HOUSING BOARD
+**** FAIR HOUSING BOARD ****
 § 93.25 FAIR HOUSING BOARD.
    There is hereby created a Fair Housing Board, which shall consist of five
 members, as hereinafter provided.
@@ -5933,7 +5933,7 @@ Gambling
  
    
 112.99   Penalty
-PUBLIC DANCE HALLS
+**** PUBLIC DANCE HALLS ****
 § 112.01 DEFINITION.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6004,7 +6004,7 @@ public dance hall, such matron or officer to be appointed by the Common Council
 at a fixed compensation to be paid by the person or persons, firm, or
 corporation operating such dance hall.
 (Prior Code, § 6.0609)
-GAMBLING
+**** GAMBLING ****
 § 112.20 UNLAWFUL DEVICES.
    It shall be unlawful for any person to have on, in, or about his or her
 premises, any slot machines or other like device within the city or within one
@@ -6073,7 +6073,7 @@ Peddlers and Transient Merchants
 113.12   Prohibited solicitation
 Statutory reference:
    Family day care homes; regulation and standards of care, see SDCL § 9-29-26
-PEDDLERS AND TRANSIENT MERCHANTS
+**** PEDDLERS AND TRANSIENT MERCHANTS ****
 § 113.01 DEFINITIONS.
    For the purpose of this subchapter the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6272,7 +6272,7 @@ Malt Beverage Licensees
  
    
 114.99   Penalty
-LIQUOR REGULATIONS; LICENSING, SALES
+**** LIQUOR REGULATIONS; LICENSING, SALES ****
 § 114.01 LICENSES.
    No person shall sell, exchange, barter, distribute, or keep for sale any
 intoxicating liquor nor any distilled, fermented, spirituous, vinous, malt
@@ -6352,7 +6352,7 @@ SDCL § 35-4, as amended. The city shall serve or allow to be consumed any
 alcoholic beverages on the premises covered by the license during any other
 hours, as per SDCL § 35-4.
 (Prior Code, § 6.0809) (Ord. 490, passed 10-4-2010)
-MALT BEVERAGE LICENSEES
+**** MALT BEVERAGE LICENSEES ****
 § 114.20 DEFINITION OF TERMS.
    (A)   For the purpose of this subchapter, the following definitions shall
 apply unless the context clearly indicates or requires a different meaning.
@@ -6503,7 +6503,7 @@ Licensing
  
    
 115.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 115.01 PURPOSE AND INTENT.
    The Common Council enacts this chapter in order to ensure that cannabis
 establishments within the municipal boundaries of the city operate in a manner
@@ -6577,7 +6577,7 @@ an officer, director, or general partner, or a person who managed, supervised,
 or controlled the operation of the cannabis establishment, knowingly allowed
 such act to occur on the premises.
 (Ord. 608, passed 11-15-2021)
-LICENSING
+**** LICENSING ****
 § 115.20 LICENSE REQUIRED.
    (A)   No cannabis establishment may be located or operate in the city
 without the appropriate valid and current cannabis establishment license issued
@@ -6826,7 +6826,7 @@ Curfew for Minors
  
    
 130.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 130.01 LIQUOR-LICENSED PREMISES; PROHIBITIONS.
    (A)   (1)   All provisions of SDCL § 35-4, as amended, pertaining to
 exclusion of persons under the age of 21 from on-sale liquor-licensed premises
@@ -6842,7 +6842,7 @@ beverages and/or other alcoholic beverages on off-sale liquor-licensed premises
 by persons less than 21 years of age shall apply for the purposes and intent of
 this section and as they also pertain to the duties of the owner or proprietor.
 (Prior Code, § 10.0402)
-CURFEW FOR MINORS
+**** CURFEW FOR MINORS ****
 § 130.15 CURFEW.
    (A)   Definitions. For the purpose of this section, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -7026,7 +7026,7 @@ Vagrancy
  
    
 131.99   Penalty
-DISTURBING THE PEACE
+**** DISTURBING THE PEACE ****
 § 131.01 PUBLIC INTOXICATION.
    It shall be unlawful for any person to be or appear in any public place in
 the city, including its public parks, in a state of intoxication or
@@ -7083,13 +7083,13 @@ any sport or exercise liable to pose a safety threat, or obstruct any lawful
 business of any person or be liable to result in the injury of persons lawfully
 on the streets, or injury to buildings or windows adjacent thereto.
 (Prior Code, § 10.0505)
-ASSAULT AND BATTERY
+**** ASSAULT AND BATTERY ****
 § 131.20 ASSAULT AND BATTERY.
    It shall be unlawful for any person to willfully and unlawfully or
 maliciously commit any assault or assault and battery against another person.
 (Prior Code, § 10.0106) Penalty, see §
 131.99
-PUBLIC PROPERTY
+**** PUBLIC PROPERTY ****
 § 131.35 WILLFUL INJURY TO PUBLIC, PRIVATE PROPERTY.
    It shall be unlawful for any person to carry away or remove, or to
 willfully, maliciously, or negligently break, or deface, destroy, or otherwise
@@ -7112,7 +7112,7 @@ stealth, or by any manner any money, property, or anything of value, tangible
 or intangible, with the intent to deprive the owner of such property.
 (Prior Code, § 10.0108) Penalty, see §
 131.99
-FIREWORKS AND DEADLY WEAPONS
+**** FIREWORKS AND DEADLY WEAPONS ****
 § 131.50 PROVISIONS REGARDING FIREWORKS.
    (A)   It shall be unlawful for any person, firm, or corporation to see or
 offer for sale, or gift, within the city any fireworks, firecrackers,
@@ -7167,7 +7167,7 @@ character whatever provided this section shall not apply to any law enforcement
 officer in the discharge of his or her duty.
 (Prior Code, § 10.0111) Penalty, see §
 131.99
-VAGRANCY
+**** VAGRANCY ****
 § 131.65 DEFINITION.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7212,13 +7212,7 @@ commit an act of prostitution are that the person is a known prostitute or
 panderer and repeatedly beckons, in the attempt to stop or engage male or
 female passersby in conversation, or repeatedly stops or attempts to stop motor
 vehicles by engaging their operators by hailing, waving of arms, or other
-bodily gestures. The violator’s conduct must be such as to demonstrate a
-specific intent to induce, entice, solicit, or procure another to commit an act
-of prostitution. No arrest shall be made for a violation of this division
-unless the arresting officer first affords the person an opportunity to explain
-his or her conduct, and no one shall be convicted of violating this division if
-it appears at trial that the explanation given was true and disclosed a lawful
-purpose.
+bodily gestures. The violator’
    (D)   For the purpose of this section, PUBLIC PLACE has the following
 definition unless the context clearly indicates or requires a different
 meaning: an area generally visible to public view, including streets,
@@ -7283,7 +7277,7 @@ Fire Limits
  
    
 150.99   Penalty
-ELECTRICAL WIRING, INSTALLATION, AND INSPECTION
+**** ELECTRICAL WIRING, INSTALLATION, AND INSPECTION ****
 § 150.01 RULES AND REGULATIONS.
    (A)   All electrical installations, extensions, construction, remodeling,
 circuitry, replacements, outlet replacements, and outlets used in connection
@@ -7345,7 +7339,7 @@ compliance with such code and other provisions of this section now or hereafter
 in force and/or existing, and to take appropriate action, whichever is deemed
 desirable and/or expedient by said Council.
 (Prior Code, § 8.0302)
-FIRE LIMITS
+**** FIRE LIMITS ****
 § 150.15 ESTABLISHED FIRE LIMITS.
    The fire limits shall be and are hereby declared to include all Commercially
 zoned areas.
@@ -7632,7 +7626,7 @@ Removal of Ice and Snow
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 RESOLUTION.
    (A)   Whenever the Common Council shall deem it necessary to construct,
 repair, or rebuild any sidewalk, curb, or gutter in the city it shall pass on
@@ -7683,7 +7677,7 @@ lot line. All other sidewalks shall be four feet wide, the outer edge thereof
 shall be six feet from the lot line, except on the east side of Block 32
 wherein the outer edge shall be 11 feet from the lot line.
 (Prior Code, § 2.0205)
-CONSTRUCTION
+**** CONSTRUCTION ****
 § 152.15 NOTICE TO OWNERS REGARDING CONSTRUCTION.
    Within seven days after the adoption of said resolution, the Municipal
 Finance Officer shall notify the owners of property abutting said improvement
@@ -7731,7 +7725,7 @@ sidewalks already constructed, the width of the new walk shall correspond with
 the width of the old walk which it joins, but in no event shall the new walk be
 less than four feet in width.
 (Prior Code, § 2.0303)
-COST OF IMPROVEMENTS
+**** COST OF IMPROVEMENTS ****
 § 152.30 INSTALLMENTS.
    (A)   Whenever the Common Council shall cause paving, grading, graveling,
 sewer or water mains, curbs or curb and gutters, or incidental improvements on
@@ -7762,7 +7756,7 @@ declaring such construction necessary shall state and fix the percent of the
 cost or special assessment which may be paid annually, if the property owner
 wishes to pay the special assessment in part payments or installments.
 (Prior Code, § 2.0503)
-REMOVAL OF ICE AND SNOW
+**** REMOVAL OF ICE AND SNOW ****
 § 152.45 DEFINITION.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8083,7 +8077,7 @@ Regulations and powers of the Board of Adjustment and Common Council, see §§
 32.01 through
 32.08,
 32.99
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.001 ESTABLISHMENT OF ZONING MAP.
    (A)   The city is hereby divided into zones, or districts, as shown on the
 official zoning map which, together will all explanatory matter thereon, is
@@ -8417,7 +8411,7 @@ the lot, and extending entirely from a front yard to the rear yard.
 (Prior Code, § 3.1701)
 (Ord. 451, passed 9-11-2000; Ord. 602, passed 10-7-2019; Ord. 607, passed 11-
 15-2021)
-A: AGRICULTURAL
+**** A: AGRICULTURAL ****
 § 153.020 INTENT.
    (A)   This district is intended to provide for general agricultural use.
    (B)   All land annexed into the city shall be classified as an Agricultural
@@ -8478,7 +8472,7 @@ the event they shall become illegible or their use shall cease, they shall be
 removed promptly and the area occupied restored to a condition free of refuse
 and debris.
 (Prior Code, § 3.0208)
-R1: SINGLE-FAMILY RESIDENTIAL
+**** R1: SINGLE-FAMILY RESIDENTIAL ****
 § 153.040 INTENT.
    This district is intended to provide for a moderate density of single-family
 residential dwellings within the existing ranges of municipal services, or
@@ -8569,7 +8563,7 @@ the event that they shall become illegible or their use shall cease, they shall
 be removed within 15 days or be subject to a penalty as set forth in §
 32.99.
 (Prior Code, § 3.0309)
-R2: TWO-FAMILY RESIDENTIAL
+**** R2: TWO-FAMILY RESIDENTIAL ****
 § 153.060 INTENT.
    This district is intended to provide for a moderate to high density of
 single-family and two family residential dwellings within the existing ranges
@@ -8623,7 +8617,7 @@ rear lot line and no closer than 20 feet to any street line.
    Same permitted sign as provided in R1: Single-Family Residential, §
 153.048.
 (Prior Code, § 3.0409)
-R3: MULTIPLE-FAMILY RESIDENTIAL
+**** R3: MULTIPLE-FAMILY RESIDENTIAL ****
 § 153.080 INTENT.
    This district is intended to provide for a high density of residential
 dwellings, including family units, within the existing ranges of municipal
@@ -8683,7 +8677,7 @@ the event that they shall become illegible or their use shall cease, they shall
 be removed within 15 days or be subject to a penalty as set forth in §
 32.99.
 (Prior Code, § 3.0508)
-C: COMMERCIAL
+**** C: COMMERCIAL ****
 § 153.100 INTENT.
    This district is intended to provide a downtown commercial area for business
 which provides community and trade area services.
@@ -8813,7 +8807,7 @@ the event that they shall become illegible or their use shall cease, they shall
 be removed within 15 days or be subject to a penalty as set forth in §
 32.99.
 (Prior Code, § 3.0609)
-HC: HIGHWAY COMMERCIAL
+**** HC: HIGHWAY COMMERCIAL ****
 § 153.120 INTENT.
    This district is intended to provide commercial area for those businesses
 which normally function with, and need, major highway access.
@@ -8862,7 +8856,7 @@ this district;
    (C)   Vehicle storage garages or lots enclosed by a five foot high opaque
 fence or planted screen.
 (Prior Code, § 3.0704)
-I: INDUSTRIAL
+**** I: INDUSTRIAL ****
 § 153.135 INTENT.
    This district is intended to provide for the future development of new
 industrial and certain commercial activities in areas where municipal utilities
@@ -8925,7 +8919,7 @@ yard measurements are as follows:
 § 153.141 MAXIMUM HEIGHT.
    All structures must be 45 feet, or four stories.
 (Prior Code, § 3.0807)
-E: ENVIRONMENTAL CONSERVATION DISTRICT
+**** E: ENVIRONMENTAL CONSERVATION DISTRICT ****
 § 153.155 INTENT.
    This district is intended to provide for the retention of unique natural
 areas and prevent the destructive uses of such land.
@@ -8957,7 +8951,7 @@ yard measurements are as follows:
 § 153.160 MAXIMUM HEIGHT.
    All structures must be 35 feet.
 (Prior Code, § 3.0906)
-M: MANUFACTURED HOME PARK
+**** M: MANUFACTURED HOME PARK ****
 § 153.175 INTENT.
    This district is intended to provide orderly, safe, and healthful
 development of manufactured home parks within the city and within the area
@@ -9010,7 +9004,7 @@ Commission, so as not to constitute a nuisance to other residents.
    (F)   Minimum land area for manufactured home parks shall be two and one-
 half acres.
 (Prior Code, § 3.1007) (Ord. 451, passed 9-11-2000)
-V: VACATION; RECREATION AREA
+**** V: VACATION; RECREATION AREA ****
 § 153.195 INTENT.
    This district is intended to provide greater flexibility for vacation or
 recreation types of permanent dwellings, manufactured homes or vehicles, and
@@ -9089,7 +9083,7 @@ lines, and other improvements; and
    (E)   Lots shall be properly landscaped, in the opinion of the Planning
 Commission, so as not to constitute a hazard or a nuisance to other residents.
 (Prior Code, § 3.1108) (Ord. 451, passed 9-11-2000)
-SUPPLEMENTARY DISTRICT REGULATIONS
+**** SUPPLEMENTARY DISTRICT REGULATIONS ****
 § 153.215 VISIBILITY AT INTERSECTIONS IN RESIDENTIAL DISTRICTS.
    On a corner lot in any residential district, nothing shall be erected,
 placed, planted, or allowed to grow in such a manner as materially to impede
@@ -9232,7 +9226,7 @@ conformance with the 2021 edition of the International Building Code and
 International Fire Code.
 (Ord. 607, passed 11-15-2021) Penalty, see §
 10.99
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 153.240 ADMINISTRATION AND ENFORCEMENT.
    (A)   An Administrative Official designated by the Common Council shall
 administer and enforce this chapter. He or she may be provided with the
