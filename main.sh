@@ -11,7 +11,7 @@ function main() {
     # --- Configuration --------------------------------------------------------
 
     CHECK_INTERVAL_SECONDS=60        # How often to check repo status
-    MIN_WAIT_SECONDS=1800            # Force push after 30 minutes
+    MIN_WAIT_SECONDS=3600            # Force push after 60 minutes
     MIN_CHANGE_THRESHOLD=500         # Push early if >= this many file changes
 
     # Track last successful push time (epoch seconds)
