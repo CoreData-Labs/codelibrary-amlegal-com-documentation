@@ -11,7 +11,7 @@ function main() {
     # --- Configuration --------------------------------------------------------
 
     CHECK_INTERVAL_SECONDS=60        # How often to check repo status
-    MAX_WAIT_SECONDS=1800            # Force push after 30 minutes
+    MIN_WAIT_SECONDS=1800            # Force push after 30 minutes
     MIN_CHANGE_THRESHOLD=500         # Push early if >= this many file changes
 
     # Track last successful push time (epoch seconds)
@@ -39,7 +39,7 @@ function main() {
         # Push if:
         #   A) File changes exceed threshold
         #   B) Max wait time exceeded
-        if [[ $changed_files_count -ge $MIN_CHANGE_THRESHOLD || $elapsed_seconds -ge $MAX_WAIT_SECONDS ]]; then
+        if [[ $changed_files_count -ge $MIN_CHANGE_THRESHOLD && $elapsed_seconds -ge $MIN_WAIT_SECONDS ]]; then
 
             # No-op protection: avoid empty commits
             if [[ $changed_files_count -eq 0 ]]; then
