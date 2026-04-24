@@ -1406,9 +1406,9 @@ Division 2: Meetings
 2-36   Required; Mayor or Mayor Pro Tempore to preside
    
 2-37   Rules of procedure
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 [Reserved]
-DIVISION 2: MEETINGS
+*** DIVISION 2: MEETINGS ***
 § 2-36 REQUIRED; MAYOR OR MAYOR PRO TEMPORE TO PRESIDE.
    The City Council shall meet to conduct its business at either regular or
 special sessions in accordance with the requirements of the Charter. The Mayor
@@ -1477,7 +1477,7 @@ effective 1-1-21
    Division 8: Tree Board was repealed by Ord. 10-20-20, effective 1-1-21
    Division 9: Strategic Planning Commission was renumbered to Division 4: Am.
 Ord. 10-20-20, effective 1-1-21
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 2-56 CITY COUNCIL COMMITTEES.
    Committees appointed by the Eden City Council noted herein are designated
 and assigned responsibilities under this article.
@@ -1485,7 +1485,7 @@ and assigned responsibilities under this article.
 Editor’s note:
    Division 1: Generally, §§ 2-57, Planning Agencies, and 2-58, Nomination and
 Appointment Policy were repealed by Ord. 10-20-20, effective 1-1-21
-DIVISION 2: CITY COUNCIL
+*** DIVISION 2: CITY COUNCIL ***
 § 2-61 GENERAL POWERS AND DUTIES.
    The City Council, as the governing body of the city, appropriates funds;
 approves acquisition, construction, and disposition of public facilities; and
@@ -1496,7 +1496,7 @@ citizens of the City of Eden and provide recommendations to the City Council.
 (Ord. passed 3-17-92; Am. Ord. passed 10-20-20, effective 1-1-21)
 Statutory reference:
    Municipal authority, see G.S. § 160A-174
-DIVISION 3: ADMINISTRATIVE STAFF
+*** DIVISION 3: ADMINISTRATIVE STAFF ***
 § 2-70 SUPPORT STAFF.
    The City Manager, or his or her designee, shall provide staff support to the
 City Council Committees.
@@ -1504,29 +1504,29 @@ City Council Committees.
 Editor’s note:
    Division 3: Administrative Staff, §§ 2-66 through 2-69 and 2-71 through 2-
 74, Planning Board, were repealed by Ord. 10-20-20, effective 1-1-21
-DIVISION 4: STRATEGIC PLANNING COMMISSION
+*** DIVISION 4: STRATEGIC PLANNING COMMISSION ***
 Editor’s note:
    Division 4: Strategic Planning Commission, §§ 2-75 through 2-84, was
 renumbered from Administrative Staff by Am. Ord. 10-20-20, effective 1-1-21,
 and was subsequently repealed by Ord., effective 12-17-24
-DIVISION 5: PARKS, RECREATION, OPEN SPACE, AND GREENWAY COMMISSION
+*** DIVISION 5: PARKS, RECREATION, OPEN SPACE, AND GREENWAY COMMISSION ***
 Editor’s note:
    Former Division 5: Board of Adjustment, § 2-86 was repealed by Ord. 10-20-
 20, effective 1-1-21, and new Division 5: Parks, Recreation, Open Space, and
 Greenway Commission, §§ 2-90 and 2-91, was repealed by Ord., effective 12-17-24
-DIVISION 6: HISTORIC PRESERVATION COMMISSION
+*** DIVISION 6: HISTORIC PRESERVATION COMMISSION ***
 Editor’s note:
    Division 6: Historic Preservation Commission, §§ 2-91 through 2-118 was
 repealed by Ord. 10-20-20, effective 1-1-21
-DIVISION 7: COMMUNITY APPEARANCE COMMISSION
+*** DIVISION 7: COMMUNITY APPEARANCE COMMISSION ***
 Editor’s note:
    Division 7: Community Appearance Commission, §§ 2-121 through 2-129 was
 repealed by Ord. 10-20-20, effective 1-1-21
-DIVISION 8: TREE BOARD
+*** DIVISION 8: TREE BOARD ***
 Editor’s note:
    Division 8: Tree Board, §§ 2-132 through 2-147, was repealed by Ord. 10-20-
 20, effective 1-1-21
-DIVISION 9: STRATEGIC PLANNING COMMISSION
+*** DIVISION 9: STRATEGIC PLANNING COMMISSION ***
 Editor’s note:
    Division 9: Strategic Planning Commission was renumbered to Division 4: Am.
 Ord. 10-20-20, effective 1-1-21
@@ -1567,9 +1567,9 @@ Division 4: Accident Investigation Committee
 2-190   Officers; meetings
    
 2-191   Powers and duties
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 [Reserved]
-DIVISION 2: CITY MANAGER
+*** DIVISION 2: CITY MANAGER ***
 § 2-156 OFFICE CREATED; APPOINTMENT.
    Pursuant to authority granted by state law, the City Council is hereby
 authorized to and shall appoint a chief administrative officer for the city
@@ -1611,7 +1611,7 @@ operation of the city government;
 (1989 Code, § 2-159)
 Statutory reference:
    Powers and duties of the City Manager, see G.S. § 160A-148
-DIVISION 3: CITY ENGINEER
+*** DIVISION 3: CITY ENGINEER ***
 § 2-176 APPOINTMENT.
    The City Manager may appoint a City Engineer who shall be directly
 responsible to the City Manager and act as the department head over the
@@ -1709,7 +1709,7 @@ more assistant city engineers, upon approval of the City Council, with or
 without the qualifications specified in §
 2-177, to perform one or more of the duties set forth in this division.
 (1989 Code, § 2-179)
-DIVISION 4: ACCIDENT INVESTIGATION COMMITTEE
+*** DIVISION 4: ACCIDENT INVESTIGATION COMMITTEE ***
 § 2-185 CREATED.
    There is hereby established a committee to serve as an impartial review
 board for accidents involving city personnel and to be known as the Employee
@@ -1765,7 +1765,7 @@ Division 2: Sale of Surplus Property
 2-212   Disposition
    
 2-213   Report
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 2-196 PROCESSING FEE FOR RETURNED CHECKS.
    (A)   The city shall charge and collect a processing fee in the amount of
 $25 on each check negotiated to it on which payment has been refused by the
@@ -1777,7 +1777,7 @@ processing fee may be mailed as provided in G.S. § 25-3-506.
 (1989 Code, § 2-196) (Ord. passed 3-20-84; Am. Ord. passed 3-16-99)
 Statutory reference:
    Collection of processing fee for returned checks, see G.S. § 25-3-506
-DIVISION 2: SALE OF SURPLUS PROPERTY
+*** DIVISION 2: SALE OF SURPLUS PROPERTY ***
 § 2-211 AUTHORIZATION OF CITY MANAGER.
    The City Manager is hereby authorized, pursuant to G.S. § 160A-266(c), to
 dispose of any surplus personal property owned by the city whenever he
@@ -2460,7 +2460,7 @@ Division 3: Impoundment
 3-76   Adoption of unredeemed cat
    
 3-77   Disposition of wounded or diseased cat
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 3-26 DEFINITIONS.
    The following words, terms and phrases, when used in this article, shall
 have the meanings ascribed to them in this section, except where the context
@@ -2584,7 +2584,7 @@ violation of this section.
 trained guide or assistance dogs.
 (Ord. passed 11-17-09; Am. Ord. passed 4-17-18) Penalty, see §§
 3-91 et seq.
-DIVISION 2: LICENSES
+*** DIVISION 2: LICENSES ***
 § 3-46 LICENSE EXEMPTIONS.
    The license requirements of this division shall not apply to:
    (A)   Dogs brought into the city for the purpose of participating in a dog
@@ -2648,7 +2648,7 @@ Animal Control Officer or other designated agent, impounded, handled and dealt
 with in accordance with the appropriate provisions of state law and applicable
 city ordinances dealing with the impoundment of animals.
 (1989 Code, § 3-52)
-DIVISION 3: IMPOUNDMENT
+*** DIVISION 3: IMPOUNDMENT ***
 § 3-66 DOGS SUBJECT TO IMPOUNDMENT.
    The following dogs may be impounded and taken to the animal control shelter
 by an animal control officer:
@@ -3427,9 +3427,9 @@ Division 2: Noise
 6-36   Unreasonably loud noises prohibited
    
 6-37   Acts declared to be in violation
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 [Reserved]
-DIVISION 2: NOISE
+*** DIVISION 2: NOISE ***
 § 6-36 UNREASONABLY LOUD NOISES PROHIBITED.
    It shall be unlawful for any person to create or assist in creating, permit,
 continue or permit the continuance of any unreasonably loud, disturbing and
@@ -3591,11 +3591,11 @@ Division 1: Generally
 Division 2: License
    
 7-86 – 7-88   Repealed
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 §§ 7-66 - 7-71 REPEALED.
 Editor’s note:
    §§ 7-66 - 7-71 were repealed by Ord. passed 4-19-2016
-DIVISION 2: LICENSE
+*** DIVISION 2: LICENSE ***
 §§ 7-86 – 7-88 REPEALED.
 Editor’s note:
    §§ 7-86 - 7-88 were repealed by Ord. passed 4-19-2016
@@ -3619,7 +3619,7 @@ Division 2: License
 7-125   Termination; renewal
    
 7-126   Suspension; revocation
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 7-106 AUTHORITY FOR ARTICLE.
    This article is adopted pursuant to G.S. §§ 143-151.26 et seq. and 160A-194.
 (1989 Code, § 7-106)
@@ -3632,7 +3632,7 @@ still apply to buildings erected before the passage date of Session Law 1999-
 days’ notice thereof is given to the city and operation at such new location
 does not violate any applicable state or local law, ordinance or regulation.
 (1989 Code, § 7-107)
-DIVISION 2: LICENSE
+*** DIVISION 2: LICENSE ***
 § 7-121 REQUIRED.
    No person may for a consideration install, alter or restore within the city
 any insulation or other materials or energy utilization equipment designed or
@@ -3743,15 +3743,15 @@ Division 2: Massage Business License
 Division 3: Massagist’s License
    
 7-186 - 7-194   Repealed
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 §§ 7-141 - 7-148 REPEALED.
 Editor’s note:
    §§ 7-141 - 7-148 were repealed by Ord. passed 10-15-13
-DIVISION 2: MASSAGE BUSINESS LICENSE
+*** DIVISION 2: MASSAGE BUSINESS LICENSE ***
 §§ 7-161 - 7-170 REPEALED.
 Editor’s note:
    §§ 7-161 - 7-170 were repealed by Ord. passed 10-15-13
-DIVISION 3: MASSAGIST’S LICENSE
+*** DIVISION 3: MASSAGIST’S LICENSE ***
 §§ 7-186 - 7-194 REPEALED.
 Editor’s note:
    §§ 7-181 - 7-194 were repealed by Ord. passed 11-18-08
@@ -4054,7 +4054,7 @@ Division 5: Revocation, Appeals, and Enforcement
 7-257   Enforcement
    
 7-258   Conflicts
-DIVISION 1: PURPOSES AND DEFINITIONS
+*** DIVISION 1: PURPOSES AND DEFINITIONS ***
 § 7-245 PURPOSES.
    (A)   The purposes of this article are to promote public health, safety and
 welfare by regulating and licensing certain house to house canvassing thereby
@@ -4104,7 +4104,7 @@ in the future.
    PERSON. An individual, person, firm, organization, association, society,
 company or corporation.
 (Ord. passed 11-19-96; Am. Ord. passed 9-19-06; Am. Ord. passed 10-20-09)
-DIVISION 2: LICENSES REQUIRED
+*** DIVISION 2: LICENSES REQUIRED ***
 § 7-247 ITINERANT MERCHANT’S LICENSE REQUIRED.
    (A)   It shall be unlawful for any person to engage in transient business in
 one locality, without having a valid itinerant merchant’s license. Each
@@ -4134,7 +4134,7 @@ having a valid charitable solicitor’s license. Each charitable solicitor shall
 obtain his, her or its separate charitable solicitor’s license prior to going
 from house to house to engage in such activities.
 (Ord. passed 11-19-96) Penalty, see § 7-258
-DIVISION 3: APPLICATION FOR LICENSES, ISSUANCE, DENIALS AND APPEALS
+*** DIVISION 3: APPLICATION FOR LICENSES, ISSUANCE, DENIALS AND APPEALS ***
 § 7-250 APPLICATION FOR A LICENSE.
    (A)   Before engaging in a business activity as a peddler, itinerant
 merchant or charitable solicitor in the City, a person shall make an
@@ -4218,7 +4218,7 @@ denial of the applicant’s appeal.
 appropriate division of the General Court of Justice of the State of North
 Carolina.
 (Ord. passed 11-19-96; Am. Ord. passed 10-20-09)
-DIVISION 4: EXHIBIT, TRANSFERABILITY AND DURATION OF LICENSES
+*** DIVISION 4: EXHIBIT, TRANSFERABILITY AND DURATION OF LICENSES ***
 § 7-253 POSSESSION AND EXHIBITION.
    The respective license shall be in the licensee’s possession whenever the
 peddler, itinerant merchant or charitable solicitor is engaged in the
@@ -4235,7 +4235,7 @@ year.
    (B)   If a business is begun after January 31 and before July 1, the amount
 of the tax due is half the amount otherwise due.
 (Ord. passed 11-19-96; Am. Ord. passed 3-18-97; Am. Ord. passed 10-20-09)
-DIVISION 5: REVOCATION, APPEALS, AND ENFORCEMENT
+*** DIVISION 5: REVOCATION, APPEALS, AND ENFORCEMENT ***
 § 7-256 REVOCATION; APPEAL.
    (A)   If, after a license is issued, pursuant to this article, the Clerk
 shall determine that the application contained untrue information or false or
@@ -4313,7 +4313,7 @@ Division 2: License
 7-308   Revocation
 Statutory reference:
    Authority to regulate poolrooms, see G.S. § 160A-181
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 7-281 DEFINITION.
    (A)   The term POOLROOM as used in this article, shall include any room
 where one or more billiard tables, pool tables, miniature billiard tables,
@@ -4394,7 +4394,7 @@ glass and a view of the entire poolroom must be afforded from the street.
 applicant’s location for reasons based upon the general health and welfare of
 the surrounding area.
 (1989 Code, § 7-286)
-DIVISION 2: LICENSE
+*** DIVISION 2: LICENSE ***
 § 7-301 REQUIRED; APPLICATION.
    No poolroom shall be operated until a license for the operation thereof has
 been issued to some person. It shall be the duty of every person desiring to
@@ -4540,7 +4540,7 @@ thereof, see G.S. § 20-37, G.S. § 160A-304
    Marking of vehicles for hire, see G.S. § 20-101
    Taxicab registration fees, see G.S. § 20-87
    Transporting alcoholic beverages in taxicabs, see G.S. § 18B-401
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 7-326 DEFINITIONS.
    The following words, terms and phrases, when used in this article, shall
 have the meanings ascribed to them in this section, except where the context
@@ -4627,7 +4627,7 @@ Sheriff’s Department, furnish them with any information he may require as to
 persons transported in such taxicabs or vehicles for hire.
 (1989 Code, § 7-335) Penalty, see §§
 7-390 et seq.
-DIVISION 2: DRIVER’S PERMIT
+*** DIVISION 2: DRIVER’S PERMIT ***
 § 7-346 REQUIRED; DISPLAY.
    Every operator or driver of a taxicab or vehicle for hire which engages in
 transportation of the public for compensation over the streets of the city
@@ -4704,7 +4704,7 @@ a permanent permit or upon notification that such person has been denied a
 permanent permit. If a permanent permit is issued, no additional fee shall be
 required.
 (1989 Code, § 7-351)
-DIVISION 3: CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY
+*** DIVISION 3: CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY ***
 § 7-366 REQUIRED.
    No license for the operation of public vehicles shall be issued, nor shall
 any public vehicle be operated on the streets of the city, unless and until the
@@ -4861,7 +4861,7 @@ Division 1: Generally
 7-387   Issuance
    
 7-388   Revocation
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 7-381 DEFINITIONS.
    The following words, terms and phrases, when used in this article, shall
 have the meanings ascribed to them in this section, except where the context
@@ -6024,7 +6024,7 @@ Statutory reference:
    Prima facie rule of evidence for enforcement of parking regulations, see
 G.S. § 20-162.1
    Stopping, standing and parking, see G.S. §§ 20-161 to 20-163
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 9-101 PROHIBITED IN CERTAIN PLACES.
    No person shall stop, stand or park a vehicle except when necessary to avoid
 conflict with other traffic or in compliance with the directions of a police
@@ -6177,7 +6177,7 @@ penalty may be recovered by the city in a civil action in the nature of debt if
 the offender does not pay the penalty within the prescribed period of time
 after such offender has been cited for violation of this chapter.
 (1989 Code, § 9-115) (Am. Ord. passed 8-20-03)
-DIVISION 2: METERED PARKING
+*** DIVISION 2: METERED PARKING ***
 § 9-126 DESIGNATION OF PARKING METER ZONES.
    Parking meter zones are hereby created in those areas designated on the
 official traffic map which is on file in the City Clerk’s office.
@@ -6279,7 +6279,7 @@ parking meters.
 willfully break, destroy or impair the usefulness of any parking meter
 installed under the provisions of this division.
 (1989 Code, § 9-135)
-DIVISION 3: TWO-HOUR PARKING ZONES
+*** DIVISION 3: TWO-HOUR PARKING ZONES ***
 § 9-151 CREATION.
    Two-hour parking zones are hereby created in those areas designated on the
 official traffic map which is on file in the City Clerk’s office.
@@ -6344,7 +6344,7 @@ time of its removal from such regulated parking space.
 9-18
 § 9-156 REPEALED.
    § 9-156 was repealed by Ord. passed 7-19-2022, effective 7-19-2022.
-DIVISION 4: FOUR-HOUR PARKING ZONES
+*** DIVISION 4: FOUR-HOUR PARKING ZONES ***
 § 9-157 CREATION OF FOUR-HOUR PARKING ZONES.
    Four-hour parking zones are hereby created in those areas designated as
 four-hour zones on the official traffic map.
@@ -6419,7 +6419,7 @@ the south right of way line of Reeves Street on the north and a point located
 in a southerly direction and with the west right of way line of Boone Road, 141
 feet from the southwest intersection of Boone Road and Reeves Street.
 (Ord. passed 10-11-94)
-DIVISION 5: CITY OWNED OR LEASED PROPERTY
+*** DIVISION 5: CITY OWNED OR LEASED PROPERTY ***
 § 9-171 ENFORCEMENT AUTHORIZED.
    It shall be an infraction for any person to stop, leave standing, or park a
 motor vehicle on any City owned or leased lot, garage or other facility that is
@@ -6430,7 +6430,7 @@ parking vehicles is regulated or prohibited.
 Statutory reference:
    Authority to regulate parking on city owned or leased parking facilities,
 see G.S. § 160A-301(b)
-DIVISION 6: PRIVATE PROPERTY
+*** DIVISION 6: PRIVATE PROPERTY ***
 § 9-172 ENFORCEMENT AUTHORIZED.
    Upon the written request of the owner or person in general charge of the
 operation and control of any parking area or driveway of a privately owned
@@ -6478,7 +6478,7 @@ used to enforce other parking regulations and ordinances, and penalties shall
 be the same as for the corresponding violation on publicly owned or controlled
 streets or property.
 (1989 Code, § 9-176) (Ord. passed 4-19-83)
-DIVISION 7: PARKING FOR PERSONS WITH DISABILITIES
+*** DIVISION 7: PARKING FOR PERSONS WITH DISABILITIES ***
 § 9-181 PARKING SPACES DESIGNATED.
    Parking spaces on the following streets and locations are hereby designated
 as parking spaces for persons with disabilities and the visually impaired:
@@ -6701,7 +6701,7 @@ Division 3: Conduct
 9-228   Conduct during the parade or special event
    
 9-229   Chairman responsible for cleanup
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 9-211 TITLE.
    This article shall be known and cited as the parade and special events
 ordinance of the City of Eden. This chapter applies to all street fairs,
@@ -6897,7 +6897,7 @@ section within three working days after its issuance. An alternative permit
 shall conform to the requirements of and shall have the effect of a parade or
 special event permit under this division.
 (1989 Code, § 9-238) (Ord. passed 12-8-87; Am. Ord. passed 2-15-11)
-DIVISION 3: CONDUCT
+*** DIVISION 3: CONDUCT ***
 § 9-225 PARADE ROUTE.
    Every parade shall follow the route designated and approved by the City
 Manager and prescribed on the parade permit.
@@ -9004,7 +9004,7 @@ Division 2: Operations
 10-12.17   Safety rules and procedures
    Statutory reference:
       See G.S. § 160A-174
-DIVISION 1: RESPONSIBILITIES
+*** DIVISION 1: RESPONSIBILITIES ***
 § 10-12.1 MAYOR AND CITY COUNCIL.
    The Mayor and City Council support a citywide safety program through
 personnel policies and budgetary considerations.
@@ -9282,7 +9282,7 @@ work; and
    (K)   Serve on a safety committee or inspection team when appointed or
 elected.
 (Ord. passed 2-18-03; Am. Ord. passed 8-20-24)
-DIVISION 2: OPERATIONS
+*** DIVISION 2: OPERATIONS ***
 § 10-12.14 MONTHLY SAFETY TRAINING PROGRAM – NEW EMPLOYEE ORIENTATION.
    (A)   All section supervisors will conduct a monthly safety meeting with
 their employees. Date, those in attendance and the topic of the discussion will
@@ -9513,7 +9513,7 @@ ineligible expenses or costs.
 enforce and give effect to the provisions of this article shall be conducted
 pursuant to the “Public Safety Telephone Act.”
 (Ord. passed 2-16-99)
-CHAPTER 12: SOLID WASTE
+***** CHAPTER 12: SOLID WASTE *****
    Article
       
 I.   DEFINITIONS
@@ -9998,7 +9998,7 @@ by §
    This chapter shall be effective at the date that it is adopted, and from
 that date until such time as the City chooses to amend or repeal it.
 (Ord. passed 6-21-05)
-CHAPTER 13: STREETS, SIDEWALKS AND OTHER PUBLIC PLACES
+***** CHAPTER 13: STREETS, SIDEWALKS AND OTHER PUBLIC PLACES *****
    Article
       
 I.   IN GENERAL
@@ -10432,7 +10432,7 @@ Division 5: Visibility at Intersections
 13-130   Use of traffic-control devices
    
 13-131   Conflicting regulations
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 13-51 INJURY FROM HARROWS AND OTHER IMPLEMENTS, MACHINES PROHIBITED.
    It shall be unlawful for any person to drag, run or cause to be dragged or
 run any harrow or other implement, engine, machine or tool upon any asphalt,
@@ -10443,7 +10443,7 @@ unlawful to injure any dirt street in the same manner.
 § 13-52 RESERVED.
 Editor’s note:
    § 13-52 was repealed by Ord. passed 10-20-2020.
-DIVISION 2: CURB AND GUTTER
+*** DIVISION 2: CURB AND GUTTER ***
 § 13-66 PETITION.
    (A)   Any petition submitted for curb and gutter must be for both sides of a
 street and for an entire block, except that a petition for a length of a street
@@ -10480,7 +10480,7 @@ according to standard engineering practice. The standard precast iron grate
 shall be used with catch basin construction.
 (1989 Code, § 13-68) Penalty, see §§
 1-16 et seq.
-DIVISION 3: CLOSING OR VACATING
+*** DIVISION 3: CLOSING OR VACATING ***
 § 13-86 SCOPE.
    This division shall regulate and establish the procedure for permanently
 closing public streets and alleys within the planning jurisdiction of the city
@@ -10562,7 +10562,7 @@ street or alley, and the title of such adjoining landowners, for the width of
 the abutting land owned by them, shall extend to the centerline of the street
 or alley.
 (G.S. § 160A-299(c)) (1989 Code, § 13-93)
-DIVISION 4: IMPROVEMENTS
+*** DIVISION 4: IMPROVEMENTS ***
 § 13-111 APPLICABILITY.
    This division shall apply to a street which has been dedicated for public
 use prior to January 1, 1980, but which is not now nor ever has been maintained
@@ -10618,7 +10618,7 @@ of six inches.
 and to a width of 16 feet.
 (1989 Code, § 13-114) Penalty, see §§
 1-16 et seq.
-DIVISION 5: VISIBILITY AT INTERSECTIONS
+*** DIVISION 5: VISIBILITY AT INTERSECTIONS ***
 § 13-126 APPLICABILITY.
    This division shall apply to property which is located at corners formed by
 intersecting streets and which lies within that triangular area bounded by the
@@ -11180,7 +11180,7 @@ owner’s agreement to protect and hold the city harmless against any and all
 liability, cost, damage or expense suffered or sustained by the city as a
 result of or growing out of the encroachment upon or under such sidewalk.
 (Ord. passed 9-21-21)
-CHAPTER 14: TELECOMMUNICATIONS
+***** CHAPTER 14: TELECOMMUNICATIONS *****
    Article
       
 I.   TELECOMMUNICATIONS
@@ -11268,7 +11268,7 @@ Division 7: Books, Records, Reports, Miscellaneous Provisions
    
 14-83   Miscellaneous provisions - public notices; exceptions; franchise
 applications
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 14-1 PURPOSE.
    (A)   The city finds that the development of cable television and
 communications systems has the potential of having greater benefit and impact
@@ -11489,7 +11489,7 @@ divides into feeder lines which are tapped for service to subscribers.
 for the purpose of production and/or transmission of material, as contrasted
 with receipt thereof in a subscriber capacity.
 (Ord. passed 2-16-93)
-DIVISION 2: GRANT OF FRANCHISE
+*** DIVISION 2: GRANT OF FRANCHISE ***
 § 14-10 GRANT OF FRANCHISES; TERRITORY.
    (A)   In the event that the city shall grant to the grantee a nonexclusive,
 revocable for cause as provided herein, franchise to construct, operate and
@@ -11869,7 +11869,7 @@ to make such tests as it shall find necessary to ensure compliance with the
 terms of this chapter, the franchise agreement, and other pertinent provisions
 of the law.
 (Ord. passed 2-16-93)
-DIVISION 3: REGULATION OF THE FRANCHISE
+*** DIVISION 3: REGULATION OF THE FRANCHISE ***
 § 14-30 REGULATORY AUTHORITY.
    (A)   The city may exercise appropriate regulatory authority under the
 provisions of this chapter and applicable law. This authority shall be vested
@@ -11956,7 +11956,7 @@ and evaluation by the city, the grantee shall cooperate with the city and shall
 provide such information and documents as the city may need to reasonably
 perform its review.
 (Ord. passed 2-16-93)
-DIVISION 4: BONDS, INSURANCE, INDEMNIFICATION
+*** DIVISION 4: BONDS, INSURANCE, INDEMNIFICATION ***
 § 14-40 PERFORMANCE BOND.
    (A)   Performance bond. No later than 45 days after the effective date of
 the franchise, the grantee shall obtain and maintain during the entire term of
@@ -12058,7 +12058,7 @@ out of installation, operation or maintenance of the cable communications
 system authorized herein, whether or not any act or omission complained of is
 authorized, allowed or prohibited by this chapter.
 (Ord. passed 2-16-93)
-DIVISION 5: DESIGN AND CONSTRUCTION
+*** DIVISION 5: DESIGN AND CONSTRUCTION ***
 § 14-50 AUTHORITY TO CONSTRUCT.
    (A)   Authorization to commence new construction and application procedures.
 Within 30 days of the acceptance by the grantee of a franchise, the grantee
@@ -12352,7 +12352,7 @@ what actions, if any, should be taken by the grantee or city.
 qualified consultants if necessary or desirable to assist in the administration
 of this or any other section of this chapter or the franchise agreement.
 (Ord. passed 2-16-93)
-DIVISION 6: SERVICE
+*** DIVISION 6: SERVICE ***
 § 14-65 SERVICES TO SUBSCRIBERS AND USERS.
    (A)   Concurrently with the activation of the cable communications system in
 the city, the grantee shall provide those services to subscribers as described
@@ -12581,7 +12581,7 @@ by the Council pursuant to the provisions of this chapter. Such representation
 by citizens of the city shall be in the manner and form as the Council may
 determine, ensuring equal participation of all protected groups.
 (Ord. passed 2-16-93)
-DIVISION 7: BOOKS, RECORDS, REPORTS, MISCELLANEOUS PROVISIONS
+*** DIVISION 7: BOOKS, RECORDS, REPORTS, MISCELLANEOUS PROVISIONS ***
 § 14-80 BOOKS AND RECORDS AVAILABLE TO THE CITY.
    The grantee shall manage all of its operations in accordance with a policy
 of open books and records as such may pertain to the operation of the system in
@@ -12655,7 +12655,7 @@ city written applications utilizing the appropriate standard format provided by
 the city, at the time and place designated by the city for accepting
 applications and including the designated application fee, if any.
 (Ord. passed 2-16-93)
-CHAPTER 15: UTILITIES
+***** CHAPTER 15: UTILITIES *****
    Article
       
 I.   IN GENERAL
@@ -12760,9 +12760,9 @@ Situations
 15-92   Adoption of the Water Shortage Response Plan
    
 15-93   Review and Updating of Water Shortage Response Plan
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 [RESERVED]
-DIVISION 2: WATER SYSTEM
+*** DIVISION 2: WATER SYSTEM ***
 § 15-36 SUPERVISION; APPOINTMENT OF SUPERVISING EMPLOYEES.
    (A)   The water system of the City of Eden, hereafter referred to as the
 city, shall be under the direct supervision and control of the city council,
@@ -12884,7 +12884,7 @@ city except where public water service is not available as described in
 divisions (A) and (B). Private wells shall be installed as provided for by
 ordinance and as required by the Rockingham County Health Department.
 ('89 Code, § 16-102)
-DIVISION 2A: CROSS-CONNECTION CONTROL
+*** DIVISION 2A: CROSS-CONNECTION CONTROL ***
 § 15-47 PURPOSE OF CROSS-CONNECTION CONTROL.
    (A)   To protect the public potable water supply of the city from the
 possibility of contamination or pollution, which could backflow into the public
@@ -13466,7 +13466,7 @@ $500.
 required by this division: $100 per day, up to and including termination of
 water service.
 (Ord. passed 6-19-18; Am. Ord. passed 1-21-20; Am. Ord. passed 11-19-24)
-DIVISION 3: PRIVATE FIRE HYDRANTS AND SPRINKLER SYSTEMS
+*** DIVISION 3: PRIVATE FIRE HYDRANTS AND SPRINKLER SYSTEMS ***
 § 15-61 CONNECTIONS.
    All connections and systems for private fire hydrants or sprinkler systems
 shall be made according to the requirements of this article.
@@ -13518,7 +13518,7 @@ chapter may also be punished by a civil penalty in the amount of $100 for each
 violation, which penalty shall be enforced as provided by §
 1-16.2 of the City Code. This remedy shall be nonexclusive.
 (Ord. passed 2-16-16)
-DIVISION 5: CONSERVATION
+*** DIVISION 5: CONSERVATION ***
 § 15-81 DEFINITION.
    The following term when used in this division shall have the meaning
 ascribed to it in this section except where the context clearly indicates a
@@ -13967,7 +13967,7 @@ Subdivision K: Affirmative Defenses to Discharge Violations
 15-198   Prohibited discharge standards defense
    
 15-199   Bypass
-DIVISION 1: GENERALLY
+*** DIVISION 1: GENERALLY ***
 § 15-101 SUPERVISION; APPOINTMENT OF SUPERVISOR.
    (A)   The wastewater system of the city shall be under the general control
 and supervision of the City Council and shall be regulated and operated as it
@@ -14156,8 +14156,8 @@ Council for approval or disapproval.
 (1989 Code, § 16-109) (Ord. passed 10-15-85; Am. Ord. passed 11-20-12) Penalty,
 see §
 1-16 et seq.
-DIVISION 2: USE REGULATIONS
-SUBDIVISION A: GENERAL PROVISIONS
+*** DIVISION 2: USE REGULATIONS ***
+*** SUBDIVISION A: GENERAL PROVISIONS ***
 § 15-121 PURPOSE AND POLICY.
    (A)   This division sets forth uniform requirements for direct and indirect
 contributors into the wastewater collection and treatment system for the City
@@ -14486,7 +14486,7 @@ designated meanings.
       (20)   U.S.C. United States Code.
 (Ord. passed 5-17-94; Am. Ord. passed 11-19-02; Am. Ord. passed 10-20-09; Am.
 Ord. passed 11-20-12)
-SUBDIVISION B: GENERAL SEWER USE REQUIREMENTS
+*** SUBDIVISION B: GENERAL SEWER USE REQUIREMENTS ***
 § 15-126 PROHIBITED DISCHARGE STANDARDS.
    (A)   General prohibitions. No user shall contribute or cause to be
 contributed into the POTW, directly or indirectly, any pollutant or wastewater
@@ -14880,7 +14880,7 @@ during all business hours.
    (F)   Compliance monitoring. Any user that is subject to sampling by city
 staff will be accessed the cost for any analytical testing fees.
 (Ord. passed 4-19-05; Am. Ord. passed 11-20-12)
-SUBDIVISION C: FEES
+*** SUBDIVISION C: FEES ***
 § 15-140 PURPOSE.
    It is the purpose of this chapter to provide for the recovery of costs from
 users of the city’s wastewater disposal system for the implementation of the
@@ -14945,7 +14945,7 @@ discharge procedures and construction plans and specifications;
    (E)   Other fees as the city may deem necessary to carry out the
 requirements of the pretreatment program.
 (Ord. passed 5-17-94)
-SUBDIVISION D: WASTEWATER DISCHARGE PERMIT APPLICATION AND ISSUANCE
+*** SUBDIVISION D: WASTEWATER DISCHARGE PERMIT APPLICATION AND ISSUANCE ***
 § 15-149 WASTEWATER DISCHARGERS.
    It shall be unlawful for any person to connect or discharge to the POTW
 without first obtaining the permission of the city. When requested by the POTW
@@ -15222,7 +15222,7 @@ permit reissuance by submitting a complete permit application in accordance
 with §
 15-150 a minimum of 180 days prior to the expiration of the existing permit.
 (Ord. passed 5-17-94; Am. Ord. passed 10-20-09; Am. Ord. passed 11-20-12)
-SUBDIVISION E: REPORTING REQUIREMENTS
+*** SUBDIVISION E: REPORTING REQUIREMENTS ***
 § 15-156 BASELINE MONITORING REPORTS.
    (A)   Within either 180 days after the effective date of a categorical
 pretreatment standard, or the final administrative decision on a category
@@ -15529,7 +15529,7 @@ has been specifically notified of a longer retention period by the POTW
 Director.
 (Ord. passed 5-17-94; Am. Ord. passed 11-20-12) Penalty, see §§
 15-185 et seq.
-SUBDIVISION F: COMPLIANCE MONITORING
+*** SUBDIVISION F: COMPLIANCE MONITORING ***
 § 15-174 MONITORING FACILITIES.
    (A)   The city requires the user to provide and operate at the user’s own
 expense, monitoring facilities to allow inspection, sampling, and flow
@@ -15582,7 +15582,7 @@ overall public health, safety and welfare of the community, then the city,
 approval authority, or EPA may seek issuance of a search warrant from the
 District Court of the county.
 (Ord. passed 5-17-94; Am. Ord. passed 11-20-12)
-SUBDIVISION G: CONFIDENTIAL INFORMATION
+*** SUBDIVISION G: CONFIDENTIAL INFORMATION ***
 § 15-181 CONFIDENTIAL INFORMATION.
    (A)   Information and data on a user obtained from reports, questionnaires,
 permit applications, permits and monitoring programs and from inspections shall
@@ -15606,7 +15606,7 @@ confidential information.
 be made available to officials of the approval authority and EPA upon request.
 (Ord. passed 5-17-94; Am. Ord. passed 11-20-12) Penalty, see §§
 15-185 et seq.
-SUBDIVISION H: ENFORCEMENT
+*** SUBDIVISION H: ENFORCEMENT ***
 § 15-185 ADMINISTRATIVE REMEDIES.
    (A)   Notification of violation. Whenever the POTW Director finds that any
 industrial user has violated or is violating this division, wastewater permit,
@@ -15776,7 +15776,7 @@ Director may take other action against any user when the circumstances warrant.
 Further, the POTW Director is empowered to take more than one enforcement
 action against any noncompliant user.
 (Ord. passed 5-17-94)
-SUBDIVISION I: ANNUAL PUBLICATION OF SIGNIFICANT NONCOMPLIANCE
+*** SUBDIVISION I: ANNUAL PUBLICATION OF SIGNIFICANT NONCOMPLIANCE ***
 § 15-193 ANNUAL PUBLICATION OF SIGNIFICANT NONCOMPLIANCE.
    At least annually, the POTW Director shall publish in a newspaper of general
 circulation that provides meaningful public notice within the jurisdiction(s)
@@ -15785,7 +15785,7 @@ significant noncompliance, also referred to as reportable noncompliance, in 15A
 NCAC 2H.0903(b)(10), with applicable pretreatment standards and requirements,
 during the previous 12 months.
 (Ord. passed 5-17-94; Am. Ord. passed 10-20-09)
-SUBDIVISION J: ADJUDICATORY HEARINGS
+*** SUBDIVISION J: ADJUDICATORY HEARINGS ***
 § 15-194 ADJUDICATORY HEARINGS.
    (A)   Initial adjudicatory hearing. An applicant whose permit is denied,
 granted subject to conditions he deems unacceptable, a permittee/user assessed
@@ -15847,7 +15847,7 @@ along with a copy to the city. Within 30 days after receipt of the copy of the
 written request for review by the Court, the City Council shall transmit to the
 reviewing court the original or a certified copy of the official record.
 (Ord. passed 11-20-12)
-SUBDIVISION K: AFFIRMATIVE DEFENSES TO DISCHARGE VIOLATIONS
+*** SUBDIVISION K: AFFIRMATIVE DEFENSES TO DISCHARGE VIOLATIONS ***
 § 15-197 UPSET.
    (A)   An upset shall constitute an affirmative defense to an action brought
 for noncompliance with categorical pretreatment standards if the requirements

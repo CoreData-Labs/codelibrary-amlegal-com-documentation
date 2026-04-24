@@ -210,7 +210,7 @@ The General Assembly of North Carolina enacts:
    Section 1. [Revision and consolidation of Charter]. The Charter of the Town
 of Elkin is hereby revised and consolidated to read as follows:
    “THE CHARTER OF THE TOWN OF ELKIN
-“ARTICLE I. INCORPORATION, CORPORATE POWERS AND BOUNDARIES
+**** “ARTICLE I. INCORPORATION, CORPORATE POWERS AND BOUNDARIES ****
    “Section 1.1. Incorporation. The Town of Elkin, North Carolina, and the
 inhabitants thereof, is a municipal body politic and corporate, under the name
 of the ‘Town of Elkin,’ hereinafter at times referred to as the ‘Town.’
@@ -232,7 +232,7 @@ Editor’s note:
 Described Territory to the Town of Elkin,” ratified and effective June 30,
 1989, amends these limits and is hereby adopted by reference as if set out in
 full herein.
-“ARTICLE II. GOVERNING BODY
+**** “ARTICLE II. GOVERNING BODY ****
    “Section 2.1. Mayor and Board of Commissioners. The Mayor and Board of
 Commissioners, hereinafter referred to as the ‘Board,’ shall be the governing
 body of the Town.
@@ -260,7 +260,7 @@ particularly G.S. 160A-75. The quorum provisions of G.S. 160A-74 apply.
 compensation and qualifications of the Mayor and Commissioners are in
 accordance with general law. Vacancies that occur in any elective office of the
 Town are filled by appointment of the Board as provided in G.S. 160A-63.
-“ARTICLE III. ELECTIONS
+**** “ARTICLE III. ELECTIONS ****
    “Section 3.1. Regular Municipal Elections. Regular municipal elections shall
 be held in each even-numbered year in accordance with the uniform municipal
 elections laws of North Carolina. Elections are conducted on a nonpartisan
@@ -276,7 +276,7 @@ acts of the General Assembly.
 Editor’s note:
    Section 3.1, Regular Municipal Elections, was amended by House Bill 1045,
 ratified 6-26-2014 and effective 1-1-2015.
-“ARTICLE IV. ORGANIZATION AND ADMINISTRATION
+**** “ARTICLE IV. ORGANIZATION AND ADMINISTRATION ****
    “Section 4.1. Form of Government. The Town operates under the council-
 manager form of government, in accordance with G.S. Chapter 160A, Article 7,
 Part 2.
@@ -300,7 +300,7 @@ provide for appointment of other officers and employees by the Town Manager,
 and may organize the Town government as deemed appropriate, including combining
 any of the offices provided for in this Article, subject to the requirements of
 general law.
-“ARTICLE V. SPECIAL PROVISIONS
+**** “ARTICLE V. SPECIAL PROVISIONS ****
    “Section 5.1. Acceptance of Conveyance of Real Property for Liens. Despite
 G.S. 105-357(a) and other provisions of law, the Board, by resolution, may
 accept conveyance of real property on which the Town has a lien, in full or
@@ -787,7 +787,7 @@ Ordinances
 30.58   When effective
    
 30.59   Official copy
-GOVERNING BODY
+**** GOVERNING BODY ****
 § 30.01 GOVERNING BODY.
    The governing body of the Town of Elkin shall consist of a Mayor and five
 Commissioners.
@@ -798,7 +798,7 @@ for all officers and employees as it may deem necessary and in conformity with
 the statutes. The Board shall also assume responsibility for the administration
 of all oaths where required by statutes, and where an oath may be advisable.
 (1940 Code, Ch. B, Art. I, § 2)
-MEETINGS
+**** MEETINGS ****
 § 30.15 REGULAR MEETINGS.
    The Board of Commissioners shall hold a regular meeting on the second Monday
 in each month.
@@ -840,7 +840,7 @@ power conferred upon the Mayor.
    When there is an equal division upon any question, the Mayor shall determine
 the matter by his or her vote. He or she shall vote in no other case.
 (1940 Code, Ch. A, § 9)
-BOARD BUSINESS
+**** BOARD BUSINESS ****
 § 30.35 ORDER OF BUSINESS.
    The order of business at all regular meetings of the Board of Commissioners
 shall be stated in the Town of Elkin Board of Commissioners Rules of Procure.
@@ -865,7 +865,7 @@ by a majority vote of the Commissioners.
 Board, a successor shall be elected by a majority vote of the Board to fill the
 unexpired term.
 (1940 Code, Ch. A, § 20)
-ORDINANCES
+**** ORDINANCES ****
 § 30.55 ORDINANCES IN WRITING.
    All ordinances shall be submitted in writing and signed by the Commissioner
 introducing same.
@@ -907,7 +907,7 @@ Mayor
 31.21   Powers
    
 31.22   Presiding Officer
-BOARD OF COMMISSIONERS
+**** BOARD OF COMMISSIONERS ****
 § 31.01 ELECTION.
    A Board of Commissioners composed of five members shall be elected to hold
 office for staggered terms of four years.
@@ -923,7 +923,7 @@ without first being so authorized by the Board or the Mayor.
 interested in the contracts for work to be done for the town or be pecuniarily
 interested in any contract with the town.
 (1940 Code, Ch. B, Art. III, § 5)
-MAYOR
+**** MAYOR ****
 § 31.20 ELECTION.
    The Mayor shall be elected in accordance with provisions made and provided
 for by statute and Town of Elkin Board of Commissioners Rules of Procedure,
@@ -964,7 +964,7 @@ General Rules of Procedure for Town Advisory Boards
 32.11   Signatures
    
 32.12   Complaints against advisory board members
-GENERAL RULES OF PROCEDURE FOR TOWN ADVISORY BOARDS
+**** GENERAL RULES OF PROCEDURE FOR TOWN ADVISORY BOARDS ****
 § 32.01 PURPOSE; ADOPTION DATE.
    (A)   The purpose of this subchapter is to provide the standard operating
 procedures to be used by the Town Board for the acceptance of names, selection
@@ -1303,7 +1303,8 @@ Procedures for Disposing of Personal Property Valued at Less Than $30,000
 34.23   Records
    
 34.24   Authority; adoption
-DELEGATING AUTHORITY TO PURCHASE APPARATUS, SUPPLIES, MATERIALS OR EQUIPMENT
+**** DELEGATING AUTHORITY TO PURCHASE APPARATUS, SUPPLIES, MATERIALS OR
+EQUIPMENT ****
 § 34.01 GRANT OF AUTHORITY.
    Subject to the restrictions and conditions hereinafter provided, when
 purchasing apparatus, supplies, materials or equipment for use by the town, in
@@ -1363,7 +1364,8 @@ the same extent as would have otherwise applied to the Board of Commissioners.
 129.
    (B)   This subchapter was adopted on September 8, 2008.
 (Ord. eff. 9-8-2008)
-PROCEDURES FOR DISPOSING OF PERSONAL PROPERTY VALUED AT LESS THAN $30,000
+**** PROCEDURES FOR DISPOSING OF PERSONAL PROPERTY VALUED AT LESS THAN $30,000
+****
 § 34.20 AUTHORIZATION OF DISPOSAL OF PROPERTY.
    The Town Manager is hereby authorized to dispose of any surplus personal
 property owned by the town, whenever he or she determines, in his or her
@@ -1440,7 +1442,7 @@ Franchise Tax on Electric Power Companies
  
    
 35.99   Penalty
-TAXATION
+**** TAXATION ****
 § 35.01 AUTHORITY TO LEVY TAXES.
    In order to raise sufficient funds to pay the current expenses of the town,
 the Board of Commissioners may each year levy and collect upon all the real and
@@ -1456,7 +1458,7 @@ payment of which the Board of Commissioners shall have authority to levy and
 collect upon all of the real and personal property within the town an unlimited
 tax.
 (1940 Code, Ch. D, Art. I, § 2)
-FRANCHISE TAX ON ELECTRIC POWER COMPANIES
+**** FRANCHISE TAX ON ELECTRIC POWER COMPANIES ****
 § 35.15 TITLE.
    This subchapter shall be known and may be cited as the “Town of Elkin of
 North Carolina’s Franchise Tax on Electric Power Ordinance,” and shall be
@@ -1928,7 +1930,7 @@ Prohibited Accumulations
 51.65   Solid waste the town will not collect
    
 51.66   Accumulation of solid wastes prohibited
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 51.01 PURPOSE.
    (A)   The town provides its comprehensive solid waste management program,
 including weekly curbside garbage collection, weekly yard waste collection,
@@ -2349,7 +2351,7 @@ or occupant of a property at curbside for collection, are deemed to be
 abandoned by the person(s) and become property of the town or its authorized
 agent.
 (Ord. eff. 12-10-2001; Ord. eff. 11-10-2014)
-DUMPING; UNAUTHORIZED COLLECTIONS
+**** DUMPING; UNAUTHORIZED COLLECTIONS ****
 § 51.30 SCAVENGING, PRIVATE COLLECTION.
    It shall be unlawful for any unauthorized person to scavenge, sort, pick
 through or remove refuse, trash, yard wastes or recyclables stored or set out
@@ -2443,7 +2445,7 @@ tight cover, and so operates it as to prevent offensive odors escaping
 therefrom and refuse from being dropped, blown or spilled.
 (Ord. eff. 12-10-2001; Ord. eff. 11-10-2014) Penalty, see §
 10.99
-SPECIAL COLLECTIONS
+**** SPECIAL COLLECTIONS ****
 § 51.50 SPECIAL COLLECTIONS – YARD WASTE.
    (A)   Yard waste collection shall be provided only to single-family and
 special residential units served by the town. Yard waste collection shall be
@@ -2556,7 +2558,7 @@ Each resident must complete and sign a town truck policy statement. Charges
 will be applied to the monthly water bill for collection.
 (Ord. eff. 12-10-2001; Ord. eff. 11-10-2014) Penalty, see §
 10.99
-PROHIBITED ACCUMULATIONS
+**** PROHIBITED ACCUMULATIONS ****
 § 51.65 SOLID WASTE THE TOWN WILL NOT COLLECT.
    The town will not collect the following types of solid wastes, and no person
 may place any of the following in any container or receptacle intended for
@@ -2620,7 +2622,7 @@ Use of Water from Town Water System
 52.07   Water service charges
    
 52.08   Water from fire hydrants; unauthorized and unlawful uses
-USE OF WATER FROM TOWN WATER SYSTEM
+**** USE OF WATER FROM TOWN WATER SYSTEM ****
 § 52.01 CONTROL AND SUPERVISION.
    The water system of the town shall be under the general control and
 supervision of the Town Manager and the system shall be regulated and operated
@@ -2755,7 +2757,7 @@ Truck Routes
  
    
 70.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this title, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -2838,7 +2840,7 @@ be transported or drawn upon a highway, except devices moved by human power or
 used exclusively upon stationary rails or tracks; provided, that for the
 purpose of this title, a bicycle or a ridden animal shall be deemed a VEHICLE.
 (1940 Code, Ch. G, Art. I, §§ 2, 3, 4)
-REQUIRED OBEDIENCE TO TRAFFIC REGULATIONS AND POLICE OFFICERS
+**** REQUIRED OBEDIENCE TO TRAFFIC REGULATIONS AND POLICE OFFICERS ****
 § 70.30 REQUIRED OBEDIENCE TO TRAFFIC ORDINANCE.
    It is a misdemeanor for any person to do any act forbidden by or fail to
 perform any act required in this chapter.
@@ -2886,7 +2888,7 @@ to the provisions of this chapter applicable to the driver of any vehicle,
 except those provisions of this chapter which, by their very nature, can have
 no application.
 (1940 Code, Ch. G, Art. III, § 6)
-OBEDIENCE TO OFFICIAL TRAFFIC-CONTROL DEVICES
+**** OBEDIENCE TO OFFICIAL TRAFFIC-CONTROL DEVICES ****
 § 70.50 OBEDIENCE TO OFFICIAL TRAFFIC-CONTROL DEVICES.
    (A)   The driver of any vehicle, street car and/or trackless trolley shall
 obey the directions of any official traffic-control device applicable thereto
@@ -2971,7 +2973,7 @@ at a stop sign.
 with rapid intermittent flashes, drivers of vehicles may proceed through the
 intersection or past the signal only with caution.
 (1940 Code, Ch. G, Art. IV, § 8)
-TRUCK ROUTES
+**** TRUCK ROUTES ****
 § 70.70 TRUCKS REQUIRED TO FOLLOW ROUTES; MARKING OF ROUTES.
    (A)   All trucks and trailers entering the town destined to a point outside
 of the town and not taking on or discharging any goods, wares or merchandise
@@ -3069,7 +3071,7 @@ Cruising Prohibited
 Cross-reference:
    Driving on sidewalks, see §
 72.16
-OPERATION OF VEHICLES
+**** OPERATION OF VEHICLES ****
 § 71.01 STOP BEFORE ENTERING A THROUGH STREET.
    (A)   Those streets and parts of streets, as may be described in a future
 traffic schedule, are hereby declared to be “through streets” for the purpose
@@ -3230,7 +3232,7 @@ misdemeanor and shall be punishable by a $50 fine.
    (F)   Exceptions. Emergency vehicles shall be exempt from the application of
 this section.
 (Ord. 2016-11-0453, passed 11-14-2016; Ord. 2017-02-0456, passed 2-13-2017)
-MISCELLANEOUS REGULATIONS
+**** MISCELLANEOUS REGULATIONS ****
 § 71.35 BOARDING OR ALIGHTING FROM PUBLIC CONVEYANCES OR OTHER VEHICLES.
    No person shall board or alight from any public conveyance or other vehicle
 while the conveyance or vehicle is in motion.
@@ -3268,7 +3270,7 @@ vehicle speaking to or entering into conversation with the driver or occupant
 of any other vehicle.
 (Ord. eff. 6-10-1985) Penalty, see §
 71.99
-CRUISING PROHIBITED
+**** CRUISING PROHIBITED ****
 § 71.55 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3412,7 +3414,7 @@ Disabled Parking
  
    
 72.99   Penalty
-ALONG OR NEAR STREETS
+**** ALONG OR NEAR STREETS ****
 § 72.01 STOPPING, STANDING OR PARKING PROHIBITED.
    (A)   It shall be unlawful for any person, firm or corporation to stop,
 stand or park a vehicle, except when necessary to avoid conflict with other
@@ -3605,7 +3607,7 @@ from any part of the property, without the consent of the owner, lessor or
 other persons having right to possession of the private property.
 (Ord. eff. 11-27-1974) Penalty, see §
 72.99
-RESTRICTED PARKING
+**** RESTRICTED PARKING ****
 § 72.20 AUTHORITY; ADOPTION DATE.
    Under and by virtue of the authority granted in G.S. § 160A-301 and other
 state law granting municipalities the power to regulate parking within the
@@ -3709,7 +3711,7 @@ downtown business district parking ordinance are not subject to the penal laws
 of the state and, therefore, not subject to the penalty provisions of G.S. §
 14-4.
 (Ord. eff. 11-9-2015; Ord. eff. 2-8-2016)
-IN PUBLIC PARKING LOTS
+**** IN PUBLIC PARKING LOTS ****
 § 72.40 AUTHORITY; ADOPTION DATE.
    Under and by virtue of the authority granted in G.S. § 160A-301(b) and other
 state law granting municipalities the power to regulate parking within the
@@ -3741,7 +3743,7 @@ prima facie evidence that the owner parked the vehicle.
 direction of the Town Manager. He or she may assign one or more employees of
 the town to assist him or her in the administration and enforcement.
 (Ord. eff. 4-1-1989)
-DISABLED PARKING
+**** DISABLED PARKING ****
 § 72.70 DISABLED PARKING; PROPERLY MARKED VEHICLE; PARKING WITHOUT CHARGE.
    (A)   Any other person, firm or corporation parking in spaces properly
 marked for disabled parking, unless the person, firm or corporation is legally
@@ -4399,7 +4401,7 @@ Municipal Park
  
    
 90.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 PURPOSE AND FINDINGS; ADOPTION DATE.
    (A)   The Board of Commissioners of the town is enacting this chapter to
 establish reasonable regulations for use of town recreation and parks
@@ -4433,7 +4435,7 @@ have the right to exercise all authority granted to it under G.S. § 160A-353.
 the Town Manager for the administration of the Recreation and Parks Department.
 (Ord. eff. 12-12-2011; Ord. eff. 8-11-2014; Ord. 2015-09-0416, passed 9-14-
 2015)
-RECREATION FACILITY RULES
+**** RECREATION FACILITY RULES ****
 § 90.15 DEFINITIONS.
    The following words, terms and phrases, when used in this subchapter, shall
 have the meanings ascribed to them in this section, except where the context
@@ -4704,7 +4706,7 @@ otherwise posted.
 structures into any water course running through or adjacent to any Town
 Recreation Facility.
 (Ord. eff. 8-11-2014; Ord. 2015-09-0416, passed 9-14-2015)
-MUNICIPAL PARK
+**** MUNICIPAL PARK ****
 § 90.45 PEDDLING, SELLING OR BEGGING WITHOUT WRITTEN AUTHORIZATION.
    (A)   The ELKIN MUNICIPAL PARK PROPERTY is defined as the recreation area
 located south of Highway 268, north and east of Big Elkin Creek and west of
@@ -5096,7 +5098,7 @@ Limitations on Height of Objects Around Airport
  
    
 92.99   Penalty
-RULES AND REGULATIONS
+**** RULES AND REGULATIONS ****
 § 92.01 RULES ADOPTED; DATE.
    The town hereby adopts the following rules and regulations for the operation
 and use of the Municipal Airport located at 1598 C.C. Camp Road, Elkin, N.C.
@@ -5666,7 +5668,7 @@ age, sex, color, national origin or ability.
 § 92.32 ADOPTION DATE.
    This subchapter was adopted on June 9, 2003.
 (Ord. eff. 6-9-2003)
-LIMITATIONS ON HEIGHT OF OBJECTS AROUND AIRPORT
+**** LIMITATIONS ON HEIGHT OF OBJECTS AROUND AIRPORT ****
 § 92.45 SHORT TITLE.
    This subchapter shall be known and may be cited as the “Municipal Airport
 Zoning Ordinance.”
@@ -6055,13 +6057,13 @@ Open Burning
  
    
 93.999   Penalty
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 93.001 TITLE.
    This chapter shall be known as the “Fire Protection and Prevention
 Ordinance” of the town and may be cited as such and referred to herein as the
 “Fire Chapter.”
 (Ord. 2015-12-0426, passed 12-14-2015)
-FIRE CODE ENFORCEMENT
+**** FIRE CODE ENFORCEMENT ****
 § 93.020 JURISDICTION.
    This subchapter is effective in all areas of the municipality.
 (Ord. 2015-12-0426, passed 12-14-2015)
@@ -6257,7 +6259,7 @@ or penalties charged under this chapter may appeal to the Town Manager, whose
 decisions shall be final. Appeals must be filed in writing within ten days from
 the date of issuance.
 (Ord. 2015-12-0426, passed 12-14-2015)
-OPEN BURNING
+**** OPEN BURNING ****
 § 93.060 JURISDICTION.
    This subchapter is effective in all areas of the municipality.
 (Ord. 2015-12-0426, passed 12-14-2015)
@@ -6407,7 +6409,7 @@ Bird Sanctuary
  
    
 94.99   Penalty
-ANIMAL NUISANCES
+**** ANIMAL NUISANCES ****
 § 94.01 AUTHORITY; ADOPTION DATE.
    (A)   This subchapter is adopted by the Board of Commissioners for the town
 under authority of G.S. § 14-4, Violation of local ordinances misdemeanor; G.S.
@@ -6654,7 +6656,7 @@ deemed necessary.
    (C)   Employee non-compliance to these policies could result in a non-
 compliance notification and/or be subject to the disciplinary process.
 (Ord. 2018-05-0006, eff. 5-14-2018)
-KEEPING OF HORSES
+**** KEEPING OF HORSES ****
 § 94.25 RIDING OR WALKING HORSES ON OR ALONG STREETS AND SIDEWALKS; UNLAWFUL.
    It shall be unlawful at all times for any person to ride or walk a horse, or
 to permit a horse to walk or to be ridden on or along Main Street, Standard
@@ -6682,7 +6684,7 @@ be ridden within the corporate limits between the hours of dusk and dawn.
 § 94.28 ADOPTION DATE.
     This subchapter was adopted on August 4, 1986.
 (Ord. eff. 8-4-1986)
-KEEPING OF LIVESTOCK
+**** KEEPING OF LIVESTOCK ****
 § 94.40 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6750,7 +6752,7 @@ will not run at large.
 and/or destroyed by the Town Police Department or Surry County Animal Control
 Department.
 (Ord. eff. 4-12-2004)
-BIRD SANCTUARY
+**** BIRD SANCTUARY ****
 § 94.60 ESTABLISHMENT OF TOWN AS BIRD SANCTUARY.
    (A)   A city may by ordinance create and establish a bird sanctuary within
 the city limits pursuant to G.S. § 160A-188. Although the Town of Elkin has had
@@ -6824,7 +6826,7 @@ Noises from Motor Vehicles
  
    
 95.99   Penalty
-WEEDS AND UNLAWFUL CONDITIONS ON PRIVATE PROPERTY
+**** WEEDS AND UNLAWFUL CONDITIONS ON PRIVATE PROPERTY ****
 § 95.01 UNLAWFUL CONDITIONS ENUMERATED.
    (A)   The following enumerated and described conditions, or any combination
 thereof, are hereby found, deemed and declared to constitute a detriment,
@@ -6966,7 +6968,7 @@ provisions of this chapter as provided in G.S. § 14-4.
 § 95.05 ADOPTION DATE.
    This subchapter was adopted on September 8, 2008.
 (Ord. eff. 9-8-2008)
-UNNECESSARY NOISES
+**** UNNECESSARY NOISES ****
 § 95.20 UNREASONABLY LOUD, DISTURBING AND UNNECESSARY NOISE PROHIBITED.
    Under and by virtue of the authority granted in the General Statutes,
 subject to the provisions of this subchapter, the creation of any unreasonably
@@ -7003,7 +7005,7 @@ noise shall be measured on the A-weighting scale on a sound level meter of
 standard design and quality having characteristics established by the American
 National Standards Institute.
 (Ord. eff. 3-1-1997)
-NOISES FROM MOTOR VEHICLES
+**** NOISES FROM MOTOR VEHICLES ****
 § 95.35 LOUD, DISTURBING NOISES EMANATING FROM A MOTOR VEHICLE PROHIBITED.
    (A)   It shall be unlawful for any person to create or assist in creating
 any unreasonably loud and disturbing noise emanating from a motor vehicle.
@@ -7095,7 +7097,7 @@ prohibited
  
    
 96.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 96.001 DISPLAY OF STREET ADDRESSES ON ALL HOUSES AND BUSINESS BUILDINGS;
 REQUIRED.
    (A)   It shall be the duty of every owner of property with a structure
@@ -7164,7 +7166,7 @@ paid by the person in default and, if not paid, shall be a lien upon the land
 or premises where the deficiency arose, and shall be collected as unpaid taxes.
    (J)   This section was adopted on June 3, 1991.
 (Ord. eff. 6-3-1991)
-DRIVEWAY CUTS
+**** DRIVEWAY CUTS ****
 § 96.015 PURPOSE.
    It is the purpose and intent of this subchapter to prevent damage to the
 streets, curbs and sidewalks in the town and to regulate construction of new
@@ -7221,7 +7223,7 @@ punishable by the payment of a fine as set forth in §
 § 96.022 ADOPTION DATE.
    This subchapter was adopted on August 12, 2002.
 (Ord. eff. 8-12-2002)
-CONSTRUCTION OF STREETS AND SIDEWALKS
+**** CONSTRUCTION OF STREETS AND SIDEWALKS ****
 § 96.035 PERMIT REQUIRED FOR CUTTING OF STREET OR SIDEWALK.
    It shall be unlawful to make any opening in any street or sidewalk without a
 permit therefor issued by the Public Works Director.
@@ -7256,7 +7258,7 @@ removed. Every day during which the opening remains unfilled in violation of
 the provisions of this section shall constitute a separate offense.
 (1940 Code, Ch. R, Art. I, § 6) Penalty, see §
 96.999
-POLES, WIRES AND CONDUITS
+**** POLES, WIRES AND CONDUITS ****
 § 96.055 PERMITS LIMITED TO SINGLE LINES.
    No permit shall be issued for the erection of poles on a street where there
 is already a line of poles on the street for the purpose of supporting
@@ -7284,7 +7286,7 @@ inspect the same once every three months.
 the town free of charge, and the town shall have the use of any and all poles
 on streets for police and fire alarm telegraph systems.
 (1940 Code, Ch. R, Art. II, § 5)
-USE OF STREETS
+**** USE OF STREETS ****
 § 96.075 STORAGE OR DISPLAY OF MERCHANDISE OR OTHER GOODS, EQUIPMENT OR TOOLS
 PROHIBITED.
    Under and by virtue of the authority granted in G.S. § 160A-296 of granting
@@ -7400,7 +7402,7 @@ Definitions
  
    
 97.999   Penalties
-GENERAL
+**** GENERAL ****
 § 97.001 SUPERINTENDENT; APPOINTMENT, DUTIES GENERALLY.
    There shall be a Superintendent of the Town Cemetery who shall be appointed
 by the Town Manager. The Superintendent shall perform all the duties prescribed
@@ -7544,7 +7546,7 @@ to the burial.
    Suitable books shall be provided and kept for entries by the Superintendent
 of interments in the Town Cemetery. Such entries shall contain the name, age,
 sex, date of death and date or burial of every person in the Town Cemetery.
-MONUMENTS, MAUSOLEUMS, MARKERS, COPING AND THE LIKE
+**** MONUMENTS, MAUSOLEUMS, MARKERS, COPING AND THE LIKE ****
 § 97.040 MONUMENT SPECIFICATIONS; FOUNDATIONS.
    The requirements as to monuments in the Town Cemetery shall be as follows:
    (A)   No monument shall be placed or erected on any lot having fewer than
@@ -7623,7 +7625,7 @@ judgment of the Superintendent are damaged or deteriorated beyond use.
    No coping, curbing, fencing, planting, or enclosures of any kind shall be
 permitted around any lot or grave space within the Town Cemetery.
 (Ord. 2017-03-0462, eff. - -)
-SALE OF LOTS OR PLOTS
+**** SALE OF LOTS OR PLOTS ****
 § 97.060 CHARGES FOR CEMETERY LOTS.
    The charges for a cemetery lot shall be available upon request from Town
 Hall or the Superintendent. Applicable recording fees shall be paid by
@@ -7672,7 +7674,7 @@ cemetery without first obtaining the consent and approval of the
 Superintendent. A copy of the new deed shall be returned to the Town Hall for
 appropriate recording.
 (Ord. 2017-03-0462, eff. - -)
-DEFINITIONS
+**** DEFINITIONS ****
 § 97.080 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7860,7 +7862,7 @@ Special Events
 110.99   Penalty
    
 Appendix A: Schedule of License Taxes
-LICENSE TAXES
+**** LICENSE TAXES ****
 § 110.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7955,7 +7957,7 @@ acquired under any ordinance of the town.
 § 110.11 ADOPTION DATE.
    This subchapter was read, approved and adopted on June 11, 2001.
 (Ord. eff. 7-1-2001)
-SPECIAL EVENTS
+**** SPECIAL EVENTS ****
 § 110.25 NONDISCRIMINATION.
    The Chief of Police shall uniformly consider each application upon its
 merits and shall not discriminate in granting or denying a permit under this
@@ -10008,7 +10010,7 @@ Sidewalk Cafes
 114.03   Alcohol service
    
 114.04   Permit revocation
-SIDEWALK CAFES
+**** SIDEWALK CAFES ****
 § 114.01 SIDEWALK CAFES PERMITTED.
    (A)   The Town of Elkin shall allow areas of town sidewalks to be used by
 restaurants to serve patrons outside in areas immediately adjoining the
@@ -10332,7 +10334,7 @@ Loitering
  
    
 130.99   Penalty
-DISORDERLY CONDUCT AND OTHER OFFENSES
+**** DISORDERLY CONDUCT AND OTHER OFFENSES ****
 § 130.01 DISTURBING PUBLIC MEETINGS.
    It shall be unlawful to disturb any public meeting or exhibition or place of
 public amusement by words, acts or otherwise.
@@ -10350,7 +10352,7 @@ visible, while on a public parking lot, public street, public alleyway or
 public sidewalk in the town.
 (Ord. eff. 9-10-1965) Penalty, see §
 130.99
-DAMAGING PROPERTY
+**** DAMAGING PROPERTY ****
 § 130.20 DEFACING SIGNS.
    It shall be unlawful to injure or deface any sign, advertisements, post or
 billboard which has been lawfully installed, placed or erected upon any street,
@@ -10363,7 +10365,7 @@ picture on any public or private building, fence or wall without the owner’s
 permission.
 (1940 Code, Ch. H, § 10) Penalty, see §
 130.99
-WEAPONS
+**** WEAPONS ****
 § 130.35 POSSESSION OF WEAPONS ON TOWN-OWNED PROPERTY.
    (A)   (1)   Except as provided in division (A)(2) below, all persons are
 prohibited from possessing weapons as defined in G.S. § 14-269 in town-owned
@@ -10437,7 +10439,7 @@ Penalty, see §
 town.
 (1940 Code, Ch. H, § 13) Penalty, see §
 130.99
-LOITERING
+**** LOITERING ****
 § 130.50 LOITERING UPON THE PREMISES OR PARKING LOT OF BUSINESS AFTER HOURS.
    It shall be unlawful to loiter, singularly or in large numbers, upon the
 premises or parking lot of any store, restaurant, theater, shop, warehouse or
@@ -10561,7 +10563,7 @@ Repair, Closing or Demolition of Abandoned Structures
  
    
 150.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 PERMIT REQUIRED; FEES.
    (A)   Permit required. It shall be unlawful for any person, firm or
 corporation of the town to start constructing or altering any building within
@@ -10570,7 +10572,7 @@ official zoning permit.
    (B)   Fees. Based on the schedule of fees.
 (Ord. eff. 10-12-1970; Ord. eff. 6-18-1971) Penalty, see §
 150.99
-MINIMUM HOUSING CODE
+**** MINIMUM HOUSING CODE ****
 § 150.15 FINDINGS, PURPOSE; AUTHORITY; ADOPTION DATE.
    (A)   Pursuant to G.S. § 160A-441, it is hereby found and declared that
 there exist in the town dwellings which are unfit for human habitation due to
@@ -11359,7 +11361,7 @@ and nothing in this subchapter shall be so construed as to abandon, abate or
 dismiss any litigation or prosecution now pending and/or which may have been
 instituted or prosecuted.
 (Ord. eff. 6-14-2010)
-REPAIR, CLOSING OR DEMOLITION OF ABANDONED STRUCTURES
+**** REPAIR, CLOSING OR DEMOLITION OF ABANDONED STRUCTURES ****
 § 150.45 FINDING INTENT.
    It is hereby found that there exists within the town one or more abandoned
 structures which the Board of Commissioners of the town finds to be hazardous
@@ -11592,7 +11594,7 @@ prevention ordinance
  
    
 151.999   Penalty
-ADMINISTRATIVE PROVISIONS
+**** ADMINISTRATIVE PROVISIONS ****
 § 151.001 STATUTORY AUTHORIZATION.
    (A)   The legislature of this state has in G.S. Chapter 143, Article 21,
 Part 6; G.S. Chapter 160A, Article 19, Parts 3, 5 and 8; and G.S. Chapter 160A,
@@ -11941,7 +11943,7 @@ WATERCOURSE includes specifically designated areas in which substantial flood
 damage may occur.
 (Ord. eff. 10-6-2003; Ord. eff. 3-12-2012; Ord. eff. 8-11-2014; Ord. eff. 11-
 10-2014)
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.020 LANDS TO WHICH THIS CHAPTER APPLIES.
    This chapter shall apply to all special flood hazard areas within the
 jurisdiction, including extraterritorial jurisdictions (ETJs) of the town.
@@ -12001,7 +12003,7 @@ any flood damages that result from reliance on this chapter or any
 administrative decision lawfully made hereunder.
 (Ord. eff. 10-6-2003; Ord. eff. 3-12-2012; Ord. eff. 8-11-2014; Ord. eff. 11-
 10-2014)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 151.040 DESIGNATION OF FLOODPLAIN ADMINISTRATOR.
    The Planning Director or designee, hereinafter referred to as the
 “Floodplain Administrator”, is hereby appointed to administer and implement the
@@ -12428,7 +12430,7 @@ Public Safety of its intention to grant a variance at least 30 days prior to
 granting the variance.
 (Ord. eff. 10-6-2003; Ord. eff. 3-12-2012; Ord. eff. 8-11-2014; Ord. eff. 11-
 10-2014)
-PROVISIONS FOR FLOOD HAZARD REDUCTION
+**** PROVISIONS FOR FLOOD HAZARD REDUCTION ****
 § 151.060 GENERAL STANDARDS.
    In all special flood hazard areas, the following provisions are required:
    (A)   All new construction and substantial improvements shall be designed
@@ -12803,7 +12805,7 @@ provisions are met:
          (b)   The no encroachment standard of division (B)(1) above.
 (Ord. eff. 10-6-2003; Ord. eff. 3-12-2012; Ord. eff. 8-11-2014; Ord. eff. 11-
 10-2014)
-LEGAL STATUS PROVISIONS
+**** LEGAL STATUS PROVISIONS ****
 § 151.080 EFFECT ON RIGHTS AND LIABILITIES UNDER THE EXISTING FLOOD DAMAGE
 PREVENTION ORDINANCE.
    (A)   This chapter in part comes forward by re-enactment of some of the

@@ -85,7 +85,7 @@ Editor’s note:
    The Charter of the City of Creedmoor was revised and consolidated by the
 General Assembly of North Carolina Session Law 2017-79, Senate Bill 265,
 ratified June 29, 2017.
-ARTICLE I. INCORPORATION, CORPORATE POWERS, AND BOUNDARIES
+**** ARTICLE I. INCORPORATION, CORPORATE POWERS, AND BOUNDARIES ****
 Section 1.1 Incorporation.
    The City of Creedmoor, North Carolina, in Granville County, and the
 inhabitants thereof, shall continue to be a municipal body politic and
@@ -106,7 +106,7 @@ alteration of the corporate limits pursuant to law, the appropriate changes to
 the official map shall be made and copies shall be filed in the office of the
 Secretary of State, the Granville County Register of Deeds, and the appropriate
 board of elections.
-ARTICLE II. GOVERNING BODY
+**** ARTICLE II. GOVERNING BODY ****
 Section 2.1 City governing body.
    The board of commissioners, hereinafter referred to as the "Board," and the
 mayor shall be the governing body of the city.
@@ -141,7 +141,7 @@ with the applicable provisions of general law. The quorum provisions of G.S. §
 Section 2.7 Vacancies.
    Vacancies that occur in any elective office of the city shall be filled in
 accordance with the applicable provisions of general law.
-ARTICLE III. ELECTIONS
+**** ARTICLE III. ELECTIONS ****
 Section 3.1 Regular municipal elections.
    Regular municipal elections shall be held in each odd numbered year in
 accordance with the uniform municipal election laws of North Carolina.
@@ -163,7 +163,7 @@ expiring.
 Section 3.4 Special elections and referenda.
    Special elections and referenda may be held only as provided by general law
 or applicable local acts enacted by the General Assembly.
-ARTICLE IV. ORGANIZATION AND ADMINISTRATION
+**** ARTICLE IV. ORGANIZATION AND ADMINISTRATION ****
 Section 4.1 Form of government.
    The city shall operate under the council manager form of government in
 accordance with G.S. Chapter 160A, Part 2, Article 7.
@@ -198,7 +198,7 @@ Section 4.7 Other administrative officers and employees.
    The board may authorize other positions to be filled by appointment by the
 city manager and may organize the city government as deemed appropriate,
 subject to the requirements of general or local law.
-ARTICLE V. ORDINANCES
+**** ARTICLE V. ORDINANCES ****
 Section 5.1 Adoption and effective date.
    The adoption, amendment, repeal, pleading, or proving of ordinances shall be
 in accordance with general law unless otherwise provided for by this charter.
@@ -577,7 +577,7 @@ Mayor and Board of Commissioners
 30.07   Compensation of Mayor and Board
    
 30.08   Rules of procedure
-MAYOR AND BOARD OF COMMISSIONERS
+**** MAYOR AND BOARD OF COMMISSIONERS ****
 § 30.01 CHARTER AMENDMENT; COUNCIL-MANAGER FORM OF GOVERNMENT.
    Pursuant to G.S. §§ 160A-101 and 160A-102, the Charter of the city as set
 forth in the Code of Ordinances of the city, as amended, is hereby further
@@ -771,7 +771,7 @@ Surplus Property; Disposal
 32.07   Sale
    
 32.08   Records
-GENERAL
+**** GENERAL ****
 § 32.01 LOCAL GOVERNMENT BUDGET AND FISCAL CONTROL ACT.
    (A)   No bill or claim against the city may be paid unless it has been
 approved by the officer or employee responsible for the function or agency to
@@ -785,7 +785,7 @@ bears the purchasing agent's certificate as follows: "This instrument has been
 pre-audited in the manner required by the Local Government Budget and Fiscal
 Control Act."
 (Ord. 2016-O-22, passed 11-15-16)
-SURPLUS PROPERTY; DISPOSAL
+**** SURPLUS PROPERTY; DISPOSAL ****
 § 32.05 CITY MANAGER'S AUTHORITY; DETERMINATION.
    The City Manager is hereby authorized to dispose of any surplus personal
 property owned by the city, whenever he or she determines, in his or her
@@ -945,7 +945,7 @@ Receptacles and Collection
 Cross-reference:
    Public Works and Utilities Director, see §
 31.20
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1001,7 +1001,7 @@ and deposit same in approved containers as required herein.
 separate residential and/or business premise within the city according to fees
 established by the trash service provider contracted by the city.
 (Ord. 2015-O-02; passed 3-16-15)
-RECEPTACLES AND COLLECTION
+**** RECEPTACLES AND COLLECTION ****
 § 50.15 CONTAINERS REQUIRED.
    (A)   The contracted trash service provider shall provide containers in
 which shall be deposited all garbage and refuse existing at the building or
@@ -1056,7 +1056,7 @@ Development Fees
 Cross-reference:
    Public Works and Utilities Director, see §
 31.20
-EXTENSIONS BY PETITION
+**** EXTENSIONS BY PETITION ****
 § 51.01 EXTENSIONS BY PETITION.
    (A)   Water mains will not hereafter be laid in any street of the city
 without an assessment therefor, except in those streets where the city may
@@ -1114,7 +1114,7 @@ owners to recover a just payment from any property owner abutting on this sewer
 main on a pro-rata front foot basis who did not participate in the payment of
 the construction of the sewer main, should the latter desire to connect to it.
 (`84 Code, § 5-3006) (Ord. passed 2-23-82)
-DEVELOPMENT FEES
+**** DEVELOPMENT FEES ****
 § 51.15 DEVELOPMENT FEES.
    (A)   Development fees are to be charged instead of connection fees when
 water and sewer lines and all other appurtenants, such as meters, meter boxes,
@@ -1179,7 +1179,7 @@ charges
 Cross-reference:
    Debris in stormwater drainage system, see §
 96.09
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 54.01 FINDINGS.
    The Board does hereby find that:
    (A)   Water quality standards mandated by state and federal law are
@@ -1298,7 +1298,7 @@ stormwater management activities as deemed appropriate by the Board.
    The jurisdiction of the stormwater management utility shall extend
 throughout the service area.
 (Ord. 2012-O-03, passed 6-26-12)
-RATES AND CHARGES
+**** RATES AND CHARGES ****
 § 54.15 RATE STRUCTURE.
    (A)   Every parcel within the service area shall be subject to a stormwater
 management utility service charge derived from the rate structure described
@@ -1474,7 +1474,7 @@ Traffic Control Devices
  
    
 70.99   Penalty
-IN GENERAL
+**** IN GENERAL ****
 § 70.01 DEFINITIONS.
    For the purpose of this title, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -1661,7 +1661,7 @@ with § 10.99 of this Code and G.S. § 14-4.
 (`84 Code, § 7-1161) (Ord. passed 4-24-62; Am. Ord. passed 10-23-73; Am. Ord.
 2009-O-06, passed 7-13-09; Am. Ord. 2022-O-01, passed 3-1-22) Penalty, see §
 70.99
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 70.15 AUTHORITY OF POLICE AND FIRE DEPARTMENT OFFICIALS.
    (A)   It shall be the duty of the officers of the Police Department to
 enforce all street traffic laws and all of the state vehicle laws applicable to
@@ -1691,7 +1691,7 @@ of vehicles shall apply to authorized emergency vehicles, as defined in §
 (`84 Code, § 7-1013) (Am. Ord. 2009-O-06, passed 7-13-09)
 Statutory reference:
    Emergency vehicles, exceptions to right-of-way rules, see G.S. § 20-156
-TRAFFIC CONTROL DEVICES
+**** TRAFFIC CONTROL DEVICES ****
 § 70.30 OBEDIENCE TO SIGNS, MARKERS, OR DEVICES.
    Any person failing or refusing to comply with the directions indicated on
 any sign, marker or device for the control or direction of traffic erected or
@@ -1878,7 +1878,7 @@ Special Stops
 Prohibitions
    
 71.50   Prohibitions
-SPEED REGULATIONS
+**** SPEED REGULATIONS ****
 § 71.01 SPEED REGULATIONS.
    (A)   Except as otherwise designated in the traffic schedule, no person
 shall operate a vehicle in excess of 25 miles per hour inside the municipal
@@ -1900,7 +1900,7 @@ passed 3-1-22) Penalty, see §
 Statutory reference:
    Authority to set speed limit within the municipal corporate limits, see G.S.
 § 20-141-e; G.S. § 20-141-f
-TURNING MOVEMENTS
+**** TURNING MOVEMENTS ****
 § 71.15 TURNING MARKERS.
    When authorized markers, buttons or other indications are placed within an
 intersection indicating the course to be traveled by vehicles turning thereat,
@@ -1931,7 +1931,7 @@ sign. Violation of this section may constitute an infraction in accordance with
 (`84 Code, § 7-1053) (Am. Ord. 2009-O-06, passed 7-13-09; Am. Ord. 2022-O-01,
 passed 3-1-22) Penalty, see §
 70.99
-ONE-WAY STREETS AND ALLEYS
+**** ONE-WAY STREETS AND ALLEYS ****
 § 71.30 ONE-WAY STREETS AND ALLEYS.
    (A)   (1)   Whenever any ordinance designates any one-way street or alley
 there shall be signs giving notice thereof, and no regulations shall be
@@ -1949,7 +1949,7 @@ with § 10.99 of this Code and G.S. § 14-4.
 (`84 Code, § 7-1062) (Am. Ord. 2009-O-06, passed 7-13-09; Am. Ord. 2022-O-01,
 passed 3-1-22) Penalty, see §
 70.99
-SPECIAL STOPS
+**** SPECIAL STOPS ****
 § 71.40 SPECIAL STOPS.
    (A)   Whenever any ordinance designates and describes a through street,
 there shall be a stop sign on each and every street intersecting the through
@@ -1992,7 +1992,7 @@ with §
 (`84 Code, § 7-1075) (Am. Ord. 2009-O-06, passed 7-13-09; Am. Ord. 2022-O-01,
 passed 3-1-22) Penalty, see §
 70.99
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 71.50 PROHIBITIONS.
    (A)   It shall be unlawful for any person, upon any street, highway, road,
 alley, drive or other public way, or upon the grounds and premises of any
@@ -2057,7 +2057,7 @@ Violations
 72.30   Enforcement procedure
    
 72.31   Duty of operator
-METHOD OF PARKING
+**** METHOD OF PARKING ****
 § 72.01 GENERAL PARKING REGULATIONS.
    No person shall stand or park a vehicle in a roadway other than parallel
 with the edge of the roadway, headed in the direction of lawful traffic
@@ -2076,7 +2076,7 @@ Code and G.S. § 14-4.
 (`84 Code, § 7-1122) (Am. Ord. 2009-O-06, passed 7-13-09; Am. Ord. 2022-O-01,
 passed 3-1-22) Penalty, see §
 70.99
-RESTRICTIONS ON STOPPING, STANDING, AND PARKING
+**** RESTRICTIONS ON STOPPING, STANDING, AND PARKING ****
 § 72.15 GENERAL RULES.
    (A)   No person shall stop, stand or park a vehicle, except when necessary
 to avoid conflict with other traffic or in compliance with law or the
@@ -2247,7 +2247,7 @@ or otherwise, to the street upon which such vehicle may be parked. Violation of
 this section may constitute an interaction in accordance with §
 10.99 of this Code and G.S. § 14-4.
 (Ord. 2010-O-11, passed 7-27-10; Am. Ord. 2022-O-01, passed 3-1-22)
-VIOLATIONS
+**** VIOLATIONS ****
 § 72.30 ENFORCEMENT PROCEDURE.
    If any vehicle shall be found illegally parked or parked overtime or in
 violation of any of the provisions of this chapter except §
@@ -2853,7 +2853,7 @@ The Creedmoor Community Center
  
    
 92.99   Penalty
-IN GENERAL
+**** IN GENERAL ****
 § 92.01 DEFINITION.
    For the purposes of this chapter, PARKS shall be defined as all parks,
 playgrounds, recreational facilities, sidewalks, greenways, walkways, trails
@@ -3006,7 +3006,7 @@ with §
 (Ord. 2020-O-14, passed 8-11-20; Am. Ord. 2022-O-01, passed 3-1-22) Penalty,
 see §
 92.99
-LAKE ROGERS PARK AND THE WALKING TRAILS AT LAKE ROGERS PARK
+**** LAKE ROGERS PARK AND THE WALKING TRAILS AT LAKE ROGERS PARK ****
 § 92.20 STATUTORY AUTHORIZATION.
    The provisions contained in G.S. Chapter 130A, Article 10, and all other
 laws, rules or regulations governing the use of public drinking water supplies,
@@ -3119,9 +3119,9 @@ see §
 § 92.27 FISHING PLATFORMS.
    Fishing platforms shall be occupied on a first-come, first-served basis.
 (Ord. 2020-O-14, passed 8-11-20)
-THE GAUNTLET
+**** THE GAUNTLET ****
 § 92.30 [RESERVED]
-HARRIS PARK
+**** HARRIS PARK ****
 § 92.40 PERSONAL GRILLS.
    Users may bring personal grills to Harris Park. Grills must be placed at
 least ten feet from any structure, including the shelter, playset, horseshoe
@@ -3131,7 +3131,7 @@ infraction in accordance with §
 (Ord. 2020-O-14, passed 8-11-20; Am. Ord. 2022-O-01, passed 3-1-22) Penalty,
 see §
 92.99
-THE CROSS CITY TRAIL
+**** THE CROSS CITY TRAIL ****
 § 92.50 BOARDWALK, OVERLOOK AND ROBERTSON CREEK BRIDGE.
    (A)   No fishing, trapping, snaring, catching or netting of any fish, bird,
 reptile, mammal or other wildlife is permitted from anywhere on or under the
@@ -3145,7 +3145,7 @@ with § 10.99 of this Code and G.S. § 14-4.
 (Ord. 2020-O-14, passed 8-11-20; Am. Ord. 2022-O-01, passed 3-1-22) Penalty,
 see §
 92.99
-THE CREEDMOOR COMMUNITY CENTER
+**** THE CREEDMOOR COMMUNITY CENTER ****
 § 92.60 FACILITY USAGE.
    All users are required to follow the facility rules and regulations,
 including registration requirements and proper equipment handling and
@@ -5138,7 +5138,7 @@ Poolrooms
 112.01   Operating restrictions
    
 112.02   Rules for operation
-POOLROOMS
+**** POOLROOMS ****
 § 112.01 OPERATING RESTRICTIONS.
    (A)   No owner or operator of a poolroom, nor his or her employees, shall:
       (1)   Suffer or permit any gambling on the licensed premises at any time;
@@ -5337,7 +5337,7 @@ General Administrative Procedure
 Noncompliance
    
 113.175   Liquidated damages
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 113.001 INTENT AND PURPOSE.
    (A)   The city, pursuant to applicable federal and state law, is authorized
 to grant one or more non- exclusive franchises to construct, operate, maintain,
@@ -5813,7 +5813,7 @@ relating to nondiscrimination.
    (B)   Grantees shall at all times comply with the federal subscriber privacy
 requirements codified at 47 USC 551.
 (Ord. passed 8-27-02)
-FRANCHISE REQUIREMENTS
+**** FRANCHISE REQUIREMENTS ****
 § 113.025 UNLAWFUL TO OPERATE WITHOUT FRANCHISE.
    It shall be unlawful for any person to construct, operate or maintain a
 cable system or to provide cable service in the city without a franchise.
@@ -6078,7 +6078,7 @@ and negotiation process.
       (2)   Reasonable costs include staff time, professional fees, and
 administrative costs determined by the city to be necessary.
 (Ord. passed 8-27-02)
-DESIGN PROVISIONS
+**** DESIGN PROVISIONS ****
 § 113.055 SYSTEM DESIGN.
    (A)   (1)   Every grantee shall offer service that meets the current and
 future needs of the city, taking into account the costs of meeting those needs.
@@ -6141,7 +6141,7 @@ right to present evidence with respect to the need for such a requirement.
 later be determined to have, to challenge the city’s implementation of an open
 access requirement.
 (Ord. passed 8-27-02)
-TECHNICAL STANDARDS
+**** TECHNICAL STANDARDS ****
 § 113.075 GENERAL TECHNICAL STANDARDS AND CUSTOMER SERVICE PRACTICES.
    (A)   (1)   This chapter incorporates technical standards and establishes
 customer service practices with which a grantee must comply.
@@ -6399,7 +6399,7 @@ office location, and not in a location open to public viewing.
 76.800 et seq. of the FCC rules and regulations as the same may be amended from
 time to time.
 (Ord. passed 8-27-02)
-CUSTOMER SERVICE PRACTICES
+**** CUSTOMER SERVICE PRACTICES ****
 § 113.105 GRANTEE’S DUTY TO COMPLY.
    The grantee will at all times comply with the city’s customer service
 standards in addition to compliance with the FCC standards, 47 CFR 76.309,
@@ -6511,7 +6511,7 @@ is terminated.
    Credits for service will be issued no later than the customer’s next billing
 cycle following the determination that a credit is warranted.
 (Ord. passed 8-27-02)
-CONSTRUCTION STANDARDS
+**** CONSTRUCTION STANDARDS ****
 § 113.125 RIGHT-OF-WAY CONSTRUCTION.
    (A)   Prior to commencing any construction in the city, a grantee must
 obtain all necessary permits and licenses required by federal, state and
@@ -6677,7 +6677,7 @@ grantee’s facilities while performing any work connected with grading,
 regarding or changing the line of any rights-of-way or with the construction or
 reconstruction of any sewer or water system or utility system.
 (Ord. passed 8-27-02)
-GENERAL ADMINISTRATIVE PROCEDURE
+**** GENERAL ADMINISTRATIVE PROCEDURE ****
 § 113.155 FRANCHISE FEES.
    (A)   (1)   The administration of this chapter or the franchise agreement
 imposes upon the city additional regulatory responsibility and expense, and in
@@ -6926,7 +6926,7 @@ violation, is evidence of an evasive practice and may lead to revocation under
 §
 113.128.
 (Ord. passed 8-27-02)
-NONCOMPLIANCE
+**** NONCOMPLIANCE ****
 § 113.175 LIQUIDATED DAMAGES.
    (A)   (1)   The grantee acknowledges that non-compliance with the provisions
 of the franchise agreement and this chapter will harm subscribers and the city
@@ -7566,7 +7566,7 @@ nforcement
 150.72   Changes in work
    
 150.73   Permit fees
-GENERAL PROVISIONS; ADOPTION OF CODES
+**** GENERAL PROVISIONS; ADOPTION OF CODES ****
 § 150.01 SCOPE.
    The provisions of this chapter and of the regulatory codes herein adopted
 shall apply to the following:
@@ -7649,7 +7649,7 @@ of all amendments thereto, shall be kept on file in the office of the Code
 Enforcement Officer. The copies shall be the official copies of the codes and
 the amendments.
 (`84 Code, § 9-1009) (Ord. passed 10-6-66)
-INSPECTION DEPARTMENT
+**** INSPECTION DEPARTMENT ****
 § 150.25 ORGANIZATION.
    The Inspection Department of the city shall consist of a Code Enforcement
 Officer, and may also include a Plumbing Inspector, a Heating-Air Conditioning
@@ -7775,7 +7775,7 @@ order the work to be immediately stopped.
 his or her agent, or to the person doing the work, and shall state the reasons
 therefor and the conditions under which the work may be resumed.
 (`84 Code, § 9-1027)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 150.65 PERMITS REQUIRED.
    (A)   Building permit. No person shall commence or proceed with the
 construction, reconstruction, alteration, repair, removal or demolition of any
@@ -8752,7 +8752,7 @@ Cross reference:
    Minimum housing standards, see §§151.01 et seq.
    Tractor trailer parking in residential districts, see §
 72.22
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.01 PURPOSE.
    (A)   The purpose of this chapter is to promote the public health, safety
 and welfare by requiring a minimum level of maintenance of private property to
@@ -8836,7 +8836,7 @@ of the property or the street immediately adjacent to that front or side yard
 to an area that is not visible from a public street for at least 24 consecutive
 hours during a 72 consecutive hour period.
 (Ord. 2010-O-02, passed 1-26-10; Am. Ord. 2021-O-19, passed 11-1-21)
-PROPERTY BLIGHT
+**** PROPERTY BLIGHT ****
 § 156.15 PROPERTY BLIGHT.
    The existence of any one or more of the conditions or activities described
 in this subchapter constitutes property blight.
@@ -9084,7 +9084,7 @@ materials; or
 unattended, unfiltered, or not otherwise maintained, so that the water has
 become or is becoming polluted water.
 (Ord. 2010-O-02, passed 1-26-10)
-PARKING, STORING AND MAINTAINING CERTAIN ITEMS
+**** PARKING, STORING AND MAINTAINING CERTAIN ITEMS ****
 § 156.40 ON PROPERTY DESIGNED OR USED FOR A RESIDENCE PROHIBITED.
    (A)   The parking, storing or maintaining of any one or more of the
 following items on property designed or used as a residence constitutes
