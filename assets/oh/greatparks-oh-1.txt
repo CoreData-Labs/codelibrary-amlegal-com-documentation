@@ -1919,7 +1919,7 @@ Prohibitions
 71.12   Operating with number of former owner
    
 71.13   Resident operating with number issued by foreign state
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 71.01 DISPLAY OF LICENSE PLATES OR VALIDATION STICKERS.
    (A)   No person who is the owner or operator of a motor vehicle shall fail
 to display in plain view on the front and rear of the motor vehicle a license
@@ -1958,7 +1958,7 @@ places the operator or vehicle owner under arrest or issues a ticket, citation,
 or summons to the operator or vehicle owner for the other offense.
 (R.C. § 4503.21(A), (B)) Penalty, see §
 70.99
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 71.05 PROHIBITED ACTS.
    No person shall do any of the following:
    (A)   Display or cause or permit to be displayed, or possess any
@@ -2319,7 +2319,7 @@ probationary drivers while driving prohibited
 Vehicle Permit
    
 72.75   Permit required
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.01 LANES OF TRAVEL UPON ROADWAYS.
    (A)   Upon all roadways of sufficient width, a vehicle shall be driven upon
 the right half of the roadway, except as follows:
@@ -2805,7 +2805,7 @@ charged under any provision of this Title VII with the enforcement of the law
 relative to park roads.
 (R.C. § 4513.36) Penalty, see §
 70.99
-RIGHT-OF-WAY
+**** RIGHT-OF-WAY ****
 § 72.20 RIGHT-OF-WAY AT INTERSECTIONS.
    (A)   When two vehicles approach or enter an intersection from different
 streets or highways at approximately the same time, the driver of the vehicle
@@ -2994,7 +2994,7 @@ any combination of them to a degree that renders the pedestrian a hazard shall
 not walk or be upon a highway.
 (R.C. § 4511.481) Penalty, see §
 70.99
-PEDESTRIANS
+**** PEDESTRIANS ****
 § 72.35 PEDESTRIANS.
    Pedestrians shall move, whenever practicable, upon the right half of trails
 or crosswalks.
@@ -3192,7 +3192,7 @@ in which a personal delivery device operates in a manner prohibited by
 divisions (C)(1) to (C)(4) of this section.
 (R.C. § 4511.513) Penalty, see §
 70.99
-RECKLESS OPERATION
+**** RECKLESS OPERATION ****
 § 72.45 RECKLESS OPERATION OF VEHICLES.
    No person shall operate a vehicle on any street or highway in willful or
 wanton disregard of the safety of persons or property.
@@ -3215,7 +3215,7 @@ vehicular traffic without being in reasonable control of the vehicle,
 agricultural tractor, or unit of farm machinery.
 (R.C. § 4511.202) Penalty, see §
 70.99
-ACCIDENTS
+**** ACCIDENTS ****
 § 72.50 FAILURE TO STOP AFTER ACCIDENT.
    (A)   In the case of a motor vehicle accident or collision with persons or
 property on a public road or highway, the operator of the motor vehicle, having
@@ -3288,7 +3288,7 @@ accident and a description of the damage insofar as it is known.
 state or local law.
 (R.C. § 4509.74) Penalty, see §
 70.99
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 72.55 OBSTRUCTION AND INTERFERENCE AFFECTING VIEW AND CONTROL OF DRIVER.
    (A)   No person shall drive a vehicle when it is so loaded, or when there
 are in the front seat such number of persons, as to obstruct the view of the
@@ -3748,7 +3748,8 @@ or permit for a definite period of 60 days.
       (2)   If the person previously has been adjudicated a delinquent child or
 a juvenile traffic offender for a violation of this section, whoever violates
 this section shall be fined $300. In addition, the court shall impose a class
-seven suspension of the person’
+seven suspension of the person’s driver’s license or permit for a definite
+period of one year.
    (D)   The filing of a sworn complaint against a person for a violation of
 this section does not preclude the filing of a sworn complaint for a violation
 of R.C. § 4511.205 for the same conduct. However, if a person is adjudicated a
@@ -3766,7 +3767,7 @@ includes any of the following:
 designed or used to communicate via voice, image, or written word.
 (R.C. § 4511.205) Penalty, see §
 70.99
-VEHICLE PERMIT
+**** VEHICLE PERMIT ****
 § 72.75 PERMIT REQUIRED.
    (A)   No person shall drive or propel or cause to be driven or propelled, a
 motor vehicle along or over any park road or any other portion of the park,
@@ -4123,7 +4124,7 @@ Loads
 74.40   Limitation of load extension on left side of vehicle
    
 74.41   All loads shall be properly secured
-EQUIPMENT
+**** EQUIPMENT ****
 § 74.01 UNSAFE VEHICLES, PROHIBITION AGAINST OPERATION.
    No person shall drive or move, or cause or knowingly permit to be driven or
 moved, on any highway any vehicle or combination of vehicles which is in such
@@ -4813,7 +4814,7 @@ subject to a registration or license suspension, as applicable, for a period of
 not more than 180 days.
 (R.C. § 4513.241(K)) Penalty, see §
 70.99
-LOADS
+**** LOADS ****
 § 74.40 LIMITATION OF LOAD EXTENSION ON LEFT SIDE OF VEHICLE.
    No passenger-type vehicle shall be operated on a highway with any load
 carried on the vehicle which extends more than six inches beyond the line of
@@ -5684,7 +5685,7 @@ Fire Prevention
  
    
 92.99   Penalty
-FIREARMS
+**** FIREARMS ****
 § 92.01 CARRYING CONCEALED WEAPONS.
    (A)   No person shall knowingly carry or have, concealed on the person’s
 person or concealed ready at hand, any of the following:
@@ -6358,7 +6359,7 @@ designed as a firearm, but that is specially adapted for use as a firearm;
 designed as a firearm, but that as designed is capable of use as such, when
 possessed, carried, or used as a firearm.
 (R.C. § 2923.11)
-FIREWORKS
+**** FIREWORKS ****
 § 92.10 RESTRICTIONS.
    (A)   No person shall possess fireworks in the park district or shall
 possess for sale or sell fireworks in the park district, except a licensed
@@ -6389,7 +6390,7 @@ fireworks within the park without a specific written permit from the Chief
 Executive Officer.
 (Prior by-law § 5) Penalty, see §
 92.99
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 92.20 FIRES.
    No person shall start, maintain, or assist in maintaining a fire in the
 park, except small fires in grills for cooking purposes or fires in places or

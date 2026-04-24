@@ -26,7 +26,7 @@ Solicitor W. Mack Anderson
          Robert C. Anderson
  
 ADOPTING ORDINANCE
-ORDINANCE NO. 08-113
+**** ORDINANCE NO. 08-113 ****
 ENACTING A CODE OF ORDINANCES FOR THE CITY OF IRONTON, OHIO, REVISING,
 AMENDING, RESTATING, CODIFYING AND COMPILING CERTAIN EXISTING GENERAL
 ORDINANCES OF THE POLITICAL SUBDIVISION DEALING WITH SUBJECTS EMBRACED IN SUCH
@@ -258,7 +258,7 @@ Clerk of Council                  Vice-Mayor
 This Ordinance is hereby  12-12-08
                                                                     
             Approved         Mayor
-ORDINANCE NO. 10-69
+**** ORDINANCE NO. 10-69 ****
 AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES FOR
 THE CITY OF IRONTON, OHIO AND DECLARING AN EMERGENCY
 WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio, has
@@ -458,7 +458,7 @@ ARTICLE IX - TRANSITIONAL PROVISIONS
 9.06   Pending Actions and Proceedings.
    Section
 9.07   When Charter Takes Effect.
-PREAMBLE
+*** PREAMBLE ***
    We, the people of Ironton, Ohio, in order to provide a democratic and
 efficient form of governmental organization, and to make possible facilities
 for the future growth and betterment of our community, do hereby adopt for our
@@ -1127,7 +1127,7 @@ Chap. 274.   Street Tree Commission.
       TITLE TEN - Judiciary
          
 Chap. 290.   Municipal Court
-TITLE TWO - GENERAL PROVISIONS
+***** TITLE TWO - GENERAL PROVISIONS *****
 CHAPTER 202: CODIFIED ORDINANCES
 Section
 202.01   Designation; citation; headings
@@ -1486,7 +1486,7 @@ the west right-of-way line of U.S. Route 52, and south of the line common to
 Lot No. 11 of the Ohio Iron and Coal Company’s survey of 1856, and the
 southeast quarter of Section 20, Town 1, Range 18.
 (Ord. 5205, passed 4-28-1966)
-TITLE FOUR - LEGISLATION
+***** TITLE FOUR - LEGISLATION *****
 CHAPTER 220: COUNCIL
 Section
 220.01   Time of meetings
@@ -1601,7 +1601,7 @@ fixing of utility rates are herewith rescinded and held for naught.
 of the Ohio Constitution, permitting the city to contract directly with utility
 companies for the setting of utility rates.
 (Ord. 83-30, passed 5-26-1983)
-TITLE SIX - ADMINISTRATION
+***** TITLE SIX - ADMINISTRATION *****
 CHAPTER 230: MAYOR
 Editor’s note: There are no sections in Chapter 230. This chapter has been
 established to provide a place for cross references and any future legislation.
@@ -2621,7 +2621,7 @@ up to fifty thousand dollars ($50,000).
 granting and administering the forgivable loan.
    (d)   This program shall be funded by the Ironton Economic Development Fund.
 (Ord. 23-46, passed 6-22-2023)
-TITLE EIGHT - BOARDS, COMMISSIONS AND COMMITTEES
+***** TITLE EIGHT - BOARDS, COMMISSIONS AND COMMITTEES *****
 CHAPTER 260: CIVIL SERVICE COMMISSION
 Section
 260.01   Access to graded examinations
@@ -2792,7 +2792,7 @@ regulations and keep a journal of its proceedings. A simple majority of the
 members shall be a quorum for the transaction of business. All plans, findings,
 advice, reports, and recommendations of the Commission shall be in writing.
 (Ord. 23-78, passed 12-14-2023)
-TITLE TEN - JUDICIARY
+***** TITLE TEN - JUDICIARY *****
 CHAPTER 290: MUNICIPAL COURT
 Editor’s note: The Ironton Municipal Court is established by Ohio R.C. 1901.01.
 Ohio R.C. 1901.02 provides that the Court has territorial jurisdiction within
@@ -2865,7 +2865,7 @@ Chap. 474.   Bicycles and Motorcycles.
 Chap. 476.   Snowmobiles and All-Purpose Vehicles.
          
 Chap. 477.   Golf Carts and Utility Terrain Vehicles.
-TITLE TWO - ADMINISTRATION, ENFORCEMENT AND PENALTIES
+***** TITLE TWO - ADMINISTRATION, ENFORCEMENT AND PENALTIES *****
 CHAPTER 402: DEFINITIONS
 Section
 402.01   Meaning of words and phrases
@@ -3993,7 +3993,7 @@ of suspension that is permitted or required to be imposed for the violation of
 the provision of the Revised Code to which the provision of this Traffic Code
 is substantially equivalent.
 (ORC 4510.05)
-TITLE FOUR - PUBLIC WAYS AND TRAFFIC-CONTROL DEVICES
+***** TITLE FOUR - PUBLIC WAYS AND TRAFFIC-CONTROL DEVICES *****
 CHAPTER 412: OBSTRUCTION AND SPECIAL USES OF PUBLIC WAYS
 Section
 412.01   Placing injurious material or obstruction in street
@@ -5155,7 +5155,7 @@ with limits of up to $1,000,000 per occurrence and $2,000,000 per aggregate.
    ( Editor’s note: See §§
 408.01 and
 408.02 for general Traffic Code penalty if no specific penalty is provided.)
-TITLE SIX - VEHICLES AND OPERATION
+***** TITLE SIX - VEHICLES AND OPERATION *****
 CHAPTER 432: OPERATION GENERALLY
 Section
 432.01   Driving upon right side of roadway; exceptions
@@ -12176,7 +12176,7 @@ fourth degree.
    ( Editor’s note: See §§
 408.01 and
 408.02 for general Traffic Code penalty if no specific penalty is provided.)
-TITLE EIGHT - PARKING
+***** TITLE EIGHT - PARKING *****
 CHAPTER 452: PARKING GENERALLY
 Section
 452.01   Prohibition against parking on streets or highways
@@ -13283,7 +13283,7 @@ hundred fifty dollars ($150.00) or as otherwise required by state law.
       (3)   The fine for illegal parking in a fire lane shall be one hundred
 fifty dollars ($150.00) or as otherwise required by state law.
 (Ord. 05-39, passed 4-14-2005)
-TITLE TEN - BICYCLES, MOTORCYCLES AND SNOWMOBILES
+***** TITLE TEN - BICYCLES, MOTORCYCLES AND SNOWMOBILES *****
 CHAPTER 474: BICYCLES AND MOTORCYCLES
 Section
 474.01   Code application to bicycles
@@ -31344,7 +31344,7 @@ Chap. 892.   Motor Vehicle License Tax.
 Chap. 894.   Community Reinvestment Areas.
          
 Chap. 896.   Short-term Rental/Air BNB Tax.
-TITLE TWO - BUSINESS REGULATION
+***** TITLE TWO - BUSINESS REGULATION *****
 CHAPTER 810: CIRCUSES
 Section
 810.01   License required
@@ -32927,7 +32927,7 @@ chapter is guilty of a misdemeanor of the third degree and shall be fined not
 more than five hundred dollars ($500.00) or imprisoned not more than 60 days,
 or both, for each offense. A separate offense shall be deemed committed each
 day during or on which a violation or noncompliance occurs or continues.
-TITLE FOUR - TAXATION
+***** TITLE FOUR - TAXATION *****
 CHAPTER 890: INCOME TAX
 Section
 890.01   Authority to levy tax; purposes of tax; rate
@@ -36221,7 +36221,7 @@ Chap. 1052.   Small Cell Technology in the Right-of-Way.
 Chap. 1060.   Garbage and Rubbish Collection and Disposal.
          
 Chap. 1062.   Parks and Recreation Areas.
-TITLE TWO - STREET AND SIDEWALK AREAS
+***** TITLE TWO - STREET AND SIDEWALK AREAS *****
 CHAPTER 1020: EXCAVATIONS
 Section
 1020.01   Permit required
@@ -36535,7 +36535,7 @@ chapter is guilty of a minor misdemeanor and shall be fined not more than one
 hundred dollars ($100.00) for each offense. A separate offense shall be deemed
 committed each day during or on which a violation or noncompliance occurs or
 continues.
-TITLE FOUR - UTILITIES
+***** TITLE FOUR - UTILITIES *****
 CHAPTER 1040: UTILITY POLES, ANCHORS AND UNDERGROUND LINES
 Section
 1040.01   Permit required
@@ -37749,14 +37749,14 @@ Storm Water Management Erosion  and Sediment Control
 storm water control
 1045.12   Illicit discharge and connection elimination
 1045.13   Enforcement of this subchapter
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 1045.01 STORM WATER MANAGEMENT CODE ADOPTED BY REFERENCE.
    The Storm Water Utility Management Code, copies of which are on file in the
 Mayor’s office, is adopted and incorporated as part of this Code of Ordinances
 as fully as if set out at length therein.
 (Ord. 05-54, passed 5-12-2005; Am. Ord. 06-27, passed 4-27-2006; Am. Ord. 20-
 32, passed 5-14-2020)
-STORM WATER MANAGEMENT EROSION AND SEDIMENT CONTROL
+*** STORM WATER MANAGEMENT EROSION AND SEDIMENT CONTROL ***
 § 1045.10 DEFINITIONS.
    For purpose of this subchapter, the following terms shall have the meaning
 herein indicated:
@@ -39637,7 +39637,7 @@ violation continues.
 may also pursue the remedies of revocation of the small cell permit or specific
 performance of the violated provision.
 (Ord. 20-39, passed 7-9-2020)
-TITLE SIX - OTHER PUBLIC SERVICES
+***** TITLE SIX - OTHER PUBLIC SERVICES *****
 CHAPTER 1060: GARBAGE AND RUBBISH COLLECTION AND DISPOSAL
 Section
 1060.01   Collection points; containers; trees and brush
@@ -39902,7 +39902,7 @@ Chap. 1292.   Land Use Plan.
 Chap. 1294.   Project Proposals.
          
 Chap. 1296.   Changes in Approved Urban Renewal Plan.
-TITLE TWO - PLANNING
+***** TITLE TWO - PLANNING *****
 CHAPTER 1220: PLANNING COMMISSION
 Section
 1220.01   Establishment; membership
@@ -40141,7 +40141,7 @@ the improvements and acceptance of the plat. The Mayor’s designee shall also
 inspect the construction and approve the completed construction prior to final
 approval of the plat.
 (Am. Ord. 97-23, passed 6-12-1997)
-TITLE FOUR - ZONING CODE
+***** TITLE FOUR - ZONING CODE *****
 CHAPTER 1250: GENERAL PROVISIONS AND DEFINITIONS
 Section
 1250.01   Short title
@@ -42706,7 +42706,7 @@ from the effective date of this section. The provisions hereof shall have no
 effect upon any such home or facility in existence as of the date of the
 adoption of this section.
 (Ord. 21-66, passed 12-23-2021)
-TITLE SIX - URBAN RENEWAL
+***** TITLE SIX - URBAN RENEWAL *****
 CHAPTER 1290: DESCRIPTION OF THE PROJECT
 Section
 1290.01   Boundaries of the project
@@ -43933,7 +43933,7 @@ Chap. 1456.   Special Purpose Flood Damage Reduction.
 Chap. 1474.   Signs and Sign Structures.
          
 Chap. 1484.   Vacant Property Registration.
-TITLE TWO - BUILDING STANDARDS
+***** TITLE TWO - BUILDING STANDARDS *****
 CHAPTER 1420: INTERNATIONAL BUILDING CODE
 Section
 1420.01   2006 edition adopted
@@ -44080,7 +44080,7 @@ Section
 collectively known as the Ohio Building Code, shall apply and be enforced
 within the City of Ironton.
 (Ord. 09-12, passed 2-26-2009)
-TITLE FOUR - BUILDING ADMINISTRATION
+***** TITLE FOUR - BUILDING ADMINISTRATION *****
 CHAPTER 1440: ENFORCEMENT; PERMITS AND FEES
 Section
 1440.01   Administrative Authority; Building Official and Code Enforcement
@@ -44285,7 +44285,7 @@ the building or structure, and shall file a bond or furnish insurance to the
 city to save harmless the city for all damage claims arising from the neglect
 to erect barricades, warning lights and other protective measures.
 (Ord. 95-45, passed 8-10-1995; Am. Ord. 07-58, passed 7-12-2007)
-TITLE SIX - MISCELLANEOUS BUILDING REGULATIONS
+***** TITLE SIX - MISCELLANEOUS BUILDING REGULATIONS *****
 CHAPTER 1456: SPECIAL PURPOSE FLOOD DAMAGE REDUCTION
 Section
 1456.01   Adoption by reference
