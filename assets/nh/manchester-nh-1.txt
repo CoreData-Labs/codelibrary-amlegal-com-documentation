@@ -386,7 +386,7 @@ Miscellaneous
 10.11   Debt limit
    
 10.12   Continuance of Chapter 551
-PREAMBLE
+**** PREAMBLE ****
    We, the people of the City of Manchester, State of New Hampshire, in order
 to maintain our right of local self-government and to secure the benefits and
 advantages granted by the state constitution, do adopt and establish this home
@@ -397,7 +397,7 @@ government which promotes the general welfare and stimulates harmony and
 creativity among all its citizens. Through the elective process, we secure for
 ourselves and future generations a municipal government which strives to
 achieve compassion, freedom and justice.
-ARTICLE I. POWERS
+**** ARTICLE I. POWERS ****
 SECTION 1.01 INCORPORATION.
    The residents of the city shall continue to be a body politic and corporate
 under the name of Manchester and shall have, exercise and enjoy all rights,
@@ -412,8 +412,8 @@ SECTION 1.02 GENERAL POWERS.
    The city shall have all the powers as now or hereafter may be conferred upon
 cities under the New Hampshire State Constitution and under the Revised
 Statutes Annotated.
-ARTICLE II. THE MAYOR AND BOARD OF ALDERMEN
-Board of Aldermen
+**** ARTICLE II. THE MAYOR AND BOARD OF ALDERMEN ****
+*** Board of Aldermen ***
 SECTION 2.01 GOVERNING BODY.
    The administration of the fiscal affairs, municipal resources and other
 affairs of the city shall be vested in a principal officer to be called the
@@ -464,7 +464,7 @@ least monthly as provided by ordinance.
 the mayor or eight (8) of the aldermen.
    (c)   The board of mayor and aldermen shall provide a period of public
 comment at least monthly.
-The Mayor
+*** The Mayor ***
 SECTION 2.07 ELIGIBILITY AND TERM.
    (a)   The mayor shall be elected for a term of two years.
    (b)   The mayor shall have been a resident of the city for at least one (1)
@@ -525,8 +525,8 @@ Section 3.14 for the removal procedures for members of boards, commissions and
 committees.
    (c)   See Article III,
 Section 3.10 for removal of appointed city officers.
-   ARTICLE III. DEPARTMENTS AND DEPARTMENT HEADS
-Departments
+****    ARTICLE III. DEPARTMENTS AND DEPARTMENT HEADS ****
+*** Departments ***
 SECTION 3.01 DEPARTMENTS.
    (a)   All departments of the city in existence on the effective date of this
 charter shall remain as then organized unless and until nine (9) aldermen shall
@@ -572,7 +572,7 @@ provisions of this charter to draft and submit to the board of aldermen within
 nine (9) months after the adoption of this charter, an ordinance consistent
 with the charter which defines the functions and duties of each department
 existing at the time of the ordinance.
-Department Heads
+*** Department Heads ***
 SECTION 3.03 NOMINATIONS.
    Department heads shall be nominated by the mayor based upon merit and after
 due consideration of qualifications for office. The board of mayor and aldermen
@@ -618,7 +618,7 @@ SECTION 3.06 REMOVAL OF DEPARTMENT HEADS.
 notice of and the basis for such action. The removal shall not be effective
 until it has been confirmed by the vote of nine (9) aldermen. The department
 head shall be given the opportunity to be heard prior to such vote.
-Appointed Officers
+*** Appointed Officers ***
 SECTION 3.07 APPOINTED CITY OFFICERS.
    (a)   There shall be a city clerk. The city clerk shall be nominated and
 appointed by the board of aldermen as prescribed by state law.
@@ -650,7 +650,7 @@ SECTION 3.10 REMOVAL OF APPOINTED OFFICERS.
 written notice of and the basis for such action. The removal shall not be
 effective until it has been confirmed by the vote of nine (9) aldermen. The
 city officer shall be given the opportunity to be heard prior to such vote.
-Boards, Commissions, and Authorities
+*** Boards, Commissions, and Authorities ***
 SECTION 3.11 DEPARTMENTAL BOARDS AND COMMISSIONS.
    (a)   In order to provide citizen input to the city departments, the board
 of mayor and alder-men may establish commissions to consult, advise and make
@@ -759,7 +759,7 @@ nominate a new candidate within ninety (90) days after the rejection of the
 prior nominee. There shall be no limit on the number of nominees the mayor may
 nominate as long as nominations are made within ninety (90) days of the
 rejection of the prior nominee.
-ARTICLE IV. SCHOOLS AND SCHOOL COMMITTEE
+**** ARTICLE IV. SCHOOLS AND SCHOOL COMMITTEE ****
 SECTION 4.01 SCHOOL DISTRICT.
    The city of Manchester shall to continue to constitute a single school
 district and except as otherwise provided in this charter the board of mayor
@@ -778,8 +778,8 @@ schools for election in accordance with state law.
 SECTION 4.04 VACANCIES.
    Should a vacancy occur in the office of school committeeman, the board of
 aldermen shall fill such vacancy until an election is held.
-ARTICLE V. ELECTIONS
-Terms and Definitions
+**** ARTICLE V. ELECTIONS ****
+*** Terms and Definitions ***
 SECTION 5.01 NON-PARTISAN BALLOT SYSTEM.
    The mayor, aldermen, school committee members, ward clerks, selectmen and
 moderators shall be elected by non-partisan ballot.
@@ -823,7 +823,7 @@ and place them upon the municipal general election ballot.
 the case of an at-large aldermanic and school committee elections, receiving
 the highest number of votes shall be selected from those running for said
 office and shall be placed on the general election ballot.
-Political Calendar
+*** Political Calendar ***
 SECTION 5.08 AUTHORITY.
    Prior to the municipal primary election, the city clerk with the advice and
 approval of the city solicitor, shall prepare a political calendar for the
@@ -833,7 +833,7 @@ candidate or official in connection with the election laws which shall be in
 accordance with dates set forth in such calendar shall be deemed duly performed
 for the purposes of the election laws. Copies of such calendar shall be
 available in the office of the city clerk.
-Elected Officers
+*** Elected Officers ***
 SECTION 5.09 CITY AND WARD OFFICERS.
    At every municipal general election, the following officers shall be
 elected:
@@ -854,7 +854,7 @@ board of aldermen shall fill such vacancy.
 successor is elected and sworn in to fill such term under the provisions of
 this charter.
 (Amended by electorate 11-3-15)
-Checklist and Voter Registration
+*** Checklist and Voter Registration ***
 SECTION 5.11 BOARD OF REGISTRARS.
    (a)   Number of members. There shall be a board of registrars consisting of
 five (5) members. Four (4) members shall be registered voters who shall have
@@ -895,7 +895,7 @@ SECTION 5.15 SESSIONS.
    The board of registrars shall be in session to receive applications during
 the normal business hours of the city clerk's office and at such times as may
 be determined by the board of registrars.
-Qualifications for Office
+*** Qualifications for Office ***
 SECTION 5.16 CITIZENSHIP.
    To file as a candidate for or to hold any elective city or ward office, a
 person must be a citizen of the United States either by birth or
@@ -912,7 +912,7 @@ SECTION 5.19 MAYOR.
 city for one (1) year immediately preceding and shall continue to be a resident
 of the city during his term of office.
 (Amended by electorate 11-3-15)
-Nominations
+*** Nominations ***
 SECTION 5.20 CANDIDATES.
    The name of any candidate shall not be printed upon the ballot for the
 municipal primary election unless such candidate:
@@ -920,12 +920,12 @@ municipal primary election unless such candidate:
    (b)   Shall have filed during the filing period a declaration of candidacy
 and any other required forms together with the requisite filing fee or shall
 have filed during the period the requisite number of nominating petitions.
-Primary
+*** Primary ***
 SECTION 5.21 POSTING NOTICE OF PRIMARY.
    Each ward clerk shall cause notice of such primary to be posted in three (3)
 public places in such ward no later than the last Tuesday of July of each odd
 numbered year.
-Post-Election Procedure
+*** Post-Election Procedure ***
 SECTION 5.22 PRESERVATION OF BALLOTS AND CHECKLISTS.
    The clerks of the wards shall preserve all votes, whether by machine or by
 ballot, cast and counted at each election and shall deliver them immediately,
@@ -940,7 +940,7 @@ the city clerk shall declare elected to the office the same number of persons
 as the number of officers to which the elective district is entitled. Those
 persons declared officers elect shall be those persons who received the highest
 number of votes cast.
-Recounts
+*** Recounts ***
 SECTION 5.24 APPLICATION AND FILING FEE.
    Any candidate for whom a vote was cast for any office in any election or who
 was named on the ballot, who is not, according to the count first made by the
@@ -991,7 +991,7 @@ the city clerk, within ten (10) days after such determination.
    (d)   Right of appeal. Nothing herein shall be construed as affecting the
 right of any person to appeal to the court in any matter relative to the
 election.
-Political Campaign Reporting
+*** Political Campaign Reporting ***
 SECTION 5.29 POLITICAL CAMPAIGN CONTRIBUTIONS AND EXPENDITURES.
    The provisions of this section shall apply to any municipal election.
    Definitions.
@@ -1065,7 +1065,7 @@ penalty as provided by law.
 registrations filed by candidates, political committees and political
 committees of political parties shall be open to the public.
 (Amended by electorate 11-3-15)
-Applicability of Statutes-Election Materials
+*** Applicability of Statutes-Election Materials ***
 SECTION 5.30 STATE ELECTION LAWS.
    The provisions of the Revised Statutes Annotated relating to state
 elections, including but not limited to, time computation, voters and
@@ -1098,7 +1098,7 @@ SECTION 5.33 WARDS.
    Charter amendment passed at the 11/5/2019 municipal general election
 transferring the ward boundary descriptions from the City Charter to City
 Ordinances effective upon passage.
-ARTICLE VI. BUDGETS AND APPROPRIATIONS
+**** ARTICLE VI. BUDGETS AND APPROPRIATIONS ****
 SECTION 6.01 FISCAL YEAR.
    The fiscal year of the city shall begin on the first day of July and end on
 the last day of June.
@@ -1365,7 +1365,7 @@ tax revenues pursuant to Paragraph A.4. herein, increased by the other revenues
 generated by the City.
    F.   Effective Date: Upon Passage
 (Approved by electorate 11-3-09; amendment approved by electorate 11-8-11)
-ARTICLE VII. PROCUREMENT PROCEDURES
+**** ARTICLE VII. PROCUREMENT PROCEDURES ****
 SECTION 7.01 PROCUREMENT CODE.
    All purchases made by the city for materials, supplies, services, repairs,
 construction, or ocher items shall be made in accordance with a procurement
@@ -1399,8 +1399,8 @@ department heads, the mayor may appoint a professionally qualified and
 experienced procurement manager for the city to promote the continued
 development of purchasing policies and practices and to secure the advantages
 of centralized procurement or cooperative procurement processes.
-ARTICLE VIII. GENERAL PROVISIONS
-Administrative Rules and Policies
+**** ARTICLE VIII. GENERAL PROVISIONS ****
+*** Administrative Rules and Policies ***
 SECTION 8.01 ESTABLISHMENT OF RULES.
    The board of mayor and aldermen may establish rules, procedures and
 standards, hereinafter called policies, relating to matters over which the
@@ -1421,7 +1421,7 @@ on relations with the public, including any applicable appeal procedure.
 all such adopted rules with the city clerk and shall transmit to the city clerk
 and make available to the public all other written statements of policy or
 interpretation formulated or used by the agency in the discharge of its duties.
-Charter Review Committee
+*** Charter Review Committee ***
 SECTION 8.03 PERIODIC REVIEW.
    (a)   Not less than once every ten (10) years the board of mayor and
 aldermen shall cause the question of charter revision to be considered by the
@@ -1438,7 +1438,7 @@ the general laws of the state regarding school districts and shall not divest
 the district of the powers and duties afforded school districts under state
 law.
 (Amended by electorate 11-3-20)
-Compensation
+*** Compensation ***
 SECTION 8.04 COMPENSATION OF OFFICIALS.
    (a)   The board of mayor and aldermen may determine the salaries of aldermen
 and school committee members by ordinance provided that no ordinance shall take
@@ -1450,7 +1450,7 @@ election. The mayor's salary shall not be increased from the time of any
 election until the close of the term of the mayor then elected. The board of
 aldermen shall have the power to increase the mayor's salary as they deem
 necessary, but shall not lower said salary.
-Incompatibility
+*** Incompatibility ***
 SECTION 8.05 INCOMPATIBILITY OF OFFICE.
    (a)   No elected city official shall be employed by the city or by the
 school district until completion of the term for which the official was
@@ -1459,7 +1459,7 @@ elected.
 committeeman or welfare commissioner by a city or by a school district employee
 shall result in termination of employment.
 (Approved by electorate 11-8-05)
-Library
+*** Library ***
 SECTION 8.06 CONTRACT WITH THE ATHENAEUM.
    The contract dated September 6, 1854 between the City and the Manchester
 Athenaeum executed pursuant to the Laws of 1854, Chapter 1588, is recorded in
@@ -1467,7 +1467,7 @@ the office of the city clerk in the Manchester City Reports 1855-1859 beginning
 at page 107. The pro-visions of this charter referring to commissions and
 department heads shall apply to the library as may be consistent with the
 contract and state law.
-Local Initiative
+*** Local Initiative ***
 SECTION 8.07 INITIATIVE.
    (a)   On the written petition of a number of voters equal to at least
 fifteen percent (15%) of the registered voters of the city, including at least
@@ -1494,12 +1494,12 @@ for verification and report.
 the board of mayor and aldermen shall order such questions placed on the
 ballot, but the result of any such initiative shall be non-binding, unless
 otherwise required by law.
-Oaths
+*** Oaths ***
 SECTION 8.08 OATHS.
    Every person elected or appointed to any city office shall before assuming
 the duties of office take the oath of office prescribed by law. The oath of
 office shall be taken the first Tuesday after the first Monday in January.
-Retirement
+*** Retirement ***
 SECTION 8.09 EMPLOYEE RETIREMENT SYSTEM.
    (a)   The retirement system for city employees approved on referenda, as
 proposed by Laws 1973, Chapter 218 and Laws 1976, Chapter 24 shall remain in
@@ -1527,27 +1527,27 @@ Retire-ment System to meet the requirements of a qualified trust within the
 meaning of section 401(a), and to qualify as a governmental plan within the
 meaning of section 414(d) of the United States Internal Revenue Code of 1968,
 as amended, or replaced and with the laws of the state of New Hampshire.
-Separability
+*** Separability ***
 SECTION 8.11 PROVISIONS AND APPLICATION.
    If any provision of this charter is held invalid, the other provisions of
 this charter shall not be affected thereby. If the application of this charter
 or any of its provisions to any person or circumstances is held invalid, the
 application of this charter and its provisions to any other person or to any
 other circumstance shall not be affected thereby.
-Special Acts
+*** Special Acts ***
 SECTION 8.12 APPLICABILITY.
    Special acts inconsistent with the provisions of this charter are repealed
 to the extent of such inconsistency.
-Veterans
+*** Veterans ***
 SECTION 8.13 VETERANS RECOGNITION.
    In recognition of its veterans who have fought and died for their country,
 the city shall honor them in appropriate ceremonies on Memorial Day and
 Veterans Day.
-Public Participation
+*** Public Participation ***
 SECTION 8.14 PUBLIC COMMENT BOARDS AND COMMISSIONS.
    All boards, commission, authorities and committees, acting together as a
 full body, shall provide for a period of public comment.
-Charter Enforcement
+*** Charter Enforcement ***
 SECTION 8.15 CHARTER ENFORCEMENT PROVISION.
    (a)   It shall be the responsibility of all elected officials to ensure the
 enforcement of and compliance with this charter.
@@ -1567,7 +1567,7 @@ charter. This provision shall comprise administrative procedure and remedy for
 alleged violations of this charter.
    (f)   The board of mayor and aldermen shall provide for any procedures
 necessary in order to address violations of this charter.
-ARTICLE IX. STANDARDS OF CONDUCT
+**** ARTICLE IX. STANDARDS OF CONDUCT ****
 SECTION 9.01 DECLARATION OF POLICY.
    Honest government, ethical conduct, the avoidance of conflicts of interest
 and public perception of ethical and honest conduct of public affairs are
@@ -1664,11 +1664,11 @@ member shall have served as an alderman previously. Members shall be appointed
 for terms of three (3) years and such terms shall be staggered so no more than
 two (2) members and one (1) alternate are appointed at one time. Members may
 not see for more than six (6) consecutive years.
-ARTICLE X. TRANSITION PROVISIONS
-Effective Date
+**** ARTICLE X. TRANSITION PROVISIONS ****
+*** Effective Date ***
 SECTION 10.01 EFFECTIVE DATE OF THIS CHARTER.
    The effective date of this charter shall be July 1, 1997.
-State and Municipal Laws
+*** State and Municipal Laws ***
 SECTION 10.02 CONTINUATION OF EXISTING LAWS.
    (a)   All ordinances, resolutions, rules, regulations and votes of the board
 of mayor and aldermen which are in force at the adoption of this charter, not
@@ -1679,7 +1679,7 @@ ordinances, regulations, orders or special acts, the provisions of this charter
 shall govern. All provisions of city ordinances, rules, regulations, orders and
 administrative actions not super-seded by this charter shall remain in force
 until otherwise amended.
-Departments, Offices and Agencies
+*** Departments, Offices and Agencies ***
 SECTION 10.03 TRANSFER OF POWERS.
    (a)   The powers of administration and policy previously held by city
 boards, commissions and authorities affected by this charter in Article III,
@@ -1723,7 +1723,7 @@ temporary regulation shall be presented and ratified in the same manner
 prescribed for enacting ordinances. All temporary regulations shall be labeled
 as such and be automatically repealed in a manner designated by the board of
 mayor and aldermen in any such temporary regulation.
-Officers and Employees
+*** Officers and Employees ***
 SECTION 10.05 EXISTING OFFICIALS AND EMPLOYEES.
    Any person holding a city office or employment under the city shall retain
 such office or employment and shall continue to perform the duties of the
@@ -1746,7 +1746,7 @@ SECTION 10.07 SICK LEAVE TRANSITION.
    No employee of the city covered by sick leave benefits on the effective date
 of this charter shall have such benefits reduced unless such change is
 contained in a ratified collective bargaining agreement covering such employee.
-Miscellaneous
+*** Miscellaneous ***
 SECTION 10.08 INITIAL SALARY OF THE MAYOR.
    The salary of the mayor shall become effective upon the inauguration of the
 mayor in January 1998.
@@ -2573,7 +2573,7 @@ Chief Negotiator and Contract Administrator
 Cross-reference:
    
 Finance Officer, see §§ 35.015 - 35.018
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 30.01 MEETING FOR OATH OF OFFICE.
    The Mayor, Aldermen, and members of the Board of School Committee shall
 biennially meet on the first Tuesday of January at 10:00 a.m. for the purpose
@@ -2697,7 +2697,7 @@ $5,000 per annum, payable quarterly, for services performed.
 § 30.12 SALARY OF THE MAYOR.
    The base salary of the Mayor shall be $100,000 per annum.
 (Ord. passed 6-6-23)
-CITY CLERK
+*** CITY CLERK ***
 § 30.18 DEPARTMENT ESTABLISHED.
    Pursuant to
 Charter § 3.02 there is established the Office of the City Clerk.
@@ -2770,7 +2770,7 @@ charge of the letting and receiving pay for the halls and buildings of the
 city, and shall account for and pay to the City Treasurer, monthly, all moneys
 received for the use of the halls and buildings.
 ('71 Code, § 2-26)
-CITY SOLICITOR
+*** CITY SOLICITOR ***
 § 30.38 DEPARTMENT ESTABLISHED.
    Pursuant to
 Charter § 3.02 there is established the Office of the City Solicitor.
@@ -2840,7 +2840,7 @@ District Court.
 shall be responsible for the administration of the city's risk management and
 insurance programs contained in §§ 33.090 through 33.094 of this title.
 (Ord. passed 6-27-94)
-INDEPENDENT CITY AUDITOR
+*** INDEPENDENT CITY AUDITOR ***
 § 30.55 OFFICE ESTABLISHED.
    Pursuant to City Charter Section
 6.12, the Office of Independent City Auditor is hereby established as a
@@ -2884,7 +2884,7 @@ Independent City Auditor to examine the information. If it is determined that
 such information is necessary it shall be provided in a mutually agreeable and
 compatible format.
 (Ord. passed 10-4-05)
-CHIEF NEGOTIATOR AND CONTRACT ADMINISTRATOR
+*** CHIEF NEGOTIATOR AND CONTRACT ADMINISTRATOR ***
 § 30.60 POSITION ESTABLISHED.
    The position of Chief Negotiator and Contract Administrator (hereinafter
 “Negotiator”) is hereby established within the office of the Human Resources
@@ -2960,7 +2960,7 @@ Stolen, Lost, or Abandoned Property
 Statutory reference:
    Authority of city to regulate police, see R.S.A 47:17(II)
    Police officers, see R.S.A. Ch. 105
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 31.00 POLICE DEPARTMENT ESTABLISHED.
    (A)   Pursuant to
 Charter § 3.02 there is established a Police Department.
@@ -3086,7 +3086,7 @@ the Chief of Police, and take their receipt therefor.
    The Chief of Police shall designate the date and hours during which
 Halloween shall be observed.
 ('71 Code, § 20-18) (Ord. passed 12-16-80)
-STOLEN, LOST, OR ABANDONED PROPERTY
+*** STOLEN, LOST, OR ABANDONED PROPERTY ***
 § 31.30 DELIVERY TO CHIEF OF POLICE.
    All property or money taken under suspicion or with knowledge of it having
 been stolen or feloniously obtained and all property lost or abandoned, that
@@ -3310,23 +3310,18 @@ Human Resources Department
    
 32.140   Human Resources Department established
 Lead Exposure Prevention Commission
-   
-32.150   Finding of fact
-   
-32.151   Established
-   
-32.152   Purpose
-   
-32.153   Composition; terms; officers and their duties; conflicts of interest
-   
-32.154   Powers and duties
-   
-32.155   Lead Exposure Prevention Commission fund
+*****    32.150   Finding of fact *****
+*****    32.151   Established *****
+*****    32.152   Purpose *****
+*****    32.153   Composition; terms; officers and their duties; conflicts of
+interest *****
+*****    32.154   Powers and duties *****
+*****    32.155   Lead Exposure Prevention Commission fund *****
  
 Cross-reference:
    
 Office of Emergency Management, see §§ 92.80 through 92.83
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 32.001 STATEMENTS OF POLICY.
    City agencies described in
 Charter, § 8.02 shall adopt required rules and written statements of policy in
@@ -3366,7 +3361,7 @@ request of that member or another member of the Board, vote on the question of
 whether that member should be disqualified. Such a vote shall be advisory and
 nonbinding, and may not be requested by persons other than Board members.
 ('71 Code, § 2-14) (Ord. passed 4-5-88)
-TRUSTEES OF TRUST FUNDS
+*** TRUSTEES OF TRUST FUNDS ***
 § 32.010 BOARD OF TRUSTEES OF TRUST FUNDS ESTABLISHED.
    A Board of Trustees of trust funds is hereby established pursuant to R.S.A.
 31:22. All trust gifts, legacies and devises made to the city for public
@@ -3414,7 +3409,7 @@ of Trust Funds appointed in 1999 shall be for two year terms expiring January
 2001. Thereafter as the respective terms expire, appointment shall be made in
 the month of January for three year terms.
 (Ord. passed 4-6-99)
-MUNICIPAL DEPARTMENTS
+*** MUNICIPAL DEPARTMENTS ***
 § 32.017 DEPARTMENT OF AVIATION ESTABLISHED.
    (A)   Pursuant to
 Charter § 3.02 there is established a Department of Aviation.
@@ -3489,7 +3484,7 @@ maintenance and operation of the Manchester City Library and branch public
 libraries and its associated educational programs and activities and shall also
 perform such other duties as are prescribed by federal, state and local law.
 (Ord. passed 11-4-98)
-ARTS COMMISSION
+*** ARTS COMMISSION ***
 § 32.025 ESTABLISHMENT AND PURPOSE.
    (A)   The Manchester Arts Commission ("the Commission") is hereby reaffirmed
 with an expanded role and purpose.
@@ -3582,7 +3577,7 @@ to evolving needs and opportunities within the city's arts sector.
 affect the terms of any existing agreements.
 (Ord. passed 4-1-25)
 § 32.035 [RESERVED].
-SAFETY REVIEW BOARD
+*** SAFETY REVIEW BOARD ***
 § 32.040 ESTABLISHMENT; COMPOSITION; TERMS.
    There is hereby established a Safety Review Board composed of seven members
 to be appointed by the Mayor, with the approval of the Board of Aldermen: one
@@ -3631,7 +3626,7 @@ deems necessary to effectuate the purpose of this subchapter, including rules
 of procedure governing its meetings and conduct of investigations and hearings.
 The Safety Review Board shall meet monthly and more often as necessary.
 ('71 Code, § 2-134) (Ord. passed 7-13-77)
-CONSULTANT SERVICES REVIEW COMMITTEE
+*** CONSULTANT SERVICES REVIEW COMMITTEE ***
 § 32.055 COMMITTEE ESTABLISHED.
    A Consultant Services Review Committee consisting of three members to be
 appointed by the Mayor is hereby established as a standing committee of the
@@ -3645,7 +3640,7 @@ and report on all matters relating to consultant services referred to it by the
 Board of Mayor and Aldermen, the Finance Committee of the Board of Mayor and
 Aldermen, or the Mayor.
 ('71 Code, § 2-162) (Ord. passed 5-1-79)
-INFORMATION SYSTEMS DEPARTMENT
+*** INFORMATION SYSTEMS DEPARTMENT ***
 § 32.065 INFORMATION SYSTEMS DEPARTMENT ESTABLISHED.
    (A)   Pursuant to
 Charter § 3.02 there is established an Information Systems Department.
@@ -3674,7 +3669,7 @@ city for electronic data processing services, which representatives shall be
 appointed by the Mayor, confirmed by the Board of Aldermen, and shall serve
 until their successors are appointed.
 ('71 Code, § 2-170) (Ord. passed 10-9-79; Am. Ord. passed 12-27-79)
-FLEET MANAGEMENT DEPARTMENT
+*** FLEET MANAGEMENT DEPARTMENT ***
 § 32.080 CENTRAL FLEET MANAGEMENT DEPARTMENT ESTABLISHED.
    (A)   Pursuant to Charter §
 3.01 there is established a Central Fleet Management Department.
@@ -3692,7 +3687,7 @@ Aldermen.
    (Previous section repealed on 11-4-98)
 § 32.082 [RESERVED].
    (Previous section repealed on 11-4-98)
-CENTRAL PURCHASING
+*** CENTRAL PURCHASING ***
 § 32.083 CENTRAL PURCHASING DIVISION.
    An Office of Central Purchasing is hereby established within the Highway
 Department. The Public Works Director shall be responsible for the purchase of
@@ -3702,7 +3697,7 @@ The Public Works Director shall from time to time make recommendations to the
 Board of Mayor and Aldermen relative to additional procurement and fleet
 management responsibilities.
 (Ord. passed 6-21-94; Am. Ord. passed 4-21-98; Am. Ord. passed 12-7-99)
-CONSERVATION COMMISSION
+*** CONSERVATION COMMISSION ***
 § 32.090 ESTABLISHED.
    The provisions of R.S.A. Ch. 36-A are hereby adopted and a Conservation
 Commission is hereby established.
@@ -3767,7 +3762,7 @@ city accounting procedures, and any matters relating to personnel shall be
 governed in a manner consistent with the pertinent requirements of the City
 Charter and appropriate city ordinances.
 ('71 Code, § 2-188) (Ord. passed 3-7-89)
-DEPARTMENT OF SENIOR SERVICES
+*** DEPARTMENT OF SENIOR SERVICES ***
 § 32.104 [RESERVED].
    (Previous section repealed on 6-6-23)
 § 32.105 [RESERVED].
@@ -3784,7 +3779,7 @@ DEPARTMENT OF SENIOR SERVICES
    (Previous section repealed on 6-6-23)
 § 32.111 [RESERVED].
    (Previous section repealed on 11-4-98)
-HERITAGE COMMISSION
+*** HERITAGE COMMISSION ***
 § 32.120 ESTABLISHED.
    A Heritage Commission is hereby established in the city in accordance with
 R.S.A. 673.
@@ -3857,7 +3852,7 @@ District.
    (B)   The members of the Historic District Commission shall serve out their
 terms as members of the Heritage Commission.
 (Ord. passed 10-1-96)
-HOUSING COMMISSION
+*** HOUSING COMMISSION ***
 § 32.130 ESTABLISHED.
    A Housing Commission for the city is hereby established pursuant to R.S.A.
 674-44:h.
@@ -3936,7 +3931,7 @@ Commission Fund and shall pay out the same only upon order of the Housing
 Commission. The disbursement of these funds shall be authorized by a majority
 of the Housing Commission.
 (Ord. passed 8-3-21)
-HUMAN RESOURCES DEPARTMENT
+*** HUMAN RESOURCES DEPARTMENT ***
 § 32.140 HUMAN RESOURCES DEPARTMENT ESTABLISHED.
    (A)   Pursuant to
 Charter § 3.02 there is established a Human Resources Department.
@@ -3956,7 +3951,7 @@ Administrator shall directly consult with and report to the Board of Mayor and
 Aldermen and the Board of School Committee with respect to the negotiation of
 collective bargaining agreements.
 (Ord. passed 8-5-97; Am. Ord. passed 11-4-98)
-LEAD EXPOSURE PREVENTION COMMISSION
+*** LEAD EXPOSURE PREVENTION COMMISSION ***
 § 32.150 FINDING OF FACT.
    The Board of Mayor and Aldermen find that:
    (A)   Lead is a neurotoxin and exposure at an early age does irreparable
@@ -4257,7 +4252,7 @@ City Officers and Department Heads
 Cross-reference:
    
 Chief Negotiator and Contract Administrator, see §§ 30.60 through 30.62
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 33.001 AUTHORITY TO ORGANIZE.
    All employees of the city are authorized and empowered to fully and freely
 associate themselves in organizations of their own choosing for their mutual
@@ -4395,7 +4390,7 @@ and, if necessary, to the Human Resources and Insurance Committee for a
 solution which is consistent with the plans.
 ('71 Code, § 18-64) (Ord. passed 6-14-67; Am. Ord. passed 12-27-67; Am. Ord.
 passed 11-4-98; Am. Ord. passed 6-3-25)
-POSITION CLASSIFICATION PLAN
+*** POSITION CLASSIFICATION PLAN ***
 § 33.020 CLASSIFICATION PLAN DEFINED.
    The classification plan shall consist of the occupational list of classes, a
 class code, and a class grade for each class with the class specifications
@@ -4524,7 +4519,7 @@ Human Resources and Insurance Committee shall be reported to and subject to
 review by the Board of Mayor and Aldermen.
 ('71 Code, § 18-31) (Ord. passed 9-1-81; Am. Ord. passed 8-7-84; Am. Ord.
 passed 9-3-96; Am. Ord. passed 11-4-98)
-COMPENSATION PLAN
+*** COMPENSATION PLAN ***
 § 33.040 COMPENSATION PLAN DEFINED.
    The compensation plan shall consist of the schedules of salaries and hourly
 rates as set forth in the schedules of the compensation plan and the provisions
@@ -5007,7 +5002,7 @@ be final.
 ('71 Code, § 18-47) (Ord. passed 7-6-82; Am. Ord. passed 11-7-90; Am. Ord.
 passed 6-28-94; Am. Ord. passed 7-5-94; Am. Ord. passed 5-20-08; Am. Ord.
 passed 4-2-19; Am. Ord. passed 6-3-25)
-LEAVES OF ABSENCE
+*** LEAVES OF ABSENCE ***
 § 33.075 HOLIDAYS.
    (A)   Compensation for absence on holidays. Any employees of the city,
 except temporary employees and part-time employees who work less than half the
@@ -5313,7 +5308,7 @@ actual performance of their duties for the city, a sum equal to the number of
 vacation and/or sick leave days the employee has accrued as of the date of
 death shall be paid to their estate.
 ('71 Code, § 18-55) (Ord. passed 4-15-69; Am. Ord. 6-3-25)
-WORKER'S COMPENSATION AND INSURANCE
+*** WORKER'S COMPENSATION AND INSURANCE ***
 § 33.090 ALDERMANIC HUMAN RESOURCES AND INSURANCE COMMITTEE.
    The Aldermanic Human Resources and Insurance Committee shall conduct a
 continuing study of the city's worker's compensation and insurance needs. The
@@ -5416,7 +5411,7 @@ allowance of $150 per year.
 Cross-reference:
    
 Chief Negotiator and Contract Administrator, see §§ 30.60 through 30.62
-CITY OFFICERS AND DEPARTMENT HEADS
+*** CITY OFFICERS AND DEPARTMENT HEADS ***
 § 33.100 RESIDENCY REQUIREMENTS.
    (A)   The Board of Mayor and Aldermen has determined that emergency
 situations require that city officers and department heads as defined by the
@@ -5464,7 +5459,7 @@ Surplus City Property
 34.24   Property list
    
 34.25   Leases
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 34.01 POLICIES OF BOARD OF MAYOR AND ALDERMEN.
    Proposals for the adoption of policies by the Board of Mayor and Aldermen
 authorized by
@@ -5516,7 +5511,7 @@ Statutory reference:
 the maximum fee allowed by law plus all protest, bank, and legal fees in
 addition to the amount of the check.
 (Ord. passed 6-21-94)
-SURPLUS CITY PROPERTY
+*** SURPLUS CITY PROPERTY ***
 § 34.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5658,7 +5653,7 @@ Trustees of trust funds, see §§ 32.010 - 32.014
 Taxation, see Ch. 36
 Statutory reference:
    Financial responsibilities of cities, R.S.A. 47:6
-FINANCE OFFICER
+*** FINANCE OFFICER ***
 § 35.015 DEPARTMENT ESTABLISHED.
    Pursuant to
 Charter § 3.02 there is established a Department of Finance.
@@ -5809,7 +5804,7 @@ sale and servicing of city debt.
 (Ord. passed 5-6-97; Am. Ord. passed 10-4-05)
 § 35.018 [RESERVED].
    (Previous section repealed on 10-4-05)
-TREASURY
+*** TREASURY ***
 § 35.020 CITY TREASURY DEPOSITORY OF FUNDS.
    (A)   The Finance Officer shall be treasurer of and custodian of all money
 and funds belonging to the city.
@@ -5904,7 +5899,7 @@ taxes, fees, and other charges by credit card.
    (B)   The procedure established for payment by credit card shall conform to
 the requirements set forth in R.S.A. 80:52(c) or as amended.
 (Ord. passed 5-6-97)
-BUDGET PROCEDURES
+*** BUDGET PROCEDURES ***
 § 35.030 COMMITTEE ON FINANCE: APPOINTMENT, COMPOSITION, AND DUTIES.
    The Mayor shall, biennially, in the month of January, appoint a Committee on
 Finance consisting of the Mayor and Aldermen. It shall be the duty of this
@@ -5968,7 +5963,7 @@ pursuant to §
 such excess shall be transferred, without further action, to the general fund
 unrestricted fund balance.
 (Ord. passed 5-6-97; Am. Ord. passed 6-5-18)
-§ 35.033 SPECIAL REVENUE RESERVE ACCOUNT.
+** § 35.033 SPECIAL REVENUE RESERVE ACCOUNT. **
    (A)   There is hereby established within the general fund a special revenue
 reserve account into which one-time, general fund revenues, as defined in
 division (B) of this section, shall be deposited. The Finance Officer shall
@@ -6236,7 +6231,7 @@ hazards.
 be utilized for any purpose other than authorized herein without the specific
 approval of two-thirds of the Aldermen- Elect.
 (Ord. passed 9-5-17)
-REPORTING VIOLATIONS
+*** REPORTING VIOLATIONS ***
 § 35.040 MAYOR TO INVESTIGATE AND REPORT VIOLATIONS.
    It shall be the duty of the Mayor to investigate all violations of this
 chapter and report the facts as ascertained to the Board of Mayor and Aldermen.
@@ -6310,7 +6305,7 @@ Cross-reference:
 Attendance of City Solicitor at tax sales, see § 30.46
    
 Finance, see Ch. 35
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 36.01 PAYMENT.
    All bills for taxes and assessments shall be paid to the Tax Collector.
 ('71 Code, § 24-1)
@@ -6348,7 +6343,7 @@ responsible for carrying out the requirements of such provisions of state law.
 Statutory reference:
    Real estate tax liens and municipal tax sale practices, see R.S.A. 80:58 et
 seq.
-BOARD OF ASSESSORS
+*** BOARD OF ASSESSORS ***
 § 36.10 BOARD OF ASSESSORS ESTABLISHED.
    (A)   Creation and composition. Pursuant to
 Charter § 3.02 there is established a Board of Assessors consisting of three
@@ -6412,7 +6407,7 @@ warrant on the City Treasurer for the amount so abated to the person in whose
 favor the certificate shall be drawn. The amount shall be charged to the
 appropriation for tax refund.
 ('71 Code, § 24-18) (Ord. passed 10-5-05)
-TAX COLLECTOR
+*** TAX COLLECTOR ***
 § 36.30 OFFICE OF THE TAX COLLECTOR ESTABLISHED.
    (A)   Pursuant to
 Charter § 3.02 there is established an Office of the Tax Collector.
@@ -6465,7 +6460,7 @@ by the Collector of Taxes and for such other expenses as may be necessarily
 incurred by the Collector of Taxes for the prompt and efficient discharge of
 the duties of his office.
 ('71 Code, § 24-37)
-COMMUNITY REVITALIZATION TAX  RELIEF INCENTIVE
+*** COMMUNITY REVITALIZATION TAX  RELIEF INCENTIVE ***
 § 36.40 R.S.A. CHAPTER 79-E COMMUNITY REVITALIZATION TAX RELIEF INCENTIVE.
    The provisions of R.S.A. Chapter 79-E Community Revitalization Tax Relief
 Incentive are hereby adopted, subject to the following limitations.
@@ -6489,14 +6484,14 @@ and Aldermen’s decision granting tax relief. Failure to timely commence
 substantial rehabilitation or replacement shall cause said tax relief to
 expire.
 (Ord. passed 4-7-15; Am. Ord. passed 3-5-19; Am. Ord. passed 5-2-23_
-MUNICIPAL ECONOMIC DEVELOPMENT AND REVITALIZATION DISTRICTS
+*** MUNICIPAL ECONOMIC DEVELOPMENT AND REVITALIZATION DISTRICTS ***
 § 36.45 R.S.A. 162-K MUNICIPAL ECONOMIC DEVELOPMENT AND REVITALIZATION
 DISTRICTS.
    The provisions of R.S.A. Chapter 162-K Municipal Economic Development and
 Revitalization Districts are hereby adopted.
 (Ord. passed 9-5-23)
-(Ord. passed 4-7-15; Am. Ord. passed 3-5-19; Am. Ord. passed 5-2-23)CUSTODIAN
-OF TAX-DEEDED PROPERTIES
+*** (Ord. passed 4-7-15; Am. Ord. passed 3-5-19; Am. Ord. passed 5-2-
+23)CUSTODIAN OF TAX-DEEDED PROPERTIES ***
 § 36.50 APPOINTMENT; TERM.
    The Board of Mayor and Aldermen shall appoint an able and competent person
 to be titled “custodian of tax-deeded properties.”
@@ -7595,7 +7590,7 @@ Board of Water Commissioners
 51.53   General duties of Director; annual report
 Statutory reference:
    Municipal water systems, R.S.A. Ch. 38
-WATER WORKS DEPARTMENT
+*** WATER WORKS DEPARTMENT ***
 § 51.001 DEPARTMENT ESTABLISHED.
    Pursuant to
 Charter § 3.02 there is established a Water Works Department.
@@ -7605,7 +7600,7 @@ Charter § 3.02 there is established a Water Works Department.
 as provided by
 Charter § 3.03.
 (Ord. passed 11-4-98)
-WATER USAGE REGULATIONS
+*** WATER USAGE REGULATIONS ***
 § 51.01 CONTRACTUAL NATURE OF REGULATIONS.
    The regulations adopted by the Water Commissioners shall be considered a
 part of the contract with every person who takes city water, and every such
@@ -7716,7 +7711,7 @@ passed 11-4-98)
    The Water Works Director, under the direction of the Board of Water
 Commissioners, may make abatements in the water rents in all proper cases.
 ('71 Code, § 26-20) (Am. Ord. passed 11-4-98)
-BOARD OF WATER COMMISSIONERS
+*** BOARD OF WATER COMMISSIONERS ***
 § 51.40 MANAGEMENT VESTED IN BOARD.
    The management of the city waterworks shall be vested in seven persons, to
 be titled the Board of Water Commissioners, consisting of the mayor ex officio,
@@ -8026,7 +8021,7 @@ Administration and Enforcement
  
    
 52.999   Penalty
-GENERAL REGULATIONS
+*** GENERAL REGULATIONS ***
 § 52.001 PURPOSE.
    In order to insure proper removal and disposal of sewage wastes and
 wastewaters within the city; to insure the proper operation and maintenance of
@@ -8468,7 +8463,7 @@ reasonable time period shall be understood to mean 30 calendar days unless
 otherwise directed by the Public Works Director.
 (Ord. passed 1-17-95)
 Penalty, see § 52.999
-USE OF PUBLIC SEWERS
+*** USE OF PUBLIC SEWERS ***
 § 52.020 CONNECTION TO PUBLIC SEWER REQUIRED.
    The owner of any house, building, or property used for human occupancy,
 employment, recreation, or other purpose, situated within the city and abutting
@@ -8805,7 +8800,7 @@ of stored chemicals, notification procedures in the event of a discharge,
 procedural practices for spill prevention, containment structures, and
 equipment for control, cleanup, and monitoring.
 (Ord. passed 1-17-95)
-INDUSTRIAL PRETREATMENT
+*** INDUSTRIAL PRETREATMENT ***
 § 52.050 COMPLIANCE.
    All persons or industrial or commercial establishments discharging
 industrial wastewaters into a public sewer or drain, shall comply with
@@ -9181,7 +9176,7 @@ least once per month; or,
 when the user performs its initial sampling and the time the user receives the
 results of this sampling.
 (Ord. passed 1-17-95)
-SEPTAGE DISPOSAL
+*** SEPTAGE DISPOSAL ***
 § 52.080 STATE PERMIT.
    Any person, firm, corporation, municipal subdivision or institution who
 removes, transports, or disposes, or intends to remove, transport or dispose of
@@ -9261,7 +9256,7 @@ any purpose provided in § 52.095.
    (C)   Charges for the receipt and treatment of septage at the wastewater
 treatment facility will be in accordance with § 52.161.
 (Ord. passed 1-17-95; Am. Ord. passed 12-2-14)
-SEWER RENTAL CHARGES
+*** SEWER RENTAL CHARGES ***
 § 52.095 SEWER RENTAL CHARGE.
    Pursuant to R.S.A. 149-I:7, a system of sewer rental charges is hereby
 established and assessed for paying the cost of construction, payment of
@@ -9331,7 +9326,7 @@ collections of taxes.
    (D)   Warrants for delinquent charges shall be committed to the Tax
 Collector for delinquent accounts greater than 90 days from bill date.
 (Ord. passed 1-17-95; Am. Ord. passed 12-2-14)
-BUILDING SEWERS AND CONNECTIONS
+*** BUILDING SEWERS AND CONNECTIONS ***
 § 52.115 BUILDING CONNECTION PERMITS REQUIRED.
    (A)   No person shall uncover, make any connection with or opening into,
 use, alter, or disturb any public sewer, or appurtenances thereof, unless a
@@ -9617,7 +9612,7 @@ involving loadings exceeding 50 population equivalents or any increases in
 industrial discharge must also be approved by the WSPCD.
 (Ord. passed 1-17-95)
 Penalty, see § 52.999
-CONSTRUCTION AND REPAIR
+*** CONSTRUCTION AND REPAIR ***
 § 52.145 SEWER AND DRAINS.
    To insure compliance with this chapter and to facilitate the supervision of
 the construction, operation, and repair of public sewers and drains and the
@@ -9815,7 +9810,7 @@ ordinances. Such fees shall remain in effect unless amended by further action
 of the Public Works Director. Such fees shall be paid to the Department at the
 time the application for a building connection permit is filed.
 (Ord. passed 1-17-95; Am. Ord. passed 12-2-14)
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 52.175 ACCESS TO FACILITIES.
    The Public Works Director, and other duly authorized employees of the
 Department bearing proper credentials and identification, shall have
@@ -10737,7 +10732,7 @@ Cross-reference:
 Statutory reference:
    Authority of city to regulate use of motor vehicles, R.S.A. 47:17(VIII)
    Motor vehicles, see R.S.A. Chs. 259—269
-IN GENERAL
+*** IN GENERAL ***
 § 70.01 COMMITTEE ON TRAFFIC AND PUBLIC SAFETY ESTABLISHED; PURPOSE.
    For the purpose of making all necessary rules and regulations for the
 regulation and control of traffic upon the streets of the City of Manchester,
@@ -11042,7 +11037,7 @@ about to be parked on a street or way.
 vehicle provided that the person is not, when so doing, standing on the
 roadway.
 (Ord. passed 8-6-02)
-   VEHICLE OPERATION
+***    VEHICLE OPERATION ***
 § 70.15 THROUGH STREETS.
    (A)   Subject to the direction of any traffic control sign or signal or
 unless otherwise directed, the driver of any vehicle traveling on any street
@@ -11225,7 +11220,7 @@ Aldermen.
 (Ord. passed 11-5-03)
 § 70.32 [RESERVED].
    (Previous section repealed on 5-15-18)
-STOPPING, STANDING AND PARKING
+*** STOPPING, STANDING AND PARKING ***
 § 70.36 STOPPING, STANDING, OR PARKING PROHIBITED.
    (A)   Except when necessary to comply with the directions of a Police
 Officer or traffic control device, no vehicle shall be allowed to stop, stand,
@@ -11383,7 +11378,7 @@ provided for in §
 70.40(A).
 (Ord. passed 11-19-96; Am. Ord. passed 4-6-99; Am. Ord. passed 9-4-02; Am. Ord.
 passed 10-4-05; Am. Ord. passed 7-2-13; Am Ord. passed 10-4-22)
-PARKING OPERATIONS
+*** PARKING OPERATIONS ***
 § 70.44 DIVISION ESTABLISHED.
    Parking Management and Operations is hereby established as a division within
 the Economic Development Office.
@@ -12003,7 +11998,7 @@ passed 6-1-04; Am. Ord. passed 1-4-05; Am. Ord. passed 7-10-07; Am. Ord. passed
 12-18-07; Am. Ord. passed 8-5-08; Am. Ord. passed 7-7-09; Am. Ord. passed 8-18-
 09; Am. Ord. passed 12-1-09; Am. Ord. passed 7-6-10; Am. Ord. passed 9-21-10;
 Am. Ord. passed 5-20-14; Am. Ord. passed 9-2-14; Am. Ord. passed 6-4-24)
-SNOW REMOVAL
+*** SNOW REMOVAL ***
 § 70.61 [RESERVED].
    (Previous section repealed on 12-19-05)
 § 70.62 [RESERVED].
@@ -12014,7 +12009,7 @@ SNOW REMOVAL
    (Previous section repealed on 12-19-05)
 § 70.65 [RESERVED].
    (Previous section repealed on 12-19-05)
-VEHICLE IMPOUNDMENT
+*** VEHICLE IMPOUNDMENT ***
 § 70.70 IMPOUNDMENT OF VEHICLES.
    Members of the Police Department are hereby authorized to remove a vehicle
 from a street or highway to the nearest garage or other place of safety, under
@@ -12046,7 +12041,7 @@ vehicle shall be handled in the same manner as set forth in § 70.70.
 shall be responsible for towing, storage charges and operating expenses for
 which the cost shall be $110 payable in cash.
 (Ord. passed 8-6-02; Am. Ord. passed 11-16-04)
-   RESPONSIBILITY, NOTICE AND PENALTIES
+***    RESPONSIBILITY, NOTICE AND PENALTIES ***
 § 70.76 PRIMA FACIE RESPONSIBILITY.
    If any vehicle is observed or found upon any street or highway in violation
 of any provision of any ordinance regulating motor vehicles and/or traffic and
@@ -12448,7 +12443,7 @@ Licenses
 72.27   Purchase of forms and the like; deposit of fees
    
 72.28   Records
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 72.01 DEFINITION.
    Every pedalled vehicle propeled solely by human power upon which any person
 may ride, except child's tricycle and similar devices.
@@ -12529,7 +12524,7 @@ obstruction to pedestrian traffic.
 it is properly licensed and equipped in accordance with the provision of this
 chapter.
 ('71 Code, § 5-13) Penalty, see § 70.99
-LICENSES
+*** LICENSES ***
 § 72.20 LICENSES REQUIRED.
    No person shall ride or propel a bicycle on any public highway within the
 city, or upon any other public path established for the exclusive use of
@@ -12698,7 +12693,7 @@ Licenses
  
    
 75.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 75.01 GENERAL PROVISION; DEFINITION.
    (A)   This chapter shall govern the use of all motorized scooters, also
 known as go-peds or motorized skateboards, on all public streets, alleys and
@@ -12771,7 +12766,7 @@ city unless it is properly licensed and equipped in accordance with the
 provisions of this chapter.
 (Ord. passed 4-6-04)
 Penalty, see § 75.99
-   LICENSES
+***    LICENSES ***
 § 75.11 LICENSES REQUIRED.
    No person shall ride or propel a motorized scooter on any public highway
 within the city, or upon any other public path unless such motorized scooter
@@ -12866,7 +12861,7 @@ Rabid Animals
  
    
 90.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 90.01 HUMANE OFFICER.
    For the purpose of enforcing the provisions of this chapter, the position of
 Humane Officer is hereby established at a salary to be fixed by the Board of
@@ -12909,7 +12904,7 @@ Am. Ord. passd 12-17-13)
 Cross reference:
    Citation penalties, see §
 38.06
-DOGS
+*** DOGS ***
 § 90.10 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13007,7 +13002,7 @@ after impounding, and in those cases where it is required that notice be given
 the owner, the dog shall be held for at least four days after the required
 notice has been given.
 ('71 Code, § 4-27) (Ord. passed 12-17-63; Am. Ord. passed 6-5-00)
-RABID ANIMALS
+*** RABID ANIMALS ***
 § 90.30 DESTRUCTION OF RABID ANIMALS AUTHORIZED.
    Any animal that is mad or rabid shall at once be destroyed by a
 representative of the Department of Health or the Police Department. Any animal
@@ -13141,7 +13136,7 @@ Ch. 95
 Ch. 117
    Sanitation procedures, see §
 96.05
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 91.00 HEALTH DEPARTMENT ESTABLISHED.
    (A)   Pursuant to Charter §
 3.02, there is established a Health Department.
@@ -13191,7 +13186,7 @@ care inspection fee. ('71 Code, § 12-9)
    (C)   Any person operating a day care facility in the City shall comply with
 the New Hampshire Child Care Program Licensing Rules He-C 4000.
 (Ord. passed 3-19-85; Am. Ord. passed 9-4-01)
-LEAD POISONING PREVENTION
+*** LEAD POISONING PREVENTION ***
 § 91.20 PURPOSE.
    The purpose of this subchapter shall be to protect the health of residents
 of Manchester by ensuring that abrasive paint removal is conducted without
@@ -13226,7 +13221,7 @@ Chapter 150 of this code of ordinances.
 Cross-reference:
    
 Housing Code, see Ch. 150
-SWIMMING AND BATHING FACILITIES
+*** SWIMMING AND BATHING FACILITIES ***
 § 91.35 APPLICABILITY.
    This subchapter shall regulate the construction and operation of all
 swimming pools, recreational spas, hot tubs, and natural bathing areas except
@@ -13323,7 +13318,7 @@ in plain view which shall state “WARNING - NO LIFEGUARD ON DUTY” with clearl
 legible letters at least four inches in height.
 ('71 Code, § 12-39) (Ord. passed 6-5-90; Am. Ord. passed 9-4-01)
 Penalty, see § 10.99
-MOSQUITO CONTROL
+*** MOSQUITO CONTROL ***
 § 91.50 PURPOSE.
    It is the intent of these regulations to control and reduce the mosquito
 population of the City of Manchester by removing, draining, treating, altering
@@ -13336,7 +13331,7 @@ pool, or any other artificial water receptacle, or shall treat and maintain
 such receptacle in a manner as to prevent the breeding of mosquitoes.
 (Ord. passed 9-4-01) Penalty, see
 § 10.99
-   SOLID WASTE AND LITTERING
+***    SOLID WASTE AND LITTERING ***
 § 91.60 PURPOSE.
    The purpose of this subchapter shall be to ensure that solid waste and
 litter is handled in a manner as to protect the public health, safety and
@@ -13645,7 +13640,7 @@ fine not exceeding the maximum allowed by R.S.A. 47:17 or other law. A separate
 offense shall be deemed committed upon each day during which a violation occurs
 or continues.
 (Ord. passed 4-16-02)
-SYRINGE SERVICE PROGRAM AND NEEDLE DISPOSAL
+*** SYRINGE SERVICE PROGRAM AND NEEDLE DISPOSAL ***
 § 91.80 PURPOSE AND NEED.
    Whereas, the regulation of Syringe Service Programs ("SSPs") and disposal
 sites is necessary to ensure that such programs operate in conformity with New
@@ -13909,7 +13904,7 @@ Emergency Management
  
    
 92.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 92.00 FIRE DEPARTMENT ESTABLISHED.
    (A)   Pursuant to
 Charter § 3.02 there is established a Fire Department.
@@ -14094,7 +14089,7 @@ Protection Association, Number 31.
 structure.
 (Ord. passed 4-5-83; Am. Ord. passed 2-7-95)
 Penalty, see § 92.99
-FIRE ALARMS
+*** FIRE ALARMS ***
 § 92.20 ALARM UNDER CONTROL OF CHIEF OF FIRE DEPARTMENT.
    The fire alarm system in the city shall be considered as an apparatus
 connected with the Fire Department, and shall be under the full control of the
@@ -14206,7 +14201,7 @@ alarm messages, or the receipt or relaying of such signals and messages. In the
 event that the Fire Department finds it necessary to disconnect an alarm
 device, the Fire Department shall incur no liability by such action.
 (Ord. passed 2-7-95)
-EMERGENCY MEDICAL SERVICE
+*** EMERGENCY MEDICAL SERVICE ***
 § 92.40 PROVISION OF EMERGENCY MEDICAL SERVICE.
    The City Fire Department under the supervision of the Chief of the Fire
 Department shall provide by contract or otherwise medical services within the
@@ -14285,7 +14280,7 @@ person hostage, or threatens to harm self or another; or recklessly or
 intentionally creates a situation requiring a response from the Fire
 Department.
 (Ord. passed 2-7-95)
-RESCUE SERVICES
+*** RESCUE SERVICES ***
 § 92.60 PROVISION FOR RESCUE SERVICES.
    The City Fire Department under the supervision of the Chief of the Fire
 Department may provide technical rescue services within the city.
@@ -14314,7 +14309,7 @@ persons hostage or threatens to harm self or another; or recklessly or
 intentionally creates a situation requiring a response from the Fire
 Department.
 (Ord. passed 2-7-95)
-HAZARDOUS MATERIALS
+*** HAZARDOUS MATERIALS ***
 § 92.70 POLICY.
    It is hereby declared to be the policy of the city that all costs incurred
 by the city for the emergency response, remediation, and cleanup of any release
@@ -14428,7 +14423,7 @@ the three categories shall be the range number of the business.
       1-D    325   2-D    380   3-D    490   4-D    650
       1-E    540   2-E    600   3-E    700   4-E    850
 (Ord. passed 2-7-95)
-EMERGENCY MANAGEMENT
+*** EMERGENCY MANAGEMENT ***
 § 92.80 PURPOSE.
    (A)   The purpose of this section is to establish an Office of Emergency
 Management to ensure that the city is adequately prepared to cope with an
@@ -14977,7 +14972,7 @@ Administration and Enforcement
 94.43   Penalties
 Statutory reference:
    Authority of city to regulate noise, see R.S.A. 47:17 (II) & (XV)
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 94.01 PURPOSE.
    It is the policy of the Board of Mayor and Aldermen of the city to protect,
 preserve and promote the health, safety, welfare, peace and quiet of the
@@ -15132,7 +15127,7 @@ of ANSI where so applicable.
    Fees for permits, applications and licenses shall be submitted with the
 applications under this chapter and shall be considered nonrefundable.
 (Ord. passed 9-5-06)
-MINIMUM STANDARDS
+*** MINIMUM STANDARDS ***
 § 94.10 NOISE LEVELS.
    Noise levels shall be measured at any point along the property line or
 within the property line of the receiving premises to determine compliance of
@@ -15250,7 +15245,7 @@ manufacturers gross
 vehicle weight
  
 (Ord. passed 9-5-06)
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 94.40 NOISE VARIANCE BOARD.
    (A)   It is recognized that in initiating community noise limits, any number
 of unanticipated situations may occur. Although the city is primarily concerned
@@ -15751,7 +15746,7 @@ Overpasses
 Statutory reference:
    Authority of city to regulate all streets and public ways, see R.S.A. 47:17
 (VII)
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 97.00 HIGHWAY DEPARTMENT ESTABLISHED.
    (A)   Pursuant to
 Charter § 3.02 there is established a Highway Department.
@@ -15811,7 +15806,7 @@ banners, overpasses, thing, substance, or other objects constructed or placed
 otherwise than as provided in this chapter and to prosecute any person
 offending against any of its provisions.
 ('71 Code, § 22-6) (Am. Ord. passed 6-21-22)
-BUILDING NUMBERS AND STREET NAMES
+*** BUILDING NUMBERS AND STREET NAMES ***
 § 97.15 DESIGNATED BY BOARD.
    The Department of Highways shall, as the convenience of the public may
 require, designate the numbers to be affixed to the buildings on the streets
@@ -15882,7 +15877,7 @@ the easterly portions of the streets to have no prefix name.
    The City Hall and the City Hall Annex together shall be known as City Hall
 Plaza and together shall have an address of One City Hall Plaza.
 (Ord. passed 8-4-98)
-EXCAVATIONS AND OBSTRUCTIONS
+*** EXCAVATIONS AND OBSTRUCTIONS ***
 § 97.30 PERMIT AND COMPLIANCE WITH CONDITIONS REQUIRED.
    (A)   No person shall break or dig up the pavement, ground, or stones in any
 street or on any sidewalk or common in the city, or erect any staging for
@@ -16184,7 +16179,7 @@ sufficient light over or near the same through the night, in order to give
 notice thereof to travelers and passengers, and thereby prevent injury to them.
 ('71 Code, § 22-44)
 Penalty, see § 97.99
-OVERPASSES
+*** OVERPASSES ***
 § 97.55 OVERPASSES PROHIBITED; EXCEPTIONS
    (A)   No person shall erect upon any premises, building, or structure
 abutting a public street in the city, any device designed for the
@@ -16391,7 +16386,7 @@ License Restrictions
 Cross-reference:
     
 Central Business Service Districts, see Ch. 37
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 110.01 DEFINITIONS.
    FFor the purpose of this title, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -16629,7 +16624,7 @@ will be denied.
 Cross-reference:
    Central Business Service Districts, see
 Ch. 37
-LICENSE RESTRICTIONS
+*** LICENSE RESTRICTIONS ***
 § 110.20 BUSINESS LICENSE FEES.
    (A)   A person licensed under this title shall pay the fee prescribed, based
 on the gross square feet of area occupied by the business seeking such license
@@ -16932,7 +16927,7 @@ Performers and Exhibitors
  
    
 111.99   Penalty
-GENERAL LICENSING PROVISIONS
+*** GENERAL LICENSING PROVISIONS ***
 § 111.01 LICENSE AND APPLICATION.
    (A)   License required. It shall be unlawful for any person, firm or
 corporation to conduct a circus, carnival, or other form of amusement or
@@ -16976,7 +16971,7 @@ Departments.
 of a circus, carnival, or other form of amusement or entertainment, the
 licensing authority may immediately revoke the license.
 (Ord. passed 3-7-95)
-GENERAL REGULATIONS
+*** GENERAL REGULATIONS ***
 § 111.15 OVERCROWDING OF PREMISES PROHIBITED.
    In any place where a circus, carnival, or other form of amusement or
 entertainment is conducted, overcrowding of the premises shall be prohibited.
@@ -17083,7 +17078,7 @@ believe that the child is under said age and is unaccompanied by a person as
 above required.
 (Ord. passed 3-7-95)
 Penalty, see § 111.99
-AMUSEMENT DEVICES
+*** AMUSEMENT DEVICES ***
 § 111.40 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -17455,7 +17450,7 @@ shall include an examination of required records, licenses, amusement device
 meters, and/or any amusement devices.
 (Ord. passed 3-7-95)
 Penalty, see § 111.99
-DANCES; DANCE HALLS; ASSEMBLY
+*** DANCES; DANCE HALLS; ASSEMBLY ***
 § 111.65 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -17570,7 +17565,7 @@ issuance of this license; and
 building, zoning, health, police, and fire rules, regulations and ordinances
 and applicable rules, regulations, and statutes of the state.
 (Ord. passed 6-6-06)
-NOISE ACTIVITIES
+*** NOISE ACTIVITIES ***
 § 111.75 NOISE ACTIVITIES; PURPOSE.
    The purpose of this section is to establish standards that will eliminate
 and reduce unnecessary noise at outdoor venues throughout the city which may be
@@ -17628,7 +17623,7 @@ performance or concert at an outdoor venue in the city without obtaining a
 license from the office of the City Clerk pursuant to §
 111.75(A).
 (Ord. passed 10-4-05; Am. Ord. passed 6-6-06)
-PERFORMERS AND EXHIBITORS
+*** PERFORMERS AND EXHIBITORS ***
 § 111.80 LICENSE REQUIRED.
    No showman, tumbler, rope-dancer, ventriloquist, juggler, or other person
 shall for pay exhibit any feats of agility, horsemanship, sleight-of-hand,
@@ -18027,7 +18022,7 @@ Fairs
 115.62   Revocation of fair license
    
 115.63   Peddler's license not required
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 115.01 DEFINITIONS.
       For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18096,7 +18091,7 @@ passed 7-6-10; Am. Ord. passed 4-18-17)
    Fees for permits, applications, and licenses shall be submitted with the
 applications under this chapter and shall be considered nonrefundable.
 (Ord. passed 3-7-95)
-SOLICITATION FOR CHARITIES
+*** SOLICITATION FOR CHARITIES ***
 § 115.10 PERMIT REQUIRED.
    (A)   No person shall solicit financial aid or assistance from the public
 offering in return therefor any emblem, tag, flower or like symbol; solicit
@@ -18124,7 +18119,7 @@ amended.
 on forms to be determined by the City Clerk.
 (Ord. passed 3-7-95)
 Penalty, see § 10.99
-PEDDLERS
+*** PEDDLERS ***
 § 115.40 LICENSE REQUIRED; APPLICATION.
    (A)   It shall be unlawful for any person, firm, or corporation to engage in
 the business of a peddler within the city without first having secured a
@@ -18322,7 +18317,7 @@ Penalty, see § 10.99
 city for purposes of maintenance or reconstruction shall cause the suspension
 of all licenses to operate thereon.
 (Ord. passed 3-7-95; Am. Ord. passed 11-7-01)
-CIVIC CENTER PEDDLERS
+*** CIVIC CENTER PEDDLERS ***
 § 115.50 LICENSE REQUIRED; APPLICATION.
    (A)   It shall be unlawful for any person, firm, or corporation to engage in
 the business of a Civic Center peddler within the city without first having
@@ -18446,7 +18441,7 @@ Penalty, see § 10.99
 city for purposes of maintenance or reconstruction shall cause the suspension
 of all licenses to operate thereon.
 (Ord. passed 11-7-01)
-FAIRS
+*** FAIRS ***
 § 115.60 LICENSE REQUIRED; APPLICATION.
    (A)   It shall be unlawful for any person, firm, or corporation to promote a
 fair in which any merchandise, article, or thing is displayed for sale by
@@ -18558,7 +18553,7 @@ Statutory reference:
    Authority of city to regulate food and food establishments, see R.S.A. 47:17
 (IV)
    Sanitary production and distribution of food, see R.S.A. Ch. 143
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 117.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18602,7 +18597,7 @@ provisions, the Health Authority may accept reports from responsible
 authorities in other jurisdictions where such food-service establishments are
 located.
 ('71 Code, § 10-3) (Ord. passed 4-15-69 ; Am. Ord. passed 9-4-01 )
-PERMITS AND INSPECTIONS
+*** PERMITS AND INSPECTIONS ***
 § 117.15 PERMIT REQUIRED.
    It shall be unlawful for any person who does not possess a valid permit
 issued to him by the Health Authority to operate a food-service establishment
@@ -18906,7 +18901,7 @@ Operational Requirements
  
    
 118.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 118.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18956,7 +18951,7 @@ engaged in the business of providing dispatch service for taxicabs for the
 purpose of transporting passengers from one destination to another for a fee.
    TAXICAB DRIVER. Any individual who shall drive a taxicab.
 (Ord. passed 4-4-95; Am. Ord. passed 10-3-00)
-LICENSE PROVISIONS
+*** LICENSE PROVISIONS ***
 § 118.10 BUSINESS LICENSE.
    (A)   License required. It shall be unlawful for any person, firm, or
 corporation to engage in the business of operating a taxicab company or taxicab
@@ -19404,7 +19399,7 @@ from the city as provided for in this subchapter and conform to all
 requirements and fees as provided for herein.
 (Ord. passed 4-4-95)
 Penalty, see § 118.99
-DRUG AND ALCOHOL POLICY
+*** DRUG AND ALCOHOL POLICY ***
 § 118.20 PURPOSE.
    (A)   It is the policy of the city that its licensed drivers of taxicabs
 (hereinafter, the licensees) be free of substance abuse. The abuse of alcohol
@@ -19583,7 +19578,7 @@ associated with testing conducted under § 118.22. The account shall be
 nonlapsing and continually appropriated to the City Clerk for the purposes of
 this chapter.
 (Ord. passed 4-7-98)
-OPERATIONAL REQUIREMENTS
+*** OPERATIONAL REQUIREMENTS ***
 § 118.30 TAXIMETER REQUIRED; EXCEPTIONS.
    (A)   Every taxicab in the city shall be equipped with a mechanical
 instrument or device commonly called a taximeter, approved by the Sealer of
@@ -20591,7 +20586,7 @@ Synthetic Cannabinoids
 130.99   Penalty
 Note:
    Former §§ 130.50 - 130.57, Littering, repealed by Ord. passed 4-16-02
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 130.01 PUBLIC LOUNGING OR SLEEPING.
    (A)   No person shall lounge or sleep in or upon any of the commons or
 squares of the city. ('71 Code, § 17-4)
@@ -20839,7 +20834,7 @@ pit barbecue.
 the provisions of §
 10.99 (a fine up to $1,000).
 (Ord. passed 11-10-20)
-DISTURBING PUBLIC PEACE AND SAFETY
+*** DISTURBING PUBLIC PEACE AND SAFETY ***
 § 130.20 CONDUCT IN PUBLIC PLACES.
    No person shall in any street, lane, alley, or public place, be guilty of
 any rude, indecent, or disorderly conduct; or shall insult or wantonly impede
@@ -20885,7 +20880,7 @@ passed 9-1-87; Am. Ord. passed 6-5-00; Am. Ord. passed 10-1-19)
 Cross reference:
    
 Citation penalties, see § 38.06
-OFFENSES AGAINST PROPERTY
+*** OFFENSES AGAINST PROPERTY ***
 § 130.35 INJURING PROPERTY.
    No person shall wantonly injure or deface any building, fence, wall, post,
 signboard, sign, lamppost, or lamp or lantern thereon.
@@ -20979,7 +20974,7 @@ Penalty, see § 130.99
 within 1000 feet of each Manchester Housing and Redevelopment Authority public
 housing property.
 (Ord. passed 3-21-00)
-SYNTHETIC CANNABINOIDS
+*** SYNTHETIC CANNABINOIDS ***
 § 130.50 PURPOSE AND INTENT.
    It has been determined that certain businesses and/or individuals within the
 city are possessing and selling certain substances which when ingested produce
@@ -21434,7 +21429,7 @@ Administration and Enforcement
  
    
 150.999   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 150.001 SHORT TITLE.
    This chapter shall be known and shall be cited as the “Housing Code of the
 City of Manchester, New Hampshire.”
@@ -21632,7 +21627,7 @@ after a public hearing and opportunity for the property owner to be heard.
 ('71 Code, § 13-4) (Ord. passed 5-31-66; Am. Ord. passed 12-1-15)
 Statutory reference:
    Buildings within historic district as a special exception, R.S.A. 647:46
-GENERAL REGULATIONS
+*** GENERAL REGULATIONS ***
 § 150.015 OVERCROWDING.
    No person shall let to be occupied and no person shall occupy any dwelling
 or dwelling unit which is overcrowded. Overcrowding is determined by the
@@ -21724,7 +21719,7 @@ Penalty, see § 150.999
    All premises shall be maintained free from public nuisances.
 ('71 Code, § 13-98) (Ord. passed 4-15-80)
 Penalty, see § 150.999
-MINIMUM STANDARDS
+*** MINIMUM STANDARDS ***
 § 150.035 APPLICABILITY.
    The following subchapter shall be considered minimum standards for use and
 occupancy of dwellings under this subchapter, violation of which may result in
@@ -21854,7 +21849,7 @@ Penalty, see § 150.999
 maintained in a safe condition.
 ('71 Code, § 13-55) (Ord. passed 4-15-80)
 Penalty, see § 150.999
-MAINTENANCE OF PREMISES
+*** MAINTENANCE OF PREMISES ***
 § 150.060 SANITATION.
    It shall be the duty of the owner of any structure or part thereof let for
 occupancy as a dwelling unit to maintain all exterior property areas in a clean
@@ -21959,7 +21954,7 @@ meet the U.S. Consumer Product Safety Commission Standards as being safe in
 accordance with the provisions of the Board of Health Department.
 ('71 Code, § 13-69) (Ord. passed 4-15-80)
 Penalty, see § 150.999
-REQUIRED FACILITIES
+*** REQUIRED FACILITIES ***
 § 150.080 BASIC FACILITIES REQUIRED.
    No person shall occupy as owner/occupant or let to another for occupancy any
 dwelling, dwelling unit, or rooming unit which does not comply with the
@@ -22157,7 +22152,7 @@ issue warnings or citations for violation of this section as provided for in §�
 150.142 and
 150.999.
 (Ord. passed 3-7-17)
-CERTIFICATES OF COMPLIANCE
+*** CERTIFICATES OF COMPLIANCE ***
 § 150.100 PERMIT REQUIRED.
    It shall be unlawful for anyone to operate a rooming house or to rent, offer
 for rent, or allow any person to occupy any dwelling, dwelling unit, or
@@ -22334,7 +22329,7 @@ Department of Housing and Urban Development or state agencies. ('71 Code, § 13-
 215)
 (Ord. passed 10-15-91; Am. Ord. passed 5-5-92; Am. Ord. passed 6-27-94; Am.
 Ord. passed 10-7-97; Am. Ord. passed 10-17-06; Am. Ord. passed 9-2-14)
-HOUSING COUNCIL
+*** HOUSING COUNCIL ***
 § 150.125 [RESERVED].
    (Previous section repealed on 2-7-09)
 § 150.126 [RESERVED].
@@ -22345,7 +22340,7 @@ HOUSING COUNCIL
    (Previous section repealed on 2-7-09)
 § 150.129 [RESERVED].
    (Previous section repealed on 2-7-09)
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 150.140 INSPECTION.
    The Director of Planning and Community Development shall direct his
 attention to dwellings where from citizen complaints or exterior inspection he
@@ -22568,7 +22563,7 @@ Trailer Parks and Tourist Camps
  
    
 151.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 151.01 ADOPTION OF LOCAL AMENDMENTS TO STATE BUILDING CODE.
    It is the purpose of this chapter to recognize the authority of the Building
 Code of the State of New Hampshire ("State Building Code") as set forth by
@@ -22604,7 +22599,7 @@ pursuant to and consistent with the provisions of R.S.A. 48-B.
 permits are hereby adopted.
 ('71 Code, § 6-3) (Ord. passed 9-6-83; Am. Ord. passed 5-6-97; Am. Ord. passed
 4-21-98)
-TRAILER PARKS AND TOURIST CAMPS
+*** TRAILER PARKS AND TOURIST CAMPS ***
 § 151.40 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -22720,7 +22715,7 @@ Publicity and Development
 152.47   Board established; composition
    
 152.48   Authority of Board
-PLANNING AND COMMUNITY DEVELOPMENT DEPARTMENT
+*** PLANNING AND COMMUNITY DEVELOPMENT DEPARTMENT ***
 § 152.00 PLANNING AND COMMUNITY DEVELOPMENT DEPARTMENT ESTABLISHED.
    (A)   Pursuant to
 Charter § 3.02 there is established a Planning and Community Development
@@ -22785,7 +22780,7 @@ Chapter 152: Airport Zoning pursuant to §
 responsibility for the administration of
 Chapter 155: Zoning Code.
 (Ord. passed 11-4-98; Am. Ord. passed 8-5-03; Am. Ord. passed 2-7-09)
-PLANNING BOARD
+*** PLANNING BOARD ***
 § 152.01 BOARD ESTABLISHED; DESIGNATED.
    (A)   For the purpose of making a study of the resources, possibilities, and
 requirements of the city, and to make plans for its future development, the
@@ -23008,7 +23003,7 @@ appointment is provided for in §
 152.15 shall be staggered so that no more than one appointment shall occur
 annually.
 ('71 Code, § 19-18) (Ord. passed 4-5-88)
-INDUSTRIAL COUNCIL
+*** INDUSTRIAL COUNCIL ***
 § 152.30 ESTABLISHMENT.
    For the purpose of encouraging the welfare of local industries and promoting
 the establishment of new industries in metropolitan Manchester, an Industrial
@@ -23038,7 +23033,7 @@ April 5, 1999, the Board of Mayor and Aldermen of the city of Manchester do
 hereby adopt the provisions of R.S.A. Ch. 162-G, Acquisition, Development and
 Disposal of Industrial Land and Facilities.
 (Ord. passed 4-20-99)
-PUBLICITY AND DEVELOPMENT
+*** PUBLICITY AND DEVELOPMENT ***
 § 152.45 BUREAU ESTABLISHED.
    A Bureau of Publicity and Development of the city is hereby established.
 ('71 Code, § 19-40)
@@ -23138,7 +23133,7 @@ Administration and Enforcement
  
    
 154.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 154.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -23172,7 +23167,7 @@ objects although regulated or licensed by other provisions of law.
 ('71 Code, Appendix A, § 1) (Ord. passed 6-4-57)
 Statutory reference:
    Similar definitions, see R.S.A. 424:1
-GENERAL REGULATIONS
+*** GENERAL REGULATIONS ***
 § 154.10 ZONES.
    In order to carry out the purposes of this chapter, all of the land in the
 city within the boundaries of the approach zones and all of the land within a
@@ -23270,7 +23265,7 @@ and the construction or alteration, of which was begun prior to the effective
 date of this chapter, and is diligently prosecuted and completed within two
 years thereof.
 ('71 Code, Appendix A, § 6) (Ord. passed 6-4-57)
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 154.25 ADMINISTRATION.
    The office of the Planning and Community Development is hereby designated as
 the administrative agency charged with the duty of administering and enforcing

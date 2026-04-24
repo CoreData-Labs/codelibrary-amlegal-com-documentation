@@ -615,7 +615,7 @@ Procurement Policy
 32.03   Applicable contracts
    
 32.04   Procurement policy; savings; construction
-PROCUREMENT POLICY
+**** PROCUREMENT POLICY ****
 § 32.01 GENERAL PROVISIONS; PURPOSES AND AUTHORITY.
    (A)   This chapter provides for the Village Board of Franklinville ("Village
 Board") to exercise its local option under N.Y. General Municipal law ("GML") §
@@ -1018,7 +1018,7 @@ real property where the placement has been made. If placement is made on a
 public or private right-of-way, the closest private real property will be
 deemed to be the location of the violation.
 (Prior Code, § 7-1-14)
-GARBAGE COLLECTION RATES
+**** GARBAGE COLLECTION RATES ****
 § 50.30 TITLE.
    This subchapter shall be known and may be cited as the Village of
 Franklinville Garbage Collection Local Law.
@@ -2441,7 +2441,7 @@ Part 3. Miscellaneous
  
    
 52.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.001 SHORT TITLE.
    For brevity and ease of communication, this chapter may be cited as the
 Village of Franklinville Water Supply Protection and System Use Law.
@@ -2730,7 +2730,7 @@ charged a fee for sealing as established by the BPU. No fee shall be charged if
 the seal was broken accidentally and the Water Department is notified promptly.
 (Ord. 2-2009, passed 3-23-2009) Penalty see §
 52.999
-PRIVATE WATER SUPPLY (CROSS CONNECTION)
+**** PRIVATE WATER SUPPLY (CROSS CONNECTION) ****
 § 52.010 PURPOSE.
    The purpose of this subchapter is to safeguard the potable water supply of
 the village from potential contamination by preventing backflow from a water
@@ -2803,7 +2803,7 @@ customer to obtain such certified inspections and operational tests shall
 immediately constitute a grounds for discontinuing water service to the
 premises until such inspections and tests have been properly conducted.
 (Ord. 2-2009, passed 3-23-2009)
-NEW WATER MAINS AND WATER SYSTEM EXTENSIONS
+**** NEW WATER MAINS AND WATER SYSTEM EXTENSIONS ****
 § 52.020 LEGAL REQUIREMENTS TO BE MET.
    The owner and the village are subject to federal, state and county laws and
 regulations relating to the construction of new water mains or water system
@@ -3149,7 +3149,7 @@ automobiles) having limits of not less than:
    (E)   All insurance policies must provide for 15 business days notice to the
 village before cancellation.
 (Ord. 2-2009, passed 3-23-2009)
-BUILDING LATERALS, CONNECTIONS AND FEES
+**** BUILDING LATERALS, CONNECTIONS AND FEES ****
 § 52.030 PERMIT REQUIRED FOR CONNECTIONS TO PUBLIC WATER SYSTEM; PERMIT AND
 TAPPING FEES.
    No unauthorized person shall uncover, make any connection with or opening
@@ -3613,7 +3613,7 @@ organic, or other deleterious materials;
    The owner of the property served by a building lateral shall maintain it
 free of any leaks at his or her expense.
 (Ord. 2-2009, passed 3-23-2009)
-VILLAGE WATER CUSTOMERS
+**** VILLAGE WATER CUSTOMERS ****
 § 52.040 SALE OF WATER; EMERGENCY SHUTOFF; CONSERVATION.
    (A)   Use of meters. The sale of water to customers shall be through a
 metered connection to the village system. No person shall take water or permit
@@ -3780,7 +3780,7 @@ outstanding.
    (B)   If and when all delinquent bills are paid, the water service shall be
 turned back on by the DPW. A service turn-on fee shall be charged.
 (Ord. 2-2009, passed 3-23-2009)
-WATER CUSTOMERS OUTSIDE THE VILLAGE
+**** WATER CUSTOMERS OUTSIDE THE VILLAGE ****
 § 52.060 TERMS.
    (A)   The village as a water supplier is committed and bound by law to first
 supply water to the structures and properties within its corporate limits.
@@ -3797,7 +3797,7 @@ applicable contracts to increase or decrease the rate charged to village
 customers. When such changes become effective, the rates paid by customers
 outside the village shall be adjusted accordingly.
 (Ord. 2-2009, passed 3-23-2009)
-WATER DISTRICTS
+**** WATER DISTRICTS ****
 § 52.065 VILLAGE AS SUPPLIER.
    (A)   The village will become the supplier to a water district only as
 agreed under the provisions of a completed contract between the village and the
@@ -3818,7 +3818,7 @@ directly by the actions of the Water Department.
 outside the village unless those systems meet village specifications and all
 requirements of the New York State Sanitary Code and are properly maintained.
 (Ord. 2-2009, passed 3-23-2009)
-PROTECTION OF WATER SUPPLY
+**** PROTECTION OF WATER SUPPLY ****
 § 52.070 GENERAL PROHIBITION.
    No person shall perform any act or grant any permit or approval which may
 result in the contravention of the standards for water quality as contained in
@@ -3872,8 +3872,8 @@ in or upon such property except the person or persons authorized to enter said
 property by the village.
 (Ord. 2-2009, passed 3-23-2009) Penalty see §
 52.999
-ENFORCEMENT AND PENALTIES
-Part l. Administrative Remedies
+**** ENFORCEMENT AND PENALTIES ****
+*** Part l. Administrative Remedies ***
 § 52.080 NOTIFICATION OF VIOLATION.
    Whenever the Superintendent finds that any person has violated or is
 violating this chapter, the Superintendent may serve upon such person a written
@@ -3958,7 +3958,7 @@ comply with the Superintendent's order or civil penalty, modify the
 Superintendent's order or civil penalty or vacate the Superintendent's order or
 civil penalty.
 (Ord. 2-2009, passed 3-23-2009)
-Part 2. Judicial Remedies
+*** Part 2. Judicial Remedies ***
 § 52.090 FINES.
    Any person who violates any of the provisions of or who fails to perform any
 duty imposed by this chapter, or any order or determination of the
@@ -3992,7 +3992,7 @@ determination hereunder by the Superintendent.
 addition, be civilly liable to the village for any expense, loss, or damage
 occasioned to the village by reason of such violation.
 (Ord. 2-2009, passed 3-23-2009)
-Part 3. Miscellaneous
+*** Part 3. Miscellaneous ***
 § 52.100 DELINQUENT PAYMENTS.
    If there shall be any payments which are due to the village or any
 department thereof, pursuant to any section of this chapter, which shall remain
@@ -7171,7 +7171,7 @@ Violations; Enforcement
  
    
 150.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.001 PURPOSE AND INTENT.
    This chapter provides for the administration and enforcement of the New York
 State Uniform Fire Prevention and Building Code (the Uniform Code) and the
@@ -7354,7 +7354,7 @@ maintenance inspections, and other actions of the Code Enforcement Officer
 described in or contemplated by this chapter.
 (Ord. 3-2007, passed 3-26-2007; Am. Ord. 1-2019, passed 11-25-2019; Am. Ord. 4-
 2022, passed 12-20-2022; Am. Ord. 3-2024, passed 10-28-2024)
-BUILDING PERMITS
+**** BUILDING PERMITS ****
 § 150.020 BUILDING PERMITS REQUIRED.
    A building permit shall be required for any work which must conform to the
 Uniform Code and/or the Energy Code, including, but not limited to, the
@@ -7490,7 +7490,7 @@ forth in §
 permit, for an amended building permit, or for renewal of a building permit.
 (Ord. 3-2007, passed 3-26-2007; Am. Ord. 1-2019, passed 11-25-2019; Am. Ord. 4-
 2022, passed 12-20-2022; Am. Ord. 3-2024, passed 10-28-2024)
-CONSTRUCTION INSPECTIONS
+**** CONSTRUCTION INSPECTIONS ****
 § 150.045 WORK TO REMAIN ACCESSIBLE AND EXPOSED.
    (A)   Work shall remain accessible and exposed until inspected and accepted
 by the Code Enforcement Officer or by an Inspector authorized by the Code
@@ -7554,7 +7554,7 @@ forth in §
 pursuant to this subchapter.
 (Ord. 3-2007, passed 3-26-2007; Am. Ord. 1-2019, passed 11-25-2019; Am. Ord. 4-
 2022, passed 12-20-2022; Am. Ord. 3-2024, passed 10-28-2024)
-STOP WORK ORDERS
+**** STOP WORK ORDERS ****
 § 150.060 AUTHORITY TO ISSUE STOP WORK ORDERS.
    The Code Enforcement Officer is authorized to issue stop work orders
 pursuant to this subchapter. The Code Enforcement Officer shall issue a stop
@@ -7622,7 +7622,7 @@ any other remedy or impose any other penalty under §§
 prior to, at the time of, or after the issuance of a stop work order.
 (Ord. 3-2007, passed 3-26-2007; Am. Ord. 1-2019, passed 11-25-2019; Am. Ord. 4-
 2022, passed 12-20-2022; Am. Ord. 3-2024, passed 10-28-2024)
-CERTIFICATES OF OCCUPANCY AND CERTIFICATES OF COMPLIANCE
+**** CERTIFICATES OF OCCUPANCY AND CERTIFICATES OF COMPLIANCE ****
 § 150.075 CERTIFICATES OF OCCUPANCY AND CERTIFICATES OF COMPLIANCE REQUIRED.
    (A)   A certificate of occupancy or certificate of compliance shall be
 required for any work which is the subject of a building permit and for all
@@ -7726,7 +7726,7 @@ certificate of occupancy, certificate of compliance, or for temporary
 certificate of occupancy.
 (Ord. 3-2007, passed 3-26-2007; Am. Ord. 1-2019, passed 11-25-2019; Am. Ord. 4-
 2022, passed 12-20-2022; Am. Ord. 3-2024, passed 10-28-2024)
-OPERATING PERMITS
+**** OPERATING PERMITS ****
 § 150.095 OPERATING PERMITS REQUIRED.
    (A)   Operating permits shall be required for conducting any process or
 activity or for operating any type of building, structure, or facility listed
@@ -7877,7 +7877,7 @@ permit, for an amended operating permit, or for reissue or renewal of an
 operating permit.
 (Ord. 3-2007, passed 3-26-2007; Am. Ord. 1-2019, passed 11-25-2019; Am. Ord. 4-
 2022, passed 12-20-2022; Am. Ord. 3-2024, passed 10-28-2024)
-FIRE SAFETY AND PROPERTY MAINTENANCE INSPECTIONS
+**** FIRE SAFETY AND PROPERTY MAINTENANCE INSPECTIONS ****
 § 150.115 INSPECTIONS REQUIRED.
    Fire safety and property maintenance inspections of buildings and structures
 shall be performed by the Code Enforcement Officer or an Inspector designated
@@ -7943,7 +7943,7 @@ to this subchapter. This section shall not apply to inspections performed by
 OFPC.
 (Ord. 3-2007, passed 3-26-2007; Am. Ord. 1-2019, passed 11-25-2019; Am. Ord. 4-
 2022, passed 12-20-2022; Am. Ord. 3-2024, passed 10-28-2024)
-COMPLAINTS AND NOTIFICATIONS
+**** COMPLAINTS AND NOTIFICATIONS ****
 § 150.130 COMPLAINTS.
    (A)   The Code Enforcement Officer shall review and investigate complaints
 which allege or assert the existence of conditions or activities that fail to
@@ -7974,7 +7974,7 @@ of any fire or explosion involving any structural damage, fuel-burning
 appliance, chimney or gas vent.
 (Ord. 3-2007, passed 3-26-2007; Am. Ord. 1-2019, passed 11-25-2019; Am. Ord. 4-
 2022, passed 12-20-2022; Am. Ord. 3-2024, passed 10-28-2024)
-CONDITION ASSESSMENTS OF PARKING GARAGES
+**** CONDITION ASSESSMENTS OF PARKING GARAGES ****
 § 150.145 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8163,7 +8163,7 @@ village by means of its own inspections or observations, by means of a
 complaint, or by any other means other than a condition assessment or a report
 of a condition assessment.
 (Ord. 3-2024, passed 10-28-2024)
-CLIMATIC AND GEOGRAPHIC DESIGN CRITERIA
+**** CLIMATIC AND GEOGRAPHIC DESIGN CRITERIA ****
 § 150.165 DETERMINATION OF CRITERIA.
    (A)   The Code Enforcement Officer shall determine the climatic and
 geographic design criteria for buildings and structures constructed within this
@@ -8193,7 +8193,7 @@ and geographic design criteria determined pursuant to §
 150.165, shall maintain such record within the office of the Code Enforcement
 Officer, and shall make such record readily available to the public.
 (Ord. 3-2024, passed 10-28-2024)
-RECORD KEEPING; PROGRAM REVIEW AND REPORTING
+**** RECORD KEEPING; PROGRAM REVIEW AND REPORTING ****
 § 150.180 RECORDS REQUIRED TO BE KEPT PERMANENTLY.
    The Code Enforcement Officer shall keep permanent official records of all
 transactions and activities conducted by all Code Enforcement Personnel,
@@ -8267,7 +8267,7 @@ the Uniform Code and/or Energy Code as may be requested by the Department of
 State.
 (Ord. 3-2007, passed 3-26-2007; Am. Ord. 1-2019, passed 11-25-2019; Am. Ord. 4-
 2022, passed 12-20-2022; Am. Ord. 3-2024, passed 10-28-2024)
-VIOLATIONS; ENFORCEMENT
+**** VIOLATIONS; ENFORCEMENT ****
 § 150.195 ORDERS TO REMEDY.
    (A)   The Code Enforcement Officer is authorized to order in writing the
 remedying of any condition or activity found to exist in, on or about any
@@ -11418,38 +11418,25 @@ applicable law.
 (Ord. 3-2022, passed 11-28-2022)
 CHAPTER 155: HISTORIC PRESERVATION
 Section
-   
-155.01   Legislative intent and purpose
-   
-155.02   Definitions
-   
-155.03   Historic Preservation Commission
-   
-155.04   Certificate of appropriateness for alteration, demolition, or new
-construction affecting landmarks or historic districts
-   
-155.05   Criteria and designation of landmarks or historic districts
-   
-155.06   Historic district
-   
-155.07   Interior landmark
-   
-155.08   Scenic landmark
-   
-155.09   Notice and hearing requirements for proposed designation
-   
-155.10   Notice of public hearing; multiple properties proposed for designation
-   
-155.11   Affirmative maintenance and repair requirement
-   
-155.12   Enforcement and violations
-   
-155.13   Approval authority; advisory authority
-   
-155.14   Compliance with New York State Certified Local Government Requirements
- 
-   
-155.99   Penalty
+**    155.01   Legislative intent and purpose **
+**    155.02   Definitions **
+**    155.03   Historic Preservation Commission **
+**    155.04   Certificate of appropriateness for alteration, demolition, or
+new construction affecting landmarks or historic districts **
+**    155.05   Criteria and designation of landmarks or historic districts **
+**    155.06   Historic district **
+**    155.07   Interior landmark **
+**    155.08   Scenic landmark **
+**    155.09   Notice and hearing requirements for proposed designation **
+**    155.10   Notice of public hearing; multiple properties proposed for
+designation **
+**    155.11   Affirmative maintenance and repair requirement **
+**    155.12   Enforcement and violations **
+**    155.13   Approval authority; advisory authority **
+**    155.14   Compliance with New York State Certified Local Government
+Requirements **
+**   **
+**    155.99   Penalty **
 § 155.01 LEGISLATIVE INTENT AND PURPOSE.
    The Franklinville Village Board of Trustees (“Village Board of Trustees”)
 finds that there exist within the Village of Franklinville places, sites,
@@ -12306,13 +12293,13 @@ PARALLEL REFERENCES
 References to New York State Law
 References to Prior Code
 References to Ordinances
-REFERENCES TO ALCOHOL BEVERAGE CONTROL LAW
+***** REFERENCES TO ALCOHOL BEVERAGE CONTROL LAW *****
  
 Alco. Bev. Cont Law Reference Code Section
 3                             131.46
                               
  
-REFERENCES TO CORRECTION LAW
+***** REFERENCES TO CORRECTION LAW *****
  
 Correct. Law Reference Code Section
 Art. 6-C               131.62,
@@ -12321,7 +12308,7 @@ Art. 6-C               131.62,
 168-a, Subdivision 2   131.61
                        
  
-REFERENCES TO EDUCATION LAW
+***** REFERENCES TO EDUCATION LAW *****
  
 Educ. Law Reference Code Section
 807-b               150.117
@@ -12330,13 +12317,13 @@ Art. 145            150.023,
 Art. 147            150.023
                     
  
-REFERENCES TO ENERGY LAW
+***** REFERENCES TO ENERGY LAW *****
  
 Energy Law Reference Code Section
 Art. 11           150.002
                      
  
-REFERENCES TO ENVIRONMENTAL CONSERVATION LAW
+***** REFERENCES TO ENVIRONMENTAL CONSERVATION LAW *****
  
 Envtl. Conserv. Law Reference Code Section
 27-0903                       50.01
@@ -12344,7 +12331,7 @@ Art. 8                        152.101
 Art. 53                       94.02
                               
  
-REFERENCES TO EXECUTIVE LAW
+***** REFERENCES TO EXECUTIVE LAW *****
  
 Exec. Law Reference    Code Section
 156-e                  150.118
@@ -12353,7 +12340,7 @@ Exec. Law Reference    Code Section
 Art. 18                150.002
                        
  
-REFERENCES TO GENERAL BUSINESS LAW
+***** REFERENCES TO GENERAL BUSINESS LAW *****
  
 Gen. Bus. Law Reference Code Section
 32                      110.01
@@ -12376,33 +12363,33 @@ Art. 9-A                113.01,
                         113.20
                         
  
-REFERENCES TO FINANCE LAW
+***** REFERENCES TO FINANCE LAW *****
  
 Finance Law Reference Code Section
 163                   32.01,
                       32.03
                       
  
-REFERENCES TO LABOR LAW
+***** REFERENCES TO LABOR LAW *****
  
 Finance Law Reference Code Section
 Article 8             32.03
 Article 9             32.03
                       
  
-REFERENCES TO MULTIPLE DWELLING LAW
+***** REFERENCES TO MULTIPLE DWELLING LAW *****
  
 Mult. Dwelling Law Reference Code Section
 Art. 1 et seq.               152.004
                              
  
-REFERENCES TO MUNICIPAL HOME RULE LAW
+***** REFERENCES TO MUNICIPAL HOME RULE LAW *****
  
 Mun. Home Rule Law Reference Code Section
 10                           150.001
                              
  
-REFERENCES TO PARKS AND RECREATION LAW
+***** REFERENCES TO PARKS AND RECREATION LAW *****
 Parks and Rec. Law Reference Code Section
 Parks and Rec. Law Reference Code Section
 21.05                        70.15
@@ -12414,7 +12401,7 @@ Art. 25                      70.16
                              70.16
                              
  
-REFERENCES TO PENAL LAW
+***** REFERENCES TO PENAL LAW *****
  
 Penal Law Reference Code Section
 Part 1 et seq.      152.033
@@ -12423,26 +12410,26 @@ Article 145         52.999
 270                 150.095
                     
  
-REFERENCES TO PUBLIC HEALTH LAW
+***** REFERENCES TO PUBLIC HEALTH LAW *****
  
 Public Health Law Reference Code Section
 § 4801, Subdivision 2      52.005
                             
  
-REFERENCES TO REAL PROPERTY TAX LAW
+***** REFERENCES TO REAL PROPERTY TAX LAW *****
  
 Real. Prop Tax Law Reference Code Section
 1402(3)                      31.01
                              
  
-REFERENCES TO SANITARY CODE
+***** REFERENCES TO SANITARY CODE *****
  
 Sanitary Code Reference Code Section
 Part 5                  52.005
 Part 5, § 5-1.31       52.010
                         
  
-REFERENCES TO VILLAGE LAW
+***** REFERENCES TO VILLAGE LAW *****
  
 Village Law Reference Code Section
 Art. 1 et seq.        152.007

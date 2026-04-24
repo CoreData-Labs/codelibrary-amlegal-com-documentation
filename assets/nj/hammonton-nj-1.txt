@@ -53,8 +53,8 @@ Adoption of Code by Mayor and Common Council
 § 1-13.   Ordinances saved from repeal.
    
 § 1-14.   Changes in previously adopted ordinances.
-Article I.
-Adoption of Code by Mayor and Common Council
+**** Article I.
+Adoption of Code by Mayor and Common Council ****
 [Adopted 7-23-2001 by Ord. No. 26-2001]
 § 1-1. Adoption of Code.
    Pursuant to N.J.S.A. 40:49-4, the ordinances of the Town of Hammonton of a
@@ -297,8 +297,8 @@ Affirmative Marketing
 § 3-11.   Preference for certain households.
    
 § 3-12.   Duration and monitoring of program.
-Article I.
-Equal Employment Opportunity
+**** Article I.
+Equal Employment Opportunity ****
 [Adopted 9-10-1979 by Ord. No. 13-1979 as Ch. 61A of the 1971 Code]
 § 3-1. Purpose; compliance with statutory provisions.
    A.   In recognition of the important policy issues addressed by these
@@ -330,8 +330,8 @@ of P.L. 1975, c. 127 (N.J.S.A. 10:5-31 to 10:5-38).
    Any person who violates or neglects to comply with any provision of this
 article established herein or notice issued pursuant thereto shall, upon
 conviction, be liable to a penalty or fine for each violation.
-Article II.
-Affirmative Marketing
+**** Article II.
+Affirmative Marketing ****
 [Adopted 12-27-1999 by Ord. No. 36-1999]
 § 3-6. Applicability.
    The Town of Hammonton in Atlantic County has a fair-share obligation of 352
@@ -467,8 +467,8 @@ Ch. 25.
 Ch. 41.
    Police Department — See
 Ch. 51.
-ARTICLE II.
-Board of Park Commissioners
+**** ARTICLE II.
+Board of Park Commissioners ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Ch. 43 of the 1971 Code]
    
 § 6-5.   Designation of Board.
@@ -542,8 +542,8 @@ issue of bonds or by taxation, excepting upon and after recommendation by the
 Board of Park Commissioners. The sum actually raised by the Council in any year
 shall not in any case exceed the sum recommended by the Board, but the Council
 may raise any less amount.
-ARTICLE III.
-Environmental Commission
+**** ARTICLE III.
+Environmental Commission ****
 [Adopted 3-10-1975 by Ord. No. 8-1975; amended in its entirety 8-23-2010 by
 Ord. No. 16-2010]
    
@@ -677,8 +677,8 @@ such clerks, custodians, supervisors and assistants shall be fixed and
 determined by the Mayor and Common Council of the Town of Hammonton, and, in
 addition thereto, the total salaries of all such persons shall be within the
 limits of funds appropriated to the said Commission.
-ARTICLE IV.
-Rent Control Board
+**** ARTICLE IV.
+Rent Control Board ****
 [Adopted 3-8-1976 by Ord. No. 2-1976]
    
 § 6-22.   Legislative purpose.
@@ -828,8 +828,8 @@ amendment and the termination date, the Rent Control Board shall continue to
 function at those meetings where it has a quorum. In those circumstances where
 it is unable to muster a quorum, the Quality of Life Committee shall be
 authorized to act in its place and stead.
-ARTICLE V.
-Historic Preservation Commission
+**** ARTICLE V.
+Historic Preservation Commission ****
    
 § 6-34.   Purpose.
    
@@ -910,8 +910,8 @@ architecturally significant within the Town of Hammonton and for making
 recommendations for inclusion into the National Register of appropriate
 structures and areas. The Planning Board shall have the right to amend any
 recommendation before submission of the same to the Mayor and Council.
-ARTICLE VI.
-Water and Sewer Subcommittee
+**** ARTICLE VI.
+Water and Sewer Subcommittee ****
    
 § 6-39.   Former MUAC functions.
    
@@ -979,8 +979,8 @@ ARTICLE IV.
 Application Fee for Public Defender Representation (§ 14-19 — § 14-22)
 ARTICLE V.
 Fees for Municipal Court Discovery (§ 14-23)
-ARTICLE I.
-Court, Judge and Court Administrator
+**** ARTICLE I.
+Court, Judge and Court Administrator ****
    
 § 14-1.   Establishment.
    
@@ -1081,8 +1081,8 @@ Salary Ordinance is on file in the office of the Town Clerk/Administrator.
    C.   The Municipal Court Administrator shall perform such functions and
 duties as shall be prescribed for such position by law, the rules applicable to
 municipal courts and by the Municipal Judge.
-ARTICLE II.
-Prosecutor
+**** ARTICLE II.
+Prosecutor ****
    
 § 14-9.   Purpose.
    
@@ -1121,8 +1121,8 @@ Mayor and Common Council of the Town of Hammonton.
 § 14-13. Salary.
    The salary to be paid the Prosecutor of the Hammonton Municipal Court shall
 be $4,500 per year.
-ARTICLE III.
-Public Defender
+**** ARTICLE III.
+Public Defender ****
    
 § 14-14.   Purpose.
    
@@ -1165,8 +1165,8 @@ to provide a certificate of insurance from an insurance carrier authorized to
 do business in the State of New Jersey and to provide legal errors and
 omissions coverage, and said certificate shall indicate that the minimum errors
 and omissions insurance coverage of $1,000,000 has been obtained.
-ARTICLE IV.
-Application Fee for Public Defender Representation
+**** ARTICLE IV.
+Application Fee for Public Defender Representation ****
    
 § 14-19.   Purpose; statutory authority.
    
@@ -1214,8 +1214,8 @@ defendant.
 turn them over to the Town Treasurer. The Town Treasurer shall be responsible
 to deposit all fees in the general treasury and keep an accounting of all fees
 collected pursuant to this article.
-ARTICLE V.
-Fees for Municipal Court Discovery
+**** ARTICLE V.
+Fees for Municipal Court Discovery ****
    
 § 14-23.   Schedule of fees.
 [Adopted 12-20-2004 by Ord. No. 30-2004]
@@ -1947,11 +1947,11 @@ GENERAL REFERENCES
 Ch. 28.
    Fire prevention — See
 Ch. 144.
-Article I.
-Control and Operating Provisions
+**** Article I.
+Control and Operating Provisions ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. I of Ch. 23 of the 1971 Code]
 § 25-1. Composition of Fire Department.
-[Amended 7-22-2019 by Ord. No. 12-2019]
+*** [Amended 7-22-2019 by Ord. No. 12-2019] ***
 All fire companies existing or which may hereafter exist in the Town of
 Hammonton and operating under the control of the town shall hereafter be known
 as the "Fire Department of the Town of Hammonton," and the present existing
@@ -1961,13 +1961,14 @@ the "Independent Volunteer Fire Company" (hereinafter collectively called the
 Department. Any volunteer fire company which may hereafter be organized may be
 admitted to this Department by and with the consent of Council.
 § 25-2. Officers of the Fire Department.  
-[Amended 7-22-2019 by Ord. No. 12- 2019; 5-22-2023 by Ord. No. 10-2023 ]
+*** [Amended 7-22-2019 by Ord. No. 12- 2019; 5-22-2023 by Ord. No. 10-2023 ]
+***
 The Fire Department shall have three officers identified as the Fire Chief,
 First Assistant Fire Chief and Second Assistant Fire Chief that shall be
 elected and have the powers and duties set forth in §
 25-3.
 § 25-3. Powers and duties of Fire Chief and Assistant Fire Chiefs.  
-[Amended 7- 22-2019 by Ord. No. 12-2019; 5-22-2023 by Ord. No. 10-2023]
+*** [Amended 7- 22-2019 by Ord. No. 12-2019; 5-22-2023 by Ord. No. 10-2023] ***
 There shall be elected, in an election that occurs any time between October 1
 and December 31 in each year, or whenever a vacancy occurs, a Fire Chief and an
 Assistant Fire Chief who shall:
@@ -2000,7 +2001,8 @@ inability of the Fire Chief and First Assistant Fire Chief to perform the
 duties of said office, the Second Assistant Fire Chief shall have the same
 power and perform the same duties as the Fire Chief.
 § 25-4. Minimum and maximum age of members.
-[Added 2-24-1975 by Ord. No. 7-1975; Amended 7-22-2019 by Ord. No. 12-2019]
+*** [Added 2-24-1975 by Ord. No. 7-1975; Amended 7-22-2019 by Ord. No. 12-2019]
+***
 No person shall be appointed and approved for membership in any volunteer fire
 company of the Town of Hammonton who has not reached the age of 18 years as of
 the date of appointment nor shall anyone be so appointed and become a member of
@@ -2016,11 +2018,11 @@ Notes
   penalty, which immediately followed this section, were deleted 7-23-2001 by
   Ord. No. 26-2001.
 § 25-5. No right to membership. 
- [Amended 7-22-2019 by Ord. No. 12-2019]
+***  [Amended 7-22-2019 by Ord. No. 12-2019] ***
 There is no fundamental right to membership in the Hammonton Volunteer Fire
 Companies.
 § 25-6. Membership.  
-[Amended 7-22-2019 by Ord. No. 12-2019]
+*** [Amended 7-22-2019 by Ord. No. 12-2019] ***
 Any person seeking enrollment in the Hammonton Volunteer Fire Companies shall
 make an application to either the Hammonton Volunteer Fire Company or the
 Independent Volunteer Fire Company. Upon his or her approval by the respective
@@ -2036,13 +2038,15 @@ Town Council shall have the right to reject any person seeking enrollment for
 any cause deemed sufficient by Town Council.
 § 25-7. Supervision and control of the Fire Department and Hammonton Volunteer
 Fire Companies.
-[Added 7-22-2019 by Ord. No. 12-2019; amended 5-22-2023 by Ord. No. 10-2023]
+*** [Added 7-22-2019 by Ord. No. 12-2019; amended 5-22-2023 by Ord. No. 10-
+2023] ***
 The Fire Chief, First Assistant Fire Chief, Second Assistant Fire Chief any and
 all members of the Hammonton Volunteer Fire Companies, and any and all officers
 of the Hammonton Volunteer Fire Companies shall be under the supervision and
 control of Town Council for the Town of Hammonton.
 § 25-8. Discipline, suspension and removal of members.
-[Added 7-22-2019 by Ord. No. 12-2019; amended 5-22-2023 by Ord. No. 10-2023]
+*** [Added 7-22-2019 by Ord. No. 12-2019; amended 5-22-2023 by Ord. No. 10-
+2023] ***
 For any cause deemed sufficient by Town Council, Council may reprimand, suspend
 or remove:
    A.   Any member or junior firefighter of the Hammonton Volunteer Fire
@@ -2050,7 +2054,7 @@ Companies;
    B.   The Fire Chief and/or Assistant Fire Chiefs; and
    C.   Any officer or officers of the Hammonton Volunteer Fire Companies.
 § 25-9. Discipline by Hammonton Volunteer Fire Companies.
-[Added 7-22-2019 by Ord. No. 12-2019]
+*** [Added 7-22-2019 by Ord. No. 12-2019] ***
 In addition to the authority of Town Council to discipline, suspend and remove
 members and officers of the Hammonton Volunteer Fire Companies, the Hammonton
 Volunteer Fire Companies may impose suitable fines and other penalties on its
@@ -2068,7 +2072,7 @@ Volunteer Fire Companies, before Town Council may exercise its authority under
 and all officers of the Hammonton Volunteer Fire Companies shall be under the
 supervision and control of Town Council for the Town of Hammonton."
 § 25-10. Limitation on discipline by Hammonton Volunteer Fire Companies.
-[Added 7-22-2019 by Ord. No. 12-2019]
+*** [Added 7-22-2019 by Ord. No. 12-2019] ***
 Although §
 25-9 allows the Hammonton Volunteer Fire Companies to impose suitable fines and
 other penalties on its respective members, Town Council is the only entity with
@@ -2081,11 +2085,11 @@ Council set forth in §
 Volunteer Fire Companies, before Town Council may exercise its authority under
 §
 25-8.
-Article II.
-Maintenance of Operation
+**** Article II.
+Maintenance of Operation ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. II of Ch. 23 of the 1971 Code]
 § 25-11. Clothing allowance for active fire fighters.  
-[Amended 7-22-2019 by Ord. No. 12-2019]
+*** [Amended 7-22-2019 by Ord. No. 12-2019] ***
 The annual clothing allowance to be paid to active volunteer fire fighters
 shall be as set by Town Council in the yearly Salary Ordinance.  2
  
@@ -2096,12 +2100,12 @@ Notes
 The Secretaries of each volunteer fire company shall, on or before the first
 day of June each year, file with the Town Clerk/Administrator of the Town of
 Hammonton a correct list of all its members as of May 20.
-§ 25-13. Number of members limited. 
-[Amended 7-22-2019 by Ord. No. 12-2019]
+*** § 25-13. Number of members limited.  ***
+*** [Amended 7-22-2019 by Ord. No. 12-2019] ***
 The membership of Hammonton Volunteer Fire Company shall not exceed 40 members,
 and of Independent Volunteer Fire Company shall not exceed 40 members.
 § 25-14. Attendance at drills required.
-[Amended 7-23-2001 by Ord. No. 26-2001]
+*** [Amended 7-23-2001 by Ord. No. 26-2001] ***
 The volunteer fire companies shall compel the attendance of all its members at
 all drills ordered by the Fire Chief. 3  
  
@@ -2111,7 +2115,8 @@ Notes
   fines, which immediately followed this section, were deleted 7-23-2001 by Ord.
   No. 26-2001.
 § 25-15. Authority at fires.
-[Added 7-22-2019 by Ord. No. 12-2019; amended 5-22-2023 by Ord. No. 10-2023]
+*** [Added 7-22-2019 by Ord. No. 12-2019; amended 5-22-2023 by Ord. No. 10-
+2023] ***
 In the absence of the Fire Chief or Assistant Fire Chief at a fire, the first
 line officer from one of the Hammonton Volunteer Fire Companies (i.e., Captain
 or any of the Lieutenants) to arrive at the scene shall assume command until
@@ -2125,7 +2130,7 @@ scene and does not automatically occur with the arrival of a line officer.
 Whenever possible, transfer of command should take place face to face and
 include an incident briefing.
 § 25-16. Officially adopted documents.
-[Added 7-22-2019 by Ord. No. 12-2019]
+*** [Added 7-22-2019 by Ord. No. 12-2019] ***
 Town Council has only adopted, through Resolution #29-2013, The Official
 Handbook of Volunteer Fire Companies #1 and #2, which may be amended from time
 to time through subsequent Resolutions of Town Council. Town Council has not
@@ -2135,7 +2140,7 @@ Procedure Manual for Hammonton Fire Department; and (3) any other policies,
 procedures, manuals adopted by the Hammonton Volunteer Fire Companies and/or
 the Fire Department.
 § 25-17. Physical examinations. 
-[Added 7-22-2019 by Ord. No. 12-2019]
+*** [Added 7-22-2019 by Ord. No. 12-2019] ***
 In order to ensure the health, safety and welfare of every volunteer
 firefighter of the Town of Hammonton, every member of the Hammonton Volunteer
 Fire Companies shall be subject to a physical examination as prescribed by the
@@ -2164,8 +2169,8 @@ refusal by a member of the Hammonton Volunteer Fire Companies to take part in
 the physical examination required by this §25-17 shall be grounds for the
 immediate removal of that member or members from his/her/their respective
 Volunteer Fire Company by Town Council for the Town of Hammonton.
-Article III.
-Junior Firefighters Program
+**** Article III.
+Junior Firefighters Program ****
 [Adopted 10-23-1995 by Ord. No. 27-1995]
 § 25-18. Purpose.
 The Town of Hammonton is fortunate that it has within its boundaries two fine
@@ -2234,8 +2239,8 @@ formation of a junior program, then they must submit a draft copy of their
 proposed bylaws for review by the Atlantic County Municipal Joint Insurance
 Fund or other carrier designated by the town. This requirement is to ensure
 that there will be no problems with insurance coverage.
-Article IV.
-Cost Reimbursement
+**** Article IV.
+Cost Reimbursement ****
 [Adopted 3-17-2008 by Ord. No. 5-2008]
 § 25-22. Definitions.
 As used in this article, the following terms shall have the meanings indicated:
@@ -2487,8 +2492,8 @@ Ch. 6.
 Ch. 22.
    Personnel policies — See
 Ch. 48.
-Article I.
-Radio Operators
+**** Article I.
+Radio Operators ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. I of Ch. 11 of the 1971 Code]
 § 35-1. Positions created.
    There are hereby created the following positions in the Town of Hammonton:
@@ -2512,8 +2517,8 @@ full authority to summon and keep on duty any and all such radio operators
 during the period of emergency. The determination of the Mayor or the
 Chairperson of the Law and Order Committee as to the existence of an emergency
 shall be conclusive.
-Article II.
-Chief Financial Officer
+**** Article II.
+Chief Financial Officer ****
 [Adopted 1-23-1989 by Ord. No. 1-1989]
 § 35-4. Purpose and legislative authority.
    The Legislature of the State of New Jersey has by and through Chapter 110 of
@@ -2533,8 +2538,8 @@ year term. Said appointment shall be by vote of the Mayor and Town Council.
 the responsibilities as set forth in Chapter 151 of the Public Laws of 1947
 (N.J.S.A. 52:27BB-1 et seq.) and all rules and regulations promulgated there
 under.
-Article III.
-Tax Assessor Hours
+**** Article III.
+Tax Assessor Hours ****
 [Adopted 2-26-1990 by Ord. No. 4-1990]
 § 35-7. Minimum hours.
    The Municipal Tax Assessor of the Town of Hammonton shall maintain and be
@@ -2545,8 +2550,8 @@ holidays, sick days and vacation days, the hours of 9:00 a.m. to 4:30 p.m.
    It shall be the responsibility of the Municipal Tax Assessor of the Town of
 Hammonton to keep open the office of the Tax Assessor during said minimum hours
 for the benefit of the general public and citizens of the Town of Hammonton.
-Article IV
-Municipal Clerk
+**** Article IV
+Municipal Clerk ****
 [Adopted 12-9-1991 by Ord. No. 25-1991]
 § 35-9. Legislative findings.
 [Amended 3-26-2012 by Ord. No. 4B-2012]
@@ -2568,8 +2573,8 @@ Certificate issued pursuant to Section 3 or Section 4 of P.L. 1985, c.174.
    The term of office for a municipal clerk shall be three years and upon re-
 appointment the Municipal Clerk shall become tenured upon completion of his/her
 fifth year in office.
-Article V
-Town Solicitor
+**** Article V
+Town Solicitor ****
 [Adopted 3-14-1994 by Ord. No. 7-1994]
 § 35-13. Purpose.
    The New Jersey Legislature has enacted N.J.S.A. 40A:9-139. This statute
@@ -2592,8 +2597,8 @@ Town of Hammonton.
    The Town Solicitor shall be required to enter into a contract with the
 governing body, which shall set forth the terms and conditions of employment
 and the compensation to be paid.
-Article VI.
-Assistant Superintendent of Highways
+**** Article VI.
+Assistant Superintendent of Highways ****
 [Adopted 3-28-1994 by Ord. No. 8-1994]
 § 35-17. Purpose.
    The Town of Hammonton acknowledges the need to establish a chain of command
@@ -2623,8 +2628,8 @@ responsible for the operation of the Department.
    The individual selected as Assistant Superintendent by the Mayor and Council
 shall continue in that capacity so long as he/she is performing the duties of
 the position satisfactory to the Mayor and Council.
-Article VII.
-Technical Assistant, Office of the Construction Official
+**** Article VII.
+Technical Assistant, Office of the Construction Official ****
 [Adopted 6-20-1994 by Ord. No. 15-1994]
 § 35-21. Purpose.
    There is hereby created in the Town of Hammonton the position of Technical
@@ -2667,8 +2672,8 @@ Council and the person so hired or their respective representatives.
 § 35-25. Compliance with laws and regulations.
    The hiring process shall follow the applicable Civil Service Rules and
 Regulations and any other State of New Jersey law that is applicable.
-Article VIII.
-Municipal Tax Assessor
+**** Article VIII.
+Municipal Tax Assessor ****
 [Adopted 5-22-1995 by Ord. No. 10-1995]
 § 35-26. Purpose.
    The purpose of this article is to comply with the provisions of N.J.S.A.
@@ -2709,8 +2714,8 @@ Council of the Town of Hammonton.
    Nothing contained in this article shall adversely affect the salary or
 tenure rights acquired during previous employment of the person discharging the
 duties of Municipal Tax Assessor.
-Article IX.
-Accountant in Treasurer's Office
+**** Article IX.
+Accountant in Treasurer's Office ****
 [Adopted 6-26-2000 by Ord. No. 15-2000]
 § 35-33. Purpose.
    The purpose of this article is to establish the position which shall be
@@ -2730,8 +2735,8 @@ supplemented by the governing body of the Town of Hammonton from time to time.
 be in accordance with Salary Ordinance adopted by the governing body. Editor's
 Note: The Salary Ordinance is on file in the office of the Town Clerk/
 Administrator.
-Article X.
-Deputy Clerk
+**** Article X.
+Deputy Clerk ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Ch. 15 of the 1971 Code]
 § 35-36. Position created.
    There is hereby created in the Town of Hammonton the position of Deputy Town
@@ -2755,8 +2760,8 @@ directed by the Town Clerk/Administrator.
    The Deputy Town Clerk shall have all the powers and perform all the duties
 of the Town Clerk/Administrator during such times and for such specific periods
 as the Town Clerk/Administrator shall be absent.
-Article XI.
-Municipal Housing Liaison
+**** Article XI.
+Municipal Housing Liaison ****
 [Adopted 11-24-2008 by Ord. No. 35-2008]
 § 35-40. Purpose.
    The purpose of this article is to create the administrative mechanisms
@@ -3228,8 +3233,8 @@ GENERAL REFERENCES
 Ch. 35.
    Police Department — See
 Ch. 51.
-Article I.
-Holidays, Sick Leave and Vacations
+**** Article I.
+Holidays, Sick Leave and Vacations ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. I of Ch. 30 of the 1971 Code]
 § 48-1. Holidays.
 [Amended 3-28-1977 by Ord. No. 2-1977; 2-10-1986 by Ord. No. 1-1986; 7-25-1994
@@ -3369,8 +3374,8 @@ retroactive to 1-1-2007.
 § 48-10. (Reserved) 3
 3.   Editor's Note: Former § 48-10, Donated Leave Program, added 8-24-1998 by
 Ord. No. 26-1998, was repealed 4-28-2008 by Ord. No. 9-2008.
-Article II.
-Termination Benefits
+**** Article II.
+Termination Benefits ****
 [Adopted 9-26-1977 by Ord. No. 10-1977]
 § 48-11. Resignation/retirement paperwork.
 [Added 4-16-2012 by Ord. No. 6-2012] 4
@@ -3394,8 +3399,8 @@ Ord. No. 2-2012.
    This article shall be retroactive to January 1, 1977, and shall cover all
 employees and officers terminating their employment or retiring after said
 date.
-Article III
-Health Benefits for Full-Time Employees
+**** Article III
+Health Benefits for Full-Time Employees ****
 [Adopted 9-23-1996 by Ord. No. 13-1996]
 § 48-14. Purpose.
    The cost of providing health care benefits has increased dramatically over
@@ -3442,8 +3447,8 @@ insurance coverage shall be effective 1-1-2009.
 § 48-16. (Reserved) 7
 7.   Editor's Note: Former § 48-16, Continuation of coverage, was repealed 12-
 19-2011 by Ord. No. 25-2011.
-Article IV
-Review Process for Town Employees
+**** Article IV
+Review Process for Town Employees ****
 [Adopted 7-24-1995 by Ord. No. 11-1995; amended in its entirety 1-24-2011 by
 Ord. No. 1-2011]
 § 48-17. Form and process adopted.
@@ -3466,8 +3471,8 @@ review;
    H.   The Town Clerk will complete the attendance portion of the evaluation
 in comparison to the employee’s time card.
 § 48-18. through § 48-20. (Reserved)
-Article V
-Sexual Harassment
+**** Article V
+Sexual Harassment ****
 [Adopted 8-28-1995 by Ord. No. 20-1995]
 § 48-21. Purpose.
    The Town of Hammonton is committed to maintaining a work and public service
@@ -3507,8 +3512,8 @@ Council may:
 counseling sessions or take a course of study concerning sexual harassment.
    C.   Terminate the employee.
    D.   Submit the matter to law enforcement authorities.
-Article VI.
-Defined Contribution Retirement Program
+**** Article VI.
+Defined Contribution Retirement Program ****
 [Adopted 8-25-2008 by Ord. No. 24-2008; amended in its entirety 6-28-2010 by
 Ord. No. 14-2010]
 § 48-25. Eligible positions.
@@ -3656,8 +3661,8 @@ Special Law Enforcement Officers
 GENERAL REFERENCES
    Police Department sick leave — See
 Ch. 48, Art. I.
-Article I.
-Organization and Regulation
+**** Article I.
+Organization and Regulation ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. I of Ch. 49 of the 1971 Code]
 § 51-1. Composition.
 [Amended 6-13-1988 by Ord. No. 12-1988; 5-8-1989 by Ord. No. 15-1989; 2-12-1990
@@ -3882,8 +3887,8 @@ right to appeal to Mayor and Council.
 article takes effect shall remain and continue as members of the Police
 Department hereby created until their positions become vacant by death,
 resignation or removal, under the procedure herein set forth.
-Article II.
-K-9 Corps
+**** Article II.
+K-9 Corps ****
 [Adopted 12-12-1977 by Ord. No. 14-1977]
 § 51-12. Legislative findings.
    The Mayor and Common Council of the Town of Hammonton takes notice that it
@@ -3909,8 +3914,8 @@ shall, upon conviction thereof, be subject to one or more of the following: a
 fine of not more than $1,000, imprisonment for a period not to exceed 90 days
 or a period of community service not to exceed 90 days, at the discretion of
 the Municipal Judge of the Town of Hammonton.
-Article III.
-Special Services Section
+**** Article III.
+Special Services Section ****
 [Adopted 2-13-1989 by Ord. No. 3-1989]
 § 51-17. Purpose.
    It is determined to be in the public interest to create a Special Services
@@ -3948,8 +3953,8 @@ of the Clerk/Administrator.
 § 51-21. Term of appointment.
    The first appointments to the within offices shall expire on December 31,
 1993. All subsequent appointments shall be for five-year terms.
-Article IV.
-Mutual Aid
+**** Article IV.
+Mutual Aid ****
 [Adopted 10-22-1990 by Ord. No. 16-1990]
 § 51-22. Statutory authority; reciprocal nature of agreement.
    Pursuant to N.J.S.A. 40A:14-156.1, there is hereby established a mutual aid
@@ -3986,8 +3991,8 @@ their legal representative, if death results, while rendering assistance in
 another municipality shall be entitled to all such benefits they would have
 realized if injury or death had occurred in the performance of normal duties in
 the Town of Hammonton.
-Article V.
-Arson Investigator
+**** Article V.
+Arson Investigator ****
 [Adopted 5-20-1991 by Ord. No. 12-1991]
 § 51-27. Legislative findings.
    The Mayor and Common Council of the Town of Hammonton has determined that,
@@ -4004,8 +4009,8 @@ fire investigation and causation.
 the New Jersey Department of Civil Service Division of Local Government
 Services. Provisional appointments to this position shall be permitted to allow
 for the completion of any training or courses which may be required.
-Article VI.
-Special Law Enforcement Officers
+**** Article VI.
+Special Law Enforcement Officers ****
 [Adopted 5-23-2005 by Ord. No. 8-2005]
 § 51-30. Definitions.
    All words and phrases used in this article shall be defined as stated in
@@ -4642,8 +4647,8 @@ GENERAL REFERENCES
 Ch. 35.
    Purchasing — See
 Ch. 55.
-Article I.
-General Warrants
+**** Article I.
+General Warrants ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Ch. 155 of the 1971]
 § 65-1. Signatures.
    All warrants drawn on the Treasurer of the Town of Hammonton shall, after
@@ -4662,8 +4667,8 @@ should not be a sufficient amount of money available for that purpose, then the
 amount so deducted shall be specified on the back of the warrant, and the
 warrant countersigned and dated by the Treasurer. All warrants will be
 negotiable and draw legal interest from the date of the Treasurer's signature.
-Article II.
-Payroll Account
+**** Article II.
+Payroll Account ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Ch. 46 of the 1971 Code]
 § 65-3. Approval of account; deposits.
    Immediately upon the adoption of this article and thereafter at the first
@@ -5339,8 +5344,8 @@ GENERAL REFERENCES
 Ch. 51.
    Fire prevention — See
 Ch. 144.
-Article I.
-False Alarms
+**** Article I.
+False Alarms ****
 [Adopted 5-21-2001 by Ord. No. 24-2001]
 § 74-1. Purpose.
    An ever increasing number of homeowners and business owners are installing
@@ -5590,8 +5595,8 @@ Licensing of Carnival Grounds Games
 GENERAL REFERENCES
    Minors in places of amusement — See
 Ch. 119.
-Article I.
-Automatic Amusement Games
+**** Article I.
+Automatic Amusement Games ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. I of Ch. 64 of the 1971 Code]
 § 79-1. License required; revocation for violation.
 [Amended 6-28-1982 by Ord. No. 12-1982]
@@ -5718,8 +5723,8 @@ the Judge of any other court having jurisdiction, before whom any person is
 convicted of violating this article, shall have the power to impose any fine or
 term of imprisonment or community service not exceeding the maximum fixed in
 this article.
-Article II.
-Licensing of Carnival Grounds Games
+**** Article II.
+Licensing of Carnival Grounds Games ****
 [Adopted 4-12-1976 by Ord. No. 7-1976]
 § 79-14. Restrictions on licenses.
    All licenses issued under this article shall be issued for a specific game
@@ -6014,8 +6019,8 @@ Ch. 200, §
 Ch. 264.
    Fastening animals to trees — See
 Ch. 267.
-Article I.
-Licensing of Dogs
+**** Article I.
+Licensing of Dogs ****
 [Adopted 4-28-1980 by Ord. No. 14-1980]
 § 82-1. Definitions.
    A.   The words hereinafter defined shall have the meanings herein indicated
@@ -6305,8 +6310,8 @@ make a determination whether the number of such animals exceeds that limit and,
 if so, to issue a warning directing that if the number of animals is not
 reduced to a limit which meets that standard, a citation under this section
 shall issue.
-Article II.
-Vicious Dogs
+**** Article II.
+Vicious Dogs ****
 [Adopted 12-14-1992 by Ord. No. 35-1992]
 § 82-23. Purpose.
    The purpose of this article is to comply with the uniform statewide approach
@@ -6357,8 +6362,8 @@ dog was not provoked.
 Court shall be made by filing an appeal with the Superior Court, Law Division,
 in accordance with the New Jersey Court Rules pertaining to appeals from courts
 of limited jurisdiction.
-Article III.
-Waterfowl
+**** Article III.
+Waterfowl ****
 [Adopted 9-12-1994 by Ord. No. 27-1994]
 § 82-28. Purpose.
    It has been determined that the presence of large numbers of waterfowl, on
@@ -6407,8 +6412,8 @@ provisions of this article after being duly notified shall, upon conviction, be
 subject to one or more of the following: a fine of not more than $1,000,
 imprisonment for a period not to exceed 90 days or a period of community
 service not to exceed 90 days.
-Article IV.
-Control of Dogs
+**** Article IV.
+Control of Dogs ****
 [Adopted 6-23-2003 by Ord. No. 12-2003]
 § 82-34. Control of dogs in public places.
    No person owning, keeping or harboring any dog shall suffer or permit it to
@@ -6474,8 +6479,8 @@ evidence.
    C.   In the case where a resident keeps his or her domestic dog or animal
 inside a fence, the fence shall be at least four feet in height and the area
 where the domestic dog or animal resides shall be at least 5'X10'.
-ARTICLE V
-Dog Parks
+**** ARTICLE V
+Dog Parks ****
 [Adopted 3-20-2017 by Ord. No. 008-2017]
 § 82-39. Hammonton Dog Park.
    The Hammonton Dog Park shall be established and located off Moss Mill Road
@@ -7298,8 +7303,8 @@ Drug-Free School Zones
 GENERAL REFERENCES
    Under the influence of drugs — See
 Ch. 202.
-Article I.
-Drug-Free School Zones
+**** Article I.
+Drug-Free School Zones ****
 [Adopted 9-12-1988 by Ord. No. 18-1988]
 § 125-1. Legislative authority; purpose.
    It is deemed to be in the public interest that the Town of Hammonton enact
@@ -7395,8 +7400,8 @@ ARTICLE II.
 Vital Statistics Records
    
 § 134-6.   Rate schedule.
-Article I.
-Human Waste in Fertilization of Crops
+**** Article I.
+Human Waste in Fertilization of Crops ****
 [Adopted 6-21-1999 by Ord. No. 14-1999]
 § 134-1. Purpose.
    The purpose of this article is to establish a fee to those enterprises which
@@ -7435,8 +7440,8 @@ of the use/application of human waste products.
    This article when adopted is not intended in any circumstance to limit,
 modify or prescribe the manner in which human waste materials are used,
 applied, modified, processed or stored.
-Article II.
-Vital Statistics Records
+**** Article II.
+Vital Statistics Records ****
 [Adopted 7-26-2004 by Ord. No. 16-2004]
 § 134-6. Rate schedule.
    The following rate schedule for acquiring certificates and licenses from the
@@ -7480,8 +7485,8 @@ Commercial and Industrial Zones
 GENERAL REFERENCES
    Satellite earth stations — See
 Ch. 220.
-Article I.
-Construction and Maintenance
+**** Article I.
+Construction and Maintenance ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. I of Ch. 94 of the 1971 Code;
 amended in its entirety 11-24-2008 by Ord. No. 37-2008]
 § 137-1. Purpose; legislative authority.
@@ -7626,8 +7631,8 @@ violation of this article.
 or more of the following: a fine of not more than $1,000, imprisonment for a
 period not to exceed 90 days or a period of community service not to exceed 90
 days.
-Article II.
-Commercial and Industrial Zones
+**** Article II.
+Commercial and Industrial Zones ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. II of Ch. 94 of the 1971 Code]
 § 137-8. Definitions.
    As used in this article, the following terms shall have the meanings
@@ -7768,8 +7773,8 @@ Ch. 168, Art. I.
    Extinguishing fires in picnic areas — See
 Ch. 200, §
 220-4.
-Article I.
-(Reserved)
+**** Article I.
+(Reserved) ****
 Editor's Note: Former Art. I, Hazardous Conditions, adopted 9-13-1971 by Ord.
 No. 10-1971 as; 24-6 through 24-10 and 24-16 through 24-19 of the 1971 Code, as
 amended 4-23-2001 by Ord. No. 15-2001, was repealed 3-25-2002 by Ord. No. 9-
@@ -7782,8 +7787,8 @@ amended 4-23-2001 by Ord. No. 15-2001, was repealed 3-25-2002 by Ord. No. 9-
 § 144-6. (Reserved)
 § 144-7. (Reserved)
 § 144-8. (Reserved)
-Article II.
-Uniform Fire Code
+**** Article II.
+Uniform Fire Code ****
 [Adopted 4-14-1986 by Ord. No. 8-1986; amended in its entirety 8-28-1989 by
 Ord. No. 25-1989]
 § 144-9. Adoption of standards.
@@ -9722,8 +9727,8 @@ Use of Town Name, Personnel, Logo, Equipment or Symbols
 § 154-4.   Violations and penalties.
    
 § 154-5.   Enforcement.
-Article I.
-Use of Town Name, Personnel, Logo, Equipment or Symbols
+**** Article I.
+Use of Town Name, Personnel, Logo, Equipment or Symbols ****
 [Adopted 2-14-1994 by Ord. No. 3-1994]
 § 154-1. Purpose.
    Fundraising is a viable means to ensure the financial integrity of many
@@ -9795,8 +9800,8 @@ Issuances of Licenses
 § 157-6.   Compliance with standards.
    
 § 157-7.   Denial of license; review.
-Article I.
-Raffles
+**** Article I.
+Raffles ****
 [Adopted 6-13-1971 by Ord. No. 10-1971 as Art. I of Ch. 100 of the 1971 Code]
 § 157-1. Operation on Sunday.
    Games of chance may be conducted under any license issued by the Mayor and
@@ -9806,8 +9811,8 @@ Sunday, in the Town of Hammonton, County of Atlantic, State of New Jersey.
    The license issued for the holding, operating and conducting of such games
 of chance, by the Mayor and Common Council, shall provide that said games of
 chance may be conducted on Sunday.
-Article II.
-Bingo
+**** Article II.
+Bingo ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. II of Ch. 100 of the 1971 Code]
 § 157-3. Operation on Sunday.
    Games of chance may be conducted under any license issued by the Mayor and
@@ -9820,8 +9825,8 @@ Atlantic County, New Jersey.
 games of chance, by the Mayor and Common Council, shall provide that such games
 of chance may be conducted on the first day of the week, commonly known and
 designated as Sunday.
-Article III.
-Issuances of Licenses
+**** Article III.
+Issuances of Licenses ****
 [Adopted 4-27-2009 by Ord. No. 6A-2009]
 § 157-5. Delegation of authority.
    The Municipal Clerk is delegated the authority to approve and grant raffle
@@ -10094,8 +10099,8 @@ Fire Insurance Claims
 GENERAL REFERENCES
    Fire prevention — See
 Ch. 144.
-Article I.
-Fire Insurance Claims
+**** Article I.
+Fire Insurance Claims ****
 [Adopted 6-25-1979 by Ord. No. 7-1979]
 § 168-1. Payment to claimant prohibited until charges due paid.
 Editor's Note: Amended at time of adoption of Code (see
@@ -10538,8 +10543,8 @@ Ch. 211.
 Ch. 214.
    Solid waste — See
 Ch. 241.
-Article I.
-Depositing of Litter and Handbills
+**** Article I.
+Depositing of Litter and Handbills ****
 [Adopted 10-12-1987 by Ord. No. 11-1987]
 § 184-1. Word usage and definitions.
 [Amended 12-16-2019 by Ord. No. 28-2019]
@@ -10819,8 +10824,8 @@ addition, any person, firm, corporation or other entity convicted of a
 violation of this article shall pay all expenses incurred for the removal of
 said litter. Each day that any violation hereunder shall continue shall be
 deemed a separate offense or violation.
-Article II.
-Clean Communities Program
+**** Article II.
+Clean Communities Program ****
 [Adopted 2-26-1990 by Ord. No. 3-1990; amended in its entirety 3-26-1990 by
 Ord. No. 10-1990]
 § 184-22. Definitions.
@@ -10939,8 +10944,8 @@ Noise
 190-6.   Violations and penalties.
    §
 190-7.   Noise prohibited at all times.
-ARTICLE I
-Noise
+**** ARTICLE I
+Noise ****
 § 190-1. Applicability.
 [Added 12-16-2019 by Ord. No. 30-2019]
 It is hereby found and declared that:
@@ -11288,8 +11293,8 @@ Ch. 200.
 Ch. 257.
    Vehicles and traffic — See
 Ch. 271.
-Article I.
-Authority
+**** Article I.
+Authority ****
 [Adopted 1-28-1980 by Ord. No. 1-1980]
 § 197-1. Authority to regulate vehicular and pedestrian traffic in public
 parking places.
@@ -11312,8 +11317,8 @@ Ch. 1, General Provisions, Art. I). The governing body of the Town of Hammonton
 shall authorize the officials in charge of the Fire and Police Departments to
 exercise exclusive municipal control of traffic in public parking yards,
 parking places and fire areas.
-Article II.
-Handicapped Parking Zones
+**** Article II.
+Handicapped Parking Zones ****
 [Adopted 7-9-1984 by Ord. No. 12-1984]
 § 197-4. Restricted parking zones designated.
    Pursuant to N.J.S.A. 39:4-197(3)c, there are hereby designated restricted
@@ -12134,8 +12139,8 @@ vendor, door to door vendor, canvasser and special event vendor license.
 § 204-29.   All sales prohibited.
    
 § 204-30.   Appeal for food trucks.
-Article I.
-Noncommercial Solicitation
+**** Article I.
+Noncommercial Solicitation ****
 [Adopted 7-26-1993 by Ord. No. 18-1993]
 § 204-1. Purpose.
    During the past years there have been a number of lawsuits brought against
@@ -12166,8 +12171,8 @@ requested by the individual solicited by appointment.
 subject to one or more of the following: a fine of not more than $1,000,
 imprisonment for a period not to exceed 90 days or a period of community
 service not to exceed 90 days.
-Article II.
-Soliciting in Roadways
+**** Article II.
+Soliciting in Roadways ****
 [Adopted 7-28-1997 by Ord. No. 14-1997]
 § 204-6. Purpose.
    The Town of Hammonton shall permit charitable organizations as defined in
@@ -12219,9 +12224,9 @@ April 30, 1997.
 subject to one or more of the following: a fine of not more than $1,000,
 imprisonment for a period not to exceed 90 days or a period of community
 service not to exceed 90 days.
-Article III.
+**** Article III.
 Peddlers, Hawkers, Vendors, Solicitors, Canvassers, Food Trucks, Door to Door
-Vendor, Seasonal Sales Vendors and Special Event Vendors
+Vendor, Seasonal Sales Vendors and Special Event Vendors ****
 [Adopted 9-22-1997 by Ord. No. 18-1997; amended in its entirety 10-25-2004 by
 Ord. No. 25-2004]
 § 204-13. Title.
@@ -12802,8 +12807,8 @@ Ch. 241.
 Ch. 247, Art. II.
    Trees — See
 Ch. 267.
-Article I.
-Property Maintenance Code
+**** Article I.
+Property Maintenance Code ****
 § 211-1. Adoption of standards.
 [Amended 3-26-2004 by Ord. No. 11-2001; 2-25-2008 by Ord. No. 4-2008; 5-28-2013
 by Ord. No. 008-2013]
@@ -12928,8 +12933,8 @@ fee.
    Nothing in this chapter shall be construed to affect any suit or proceeding
 pending in any court, unless any of the violations contained therein are
 ongoing violations which would be subject to the provisions of this chapter.
-Article II.
-Penalties
+**** Article II.
+Penalties ****
 [Added 5-22-1989 by Ord. No. 18-1989]
 § 211-5. Purpose.
    It is deemed to be in the public interest and necessary for the enforcement
@@ -13045,8 +13050,8 @@ affected by such notice.
    In the event a violator fails or refuses to pay all costs incurred by the
 town that are associated with terminating or abating a violation, such costs
 will be imposed as a lien against the subject real property.
-ARTICLE III
-Adoption of Standards
+**** ARTICLE III
+Adoption of Standards ****
 [Adopted 9-28-2015 by Ord. No. 019-2015]
 § 211-14. Definitions.
    As used in this article, the following terms shall have the same meanings
@@ -13221,16 +13226,16 @@ the enforcement of this Ordinance, the town shall have the option of assessing
 the tax bill by adding the sums so expended to the tax bill of the registered
 property owner or requiring restitution of those expenditures in any court
 proceeding provided in this subchapter.
-ARTICLE IV.
-REGISTRATION AND MAINTENANCE OF REAL PROPERTY BY MORTGAGEES.
+**** ARTICLE IV.
+REGISTRATION AND MAINTENANCE OF REAL PROPERTY BY MORTGAGEES. ****
 [Adopted 4-18-2016 by Ord. No. 006-2016; Amended 9-27-2021 by Ord. 014-2021]
 § 211-33. Immunity of enforcement officer.
 Any enforcement officer or any person authorized by the town to enforce the
 sections here within shall be immune from prosecution, civil or criminal, for
 reasonable, good faith entry upon real property while in the discharge of
 duties imposed by this article.
-ARTICLE V.
-REGISTRATION OF FORECLOSURE MORTGAGE PROPERTIES
+**** ARTICLE V.
+REGISTRATION OF FORECLOSURE MORTGAGE PROPERTIES ****
 [Adopted 8-8-2022 by Ord. No. 017-2022]
 § 211-40. Purpose and intent.
    It is the purpose and intent of the Town to establish a process to address
@@ -13721,8 +13726,8 @@ Ch. 211.
 Ch. 217.
    Solid waste — See
 Ch. 241.
-Article I.
-Landlord and Tenant Responsibilities; Enforcement
+**** Article I.
+Landlord and Tenant Responsibilities; Enforcement ****
 § 216-1. Legislative findings.
 [Added 12-16-2019 by Ord. No. 31-2019]
 Town Council finds, determines and declares that:
@@ -13791,11 +13796,11 @@ twelve-month period in which that tenant receives no warning or summons.
 Any landlord/owner who shall violate the provisions of this article shall, upon
 conviction, be subject to a fine not to exceed $750 for a first offense and up
 to $1,000 for any subsequent conviction.
-Article II.
+**** Article II.
 Procedures To Require An Owner of Rental Property Which Has Become a Source of
 at Least Two Substantiated Complaints to Post a Bond or Equivalent Security to
 Compensate For Any Future Damage or Expense Suffered From Future Repetition of
-Disorderly, Indecent, Tumultuous or Riotous Conduct.  
+Disorderly, Indecent, Tumultuous or Riotous Conduct.   ****
 § 216-5. Legislative findings.
 [Added 12-16-2019 by Ord. No. 31-2019]
 The Legislature of the State of New Jersey enacted N.J.S. 40:48-2.12(n) et seq.
@@ -13916,8 +13921,8 @@ indicated the appropriateness of such charge in order to effectually carry out
 the purposes of this Article II. The decision of the Hearing Officer in such
 circumstances shall be enforceable in the same manner as provided in §
 216-7E. above.
-ARTICLE III
-Definitions; Registration and Licensing
+**** ARTICLE III
+Definitions; Registration and Licensing ****
 § 216-9. Definitions.
 Unless the context clearly indicates a different meaning, the following words
 or phrases, when used in this chapter, shall have the following meaning:
@@ -15141,8 +15146,8 @@ Ch. 223.
 Ch. 264.
    Water — See
 Ch. 275.
-Article I.
-Sewer Use and Rents
+**** Article I.
+Sewer Use and Rents ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. I of Ch. 130 of the 1971 Code]
 § 226-1. Definitions.
    Unless the context specifically indicates otherwise, the meanings of terms
@@ -15763,8 +15768,8 @@ shall be considered timely made pursuant to this article when a written request
 for appeal or refund is made and filed with the Clerk/Administrator's office of
 the Town of Hammonton for Mayor and Council consideration within the time
 period of 180 days.
-Article II.
-Oil and Grease Interceptors
+**** Article II.
+Oil and Grease Interceptors ****
 [Adopted 6-22-1992 by Ord. No. 22-1992]
 § 226-17. Prohibited discharges.
    Nonbiodegradable oil and grease of a mineral or hydrocarbon origin and any
@@ -15843,8 +15848,8 @@ imprisonment for a period not to exceed 90 days or a period of community
 service not to exceed 90 days, and each day during which such violation or
 violations shall continue or is allowed to exist shall constitute separate and
 distinct offenses.
-Article III.
-Mandatory Connection Requirement
+**** Article III.
+Mandatory Connection Requirement ****
 [Adopted 9-12-1994 by Ord. No. 25-1994]
 § 226-27. Purpose.
    It is deemed necessary and in the public interest to promote the protection
@@ -16381,8 +16386,8 @@ Ch. 211.
 Ch. 134, Art. I.
    Abandoned refrigerators — See
 Ch. 214.
-Article I.
-Convenience Station
+**** Article I.
+Convenience Station ****
 [Adopted 4-23-2001 by Ord. No. 16-2001 Editor's Note: This ordinance also
 repealed former Art. I, Dumps and Dumping, adopted 2-24-1986 by 2-1986, as
 amended. ]
@@ -16441,8 +16446,8 @@ the balance of the calendar year in which the permit is issued.
 provisions of this article shall, upon conviction thereof, pay a penalty of not
 less than $100 nor more than $500 for each offense.
 § 241-9. through § 241-16. (Reserved)
-Article II.
-Trash Collection
+**** Article II.
+Trash Collection ****
 [Adopted 2-24-1986 by Ord. No. 5-1986]
 § 241-17. Purpose.
    The purpose of this article is to regulate and control the collection of
@@ -16772,8 +16777,8 @@ separate and distinct violation thereof.
 241-20(A)(11), as these sections already contain separate penalties for a
 violation.
 [Added 7-25-2016 by Ord. No. 013-2016]
-Article III.
-Recycling
+**** Article III.
+Recycling ****
 [Adopted 10-23-1989 by Ord. No. 34-1989]
 § 241-29. Title.
    This article shall be known and may be cited as the "Recycling Ordinance of
@@ -16953,8 +16958,8 @@ fine of not more than $1,000, imprisonment for a period not to exceed 90 days
 or a period of community service not to exceed 90 days. Each violation shall be
 considered as a separate offense, and each date of violation shall be
 considered as a separate offense when determining penalties under this section.
-Article IV.
-Fees for Solid Waste Removal
+**** Article IV.
+Fees for Solid Waste Removal ****
 [Adopted 5-22-1995 by Ord. No. 13-1995]
 § 241-44. Purpose.
    A.   The Town of Hammonton has incurred substantial increased cost to
@@ -17003,8 +17008,8 @@ remodeling, repair or addition by the property owner, business, entity or agent
 thereof shall be disposed of by hiring or employing a private contractor.
 § 241-47. Senior citizen discount.
    Senior citizens shall be entitled to a discounted fee.
-ARTICLE V.
-Permit Procedures for Construction Dumpsters
+**** ARTICLE V.
+Permit Procedures for Construction Dumpsters ****
 [Adopted 4-20-2015 by Ord. No. 007-2015]
 § 241-48. Definitions.
    As used in this article, the following term shall have the meaning
@@ -17424,8 +17429,8 @@ Ch. 115.
 Ch. 175.
    Soliciting in roadways — See
 Ch. 204.
-Article I.
-Obstructions
+**** Article I.
+Obstructions ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. III of Ch. 143 of the 1971 Code;
 amended in its entirety 5-18-2015 by Ord. No. 008-2015]
 § 247-1. Placement of building materials and other obstructions; removal.
@@ -17446,8 +17451,8 @@ the town.
 subject to one or more of the following: a fine of not more than $1,000,
 imprisonment for a period not to exceed 90 days or a period of community
 service not to exceed 90 days.
-Article II.
-Snow and Ice Removal
+**** Article II.
+Snow and Ice Removal ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Ch. 137 of the 1971 Code; amended in
 its entirety 5-18-2015 by Ord. No. 008-2015]
 § 247-5. Responsibility; time limit.
@@ -17477,8 +17482,8 @@ enforced according to law.
 comply with the provisions of this article, shall also subject to one or more
 of the following: a fine of not more than $1,000, imprisonment for a period not
 to exceed 90 days or a period of community service not to exceed 90 days.
-Article III.
-Excavations and Openings
+**** Article III.
+Excavations and Openings ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Ch. 92 of the 1971 Code; 4-26-1982 by
 Ord. No. 5-1982; 5-18-2015 by Ord. No. 008-2015]
 § 247-9. Definitions.
@@ -18072,9 +18077,9 @@ violation shall constitute a separate offense.
 shall be subject to the issuance of a stop work order on all present and
 scheduled projects until the Town is satisfied, in its sole discretion, that
 this Article III will be followed.
-Article IV.
+**** Article IV.
 Construction of Curbs and Sidewalks Required by Persons Constructing
-Residential or Commercial Buildings
+Residential or Commercial Buildings ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. IV of Ch. 143 of the 1971 Code;
 amended in its entirety 5-18-2015 by Ord. No. 008-2015]
 § 247-24. Construction of curbs and sidewalks required; costs.
@@ -18239,8 +18244,9 @@ subject to one or more of the following: a fine of not more than $1,000,
 imprisonment for a period not to exceed 90 days or a period of community
 service not to exceed 90 days.
 § 247-29. through § 247-30. (Reserved)
-Article V.
+**** Article V.
 Construction of Rights-of-Way in Subdivisions and Multifamily Housing Projects
+****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. V of Ch. 143 of the 1971 Code;
 amended in its entirety 5-18-2015 by Ord. No. 008-2015]
 § 247-31. Restrictions on applications.
@@ -18391,8 +18397,8 @@ article shall for each offense be subject to one or more of the following: a
 fine of not more than $1,000, imprisonment for a period not to exceed 90 days
 or a period of community service not to exceed 90 days, and each day's
 continuance of such violation shall constitute a separate offense.
-Article VI.
-Sidewalk and Curb Construction and Maintenance
+**** Article VI.
+Sidewalk and Curb Construction and Maintenance ****
 [Adopted 3-27-2000 by Ord. No. 7-2000; amended in its entirety 5-18-2015 by
 Ord. No. 008-2015]
 § 247-38. Premises owner to maintain sidewalks and curbs.
@@ -18480,8 +18486,8 @@ whom such conviction is had.
    C.   Each day's persistence in the things or acts prohibited by this article
 shall be and constitute a separate and distinct offense subject to any and all
 penalties prescribed in this article.
-Article VII.
-Street Lighting Standards
+**** Article VII.
+Street Lighting Standards ****
 [Adopted 9-25-2000 by Ord. No. 34-2000; amended in its entirety 5-18-2015 by
 Ord. No. 008-2015]
 § 247-45. Purpose.
@@ -18531,8 +18537,8 @@ approval.
 subject to one or more of the following: a fine of not more than $1,000,
 imprisonment for a period not to exceed 90 days or a period of community
 service not to exceed 90 days.
-ARTICLE VIII
-Adopt-a-Street Program
+**** ARTICLE VIII
+Adopt-a-Street Program ****
 [Adopted 8-25-2014 by Ord. No. 018-2014]
 § 247-49. Program established.
    In order to promote greater public participation in the life of the
@@ -18741,9 +18747,9 @@ agreement forwarded to department of community affairs.
 § 254-23.   Notice to taxpayers.
    
 § 254-24.   Repealer.
-ARTICLE I.
+**** ARTICLE I.
 Tax Exemptions for Existing Residential Dwellings and Commercial or Industrial
-Structures
+Structures ****
 [Adopted 9-12-1994 by Ord. No. 24-19941]
    1.   Editor's Note: This article also provided that, pursuant to N.J.S.A.
 40A:21-1 et seq., "areas in need of rehabilitation may qualify for tax
@@ -18893,8 +18899,8 @@ for municipal purposes, school purposes and county government purposes.
 be included in the mailing of annual property tax bills to each owner of a
 dwelling located in the Town of Hammonton during the first year following
 adoption of this article.
-ARTICLE II.
-Tax Exemptions and Abatement or New Commercial or Industrial Construction
+**** ARTICLE II.
+Tax Exemptions and Abatement or New Commercial or Industrial Construction ****
  
 [Adopted 4-17-2000 by Ord. No. 8-2000; amended 3-20-2017 by Ord. No. 009-2017]
 § 254-12. Definitions.
@@ -19227,8 +19233,8 @@ Vending Machines and Self-Service Displays
 § 259-3.   Retail establishments.
    
 § 259-4.   Violations and penalties.
-Article I.
-Vending Machines and Self-Service Displays
+**** Article I.
+Vending Machines and Self-Service Displays ****
 [Adopted 12-18-2000 by Ord. No. 41-2000]
 § 259-1. Purpose.
    The purpose of this article is to prohibit unregulated tobacco vending
@@ -20069,8 +20075,8 @@ Ch. 200, §
    Cutting trees to install satellite earth stations — See
 Ch. 220, §
 220-5.
-Article I.
-Planting, Protection and Improvement
+**** Article I.
+Planting, Protection and Improvement ****
 [Adopted 9-13-1971 by Ord. No. 10-1971 as Art. I of Ch. 134 of the 1971 Code;
 amended in its entirety 8-23-2010 by Ord. No. 16-2010]
 § 267-1. Permit required for certain acts.
@@ -20122,8 +20128,8 @@ violation. In addition, any tree having a diameter in excess of 20 inches which
 is removed in violation of this article shall also be considered a separate
 offence.
    D.   For repeat offenses, the minimum mandatory fine is $500.
-Article II.
-Tree Preservation and Maintenance
+**** Article II.
+Tree Preservation and Maintenance ****
 [Adopted 5-24-1993 by Ord. No. 10-1993; amended in its entirety 8-23-2010 by
 Ord. No. 16-2010]
 § 267-7. Title.
@@ -20621,8 +20627,8 @@ Ch. 197.
 Ch. 257.
    Municipally owned vehicles — See
 Ch. 274.
-Article I.
-General Provisions
+**** Article I.
+General Provisions ****
 § 271-1. Words and phrases defined.
    Whenever any words and phrases are used in this chapter, the meaning
 respectively ascribed to them in Subtitle 1 of Title 39 of the Revised Statutes
@@ -20648,8 +20654,8 @@ Transportation February 8, 1974; resolution of consent adopted September 8,
 county roads.
 § 271-5. Title.
    This chapter may be known and cited as the "Traffic Ordinance."
-Article II.
-Parking
+**** Article II.
+Parking ****
 § 271-6. Parking prohibited at all times on certain streets.
 Editor's Note: Former § 271-201, Regulations not exclusive, which immediately
 preceded this section, was repealed 7-9-1984 by Ord. No. 14-1984. No person
@@ -21191,8 +21197,8 @@ Code, Section F-311.0 et seq., no person shall stop, stand or park a vehicle at
 any time upon any street, part of a street, designated a fire lane on public or
 private property and within 10 feet of a fire hydrant or Fire Department
 connection with the Town of Hammonton.
-Article III.
-Special Purpose Parking Zones
+**** Article III.
+Special Purpose Parking Zones ****
 § 271-15. Loading zones designated.
    The locations described below are hereby designated as "loading zones."
  
@@ -21257,8 +21263,8 @@ Hall Municipal Building designated as safe zone parking places. The parking
 places will be restricted to 15 minute parking for divorced/separated parents
 who need to meet and exchange their children per their individual custody
 contracts.
-Article IV.
-Traffic Regulations
+**** Article IV.
+Traffic Regulations ****
 § 271-19. Vehicles excluded from certain streets.
 [Amended 12-27-1976 by Ord. No. 23-1976; 7-14-1980 by Ord. No. 16-1980]
    Trucks over weight limits provided below are hereby excluded from the
@@ -21858,8 +21864,8 @@ of said roadway; and
    E.   In the event any claim is made against the Town of Hammonton by reason
 of the action taken pursuant to this section, the HBOE shall indemnify and hold
 the governing body harmless from any costs or expenses incurred thereby.
-Article V.
-Regulations for Vehicles in Excess of Certain Weights
+**** Article V.
+Regulations for Vehicles in Excess of Certain Weights ****
 [Added 5-27-2003 by Ord. No. 8-2003]
 § 271-31. Purpose.
    The purpose of this article is to promote the public health, safety and
@@ -21947,8 +21953,8 @@ this chapter or any supplement thereto shall be liable to a penalty for a first
 offense of not more than $50 or imprisonment for a term not exceeding 15 days,
 or both, and for a second offense of not more than $100 or imprisonment for a
 term not exceeding 15 days, or both.
-Article VI.
-Observance of Lawful Orders and Posted Traffic Regulations.
+**** Article VI.
+Observance of Lawful Orders and Posted Traffic Regulations. ****
 [Added 12-15-2003 by Ord. No. 31-2003]
 § 271-36. Orders and regulations to be observed.
    No person shall disobey or fail to follow the order, direction or other
@@ -21960,9 +21966,9 @@ traffic control device or traffic signal within the Town.
    Any person violating any of the provisions of this article shall, upon
 conviction, be punished for each offense by a fine not to exceed $1,000 or by
 imprisonment for a term not exceeding 90 days, or both.
-Article VII.
+**** Article VII.
 Discourteous, Inconvenient, Annoying or Alarming Conduct from Operation or Use
-of Motor Vehicle
+of Motor Vehicle ****
 [Added 5-19-2008 by Ord. No. 18-2008]
 § 271-38. Prohibitions; enforcement; violations and penalties.
    A.   No person shall operate or use any motor vehicle in such a fashion
@@ -22273,8 +22279,8 @@ Ch. 175, §
    Sewers — See
 Chs. 223 and
 226.
-Article I.
-General Regulations; Charges
+**** Article I.
+General Regulations; Charges ****
 [Amended 2-9-1981 by Ord. No. 1-1981; 6-13-1983 by Ord. No. 3-1983; 3-26-1984
 by Ord. No. 4-1984; 7-25-1988 by Ord. No. 17-1988; 12-14-1992 by Ord. No. 34-
 1992]
@@ -22447,8 +22453,8 @@ hinder, obstruct, delay, resist or prevent any such inspection as is described
 herein and such person shall be subject to the violations and penalties set
 forth in §
 275-11, above.
-Article II.
-Tie-Ins and New Water Mains
+**** Article II.
+Tie-Ins and New Water Mains ****
 [Adopted 10-25-1976 by Ord. No. 21-1976]
 § 275-13. Approval required.
 Editor's Note: Amended at time of adoption of Code (see
@@ -22621,8 +22627,8 @@ of the minimum water rate, as set forth within this article.
 subject to one or more of the following: a fine of not more than $1,000,
 imprisonment for a period not to exceed 90 days or a period of community
 service not to exceed 90 days.
-Article III.
-Water Connections Within Groundwater Impact Area
+**** Article III.
+Water Connections Within Groundwater Impact Area ****
 [Adopted 4-26-1993 by Ord. No. 9-1993; amended in its entirety 11-24-2008 by
 Ord. No. 38-2008]
 § 275-27. Purpose.
@@ -22673,8 +22679,8 @@ agricultural purposes such that it qualifies or is capable of qualifying for
 farmland assessment.
    D.   In all other respects, Ordinance Number 9-1993 shall remain in full
 force and effect.
-Article IV.
-Water Conservation
+**** Article IV.
+Water Conservation ****
 [Adopted 8-24-2009 by Ord. No. 16-2009]
 § 275-31. Purpose and intent; water conservation methods.
    A.   It is hereby declared that the pubic health, safety and welfare require
@@ -23038,8 +23044,8 @@ funds by Town Council. Such appropriation shall only be made following
 certification by the Town Business Administrator, or his designee, that such
 allocation will have no deleterious effect upon the safe and continuing
 operation of the town's water utility system and/or the town's general fund.
-DISPOSITION LIST
-§ DL-1. Disposition of legislation.
+***** DISPOSITION LIST *****
+*** § DL-1. Disposition of legislation. ***
 The following is a chronological listing of the ordinances of the Town of
 Hammonton that have been adopted since the republication of the Code in 2000
 and included therein. [Enabling ordinances which are not general and permanent
@@ -24053,7 +24059,7 @@ of Hammonton 9-10-1984 by Ord. No. 17-1984, and amendments thereto, as revised
 and codified by General Code Publishers Corp. and renumbered as Chapter 175, is
 hereby approved, adopted, ordained and enacted the land use legislation of the
 Town of Hammonton.”
-HOW TO USE THE NEW CODE ELEMENTS
+**** HOW TO USE THE NEW CODE ELEMENTS ****
 The downtown provisions of Hammonton's Land Development Ordinance can be used
 by following these SIX simple steps:
 1.   Zoning Map. Locate your property on the Zoning Map (§
@@ -24075,8 +24081,8 @@ prepare for permit application submittal.
 user on special circumstances or uses. These include General Standards and
 methods and standards for handling off-street parking. Comply with these
 sections if applicable and refer to the Definitions for more information.
-ARTICLE I
-General Provisions
+**** ARTICLE I
+General Provisions ****
 § 175-1. Purpose.
    There is hereby ordained by the Town Council for the Town of Hammonton,
 Atlantic County, New Jersey, pursuant to the provisions of the New Jersey
@@ -24154,8 +24160,8 @@ chapter.
    The Town Council may, upon adoption of a salary ordinance, adopt a manner of
 payment of a salary and/or the reimbursement of expenses for the members of the
 Planning Board and the Zoning Board of Adjustment.
-ARTICLE II
-Definitions
+**** ARTICLE II
+Definitions ****
 § 175-9. Word usage.
    A.   Any word or term not defined shall be utilized with a meaning of
 standard usage for the context in which the word is used.
@@ -25756,8 +25762,8 @@ Notes
    12.   Editor's Note: The former definition of "standard subsurface sewage
 12 disposal system," added 4-10-1989 by Ord. No. 7-1989, was repealed 7-28-1997 by
    Ord. No. 10-1997.
-ARTICLE III
-Master Plan; Capital Improvement Program
+**** ARTICLE III
+Master Plan; Capital Improvement Program ****
 § 175-11. Master Plan.
    A.   Adoption or amendment; component parts.
       (1)   The Planning Board may prepare and, after public hearing, amend the
@@ -25922,7 +25928,7 @@ such reference without receiving such recommendation. This requirement shall
 apply to action by a housing, parking, highway, special district or other
 authority, redevelopment agency, school board or other similar public agency,
 state, county or municipal.
-ARTICLE IV. Planning Board; Preservation Board
+**** ARTICLE IV. Planning Board; Preservation Board ****
 § 175-13. Establishment; membership.
    There is hereby established pursuant to N.J.S.A. 40:55D-23 et seq., in the
 Town of Hammonton, a Planning Board of nine members consisting of the following
@@ -26266,7 +26272,7 @@ pursuant to §
 175-60A of this chapter.
    D.   Certificates of appropriateness shall be issued in accordance with §
 175-107 of this chapter.
-ARTICLE V. Zoning Board of Adjustment
+**** ARTICLE V. Zoning Board of Adjustment ****
 § 175-22. Establishment.
 [Amended 1-22-2018 by Ord. No. 001-2018]
    The Zoning Board of Adjustment previously established pursuant to N.J.S.A.
@@ -26479,8 +26485,8 @@ Zoning Ordinance or Official Zoning Map shall be submitted in writing to the
 Board of Adjustment, which shall issue a written response within 45 days after
 the next meeting following receipt of the request or within such additional
 time as may be consented to by the inquirer.
-ARTICLE VI. Provisions Applicable to Both Planning Board and Zoning Board of
-Adjustment
+**** ARTICLE VI. Provisions Applicable to Both Planning Board and Zoning Board
+of Adjustment ****
 § 175-32. Conflicts of interest.
    No member of the Planning Board or Zoning Board of Adjustment shall act on
 any matter in which he or she has, either directly or indirectly, any personal
@@ -26910,7 +26916,7 @@ N.J.S.A. 40:55D-55.)
 to the Clerk of the town shall be deemed to be addressed to the proper
 designated officer, and the town shall be bound thereby to the same extent as
 though the same was addressed to the designated official.
-ARTICLE VII. Fees
+**** ARTICLE VII. Fees ****
 § 175-46. Payment of fees; escrow; agreement.
    A.   The applicant shall at the time of filing a submission pay the
 following nonrefundable fees to the Town of Hammonton. Proposals involving more
@@ -27245,7 +27251,7 @@ section.
 Notes
 1 17. Editor's Note: Former Subsection C, Nonresidential development fees, was
   repealed 8-23-2004 by Ord. No. 21-2004.
-ARTICLE VIII. Development Review and Approval
+**** ARTICLE VIII. Development Review and Approval ****
 § 175-51. Definitions.
    As used in this article, the following terms shall have the meanings
 indicated:
@@ -29023,8 +29029,8 @@ tax rates.
 Article XII, §
 175-160.
 [Added 11-28-2011 by Ord. No. 23-2011]
-ARTICLE IX
-Plat Detail and Data
+**** ARTICLE IX
+Plat Detail and Data ****
 § 175-64. Plat conformity required.
    No development application shall be accepted unless submitted in plat form,
 and no plat shall be accepted for consideration unless it conforms to the
@@ -29664,7 +29670,7 @@ literal enforcement of one or more of these provisions is impracticable or will
 exact undue hardship, the Planning Board may grant such relief for the goals
 intended and the rules and standards established herein if it determines that
 literal enforcement will create an inequitable situation.
-ARTICLE X. Guaranties; Inspections; Acceptance of Improvements
+**** ARTICLE X. Guaranties; Inspections; Acceptance of Improvements ****
 § 175-72. Guaranties for on-tract improvements.
    A.   Before recording final subdivision plats or as a condition of final
 site plan approval or as a condition to the issuance of a zoning permit
@@ -29928,7 +29934,7 @@ will follow the procedures outlined in this chapter and the town Uniform
 Construction Code Ordinance. A separate certificate of occupancy shall also be
 required when any change occurs in the use or occupancy of an existing
 structure.
-ARTICLE XI. Effect of Approvals
+**** ARTICLE XI. Effect of Approvals ****
 § 175-81. Preliminary approval of major subdivisions and major site plans.
    Preliminary approval of a major subdivision or of a site plan shall, except
 as provided in Subsection D of this section, confer upon the applicant the
@@ -30019,7 +30025,7 @@ development, the running of the period of approval under N.J.S.A. 40:55D-1 et
 seq., or under any act repealed by said act, as the case may be, shall be
 suspended for the period of time said legal action is pending or such directive
 or order is in effect.
-ARTICLE XII Design, Performance and Evaluation Standards
+**** ARTICLE XII Design, Performance and Evaluation Standards ****
 § 175-86. General standards.
    A.   General. The design of any subdivision shall conform to the principles
 of land subdivision as set forth in this chapter and the Master Plan of the
@@ -31278,7 +31284,7 @@ at the first floor above the ground story, if located within the roof
 structure.
 [Added 11-28-2011 by Ord. No. 23-2011]
 § 175-107. Historical, archaeological and cultural preservation.
-[Amended 4-10-1989 by Ord. No. 7-1989]
+*** [Amended 4-10-1989 by Ord. No. 7-1989] ***
    A.   A cultural resource survey shall accompany all applications for
 development in the RR, R-1, R-2, R-3, H-B, M-1, REC and M-2 Districts, all
 Downtown and Gateway Districts, and all applications for major development as
@@ -32924,8 +32930,8 @@ accordance with the provisions of §§
 175-91 of this chapter so as to provide screening between the building and the
 corridor.
 [Amended 6-12-1989 by Ord. No. 19-1989]
-ARTICLE XIII
-Zoning
+**** ARTICLE XIII
+Zoning ****
 § 175-142. Zoning districts designated.
 [Amended 4-10-1989 by Ord. No. 7-1989; 12-14-1998 by Ord. No. 30-1998]
    For the purpose of this chapter, the Town of Hammonton is divided into the
@@ -38328,7 +38334,7 @@ liable for complying with the terms and restrictions of governing affordable
 housing units until such time as title is conveyed from the owner.
    U.   Appeals. Appeals from all decisions of an administrative agent
 appointed pursuant to this section shall be filed in writing with the Court.
-ARTICLE XIV Penalties; Enforcement; Duration of Variances
+**** ARTICLE XIV Penalties; Enforcement; Duration of Variances ****
 § 175-163. Violations and penalties.
    A.   Any person, firm or corporation violating any of the provisions of this
 chapter shall be subject to a fine not exceeding $500 and/or imprisonment in
@@ -38423,7 +38429,7 @@ reviewing the application a renewal not to exceed one year of the
 determination. If at the end of the extension the applicant has not commenced
 development, the variance is automatically null and void and may not be further
 renewed.
-ARTICLE XV Outstanding Permits, Approvals and Variances
+**** ARTICLE XV Outstanding Permits, Approvals and Variances ****
 § 175-166. Effect on outstanding permits, approvals and variances.
    Nothing in this chapter shall require any change in a building permit, site
 plan or zoning variance which was approved before the enactment of this chapter
@@ -38434,7 +38440,7 @@ in the case of a site plan or variance, a building permit shall have been
 issued within 90 days following the effective date of this chapter. In all
 instances, the project shall be continuously pursued to completion, otherwise
 said approvals and permits shall be void.
-ARTICLE XVI Repealer; Severability; When Effective
+**** ARTICLE XVI Repealer; Severability; When Effective ****
 § 175-167. Repealer.
    All ordinances or parts of ordinances which are inconsistent with the
 provisions of this chapter are hereby repealed to the extent of such
@@ -38460,7 +38466,7 @@ be made by the County Planning Board for said copies.
    C.   In amending this order, the Town Master Plan or any other ordinance
 regulating the use of land, the town shall comply with all the regulations of
 N.J.A.C. 7:50-3.45.
-ARTICLE XVII Stormwater Management
+**** ARTICLE XVII Stormwater Management ****
 [Added 8-28-2023 by Ord. No. 14-2023]
 § 175-170. Scope and purpose.
    A.   Policy Statement. Flood control, groundwater recharge, erosion control
@@ -39951,7 +39957,7 @@ uses any building, structure or land in violation of this article shall be
 subject the penalties and enforcement provisions set forth in §
 175-163 and §
 175-164.
-ARTICLE XVIII Personal Wireless Telecommunications Facilities
+**** ARTICLE XVIII Personal Wireless Telecommunications Facilities ****
 [Added 8-23-2004 by Ord. No. 22-2004]
 § 175-181. Purpose.
    The purpose of this article is to provide procedures, standards and
@@ -40155,7 +40161,7 @@ PWTEF shall not occupy more than 25% of the roof area.
 200 feet. To the extent this subsection imposes a greater setback requirement
 than otherwise set forth in the Town of Hammonton's Municipal Land Use
 Ordinances, this section shall be controlling.
-ARTICLE XIX Wind and Solar Energy Systems
+**** ARTICLE XIX Wind and Solar Energy Systems ****
 [Added 3-28-2011 by Ord. No. 4-2011]
 § 175-185. Purpose.
    A.   The purpose of this article is to provide procedures, standards and

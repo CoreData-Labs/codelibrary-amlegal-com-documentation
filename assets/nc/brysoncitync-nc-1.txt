@@ -551,7 +551,7 @@ Police Department
 32.37   Work schedule; accident reports; training
 Editor’s note:
    This chapter was adopted on December 6, 2021
-ESTABLISHMENT OF DEPARTMENTS
+**** ESTABLISHMENT OF DEPARTMENTS ****
 § 32.01 ADMINISTRATION DEPARTMENT.
    (A)   The Administration Department, under the direction and authority of
 the Town Manager, is hereby established.
@@ -595,7 +595,7 @@ and operate the water treatment plant.
    The Street, Lands and Buildings Department, under the authority of the
 Streets, Lands, Buildings Supervisor, is hereby established. This Department
 shall maintain the streets, lands and buildings of the town.
-PLANNING BOARD
+**** PLANNING BOARD ****
 § 32.20 CREATION.
    The Board of Aldermen hereby establishes the Planning Board under the
 authority granted by G.S. § 160A-361. The Board shall constitute, function and
@@ -675,7 +675,7 @@ agencies and any private and civic sources as set forth in G.S. § 160A-363; and
    (I)   Perform any other related duties that the Board of Aldermen may
 direct.
 (2004 Code, § 32.24) (Ord. passed 4-3-2000)
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 32.35 COMPOSITION; CHIEF.
    (A)   The Police Department shall consist of such numbers of police officers
 as the Board of Aldermen shall from time to time determine to be necessary.
@@ -928,7 +928,7 @@ Extensions
 50.19   Specifications, ownership
    
 50.20   Additional subdivision improvement requirement
-PAYMENT
+**** PAYMENT ****
 § 50.01 CREDITING OF PARTIAL PAYMENT FOR SERVICES.
    In the event the town receives a payment for various enterprise services
 covered by a bill for the services which said payment does not pay the bill in
@@ -941,7 +941,7 @@ due water charges; and
 for garbage collection fees, second for current charges for sewer service fees
 and third for current charges for water service fees.
 (2004 Code, § 50.01) (Ord. passed 7-7-1997)
-EXTENSIONS
+**** EXTENSIONS ****
 § 50.15 APPLICATION FOR AND APPROVAL OF EXTENSIONS REQUIRED.
    (A)   From and after the effective date of this chapter, any property owner,
 or owners, desiring water or sanitary sewer service shall apply in writing to
@@ -1140,7 +1140,7 @@ Garbage and Refuse
 51.09   Special or bulk collections regulated
    
 51.10   Garbage collection fees; suspension of service
-GARBAGE AND REFUSE
+**** GARBAGE AND REFUSE ****
 § 51.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1326,7 +1326,7 @@ Industrial Use Regulations
  
    
 52.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1432,7 +1432,7 @@ are issued. If not paid by the twentieth of the month, a 10% late fee will be
 automatically added to the past due balance and the total bill amount will be
 due.
 (2004 Code, § 52.04) (Ord. passed 11-4-1996)
-SEWER USE; DISCHARGES
+**** SEWER USE; DISCHARGES ****
 § 52.15 UNPOLLUTED DISCHARGES.
    (A)   No person shall discharge or cause to be discharged into any sanitary
 sewers any storm water, surface water, ground water, roof run-off, sub-surface
@@ -1966,7 +1966,7 @@ each campsite with a sewer connection.
 installation. The town, will have the right of entry at any point deemed
 necessary to lock said sewer caps.
 (Ord. passed - -)
-INDUSTRIAL USE REGULATIONS
+**** INDUSTRIAL USE REGULATIONS ****
 § 52.40 PURPOSE AND POLICY.
    (A)   This subchapter sets forth uniform requirements for direct and
 indirect contributors into the wastewater collection and treatment system for
@@ -3121,7 +3121,7 @@ control;
    (D)   The town may, in addition to prosecution by law, permanently refuse
 service to any consumer who tampers with a meter or other measuring device.
 (2004 Code, § 53.28)
-WATER SHORTAGES
+**** WATER SHORTAGES ****
 § 53.40 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4212,7 +4212,7 @@ supplemental report when the original report is insufficient, in the opinion of
 the Department, and the Department may require witnesses of a collision to
 render reports.
 (2004 Code, § 70.07)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.20 INSTALLATION AND MAINTENANCE.
    (A)   The Chief of Police is hereby authorized to designate those
 intersections at which traffic shall be controlled by official traffic-control
@@ -5189,7 +5189,7 @@ Parades and Demonstrations
 94.41   Conduct of persons engaged in demonstrations
    
 94.42   Duty of designated demonstration leader
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 BOARD APPROVAL OF NEW STREETS.
    Before any new street offered for dedication to the town is accepted as
 such, and officially recognized as a town-maintained street, the Board must
@@ -5223,7 +5223,7 @@ section.
 upon the sidewalks within the corporate limits of the town.
 (2004 Code, § 94.03) (Ord. passed 8-3-1987) Penalty, see §
 10.99
-EXCAVATION AND REPAIR
+**** EXCAVATION AND REPAIR ****
 § 94.15 EXCAVATIONS; PERMIT REQUIRED.
    No person shall make any excavation or opening or dig any ditch, trench,
 tunnel or hole in, along, across or under any street, sidewalk or other public
@@ -5293,7 +5293,7 @@ driveway on the public streets, unless a written permit therefor has been
 issued by the town.
 (2004 Code, § 94.23) Penalty, see §
 10.99
-PARADES AND DEMONSTRATIONS
+**** PARADES AND DEMONSTRATIONS ****
 § 94.35 PERMIT REQUIRED.
    (A)   It shall be unlawful for any person to obstruct or block the streets
 or sidewalks of the town by any exhibition, demonstration, organized
@@ -5435,7 +5435,7 @@ Administration and Enforcement
  
    
 95.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 95.01 PURPOSE.
    The purpose of this chapter is to regulate the planting, maintenance and
 removal of trees on municipally owned public property and rights-of-way within
@@ -5463,7 +5463,7 @@ public has free access as a park.
 lying within rights- of-way on either side of all streets, avenues, ways or
 sidewalks within the town.
 (2004 Code, § 95.02) (Ord. passed 6-12-2000)
-TREE CARE; PROHIBITIONS; LICENSING
+**** TREE CARE; PROHIBITIONS; LICENSING ****
 § 95.15 STREET TREE SPECIES.
    The Planning Board shall be responsible for an official street tree species
 list comprised of three groups of trees: small trees; medium trees; and large
@@ -5536,7 +5536,7 @@ public service endeavors and that no such insurance shall be required of any
 town employee doing such work.
 (2004 Code, § 95.21) (Ord. passed 6-12-2000) Penalty, see §
 95.99
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 95.35 ADMINISTRATION BY PLANNING BOARD.
    (A)   The Planning Board for the town is hereby invested with full power and
 authority to administer and enforce the provisions of this chapter.
@@ -6384,7 +6384,7 @@ which three or more manufactured homes, manufactured home sites or combination
 thereof, are located and available for rent or lease for dwelling or sleeping
 purpose.
 (2004 Code, § 152.05) (Ord. passed 9-18-2000)
-DESIGN STANDARDS
+**** DESIGN STANDARDS ****
 § 152.20 MANUFACTURED HOME PARK CLASSIFICATIONS.
    For the purpose of this chapter, three manufactured home park
 classifications have been established as follows:
@@ -6517,7 +6517,7 @@ of all restrictions, setbacks and parking requirements.
 enforceable operation and maintenance agreement with the county’s Register of
 Deeds office.
 (2004 Code, § 152.25) (Ord. passed 9-18-2000)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 152.40 ORDINANCE ADMINISTRATOR.
    The Mayor shall assign the responsibility of administering and enforcing
 this chapter to the appropriate personnel of the county, who shall be referred

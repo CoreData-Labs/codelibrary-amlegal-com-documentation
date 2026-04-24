@@ -7,7 +7,7 @@ American Legal Publishing
 525 Vine Street, Suite 310
 Cincinnati, Ohio 45202
 1-800-445-5588 www.amlegal.com
-PREFACE
+**** PREFACE ****
    This city code of the city of Sunland Park, as supplemented, contains
 ordinances up to and including ordinance 2023-10, passed October 17, 2023.
 Ordinances of the city adopted after said ordinance supersede the provisions of
@@ -575,7 +575,7 @@ members of the Council.
    L.   City Manager;
    M.   Public Housing Director;
    N.   Court Administrator. (Ord. 2010-04, 4-14-2010)
-ARTICLE A. CITY CLERK
+*** ARTICLE A. CITY CLERK ***
 SECTION:
 1-7A-1: Office Created
 1-7A-2: Appointment And Selection Generally
@@ -669,7 +669,7 @@ The City Clerk serves at the pleasure of the Mayor and City Council should the
 position of the City Manager be vacant, and may, subject to the terms of any
 written employment contract, be removed by such at any time with or without
 cause. (Ord. 2013-06, 11-5-2013)
-ARTICLE B. CITY MANAGER
+*** ARTICLE B. CITY MANAGER ***
 SECTION:
 1-7B-1: Manager; Employment; Qualifications
 1-7B-2: Duties
@@ -741,7 +741,7 @@ ninety (90) days of employment and every six (6) months thereafter in a written
 format as approved and specified by the Governing Body; and
    C.   City staff is hereby authorized and instructed to do all deeds as
 necessary in the accomplishment of the herein above. (Res. 2016-21, 5-3-2016)
-ARTICLE C. DIRECTOR OF PUBLIC WORKS
+*** ARTICLE C. DIRECTOR OF PUBLIC WORKS ***
 SECTION:
 1-7C-1: Office Created
 1-7C-2: Appointment and Selection Generally
@@ -895,7 +895,7 @@ The Director of the Public Works serves at the pleasure of the Mayor and
 Council should the position of City Manager be vacant, and may, subject to the
 terms of any written employment contract, be removed at any time with or
 without cause. (Ord. 2013-10, 11-18-2013)
-ARTICLE D. SUNLAND PORT AUTHORITY
+*** ARTICLE D. SUNLAND PORT AUTHORITY ***
 SECTION:
 1-7D-1:    Corporate Responsibilities
 1-7D-2:    Accountability
@@ -977,7 +977,7 @@ Power to invoke authority in the preceding subsections A through H and the
 responsibility for exercising those authorities rests with the whole Board of
 Directors and the general chairman/executive director of the Sunland Port
 Authority. (Ord. 1991-04, 3-6-1991, eff. 3-6-1991)
-ARTICLE E. POLICE CHIEF
+*** ARTICLE E. POLICE CHIEF ***
 SECTION:
 1-7E-1: Office Created
 1-7E-2: Appointment And Selection Generally
@@ -1148,7 +1148,7 @@ The Chief of Police serves at the pleasure of the Mayor and Council should the
 position of the City Manager be vacant, and may, subject to the terms of any
 written employment contract, be removed by such at any time with or without
 cause. (Ord. 2013-08, 11-18-2013)
-ARTICLE F. FIRE CHIEF
+*** ARTICLE F. FIRE CHIEF ***
 SECTION:
 1-7F-1: Office Created
 1-7F-2: Appointment and Selection Generally
@@ -1335,7 +1335,7 @@ The Fire Chief serves at the pleasure of the Mayor and Council should the
 position of the City Manager be vacant, and may, subject to the terms of any
 written employment contract, be removed by such at any time with or without
 cause. (Ord. 2013-09, 11-18-2013)
-ARTICLE G. CITY ATTORNEY
+*** ARTICLE G. CITY ATTORNEY ***
 SECTION:
 1-7G-1: Office Created; Appointment
 1-7G-2: Appointment And Selection Generally
@@ -1355,7 +1355,7 @@ shall be responsible for the proper and efficient administration of the office
 of the attorney department of the city. This position shall be appointed solely
 on the basis of qualifications and shall not be limited by reason of former
 residence. (Ord. 04-10, 8-3-2004)
-1-7G-3: OATH; BOND:
+** 1-7G-3: OATH; BOND: **
 The city attorney shall take an oath or affirmation to support the constitution
 of the United States, the constitution and laws of the state and faithfully
 perform the duties of his office in conformance with New Mexico Statutes
@@ -1466,7 +1466,7 @@ department's activities, and prepares a variety of the reports as appropriate.
 The city attorney serves at the pleasure of the governing body and may, subject
 to the terms of any written employment contract, be removed by the governing
 body at any time with or without cause. (Ord. 04-10, 8-3-2004)
-ARTICLE H. CHILD AND FAMILY DEVELOPMENT DIRECTOR
+*** ARTICLE H. CHILD AND FAMILY DEVELOPMENT DIRECTOR ***
 SECTION:
 1-7H-1: Office Created; Appointment
 1-7H-2: Appointment And Selection Generally
@@ -1587,7 +1587,7 @@ and programs.
    C.   Environmental/Physical Conditions:
       1.   Work is primarily in an office.
       2.   Fieldwork is required. (Ord. 00-04, 6-20-2000)
-ARTICLE I. FINANCE DIRECTOR
+*** ARTICLE I. FINANCE DIRECTOR ***
 SECTION:
 1-7I-1: Office Created; Appointment
 1-7I-2: Appointment And Selection Generally
@@ -1672,7 +1672,7 @@ maintain the city's financial records for public inspection during regular
 business hours of the city;
       9.   Comply with the provisions of New Mexico Statutes Annotated 1978
 section 3-37-1 et seq. (Ord. 04-12, 8-3-2004)
-ARTICLE J. MOTOR VEHICLE MANAGER
+*** ARTICLE J. MOTOR VEHICLE MANAGER ***
 SECTION:
 1-7J-1: Office Created
 1-7J-2: Appointment and Selection Generally
@@ -4399,7 +4399,7 @@ TITLE 4
 PUBLIC HEALTH AND SAFETY
 CHAPTER 1
 HAZARDOUS MATERIALS
-ARTICLE A. TRANSPORTATION AND STORAGE; INVENTORY
+*** ARTICLE A. TRANSPORTATION AND STORAGE; INVENTORY ***
 SECTION:
 4-1A-1: Definitions
 4-1A-2: Exceptions
@@ -4623,7 +4623,7 @@ certification, which shall be filed with the Fire Chief. (Ord. 1992-08, 10-23-
 Violations of this Article as it pertains to NFPA Rule 704 standards or to any
 certifications or filings required under this Article shall be punishable as a
 misdemeanor. (Ord. 1992-08, 10-23-1992)
-ARTICLE B. INVENTORY; DISCLOSURE; MEDICAL WASTE DISPOSAL
+*** ARTICLE B. INVENTORY; DISCLOSURE; MEDICAL WASTE DISPOSAL ***
 SECTION:
 4-1B-1: Title
 4-1B-2: Annual Declaration Of Inventory
@@ -6468,8 +6468,8 @@ restricted sale and use shall control.
       Section 5601.1.3.16 Penalty. Shall be added to read as follows:
       Penalties listed in Section 112.4 Violation penalties herein shall apply.
       (Ord. 2023-10, 10-17-2023)
-CHAPTER 7
-NUISANCE ABATEMENT
+**** CHAPTER 7
+NUISANCE ABATEMENT ****
 SECTION:
 4-7-1:   Title
 4-7-2:   Purpose
@@ -6751,12 +6751,12 @@ TITLE 5
 POLICE REGULATIONS
 CHAPTER 1
 CRIMINAL CODE; NUISANCES
-ARTICLE A. TITLE; DEFINITIONS; PENALTY
+*** ARTICLE A. TITLE; DEFINITIONS; PENALTY ***
 SECTION:
-5-1A-1: Title
-5-1A-2: Definitions And Rules Of Construction
+** 5-1A-1: Title **
+** 5-1A-2: Definitions And Rules Of Construction **
 5-1A-3: Amendments
-5-1A-4: Penalty
+** 5-1A-4: Penalty **
 5-1A-1: TITLE:
 This Chapter, including Articles A through F, is called and may be cited as the
 CRIMINAL CODE ORDINANCE ON GENERAL OFFENSES for the City. (Ord. 1984-20, 12-18-
@@ -6858,7 +6858,7 @@ separate offense; provided, however, that if a specific penalty is provided
 therefor, in any particular and individual section of this Chapter, then the
 specific penalty shall prevail.
 (Ord. 1984-20, 12-18-1984; amd. 2000 Code)
-ARTICLE B. PUBLIC ORDER AND SAFETY
+*** ARTICLE B. PUBLIC ORDER AND SAFETY ***
 SECTION:
 5-1B-1: Assault And Battery
 5-1B-2: Trespass
@@ -7098,7 +7098,7 @@ to escape from such custody or confinement.
 assist or offer to assist any person in custody of or confined under the
 authority of the City to escape from jail, place of confinement or custody.
 (Ord. 1984-20, 12-18-1984)
-ARTICLE C. PROPERTY
+*** ARTICLE C. PROPERTY ***
 SECTION:
 5-1C-1: Destroying Or Defacing Property
 5-1C-2: Library Property
@@ -7199,7 +7199,7 @@ destroyed by the use. (Ord. 1984-20, 12-18-1984)
 It is unlawful for any unauthorized person to move, distribute or take away any
 earth, stone or other material from any public street, way, alley, park or
 public ground. (Ord. 1984-20, 12-18-1984)
-ARTICLE D. PUBLIC MORALS
+*** ARTICLE D. PUBLIC MORALS ***
 SECTION:
 5-1D-1: Lewd, Immoral Or Obscene Acts
 5-1D-2: Sale Or Distribution Of Obscene Materials
@@ -7349,7 +7349,7 @@ subject to four (4) hours of community service.
       2.   A person eighteen (18) or older who violates this section shall be
 subject to a fine of up to five hundred dollars ($500), ninety (90) days in
 jail or both. (Ord. 2021-8, 9-7-2021)
-ARTICLE E. MINORS
+*** ARTICLE E. MINORS ***
 SECTION:
 5-1E-1: Abandonment Of Children
 5-1E-2: Cruelty To Children
@@ -7567,14 +7567,14 @@ reasonable costs for that response.
       2.   These costs are wholly separate from any other penalties imposed for
 a violation of this Section. The City may pursue to recover these costs under a
 separate action as permitted by law. (Ord. 2017-1, 7-18-2017)
-ARTICLE F. NUISANCES
+*** ARTICLE F. NUISANCES ***
 SECTION:
 5-1F-1: Public Nuisance
 5-1F-2: Nuisance Declared
 5-1F-3: Notice Of Nuisance
 5-1F-4: Corn plaint
 5-1F-5: Removal Of Nuisance
-5-1F-6: Injunctions
+** 5-1F-6: Injunctions **
 5-1F-1: PUBLIC NUISANCE:
 It is unlawful to commit public nuisance. Public nuisance consists of knowingly
 creating, performing or maintaining anything affecting any number of citizens
@@ -8767,8 +8767,8 @@ thousand dollars ($10,000.00), or imprisoned not more than ten (10) years or
 both; and if death results shall be subject to imprisonment for any term of
 years or for life and/or to other applicable local/state/federal laws. (Ord.
 2010-08, 7-7-2010)
-CHAPTER 4
-GRAFFITI CONTROL
+**** CHAPTER 4
+GRAFFITI CONTROL ****
 SECTION:
 5-4-1: Title
 5-4-2: Definitions
@@ -14554,8 +14554,8 @@ imminent peril to life and property. In such case, proceedings shall not be
 stayed other than by a restraining order which may be granted by the Board of
 Adjustment or by a court of competent jurisdiction on proper application and
 showing of competent evidence. (Ord. 1985-03, 4-16-1985; amd. 2000 Code)
-CHAPTER 4
-ZONING DISTRICTS; MAP
+**** CHAPTER 4
+ZONING DISTRICTS; MAP ****
 SECTION:
 10-4-1: Official Zoning Map
 10-4-2: Replacement Of Official Zoning Map
@@ -14710,7 +14710,7 @@ otherwise permitted by ordinance. (Ord. 1987-03, 1-6-1987; amd. Ord. 1998-06,
 10-6-1998; amd. Ord. 2022-3, 1-4-2022)
 CHAPTER 5
 RESIDENTIAL DISTRICTS
-ARTICLE A. RE RURAL ESTATE DISTRICT
+*** ARTICLE A. RE RURAL ESTATE DISTRICT ***
 SECTION:
 10-5A-1: Purpose
 10-5A-2: Permissive Uses
@@ -14758,7 +14758,7 @@ Title. (Ord. 1985-03, 4-16-1985)
 10-5A-7: SIGNS:
 Sign restrictions shall be as provided in Chapter 14 of this Title. (Ord. 1985-
 03, 4-16-1985)
-ARTICLE B. RE-1 AGRICULTURAL RURAL ESTATE DISTRICT
+*** ARTICLE B. RE-1 AGRICULTURAL RURAL ESTATE DISTRICT ***
 SECTION:
 10-5B-1: Purpose
 10-5B-2: Permissive Uses and Limitations
@@ -14863,7 +14863,7 @@ homeowner's association, or similar instrument should one exist. Said review
 shall take place prior to review by the city of an application for any type of
 building permit proposed to be issued on the property. (Ord. 1998-01, 2-3-1998;
 amd. Ord. 2006-07, 5-16-2006)
-ARTICLE C. R-1 SINGLE-FAMILY RESIDENTIAL DISTRICT
+*** ARTICLE C. R-1 SINGLE-FAMILY RESIDENTIAL DISTRICT ***
 SECTION:
 10-5C-1: Intent
 10-5C-2: Permissive Uses
@@ -14936,7 +14936,7 @@ placement of manufactured home or slab. "Finish grade" shall be defined as the
 finish floor of the home minus six inches (6") and sloping away from the home.
 The finish grade may or may not be the same as the natural grade. (Ord. 1998-
 05, 10-6-1998)
-ARTICLE D. TC SINGLE-FAMILY TOWNHOUSE AND CONDOMINIUMS DISTRICT
+*** ARTICLE D. TC SINGLE-FAMILY TOWNHOUSE AND CONDOMINIUMS DISTRICT ***
 SECTION:
 10-5D-1: Intent
 10-5D-2: Permissive Uses
@@ -14995,7 +14995,7 @@ staff of the City, and bicycle paths and walkways as are conducive to the
 purposes of the development. Nothing herein shall be construed to waive
 applicable standards for construction of asphalt streets. (Ord. 1985-03, 4-16-
 1985)
-ARTICLE E. MR MIXED RESIDENTIAL DISTRICT
+*** ARTICLE E. MR MIXED RESIDENTIAL DISTRICT ***
 SECTION:
 10-5E-1: Purpose
 10-5E-2: Permissive Uses
@@ -15075,7 +15075,7 @@ Off-street parking shall be as provided in Chapter 13 of this Title. (Ord.
 10-5E-7: SIGNS:
 Signs shall be limited as provided in Chapter 14 of this Title. (Ord. 1985-03,
 4-16-1985)
-ARTICLE F. MF MULTI-FAMILY RESIDENTIAL DISTRICT
+*** ARTICLE F. MF MULTI-FAMILY RESIDENTIAL DISTRICT ***
 SECTION:
 10-5F-1: Purpose
 10-5F-2: Permissive Uses
@@ -15133,7 +15133,7 @@ Title. (Ord. 1985-03, 4-16-1985)
 10-5F-7: SIGNS:
 Signs shall be limited as provided in Chapter 14 of this Title. (Ord. 1985-03,
 4-16-1985)
-ARTICLE G. PD PRESERVATION DISTRICT
+*** ARTICLE G. PD PRESERVATION DISTRICT ***
 SECTION:
 10-5G-1: Intent And Purpose
 10-5G-2: Permissive Uses
@@ -15201,7 +15201,7 @@ facilities are warranted or necessary providing approval is granted under
 appropriate provisions of this code. (Ord. 03-06, 8-5-2003)
 CHAPTER 6
 COMMERCIAL DISTRICTS
-ARTICLE A. C-1 LIGHT COMMERCIAL DISTRICT
+*** ARTICLE A. C-1 LIGHT COMMERCIAL DISTRICT ***
 SECTION:
 10-6A-1: Purpose
 10-6A-2: Permissive Uses
@@ -15268,7 +15268,7 @@ Title. No loading or unloading is to be conducted in a public street. (Ord.
 10-6A-7: SIGNS:
 Signs shall be limited as provided in Chapter 14 of this Title. (Ord. 1999-02,
 3-2-1999)
-ARTICLE B. C-2 GENERAL COMMERCIAL DISTRICT
+*** ARTICLE B. C-2 GENERAL COMMERCIAL DISTRICT ***
 SECTION:
 10-6B-1: Purpose
 10-6B-2: Permissive Uses
@@ -15344,7 +15344,7 @@ Sign limitations shall be as provided in Chapter 14 of this Title. (Ord. 1985-
 03, 4-16-1985)
 CHAPTER 7
 INDUSTRIAL DISTRICTS
-ARTICLE A. M-1 LIGHT INDUSTRIAL DISTRICT
+*** ARTICLE A. M-1 LIGHT INDUSTRIAL DISTRICT ***
 SECTION:
 10-7A-1: Purpose
 10-7A-2: Permissive Uses
@@ -15397,7 +15397,7 @@ title. No loading or unloading is to be conducted on a public way. (Ord. 03-05,
 10-7A-6: SIGNS:
 Sign limitations shall be as provided in chapter 14 of this title. (Ord. 03-05,
 8-5-2003)
-ARTICLE B. M-2 HEAVY INDUSTRIAL DISTRICT
+*** ARTICLE B. M-2 HEAVY INDUSTRIAL DISTRICT ***
 SECTION:
 10-7B-1: Purpose
 10-7B-2: Permissive Uses
@@ -16066,8 +16066,8 @@ Code)
 accordance with provisions of this Section.
       17.   One mobile home may be placed in the RVP for use by a caretaker.
 (Ord. 1998-07, 10-6-1998)
-CHAPTER 11
-SUPPLEMENTARY DISTRICT REGULATIONS
+**** CHAPTER 11
+SUPPLEMENTARY DISTRICT REGULATIONS ****
 SECTION:
 10-11-1: Scope
 10-11-2: Visibility At Intersections
@@ -16476,8 +16476,8 @@ of this Title (other than a change through Board of Adjustment action from a
 nonconforming use to another nonconforming use), shall not be deemed a
 nonconforming use in such district, but shall without further action be
 considered a conforming use. (Ord. 1985-03, 4-16-1985)
-CHAPTER 13
-OFF-STREET PARKING AND LOADING
+**** CHAPTER 13
+OFF-STREET PARKING AND LOADING ****
 SECTION:
 10-13-1: Off-Street Parking Requirements
 10-13-2: Loading And Unloading Requirements
@@ -18192,8 +18192,8 @@ liability insurance of not less than five hundred thousand dollars
 persons, and two million dollars ($2,000,000.00) for property damage. This
 requirement does not preclude the permittee from being self-insured. (Ord. 03-
 04, 8-5-2003)
-CHAPTER 17
-RESIDENTIAL/COMMERCIAL PLANNED UNIT DEVELOPMENT DISTRICT ("RCPUD")
+**** CHAPTER 17
+RESIDENTIAL/COMMERCIAL PLANNED UNIT DEVELOPMENT DISTRICT ("RCPUD") ****
 SECTION:
 10-17-1: Purpose
 10-17-2: Permissive Uses and Limitations
@@ -18994,8 +18994,8 @@ are not taken in order to bring the affected WTF into compliance, then the city
 may revoke such special use permit for the affected WTF and shall notify the
 holder of the special use permit within forty-eight (48) hours of such action.
 (Ord. 2005-07, 10-4-2005)
-CHAPTER 19
-NEW URBANISM DISTRICT
+**** CHAPTER 19
+NEW URBANISM DISTRICT ****
 SECTION:
 10-19-1: Short Title
 10-19-2: Authority
@@ -21717,8 +21717,8 @@ IMAGES/0-0-0-1766.png]
 [https://export.amlegal.com/media/7009f9bf3dba1358d9b99c59ee8328bce8cace2a/
 IMAGES/0-0-0-1764.png]
  
-CHAPTER 4
-DESIGN STANDARDS
+**** CHAPTER 4
+DESIGN STANDARDS ****
 SECTION:
 11-4-1: General
 11-4-2: Streets And Alleys
@@ -21965,8 +21965,8 @@ storm sewer, flood control easements and channels, and for hydraulic structures
 will be provided by the Governing Body, which must approve plans and
 specifications for these structures. Right-of-way easements for all open
 channels shall be dedicated to the City. (Ord. 2019-2, 4-12-2019)
-CHAPTER 5
-PLATTING REQUIREMENTS
+**** CHAPTER 5
+PLATTING REQUIREMENTS ****
 SECTION:
 11-5-1: Preliminary Plat
 11-5-2: Final Plat
@@ -22160,8 +22160,8 @@ dimensions and the dimensions of all land dedicated for public use or for the
 use of the owners of lots fronting or adjacent to the land. Description of the
 lots by number and plat designation are valid in conveyances and for the
 purpose of taxation. (Ord. 2019-2, 4-12-2019)
-CHAPTER 6
-IMPROVEMENTS
+**** CHAPTER 6
+IMPROVEMENTS ****
 SECTION:
 11-6-1: Authorization To Construct Public Improvements
 11-6-2: Completion Of Improvements
@@ -22275,8 +22275,8 @@ City of Sunland Park. (Ord. 2019-2, 4-12-2019)
                                               
 5 ADA Standards for Accessible Design, https://www.ada.gov/regs2010/
 2010ADAstandards.htm, or current standards
-CHAPTER 7
-VARIANCES
+**** CHAPTER 7
+VARIANCES ****
 SECTION:
 11-7-1: Modification of Requirements, Hardship
 11-7-1: MODIFICATION OF REQUIREMENTS, HARDSHIP:
@@ -22312,8 +22312,8 @@ subdivider has requested a modification of requirements, approval of the
 preliminary plat is confirmation of approval of requested modifications and is
 authorization for the subdivider to proceed with the preparation of plans and
 specifications for required improvements. (Ord. 2019-2, 4-12-2019)
-CHAPTER 8
-PUBLIC IMPROVEMENT DISTRICTS
+**** CHAPTER 8
+PUBLIC IMPROVEMENT DISTRICTS ****
 SECTION:
 11-8-1: General Policies
 11-8-2: Pre-Application Meeting With PID Review Staff
