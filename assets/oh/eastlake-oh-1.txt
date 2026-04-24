@@ -24474,7 +24474,7 @@ Animals and Fowl
 505.06   Poisoning animals.
 505.07   Cruelty to animals generally.
 505.071   Cruelty to companion animals.   
-505.072    Tethering animals.
+*** 505.072    Tethering animals. ***
 505.08   Nuisance conditions prohibited.
 505.09   Barking or howling dogs.
 505.10   Animal bites; reports and quarantine.
@@ -58243,8 +58243,7 @@ Barriers shall be located to prohibit permanent structures, equipment, or
 similar objects from being used to climb them.
          (Ord. 2007-032. Passed 4-10-07.)
 1359.08 INDOOR SWIMMING POOL; WALLS SURROUNDING AN INDOOR SWIMMING POOL SHALL
-COMPLY WITH SECTION
-1359.07.
+COMPLY WITH SECTION 1359.07.
    (a)   Prohibited Locations. Barriers shall be located to prohibit permanent
 structures, equipment or similar objects from being used to climb them.
    (b)   Barrier Exceptions. Spas or hot tubs with a safety cover which
