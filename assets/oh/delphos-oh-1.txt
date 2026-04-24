@@ -22291,8 +22291,7 @@ laws of the United States.
 a contribution. This inclusion does not indicate or imply that a contribution
 was not included in those terms before September 17, 1986.
    (h)   "Campaign committee," "contribution," "political action committee,"
-“legislative campaign fund,” “political party” and “political contributing
-entity” have the same meanings as in Ohio R.C. 3517.01.
+“legislative campaign fund,”
    (i)   "Provider agreement" has the same meaning as in Ohio R.C. 5164.01.
       (ORC 2921.01)
    525.02 FALSIFICATION.
@@ -35372,18 +35371,18 @@ GUTTER SPREAD AND INLET CAPACITY COMPUTATION SHEET
  
 [https://export.amlegal.com/media/228922d33b7548cfef12e8eab3bf83e42cca9bc5/
 IMAGES/0-0-0-1840.gif]
-SHEET G-3
-FLOW CHARACTERISTIC CURVES
+*** SHEET G-3
+FLOW CHARACTERISTIC CURVES ***
  
 [https://export.amlegal.com/media/228922d33b7548cfef12e8eab3bf83e42cca9bc5/
 IMAGES/0-0-0-1843.gif]
-CHART G-4
-NOMOGRAPH FOR FLOW IN TRIANGULAR CHANNELS
+*** CHART G-4
+NOMOGRAPH FOR FLOW IN TRIANGULAR CHANNELS ***
  
 [https://export.amlegal.com/media/228922d33b7548cfef12e8eab3bf83e42cca9bc5/
 IMAGES/0-0-0-1846_6965x7580.jpg]
-CHART G-5
-SLOPE EQUIVALENTS
+*** CHART G-5
+SLOPE EQUIVALENTS ***
 in./ft. in./ft. ft./ft. z      z/0.015   in./ft. in./ft. ft./ft. z     z/0.015
 1/64    .0120   .0010   1000.0 66,666   19/32   .5938   .0495   20.21 1,347
         .0156   .0013   769.2  51,282          .6000   .0500   20.00 1,333
@@ -35433,16 +35432,16 @@ in./ft. in./ft. ft./ft. z      z/0.015   in./ft. in./ft. ft./ft. z     z/0.015
 17/32   .5313   .0443   22.59  1,505     11      11.00   .9167   1.091 73
         .5400   .0450   22.22  1,481             11.50   .9583   1.044 70
 9/16    .5625   .0469   21.33  1,421     12      12.00   1.000   1.000 67
-CHART G-6
-CAPACITY OF CURB OPENING INLETS ON CONTINUOUS GRADE
+*** CHART G-6
+CAPACITY OF CURB OPENING INLETS ON CONTINUOUS GRADE ***
  
 [https://export.amlegal.com/media/228922d33b7548cfef12e8eab3bf83e42cca9bc5/
 IMAGES/0-0-0-1849_6854x9720.jpg]
-CHART G-7
+*** CHART G-7 ***
  
 [https://export.amlegal.com/media/228922d33b7548cfef12e8eab3bf83e42cca9bc5/
 IMAGES/0-0-0-1852.gif]
-SHEET H-1
+*** SHEET H-1 ***
  
 [https://export.amlegal.com/media/228922d33b7548cfef12e8eab3bf83e42cca9bc5/
 IMAGES/0-0-0-1855.gif]
@@ -35476,23 +35475,23 @@ LOT TERMS
 IMAGES/0-0-0-1858_7454x6440.jpg]
 Lot Area = Total horizontal area
 Lot Coverage = Per cent of lot occupied by building
-SUPPLEMENT - 2
-TYPICAL PREAPPLICATION SKETCH
+**** SUPPLEMENT - 2
+TYPICAL PREAPPLICATION SKETCH ****
  
 [https://export.amlegal.com/media/228922d33b7548cfef12e8eab3bf83e42cca9bc5/
 IMAGES/0-0-0-1861_7667x11680.jpg]
-SUPPLEMENT - 3
-TYPICAL PRELIMINARY SUBDIVISION PLAT
+**** SUPPLEMENT - 3
+TYPICAL PRELIMINARY SUBDIVISION PLAT ****
  
 [https://export.amlegal.com/media/228922d33b7548cfef12e8eab3bf83e42cca9bc5/
 IMAGES/0-0-0-1864_7507x11734.jpg]
-SUPPLEMENT - 4
-TYPICAL FINAL SUBDIVISION PLAT
+**** SUPPLEMENT - 4
+TYPICAL FINAL SUBDIVISION PLAT ****
  
 [https://export.amlegal.com/media/228922d33b7548cfef12e8eab3bf83e42cca9bc5/
 IMAGES/0-0-0-1867_7480x10360.jpg]
-SUPPLEMENT - 5
-EXAMPLE OF A SUBDIVISION
+**** SUPPLEMENT - 5
+EXAMPLE OF A SUBDIVISION ****
  
 [https://export.amlegal.com/media/228922d33b7548cfef12e8eab3bf83e42cca9bc5/
 IMAGES/0-0-0-1870.gif]
@@ -35577,7 +35576,7 @@ If plat rejected, reason(s) for rejection:   ________________________________
 _____________________________________________________________________
 Date:   __________________   _________________________________________
                   Signature, Chm. Planning Commission
-PRELIMINARY PLAN CHECKLIST
+**** PRELIMINARY PLAN CHECKLIST ****
 Date:   __________________
 SUBDIVISION:_____________________________________________
 Check Item for Compliance with Subdivision Regulations - Refer to Typical
@@ -35617,7 +35616,7 @@ Sketch Plan review
  
  
  
-APPLICATION FOR FINAL PLAT APPROVAL
+**** APPLICATION FOR FINAL PLAT APPROVAL ****
  
 CITY OF DELPHOS, OHIO
 Date:   ____________________Application No._________________________
@@ -35669,7 +35668,7 @@ Date:   ____________________   _______________________________________
                Signature of Chm, Planning Commission
  
  
-FINAL PLAT CHECKLIST
+**** FINAL PLAT CHECKLIST ****
 Date:__________________________
 Subdivision:__________________________________________________________
    Submitted within 12 months of preliminary approval
@@ -35697,7 +35696,7 @@ lengths of cords
    Required final certifications
    Fees
  
-FEES
+**** FEES ****
 1.   Two-Four Lot Division (Minor Subdivision)
    Fees for minor subdivision submittal shall be as follows:
    a.    One Lot Division      $10
@@ -41550,8 +41549,7 @@ information important in prehistory or history.
 owner, may recommend to Council that the designation of “Historic Resource” be
 assigned to each building within the Downtown Business District that meets the
 above criteria. When necessary, the Board may also recommend that a current
-designation of “Historic Resource” be rescinded. The Board may act upon such
-recommendations of the Board by resolution.
+designation of “
    (c)   Each Historic Resource shall be documented in the City Historic
 Resource Inventory. This inventory shall consist of a completed Ohio Historic
 Inventory form and a Facade Condition Survey form with a recent photograph. A
