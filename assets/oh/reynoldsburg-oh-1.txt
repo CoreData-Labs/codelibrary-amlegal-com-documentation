@@ -10,7 +10,7 @@ Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
 Adopting Ordinance
-ORDINANCE NO. 61-80
+**** ORDINANCE NO. 61-80 ****
 AN ORDINANCE TO APPROVE, ADOPT AND ENACT THE 1980 CODIFIED ORDINANCES
    WHEREAS, the ordinances of the City need to be recodified due to the
 adoption of the City Charter, and
@@ -75,7 +75,7 @@ ATTEST    /s/ Sonja A. Herd
       Clerk of Council
 APPROVED   /s/ John K. Francis       DATE July 15, 1980
       Mayor
-ORDINANCE NO. 181-97
+**** ORDINANCE NO. 181-97 ****
 PASSED: December 22, 1997
 AN ORDINANCE TO APPROVE, ADOPT AND ENACT A SUPPLEMENT TO THE CODE OF ORDINANCES
 FOR THE CITY OF REYNOLDSBURG, OHIO
@@ -107,7 +107,7 @@ ATTEST:   Nancy C. Frazier /s/
       Nancy C. Frazier, Clerk of Council
 APPROVED:   Robert L. McPherson /s/         DATE 12/26/97
       Robert L. McPherson, Mayor
-ORDINANCE NO. 23-99
+**** ORDINANCE NO. 23-99 ****
 PASSED: February 22, 1999
 AN ORDINANCE TO APPROVE, ADOPT AND ENACT A SUPPLEMENT TO THE CODE OF ORDINANCES
 FOR THE CITY OF REYNOLDSBURG, OHIO
@@ -139,7 +139,7 @@ ATTEST:   Nancy C. Frazier /s/
       Nancy C. Frazier, Clerk of Council
 APPROVED:   Robert L. McPherson /s/         DATE 2/23/99
       Robert L. McPherson, Mayor
-ORDINANCE NO. 60-2000
+**** ORDINANCE NO. 60-2000 ****
 PASSED: May 22, 2000
 ORDINANCE AMENDING ORDINANCE TO APPROVE, ADOPT AND ENACT A SUPPLEMENT TO THE
 CODE OF ORDINANCES FOR THE CITY OF REYNOLDSBURG, OHIO AND DECLARING AN
@@ -168,7 +168,7 @@ the Record of Proceedings of said Council.
                       Nancy C. Frazier /s/
                      Nancy C. Frazier, Clerk of Council
 Filed with Mayor: 5-23-00            Published:  6-14-2000
-ORDINANCE NO. 63-2000
+**** ORDINANCE NO. 63-2000 ****
 PASSED: May 22, 2000
 AN ORDINANCE TO APPROVE, ADOPT AND ENACT A SUPPLEMENT TO THE CODE OF ORDINANCES
 FOR THE CITY OF REYNOLDSBURG, OHIO
@@ -212,7 +212,7 @@ the Record of Proceedings of said Council.
                      Nancy C. Frazier, Clerk of Council
 Filed with Mayor: 5-23-00            Published:
                                           
-ORDINANCE NO. 71-03
+**** ORDINANCE NO. 71-03 ****
 PASSED: September 8, 2003
 AN ORDINANCE TO APPROVE, ADOPT AND ENACT A SUPPLEMENT TO THE CODE OF ORDINANCES
 FOR THE CITY OF REYNOLDSBURG, OHIO
@@ -255,7 +255,7 @@ in the Record of Proceedings of said Council.
 Nancy C. Frazier /s/
 Nancy C. Frazier, Clerk of Council
 Filed with Mayor: 9-10-03            Published: 8-28-03
-ORDINANCE NO. 13-04
+**** ORDINANCE NO. 13-04 ****
 PASSED: March 8, 2004
 AN ORDINANCE AMENDING ORDINANCE 71-03 PASSED SEPTEMBER 8, 2003
 (Supplement to the Code of Ordinances for the City of Reynoldsburg, Ohio)
@@ -4264,7 +4264,7 @@ REYNOLDSBURG CHARTER
 1979. Dates appearing in parentheses following section headings indicate that
 those provisions were subsequently amended, added or repealed on the date
 given.
-TABLE OF CONTENTS
+**** TABLE OF CONTENTS ****
 PREAMBLE
 ARTICLE I.
 NAME; BOUNDARIES; FORM OF GOVERNMENT
@@ -4434,7 +4434,7 @@ TRANSITIONAL PROVISIONS
 12.02   Effect of Charter on Existing Offices.
    Section
 12.03   Continuance of Present Employees.
-PREAMBLE
+**** PREAMBLE ****
    In order that we may have the benefits of municipal home rule and exercise
 all of the powers of local self-government and other powers conferred under the
 Constitution and Statutes of the State of Ohio, We, the citizens of the City of
@@ -5885,7 +5885,7 @@ continue in such employment, subject in all respects to the provisions of this
 Charter and ordinances, resolutions, rules or regulations enacted or
 promulgated under this Charter.
 PART ONE - ADMINISTRATIVE CODE
-TITLE ONE - General Provisions
+***** TITLE ONE - General Provisions *****
    Chap.
 101. Codified Ordinances.
    Chap.
@@ -6630,7 +6630,7 @@ said Main Street;
    Thence northeasterly, with said centerline to the point of beginning.
 (Ord. 128-93. Passed 10-11-93; Ord. 77-02. Passed 9-23-02; Ord. 14- 13. Passed
 3-25-13.)
-TITLE THREE - Legislative
+***** TITLE THREE - Legislative *****
    Chap.
 121.   Council.
    Chap.
@@ -6745,7 +6745,7 @@ eight thousand six hundred fifty-seven dollars and twenty- eight cents
 increases as shown on Exhibit A to Ordinance No. 21-2020.
 (Ord. 4-99. Passed 1-11-99; Ord. 7-03. Passed 2-10-03; Ord. 02-06. Passed 1-23-
 06; Ord. 46-11. Passed 10-24-11; Ord. 21-2020. Passed 3- 9-20.)
-TITLE FIVE - Administrative
+***** TITLE FIVE - Administrative *****
    Chap.
 141.   Mayor.
    Chap.
@@ -7629,7 +7629,7 @@ MUNICIPAL CIVIL SERVICE
    Civil Service Law - see Ohio R.C. Ch. 124
    Civil Service Commission - see CHTR. §
 7.03
-PERSONNEL
+*** PERSONNEL ***
 157.01 SECRETARY.
    (a)   There is hereby established the part-time position of Secretary to the
 Civil Service Commission.
@@ -7643,7 +7643,7 @@ monthly basis.
    (d)   The Board of Education shall be billed on a quarterly basis for
 expenses incurred for supplies, postage and other necessary items.
 (Ord. 101-82. Passed 11-22-82.)
-CIVIL SERVICE EXAMINATIONS
+*** CIVIL SERVICE EXAMINATIONS ***
 157.02 EXAMINATIONS; PREFERENCES; SENIORITY.
    (a)   All applicants for positions and places in the classified service
 shall be subject to examination, except as otherwise provided in Ohio R.C.
@@ -7713,7 +7713,7 @@ to be conducted for positions in the classified civil service and such notices
 shall be posted in a conspicuous place in City Hall and on the City's internet
 site for a minimum of two weeks preceding any examination involved.
 (Ord. 86-16. Passed 9-26-16; Ord. 20-19. Passed 2-11-19.)
-APPOINTMENT, RESTORATION, TRANSFER AND REMOVAL
+*** APPOINTMENT, RESTORATION, TRANSFER AND REMOVAL ***
 157.03 APPOINTMENTS; CERTIFIED AND PROVISIONAL; PROBATIONARY PERIOD.
    (a)   The appointing authority of a department in which a position in the
 classified service is to be filled, shall notify the Civil Service Commission
@@ -7779,7 +7779,7 @@ may be made under provisions of Ohio R.C. 124.34 during the first sixty days or
 first half of the probationary period, whichever is greater.
 (ORC 124.27; Ord. 101-82. Passed 11-22-82; Ord. 76-97. Passed 6-9-97; Ord. 28-
 2000. Passed 3-13-00; Ord. 20-19. Passed 2-11-19.)
-MUNICIPAL CIVIL SERVICE
+*** MUNICIPAL CIVIL SERVICE ***
 157.04 PROMOTION OF POLICE OFFICER.
    (a)   No positions above the rank of police officer shall be filled by
 original appointment. Vacancies in positions above the rank of police officer
@@ -10313,7 +10313,7 @@ contract as to its form. Any clause in any contract or agreement that requires
 the City to indemnify another party to the contract shall be void and
 unenforceable against the City.
 (Ord. 155-17. Passed 12-18-17.)
-TITLE SEVEN - Judicial
+***** TITLE SEVEN - Judicial *****
    Chap.
 181.   Mayor's Court.
 CHAPTER 181
@@ -10383,7 +10383,7 @@ schedule of fines to be accepted as waiver payment in lieu of court appearance.
    Trial - see Ohio R.C. Ch. 2938
    Notification to Director of liquor law convictions - see Ohio R.C. 4301.991
    Record of traffic violations - see Ohio R.C. 4513.37
-TITLE NINE - Taxation
+***** TITLE NINE - Taxation *****
    Chap.
 190.   Income Tax Effective January 1, 2016.
    Chap.
@@ -13336,7 +13336,7 @@ registration of a motor vehicle is made as provided in Ohio R.C. 4503.10.
 City for the purposes specified in this section.
 (Ord. 78-87. Passed 8-17-87.)
 PART THREE - TRAFFIC CODE
-TITLE ONE - Administration
+***** TITLE ONE - Administration *****
    Chap.
 301.   Definitions.
    Chap.
@@ -14506,7 +14506,7 @@ observes the violation furnishes to the law enforcement officer who makes the
 arrest or issues the citation a description of the alleged violation and the
 motor vehicle for proper identification.
 (Ord. 74-18. Passed 6-25-18.)
-TITLE THREE - Streets and Traffic Control Devices
+***** TITLE THREE - Streets and Traffic Control Devices *****
    Chap.
 311.   Street Obstructions and Special Uses.
    Chap.
@@ -15145,7 +15145,7 @@ signal to green out of sequence.
    (EDITOR'S NOTE: See Section
 303.99 for general Traffic Code penalty and penalties applicable to misdemeanor
 classifications.)
-TITLE FIVE - Vehicles
+***** TITLE FIVE - Vehicles *****
    Chap.
 331.   Operation Generally.
    Chap.
@@ -21398,7 +21398,7 @@ be prosecuted under appropriate State law.
 otherwise is provided in the section that contains the provision violated is
 guilty of a misdemeanor of the first degree.
 (ORC 4506.99)
-TITLE SEVEN - Parking
+***** TITLE SEVEN - Parking *****
    Chap.
 351.   Parking Generally.
 CHAPTER 351
@@ -21993,7 +21993,7 @@ offense, the person is guilty of a misdemeanor of the third degree.
 351.99 PENALTY.
    (EDITOR'S NOTE: See Section
 303.99 for misdemeanor classifications and penalties.)
-TITLE NINE - Pedestrians, Bicycles and Motorcycles
+***** TITLE NINE - Pedestrians, Bicycles and Motorcycles *****
    Chap.
 371.   Pedestrians.
    Chap.
@@ -41518,7 +41518,7 @@ adult entertainment and/or sexually oriented business or club while acting
 within the scope of authority conferred by this chapter.
 PART NINE - STREETS, UTILITIES AND
 PUBLIC SERVICES CODE
-TITLE ONE - Street and Sidewalk Areas
+***** TITLE ONE - Street and Sidewalk Areas *****
    Chap.
 901.   Street Excavations.
    Chap.
@@ -42757,7 +42757,7 @@ any subsequent offense.
 process set forth in this chapter. Each calendar day for which the violation
 persists constitutes a separate offense.
 (Ord. 21-16. Passed 3-28-16.)
-TITLE THREE - Utilities
+***** TITLE THREE - Utilities *****
    Chap.
 941.   Sewer Regulations.
    Chap.
@@ -43107,7 +43107,7 @@ edition.
 941.22 DEDUCTIONS FROM CHARGES.
    (Former Section 941.22 was repealed by Ordinance 151-76, passed December 27,
 1976.)
-   941.23 CHANGE OF USE.
+**    941.23 CHANGE OF USE. **
    (a)   Where any property in the City has a changed use that would make it
 subject to a different system capacity charge, or similar charge, then such
 property shall be subject to the full appropriate charge for the changed use,
@@ -43691,7 +43691,7 @@ SEWER SYSTEM REGULATIONS
 541.04
    Tampering with water system - see GEN. OFF.
 541.08
-WATER SYSTEM REGULATIONS
+*** WATER SYSTEM REGULATIONS ***
 957.01 DEFINITIONS.
    (a)   "Potable water" means water which does not contain contamination,
 objectionable pollution or infection and is considered satisfactory for
@@ -43863,7 +43863,7 @@ Office of a change of ownership. The effective date of a change of ownership
 with regard to billing shall be the date on which the Water Billing Office is
 notified.
 (Ord. 101-89. Passed 9-11-89.)
-SEWER SYSTEM REGULATIONS
+*** SEWER SYSTEM REGULATIONS ***
 957.11 DEFINITIONS.
    (a)   "Sanitary (domestic) sewage" means liquid or water-carried wastes from
 dwellings, business buildings, institutions and the like, which may not contain
@@ -44505,7 +44505,7 @@ public.
 misdemeanor. A separate offense shall be deemed committed upon each day during
 or on which an offense occurs or continues.
 (Ord. 52-04. Passed 5-10-04.)
-TITLE FIVE - Additional Public Services
+***** TITLE FIVE - Additional Public Services *****
    Chap.
 971.    Municipal Parks.
    Chap.
@@ -54063,7 +54063,7 @@ of zoning category; (3) Antennas used by amateur radio operators are excluded
 from this definition.
 (Ord. 33-2020. Passed 3-23-20; Ord. 103-2021. Passed 7-26-21.)
 PART THIRTEEN - BUILDING CODE
-TITLE ONE - Administration
+***** TITLE ONE - Administration *****
    Chap.
 1301.   Building Division.
    Chap.
@@ -54548,7 +54548,7 @@ CHAPTER 1307
 Appeals and Variances
 EDITOR’S NOTE: Chapter 1307 was repealed by Ordinance No. 05-16, passed
 February 8, 2016.
-TITLE THREE - General Standards
+***** TITLE THREE - General Standards *****
    Chap.
 1325. Residential Code of Ohio for 1, 2, and 3 Family Dwellings.
    Chap.
@@ -55910,7 +55910,7 @@ abate the nuisance of failure to cease work after receipt of a stop work order
 as referred to in Section
 1339.06(b).
 (Ord. 122-02. Passed 12-16-02; Ord. 05-16. Passed 2-8-16.)
-TITLE FIVE - Local Provisions
+***** TITLE FIVE - Local Provisions *****
    Chap.
 1351.   Fences. (Repealed)
    Chap.
@@ -56049,7 +56049,7 @@ CHAPTER 1369
 Nuisance Abatement
 EDITOR’S NOTE: Chapter 1369 was repealed by Ordinance No. 21-16, passed March
 28, 2016.
-TITLE SEVEN - Housing Code
+***** TITLE SEVEN - Housing Code *****
       Chap.
 1385.   General Provisions.
       Chap.
@@ -56984,7 +56984,7 @@ Environmental Division, or in the appropriate county municipal or common pleas
 court which shall have jurisdiction over the address where the violation
 occurred.
 (Ord. 39-2020. Passed 5-26-20.)
-1399.17 VALIDITY.
+** 1399.17 VALIDITY. **
    Should any section, clause, or paragraph of this chapter be declared invalid
 by a court of competent jurisdiction, the same shall not affect the validity of
 the chapter as a whole or any part thereof other than the part declared
@@ -57807,7 +57807,7 @@ is guilty of a misdemeanor of the fourth degree. The application of the above
 penalty shall not be held to prevent the enforced removal of prohibited
 conditions.
 PART SEVENTEEN - NUISANCE AND PROPERTY MAINTENANCE CODE
-TITLE ONE - Public Nuisances
+***** TITLE ONE - Public Nuisances *****
    Chap.
 1701.   General Provisions.
    Chap.
@@ -58094,7 +58094,7 @@ sufficient to block motor vehicle access to such property.
    Whoever violates any provision of this chapter is guilty of a minor
 misdemeanor.
 (Ord. 21-16. Passed 3-28-16.)
-TITLE THREE - Property Maintenance Code
+***** TITLE THREE - Property Maintenance Code *****
    Chap.
 1711.   General Provisions.
 CHAPTER 1711
