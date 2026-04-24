@@ -13476,7 +13476,8 @@ Slower moving vehicles to be driven in right-hand lane - see TRAF.
  
  
  
-339.01 OVERSIZE OR OVERWEIGHT VEHICLE OPERATION ON STATE ROUTES; STATE PERMIT.
+*** 339.01 OVERSIZE OR OVERWEIGHT VEHICLE OPERATION ON STATE ROUTES; STATE
+PERMIT. ***
    (a)   No person shall operate or move a vehicle or combination of vehicles
 of a size or weight of vehicle or load exceeding the maximum specified in Ohio
 R.C. 5577.01 to 5577.09, inclusive, or otherwise not in conformity with Ohio
@@ -19613,10 +19614,7 @@ after the period described in subsection (d)(1) hereof.
 cards; electronic bingo aids; raffle tickets; punch boards; seal cards; instant
 bingo ticket dispensers; electronic instant bingo systems; and devices for
 selecting or displaying the combination of bingo letters and numbers or raffle
-tickets. Items that are “bingo supplies” are not gambling devices if sold or
-otherwise provided, and used, in accordance with this chapter or Ohio R.C.
-Chapter 2915. For purposes of this chapter, “bingo supplies” are not to be
-considered equipment used to conduct a bingo game.
+tickets. Items that are “bingo supplies”
    (f)   “Bookmaking” means the business of receiving or paying off bets.
    (g)   “Charitable bingo game” means any bingo game described in subsections
 (b)(1) or (2) hereof that is conducted by a charitable organization that has
@@ -33402,8 +33400,7 @@ District Single and Two-Family Dwellings Efficiencies 1 Bedroom 2 or More
 *Add 125 sq. ft. for each additional bedroom over two. (Ord. 99-2. Passed 3-1-
 99.)
 1117.03 BASIC YARD, AREA, LOT COVERAGE AND HEIGHT REQUIREMENTS FOR ALL
-BUILDINGS OTHER THAN DWELLINGS; EXCEPT AS PROVIDED IN SECTION
-1117.08.
+BUILDINGS OTHER THAN DWELLINGS; EXCEPT AS PROVIDED IN SECTION 1117.08.
                               Minimum Depth
          Minimum              (in feet)     Minimum    Maximum    Maximum
          Lot Width Minimum                  Width Each Percentage Height
@@ -35359,7 +35356,7 @@ District Map may be made to the Board and a determination shall be made by said
 Board. (Ord. 99-2. Passed 3-1-99.)
 CHAPTER 1149
 Planning Commission
- 
+****   ****
       EDITOR’S NOTE: Ordinance 18-05 abolished the Tree Commission, Park Board
 and the Cemetery Board of Trustees. The areas of responsibilities and areas of
 operation of the Planning Commission shall be delineated by the Council, in

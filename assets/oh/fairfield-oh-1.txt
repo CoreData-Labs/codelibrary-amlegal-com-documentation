@@ -6395,7 +6395,7 @@ income of a judge sitting by assignment of the Chief Justice or on the income
 of a district court of appeals judge sitting in multiple locations within the
 district, received as a result of services rendered as a judge.
 (Ord. 107-20. Passed 12-7-20.)
-    181.05 COLLECTION AT SOURCE.
+***     181.05 COLLECTION AT SOURCE. ***
 181.051 COLLECTION AT SOURCE; WITHHOLDING FROM QUALIFYING WAGES.
    (A)   (1)   Each employer, agent of an employer, or other payer located or
 doing business in the Municipality shall withhold from each employee an amount
@@ -9549,7 +9549,7 @@ or road surface maintenance, including a snow plow, traffic line striper, road
 sweeper, mowing machine, asphalt distributing vehicle, or other such vehicle
 designed for use in specific highway maintenance activities.
 (Ord. 104-14. Passed 11-24-14.)
-301.162 HIGHWAY TRAFFIC SIGNAL.
+*** 301.162 HIGHWAY TRAFFIC SIGNAL. ***
    “Highway traffic signal”means a power-operated traffic control device by
 which traffic is warned or directed to take some specific action. “Highway
 traffic signal” does not include a power-operated sign, steadily illuminated
@@ -9592,7 +9592,7 @@ pounds that has handlebars, is propelled by an electric motor or human power,
 and has an attainable speed on a paved level surface of not more than twenty
 miles per hour when propelled by the electric motor.
 (ORC 4511.01(WWW); Ord. 16-22. Passed 2-14-22.)
-301.185 MEDIAN.
+*** 301.185 MEDIAN. ***
    “Median” means the area between two roadways of a divided highway, measured
 from edge of traveled way to edge of traveled way, but excluding turn lanes.
 The width of a median may be different between intersections, between
@@ -9644,7 +9644,7 @@ sustaining themselves as beams between the supporting connection.
    "Police officer" means every officer authorized to direct or regulate
 traffic, or to make arrests for violations of traffic regulations.
 (ORC 4511.01(Z))
-301.251 PREDICATE MOTOR VEHICLE OR TRAFFIC OFFENSE.
+*** 301.251 PREDICATE MOTOR VEHICLE OR TRAFFIC OFFENSE. ***
    “Predicate motor vehicle or traffic offense” means any of the following:
    (a)   A violation of Ohio R.C. 4511.03, 4511.051, 4511.12, 4511.132,
 4511.16, 4511.20, 4511.201, 4511.21, 4511.211, 4511.213, 4511.22, 4511.23,
@@ -9739,7 +9739,7 @@ roadway, shoulders or berm, ditch, and slopes extending to the right-of-way
 limits under the control of the State or local authority.
       (ORC 4511.01(UU))
  
-301.321 ROAD SERVICE VEHICLE.
+*** 301.321 ROAD SERVICE VEHICLE. ***
    “Road service vehicle” means wreckers, utility repair vehicles, and state,
 county, and municipal service vehicles equipped with visual signals by means of
 flashing, rotating, or oscillating lights. (ORC 4511.01(JJJ); Ord. 145-09.
@@ -9781,7 +9781,7 @@ property with another and separate motor vehicle so that in operation a part of
 its own weight or that of its load, or both, rests upon and is carried by
 another vehicle.
 (ORC 4511.01(N))
-301.361 SHARED-USE PATH.
+*** 301.361 SHARED-USE PATH. ***
    “Shared-use path” means a bikeway outside the traveled way and physically
 separate from motorized vehicular traffic by an open space or barrier and
 either within the highway right-of-way or within an independent alignment. A
@@ -12317,7 +12317,7 @@ activity is a contributing factor to the commission of the offense, the
 offender is subject to the additional fine established under Section
 303.991 of the Traffic Code.
 (ORC 4511.431; Ord. 120-18. Passed 11-26-18.)
-331.24   RIGHT OF WAY OF FUNERAL PROCESSION.
+*** 331.24   RIGHT OF WAY OF FUNERAL PROCESSION. ***
    (a)   As used in this section "funeral procession" means two or more
 vehicles accompanying the cremated remains or the body of a deceased person in
 the daytime when each of the vehicles has its headlights lighted and is
@@ -12521,8 +12521,8 @@ first offense; on a second offense within one year after the first offense, the
 person is guilty of a misdemeanor of the fourth degree; on each subsequent
 offense within one year after the first offense, the person is guilty of a
 misdemeanor of the third degree.
-331.35 OCCUPYING TRAVEL TRAILER, FIFTH WHEEL VEHICLE, OR MANUFACTURED OR MOBILE
-HOME WHILE IN MOTION.
+*** 331.35 OCCUPYING TRAVEL TRAILER, FIFTH WHEEL VEHICLE, OR MANUFACTURED OR
+MOBILE HOME WHILE IN MOTION. ***
    (a)   Except as provided in subsection (b) of this section, no person shall
 occupy any travel trailer, fifth wheel trailer, or manufactured or mobile home
 while it is being used as a conveyance upon a street or highway.
@@ -12864,7 +12864,7 @@ as provided in Ohio R.C. 2929.28.
       (2)   “Rescuer” means a state agency, political subdivision, firefighting
 service, private fire company, or emergency medical service organization.
          (ORC 4511.714; Ord. 99-15. Passed 11-23-15.)
-331.45 RESTRICTIONS ON THE OPERATION OF SCHOOL BUSES.   
+*** 331.45 RESTRICTIONS ON THE OPERATION OF SCHOOL BUSES.    ***
    (a)   No person shall operate a vehicle used for pupil transportation within
 this Municipality in violation of the rules of the Ohio Department of Education
 and Workforce or the Ohio Department of Public Safety. No person, being the
@@ -14104,7 +14104,7 @@ agricultural tractor or unit of farm machinery.
    (b)   Whoever violates this section is guilty of operating a motor vehicle
 or agricultural tractor without being in control of it, a minor misdemeanor.
 (Ord. 139-07. Passed 11-19-07.)
-333.09 RECKLESS OPERATION ON STREETS, PUBLIC OR PRIVATE PROPERTY.
+*** 333.09 RECKLESS OPERATION ON STREETS, PUBLIC OR PRIVATE PROPERTY. ***
    (a)   No person shall operate a vehicle on any street or highway without due
 regard for the safety of persons or property.
    (b)   No person shall operate a vehicle on any public or private property
@@ -14116,7 +14116,7 @@ such operation thereon.
    (c)   Whoever violates this section is guilty of a misdemeanor of the third
 degree.
 (Ord. 100-04. Passed 6-14-04.)
-333.10 OPERATION IN VIOLATION OF IMMOBILIZATION ORDER.
+*** 333.10 OPERATION IN VIOLATION OF IMMOBILIZATION ORDER. ***
    (a)   No person shall operate a motor vehicle or permit the operation of a
 motor vehicle upon any public or private property used by the public for
 vehicular travel or parking knowing or having reasonable cause to believe that
@@ -14676,8 +14676,8 @@ vehicles, vehicle size or load limitations, vehicle fitness requirements, or
 vehicle registration.
    (h)   Whoever violates this section is guilty of a minor misdemeanor.
 (ORC 4507.071; Ord. 145-09. Passed 12-14-09.)
-335.032 USE OF ELECTRONIC WIRELESS COMMUNICATION DEVICE PROHIBITED WHILE
-DRIVING.
+*** 335.032 USE OF ELECTRONIC WIRELESS COMMUNICATION DEVICE PROHIBITED WHILE
+DRIVING. ***
    (a)   No holder of a temporary instruction permit who has not attained the
 age of eighteen years and no holder of a probationary driver’s license shall
 drive a motor vehicle on any street, highway, or property used by the public
@@ -14967,7 +14967,7 @@ permit or driver’s or commercial driver’s license, or in violation of a
 restriction because of a substantial emergency, and because no other person was
 reasonably available to drive in response to the emergency.
 (ORC 4510.04; Ord. 91-24. Passed 8-12-24.)
-335.071 DRIVING UNDER OVI SUSPENSION.
+*** 335.071 DRIVING UNDER OVI SUSPENSION. ***
    (a)   No person whose driver’s or commercial driver’s license or permit or
 nonresident operating privilege has been suspended under Ohio R.C. 4511.19,
 4511.191, or 4511.196 or under Ohio R.C. 4510.07 for a conviction of a
@@ -15136,8 +15136,8 @@ permit or driver’s or commercial driver’s license, or in violation of a
 restriction because of a substantial emergency, and because no other person was
 reasonably available to drive in response to the emergency.
 (ORC 4510.04; Ord. 91-24. Passed 8-12-24.)
-335.072 DRIVING UNDER FINANCIAL RESPONSIBILITY LAW SUSPENSION OR CANCELLATION;
-DRIVING UNDER A NONPAYMENT OF JUDGMENT SUSPENSION.
+*** 335.072 DRIVING UNDER FINANCIAL RESPONSIBILITY LAW SUSPENSION OR
+CANCELLATION; DRIVING UNDER A NONPAYMENT OF JUDGMENT SUSPENSION. ***
    (a)   No person, whose driver’s or commercial driver’s license or temporary
 instruction permit or nonresident’s operating privilege has been suspended or
 canceled pursuant to Ohio R.C. Chapter 4509, shall operate any motor vehicle
@@ -15215,7 +15215,8 @@ permit or driver’s or commercial driver’s license, or in violation of a
 restriction because of a substantial emergency, and because no other person was
 reasonably available to drive in response to the emergency. (ORC 4510.04; Ord.
 91-24. Passed 8-12-24.)
-335.073 DRIVING WITHOUT COMPLYING WITH LICENSE REINSTATEMENT REQUIREMENTS.
+*** 335.073 DRIVING WITHOUT COMPLYING WITH LICENSE REINSTATEMENT REQUIREMENTS.
+***
    (a)   No person whose driver’s license, commercial driver’s license,
 temporary instruction permit, or nonresident’s operating privilege has been
 suspended shall operate any motor vehicle upon a public road or highway or any
@@ -15265,7 +15266,7 @@ permit or driver’s or commercial driver’s license, or in violation of a
 restriction because of a substantial emergency, and because no other person was
 reasonably available to drive in response to the emergency. (ORC 4510.04; Ord.
 91-24. Passed 8-12-24.)
-335.074 DRIVING UNDER LICENSE FORFEITURE OR CHILD SUPPORT SUSPENSION.
+*** 335.074 DRIVING UNDER LICENSE FORFEITURE OR CHILD SUPPORT SUSPENSION. ***
    (a)   No person shall operate any motor vehicle upon a highway or any public
 or private property used by the public for purposes of vehicular travel or
 parking in this Municipality whose driver’s or commercial driver’s license has
@@ -15383,7 +15384,7 @@ that any other offense, for which there is no specified degree of culpability,
 is not a strict liability offense.
          (ORC 4503.21(B), (C); Ord. 16-22. Passed 2-14-22.)
    
-   335.091 OPERATING WITHOUT DEALER OR MANUFACTURER LICENSE PLATES.
+***    335.091 OPERATING WITHOUT DEALER OR MANUFACTURER LICENSE PLATES. ***
    (a)   No person shall operate or cause to be operated upon a public road or
 highway a motor vehicle of a manufacturer or dealer unless the vehicle carries
 and displays a placard, except as provided in Ohio R.C. 4503.21, issued by the
@@ -15880,8 +15881,8 @@ headlights upon a parked vehicle shall be depressed or dimmed.
 (ORC 4513.10)
    (b)   Whoever violates this section is guilty of a minor misdemeanor.
 (Ord. 103-12. Passed 11-26-12.)
-337.10   LIGHTS , EMBLEMS AND REFLECTORS ON SLOW-MOVING VEHICLES, FARM
-MACHINERY, AGRICULTURAL TRACTORS, AND ANIMAL-DRAWN VEHICLES.
+*** 337.10   LIGHTS , EMBLEMS AND REFLECTORS ON SLOW-MOVING VEHICLES, FARM
+MACHINERY, AGRICULTURAL TRACTORS, AND ANIMAL-DRAWN VEHICLES. ***
    (a)   Definitions. As used in this section:
       (1)   BOAT TRAILER. Means any vehicle designed and used exclusively to
 transport a boat between a place of storage and a marina, or in and around a
@@ -17046,7 +17047,7 @@ the left and which shall be visible from both the front and rear.
 in use at the times mentioned in Section 337.02.
    (d)   Whoever violates this section is guilty of a minor misdemeanor.
 (ORC 4513.261)
-   337.34 LIGHTS AND SIGN ON TRANSPORTATION FOR PRESCHOOL CHILDREN.
+***    337.34 LIGHTS AND SIGN ON TRANSPORTATION FOR PRESCHOOL CHILDREN. ***
    (a)   No person shall operate any motor vehicle owned, leased, or hired by a
 nursery school, kindergarten, or child care center, while transporting
 preschool children to or from such an institution unless the motor vehicle is
@@ -18712,7 +18713,7 @@ delivery device operator; and
 which a personal delivery device operates in a manner prohibited by divisions
 (c)(1) to (c)(4) of this section.
             (ORC 4511.513; Ord. 16-22. Passed 2-14-22.)
-371.14 LOW-SPEED MICROMOBILITY DEVICES.
+*** 371.14 LOW-SPEED MICROMOBILITY DEVICES. ***
    (a)   (1)   A low-speed micromobility device may be operated on the public
 streets, highways, sidewalks, and shared-use paths, and may be operated on any
 portions of roadways set aside for the exclusive use of bicycles in accordance
@@ -19154,7 +19155,7 @@ first offense; on a second offense within one year after the first offense, the
 person is guilty of a misdemeanor of the fourth degree; on each subsequent
 offense within one year after the first offense, the person is guilty of a
 misdemeanor of the third degree.
-373.16 ELECTRIC BICYCLES.
+*** 373.16 ELECTRIC BICYCLES. ***
    (a)   (1)   The operation of a class 1 electric bicycle and a class 2
 electric bicycle is permitted on a path set aside for the exclusive use of
 bicycles or on a shared-use path, unless the Municipality by resolution,
@@ -20706,7 +20707,7 @@ makes the report within one hour after the office is next open to the public.
    (c)   Whoever violates this section is guilty of a misdemeanor of the first
 degree.
 (Ord. 38-88. Passed 2-22-88.)
-505.16 VICIOUS DOG.
+*** 505.16 VICIOUS DOG. ***
    (a)   "Vicious dog" means a dog that, without provocation, meets any of the
 following:
       (1)   Has killed or caused serious injury to any person;
@@ -20787,8 +20788,8 @@ continues on a separate day to violate this section after being previously
 cited for a violation of this section on a separate day; in which case improper
 display or processing of an animal is a misdemeanor of the fourth degree.
 (Ord. 21-00. Passed 2-28-00.)
-   505.19 RIGHTS OF BLIND, DEAF OR HEARING IMPAIRED, OR MOBILITY IMPAIRED
-PERSON, OR TRAINER WITH ASSISTANCE DOG.
+***    505.19 RIGHTS OF BLIND, DEAF OR HEARING IMPAIRED, OR MOBILITY IMPAIRED
+PERSON, OR TRAINER WITH ASSISTANCE DOG. ***
    (a)   When either a blind, deaf or hearing impaired, or mobility impaired
 person, or a training of an assistance dog is accompanied by an assistance dog,
 the person or trainer, as applicable, is entitled to the full and equal
@@ -20897,7 +20898,7 @@ be lawful.
    (c)   Whoever violates this section is guilty of riot, a misdemeanor of the
 first degree.
 (ORC 2917.03)
-509.011   INCITING TO VIOLENCE.
+*** 509.011   INCITING TO VIOLENCE. ***
    (a)   No person shall knowingly engage in the conduct designed to urge or
 incite another to commit any offense of violence, when either of the following
 apply:
@@ -26538,7 +26539,7 @@ juveniles is not open to the view of juveniles.
 to juveniles, a misdemeanor of the first degree. Each day during which the
 offender is in violation of this section constitutes a separate offense. (Ord.
 121-90. Passed 7-23-90.)
-533.16 REGULATION OF COMMERCIAL ESTABLISHMENTS.
+*** 533.16 REGULATION OF COMMERCIAL ESTABLISHMENTS. ***
    (a)   No person, while on the premises of a commercial establishment, shall:
       (1)   Expose to public view his or her genitals, pubic hair, buttocks,
 perineum, anal region or pubic hair region; or
@@ -31259,8 +31260,8 @@ therefor has been approved by the Fire Inspector and/or the Fire Chief. (Ord.
 713.99   PENALTY.
    Whoever violates any section of this chapter is guilty of a misdemeanor of
 the first degree. (Ord. 98-79. Passed 5-29-79.)
-CHAPTER 717
-Commercial Solid Waste and Recycling Disposal
+**** CHAPTER 717
+Commercial Solid Waste and Recycling Disposal ****
 717.01   Definitions.
 717.02   Collection of garbage, solid waste, and recycling by a commercial
 garbage, solid waste and recycling hauler.
@@ -31281,7 +31282,7 @@ CROSS REFERENCES
 339.08
    Littering - see GEN. OFF.
 521.08
-   717.01 DEFINITIONS.
+***    717.01 DEFINITIONS. ***
    (a)   “Commercial garbage, solid waste and recycling haulers” means persons
 engaged in hauling garbage, solid waste and recycling as hereinafter defined
 for a fee, charge or other compensation, or who transport garbage, solid waste
@@ -31308,21 +31309,21 @@ noncombustible material, street dirt and debris. Solid waste does not include
 any material that is an infectious waste, a hazardous waste, and asbestos waste
 or material defined in Section 953.02(d).
 (Ord. 23-24. Passed 3-11-24.)
-   717.02 COLLECTION OF GARBAGE, SOLID WASTE, AND RECYCLING BY A COMMERCIAL
-GARBAGE, SOLID WASTE AND RECYCLING HAULER.
+***    717.02 COLLECTION OF GARBAGE, SOLID WASTE, AND RECYCLING BY A COMMERCIAL
+GARBAGE, SOLID WASTE AND RECYCLING HAULER. ***
    No garbage, solid waste, or recycling material shall be hauled by a
 commercial garbage, solid waste and recycling hauler in the City unless such
 garbage, solid waste or recycling material are contained in a dumpster or
 container with a securely fastened lid.
 (Ord. 23-24. Passed 3-11-24.)
-   717.03 LICENSE REQUIRED.
+***    717.03 LICENSE REQUIRED. ***
    (EDITOR’S NOTE: Former Section 717.03 was repealed by Ordinance 67-94,
 passed May 23, 1994.)
-   717.04 LICENSE PROCUREMENT.
+***    717.04 LICENSE PROCUREMENT. ***
    (EDITOR’S NOTE: Former Section 717.04 was repealed by Ordinance 67-94,
 passed May 23, 1994.)
-   717.05 COMMERCIAL AND INDUSTRIAL BUSINESSES, AND OTHER NON-RESIDENTIAL
-FACILITIES TO PROVIDE RECEPTACLES.
+***    717.05 COMMERCIAL AND INDUSTRIAL BUSINESSES, AND OTHER NON-RESIDENTIAL
+FACILITIES TO PROVIDE RECEPTACLES. ***
    Commercial and industrial businesses and other non-residential facilities
 and the owners and operators thereof shall provide and maintain appropriate
 receptacles for the removal of garbage, solid waste and recyclable materials
@@ -31335,8 +31336,8 @@ its contents from being blown onto, or deposited upon any public or private
 property and to prevent animals and rodents from entering and exiting the
 receptacle.
       (Ord. 23-24. Passed 3-11-24.)
-   717.06 COLLECTION PROCEDURES FOR GARBAGE, SOLID WASTE AND RECYCLABLE
-MATERIALS.
+***    717.06 COLLECTION PROCEDURES FOR GARBAGE, SOLID WASTE AND RECYCLABLE
+MATERIALS. ***
    No owner, tenant or occupant of any lot may store, place, or keep, or permit
 to be stored, placed or kept on that lot, any combination of garbage, solid
 waste or recycling dumpsters, compactors, grease dumpsters (hereinafter
@@ -31381,7 +31382,7 @@ waste, infectious waste, tires, electronic waste, batteries, oil-based paints,
 gasoline, oil, or other similar materials that are harmful to public health or
 the environment.
          (Ord. 23-24. Passed 3-11-24.)
-   717.99 PENALTY.
+***    717.99 PENALTY. ***
    (a)   Whoever violates the provisions of Section 717.02 shall be fined not
 more than two hundred dollars ($200.00) and imprisoned not more than thirty
 days, or both.
@@ -32073,7 +32074,7 @@ violation of this section, the person shall be fined not more than five hundred
 dollars ($500.00).
    (f)   This Section 737.03 shall be effective August 1, 2005.
 (Ord. 73-05. Passed 4-25-05.)
-737.04 AREAS WHERE SMOKING IS NOT REGULATED BY THIS CHAPTER.
+*** 737.04 AREAS WHERE SMOKING IS NOT REGULATED BY THIS CHAPTER. ***
    Notwithstanding any other provision of this chapter to the contrary, the
 following areas shall be exempt from the prohibitions and requirements of this
 chapter:
@@ -35641,7 +35642,7 @@ the Residential Code of Ohio (RCO), current edition.
 Building Code; and other ordinances where applicable, viz.: Zoning Ordinance,
 Subdivision Rules and Regulations, Thoroughfare Plan, etc. (Ord. 46-13. Passed
 5-28-13.)
-TITLE ONE - Administration
+***** TITLE ONE - Administration *****
 Chap.
 1301.   Title and Scope.
 Chap.
@@ -36450,7 +36451,7 @@ and the reasons therefor.
 Board of Building Appeals shall immediately take action in accordance with such
 decision.
 (Ord. 46-13. Passed 5-28-13.)
-TITLE THREE - Building and Maintenance Standards
+***** TITLE THREE - Building and Maintenance Standards *****
 Chap.
 1325.   Design Criteria.
 Chap.
@@ -38941,7 +38942,8 @@ the Bureau of Alcohol, Tobacco and Firearms of the United States Department of
 the Treasury and the United States Department of Transportation with respect to
 the storage and transport of the explosive black powder used in the exhibition.
          (ORC 3743.80; Ord. 200-98. Passed 11-9-98.)
-   1519.06 MANUFACTURING OR WHOLESALE SALE WITHOUT A LICENSE; PROHIBITIONS.
+***    1519.06 MANUFACTURING OR WHOLESALE SALE WITHOUT A LICENSE; PROHIBITIONS.
+***
    (a)   No licensed manufacturer or licensed wholesaler of fireworks shall
 knowingly fail to comply with the rules adopted by the state fire marshal
 pursuant to Ohio R.C. 3743.05 and 3743.18 or the requirements of Ohio R.C.

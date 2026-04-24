@@ -168,7 +168,7 @@ Miscellaneous Provisions
 122   Effective date of amendments (5-7-85)
 123   Effective date of amendments (6-6-89)
 Appendix A Repealed Charter Sections
-CORPORATE POWERS, RIGHTS AND PRIVILEGES
+*** CORPORATE POWERS, RIGHTS AND PRIVILEGES ***
 § 1  NAME AND POWERS.
    The inhabitants of the City of East Cleveland, as its limits now are, or may
 hereafter be, shall be a body politic and corporate and by name the City of
@@ -211,7 +211,7 @@ deemed to be exclusive, but, in addition to the powers enumerated herein,
 implied thereby or appropriate to the exercise thereof, the city shall have,
 and may exercise, all other powers which, under the Constitution and laws of
 Ohio, it would be competent for this Charter specifically to enumerate.
-THE COMMISSION
+*** THE COMMISSION ***
 § 3  POWERS.
 (Repealed 5-7-85.)
 § 4  TERM OF OFFICE.
@@ -244,14 +244,14 @@ THE COMMISSION
 (Repealed 5-7-85.)
 § 18  GENERAL DISQUALIFICATIONS.
 (Repealed 5-7-85.)
-THE CITY MANAGER
+*** THE CITY MANAGER ***
 § 19  APPOINTMENT.
 (Repealed 5-7-85.)
 § 20  POWERS AND DUTIES.
 (Repealed by implication 5-7-85)
 § 21  VICE-MANAGER.
 (Repealed 5-7-85.)
-ADMINISTRATIVE OFFICERS AND DEPARTMENTS
+*** ADMINISTRATIVE OFFICERS AND DEPARTMENTS ***
 § 22  DEPARTMENTS.
    The following administrative departments are hereby established: (1)
 Department of Law. (2) Department of Public Service. (3) Department of Public
@@ -280,14 +280,14 @@ Council.
    Excepting the departments of Law, Finance and Health, the Mayor shall be the
 acting head of each and every department of the city until otherwise provided
 by the Council.
-MUNICIPAL COURT
+*** MUNICIPAL COURT ***
 § 25.
 (Repealed 5-6-52.)
 § 26.
 (Repealed 5-6-52.)
 § 27.
 (Repealed 5-6-52.)
-CIVIL SERVICE
+*** CIVIL SERVICE ***
 § 28  THE CIVIL SERVICE COMMISSION.
    There shall be a Civil Service Commission consisting of three members, who
 are qualified electors of the city, not more than two of whom shall belong to
@@ -369,7 +369,7 @@ impair, restrict or repeal any provision of general law authorizing the levying
 of taxes to provide for firemen, police and sanitary police pension funds, and
 to create and perpetuate boards of trustees for the administration of such
 funds.
-ELECTIONS
+*** ELECTIONS ***
 § 32  TIME OF HOLDING ELECTIONS.
    Regular municipal elections shall be held on the first Tuesday after the
 first Monday, in November in the odd numbered years. Any matter which, by the
@@ -418,7 +418,7 @@ relating to primaries and elections, not herein, or by ordinance of the Council
 specifically provided for shall be determined by the general election laws of
 the State.
 (Amended 11-7-00)
-THE INITIATIVE
+*** THE INITIATIVE ***
 § 38  PROPOSED PETITION.
    Any proposed ordinance, including any ordinance for the repeal or amendment
 of an ordinance than in effect, may be submitted to the Council by petition
@@ -491,7 +491,7 @@ proposed ordinance in proper legal language, and to render such other service
 to persons desiring to propose such ordinance as shall be necessary to make the
 same proper for consideration by the Council.
 (Amended 11-7-00)
-THE REFERENDUM
+*** THE REFERENDUM ***
 § 44  PETITION FOR REFERENDUM.
    No ordinance or resolution passed by the Council, unless it be an emergency
 measure or the annual appropriation ordinance, shall go into effect until
@@ -558,7 +558,7 @@ be subject to the referendum in the same manner as other ordinances. If the
 provisions of two or more ordinances adopted or approved at the same election
 conflict, the ordinance or resolution receiving the highest affirmative vote
 shall prevail.
-THE RECALL
+*** THE RECALL ***
 § 48  APPLICATION.
    (Editor’s note: The provisions of Section 48 were repealed on November 7,
 2000.)
@@ -680,7 +680,7 @@ for a period of two years after the date of such recall. The Clerk of the
 Council shall preserve in his office all papers comprising or connected with a
 petition for a recall. The method of removal herein provided is in addition to
 such other methods as are, or may be, provided by general law.
-APPROPRIATIONS
+*** APPROPRIATIONS ***
 § 60  THE ESTIMATE.
    The fiscal year of the city shall begin on the first day of January of each
 year. On or before the 15th day of November of each year, the Mayor shall
@@ -854,7 +854,7 @@ indebtedness of the City of East Cleveland, and shall hold in reserve only such
 sums as may be needed for effecting the purposes for which the sinking fund was
 created and is maintained.
 (Amended 4-29-24)
-IMPROVEMENTS - CONTRACTS
+*** IMPROVEMENTS - CONTRACTS ***
 § 69  LIMITATION OF ASSESSMENTS.
    In levying special assessments to pay any part of the cost of any public
 work or improvement, the Council shall not exceed any limitation as to the
@@ -952,7 +952,7 @@ contemplated.
    All contracts, agreements or other obligations entered into and all
 ordinances passed or resolutions and orders adopted contrary to the provisions
 of the preceding section shall be void.
-FRANCHISES
+*** FRANCHISES ***
 § 76  GRANTS LIMITED.
    No grant, or renewal thereof, to construct and operate a public utility in,
 on, under or above the streets and public grounds of the city shall be made by
@@ -1161,7 +1161,7 @@ powers respecting public utilities, or to prohibit the Council from imposing in
 any such grant such further restrictions and provisions as it may deem to be in
 the public interest, provided only that the same are not inconsistent with the
 provisions of this Charter or the Constitution of the State.
-MISCELLANEOUS PROVISIONS
+*** MISCELLANEOUS PROVISIONS ***
 § 87  GENERAL LAWS TO APPLY.
    All general laws of the State applicable to municipal corporations now or
 hereafter enacted, and which are not in conflict or inconsistent with the
@@ -1265,7 +1265,7 @@ all municipal elections, and determining and establishing the right to vote at
 said elections, this Charter shall take effect from the time of its approval by
 the electors of the city; and for all other purposes, it shall take effect on
 the 1st day of January, 1918.
-ABOLISHMENT OF THE COMMISSION AND OFFICE OF CITY MANAGER
+*** ABOLISHMENT OF THE COMMISSION AND OFFICE OF CITY MANAGER ***
 § 97  ABOLISHMENT OF CITY COMMISSION AND OFFICE OF CITY MANAGER.
    The office of City Manager and each and every office of member of the
 Commission, including the offices of President and Vice-President of the
@@ -1283,7 +1283,7 @@ compensation shall be a complete set-off against any compensation due under
 this section or otherwise for salary or compensation as a member of the
 Commission.
 (Adopted 5-7-85)
-THE COUNCIL
+*** THE COUNCIL ***
 § 98  THE COUNCIL; POWERS; ELECTION AND TERM OF OFFICE.
    A.   Council - Powers: The legislative power of the city, except as limited
 by this Charter, shall be vested in a Council consisting of five members.
@@ -1509,7 +1509,7 @@ with the city. The provisions of this section shall not apply to the
 transportation of policemen or firemen in uniform or wearing their official
 badges, when the same is provided for by ordinance.
 (Adopted 5-7-85)
-THE MAYOR
+*** THE MAYOR ***
 § 112  MAYOR; QUALIFICATIONS AND TERM OF OFFICE.
    A.   Qualifications: The Mayor shall have been, for at least two (2)
 consecutive years immediately prior to his or her election or appointment, a
@@ -1603,7 +1603,7 @@ remainder of the unexpired term is elected at the first regular municipal
 election, if such election is held more than 120 days after the vacancy shall
 have occurred. Otherwise, he or she shall serve for the unexpired term.
 (Amended 11-7-00)
-NOMINATIONS AND ELECTIONS
+*** NOMINATIONS AND ELECTIONS ***
 § 115  NOMINATION AND ELECTION PROCEDURES.
    Candidates for the office of Mayor or member of Council shall be nominated
 only by petition. No primary election shall be held for the election of Council
@@ -1689,7 +1689,7 @@ removal by recall by the procedures established in Section
 40 through
 59, inclusive of this Charter.
 (Adopted 5-7-85)
-AUDITING PROCEDURE
+*** AUDITING PROCEDURE ***
 § 117  AUDITING PROCEDURES.
    The Mayor is hereby authorized and directed to secure audits from the
 Auditor of the State of Ohio or certified public accountant or examiners
@@ -1713,7 +1713,7 @@ person to the municipal corporation, such auditor shall immediately give notice
 thereof to the Council and Director of Law of the city and the Director of Law
 shall thereupon proceed forthwith to collect the indebtedness.
 (Adopted 5-7-85)
-MISCELLANEOUS PROVISIONS
+*** MISCELLANEOUS PROVISIONS ***
 § 118  CHARTER REVIEW COMMISSION.
    Within one month after January 1, 1986, and within one month after taking
 office from the regular general election to be held each eighth year
@@ -6118,7 +6118,7 @@ Other Provisions
 191.2702   Collection of tax after termination of chapter
 Cross-reference:
    Municipal income taxes, see Ohio R.C. Ch. 718
-PURPOSE
+*** PURPOSE ***
 § 191.0101  PURPOSE OF LEVY ON INCOME TAX.
    To provide funds for the purposes of general municipal functions of the city
 there shall be and is hereby levied a tax on all salaries, wages, commissions
@@ -6130,7 +6130,7 @@ allocated to the accrued liability for such fund. The purpose of any income tax
 levied in excess of 1%, authorized by the electors of the city, shall be to
 provide funds for general municipal functions.
 (Approved by voters 8-3-1982)
-DEFINITIONS
+*** DEFINITIONS ***
 § 191.0301  DEFINITIONS GENERALLY.
    For the purposes of this chapter, the terms, phrases, words and their
 derivatives shall have the meanings given in the next succeeding sections of
@@ -6254,7 +6254,7 @@ required to be made.
    TAXPAYER.  A person, whether an individual, partnership, association or any
 corporation or other entity required herein to file a return or pay a tax.
 (Ord. 5783, passed 12-13-1966)
-IMPOSITION OF INCOME TAX
+*** IMPOSITION OF INCOME TAX ***
 § 191.0501  RATE AND INCOME TAXABLE.
    An annual tax for the purposes specified in §
 191.0101 shall be imposed upon the hereinafter specified income on and after
@@ -6304,7 +6304,7 @@ commencing on July 1, 1968, and ending on June 30, 1976, at the rate of 1% per
 annum and on and after July 1, 1976, at the rate of 1.5% per annum and on and
 after September 1, 1982, at the rate of 2% per annum.
 (Approved by voters 8-3-1982)
-DETERMINATION OF ALLOCATION OF TAX
+*** DETERMINATION OF ALLOCATION OF TAX ***
 § 191.0701  METHOD OF DETERMINATION.
    (a)   In the taxation of income which is subject to city income taxes, if
 the books and records of a taxpayer conducting a business or profession both
@@ -6412,7 +6412,7 @@ city.
    (c)   The Administrator shall provide by rules and regulations the manner in
 which such net operating loss carry-forward shall be determined.
 (Ord. 148-04, passed 12-21-2004)
-CONTRACTORS/SUBCONTRACTORS
+*** CONTRACTORS/SUBCONTRACTORS ***
 § 191.0706  REGISTRATION OF CONTRACTOR AND SUBCONTRACTOR.
    (a)   Any contractor and/or subcontractor applying for a permit to do
 building, reconstruction, construction or remodeling shall, when applying for
@@ -6514,7 +6514,7 @@ noncompliance with any provision of this chapter, to cease and desist
 construction until that person, firm, partnership or corporation complies with
 the provisions of this chapter.
 (Ord. 86-91, passed 10-15-1991)
-EXEMPTIONS
+*** EXEMPTIONS ***
 § 191.0901  SOURCES OF INCOME NOT TAXED.
    The tax provided for herein shall not be levied on the following:
    (a)   Pay or allowance of active members of the Armed Forces of the United
@@ -6550,7 +6550,7 @@ the taxation of which is prohibited by the Constitution of the state or any act
 of the state’s General Assembly limiting the power of the city to impose net
 income taxes.
 (Ord. 93-92, passed 9-29-1992)
-RETURNS
+*** RETURNS ***
 § 191.1101  WHEN RETURN REQUIRED TO BE MADE.
    Each taxpayer shall make and file a return on or before April 15 on all
 taxable income earned or received in the previous taxable year. When the return
@@ -6614,7 +6614,7 @@ and file an amended city return showing income subject to the city tax based
 upon such final determination of federal tax liability, and pay any additional
 tax shown due thereon or make claim for refund of any overpayment.
 (Ord. 5783, passed 12-13-1966)
-PAYMENT OF TAX
+*** PAYMENT OF TAX ***
 § 191.1301  PAYMENT OF TAX ON FILING OF RETURN.
    (a)   The taxpayer making a return shall, at the time of filing thereof, pay
 to the Administrator the amount of taxes shown as due thereon; provided,
@@ -6730,7 +6730,7 @@ zone shall be afforded an extension for a period of 180 days to file the annual
 municipal tax return after the taxpayer is released from the war zone upon
 presentation of reliable proof of such military service.
 (Ord. 5783, passed 12-13-1966; Ord. 11-91, passed 2-5-1991)
-INTEREST AND PENALTIES
+*** INTEREST AND PENALTIES ***
 § 191.1501  INTEREST ON UNPAID TAX.
    All taxes imposed and all moneys withheld or required to be withheld by
 employers under the provisions of this chapter and remaining unpaid after they
@@ -6803,7 +6803,7 @@ declaration or other required form shall not excuse him or her from making any
 information return, return or declaration, from filing such form, or from
 paying the tax.
 (Ord. 5783, passed 12-13-1966)
-COLLECTION OF UNPAID TAXES AND REFUNDS OF OVERPAYMENTS
+*** COLLECTION OF UNPAID TAXES AND REFUNDS OF OVERPAYMENTS ***
 § 191.1701  UNPAID TAXES RECOVERABLE AS OTHER DEBTS.
    All taxes imposed by this chapter shall be collectible, together with any
 interest and penalties thereon, by suit, as other debts of like amount are
@@ -6821,11 +6821,11 @@ made within the time specified in Ohio R.C. 718.06.
 § 191.1703  AMOUNTS OF LESS THAN ONE DOLLAR.
    Amounts of less than $1 shall not be collected or refunded.
 (Ord. 5783, passed 12-13-1966)
-TAXPAYER RELIEF AND RECIPROCITY PROVISIONS
+*** TAXPAYER RELIEF AND RECIPROCITY PROVISIONS ***
 § 191.1902  TAX CREDIT.
    (Editor’s note: Former § 191.1902 was repealed by Ordinance 7949, passed
 September 6, 1988)
-DISBURSEMENT OF RECEIPTS OF TAX COLLECTION
+*** DISBURSEMENT OF RECEIPTS OF TAX COLLECTION ***
 § 191.2101  DISBURSEMENT OF FUNDS COLLECTED.
    The funds collected under the provisions of this chapter shall be disbursed
 in the following manner.
@@ -6836,7 +6836,7 @@ chapter shall be paid.
 division (a) above shall be deposited in the General Fund for municipal
 purposes.
 (Ord. 5783, passed 12-13-1966)
-DUTIES AND AUTHORITY OF THE ADMINISTRATOR
+*** DUTIES AND AUTHORITY OF THE ADMINISTRATOR ***
 § 191.2301  DUTY TO RECEIVE TAX IMPOSED.
    It shall be the duty of the Administrator to receive the tax imposed by this
 chapter in the manner prescribed herein from the taxpayers, to keep an accurate
@@ -6959,7 +6959,7 @@ facility for the collection of the income tax, as provided in §
 191.2311, then all or a part of the duties and authority of the Administrator
 may be assigned by such agreement to such other municipal corporation.
 (Ord. 5783, passed 12-13-1966)
-BOARD OF TAX APPEALS
+*** BOARD OF TAX APPEALS ***
 § 191.2501  BOARD OF TAX APPEALS ESTABLISHED.
    A Board of Tax Appeals, consisting of two citizens appointed by the Mayor,
 and the Chairperson of the Finance Committee of Council is hereby created. The
@@ -6988,7 +6988,7 @@ such ruling or decision by the Administrator, and the Board shall, on hearing,
 have jurisdiction to affirm, reverse or modify any such ruling or decision, or
 any part thereof.
 (Ord. 186-00, passed 12-19-2000)
-BOARD OF ADJUDICATION
+*** BOARD OF ADJUDICATION ***
 § 191.2504  BOARD OF ADJUDICATION ESTABLISHED.
    A Board of Adjudication, consisting of the Mayor, or a person designated by
 him or her, the Director of Law, or an Assistant Director of Law designated by
@@ -7017,7 +7017,7 @@ such ruling or decision by the Board of Tax Appeals, and the Board shall, on
 hearing, have jurisdiction to affirm, reverse or modify any such ruling or
 decision, or any part thereof.
 (Ord. 186-00, passed 12-19-2000)
-OTHER PROVISIONS
+*** OTHER PROVISIONS ***
 § 191.2701  DECLARATION OF LEGISLATIVE INTENT.
    If any sentence, clause, section or part of this chapter, or any tax against
 any individual or any of the several groups specified herein, is found to be
@@ -7093,7 +7093,7 @@ Authority of Tax Administrator; Verification of Information
 192.077   Identification information
  
 192.999   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 192.001  AUTHORITY TO LEVY TAX; PURPOSE OF TAX.
    (a)   To provide funds for the purposes of general municipal operations,
 maintenance, new equipment, extension and enlargement of municipal services and
@@ -8235,7 +8235,7 @@ year.
 or any other payer the city’s post-judgment collection costs and fees,
 including attorney’s fees.
 (Ord. 52-15, passed 11-4-2015)
-IMPOSITION OF TAX
+*** IMPOSITION OF TAX ***
 § 192.035  GENERALLY.
    The income tax levied by the city at a rate of 2% is levied on the municipal
 taxable income of every person residing in and/or earning and/or receiving
@@ -8474,7 +8474,7 @@ for the purposes of that division or division (b) of this section, the owner of
 a disregarded entity shall include in the owner’s ratios the property, payroll,
 and gross receipts of such disregarded entity.
 (Ord. 52-15, passed 11-4-2015)
-COLLECTION AT SOURCE
+*** COLLECTION AT SOURCE ***
 § 192.050  WITHHOLDING PROVISIONS.
    (a)   Each employer, agent of an employer, or other payer located or doing
 business in the city shall withhold an income tax from the qualifying wages
@@ -8716,7 +8716,7 @@ regarding the manner in which the employer shall comply with the requirements
 of this subchapter.
 (Ord. 52-15, passed 11-4-2015)  Penalty, see §
 192.999
-ANNUAL RETURN; FILING
+*** ANNUAL RETURN; FILING ***
 § 192.060  GENERALLY.
    (a)   An annual city income tax return shall be completed and filed by every
 individual taxpayer 18 years of age or older and any taxpayer that is not an
@@ -9065,8 +9065,8 @@ or combined tax return with the city may continue to file consolidated or
 combined tax returns in accordance with such election or agreement for taxable
 years beginning on and after January 1, 2016.
 (Ord. 52-15, passed 11-4-2015)
-AUTHORITY OF TAX ADMINISTRATOR;
-VERIFICATION OF INFORMATION
+*** AUTHORITY OF TAX ADMINISTRATOR;
+VERIFICATION OF INFORMATION ***
 § 192.075  AUTHORITY.
    Nothing in this chapter shall limit the authority of the Tax Administrator
 to perform any of the following duties or functions, unless the performance of
@@ -19262,8 +19262,8 @@ offense.
 § 373.99  PENALTY.
    (Editor’s note: See §
 303.99 for general code penalty.)
-CHAPTER 375:  SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES
-AND ALL PURPOSE VEHICLES
+**** CHAPTER 375:  SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES
+AND ALL PURPOSE VEHICLES ****
 Section
 375.01   Definitions
 375.02   Equipment
@@ -46187,7 +46187,7 @@ except as set forth in this section.
 or restored within six months from the date of the damage or destruction in
 order to maintain a legal nonconforming status.
 (Ord. 06-17, passed 3-30-2017)
-CHAPTER 1337:  SALE OF REAL ESTATE: PRE-SALE CERTIFICATE REQUIREMENTS
+**** CHAPTER 1337:  SALE OF REAL ESTATE: PRE-SALE CERTIFICATE REQUIREMENTS ****
 Section
 1337.01   Sale of real estate; certificate of use, occupancy and inspection
 required
@@ -46341,7 +46341,7 @@ may be instituted under §
 months for each offense. Each day such violation occurs or continues shall
 constitute a separate offense and may be punishable as provided for herein.
 (Ord. 7671, passed 9-20-1983)
-CHAPTER 1339:  RODENT HARBORAGE
+**** CHAPTER 1339:  RODENT HARBORAGE ****
 Section
 1339.01   Conditions declared nuisances
 1339.02   Violations a misdemeanor
@@ -49690,8 +49690,8 @@ Chapter 1301 shall govern interpretation of this chapter.
    Section
 1301.99 shall govern the penalty for violation of this chapter.
 (Ord. 169-99, passed 12-21-1999)
-CHAPTER 1382:  ANNUAL REGISTRATION OF VACANT HOUSES
-AND BUILDINGS AND REGISTRATION FEES
+**** CHAPTER 1382:  ANNUAL REGISTRATION OF VACANT HOUSES
+AND BUILDINGS AND REGISTRATION FEES ****
 Section
 1382.01   Purpose
 1382.02   Definitions and applicability; registration statement and fees
