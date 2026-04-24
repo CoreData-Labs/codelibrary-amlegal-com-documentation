@@ -87,7 +87,7 @@ and the section headers below.
 Statutory reference:
    The Charter of the Town of Edenton was revised and consolidated in 1986, per
 North Carolina House Bill 1461, Chapter 815.
-ARTICLE I. INCORPORATION, CORPORATE POWERS AND BOUNDARIES
+**** ARTICLE I. INCORPORATION, CORPORATE POWERS AND BOUNDARIES ****
 § 1.1 INCORPORATION.
    The Town of Edenton, North Carolina, in Chowan County, and the inhabitants
 thereof, shall continue to be a municipal body politic and corporate, under the
@@ -107,7 +107,7 @@ upon alteration of the corporate limits made pursuant to law, the appropriate
 changes to the official map shall be made, and copies shall be filed in the
 offices of the Secretary of State, the Chowan County Register of Deeds and the
 appropriate board of elections.
-ARTICLE II. GOVERNING BODY
+**** ARTICLE II. GOVERNING BODY ****
 § 2.1 MAYOR AND COUNCIL.
    The Mayor and Council shall be the governing body of the Town.
 § 2.2 COUNCIL; COMPOSITION; TERMS OF OFFICE.
@@ -147,7 +147,7 @@ quorum.
 be in accordance with general law. Vacancies that occur in any elective office
 of the Town shall be filled by appointment of the Council for the remainder of
 the unexpired term.
-ARTICLE III. ELECTIONS
+**** ARTICLE III. ELECTIONS ****
 § 3.1 REGULAR MUNICIPAL ELECTIONS.
    Regular municipal elections shall be held in each odd-numbered year in
 accordance with the uniform municipal election laws of North Carolina.
@@ -179,7 +179,7 @@ provided in Article II.
 § 3.5 SPECIAL ELECTIONS AND REFERENDUMS.
    Special elections and referendums may be held only as provided by general
 law or applicable local acts of the General Assembly.
-ARTICLE IV. ORGANIZATION AND ADMINISTRATION
+**** ARTICLE IV. ORGANIZATION AND ADMINISTRATION ****
 § 4.1 FORM OF GOVERNMENT.
    The Town shall operate under the council-manager form of government, in
 accordance with G.S. Chapter 160A, Article 7, Part 2.
@@ -205,8 +205,8 @@ Council may direct.
    The Council may provide for appointment of other officers and employees, and
 may organize the Town government as deemed appropriate, subject to the
 requirements of general law.
-ARTICLE V. SPECIAL ASSESSMENT PROVISIONS
-Part 1. Streets and Sidewalks
+**** ARTICLE V. SPECIAL ASSESSMENT PROVISIONS ****
+*** Part 1. Streets and Sidewalks ***
 § 5.1 AUTHORITY TO ASSESS FOR STREET IMPROVEMENTS.
    In addition to the authority granted by general law, the Council is
 authorized to order street improvements and to assess fifty percent of the
@@ -232,7 +232,7 @@ authority of the General Statutes.
 improvements for corner lots one hundred fifty feet of the frontage of any side
 of a corner lot when street improvements are installed along both sides of such
 lot, or exemptions may be made as provided in G.S. 160A-219.
-Part 2. Water and Sewer
+*** Part 2. Water and Sewer ***
 § 5.6 AUTHORITY TO LEVY BY ALTERNATE METHODS.
    In addition to the authority granted by general law for assessing the costs
 of water and sewer lines and laterals, the Council is authorized to levy any
@@ -517,7 +517,7 @@ Statutory references:
 160A-213
    Town Attorney, see G.S. § 160A-173
    Town Clerk, see G.S. §§ 160A-171, 160A-172
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 ATTENDANCE REQUIREMENTS.
    (A)   The Town Council may replace any member of any board, commission or
 Council-appointed committee for good cause, including, but not limited to, poor
@@ -567,7 +567,7 @@ performing duties on behalf of the town pursuant to orders and instructions of
 the Chief or his or her designee, shall be entitled to benefits under the State
 Workers Compensation Act.
 (Ord. passed 11-24-2003)
-NORTHEASTERN REGIONAL AIRPORT COMMISSION
+**** NORTHEASTERN REGIONAL AIRPORT COMMISSION ****
 § 30.40 COMMISSION CREATED.
    (A)   Pursuant to G.S. §§ 63-53 and 63-57, there is hereby created the
 Northeastern Regional Airport Commission (the “Commission”). The Commission
@@ -717,7 +717,7 @@ Statutory reference:
    Police aid to and from other political subdivisions during emergencies, see
 G.S. § 160A-288
    Riots and civil disorders, see G.S. §§ 14-288.1 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 FORM FOR PROCLAMATION OF STATE OF EMERGENCY.
    The Mayor of the town, or the person normally acting in his or her place
 during his or her absence, shall, when the situation requires that he or she
@@ -735,7 +735,7 @@ emergency exists within the Town of Edenton, North Carolina.
    Mayor
  
 (Prior Code, § 9-1)
-PROCLAMATIONS IMPOSING PROHIBITIONS AND RESTRICTIONS GENERALLY
+**** PROCLAMATIONS IMPOSING PROHIBITIONS AND RESTRICTIONS GENERALLY ****
 § 31.20 AUTHORITY OF MAYOR; TO BE WRITTEN; NOTICE; RECORDS.
    (A)   The Mayor, by proclamation, may impose the prohibitions and
 restrictions specified in §§
@@ -899,7 +899,7 @@ NOW THEREFORE I,                                �
 (seal of the city)
  
 (Prior Code, § 9-11)
-PROCLAMATIONS PROHIBITING ASSEMBLIES
+**** PROCLAMATIONS PROHIBITING ASSEMBLIES ****
 § 31.40 AUTHORITY OF MAYOR; TO BE WRITTEN; NOTICE; RECORDS; AMENDMENT; REMOVAL.
    (A)   The Mayor, by proclamation, may prohibit assemblies of three or more
 persons in specified geographic areas of the town after he or she finds that
@@ -955,7 +955,7 @@ removed.
 (seal of the city)
  
 (Prior Code, § 9-15)
-STORAGE AND DISPLAY OF FIREARMS AND AMMUNITION
+**** STORAGE AND DISPLAY OF FIREARMS AND AMMUNITION ****
 § 31.55 RULES GENERALLY.
    In the event of a state of emergency, every person engaged in the business
 of selling firearms and ammunition or both shall comply with the following
@@ -1145,7 +1145,7 @@ Cross Connection Control
  
    
 51.999   Penalty
-CONNECTIONS
+**** CONNECTIONS ****
 § 51.001 SEWER CONNECTIONS REQUIRED.
    All property owners having occupied property which is located within 300
 feet of a sanitary sewer main shall connect all plumbing fixtures to the sewer
@@ -1187,7 +1187,7 @@ town shall charge a connection fee as the Town Council may, from time to time,
 adopt. Current connection charges shall be kept on file in the office of the
 Clerk.
 (Prior Code, § 24-12)
-EXTENSIONS
+**** EXTENSIONS ****
 § 51.020 APPLICABILITY OF SUBCHAPTER; DETERMINATION OF BENEFIT TO TOWN.
    (A)   The Department of Public Works shall extend its water and sewer
 facilities to serve property only under the conditions of this subchapter.
@@ -1221,7 +1221,7 @@ part of main construction cost and are not to be assessed.
    (B)   These taps on service lines shall be a separate charge and are to be
 paid for at time of installation, at the price set by the Town Council.
 (Prior Code, § 24-18)
-WATER
+**** WATER ****
 § 51.040 SELLING AND THE LIKE; USE OF HYDRANTS AND PUBLIC FOUNTAINS.
    No person shall be allowed to supply or sell water to other persons,
 families or corporations nor shall any unauthorized person take or carry away
@@ -1310,7 +1310,7 @@ obstruct the line.
    (A)   During working hours - $0.
    (B)   After hours call - $50.
 (Ord. passed 3-8-2022)
-SEWERS
+**** SEWERS ****
 § 51.065 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1592,7 +1592,7 @@ sewers whenever, in his or her opinion, the action is necessary for the purpose
 of determining the effects of the wastes upon the sewers and sewage treatment
 works.
 (Prior Code, § 24-40) (Ord. passed 5-13-1975)
-FATS, OILS AND GREASE CONTROL
+**** FATS, OILS AND GREASE CONTROL ****
 § 51.090 SCOPE AND PURPOSE.
    To aid in the prevention of sanitary sewer blockages and obstructions from
 contribution and accumulation of fats, oils and greases into the sewer system
@@ -1852,7 +1852,7 @@ to finished grade and be designed and maintained to prevent water inflow or
 infiltration. The manholes shall also have readily removable covers to
 facilitate inspection, grease removal and wastewater sampling activities.
 (Ord. passed 6-14-2005)
-WATER SHORTAGE RESPONSE PLAN
+**** WATER SHORTAGE RESPONSE PLAN ****
 § 51.100 INTRODUCTION.
    (A)   The purpose of this subchapter is to provide specific information to
 those responsible for the declaration of official phases of water supply
@@ -2300,7 +2300,7 @@ of such.
          (d)   All subsequent revisions to the draft plan will be published at
 least 30 days prior to an adoption vote by the Town Council.
 (Ord. passed 12-14-2010)
-CROSS CONNECTION CONTROL
+**** CROSS CONNECTION CONTROL ****
 § 51.120 PURPOSE OF POLICY.
    The purpose of this policy statement is to articulate and adopt an official
 policy that will establish a cross connection control policy for the town. The
@@ -2857,7 +2857,7 @@ political subdivisions, see G.S. § 20-168
    Turning at intersections and authority of town to alter turning methods, see
 G.S. § 20-153
    Yielding right-of-way to emergency vehicles, see G.S. §§ 20-156, 20-157
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 COMPLIANCE WITH TITLE.
    It shall be a misdemeanor for any person to do any act forbidden or fail to
 perform any act required in this chapter.
@@ -2903,7 +2903,7 @@ specified directions so long as he or she does not endanger life or property.
 driver of any vehicle from the consequences of his or her reckless disregard of
 the safety of others.
 (Prior Code, § 15-4)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.20 OBEDIENCE GENERALLY.
    The driver of any vehicle shall obey the directions of any official traffic-
 control device applicable thereto and placed in accordance with this chapter,
@@ -2986,7 +2986,7 @@ indicating no parking zones or safety zones, no driver of a vehicle shall
 disobey the regulations in connection therewith.
 (Prior Code, § 15-10) Penalty, see §
 10.99
-REGISTRATION OF VEHICLES
+**** REGISTRATION OF VEHICLES ****
 § 70.40 APPLICABILITY OF SUBCHAPTER.
    For the purposes of this subchapter, bicycles with motors attached,
 motorcycles and scooter cars shall not be deemed motor vehicles.
@@ -2998,7 +2998,7 @@ temporarily operated for a period or periods of time not exceeding a total of
 registration fee. The fee will be added to vehicle tax bills. The period of
 registration shall include the 12 months from January 1 to December 31.
 (Prior Code, § 15-58)
-OPERATION AND REGISTRATION OF GOLF CARTS
+**** OPERATION AND REGISTRATION OF GOLF CARTS ****
 § 70.50 PURPOSE AND DEFINITIONS.
    (A)   Purpose. The purpose of this subchapter is to provide a means of
 travel that is convenient, conserves resources, and protects the environment.
@@ -3822,7 +3822,7 @@ to 14-368
    Dogs generally, see G.S. §§ 67-1 et seq.
    Possession and harboring of wild animals, see G.S. § 160A-187
    Protection of animals generally, see G.S. §§ 19A-1 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 BIRD SANCTUARY.
    (A)   The area embraced within the corporate limits of the town and all
 lands owned or leased by the town outside the corporate limits is hereby
@@ -3860,7 +3860,7 @@ confined.
    No person shall attend, encourage or stage any animal or fowl fight.
 (Prior Code, § 4-6) Penalty, see §
 10.99
-LIVESTOCK
+**** LIVESTOCK ****
 § 90.20 PERMITS FOR KEEPING CERTAIN TYPES.
    (A)   Required. No person shall stable, tie or otherwise keep any cattle,
 horses, mules, sheep or goats within the town nearer than 500 feet to any
@@ -3935,7 +3935,7 @@ other property belonging to the town or permit any animal to stray upon the
 public streets or sidewalks or other property of the town.
 (Prior Code, § 4-14) Penalty, see §
 10.99
-DOGS
+**** DOGS ****
 § 90.35 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4312,7 +4312,7 @@ Statutory reference:
 like, see G.S. § 160A-296
    Authority of town to regulate use of streets by processions or assemblages,
 see G.S. § 20-169
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4352,7 +4352,7 @@ issued by the issuing authority.
 (Prior Code, § 17-3) (Ord. passed 8-6-1973; Ord. passed 10-10-2023) Penalty,
 see §
 10.99
-PARADES AND GROUP DEMONSTRATIONS
+**** PARADES AND GROUP DEMONSTRATIONS ****
 § 91.15 EXEMPTIONS FROM SUBCHAPTER.
    The provisions of this subchapter shall not apply to:
    (A)   Funeral processions;
@@ -4459,7 +4459,7 @@ five days after the denial. The appeal, upon the notice, will be heard by the
 Council at its next regular meeting or at any special meeting called by the
 Council for the appeal.
 (Prior Code, § 17-9) (Ord. passed 8-6-1973; Ord. passed 10-10-2023)
-PICKET LINES
+**** PICKET LINES ****
 § 91.35 EXEMPTIONS FROM SUBCHAPTER.
    The following are exempt from the provisions of this subchapter:
    (A)   Funeral processions;
@@ -4653,7 +4653,7 @@ flammable substances, see G.S. § 160A-183
    “Firemen’s Relief Fund”, see G.S. Chapter 58
    Interference with firefighters, see G.S. Chapter 58, Article 82
    State Volunteer Fire Departments, see G.S. Chapter 58, Article 80
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 92.01 FIRE PREVENTION CODE ADOPTED.
    There is hereby adopted by the Town Council, for the purpose of prescribing
 regulations governing conditions hazardous to life and property from fire and
@@ -4793,7 +4793,7 @@ shall follow all rules and regulations that are set forth by the North Carolina
 Department of Air Quality (Department of Environmental Health and Natural
 Resources).
 (Ord. passed 3-8-2022)
-FLAMMABLE LIQUIDS
+**** FLAMMABLE LIQUIDS ****
 § 92.30 DISPENSERS.
    (A)   Service station.
       (1)   Service stations are buildings and premises where gasoline, oil,
@@ -4940,7 +4940,7 @@ of the tanks surrounded and shall be at least four feet high, but in no case
 higher than one quarter the height of the tank when the height of the tank
 exceeds 16 feet.
 (Prior Code, § 11-17)
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 92.45 ORGANIZATION.
    The Fire Department shall consist of the Chief of the Fire Department and a
 sufficient number of firefighters, voluntary, part time or full time, to
@@ -5000,7 +5000,7 @@ violation of §
 adjacent to the fire or in streets and areas needed for fire-fighting
 activities.
 (Prior Code, § 11-20)
-SMOKE DETECTORS
+**** SMOKE DETECTORS ****
 § 92.60 DEFINITIONS.
    (A)   For the purpose of this subchapter, the following definitions shall
 apply unless the context clearly indicates or requires a different meaning.
@@ -5434,7 +5434,7 @@ see G.S. § 160A-303
    Littering generally, see G.S. § 14-399
    Regulation of placement of garbage and refuse, see G.S. § 160A-303.1
    Removal of unauthorized vehicles from service stations, see G.S. § 20-219.3
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5491,7 +5491,7 @@ purposes of this chapter).
    WASTES. All useless, unwanted or discarded materials resulting from
 domestic, industrial, commercial or community activities.
 (Prior Code, § 20.5-1) (Ord. passed 3-14-1984)
-SOLID WASTES, SCRAP MATERIALS AND NOXIOUS GROWTH
+**** SOLID WASTES, SCRAP MATERIALS AND NOXIOUS GROWTH ****
 § 94.020 ACCUMULATION OF SOLID WASTES.
    (A)   Subject to the qualifications contained in division (B) below, no
 person may cause, suffer or permit solid wastes to accumulate or remain on
@@ -5563,7 +5563,7 @@ threatens to become a fire hazard or a harboring place for rats, mice, snakes
 or other vermin or otherwise poses a danger to the public health or safety.
 (Prior Code, § 20.5-27) (Ord. passed 3-14-1984) Penalty, see §
 94.999
-STORAGE AND COLLECTION OF SOLID WASTES
+**** STORAGE AND COLLECTION OF SOLID WASTES ****
 § 94.040 PROPERTY OWNERS TO PROVIDE ADEQUATE RECEPTACLES.
    The owner of every premises shall be responsible for providing adequate
 solid waste receptacles in accordance with this section to store the solid
@@ -5746,7 +5746,7 @@ or occupant of the premises where those receptacles or solid wastes are
 located.
 (Prior Code, § 20.5-37) (Ord. passed 3-14-1984) Penalty, see §
 94.999
-ABANDONED AND JUNKED MOTOR VEHICLES
+**** ABANDONED AND JUNKED MOTOR VEHICLES ****
 § 94.060 ADMINISTRATION.
    The Police Department and the Town Code Enforcement Officer shall be
 responsible for the administration and enforcement of this subchapter. The
@@ -6013,7 +6013,7 @@ storage facility designated by the town any vehicle which has been impounded
 pursuant to the provisions of this Code unless and until all towing and
 impoundment fees which are due, or bond in lieu of such fees, have been paid.
 (Ord. passed 7-14-2015)
-PUBLIC NUISANCES
+**** PUBLIC NUISANCES ****
 § 94.080 DECLARATION OF NUISANCE.
    The existence of any of the following conditions on any vacant lot or other
 parcel of land within the corporate limits is hereby declared to be dangerous
@@ -6113,7 +6113,7 @@ a property shall be the owner most readily ascertainable by the Town Code
 Enforcement Officer from the public, records, together with the owner in actual
 possession of the property.
 (Ord. passed 9-9-2003)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 94.100 SUMMARY ABATEMENT OF CONDITIONS DANGEROUS OR PREJUDICIAL TO THE PUBLIC
 HEALTH.
    If the Town Council concludes, after notice and hearing as provided in this
@@ -6363,7 +6363,7 @@ Excavations, Repairs and the Like
 96.99   Penalty
 Statutory reference:
    Authority of town to establish and control streets, see G.S. § 160A-296
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 96.01 NAMING STREETS.
    (A)   The Town Council shall designate the names of town streets.
    (B)   A record of the designation shall be made in the minutes of the
@@ -6448,7 +6448,7 @@ address which is displayed in accordance with division (C) above. It shall also
 be unlawful to allow an incorrect street address to remain on a building.
 (Prior Code, § 21-7.1) (Ord. passed 11-14-1989) Penalty, see §
 96.99
-OBSTRUCTIONS
+**** OBSTRUCTIONS ****
 § 96.20 GENERALLY.
    No brick, stone, wood or other substance obstructing the free passage of
 persons and vehicles shall be placed or suffered to lie in any of the alley
@@ -6527,7 +6527,7 @@ sidewalks or streets any animal.
 (Prior Code, § 21-15)
 (Ord. passed 11-27-2000) Penalty, see §
 96.99
-EXCAVATIONS, REPAIRS AND THE LIKE
+**** EXCAVATIONS, REPAIRS AND THE LIKE ****
 § 96.40 PERMITS.
    (A)   Excavations. It shall be unlawful for any person to dig any hole,
 ditch or excavation of any kind whatsoever on any street or sidewalk in the
@@ -6918,7 +6918,7 @@ Reservation of Facilities
 98.33   Approval or denial of application
    
 98.34   Conflict of use; priority
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 98.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7114,7 +7114,7 @@ persons of the prohibition against carrying a concealed handgun therein.
    (B)   This section shall not apply to law enforcement or other government
 personnel acting within the scope of their employment.
 (Prior Code, § 17.5-18) (Ord. passed 2-22-1996)
-RESERVATION OF FACILITIES
+**** RESERVATION OF FACILITIES ****
 § 98.30 PARKS, PLAYGROUNDS AND OPEN SPACES.
    These park areas may be used by the public for recreation activities, but
 are not rented. They are open to the public on a first-come first-served basis.
@@ -7374,7 +7374,7 @@ Business Registration
 Statutory reference:
    Authority of town to impose license taxes, see G.S. § 160A-194
    Schedule B license taxes, see G.S. §§ 105-33 et seq.
-BUSINESS REGISTRATION
+**** BUSINESS REGISTRATION ****
 § 110.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7648,7 +7648,7 @@ Billiard Rooms, Bowling Alleys and the Like
 111.07   Conduct on licensed premises
 Statutory reference:
    Presence of minors in billiard rooms, see G.S. § 14-317
-BILLIARD ROOMS, BOWLING ALLEYS AND THE LIKE
+**** BILLIARD ROOMS, BOWLING ALLEYS AND THE LIKE ****
 § 111.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7740,7 +7740,7 @@ Loudspeakers on Vehicles and the Like
 Statutory reference:
    Authority of town to regulate, restrict or prohibit use of loudspeakers and
 the like, see G.S. § 160A-184
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 112.01 POSTING ON PUBLIC PROPERTY.
    It shall be unlawful for any person to attach, place, paint, write, stamp,
 paste, tack or nail or cause to be attached, placed, painted, written, tacked
@@ -7762,7 +7762,7 @@ bell connected with the houses, stores or places of business shall be rung and
 no alarm of any kind shall be sounded.
 (Prior Code, § 3-2) Penalty, see §
 10.99
-LOUDSPEAKERS ON VEHICLES AND THE LIKE
+**** LOUDSPEAKERS ON VEHICLES AND THE LIKE ****
 § 112.20 GOVERNMENTAL AGENCIES EXEMPTED.
    The provisions of this subchapter shall not apply to any governmental agency
 acting within the scope of its functions.
@@ -7914,7 +7914,7 @@ Statutory reference:
    Authority of town to regulate taxicabs, see G.S. § 160A-304
    Financial responsibility of taxicab operators, see G.S. § 20-280
    General taxicabs provisions, see G.S. §§ 20-37, 20-87, 20-97
-SHORT-TERM LEASE OR RENTAL OF VEHICLES
+**** SHORT-TERM LEASE OR RENTAL OF VEHICLES ****
 § 114.01 TAX ON GROSS RECEIPTS.
    The town hereby imposes and levies a tax of 1.5% of the gross receipts from
 the short-term lease or rental of vehicles at retail to the general public, as
@@ -7936,7 +7936,7 @@ town.
 § 114.04 EFFECTIVE DATE.
    This subchapter shall become effective immediately.
 (Ord. passed 11-10-2008)
-TAXICABS
+**** TAXICABS ****
 § 114.20 RATES.
    (A)   Rates for taxicabs in the town and within five miles of the town
 limits are fixed and shall be established by the Town Council as it may deem
@@ -8241,7 +8241,7 @@ Special Events
 130.99   Penalty
 Statutory reference:
    State criminal law, see G.S. Ch. 14
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 130.01 PUBLIC CONSUMPTION, SALE AND THE LIKE OF ALCOHOLIC BEVERAGES.
    (A)   Prohibition. It shall be unlawful for any person to consume, offer to
 consume, give away, display or have in his possession in an open container any
@@ -8742,7 +8742,7 @@ Statutory reference:
    No person shall urinate or deposit any human waste of any kind on any
 street, lot or premises except in approved sanitary facilities.
 (Ord. passed 3-14-2017)
-ALCOHOLIC BEVERAGES
+**** ALCOHOLIC BEVERAGES ****
 § 130.35 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8973,7 +8973,7 @@ organizer of the event.
 be enforced through the issuance of a civil penalty.
 (Ord. passed 8-8-2023) Penalty, §
 130.99
-CURFEW
+**** CURFEW ****
 § 130.50 PURPOSE.
    (A)   The purpose of this subchapter is to protect juveniles from
 victimization and exposure to criminal activity by establishing a curfew for
@@ -9080,7 +9080,7 @@ believes that an offense has occurred and that, based on any response and other
 circumstances, no exception or defense in §
 130.53 is present.
 (Ord. passed 8- -1997)
-SPECIAL EVENTS
+**** SPECIAL EVENTS ****
 § 130.60 PURPOSE; SCOPE AND INTENT.
    (A)   The purpose of this subchapter is to establish a structured process
 for permitting the staging of special planned public events, and/or television
@@ -9658,7 +9658,7 @@ equipment and facilities
  
    
 150.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.001 SCOPE OF CHAPTER.
    The provisions of this chapter and of the regulatory codes herein adopted
 shall apply to the following:
@@ -9719,7 +9719,7 @@ after examination and inspection, it is found that the building in all respects
 conforms to the provisions of this chapter, the regulatory codes and the Zoning
 Ordinance for the occupancy intended.
 (Prior Code, § 7-5)
-REGULATORY CODES
+**** REGULATORY CODES ****
 § 150.020 BUILDING CODE; GENERAL CONSTRUCTION.
    The State Building Code, Volume I, General Construction, as adopted by the
 State Building Code Council and as amended, is hereby adopted by reference as
@@ -9791,7 +9791,7 @@ office of the Town Clerk.
    (B)   The copies shall be the official copies of the codes and the
 amendments.
 (Prior Code, § 7-13)
-INSPECTION DEPARTMENT
+**** INSPECTION DEPARTMENT ****
 § 150.040 COMPOSITION; APPOINTMENT OF DEPARTMENT HEAD.
    The Inspection Department shall consist of a Building Inspector, a Plumbing
 Inspector, a Heating-Air Conditioning Inspector, an Electrical Inspector and
@@ -9903,7 +9903,7 @@ owner of the property, to his or her agent or to the person doing the work and
 shall state the reasons therefor and the conditions under which the work may be
 resumed.
 (Prior Code, § 7-19)
-PERMITS
+**** PERMITS ****
 § 150.060 PERMITS REQUIRED.
    (A)   Building. No person shall commence or proceed with the construction,
 reconstruction, alteration, repair, removal or demolition of any building or
@@ -10036,7 +10036,7 @@ shall be as established by the Town Council. A schedule of the fees shall be
 maintained by the Inspection Department and be available for public inspection
 during the normal office hours of the Inspection Department.
 (Prior Code, § 7-28)
-UNSAFE BUILDINGS
+**** UNSAFE BUILDINGS ****
 § 150.080 DECLARATION BY BUILDING INSPECTOR.
    (A)   Any building or structure or part thereof, partially destroyed or
 otherwise, which is found by the Building Inspector to be in a dilapidated
@@ -10201,7 +10201,7 @@ Building Inspector or Town Council made by virtue and in pursuance of this
 subchapter shall constitute a separate and distinct offense.
 (Prior Code, § 7-38) Penalty, see §
 150.999
-INSULATION
+**** INSULATION ****
 § 150.100 AUTHORITY.
    This subchapter is adopted pursuant to state statutes.
 (Prior Code, § 7-39) (Ord. passed 12-13-1977)
@@ -10316,7 +10316,7 @@ a permit from the Building Inspector for each item of work. There shall be a
 fee as set by the Town Council for each permit issued.
 (Prior Code, § 7-47) (Ord. passed 12-13-1977) Penalty, see §
 150.999
-HOUSING CODE
+**** HOUSING CODE ****
 § 150.120 FINDINGS; PURPOSE.
    (A)   Pursuant to G.S. § 160A-441, it is hereby declared that there exist in
 the town dwellings which are unfit for human habitation due to dilapidation;

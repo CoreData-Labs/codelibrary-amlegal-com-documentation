@@ -83,7 +83,7 @@ this Act
 5.10   Reference Made to Particular Provision of General Statutes
    
 5.11   Act Effective Upon Ratification
-ARTICLE I:  INCORPORATION, CORPORATE POWERS AND BOUNDARIES
+**** ARTICLE I:  INCORPORATION, CORPORATE POWERS AND BOUNDARIES ****
 § 1.1  CHARTER REVISED AND CONSOLIDATED.
    The Charter of the City of Lowell is revised and consolidated as follows:
 § 1.2  INCORPORATION.
@@ -105,7 +105,7 @@ upon alteration of the corporate limits made pursuant to law, the appropriate
 changes of the official map shall be made and copies shall be filed in the
 office of the Secretary of State, the Gaston County Register of Deeds and the
 appropriate board of elections.
-ARTICLE II:  GOVERNING BODY
+**** ARTICLE II:  GOVERNING BODY ****
 § 2.1  MAYOR AND CITY COUNCIL.
    The Mayor and the City Council, hereafter referred to as the “Council,”
 shall be the governing body of the City.
@@ -138,7 +138,7 @@ quorum provisions of G.S. 160A-74 shall apply.
    The compensation and qualifications of the Mayor and Council shall be fixed
 in accordance with general law. Vacancies that occur in any elective office of
 the City shall be filled by appointment as provided in G.S. 160A-63.
-ARTICLE III:  ELECTIONS
+**** ARTICLE III:  ELECTIONS ****
 § 3.1  REGULAR MUNICIPAL ELECTIONS.
    Regular municipal elections shall be held in each odd-numbered year in
 accordance with the uniform municipal election laws of North Carolina.
@@ -152,7 +152,7 @@ their terms expire.
 § 3.4  SPECIAL ELECTIONS AND REFERENDUMS.
    Special elections and referendums may be held only as provided by general
 law or applicable local acts of the General Assembly.
-ARTICLE IV:  ORGANIZATION AND ADMINISTRATION
+**** ARTICLE IV:  ORGANIZATION AND ADMINISTRATION ****
 § 4.1  FORM OF GOVERNMENT.
    The City shall operate under the council-manager form of government, in
 accordance with G.S. Chapter 160A, Article 7, Part 2.
@@ -179,7 +179,7 @@ Council may direct.
    The Council may authorize other positions to be filled by appointment by the
 City Manager, and may organize the City Government as deemed appropriate,
 subject to the requirements of general law.
-ARTICLE V:  ADDITIONAL PROVISIONS
+**** ARTICLE V:  ADDITIONAL PROVISIONS ****
 § 5.1  POLICE POWER.
    The City may adopt and enforce within its corporate limits and within one
 mile thereof police power regulations not inconsistent with the General
@@ -650,7 +650,7 @@ City Officials
 30.55   Office of Mayor
    
 30.56   Office of Mayor Pro Tempore
-MEETINGS
+**** MEETINGS ****
 § 30.01  REGULAR MEETINGS.
    The City Council shall annually adopt a schedule of regular meetings for the
 calendar year. Regular meetings shall be held on the second Tuesday of each
@@ -1136,7 +1136,7 @@ conflict with state law or with the spirit of these rules, the Council shall
 refer to Robert’s Rules of Order Newly Revised, to answer unresolved procedural
 questions.
 (Ord. passed 12-9-2013)
-ORDINANCES
+**** ORDINANCES ****
 § 30.40  INTRODUCTION OF ORDINANCES.
    A proposed ordinance shall be deemed to be introduced on the date the
 subject matter is first voted on by the Council.
@@ -1188,7 +1188,7 @@ This rule does not allow, and may not be construed to allow, the holding of
 closed meetings or executive sessions by the Council if it is otherwise
 prohibited by law from holding such a meeting or session.
 (Ord. passed 12-9-2013)
-CITY OFFICIALS
+**** CITY OFFICIALS ****
 § 30.55  OFFICE OF MAYOR.
    (A)   The Mayor shall preside at all meetings of the Council but shall have
 the right to vote only when there is a tie. In order to address the Council, a
@@ -1298,7 +1298,7 @@ City Manager
 32.31   Appointment of personnel
    
 32.32   Council not to interfere in appointments, removals or duties
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01  CITY MOTTO.
    The words “A Patriotic City” are adopted as the official motto of this city,
 and as such shall be declared to be the official motto for the city. The use of
@@ -1316,7 +1316,7 @@ letters and punctuation: “LOWELL, N.C.” This design is adopted as the offici
 emblem or crest of the city. The use of this city emblem on any city property
 or articles is permissive and discretionary but not directory.
 (1995 Code, § 2-23)  (Ord. passed 4-9-1985)
-CITY OFFICIALS
+**** CITY OFFICIALS ****
 § 32.15  CITY CLERK; DUTIES.
    (A)   The Council shall appoint a City Clerk.
    (B)   It shall be the duty of the Clerk to:
@@ -1370,7 +1370,7 @@ direct.
 (1995 Code, § 2-21)
 Statutory reference:
    Duties of tax collector, see G.S. §§ 105-349, 105-350
-CITY MANAGER
+**** CITY MANAGER ****
 § 32.30  CITY MANAGER; DUTIES.
    In addition to any other duties imposed by state law, it shall be the duty
 of the City Manager:
@@ -1445,7 +1445,7 @@ Parks and Recreation Advisory Committee
 33.42   Officers and duties
    
 33.43   Powers and duties
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.01  DEPARTMENTS ENUMERATED.
    The administrative organization of the city may be divided into the
 following departments:
@@ -1457,7 +1457,7 @@ following departments:
    (F)   Water and Sewer; and
    (G)   Wastewater Treatment.
 (1995 Code, § 2-24)
-PLANNING BOARD
+**** PLANNING BOARD ****
 § 33.15  CREATION.
    Pursuant to G.S. §§ 160A-361 and 160A-362, there is hereby created a
 Planning Board of the city to perform the functions and the duties herein
@@ -1594,7 +1594,7 @@ for the current fiscal year; and shall submit to the City Council for budget
 consideration its requested budget of funds needed for operation during the
 ensuing fiscal year.
 (1995 Code, § 2-39)
-PARKS AND RECREATION ADVISORY COMMITTEE
+**** PARKS AND RECREATION ADVISORY COMMITTEE ****
 § 33.40  PARKS AND RECREATION ADVISORY COMMITTEE CREATED; MEMBERSHIP.
    (A)   There shall be a Parks and Recreation Committee which shall consist of
 seven members of which five shall be voting members and two shall be alternates
@@ -1770,7 +1770,7 @@ Fire Protection and Prevention
 Emergency and Rescue
    
 35.35   State of emergency; curfew authorized
-LAW ENFORCEMENT
+**** LAW ENFORCEMENT ****
 § 35.01  POLICE DEPARTMENT; CREATION.
    The City Police Department is hereby created subject to the terms, authority
 and conditions set out in this subchapter.
@@ -1850,7 +1850,7 @@ volunteer organization, whose members shall serve without compensation,
 composed of as many members as may from time to time be determined by the Chief
 of Police and approved by the City Manager.
 (Ord. passed 5-11-2004)
-FIRE PROTECTION AND PREVENTION
+**** FIRE PROTECTION AND PREVENTION ****
 § 35.20  PERMIT REQUIRED.
    (A)   In accordance with the detailed requirements of the city, a permit
 shall be obtained to conduct the following operations, or to store, handle or
@@ -1909,7 +1909,7 @@ on his or her premises any kerosene or gasoline except in containers approved
 by the Fire Marshal.
 (1995 Code, § 3-13)  (Ord. passed 9-10-1991)  Penalty, see §
 10.99
-EMERGENCY AND RESCUE
+**** EMERGENCY AND RESCUE ****
 § 35.35  STATE OF EMERGENCY; CURFEW AUTHORIZED.
    (A)   A state of emergency shall be deemed to exist whenever, during times
 of great public crises, disaster, rioting, catastrophe or similar public
@@ -2035,7 +2035,7 @@ Traffic Calming Policy
 36.75   Actions
    
 36.76   Traffic calming policy overview flow chart
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 36.01  ANTI-IDLING POLICY.
    (A)   Reduce vehicle idling.
       (1)   Vehicle idling gets zero miles per gallon; unnecessary idling
@@ -2084,7 +2084,7 @@ responsible for the discipline of employees found to be in violation of the
 policy. Discipline will be per the city disciplinary procedures and in a
 progressive manner.
 (Ord. passed 12-8-2008)
-CODE OF ETHICS
+**** CODE OF ETHICS ****
 § 36.15  PURPOSE.
    The purpose of this Code of Ethics is to establish guidelines for ethical
 standards of conduct for the Mayor and City Council of the city and all
@@ -2238,7 +2238,7 @@ be approved by the Council as a permanent part of the minutes. The proceedings
 shall then be considered concluded; the Council having done all it legally can
 with respect to the matter in question.
 (Ord. passed 12-9-2013)
-FISCAL POLICY
+**** FISCAL POLICY ****
 § 36.30  INTRODUCTION.
    The Fiscal Procedures Policy is the foundation for fiscal management of the
 City of Lowell's resources guiding the City Council, hereinafter ("Council"),
@@ -3421,7 +3421,7 @@ deemed a part of the bond proceeds.
       (6)   Registered securities acquired for investment may be released from
 registration and transferred by signature of the Finance Officer.
 (Ord. passed 11-14-2016)
-UTILITY BILLING POLICY
+**** UTILITY BILLING POLICY ****
 § 36.50  FORWARD.
    (A)   The objective of the Lowell Utility Billing and Collections Procedure
 Policy is intended to provide a consistent process by which utilities are
@@ -3664,7 +3664,7 @@ deemed necessary.
 § 36.62  EQUALIZED PAYMENTS.
    The City of Lowell does not currently offer an equalized payment program.
 (Ord. passed 3-13-2017)
-TRAFFIC CALMING POLICY
+**** TRAFFIC CALMING POLICY ****
 § 36.70  MISSION STATEMENT.
    The City of Lowell wishes to have a procedure whereby the city can
 incorporate traffic calming devices and systems in order to alleviate speeding,
@@ -4699,7 +4699,7 @@ Enforcement of and Obedience to Traffic Regulations
 Cross-reference:
    Utility Billing Policy, see
 Ch. 36
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01  DEFINITIONS OF WORDS AND PHRASES.
    For the purpose of this title, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -4812,7 +4812,7 @@ for the purposes of this title any bicycle shall be deemed a VEHICLE.
 Statutory reference:
    Motor vehicles, see G.S. Ch. 20
    Municipal authority to regulate traffic generally, see G.S. § 160A-300
-ENFORCEMENT OF AND OBEDIENCE TO TRAFFIC REGULATIONS
+**** ENFORCEMENT OF AND OBEDIENCE TO TRAFFIC REGULATIONS ****
 § 70.15  AUTHORITY OF POLICE DEPARTMENT OFFICIALS.
    (A)   It shall be the duty of the officers of the Police Department to
 enforce all street traffic laws and all the state vehicle laws applicable to
@@ -5027,7 +5027,7 @@ Miscellaneous Driving Rules
 Cross-reference:
    Utility Billing Policy, see
 Ch. 36
-SPEED REGULATIONS
+**** SPEED REGULATIONS ****
 § 72.001  GENERAL.
    Except as otherwise provided in this subchapter, it shall be unlawful to
 operate a vehicle in excess of 35 mph inside the city corporate limits.
@@ -5074,7 +5074,7 @@ Ch. 76, Sch. V); and
 Ch. 76, Sch. V).
 (1995 Code, § 7-16)  Penalty, see §
 70.99
-TURNING MOVEMENTS
+**** TURNING MOVEMENTS ****
 § 72.015  TURNING MARKERS.
    When authorized markers, buttons or other indicators are placed within an
 intersection indicating the course to be traveled by turning vehicles, no
@@ -5099,7 +5099,7 @@ turn is permitted, no driver of a vehicle shall disobey the directions of any
 sign.
 (1995 Code, § 7-19)  Penalty, see §
 70.99
-ONE-WAY STREETS AND ALLEYS
+**** ONE-WAY STREETS AND ALLEYS ****
 § 72.030  AUTHORITY TO SIGN ONE-WAY STREETS AND ALLEYS.
    Whenever any ordinance designates any one-way street or alley, there shall
 be signs giving notice thereof, and no regulations shall be effective unless
@@ -5116,7 +5116,7 @@ erected and maintained at every intersection where movement in the opposite
 direction is prohibited.
 (1995 Code, § 7-21)  Penalty, see §
 70.99
-SPECIAL STOPS REQUIRED
+**** SPECIAL STOPS REQUIRED ****
 § 72.045  THROUGH STREETS DESIGNATED.
    Those streets and parts of streets described in
 Ch. 76, Sch. X, hereby made a part hereof, are declared to be through streets
@@ -5163,7 +5163,7 @@ intersection shall proceed cautiously yielding the right-of way to all vehicles
 not so obliged to stop which are approaching the intersection.
 (1995 Code, § 7-26)  Penalty, see §
 70.99
-MISCELLANEOUS DRIVING RULES
+**** MISCELLANEOUS DRIVING RULES ****
 § 72.060  NO HEAVY TRUCKS.
    When signs are erected giving notice thereof, no persons shall operate any
 truck or trailer having a gross weight in excess of two and one-half tons, upon
@@ -5210,7 +5210,7 @@ Stopping, Standing or Parking Restricted or Prohibited on Certain Streets
 73.48   Parking time limited on certain streets
    
 73.49   Parking signs required
-METHOD OF PARKING
+**** METHOD OF PARKING ****
 § 73.01  STANDING OR PARKING CLOSE TO CURB.
    No person shall stand or park a vehicle in a roadway other than parallel
 with the edge of the roadway headed in the direction of lawful traffic movement
@@ -5229,7 +5229,7 @@ provided the vehicle is parked between two angled lines making a parking space
 as designed and placed by the City Council.
 (1995 Code, § 7-40)  Penalty, see §
 70.99
-STOPPING, STANDING OR PARKING PROHIBITED
+**** STOPPING, STANDING OR PARKING PROHIBITED ****
 § 73.15  STOPPING, STANDING OR PARKING PROHIBITED; NO SIGNS REQUIRED.
    (A)   No person shall stop, stand or park a vehicle, except when necessary
 to avoid conflict with other traffic or in compliance with law or the
@@ -5295,7 +5295,7 @@ PROHIBITED.
 purpose of advertising.
 (1995 Code, § 7-45)  Penalty, see §
 70.99
-STOPPING FOR LOADING OR UNLOADING ONLY
+**** STOPPING FOR LOADING OR UNLOADING ONLY ****
 § 73.30  LOADING AND UNLOADING ZONES.
    Whenever vehicle loading and unloading zones are designated and described in
 this subchapter and when signs are placed, erected or installed, giving notice
@@ -5325,8 +5325,8 @@ passenger vehicle may temporarily stop therein for the purpose of and while
 actually engaged in loading or unloading passengers when stopping does not
 interfere with any bus or taxicab waiting to enter or about to enter the zone.
 (1995 Code, § 7-48)
-STOPPING, STANDING OR PARKING RESTRICTED
-OR PROHIBITED ON CERTAIN STREETS
+**** STOPPING, STANDING OR PARKING RESTRICTED
+OR PROHIBITED ON CERTAIN STREETS ****
 § 73.45  APPLICATION OF SUBCHAPTER.
    The provisions of this subchapter prohibiting the standing or parking of a
 vehicle shall apply at all times or at those times herein specified or as
@@ -5397,7 +5397,7 @@ Operation of Golf Carts and Utility Vehicles on Public Streets and Roads
  
    
 74.99   Penalty
-REGULATIONS FOR BICYCLES
+**** REGULATIONS FOR BICYCLES ****
 § 74.01  EFFECT OF REGULATIONS.
    (A)   The parent of any child and the guardian of any ward shall not
 authorize or knowingly permit any child or ward to violate any of the
@@ -5477,8 +5477,8 @@ visible under normal atmospheric conditions from a distance of at least 200
 feet to the rear of such bicycle.
 (1995 Code, § 7-37)  Penalty, see §
 74.99
-OPERATION OF GOLF CARTS AND UTILITY VEHICLES
-ON PUBLIC STREETS AND ROADS
+**** OPERATION OF GOLF CARTS AND UTILITY VEHICLES
+ON PUBLIC STREETS AND ROADS ****
 § 74.25  AUTHORITY.
    (A)   Pursuant to G.S. § 160A-300.6, a city may, by ordinance, regulate the
 operation of golf carts, as defined in G.S. § 20-4.01(12a), on any public
@@ -6674,13 +6674,13 @@ Use and Cleanliness
 92.57   Maintenance of public areas
    
 92.58   Maintenance of receptacles
-STREETS AND SIDEWALKS
+**** STREETS AND SIDEWALKS ****
 § 92.01  ACCEPTANCE OF SUBDIVISION STREETS.
    New streets proposed for dedication as a part of, or in connection with,
 subdivisions of land shall be submitted by plat in accordance with the
 subdivision regulations.
 (1995 Code, § 4-1)
-EXCAVATION AND REPAIR
+**** EXCAVATION AND REPAIR ****
 § 92.15  EXCAVATIONS; PERMIT REQUIRED.
    No person shall make any excavation or opening or dig any ditch, trench,
 tunnel or hole in, along, across or under any street, sidewalk or other public
@@ -6758,7 +6758,7 @@ driveway on the public streets, unless a written permit therefor has been
 issued by an officer of the city vested with such authority.
 (1995 Code, § 4-11)  Penalty, see §
 10.99
-OBSTRUCTING STREETS AND SIDEWALKS
+**** OBSTRUCTING STREETS AND SIDEWALKS ****
 § 92.35  ASSEMBLY ON STREETS AND SIDEWALKS.
    Except as provided in
 Ch. 96, Parades and Demonstrations, of this code, it shall be unlawful for
@@ -6800,7 +6800,7 @@ vehicle on a paved street of the city except in case of emergency.
 upon any street or sidewalk.
 (1995 Code, § 6-48)  Penalty, see §
 10.99
-USE AND CLEANLINESS
+**** USE AND CLEANLINESS ****
 § 92.55  LITTERING PROHIBITED.
    It shall be unlawful for any person, firm, organization or private
 corporation to throw or deposit upon any street or sidewalk, or upon any
@@ -8161,7 +8161,7 @@ Disorderly Conduct
 130.23   Injuring property of city
    
 130.24   Alcoholic beverage use and possession
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 130.01  UNNECESSARY NOISE.
    (A)   It shall be unlawful for any person, firm or corporation to create or
 assist in creating, permit, continue or permit the continuance of any
@@ -8317,7 +8317,7 @@ person be within or without a motor vehicle or upon any other conveyance; or
 as intended to compel or force a person to such demands.
 (Ord. passed 5- -2010)  Penalty, see §
 10.99
-DISORDERLY CONDUCT
+**** DISORDERLY CONDUCT ****
 § 130.20  PROFANITY AND BOISTEROUS CONDUCT.
    It shall be unlawful for any person to use loud, boisterous or profane
 language in any public place in a manner as to create a public disturbance.
@@ -8493,7 +8493,7 @@ Abandoned Structures
  
    
 150.999   Penalty
-ADOPTION OF REGULATORY CODES BY REFERENCE
+**** ADOPTION OF REGULATORY CODES BY REFERENCE ****
 § 150.001  SCOPE OF SUBCHAPTER AND CODES.
    The provisions of this subchapter and of the regulatory codes herein adopted
 shall apply to the following:
@@ -8577,7 +8577,7 @@ Building Inspector.
    (B)   The copies shall be the official copies of the codes and the
 amendments.
 (1995 Code, § 9-9)  (Ord. passed 9-18-1978)
-INSPECTIONS DEPARTMENT
+**** INSPECTIONS DEPARTMENT ****
 § 150.020  DESIGNATION OF COUNTY DEPARTMENT FOR INSPECTIONS.
    The County Building Inspection Department is hereby designated as the
 enforcement agency of the city.
@@ -8608,7 +8608,7 @@ Council, be responsible for enforcing the North Carolina Uniform Standards Code
 for Mobile Homes (G.S. Ch. 143, Art. 9A), including any design and construction
 standards incorporated therein by reference.
 (1995 Code, § 9-13)  (Ord. passed 9-18-1978)
-MINIMUM HOUSING CODE
+**** MINIMUM HOUSING CODE ****
 § 150.035  FINDING; PURPOSE.
    (A)   Pursuant to G.S. § 160A-441, it is hereby found and declared that
 there exist in the city dwellings which are unfit for human habitation due to
@@ -9187,7 +9187,7 @@ the city, the provision which establishes the higher standard or more stringent
 requirement for the promotion and protection of the health and safety of the
 residents of the city shall prevail.
 (1995 Code, § 9-34)  (Ord. passed 3-14-1978)
-PROPERTY NUMBERING
+**** PROPERTY NUMBERING ****
 § 150.070  NUMBERING MAP.
    The property numbering map entitled the “House Numbering Plan” of the city
 is hereby adopted as the official property numbering map of the city, and all
@@ -9233,7 +9233,7 @@ assigned numbers on structures, using the following standards: that there be a
 minimum of three inches in height and also it identifies the location of the
 house numbers on the structure or property.
 (1995 Code, § 4-20)  (Ord. passed 5-9-1960; Ord. passed 11-10-2008)
-ABANDONED STRUCTURES
+**** ABANDONED STRUCTURES ****
 § 150.085  FINDINGS; INTENT.
    It is hereby found that there exists within the city abandoned structures
 which the City Council finds to be hazardous to the health, safety and welfare
@@ -9488,7 +9488,7 @@ Cross-reference:
    Abandoned structures, see §§
 150.085 through
 150.095
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.01  SHORT TITLE.
    The rules and regulations prescribed by this chapter shall be known and be
 cited as “The Nonresidential Building Code of the City of Lowell” and may be
@@ -9592,7 +9592,7 @@ converted to another use.
 the lawful production or manufacturing of goods, which has not been used for
 that purposes for at least one year and has not been converted to another use.
 (Ord. passed 9- -2010)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 151.15  DUTIES AND POWERS OF THE CODE ENFORCEMENT OFFICIAL.
    It shall be the duty of the code enforcement official to:
    (A)   Investigate the conditions of and inspect buildings and structures in
@@ -9898,7 +9898,7 @@ the name of the city to remove the occupant. Such action shall be filed in the
 nature of summary ejectment and conducted in accordance with G.S. § 160A-439
 (j).
 (Ord. passed 9- -2010)
-MAINTENANCE STANDARDS
+**** MAINTENANCE STANDARDS ****
 § 151.40  MAINTENANCE STANDARDS IN GENERAL.
    Only electrical, mechanical and plumbing devices and systems which are:
    (A)   Intended to be used at the time of inspection;
