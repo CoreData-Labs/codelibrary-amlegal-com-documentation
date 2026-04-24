@@ -426,7 +426,7 @@ Ordinances and Resolutions
 30.38   Ordinance book
    
 30.39   Ordinances; addition to code
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 MAYOR AND BOARD OF COMMISSIONERS; POWERS AND DUTIES.
    (A) The Mayor and Board of Commissioners shall be charged with the general
 government and administration of the affairs of the town.
@@ -503,7 +503,7 @@ the Annual Budget Ordinance, and as the same may be amended from time to time.
 (Prior Code, § 30.05)
 Statutory reference:
    Compensation of Mayor and Town Board, see G.S. § 160A-64
-MEETINGS; RULES OF PROCEDURE
+**** MEETINGS; RULES OF PROCEDURE ****
 § 30.20 REGULAR MEETINGS.
    The regular meetings of the Town Board shall be held on the third Tuesday of
 each month at 6:00 p.m. at the Town Hall, unless otherwise designated by the
@@ -592,7 +592,7 @@ Mayor without debate, subject to an appeal to the Town Board.
 the latest revised edition of Robert’s Rules of Order shall determine the
 question of procedure.
 (Prior Code, § 30.19)
-ORDINANCES AND RESOLUTIONS
+**** ORDINANCES AND RESOLUTIONS ****
 § 30.35 PROCEDURE; PUBLICATION.
    Every ordinance amending or repealing any ordinance and every new ordinance
 shall be proposed in writing and shall be approved as to form by the Town
@@ -652,7 +652,7 @@ Cash Management and Investment Plan, see §§
 33.21
 Duties of Town Clerk as Purchasing Agent, see §
 33.02
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 CONSOLIDATION OF OFFICES.
    Except as otherwise provided by law, the Board of Commissioners may, in its
 discretion, consolidate any two or more offices and assign the duties of those
@@ -668,7 +668,7 @@ Board.
 indirectly, in any contract made or entered into by the Town Board, nor in any
 matter where the rights or liabilities of the town are, or may be, involved.
 (Prior Code, § 31.03)
-TOWN OFFICERS
+**** TOWN OFFICERS ****
 § 31.15 TOWN CLERK.
    (A)   The Town Board shall appoint a Town Clerk.
    (B)   It shall be the duty of the Town Clerk to:
@@ -725,7 +725,7 @@ Charter, or the Town Board.
 Statutory reference:
    Duties of Finance Officer, see G.S. § 159-25
    Fiscal control, see G.S. §§ 159-7 et seq.
-EMPLOYEE REGULATIONS
+**** EMPLOYEE REGULATIONS ****
 § 31.30 EQUAL EMPLOYMENT OPPORTUNITY POLICY.
    The town is an equal employment opportunity employer and does not
 discriminate on the basis of race, color, religion, sex, age, or national
@@ -831,14 +831,14 @@ Planning Committee
 32.58   Planning Board; Board of Adjustment
    
 32.59   Conflicts and validity
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01 DEPARTMENTS ENUMERATED.
    The administrative organization of the town shall be divided into the
 following departments:
    (A)   Police Department; and
    (B)   Volunteer Fire Department.
 (Prior Code, § 32.01)
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 32.15 DEPARTMENT ESTABLISHED; COMPOSITION.
    (A)   The Police Department is hereby created subject to the terms,
 authority, and conditions set out herein.
@@ -941,7 +941,7 @@ auxiliary police division.
 whom shall serve without compensation, and composed of as many members as may,
 from time to time, be determined by the Police Chief.
 (Prior Code, § 32.21)
-VOLUNTEER FIRE DEPARTMENT
+**** VOLUNTEER FIRE DEPARTMENT ****
 § 32.35 DEPARTMENT ESTABLISHED.
    There is hereby created a department known as the Volunteer Fire Department,
 the object of which shall be the prevention and extinguishment of fire and the
@@ -975,7 +975,7 @@ alarms and assist the Volunteer Fire Department in the protection of life and
 property, in regulating traffic, maintaining order, and in enforcing observance
 of all sections of this subchapter.
 (Prior Code, § 32.32)
-PLANNING COMMITTEE
+**** PLANNING COMMITTEE ****
 § 32.50 ESTABLISHMENT.
    There is hereby established a board to be known as the town’s Planning Board
 whose jurisdiction shall include the area within the territorial jurisdiction
@@ -1170,7 +1170,7 @@ Cross-reference:
 34.02
    Town Clerk, see §
 31.15
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.01 DISBURSEMENT OF FUNDS; CERTIFICATE.
    (A)   In accordance with the Local Government Budget and Fiscal Control Act,
 no bill or claim against the town may be paid unless it has been approved by
@@ -1361,7 +1361,7 @@ Plan.
 the Cash Management Plan and efforts undertaken to ensure that these deviations
 do not reoccur.
 (Prior Code, § 34.21)
-PURCHASING PROCEDURES
+**** PURCHASING PROCEDURES ****
 § 33.35 FORMAL BID PROCEDURE.
    (A)   If the estimated cost of supplies, apparatus, materials, or equipment
 to be purchased exceeds $20,000, the town shall advertise and receive formal
@@ -1457,7 +1457,7 @@ Use of Town Property for Special Events
  
    
 34.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 TOWN LIABILITY.
    (A)   As resolved by the Board of Commissioners, it shall be the policy of
 the town to pay defense costs, expenses, judgments, interest on judgments,
@@ -1787,7 +1787,7 @@ Ch. 110
 30.01
    Mayor Pro Tem; selection and duties, see §
 30.02
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 35.01 STATE OF EMERGENCY; AUTHORITY OF MAYOR.
    (A)   A state of emergency shall be deemed to exist whenever during times of
 public crisis, disaster, rioting, catastrophe, or similar public emergency, for
@@ -2090,7 +2090,7 @@ Administration and Enforcement
 Statutory reference:
    Motor vehicles, see G.S. Ch. 20
    Municipal authority to regulate traffic, see G.S. § 160A-300
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this title, the following definitions apply unless the
 context clearly indicates or requires a different meaning.
@@ -2202,7 +2202,7 @@ any of the public streets of the town.
 or may be transported or drawn upon, any street within the corporate limits;
 and for the purposes of this title any bicycle shall be deemed a VEHICLE.
 (Prior Code, § 70.01)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 70.15 AUTHORITY OF POLICE AND VOLUNTEER FIRE DEPARTMENT OFFICIALS.
    (A)   It shall be the duty of the officers of the Police Department or those
 officers as are assigned by the Police Chief to enforce all traffic ordinances
@@ -2272,7 +2272,7 @@ Driving Regulations
 71.27   Turning; signs; restrictions
    
 71.28   Truck traffic restricted
-TRAFFIC-CONTROL SIGNS AND DEVICES
+**** TRAFFIC-CONTROL SIGNS AND DEVICES ****
 § 71.01 OBEDIENCE TO TRAFFIC-CONTROL DEVICES; EXCEPTIONS.
    (A)   Any person failing or refusing to comply with the directions indicated
 on any sign, marker, or device for the control or direction of traffic erected
@@ -2404,7 +2404,7 @@ approximately the same time as the vehicle entering the main   traveled or
 through street or highway.
 (Prior Code, § 70.24) Penalty, see §
 70.99
-DRIVING REGULATIONS
+**** DRIVING REGULATIONS ****
 § 71.25 SPEED LIMITS; EXCEPTIONS.
    (A)   Speed limits. Except as otherwise provided in this title, it shall be
 unlawful to operate a vehicle in excess of 35 mph inside the town corporate
@@ -2519,7 +2519,7 @@ Required Stops
  
    
 72.99   Penalty
-GENERAL PARKING RESTRICTIONS
+**** GENERAL PARKING RESTRICTIONS ****
 § 72.01 STAND OR PARK CLOSE TO CURB.
    No person shall stand or park a vehicle in a roadway other than parallel
 with the edge of the roadway headed in the direction of lawful traffic movement
@@ -2704,7 +2704,7 @@ appropriate signs giving notice thereof.
    (B)   No parking regulations shall be effective unless the signs are erected
 and in place at the time of any alleged offense.
 (Prior Code, § 72.24) (Ord. 10, passed 12-8-1986)
-REQUIRED STOPS
+**** REQUIRED STOPS ****
 § 72.40 DESIGNATED THROUGH STREETS.
    Streets and parts of streets as designated by the Town Board are declared to
 be THROUGH STREETS for the purpose of this subchapter.
@@ -2817,7 +2817,7 @@ Ch. 70
    Traffic-control signs and devices, see §§
 71.01 through
 71.10
-BICYCLES
+**** BICYCLES ****
 § 73.01 PARENTAL RESPONSIBILITY; APPLICABILITY OF REGULATIONS.
    (A)   The parent of any child and the guardian of any ward shall not
 authorize or knowingly permit any child or ward to violate any of the
@@ -2886,7 +2886,7 @@ shall yield the right-of-way to any pedestrian and shall give audible signal
 before overtaking and passing the pedestrian.
 (Prior Code, § 73.08) Penalty, see §
 73.99
-GOLF CARTS
+**** GOLF CARTS ****
 § 73.20 PURPOSE AND AUTHORITY.
    The purpose of this subchapter is to regulate the operation of golf carts on
 any public street, road, or highway within the jurisdiction of the town under
@@ -3088,7 +3088,7 @@ Statutory reference:
 303.2
    Authority to remove and dispose of junked and abandoned motor vehicles, see
 G.S. § 160A-303
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 ADMINISTRATION AND ENFORCEMENT.
    (A)   (1)   The Police Department and the Code Administrator shall be
 responsible for the administration and enforcement of this chapter. The Police
@@ -3169,7 +3169,7 @@ enterprise; or
    (D)   In an appropriate storage place or depository maintained in a lawful
 place and manner by the town.
 (Prior Code, § 90.04) (Ord. 21, passed 3-12-1990)
-VEHICLE REMOVAL AND DISPOSITION
+**** VEHICLE REMOVAL AND DISPOSITION ****
 § 90.15 ABANDONED VEHICLE UNLAWFUL.
    (A)   It shall be unlawful for the registered owner or person entitled to
 possession of a vehicle to cause or allow that vehicle to be ABANDONED as the
@@ -3498,7 +3498,7 @@ Dog Litters
  
    
 91.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.001 PURPOSE.
    In order to ensure there is peace and quality of life for town residents and
 for the welfare of animals owned within the corporate limits of the town, the
@@ -3635,7 +3635,7 @@ dog’s neck and the rope or chain is attached to a pole or a tree.
    WORKING DOG. A dog that is trained for a specific type of function, such as
 sheep herding or goose removal, but not limited to these functions.
 (Prior Code, § 91.20.7)
-IMPOUNDMENT
+**** IMPOUNDMENT ****
 § 91.020 INVESTIGATIONS.
    Any animal involved in an investigation can be at the discretion of the
 official investigating an ordinance violation, impounded for an unspecific
@@ -3688,7 +3688,7 @@ and welfare.
    (H)   No other animals than those listed under exempt in this section shall
 be exempt from any ordinance for animal control and welfare.
 (Prior Code, § 91.12)
-NUISANCE ANIMALS
+**** NUISANCE ANIMALS ****
 § 91.035 DEFINING NUISANCE ANIMALS.
    An animal shall be considered a nuisance if it is on other than its owner’s
 property and is found in any of the following conditions, as per G.S. §§ 67-4.5
@@ -3822,7 +3822,7 @@ where the animal is being held;
          (b)   Fines for violation of this section follow the same guideline as
 any other public nuisance violation.
 (Prior Code, § 91.29.6)
-FARM ANIMALS, LIVESTOCK, AND FOWL
+**** FARM ANIMALS, LIVESTOCK, AND FOWL ****
 § 91.055 FOWL RESTRICTED.
    It shall be unlawful for any person to permit domesticated ducks, geese,
 chickens, or other fowl to remain on or in any of the streets or public places
@@ -3864,7 +3864,7 @@ as an abattoir, butchery, or other licensed facility where animals are
 slaughtered in-doors for meat to be consumed by humans.
 (Prior Code, § 91.33) Penalty, see §
 91.999
-CONFINEMENT OF DOGS
+**** CONFINEMENT OF DOGS ****
 § 91.070 IDENTIFICATION OF ANIMALS.
    All dogs and cats let outside shall have a collar and identification tag
 displaying the owner’s name and address, along with a proper rabies vaccination
@@ -4209,7 +4209,7 @@ enforcement official before the dog shall be returned to the owner.
 follow all guidelines as set forth in §
 91.099(C).
 (Prior Code, § 91.48.1)
-BANNED AND EXOTIC ANIMALS
+**** BANNED AND EXOTIC ANIMALS ****
 § 91.115 EXOTIC ANIMALS.
    Exotic animals that are inherently dangerous or poisonous to humans shall be
 banned from ownership in the corporate limits of the town as per G.S. §§ 160A-
@@ -4413,7 +4413,7 @@ of.
 must contact town or county officials in order to make arrangements for
 officials to dispose of the dead animal.
 (Prior Code, § 91.69.1)
-DOG LITTERS
+**** DOG LITTERS ****
 § 91.155 REGULATION.
    Dog litters shall be regulated by this subchapter as per G.S. § 67-4.5 and
 town ordinances.
@@ -4574,7 +4574,7 @@ Fire Prevention
  
    
 92.99   Penalty
-NOISE
+**** NOISE ****
 § 92.01 UNNECESSARY NOISE UNLAWFUL.
    It shall be unlawful for any person, firm, or corporation to create or
 assist in creating any unreasonably loud, disturbing sound levels in the town
@@ -4677,7 +4677,7 @@ submit to the Manager Clerk written comments, including requests for
 appropriate relief, for which a written decision will be given to the applicant
 within three business days of receipt of said written request.
 (Prior Code, § 93.04) (Ord. 23, passed 11-11-1991; Ord. passed 7-20-2015)
-WEEDS AND REFUSE
+**** WEEDS AND REFUSE ****
 § 92.15 UNCONTROLLED WEEDS AND ACCUMULATION OF REFUSE; NUISANCE.
    The existence of any of the following conditions on any vacant lot or other
 parcel of land within the corporate limits is hereby declared to be dangerous
@@ -4839,7 +4839,7 @@ of unused street or highway right-of-way that utilizes as a yard or any other
 use to maintain said right-of-way in the same character and manner as the
 abutting use.
 (Prior Code, § 93.20) (Ord. passed 10-19-2004)
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 92.35 ADOPTION OF STATE FIRE CODE.
    The most current edition of the State Fire Code is hereby adopted by
 reference as fully as though set forth herein as the Fire Prevention Code for
@@ -5122,7 +5122,7 @@ Game Rooms
 111.26   Revocation of license
 Statutory reference:
    Regulation of places of amusement, see G.S. § 160A-181
-POOL ROOMS
+**** POOL ROOMS ****
 § 111.01 PURPOSE AND AUTHORITY.
    (A)   Pursuant to the authority granted the town in G.S. § 160A-181 to
 regulate places of entertainment and amusement, the purpose of the citizens of
@@ -5312,7 +5312,7 @@ the town, the provision which establishes the higher standard or more stringent
 requirement for the promotion and protection of the health and safety of the
 residents of the town’s jurisdiction shall prevail.
 (Prior Code, § 111.08)
-GAME ROOMS
+**** GAME ROOMS ****
 § 111.20 PURPOSE.
 ...missing material...
 (Prior Code, § 111.20)
@@ -5535,7 +5535,7 @@ Curfew
  
    
 131.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 131.01 DISCHARGE OF FIREARMS; PERMIT REQUIRED.
    (A)   ...missing material... firing upon pigeons, squirrels, or rats (when
 not in violation of state law) upon or around an apartment or dwelling. Any
@@ -5625,7 +5625,7 @@ issued pursuant to
 Chapter 112, without prior invitation of the owner or occupant thereof.
 (Prior Code, § 130.08) Penalty, see §
 131.99
-CURFEW
+**** CURFEW ****
 § 131.20 PURPOSE.
    (A)   The purpose of this subchapter is to protect juveniles from
 victimization and exposure to criminal activity by establishing a curfew for
@@ -5838,7 +5838,7 @@ Mailboxes
 150.16   Exceptions
    
 150.17   Definitions
-FENCES
+**** FENCES ****
 § 150.01 STANDARDS.
    The following standards shall apply to all fences and walls in all zoning
 districts unless otherwise noted.
@@ -5916,7 +5916,7 @@ footprint of the house to the rear property line.
    (E)   If the side yard of a house faces directly onto a public street, it
 must comply with a 12-inch setback from the street or road right-of-way.
 (Prior Code, Ch. 95(C)) (Ord. passed 3-16-2015)
-MAILBOXES
+**** MAILBOXES ****
 § 150.15 MAILBOXES WITHIN THE TOWN.
    (A)   It shall be unlawful for any person to erect a curbside mailbox inside
 the corporate limits of the town.
@@ -5997,7 +5997,7 @@ Obstructions
 151.39   Repair of motor vehicles
    
 151.40   Gates opening on streets or sidewalks prohibited
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.01 TOWN BOARD TO APPROVE NEW STREETS.
    Before any new street offered for dedication to the town is accepted and
 officially recognized as a town-maintained street, the Town Board must give its
@@ -6005,7 +6005,7 @@ approval, finding that the street complies with engineering standards set by
 the Town Board, and that the best interests of the town would be served by
 accepting the street as a town street.
 (Prior Code, § 94.01)
-EXCAVATIONS; CONSTRUCTION
+**** EXCAVATIONS; CONSTRUCTION ****
 § 151.15 PERMIT REQUIRED; APPLICATION; FEES.
    (A)   No person shall make any excavation or opening or dig any ditch,
 trench, tunnel, or hole in, along, across, or under any street, sidewalk, or
@@ -6078,7 +6078,7 @@ driveway on the public streets, unless a written permit therefor has been
 issued by some officer of the town vested with that authority.
 (Prior Code, § 94.22) Penalty, see §
 10.99
-OBSTRUCTIONS
+**** OBSTRUCTIONS ****
 § 151.35 ASSEMBLY ON STREETS AND SIDEWALKS.
    (A)   Except as provided in §§
 93.01 through
