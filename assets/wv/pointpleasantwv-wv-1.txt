@@ -3899,7 +3899,7 @@ can have no application. Any stop required shall be made at a sign or marking
 on the pavement indicating where the stop shall be made, but in the absence of
 any such sign or marking the stop shall be made at the signal.
       (WVaC 17C-3-5)
-313.04 PEDESTRIAN CONTROL SIGNALS.
+*** 313.04 PEDESTRIAN CONTROL SIGNALS. ***
    Whenever special pedestrian control signals exhibiting the words "walk" or
 "wait" are in place such signals shall indicate as follows:
    (a)   Walk. Pedestrians facing such signal may proceed across the roadway in
@@ -3924,7 +3924,7 @@ intersection or past such signal only with caution.
    Local authorities, in areas that experience low traffic times, may permit
 flashing signals between the hours of eleven o’clock p.m. and six o’clock a.m.
 (WVaC 17C-3-7)
-313.06 UNAUTHORIZED SIGNS AND SIGNALS, HIDING FROM VIEW, ADVERTISING.
+*** 313.06 UNAUTHORIZED SIGNS AND SIGNALS, HIDING FROM VIEW, ADVERTISING. ***
    (a)   No local authority or person shall place, maintain or display upon or
 in view of any street or highway any unauthorized traffic control device or
 traffic control signal, or any unauthorized sign, signal, marking or device
@@ -6397,8 +6397,8 @@ Motor Vehicles as a result of a violation of this section.
 345.99 PENALTY.
    (EDITOR’S NOTE: See Section
 303.99 for general Traffic Code penalty.)
-ARTICLE 347
-Commercial and Heavy Vehicles
+**** ARTICLE 347
+Commercial and Heavy Vehicles ****
 347.01   Oversize or overweight vehicles.
 347.02   Projecting loads on passenger vehicles.
 347.03   Maximum width, height and length.
@@ -7183,7 +7183,7 @@ vehicle weight except as to violations committed by a special permittee on the
 coal resource transportation system or vehicle defect violations.
       (3)   A determination by the Federal Motor Carrier Safety Administration
 that a person is not qualified to operate a commercial motor vehicle under 49
-C.F.R. Part §
+C.F.R. Part §391 (2004).
    (h)   "Drive" means to drive, operate or be in physical control of a motor
 vehicle in any place open to the general public for purposes of vehicular
 traffic. For purposes of Section
@@ -20224,8 +20224,8 @@ use, provided it is done within one year after this Ordinance takes effect.
 nonconforming uses of land and buildings created by adoption of this Zoning
 Ordinance in accordance with the provisions of Section
 1351.06.
-ARTICLE 1345
-Adult Book Stores
+**** ARTICLE 1345
+Adult Book Stores ****
 1345.01   Definitions.
 1345.02   Spacing requirements.
 1345.03   Proximity to residence districts.
