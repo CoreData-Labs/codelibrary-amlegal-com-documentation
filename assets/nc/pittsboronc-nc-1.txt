@@ -67,7 +67,7 @@ Article XII. Refuse, Weed and Trash
 Article XIII. Claims Against the Town
 40.   Presentation of claims; suit upon claims
 41.   Settlement of claims by town manager
-ARTICLE I. INCORPORATION AND CORPORATE POWERS
+**** ARTICLE I. INCORPORATION AND CORPORATE POWERS ****
 § 1 INCORPORATION AND GENERAL POWERS.
    The Town of Pittsboro shall continue to be a body politic and corporate
 under the name and style of the Town of Pittsboro, and shall continue to be
@@ -95,7 +95,7 @@ competent for this Charter specifically to enumerate.
 § 4 FORMS OF GOVERNMENT.
    The form of government of the Town of Pittsboro shall be the council-manager
 form, as specified in this Charter.
-ARTICLE II. CORPORATE BOUNDARIES
+**** ARTICLE II. CORPORATE BOUNDARIES ****
 § 5 EXISTING CORPORATE BOUNDARIES.
    The present boundaries of the Town shall remain intact and are described as
 follows:
@@ -128,7 +128,7 @@ feet to the point of BEGINNING.
 § 6 EXTENSION OF CORPORATE BOUNDARIES.
    All extensions of the corporate boundaries shall be governed by the General
 Statutes of North Carolina.
-ARTICLE III. MAYOR AND BOARD OF COMMISSIONERS
+**** ARTICLE III. MAYOR AND BOARD OF COMMISSIONERS ****
 § 7 COMPOSITION OF BOARD OF COMMISSIONERS.
    The board of commissioners shall consist of five members to be elected by
 the qualified voters of the town voting at large in the manner provided in
@@ -213,7 +213,7 @@ sum of twenty-five dollars ($25.00) for each regular and special meeting
 attended, not to exceed the sum of one thousand ($1,000) per year. The board of
 commissioners shall have authority to alter the compensation herein fixed as by
 general law provided.
-ARTICLE IV. ELECTION PROCEDURE
+**** ARTICLE IV. ELECTION PROCEDURE ****
 § 15 ELECTION.
    On Tuesday after the first Monday in November, 1973, and every four years
 thereafter there shall be elected two commissioners, and on Tuesday after the
@@ -221,7 +221,7 @@ first Monday in November, 1975, and every four years thereafter, there shall be
 elected three commissioners. The present members shall serve until their terms
 expire. On Tuesday after the first Monday in November, 1973, and every two
 years therefore there shall be elected a mayor.
-ARTICLE V. TOWN MANAGER
+**** ARTICLE V. TOWN MANAGER ****
 § 16 APPOINTMENT OF TOWN MANAGER.
    The board of commissioners shall appoint a town manager who shall be the
 administrative head of the town government responsible for the supervision and
@@ -257,7 +257,7 @@ at the next meeting thereof following any such appointment or removal.
    The officers and employees of the municipality shall perform such duties as
 may be required of them by the manager, under general regulations of the
 governing board.
-ARTICLE VI. ADMINISTRATIVE OFFICERS AND EMPLOYEES
+**** ARTICLE VI. ADMINISTRATIVE OFFICERS AND EMPLOYEES ****
 § 20 TOWN CLERK.
    The town manager may appoint a town clerk to keep a journal of the
 proceedings of the board of commissioners and to maintain in a safe place all
@@ -280,7 +280,7 @@ these positions to the holder or holders of any other of these positions. The
 town manager may also, with the approval of the board of commissioners himself
 perform all or any part of the functions of any of the named offices, in lieu
 of appointing other persons to perform the same.
-ARTICLE VII. TOWN ATTORNEY
+**** ARTICLE VII. TOWN ATTORNEY ****
 § 24 APPOINTMENT; QUALIFICATIONS; TERM; COMPENSATION.
    The board of commissioners shall appoint a town attorney who shall be an
 attorney at law licensed to engage in the practice of law in North Carolina and
@@ -296,7 +296,7 @@ ordinances when requested to do so; to inspect and pass upon all agreements,
 contracts, franchises and other instruments with which the town may be
 concerned; and to perform such other duties as may be required of him by virtue
 of his position of town attorney.
-ARTICLE VIII. FINANCE
+**** ARTICLE VIII. FINANCE ****
 § 26 CUSTODY OF TOWN MONEY.
    All monies received by the town for or in connection with the business of
 the town government shall be paid promptly into the town depository or
@@ -311,7 +311,7 @@ and Fiscal Control Act.
    As soon as practicable after the close of each fiscal year, an independent
 audit shall be made of all books and accounts of the town government in
 accordance with the Local Government Budget and Fiscal Control Act.
-ARTICLE IX. POLICE
+**** ARTICLE IX. POLICE ****
 § 28 POLICE.
    The jurisdiction of the police force is hereby extended three miles beyond
 the corporate boundaries, and is further extended to include all town-owned
@@ -323,7 +323,7 @@ corporate limits.
    All applicable ordinances of the town shall have full force and effect upon
 and within all property and facilities owned by the town, whether located
 within or outside the corporate limits.
-ARTICLE X. STREET AND SIDEWALK IMPROVEMENTS
+**** ARTICLE X. STREET AND SIDEWALK IMPROVEMENTS ****
 § 30 STREET IMPROVEMENTS, ASSESSMENT OF COSTS.
    In addition to any authority which is now or may hereafter be granted by
 general law to the town for making street improvements, the board of
@@ -373,7 +373,7 @@ sufficiency thereof.
    The effect of the act levying assessments under the authority of this
 Article shall for all purposes be the same as if assessed and levied under
 authority of the General Statutes of North Carolina.
-ARTICLE XI. WATER AND SEWER
+**** ARTICLE XI. WATER AND SEWER ****
 § 36 ALTERNATIVE METHODS OF ASSESSMENT.
    In addition to, and as alternatives to the method provided in the General
 Statutes for assessing the costs of water and sewer lines and laterals, the
@@ -409,7 +409,7 @@ are determined.
 commissioners may require owners of improved property which may be based upon
 or near any water line of the town to connect with the town water system, and
 may establish and collect reasonable charges for such connections.
-ARTICLE XII. REFUSE, WEED AND TRASH
+**** ARTICLE XII. REFUSE, WEED AND TRASH ****
 § 38 PROPERTY KEPT FREE OF OFFENSIVE MATTER.
    It shall be the duty of every property owner in the town to keep his
 property free from noxious weeds, trash, and all other forms of offensive
@@ -425,7 +425,7 @@ ad valorem taxes and may thereafter be collected either by suit in the name of
 the town or by foreclosure of the lien in the same manner and subject to the
 same rules, regulations, costs and penalties as provided by law for the
 foreclosure of the lien on real property for ad valorem taxes.
-ARTICLE XIII. CLAIMS AGAINST THE TOWN
+**** ARTICLE XIII. CLAIMS AGAINST THE TOWN ****
 § 40 PRESENTATION OF CLAIMS; SUIT UPON CLAIMS.
    (a)   All claims or demands against the Town of Pittsboro arising in tort or
 in contract shall be presented to the board of commissioners in writing, signed
@@ -1571,8 +1571,8 @@ GENERAL PROVISIONS
    All purchases made by the town personnel for the town shall be made upon
 purchase orders secured from the Town Clerk and approved by the Town Manager.
 (2003 Code, § 2-101)
-DISPOSING OF PERSONAL PROPERTY VALUED
-AT LESS THAN $30,000
+**** DISPOSING OF PERSONAL PROPERTY VALUED
+AT LESS THAN $30,000 ****
 § 33.15 AUTHORIZATION TO DISPOSE.
     The Town Manager is hereby authorized to dispose of any surplus personal
 property owned by the town, whenever he or she determines, in his or her
@@ -1652,7 +1652,7 @@ herein set forth shall be the sum of $1,000,000.
 Enterprise Fund, access charges or impact fees derived from the development of
 property and interest accruing thereon.
 (2003 Code, § 2-408)
-TAXATION
+**** TAXATION ****
 § 33.40 MOTOR VEHICLE LICENSE TAX.
    Each licensed self-propelled motor vehicle that is subject to the property
 tax of the town under G.S. Chapter 105 shall be subject to an annual municipal
@@ -9021,7 +9021,7 @@ rehabilitated to the standards of this chapter or demolished in accordance with
 the procedure set forth in this chapter.
 (Ord. passed 6-27-2022) Penalty, see §
 150.99
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 150.20 DUTIES OF CODE ENFORCEMENT OFFICIAL.
    The Code Enforcement Official is hereby designated as the officer to enforce
 this chapter and to exercise the duties and powers prescribed in this chapter.
@@ -9442,7 +9442,7 @@ order shall be pursuant to the procedures provided in §§
 Enforcement Official may exercise the authority granted by G.S. § 160D-1119.
 (Ord. passed 6-27-2022) Penalty, see §
 150.99
-MINIMUM STANDARDS OF FITNESS FOR PLACES OF HABITATION
+**** MINIMUM STANDARDS OF FITNESS FOR PLACES OF HABITATION ****
 § 150.45 COMPLIANCE WITH ARTICLE REQUISITE TO OCCUPANCY.
    (A)   Every place of habitation used as a human habitation, or held out for
 use as a human habitation, shall comply with all of the minimum standards of
@@ -9858,7 +9858,7 @@ value of R-19. Except as specified in this section, the insulation shall be
 installed in accordance with the requirements of the state Building Code.
 (Ord. passed 6-27-2022) Penalty, see §
 150.99
-MINIMUM STANDARDS APPLICABLE TO ROOMING HOUSES
+**** MINIMUM STANDARDS APPLICABLE TO ROOMING HOUSES ****
 § 150.65 APPLICABILITY.
    All of the sections of this chapter and all of the minimum standards and
 requirements of this chapter shall be applicable to rooming houses and to every
@@ -9905,7 +9905,7 @@ accessible from a common hall and without going outside the rooming house or
 through any other room therein.
 (Ord. passed 6-27-2022) Penalty, see §
 150.99
-MINIMUM STANDARDS APPLICABLE TO LODGING ESTABLISHMENTS
+**** MINIMUM STANDARDS APPLICABLE TO LODGING ESTABLISHMENTS ****
 § 150.80 APPLICABILITY.
    All of the sections of this chapter and all of the minimum standards and
 requirements of this chapter shall be applicable to lodging establishments and
@@ -11865,7 +11865,7 @@ Maintenance Standards
  
    
 154.99   Violations; penalties.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.01 SHORT TITLE.
    The rules and regulations prescribed by this chapter shall be known and be
 cited as "The Nonresidential Building Code" and may be referred to in this
@@ -11970,7 +11970,7 @@ converted to another use.
 the lawful production or manufacturing of goods which has not been used for
 those purposes for at least one year and has not been converted to another use.
 (Ord. passed 6-27-2022)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 154.20 DUTIES AND POWERS OF THE CODE ENFORCEMENT OFFICIAL.
    It shall be the duty of the Code Enforcement Official to:
    (A)   Investigate the conditions of and inspect buildings and structures in
@@ -12269,7 +12269,7 @@ the name of the town to remove the occupant. Such action shall be filed in the
 nature of summary ejectment and conducted in accordance with G.S. § 160D-1129
 (j).
 (Ord. passed 6-27-2022)
-MAINTENANCE STANDARDS
+**** MAINTENANCE STANDARDS ****
 § 154.40 MAINTENANCE STANDARDS IN GENERAL.
    (A)   Only electrical, mechanical and plumbing devices and systems which are
 (i) intended to be used at the time of inspection; (ii) being used at the time

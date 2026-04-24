@@ -272,7 +272,7 @@ The General Assembly of North Carolina enacts:
 read as follows:
 THE CHARTER
 OF THE CITY OF ROXBORO
-"ARTICLE I. INCORPORATION, CORPORATE POWERS AND BOUNDARIES.
+***** "ARTICLE I. INCORPORATION, CORPORATE POWERS AND BOUNDARIES. *****
 "SECTION 1.1 INCORPORATION.
    The City of Roxboro, North Carolina, in Person County and the inhabitants
 thereof shall continue to be a municipal body politic and corporate, under the
@@ -292,7 +292,7 @@ Upon alteration of the corporate limits pursuant to law, the appropriate
 changes to the official map shall be made, and copies shall be filed in the
 office of the Secretary of State, the Person County Register of Deeds, and the
 appropriate board of elections.
-"ARTICLE II. GOVERNING BODY.
+***** "ARTICLE II. GOVERNING BODY. *****
 "SECTION 2.1. CITY GOVERNING BODY; COMPOSITION.
    The City Council, hereinafter referred to as the ‘Council,’ and the Mayor
 shall be the governing body of the City.
@@ -337,7 +337,7 @@ G.S. § 159-17.
    The qualifications and compensation of the Mayor and Council members shall
 be in accordance with general law. Vacancies shall be filled as provided in
 G.S. § 160A-63.
-"ARTICLE III. ELECTIONS.
+***** "ARTICLE III. ELECTIONS. *****
 "SECTION 3.1. REGULAR MUNICIPAL ELECTIONS.
    Regular municipal elections shall be held in each odd-numbered year in
 accordance with the uniform municipal election laws of North Carolina.
@@ -351,7 +351,7 @@ using the nonpartisan election and runoff election method as provided in G.S. §
 "SECTION 3.4. SPECIAL ELECTIONS AND REFERENDA.
     Special elections and referenda may be held only as provided by general law
 or applicable local acts of the General Assembly.
-"ARTICLE IV. ORGANIZATION AND ADMINISTRATION.
+***** "ARTICLE IV. ORGANIZATION AND ADMINISTRATION. *****
 "SECTION 4.1. FORM OF GOVERNMENT.
    The City shall operate under the council-manager form of government in
 accordance with G.S. Ch. 160A, Art. 7, Part 2.
@@ -392,7 +392,7 @@ the City Attorney.
    The Council may authorize other positions to be filled by appointment by the
 City Manager and may organize the City government as deemed appropriate,
 subject to the requirements of general law.
-"ARTICLE V. STREETS.
+***** "ARTICLE V. STREETS. *****
 "SECTION 5.1. ASSESSMENTS FOR STREET IMPROVEMENTS; PETITION UNNECESSARY.
    In addition to any authority granted by general law, the Council may,
 without the necessity of a petition, order street improvements according to
@@ -438,7 +438,7 @@ taxes and may thereafter be collected either by suit in the name of the City or
 by foreclosure of the lien in the same manner and subject to the same rules,
 regulations, costs, and penalties as provided by law for the foreclosure of the
 lien on real estate for ad valorem taxes.
-"ARTICLE VI. SIDEWALKS
+***** "ARTICLE VI. SIDEWALKS *****
 "SECTION 6.1. ASSESSMENTS FOR SIDEWALK IMPROVEMENTS; PETITION UNNECESSARY.
    In addition to any authority granted by general law, the Council may,
 without the necessity of a petition, order sidewalk improvements or repairs
@@ -472,7 +472,7 @@ taxes and may thereafter be collected either by suit in the name of the City or
 by foreclosure of the lien in the same manner and subject to the same rules,
 regulations, costs, and penalties as provided by law for the foreclosure of the
 lien on real estate for ad valorem taxes.
-"ARTICLE VII. WATER AND SEWER.
+***** "ARTICLE VII. WATER AND SEWER. *****
 "SECTION 7.1. CONSTRUCTION OUTSIDE CORPORATE LIMITS.
    In addition to any authority granted by general law, the City is authorized
 to construct or reconstruct water and sewer lines and facilities outside the
@@ -483,12 +483,12 @@ such charges for the services as the Council may deem reasonable.
    In addition to any authority granted by general law, the City is authorized
 to acquire, by purchase, gift, or exchange existing water and sewer lines and
 facilities located outside of the corporate limits of the City.
-"ARTICLE VIII. TAXATION.
+***** "ARTICLE VIII. TAXATION. *****
 "SECTION 8.1. MOTOR VEHICLES TAX.
    The City may levy a license or privilege tax upon motor vehicles resident
 therein in an amount up to ten dollars ($10.00) per year, or the amount
 prescribed by G.S. § 20-97, whichever is greater.
-"ARTICLE IX. CITY LAKE REGULATION.
+***** "ARTICLE IX. CITY LAKE REGULATION. *****
 "SECTION 9.1. REGULATION OF CITY LAKES.
    In addition to any authority granted by general law, the City is authorized,
 by ordinance, to regulate, restrict, or prohibit the use of any lakes owned by
@@ -497,7 +497,7 @@ be permitted thereon, to fix charges for such uses, and to otherwise provide
 for their operation in accordance herewith. The provisions of any ordinance
 adopted under authority of this section shall not conflict with applicable
 State laws, rules, or regulations.
-"ARTICLE X. CLAIMS AGAINST THE CITY.
+***** "ARTICLE X. CLAIMS AGAINST THE CITY. *****
 "SECTION 10.1. SETTLEMENT OF CLAIMS BY CITY MANAGER.
    The Council may authorize the City Manager to settle claims against the City
 for: (i) personal injuries or damages to property when the amount involved does
@@ -511,8 +511,8 @@ constitute a complete release of the City from any and all damages sustained by
 the person involved in such settlement in any manner arising out of the
 incident, occasion, or taking complained of. All settlements and all releases
 shall be approved by the City Attorney.
-"ARTICLE XI. PROPERTY DISPOSITION
-"SECTION 11.1. DISPOSAL OF SURPLUS PERSONAL PROPERTY.
+***** "ARTICLE XI. PROPERTY DISPOSITION *****
+** "SECTION 11.1. DISPOSAL OF SURPLUS PERSONAL PROPERTY. **
    The City may dispose of surplus personal property valued at less than two
 thousand dollars ($2,000) for any one item or group of items using the
 procedures authorized in G.S. § 160A-266(c)."
@@ -856,7 +856,7 @@ Council Meetings
 30.19   Quorum
    
 30.20   Rules of procedure
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 COMPOSITION OF COUNCIL.
    The City Council shall consist of the Mayor and five Council members.
 (`90 Code, § 2-51)
@@ -893,7 +893,7 @@ to June 13, as authorization of same.
 (`90 Code, § 2-55)
 Statutory reference:
    Authority, see G.S. § 160A-64
-COUNCIL MEETINGS
+**** COUNCIL MEETINGS ****
 § 30.15 TIME AND PLACE.
    The City Council shall hold a regular meeting in the City Hall at a time and
 day as may be determined from time to time by resolution of the Council.
@@ -972,7 +972,7 @@ Finance Director
 31.77   General duties
    
 31.78   Signatures on checks or drafts
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 REMOVAL OR RESIGNATION.
    The City Council may at any time remove any of the officers of the city
 appointed by it, either with or without cause, provided that no such officer
@@ -981,7 +981,7 @@ removal, nor shall he or she be permitted to resign his or her office, except
 upon 30 days notice of his or her intended resignation, unless the Council
 shall expressly waive the notice.
 (`90 Code, § 2-71)
-CITY MANAGER
+**** CITY MANAGER ****
 § 31.15 APPOINTMENT AND TERM.
    The City Manager shall be appointed by the Council and shall hold office at
 the pleasure of the City Council.
@@ -1020,7 +1020,7 @@ entered into by the city are faithfully complied with and executed.
 (`90 Code, § 2-89)
 Statutory reference:
    Similar provisions, see G.S. § 160A-148
-TAX COLLECTOR
+**** TAX COLLECTOR ****
 § 31.30 APPOINTMENT AND TERM.
    The City Council shall, at the first regular meeting in June of each year,
 appoint a Tax Collector, who shall hold office at the pleasure of the Council.
@@ -1039,7 +1039,7 @@ Tax Collector, the bond required by this section shall be in addition to the
 bond required by §
 31.17.
 (`90 Code, § 2-78)
-CITY CLERK
+**** CITY CLERK ****
 § 31.45 APPOINTMENT AND TERM.
    The City Council shall appoint a City Clerk, who shall hold office at the
 pleasure of the Council.
@@ -1062,7 +1062,7 @@ city.
    (F)   Perform such other duties as may be required of him or her by law or
 by the City Council.
 (`90 Code, § 2-98)
-CITY ATTORNEY
+**** CITY ATTORNEY ****
 § 31.60 APPOINTMENT AND TERM.
    The City Council shall appoint a City Attorney, who shall hold office at the
 pleasure of the Council.
@@ -1080,7 +1080,7 @@ may be required for the proper conduct of the city’s business.
 but his or her failure to so approve as to form any ordinance duly passed by
 the Council shall not impair its validity.
 (`90 Code, § 2-107)
-FINANCE DIRECTOR
+**** FINANCE DIRECTOR ****
 § 31.75 APPOINTMENT AND TERM.
    The City Manager shall appoint a Finance Director, who shall hold office at
 the pleasure of the City Council.
@@ -1263,7 +1263,7 @@ Fire Chief
 Cross-Reference
    Rules and regulations for fire alarm systems,
 Ch. 98
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 GENERAL POWERS.
    It shall be the duty of all members of the Fire Department to enforce all
 provisions of this Code and other laws and ordinances covering the following:
@@ -1296,7 +1296,7 @@ which property has been destroyed and damaged and, so far as possible,
 determine whether the fire is the result of carelessness or design. The
 investigations shall be begun immediately upon the occurrence of such a fire.
 (`90 Code, § 8-59)
-FIRE CHIEF
+**** FIRE CHIEF ****
 § 34.15 APPOINTED.
    There is created the office of Chief of the Fire Department, such Chief to
 be appointed by the City Manager and to serve at the pleasure of the City
@@ -1453,7 +1453,7 @@ Monitoring and Reporting on the Plan
 37.80   Objective
    
 37.81   Time schedules
-POLICY
+**** POLICY ****
 § 37.01 FUNCTION OF PLAN.
    The City Council charges the Finance Director, with the cooperation of all
 city departments and officials, to devise and implement a cash management plan
@@ -1481,7 +1481,7 @@ sufficient cause for immediate dismissal from city employment. Any deviations
 from the plan by any official or employee shall be reported to the City Manager
 and/or Council at the next Council meeting after the deviation has occurred.
 (`90 Code, Appendix A, § 4)
-CASH MANAGEMENT PLAN
+**** CASH MANAGEMENT PLAN ****
 § 37.15 OBJECTIVES.
    (A)   This Cash Management Plan is being established pursuant to the city's
 Cash Management Policy as adopted by the Council which requires such a plan to
@@ -1618,7 +1618,7 @@ meeting.
       (4)   The Tax Collector will provide the City Council with a list of
 unpaid real and personal property tax at the April meeting to receive
 instructions as to further collection measures.
-CASH MOBILIZATION AND MANAGEMENT OF AVAILABLE RESOURCES (INVESTMENTS)
+**** CASH MOBILIZATION AND MANAGEMENT OF AVAILABLE RESOURCES (INVESTMENTS) ****
 § 37.35 OBJECTIVE.
    This section of the plan is designed to place the city's money in a position
 to be invested as quickly as possible at the highest reasonable yields
@@ -1670,7 +1670,7 @@ contacted, notified of similar bids, and asked if an upset bid will be placed.
       (4)   All certificates shall be delivered to the Finance Director by 2:00
 p.m.
 (`90 Code, Appendix A, § 33)
-CASH DISBURSEMENTS
+**** CASH DISBURSEMENTS ****
 § 37.50 OBJECTIVE.
    The objective of this subchapter of the city's cash management plan is to
 retain the moneys for investment until the agreed upon contractual date of
@@ -1691,7 +1691,7 @@ extended.
 payments to one vendor. The Finance Director shall ensure that all departments
 using the same vendor(s) receive the same due date and discount date.
 (`90 Code, Appendix A, § 37)
-BANKING RELATIONS
+**** BANKING RELATIONS ****
 § 37.65 OBJECTIVE.
    This section of the plan is designed to help the Finance Director develop
 and implement procedures to create mutually beneficial banking relations with
@@ -1733,7 +1733,7 @@ financial institutions shall undergo the same financial analysis as did those
 institutions receiving the RFP if the amount of time deposits exceeds the
 federal depository insurance coverage of $100,000.
 (`90 Code, Appendix A, § 43)
-MONITORING AND REPORTING ON THE PLAN
+**** MONITORING AND REPORTING ON THE PLAN ****
 § 37.80 OBJECTIVE.
    The objective of this section of the plan is to devise a systematic
 reporting schedule to the governing body and to provide a schedule for the
@@ -1904,7 +1904,7 @@ Regulations
 50.24   Use of landfill
    
 50.25   Collection
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1945,7 +1945,7 @@ chapter. He or she may call upon the Chief of Police, the Fire Chief or the
 County Health Department for assistance in obtaining compliance with any orders
 issued by him or her.
 (`90 Code, § 9-10)
-REGULATIONS
+**** REGULATIONS ****
 § 50.15 LEAVES, SHRUBS, TRIMMINGS.
    (A)   No person shall throw, drop or deposit any leaves, shrubs or other
 debris into any catch basin or manhole in the city.
@@ -2235,7 +2235,7 @@ Extensions Outside City Limits
 51.115   Declaration of policy
    
 51.116   Private lines, maintenance and replacement
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.001 CONTROL OF WATERWORKS SYSTEM.
    The waterworks system owned by the city shall be under the control of the
 City Manager and City Council, and the duty of securing and enforcing full
@@ -2254,7 +2254,7 @@ her by the City Manager or the City Council.
    All water and sewer design and installations shall be in accordance with the
 city standard specifications.
 (`90 Code, § 20-151)
-CONNECTIONS
+**** CONNECTIONS ****
 § 51.015 WHEN CONNECTIONS REQUIRED.
    (A)   Every person owning a house, building or other structure used for
 human habitation or occupancy in the city and located on a lot which abuts or
@@ -2355,7 +2355,7 @@ emergency, in which case the water shall be shut off without notice.
 city after the water supply thereto has been shut off, except in cases where
 the supply is shut off temporarily, as provided in § 51.020.
 (`90 Code, § 20-9)
-WATER EMERGENCY
+**** WATER EMERGENCY ****
 § 51.033 EMERGENCY RESPONSE DETERMINATION.
    In the event of a natural disaster, staffing shortage or other major threat
 to the safety, health or welfare of the people or staff of the city, the City
@@ -2398,7 +2398,7 @@ water emergency shall be 72 hours. Nothing in this section shall be construed
 to prevent the Mayor from declaring a new water emergency based on information
 from the City Manager.
 (`90 Code, § 20-34)
-WATER SUPPLY SHORTAGE
+**** WATER SUPPLY SHORTAGE ****
 § 51.040 WATER SHORTAGE PROCLAMA-TION.
    In the event of an existing or threatening state of emergency endangering
 the safety, health or welfare of the people of the city, or threatening damage
@@ -2566,7 +2566,7 @@ in fines as set forth:
    Stage III         $250
    Stage IV         $1,000
 (Ord. passed 10-8-02)
-SERVICE CHARGES
+**** SERVICE CHARGES ****
 § 51.050 RATES FOR WATER SERVICE.
    All persons using city water or sewers shall pay therefor in accord with the
 rates established from time to time by the City Council and kept on file in the
@@ -2628,7 +2628,7 @@ breaking of any water main or service pipe, any attachment to the waterworks,
 or for any incidental failure in the supply of water or temporary interruption
 of water service.
 (`90 Code, § 20-57)
-EXTENSIONS OF WATER AND SEWER SERVICE
+**** EXTENSIONS OF WATER AND SEWER SERVICE ****
 § 51.065 BASIS FOR ASSESSMENT.
    The city shall, by resolution, have authority to extend its water and sewer
 systems and to defray the expense of the extensions by an assessment upon the
@@ -2644,7 +2644,7 @@ sewers either inside or outside the city for the purpose of serving industry or
 any general purpose facility or area, under such terms or conditions as the
 City Council may from time to time determine appropriate. 
 (`90 Code, § 20-78) (Ord. passed 2-14-89)
-EXTENSION TO DEVELOPED PROPERTY WITHIN CITY LIMITS
+**** EXTENSION TO DEVELOPED PROPERTY WITHIN CITY LIMITS ****
 § 51.080 REQUEST FOR EXTENSION.
    Upon receipt of a request for water or sewer extension, the City Council
 shall hear the request and determine if it is in the best interest of the city
@@ -2721,7 +2721,7 @@ objections from all interested persons. After the public hearing, the City
 Council shall adopt a resolution confirming the assessment roll and levying the
 assessment.
 (`90 Code, § 20-99) (Ord. passed 2-14-89)
-EXTENSION TO PROPOSED DEVELOPMENTS OR SUBDIVISIONS WITHIN CITY LIMITS
+**** EXTENSION TO PROPOSED DEVELOPMENTS OR SUBDIVISIONS WITHIN CITY LIMITS ****
 § 51.100 APPLICATION.
    (A)   An application requesting the extension of water or sanitary sewer
 service or both to a proposed development or subdivision within the city limits
@@ -2739,7 +2739,7 @@ pursuant to this subchapter shall be owned by the city, and the developer shall
 agree to this provision and provide the city with appropriate recorded
 easements.
 (`90 Code, § 20-113)
-EXTENSIONS OUTSIDE CITY LIMITS
+**** EXTENSIONS OUTSIDE CITY LIMITS ****
 § 51.115 DECLARATION OF POLICY.
    All extensions of water and sewer outside the city limits, installed by
 other than the city, shall be in accordance with "The City and County Joint
@@ -3234,7 +3234,7 @@ designated meanings:
       (17)   TKN   Total Kjeldahl Nitrogen
       (18)   U.S.C.   United States Code.
 (Ord. passed 3-19-12)
-GENERAL SEWER USE REQUIREMENTS
+**** GENERAL SEWER USE REQUIREMENTS ****
 § 52.015 PROHIBITED DISCHARGE STANDARDS. 
    (A)   General prohibitions. No user shall contribute or cause to be
 contributed into the POTW, directly or indirectly, any pollutant or wastewater
@@ -3506,7 +3506,7 @@ form shall identify the type of industry, known or suspected waste
 constituents, and whether any wastes are RCRA hazardous wastes.
 (Ord. passed 3-19-12) Penalty, see §
 52.999
-FEES
+**** FEES ****
 § 52.035 PURPOSE.
    It is the purpose of this subchapter to provide for the recovery of costs
 from users of the wastewater disposal system of the city for the implementation
@@ -3568,7 +3568,7 @@ discharge procedures and construction plans and specifications;
    (E)   Other fees as the city may deem necessary to carry out the
 requirements of the pretreatment program.
 (Ord. passed 3-19-12)
-WASTEWATER DISCHARGE PERMIT APPLICATION AND ISSUANCE
+**** WASTEWATER DISCHARGE PERMIT APPLICATION AND ISSUANCE ****
 § 52.050 WASTEWATER DISCHARGERS.
    It shall be unlawful for any person to connect or discharge to the POTW
 without first obtaining the permission of the city. When requested by the POTW
@@ -3803,7 +3803,7 @@ with §
 52.051 a minimum of 180 days prior to the expiration of the existing permit.
 (Ord. passed 3-19-12) Penalty, see §
 52.999
-REPORTING REQUIREMENTS
+**** REPORTING REQUIREMENTS ****
 § 52.065 BASELINE MONITORING REPORTS.
    (A)   Within either 180 days after the effective date of a categorical
 pretreatment standard, or the final administrative decision on a category
@@ -4113,7 +4113,7 @@ with 40 CFR Part 3. These procedures shall be enforceable under §§
 52.120 through
 52.122.
 (Ord. passed 3-19-12)
-COMPLIANCE MONITORING
+**** COMPLIANCE MONITORING ****
 § 52.090 MONITORING FACILITIES.
    (A)   The city requires the user to provide and operate at the user’s own
 expense, monitoring facilities to allow inspection, sampling, and flow
@@ -4164,7 +4164,7 @@ public health, safety and welfare of the community, then the city, approval
 authority, or EPA may seek issuance of a search warrant from the court having
 jurisdiction within the city.
 (Ord. passed 3-19-12)
-CONFIDENTIAL INFORMATION
+**** CONFIDENTIAL INFORMATION ****
 § 52.105 CONFIDENTIAL INFORMATION.
    (A)   Information and data on a user obtained from reports, questionnaires,
 permit applications, permits and monitoring programs and from inspections shall
@@ -4187,7 +4187,7 @@ confidential information.
    (C)   All records relating to compliance with pretreatment standards shall
 be made available to officials of the approval authority and EPA upon request.
 (Ord. passed 3-19-12)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 52.120 ADMINISTRATIVE REMEDIES.
    (A)   Notification of violation. Whenever the POTW Director finds that any
 industrial user has violated or is violating this chapter, wastewater permit,
@@ -4383,7 +4383,7 @@ within 30 days after receipt of notice by registered or certified mail of the
 order or decision, but not thereafter, along with a copy to the city. Within 30
 days after receipt of the copy of the written request for review by the
 (Ord. passed 3-19-12)
-AFFIRMATIVE DEFENSES TO DISCHARGE VIOLATIONS
+**** AFFIRMATIVE DEFENSES TO DISCHARGE VIOLATIONS ****
 § 52.135 UPSET.
    (A)   An upset shall constitute an affirmative defense to an action brought
 for non-compliance with categorical pretreatment standards if the requirements
@@ -4665,7 +4665,7 @@ Division 6. Enforcement and Violations
 Appendix A:    Application forms
    
 Appendix B:   Watershed protection permit plan checklist
-AUTHORITY AND GENERAL REGULATIONS
+**** AUTHORITY AND GENERAL REGULATIONS ****
 § 53.001 AUTHORITY AND ENACTMENT.
    The Legislature of the State of North Carolina has, in Chapter 160A, Article
 8, Section 174, General Ordinance Authority; and in Chapter 143, Article 21,
@@ -4907,7 +4907,7 @@ and company as well as an individual.
    (F)   The word “shall” is always mandatory and not merely directory. The
 word “will” is always mandatory and not merely directory.
 (Ord. passed 6-18-10)
-SUBDIVISION REGULATIONS
+**** SUBDIVISION REGULATIONS ****
 § 53.020 GENERAL PROVISIONS.
    NOTE: Provisions in this subchapter are derived in part from G.S. Chapter
 160A, Article 19, Part 2.
@@ -5040,7 +5040,7 @@ injunction of any illegal subdivision, transfer, conveyance, or sale of land,
 and the court shall, upon appropriate findings, issue an injunction and order
 requiring the offending party to comply with this chapter.
 (Ord. passed 6-18-10)
-DEVELOPMENT REGULATIONS
+**** DEVELOPMENT REGULATIONS ****
 § 53.035 ESTABLISHMENT OF WATERSHED AREAS.
    The purpose of this subchapter is to list and describe the watershed area
 herein adopted.
@@ -5274,7 +5274,7 @@ feet, of the parcel and the total area, in square feet, of the built-upon area.
 The plan shall have a vicinity map. The site plan will be signed and sealed by
 a professional engineer or registered land surveyor (Amended 11/10/98).
 (Ord. passed 6-18-10)
-PUBLIC HEALTH REGULATIONS
+**** PUBLIC HEALTH REGULATIONS ****
 § 53.060 PUBLIC HEALTH IN GENERAL.
    No activity, situation, structure or land use shall be allowed within the
 watershed which poses a threat to water quality and the public health, safety
@@ -5299,7 +5299,7 @@ the public health, safety and welfare, the Board shall institute any
 appropriate action or proceeding to restrain, correct or abate the condition
 and/or violation.
 (Ord. passed 6-18-10)
-ADMINISTRATION, ENFORCEMENT AND APPEALS
+**** ADMINISTRATION, ENFORCEMENT AND APPEALS ****
 § 53.075 WATERSHED ADMINISTRATOR AND DUTIES THEREOF.
    The City of Roxboro shall appoint a Watershed Administrator, who shall be
 duly sworn in. It shall be the duty of the Watershed Administrator to
@@ -5558,9 +5558,9 @@ See §§
 Court within 30 days from the date of the decision. The decision by the
 Superior Court will be in the manner of certiorari.
 (Ord. passed 6-18-10)
-STORMWATER REGULATIONS FOR NEW DEVELOPMENT; ILLICIT DISCHARGE DETECTION AND
-ELIMINATION
-Division 1. General Provisions  
+**** STORMWATER REGULATIONS FOR NEW DEVELOPMENT; ILLICIT DISCHARGE DETECTION
+AND ELIMINATION ****
+*** Division 1. General Provisions   ***
 § 53.100 TITLE.
    This subchapter shall be officially known as “The Falls Watershed, Water
 Supply Watershed and NPDES Phase II Stormwater Ordinance for New Development.”
@@ -6084,7 +6084,7 @@ subchapter and be subject to penalties and enforcement under this subchapter
 unless the use, development, construction, or other activity complies with the
 provisions of this subchapter.
 (Ord. passed 6-12-12)
-Division 2. Administration and Procedures
+*** Division 2. Administration and Procedures ***
 § 53.120 REVIEW AND DECISION-MAKING ENTITIES.
    (A)   Stormwater Administrator.
       (1)   Designation. A Stormwater Administrator shall be designated by the
@@ -6328,7 +6328,7 @@ Clerk of Superior Court within 30 days after the latter of the following:
 party who has filed a written request for such copy with the Chairman of the
 Board of Adjustment at the time of its hearing of the case.
 (Ord. passed 6-12-12)
-Division 3. Standards
+*** Division 3. Standards ***
 § 53.130 GENERAL STANDARDS.
    (A)   All development and redevelopment to which this subchapter applies
 shall comply with the standards of this section. The approval of the stormwater
@@ -6783,7 +6783,7 @@ variance request are made on certiorari to the local Superior Court. Appeals
 from the Commission decision on a major variance request are made on judicial
 review to Superior Court.
 (Ord. passed 6-12-12)
-Division 4. Maintenance
+*** Division 4. Maintenance ***
 § 53.150 GENERAL STANDARDS FOR MAINTENANCE.
    (A)   Function of BMPs as intended. The owner of each engineered stormwater
 control installed pursuant to this subchapter shall maintain and operate it so
@@ -7042,7 +7042,7 @@ shall be made accessible for adequate maintenance and repair by a maintenance
 easement. The easement shall be recorded and its terms shall specify who may
 make use of the easement and for what purposes.
 (Ord. passed 6-12-12)
-Division 5. Illicit Discharge Detection and Elimination
+*** Division 5. Illicit Discharge Detection and Elimination ***
 § 53.180 DEFINITIONS.
    For the purposes of this subchapter, the following shall mean:
    BEST MANAGEMENT PRACTICES (BMPS). Schedules of activities, prohibitions of
@@ -7255,7 +7255,7 @@ summarily abated or restored by the city at the violator’s expense, and/or a
 civil action to abate, enjoin, or otherwise compel the cessation of such
 nuisance may be taken by the city.
 (Ord. passed 6-12-12)
-Division 6. Enforcement and Violations
+*** Division 6. Enforcement and Violations ***
 § 53.190 GENERAL.
    (A)   Authority to enforce. The provisions of this subchapter shall be
 enforced by the Stormwater Administrator, his or her designee, or any
@@ -7651,7 +7651,7 @@ Traffic Control Devices
 70.98   Violation
    
 70.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7731,7 +7731,7 @@ disregard of the safety of others.
 (`90 Code, § 11-35)
 Statutory reference:
    Exception to traffic rules for emergency vehicle, see G.S. § 20-156(b)
-REGISTRATION
+**** REGISTRATION ****
 § 70.15 REQUIRED; EXCEPTIONS.
    Every resident motor vehicle operated in the city, except motor vehicles
 temporarily operated for a period of time not exceeding a total of 14 days
@@ -7758,7 +7758,7 @@ Clerk's office. This amount shall not be prorated.
 beginning with January 1 of the year of registration; that is, from January 1
 to December 31.
 (`90 Code, § 11-149)
-TRAFFIC CONTROL DEVICES
+**** TRAFFIC CONTROL DEVICES ****
 § 70.30 AUTHORITY TO CONTROL AND DIRECT TRAFFIC.
    The City Manager shall have the power to designate, lay out and indicate,
 with the approval of the City Council, by appropriate signs and markings:
@@ -7982,7 +7982,7 @@ Use of Parking Lots After Hours
  
    
 72.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.01 PROHIBITED IN SPECIFIED PLACES.
    No person shall stop, stand or park a vehicle, except when necessary to
 avoid conflict with other traffic or in compliance with the directions of a
@@ -8078,7 +8078,7 @@ Penalty, see § 72.99
    No person shall park a vehicle or permit it to stand, whether attended or
 unattended, within 15 feet in either direction of a fire hydrant.
 (Ord. passed 5-10-16)
-USE OF PARKING LOTS AFTER HOURS
+**** USE OF PARKING LOTS AFTER HOURS ****
 § 72.20 APPLICABILITY.
    Upon those occasions where officers are called on to remove or assist in the
 removal of persons trespassing on private parking lots after hours, the
@@ -8607,7 +8607,7 @@ Fire Prevention
 Ch. 34
       Fire alarm system, see
 Ch. 98
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 INTERFERING WITH FIREFIGHTERS, EQUIPMENT.
    It shall be unlawful for any person to obstruct firefighters in any manner
 whatsoever in the performance of their duties, or to in any manner interfere
@@ -8647,7 +8647,7 @@ facility, on less than 24-hour basis.
    (C)   Violations of this section are subject to a $50 civil penalty per
 occurrence.
 (Ord. 04-2023, passed 5-9-23)
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 91.15 CODE ADOPTED.
    Pursuant to provisions contained in state law, and for the purposes of
 prescribing regulations governing conditions hazardous to life and property
@@ -8815,7 +8815,7 @@ Administration and Enforcement
  
    
 92.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 92.01 ADOPTION BY REFERENCE.
    The city hereby incorporates by reference all rules and regulations of the
 Person County Animal Adoption Program. Copies of the program are kept on file
@@ -8894,7 +8894,7 @@ the care and treatment of animals are exempt from the provisions of this
 chapter, except for the sections on cruel treatment and manner of keeping
 animals generally.
 (Ord. passed 4-5-93; Am. Ord. passed 3-11-13; Am. Ord. passed 3-9-15)
-REGULATIONS
+**** REGULATIONS ****
 § 92.14 CITY LEASH LAW.
    (A)   No person owning or having possession, charge, custody or control of
 any animal shall cause, permit, or allow the animal to stray or in any manner
@@ -9347,7 +9347,7 @@ after notification that such violation exists shall constitute a separate
 offense for the purposed of the foregoing criminal and civil penalties.
 (Ord. passed 4-10-12; Am. Ord. passed 3-11-13; Am. Ord. passed 3-9-15; Am. Ord.
 passed 6-9-15)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 92.40 DUTIES OF ANIMAL CONTROL DIVISION.
    The Animal Control Division shall be charged with the responsibility of:
    (A)   Enforcing in Person County all state or county laws, ordinances and
@@ -9545,7 +9545,7 @@ Noise
 93.21   Noises expressly prohibited
    
 93.22   Unnecessary spinning of tires
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 ADMINISTRATION.
    For the purpose of this chapter, the term “nuisance” shall mean or refer to
 any condition or any use of property or any act or omission affecting the
@@ -9739,7 +9739,7 @@ the terms of this chapter shall subject the violator to the penalties and
 remedies as set forth in Chapter 10, §
 10.99, General Penalty, of the Code of Ordinances of the City of Roxboro.
 (Ord. passed 10-17-17)
-NOISE
+**** NOISE ****
 § 93.20 UNNECESSARY NOISE GENERALLY.
    (A)   Subject to the provisions of this subchapter, the creation of any
 unreasonably loud, disturbing and unnecessary noise in the city is prohibited.
@@ -10213,7 +10213,7 @@ beverages
  
    
 95.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 95.01 DEFINITIONS.
     For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -10605,7 +10605,7 @@ writing by mailing a copy of the revocation to the applicant by registered or
 certified mail, return receipt requested, which mailing shall be posted no
 later than the first business day after the revocation.
 (Ord. passed 9-12-06; Am. Ord. passed 12-13-16; Am. Ord. passed 6-11-19)
-SPECIAL EVENTS
+**** SPECIAL EVENTS ****
 § 95.25 SPECIAL EVENTS.
    (A)   This subchapter applies to all street fairs, festivals, athletic
 events, carnivals, parades, marches, rallies, or other similar activities or
@@ -10920,7 +10920,7 @@ by registered or certified mail, return receipt requested, which mailing shall
 be posted no later than the first business day after the revocation.
 (Ord. passed 9-12-06; Am. Ord. passed 12-13-16; Am. Ord. passed 6-11-19; Am.
 Ord. passed 3-8-22)
-SPECIAL BUSINESS ACTIVITY
+**** SPECIAL BUSINESS ACTIVITY ****
 § 95.50 SPECIAL BUSINESS ACTIVITY.
    This subchapter applies to any activity hosted in whole, or in part, by an
 appropriately permitted business, and which takes place outside the physical
@@ -11237,7 +11237,7 @@ Uptown Construction Parking, Storing, and Staging
  
    
 96.999   Penalty
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 96.001 ENCROACHMENTS.
    Unless expressly allowed by a permit issued pursuant to
 Chapter 95, or as provided in §§
@@ -11357,7 +11357,7 @@ upon the sidewalk or in the gutter, the owner or occupant of the lot shall
 remove the same.
 (`90 Code, § 18-13) Penalty, see §
 96.999
-CUTS AND EXCAVATIONS
+**** CUTS AND EXCAVATIONS ****
 § 96.025 COVERING, ENCLOSING AND MARKING EXCAVATIONS.
    Excavations in any street, sidewalk or other public right-of-way shall be
 securely covered or enclosed at all times when persons are not at work therein.
@@ -11372,7 +11372,7 @@ sidewalk without first obtaining a written permit therefor from the City
 Manager or his or her designee.
 (`90 Code, § 18-22)
 Penalty, see § 96.999
-DRIVEWAYS
+**** DRIVEWAYS ****
 § 96.040 COMMERCIAL AND INDUSTRIAL CONSTRUCTION.
    All commercial and industrial facilities shall submit a site plan and obtain
 a driveway permit as specified in §
@@ -11406,7 +11406,7 @@ city. If Public Works Department labor and supervision are available, then the
 property owner may contract with the city to cut and remove the curb for a cost
 equal to materials, labor and supervision.
 (`90 Code, § 18-30)
-SIDEWALK IMPROVEMENTS
+**** SIDEWALK IMPROVEMENTS ****
 § 96.055 WHEN REQUIRED.
    (A)   Any city street or thoroughfare which is improved by paving, curbing
 and guttering shall also be required to have constructed at the same time a
@@ -11448,7 +11448,7 @@ be constructed depending on the amount and type of traffic.
    Amortization of the cost of construction of a sidewalk shall be upon the
 same basis as that for the improvement of the street next to the sidewalk.
 (`90 Code, § 18-41) (Ord. passed 5-10-77)
-STREET IMPROVEMENTS
+**** STREET IMPROVEMENTS ****
 § 96.070 PETITION.
    After May 10, 1966, the city will not consider paving or otherwise improving
 any street or alley unless a petition is presented to the City Council on forms
@@ -11590,7 +11590,7 @@ construction.
    (C)   For good cause shown, the Council may waive curb and/or gutter
 requirements as in its discretion is deemed appropriate.
 (`90 Code, § 18-56) (Ord. passed 11-8-83; Ord. passed 1-10-84)
-PROPERTY NUMBERING SYSTEM
+**** PROPERTY NUMBERING SYSTEM ****
 § 96.090 MAP ADOPTED.
    The property numbering map entitled, "The House Number and Tax Map of the
 City of Roxboro", dated May 10, 1966, is adopted as the official property
@@ -11635,7 +11635,7 @@ as required, at the expense of the owners or occupants.
 assigned a number in accordance with the numbering map and the owners thereof
 shall display the number.
 (`90 Code, § 18-69)
-Uptown Construction Parking, Storing, and Staging
+**** Uptown Construction Parking, Storing, and Staging ****
 § 96.100 GENERAL PROVISIONS.
    The following regulations provide for allowing extended parking or use of
 parking spaces for material/equipment placement during construction projects
@@ -11930,7 +11930,7 @@ Lake Isaac Walton (City Lake)
 97.37   Water pollution
    
 97.38   Sale of fish
-LAKE ROXBORO
+**** LAKE ROXBORO ****
 § 97.01 PURPOSE.
    The purpose of this subchapter is to regulate limited recreational
 activities and other uses in and on Lake Roxboro and its control strip so as
@@ -12323,7 +12323,7 @@ violations of appropriate WS and critical area provisions will be reported to
 the appropriate departments, divisions or agencies of the state of North
 Carolina, and to any other appropriate authorities.
 (Ord. passed 8-8-00)
-LAKE ISAAC WALTON (CITY LAKE)
+**** LAKE ISAAC WALTON (CITY LAKE) ****
 § 97.20 DEFINITIONS.
    As used in this subchapter, the word LAKE shall mean the city-owned lake
 known as Lake Isaac Walton, or City Lake, which names shall be interchangeable.
@@ -12789,7 +12789,7 @@ new license until fee paid
 110.47   Enforcement of chapter
    
 110.48   State statutory exemptions from municipal license taxes
-GENERAL REGULATION
+**** GENERAL REGULATION ****
 § 110.01 PERMITTING THE POSTING OF SIGNS PROHIBITING THE CARRYING OF CONCEALED
 WEAPONS ON CERTAIN MUNICIPAL PROPERTY.
    (A)   Posting of signs required. The City Manager is authorized and
@@ -12804,7 +12804,7 @@ The City Manager shall exercise discretion in determining the number and
 appropriate location of signs to be placed on or within appurtenant premises
 and parks.
 (Ord. 95-F, passed 11-14-95)
-LICENSING AND TAXATION
+**** LICENSING AND TAXATION ****
 § 110.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13402,7 +13402,7 @@ Driver’s Permit
 113.75   Identification of driver
    
 113.76   Expiration and renewal
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 113.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13472,7 +13472,7 @@ business telephones listed in his or her name, the names of all drivers, their
 license numbers and addresses and shall, within 48 hours after any change in
 connection therewith is made, report the change to the Taxicab Inspector.
 (Ord. passed - - )
-REGULATIONS
+**** REGULATIONS ****
 § 113.20 INSURANCE.
    (A)   No person engaged in the business of transporting passengers for hire
 over the public streets of the city shall operate on the public streets of the
@@ -13616,7 +13616,7 @@ arrives at the scene of the accident or collision and authorizes the moving of
 the taxicab.
 (Ord. passed - - ) Penalty, see §
 10.99
-CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY
+**** CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY ****
 § 113.45 REQUIRED.
    No person shall operate any taxicab in the city without first having
 obtained a license from the City Manager or designee authorizing the operation.
@@ -13808,7 +13808,7 @@ designee, and the owner may not secure any additional license for the operation
 of a taxicab without having first made application therefor in the manner
 provided in this chapter.
 (Ord. passed - - )
-(Ord. passed - - ) DRIVER’S PERMIT
+**** (Ord. passed - - ) DRIVER’S PERMIT ****
 § 113.70 REQUIRED.
    No person shall drive any taxicab carrying passengers for hire from place to
 place within the city unless he or she has first applied for and secured a
@@ -13947,7 +13947,7 @@ Licensing and Regulation
 115.21   Appeal
    
 115.22   Transfer
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 115.01 FINDINGS.
    Based on evidence concerning the adverse secondary effects of adult uses on
 the community presented in hearings and in reports made available to the City
@@ -14072,7 +14072,7 @@ and list of classifications of sexually oriented businesses are found in §§ 22
 2 and 22-3 of the Zoning Ordinance, which sections are incorporated herein by
 reference.
 (Ord. passed 2-13-01)
-LICENSING AND REGULATION
+**** LICENSING AND REGULATION ****
 § 115.15 LICENSE REQUIRED.
    (A)   It is unlawful:
       (1)   For any person to operate a sexually oriented business without a
@@ -15097,7 +15097,7 @@ to G.S. § 160A-175. The enforcement of any remedy provided in this chapter
 shall not prevent the enforcement of any other remedy or remedies provided
 herein or in other ordinances or laws.
 (Ord. passed 12-12-17)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 151.20 DUTIES AND POWERS OF ENFORCING AGENT(S).
    (A)   The inspector is hereby designated as the officer to enforce the
 provisions of this chapter. It shall be the duty of the inspector to:
@@ -15444,7 +15444,7 @@ of the court. Nothing in this section shall be construed to impair or limit in
 any way the power of the city to define and declare nuisances and to cause
 their removal or abatement by summary proceedings, or otherwise.
 (Ord. passed 12-12-17)
-MINIMUM STANDARDS
+**** MINIMUM STANDARDS ****
 § 151.40 INTERNATIONAL PROPERTY MAINTENANCE CODE-CERTAIN CHAPTERS AND INDEX
 ADOPTED AS MINIMUM STANDARDS.
    (A)   The following chapters and index of the 2015 International Property
