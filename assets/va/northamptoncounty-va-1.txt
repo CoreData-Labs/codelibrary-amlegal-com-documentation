@@ -1145,7 +1145,7 @@ vending machines or seizure of contraband property
 30.02
    
 33.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.001 COUNTY SALES TAX.
    General retail sales tax for the county. Pursuant to VA Code § 58.1-605, as
 amended from time to time, a local general sales tax at the rate of 1% to
@@ -1611,7 +1611,7 @@ section 6621 of the Internal Revenue Code of 1954, whichever is greater.
    (C)   Effective date. The effective date of this ordinance shall be April
 28, 2015.
 (Ord. passed 4-27-2015)
-EXEMPTIONS
+**** EXEMPTIONS ****
 § 33.025 EXEMPTING FROM TAXATION CERTAIN HOUSEHOLD GOODS AND PERSONAL EFFECTS.
    (A)   Authority. This section is adopted pursuant to authority contained in
 VA Code § 58.1-3504, as amended.
@@ -2004,7 +2004,7 @@ above, nunc pro tunc, with the effective date ot exemption being as follows:
 2019.
 (Ord. passed 2-8-2011; Am. Ord. passed 4-12- 2011; Am. Ord. passed 6-14-2011;
 Am. Ord. passed 11-20-2012; Am. Ord. passed 9-10-2019)
-TAX ON PURCHASES OF UTILITY SERVICES
+**** TAX ON PURCHASES OF UTILITY SERVICES ****
 § 33.040 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2096,7 +2096,7 @@ subchapter shall, upon conviction, be subject to a fine of not more than $100.
    (B)   Each failure, refusal, neglect or violation and each days continuance
 thereof shall constitute a separate offense.
 (Ord. passed 8-11-1980; Am. Ord. passed 5-14-2013)
-LICENSE TAX ON CERTAIN PUBLIC UTILITY AND SERVICE COMPANIES
+**** LICENSE TAX ON CERTAIN PUBLIC UTILITY AND SERVICE COMPANIES ****
 § 33.060 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2242,7 +2242,7 @@ then the provisions of said statutory sections shall control, and any necessary
 interpretation of this subchapter shall be in accordance with the provisions of
 said sections.
 (Ord. passed 8-13-1984)
-TRANSIENT OCCUPANCY TAX
+**** TRANSIENT OCCUPANCY TAX ****
 § 33.075 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2381,8 +2381,8 @@ thereupon be reported and remitted to the Commissioner.
 (Ord. passed 6-10-1985; Am. Ord. passed 6-19-2007; Am. Ord. passed 8-13-2007;
 Am. Ord. passed 1-10-2012)
 Penalty, see § 33.999
-TAX ON CONSUMERS OF LOCAL TELEPHONE SERVICES FOR ESTABLISHMENT AND MAINTENANCE
-OF ENHANCED 911 EMERGENCY TELEPHONE SYSTEM
+**** TAX ON CONSUMERS OF LOCAL TELEPHONE SERVICES FOR ESTABLISHMENT AND
+MAINTENANCE OF ENHANCED 911 EMERGENCY TELEPHONE SYSTEM ****
 § 33.095 FINDINGS, PURPOSE AND AUTHORITY.
    (A)   Findings. The Board of Supervisors finds that it is proper and
 desirable to establish an E-911 system in Northampton County, Virginia; that
@@ -2482,7 +2482,7 @@ recovered, the rate of tax hereunder shall be reduced to such level as will
 thereafter generate only such revenue as is necessary to offset recurring
 maintenance costs only.
 (Ord. passed 3-13-1989)
-TAX ON FOOD AND BEVERAGES SOLD IN RESTAURANTS
+**** TAX ON FOOD AND BEVERAGES SOLD IN RESTAURANTS ****
 § 33.115 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2682,7 +2682,7 @@ month for which payment is past due or any subsequent month while any prior
 month’s tax remains delinquent. At the end of the first 12 month period and
 thereafter, the seller shall remit to the county the entire tax which is due.
 (Ord. passed 1-13-2003)
-MOBILE LOCAL TELECOMMUNICATION TAX
+**** MOBILE LOCAL TELECOMMUNICATION TAX ****
 § 33.140 AUTHORITY.
    Pursuant to authority contained in VA Code § 58.1-3812, as amended, the
 Northampton County Board of Supervisors adopts the following provisions.
@@ -2781,8 +2781,8 @@ by any service provider pursuant to the mandates of this subchapter shall be
 guilty of a Class 3 misdemeanor. Each failure, refusal or neglect and each
 day's continuance shall constitute a separate offense.
 (Ord. passed 3-10-2003)
-IMPLEMENTATION OF 2004-2005 CHANGES TO THE PERSONAL PROPERTY TAX RELIEF ACT OF
-1998
+**** IMPLEMENTATION OF 2004-2005 CHANGES TO THE PERSONAL PROPERTY TAX RELIEF
+ACT OF 1998 ****
 § 33.180 PURPOSE; DEFINITIONS; RELATION TO ORDINANCES.
    (A)   The purpose of this subchapter is to provide for the implementation of
 the changes to the Personal Property Tax Relief Act of 1998 (PPTRA) effected by
@@ -2835,7 +2835,7 @@ become unavailable, whichever earlier occurs.
 Interest shall be computed at the rate provided in VA Code § 58.1-3916, from
 the original due date of the tax.
 (Ord. passed 11-7-2005)
-NORTHAMPTON COUNTY CIGARETTE TAX
+**** NORTHAMPTON COUNTY CIGARETTE TAX ****
 § 33.200 CIGARETTE TAX TITLE.
    (A)   This subchapter shall be known and may be cited as the “Northampton
 County Cigarette Tax Ordinance.”
@@ -4503,7 +4503,7 @@ Public Docks at Oyster
 90.24   Dumping
    
 90.25   Disposal of wreckage
-DOCKS AND RAMPS IN NORTHAMPTON COUNTY
+**** DOCKS AND RAMPS IN NORTHAMPTON COUNTY ****
 § 90.01 DECREASING SPEED OF MOTORBOATS.
    (A)   Every motorboat, when approaching or passing a public dock, pier or
 ramp, shall slacken speed to the extent necessary to avoid endangering persons
@@ -4575,7 +4575,7 @@ any boat or other obstacle dangerous to navigation in or around any public ramp
 or dock or to float loose timber or logs in said area.
 (Ord. passed 4-7-1975)
 Penalty, see § 10.99
-PUBLIC DOCKS AT OYSTER
+**** PUBLIC DOCKS AT OYSTER ****
 § 90.20 PUBLIC DOCKS.
    The docks erected, or to be erected, on property acquired by the County of
 Northampton from H. R. Steelman et ux, by deed dated January 31, 1941, and all
@@ -4664,7 +4664,7 @@ Willis Wharf Harbor
  
    
 91.99   Penalty
-OYSTER HARBOR
+**** OYSTER HARBOR ****
 § 91.01 STORAGE OF FISHING, CRABBING AND SHELLFISH CATCHING AND COLLECTION
 EQUIPMENT PROHIBITED.
    (A)   Pursuant to authority contained in VA Code § 15.2-1200, as amended,
@@ -4685,7 +4685,7 @@ disposed of.
 by a fine.
 (Ord. passed 4-14-2003)
 Penalty, see § 91.99
-WILLIS WHARF HARBOR
+**** WILLIS WHARF HARBOR ****
 § 91.20 PURPOSE AND APPLICATION.
    The purpose of this subchapter is to provide for the operation and
 maintenance of Willis Wharf Boat Harbor and Ramp Facilities, owned by the
@@ -5366,7 +5366,7 @@ confinement
 95.32   (Reserved)
    
 95.33   (Reserved)
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 95.01 HYBRID CANINE.
    (A)   Northampton County hereby prohibits the keeping of hybrid canines as
 defined herein.
@@ -5471,7 +5471,7 @@ this section.
    (C)   It shall be an unlawful act if any person violates any provision of
 this section and it shall constitute a Class 4 misdemeanor.
 (Ord. passed 5-10-2004)
-RABIES CONTROL
+**** RABIES CONTROL ****
 § 95.20 ENFORCEMENT OF ANIMAL LAWS.
    In accordance with VA Code § 3.2-6555, an Animal Control Officer shall be
 appointed and he shall have the power to enforce all state laws for the
@@ -6355,7 +6355,7 @@ Business, Professional, Occupational License Fee
 110.16   Definitions
    
 110.17   Administration
-BUSINESS, PROFESSIONAL, OCCUPATIONAL LICENSE FEE
+**** BUSINESS, PROFESSIONAL, OCCUPATIONAL LICENSE FEE ****
 § 110.15 TITLE.
    This subchapter shall be known as a “Business, Professional, Occupational
 License Fee for Northampton County, Virginia,” and may be so cited. The purpose
@@ -6736,7 +6736,7 @@ Identification and Inspection of \Rental Dwelling Units
  
    
 150.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 BUILDING CODE.
    (A)   There is hereby adopted by reference in the county, the Virginia
 Uniform Statewide Building Code, which is effective September 1, 1973, the
@@ -6991,7 +6991,7 @@ committed within ten years of an offense under this chapter shall be suspended.
 Ord. passed 1- 11-2006; Am. Ord. passed 8-11-2009; Am. Ord. passed 6-14-2011;
 Am. Ord. passed 6-9-2015; Am. Ord. passed 7-12-2016; Am. Ord. passed 1- 9-2018;
 Am. Ord. passed 7-8-2025)
-ASSIGNMENT OF NAMES TO STREETS AND ROADS
+**** ASSIGNMENT OF NAMES TO STREETS AND ROADS ****
 § 150.20 ROAD NAME INDEX ADOPTED.
    (A)   The “Northampton County Road Name Index” on file in the office of the
 County Administrator is adopted as the official listing of names for streets
@@ -7157,7 +7157,7 @@ period following notification of violation, each day of violation shall
 constitute a separate violation.
 (Ord. passed 4-8-1991)
 Penalty, see § 10.99
-IDENTIFICATION AND INSPECTION OF RENTAL DWELLING UNITS
+**** IDENTIFICATION AND INSPECTION OF RENTAL DWELLING UNITS ****
 § 150.45 PURPOSE AND INTENT.
    This subchapter is hereby stated so as to bring it into compliance with VA
 Code § 36-105.1, as amended.
@@ -7746,7 +7746,7 @@ Administration
  
    
 151.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.01 AUTHORITY.
    The Northampton County Board of Supervisors, acting pursuant to VA Code
 Title 28.2, Chapter 13 (§ 28.2-1300 et seq.), adopts this chapter regulating
@@ -7831,7 +7831,7 @@ general permit developed under VA Code § 28.2- 104.1(B); and
 natural functions or alter the natural contour of the wetlands.
 (Ord. passed 4-12-1993; Am. Ord. passed 5-14- 2013; Am. Ord. passed 10-13-2020;
 Am. Ord. passed 12-11-2023)
-PERMITS
+**** PERMITS ****
 § 151.20 PERMIT REQUIRED.
    (A)   (1)   Any person who desires to use or develop any wetlands within
 this county, other than for those activities specified in §
@@ -7977,7 +7977,7 @@ applicable zoning and land use ordinances of Northampton County or the right of
 any person to seek compensation for any injury in fact incurred by him because
 of the proposed activity.
 (Ord. passed 4-12-1993; Am. Ord. passed 12-11-2023)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 151.40 APPLICATIONS FORWARDED TO WETLANDS BOARD.
     Following administrative procedures applications received directly by the
 Commission over which the Wetlands Board has jurisdiction will be forwarded to
@@ -8197,7 +8197,7 @@ Permits
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 AUTHORITY.
    The Northampton County Board of Supervisors, acting pursuant to VA Code
 Title 28.2, Chapter 14, adopts this chapter regulating the use and development
@@ -8281,7 +8281,7 @@ the Commonwealth of Virginia or a political subdivision thereof; and
    (M)   The construction of living shoreline projects authorized pursuant to a
 general permit developed under subsection B of VA Code § 28.2-104.1.
 (Ord. passed - - ; Am. Ord. passed 12-11-2023)
-PERMITS
+**** PERMITS ****
 § 152.20 PERMIT REQUIRED.
    (A)   Any person who desires to use or alter any coastal primary sand dune
 within this county, other than for the purpose of conducting the activities
@@ -9285,7 +9285,7 @@ Appendix C:   Measuring Standard Setbacks and Resource Protection Area
 Appendix D:   2000 Zoning Ordinance
    
 Appendix E:   1983 Zoning Ordinance
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.2.001 AUTHORITY.
    This chapter, to be cited as the Zoning Ordinance of Northampton County,
 Virginia, is ordained, enacted and published by the Board of Supervisors of
@@ -11136,7 +11136,7 @@ ill, mentally retarded, and/or other developmentally disabled persons should
 not be excluded from the benefits of normal residential surroundings consistent
 with the regulations set forth herein and in VA Code § 15.2-2291, as amended.
 (Ord. passed 4-12-2016)
-ZONING ADMINISTRATIVE STRUCTURE ESTABLISHED
+**** ZONING ADMINISTRATIVE STRUCTURE ESTABLISHED ****
 § 154.2.020 ZONING ADMINISTRATOR.
    (A)   The Office of Zoning Administrator is hereby established, subject to
 the following:
@@ -11241,7 +11241,7 @@ Board of Supervisors for review of the decision. See §§
 154.2.044,
 154.2.160.
 (Ord. passed 4-12-2016)
-PERMITS AND PROCEDURES
+**** PERMITS AND PROCEDURES ****
 § 154.2.040 ZONING CLEARANCE.
    (A)   It shall be unlawful to change the use of land or structures or to
 alter or erect structures until a zoning clearance is approved by and obtained
@@ -12154,7 +12154,7 @@ reviewed.
       (15)   The Board of Supervisors, by resolution, may establish from time
 to time a schedule of fees for the review of site plans.
 (Ord. passed 4-12-2016; Am. Ord. passed 2-13-2024)
-GENERAL REGULATIONS FOR ALL ZONING DISTRICTS
+**** GENERAL REGULATIONS FOR ALL ZONING DISTRICTS ****
 § 154.2.060 GENERAL APPLICATION OF DISTRICT REGULATIONS.
    The regulations set by this subchapter within each district shall be minimum
 regulations and shall apply uniformly to each class or kind of building or use
@@ -12351,7 +12351,7 @@ intersecting roads in the area bounded by the road rights-of-way adjoining such
 corner lot and a line joining points along such road rights-of-way 50 feet from
 this point of intersection.
 (Ord. passed 4-12-2016)
-ZONING DISTRICTS AND MAPS
+**** ZONING DISTRICTS AND MAPS ****
 § 154.2.080 ZONING ORDINANCE TEXT AND MAPS ARE UNIFIED DOCUMENT.
    (A)   The purpose of this section is to establish zoning district
 classifications of such size and shape as the Board of Supervisors deems the
@@ -12997,7 +12997,7 @@ most restrictive, least intense/dense contiguous district until otherwise
 classified, except in those cases where the incorporated town is under the
 jurisdiction of this chapter, then the existing zone shall govern.
 (Ord. passed 4-12-2016)
-SUPPLEMENTAL PERFORMANCE STANDARDS
+**** SUPPLEMENTAL PERFORMANCE STANDARDS ****
 § 154.2.100 GENERALLY.
    No permitted or special permit use hereafter established, altered, modified,
 or enlarged shall be operated or designed so as to conflict with the applicable
@@ -15196,7 +15196,7 @@ four.
 in conjunction with the food truck and shall be removed at the end of daily
 operation.
 (Ord. 2025-003, passed 12-9-2025)
-USES, DENSITIES AND DIMENSIONS
+**** USES, DENSITIES AND DIMENSIONS ****
 § 154.2.125 PURPOSE AND STRUCTURE.
    (A)   Purpose. It is the purpose and intent of this subchapter to establish
 use, density, and dimensional regulations which will apply to zoning districts.
@@ -15517,7 +15517,7 @@ by the Board of Supervisors of Northampton County to operate the use for the
 benefit of three or more dwellings or structures or the benefit of the general
 population of Northampton County.
 (Ord. passed 4-12-2016)
-SUPPLEMENTAL REGULATIONS
+**** SUPPLEMENTAL REGULATIONS ****
 § 154.2.140 PURPOSE.
    The requirements set forth in this subchapter supplement and qualify the
 district regulations which appear elsewhere in this chapter and shall apply in
@@ -15836,7 +15836,7 @@ than 70% of the lot width at the building line; provided further, that the
 frontage of any lot located on the turnaround of a cul-de-sac (dead-end street)
 may be reduced to not less than 50% of the lot width.
 (Ord. passed 4-12-2016)
-OVERLAY DISTRICTS
+**** OVERLAY DISTRICTS ****
 § 154.2.160 DISTRICTS ESTABLISHED.
    This subchapter contains special overlay districts which supplement the
 other regulations of this chapter. Overlay districts established herein
@@ -17612,7 +17612,7 @@ are located in the following sections of this zoning code:
          (d)   Landscaping: See §
 154.2.105.
 (Ord. passed 4-12-2016)
-FLOATING ZONE DISTRICTS
+**** FLOATING ZONE DISTRICTS ****
 § 154.2.175 FLOATING DISTRICTS.
    (A)   A FLOATING DISTRICT is a zoning district which is currently unmapped,
 but which the county believes could be appropriate and warranted when developed
@@ -18035,7 +18035,7 @@ supports and electrical transmission wire. All materials must be legally
 removed from the site. The site shall be restored to its original condition
 after removal is complete.
 (Ord. passed 4-12-2016)
-SIGNS
+**** SIGNS ****
  
 § 154.2.190 PERMITS REQUIRED FOR SIGNS.
    (A)   A sign permit is required except per provisions of this chapter. No
@@ -18431,7 +18431,7 @@ cost for removal shall be the responsibility of the property owner. Such sign
 shall be removed by the owner of the property if notified by Northampton County
 to do so.
 (Ord. passed 4-12-2016; Am. Ord. passed 3-12-2024)
-OFF-STREET PARKING AND LOADING
+**** OFF-STREET PARKING AND LOADING ****
 § 154.2.205 INTENT.
    There shall be provided at the time of erection of any main building, or at
 the time any main building is enlarged, minimum off-street parking space with
@@ -18712,7 +18712,7 @@ the lot shall satisfy the combined parking requirements for each of the uses.
    (KK)   Event venue. One parking space for each three attendees based on the
 maximum number of attendees approved for the site.
 (Ord. passed 4-12-2016)
-BOARD OF ZONING APPEALS
+**** BOARD OF ZONING APPEALS ****
 § 154.2.225 COMPOSITION OF BOARD.
    (A)   A Board of Zoning Appeals consisting of five members who are residents
 of the county shall be appointed by the Circuit Court of Northampton County,
@@ -18868,7 +18868,7 @@ writ shall not stay proceedings upon the decision appealed from, but the court
 may on application, on notice of the Board of Zoning Appeals, and due cause
 shown, grant a restraining order.
 (Ord. passed 4-12-2016)
-NONCONFORMING USES AND VESTED RIGHTS POLICY
+**** NONCONFORMING USES AND VESTED RIGHTS POLICY ****
 § 154.2.245 INTENT.
    The intent of this section is to regulate and limit the development and
 continued existence of uses, structures, and lots established prior to the
@@ -21580,7 +21580,7 @@ Completion of On-site Improvements and Surety
 156.122   Surety for maintenance of roads until accepted into state system
    
 156.123   Release of surety
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.001 SHORT TITLE AND AUTHORITY.
    This chapter shall be known and may be cited as the "Subdivision Ordinance
 of Northampton County, Virginia" or as the "Subdivision Ordinance." The
@@ -21885,7 +21885,7 @@ clear and convincing evidence that strict adherence to such requirements would
 result in substantial injustice or hardship.
    (B)   Stat. Auth. VA Code § 15.2-2242.
 (Ord. passed 11-10-2020; Am. Ord. passed 12-8-2020)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 156.020 SUBDIVISION AGENT.
    The Zoning Administrator is hereby designated as the subdivision agent of
 the Board of Supervisors for the purposes of administering and enforcing this
@@ -21991,7 +21991,7 @@ recommendation, nor until 60 days after such reference, if no recommendation is
 made by the Commission.
    (B)   Stat. Auth. Code of Virginia §§ 15.2-2251, 15.2-2252, 15.2-2253.
 (Ord. passed 11-10-2020; Am. Ord. passed 12-8-2020)
-SUBDIVISION APPROVAL PROCEDURES
+**** SUBDIVISION APPROVAL PROCEDURES ****
 § 156.035 DETERMINATION OF EXEMPTION FROM CHAPTER.
    (A)   Any person desiring to record in the Clerk's Office a plat that does
 not effect a subdivision as defined herein, shall, prior to recordation, obtain
@@ -22364,7 +22364,7 @@ buildings or structures, or any other condition which poses a danger to the
 flora or fauna of the property.
    (C)   Stat. Auth. VA Code § 15.2-2242.
 (Ord. passed 11-10-2020; Am. Ord. passed 12-8-2020)
-SUBDIVISION APPROVAL SUBMISSIONS
+**** SUBDIVISION APPROVAL SUBMISSIONS ****
 § 156.060 SUBMISSIONS FOR OPTIONAL PRE-APPLICATION REVIEW.
    A conceptual sketch should be drawn on white paper, on a print of a
 topographic map or aerial photo of the property, be drawn to a scale of not
@@ -22464,7 +22464,7 @@ such improvements; and
 this chapter and other improvements proposed by the subdivider will be
 installed with each phase of the subdivision.
 (Ord. passed 11-15-2006; Am. Ord. passed 11-10-2020; Am. Ord. passed 12-8-2020)
-PLATS
+**** PLATS ****
 § 156.070 INFORMATION AND FORMAT FOR ALL PLATS.
    Unless otherwise provided in this chapter, all plats submitted with
 applications shall meet the following specifications and contain the following
@@ -22825,7 +22825,7 @@ property and vest title in the streets, alleys, easements for public rights of
 passage, easements for drainage, and easements for a public utility as may be
 described in, and in accordance with, the ordinance of vacation.
 (Ord. passed 12-8-2020)
-EASEMENTS AND DEDICATIONS
+**** EASEMENTS AND DEDICATIONS ****
 § 156.080 DEDICATION OF ROADS, ETC.
    (A)   The subdivision agent may require a subdivider to dedicate to
 Northampton County in fee simple or by easement any portion of the property set
@@ -22979,7 +22979,7 @@ not be affected thereby.
 any improvements by Northampton County or any service authority, state agency
 or department.
 (Ord. passed 11-15-2006; Am. Ord. passed 11-10-2020; Am. Ord. passed 12-8-2020)
-REQUIRED IMPROVEMENTS
+**** REQUIRED IMPROVEMENTS ****
 § 156.095 PROVISIONS APPLICABLE TO ALL IMPROVEMENTS.
    (A)   All on-site improvements required by this chapter shall be completed
 at the expense of the subdivider.
@@ -23429,7 +23429,7 @@ the office of the Clerk of the Circuit Court of Northampton County.
    (E)   Maintenance of improvements shall include replacement, reconstruction
 and the correction of defects or damage.
 (Ord. passed 11-15-2006; Am. Ord. passed 11-10-2020; Am. Ord. passed 12-8-2020)
-COMPLETION OF ON-SITE IMPROVEMENTS AND SURETY
+**** COMPLETION OF ON-SITE IMPROVEMENTS AND SURETY ****
 § 156.120 COMPLETION OF ON-SITE IMPROVEMENTS REQUIRED PRIOR TO PLAT APPROVAL.
    (A)   Except as provided in §
 156.121, before final approval and recordation of any subdivision plat, the

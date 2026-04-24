@@ -2232,7 +2232,7 @@ Statutory reference:
 ARTICLE I. IN GENERAL
 §§ 6-1—6-10 RESERVED.
 ARTICLE II. ELECTION DISTRICTS AND PRECINCTS
-DIVISION 1. GENERALLY
+*** DIVISION 1. GENERALLY ***
 § 6-11 ESTABLISHED.
    Pursuant to the authority contained in VA Code §§ 15.2-1211 and 24.2-304.1
 through 24.2-310.1, as amended, the election districts, precincts and their
@@ -2245,7 +2245,7 @@ article are as set forth in this article and on the maps attached to the
 ordinance from which this article is derived.
 (Ord. passed 6-2-2011)
 §§ 6-13—6-17 RESERVED.
-DIVISION 2. DISTRICTS
+*** DIVISION 2. DISTRICTS ***
 § 6-18 DESIGNATED; POPULATION.
    The election districts and their calculated populations are set forth as
 follows:
@@ -2653,7 +2653,7 @@ thence west with the ridge of Stone Mountain, and the Election District 3 and 5
 dividing line, approximately 3.4 miles to the point of beginning.
 (Ord. passed 3-19-2013)
 § 6-24—6-29 RESERVED.
-DIVISION 3. PRECINCTS AND POLLING PLACES
+*** DIVISION 3. PRECINCTS AND POLLING PLACES ***
 § 6-30 DESIGNATED; BOUNDARIES IN ELECTION DISTRICT NUMBER 1.
    The precincts in Election District Number 1 and their boundaries are as
 follows.
@@ -6915,7 +6915,7 @@ see VA Code Title 10.1, Chapter 14, Article 2
 ARTICLE I. IN GENERAL
 §§ 14-1—14-10 RESERVED.
 ARTICLE II. WASTE MANAGEMENT FACILITIES
-DIVISION 1. GENERALLY
+*** DIVISION 1. GENERALLY ***
 § 14-11 DEFINITIONS.
    For the purpose of this article, the terms or words used herein shall have
 the meanings ascribed to them in the Virginia Waste Management Act, VA Code §§
@@ -7015,7 +7015,7 @@ through and outside the county, except for the transporting of refuse in
 adequately covered trucks to points outside of the county.
 (Prior Code, § 14-21) (Ord. passed 11-9-1990)
 §§ 14-22—14-26 RESERVED.
-DIVISION 2. SITING REQUIREMENTS
+*** DIVISION 2. SITING REQUIREMENTS ***
 § 14-27 IN AREAS OF BASE FLOODS.
    A solid waste management facility shall not be sited or constructed in areas
 subject to base floods.
@@ -7055,7 +7055,7 @@ by the Planning Commission pursuant to VA Code Title 15.2, Chapter 9, Article
 II.
 (Prior Code, § 14-32) (Ord. passed 11-9-1990)
 §§ 14-33—14-37 RESERVED.
-DIVISION 3. CERTIFICATE
+*** DIVISION 3. CERTIFICATE ***
 § 14-38 REQUIRED.
    No person shall establish, operate or maintain a solid waste management
 facility without a certificate from the Board of Supervisors.
@@ -8727,7 +8727,7 @@ shall be paid to the Clerk from the general fund of the county.
 (Prior Code, § 15-129) (Ord. passed 3-4-1959; Res. passed 1-4-1961)
 §§ 15-130—15-138 RESERVED.
 ARTICLE X. MINERAL SEVERANCE LICENSE TAX
-DIVISION 1. COAL SEVERANCE LICENSE TAX
+*** DIVISION 1. COAL SEVERANCE LICENSE TAX ***
 § 15-139 STATUTORY AUTHORITY.
    The coal severance license tax portions of this division are adopted
 pursuant to VA Code Title 58.1, Chapter 37.1 (§§ 58.1-3740 et seq.) and all
@@ -8807,7 +8807,7 @@ producer.
    (C)   The foregoing taxes are hereby levied and imposed in addition to all
 other taxes and fees of every kind now imposed by law upon every coal producer.
 (Ord. passed 6-18-2013)
-DIVISION 2. GAS AND OIL SEVERANCE LICENSE TAXES
+*** DIVISION 2. GAS AND OIL SEVERANCE LICENSE TAXES ***
 § 15-152 STATUTORY AUTHORITY.
    The gas and oil severance license tax portions of this division are adopted
 pursuant to VA Code §§ 58.1-3712, 58.1-3713, 58.1-3713.3 and 58.1-3713.4 (the
@@ -8949,8 +8949,8 @@ to all other taxes and fees of every kind now imposed by law upon every person
 engaged in the business of severing oil or gas from the earth.
 (Ord. passed 6-18-2013)
 §§ 15-156—15-164 RESERVED.
-DIVISION 3. GENERAL PROVISIONS APPLICABLE TO COAL, GAS AND OIL SEVERANCE
-LICENSE TAXES
+*** DIVISION 3. GENERAL PROVISIONS APPLICABLE TO COAL, GAS AND OIL SEVERANCE
+LICENSE TAXES ***
 § 15-165 DEFINITIONS.
    For the purpose of this division, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning, unless
@@ -10888,7 +10888,7 @@ other regulations promulgated hereunder during a water supply emergency. If
 such water service is suspended by operation of this chapter, the person shall
 pay a reconnection fee and all outstanding charges before service is restored.
 (Ord. passed 11-20-2007)
-APPENDIX A: ZONING ORDINANCE
+***** APPENDIX A: ZONING ORDINANCE *****
 Section
    
 1-1   Adopted by reference
@@ -10897,7 +10897,7 @@ Section
 in full. A copy of the zoning ordinance can be found in the office of the Board
 of Supervisors.
 (Ord. passed 1-21-2014)
-APPENDIX B: SUBDIVISION ORDINANCE
+***** APPENDIX B: SUBDIVISION ORDINANCE *****
 Section
    
 1-1   Adopted by reference
@@ -10905,7 +10905,7 @@ Section
    The county’s subdivision ordinance is hereby adopted by reference as if set
 out in full. A copy of the subdivision ordinance can be found in the office of
 the Board of Supervisors.
-PARALLEL REFERENCES
+***** PARALLEL REFERENCES *****
 References to Virginia Code
 References to Prior Code
 References to Resolutions
