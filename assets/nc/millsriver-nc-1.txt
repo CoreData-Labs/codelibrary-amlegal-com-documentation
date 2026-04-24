@@ -342,13 +342,13 @@ Section 4.
 GENERAL ASSEMBLY OF NORTH CAROLINA ENACTS:
    SECTION 1.    A Charter for the Town of Mills River is enacted to read:
 CHARTER OF THE TOWN OF MILLS RIVER.
-ARTICLE I. INCORPORATION AND CORPORATE BOUNDARIES.
+**** ARTICLE I. INCORPORATION AND CORPORATE BOUNDARIES. ****
 Section 1.1. Incorporation and Corporate Powers. 
    The inhabitants of the Town of Mills River are a body corporate and politic
 under the name 'Town of Mills River'. Under that name they shall have all the
 powers, duties, rights, privileges, and immunities conferred and imposed on
 cities by the general law of North Carolina.
-ARTICLE II. CORPORATE BOUNDARIES.
+**** ARTICLE II. CORPORATE BOUNDARIES. ****
 Section 2.1. Town Boundaries.
    Until modified in accordance with the law, the boundaries of the Town of
 Mills River are as follows:
@@ -379,7 +379,7 @@ until reaching Jeffress Road (SR 1345). Turning North along Jeffress Road (SR
 Butler Bridge Road (SR 1352) Northeast until reaching the Mills River Fire
 District line. Following the Mills River Fire District line North and Northwest
 back to the Buncombe-Henderson County line on Pennsylvania Road (SR 1348).
-ARTICLE III. GOVERNING BODY.
+**** ARTICLE III. GOVERNING BODY. ****
 Section 3.1. Structure of Governing Body; Number of Members.
    The governing body of the Town of Mills River is the Town Council, which
 shall have five members.
@@ -414,7 +414,7 @@ Section 3.5. Vacancies.
    Notwithstanding the provisions of G.S. § 160A-63, a  person  appointed by
 the Town Council to fill a vacancy on the Council shall serve for the remainder
 of the unexpired term.
-ARTICLE IV. ELECTIONS.
+**** ARTICLE IV. ELECTIONS. ****
 Section 4.1. Conduct of Town Elections.
    Town elections shall be conducted on a nonpartisan basis and the results
 determined by plurality, as provided in G.S. § 163-292. The filing period shall
@@ -445,11 +445,11 @@ Section 4.3. Residency Required.
    Candidates for election to district seats on the Town Council shall reside
 in and represent their respective districts, but all candidates for Town
 Council shall be nominated and elected by all the voters of the Town.
-ARTICLE V. ADMINISTRATION.
+**** ARTICLE V. ADMINISTRATION. ****
 Section 5.1. Town to Operate Under Council-Manager Plan.
    The Town shall operate under the Council-Manager form of government as
 provided in Part 2 of Article 7 of Chapter 160A of the General Statutes.
-ARTICLE VI. TAXES AND BUDGET ORDINANCE.
+**** ARTICLE VI. TAXES AND BUDGET ORDINANCE. ****
 Section 6.1. Commencement of Tax Collection.
    From and after the effective date of this act, the citizens and property in
 the Town of Mills River shall be subject to municipal taxes levied for the year
@@ -468,12 +468,12 @@ for fiscal year 2002-2003 without following the timetable in the Local
 Government Budget and Fiscal Control Act but shall follow the sequence of
 actions in the spirit of the act insofar as practical. No ad valorem taxes may
 be levied for the 2002-2003 fiscal year.
-ARTICLE VII. ORDINANCES.
+**** ARTICLE VII. ORDINANCES. ****
 Section 7.1. Ordinances.
    Except as otherwise provided in this Charter, the Town of Mills River is
 authorized to adopt such ordinances as the Town Council deems necessary to the
 governance of the Town.
-ARTICLE VIII. MISCELLANEOUS PROVISIONS.
+**** ARTICLE VIII. MISCELLANEOUS PROVISIONS. ****
 Section 8.1. Expenses.
    The entities sponsoring incorporation shall be entitled to recover from the
 Town expenses of sponsoring incorporation in the amount of five hundred dollars
@@ -768,7 +768,7 @@ Planning Board
 30.04   Organization and rules
    
 30.05   Effective date
-PLANNING BOARD
+**** PLANNING BOARD ****
 § 30.01 AUTHORITY.
    This subchapter  is enacted by the Town Council  of the Town of Mills River
 pursuant to the authority granted in G.S. 160D-301. The Town Council  of the
@@ -994,7 +994,7 @@ Enforcement
  
    
 90.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.001 PARK RULES.
    The following rules shall regulate the use, occupancy and the conduct of
 persons in or upon all park property and contiguous parking areas within the
@@ -1347,7 +1347,7 @@ passed 4-7-2016; Am. Ord. 2017-06, passed 10-12-2017; Am. Ord. 2018-07, passed
 a field or picnic shelter reservation in order to make any use of any park or
 park facility.
 (Ord. 2024-9, passed 6-13-2024)
-DOG PARKS
+**** DOG PARKS ****
 § 90.040 DOG PARK RULES.
    Small and large dog areas provided. Please use the area appropriate for your
 dog. (Small dog area classified as 25 pounds or less).
@@ -1377,7 +1377,7 @@ treats.
 passed 4-7-2016; Am. Ord. 2017-06, passed 10-12-2017; Am. Ord. 2018-07, passed
 5-15-2018; Am. Ord. 2020-12, passed 12-10-2020; Am. Ord. 2024-9, passed 6-13-
 2024)
-TENNIS COURTS
+**** TENNIS COURTS ****
 § 90.050 TENNIS COURT RULES.
    (A)   Tennis court play requires that all players wear appropriate attire.
    (B)   Rubber soled athletic shoes may only be worn on the courts (no street
@@ -1415,7 +1415,7 @@ facilities. Mills River Park address is 124 Town Center Drive.
 passed 4-7-2016; Am. Ord. 2017-06, passed 10-12-2017; Am. Ord. 2018-07, passed
 5-15-2018; Am. Ord. 2020-12, passed 12-10-2020; Am. Ord. 2024-9, passed 6-13-
 2024)
-BASKETBALL COURTS
+**** BASKETBALL COURTS ****
 § 90.060 BASKETBALL COURT RULES.
    (A)   No hanging from the rim, nets or goal supports.
    (B)   Rubber soled athletic shoes may only be worn on the courts (no street
@@ -1448,7 +1448,7 @@ facilities. Mill River Park address is 124 Town Center Drive.
    (P)   Park hours: dawn to dusk.
 (Ord. 2018-07, passed 5-15-2018; Am. Ord. 2020-12, passed 12-10-2020; Am. Ord.
 2024-9, passed 6-13-2024)
-BASEBALL AND SOFTBALL FIELDS
+**** BASEBALL AND SOFTBALL FIELDS ****
 § 90.070 BASEBALL/SOFTBALL FIELD RULES.
    (A)   Users must abide by all park rules as outlined in this
 Chapter 90 of the Town Code of Ordinances.
@@ -1492,7 +1492,7 @@ playable. All parties with reserved use of field need to seek a determination
 of playability following any rain that occurs within 24 hours prior to the
 scheduled time or where field is wet on the surface, waterlogged, or frozen.
 (Ord. 2020-12, passed 12-10-2020; Am. Ord. 2024-9, passed 6-13-2024)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 90.100 ENFORCEMENT.
    These rules and regulations may be enforced by any and all remedies
 authorized by applicable law. In addition, anyone violating any of these
@@ -1624,7 +1624,7 @@ General Provisions
 111.007   Food parks
    
 111.008   Fees
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 111.001 TITLE.
    This chapter shall be known and may be cited as the “Temporary Vendor
 Ordinance of the Town of Mills River, North Carolina.”
@@ -1777,7 +1777,7 @@ Enforcement
 112.36   Requirement to carry license
    
 112.37   Enforcement of chapter
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 112.01 TITLE.
    This chapter shall be known and may be cited as the “Solicitors, Peddlers,
 and Itinerant Merchants Ordinance of the Town of Mills River, North Carolina.”
@@ -1834,7 +1834,7 @@ words “itinerant merchants,” “salespersons,” and “peddlers.”
    YARD SALE. A sale of personal goods at a person’s residence for profit. The
 term shall include “garage sales,” and “rummage sales”, and “estate sales”.
 (Ord. 2024-15, passed 9-12-2024)
-SOLICITATION PERMIT
+**** SOLICITATION PERMIT ****
 § 112.10 APPLICATION.
    Any person requesting a permit for the purposes of acting as a solicitor or
 peddler within the corporate limits of the Town shall complete a written
@@ -1928,7 +1928,7 @@ associated fees will be waived.
 face-to-face means for solicitation of commercial businesses are exempt from
 solicitation permit application processes and fees as conveyed in this chapter.
 (Ord. 2024-15, passed 9-12-2024)
-BUSINESS CONDUCT AND REGULATIONS
+**** BUSINESS CONDUCT AND REGULATIONS ****
 § 112.25 HOURS OF OPERATION.
    Solicitation, peddling, and itinerant merchant operations shall not be
 conducted between the hours of 7:00 p.m. and 8:00 a.m.
@@ -1974,7 +1974,7 @@ negative response to the solicitation, either verbally or physically.
 required by this chapter is an endorsement of the permit holder by Town
 Council, Town staff, or the Town.
 (Ord. 2024-15, passed 9-12-2024)
-INVESTIGATIONS
+**** INVESTIGATIONS ****
 § 112.35 LAW ENFORCEMENT TO INVESTIGATE.
    If local law enforcement has reason to believe that a person is soliciting
 door-to-door within Town limits, in violation of this chapter, they shall
@@ -2045,7 +2045,7 @@ Entry Gates and Entry Boxes
 150.17   Size of entry gate area
    
 150.18   Enforcement and legal status
-GENERALLY
+**** GENERALLY ****
 § 150.01 PROHIBITING RESTRICTIONS ON AGRICULTURAL LAND USE.
    (A)   The Town of Mills River shall  not impose any regulation or
 restriction on the use of agricultural land which is more stringent than that
@@ -2093,7 +2093,7 @@ for the Town of Mills River.
 after compliance with the requirements set out in Article IV and Article VII of
 Chapter 45 of the Henderson County Code of Ordinances.
 (Ord. 00088, passed 3-13-2014)
-ENTRY GATES AND ENTRY BOXES
+**** ENTRY GATES AND ENTRY BOXES ****
 § 150.15 DEFINITIONS.
    Except as otherwise defined in this section, all terms contained herein
 shall  have their meaning as otherwise defined in the Mills River Town Code ,
@@ -2282,7 +2282,7 @@ Appendix A:   Manufactured home park site development plan requirements
 Appendix B:   Construction Permit Application Form
    
 Appendix C:   Certificate of Completion Application Form
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.001 TITLE.
    This chapter shall  be known and cited as the “Manufactured Home Park
 Ordinance of Town of Mills River, North Carolina.”
@@ -2519,7 +2519,7 @@ issued pursuant to laws, except that should this chapter conflict with any
 applicable federal, state  or local laws, the most stringent shall  govern.
 (Ord. passed 3-1-2004; Am. Ord. passed 10-13-2005; Am. Ord. 2016-04, passed 7-
 28-2016)
-APPLICATIONS, PLAN REVIEW AND APPROVAL
+**** APPLICATIONS, PLAN REVIEW AND APPROVAL ****
 § 151.020 APPROVAL/SPECIAL USE PERMIT REQUIRED.
    No person , firm or corporation shall  construct a manufactured home park
 within the jurisdiction of this chapter without first obtaining a Major Special
@@ -2635,7 +2635,7 @@ plan  shall  submit a revised plan for approval by the Administrator under the
 terms of this chapter.
 (Ord. passed 3-1-2004; Am. Ord. passed 10-13-2005; Am. Ord. 2016-04, passed 7-
 28-2016)
-SITE DEVELOPMENT AND IMPROVEMENT STANDARDS
+**** SITE DEVELOPMENT AND IMPROVEMENT STANDARDS ****
 § 151.040 PHASING.
    Manufactured home parks  may  be developed in phases  of at least 3 units,
 except when less than 3 spaces remain to be developed.
@@ -3047,7 +3047,7 @@ shall  any of the first 10 units be required to be moved in order to achieve
 compliance with standards for major parks  in this chapter.
 (Ord. passed 3-1-2004; Am. Ord. passed 10-13-2005; Am. Ord. 2016-04, passed 7-
 28-2016)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 151.080 PREEXISTING/NONCONFORMING MANUFACTURED HOME PARKS.
    (A)   Any manufactured home park , as defined by this chapter, existing on
 the effective date of this chapter or any subsequent amendment thereto may
@@ -3450,7 +3450,7 @@ Administration
  
    
 152.99   Violations, penalties, costs, and reimbursements
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 PURPOSE AND OBJECTIVES.
    (A)   Purpose. This Chapter is enacted to protect the health, safety, and
 general welfare of the people of the Town of Mills River pursuant to powers
@@ -3601,7 +3601,7 @@ sale. Outdoor storage areas in business and industrial zones shall conform to a
 minimum of one-half the minimum front building setback and not block or
 obstruct parking spaces or any line of sight for a public road.
 (Ord. 2019-02, passed 10-12-2019)
-NOISE CONTROL
+**** NOISE CONTROL ****
 § 152.21 ESTABLISHMENT OF NOISE ORDINANCE.
    This subchapter shall be known as the “Noise Ordinance for the Town of Mills
 River.”
@@ -3711,7 +3711,7 @@ subject to enhanced civil penalties.
       (4)   Subsequent and continued violations will result in a penalty of
 $1,000 per day of noncompliance.
 (Ord. 2021-10, passed 5-13-2021)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 152.91 ADMINISTRATION AND ENFORCEMENT.
    Where there is a violation of any provision of this chapter, the town , in
 its discretion, may require any appropriate action as described in this
@@ -6578,7 +6578,7 @@ Architectural Design Guide Requirements
  
    
 154.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.001 TITLE.
    This chapter shall be known and may be cited as the "Zoning Ordinance of the
 Town of Mills River, North Carolina."
@@ -7530,7 +7530,7 @@ Am. Ord. 00038, passed 11-21-2006; Am. Ord. 00055, passed 4-23-2009; Am. Ord.
 00067, passed 7-22-2010; Am. Ord. 00066, passed 4-28-2011; Am. Ord. 00071,
 passed 3-22-2012; Am. Ord. 00079, passed 4-25-2013; Am. Ord. 00080, passed 5-
 23-2013; Am. Ord. 2018-03, passed 3-8-2018; Am. Ord. 2021-06, passed 4-22-2021)
-ESTABLISHMENT OF DISTRICTS
+**** ESTABLISHMENT OF DISTRICTS ****
 § 154.025 USE DISTRICTS.
    For the purpose of this chapter, the zoning districts of the Town of Mills
 River, as delineated on the Official Zoning Map of the Town of Mills River,
@@ -7591,7 +7591,7 @@ those shown on the Official Zoning Map of the Town of Mills River, or in other
 circumstances not covered by Subsections A through D, the Board of Adjustment
 shall interpret the district boundaries.
 (Ord. passed 3-1-2004; Am. Ord. passed 7-29-2004; Am. Ord. passed 10-13-2005)
-USE DISTRICTS
+**** USE DISTRICTS ****
 § 154.045 USE REQUIREMENTS.
    Within the districts indicated on the Official Zoning Map of the Town of
 Mills River, no building or land shall be used and no building  shall be
@@ -9395,7 +9395,7 @@ or all of the following:
             9.   Signage.
             10.   Number of Principle Uses or Buildings .
 (Ord. 2023-04, passed 9-14-2023)
-SPECIAL PROVISIONS
+**** SPECIAL PROVISIONS ****
 § 154.080 SINGLE-FAMILY RESIDENTIAL CLUSTER DEVELOPMENT.
    A single-family residential cluster development (SFRCD) may be located in
 the MR-30, MR-MU, and MR-NC districts as a special use under a Major Special
@@ -11082,7 +11082,7 @@ structures from the property within 180 days. After that time period, the town
 shall reserve the right to contract to have the equipment removed and lien
 against the property until payment for the contract is received in full.
 (Ord. 00080, passed 5-23-2013)
-COMMUNICATION TOWERS
+**** COMMUNICATION TOWERS ****
 § 154.090 STATUTORY AUTHORITY; PURPOSE.
    (A)   This subchapter  is enacted pursuant to the general police powers
 granted to the Town of Mills River by G.S. § 160A-174 and G.S.  Chapter 160D,
@@ -11733,7 +11733,7 @@ responsibility of enforcing the Town of Mills River Ordinances may cause a
 warrant to be issued without having first issued a warning ticket where he or
 she deems it necessary to effectively enforce the terms of this subchapter .
 (Ord. 00079, passed 4-25-2013)
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 154.105 NONCONFORMING USES.
    Any parcel of land, use of land, building or structure lawfully existing at
 the time of the adoption of this chapter, or any amendment thereto, that does
@@ -12458,7 +12458,7 @@ lighted areas of the site. An isolux lighting plan is also permitted in
 fulfillment of this section provided that it indicates the foot-candles at
 grade by contour diagram or grid points that cover the site.
 (Ord. 2024-01, passed 1-25-2024)
-EXCEPTIONS AND MODIFICATIONS
+**** EXCEPTIONS AND MODIFICATIONS ****
 § 154.130 WAIVER OF REQUIREMENTS.
    Compliance with the requirements of this chapter is mandatory, except that
 under the specific conditions enumerated in the following sections of this
@@ -12745,7 +12745,7 @@ the public health and provide necessary public services and public works;
 however, the Mills River Town Council shall hold a public hearing before the
 action is taken.
 (Ord. passed 3-1-2004; Am. Ord. passed 7-29-2004; Am. Ord. passed 10-13-2005)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 154.155 ZONING ENFORCEMENT OFFICER.
    It shall be the duty of the duly appointed Zoning Administrator that he or
 she is hereby given the authority to administer and enforce the provisions of
@@ -12799,7 +12799,7 @@ adjacent or other property  owner who would be damaged by the violation, in
 addition to other remedies, may institute injunction, mandamus or other
 appropriate action in proceeding to stop the violation.
 (Ord. passed 3-1-2004; Am. Ord. passed 7-29-2004; Am. Ord. passed 10-13-2005)
-ZONING BOARD OF ADJUSTMENT AND TOWN COUNCIL
+**** ZONING BOARD OF ADJUSTMENT AND TOWN COUNCIL ****
 § 154.175 ESTABLISHMENT OF ZONING BOARD OF ADJUSTMENT.
    A Zoning Board of Adjustment is hereby established. The Board shall consist
 of 5 regular members, who shall be citizens of the Town of Mills River and
@@ -13159,7 +13159,7 @@ right-of-way not less than 10 days, but not more than 25 days prior to the date
 of the hearing.
 (Ord. 00083, passed 10-10-2013; Am. Ord. 2021-06, passed 4-22-2021; Am. Ord.
 2024-02, passed 2-22-2024)
-AMENDMENTS
+**** AMENDMENTS ****
 § 154.195 AUTHORITY OF MILLS RIVER TOWN COUNCIL.
    This chapter, the Official Zoning Map of the Town of Mills River, and the
 Town’s adopted comprehensive plan, including the future land use vision map,
@@ -13539,7 +13539,7 @@ legislative hearing date.
 (Ord. passed 3-1-2004; Am. Ord. passed 7-29-2004; Am. Ord. 10-13-2005; Am. Ord.
 2021-06, passed 4-22-2021; Am. Ord. 2021-18, passed 11-18-2021; Am. Ord. 2023-
 04, passed 9-14-2023)
-CONFLICT OF INTEREST
+**** CONFLICT OF INTEREST ****
 § 154.201 CONFLICT OF INTEREST REQUIREMENTS.
    Elected and appointed boards and Town of Mills River staff shall maintain
 conflict of interest procedures pursuant to G.S. § 160D-109 in administering
@@ -13606,7 +13606,7 @@ rulings and approvals on legislative or quasi-judicial matters that come before
 the Town provided that additional rules and procedures are not inconsistent
 with G.S. § 160D-109 and any amendments thereto.
 (Ord. 2021-06, passed 4-22-2021)
-LEGAL STATUS
+**** LEGAL STATUS ****
 § 154.215 CONFLICT WITH OTHER LAWS.
    Wherever the regulations of this chapter require a greater size of yards or
 require a greater percentage of lot to be left unoccupied or impose other more
@@ -13752,7 +13752,7 @@ NOTES:
  
 (Ord. passed 3-1-2004; Am. Ord. passed 7-29-2004; Am. Ord. passed 10-13-2005;
 Am. Ord. 00066, passed 4-28-2011)
-LANDSCAPING
+**** LANDSCAPING ****
 § 154.230 LANDSCAPE PLAN REQUIRED.
    (A)   This applies to multi-family other than duplexes on individual lots,
 commercial, industrial and public land uses. Additionally, this section applies
@@ -13899,7 +13899,7 @@ which conforms with the initial planting standards of this section within 1
 planting season.
 (Ord. passed 3-1-2004; Am. Ord. 00016, passed 7-29-2004; Am. Ord. passed 10-13-
 2005; Am. Ord. 00038, passed 11-21-2006)
-SIGNS
+**** SIGNS ****
 § 154.250 PURPOSE AND INTENT.
    It is the intent of this subchapter  to authorize the use of signs:
    (A)   To encourage the effective use of signs as a means of communication in
@@ -14353,7 +14353,7 @@ be set by the Mills River Town Council and double after 15 days from the date
 the individual is notified. Each day's violation after the initial 15-day
 period shall be treated as a separate offense.
 (Ord. 2017-07, passed 11-10-2017; Am. Ord. 2021-06, passed 4-22-2021)
-ARCHITECTURAL DESIGN GUIDE REQUIREMENTS
+**** ARCHITECTURAL DESIGN GUIDE REQUIREMENTS ****
 § 154.270 RESERVED.
 (Ord. 00065, passed 7-22-2010; Am. Ord. 2020-07, passed 3-13-2020)
 § 154.999 PENALTY.
@@ -14743,7 +14743,7 @@ Water Supply Watershed Protection Areas
 156.028   Criminal penalties
    
 156.029   Remedies
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.001 TITLE.
    This chapter shall be known and may be cited as the "Natural Resources
 Ordinance of the Town of Mills River, North Carolina."
@@ -14912,7 +14912,7 @@ point (e.g. the water supply intake).
    WATERSHED ADMINISTRATOR. An official or designated person  of the Town of
 Mills River responsible for administration and enforcement of this chapter.
 (Ord. 2022-18, passed 12-8-2022)
-WATER SUPPLY  WATERSHED PROTECTION AREAS
+**** WATER SUPPLY  WATERSHED PROTECTION AREAS ****
 § 156.015 WATERSHED ADMINISTRATOR AND DUTIES.
    The Mills River Town Council shall appoint a Watershed Administrator , who
 shall be duly sworn in. It shall be the duty of the Watershed Administrator to
@@ -15357,7 +15357,7 @@ Legal Status Provisions
 prevention ordinance
    
 170.71   Effect upon outstanding hazard development permits
-STATUTORY AUTHORIZATION, FINDINGS OF FACT, PURPOSE AND OBJECTIVES
+**** STATUTORY AUTHORIZATION, FINDINGS OF FACT, PURPOSE AND OBJECTIVES ****
 § 170.01 STATUTORY AUTHORIZATION.
    (A)   The legislature of the State of North Carolina has in Article 8 of
 Chapter 160A, and Section 215.61 Part 6 Article 21 of Chapter 143 of the North
@@ -15393,7 +15393,7 @@ development  of property in all flood  prone areas of the town;
    (C)   Secure safety from the dangers posed by water and flooding; and
    (D)   Promote public health, safety and general welfare.
 (Ord. 2025-23, passed 10-6-2025)
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 170.15 DEFINITIONS.
    Unless specifically defined below, words or phrases used in this chapter
 shall be interpreted so as to give them the meaning they have in common usage
@@ -15679,7 +15679,7 @@ separate finable offense. Nothing herein contained shall prevent the town from
 taking such other lawful action as is necessary to prevent or remedy any
 violation .
 (Ord. 2025-23, passed 10-6-2025)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 170.35 DESIGNATION OF ADMINISTRATOR.
    The Town Planning Director, or her/his designee, hereinafter referred to as
 the "Administrator ", is hereby appointed to administer and implement the
@@ -16024,7 +16024,7 @@ days or less than ten days prior to the hearing date. In computing the ten and
 25 day periods, the date of publication is not to be counted, but the date of
 the hearing may be counted.
 (Ord. 2025-23, passed 10-6-2025)
-PROVISIONS FOR HAZARD REDUCTION
+**** PROVISIONS FOR HAZARD REDUCTION ****
 § 170.55 SPECIFIC STANDARDS.
    In all special hazard areas where base flood elevation  (BFE) data has been
 provided, as set forth in this chapter, the following provisions are required:
@@ -16170,7 +16170,7 @@ following development  types and activities:
          (c)   Fill for the purpose of raising the elevation of land for future
 unallowed development  types.
 (Ord. 2025-23, passed 10-6-2025)
-LEGAL STATUS PROVISIONS
+**** LEGAL STATUS PROVISIONS ****
 § 170.70 EFFECT ON RIGHTS AND LIABILITIES UNDER THE EXISTING FLOODPLAIN HAZARD
 PREVENTION ORDINANCE.
    The enactment of this chapter shall not effect any action, suit or
