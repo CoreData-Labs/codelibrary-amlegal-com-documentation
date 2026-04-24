@@ -94,7 +94,7 @@ The General Assembly of North Carolina enacts:
    SECTION 1. The Charter of the City of Elizabeth City is revised and
 consolidated to read as follows:
 THE CHARTER OF THE CITY OF ELIZABETH CITY.
-ARTICLE I. INCORPORATION, CORPORATE POWERS, AND BOUNDARIES
+**** ARTICLE I. INCORPORATION, CORPORATE POWERS, AND BOUNDARIES ****
 Section 1.1. Incorporation.
    The City of Elizabeth City, North Carolina, in Pasquotank and Camden
 Counties and the inhabitants thereof shall continue to be a municipal body
@@ -116,7 +116,7 @@ limits or wards pursuant to law, the appropriate changes to the official map
 shall be made and copies shall be filed in the office of the Secretary of
 State, the appropriate office of the Register of Deeds, and the appropriate
 board of elections.
-ARTICLE II. GOVERNING BODY
+**** ARTICLE II. GOVERNING BODY ****
 Section 2.1. Governing Body.
    The City Council, hereinafter referred to as the ‘Council’, and the Mayor
 shall be the governing body of the City.
@@ -185,7 +185,7 @@ be filled in the same election, the candidates shall declare for the specific
 seat or office that the candidate is seeking in the notice of candidacy. Each
 seat shall be a single office and the successor elected as provided in G.S.
 163-293(a)(l) and (b)(1).
-ARTICLE III. ELECTIONS
+**** ARTICLE III. ELECTIONS ****
 Section 3.1. Regular Municipal Elections.
    Regular municipal elections shall be held in each odd-numbered year in
 accordance with the uniform municipal election laws of North Carolina.
@@ -208,7 +208,7 @@ following the election.
 Section 3.5. Special Elections and Referenda.
    Special elections and referenda may be held only as provided by this
 Charter, general law, or applicable local acts of the General Assembly.
-ARTICLE IV. ORGANIZATION AND ADMINISTRATION
+**** ARTICLE IV. ORGANIZATION AND ADMINISTRATION ****
 Section 4.1. Form of Government.
    The City shall operate under the council-manager form of government in
 accordance with Part 2 of Article 7 of Chapter 160A of the General Statutes.
@@ -266,13 +266,13 @@ constitute a complete release of the City from any and all damages sustained by
 the person involved in such settlement in any manner arising out of the
 incident, occasion, or taking complained of. All settlements and releases shall
 be approved in advance by the City Attorney.
-ARTICLE V. BIDDING AND PROCUREMENT
+**** ARTICLE V. BIDDING AND PROCUREMENT ****
 Section 5.1. Simplified Bid Process.
    In addition to any authority granted by general law, the authority of the
 City to proceed with a simplified competitive bidding process when the entire
 cost of construction or repairs is five hundred thousand dollars ($500,000) or
 less shall continue as provided in S.L. 1999-93 and any subsequent acts.
-ARTICLE VI. DISPOSITION OF PROPERTY
+**** ARTICLE VI. DISPOSITION OF PROPERTY ****
 Section 6.1. Sale or Lease of Real Estate.
    In addition to any authority granted by general law, the authority of the
 City to proceed with the sale or lease of real property owned for the use and
@@ -282,17 +282,17 @@ Section 6.2. Redevelopment Commission.
    In addition to any authority granted by general law, the authority to
 dispose of redevelopment property at private sale shall continue as authorized
 in Chapter 427 of the 1979 Session Laws and any subsequent acts.
-ARTICLE VII. FINANCE AND TAXATION
+**** ARTICLE VII. FINANCE AND TAXATION ****
 Section 7.1. Occupancy Tax Authorized.
    The City shall be authorized to levy a room occupancy tax as provided in
 Chapter 175 of the 1987 Session Laws and any subsequent acts.
-ARTICLE VIII. AIRPORT AUTHORITY
+**** ARTICLE VIII. AIRPORT AUTHORITY ****
 Section 8.1. Airport Authority.
    The Elizabeth City-Pasquotank Airport Authority shall continue to be
 governed by the provisions of Chapter 198 of the 1987 Session Laws, Chapter 860
 of the 1989 Session Laws, Chapter 26 of the 1991 Session Laws, and any
 subsequent acts.
-ARTICLE IX. MISCELLANEOUS
+**** ARTICLE IX. MISCELLANEOUS ****
 Section 9.1. Regulation of Waterways.
    The City may adopt ordinances to regulate and control the speed of vessels
 in waterways within its boundaries or within its extraterritorial jurisdiction,
@@ -6055,7 +6055,7 @@ from its members. The election shall be held at the July meeting.
 and plans to the City Council and County Commissioners from time to time as it
 is deemed necessary or at the request of the Council and Commissioners.
 (2005 Code, § 58-63)  (Ord. passed 9-3-1991)
-SKATE FACILITY
+**** SKATE FACILITY ****
 § 91.45  GENERAL REQUIREMENTS.
    (A)   Authority. The city hereby exercises its authority to enact skate
 facility regulations pursuant to G.S. §§ 99E-21, 99E-22, 99E-23, 99E-24, and
@@ -12505,7 +12505,7 @@ floodways or non-encroachment areas
  
    
 154.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.01  STATUTORY AUTHORIZATION.
    The Legislature of the State of North Carolina has in G.S. Ch. 143, Art. 21,
 Part 6; Ch. 160A, Art. 19, Parts 3, 5, and 8; Ch. 160A, Art. 8, delegated to
@@ -13047,7 +13047,7 @@ outstanding permit within a period of six months subsequent to the date of
 issuance of the outstanding permit, construction or use shall be in conformity
 with the provisions of this chapter.
 (Ord. 2018-10-03, passed 10-22-2018)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 154.25  DESIGNATION OF FLOODPLAIN ADMINISTRATOR.
    The Zoning Administrator, hereinafter referred to as the “Floodplain
 Administrator,” is hereby appointed to administer and implement the provisions
@@ -13471,7 +13471,7 @@ of the public, or conflict with existing local laws or ordinances.
 or sites, hazardous waste management facilities, salvage yards, and chemical
 storage facilities that are located in special flood hazard areas.
 (Ord. 2018-10-03, passed 10-22-2018)
-PROVISIONS FOR FLOOD HAZARD REDUCTION
+**** PROVISIONS FOR FLOOD HAZARD REDUCTION ****
 § 154.40  GENERAL STANDARDS.
    In all special flood hazard areas, the following provisions are required:
    (A)   All new construction and substantial improvements shall be designed
