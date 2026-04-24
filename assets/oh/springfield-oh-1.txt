@@ -1698,6 +1698,8 @@ Chap.   
 145. Municipal Contracts.
 Chap.   
 147. Municipal Finances.
+Chap.
+146. Acceptance and Use of Electronic Signatures.
 Chap.   
 149. Municipal Property.
 Chap.   
@@ -2366,6 +2368,8 @@ Chap.
 141. Service Department.
 Chap.
 145. Municipal Contracts.
+Chap.
+146. Acceptance and Use of Electronic Signatures.
 Chap.
 147. Municipal Finances.
 Chap.
@@ -3769,6 +3773,65 @@ of the time of public danger or emergency, up to a maximum aggregate sum of ten
 thousand dollars ($10,000.00) of purchases which have not been authorized by
 the Mayor, City Manager, or Finance Director.
 (Ord. 06-382. Passed 10-17-06.)
+ 
+ 
+ 
+CHAPTER 146
+Acceptance and Use of Electronic Signatures
+146.01   General Definitions.
+146.02   Purpose.
+146.03   Effective Date.
+146.04   Acceptance of Electronic Signatures.   
+146.05   Form of Electronic Signatures.
+146.06   Validity and Enforceability.
+146.07   Implementation of Electronic Signature Policy.
+146.08   Application to all City Ordinances.
+146.01 GENERAL DEFINITIONS.
+   As used in this chapter:
+   (a)   "Electronic signature" means an electronic sound, symbol, or process
+attached to or logically associated with a record and executed or adopted by a
+person with the intent to sign the record.
+   (b)   "Record" means information that is inscribed on a tangible medium or
+that is stored in an electronic or other medium and is retrievable in
+perceivable form.
+146.02 PURPOSE.
+   This chapter aims to streamline and modernize interactions between the City
+of Springfield, Ohio, and all persons who deal with the City by accepting
+electronic signatures. Electronic signatures provide an efficient and
+convenient alternative to handwritten signatures by reducing the use of paper,
+expediting transaction times, and allowing for more flexibility in the
+completion and submission of required signatures.
+146.03 EFFECTIVE DATE.
+   This chapter shall take effect from April 8, 2025.
+146.04 ACCEPTANCE OF ELECTRONIC SIGNATURES.
+   The City of Springfield, Ohio, accepts electronic signatures as legally
+binding and equivalent to handwritten signatures to signify agreement to a
+document's terms. Electronic signatures may be used in any instance where a
+handwritten signature is required in dealings with the City of Springfield
+unless explicitly stated otherwise.
+146.05 FORM OF ELECTRONIC SIGNATURES.
+   Acceptable forms of electronic signatures include, but are not limited to,
+the following:
+   (a)   Electronic signatures created by software such as DocuSign, Adobe
+Sign, and similar.
+   (b)   Scanned images of handwritten signatures.
+   (c)   Facsimile or faxed signatures.
+   (d)   Any other form of electronic signature that can be clearly linked to
+the signer and demonstrates the signer's approval of the information contained
+in the electronic message.
+146.06 VALIDITY AND ENFORCEABILITY.
+   An electronic signature shall have the same validity and enforceability as
+the signature affixed by hand as long as it satisfies the requirements of this
+chapter.
+146.07 IMPLEMENTATION OF ELECTRONIC SIGNATURE POLICY.
+   The Finance Director, in consultation with the Law Director and City
+Manager, shall develop and implement a policy outlining the acceptable methods
+of delivering electronic signatures in accordance with this chapter.
+146.08 APPLICATION TO ALL CITY ORDINANCES.
+   The provisions of this chapter apply to all sections within the City of
+Springfield, Ohio's Codified Ordinances that require signatures unless
+explicitly stated otherwise within those sections.
+ 
  
  
  
@@ -8504,8 +8567,7 @@ Municipal income taxes - see Ohio R.C. Ch. 718
 Income Tax Division - see ADM.
 125.04
  
-195.01 PURPOSE AND TAXABLE YEARS GOVERNED BY THIS CHAPTER
-195.
+195.01 PURPOSE AND TAXABLE YEARS GOVERNED BY THIS CHAPTER 195.
    (a)   There is hereby levied a tax at the rate of one and one-half percent
 (1.5%) on salaries, wages, commissions and other compensation and on net
 profits, as here and after provided. Not more than nine-tenths of the proceeds
@@ -28757,7 +28819,7 @@ some temporary, substantial maiming;
          C.   Any physical harm that causes acute pain of a duration that
 results in substantial suffering.
             (ORC 2921.321)
- 
+***   ***
 525.15 REFUSAL TO DISCLOSE PERSONAL INFORMATION IN PUBLIC PLACE.
    (a)   No person who is in a public place shall refuse to disclose the
 person’s name, address, or date of birth, when requested by a law enforcement
@@ -34461,7 +34523,7 @@ operation of ice cream trucks with clear and concise regulations to prevent
 safety, traffic and health hazards, as well as to preserve the peace, safety
 and welfare of the community.
  
-775.02 DEFINITIONS.
+*** 775.02 DEFINITIONS. ***
    As used in this Chapter:
    (a)   "Ice Cream Truck" means any vehicle or motor vehicle, as that term is
 defined in the Ohio Revised Code Chapter 4511.01, which is equipped or
@@ -34574,7 +34636,7 @@ cream truck.
    (g)   No person shall engage in selling or offering for sale frozen desserts
 from and at an ice cream truck between 9:00 p.m. and 9:00 a.m.
  
-775.99 PENALTY.
+*** 775.99 PENALTY. ***
    Whoever violates any provision of this chapter is guilty of a misdemeanor of
 the fourth degree.
  
@@ -37188,8 +37250,7 @@ terms defined in Ordinance No. 16-102, passed April 12, 2016, before December
 (Ord. 13-311, passed 12-23-13; Ord. 16-102, passed 4-12-16; Ord. 20-295, passed
 12-8-20.)
  
-911.17 COMPLIANCE WITH CHAPTER
-929 REQUIREMENTS.
+911.17 COMPLIANCE WITH CHAPTER 929 REQUIREMENTS.
    Every person subject to and required to comply with the requirements of
 Chapter
 929 of the Codified Ordinances and who also receives water service from the
@@ -46023,7 +46084,7 @@ federal rules, regulations, and ordinances pertaining to the use.
       (1)    A Children's Residential Center shall meet all local, county,
 state, and federal rules, regulations, and ordinances pertaining to the use
    (d)    Cottage Court
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8184.jpg]
 Figure 1106.01.1: Cottage Court Layout
       (1)    Figure 1106.01.1: Cottage Court Layout shows an example of a
@@ -46092,7 +46153,7 @@ federal rules, regulations, and ordinances pertaining to the use.
       (1)    A Home for the Aging shall meet all local, county, state, and
 federal rules, regulations, and ordinances pertaining to the use.
    (1)    Live-Work Dwelling
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8198.jpg]
 Figure 1106.01.2: Live-Work Dwellings
       (1)    Figure 1106.01.2: Live-Work Dwellings shows an example of Live-
@@ -46107,7 +46168,7 @@ manager.
 Building square footage.
       (3)    All on-site parking shall be located at the rear of the site.
    (n)    Multi-Unit Dwelling
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8213.jpg]
 Figure 1106.01.3: Multi-Unit Dwelling
       (1)    A Multi-Unit Dwelling may be designed as a stacked or multi-sided
@@ -46123,7 +46184,7 @@ Unit Dwelling where rear-entry parking is provided.
       (1)    A Nursing Home shall meet all local, county, state, and federal
 rules, regulations, and ordinances pertaining to the use.
    (p)    Zero Lot Line Development
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8229.jpg]
 Figure 1106.01.4: Zero Lot Line Development
          A.    The dwelling may be constructed with a zero side yard on one
@@ -46164,7 +46225,7 @@ signed and sealed by a registered engineering or design professional and they
 shall comply with the most recently adopted version of International
 Residential Code.
    (v)    Town home
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8246.jpg]
 Figure 1106.01.5: Townhomes
       (1)    No Town home row shall exceed eight (8) units.
@@ -46179,7 +46240,7 @@ where rear entry parking is provided.
       (1)    Transitional Housing shall meet all local, county, state, and
 federal rules, regulations, and ordinances pertaining to the use.
    (x)    Two-Unit Dwelling
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8264.jpg]
 Figure 1106.01.6: Two-Unit Dwelling
       (1)    A Two-Unit Dwelling may be designed as a stacked, side-by-side, or
@@ -46686,7 +46747,7 @@ principal dwelling.
 Dwelling Unit as the owner's permanent residence.
       (6)    An Accessory Dwelling Unit may be constructed in forms provided in
 Figure 1107.05.1: ADU Types.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8283.jpg]
 Figure 1107.05.1: ADU Types
       (7)    An Accessory Dwelling Unit must comply with the requirements
@@ -46694,9 +46755,9 @@ established in Table 1107.05.1: ADU Specifications.
 Table 1107.05.1: ADU Specifications
                                                    ADU Type Allowed [https://
                                                    export.amlegal.com/media/
-Principal Use on Lot                               4f626210a2b5a64fa74049214f88dfe0ee9c61fMin.   Max.
+Principal Use on Lot                               5eeabfc1b39bc3e134131af4d2d4d3578b09b4aMin.   Max.
 [https://export.amlegal.com/media/                 IMAGES/0-0-0-13808.bmp]                Lot    ADU
-4f626210a2b5a64fa74049214f88dfe0ee9c61ff/          Attached                               Size   Size
+5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/          Attached                               Size   Size
 IMAGES/0-0-0-13703.bmp]                            To        Above Detached Parking
                                           Detached Principal Structure
                                                    Dwelling
@@ -46751,14 +46812,14 @@ calculation of building height.
 building facade and shall be integrated into the structure as an architectural
 feature (see Figure 1107.05.2: Building Mounted Systems).
 Figure 1107.05.2: Building Mounted Systems
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8303.jpg]
          C.    Freestanding Systems
             i.    A freestanding system is prohibited in the front yard.
             ii.   The maximum height of a freestanding system is ten feet in
 residential districts (see Figure 1107.05.3: Freestanding Systems).
 Figure 1107.05.3: Freestanding Systems
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8324.jpg]
          D.    Co-Location
             i.    Solar panels may be co-located on existing structures such as
@@ -46776,13 +46837,13 @@ maximum height allowed in the district or 35 feet, whichever is less (see
 Figure 1107.05.4: Ground-Mounted Wind Turbine Specifications). A taller height
 may be allowed by a conditional use permit.
 Figure 1107.05.4: Ground-Mounted Wind Turbine Specifications
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8346.jpg]
             ii.   The maximum height of any wind turbine mounted upon a
 structure is 15 feet above the height of such structure (see Figure 1107.05.5:
 Structure-Mounted Wind Turbine Specifications).
 Figure 1107.05.5: Structure-Mounted Wind Turbine Specifications
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8369.jpg]
             iii.    Maximum height is the total height of the turbine system as
 measured from the base of the tower to the top. For vertical axis turbines, the
@@ -46845,7 +46906,7 @@ lot, on a lot that contains a vacant primary building, or on a lot that
 contains a primary building of which a majority of the building is vacant.
    (f)    Drive-Thru Facility
 Figure 1107.05.6: Drive-Thru Facility Standards
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8393.jpg]
       (1)    Any development providing a Drive-Thru Facility shall meet the
 requirements provided in Table 1107.05.2: Drive-Thru Facility Stacking
@@ -46996,7 +47057,7 @@ up lanes, or required loading and parking spaces;
          D.    So as to obstruct visibility or interfere with pedestrian or
 vehicle circulation.
 Figure 1107.05.7: Ground-Based Vertiports
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8418.jpg]
       (4)    The Vertiport is limited to 20% of the total lot area. This
 requirement does not apply to a Vertiport located on the roof of a building.
@@ -47014,7 +47075,7 @@ railing, or other appurtenance associated with the Vertiport is subject to the
 maximum height requirement of the district, except a single mast up to 10 feet
 in height for a windsock may exceed the maximum height requirement.
 Figure 1107.05.8: Rooftop Vertiport
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8444.jpg]
       (7)    A Vertiport shall not be located within 150 feet of a residential
 district.
@@ -47078,7 +47139,7 @@ category
 Comprehensive Plan Future Land
 Use Plan Category [https://
 export.amlegal.com/media/                                                           Mixed         Park
-4f626210a2b5a64fa74049214f88dfeRural/  fSuburban Traditional  Village Down- Com-    Use   Employ- and     Indus- Insti-
+5eeabfc1b39bc3e134131af4d2d4d35Rural/  fSuburban Traditional  Village Down- Com-    Use   Employ- and     Indus- Insti-
 IMAGES/0-0-0-8453.gif]         Agri-    Living   Neighborhood Center  town  mercial Low   ment    Recrea- trial  tutional
 Previous                       cultural Low High Low High             Core  Center  High  Center  tion           Campus
 District Applicable
@@ -47121,7 +47182,7 @@ Residential Districts
 1109.03   High Density Residential (R-HD) District.
  
 1109.01 AGRICULTURAL (R-AG) DISTRICT.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8479.jpg]
    (a)    Purpose. The Agriculture (R-AG) district preserves large tracts of
 undeveloped land for agricultural pursuits and provides open space or intended
@@ -47171,7 +47232,7 @@ Regulations Parking and Loading • CHAPTER
                                 1125 - Performance
                                 Standards
 1109.02 LOW DENSITY RESIDENTIAL (R-LD) DISTRICT.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8507.jpg]
    (a)    Purpose. The Low Density Residential (R-LD) district primarily
 accommodates low density residential development supported by parks, open
@@ -47219,7 +47280,7 @@ Loading                1122 - Urban Design
 1119 - Signs           1125 - Performance Standards
  
 1109.03 HIGH DENSITY RESIDENTIAL (R-HD) DISTRICT.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8536.jpg]
    (a)    Purpose. The High Density Residential (R-HD) district provides for
 medium-to-high density residential development with a diversified range of
@@ -47291,7 +47352,7 @@ Commercial Districts
 1110.04   Downtown (C-DT) District.
  
 1110.01 NEIGHBORHOOD COMMERCIAL (C-NC) DISTRICT.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8597.jpg]
    (a)    Purpose. The Neighborhood Commercial (C-NC) district provides
 pedestrian-oriented and neighborhood-scale development offering small-scale
@@ -47530,7 +47591,7 @@ Industrial Districts
 1111.02   Heavy Industrial (I-HI) District.
  
 1111.01 LIGHT INDUSTRIAL (I-LI) DISTRICT.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8629.jpg]
    (a)    Purpose. The Light Industrial (I-LI) district provides for an
 assortment of research facilities, employment parks, and low-intensity
@@ -47582,7 +47643,7 @@ Applicable Site Development Standards
                               1125 - Performance Standards
  
 1111.02 HEAVY INDUSTRIAL (I-HI) DISTRICT.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8662.jpg]
    (a)    Purpose. The Heavy Industrial (I-HI) district provides areas for
 manufacturing, processing, assembling, storing, testing, and industrial uses
@@ -47682,7 +47743,7 @@ Applicable Site Development Standards
                               1125 - Performance Standards
  
 1112.02 INSTITUTIONAL AND EDUCATIONAL (P-IE) DISTRICT.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8698.jpg]
    (a)    Purpose. The Institutional and Educational (P-IE) district provides
 appropriate areas for the development of educational, religious, and
@@ -48000,14 +48061,14 @@ yard in excess of the minimum required area.
          E.    This Zoning Code's required lots, yards, and setbacks are
 summarized in Figure 1115.03.1: Lots, Yards, and Setbacks Summary.
 Figure 1115.03.1: Lots, Yards, and Setbacks Summary
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8735.jpg]
       (2)    Front Yard Regulations
          A.    The front yard shall be open and unobstructed. Eaves and roof
 extensions or a porch may project into the required front yard for a distance
 not to exceed four feet (see Figure 1115.03.2: Front Yard Projection).
 Figure 1115.03.2: Front Yard Projection
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8771.jpg]
          B.    Where a building line has been established by an approved plat
 that deviates from the setback that is prescribed by this Zoning Code, the
@@ -48050,7 +48111,7 @@ an irregularly shaped lot as they are measured at different points on the lot.
          D.    Refer to Figure 1115.03.3: Lot Width Summary to clarify lot
 width measurements.
 Figure 1115.03.3: Lot Width Summary
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8808.jpg]
       (3)    Lot Depth. Lot depth is the distance measured from the front
 property line to the rear property line.
@@ -48085,7 +48146,7 @@ least one foot rise for each four feet of horizontal distance in the direction
 of the slope or pitch of the roof. A hipped roof is sloped in two pairs of
 directions compared to the one pair of direction for a gable roof.
 Figure 1115.03.4: Building Height Summary
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8846.jpg]
       (3)    Exempt Buildings from Maximum Height Requirements
          A.    Public and semipublic or public service buildings, when
@@ -48149,7 +48210,7 @@ extending the two alley lines from their point of intersection 10 feet along
 the alley lines, connecting these points with an imaginary line, creating a
 triangle (see label Din Figure 1115.03.5: Sight Visibility Triangles).
 Figure 1115.03.5: Sight Visibility Triangles
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8885.jpg]
 CHAPTER 1116
 Parking and Loading
@@ -48319,7 +48380,7 @@ the building in which it is attached. Figure 1116.06.1: Nonresidential Rear
 Parking shows examples of rear surface parking (left graphic) and garage
 parking (right graphic).
 Figure 1116.06.1: Nonresidential Rear Parking
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-8966.jpg]
    (c)    Configuration
       (1)    Nonresidential Development Parking
@@ -48401,25 +48462,25 @@ Style
             ∙  In no case shall the garage be the front-most protrusion of the front facade
             of the house
             ∙  The garage may be flush with the front facade of teh house or a covered    [https://export.amlegal.com/media/
-Flush       front porch                                                                     4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+Flush       front porch                                                                     5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
             ∙  The total width of the garage door (including any center column between twoIMAGES/0-0-0-9046.bmp]
             garage doors) shall not exceed more than 55% of the width of the facade in
             which the garage is placed
             ∙  A single garage door shall not exceed 16 ft in width. If two garage doors
             are proposed, each garage door shall not exceed 8 ft in width
             ∙  Garage doors are oriented toward the street                                [https://export.amlegal.com/media/
-Recessed    ∙  Garage doors must be positioned at least 20 ft behind the front wall plane 4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+Recessed    ∙  Garage doors must be positioned at least 20 ft behind the front wall plane 5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
             of the house                                                                    IMAGES/0-0-0-9127.bmp]
             ∙  There is no restriction on garage door width
             ∙  Garage doors are oriented perpendicular to the front wall plane            [https://export.amlegal.com/media/
-Side-Loaded ∙  Any wall of the garage must be located at least 3 ft behind the front wall 4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+Side-Loaded ∙  Any wall of the garage must be located at least 3 ft behind the front wall 5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
             plane of the house                                                              IMAGES/0-0-0-9209.bmp]
 Detached                                                                                    [https://export.amlegal.com/media/
-Residential ∙  Garage is placed entirely to the rear of the house                         4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+Residential ∙  Garage is placed entirely to the rear of the house                         5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 Garage                                                                                      IMAGES/0-0-0-9292.bmp]
             ∙  Garage is placed entirely to the rear of the house and is alley-accessed
             ∙ Garage doors must face the alley                                            [https://export.amlegal.com/media/
-Rear/Alley- ∙  The garage must either be located 4 ft from the alley right-of-way or be a 4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+Rear/Alley- ∙  The garage must either be located 4 ft from the alley right-of-way or be a 5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 Loaded      minimum of 20 ft from the alley right-of-way                                    IMAGES/0-0-0-9376.bmp]
             ∙  Where parking spaces are located between the garage and the alley, the
             garage must be located at least 20 ft from teh alley right-of-way
@@ -48444,7 +48505,7 @@ Driveways).
 driveway to beyond the front wall of the principal dwelling. Connector
 driveways must comply with driveway width requirements.
 Figure 1116. 06.2: Conne ctors and Circul ar Drive ways
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9417.jpg]
             c.    Driveways and parking spaces can be provided as a two-track
 "Hollywood" design with a width of 18 inches per wheel track. Tire base of
@@ -48512,7 +48573,7 @@ Arterial                              200 ft   150 ft    100 ft
 Collector                             150 ft   100 ft    50 ft
 Local                                 100 ft   50 ft     50 ft
 Table 1116.06.3: Driveway-Street Spacing Graphic
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9459.jpg]
             i.    If the required distance cannot be met due to lot size or
 other constraint as verified by the City Engineer, the driveway shall be
@@ -48529,7 +48590,7 @@ or more abutting lots that front a street except for one-, two-, three-, and
 four-unit dwelling developments as depicted in Figure 1116.06.4: Cross Access,
 subject to the following standards.
 Figure 1116.06.4: Cross Access
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9502.jpg]
             ii.    Cross access may be provided at the front or at the back of
 a group of lots, depending on the anticipated amount of pedestrian activity for
@@ -48861,7 +48922,7 @@ construction drawings and be approved by the City Engineer.
             vii.    Figure 1117.04.1: Parking Lot Landscaping summarizes the
 requirements provided below of this Subsection.
 Figure 1117.04.1: Parking Lot Landscaping
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9546.jpg]
          C.    Perimeter Islands
             i.    A landscape perimeter island shall be provided along primary
@@ -49025,7 +49086,7 @@ any site lighting fixture after installation upon finding that the lighting, as
 installed, does not comply with these standards.
    (b)    Lighting Design
 Figure 1118.03.1: Acceptable Light Fixtures
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9591.jpg]
       (1)    All site lighting shall meet the functional security needs of the
 proposed land use without adversely affecting surrounding properties and the
@@ -49206,7 +49267,7 @@ provided in Section
 unless specified otherwise (see Figure 1119.04.1: Sign Vertical Clearance).
    
 Figure 1119.04.1: Sign Vertical Clearance
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9637.jpg]
       (12)    Wherever a development is under one ownership or operated as a
 unit with a single development, signs shall be relatively consistent and
@@ -49267,7 +49328,7 @@ tables in Sections
 1119.08 . Figure 1119.05.1: Changeable Copy Examples shows examples of signs
 that incorporate changeable copies.
 Figure 1119.05.1: Changeable Copy Examples
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9684.jpg]
       (2)    Standards. Changeable copies may be illuminated if the dimensions
 and standards allow illumination for the sign type in that zoning district.
@@ -49280,7 +49341,7 @@ Sections
       (2)    Figure 1119.05.2: Illumination Examples shows examples of signs
 that incorporate illumination.
 Figure 1119.05.2: Illumination Examples
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9732.jpg]
       (3)    All types of artificial light sources used to illuminate a sign
 face which are not shaded or concealed so that the light will not interfere
@@ -49338,7 +49399,7 @@ Notes           *= (55.74 in inclement weather, such as fog, rain, or snow)
 1119.05.3: Digital Dynamic Displays shows examples of signs that incorporate
 digital dynamic displays.
 Figure 1119.05.3: Digital Dynamic Displays
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9781.jpg]
       (1)    Digital Dynamic Display Sign (Single Color). A digital dynamic
 display (single color) sign shall operate with the following standards:
@@ -49597,7 +49658,7 @@ sign, but not multiple unless specified elsewhere in this Subsection.
       (1)    Monument Signs
          A.    Generally. The required standards for monument signs shall
 comply with Table 1119.07.1: Monument Sign Standards.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9831.jpg]
 Table 1119.07.1: Monument Sign Standards
                           Y= sign allowed
@@ -49643,7 +49704,7 @@ sign area allowance.
       (2)    Pole Signs
          A.    Generally. The required standards for pole signs shall comply
 with Table 1119.07.2: Pole Sign Standards.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9882.jpg]
 Table 1119.07.2: Pole Sign Standards
              Y= sign allowed
@@ -49709,7 +49770,7 @@ unless specified elsewhere in this Subsection.
       (1)    Wall Signs
          A.    Generally. The required standards for wall signs shall comply
 with Table 1119.07.3: Wall Sign Standards.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9934.jpg]
 Table 1119.07.3: Wall Sign Standards
                       Y= sign allowed
@@ -49739,7 +49800,7 @@ Multi-Color Digital   X         C
       (2)    Attached Awning/Canopy Signs
          A.    Generally. The required standards for attached awning/canopy
 signs shall comply with Table 1119.07.4: Attached Awning/Canopy Sign Standards.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-9987.jpg]
 Table 1119.07.4: Attached Awning/Canopy Sign Standards
                       Y= sign allowed
@@ -49772,7 +49833,7 @@ Multi-Color Digital   X         C
       (3)   Projecting Signs
          A.   Generally.  The required standards for projecting signs shall
 comply with Table 1119.07.5: Projecting Sign Standard.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10041.jpg]
 Table 1119.07.5: Projecting sign Standards
                       Y= sign allowed
@@ -49804,7 +49865,7 @@ Multi-Color Digital   X        X        C        C        C
       (4)    Hanging Signs
          A.    Generally. The required standards for hanging signs shall comply
 with Table 1119.07.6: Hanging Sign Standards.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10096.jpg]
 Table 1119.07.6: Hanging Sign Standards
                       Y= sign allowed
@@ -49836,7 +49897,7 @@ Multi-Color Digital   X        X        X        X        X
       (5)    Window Signs
          A.    Generally. The required standards for window signs shall comply
 with Table 1119.07.7: Window Sign Standards.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10152.jpg]
 Table 1119.07.7: Window Sign Standards
              Y= sign allowed
@@ -49875,7 +49936,7 @@ Digital
       (6)    Freestanding Canopy Signs
          A.    Generally. The required standards for freestanding canopy signs
 shall comply with Table 1119.07.8: Freestanding Canopy Sign Standards.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10209.jpg]
 Table 1119.07.8: Freestanding Canopy Sign Standards
                         Y= sign allowed
@@ -49919,7 +49980,7 @@ this Subsection.
       (1)    General Incidental Signs
          A.    Generally. The required standards for incidental signs shall
 comply with Table 1119.07.9: General Incidental Sign Standards.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10267.jpg]
 Table 1119.07.9: General Incidental Standards
                       Y= sign allowed
@@ -50047,7 +50108,7 @@ like organization, as a "Scenic Byway."
    (b)    Billboards
       (1)    Generally. The required standards for billboards shall comply with
 Table 1119.08.1: Billboard Standards.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10326.jpg]
 Table 1119.08.1: Billboard Standards
                           Y= sign allowed
@@ -50163,7 +50224,7 @@ a dangerous distraction or obstruction for pedestrians and motorists.
    (d)    Subdivision Entry Sign
       (1)    Generally. The required standards for subdivision entry signs
 shall comply with Table 1119.08.2: Subdivision Entry Sign Standards.
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10386.jpg]
 Table 1119.08.2: Subdivision Entry Sign Standards
                           Y= sign allowed
@@ -50364,7 +50425,7 @@ E           practices and               Loading Areas  A, B, C, D, E 8 ft 10 ft
       (3)    Figure 1120.03.1: Examples of Screening Types shows examples of
 some of the screening types.
 Figure 1120.03.1: Examples of Screening Types
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10447.jpg]
    (b)    Screening Specifications
       (1)    Generally
@@ -50414,14 +50475,14 @@ residential lot, use, or district to the nonresidential use to a height not
 less than six feet (see the blue dashed line in Figure 1120.03.2: Required
 Screening Abutting a Residential Lot/Use).
 Figure 1120.03.2: Required Screening Abutting a Residential Lot/Use
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10532.bmp]
          E.    Where an apartment development abuts a residential use or
 district, the side and rear property lines of that apartment development shall
 be screened from view of adjacent dwelling(s) (see the blue dashed line in
 Figure 1120.03.3: Required Apartment Screening Abutting a Residential Lot/Use).
 Figure 1120.03.3: Required Apartment Screening Abutting a Residential Lot/Use
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10618.bmp]
          F.    Screening requirements are not required for educational
 institutions, active and passive park/recreational facilities, or religious
@@ -50476,7 +50537,7 @@ lot lines, fences may be constructed not to exceed six feet in height along the
 side and rear lot lines, as indicated in Figure 1120.04.1: 6-Foot Fence Height
 Limit.
 Figure 1120.04.1: 6-Foot Fence Height Limit
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10680.jpg]
       (2)    On all residential district comer lots where the rear lot line is
 opposed to a side lot line across an alley from that side lot line, no fence
@@ -50485,7 +50546,7 @@ yard that is next to the street at a distance from the side building line
 greater than the minimum side yard requirement, as indicated in Figure
 1120.04.2: Fence Near Alley.
 Figure 1120.04.2: Fence Near Alley
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10743.jpg]
    (c)    Design Requirements
       (1)    The minimum fence height is six feet from natural grade with a
@@ -50610,7 +50671,7 @@ monotonous expanses of undifferentiated building mass; and
 street level, where it is within view of the pedestrians on the sidewalk.
       (4)    General Requirements
 Figure 1122.03.1: Blank Wall Area Summary
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-10807.jpg]
          A.    The blank wall area standard applies to any portion of an
 exterior facade.
@@ -50646,17 +50707,17 @@ Vertical Expression Elements
 Vertical Expression Line: A vertical expression line created by molding.
 Reuirements
 ∙  A vertical expression line with a minimum size of at least 4 inches in depth[https://export.amlegal.com/media/
-and 1 ft in width                                                                4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+and 1 ft in width                                                                5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ∙  The vertical expression line must occur at a minimum interval of every 60 ftIMAGES/0-0-0-10894.bmp]
 across the building frontage and shall reflect historic facade widths
 Wall Notch: A front façade setback providing vertical articulation to a building façade
 Reuirements                                                                      [https://export.amlegal.com/media/
-∙  Each wall notch must provide a front facade setback of a minimum depth of 4 4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+∙  Each wall notch must provide a front facade setback of a minimum depth of 4 5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ft and length of 8 ft                                                            IMAGES/0-0-0-10982.bmp]
 ∙  Wall notches shall be spaced to reflect historic facade width
 Wall Offset: An offset in façade wall into different modules
 Reuirements                                                                      [https://export.amlegal.com/media/
-∙  Facade module must have a minimum 10 ft offset from an adjacent module      4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+∙  Facade module must have a minimum 10 ft offset from an adjacent module      5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ∙  The wall offset shall be located such that it relates to historic facade    IMAGES/0-0-0-11071.bmp]
 widths
 Horizontal Expression Elements
@@ -50664,7 +50725,7 @@ Horizontal Expression Line: A horizontal expression line created by molding
 Reuirements
 ∙  A horizontal expression line must be a minimum of 4 inches in depth and 1 ft
 in height                                                                        [https://export.amlegal.com/media/
-∙  Incorporate horizontal expression lines at heights that align with          4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+∙  Incorporate horizontal expression lines at heights that align with          5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 traditional elements of historic buildings such as awnings, transoms, and        IMAGES/0-0-0-11161.bmp]
 cornices
 ∙  The maximum length of a horizontal expression line can run without changing
@@ -50672,7 +50733,7 @@ height is 120 ft
 Cornice: A cornice detail providing a horizontal articulation
 Reuirements
 ∙  The cornice detail must be at least 18 inches in height                     [https://export.amlegal.com/media/
-∙ The cornice detail must be at least 6 inches deep                            4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+∙ The cornice detail must be at least 6 inches deep                            5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ∙  The cornice detail must extend the entire width of the facade               IMAGES/0-0-0-11252.bmp]
 ∙  The cornice detail shall vary in height at widths that reflect historic
 facade modules
@@ -50681,7 +50742,7 @@ Reuirements
 ∙  The parapet offset shall be a minimum of 2 ft in height from the adjacent
 parapet
 ∙ The parapet offset shall occur at a minimum interval of every 60 ft across th[https://export.amlegal.com/media/
-building frontage, and shall reflect historic precedent                          4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+building frontage, and shall reflect historic precedent                          5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ∙ On the sections of the building that incorporate this horizontal expression  IMAGES/0-0-0-11344.bmp]
 element, the awning/canopy height shall also be raised a minimum of 2 ft in
 height from the adjacent awning/canopy heights to reflect the change in this
@@ -50690,7 +50751,7 @@ Awning/Canopy: A wall mounted, cantilevered structure providing shade and cover 
 weather for a sidewalk
 Reuirements
 ∙  An awning/canopy must be a minimum of 7 ft clear height above the sidewalk  [https://export.amlegal.com/media/
-and must have a minimum depth of 5 ft                                            4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+and must have a minimum depth of 5 ft                                            5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ∙  An awning/canopy may extend into a primary or side street setback           IMAGES/0-0-0-11437.bmp]
 ∙ An awning/canopy may encroach up to 6 ft into the public right-of-way but must
 be at least 2 ft inside the curb line or edge of pavement, whichever is greater
@@ -50716,7 +50777,7 @@ Reuirements
 posts)
 ∙  A front porch shall have a minimum of 50 square feet
 ∙  Front porch posts which flank the front door, entry, or access point to the [https://export.amlegal.com/media/
-unit shall be separated a minimum of 5 ft                                        4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+unit shall be separated a minimum of 5 ft                                        5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ∙  A front porch must be contiguous with a width not less than 45% of the      IMAGES/0-0-0-11531.bmp]
 building facade
 ∙ A front porch must be roofed and may be screened but cannot be fully enclosed
@@ -50728,7 +50789,7 @@ provide privacy for the windows
 Reuirements
 ∙  A stoop must be no more than 6 ft deep (not including the steps) and 6 ft
 wide                                                                             [https://export.amlegal.com/media/
-∙ A stoop may be covered but cannot be fully enclosed                          4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+∙ A stoop may be covered but cannot be fully enclosed                          5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ∙ A stoop may extend up to 6 ft, including the steops, into a required setback,IMAGES/0-0-0-11626.bmp]
 provided that such extension is at least 2 ft from the vertical plane of any lot
 line
@@ -50737,7 +50798,7 @@ Balcony: A platform projecting from the wall of an upper-story of a building wit
 along its outer edge, often with access from a door or window
 Reuirements
 ∙  A balcony may be covered but cannot be fully enclosed                       [https://export.amlegal.com/media/
-∙ A balcony must have a clear height above the sidewalk of at least 9 ft       4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+∙ A balcony must have a clear height above the sidewalk of at least 9 ft       5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ∙ A balcony may extend into a primary or side street setback                   IMAGES/0-0-0-11722.bmp]
 ∙ A balcony may encroach up to 2 ft into the public right-of-way
 Forecourt: An open area at grade, or within 30 inches of grade, that serves as an open space, plaza or outdoor dining
@@ -50748,7 +50809,7 @@ Reuirements
 ∙  A forecourt must be no more than one-third of the length of the building
 face, and in no case longer than 50 ft in width
 ∙ A forecourt must be no less than 10 ft in depth                              [https://export.amlegal.com/media/
-∙ The depth of the forecourt should not exceed the general width               4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+∙ The depth of the forecourt should not exceed the general width               5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ∙ A maximum of one forecourt is permitted per lot                              IMAGES/0-0-0-11819.bmp]
 ∙ A forecourt meeting the above requirements is considered part of the building
 ∙ The forecourt shall include a landscaping feature (such as planters) and
@@ -50758,7 +50819,7 @@ columns that is open on 3 sides
 Reuirements
 ∙  A gallery must have a clear depth from the support columns to the building's
 facade of at least 8 ft and a clear height above the sidewalk of at least 9 ft   [https://export.amlegal.com/media/
-∙ A gallery must be contiguous and extend over at least 75% of the width of the4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+∙ A gallery must be contiguous and extend over at least 75% of the width of the5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 building facade                                                                  IMAGES/0-0-0-11917.bmp]
 ∙ A gallery may extend into a primary or side street setback
 ∙ A gallery may encroach up 9 ft into the public right-of-way but must be at
@@ -50767,7 +50828,7 @@ Awning/Canopy: A wall mounted, cantilevered structure providing shade and cover 
 weather for a sidewalk
 Reuirements
 ∙  An awning/canopy must be a minimum of 7 ft clear height above the sidewalk  [https://export.amlegal.com/media/
-and must have a minimum depth of 5 ft                                            4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+and must have a minimum depth of 5 ft                                            5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ∙ An awning/canopy may extend into a primary or side street setback            IMAGES/0-0-0-12016.bmp]
 ∙ An awning/canopy may encroach up to 6 ft into the public right-of-way but must
 be at least 2 ft inside the curb line or edge of pavement, whichever is greater
@@ -50778,7 +50839,7 @@ space.
 Reuirements
 ∙  The rooftop deck must be enclosed by a railing or partial wall. The railing
 of a rooftop deck must be set back from the street-facing walls of the floor     [https://export.amlegal.com/media/
-beneath it by a minimum of 4 ft                                                  4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+beneath it by a minimum of 4 ft                                                  5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 ∙ A rooftop garden must be set back from the building frontage at least 10 ft, IMAGES/0-0-0-12116.bmp]
 and a green roof must be set back from the building frontage at least 5 ft and
 have a low profile so as not to be seen from the public realm
@@ -50789,7 +50850,7 @@ occupants and minimize blank wall areas. These requirements aim to ensure sight
 lines from the sidewalk to the goods and services provided inside the property.
       (2)    General Requirements
 Figure 1122.03.2: Transparency Summary
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-12181.jpg]
          A.    The minimum percentage of windows and doors that must cover a
 ground story facade is measured between 0 and 12 feet above the adjacent
@@ -50877,7 +50938,7 @@ assessing the as-built setbacks on the block face (see Figure 1123.03.1: Infill
 Development Setback Range), or the applicable zoning district's requirement,
 whichever is least restrictive for redevelopment.
 Figure 1123.03.1: Infill Development Setback Range
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-12247.jpg]
       (2)    Infill development may be placed anywhere between the smallest and
 largest front setbacks on the block face (see Figure 1123.03.1: Infill
@@ -50900,7 +50961,7 @@ assessing the as built building heights on the block face (see Figure
 1123.03.2: Infill Development Building Height), or the applicable zoning
 district's requirement, whichever is least restrictive for redevelopment.
 Figure 1123.03.2: Infill Development Building Height
-[https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+[https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 IMAGES/0-0-0-12314.jpg]
       (2)    The building height for infill development may be placed anywhere
 between the shortest and tallest building height on the block face (see Figure
@@ -51662,7 +51723,7 @@ contained within this Zoning Code or a change to the Zoning Map (rezoning).
       (1)    City Commission on its own motion;
       (2)    Planning Board recommendation;
       (3)    Community Development Department; or                                 [https://export.amlegal.com/media/
-      (4)    On petition by a resident or their authorized agent.                 4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+      (4)    On petition by a resident or their authorized agent.                 5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
                                                                                           IMAGES/0-0-0-12382.jpg]
    (c)    Completeness
       (1)    Generally, refer to Section
@@ -51747,7 +51808,7 @@ Figure 1128.02.1: PD Zoning/Rezoning Flowchart
 single, cohesive area to be developed as a unit, either at one time or in phases. No
 PD district may surround an island of land not included as part of the PD district.
          B.    No PD district shall be established unless all owners of f[https://export.amlegal.com/media/
-estates in the lands included within the proposed PD district have given their       4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+estates in the lands included within the proposed PD district have given their       5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 consent, in writing, to the establishment of the proposed PD district and to their   IMAGES/0-0-0-12451.jpg]
 lands being made subject to the PD Ordinance to be adopted by the City Commission
 and to the terms of the Master Development Plan related thereto and unless all such
@@ -52172,7 +52233,7 @@ issued for the construction of a building or structure until a zoning certificat
 been issued by the Community Development Director.
       (2)    Failure to obtain a zoning certificate is a Zoning Code violation.
                                                                                       [https://export.amlegal.com/media/
-   (b)    Initiation. The applicant shall submit a zoning certificate application t4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+   (b)    Initiation. The applicant shall submit a zoning certificate application t5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 Community Development Director once all required permits and applications are approved.  IMAGES/0-0-0-12521.jpg]
  
    (c)    Completeness
@@ -52259,7 +52320,7 @@ Figure 1129.02.1: Conditional Use Permit Flowchart
 nonconforming use; or
       (3)    Any other unique development activity requiring action by the Board of
 Zoning Appeals during initial review as determined by the Community Development         [https://export.amlegal.com/media/
-Director.                                                                               4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+Director.                                                                               5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
                                                                                        IMAGES/0-0-0-12592.jpg]
    (b)    Initiation. A conditional use permit may be initiated by the owner or
 applicant of the subject property.
@@ -52465,7 +52526,7 @@ Figure 1129.03.1: Site Plan Flowchart
    (a)    Applicability
       (1)    Generally. Site plan approval is required for all development except one unit
 dwellings, two-unit dwellings, three-unit dwellings, four-unit dwellings, and for all      [https://export.amlegal.com/media/
-instances that meet the following thresholds:                                              4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+instances that meet the following thresholds:                                              5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
          A.    New construction or expansion of an existing building or structuIMAGES/0-0-0-12664.jpg]
 increases the existing floor area by 35%; or
          B.    New construction or expansion of parking lots that increase the existing
@@ -52713,7 +52774,7 @@ lot permit.
  
    (b)    Initiation. A parking lot permit shall be initiated by the owner or
 applicant of the subject property.                                                    [https://export.amlegal.com/media/
-                                                                                     4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+                                                                                     5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
    (c)    Completeness.                                                         IMAGES/0-0-0-12737.jpg]
       (1)    Generally, refer to Section
 1127.02.
@@ -52794,7 +52855,7 @@ Figure 1129.05.1: Certificate of Appropriateness Flowchart
 restoration, rehabilitation, installation, or relocation of any portion of or any
 exterior feature of any contributing property in a designated historic district, or of
 any landmark or heritage property, or of any state or federally designated historic    [https://export.amlegal.com/media/
-resource; or                                                                           4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+resource; or                                                                           5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
       (2)    Construct or install any new structure within a designated historIMAGES/0-0-0-12811.jpg]
 district or in a designated historic landmark or heritage property, or in any state or
 federally designated historic resource, until after an application for a certificate
@@ -52926,7 +52987,7 @@ City unless and until a communication facility/tower permit shall have been issu
 authorizing such construction unless the City Manager or designee has issued a
 written determination that the proposed Wireless Telecommunications Facility has no
 appreciable impact.                                                                   [https://export.amlegal.com/media/
-      (2)    Any wireless communication facility lawfully constructed within 4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+      (2)    Any wireless communication facility lawfully constructed within 5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 prior to the adoption of this Zoning Code, is a nonconforming use, unless and until a IMAGES/0-0-0-12886.jpg]
 communication facility/tower permit shall have been issued with respect to such
 wireless communication facility.
@@ -53279,7 +53340,7 @@ Figure 1129.07.1: Home Occupation Permit Flowchart
 applicant of the subject property.
  
    (c)    Completeness. Refer to Section                                       [https://export.amlegal.com/media/
-1127.02.                                                                             4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+1127.02.                                                                             5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
                                                                                     IMAGES/0-0-0-12962.jpg]
    (d)    Notice and Hearing(s). Not applicable.
  
@@ -53324,7 +53385,7 @@ Figure 1130.01.1: Alternative Compliance Flowchart
  
    (a)    Applicability Alternative Compliance
       (1)    This Section establishes provisions for alternative compliance associated
-with the review and approval of a development plan, including improvements to existing     [https://export.amlegal.com/media/4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+with the review and approval of a development plan, including improvements to existing     [https://export.amlegal.com/media/5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
 structures or site features.                                                              IMAGES/0-0-0-13118_9075x6480.jpg]
       (2)    The purpose of alternative compliance is to ensure that:
          A.    A proposed development complies with the purpose and intent of this Zoning
@@ -53422,7 +53483,7 @@ of the regulations of this Zoning Code in order to enable them to make reasonabl
 of their property.
       
    (b)    Initiation. An application for a variance shall be submitted to the    [https://export.amlegal.com/media/
-Community Development Director by the applicant.                                       4f626210a2b5a64fa74049214f88dfe0ee9c61ff/
+Community Development Director by the applicant.                                       5eeabfc1b39bc3e134131af4d2d4d3578b09b4af/
                                                                                       IMAGES/0-0-0-13197.jpg]
    (c)    Completeness. Generally, refer to Section
 1127.02.

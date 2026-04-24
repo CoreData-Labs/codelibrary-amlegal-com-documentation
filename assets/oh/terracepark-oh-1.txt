@@ -1071,13 +1071,13 @@ Other Officials
 31.51   Urban Forester
    
 31.52   Secretary, Custodian and Clerk of Mayor's Court
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 EXECUTIVE POWER; WHERE VESTED.
    The executive power and authority of the municipality shall be vested in the
 Mayor, Clerk, Treasurer, Police Chief, Street Commissioner, and such other
 officers and departments as are created by law.
 (R.C. § 733.23)
-MAYOR
+**** MAYOR ****
 § 31.10 TERM OF MAYOR; POWERS AND DUTIES.
    The Mayor shall be elected for a term of four years commencing on the first
 day of January next after his or her election. He or she shall be an elector of
@@ -1153,7 +1153,7 @@ following the date of such election, an election to fill such unexpired term
 shall not be held and the President of the Legislative Authority shall hold the
 office for such unexpired term.
 (R.C. § 733.25)
-CLERK
+**** CLERK ****
 § 31.20 ELECTION, TERM, QUALIFICATIONS OF THE CLERK.
    The Clerk shall be elected for a term of four years, commencing on April 1
 next after his or her election. He or she shall be an elector of the
@@ -1196,7 +1196,7 @@ of which shall be the name of the municipality, and around the margin “Village
 Clerk,” an impression of which seal shall be affixed to all transcripts,
 orders, certificates, or other papers requiring authentication.
 (R.C. § 733.29)
-FISCAL OFFICER
+**** FISCAL OFFICER ****
 § 31.25 CREATION OF POSITION.
    Council hereby creates the position of Fiscal Officer. Fiscal Officer shall
 be appointed by the Mayor of the Village of Terrace Park, but that appointment
@@ -1225,7 +1225,7 @@ appointed under this section shall perform the duties as directed by the
 Village Fiscal Officer. All such duties shall be consistent with the nature of
 the office of Fiscal Officer and which are provided for by Municipal Ordinance.
 (Ord. 10-2-2004, passed 10-12-04)
-TREASURER
+**** TREASURER ****
 § 31.30 ELECTION, TERM, QUALIFICATIONS OF THE TREASURER.
    The Treasurer shall be elected for a term of four years, commencing on
 January 1 next after his or her election. He or she shall be an elector of the
@@ -1316,7 +1316,7 @@ funds when the officer has performed all official duties required of the
 officer with reasonable care, but shall be liable only when a loss of public
 funds results from the officer’s negligence or other wrongful act.
 (R.C. § 733.82)
-VILLAGE ADMINISTRATOR
+**** VILLAGE ADMINISTRATOR ****
 § 31.40 VILLAGE ADMINISTRATOR.
    There is hereby established the position of Village Administrator. The
 Administrator shall be appointed by the Mayor, but shall not take office unless
@@ -1356,7 +1356,7 @@ Village Administrator shall perform all duties and shall have all powers of
 boards of public affairs and street commissioners as prescribed by law, except
 as otherwise provided by this section and in R.C. §§ 735.271 and 735.272.
 (Ord. 7-1-2017, Passed 8-8-17)
-OTHER OFFICIALS
+**** OTHER OFFICIALS ****
 § 31.50 LEGAL COUNSEL.
    (A)   Except as provided in division (B) of this section, when it considers
 it necessary, the Legislative Authority may provide legal counsel for the
@@ -1499,7 +1499,7 @@ regulations, see O.A.C. Chapter 117-5
    Ordinances and resolutions, adoption and publication, see R.C. §§~ 731.17
 through 731.27
    Purchase orders, requirements, see O.A.C. § 117-5-13
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01 MEMBERS OF THE LEGISLATIVE AUTHORITY; ELECTION; TERMS OF OFFICE.
    (A)   Except as otherwise provided in division (B) or (C) of this section,
 the legislative power of each municipality shall be vested in, and exercised
@@ -1873,7 +1873,7 @@ of three-fourths of all members elected to Council.
 shall be used to cover all points of parliamentary procedure not covered by the
 foregoing rules of procedure.
 (`76 Code, § 121.01) (Ord. 17-1960, passed 9-13-60)
-CONTRACTS, BIDS AND PROCEEDINGS
+**** CONTRACTS, BIDS AND PROCEEDINGS ****
 § 32.25 CONTRACTS BY THE LEGISLATIVE AUTHORITY.
    (A)   All contracts made by the Legislative Authority shall be executed in
 the name of the municipality and signed on its behalf by the Mayor and Clerk.
@@ -2016,7 +2016,7 @@ Statutory reference:
    Notification to Registrar of Motor Vehicles regarding arrest warrants;
 effect on certificates of registration and driver's licenses, see R.C. §§
 4503.13 and 4507.091
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.01 JURISDICTION IN ORDINANCE CASES AND TRAFFIC VIOLATIONS.
    (A)   In all municipalities having a population of more than 200 not being
 the site of a municipal court nor a place where a judge sits pursuant to R.C. §
@@ -2305,7 +2305,7 @@ driver’s license was suspended under this section.
 Cross-reference:
    Driving while intoxicated or drugged, see §
 73.01
-CONTEMPT OF COURT
+**** CONTEMPT OF COURT ****
 § 33.20 SUMMARY PUNISHMENT FOR CONTEMPT.
    The Mayor or the Mayor's Court Magistrate, in the absence of the Mayor, may
 summarily punish a person guilty of misbehavior in the presence of or so near
@@ -3886,7 +3886,7 @@ Statutory reference:
    Traffic law photo-monitoring devices, state regulations, see R.C. §§
 4511.092 et seq.
    Uniform application and precedence of state traffic laws, see R.C. § 4511.06
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    Except as otherwise provided, the definitions set forth in R.C. § 4501.01
 shall apply to this Title, Chapter 95, and the penal laws of the municipality.
@@ -4641,7 +4641,7 @@ the municipal corporation.
 post a notice at the entrance to the storage facility that states the
 limitation on fees established under division (F) of this section.
 (R.C. § 4513.68)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.20 OBEYING TRAFFIC-CONTROL DEVICES.
    (A)   (1)   No pedestrian or driver of a vehicle shall disobey the
 instructions of any traffic-control device placed in accordance with the
@@ -5264,7 +5264,7 @@ as agents of Registrar of Motor Vehicles; procedures and rules, see R.C. §§
    Suspension and revocation of driver's licenses, see R.C. Chapter 4510
    Suspension of driver's licenses; municipal power to suspend for a period not
 to exceed time permitted or required by state law, see R.C. § 4510.05
-MOTOR VEHICLE LICENSING
+**** MOTOR VEHICLE LICENSING ****
 § 71.01 DISPLAY OF LICENSE PLATES OR VALIDATION STICKERS; REGISTRATION.
    (A)   (1)   No person who is the owner or operator of a motor vehicle shall
 fail to display in plain view on the rear of the motor vehicle a license plate
@@ -5464,7 +5464,7 @@ public roads within the village.
    (B)   All revenues derived from the tax shall be deposited, pending use, in
 the Motor Vehicle License Tax Fund of the village.
 (Ord. 6-3-1991, passed 7-9-91)
-DRIVER’S LICENSES
+**** DRIVER’S LICENSES ****
 § 71.10 PROHIBITED ACTS.
    (A)   No person shall do any of the following:
       (1)   Display or cause or permit to be displayed, or possess any
@@ -6469,7 +6469,7 @@ permit or driver’s or commercial driver’s license, or in violation of a
 restriction because of a substantial emergency, and because no other person was
 reasonably available to drive in response to the emergency.
 (R.C. § 4510.04)
-COMMERCIAL DRIVER’S LICENSES
+**** COMMERCIAL DRIVER’S LICENSES ****
 § 71.25 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7202,7 +7202,7 @@ School Buses
 Statutory reference:
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
    Standards for school buses, see O.A.C. Chapter 4501-5
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.01 LANES OF TRAVEL UPON ROADWAYS.
    (A)   Upon all roadways of sufficient width, a vehicle shall be driven upon
 the right half of the roadway, except as follows:
@@ -7702,7 +7702,7 @@ the offender is subject to the additional fine established under §
 the operator of any vehicle shall not overtake or pass another vehicle
 proceeding in the same direction.
 (Ord. 8-1958, passed 2-11-58)
-RIGHT-OF-WAY
+**** RIGHT-OF-WAY ****
 § 72.20 RIGHT-OF-WAY AT INTERSECTIONS.
    (A)   When two vehicles approach or enter an intersection from different
 streets or highways at approximately the same time, the driver of the vehicle
@@ -8076,7 +8076,7 @@ offense, the offender previously has been convicted of two or more predicate
 motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 (R.C. § 4511.48) (`96 Traffic Code, § 371.03)
-PEDESTRIANS
+**** PEDESTRIANS ****
 § 72.35 PEDESTRIAN MOVEMENT IN CROSSWALKS.
    (A)   Pedestrians shall move, whenever practicable, upon the right half of
 crosswalks.
@@ -8433,7 +8433,7 @@ commercial general liability insurance related to the operation of the devices,
 with limits of up to $1,000,000 per occurrence and $2,000,000 per aggregate.
 (R.C. § 4511.514) Penalty, see §
 70.99
-GRADE CROSSINGS
+**** GRADE CROSSINGS ****
 § 72.45 STOP SIGNS AT GRADE CROSSINGS.
    (A)   As used in this section, ACTIVE GRADE CROSSING WARNING DEVICE means
 signs, signals, gates, or other protective devices erected or installed at a
@@ -8572,7 +8572,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.64)
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 72.55 OBSTRUCTION AND INTERFERENCE AFFECTING VIEW AND CONTROL OF DRIVER.
    (A)   No person shall drive a vehicle when it is so loaded, or when there
 are in the front seat such number of persons, as to obstruct the view of the
@@ -9469,7 +9469,7 @@ includes any of the following:
       (5)   Any other substantially similar electronic wireless device that is
 designed or used to communicate via voice, image, or written word.
 (R.C. § 4511.205)
-SCHOOL BUSES
+**** SCHOOL BUSES ****
 § 72.80 REGULATIONS CONCERNING SCHOOL BUSES.
    (A)   The driver of a vehicle, upon meeting or overtaking from either
 direction any school bus stopped for the purpose of receiving or discharging
@@ -9772,7 +9772,7 @@ Stopping After Accident
 Statutory reference:
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
    Vehicle accident reports, see O.A.C. Chapter 4501-31
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 73.01 DRIVING UNDER THE INFLUENCE OF ALCOHOL OR DRUGS.
    (A)   (1)   No person shall operate any vehicle within this municipality,
 if, at the time of the operation, any of the following apply:
@@ -10645,7 +10645,7 @@ operation of an immobilizing or disabling device.
    (B)   Whoever violates this section is guilty of an immobilizing or
 disabling device violation, a misdemeanor of the first degree.
 (R.C. § 4510.44)
-RECKLESS OPERATION
+**** RECKLESS OPERATION ****
 § 73.05 RECKLESS OPERATION OF VEHICLES.
    (A)   No person shall operate a vehicle on any street or highway in willful
 or wanton disregard of the safety of persons or property.
@@ -10689,7 +10689,7 @@ agricultural tractor, or unit of farm machinery.
    (B)   Whoever violates this section is guilty of operating a motor vehicle
 or agricultural tractor without being in control of it, a minor misdemeanor.
 (R.C. § 4511.202) (`96 Traffic Code, § 333.08)
-SPEED REGULATIONS
+**** SPEED REGULATIONS ****
 § 73.10 SPEED LIMITS.
    (A)   No person shall operate a motor vehicle at a speed greater or less
 than is reasonable or proper, having due regard for the traffic, surface, and
@@ -11177,7 +11177,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.23) (`96 Traffic Code, § 333.05)
-RESISTING OFFICER
+**** RESISTING OFFICER ****
 § 73.15 PROHIBITION AGAINST RESISTING OFFICER.
    (A)   No person shall resist, hinder, obstruct, or abuse any sheriff,
 constable, or other official while that official is attempting to arrest
@@ -11197,7 +11197,7 @@ complaint.
    (B)   Whoever violates this section is guilty of a misdemeanor of the first
 degree.
 (R.C. § 4513.361) (`96 Traffic Code, § 303.12)
-STOPPING AFTER ACCIDENT
+**** STOPPING AFTER ACCIDENT ****
 § 73.20 FAILURE TO STOP AFTER ACCIDENT.
    (A)   (1)   In the case of a motor vehicle accident or collision with
 persons or property on a public road or highway, the operator of the motor
@@ -11451,7 +11451,7 @@ helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
    Snowmobiles and all-purpose vehicles, equipment, see O.A.C. Chapter 4501-29-
 01
    Vehicle lighting, see O.A.C. Chapter 4501-15
-EQUIPMENT
+**** EQUIPMENT ****
 § 74.01 UNSAFE VEHICLES, PROHIBITION AGAINST OPERATION.
    (A)   No person shall drive or move, or cause or knowingly permit to be
 driven or moved, on any highway any vehicle or combination of vehicles which is
@@ -12556,7 +12556,7 @@ prosecuted under appropriate state law.
 or offer for sale in violation of this section shall constitute a separate and
 distinct violation.
 (R.C. § 4549.20)
-LOADS
+**** LOADS ****
 § 74.40 PERMIT REQUIRED TO EXCEED LOAD LIMITS.
    (A)   Use of local streets.  No person shall operate a vehicle exceeding a
 size as specified in §
@@ -13300,7 +13300,7 @@ Statutory reference:
 (8)
    Protective eye devices required for motorcycle operators and passengers;
 helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 75.01 BICYCLES; APPLICATION OF TITLE VII.
    (A)   The provisions of this title that are applicable to bicycles and
 electric bicycles apply whenever a bicycle or electric bicycle is operated upon
@@ -13636,7 +13636,7 @@ liability offenses shall not be construed to imply that any other offense, for
 which there is no specified degree of culpability, is not a strict liability
 offense.
 (R.C. § 4511.522)
-SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES, AND ALL-PURPOSE VEHICLES
+**** SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES, AND ALL-PURPOSE VEHICLES ****
 § 75.25 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14520,7 +14520,7 @@ Statutory reference:
 licensing, see R.C. Chapter 935
    Rabies: report of dog bite, confinement of animal, report of suspected rabid
 animal, see O.A.C. §§ 3701-3-28 et seq.
-ANIMALS RUNNING AT LARGE
+**** ANIMALS RUNNING AT LARGE ****
 § 90.01 DOGS OR OTHER ANIMALS RUNNING AT LARGE; NUISANCE, DANGEROUS OR VICIOUS
 DOGS; HEARINGS.
    (A)   Animals running at large.
@@ -14951,7 +14951,7 @@ the criminal laws or ordinances that punish cruelty to animals. Nothing in this
 section precludes a law enforcement officer from killing a dog that attacks a
 police dog as defined in R.C. § 2921.321.
 (R.C. § 955.28(A))
-OFFENSES RELATING TO ANIMALS
+**** OFFENSES RELATING TO ANIMALS ****
 § 90.10 ABANDONING ANIMALS.
    (A)   No owner or keeper of a dog, cat, or other domestic animal shall
 abandon the animal.
@@ -15687,7 +15687,7 @@ Statutory reference:
    Ohio Fire Code, see O.A.C. Chapter 1301:7
    Open burning, see O.A.C. Chapter 3745-19
    Power to regulate explosives, see R.C. § 715.60
-FIREWORKS
+**** FIREWORKS ****
 § 91.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -16224,7 +16224,7 @@ are not subject to any variance, waiver, or exclusion pursuant to this chapter
 or any applicable building code.
 (R.C. § 3743.25) Penalty, see §
 91.99
-OHIO FIRE CODE
+**** OHIO FIRE CODE ****
 § 91.20 OHIO FIRE CODE ADOPTED.
    (A)   Pursuant to R.C. § 731.231, there is hereby adopted by the
 municipality the Ohio Fire Code (OFC) as adopted by the Ohio Division of State
@@ -16503,7 +16503,7 @@ chief fiscal officer for deposit into the General Revenue Fund. Such penalties
 may be recovered in a civil action in the name of the municipality brought in
 the Court of Common Pleas.
 (`76 Code, § 1501.99(b)) (Ord. 16-1979, passed 7-10-79)
-OPEN BURNING
+**** OPEN BURNING ****
 § 91.55 DEFINITIONS.
    (A)   General definitions. For the purpose of this subchapter, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -18415,7 +18415,7 @@ Statutory reference:
 R.C. § 1533.85
    Ohio Building Code, see O.A.C. § 4101:1
    Power to abate and prevent nuisances, see R.C. § 715.44
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 APPLICATION OF THE CHAPTER.
    The provisions of this chapter shall be enforceable within this municipality
 concurrently with the state and federal laws relative to sanitation and health
@@ -18791,7 +18791,7 @@ current.
    (B)   Whoever violates this section is guilty of a minor misdemeanor.
 (`96 General Offenses Code, § 521.07) Penalty, see §
 93.99
-UNCLEAN HABITATIONS
+**** UNCLEAN HABITATIONS ****
 § 93.10 PERMITTING UNCLEAN HABITATIONS.
    It shall be unlawful for any person to lease, let, permit the occupancy of,
 permit the continuation of the occupancy of, or continue the occupancy of a
@@ -18847,7 +18847,7 @@ proceedings shall be brought in the name of the municipality. Proceedings under
 this section shall not relieve any party defendant from criminal prosecution or
 punishment under this code or any other criminal law or ordinance in force
 within the municipality.
-SEPTIC TANKS, CESSPOOLS, AND REFUSE
+**** SEPTIC TANKS, CESSPOOLS, AND REFUSE ****
 § 93.20 LOCATION OF PRIVY VAULTS, CESSPOOLS, AND SEPTIC TANKS.
    No owner, occupant, or person in charge of any premises situated as to
 permit connection with any sanitary sewer shall maintain or permit to be
@@ -19030,7 +19030,7 @@ as directed in relation to the improvement of streets.
    (E)   The officers connected with the Health Department of the municipality
 shall see that this section is strictly and promptly enforced.
 (R.C. § 715.47)
-WEEDS AND LITTER ON PRIVATE PROPERTY
+**** WEEDS AND LITTER ON PRIVATE PROPERTY ****
 § 93.40 KEEPING DOWN WEEDS.
    (A)   Any person owning or having charge of land within the municipality
 shall keep such property free and clear from all noxious weeds and rank
@@ -19130,7 +19130,7 @@ entered upon the tax duplicate and be a lien upon such lands from and after the
 date of entry and be collected as other taxes and returned to the municipality
 with the general fund.
 (R.C. § 731.54)
-POLLUTION
+**** POLLUTION ****
 § 93.50 OUTDOOR FIRED BOILERS PROHIBITED.
    (A)   Outdoor fired boilers are prohibited.
    (B)   OUTDOOR FIRED BOILERS shall mean an appliance or device that burns
@@ -19145,7 +19145,7 @@ intended to conduct heat, which then travel through pipes to heat a dwelling or
 other building, or to provide its residents with hot water.
 (Ord. 8-1-2007, passed 8-14-07) Penalty, see §
 93.99
-REGULATION OF CONSTRUCTION HOURS
+**** REGULATION OF CONSTRUCTION HOURS ****
 § 93.55 DEFINITION.
    As used in this subchapter, CONSTRUCTION means any activity associated with
 the construction, renovation, demolition of any building. CONSTRUCTION also
@@ -19266,7 +19266,7 @@ Parks and Other Public Property
  
    
 94.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 CONSTRUCTION STANDARDS ADOPTED; PLANTING TREES.
    (A)   The following regulations are hereby prescribed for the construction
 of streets in the municipality by developers of new subdivisions and by the
@@ -19391,7 +19391,7 @@ passed 8-12-03; Am. Ord. 6-1-2004, passed 8-10-04; Am. Ord. 5-1-2005, passed 7-
 Ord. 10-1-2009, passed 12-8-09; Am. Ord. 8-2-2011, passed 8-9-11; Am. Ord. 9-1-
 2012, passed 9-11-12; Am. Ord. 9-1-2013, passed 10-8-13; Am. Ord. 9-1-2014,
 passed 9-9-14; Am. Ord. 9-2-2015, passed 9-8-15)
-DRIVEWAYS
+**** DRIVEWAYS ****
 § 94.15 PURPOSE.
    The Village Council recognizes that occupants of real estate generally
 should be able to obtain access to a public right-of-way which adjoins such
@@ -19620,7 +19620,7 @@ the permit shall be guilty of improper use of driveway, a minor misdemeanor.
    (C)   The penalty for the improper use of a driveway shall be a fine not in
 excess of $100 per violation.
 (`76 Code, § 903.10) (Ord. 10-2-1992, passed 12-17-92)
-PRIVATE DRIVES
+**** PRIVATE DRIVES ****
 § 94.30 DEFINITION.
    As used in this subchapter, PRIVATE DRIVES includes all undedicated streets
 and common driveways servicing two or more dwellings.
@@ -19689,7 +19689,7 @@ shall require publicly dedicated streets for subdivisions containing five or
 more lots. Not more than four lots shall be serviced by a private drive created
 after the effective date of this section.
 (`76 Code, § 903.04) (Ord. 29-1979, passed 12-17-79)
-REVOCABLE STREET PRIVILEGES
+**** REVOCABLE STREET PRIVILEGES ****
 § 94.40 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -19977,7 +19977,7 @@ encroachment upon orders of the Village Street Commissioner. Persons found to
 have violated this action shall be subject to a fine up to $100. Each day shall
 be considered a separate offense.
 (Ord. 3-1-2002, passed 7-9-02)
-PARKS AND OTHER PUBLIC PROPERTY
+**** PARKS AND OTHER PUBLIC PROPERTY ****
 § 94.65 USE OF COMMUNITY HOUSE.
    (A)   Application for use. The Custodian of the Community Building House
 shall receive applications for the use of the Community House for
@@ -31659,7 +31659,10 @@ or is about to be committed.
    (B)   Whoever violates division (A) of this section is guilty of failure to
 disclose one’s personal information, a misdemeanor of the fourth degree.
    (C)   Nothing in division (A) of this section requires a person to answer
-any questions beyond that person’
+any questions beyond that person’s name, address, or date of birth. Nothing in
+division (A) of this section authorizes a law enforcement officer to arrest a
+person for not providing any information beyond the person’s name, address, or
+date of birth or for refusing to describe the offense observed.
    (D)   It is not a violation of division (A) of this section to refuse to
 answer a question that would reveal a person’s age or date of birth if age is
 an element of the crime that the person is suspected of committing.
@@ -34956,7 +34959,7 @@ Cross-reference:
    Regulation of construction hours, see §§
 93.55 through
 93.58
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 BUILDING CODES ADOPTED; ADMINISTRATION; VARIANCES.
    (A)   Adoption, application and purpose.
       (1)   The Ohio Building Code (OBC), and all subsequently adopted
@@ -35123,7 +35126,7 @@ January 5, 1984; (b) date of flood insurance study is January 5, 1984, revised
 May 17, 2004; (c) panel numbers and date of currently effective flood hazard
 maps 262, 264, 266, 268, February 17, 2010.
 (Ord. 10-1-2006, passed 10-10-06; Am. Ord. 3-1-2013, passed 3-12-13)
-BUILDING PERMITS
+**** BUILDING PERMITS ****
 § 150.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -35526,7 +35529,7 @@ Chapter 152
 Statutory reference:
    Flood control, Ohio Division of Water, see R.C. §§~ 1521.13 et seq.
    Manufactured Home Parks, state regulations, see R.C. §§~ 3733.01 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.01 STATEMENT OF PURPOSE.
    It is the purpose of these regulations to promote the public health, safety
 and general welfare, and to:
@@ -35869,7 +35872,7 @@ consistent with the variance conditions herein.
    VIOLATION. The failure of a structure or other development to be fully
 compliant with these regulations.
 (Ord. 5-1-2004, passed 5-11-04)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 151.20 DESIGNATION OF BUILDING INSPECTOR AS FLOODPLAIN ADMINISTRATOR.
    The Building Inspector, or his or her designee, is hereby appointed to
 administer and implement these regulations as the Floodplain Administrator.
@@ -36141,7 +36144,7 @@ to the proper repair of damaged structures in special flood hazard areas; and
 assist owners of substantially damaged structures with increased cost of
 compliance insurance claims.
 (Ord. 5-1-2004, passed 5-11-04)
-USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION
+**** USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION ****
 § 151.50 APPLICATION.
    The following use and development standards apply to development wholly
 within, partially within, or in contact with any special flood hazard area as
@@ -36366,7 +36369,7 @@ in §
 or elimination of the special flood hazard area, including the placement of
 culverts.
 (Ord. 5-1-2004, passed 5-11-04)
-APPEALS AND VARIANCES
+**** APPEALS AND VARIANCES ****
 § 151.70 APPEALS BOARD ESTABLISHED.
    The Zoning Board of Appeals is hereby established as the appeals board for
 variance applications submitted under these regulations.
@@ -36511,7 +36514,7 @@ writing within a reasonable time after the hearing.
 such decision to the Hamilton County Court of Common Pleas, as provided in R.C.
 Chapter 2506.
 (Ord. 5-1-2004, passed 5-11-04)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 151.85 COMPLIANCE REQUIRED.
    (A)   No structure or land shall hereafter be located, erected, constructed,
 reconstructed, repaired, extended, converted, enlarged or altered without full

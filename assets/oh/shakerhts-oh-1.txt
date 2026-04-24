@@ -107,7 +107,7 @@ analysis preceding each chapter.
    (b)   The cross references to related material following the chapter
 analysis.
  
-A
+***** A *****
 A APARTMENT DISTRICT
    area         
 1225.05
@@ -599,7 +599,7 @@ AUTOMOBILE SALES BUSINESS
    wrecked vehicles   
 507.02
  
-B
+***** B *****
 BAD CHECK (see CHECKS)
 BARRICADES AND WARNING LIGHTS
    required      
@@ -967,7 +967,7 @@ BUSINESS REGULATION CODE
    penalty         
 599.91
  
-C
+***** C *****
 C1 LIMITED COMMERCIAL DISTRICT
    area per dwelling unit   
 1231.06
@@ -1726,7 +1726,7 @@ CURFEW
 709.12
    minor (see MINOR)
  
-D
+***** D *****
 DANCE HALLS   
 729.09
 DANGEROUS ORDNANCE (see also WEAPONS)
@@ -2340,7 +2340,7 @@ DWELLING (see also BUILDING)
    window area    
 1411.04
  
-E
+***** E *****
 E CIGARETTES   
 737.16
 ECONOMIC DEVELOPMENT DEPARTMENT
@@ -2553,7 +2553,7 @@ EXTERMINATION
    thermal generators   
 353.06
  
-F
+***** F *****
 FAIR HOUSING
    Administrator   
 515.07
@@ -3064,7 +3064,7 @@ FUNERAL PROCESSION
 FURNACES, OUTDOOR (see INCINERATORS AND
          OUTDOOR FURNACES AND BOILERS)
  
-G
+***** G *****
 GAMBLING
    bingo (see BINGO)
    bookmaking   
@@ -3160,7 +3160,7 @@ GREEN LAKE (see WATERCOURSE)
 GUARD (see PRIVATE INVESTIGATOR)
 GUN (see WEAPONS)
  
-H
+***** H *****
 HALLOWEEN
    adulterated food   
 737.13
@@ -3403,7 +3403,7 @@ HYPODERMIC
 713.04,
 713.10
  
-I
+***** I *****
  
 IDENTIFICATION CARD
    forgery of      
@@ -3761,7 +3761,7 @@ INVASION OF PRIVACY
    voyeurism      
 733.06
  
-J
+***** J *****
 JAIL
    matron of women's section    
 121.04(d)
@@ -3780,7 +3780,7 @@ JUVENILE (see also MINOR)
       disseminating   
 733.11
  
-K
+***** K *****
 KEYS
    motor vehicle parking removal   
 1103.03,
@@ -3788,7 +3788,7 @@ KEYS
 KITCHENS (see DWELLINGS)
 KNIFE (see WEAPONS)
  
-L
+***** L *****
 LANDMARK COMMISSION (see also
          BOARDS AND COMMISSIONS)
    definitions      
@@ -4038,7 +4038,7 @@ LOTS
       TF Two-Family Residential   
 1223.05 et seq.
  
-M
+***** M *****
 MANSLAUGHTER, VEHICULAR   
 737.02
 MANUFACTURED HOME
@@ -4344,7 +4344,7 @@ MUSEUM
    rights; property damage   
 745.04
  
-N
+***** N *****
 NEGLIGENT HOMICIDE   
 737.01
 NEIGHBORHOOD REVITALIZATION DEPARTMENT
@@ -4475,7 +4475,7 @@ NUISANCE
    wild animals   
 377.03
  
-O
+***** O *****
 OBSCENITY
    definitions      
 733.01
@@ -4618,7 +4618,7 @@ OVI             
    prohibitions    
 1133.01
  
-P
+***** P *****
 PAINT REMOVAL
    appeal                       
 1333.07
@@ -5252,14 +5252,14 @@ PUD PLANNED UNIT DEVELOPMENT    OVERLAY DISTRICT
 1242.07
 PURCHASING AGENT (see FINANCES)
  
-Q
+***** Q *****
 QUARANTINE (see also DISEASE)
    animal bites   
 705.09
    defined         
 305.08
  
-R
+***** R *****
 RADIOACTIVE MATERIAL TRANSPORTATION
    chapter purpose   
 383.01
@@ -5399,7 +5399,7 @@ RODENTS AND VERMIN (see also ANIMALS)
 377.02
 ROLLER SKATES (see TOY VEHICLES)
  
-S
+***** S *****
 SAFETY AND PUBLIC WORKS COMMITTEE
    duties         
 113.08
@@ -6101,7 +6101,7 @@ SWIMMING POOLS, PRIVATE
 347.17
 SWITCHBLADE (see WEAPONS)
  
-T
+***** T *****
 TAMPERING (see also PROPERTY DESTRUCTION)
    coin machine   
 745.12
@@ -6444,7 +6444,7 @@ TRESPASS
 TRUCK (see COMMERCIAL AND HEAVY VEHICLE)
  
  
-U
+***** U *****
 USE REGULATIONS
    accessory (see ACCESSORY USES    AND STRUCTURES)
    conditional (see CONDITIONAL USES)
@@ -6493,7 +6493,7 @@ U TURN
    regulated       
 1131.12
  
-V
+***** V *****
 VANDALISM   
 741.04
 VARIANCE
@@ -6651,7 +6651,7 @@ VIDEO SERVICE PROVIDERS   
 VOYEURISM      
 733.06
  
-W
+***** W *****
 WASTE MATERIAL (see GARBAGE AND REFUSE)
 WATCHMAN (see PRIVATE INVESTIGATOR)
 WATERCOURSE
@@ -6743,7 +6743,7 @@ WOUNDS AND BURNS
    reporting      
 725.05
  
-Y
+***** Y *****
 YARDS
    maintenance
       generally   
@@ -6795,7 +6795,7 @@ YARDS
 1223.11
 YIELD SIGNS (see TRAFFIC CONTROL DEVICE)
  
-Z
+***** Z *****
 ZONING ADMINISTRATOR
    administrative interpretations   
 1213.11
@@ -14838,7 +14838,7 @@ seven and one-half (37.5) hours except as might otherwise be provided herein,
 or by directive of the Mayor.
 (Ord. 17-91. Enacted 11-13-17.)
  
-135.08 TRAVEL AUTHORIZATION.
+*** 135.08 TRAVEL AUTHORIZATION. ***
    (a)   There is delegated to the Mayor the authority to order such travel by
 employees as he finds necessary or appropriate in the conduct of the City's
 business.
@@ -20823,7 +20823,7 @@ tobacco products to minors.
 CROSS REFERENCES
 Illegal distribution of cigarettes and other tobacco products - see GEN. OFF.
 737.16
-386.01 DEFINITIONS.
+*** 386.01 DEFINITIONS. ***
    As used in this chapter:
    (a)   “License” means a license issued by the City of Shaker Height for
 retail sale of tobacco products.
@@ -23235,7 +23235,7 @@ Self-Service Dry Cleaning and Laundry Establishments
 CROSS REFERENCES
 Removal of gases, fumes in air - see HLTH.
 341.04
-541.01 LICENSE REQUIRED.
+*** 541.01 LICENSE REQUIRED. ***
    No person shall operate a self-service retail dry cleaning and/or laundry
 establishment, whether coin-operated or otherwise, within the City, without
 first having obtained a license to do so from the Mayor or his authorized
@@ -43993,7 +43993,7 @@ Introductory Provisions
 CROSS REFERENCES
 Rules of construction - see ADM. Ch.
 101
-1210.01 TITLE.
+*** 1210.01 TITLE. ***
    The ordinance codified in this title shall be known, cited and referred to
 as the "Zoning Ordinance for the City of Shaker Heights, Ohio," the "Shaker
 Heights Zoning Ordinance," or the "Zoning Ordinance."
@@ -58129,7 +58129,7 @@ Ohio R.C. 1521.06
       Reduction of assessed valuation for establishing reservoirs - see Ohio
 R.C. 1521.09
       Marking flood areas - see Ohio R.C. 1521.14
-1331.01 PURPOSE, GENERAL STANDARDS, APPLICABILITY AND INTERPRETATION.
+*** 1331.01 PURPOSE, GENERAL STANDARDS, APPLICABILITY AND INTERPRETATION. ***
    (a)   Purpose. It is the purpose of the regulations established in this
 Chapter to promote the public health, safety and general welfare, by doing the
 following:
@@ -61288,7 +61288,7 @@ CROSS REFERENCES
       Housing discrimination - see Ohio R.C. 4112.02(H)
       Fair housing - see BUS. REG. Ch.
 515
-1419.01 NOTICE TO CITY.
+*** 1419.01 NOTICE TO CITY. ***
    The owner or lessee of property or his authorized agent, within ten (10)
 days after filing an application with any government agency for financial
 assistance with regard to subsidized housing, scattered site housing,
