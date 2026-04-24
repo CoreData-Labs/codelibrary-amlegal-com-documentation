@@ -10,7 +10,7 @@ AMERICAN LEGAL PUBLISHING
 Cincinnati, Ohio 45202
 1-800-445-5588 www.amlegal.com
 ADOPTING ORDINANCE
-ORDINANCE NUMBER 2017-22
+**** ORDINANCE NUMBER 2017-22 ****
    AN ORDINANCE ENACTING A CODE FOR ORDINANCES FOR THE VILLAGE OF    APPLE
 CREEK, OHIO, AND HEREBY REVISING, AMENDING, RESTATING, CODIFYING AND COMPILING
 CERTAIN EXISTING GENERAL ORDINANCES OF THE POLITICAL SUBDIVISION DEALING WITH
@@ -59,7 +59,7 @@ President of Council                        Fiscal Offic
 APPROVED:
 Betty Keener /s/
 Betty Keener, Mayor
-ORDINANCE NUMBER 2018-12
+**** ORDINANCE NUMBER 2018-12 ****
 AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES FOR
 THE VILLAGE OF APPLE CREEK AND DECLARING AN EMERGENCY,
 WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio, has
@@ -102,7 +102,7 @@ President of Council                     Fiscal Officer
                                  APPROVED:
                                   /s/
                                  Betty Keener, Mayor
-ORDINANCE NUMBER 2019-5
+**** ORDINANCE NUMBER 2019-5 ****
 AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES FOR
 THE VILLAGE OF APPLE CREEK AND DECLARING AN EMERGENCY,
 WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio, has
@@ -145,7 +145,7 @@ President of Council                     Fiscal Officer
                                  APPROVED:
                                   /s/
                                  Rodney Mackey, Mayor
-ORDINANCE NUMBER 2019-10
+**** ORDINANCE NUMBER 2019-10 ****
 AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES FOR
 THE VILLAGE OF APPLE CREEK AND DECLARING AN EMERGENCY,
 WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio, has
@@ -188,7 +188,7 @@ President of Council                     Fiscal Officer
                                  APPROVED:
                                   /s/
                                  Rodney Mackey, Mayor
-ORDINANCE NUMBER 2020-2
+**** ORDINANCE NUMBER 2020-2 ****
 AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES FOR
 THE VILLAGE OF APPLE CREEK AND DECLARING AN EMERGENCY,
 WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio, has
@@ -231,7 +231,7 @@ President of Council                     Fiscal Officer
                                  APPROVED:
                                   /s/
                                  Rodney Mackey, Mayor
-ORDINANCE NUMBER 2020-13
+**** ORDINANCE NUMBER 2020-13 ****
 AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES FOR
 THE VILLAGE OF APPLE CREEK AND DECLARING AN EMERGENCY.
 WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio, has
@@ -4612,7 +4612,7 @@ Delinquencies and Shut Off Policies
  
    
 51.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 51.01 ACCOUNTS TO BE IN THE NAME OF TITLED PROPERTY OWNER.
    (A)   All applications for water and/or sewer services shall be submitted to
 the village by the respective property owner(s) seeking such services and not
@@ -4690,7 +4690,7 @@ the effective date of this section shall be deemed to have amended and modified
 this section and shall be incorporated into this section upon the effective
 date of said amendments.
 (Ord. 1980-25, passed 10-6-1980)
-RATES AND CHARGES
+*** RATES AND CHARGES ***
 § 51.15 RATES.
    (A)   Rates for service within the village limits. Rate increases shall
 become effective July 1 of each calendar year.
@@ -4875,7 +4875,7 @@ for the first year of services, the $45 security deposit will be refunded. The
 customer must occupy said premises for one full year for said refund to be
 applicable.
 (Ord. 2010-6, passed - -; Ord. 2010-24, passed - -)
-DELINQUENCIES AND SHUT OFF POLICIES
+*** DELINQUENCIES AND SHUT OFF POLICIES ***
 § 51.40 UNPAID UTILITY BILLS.
    Regardless of the name in which the utility account is registered or billed,
 the legal owner or owners of the property are responsible for the payment of
@@ -5017,7 +5017,7 @@ Fees and Charges
  
    
 52.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 52.01 AUTHORITY.
    This chapter is adopted under the authority granted by R.C. §§ 715.40 and
 3707.42.
@@ -5241,7 +5241,7 @@ the effluent and accumulated residual solids.
    WATERCOURSE. A natural or artificial channel for the passage of water,
 either continuously or intermittently.
 (Ord. 1983-15, passed 12-5-1983)
-REGULATIONS
+*** REGULATIONS ***
 § 52.20 CONDITIONS FOR DISCHARGE INTO TREATMENT SYSTEM.
    (A)   Public wastewater collection facilities are required to be used for
 the deposit of human wastes, garbage, or other liquid wastes that cannot be
@@ -5681,7 +5681,7 @@ injury or property damage asserted against the user and growing out of the
 gauging and sampling operation, except as such may be caused by negligence or
 failure of the user to maintain safe conditions.
 (Ord. 1983-15, passed 12-5-1983)
-FEES AND CHARGES
+*** FEES AND CHARGES ***
 § 52.45 RENTAL RATES AND TAP-ON FEE.
    (A)   Rates. The sewer rental charge shall be based upon the meter readings
 of the amount of water consumed by property owners, persons, firms, or
@@ -5873,7 +5873,7 @@ Notice of arrest of certain commercial drivers, see R.C. § 5577.14
 Traffic law photo-monitoring devices, state regulations, see R.C. §§ 4511.092
 et seq.
 Uniform application and precedence of state traffic laws, see R.C. § 4511.06
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 70.01 DEFINITIONS.
    Except as otherwise provided, the definitions set forth in R.C. § 4501.01
 shall apply to this Title,
@@ -6303,8 +6303,7 @@ substantial risk of serious physical harm to persons or property.
 division (B) of this section and division (C)(5)(a) of this section applies,
 the sentencing court, in determining the seriousness of an offender’s conduct
 for purposes of sentencing the offender for a violation of division (B) of this
-section, shall consider, along with the factors set forth in R.C. §§ 2929.12
-and 2929.13 that are required to be considered, all of the following:
+section, shall consider, along with the factors set forth in R.C. §
             1.   The duration of the pursuit;
             2.   The distance of the pursuit;
             3.   The rate of speed at which the offender operated the motor
@@ -6630,7 +6629,7 @@ the municipal corporation.
 post a notice at the entrance to the storage facility that states the
 limitation on fees established under division (F) of this section.
 (R.C. § 4513.68) (Rev. 2018)
-TRAFFIC-CONTROL DEVICES
+*** TRAFFIC-CONTROL DEVICES ***
 § 70.30 OBEYING TRAFFIC-CONTROL DEVICES.
    (A)   (1)   No pedestrian or driver of a vehicle shall disobey the
 instructions of any traffic-control device placed in accordance with the
@@ -7244,7 +7243,7 @@ as agents of Registrar of Motor Vehicles; procedures and rules, see R.C. §§
    Suspension and revocation of driver’s licenses, see R.C. Chapter 4510
    Suspension of driver’s licenses; municipal power to suspend for a period not
 to exceed time permitted or required by state law, see R.C. § 4510.05
-MOTOR VEHICLE LICENSING
+*** MOTOR VEHICLE LICENSING ***
 § 71.01 DISPLAY OF LICENSE PLATES OR VALIDATION STICKERS; REGISTRATION.
    (A)   (1)   No person who is the owner or operator of a motor vehicle shall
 fail to display in plain view on the rear of the motor vehicle a license plate
@@ -7435,7 +7434,7 @@ manufacturer or dealer.
    (B)   Whoever violates division (A) of this section is guilty of illegal
 operation of a manufacturer’s or dealer’s motor vehicle, a minor misdemeanor.
 (R.C. § 4549.10) (Rev. 2021)
-DRIVER’S LICENSES
+*** DRIVER’S LICENSES ***
 § 71.20 PROHIBITED ACTS.
    (A)   No person shall do any of the following:
       (1)   Display or cause or permit to be displayed, or possess any
@@ -8443,7 +8442,7 @@ permit or driver’s or commercial driver’s license, or in violation of a
 restriction because of a substantial emergency, and because no other person was
 reasonably available to drive in response to the emergency.
 (R.C. § 4510.04) (Rev. 2004)
-COMMERCIAL DRIVER’S LICENSES
+*** COMMERCIAL DRIVER’S LICENSES ***
 § 71.45 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9192,7 +9191,7 @@ vehicle
 probationary drivers while driving prohibited
 Statutory reference:
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 72.001 LANES OF TRAVEL UPON ROADWAYS.
    (A)   Upon all roadways of sufficient width, a vehicle shall be driven upon
 the right half of the roadway, except as follows:
@@ -9687,7 +9686,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.40) (Rev. 2020)
-RIGHT-OF-WAY
+*** RIGHT-OF-WAY ***
 § 72.030 RIGHT-OF-WAY AT INTERSECTIONS.
    (A)   When two vehicles approach or enter an intersection from different
 streets or highways at approximately the same time, the driver of the vehicle
@@ -10061,7 +10060,7 @@ offense, the offender previously has been convicted of two or more predicate
 motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 (R.C. § 4511.48) (Rev. 2004)
-PEDESTRIANS
+*** PEDESTRIANS ***
 § 72.055 PEDESTRIAN MOVEMENT IN CROSSWALKS.
    (A)   Pedestrians shall move, whenever practicable, upon the right half of
 crosswalks.
@@ -10394,7 +10393,7 @@ commercial general liability insurance related to the operation of the devices,
 with limits of up to $1,000,000 per occurrence and $2,000,000 per aggregate.
 (R.C. § 4511.514) (Rev. 2022) Penalty, see §
 70.99
-GRADE CROSSINGS
+*** GRADE CROSSINGS ***
 § 72.075 STOP SIGNS AT GRADE CROSSINGS.
    (A)   As used in this section, ACTIVE GRADE CROSSING WARNING DEVICE means
 signs, signals, gates, or other protective devices erected or installed at a
@@ -10533,7 +10532,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.64) (Rev. 2019)
-SCHOOL BUSES
+*** SCHOOL BUSES ***
 § 72.090 REGULATIONS CONCERNING SCHOOL BUSES.
    (A)   The driver of a vehicle, upon meeting or overtaking from either
 direction any school bus stopped for the purpose of receiving or discharging
@@ -10785,7 +10784,7 @@ has an occupant restraining device, as defined in R.C. § 4513.263, installed
 for use in its operator’s seat.
    (B)   Whoever violates this section is guilty of a minor misdemeanor.
 (R.C. § 4511.772) (Rev. 2004)
-PROHIBITIONS
+*** PROHIBITIONS ***
 § 72.115 OBSTRUCTION AND INTERFERENCE AFFECTING VIEW AND CONTROL OF DRIVER.
    (A)   No person shall drive a vehicle when it is so loaded, or when there
 are in the front seat such number of persons, as to obstruct the view of the
@@ -11695,7 +11694,7 @@ Stopping After Accident
 73.33   Failure to report accident
 Statutory reference:
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 73.01 DRIVING UNDER THE INFLUENCE OF ALCOHOL OR DRUGS.
    (A)   (1)   No person shall operate any vehicle within this municipality,
 if, at the time of the operation, any of the following apply:
@@ -13133,7 +13132,7 @@ dealer who sells mini-trucks at retail.
       (4)   Whoever violates this division (H) shall be penalized as provided
 in division (D) of this section.
 (R.C. § 4519.401) (Rev. 2014)
-STOPPING AFTER ACCIDENT
+*** STOPPING AFTER ACCIDENT ***
 § 73.30 FAILURE TO STOP AFTER ACCIDENT.
    (A)   (1)   In the case of a motor vehicle accident or collision with
 persons or property on a public road or highway, the operator of the motor
@@ -13384,7 +13383,7 @@ helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
    Snowmobiles and all-purpose vehicles, equipment, see O.A.C. § 4501-29-01
    Vehicle lighting, see O.A.C. Chapter 4501-15
-EQUIPMENT
+*** EQUIPMENT ***
 § 74.01 UNSAFE VEHICLES, PROHIBITION AGAINST OPERATION.
    (A)   No person shall drive or move, or cause or knowingly permit to be
 driven or moved, on any highway any vehicle or combination of vehicles which is
@@ -14502,7 +14501,7 @@ prosecuted under appropriate state law.
 or offer for sale in violation of this section shall constitute a separate and
 distinct violation.
 (R.C. § 4549.20) (Rev. 2015)
-LOADS
+*** LOADS ***
 § 74.50 PERMIT REQUIRED TO EXCEED LOAD LIMITS.
    (A)   (1)   The municipality, with respect to highways under their
 jurisdiction, upon application in writing, shall issue a special regional heavy
@@ -15297,7 +15296,7 @@ Statutory reference:
 (8)
    Protective eye devices required for motorcycle operators and passengers;
 helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 75.01 BICYCLES; APPLICATION OF TITLE VII.
    (A)   The provisions of this title that are applicable to bicycles and
 electric bicycles apply whenever a bicycle or electric bicycle is operated upon
@@ -15603,8 +15602,8 @@ offense, the offender previously has been convicted of two or more predicate
 motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 (R.C. § 4511.56) (Rev. 2020)
-SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES, AND
-ALL-PURPOSE VEHICLES
+*** SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES, AND
+ALL-PURPOSE VEHICLES ***
 § 75.25 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -16329,7 +16328,7 @@ penalty for such alleged violation. Payment of the prescribed fine need not be
 accepted when laws prescribe that a certain number of such offenses shall
 require court appearance.
 (Rev. 2002)
-OHIO LEGISLATIVE HISTORY REFERENCES – TITLE VII
+**** OHIO LEGISLATIVE HISTORY REFERENCES – TITLE VII ****
 Ohio Revised Code Section 2024 Basic Code Section
 Ohio Revised Code Section   2024 Basic Code Section
 2921.331(A) - (C), (E), (F) 70.02
@@ -16931,7 +16930,7 @@ Weeds
  
    
 91.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 91.01 DEFINITION.
    For the purpose of this chapter, the following definition shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -17001,7 +17000,7 @@ village shall cause its abatement and shall report the cost thereof to Village
 Council, which may assess the same, together with interest, costs, and
 attorney’s fees, upon the real estate upon which the public nuisance existed.
 (Ord. 1997-2, passed 3-17-1997)
-NOISES
+*** NOISES ***
 § 91.15 UNREASONABLE NOISES.
    (A)   (1)   No person shall generate, or permit to be generated,
 unreasonable noise or loud sound which is likely to cause inconvenience or
@@ -17031,7 +17030,7 @@ prohibitions of this section when used for such purposes.
    A charge of $25 per alarm will be assessed for more than three false alarms
 investigated during any quarter.
 (Ord. 1996-18, passed 7-15-1996)
-WEEDS
+*** WEEDS ***
 § 91.30 OWNER RESPONSIBILITY.
    Any person owning or having charge of land within the village shall keep
 said land free from all noxious weeks and rank vegetation, and shall cause to
@@ -17120,7 +17119,7 @@ Running at Large
  
    
 92.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 92.01 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -17203,7 +17202,7 @@ fee or other consideration received, are prohibited in the village, and shall
 be considered a nuisance.
 (Ord. 2008-3, passed 2-4-2008; Ord. 2017-21, passed 11-6-2017) Penalty, see §
 92.99
-RUNNING AT LARGE
+*** RUNNING AT LARGE ***
 § 92.20 RUNNING AT LARGE PROHIBITED.
    No person, who is the owner, harboror, keeper, or person in charge of any
 dog, shall permit such dog to run at large within the limits of the village,
@@ -17328,7 +17327,7 @@ Administration and Enforcement
  
    
 93.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 93.01 PURPOSE AND INTENT.
    (A)   The purpose of this chapter is to protect the public health, safety,
 and general welfare of the village.
@@ -17497,7 +17496,7 @@ and
       (2)   Do not cause any spark of any kind such as turning on or off
 lights, starting a vehicle, or smoking.
 (Ord. 2009-23, passed 9-8-2009)
-PREMISES TO BE MAINTAINED
+*** PREMISES TO BE MAINTAINED ***
 § 93.20 GENERALLY.
    No owner or occupant of any premises shall maintain or permit to be
 maintained at or on the exterior property areas of such premises any of the
@@ -17691,7 +17690,7 @@ missing wheels, tires, motor, or transmission.
 $1,500 or less.
 (Ord. 2009-23, passed 9-8-2009) Penalty, see §
 93.99
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 93.40 PROPERTY MAINTENANCE OFFICER.
    (A)   All buildings, properties, and uses within the village are subject to
 inspections from time to time by the Property Maintenance Officer.
@@ -17848,7 +17847,7 @@ Right-of-Way and Easement Policy and Procedures
 94.99   Penalty
    
 Appendix A: Permit and Permit Application
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 94.01 BICYCLES, SKATEBOARDS, ROLLER SKATES, AND THE LIKE.
    (A)   No person shall use, ride, or otherwise operate a skateboard, in-line
 skates, bicycles, or roller skates upon a sidewalk or street within the village
@@ -17885,7 +17884,7 @@ deposit of any leaves or other substances or objects in the gutters of the
 village streets.
 (Ord. 1978-5, passed 7-5-1978; Ord. 1978-19, passed 11-6-1978) Penalty, see §
 94.99
-RIGHT-OF-WAY AND EASEMENT POLICY AND PROCEDURES
+*** RIGHT-OF-WAY AND EASEMENT POLICY AND PROCEDURES ***
 § 94.15 PERFORMANCE OF WORK.
    No person, other than the Street Commissioner, Village Engineer, or other
 authorized village employees or agents, shall make any opening in any street,
@@ -33025,7 +33024,7 @@ the act or omission constitutes willful or wanton misconduct.
    (E)   Whoever violates division (B) of this section is guilty of illegally
 selling dextromethorphan, a minor misdemeanor.
 (R.C. § 2925.62) (Rev. 2023)
-OHIO LEGISLATIVE HISTORY REFERENCES – TITLE XIII
+**** OHIO LEGISLATIVE HISTORY REFERENCES – TITLE XIII ****
 Ohio Revised Code Section 2024 Basic Code Section
 Ohio Revised Code Section       2024 Basic Code Section
 128.01(A)                       136.20(A)
@@ -33443,7 +33442,7 @@ Numbering and Renumbering of Buildings
  
    
 151.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 151.01 SCHEDULE OF FEES.
    The following fee schedule be adopted for the administration of the
 village’s subdivision regulations.
@@ -33465,7 +33464,7 @@ construction cost of all required public improvements as established by the
 Village Engineer for bonding. Construction inspection fees shall be paid to the
 village prior to commencement of any construction.
 (Res. 2000-22, passed 8-21-2000)
-NUMBERING AND RENUMBERING OF BUILDINGS
+*** NUMBERING AND RENUMBERING OF BUILDINGS ***
 § 151.15 MAYOR TO ASSIGN NUMBER.
    The Mayor shall assign a number to every building, residential unit, and
 apartment located within the village. The number assigned shall be pursuant to
@@ -33607,7 +33606,7 @@ Enforcement
  
    
 152.999   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 152.001 HAZARDS MITIGATION PLAN.
    The Hazards Mitigation Plan is hereby adopted for the village.
 (Res. 2011-24A, passed 11-7-2011)
@@ -34023,7 +34022,7 @@ floor immediately above must also be recorded.
    (D)   The village agrees to take such other official action as may be
 reasonable necessary to carry out the objectives of the program.
 (Res. 1975-9, passed 10-6-1975)
-ADMINISTRATION
+*** ADMINISTRATION ***
 § 152.025 DESIGNATION OF FLOODPLAIN ADMINISTRATOR.
    The Mayor is hereby appointed to administer and implement these regulations
 and is referred to herein as the Floodplain Administrator.
@@ -34301,7 +34300,7 @@ information related to the proper repair of damaged structures in special flood
 hazard areas; and assist owners of substantially
 damaged structures with increased cost of compliance insurance claims.
 (Ord. 2009-14, passed - -)
-USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION
+*** USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION ***
 § 152.050 USE REGULATIONS.
    (A)   Application. The following use and development standards apply to
 development wholly within, partially within, or in contact with any special
@@ -34524,7 +34523,7 @@ in §
 watercourse results in the relocation or elimination of the special flood
 hazard area, including the placement of culverts.
 (Ord. 2009-14, passed - -)
-APPEALS AND VARIANCES
+*** APPEALS AND VARIANCES ***
 § 152.070 APPEALS BOARD ESTABLISHED.
    (A)   The Village Council is hereby appointed to serve as the Appeals Board
 for these regulations as established by this code.
@@ -34665,7 +34664,7 @@ time after the hearing.
    Those aggrieved by the decision of the Appeals Board may appeal such
 decision to the County Court of Common Pleas, as provided in R.C. Ch. 2506.
 (Ord. 2009-14, passed - -)
-ENFORCEMENT
+*** ENFORCEMENT ***
 § 152.090 COMPLIANCE REQUIRED.
    (A)   No structure or land shall hereafter be located, erected, constructed,
 reconstructed, repaired, extended, converted, enlarged, or altered without full

@@ -54,7 +54,7 @@ TITLE I: GENERAL PROVISIONS
    Chapter
       
 10.   GENERAL PROVISIONS
-OHIO LEGISLATIVE HISTORY REFERENCES – TITLE I
+***** OHIO LEGISLATIVE HISTORY REFERENCES – TITLE I *****
 Ohio Revised Code Section 2025 Basic Code Section
 Ohio Revised Code Section 2025 Basic Code Section
 1.01                      10.01(A)
@@ -506,7 +506,7 @@ TITLE III: ADMINISTRATION
       
 36.   CIVIL ACTIONS AGAINST THE MUNICIPALITY
  
-OHIO LEGISLATIVE HISTORY REFERENCES – TITLE III
+***** OHIO LEGISLATIVE HISTORY REFERENCES – TITLE III *****
 Ohio Revised Code Section 2025 Basic Code Section
 Ohio Revised Code Section 2025 Basic Code Section
 9.312                     32.029
@@ -1289,13 +1289,13 @@ Other Officials
 31.102   Board of Trustees of Public Affairs
    
 31.103   Fire Engineer, Engineer and Superintendent of Markets
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.001 EXECUTIVE POWER; WHERE VESTED.
    The executive power and authority of the municipality shall be vested in the
 Mayor, Clerk, Treasurer, Marshal, Street Commissioner and such other officers
 and departments as are created by law.
 (R.C. § 733.23)
-MAYOR
+**** MAYOR ****
 § 31.015 TERM OF MAYOR; POWERS AND DUTIES.
    The Mayor shall be elected for a term of four years commencing on the first
 day of January next after his or her election. He or she shall be an elector of
@@ -1425,7 +1425,7 @@ for violations of R.C. § 4513.263(B), or any substantially equivalent municipal
 ordinance, all of which shall be forwarded to the Treasurer of State as
 provided in R.C. § 4513.263(E).
 (R.C. § 733.40) (Rev. 2010)
-CLERK
+**** CLERK ****
 § 31.040 ELECTION, TERM, QUALIFICATIONS OF THE CLERK.
    The Clerk shall be elected for a term of four years, commencing on April 1
 next after his or her election. He or she shall be an elector of the
@@ -1579,7 +1579,7 @@ a four- year term commencing on the first day of April following that election.
 (R.C. § 733.262) (Rev. 2011)
 Statutory reference:
 Continuing education programs for fiscal officer, see R.C. § 733.81
-TREASURER
+**** TREASURER ****
 § 31.060 ELECTION, TERM, QUALIFICATIONS OF THE TREASURER.
    The Treasurer shall be elected for a term of four years, commencing on
 January 1 next after his or her election. He or she shall be an elector of the
@@ -1657,7 +1657,7 @@ funds when the officer has performed all official duties required of the
 officer with reasonable care, but shall be liable only when a loss of public
 funds results from the officer’s negligence or other wrongful act.
 (R.C. § 733.82) (Rev. 2023)
-STREET COMMISSIONER
+**** STREET COMMISSIONER ****
 § 31.080 QUALIFICATIONS.
    (A)   So long as the municipality has not provided for the appointment of an
 Administrator under R.C. § 735.271 or a substantially equivalent municipal
@@ -1697,7 +1697,7 @@ other chief executive officer requires.
 shall be employed by the Street Commissioner, and serve for such time and
 compensation as is fixed by the Legislative Authority.
 (R.C. § 735.33)
-OTHER OFFICIALS
+**** OTHER OFFICIALS ****
 § 31.100 LEGAL COUNSEL.
    (A)   Except as provided in division (B) of this section, when it considers
 it necessary, the Legislative Authority may provide legal counsel for the
@@ -2017,7 +2017,7 @@ petitions; ordinances passed or repealed prior to election
 Statutory reference:
 Village accounting and financial reporting, State Auditor regulations, see
 O.A.C. Chapter 117-9
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.001 MEMBERS OF THE LEGISLATIVE AUTHORITY; ELECTION; TERMS OF OFFICE.
    (A)   Except as otherwise provided in division (B) or (C) of this section,
 the legislative power of each municipality shall be vested in, and exercised
@@ -2212,7 +2212,7 @@ owned, maintained or established by the municipality. When the Legislative
 Authority determines to plat any of the streets, it shall provide for the
 platting thereof.
 (R.C. § 735.27) (Rev. 2002)
-CONTRACTS, BIDS AND PROCEEDINGS
+**** CONTRACTS, BIDS AND PROCEEDINGS ****
 § 32.025 CONTRACTS BY THE LEGISLATIVE AUTHORITY OR ADMINISTRATOR.
    (A)   Contracts by the Legislative Authority.
       (1)   All contracts made by the Legislative Authority shall be executed
@@ -2380,7 +2380,7 @@ electronic mail address, or any other designation used for self-identification
 or routing in internet communication or posting, provided for the purpose of
 receiving communication.
 (R.C. § 9.312) (Rev. 2019)
-ORDINANCES AND RESOLUTIONS
+**** ORDINANCES AND RESOLUTIONS ****
 § 32.040 ORDINANCES AND RESOLUTIONS AS EVIDENCE.
    Printed copies of the ordinances and resolutions of the municipality,
 published under its authority, and transcripts of any resolutions or
@@ -2461,7 +2461,7 @@ Authority, for each copy supplied. The Clerk shall post a copy of the text at
 the Clerk’s office and at every other location designated by the Legislative
 Authority.
 (R.C. § 731.21) (Rev. 2024)
-§ 32.046 NOTICE FOR PROPOSED AMENDMENTS TO THE MUNICIPAL CHARTER.
+*** § 32.046 NOTICE FOR PROPOSED AMENDMENTS TO THE MUNICIPAL CHARTER. ***
    In accordance with Section 9 of Article XVIII of the Ohio Constitution,
 notice of proposed amendments to the municipal Charter, if and when one is
 adopted by and for the municipality, shall be given in one of the following
@@ -2563,7 +2563,7 @@ or measures must, upon a yea and nay vote, receive a two-thirds vote of all the
 members elected to the Legislative Authority, and the reasons for the necessity
 shall be set forth in one section of the ordinance or other measure.
 (R.C. § 731.30) (Rev. 2024)
-INITIATIVE AND REFERENDUM
+**** INITIATIVE AND REFERENDUM ****
 § 32.070 INITIATIVE PETITIONS.
    (A)   Ordinances and other measures providing for the exercise of any powers
 of government granted by the Constitution or delegated to the municipality by
@@ -2767,7 +2767,7 @@ initiative or referendum petition.
 (R.C. § 731.40)
    (B)   Whoever violates this section is guilty of a minor misdemeanor.
 (R.C. § 731.99(B)) (Rev. 2002)
-§ 32.081 APPLICATION OF SUBCHAPTER IF CHARTER ADOPTED.
+*** § 32.081 APPLICATION OF SUBCHAPTER IF CHARTER ADOPTED. ***
    This subchapter will not apply to the municipality if and when it adopts its
 own Charter containing an initiative and referendum provision for its own
 ordinances and other legislative measures.
@@ -2821,7 +2821,7 @@ Notification to Registrar of Motor Vehicles regarding arrest warrants; effect
 on certificates of registration and driver’s licenses, see R.C. §§ 4503.13 and
 4507.091
 Registration and reports of Mayor’s Court, see R.C. § 1905.033
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.01 JURISDICTION IN ORDINANCE CASES AND TRAFFIC VIOLATIONS.
    (A)   In all municipalities having a population of more than 200 not being
 the site of a municipal court nor a place where a judge sits pursuant to R.C. §
@@ -3103,7 +3103,7 @@ driver’s license was suspended under this section.
 Cross-reference:
 Driving while intoxicated or drugged, see §
 73.01
-CONTEMPT OF COURT
+**** CONTEMPT OF COURT ****
 § 33.20 SUMMARY PUNISHMENT FOR CONTEMPT.
    A court, or judge at chambers, may summarily punish a person guilty of
 misbehavior in the presence of or so near the court or judge as to obstruct the
@@ -3757,7 +3757,7 @@ Fire prevention, fireworks and explosives, see
 Chapter 91
 Statutory reference:
 Power of municipality to establish a fire department, see R.C. § 715.05
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 35.01 MUNICIPAL FIRE REGULATIONS; FIRE DEPARTMENT.
    The Legislative Authority may establish all necessary regulations to guard
 against the occurrence of fires and protect the property and lives of its
@@ -4153,7 +4153,7 @@ walls are made of iron, stone, brick and mortar, or of some of them, and may
 provide for the removal of any building or additions erected in violation of
 the prohibition.
 (R.C. § 737.28) (Rev. 2002)
-VOLUNTEER FIREFIGHTERS’ DEPENDENTS FUND BOARD
+**** VOLUNTEER FIREFIGHTERS’ DEPENDENTS FUND BOARD ****
 § 35.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5079,7 +5079,7 @@ TITLE VII: TRAFFIC CODE
 75.   BICYCLES, MOTORCYCLES, AND OFF-ROAD VEHICLES
       
 76.   PARKING REGULATIONS
-OHIO LEGISLATIVE HISTORY REFERENCES – TITLE VII
+***** OHIO LEGISLATIVE HISTORY REFERENCES – TITLE VII *****
 Ohio Revised Code Section 2025 Basic Code Section
 Ohio Revised Code Section   2025 Basic Code Section
 2921.331(A) - (C), (E), (F) 70.02
@@ -5443,7 +5443,7 @@ Notice of arrest of certain commercial drivers, see R.C. § 5577.14
 Traffic law photo-monitoring devices, state regulations, see R.C. §§ 4511.092
 et seq.
 Uniform application and precedence of state traffic laws, see R.C. § 4511.06
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    Except as otherwise provided, the definitions set forth in R.C. § 4501.01
 shall apply to this Title, Chapter 95, and the penal laws of the municipality.
@@ -6202,7 +6202,7 @@ the municipal corporation.
 post a notice at the entrance to the storage facility that states the
 limitation on fees established under division (F) of this section.
 (R.C. § 4513.68) (Rev. 2018)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.30 OBEYING TRAFFIC-CONTROL DEVICES.
    (A)   (1)   No pedestrian or driver of a vehicle shall disobey the
 instructions of any traffic-control device placed in accordance with the
@@ -6816,7 +6816,7 @@ agents of Registrar of Motor Vehicles; procedures and rules, see R.C. §§
 Suspension and revocation of driver’s licenses, see R.C. Chapter 4510
 Suspension of driver’s licenses; municipal power to suspend for a period not to
 exceed time permitted or required by state law, see R.C. § 4510.05
-MOTOR VEHICLE LICENSING
+**** MOTOR VEHICLE LICENSING ****
 § 71.01 DISPLAY OF LICENSE PLATES OR VALIDATION STICKERS; REGISTRATION.
    (A)   (1)   No person who is the owner or operator of a motor vehicle shall
 fail to display in plain view on the rear of the motor vehicle a license plate
@@ -7007,7 +7007,7 @@ manufacturer or dealer.
    (B)   Whoever violates division (A) of this section is guilty of illegal
 operation of a manufacturer’s or dealer’s motor vehicle, a minor misdemeanor.
 (R.C. § 4549.10) (Rev. 2021)
-DRIVER’S LICENSES
+**** DRIVER’S LICENSES ****
 § 71.20 PROHIBITED ACTS.
    (A)   No person shall do any of the following:
       (1)   Display or cause or permit to be displayed, or possess any
@@ -8015,7 +8015,7 @@ permit or driver’s or commercial driver’s license, or in violation of a
 restriction because of a substantial emergency, and because no other person was
 reasonably available to drive in response to the emergency.
 (R.C. § 4510.04) (Rev. 2004)
-COMMERCIAL DRIVER’S LICENSES
+**** COMMERCIAL DRIVER’S LICENSES ****
 § 71.45 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8765,7 +8765,7 @@ vehicle
 probationary drivers while driving prohibited
 Statutory reference:
 Notice of arrest of certain commercial drivers, see R.C. § 5577.14
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.001 LANES OF TRAVEL UPON ROADWAYS.
    (A)   Upon all roadways of sufficient width, a vehicle shall be driven upon
 the right half of the roadway, except as follows:
@@ -9260,7 +9260,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.40) (Rev. 2020)
-RIGHT-OF-WAY
+**** RIGHT-OF-WAY ****
 § 72.030 RIGHT-OF-WAY AT INTERSECTIONS.
    (A)   When two vehicles approach or enter an intersection from different
 streets or highways at approximately the same time, the driver of the vehicle
@@ -9634,7 +9634,7 @@ offense, the offender previously has been convicted of two or more predicate
 motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 (R.C. § 4511.48) (Rev. 2004)
-PEDESTRIANS
+**** PEDESTRIANS ****
 § 72.055 PEDESTRIAN MOVEMENT IN CROSSWALKS.
    (A)   Pedestrians shall move, whenever practicable, upon the right half of
 crosswalks.
@@ -9967,7 +9967,7 @@ commercial general liability insurance related to the operation of the devices,
 with limits of up to $1,000,000 per occurrence and $2,000,000 per aggregate.
 (R.C. § 4511.514) (Rev. 2022) Penalty, see §
 70.99
-GRADE CROSSINGS
+**** GRADE CROSSINGS ****
 § 72.075 STOP SIGNS AT GRADE CROSSINGS.
    (A)   As used in this section, ACTIVE GRADE CROSSING WARNING DEVICE means
 signs, signals, gates, or other protective devices erected or installed at a
@@ -10106,7 +10106,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.64) (Rev. 2019)
-SCHOOL BUSES
+**** SCHOOL BUSES ****
 § 72.090 REGULATIONS CONCERNING SCHOOL BUSES.
    (A)   The driver of a vehicle, upon meeting or overtaking from either
 direction any school bus stopped for the purpose of receiving or discharging
@@ -10359,7 +10359,7 @@ has an occupant restraining device, as defined in R.C. § 4513.263, installed
 for use in its operator’s seat.
    (B)   Whoever violates this section is guilty of a minor misdemeanor.
 (R.C. § 4511.772) (Rev. 2004)
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 72.115 OBSTRUCTION AND INTERFERENCE AFFECTING VIEW AND CONTROL OF DRIVER.
    (A)   No person shall drive a vehicle when it is so loaded, or when there
 are in the front seat such number of persons, as to obstruct the view of the
@@ -11271,7 +11271,7 @@ Stopping After Accident
 73.33   Failure to report accident
 Statutory reference:
 Notice of arrest of certain commercial drivers, see R.C. § 5577.14
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 73.01 DRIVING UNDER THE INFLUENCE OF ALCOHOL OR DRUGS.
    (A)   (1)   No person shall operate any vehicle within this municipality,
 if, at the time of the operation, any of the following apply:
@@ -12735,7 +12735,7 @@ dealer who sells mini-trucks at retail.
       (4)   Whoever violates this division (H) shall be penalized as provided
 in division (D) of this section.
 (R.C. § 4519.401) (Rev. 2014)
-STOPPING AFTER ACCIDENT
+**** STOPPING AFTER ACCIDENT ****
 § 73.30 FAILURE TO STOP AFTER ACCIDENT.
    (A)   (1)   In the case of a motor vehicle accident or collision with
 persons or property on a public road or highway, the operator of the motor
@@ -12986,7 +12986,7 @@ helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
 Notice of arrest of certain commercial drivers, see R.C. § 5577.14
 Snowmobiles and all-purpose vehicles, equipment, see O.A.C. § 4501-29-01
 Vehicle lighting, see O.A.C. Chapter 4501-15
-EQUIPMENT
+**** EQUIPMENT ****
 § 74.01 UNSAFE VEHICLES, PROHIBITION AGAINST OPERATION.
    (A)   No person shall drive or move, or cause or knowingly permit to be
 driven or moved, on any highway any vehicle or combination of vehicles which is
@@ -14104,7 +14104,7 @@ prosecuted under appropriate state law.
 or offer for sale in violation of this section shall constitute a separate and
 distinct violation.
 (R.C. § 4549.20) (Rev. 2015)
-LOADS
+**** LOADS ****
 § 74.50 PERMIT REQUIRED TO EXCEED LOAD LIMITS.
    (A)   (1)   The municipality, with respect to highways under their
 jurisdiction, upon application in writing, shall issue a special regional heavy
@@ -14895,7 +14895,7 @@ Statutory reference:
 Bicycle regulations to be consistent with state law, see R.C. § 4511.07(A)(8)
 Protective eye devices required for motorcycle operators and passengers;
 helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 75.01 BICYCLES; APPLICATION OF TITLE VII.
    (A)   The provisions of this title that are applicable to bicycles and
 electric bicycles apply whenever a bicycle or electric bicycle is operated upon
@@ -15201,7 +15201,7 @@ offense, the offender previously has been convicted of two or more predicate
 motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 (R.C. § 4511.56) (Rev. 2020)
-SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES, AND ALL-PURPOSE VEHICLES
+**** SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES, AND ALL-PURPOSE VEHICLES ****
 § 75.25 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -15940,7 +15940,7 @@ TITLE IX: GENERAL REGULATIONS
 95.   UNCLAIMED AND ABANDONED VEHICLES
       
 96.   WATERCRAFT
-OHIO LEGISLATIVE HISTORY REFERENCES – TITLE IX
+***** OHIO LEGISLATIVE HISTORY REFERENCES – TITLE IX *****
 Ohio Revised Code Section 2025 Basic Code Section
 Ohio Revised Code Section  2025 Basic Code Section
 715.261                    93.05(A)
@@ -16327,7 +16327,7 @@ Possession of dangerous wild animals and restricted snakes, requirements and
 licensing, see R.C. Chapter 935
 Rabies: report of dog bite, confinement of animal, report of suspected rabid
 animal, see O.A.C. §§ 3701-3-28 et seq.
-ANIMALS RUNNING AT LARGE
+**** ANIMALS RUNNING AT LARGE ****
 § 90.01 DOGS OR OTHER ANIMALS RUNNING AT LARGE; NUISANCE, DANGEROUS OR VICIOUS
 DOGS; HEARINGS.
    (A)   Animals running at large.
@@ -16744,7 +16744,7 @@ the criminal laws or ordinances that punish cruelty to animals. Nothing in this
 section precludes a law enforcement officer from killing a dog that attacks a
 police dog as defined in R.C. § 2921.321.
 (R.C. § 955.28(A)) (Rev. 2013)
-OFFENSES RELATING TO ANIMALS
+**** OFFENSES RELATING TO ANIMALS ****
 § 90.20 ABANDONING ANIMALS.
    (A)   No owner or keeper of a dog, cat, or other domestic animal shall
 abandon the animal.
@@ -17490,7 +17490,7 @@ Fireworks, state law provisions, see R.C. Chapter 3743
 Ohio Fire Code, see O.A.C. Chapter 1301:7-7
 Open burning, see O.A.C. Chapter 3745-19
 Power to regulate explosives, see R.C. § 715.60
-FIREWORKS AND EXPLOSIVES
+**** FIREWORKS AND EXPLOSIVES ****
 § 91.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18046,7 +18046,7 @@ the municipality and all other persons against injury or damages which might
 result from the proposed blasting.
 Penalty, see §
 91.99
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 91.30 REMOVAL OF FLAMMABLE MATERIALS OR OBSTRUCTIONS.
    Any flammable or combustible materials not arranged or stored in such a
 manner as to afford reasonable safety against the danger of fire, or any matter
@@ -18236,7 +18236,7 @@ her under R.C. § 3737.82.
    (K)   Whoever violates this section is guilty of a misdemeanor of the first
 degree.
 (R.C. § 3701.99(B)) (Rev. 2005)
-OPEN BURNING
+**** OPEN BURNING ****
 § 91.55 DEFINITIONS.
    (A)   General definitions. For the purpose of this subchapter, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -20131,7 +20131,7 @@ Noise, certain nuisance immunity regarding noise at shooting ranges, see R.C. §
 1533.85
 Ohio Building Code, see O.A.C. Chapter 4101:1
 Power to abate and prevent nuisances, see R.C. § 715.44
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 APPLICATION OF THE CHAPTER.
    The provisions of this chapter shall be enforceable within this municipality
 concurrently with the state and federal laws relative to sanitation and health
@@ -20482,7 +20482,7 @@ Penalty, see §
 93.99
 Statutory reference:
 Power to regulate shade trees, see R.C. § 715.20
-SEPTIC TANKS, CESSPOOLS, AND REFUSE
+**** SEPTIC TANKS, CESSPOOLS, AND REFUSE ****
 § 93.20 LOCATION OF PRIVY VAULTS, CESSPOOLS, AND SEPTIC TANKS.
    No owner, occupant, or person in charge of any premises situated as to
 permit connection with any sanitary sewer shall maintain or permit to be
@@ -20666,7 +20666,7 @@ as directed in relation to the improvement of streets.
    (E)   The officers connected with the Health Department of the municipality
 shall see that this section is strictly and promptly enforced.
 (R.C. § 715.47) (Rev. 2012)
-WEEDS AND LITTER ON PRIVATE PROPERTY
+**** WEEDS AND LITTER ON PRIVATE PROPERTY ****
 § 93.40 KEEPING DOWN WEEDS.
    (A)   Any person owning or having charge of land within the municipality
 shall keep such property free and clear from all noxious weeds and rank
@@ -20767,7 +20767,7 @@ entered upon the tax duplicate and be a lien upon such lands from and after the
 date of entry and be collected as other taxes and returned to the municipality
 with the General Fund.
 (R.C. § 731.54)
-UNCLEAN HABITATIONS
+**** UNCLEAN HABITATIONS ****
 § 93.60 PERMITTING UNCLEAN HABITATIONS.
    It shall be unlawful for any person to lease, let, permit the occupancy of,
 permit the continuation of the occupancy of, or continue the occupancy of a
@@ -20890,7 +20890,7 @@ Statutory reference:
 Assessments generally, see R.C. Chapter 727
 Vacation or establishment of streets by court, notice and hearings, see R.C. §§
 723.09 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 CONDITIONS PRECEDENT TO IMPROVING STREETS.
    No department of this municipality shall accept, lay out, open, improve,
 grade, pave, curb or light any street or other way, unless the street or way
@@ -21052,7 +21052,7 @@ to mark the boundary thereof, or for any other purpose.
 (R.C. § 5589.02)
    (B)   Whoever violates this section is guilty of a minor misdemeanor.
 (R.C. § 5589.99(B))
-CONSTRUCTION AND REPAIR
+**** CONSTRUCTION AND REPAIR ****
 § 94.25 CONSTRUCTION AND REPAIR MAY BE REQUIRED.
    In addition to the power conferred upon the municipality under R.C. § 727.01
 to construct sidewalks, curbs or gutters and levy an assessment therefor, the
@@ -21189,7 +21189,7 @@ subchapter shall be construed in accordance with the provisions of R.C. §
 (R.C. § 729.10) (Rev. 1999)
 Statutory reference:
 Assessments generally, see R.C. Chapter 727
-CHANGES IN STREETS
+**** CHANGES IN STREETS ****
 § 94.40 CHANGE OF NAME, VACATING OR NARROWING STREETS BY PETITION.
    The Legislative Authority, on petition by a person owning a lot in the
 municipality requesting that a street or alley in the immediate vicinity of
@@ -24404,7 +24404,7 @@ TITLE XI: BUSINESS REGULATIONS
       
 114.   TATTOOING AND BODY PIERCING SERVICES
  
-OHIO LEGISLATIVE HISTORY REFERENCES – TITLE XI
+***** OHIO LEGISLATIVE HISTORY REFERENCES – TITLE XI *****
 Ohio Revised Code Section 2025 Basic Code Section
 Ohio Revised Code Section 2025 Basic Code Section
 3730.01                   114.01
@@ -25570,7 +25570,7 @@ TITLE XIII: GENERAL OFFENSES
 137.   WEAPONS CONTROL
       
 138.   DRUG OFFENSES
-OHIO LEGISLATIVE HISTORY REFERENCES – TITLE XIII
+***** OHIO LEGISLATIVE HISTORY REFERENCES – TITLE XIII *****
 Ohio Revised Code Section 2025 Basic Code Section
 Ohio Revised Code Section       2025 Basic Code Section
 128.01(A)                       136.20(A)
@@ -38347,8 +38347,8 @@ health or safety if used without the supervision of a licensed health
 professional authorized to prescribe drugs, or a drug of abuse, and that, at
 one time, had been placed in a container plainly marked as a sample by a
 manufacturer.
-SCHEDULE I, SCHEDULE II, SCHEDULE III, SCHEDULE IV or SCHEDULE V. Have the same
-meaning as in R.C. § 3719.01.
+*** SCHEDULE I, SCHEDULE II, SCHEDULE III, SCHEDULE IV or SCHEDULE V. Have the
+same meaning as in R.C. § 3719.01. ***
    SCHOOL. Any school operated by a board of education, any community school
 established under R.C. Chapter 3314, or any nonpublic school for which the
 Director of Education and Workforce prescribes minimum standards under R.C. §
@@ -39856,7 +39856,7 @@ TITLE XV: LAND USAGE
    Chapter
       
 150.   GENERAL PROVISIONS
-OHIO LEGISLATIVE HISTORY REFERENCES – TITLE XV
+***** OHIO LEGISLATIVE HISTORY REFERENCES – TITLE XV *****
 Ohio Revised Code Section 2025 Basic Code Section
 Ohio Revised Code Section 2025 Basic Code Section
 713.01                    150.15(A)
@@ -39902,7 +39902,7 @@ see R.C. §§ 713.07 et seq.
 Revision of plats, see R.C. §§ 711.28 et seq.
 Vacating plats, see R.C. §§ 711.17 et seq.
 Violation of zoning ordinances, see R.C. § 713.13
-PARKS AND RECREATION
+**** PARKS AND RECREATION ****
 § 150.01 RECREATION BOARD.
    (A)   Establishment; powers; membership; Joint Board and District.
       (1)   If the Legislative Authority determines that the power to equip,
@@ -40016,7 +40016,7 @@ resolution or order shall be adopted unless three members vote in its favor.
 The Municipal Clerk shall act as the Clerk of the Board of Park Trustees, but
 shall receive no additional salary or compensation for such services.
 (R.C. § 755.24)
-PLANNING AND ZONING
+**** PLANNING AND ZONING ****
 § 150.15 PLANNING COMMISSION.
    (A)   Establishment; membership; compensation; general powers.
       (1)   The Legislative Authority may establish a commission of five

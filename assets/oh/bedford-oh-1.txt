@@ -828,35 +828,69 @@ Res.         Authorizing to prepare and submit an application to the Northeast O
 2026 Ordinances
  
 Ord. No. Adopt. Date Short Title and Code Sections Affected
-Ord. No. Adopt. Date Short Title and Code Sections Affected
-093-25   1/20/26     Ambulance Service Fees
-001-26   - -         Memorandum of Understanding (MOU) with Cuyahoga Soil and
-                     Water Conservation District
-002-26   - -         Contract with GPD Group
-003-26   - -         Revenue received from cannabis tax dollars be unrestricted
-                     and be received into General Fund
-004-26   - -         Contract with MES
-005-26   - -         Contract with Montrose Ford
-006-26   - -         Contract with Ganley Chrysler of Aurora
-007-26   1/15/26     Agreement with Julian & Grube, Inc
-008-26   - -         Contract with Fallsway Equipment Co., Inc.
-009-26   - -         Accepting Northeast Ohio Public Energy Council (NOPEC)
-                     2026 Energized Community Grant
-010-26   - -         Contract with Southeastern Equipment Company
-011-26   - -         Adopting January 2026 replacement pages
-012-26   - -         Contract with Axon Enterprise, Inc.
-013-26   - -         Contract with Senior Transportation Connection
-014-26   - -         Contract with Signal Service Company
-015-26   - -         Contract with GPD Group
-017-26   3/16/26     Contract with Valley Ford Truck, Inc., for purchase of a
-                     2026 Ford Explorer for Service Department
-018-26   3/16/26     Contract with Valley Ford Truck, Inc., for purchase of two
-                     2026 Ford F250 4x4 pickups for Service Department
-019-26   3/16/26     Appropriations
-                     Contract with Valley Ford Truck, Inc., for purchase of a
-020-26   3/16/26     2026 Ford F250 4x4 pickup for Park and Recreations
-                     Department
-                    
+Ord. Adopt. Short Title and Code Sections Affected
+No.  Date
+093- 1/20/  Ambulance Service Fees
+25   26
+001- - -    Memorandum of Understanding (MOU) with Cuyahoga Soil and Water Conservation
+26          District
+002- - -    Contract with GPD Group
+26
+003- - -    Revenue received from cannabis tax dollars be unrestricted and be received
+26          into General Fund
+004- - -    Contract with MES
+26
+005- - -    Contract with Montrose Ford
+26
+006- - -    Contract with Ganley Chrysler of Aurora
+26
+007- 1/15/  Agreement with Julian & Grube, Inc
+26   26
+008- - -    Contract with Fallsway Equipment Co., Inc.
+26
+009- - -    Accepting Northeast Ohio Public Energy Council (NOPEC) 2026 Energized
+26          Community Grant
+010- - -    Contract with Southeastern Equipment Company
+26
+011- - -    Adopting January 2026 replacement pages
+26
+012- - -    Contract with Axon Enterprise, Inc.
+26
+013- - -    Contract with Senior Transportation Connection
+26
+014- - -    Contract with Signal Service Company
+26
+015- - -    Contract with GPD Group
+26
+017- 3/16/  Contract with Valley Ford Truck, Inc., for purchase of a 2026 Ford Explorer
+26   26     for Service Department
+018- 3/16/  Contract with Valley Ford Truck, Inc., for purchase of two 2026 Ford F250
+26   26     4x4 pickups for Service Department
+019- 3/16/  Appropriations
+26   26
+020- 3/16/  Contract with Valley Ford Truck, Inc., for purchase of a 2026 Ford F250 4x4
+26   26     pickup for Park and Recreations Department
+021- 4/6/26 Contract with Ohio Plan Risk Management, Inc. For property and liability
+26          insurance coverage for the City
+022- 4/6/26 Modification to master service agreement with Simplex-It for additional IT
+26          services, excluding Municipal Court
+023- 4/6/26 Contract with Simplex-It for purchase of three-year firewall subscription
+26
+025-        Agreement with Cuyahoga County Land Reutilization Corporation (CCLRC) for
+26   4/6/26 project management services associated with large-scale demolition project
+            for former University Hospital site
+026- 4/6/26 Contract with Valley Ford Truck Centers for purchase of a 2026 Ford F-450 SD
+26          regular cab truck for Service Department
+027- 4/6/26 Contract with Johnson’s Fire Equipment for purchase of large diameter hose
+26          for Fire Department
+028- 4/6/26 Purchase agreement with Patrick Enterprises, LLC, to purchase real
+26          properties
+029- 4/6/26 Contract with Gametime for replacement of playground equipment at Greencroft
+26          Park
+030- 4/6/26 Declaring property and structure located at 38 Henry Street a nuisance and
+26          condemning the property
+           
+           
  
  
  
@@ -30752,7 +30786,7 @@ is a felony to be prosecuted under appropriate state law.
       (4)    Criminal mischief committed in violation of subsection (a)(7) of
 this section is a felony to be prosecuted under appropriate state law.
          (ORC 2909.07)
-   541.05 CRIMINAL TRESPASS.
+***    541.05 CRIMINAL TRESPASS. ***
    (a)   No person, without privilege to do so, shall do any of the following:
       (1)   Knowingly enter or remain on the land or premises of another;
       (2)   Knowingly enter or remain on the land or premises of another, the
@@ -30877,7 +30911,7 @@ enclosure or room, or portion thereof.
       (5)   “Production Operation, Well, and Well Pad”. Have the same meanings
 as in Ohio R.C. 1509.01.
          (ORC 2911.21)
-   541.051 AGGRAVATED TRESPASS.
+***    541.051 AGGRAVATED TRESPASS. ***
    (a)   (1)   No person shall enter or remain on the land or premises of
 another with purpose to commit on that land or those premises a misdemeanor,
 the elements of which involve causing physical harm to another person or

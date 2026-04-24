@@ -61,8 +61,8 @@ Article V. Additional Provisions
 5.1.   Alcoholic beverage control stores
    
 5.2.   Airport property
-ARTICLE I. INCORPORATION, CORPORATE POWERS
-AND BOUNDARIES
+**** ARTICLE I. INCORPORATION, CORPORATE POWERS
+AND BOUNDARIES ****
 Section 1.1. Incorporation.
    The Town of Wallace, North Carolina, in Duplin and Pender Counties and the
 inhabitants thereof, shall continue to be a municipal body politic and
@@ -83,7 +83,7 @@ inspection, as provided in G.S. 160A-22. Immediately upon alteration of the
 corporate limits, the appropriate filings shall be made in the offices of the
 Secretary of State, the Duplin or Pender County Register of Deeds, and the
 appropriate boards of elections, as required by general law.
-ARTICLE II. GOVERNING BODY
+**** ARTICLE II. GOVERNING BODY ****
 Section 2.1. Mayor and Council.
    The Mayor and Council shall be the governing body of the Town.
 Section 2.2. Council; Composition; Terms of Office.
@@ -113,7 +113,7 @@ Section 2.7. Compensation; Qualifications for Office; Vacancies.
    The compensation and qualifications of the Mayor and Council members shall
 be in accordance with general law. Vacancies that occur in any elective office
 of the Town shall be filled by appointment as provided in G.S. 160A-63.
-ARTICLE III. ELECTIONS
+**** ARTICLE III. ELECTIONS ****
 Section 3.1. Regular Municipal Elections.
    Regular municipal elections shall be held in each odd-numbered year in
 accordance with the uniform municipal election laws of North Carolina.
@@ -128,7 +128,7 @@ years.
 Section 3.4. Special Elections and Referendums.
    Special elections and referendums may be held only as provided by general
 law or applicable local acts of the General Assembly.
-ARTICLE IV. ORGANIZATION AND ADMINISTRATION
+**** ARTICLE IV. ORGANIZATION AND ADMINISTRATION ****
 Section 4.1. Form of Government.
    The Town shall operate under the council-manager form of government, in
 accordance with G.S. Chapter 160A, Article 7, Part 2.
@@ -155,7 +155,7 @@ Section 4.6. Other Administrative Officers and Employees.
 appointment of the Town Manager. The Council may organize the Town government
 as deemed appropriate, including combining any of the offices provided for in
 this Article, subject to the requirements of general law.
-ARTICLE V. ADDITIONAL PROVISIONS
+**** ARTICLE V. ADDITIONAL PROVISIONS ****
 Section 5.1. Alcoholic Beverage Control Stores.
    Alcoholic Beverage Control Stores shall operate within the Town of Wallace
 as provided in Chapter 1004, Session Laws of 1965, as amended, and G.S. Chapter
@@ -409,7 +409,7 @@ Elections
 30.42   Polling place; voter qualifications
    
 30.43   Eligibility to hold office
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 MAYOR; MAYOR PRO TEMPORE.
    (A)   Mayor.
       (1)   The Mayor shall be chief political officer of the town.
@@ -442,7 +442,7 @@ Statutory reference:
    Related provisions, see G.S. Chapter 163, Subchapter IX
    Time of taking office, see G.S. § 160A-68
    Vacancies, see G.S. § 160A-63
-RULES OF PROCEDURE
+**** RULES OF PROCEDURE ****
 § 30.15 REGULAR AND SPECIAL MEETINGS.
    (A)   The Mayor and Council shall meet at the Council Chamber at such time
 as may be fixed by them.
@@ -530,7 +530,7 @@ member of the proper committee of the Council or by the Mayor.
 However, no rule shall be altered or suspended without the consent of two-
 thirds of the members present.
 (Prior Code, § 30.30)
-ELECTIONS
+**** ELECTIONS ****
 § 30.40 COUNTY TO CONDUCT.
    (A)   The Council of the town does hereby request that the County Board of
 Elections conduct the municipal elections and referendums for the town until
@@ -619,7 +619,7 @@ Organizations
 31.41   Depot Commission
    
 31.42   Historic District Protection Program Committee
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 OATH.
    (A)   The Mayor, before entering upon the duties of his or her office, shall
 take and subscribe, before the officer authorized by law to administer oaths,
@@ -659,7 +659,7 @@ Manager on a case-by-case basis.
 riding in emergency vehicles during parades or other community-sponsored
 events.
 (Prior Code, § 34.02) (Res. passed - -2003)
-OFFICIALS
+**** OFFICIALS ****
 § 31.15 CHIEF OF FIRE DEPARTMENT.
    (A)   There shall be appointed every two years by the duly-elected and
 incoming Council, at the first regular Council meeting during the month of
@@ -708,7 +708,7 @@ Council.
 (Prior Code, § 31.23)
 Statutory reference:
    Related provisions, see G.S. § 160A-173
-ORGANIZATIONS
+**** ORGANIZATIONS ****
 § 31.35 AIRPORT COMMISSION.
    (A)   Authority. The Henderson Field Airport Advisory Commission (“the
 Commission”) has been established by the Town Council.
@@ -1349,7 +1349,7 @@ Reporting Requirements
  
    
 50.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.001 PURPOSE, POLICY AND OBJECTIVES.
    (A)   Purpose. The purpose of this chapter is to set forth uniform
 requirements for direct and indirect contributors into the wastewater
@@ -1919,7 +1919,7 @@ sewers.
    Pump stations must be built out with a SCADA system that has the ability to
 communicate with the town’s system.
 (Prior Code, § 50.090) (Ord. passed 9-10-2009)
-CONNECTION AND USAGE
+**** CONNECTION AND USAGE ****
 § 50.020 CONNECTION TO, USE OF PUBLIC SEWER SYSTEM REQUIRED.
    (A)   It shall be unlawful for any person to place, deposit or permit to be
 deposited in any unsanitary manner on public or private property within the
@@ -2070,7 +2070,7 @@ work. Renewal or repair of sewer service from the property line to source of
 discharge shall be the responsibility of the property owner.
 (Prior Code, § 50.025) (Ord. passed 4-12-1984) Penalty, see §
 50.999
-DISCHARGE STANDARDS
+**** DISCHARGE STANDARDS ****
 § 50.040 GENERAL PROHIBITIONS.
    No user shall contribute or cause to be contributed into the POTW, directly
 or indirectly, any pollutant or wastewater which exceeds the local limits
@@ -2325,7 +2325,7 @@ economically practical.
 not otherwise permitted to be discharged by this chapter, a permit issued
 hereunder or any applicable federal or state law.
 (Ord. passed 10-14-2021)
-PRETREATMENT STANDARDS
+**** PRETREATMENT STANDARDS ****
 § 50.060 PRETREATMENT FACILITIES.
    Industrial users shall provide wastewater treatment as necessary to comply
 with this chapter and wastewater permits issued under §§
@@ -2466,7 +2466,7 @@ this chapter.
    Users with potential to discharge flammable substances may be required to
 install and maintain an approved combustible gas detection meter.
 (Ord. passed 10-14-2021)
-FEES
+**** FEES ****
 § 50.080 PURPOSE.
    (A)   It is the purpose of this subchapter to provide for the recovery of
 costs from users of the town’s wastewater collection and treatment system for
@@ -2554,7 +2554,7 @@ discharge procedures, and construction plans and specifications;
    (E)   Other fees as the town may deem necessary to carry out the
 requirements of the pretreatment program.
 (Ord. passed 10-14-2021)
-PERMITS AND AGREEMENTS
+**** PERMITS AND AGREEMENTS ****
 § 50.095 PERMISSION FOR DISCHARGES REQUIRED.
    It shall be unlawful for any person to discharge wastewater to the POTW
 without first obtaining the permission of the POTW Director and/or entering
@@ -2995,7 +2995,7 @@ pretreatment standards and requirements directly against non-compliant
 dischargers in the event the contributing municipality is unable or unwilling
 to take such action.
 (Ord. passed 10-14-2021)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 50.115 AUTHORITY TO CUT OFF SERVICE.
    (A)   All utility accounts are due and payable on the tenth of each month.
 The grace period extends to the fifteenth of each month.
@@ -3344,7 +3344,7 @@ during normal periods of equipment downtime or preventive maintenance; and
 considering its adverse effects, if the POTW Director determines that it will
 meet the three conditions listed in division (C)(3)(a) above.
 (Ord. passed 10-14-2021)
-REPORTING REQUIREMENTS
+**** REPORTING REQUIREMENTS ****
 § 50.135 BASELINE MONITORING REPORTS.
    (A)   Report required. Within either 180 days after the effective date of a
 categorical pretreatment standards or the final administration decision on a
@@ -3793,7 +3793,7 @@ Rates and Charges; Billing
  
    
 51.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.01 INTERFERENCE WITH WATERWORKS PROPERTY PROHIBITED.
    (A)   No person but an authorized employee of the town shall tap any main or
 distributing pipe or open or close any valve on the system nor open or close
@@ -4015,7 +4015,7 @@ before service;
    (R)   Engineer responsible for inspections; and
    (S)   C900 pipe shall be used.
 (Prior Code, § 51.105) (Ord. passed 9-10-2009)
-APPLICATIONS FOR SERVICE; CONNECTIONS
+**** APPLICATIONS FOR SERVICE; CONNECTIONS ****
 § 51.20 APPLICATION REQUIRED.
    (A)   Water shall not be introduced into any premises without application
 having first been made to the Town Administrator and proper permit issued by
@@ -4119,7 +4119,7 @@ borne by the applicant.
 limits line shall become the property of the town, except where lines are on
 private property or are not accompanied by an easement.
 (Prior Code, § 51.024) (Ord. passed 5-30-1974)
-RATES AND CHARGES; BILLING
+**** RATES AND CHARGES; BILLING ****
 § 51.45 WATER SOLD ON METER BASIS ONLY; EXCEPTIONS.
    (A)   All water, unless herein otherwise provided for, shall be sold by
 measure for which purpose the town will install and maintain a proper meter,
@@ -4232,7 +4232,7 @@ Small Business and Commercial Sources
  
    
 52.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.01 APPLICATION AND DEFINITIONS.
    For the purpose of this chapter, the following definitions apply unless the
 context clearly indicates or requires a different meaning.
@@ -4285,7 +4285,7 @@ straw.
 Statutory reference:
    Regulation of trash and garbage, see G.S. § 153A-132.1
    Related provisions, see G.S. § 130A-290(a)(26)
-RESIDENTIAL SOURCES
+**** RESIDENTIAL SOURCES ****
 § 52.15 APPROVED CONTAINERS REQUIRED FOR SOLID WASTE.
    It shall be unlawful for any person to throw, place or deposit any solid
 waste of any kind on any public or private property, except in approved
@@ -4413,7 +4413,7 @@ the budget for each fiscal year’s operation.
    There will be no out-of-town solid waste service, with the exception of the
 current out of town solid waste customers.
 (Prior Code, § 93.25) (Ord. passed 9-10-1992)
-SMALL BUSINESS AND COMMERCIAL SOURCES
+**** SMALL BUSINESS AND COMMERCIAL SOURCES ****
 § 52.40 DESIGNATION OF SMALL BUSINESS SOURCES; CONTAINERS; FEES.
    (A)   Designation of small business sources. If a source of solid waste
 which is not a “residential source”, as defined in §
@@ -4731,7 +4731,7 @@ Manner of Parking
 71.24   Angle parking
 Statutory reference:
    Authority of cities as to parking, see G.S. § 160A-301
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 71.01 PARKING PROHIBITED IN DESIGNATED PLACES.
    When signs are placed, erected or installed giving notice thereof or the
 curbing has been painted yellow in lieu of the signs, no person shall park a
@@ -4841,7 +4841,7 @@ vehicle from one point directly to another point within the same block shall be
 deemed as one continuous parking period.
 (Prior Code, § 72.04) Penalty, see §
 70.99
-MANNER OF PARKING
+**** MANNER OF PARKING ****
 § 71.20 PARALLEL TO CURB.
    Where not otherwise indicated by this chapter and where the street is not
 marked to show how vehicles shall park, all vehicles shall park parallel to the
@@ -4887,7 +4887,7 @@ Golf Carts
 72.06   Registration and permit requirements
    
 72.07   Rules and regulations
-GOLF CARTS
+**** GOLF CARTS ****
 § 72.01 AUTHORITY TO REGULATE.
    Pursuant to G.S. § 160A-300.6, the town is authorized, by ordinance, to
 regulate the operation of golf carts on any public street, road or highway
@@ -5929,7 +5929,7 @@ Chapter 93
 Chapter 52
    Public nuisances affecting morals and decency, see §
 130.02
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 92.01 SALE OF INFECTED CLOTHING.
    It shall be unlawful to sell or offer for sale any infected clothing, bed
 linen or other infected clothes or articles.
@@ -5968,8 +5968,8 @@ signs to be placed on or within appurtenant premises and parks.
 unlawful within the corporate limits of the town.
 (Prior Code, § 96.02) Penalty, see §
 92.99
-WEEDS, VEGETATION, REFUSE ACCUMULATION AND OTHER PUBLIC NUISANCES; ENFORCEMENT
-AND ABATEMENT
+**** WEEDS, VEGETATION, REFUSE ACCUMULATION AND OTHER PUBLIC NUISANCES;
+ENFORCEMENT AND ABATEMENT ****
 § 92.15 ACCUMULATION OF HARMFUL SUBSTANCES DECLARED TO BE PUBLIC NUISANCE.
    (A)   The unloading, depositing, or piling of fertilizer, lime, manure,
 agricultural or industrial chemicals, or like substances and allowing such
@@ -6137,7 +6137,7 @@ notified of the amount due, the city may recover the penalty together with all
 costs by filing a civil action in the general court of justice in the nature of
 a suit to collect a debt.
 (Ord. 25-04, passed 6-12-2025)
-NOISE REGULATIONS
+**** NOISE REGULATIONS ****
 § 92.35 UNNECESSARY NOISES PROHIBITED.
    Subject to the provisions of this subchapter, the creation of any
 unreasonably loud, disturbing and unnecessary noise in the town is prohibited.
@@ -6279,7 +6279,7 @@ the provisions of this subchapter.
 is participating in a school band or in a parade for which a permit has been
 issued by the town.
 (Prior Code, § 96.38) (Ord. passed 10-5-1982)
-GENERATORS
+**** GENERATORS ****
 § 92.45 REGULATION OF USE OF GENERATORS.
    (A)   "Generator" is defined, for purposes of this section, as a device or
 equipment intended solely for the generation, or supply, of electricity to a
@@ -7356,7 +7356,7 @@ Bankrupt Sales
 110.47   False advertisements prohibited
    
 110.48   License forfeited
-BUSINESS REGISTRATION
+**** BUSINESS REGISTRATION ****
 § 110.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -7588,7 +7588,7 @@ appeal shall be in writing, and shall be delivered to the Town Clerk within 30
 days after notice of such refusal or denial has been sent or otherwise
 delivered to the agent or person.
 (Ord. 2016-001, passed 1-14-2016)
-BANKRUPT SALES
+**** BANKRUPT SALES ****
 § 110.40 WHEN LICENSE VOID.
    Any person engaged in the mercantile or other business shall make an
 assignment for the benefit of creditors or when the person shall be adjudicated
@@ -7993,7 +7993,7 @@ Carnivals, Circuses and Shows
 113.08   Regulations of funds; audit of account
    
 113.09   Prohibited activities
-CARNIVALS, CIRCUSES AND SHOWS
+**** CARNIVALS, CIRCUSES AND SHOWS ****
 § 113.01 CERTAIN ORGANIZATIONS PERMITTED.
    It is lawful for an exempt organization to advertise and conduct carnivals,
 shows, circuses and parades whereby there is provided, for entertainment
@@ -8129,7 +8129,7 @@ Licensing Regulations
 114.24   Revocation of license
    
 114.25   Failure to obtain license
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 114.01 PURPOSE.
    The purpose of this chapter shall be to protect the general health, safety,
 welfare and morals of the citizens of the town.
@@ -8184,7 +8184,7 @@ person holding a license as a masseur or masseuse shall be in the same room
 where the massage is being administered during the entire time of the giving of
 the massage.
 (Prior Code, § 115.13) (Ord. passed 11-13-1975)
-LICENSING REGULATIONS
+**** LICENSING REGULATIONS ****
 § 114.20 LICENSING PROVISIONS.
    The following licensing provisions hereafter specified are ordained for the
 privilege of carrying on the business, trade or profession of masseur or
@@ -8283,7 +8283,7 @@ Short-Term Lease or Rental of Vehicles
  
    
 115.99   Penalty
-TAXICABS
+**** TAXICABS ****
 § 115.01 PERMIT REQUIRED.
    No person shall drive any taxicab carrying passengers for hire from place to
 place within the corporate limits or within a distance of five miles thereof
@@ -8368,7 +8368,7 @@ secured the liability insurance herein provided for.
 Statutory reference:
    Filing proof of financial responsibility with municipality, see G.S. § 20-
 280
-SHORT-TERM LEASE OR RENTAL OF VEHICLES
+**** SHORT-TERM LEASE OR RENTAL OF VEHICLES ****
 § 115.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -8681,7 +8681,7 @@ Bars and Nightclubs
 117.02   Parking
    
 117.03   Operating rules
-BARS AND NIGHTCLUBS
+**** BARS AND NIGHTCLUBS ****
 § 117.01 LOCATION.
    No bar or nightclub may be located closer than 500 feet to a church, school,
 hospital, day care or other bar or nightclub.
@@ -9365,7 +9365,7 @@ Airport Rules and Regulations
 Statutory reference:
    Model Airport Zoning Act, see G.S. §§ 63-30 et seq.
    Specific powers of municipalities operating airports, see G.S. § 63-53
-AIRPORT ZONING CODE
+**** AIRPORT ZONING CODE ****
 § 153.01 TITLE.
    This subchapter shall be known and may be cited as the “Town Municipal
 Airport Zoning Code”.
@@ -9669,7 +9669,7 @@ provided in G.S. § 160A-388 of the public laws of the state.
 (Prior Code, § 150.11) (Ord. passed 3-14-1963)
 Statutory reference:
    Related provisions, see G.S. § 160A-388
-MINIMUM STANDARDS
+**** MINIMUM STANDARDS ****
 § 153.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -10107,7 +10107,7 @@ subchapter without requiring any action on the part of the Town Council. A copy
 of these minimum standards and any adopted changes will be available at the
 Town Manager’s office.
 (Ord. passed - -2019)
-AIRPORT RULES AND REGULATIONS
+**** AIRPORT RULES AND REGULATIONS ****
 § 153.40 AUTHORITY AND APPLICATION.
    (A)   The town, a municipal corporation of the state, hereby adopts and
 approves the following airport rules and regulations for the operation and use
@@ -10536,7 +10536,7 @@ Storm Water Utility
 154.22   Fee structure
    
 154.23   Appeals
-STORM WATER DRAINAGE CONTROL
+**** STORM WATER DRAINAGE CONTROL ****
 § 154.01 GENERAL POLICY.
    (A)   It shall be the policy of the town to require that all developed land
 within its jurisdiction have sufficient storm water management controls in
@@ -10857,7 +10857,7 @@ and of the property on which the facility is located.
 (Prior Code, § 52.08) (Ord. passed - -1997)
 Statutory reference:
    Related provisions, see G.S. § 160A-193
-STORM WATER UTILITY
+**** STORM WATER UTILITY ****
 § 154.20 GENERAL POLICY.
    (A)   It shall be the policy of the town to create a storm water utility for
 the purpose of funding operation, maintenance and improvement of storm water
@@ -10946,7 +10946,7 @@ Flood Hazard Reduction
  
    
 155.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 155.01 AUTHORIZATION; FINDINGS OF FACT.
    (A)   Statutory authorization. The legislature of the state has, in G.S. §§
 143-215.56, and 153A-11, delegated the responsibility to local governmental
@@ -11149,7 +11149,7 @@ shall not create liability on the part of the town or by any officer or
 employee thereof for any flood damages that result from reliance on this
 chapter or any administration decision lawfully made thereunder.
 (Prior Code, § 151.11) (Ord. passed 1-8-1987)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 155.20 DEVELOPMENT PERMIT.
    (A)   A development permit shall be required in conformance with the
 provisions of this chapter.
@@ -11322,7 +11322,7 @@ upon request.
 (Prior Code, § 151.27) (Ord. passed 1-8-1987)
 Statutory reference:
    Related provisions, see G.S. Chapter 7A
-FLOOD HAZARD REDUCTION
+**** FLOOD HAZARD REDUCTION ****
 § 155.35 GENERAL STANDARDS.
    In all areas of special flood hazard, the following provisions are required.
    (A)   Anchoring.
