@@ -23,8 +23,8 @@ TOWN MANAGER  Peter Franzese
 TOWN CLERK    Anna Kanode Ward
  
 TOWN CHARTER AMENDMENTS
-PART I
-CHARTER AMENDMENTS*
+***** PART I
+CHARTER AMENDMENTS* *****
 Sec. 1. Appointment, qualifications, term, compensation and duties of town
 manager.
    The charter of the Town of Spencer be and the same is hereby amended by
@@ -53,7 +53,7 @@ Statutory reference:
    Session Laws 1957, ch. 870, was ratified May 29, 1957; councilmanager form
 of government,
     G.S.§§ 160A-147 et seq.
-Sec. 2. Elections.
+*** Sec. 2. Elections. ***
    The board of aldermen of the Town of Spencer, pursuant to North Carolina
 General Statutes section 160A-102, that the Spencer town charter, chapter C,
 entitled “Elections,” is hereby amended as follows:
@@ -1170,7 +1170,7 @@ districts
 Statutory reference:
    Authority of town to establish, organize, equip, maintain and prescribe
 duties of Fire Department, see G.S. § 160A-291
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 32.20 APPOINTMENT OF THE FIRE CHIEF.
    The Town Manager shall approve the appointment of a Chief of the Fire
 Department.
@@ -1245,7 +1245,7 @@ extinguishing the fire or in removing any goods, wares, merchandise or
 furniture from any building on fire or in danger to some place of safety. No
 person shall fail to obey any order given for this purpose.
 (`94 Code, § 7-27)
-HISTORIC PRESERVATION COMMISSION
+**** HISTORIC PRESERVATION COMMISSION ****
 § 32.35 HISTORIC PRESERVATION COMMISSION.
    (A)   There is hereby established a Spencer Historic Preservation Commission
 ("Commission") under the authority of G.S. Ch. 160A, Art. 19, Part 3C.
@@ -2386,7 +2386,7 @@ seq., 20-169
 official map books, see G.S. § 160A-77(b)
    Motor vehicles and traffic generally, see G.S. §§ 20-1 et seq.
    Powers of local authorities generally, see G.S. § 20-169
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 71.01 OBEDIENCE TO POLICE REQUIRED.
    No person shall refuse to comply with any lawful order or direction of a
 police officer made pursuant to this chapter or other ordinance relative to
@@ -2429,7 +2429,7 @@ front or driver's seat of a motor vehicle.
 Penalty, see § 70.99
 Statutory reference:
    Overloaded or overcrowded vehicles, see G.S. § 20-140.2
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 71.20 OFFICIAL TRAFFIC MAPS; ERECTION AND INSTALLATION.
    (A) The Board, by ordinance from time to time, shall designate, lay off and
 indicate upon maps to be appropriately marked and maintained in the office of
@@ -2476,7 +2476,7 @@ directions of the indications.
 Statutory reference:
    Turning at intersections generally and authority of town to alter turning
 methods by placement of buttons, markers and the like, see G.S. § 20-153
-OPERATION OF VEHICLES
+**** OPERATION OF VEHICLES ****
 § 71.35 STOP INTERSECTIONS.
    When stop signs are placed at stop intersections as designated on the
 official traffic maps, every driver of a vehicle shall stop before entering the
@@ -3459,7 +3459,7 @@ Statutory reference:
 going at large of domestic animals, see G.S. § 160A-186
    Dogs generally, see G.S. §§ 67-1 et seq.
    Regulation of possession or harboring of wild animals, G.S. § 160A-187
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 BIRD SANCTUARY.
    (A)   There is hereby created and established a bird sanctuary within the
 town limits, provided that any birds classed as predatory by the State Wildlife
@@ -3526,7 +3526,7 @@ or squares.
 County Animal Control Ordinance, and gives authority to Rowan County Animal
 Control oficials to operate within the jurisdiction of the town.
 (Ord. 06-05, passed 5-9-06)
-DOMESTIC ANIMALS
+**** DOMESTIC ANIMALS ****
 § 91.20 DEFINITIONS.
    As used in this subchapter, the following definitions shall apply unless the
 context clearly indicates or requires a different meaning.
@@ -3620,7 +3620,7 @@ to exist pursuant to this section within 24 hours from the time of notification
 shall be deemed guilty of a misdemeanor.
 (`94 Code, § 3-28) (Am. Ord. passed 6-8-04; Am. Ord. 06-05, passed 5-9-06)
 Penalty, see § 91.99
-INHERENTLY DANGEROUS ANIMALS
+**** INHERENTLY DANGEROUS ANIMALS ****
 § 91.40 STRICT LIABILITY.
    The owner or keeper of an inherently dangerous animal shall be strictly
 liable in civil damages for injuries or property damage the inherently
@@ -3782,7 +3782,7 @@ Cross-reference:
 Statutory reference:
    Authority of town as to fire protection, G.S. §§ 160A-291 et seq.
    Fire protection generally, see G.S. §§ 58-79-1 et seq.
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 93.01 INTERFERENCE WITH FIRE DEPARTMENT PROHIBITED.
    (A)   No person shall be in the vicinity of a fire in a way so as to
 interfere with the duties of the Fire Department, nor shall any vehicle be
@@ -3892,7 +3892,7 @@ equipment, such as a garden hose of sufficient length, must be readily
 available.
 (Ord. 10-12, passed 11-9-10) Penalty, see §
 93.99
-PUBLIC NUISANCES
+**** PUBLIC NUISANCES ****
 § 93.20 ENFORCEMENT.
    The Town Manager shall appoint an individual as enforcement officer for this
 subchapter. The individual so appointed shall have the duty of full enforcement
@@ -4176,7 +4176,7 @@ given, take action to remedy the violation, and the expense of such action
 shall become a lien upon the property and shall be collected as unpaid taxes.
 The owner would receive an annual notice via certified mail.
 (Ord. 13-01, passed 1-8-13; Am Ord. 17-013, passed 7-11-17)
-RESIDENTIAL RENTAL PROPERTY AND REMEDIAL ACTION PROGRAM
+**** RESIDENTIAL RENTAL PROPERTY AND REMEDIAL ACTION PROGRAM ****
 § 93.40 RESIDENTIAL RENTAL PROPERTY AND REMEDIAL ACTION PROGRAM PURPOSE.
    (A)   The purpose of this article is to establish a method to hold owners of
 residential rental property accountable for failing to use effective methods to
@@ -4680,7 +4680,7 @@ Statutory reference:
 see G.S. § 160A-307
    Establishment and control by town of streets, sidewalks, alleys and the like
 generally, see G.S. § 160A-296
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 ENCROACHMENT UPON STREETS AND SIDEWALKS PROHIBITED.
    (A)   It shall be the duty of the Chief of Police to notify all persons
 about to erect any buildings, sidewalks, walls or fences near the street or any
@@ -4808,7 +4808,7 @@ the Historic District along either side of Salisbury Avenue, between Jefferson
 Street and 17th Street (see also §
 155.063 , Mailboxes within Historic District).
 (Ord. 14-09, passed 9-9-14)
-PARADES, PROCESSIONS, MEETINGS AND PICKETING
+**** PARADES, PROCESSIONS, MEETINGS AND PICKETING ****
 § 94.20 DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4917,7 +4917,7 @@ police.
 obstructed by a crowd, the persons composing the crowd shall disperse or move
 on when so directed by a police officer, as provided in § 94.28.
 (`94 Code, § 11-33)
-PUBLIC FESTIVALS AND SPECIAL EVENTS WITHIN THE TOWN LIMITS
+**** PUBLIC FESTIVALS AND SPECIAL EVENTS WITHIN THE TOWN LIMITS ****
 § 94.30 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5073,7 +5073,7 @@ and any other town ordinance, the provisions of this subchapter shall control.
 The enactment of this suchapter, however, shall not result in any change of the
 general applicability of any other town ordinance.
 (Ord. 13-05, passed 9-10-13)
-EXCAVATIONS
+**** EXCAVATIONS ****
 § 94.40 PERMIT REQUIRED.
    No person shall make any excavation, or cut or make any other opening in any
 of the streets or sidewalks, without first having obtained a permit therefor
@@ -5100,7 +5100,7 @@ opening is left unfilled in violation of this section shall constitute a
 separate offense.
 (`94 Code, § 13-21)
 Penalty, see § 94.99
-DRIVEWAY CONSTRUCTION
+**** DRIVEWAY CONSTRUCTION ****
 § 94.55 PERMIT REQUIRED; SUPERVISION OF WORK.
    (A)   It shall be unlawful for any person to break any street curb for the
 purpose of constructing a driveway entrance, or to construct any driveway
@@ -5143,7 +5143,7 @@ not be less than 15 inches inside diameter unless otherwise directed by the
 Superintendent of Public Works. An approved list of pipe materials is available
 from the Superintendent of Public Works.
 (`94 Code, § 13-34) (Am. Ord. 07-08, passed 10-9-07)
-POLES AND WIRES
+**** POLES AND WIRES ****
 § 94.70 PERMIT REQUIRED.
    (A)   No poles for electric, telegraph, telephone or other purposes shall be
 placed on any street without a permit therefor being obtained from the town.
@@ -5665,7 +5665,7 @@ Operation
 113.64   Inspections
 Statutory reference:
    Regulation of taxis, see G.S. § 160A-304
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 113.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5719,7 +5719,7 @@ be canceled, ten days' notice shall be given to the Chief of Police by the
 insurance carrier prior to the date of the cancellation.
 (Ord. 00-08, passed 10-10-00)
 Penalty, see § 10.99
-CERTIFICATE
+**** CERTIFICATE ****
 § 113.15 CERTIFICATE REQUIRED.
    It shall be unlawful for any person to operate a taxicab or permit a taxicab
 owned or controlled by him or her to be operated as a vehicle for hire upon
@@ -5852,7 +5852,7 @@ next regular meeting occurring not less than 30 days after the date the
 application is submitted. The Board shall review the application and shall take
 action based on the criteria listed in § 113.19.
 (Ord. 00-08, passed 10-10-00)
-TAXICAB DRIVER'S PERMIT
+**** TAXICAB DRIVER'S PERMIT ****
 § 113.40 PERMIT REQUIRED.
    (A)   For the purpose of this subchapter, the following definitions shall
 apply unless the context clearly indicates or requires a different meaning.
@@ -5966,7 +5966,7 @@ his or her driver's permit in a place so to be in full view of all passengers
 while the driver is operating a taxicab and in conformance with regulations
 established by the Police Department.
 (Ord. 00-08, passed 10-10-00)
-OPERATION
+**** OPERATION ****
 § 113.60 VEHICLE EQUIPMENT.
    All taxicabs operated within the town shall be equipped and maintained in a
 satisfactory condition so as to comply with the State General Statutes and the
@@ -6559,7 +6559,7 @@ Statutory reference:
    Building inspection, see G.S. §§ 160A-411 et seq.
    State Building Code and Building Code Council, see G.S. §§ 143-136 et seq.
    State minimum housing standards, see G.S. §§ 160A-441 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 STATE BUILDING CODE ADOPTED.
    The State Building Code, including regulations for building, residential
 building, electricity, gas, heating and air conditioning, plumbing and other
@@ -6575,7 +6575,7 @@ corporate limits.
 Statutory reference:
    Authority of town as to establishment of fire limits and the like, see G.S.
 §§ 160A-435 et seq.
-UNSAFE BUILDINGS
+**** UNSAFE BUILDINGS ****
 § 150.15 DUTY OF BUILDING INSPECTOR.
    (A)   Any building, structure or part thereof, partially destroyed or
 otherwise, which is found by the Building Inspector to be in such a dilapidated
@@ -6808,7 +6808,7 @@ Administration and Enforcement
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6979,7 +6979,7 @@ buildings.
 Extensions of this time requirement may be issued by the Commercial Maintenance
 Board of Adjustments and appeals upon showing of cause by the property owner.
 (`94 Code, § 4-102) (Ord. passed 8-9-88)
-DUTIES AND RESPONSIBILITIES OF OWNER
+**** DUTIES AND RESPONSIBILITIES OF OWNER ****
 § 152.20 RELATIONSHIP OF DUTIES AND RESPONSIBILITIES TO OCCUPANCY.
    The provisions of this chapter that apply to the exterior or exterior
 components of a structure or building shall be complied with whether the
@@ -7156,7 +7156,7 @@ right-of-way shall be repaired or replaced at no expense to the town when the
 damage is caused by vehicles making deliveries to the commercial premises under
 the control of the owner.
 (`94 Code, § 4-122) (Ord. passed 8-9-88)
-DUTIES AND RESPONSIBILITIES OF OPERATOR
+**** DUTIES AND RESPONSIBILITIES OF OPERATOR ****
 § 152.45 ENSURING COMPLIANCE.
    It shall be the duty and responsibility of the operator to ensure compliance
 with this subchapter.
@@ -7195,7 +7195,7 @@ utility or equipment required to be furnished hereunder and the same is found
 to be defective or inoperable, the operator affected thereby shall, upon
 learning of the defect, provide notice to the owner.
 (`94 Code, § 4-136) (Ord. passed 8-9-88)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 152.65 MAINTENANCE CODE ADMINISTRATOR.
    (A)   The Maintenance Code Administrator is hereby established and shall be
 the person delegated as the same by the Town Manager. It shall be his or her
@@ -7391,7 +7391,7 @@ Administration and Enforcement
 153.99   Penalty
 Statutory reference:
    Floodway regulation, see G.S. §§ 143-215.51 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7709,7 +7709,7 @@ not re-enacted herein are repealed.
 municipal jurisdiction within Rowan County is as follows: Town of Spencer
 Incorporated Area, dated December 17, 1979.
 (Ord. 09-02, passed 6-15-09)
-FLOOD HAZARD REDUCTION
+**** FLOOD HAZARD REDUCTION ****
 § 153.25 GENERAL STANDARDS.
 In all areas of special flood hazard the following provisions are required:
    (A)   All new construction and substantial improvements shall be anchored to
@@ -7854,7 +7854,7 @@ that level is watertight with walls substantially impermeable to the passage of
 water and with structural components having the capability of resisting
 hydrostatic and hydrodynamic loads and effects of buoyancy.
 (`94 Code, § 4-164) (Ord. passed 6-9-87)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 153.40 ENFORCEMENT OFFICER.
    (A)   The Zoning Administrator is hereby appointed to administer and
 implement the provisions of this chapter.
@@ -8098,7 +8098,7 @@ Administration
 154.99   Penalty
 Statutory reference:
    Subdivision regulations, see G.S. §§ 160A-371 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.01 TITLE.
    This chapter shall be known and may be cited as the “Subdivision Regulations
 for the Town of Spencer, North Carolina,” and may be referred to as the
@@ -8366,7 +8366,7 @@ others as deemed necessary.
 Statutory reference:
    Representation of extraterritorial area, see G.S. § 160A-362
    State law as to extraterritorial jurisdiction, see G.S. § 160A-360
-PLAT REVIEW AND APPROVAL
+**** PLAT REVIEW AND APPROVAL ****
 § 154.20 APPROVAL AND RECORDATION REQUIRED.
    (A)   No land shall be subdivided nor any construction or improvements such
 as streets, storm drainage or grubbing and grading, as related to the
@@ -8880,7 +8880,7 @@ Subdivision Ordinance of the Town of Spencer, North Carolina.
       ____________________________
       Town Planner
 (`94 Code, App. B, Art. V, § 5)
-DESIGN STANDARDS; IMPROVEMENTS
+**** DESIGN STANDARDS; IMPROVEMENTS ****
 § 154.40 DEVELOPMENT DESIGN STANDARDS.
    (A)   The location and width of all proposed streets shall be in conformity
 with official plans or maps of the town and with existing or amended plans of
@@ -9297,7 +9297,7 @@ located on the periphery to the extent reasonably feasible to do so.
          (d)   Any areas designated as common open space shall have a minimum
 width of 20 feet.
 (Ord. 10-01, passed 3-9-10)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 154.55 AMENDMENTS.
    The Town Board of Aldermen may from time to time amend the terms of this
 chapter, but no amendment shall become effective until it shall have been
@@ -9542,7 +9542,7 @@ Appendix B:     Commercial corridor overlay district (CC) - visual developm
 guide
 Statutory reference:
    Zoning generally, see G.S. §§ 160A-381 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 155.001 AUTHORITY AND ENACTMENT.
    In pursuance of authority granted by the State General Assembly in the State
 General Statutes, specifically G.S. §§ 160A-360 et seq., the town may enforce
@@ -10367,7 +10367,7 @@ passed 9-13-05; Am. Ord. 05-07, passed 12-13-05; Am. Ord. 06-10, passed 6-13-
 8-10-10; Am. Ord. 11-01, passed 6-14-11; Am. Ord. 11-06, passed 8-9-11; Am.
 Ord. 12-01, passed 7-10-12; Am. Ord. 12-06, passed 12-11-12; Am. Ord. 14-02,
 passed 4-8-14; Am. Ord. 14-05, passed 5-13-14; Am. Ord. 14-12, passed 9-9-14)
-DISTRICT REGULATIONS
+**** DISTRICT REGULATIONS ****
 § 155.020 PURPOSE.
    The purpose of this subchapter is to list and describe the zoning districts
 herein adopted. A person seeking to rezone a tract of land may choose to
@@ -10951,7 +10951,7 @@ passed 11-10-09; Am. Ord. 10-05, passed 4-13-10; Am. Ord. 10-09, passed 7-13-
 11-01, passed 6-14-11; Am. Ord. 12-05, passed 11-13-12; Am. Ord. 12-06, passed
 12-11-12; Am. Ord. 14-02, passed 4-8-14; Am. Ord. 14-05, passed 5-13-14; Am.
 Ord. 14-06, passed 6-10-14; Am. Ord. 14-12, passed 9-9-14)
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 155.040 CONFORMANCE REQUIRED.
    (A)   No building or land shall hereafter be used and no building or part
 thereof shall be erected, moved or altered except in conformity with the
@@ -11655,7 +11655,7 @@ lot (example: off-street parking requirements, buffering requirements).
 Historic District (see also §
 94.11, Mailboxes Outside of Historic District).
 (Ord. 14-10, passed 9-9-14)
-DEVELOPMENT REQUIREMENTS
+**** DEVELOPMENT REQUIREMENTS ****
 § 155.070 INTENT.
    (A)   It is the intent of this chapter to provide general standards for
 development in the town and its zoning jurisdiction to insure that the
@@ -12772,7 +12772,7 @@ main entrance corridors are defined as N US 29 Hwy/Salisbury Ave, Long Ferry
 Rd. 3rd Street/Hollywood Dr. and 7th Street/7th Street Extension.
 (Ord. 14-05, passed 5-13-14; Am. Ord. 14-12, passed 9-9-14; Am. Ord. 17-002,
 passed 3-14-17)
-SIGN REGULATIONS
+**** SIGN REGULATIONS ****
 § 155.085 PURPOSE.
    The purpose of this subchapter is to encourage and permit signs that will by
 reason, size, location, construction, or manner of display promote the public
@@ -13113,7 +13113,7 @@ subchapter.
 Cross-reference:
    Persistent violations, see §
 155.999(C)
-INTERPRETATIONS, APPEALS, VARIANCES AND AMENDMENTS
+**** INTERPRETATIONS, APPEALS, VARIANCES AND AMENDMENTS ****
 § 155.110 INTERPRETATIONS.
    (A)   Where there is any uncertainty as to the intent or actual meaning of
 any provision of this chapter, or as to the intended location of any zoning
@@ -13574,7 +13574,7 @@ application for any zoning change or amendment to this chapter. The fees are
 set by the Town Board to cover the cost of processing and advertising. These
 fees are subject to change from time to time.
 (`94 Code, App. C, Art. X, § 9)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 155.134 TOWN BOARD.
    (A)   The Town Board of Aldermen, as the governing body of the town, acts in
 its legislative capacity when considering proposed amendments to the text of
@@ -14204,7 +14204,7 @@ housing standards,
 Cross reference:
    Administration, Ch. 2; buildings, Ch. 7; fire prevention and protection, Ch.
 9; "rooming house" defined, § 1-2.
-GENERAL
+**** GENERAL ****
 § 160.01 HOUSING CODE ESTABLISHED; TITLE.
    There are hereby established rules and regulations for the repair or
 elimination of unfit and/or unsafe housing conditions in the Town of Spencer,
@@ -14466,7 +14466,7 @@ or alterations as are necessary to effect compliance with the provisions of
 this chapter or with any lawful order issued pursuant to the provisions of this
 chapter.
 (Ord. 16-12, passed 11-15-16)
-MINIMUM HOUSING INSPECTOR
+**** MINIMUM HOUSING INSPECTOR ****
 § 160.26 CREATION OF OFFICE.
    There is hereby created the office of minimum housing inspector in the land
 management department and for the town.
@@ -14580,7 +14580,7 @@ compensation for engineering advice on plans and specifications submitted.
 (Ord. 16-12, passed 11-15-16)
 State law reference:
    Building inspection, G.S. 160A-411 et seq.
-MINIMUM HOUSING STANDARDS
+**** MINIMUM HOUSING STANDARDS ****
 § 160.51 APPLICABILITY OF SUBCHAPTER; COMPLIANCE.
    Every dwelling and dwelling unit used as a human habitation or held out for
 use as a human habitation shall comply with all of the minimum standards of
@@ -15046,7 +15046,7 @@ State Building Code. Vents serving range hoods shall not terminate in an attic
 or crawl space or other areas inside the building. Unvented range hoods must be
 installed per manufacturer's recommendations.
 (Ord. 16-12, passed 11-15-16)
-VACANT, NEGLECTED, ABANDONED RESIDENTIAL PROPERTIES
+**** VACANT, NEGLECTED, ABANDONED RESIDENTIAL PROPERTIES ****
 § 160.61 VACANT, NEGLECTED AND ABANDONED RESIDENTIAL PROPERTIES.
    (A)   Purpose and intent. The Town of Spencer Board of Aldermen recognizes
 that residential properties exist within the town limits that are vacant,
@@ -15125,7 +15125,7 @@ contained herein within 90 days after the effective date of this chapter. If
 after 90 days, an owner has failed to board up a residential structure in
 compliance with this chapter shall be in violation of this code.
 (Ord. 16-12, passed 11-15-16)
-INVENTORY OF RESIDENTIAL STRUCTURES
+**** INVENTORY OF RESIDENTIAL STRUCTURES ****
 § 160.71 INVENTORY OF VACANT RESIDENTIAL STRUCTURES
    (A)   No owner shall board up a residential structure without notifying the
 inspector for the town, no later than 48 hours after boarding it up in
@@ -15170,7 +15170,7 @@ added to the vacant residential structure inventory, the owner shall be in
 violation of this code.
 (Ord. 16-12, passed 11-15-16)
 2017 S-10
-BOARDING/ROOMING HOUSES
+**** BOARDING/ROOMING HOUSES ****
 § 160.76 APPLICABILITY OF CHAPTER.
    All of the provisions of this chapter shall be applicable to boarding/
 rooming houses and to every person who operates a rooming house or who occupies
@@ -15208,7 +15208,7 @@ for the sanitary maintenance of the entire premises where the entire structure
 or building within which the rooming house is contained is leased or occupied
 by the operator.
 (Ord. 16-12, passed 11-15-16)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 160.86 COMPLIANCE WITH ORDERS; VIOLATIONS.
    (A)   It shall be unlawful for the owner of any dwelling or dwelling unit,
 including abandoned, vacant, or neglected residential structures, to fail,
