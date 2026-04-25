@@ -55,7 +55,7 @@ TABLE OF CONTENTS
       
 14.   TRANSITION SCHEDULE
       INDEX
-PREAMBLE
+***** PREAMBLE *****
    We, the people of the City of Burton, Genesee County, Michigan, under the
 authority of the Constitution of the State of Michigan, in order to obtain the
 benefits of local home rule, to encourage more direct and efficient methods in
@@ -2742,7 +2742,7 @@ Purchasing; Expenditures
 Cross-reference:
    Revenue bonds for construction of water and sewer systems, see Ord. No. 87
 (C) set forth in the Table of Special Ordinances
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01   AUTHORITY TO SIGN CHECKS AND DRAFTS.
    (A)   The following administrative officers are authorized to sign all
 checks and drafts drawn on the accounts of the city:
@@ -2771,7 +2771,7 @@ accordance with the Consumer Price Index.
 93.32 and either paid to the insured or used to secured, repair or demolish the
 damaged or destroyed structure, as provided by Public Act 216 of 1988, as
 amended.
-PURCHASING; EXPENDITURES
+**** PURCHASING; EXPENDITURES ****
 § 32.15   APPROPRIATED FUNDS; BUDGETED EXPENDITURES.
    (A)   Following adoption of the city budget by the Council and appropriation
 of funds pursuant thereto, the Mayor is authorized to make purchases for the
@@ -3023,7 +3023,7 @@ Utility Malfunctions or Hazardous Conditions
 50.02   Authority of department heads to establish charges
    
 50.03   Hardship deferment of utility service charges
-UTILITY MALFUNCTIONS OR HAZARDOUS CONDITIONS
+**** UTILITY MALFUNCTIONS OR HAZARDOUS CONDITIONS ****
 § 50.01   REIMBURSEMENT OF CITY EXPENSES.
    (A)   All public utility companies operating within the city shall be
 responsible to reimburse, at a rate established by resolution of the City
@@ -3247,7 +3247,7 @@ Administration and Enforcement
 51.162   Violations by minor or employee; responsibility
    
 51.163   Fee amendments
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.001   DEFINITIONS.
    For the purpose of this ordinance, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3352,7 +3352,7 @@ disturb the system of watermains.  The city shall collect the connection fee or
 availability fee pursuant thereto.
    (B)   All extensions and alterations to the system of watermains shall be
 made under the supervision of the Department.
-USE OF SYSTEM
+**** USE OF SYSTEM ****
 § 51.020   DAMAGE TO SYSTEM PROHIBITED.
    No person shall deface, damage, obstruct, or commit any act tending to
 deface, damage, or obstruct in any manner any building, machinery, pipes,
@@ -3442,7 +3442,7 @@ State Department of Environmental Quality that the emergency regulations are no
 longer necessary, the city shall cause a public announcement lifting the water
 restrictions.
 (Ord. 2019-5-51, passed 5-6-2019)
-CONSTRUCTION AND CONNECTIONS
+**** CONSTRUCTION AND CONNECTIONS ****
 § 51.040   WATERMAIN INSTALLATION; PLAN APPROVAL REQUIRED.
    Any person, firm, or corporation installing watermains at his, her, or their
 own expense shall submit plans and specifications for this work to the
@@ -3525,7 +3525,7 @@ integrity or continuity of any ground attachment or connection made to the
 water pipe connection.  The Department shall, if damage is occurring to the
 system, discontinue water service and require that corrective action be taken
 before water service is restored.
-METERS
+**** METERS ****
 § 51.060   LOCATION.
    Water meters shall be set in an accessible location and in a manner
 satisfactory to the Department.  Where the premises contains no basement or
@@ -3590,7 +3590,7 @@ Department.
 Where application is made for a larger than normal meter, the Department shall
 determine if a meter of that size will be permitted.
 (Ord. 2019-5-51, passed 5-6-2019)
-PRIVATE WATER SUPPLY; WELLS
+**** PRIVATE WATER SUPPLY; WELLS ****
 § 51.080   WELL WATER FOR HUMAN CONSUMPTION; CERTIFICATE REQUIRED.
    No person, being the owner or occupant of any dwelling, house, factory, or
 place of business in the city, shall use or furnish or permit to be used for
@@ -3664,7 +3664,7 @@ Public Health to eliminate any transfer of water between systems.
    (B)   There shall be periodic inspections of the systems to ensure the
 safety of the system.  There shall be a fee per inspection, as set by the City
 Council, and amended by resolution from time to time.
-CROSS-CONNECTIONS
+**** CROSS-CONNECTIONS ****
 § 51.100   STATE RULES ADOPTED BY REFERENCE.
    (A)   The city adopts by reference the water supply cross-connection rules
 of the State Department of Environmental Quality, being M.A.C. R325.11401 -
@@ -3714,7 +3714,7 @@ by this ordinance and by the State Plumbing Code.  Any water outlet which could
 be used for potable or domestic purposes and which is not supplied by the
 potable system must be labeled in a conspicuous manner as:  “Water Unsafe for
 Drinking.”
-FIRE HYDRANTS
+**** FIRE HYDRANTS ****
 § 51.115   FIRE HYDRANTS; SPECIFICATIONS.
    No hydrant shall be installed in the city unless having met the city's
 engineering specifications and having received approval from the Department.
@@ -3762,7 +3762,7 @@ hereby established.
       (3)   Assessment. The fire hydrant assessment is hereby set in the amount
 per year as set by the City Council, but may be amended from time to time by
 resolution of the City Council.
-RATES AND CHARGES
+**** RATES AND CHARGES ****
 § 51.135   CONNECTION CHARGES.
    (A)   Initial fees required. Owners of premises in which public municipal
 water is used or who hereafter improve the premises by the erection of a
@@ -4050,7 +4050,7 @@ to any person, firm, or corporation, public or private, or to any public agency
 or instrumentality.
       (2)   The city shall be for all water used by it at the foregoing rates.
 (Ord. 2019-5-51, passed 5-6-2019)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 51.160   APPLICATION OF REGULATIONS TO COUNTY OR OTHER SUPPLIER TO CITY.
    This ordinance shall be applicable whether the water supply shall originate
 through the county or any other supplier as the supplier to the city.
@@ -5399,7 +5399,7 @@ Appendix A:   Lot Terms
    
 90.098   Consumption of alcohol on public streets, sidewalks and parking lots;
 a municipal civil infraction
-ACCESS TO AND USE OF RIGHTS-OF-WAY FOR TELECOMMUNICATIONS FACILITIES
+**** ACCESS TO AND USE OF RIGHTS-OF-WAY FOR TELECOMMUNICATIONS FACILITIES ****
 § 90.001   PURPOSE.
    The purposes of this ordinance are to regulate access to and ongoing use of
 public rights-of-way by telecommunications providers for their
@@ -5664,7 +5664,7 @@ and protect the health, safety, and welfare of the public.
    Any violation of §§
 90.001 through
 90.016 of this codified ordinance shall be deemed a municipal civil infraction.
-USE OF RIGHTS-OF-WAY; CONSTRUCTION
+**** USE OF RIGHTS-OF-WAY; CONSTRUCTION ****
 § 90.030   STRUCTURES IN RIGHTS-OF-WAY; PERMIT REQUIRED.
    No person, persons, firm, or corporation shall construct, place, install,
 use, or maintain any structure, either above or below the surface, within the
@@ -5716,7 +5716,7 @@ Public Works are complied with and the cease and desist order is rescinded.
 of the Department of Public Works, he or she may appeal to the City Council.
    (C)   The permit holder may not continue operations while the appeal to the
 City Council is pending.
-DRIVEWAY CULVERTS
+**** DRIVEWAY CULVERTS ****
 § 90.050   DRIVEWAY OR OTHER OBSTRUCTION; CULVERT PIPE REQUIRED;
 SPECIFICATIONS.
    (A)   It shall be unlawful for any person or persons to construct or
@@ -5813,7 +5813,7 @@ the responsibility of the property owner.
 culvert following roadway construction or improvement thereof, if the property
 owner shall neglect to pay the cost of that culvert then the city may assess
 the cost against the property in the same manner as provided in this section.
-VACATION OF PUBLIC WAYS
+**** VACATION OF PUBLIC WAYS ****
 § 90.065   INTENT TO VACATE; NOTICE OF HEARING.
    (A)   Whenever the City Council shall deem it advisable to vacate,
 discontinue, or abolish any street, alley, or public ground, or any part
@@ -5869,7 +5869,7 @@ specifically stated otherwise in the resolution of the Council.
    The City Council shall establish, by resolution, a fee to be charged to any
 person, firm, or corporation for petitions for the vacation of any street,
 alley, or public ground or any part thereof under the terms of this ordinance.
-SIDEWALKS
+**** SIDEWALKS ****
 § 90.080   SNOW AND ICE; REMOVAL REQUIRED.
    (A)   It shall be unlawful for any owner or occupant of any premises within
 the jurisdictional boundaries of the city to fail to remove any snow or ice
@@ -5913,7 +5913,7 @@ determine.  This work shall be done under the inspection of the city’s
 Department of Public Works.
    (E)   The cost of the construction, repair, or work may be assessed against
 the property.
-SANITARY SEWER AND WATER MAIN INSTALLATION
+**** SANITARY SEWER AND WATER MAIN INSTALLATION ****
 § 90.095   INSTALLATION IN HIGHWAYS; MINIMUM REQUIREMENTS.
    (A)   Requirements and covenants; purpose and application.  In order to
 protect the public welfare and interests in the highways of the county, certain
@@ -6510,7 +6510,7 @@ Codes Adopted; Permits Required
 92.31   Permit, inspection, and testing fees
    
 Appendix A:   Fire Insurance Escrow Act
-FIRE CONTROL
+**** FIRE CONTROL ****
 § 92.01   TITLE.
    This ordinance shall be known as the city’s Fire Control Ordinance.
 § 92.02   DEFINITIONS.
@@ -6623,8 +6623,8 @@ Michigan, Public Act 451.
 subdivisions, grasslands, field, or public right-of-way within the city shall
 leave that open fire unattended by a person of mature years until the fire
 shall have been completely extinguished.
-COMMERCIAL MEDICAL MARIJUANA TRANSACTION
-FACILITIES AND MARIJUANA ESTABLISHMENTS
+**** COMMERCIAL MEDICAL MARIJUANA TRANSACTION
+FACILITIES AND MARIJUANA ESTABLISHMENTS ****
 § 92.10  OCCUPANCY CLASSIFICATIONS.
    The determination of an occupancy classifications of any commercial medical
 marijuana transaction facilities/marijuana establishments, as defined in the
@@ -6819,7 +6819,7 @@ penalty and shall be enforced as provided by §
    Any appeal to this ordinance shall be heard and action taken as provided by
 Section 109 of the International Fire Code.
 (Ord. 2017-92, passed 12-18-2017)
-CODES ADOPTED; PERMITS REQUIRED
+**** CODES ADOPTED; PERMITS REQUIRED ****
 § 92.25  INTERNATIONAL FIRE CODE ADOPTED; AMENDMENTS.
    (A)   The International Fire Code, 2003 Edition, is hereby adopted by
 reference.
@@ -7265,7 +7265,7 @@ Roadside Stands
 111.54   Permits and fees
    
 111.55   Appeal
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 111.01   SOLICITING ON PRIVATE PROPERTY OPEN TO THE PUBLIC; PERMISSION
 REQUIRED.
    (A)   No person, partnership, association, firm, or corporation shall sell
@@ -7281,7 +7281,7 @@ time he or she shall sell or attempt to sell, peddle, distribute, solicit for
 sale, or give away any merchandise, literature, pamphlets, papers, magazines,
 or other material items or services or advice on private property open to the
 public.
-PEDDLERS AND SOLICITORS
+**** PEDDLERS AND SOLICITORS ****
 § 111.15   DEFINITIONS.
    For the purpose of this ordinance, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7599,7 +7599,7 @@ filed with the City Clerk prior to the issuance of any license or renewal
 thereof.  The insurance shall be continuous until cancelled or shall expire
 April 30 of any year.  Failure to maintain insurance as above provided shall be
 grounds for revocation of the license issued under this ordinance.
-ROADSIDE STANDS
+**** ROADSIDE STANDS ****
 § 111.50   DEFINITIONS.
    For the purpose of this ordinance, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7712,7 +7712,7 @@ Sewer Contractors
 112.36   Violation by employee; guilty knowledge of licensee
    
 112.37   Sewer installation by owner
-WATERMAIN CONTRACTORS
+**** WATERMAIN CONTRACTORS ****
 § 112.01   DEFINITIONS.
    For the purpose of this ordinance, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7879,7 +7879,7 @@ leads from a residence, commercial, or industrial building owned by that
 person, firm, or corporation to a public municipal watermain shall be exempt
 from the provisions of this ordinance, and shall so state by the signature on
 the watermain service permit.
-SEWER CONTRACTORS
+**** SEWER CONTRACTORS ****
 § 112.25   DEFINITIONS.
    For the purpose of this ordinance, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8044,7 +8044,7 @@ Outdoor Recreational Permits
 113.07   Issuance of administrative approval
    
 113.08   Penalties
-OUTDOOR RECREATIONAL PERMITS
+**** OUTDOOR RECREATIONAL PERMITS ****
 § 113.01   PERMIT REQUIRED.
    (A)   It shall be unlawful, without first obtaining a permit from the city’s
 Zoning Board of Appeals, for any person or firm to conduct or to take part in,
@@ -10305,7 +10305,7 @@ Generally
 143.07   Smoking or use of cigarettes by minor
    
 143.08   Delinquent acts of minors; parental responsibilities
-GENERALLY
+**** GENERALLY ****
 § 143.01   CONTRIBUTING TO DELINQUENCY OF A MINOR.
    (A)   No person shall by an act, or by any word, encourage, contribute
 toward, cause or tend to cause any minor child under the age of 17 years to
@@ -11033,7 +11033,7 @@ Financing Public Improvements; Special Assessment
 150.17   Existing funds; assessment after completion
    
 150.18   Intergovernmental improvements
-FINANCING PUBLIC IMPROVEMENTS; SPECIAL ASSESSMENT
+**** FINANCING PUBLIC IMPROVEMENTS; SPECIAL ASSESSMENT ****
 § 150.01   APPLICATION.
    The making and financing of public improvements by the special assessment
 method shall be governed by this ordinance and all proceedings therefor shall
@@ -11374,7 +11374,7 @@ Site Condominium Projects
 151.39   Information required for occupancy permit
    
 151.40   Amendments to documents and plans
-ADOPTION OF CODES
+**** ADOPTION OF CODES ****
 § 151.01   NATIONAL BUILDING CODE ADOPTED; AMENDMENTS.
    (A)   The City of Burton hereby adopts and shall enforce the Michigan
 Residential Code, the Michigan Building Code and the International Property
@@ -11422,7 +11422,7 @@ ordinance.
    (C)   All future editions of the Michigan Rehabilitation Code for Existing
 Buildings shall be deemed to be adopted and incorporated by reference and made
 a part hereof.
-BUILDING PERMITS; CONSTRUCTION REGULATIONS
+**** BUILDING PERMITS; CONSTRUCTION REGULATIONS ****
 § 151.20   RESERVED FOR FUTURE USE
 § 151.21   RESERVED FOR FUTURE USE
 § 151.22   RESERVED FOR FUTURE USE
@@ -11540,7 +11540,7 @@ responsible for a municipal civil infraction.
    (F)   The failure to correct any violation discovered by the inspection of
 any unit within 10 days from the date of the issuance of a notice of the
 violations shall be deemed a municipal civil infraction.
-SITE CONDOMINIUM PROJECTS
+**** SITE CONDOMINIUM PROJECTS ****
 § 151.35   DEFINITIONS.
    For the purpose of this ordinance or rules or regulations adopted pursuant
 to it, the following definitions shall apply unless the context clearly
@@ -13673,7 +13673,7 @@ Administration and Enforcement
 156.71   Plats and improvements; approval and conformance required
    
 Appendix A:   Good Subdivision Design Practices
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.01   SHORT TITLE.
    This ordinance shall be known and referred to as the city’s “Subdivision
 Control Ordinance.”
@@ -13931,7 +13931,7 @@ Chapter 157 of this code, the zoning ordinance of the city, adopted as Ord. 19,
 ser. 2, on June 17, 1974, in accordance with the provisions of Public Act 207
 of 1921, as amended, being M.C.L.A. §§ 125.581 - 125.590, and which is now in
 effect as the zoning ordinance of this city.
-PLATTING PROCEDURES
+**** PLATTING PROCEDURES ****
 § 156.20   PRELIMINARY INVESTIGATION.
    (A)   Prior to the preparation of a preliminary plat, the subdivider may
 meet informally with the City Planner to investigate the procedures and
@@ -14240,7 +14240,7 @@ temporarily in the files of the City Council.
 effectuated, and the State Treasurer receives notification of the recording of
 the plat, he or she shall return 1 completely transcribed copy to the City
 Clerk for filing as a matter of permanent record.
-DESIGN STANDARDS; IMPROVEMENTS
+**** DESIGN STANDARDS; IMPROVEMENTS ****
 § 156.35   MINIMUM STANDARDS.
    The standards set forth in this ordinance shall be the minimum standards
 that any other standard tending to create a more hazardous condition shall not
@@ -14759,7 +14759,7 @@ Design aspects, such as spacing of poles, height of standards, type of
 lighting, distribution of the illumination pattern, intensity of illumination,
 and the like, must receive prior approval from the City Engineer and be in
 accordance with the standards and specifications of the public utility company.
-VARIANCES
+**** VARIANCES ****
 § 156.55   UNDUE HARDSHIP; FACTORS.
    (A)   The City Planning Commission may recommend to the City Council a
 variance from the provisions of this ordinance on a finding that undue hardship
@@ -14816,7 +14816,7 @@ community development; and
 writing and shall be supplemented with maps, plans, or other additional data
 which may aid the Planning Commission and City Council in the analysis of the
 proposed plat.
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 156.70   FEES ADOPTED.
    Plat review fees, engineering fees, lot split fees, inspection fees, water
 connection charges, filing fees, and other applicable development charges may
@@ -15079,7 +15079,7 @@ Appendix A:   Schedule of Regulations
 Appendix B:   Images
    
 Appendix C:   Use Matrix
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 157.001     PURPOSE.
    Pursuant to the authority conferred by the Public Acts of the state in such
 case, made and provided and for the purpose of promoting and protecting the
@@ -15861,7 +15861,7 @@ the city, or his or her authorized representative.
 (Ord. 2017-7-157, passed 12-14-2017; Ord. 2019-10-157, passed 9-16-2019; Ord.
 2020-1-157, passed 1- 21-2020; Ord. 2020-1-157, passed 5-1-2020; Ord. 2021-7-
 157, passed 7-19-2021)
-DISTRICT BOUNDARIES AND MAPS
+**** DISTRICT BOUNDARIES AND MAPS ****
 § 157.020  DISTRICTS ESTABLISHED.
    For the purpose of this ordinance, the city is hereby divided into the
 following districts:
@@ -15906,7 +15906,7 @@ deemed to be conforming.
 shall be determined by the Board of Zoning Appeals after recommendation from
 the City Planning Commission, according to rules and regulations which may be
 adopted by it.
-ZONING DISTRICTS; USES AND REQUIREMENTS
+**** ZONING DISTRICTS; USES AND REQUIREMENTS ****
 § 157.035     SUBURBAN ESTATE RESIDENTIAL DISTRICT, SE.
    (A)   Statement of purpose.  The suburban estate residential district is
 established to permit single- family residential development of a rural non-
@@ -18230,7 +18230,7 @@ determine the extent of compliance based on the existing building and site
 arrangement, the extent of the changes proposed and the site design elements
 found to be most in need of modification.
 (Ord. 2018-157.049, passed 12-4-2017; Ord. 2018-8-157.049, passed 11-5-2018)
-REGULATIONS
+**** REGULATIONS ****
 § 157.060  DWELLING UNIT; ZONING LOT.
    Every building hereafter erected or structurally altered to provide dwelling
 units shall be located on a lot as herein defined, and in no case shall there
@@ -20001,7 +20001,7 @@ the mobile food vending from the date of sale as specified on the permit,
 unless as approved by the Planning Commission as part of a special land use
 permit.
 (Ord. 2020-1-157, passed 5-1-2020)
-OFF-STREET PARKING AND LOADING REQUIREMENTS
+**** OFF-STREET PARKING AND LOADING REQUIREMENTS ****
 § 157.110  GENERAL PARKING REQUIREMENTS.
    Off-street parking in conjunction with all land and building uses shall be
 provided as herein prescribed.
@@ -20397,7 +20397,7 @@ the front entrance to the shopping center.  In addition, parking, loading, or
 service areas used by motor vehicles shall be located entirely within the lot
 lines of the shopping center and shall be physically separated from public
 streets.
-NONCONFORMING USES AND STRUCTURES
+**** NONCONFORMING USES AND STRUCTURES ****
 § 157.125  EXISTING NONCONFORMING USES AND BUILDINGS; REGULATIONS.
    Any lawful use of the land or buildings existing at the date of passage of
 this ordinance and located in a district in which it would not be permitted as
@@ -20644,7 +20644,7 @@ date of the filing but not with the regulations of this ordinance, and where a
 building permit for the building or structure has been issued and construction
 work started at the effective date of this ordinance, the work may proceed,
 provided it is completed within 1 year of that date.
-BOARD OF ZONING APPEALS
+**** BOARD OF ZONING APPEALS ****
 § 157.150  CREATION.
    (A)   There is hereby established a Board of Zoning Appeals, which shall
 perform its duties and exercise its powers as provided in Public Act 207 of
@@ -20786,7 +20786,7 @@ plans, or other information the Board may reasonably require.  The Board of
 Zoning Appeals may impose conditions or limitations in granting a variance or
 special approval as it may deem necessary to comply with the spirit and
 purposes of this ordinance.
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 157.170  ENFORCEMENT; STOP WORK ORDER.
    The provisions of this ordinance shall be administered and enforced by the
 Zoning Administrator or any other employees, inspectors, and officials as the
@@ -21432,7 +21432,7 @@ SO
                 
  
 CODE PENALTY
-CODE PENALTY
+***** CODE PENALTY *****
    All ordinances proscribing conduct are either:
    (A)   Misdemeanors punishable by up to 90 days in the county jail, a fine of
 not more than $500, or both, based on Charter limitations; or

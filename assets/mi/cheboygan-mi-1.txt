@@ -2407,7 +2407,7 @@ Elections
 Cross-reference:
    Forfeit of office for misconduct, see Charter
 Sec. 6.2.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01  DEPARTMENT HEADS.
    (A)   All administrative officers are responsible to the City Manager for
 the effective administration of their respective departments and offices, and
@@ -2479,7 +2479,7 @@ indicated:
    employees (except the Mayor and
    Councilmen)            Blanket Bond $2,500
 (`73 Code, 12.159, § 1.59)
-SPECIFIC POSITIONS AND DUTIES
+**** SPECIFIC POSITIONS AND DUTIES ****
 § 30.20  CITY MANAGER.
    The City Manager shall see that all laws, ordinances, rules, regulations
 adopted by the City Council, and the provisions of this code, are properly
@@ -2512,7 +2512,7 @@ more than three consecutive terms, whether full or partial terms.
    (B)   The duties and powers of the Mayor as elected pursuant to §
 30.35 shall be the same as provided by Charter. 
 (`73 Code, 12.286, § 1.186)
-ELECTIONS
+**** ELECTIONS ****
 § 30.35  ELECTION OF MAYOR.
    (A)   Nomination. Candidates for the office of Mayor shall file nominating
 petitions in conformity with the provisions governing nominating petitions for
@@ -2600,7 +2600,7 @@ Emergency Response Cost Recovery
 31.26   Other remedies
    
 31.27   No limitation of liability
-DEPARTMENT OPERATING PROVISIONS
+**** DEPARTMENT OPERATING PROVISIONS ****
 § 31.01  MERGER OF POLICE AND FIRE DEPARTMENTS.
    The Police Department and Fire Department, formerly existing as separate
 departments in the city, are hereby merged and consolidated in the Department
@@ -2826,7 +2826,7 @@ accepted by the City Council after the sale; provided, however, that such claim
 shall have been filed with the City Council not later than six months after
 such sale.
 (`73 Code, 12.175, § 1.75)
-EMERGENCY RESPONSE COST RECOVERY
+**** EMERGENCY RESPONSE COST RECOVERY ****
 § 31.20  PURPOSE.
    In order to protect the city from extraordinary expenses resulting from the
 utilization of city resources in response to certain public safety or fire
@@ -3105,7 +3105,7 @@ Chapter 31
 §§ 96.50 through 96.56
    Rental Housing Board of Appeals, see
 § 97.42
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01  EXISTING BOARDS AND COMMISSIONS.
    All Boards and Commissions existing at the time of the adoption of this code
 shall be continued and the members serving thereon shall remain in office for
@@ -3126,7 +3126,7 @@ after notice of removal has been given to such member.
    Unless otherwise provided, all members of Boards and Commissions shall serve
 without compensation as members thereof.
 (`73 Code, 12.244, § 1.144)
-CITY PLANNING COMMISSION
+**** CITY PLANNING COMMISSION ****
 § 32.15  COMMISSION CONTINUED.
    The City Planning Commission heretofore created pursuant to Public Act 285
 of 1931, being M.C.L.A. §§ 125.31 - 125.45, as amended, and the City Charter,
@@ -3189,7 +3189,7 @@ planning as it may deem advisable. 
    (B)   The Commission may receive gifts for purposes of carrying out its
 objectives and may expend any funds in the form of a gift in such manner as it
 may deem proper.  (`73 Code, 14.007, § 5.207)
-DOWNTOWN DEVELOPMENT AUTHORITY
+**** DOWNTOWN DEVELOPMENT AUTHORITY ****
 § 32.30  SHORT TITLE.
    This subchapter shall be known and may be cited as the Downtown Development
 Authority ordinance.
@@ -3564,7 +3564,7 @@ or will be adequate to service the project area;
    (H)   Changes in zoning, streets, street levels, intersections, and
 utilities are reasonably necessary for the project in the city.
 (Ord. passed 3-4-86; Am. Ord. eff. 2-11-08)
-HOUSING COMMISSION
+**** HOUSING COMMISSION ****
 § 32.55  COMMISSION CONTINUED.
    Pursuant to Public Act 18 of 1933 (Extra Session), being M.C.L.A. § 125.651
 et seq., as heretofore amended, the Commission created for the city known as
@@ -3582,7 +3582,7 @@ and any laws heretofore or hereafter enacted which are supplemental thereto, it
 being the intention of the City Council to vest in the Housing Commission all
 powers and duties permitted by law.
 (`73 Code, 12.253, § 1.153)
-LOCAL OFFICERS COMPENSATION COMMISSION
+**** LOCAL OFFICERS COMPENSATION COMMISSION ****
 § 32.70  COMMISSION CREATED.
    (A)   A local officers compensation commission is created which shall
 determine the salaries of all local elected officials. The Commission shall
@@ -3635,7 +3635,7 @@ conducted in the same manner as an election on a Charter amendment. If a
 petition for referendum is filed, any determination of the Commission shall not
 be effective until the ordinance has been approved by the electors.
 (`73 Code, 12.305, § 1.205)  (Ord. eff. 3-14-77)
-CIVIL RIGHTS - HUMAN RELATIONS BOARD
+**** CIVIL RIGHTS - HUMAN RELATIONS BOARD ****
 § 32.100  FINDINGS; DISCRIMINATION PROHIBITED.
    (A)   Legislative findings.  Prejudice and discrimination against any
 individual or group because of religion, race, color, national origin, age,
@@ -4274,7 +4274,7 @@ Sanitary Landfill
 50.39   Permit required
    
 50.40   Schedule of user fees
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01  DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -4426,7 +4426,7 @@ Penalty, see § 10.99
 necessary to carry out the provisions and intent of this chapter by resolution
 of the City Council.
 (`73 Code, 35.014, § 2.14)
-REGULATION OF COLLECTORS
+**** REGULATION OF COLLECTORS ****
 § 50.20  AGREEMENT OR CONTRACT.
    The city may grant an exclusive contract to one or more persons for the
 collection of garbage, trash, and rubbish within the city, or any part thereof,
@@ -4478,7 +4478,7 @@ Such charges shall be a lien upon the premises to which the service is
 rendered. Refuse collection shall be deemed a service rendered to the parcel of
 land where made.
 (`73 Code, 35.012, § 2.12)
-SANITARY LANDFILL
+**** SANITARY LANDFILL ****
 § 50.35  ESTABLISHMENT.
    A sanitary landfill is hereby established on the following described
 property: The northeast quarter of the northwest quarter, the south half of the
@@ -4629,7 +4629,7 @@ Administration and Enforcement
  
    
 51.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.01  PURPOSE.
    The purposes of this chapter are:
    (A)   To establish uniform requirements for direct and indirect contributors
@@ -4819,7 +4819,7 @@ sewage;
 Natural Resources on the basis of 100-year flood frequency; and
       (3)   Any other waters specified by state law.
 (Ord. passed 2-8-94)
-SEWER USE REGULATIONS
+**** SEWER USE REGULATIONS ****
 § 51.15  GENERAL DISCHARGE PROHIBITIONS.
    (A)   No user shall contribute or cause to be contributed, directly or
 indirectly to the POTW, any pollutant or wastewater which will pass through or
@@ -5051,7 +5051,7 @@ POTW, state, and EPA to enter and inspect the premises as guaranteed by this
 division.
 (Ord. passed 2-8-94) 
 Penalty, see § 51.99
-INDUSTRIAL USE REGULATIONS
+**** INDUSTRIAL USE REGULATIONS ****
 § 51.35  WASTEWATER CONTRIBUTION PERMIT REQUIRED.
    (A)   It shall be unlawful to discharge without a wastewater contribution
 permit to the POTW any wastewater except as authorized by the Superintendent in
@@ -5550,7 +5550,7 @@ waste as specified in 40 CFR 261.30(d) and 261.33(e) requires a one-time
 notification.
 (Ord. passed 2-8-94) 
 Penalty, see § 51.99
-WATER AND SEWER RATES
+**** WATER AND SEWER RATES ****
 § 51.60  ESTABLISHED; FISCAL YEAR.
    (A)   Rates and charges for the use of the disposal system of the city are
 hereby established. Such charges and rates shall be made against each lot,
@@ -5805,7 +5805,7 @@ to meet system expenses.  (`73 Code, 25.075, § 2.125)
 received by virtue of this article shall be set aside and used for the
 operation, maintenance and extension of the sewage works.
 (`73 Code, 25.076, § 2.126)  (Ord. eff. 12-13-82)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 51.80  FEES AND CHARGES.
    (A)   The POTW may adopt charges and fees which may include:
       (1)   Fees for reimbursement of costs of setting up and operating the
@@ -6052,7 +6052,7 @@ Administration and Enforcement
  
    
 52.99   Penalty
-WATER SYSTEM USE
+**** WATER SYSTEM USE ****
 § 52.01  PERMIT REQUIRED FOR CONNECTION TO WATER SYSTEM; CONNECTIONS TO SERVICE
 PIPE.
    (A)   No person shall tap any water main or distribution pipe of the
@@ -6180,7 +6180,7 @@ properly protect same shall be assessed against such owner or tenant. Water
 consumers shall not tamper with or remove the meter or any appurtenant
 structures thereto, or interfere with the reading thereof.
 (Ord. passed 6-22-99)
-WATER CROSS CONNECTION
+**** WATER CROSS CONNECTION ****
 § 52.25  STATE RULES ADOPTED BY REFERENCE.
    The city adopts by reference the Water Supply Cross Connection Rules of the
 Michigan Department of Public Health, being R. 325.11401 to 325.11407 of the
@@ -6227,7 +6227,7 @@ Statutory reference:
 supplementary to it. In the event of any conflict, the state plumbing code
 shall control.
 (Ord. passed 6-22-99)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 52.40  ADOPTION OF REGULATIONS BY COUNCIL; EMERGENCY REGULATIONS.
    (A)   The City Council shall from time to time adopt such regulations for
 the operations and use of the water system and the supplying of water to
@@ -6321,7 +6321,7 @@ Permits
  
    
 53.99   Penalty
-DEFINITIONS
+**** DEFINITIONS ****
 § 53.01  DEFINITIONS.
    For purposes of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -6403,7 +6403,7 @@ operations and to which no chemical or other substance has been added.
    WATERCOURSE. A channel in which a flow of water occurs, either continuously
 or intermittently.
 (Ord. passed 3-28-06)
-USE OF PUBLIC SEWERS REQUIRED
+**** USE OF PUBLIC SEWERS REQUIRED ****
 § 53.02  WASTE DEPOSITS.
    It shall be unlawful for any person to place or deposit or permit to be
 deposited in any area under the jurisdiction of the City of Cheboygan, any
@@ -6442,7 +6442,7 @@ any privy, privy vault, septic tank, cesspool or other facilities intended or
 used for the disposal of sewage.
 (Ord. passed 3-28-06) 
 Penalty, see § 53.99
-PRIVATE SEWAGE DISPOSAL
+**** PRIVATE SEWAGE DISPOSAL ****
 § 53.10  PRIVATE SEWER SYSTEMS.
    Where a public sanitary sewer or combined sewer is not available under the
 provisions of
@@ -6497,7 +6497,7 @@ Penalty, see § 53.99
 in a sanitary manner at all times and at no expense to the city.
 (Ord. passed 3-28-06) 
 Penalty, see § 53.99
-BUILDING SEWERS AND CONNECTIONS
+**** BUILDING SEWERS AND CONNECTIONS ****
 § 53.20  PERMIT REQUIRED.
    (A)   Only authorized persons shall uncover and make any connections with or
 openings into, use, alter, or disturb any public sewer or appurtenance thereof
@@ -6575,7 +6575,7 @@ system to be connected.
 approved by the City Manager before installation upon showing to the City
 Manager of good cause or hardship, or changed conditions or circumstances.
 (Ord. passed 3-28-06)
-PERMITS
+**** PERMITS ****
 § 53.40  PERMITS.
    (A)   As a prerequisite to the issuance of all permits under this code for
 the continuance thereof, satisfactory evidence must be received by the City
@@ -7001,7 +7001,7 @@ Parking on Private Property
 72.22   Prima facie evidence
    
 72.23   Unmetered parking zones
-PARKING METERS
+**** PARKING METERS ****
 § 72.01  DEFINITIONS.
    Terms used in this chapter shall have the meanings defined in the Uniform
 Traffic Code, adopted in §
@@ -7101,7 +7101,7 @@ attached to such vehicle, the owner or operator of such motor vehicle shall pay
 to the Parking Violations Bureau the sum prescribed in §
 70.01.
 (`73 Code, 20.146, § 10.16)
-PARKING ON PRIVATE PROPERTY
+**** PARKING ON PRIVATE PROPERTY ****
 § 72.20  UNLAWFUL TO PARK; PERMISSION REQUIRED.
    It shall be unlawful for any person to park any motor vehicle on any private
 property without the express consent, authorization or ratification of the
@@ -7375,7 +7375,7 @@ Dogs
 90.26   Dogs causing annoyance
    
 90.27   Vicious dogs prohibited
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01  ANIMALS PROHIBITED.
    It shall be unlawful for any person to keep any animal or fowl within 500
 feet of any dwelling, street, alley or public place; permit any animal or any
@@ -7434,7 +7434,7 @@ city, and shall so cover and care for it as to prevent any malodorous or
 offensive condition to exist and to prevent any nuisance to arise therefrom.
 (`73 Code, 35.188, § 9.58) 
 Penalty, see § 10.99
-DOGS
+**** DOGS ****
 § 90.20  LICENSE REQUIRED.
    It shall be unlawful for any person to own, maintain, keep or harbor any dog
 within the city without first procuring a license therefor as prescribed by
@@ -7927,7 +7927,7 @@ Cross-reference:
 § 97.26
    Open burning, see
 § 95.08
-FIRE PREVENTION CODE
+**** FIRE PREVENTION CODE ****
 § 93.01  ADOPTION OF FIRE PREVENTION CODE; ENFORCEMENT.
    (A)   The city hereby adopts the state fire code as established by Public
 Act 207 of 1941, being M.C.L.A. §§ 29.1 through 29.34, as amended, as its fire
@@ -7955,7 +7955,7 @@ been misconstrued or wrongly interpreted, the applicant may appeal from the
 decision of the Director of Public Safety to the Board of Building Appeals
 within 30 days from the date of the decision appealed.
 (`73 Code, 40.006, § 9.136)
-SMOKE DETECTORS
+**** SMOKE DETECTORS ****
 § 93.15  DEFINITIONS.
    For the purpose of this subchapter the following definitions shall apply,
 unless the context clearly indicates or requires a different meaning.
@@ -8997,7 +8997,7 @@ Parks and Recreation Department
  
    
 96.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 96.01  PARK OPERATING HOURS.
    Parks shall be open to the public during hours which shall be established by
 resolution of City Council from time to time as may be necessary to protect
@@ -9038,7 +9038,7 @@ safety, health, morals and welfare of the public, and no person shall fail to
 comply with such rules and regulations.
 (`73 Code, 35.115, § 3.5) 
 Penalty, see § 96.99
-BATHING BEACHES
+**** BATHING BEACHES ****
 § 96.15  LICENSE, HEALTH OFFICER’S CERTIFICATE, AND AGREEMENT WITH CITY
 REQUIRED.
    (A)   License required. No person shall engage in the business of operating,
@@ -9119,7 +9119,7 @@ beach, wading or swimming pool, recreation center or playground; nor shall any
 person who is lawfully at any such place be so annoyed or unlawfully touched.
 (`73 Code, 35.170, § 7.150) 
 Penalty, see § 96.99
-CHEBOYGAN HARBOR
+**** CHEBOYGAN HARBOR ****
 § 96.35  DEFINITIONS.
    For the purpose of this subchapter the following definitions shall apply,
 unless the context clearly indicates or requires a different meaning.
@@ -9183,7 +9183,7 @@ other substance or structure so placed or laid is hereby declared to be a
 public nuisance.
 (`73 Code, 35.146, § 3.46) 
 Penalty, see § 96.99
-PARKS AND RECREATION DEPARTMENT
+**** PARKS AND RECREATION DEPARTMENT ****
 § 96.50  DEFINITIONS.
    For the purpose of this subchapter the following definitions shall apply,
 unless the context clearly indicates or requires a different meaning.
@@ -9341,7 +9341,7 @@ Administration and Enforcement
  
    
 97.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 97.01  DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply,
 unless the context clearly indicates or requires a different meaning.
@@ -9436,7 +9436,7 @@ provisions of any other statute, state administrative regulation or ordinance
 of the city presently existing or enacted in the future, the more restrictive
 requirement shall apply.
 (Ord. passed 10-13-98)
-REQUIRED STANDARDS
+**** REQUIRED STANDARDS ****
 § 97.20  EXTERIOR REQUIREMENTS.
    (A)   Scope and responsibility. The owner of the rental dwelling unit shall
 maintain such structures and exterior premises in compliance with the
@@ -9773,7 +9773,7 @@ not owner occupied.
 requirements or other requirements of these codified ordinances or other
 applicable laws and statutes.
 (Ord. passed 10-13-98)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 97.40  ENFORCEMENT BY HOUSING ADMINISTRATOR.
    The Housing Administrator shall see that this chapter is enforced. The City
 Manager shall appoint the Housing Administrator.
@@ -9910,7 +9910,7 @@ Street and Road Numbering
 Cross-reference:
    Riding bicycles on sidewalks, see
 § 73.07
-STREET CONSTRUCTION AND REPAIR
+**** STREET CONSTRUCTION AND REPAIR ****
 § 98.01  PERMIT REQUIRED FOR STREET CUT OR EXCAVATION.
    No person shall make any excavation or opening in or under any street or
 public place without first procuring a permit from the Department of Public
@@ -10020,7 +10020,7 @@ placed there, without permission in writing, from the Director of Public
 Safety, subject to any safeguards he may prescribe.
 (Ord. passed 8-24-99) 
 Penalty, see § 98.99
-STREET USE REGULATIONS
+**** STREET USE REGULATIONS ****
 § 98.25  MUTILATING POLES PROHIBITED.
    No person shall hack, cut, mutilate, disfigure or in any manner injure any
 telegraph, telephone, electric light, railway or fire alarm pole in any street,
@@ -10090,7 +10090,7 @@ the City Clerk in writing, and if any such shall be filed, the street, alley or
 public ground, or any part thereof, shall not be vacated or discontinued except
 by a concurring vote of two-thirds of the Council.
 (Ord. passed 8-24-99)
-SIDEWALKS
+**** SIDEWALKS ****
 § 98.45  CONSTRUCTION AND REPAIR; PERMIT REQUIRED.
    No person shall construct or repair any sidewalk except in accordance with
 the lines, grade, slope and specifications established by the Department of
@@ -10169,7 +10169,7 @@ like effect, as the charges or rentals for water as provided in
 Chapter 52 of the code.
 (`73 Code, 30.054, § 4.44)  (Am. Ord. passed 8-24-99) 
 Penalty, see § 98.99
-STREET AND ROAD NUMBERING
+**** STREET AND ROAD NUMBERING ****
 § 98.60  INTENT.
    It is the intent of this subchapter that it provide for the establishment,
 control and regulation of street and road numbering within the city and to
@@ -10440,7 +10440,7 @@ Licensing Provisions
 110.99   Penalty
    
 Appendix:   License Fee Schedule
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 110.01  DEFINITIONS.
    For the purpose of this title the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -10561,7 +10561,7 @@ Clerk all convictions for violation of this title and the City Clerk shall
 maintain a record for each license issued and record the reports of violation
 therein.
 (Ord. passed 7-28-98)
-LICENSING PROVISIONS
+**** LICENSING PROVISIONS ****
 § 110.20  LICENSE REQUIRED.
    (A)   It shall be unlawful for any person or entity to engage in the
 business of peddler, solicitor, transient merchant, locksmith, refuse
@@ -10825,7 +10825,7 @@ Junk Dealers
 Pawnbrokers
    
 111.15   Records required
-JUNK DEALERS
+**** JUNK DEALERS ****
 § 111.01  APPLICATION REQUIREMENTS.
    In addition to the requirements of §
 110.21, an applicant for a junk dealer license shall not be granted the same:
@@ -10863,7 +10863,7 @@ written consent of parent or guardian; or
 property.
 (Ord. passed 7-28-98) 
 Penalty, see § 110.99
-PAWNBROKERS
+**** PAWNBROKERS ****
 § 111.15  RECORDS REQUIRED.
    No pawnbroker or agent or employee shall fail to keep a daily record of all
 persons with whom he does business and of all property coming into his
@@ -10894,7 +10894,7 @@ Pool Rooms
 112.20   Persons under 17 prohibited
    
 112.21   Obstructions to public view
-MECHANICAL AMUSEMENT DEVICES
+**** MECHANICAL AMUSEMENT DEVICES ****
 § 112.01  DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -10955,7 +10955,7 @@ in violation of this chapter constitutes a separate offense subject to the
 penalties set forth herein.
 (Ord. passed 7-28-98) 
 Penalty, see § 110.99
-POOL ROOMS
+**** POOL ROOMS ****
 § 112.20  PERSONS UNDER 17 PROHIBITED.
    As a condition of the issuance and the right to maintain a license, no
 person who is less than 17 years of age may remain or loiter in or about any
@@ -12515,7 +12515,7 @@ Minors
  
    
 130.99   Penalty
-DISORDERLY PERSONS
+**** DISORDERLY PERSONS ****
 § 130.01  DEFINITION.
    For the purpose of this subchapter the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12622,7 +12622,7 @@ private property without permission;
 or public way.
 (Ord. passed 9-29-98) 
 Penalty, see § 130.99
-MINORS
+**** MINORS ****
 § 130.15  CURFEW HOURS.
    (A)   The city has determined that a curfew for minors will be in the
 interest of the public health, safety and general welfare and will protect the
@@ -13058,7 +13058,7 @@ Administration and Enforcement
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01  SHORT TITLE.
    This chapter shall be known and may be cited as the “Sign Ordinance of the
 City of Cheboygan.”
@@ -13164,7 +13164,7 @@ is hereby declared to be subject to subsequent amendment, change or
 modification as may be necessary for the preservation of public health, safety
 and welfare.
 (Ord. passed 6-14-88)
-SIGN REGULATIONS
+**** SIGN REGULATIONS ****
 § 152.15  PROVISIONS APPLICABLE TO ALL SIGNS.
    The following provisions shall apply to all signs in the city:
    (A)   Signs over a right-of-way. Any sign which overhangs a dedicated public
@@ -13579,7 +13579,7 @@ L-1 Districts      Accessory ground signs provided they shall not be located clo
                    between non-accessory signs located on the same side of a right-of-way.
  
 (Ord. passed 6-14-88)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 152.40  VIOLATIONS DEEMED PUBLIC NUISANCE.
    Any sign which is erected, altered,converted, or which is begun or changed
 subsequent to the time of passage of this chapter and in violation of any
@@ -13723,7 +13723,7 @@ Administration and Enforcement
 153.85   Appeal or suspension of rules
    
 153.86   Enforcement
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.01  CONVEYANCE OF PLATTED LAND.
    No person shall sell or convey any lot in any plat by reference thereto
 until such plat has been duly recorded in the office of the Register of Deeds
@@ -13758,7 +13758,7 @@ Plan and shall make recommendations to the City Council for their disposition.
 Public Act 288 of 1967, being M.C.L.A. §§ 560.101 through 560.293, and
 amendments.
 (`73 Code, 17.014, § 5.234)
-PRELIMINARY INFORMATION
+**** PRELIMINARY INFORMATION ****
 § 153.15  PRELIMINARY AND TOPOGRAPHICAL MAPS; MAP CONTENT AND SCALE.
    (A)   Preliminary map. The preliminary map required by §
 153.02 shall be submitted in duplicate and shall contain the following
@@ -13823,7 +13823,7 @@ of one year from the date of such approval and the subdivider shall be required
 to make a new application for approval before proceeding with the final plat,
 if he has not had said plat recorded within one year from approval date.
 (`73 Code, 17.027, § 5.247)
-FINAL MAP
+**** FINAL MAP ****
 § 153.30  COMPLIANCE WITH STATE LAW.
    The final map shall be prepared and submitted in accordance with the
 requirements of Public Act 288 of 1967, being M.C.L.A. §§ 560.101 through
@@ -13876,7 +13876,7 @@ sanctions and penalties and subject to the same power of amendment or repeal as
 though set out as a part of
 Chapter 154 (Zoning).
 (`73 Code, 17.037, § 5.254)
-SPECIFICATIONS FOR PLATS
+**** SPECIFICATIONS FOR PLATS ****
 § 153.50  MAJOR STREET PLAN; ADJOINING STREET SYSTEM.
    (A)   The subdivision of land or the dedication of land for streets,
 highways, alleys, parks, or other public use, shall conform to the major street
@@ -13982,7 +13982,7 @@ Cheboygan River, there may be dedicated to public use certain areas of land
 which extend to the water front and which shall be agreed upon between the
 subdivider and the City Planning Commission.
 (`73 Code, 17.042, § 5.262)
-REQUIRED IMPROVEMENTS
+**** REQUIRED IMPROVEMENTS ****
 § 153.70  IMPROVEMENTS TO MEET CITY PLANS AND BE UNDER CITY SUPERVISION.
    All improvements required herein shall be in accordance with plans and
 specifications approved by the City Council and subject to supervision and
@@ -14027,7 +14027,7 @@ surety company acceptable to the city, in favor of the city or an irrevocable
 letter of credit from a bank located in the State of Michigan, in a sum equal
 to the estimated cost of the improvements.
 (`73 Code, 17.063, § 5.277)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 153.85  APPEAL OR SUSPENSION OF RULES.
    A suspension of any requirement of this chapter may be granted by the City
 Council in a particular case upon the recommendation of the City Planning
@@ -14223,7 +14223,7 @@ Administration and Enforcement
  
    
 154.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.001  CONSTRUCTION OF LANGUAGE.
    The following rules of construction apply to the text of this chapter.
    (A)   The particular shall control the general.
@@ -14643,7 +14643,7 @@ restriction upon the use of or requires larger open spaces or larger lot areas
 than are imposed or required by such code provision or agreements, the
 provisions of this chapter shall control.
 (`73 Code, 15.388, § 5.152)  (Ord. eff. 8-1-67; Am. Ord. passed 1973)
-ZONING DISTRICTS AND MAP
+**** ZONING DISTRICTS AND MAP ****
 § 154.015  DISTRICTS DESIGNATED; TERMINOLOGY.
    (A)   For the purpose of this chapter, the City of Cheboygan is hereby
 divided into the following districts:
@@ -14702,7 +14702,7 @@ referred to the Planning Commission by the City Council. 
 154.125 through
 154.138, General Exceptions.
 (`73 Code, 15.035, § 5.15)
-PLANNED PROJECTS
+**** PLANNED PROJECTS ****
 § 154.030  PLANNED UNIT DEVELOPMENT.
    (A)   Established. A district known as the Planned Unit Development
 District, also referred to as the PUD District, is established.
@@ -14945,7 +14945,7 @@ City Council.
       (2)   An approved planned project is not affected by a transfer in land
 ownership.
 (`73 Code, 15.042, § 5.18)  (Ord. eff. 8-1-67; Am. Ord. eff. 6-15-82)
-ADULT AND SEXUALLY ORIENTED BUSINESSES
+**** ADULT AND SEXUALLY ORIENTED BUSINESSES ****
 § 154.034  INTENT.
    This subchapter is an amendment to
 Chapter 154 of the City of Cheboygan Zoning Ordinance to provide for the
@@ -15160,7 +15160,7 @@ in the State of Michigan, or the United States of America, the subchapter as a
 whole and all remaining amendments shall be considered valid and in full force
 and effect.
 (Ord. eff. 4-30-06)
-SITE PLAN REVIEW AND APPROVAL
+**** SITE PLAN REVIEW AND APPROVAL ****
 § 154.045  PROCEDURE ESTABLISHED; PURPOSE.
    (A)   A site plan review procedure is hereby established for the city. The
 purpose of a site plan review is to determine compliance with the provisions
@@ -15362,7 +15362,7 @@ construction;
    (D)   Temporary facilities or construction of same as required to facilitate
 the stated development.
 (Ord. passed 5-11-99)
-DISTRICT REGULATIONS
+**** DISTRICT REGULATIONS ****
 § 154.060  R-1A AND R-1B ONE-FAMILY RESIDENTIAL DISTRICTS.
    (A)   Intent. The R-1A and R-1B One-Family Residential Districts are
 designed to be the most restrictive of the residential districts. The intent is
@@ -16533,7 +16533,7 @@ not more than ten feet from such alley line in order to permit a wider means of
 access to the parking area.
 (`73 Code, 15.279, § 5.99)  (Ord. eff. 8-1-67; Am. Ord. passed 1973) 
 Penalty, see § 154.999
-SCHEDULE OF REGULATIONS
+**** SCHEDULE OF REGULATIONS ****
 § 154.085  SCHEDULE LIMITING HEIGHT, BULK, DENSITY AND AREA BY ZONING
 DISTRICTS.
          Minimum                                                              Maximum
@@ -16777,7 +16777,7 @@ submitted at the time of submission of the preliminary plat as required by the
 Land Division Act, Public Act 288 of 1967, being M.C.L.A. §§ 560.101 to
 560.293.
 (`73 Code, 15.293, § 5.105)  (Ord. eff. 8-1-67; Am. Ord. passed 1973)
-GENERAL REQUIREMENTS
+**** GENERAL REQUIREMENTS ****
 § 154.100  NONCONFORMING LOTS, USES AND STRUCTURES.
    (A)   Intent. It is the intent of this section to permit legal nonconforming
 lots, structures, or uses to continue until they are removed but not to
@@ -17524,7 +17524,7 @@ arranged as not to adversely affect driver visibility on adjacent
 thoroughfares.
 (`73 Code, 15.328, § 5.125)  (Ord. eff. 8-1-67; Am. Ord. passed 1973) 
 Penalty, see § 154.999
-GENERAL EXCEPTIONS
+**** GENERAL EXCEPTIONS ****
 § 154.125  APPLICATION OF PROVISIONS.
    The regulations in this chapter shall be subject to the interpretations and
 exceptions as to area, height and use contained in this subchapter.
@@ -17619,7 +17619,7 @@ considered to be a structure, and shall be permitted in any required yard.
 distance not exceeding ten feet, but this shall not include or permit fixed
 canopies.
 (`73 Code, 15.364, § 5.141)  (Ord. eff. 8-1-67; Am. Ord. passed 1973)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 154.150  ENFORCEMENT BY BUILDING INSPECTOR; DUTIES.
    (A)   The provisions of this chapter shall be administered and enforced by
 the Zoning Administrator or by such deputies of his or her department as the
