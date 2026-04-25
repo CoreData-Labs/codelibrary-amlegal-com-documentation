@@ -125,7 +125,7 @@ vote
 Editor’s note:
    This charter was adopted by Ordinance No. 2007-13 on August 2, 2007 and
 approved by special election on September 25, 2007.
-PREAMBLE
+*** PREAMBLE ***
    We, the citizens of the town, in order to build a municipality which
 enhances the ideals of community living, to secure the benefits of municipal
 home rule and local self-government granted to us by the laws of this state,
@@ -1203,7 +1203,7 @@ Town Manager
  
    
 31.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 BOND.
    The Town Council shall have the power to require the Town Clerk and other
 officers, including its own members, before any of them enters upon the duties
@@ -1229,7 +1229,7 @@ deliver to his or her successor in office, or to the person as the Town Council
 may designate, all books, records, papers, vouchers and property of every kind
 in his or her possession or control belonging to the town.
 (Laws of Fla., Ch. 59-1708, Art. III, § 13) (2000 Code, § 2-68)
-TOWN CLERK
+**** TOWN CLERK ****
 § 31.15 DUTIES, GENERALLY.
    (A)   The Town Clerk shall keep a record of the proceedings of the Town
 Council in a minute book to be provided and kept for that purpose. The Town
@@ -1268,7 +1268,7 @@ general records, books and documents of the town, and shall perform further
 duties as are imposed upon the Town Clerk by the Town Council by resolution,
 ordinance or otherwise.
 (Laws of Fla., Ch. 59-1708, Art. IV, § 4) (2000 Code, § 2-92)
-CODE ENFORCEMENT SPECIAL MAGISTRATE
+**** CODE ENFORCEMENT SPECIAL MAGISTRATE ****
 § 31.30 DUTIES, GENERALLY.
    The position of Code Enforcement Special Magistrate is responsible for
 hearing matters brought before him or her concerning compliance with existing
@@ -1465,7 +1465,7 @@ F.S. § 162.08;
    (E)   Issue orders having the force of law to command whatever steps are
 necessary to bring a violation into compliance.
 (Ord. 2006-11, passed 8-22-2006; Ord. 2013-07, passed 9-24-2013)
-TOWN MANAGER
+**** TOWN MANAGER ****
 § 31.50 OFFICE OF TOWN MANAGER.
    The Town Council hereby creates the office of the Town Manager. Such
 position may be filled by the hiring of a separate Town Manager or by having
@@ -1712,7 +1712,7 @@ Budget
 33.24   Appropriations
    
 33.25   Temporary borrowing
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.01 PER DIEM AND TRAVELING EXPENSES FOR COUNCIL, EMPLOYEES AND AUTHORIZED
 PERSONS.
    (A)   Lodging. All travelers shall be reimbursed for actual lodging expenses
@@ -1735,7 +1735,7 @@ privately owned vehicles, the traveler shall be entitled to a mileage allowance
 at a fixed rate not to exceed $0.55 per mile or the common carrier fare (coach
 class) for travel, to be determined by the Town Manager.
 (Ord. 2003-11, passed 8-26-2003)
-BUDGET
+**** BUDGET ****
 § 33.15 PREPARATION AND SUBMISSION.
    The Mayor, at least 60 days prior to the beginning of each budget year,
 shall submit to the Town Council a budget and an explanatory budget message in
@@ -1917,7 +1917,7 @@ Building Board of Adjustment and Appeals
  
    
 34.99   Penalty
-UTILITY TAX CODE
+**** UTILITY TAX CODE ****
 § 34.01 TITLE; AUTHORITY FOR REGULATION.
    (A)   Title. This subchapter may be cited as the Town Utility Tax Code.
    (B)   Authority for regulation. This chapter is enacted under the home rules
@@ -2108,7 +2108,7 @@ late payment of tax revenues or filing of a required return. No interest or
 penalty shall be passed thru or passed along to consumer purchasers.
 (Ord. 2001-03, passed 8-26-2001) Penalty, see §
 34.99
-RECREATIONAL IMPACT FEES
+**** RECREATIONAL IMPACT FEES ****
 § 34.25 FEE REQUIRED.
    The payment of a fee to the town to be used for the acquisition, expansion,
 construction and provision of town recreational facilities shall be required in
@@ -2260,7 +2260,7 @@ or facilities needed or anticipated to be needed by the residents of the
 particular development. The town shall maintain records of all funds expended
 and the purposes for which they were expended
 (Ord. 2001-08, passed 11-27-2001)
-PUBLIC FACILITIES IMPACT FEE
+**** PUBLIC FACILITIES IMPACT FEE ****
 § 34.45 SHORT TITLE AND INTENT.
    (A)   This subchapter shall be known and may be cited as the Public
 Facilities Impact Fee Code.
@@ -2578,7 +2578,7 @@ proceeds
  
    
 91.999   Penalty
-UNSIGHTLY, UNSANITARY CONDITIONS
+**** UNSIGHTLY, UNSANITARY CONDITIONS ****
 § 91.001 NUISANCE DECLARED; PROHIBITED.
    (A)   The existence, storage, placement, accumulation or abandonment of any
 junk, scrap materials, unused or abandoned vehicles, vehicle or machinery
@@ -2600,7 +2600,7 @@ any of the materials named in §
 as defined in §
 91.001(A).
 (2000 Code, § 30-2) (Ord. 87-01, passed 4-28-1987)
-SANITATION
+**** SANITATION ****
 § 91.015 SANITARY CODE ADOPTED.
    The State Sanitary Code set forth in F.S. § 381.031 is adopted as the
 sanitary code of the town, and its provisions are incorporated by reference as
@@ -2791,7 +2791,7 @@ adversely affected by a decision of the Town Council on appeal may seek relief
 in a court of competent jurisdiction by filing a petition for a writ of
 certiorari pursuant to the State Rules of Appellate Procedure.
 (Ord. 2009-02, passed 7-28-2009)
-MORTGAGE REGISTRATION CODE
+**** MORTGAGE REGISTRATION CODE ****
 § 91.035 TITLE AND PURPOSE.
    This subchapter shall be known as the Town of Palm Shores Mortgage
 Registration Code. It is the intent of this subchapter to protect and preserve
@@ -3062,7 +3062,7 @@ administrative appeal to the Town Mayor. Any person aggrieved by a final
 decision issued under this subchapter by the town, may seek relief in any court
 of competent jurisdiction as provided by the laws of this state.
 (Ord. 2009-04, passed 7-28-2009)
-NOISE
+**** NOISE ****
 § 91.060 UNLAWFUL ACTIONS.
    It shall be unlawful for any person to make, continue or cause to be made or
 continued any loud, unnecessary or unusual noise or any noise that either
@@ -3159,7 +3159,7 @@ is muffled and the engine is equipped with a muffler device sufficient to
 deaden the noise.
 (2000 Code, § 30-67) (Ord. 87-01, passed 4-28-1987) Penalty, see §
 91.999
-JUNKED, WRECKED AND ABANDONED PROPERTY
+**** JUNKED, WRECKED AND ABANDONED PROPERTY ****
 § 91.075 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3388,7 +3388,7 @@ Section
 Boats
    
 92.01   Horsepower limitation on motorboats
-BOATS
+**** BOATS ****
 § 92.01 HORSEPOWER LIMITATION ON MOTORBOATS.
    No motorboat shall be operated by commercial owners or operators of
 motorboats that has an engine of more than 15 hp powering it.
@@ -4409,7 +4409,7 @@ respect to the regulation of this chapter, the town shall have the right to
 amend this chapter to the extent it deems appropriate, and the existing permit
 shall be subject to such amendment.
 (Ord. 2010-01, passed 1-26-2010)
-SMALL WIRELESS FACILITIES IN RIGHTS-OF-WAY
+**** SMALL WIRELESS FACILITIES IN RIGHTS-OF-WAY ****
 § 93.30 DEFINITIONS; PURPOSE.
    (A)   Definitions. For the purpose of this subchapter, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -5578,7 +5578,7 @@ Pain Management Clinics
  
    
 110.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 110.01 HOURS OF OPERATION; EXCEPTION.
    (A)   It shall be unlawful for any person to keep a business open to the
 public between the hours of 11:00 p.m. and 7:00 a.m.
@@ -5589,7 +5589,7 @@ for variances as specified in §
 157.389, shall apply to the authorization of an exemption.
 (2000 Code, § 22-1) (Ord. 96-02, passed 1-29-1996) Penalty, see §
 110.99
-PRECIOUS METALS
+**** PRECIOUS METALS ****
 § 110.15 RECORD OF PURCHASES.
    (A)   (1)   Every person dealing in precious metals such as gold, silver and
 platinum shall keep a record of all purchases from private individuals at the
@@ -5613,7 +5613,7 @@ officer upon request and shall be preserved for a period of one year after
 purchase.
 (2000 Code, § 22-51) (Ord. 81-4, passed 6-9-1981) Penalty, see §
 110.99
-BUSINESS TAX RECEIPT
+**** BUSINESS TAX RECEIPT ****
 § 110.30 REQUIRED.
    No person shall maintain a permanent business location or branch office
 within the town for the privilege of engaging in or managing any business,
@@ -5882,7 +5882,7 @@ professions and occupations, shall be construed to mean that each individual
 shall pay the tax, whether practicing by himself or herself or in partnership
 or employed by another.
 (2000 Code, § 38-40) (Ord. 81-10, passed 8-11-1981)
-PAIN MANAGEMENT CLINICS
+**** PAIN MANAGEMENT CLINICS ****
 § 110.50 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6059,13 +6059,13 @@ beverages, see §
 131.17
 Statutory reference:
    Alcoholic beverages, see F.S. Ch. 561
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 111.01 DEFINITIONS.
    The words, terms and phrases used in this chapter shall have the meanings
 ascribed to them in F.S. Chs. 561 through 565, except where the context clearly
 indicates a different meaning.
 (2000 Code, § 6-1)
-HOURS OF SALE
+**** HOURS OF SALE ****
 § 111.15 LIMITED.
    (A)   It shall be unlawful for any retail vendor in alcoholic beverages
 holding a license issued by the state authorizing the vendor to sell alcoholic
@@ -6084,7 +6084,7 @@ except during the following times:
 and wine only may be sold.
 (2000 Code, § 6-31) (Ord. 69-01, passed 7-22-1969; Ord. 2022-04, passed 11-25-
 2022)
-OPEN CONTAINERS
+**** OPEN CONTAINERS ****
 § 111.30 POLICY AND INTENT.
    The town finds that the consumption of alcoholic beverages while driving or
 riding in or on a motor vehicle poses a grave imminent hazard to the health and
@@ -6223,7 +6223,7 @@ Slot Machines or Devices
  
    
 112.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 112.01 CODE ADOPTED.
    The regulations entitled Amusement Device Code, edition adopted by the Town
 Council and on file in the Town Clerk’s office is adopted by reference as the
@@ -6232,7 +6232,7 @@ conditions hazardous to life and property. A copy of the amusement device code
 shall be filed in the office of the Town Clerk and shall be available for
 inspection at the regular business hours of the office.
 (2000 Code, § 10-1) (Ord. 96-09, passed 1-28-1997)
-INDOOR SKATE PARKS
+**** INDOOR SKATE PARKS ****
 § 112.15 GENERALLY.
    All building code and life safety codes in force and effect at the time a
 skate park is to be opened, built, rebuilt, used, constructed or otherwise
@@ -6273,7 +6273,7 @@ lighting and the like shall remain in effect for this business operation.
    This subchapter does not apply to wheelchair ramps for the disabled, unless
 a particular ramp is for use as a recreational or leisure activity.
 (2000 Code, § 10-312) (Ord. 2000-02, passed 5-23-2000)
-SLOT MACHINES OR DEVICES
+**** SLOT MACHINES OR DEVICES ****
 § 112.30 PURPOSE AND INTENT; FINDINGS; JURISDICTION; STATUTORY AUTHORITY.
    The purpose of this subchapter is to regulate, within the town those games,
 machines or devices which are unlawful under F.S. Ch. 849, because the machines
@@ -6436,7 +6436,7 @@ provisions
  
    
 113.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 113.001 PURPOSE, FINDINGS, INTENT AND INCORPORATION OF RECITALS.
    (A)   Purpose. It is the purpose of this chapter to regulate sexually-
 oriented businesses and adult entertainment establishments in order to promote
@@ -7175,7 +7175,7 @@ the reasonable, good-faith trespass upon an adult entertainment establishment
 or sexually-oriented business while acting within the scope of the authority
 set forth in this chapter.
 (Ord. 2007-11, passed 6-26-2007)
-LICENSING PROVISIONS
+**** LICENSING PROVISIONS ****
 § 113.020 LICENSE REQUIRED.
    (A)   Requirement. It is unlawful for any person to operate or to be an
 operator of or worker at a sexually-oriented business or an adult entertainment
@@ -7881,7 +7881,7 @@ or his or her designee, make available for immediate inspection the original
 records or the true and exact photocopies thereof at any time when the
 establishment or business is open for business.
 (Ord. 2007-11, passed 6-26-2007)
-REQUIREMENTS
+**** REQUIREMENTS ****
 § 113.050 GENERAL REQUIREMENTS FOR ALL ADULT ENTERTAINMENT ESTABLISHMENTS AND
 SEXUALLY-ORIENTED BUSINESSES.
    Each adult entertainment establishment and sexually-oriented business,
@@ -8194,7 +8194,7 @@ sexually-oriented business license and the escort’s own business tax receipt,
 if applicable, and the location of the meeting within the structure.
 (Ord. 2007-11, passed 6-26-2007) Penalty, see §
 113.999
-ENGAGING IN PROHIBITED ACTIVITY
+**** ENGAGING IN PROHIBITED ACTIVITY ****
 § 113.070 CUSTOMERS.
    (A)   It is unlawful for any customer in or for an adult entertainment
 establishment or sexually-oriented business regardless of whether licensed
@@ -8358,7 +8358,7 @@ any point below the waist and above the knee; or
 breast.
 (Ord. 2007-11, passed 6-26-2007) Penalty, see §
 113.999
-OPERATION
+**** OPERATION ****
 § 113.085 OPERATION WITHOUT A LICENSE.
    It is unlawful for any person to be an operator of or at or to be a worker
 for an adult entertainment establishment or sexually-oriented business where
@@ -8437,7 +8437,7 @@ the touching is necessary and inherent to the activity of changing clothes or
 excretory functions.
 (Ord. 2007-11, passed 6-26-2007) Penalty, see §
 113.999
-UNLAWFUL ACTIVITIES
+**** UNLAWFUL ACTIVITIES ****
 § 113.100 MINORS.
    It is unlawful for an operator or worker of an adult entertainment
 establishment or sexually-oriented business regardless of whether licensed
@@ -8700,7 +8700,7 @@ Prohibitions
    
 114.52   Soliciting, peddling or vending from streets and other areas
 prohibited
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 114.01 PURPOSE AND INTENT.
    It is the purpose and intent of this chapter to preserve public safety,
 human life and convenience; to secure the comfort, health, welfare and
@@ -8786,7 +8786,7 @@ as provided by
 Chapter 34 of this code, if a business tax receipt is required by the chapter.
 (Ord. 2009-03, passed 7-28-2009) Penalty, see §
 10.99
-IDENTIFICATION CARDS AND APPLICATIONS
+**** IDENTIFICATION CARDS AND APPLICATIONS ****
 § 114.15 IDENTIFICATION CARD REQUIRED.
    It shall be unlawful for any person to engage in the business of commercial
 solicitor or peddler or to act as a charitable solicitor within the corporate
@@ -8933,7 +8933,7 @@ provisions of this chapter shall expire on September 30 next following the date
 of issue unless an earlier expiration date is specified on the face of the
 business tax receipt or identification card.
 (Ord. 2009-03, passed 7-28-2009)
-REVOCATION
+**** REVOCATION ****
 § 114.35 REVOCATION OF BUSINESS TAX RECEIPT AND CARD AUTHORIZED; GROUNDS.
    Business tax receipts and identification cards issued pursuant to the
 provisions of this chapter may be revoked by the Town Manager and after notice
@@ -8976,7 +8976,7 @@ to the applicant in the same manner as provided for notice of hearing on
 revocation of a card. The decision and order of the Town Council on the appeal
 shall be final and conclusive.
 (Ord. 2009-03, passed 7-28-2009)
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 114.50 PROHIBITED ACTS.
    It shall be unlawful for any person holding a business tax receipt or
 identification card pursuant to the terms of this chapter to commit any of the
@@ -9517,7 +9517,7 @@ alcoholic beverages
  
    
 131.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 131.01 TITLE.
    This chapter shall be known as the Town of Palm Shores Public Nudity
 Chapter.
@@ -9749,7 +9749,7 @@ engage in conduct; and, it is the intent of §
 131.15 of this chapter to specifically prohibit nudity, gross sexuality and the
 simulation thereof.
 (Ord. 2007-10, passed 6-26-2007)
-PROHIBITIONS AND EXEMPTIONS
+**** PROHIBITIONS AND EXEMPTIONS ****
 § 131.15 NUDITY, SEXUAL CONDUCT PROHIBITED.
    (A)   No person shall knowingly, intentionally or recklessly appear, or
 cause another person to appear nude, as defined in §
@@ -9899,7 +9899,7 @@ predator
  
    
 132.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 132.01 LEGISLATIVE FINDINGS.
    It is the further intention of this chapter to accomplish those intents and
 purposes expressed in the following recitals:
@@ -10009,7 +10009,7 @@ that both the incorporated and unincorporated areas of the county; provided
 that any provision of this chapter in conflict with a municipal ordinance shall
 not be effective within that municipality to the extent of the conflict.
 (Ord. 2006-04, passed 3-21-2006)
-SEXUAL OFFENDERS AND SEXUAL PREDATORS
+**** SEXUAL OFFENDERS AND SEXUAL PREDATORS ****
 § 132.15 PROHIBITED RESIDENCES OF SEXUAL OFFENDERS AND PREDATORS.
    It is prohibited and unlawful for any sexual offender or sexual predator to
 abide, lodge or reside in a permanent or temporary residence located within the
@@ -10087,7 +10087,7 @@ officer at the time, would have authorized the person to be in the area
 pursuant to one of the exceptions listed above.
 (Ord. 2006-04, passed 3-21-2006) Penalty, see §
 132.99
-DISTANCE REQUIREMENTS AND RESIDENCY
+**** DISTANCE REQUIREMENTS AND RESIDENCY ****
 § 132.30 MEASUREMENT OF DISTANCE REQUIREMENT FOR RESIDENCE.
    For purposes of measuring separation of a residence from a school, day care
 center, park or playground, all distances shall be measured from the outermost
@@ -10511,7 +10511,7 @@ Violations
 151.151   Authority
    
 151.152   Unlawful continuance
-ADMINISTRATION AND APPLICABILITY
+**** ADMINISTRATION AND APPLICABILITY ****
 § 151.001 TITLE.
    These regulations shall be known as the Floodplain Management Chapter of the
 Town of Palm Shores, hereinafter referred to as "this chapter."
@@ -10886,7 +10886,7 @@ Architecture and Construction, by Cyril M. Harris, McGraw-Hill Publishing shall
 be used.
 (Ord. 2014-02, passed 2-25-2014; Ord. 2014-04, passed 3-25-2014; Ord. 2020-01,
 passed 3-24-2020)
-DUTIES AND POWERS OF THE FLOODPLAIN ADMINISTRATOR
+**** DUTIES AND POWERS OF THE FLOODPLAIN ADMINISTRATOR ****
 § 151.030 DESIGNATION.
    The Town Building Official is currently designated as the Floodplain
 Administrator. This designation may be changed by resolution of the Town
@@ -11014,7 +11014,7 @@ enforcement actions taken pursuant to this chapter and the flood resistant
 construction requirements of the Florida Building Code. These records shall be
 available for public inspection at the office of the Town Clerk.
 (Ord. 2014-02, passed 2-25-2014; Ord. 2020-01, passed 3-24-2020)
-PERMITS
+**** PERMITS ****
 § 151.050 PERMITS REQUIRED.
    Any owner or owner's authorized agent (hereinafter "applicant") who intends
 to undertake any development activity within the scope of this chapter,
@@ -11122,7 +11122,7 @@ affect wetlands and alter surface water flows, in conjunction with the U.S.
 Army Corps of Engineers; § 404 of the Clean Water Act.
    (E)   Federal permits and approvals.
 (Ord. 2014-02, passed 2-25-2014; Ord. 2020-01, passed 3-24-2020)
-SITE PLANS AND CONSTRUCTION DOCUMENTS
+**** SITE PLANS AND CONSTRUCTION DOCUMENTS ****
 § 151.070 INFORMATION FOR DEVELOPMENT IN FLOOD HAZARD AREAS.
    (A)   The site plan or construction documents for any development subject to
 the requirements of this chapter shall be drawn to scale and shall include, as
@@ -11211,7 +11211,7 @@ maintained in a manner which preserves the channel's flood-carrying capacity;
 the applicant shall submit the analysis to FEMA as specified in §
 151.073.
 (Ord. 2014-02, passed 2-25-2014; Ord. 2020-01, passed 3-24-2020)
-§ 151.073 SUBMISSION OF ADDITIONAL DATA.
+*** § 151.073 SUBMISSION OF ADDITIONAL DATA. ***
    When additional hydrologic, hydraulic or other engineering data, studies,
 and additional analyses are submitted to support an application, the applicant
 has the right to seek a Letter of Map Change from FEMA to change the base flood
@@ -11221,7 +11221,7 @@ analyses shall be prepared by a Florida licensed engineer in a format required
 by FEMA. Submittal requirements and processing fees shall be the responsibility
 of the applicant.
 (Ord. 2014-02, passed 2-25-2014; Ord. 2020-01, passed 3-24-2020)
-INSPECTIONS
+**** INSPECTIONS ****
 § 151.090 GENERAL.
    Development for which a floodplain development permit or approval is
 required shall be subject to inspection.
@@ -11268,7 +11268,7 @@ this chapter and the conditions of the issued permit. Upon placement of a
 manufactured home, certification of the elevation of the lowest floor shall be
 submitted to the Building Official.
 (Ord. 2014-02, passed 2-25-2014; Ord. 2020-01, passed 3-24-2020)
-VARIANCES AND APPEALS
+**** VARIANCES AND APPEALS ****
 § 151.110 GENERAL.
    The Board of Adjustment shall hear and decide on requests for appeals and
 requests for variances from the strict application of this chapter. Pursuant to
@@ -11377,7 +11377,7 @@ commensurate with the increased risk resulting from the reduced floor elevation
 construction below the base flood elevation increases risks to life and
 property.
 (Ord. 2014-02, passed 2-25-2014; Ord. 2020-01, passed 3-24-2020)
-FLOOD RESISTANT DEVELOPMENT
+**** FLOOD RESISTANT DEVELOPMENT ****
 § 151.130 BUILDINGS AND STRUCTURES.
    Design and construction of buildings, structures and facilities exempt from
 the Florida Building Code.
@@ -11605,7 +11605,7 @@ meet the limitations of §
 or watercourse crossing shall meet the requirements of §
 151.072(C).
 (Ord. 2014-02, passed 2-25-2014; Ord. 2020-01, passed 3-24-2020)
-VIOLATIONS
+**** VIOLATIONS ****
 § 151.150 VIOLATIONS.
    Any development that is not within the scope of the Florida Building Code
 but that is regulated by this chapter that is performed without an issued
@@ -11649,7 +11649,7 @@ Concurrency Management System
 152.31   Consistency with comprehensive plan
    
 152.32   Concurrency determinations
-LOCAL PLANNING AGENCY
+**** LOCAL PLANNING AGENCY ****
 § 152.01 DESIGNATED; PURPOSE.
    (A)   The Planning and Zoning Board is designated the local planning agency.
    (B)   The purpose of this local planning agency will be to prepare or
@@ -11665,7 +11665,7 @@ present and future development needs in the areas of:
       (8)   Intergovernmental cooperation; and
       (9)   Utilities.
 (2000 Code, § 50-31) (Ord. 81-1, passed 2-24-1981)
-COMPREHENSIVE PLAN
+**** COMPREHENSIVE PLAN ****
 § 152.15 ADOPTED.
    The comprehensive plan for the town entitled Comprehensive Plan of the Town
 of Palm Shores is adopted by reference for the area of jurisdiction of the town
@@ -11684,7 +11684,7 @@ ordinances and regulations of the town.
    (B)   All land development ordinances and regulations adopted by the town
 shall also be consistent with the comprehensive plan.
 (2000 Code, § 50-63) (Ord. 88-05, passed 8-30-1988)
-CONCURRENCY MANAGEMENT SYSTEM
+**** CONCURRENCY MANAGEMENT SYSTEM ****
 § 152.30 PURPOSE AND INTENT.
    It is the intent of the town to provide land development regulations which
 are consistent with and which contain specific and detailed provisions to
@@ -11825,7 +11825,7 @@ Variances/Waiver
  
    
 153.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. In the
@@ -12507,7 +12507,7 @@ or unconstitutional by the valid judgment or decree of any court of competent
 jurisdiction, the declaration of the unconstitutionality shall not affect the
 prohibition on billboards as contained in this chapter or code.
 (Ord. 2005-03, passed 7-26-2005; Ord. 2016-02, passed 4-26-2016)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 153.030 (RESERVED)
 § 153.031 COMPLIANCE WITH CHAPTER.
    (A)   All signs erected, placed or designed in a manner contrary to the
@@ -12526,7 +12526,7 @@ be re-erected; or signs may be modified to advertise different businesses or
 services from those which they advertised on August 9, 1983.
 (2000 Code, § 54-61) (Ord. 83-3, passed 8-9-1983; Ord. 2016-02, passed 4-26-
 2016)
-VARIANCES/WAIVER
+**** VARIANCES/WAIVER ****
 § 153.045 APPLICATIONS.
    A variance from the terms of this chapter as to height, area, location,
 duration or number of signs may be granted by the Town Council when not
@@ -12634,7 +12634,7 @@ points of access
  
    
 154.999   Penalty
-TREE PROTECTION
+**** TREE PROTECTION ****
 § 154.001 PURPOSE AND INTENT.
    (A)   The purpose of this chapter is to provide protective regulations for
 trees and landscaping in the town.
@@ -12801,7 +12801,7 @@ intent of this division and this chapter.
 previous provisions of this chapter.
 (2000 Code, § 62-36) (Ord. 86-04, passed 4-22-1986) Penalty, see §
 154.999
-PERMITS
+**** PERMITS ****
 § 154.020 REQUIRED, EXEMPTIONS.
    (A)   The provisions of this subchapter shall apply to real property within
 the incorporated area of the town.
@@ -13045,7 +13045,7 @@ occupancy and shall extend until a time as the enforcement official has
 accepted the planting.
 (2000 Code, § 62-65) (Ord. 86-04, passed 4-22-1986) Penalty, see §
 154.999
-REGULATIONS
+**** REGULATIONS ****
 § 154.040 UNDESIRABLE SPECIES.
    The following species shall be discouraged from being retained on-site:
    (A)   Schinus terebinthifolius (Brazilian Pepper Tree);
@@ -13110,7 +13110,7 @@ permitted;
 granting of a variance from the literal application of the provisions of the
 zoning or subdivision regulations of the town.
 (2000 Code, § 62-89) (Ord. 86-04, passed 4-22-1986)
-LANDSCAPING
+**** LANDSCAPING ****
 § 154.055 PURPOSE.
    The provisions of this subchapter shall be the minimum requirements to:
    (A)   Promote the public health, safety and general welfare by providing for
@@ -13579,7 +13579,7 @@ Residential Streets; Wearing Surface
 155.112   Placing the mixture
    
 155.113   Control testing requirements
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 155.001 STREETS.
    (A)   The arrangement, character, extent, width, grade and location of all
 streets shall conform to the general community plan and shall be considered in
@@ -13764,8 +13764,8 @@ town shall conform to the Florida Residential Landlord and Tenant Act, F.S. §§
 83.40 through 83.682.
 (2000 Code, § 58-152) (Ord. 88-01, passed 5-24-1988) Penalty, see §
 10.99
-ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
-RESIDENTIAL STREETS; IN GENERAL
+**** ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
+RESIDENTIAL STREETS; IN GENERAL ****
 § 155.020 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13862,8 +13862,8 @@ town and are to be constructed to Brevard County standards.
 (2000 Code, § 58-181) (Ord. 88-01, passed 5-24-1988; Ord. 2016-03, passed 3-22-
 2016) Penalty, see §
 10.99
-ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
-RESIDENTIAL STREETS; CLEARING AND GRUBBING OF RIGHTS-OF-WAY
+**** ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
+RESIDENTIAL STREETS; CLEARING AND GRUBBING OF RIGHTS-OF-WAY ****
 § 155.040 SCOPE OF WORK.
    The work covered by this subchapter consists of clearing and grubbing and
 the removal of the resultant products and debris within the areas of the
@@ -13889,8 +13889,8 @@ permission is obtained from the local government agencies and/or the State Fire
 Marshal.
 (2000 Code, § 58-203) (Ord. 88-01, passed 5-24-1988) Penalty, see §
 10.99
-ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
-RESIDENTIAL STREETS; EXCAVATION AND EMBANKMENT
+**** ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
+RESIDENTIAL STREETS; EXCAVATION AND EMBANKMENT ****
 § 155.055 DESCRIPTION.
    The work covered by this subchapter consists of excavating, removing and
 satisfactorily disposing of all material, of whatever character within the
@@ -13937,8 +13937,8 @@ full width of the embankments and shall be constructed in lengths of not less
 than 300 feet or for the full length of the embankment.
 (2000 Code, § 58-230) (Ord. 88-01, passed 5-24-1988) Penalty, see §
 10.99
-ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
-RESIDENTIAL STREETS; SUBGRADE
+**** ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
+RESIDENTIAL STREETS; SUBGRADE ****
 § 155.070 DESCRIPTION.
    On completion of clearing operations, topsoil in the roadway shall be
 removed and stored for use in filling and forming shoulders, embankments and
@@ -14067,8 +14067,8 @@ along the completed subgrade section.
 (2000 Code, § 58-253) (Ord. 88-01, passed 5-24-1988; Ord. 2010-05, passed 4-27-
 2010) Penalty, see §
 10.99
-ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
-RESIDENTIAL STREETS; LIMEROCK OR CEMENTED COQUINA
+**** ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
+RESIDENTIAL STREETS; LIMEROCK OR CEMENTED COQUINA ****
 § 155.085 LIMEROCK BASE CONSTRUCTION.
    (A)   The work consists of the construction of a base course composed of
 limerock. It shall be constructed on the prepared subgrade, in accordance with
@@ -14318,8 +14318,8 @@ kept free from traffic until the subsequent layer of bituminous hot mix has
 been laid.
 (Ord. 2010-05, passed 4-27-2010) Penalty, see §
 10.99
-ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
-RESIDENTIAL STREETS; WEARING SURFACE
+**** ENGINEERING STANDARDS AND GUIDE SPECIFICATIONS FOR SECONDARY ROADS AND
+RESIDENTIAL STREETS; WEARING SURFACE ****
 § 155.110 SPECIFICATIONS.
    (A)   The work consists of the construction of an asphaltic concrete surface
 course upon previously prepared base course in accordance with the requirements
@@ -14526,7 +14526,7 @@ Required Improvements
 156.68   Sewage requirements
    
 156.69   Central sewerage system
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. In the
@@ -14682,7 +14682,7 @@ greater restriction upon land than is imposed or required by existing
 provisions of law, ordinance, contract or deed, the provisions in this chapter
 shall control.
 (2000 Code, § 58-3) (Ord. 88-01, passed 5-24-1988)
-PLANS AND PLATS; PREAPPLICATION REVIEW PROCEDURE
+**** PLANS AND PLATS; PREAPPLICATION REVIEW PROCEDURE ****
 § 156.15 PREAPPLICATION PROCEDURE.
    (A)   Prior to the filing of an application for conditional approval of the
 preliminary plat (general subdivision plan), the subdivider shall submit to the
@@ -14757,7 +14757,7 @@ covenants and proposed utilities and street improvements.
 subdivider to show the relationship of the proposed subdivision to existing
 community facilities that serve or influence it.
 (2000 Code, § 58-59) (Ord. 88-01, passed 5-24-1988)
-PRELIMINARY PLAT
+**** PRELIMINARY PLAT ****
 § 156.30 DATA REQUIRED FOR CONDITIONAL APPROVAL.
    Data required as a basis for the preliminary plat, §
 156.32, shall include existing conditions as follows except when otherwise
@@ -14826,7 +14826,7 @@ preliminary plat to meet the standards of this chapter.
    No additional fees are to be borne by the developer when the Planning and
 Zoning Board grants an extension for revision of the preliminary plat.
 (2000 Code, § 58-86) (Ord. 88-01, passed 5-24-1988)
-FINAL PLAT
+**** FINAL PLAT ****
 § 156.50 REQUIREMENTS AND CONTENTS.
    (A)   Final plats shall be drawn in ink on tracing cloth on sheets no
 smaller than 24 inches wide by 30 inches long and shall be at a scale of 200
@@ -14912,7 +14912,7 @@ town of the final improvements. The bond shall be from a company licensed as a
 surety in the State of Florida, listed by the United States Treasury
 Department, and rated A: AAA in Best's Insurance Guide.
 (Ord. 2018-05, passed 9-25-2018)
-REQUIRED IMPROVEMENTS
+**** REQUIRED IMPROVEMENTS ****
 § 156.65 MONUMENTS.
    Concrete monuments P.R.M.s shall be placed at all block corners.
 (2000 Code, § 58-346) (Ord. 88-01, passed 5-24-1988) Penalty, see §
@@ -15336,7 +15336,7 @@ uses in the following zoning district classifications
  
    
 157.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 157.001 INTERPRETATION.
    In their interpretation and application, the provisions of this chapter
 shall be held to be the minimum requirements adopted for the promotion of
@@ -16128,7 +16128,7 @@ structure or land, contrary to the provisions of this chapter, or to prevent
 any illegal act, conduct, business or use in or about the premises.
 (2000 Code, § 66-12) (Ord. 75-01, passed 7-14-1975) Penalty, see §
 157.999
-ADMINISTRATION; GENERAL PROVISIONS
+**** ADMINISTRATION; GENERAL PROVISIONS ****
 § 157.025 DUTIES OF ADMINISTRATIVE OFFICIAL, BOARD OF ADJUSTMENT, TOWN COUNCIL
 AND COURTS ON MATTERS OR APPEAL.
    (A)   It is the intent of this chapter that:
@@ -16170,7 +16170,7 @@ chapter shall be punished as provided in §
 157.999.
 (2000 Code, § 66-48) (Ord. 75-01, passed 7-14-1975) Penalty, see §
 157.999
-PLANNING AND ZONING BOARD
+**** PLANNING AND ZONING BOARD ****
 § 157.040 CREATION OF BOARD.
    A Planning and Zoning Board is hereby established which shall consist of
 five members who shall be appointed by the Town Council. In addition, the Town
@@ -16250,7 +16250,7 @@ which the Board may believe to be necessary or desirable to protect adjacent
 properties and the surrounding neighborhood, or to promote the public health,
 safety, welfare, economic order or aesthetics or environment.
 (2000 Code, § 66-74) (Ord. 99-02, passed 3-23-1999)
-BOARD OF ADJUSTMENT
+**** BOARD OF ADJUSTMENT ****
 § 157.055 ESTABLISHMENT AND PROCEDURE.
    A Board of Adjustment is established, which shall consist of the Town
 Council or five members to be appointed by the Town Council. The term of office
@@ -16417,7 +16417,7 @@ of certiorari, duly verified, setting forth that the decision is illegal, in
 whole or in part, specifying the grounds of the illegality in the manner and
 within the time provided by state appellate rules.
 (2000 Code, § 66-94) (Ord. 75-01, passed 7-14-1975)
-PERMITS AND CERTIFICATE OF OCCUPANCY
+**** PERMITS AND CERTIFICATE OF OCCUPANCY ****
 § 157.070 BUILDING PERMITS REQUIRED.
    (A)   No building or other structure shall be erected, moved, added to or
 structurally altered without a permit issued by the Building Official. No
@@ -16515,7 +16515,7 @@ All shoring and reshoring installations shall be supervised, inspected, and
 certified to be in compliance with the shoring documents by the contractor. The
 same shall also be inspected by the special inspector.
 (Ord. 2002-03, passed 6-25-2002)
-NONCONFORMITIES
+**** NONCONFORMITIES ****
 § 157.090 INTENT.
    Within the districts established by this chapter, or amendments that may
 later be adopted, there exist lots, structures, uses of land and structures and
@@ -16690,7 +16690,7 @@ establishment shall expand the square footage or cubic footage of the
 establishment beyond its current dimensions.
 (2000 Code, § 66-151) (Ord. 96-01, passed 1-29-1996) Penalty, see §
 157.999
-AMENDMENTS
+**** AMENDMENTS ****
 § 157.115 CONDITIONAL USES.
    (A)   The Town Council may permit a conditional use as provided herein, by
 ordinance granting permission for the use after a public hearing before the
@@ -17078,7 +17078,7 @@ opinion or mail, correspondence or other written communication, or noted during
 the site visit, shall be given a reasonable opportunity to refute or respond
 and provide contrasting information, evidence or views.
 (Ord. 2002-02, passed 6-25-2002)
-SITE DEVELOPMENT PLANS
+**** SITE DEVELOPMENT PLANS ****
 § 157.135 PURPOSE AND INTENT.
    As the general welfare, health, safety and convenience of the community are
 directly affected by the use of land, it is in the direct interest of the
@@ -17450,7 +17450,7 @@ approval and otherwise having complied with the provisions of these
 regulations.
 (Ord. 2002-03, passed 6-25-2002) Penalty, see §
 157.999
-DISTRICTS GENERALLY
+**** DISTRICTS GENERALLY ****
 § 157.165 INTERPRETATION OF DISTRICT BOUNDARIES.
    Where uncertainty exists as to the boundaries of districts as shown on the
 official zoning map, the following rules shall apply:
@@ -17545,7 +17545,7 @@ the zoning map shall have the same effect as if the full description of the
 districts was stated.
 (2000 Code, § 66-248) (Ord. 75-01, passed 7-14-1975; Ord. 2022-05, passed 11-
 22-2022)
-R-A RESIDENTIAL AGRICULTURAL
+**** R-A RESIDENTIAL AGRICULTURAL ****
 § 157.180 DISTRICT AND INTENT.
    (A)   The provisions of the R-A District are intended to apply to a sparsely
 developed area capable of supporting single-family residences at very low
@@ -17618,7 +17618,7 @@ Minimum yard requirements
 (2000 Code, § 66-271) (Ord. 75-01, passed 7-14-1975; Ord. 99-02, passed 3-23-
 1999; Ord. 2012-12, passed 11-27-2012)  Penalty, see §
 157.999
-R-1AAA SINGLE-FAMILY RESIDENTIAL
+**** R-1AAA SINGLE-FAMILY RESIDENTIAL ****
 § 157.195 DISTRICT AND INTENT.
    (A)   The provisions of the R-1AAA District are intended to apply to an area
 of estate-density single-family residential development. Large lot sizes and
@@ -17655,7 +17655,7 @@ Minimum yard requirements
 (2000 Code, § 66-291) (Ord. 75-01, passed 7-14-1975; Ord. 99-02, passed 3-23-
 1999) Penalty, see §
 157.999
-R-1A SINGLE-FAMILY RESIDENTIAL
+**** R-1A SINGLE-FAMILY RESIDENTIAL ****
 § 157.225 DISTRICT AND INTENT.
    (A)   The provisions of the R-1A District are intended to apply to an area
 of low-density single-family residential development. Lot sizes and other
@@ -17691,7 +17691,7 @@ requirements as described in §
 1999; Ord. 2011-12, passed 11-1-2011; Ord. 2021-03, passed - -2021) Penalty,
 see §
 157.999
-R-2 ONE-, TWO- AND MULTIPLE-FAMILY RESIDENTIAL
+**** R-2 ONE-, TWO- AND MULTIPLE-FAMILY RESIDENTIAL ****
 § 157.240 DISTRICT AND INTENT.
    (A)   The provisions of the R-2 District are intended to apply to an area of
 medium-density residential development with a variety of housing types. Lot
@@ -17843,7 +17843,7 @@ requirements as described in §
 2012-12, passed 11-27-2012; Ord. 2016-05, passed 6-29-2016; Ord. 2018-03,
 passed 6-26-2018; Ord. 2022-05, passed 11-22-2022) Penalty, see §
 157.999
-C-1 NEIGHBORHOOD COMMERCIAL
+**** C-1 NEIGHBORHOOD COMMERCIAL ****
 § 157.270 DISTRICT AND INTENT.
    (A)   The provisions of the C-1 District are intended to apply to an area
 adjacent to major arterial streets and convenient to major residential areas.
@@ -17936,7 +17936,7 @@ requirements as described in §
 11-1-2011; Ord. 2015-04, passed 6-30-2015; Ord. 2017-01, passed 2-28-2017; Ord.
 2018-04, passed 6-26-2018; Ord. 2023-03, passed 9-26-2023) Penalty, see §
 157.999
-C-2 GENERAL COMMERCIAL
+**** C-2 GENERAL COMMERCIAL ****
 § 157.285 DISTRICT AND INTENT.
    (A)   The provisions of the C-2 District are intended to apply to an area
 intended to be developed and preserved as a major commercial center serving the
@@ -18220,7 +18220,7 @@ passed 3-26-2013; Ord. 2015-04, passed 6-30-2015; Ord. 2017-01, passed 2-28-
 2020-02, passed 3-24-2020; Ord. 2021-03, passed - -2021; Ord. 2022-05, passed
 11-22-2022; Ord. 2024-01, passed 9-25-2024) Penalty, see §
 157.999
-C-P COMMERCIAL PARKWAY
+**** C-P COMMERCIAL PARKWAY ****
 § 157.300 DISTRICT AND INTENT.
    (A)   The provisions of the C-P District are intended to apply to areas
 located adjacent to a main highway approach to the town. The types of uses
@@ -18403,7 +18403,7 @@ Ord. 2013-03, passed 3-26-2013; Ord. 2015-04, passed 6-30-2015; Ord. 2017-01,
 passed 2-28-2017; Ord. 2018-04, passed 6-26-2018; Ord. 2021-03, passed - -2021;
 Ord. 2023-03, passed 9-26-2023) Penalty, see §
 157.999
-M-1 LIGHT INDUSTRIAL
+**** M-1 LIGHT INDUSTRIAL ****
 § 157.315 DISTRICT AND INTENT.
    (A)   The provisions of the M-1 District are intended to apply to an area
 located in close proximity to transportation facilities and which can serve
@@ -18489,7 +18489,7 @@ requirements as described in §
 24-2015; Ord. 2015-04, passed 6-30-2015; Ord. 2017-07, passed 11-8-2017)
 Penalty, see §
 157.999
-TR-1 MOBILE HOME PARKS
+**** TR-1 MOBILE HOME PARKS ****
 § 157.330 DISTRICT AND INTENT.
    (A)   The TR-1 District regulates existing mobile home parks developed in a
 manner as to make efficient, economical and aesthetically pleasing use of the
@@ -18518,7 +18518,7 @@ shall exceed ten feet in height.
 1985; Ord. 2012-12, passed 11-27-2012; Ord. 2013-01, passed 2-26-2013; Ord.
 2016-03, passed 3-22-2016; Ord. 2021-03, passed - -2021) Penalty, see §
 157.999
-TTP TRAVEL TRAILER PARK
+**** TTP TRAVEL TRAILER PARK ****
 § 157.360 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18839,7 +18839,7 @@ Adjustment provided a request is made by the applicant within 30 days after
 revocation.
 (2000 Code, § 66-520) (Ord. 75-01, passed 7-14-1975) Penalty, see §
 157.999
-ADULT ENTERTAINMENT
+**** ADULT ENTERTAINMENT ****
 § 157.380 DISTRICT AND INTENT.
    (A)   The provisions of the Adult Entertainment District are intended to
 apply only to those uses defined and allowed in
@@ -18955,7 +18955,7 @@ parking, landscaping, signage, buffering, yard or other physical code
 provisions cannot be met for the land zoned for adult entertainment uses.
 (2000 Code, § 66-550) (Ord. 97-01, passed 3-11-1997) Penalty, see §
 157.999
-GOVERNMENT MANAGED LANDS
+**** GOVERNMENT MANAGED LANDS ****
 § 157.400 PURPOSE AND INTENT.
    (A)   The Government Managed Lands (GML) District is established as a
 special district to protect the substantial public interest of real property
@@ -19013,7 +19013,7 @@ to landscaping, transportation services, off-street parking and the like, may
 be necessitated to promote a stable, healthy and safe environment.
 (Ord. 2006-16, passed - -; Ord. 2007-02, passed 1-23-2007) Penalty, see §
 157.999
-PLANNED DEVELOPMENTS; GENERALLY
+**** PLANNED DEVELOPMENTS; GENERALLY ****
 § 157.420 PLANNED COMMERCIAL DEVELOPMENTS; PERMITTED.
    (A)   Any commercial use or group of commercial uses for which three or more
 acres is intended to be developed simultaneously according to a carefully drawn
@@ -19136,7 +19136,7 @@ obtaining a building permit shall take effect.
 (2000 Code, § 66-621) (Ord. 75-01, passed 7-14-1975; Ord. 99-02, passed 3-23-
 1999) Penalty, see §
 157.999
-SUPPLEMENTARY DISTRICT REGULATIONS
+**** SUPPLEMENTARY DISTRICT REGULATIONS ****
 § 157.490 BUILDING SETBACK LINES.
    (A)   For the purpose of promoting health, safety and general welfare of the
 community, and to lessen congestion in the streets; secure safety from fire,
@@ -19617,7 +19617,7 @@ and/or used in F.S. § 381.986 (2017) or any rule promulgated pursuant to F.S. �
 381.986 (2017) from within the jurisdictional boundaries of the town as such
 boundaries may now exist or as such boundaries may exist in the future.
 (Ord. 2017-07, passed 11-8-2017)
-OFF-STREET PARKING AND LOADING
+**** OFF-STREET PARKING AND LOADING ****
 § 157.515 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -19752,7 +19752,7 @@ loading or unloading. Loading spaces shall be within the confines of the
 property.
 (2000 Code, § 66-945) (Ord. 75-01, passed 7-14-1975) Penalty, see §
 157.999
-HOME-BASED BUSINESSES
+**** HOME-BASED BUSINESSES ****
 § 157.530 REGULATIONS.
    (A)   In any district where a home-based business is allowed, it shall be
 clearly incidental and secondary to the use of the dwelling for dwelling
@@ -19829,7 +19829,7 @@ agricultural vehicles, equipment, or machinery.
 (2000 Code, § 66-1011) (Ord. 75-01, passed 7-14-1975; Ord. 2021-05, passed - -
 2021; Ord. 2022-01, passed - -2022) Penalty, see §
 157.999
-TELECOMMUNICATIONS TOWERS AND ANTENNAS
+**** TELECOMMUNICATIONS TOWERS AND ANTENNAS ****
 § 157.545 PURPOSE AND INTENT.
    (A)   The intent of this subchapter is to provide standards and regulations
 for the location of telecommunications antennas and towers in the town. These
@@ -20636,7 +20636,7 @@ Exemptions
 158.060   Exemption for pre-existing rental agreements
    
 158.061   Exemption for owner occupied vacation rentals
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 158.001 VACATION RENTALS, AUTHORITY, SCOPE AND PURPOSE.
    (A)   This chapter is enacted under the home rule power of the Town of Palm
 Shores in the interest of the health, peace, safety and general welfare. This
@@ -20852,7 +20852,7 @@ residential zoning districts of the Town of Palm Shores, the health, safety,
 and general welfare of its residents and visitors, and the quiet enjoyment by
 Palm Shores' residents.
 (Ord. 2019-07, passed 11-19-2019
-VACATION RENTAL REGISTRATION
+**** VACATION RENTAL REGISTRATION ****
 § 158.020 REGISTRATION REQUIRED.
    As of January 1, 2020, a vacation rental registration shall be required to
 operate a vacation rental within the Town of Palm Shores in the residential
@@ -21086,7 +21086,7 @@ responsible party shall be deemed service of notice on the property owner,
 tenant and violator. Copies of all notices shall also be provided to the
 property owner.
 (Ord. 2019-07, passed 11-19-2019)
-STANDARDS AND REQUIREMENTS FOR VACATION RENTALS
+**** STANDARDS AND REQUIREMENTS FOR VACATION RENTALS ****
 § 158.040 GENERALLY.
    The standards and requirements set forth in this subchapter shall apply to
 the rental, use, and occupancy of vacation rentals in the Town of Palm Shores.
@@ -21263,7 +21263,7 @@ and maintained in compliance with NFPA 10.
 lighting, which illuminates automatically for at least one hour when
 electricity is interrupted, is required at each building exit.
 (Ord. 2019-07, passed 11-19-2019)
-EXEMPTIONS
+**** EXEMPTIONS ****
 § 158.060 EXEMPTION FOR PRE-EXISTING RENTAL AGREEMENTS.
    (A)   Notwithstanding any other provision of this chapter, rental agreements
 with prospective occupants for vacations rentals that were pre-existing as of

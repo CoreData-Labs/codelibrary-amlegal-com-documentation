@@ -2713,7 +2713,7 @@ Issuance of Obligations
 Cross-reference:
    Concurrency Management System, see §§
 30.15 et seq.
-GENERAL
+**** GENERAL ****
 § 36.01 DEFINITIONS.
    When used in this chapter, the following terms shall have the following
 meanings, unless the context clearly requires otherwise.
@@ -2825,7 +2825,7 @@ the term "hereafter" means after, and the term "heretofore" means before, the
 effective date of this chapter. Words importing either gender include the
 correlative words of the other gender unless the context indicates otherwise.
 (Ord. 632, passed 2-9-2016)
-ASSESSMENTS
+**** ASSESSMENTS ****
 § 36.10 AUTHORITY.
    The Commission is hereby authorized to impose assessments against property
 located within an assessment area to fund the capital cost of service cost of
@@ -3073,7 +3073,7 @@ accordance with the Uniform Assessment Collection Act, any changes,
 modifications or corrections thereto shall be made in accordance with the
 procedures applicable to errors and insolvencies for ad valorem taxes.
 (Ord. 632, passed 2-9-2016)
-COLLECTION OF ASSESSMENTS
+**** COLLECTION OF ASSESSMENTS ****
 § 36.40 METHOD OF COLLECTION.
    Unless directed otherwise by the Commission, assessments (other than
 assessments imposed against government property) shall be collected pursuant to
@@ -3182,7 +3182,7 @@ government property may be collected on the bill for any utility service
 provided to such government property. The Commission may also contract for such
 billing services with any utility not owned by the city.
 (Ord. 632, passed 2-9-2016)
-ISSUANCE OF OBLIGATIONS
+**** ISSUANCE OF OBLIGATIONS ****
 § 36.60 GENERAL AUTHORITY.
    (A)   The Commission shall have the power and is hereby authorized to
 provide by ordinance or resolution, at one time or from time to time in series,
@@ -4829,7 +4829,7 @@ Reporting Requirements
 54.115   Timing
    
 54.116   Fees
-GENERALLY
+**** GENERALLY ****
 § 54.01 PURPOSE AND POLICY.
    (A)   This chapter sets forth uniform requirements for direct and indirect
 contributions into the wastewater collection and treatment system for the city
@@ -5663,7 +5663,7 @@ conduct and shall be responsible for any loss of revenue or monetary
 expenditures needed for repairs brought about by their actions. Nothing
 contained herein shall act to prohibit the prosecution of any person under any
 other applicable statute or ordinance for such acts.
-PROHIBITED AND LIMITED DISCHARGES
+**** PROHIBITED AND LIMITED DISCHARGES ****
 § 54.30 PROHIBITED DISCHARGE STANDARDS.
    (A)   General prohibitions. No person shall contribute or cause to be
 contributed directly or indirectly, into the WWF any pollutant or wastewater
@@ -5830,7 +5830,7 @@ discharges to the WWF consistent with the purpose of this chapter.
 authority to grant removal credits pursuant to 62-625.420, F.A.C., as hereby
 incorporated.
 (Ord. 679, passed 9-26-2017)
-PRETREATMENT OF WASTEWATER
+**** PRETREATMENT OF WASTEWATER ****
 § 54.50 PRETREATMENT FACILITIES.
    Industrial users shall provide wastewater treatment as necessary to comply
 with this chapter and shall achieve compliance with all categorical
@@ -5948,7 +5948,7 @@ names and addresses of sources of waste and volume and characteristics of
 waste. The form shall identify the type of industry, known or suspected waste
 constituents and whether any wastes are RCRA hazardous wastes.
 (Ord. 679, passed 9-26-2017)
-DISCHARGE PERMITS
+**** DISCHARGE PERMITS ****
 § 54.70 WASTEWATER DISCHARGE PERMIT REQUIREMENT.
    (A)   No SIU shall discharge wastewater into the WWF without first obtaining
 a wastewater discharge permit from the director, except that any SIU who was
@@ -6286,7 +6286,7 @@ be considered final administrative actions for purposes of judicial review.
 decision must do so by filing a complaint with the Circuit Court of Bay County
 within 60 calendar days after issuance of that decision.
 (Ord. 679, passed 9-26-2017)
-REPORTING REQUIREMENTS
+**** REPORTING REQUIREMENTS ****
 § 54.100 MONITORING PROGRAMS AND REPORTS BY INDUSTRIAL USERS.
    (A)   The director may require IUs to provide such technical or monitoring
 programs, including the submission of periodic reports, as he deems necessary;
@@ -13172,11 +13172,11 @@ permits are conditioned on the availability of public facilities and services
 that meet level of service requirements (concurrency).
 (Ord. 711, passed 2-5-2019)
 1.05.00   INCORPORATION BY REFERENCE
-   1.05.01   Technical Manuals
+***    1.05.01   Technical Manuals ***
    F.D.O.T. “Manual of Uniform Minimum Standards for Design,” (most recent
 edition).
    (Ord. 711, passed 2-5-2019; Ord. 819, passed 11-14-2023)
-   1.05.02   Maps
+***    1.05.02   Maps ***
    City Zoning Map
    (Ord. 711, passed 2-5-2019; Ord. 819, passed 11-14-2023)
 1.06.00   RULES OF INTERPRETATION
@@ -13267,7 +13267,7 @@ of this Code shall continue in full force and effect.
 The effective date of this Code is May 21, 1991. All amendments to the Land
 Development Code are effective as provided by law.
 (Ord. 711, passed 2-5-2019; Ord. 819, passed 11-14-2023)
-1.11.00   RESERVED
+**** 1.11.00   RESERVED ****
 1.12.00   ENFORCEMENT
    1.12.01   Decision Making Procedures
    It is the intent of the City Council that any person affected by actions
@@ -14990,7 +14990,7 @@ be one hundred forty (140) miles per hour for all of the City of Mexico Beach.
    (Ord. 711, passed 2-5-2019)
 ARTICLE III
 SUBDIVISION REGULATIONS
-GENERAL STANDARDS
+***** GENERAL STANDARDS *****
 3.00.00   GENERAL PROVISIONS
    3.00.01   Purpose
 The purpose of this Article is to provide development design and improvement

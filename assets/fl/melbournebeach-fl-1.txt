@@ -155,7 +155,7 @@ of Brevard, State of Florida:
    The Charter of the Town of Melbourne Beach, originally incorporated by
 Chapter 9833, Laws of Florida, Acts of 1923, as subsequently amended, is
 amended and revised to read as follows:
-ARTICLE I. ESTABLISHMENT: BOUNDARIES
+**** ARTICLE I. ESTABLISHMENT: BOUNDARIES ****
 Sec. 1.01. REPEAL OF PRESENT CHARTER.
    The existing Charter of the Town of Melbourne Beach, Brevard County, State
 of Florida, is hereby abolished. The title, rights, and ownerships of property,
@@ -223,7 +223,7 @@ or municipalities, or the United States or agencies thereof, to the fullest
 extent permitted by law, providing, however, all participation involving
 financial obligations of the Town shall be approved by Ordinance.
 (Adopted by electorate 11-6-73)
-ARTICLE II. TOWN COMMISSION.
+**** ARTICLE II. TOWN COMMISSION. ****
 Sec. 2.01. GENERAL POWERS AND DUTIES.
    All powers of the Town shall be vested in an elected Commission, except as
 otherwise provided by law or by this Charter. The Commission shall provide for
@@ -442,7 +442,7 @@ Sec. 2.16. PUBLIC NOTICE.
 appropriate Town ordinance.
 (Adopted by electorate 11-6-73)
 Sec. 2.17. COMMISSION ATTENDANCE AT MEETINGS. (Repealed 11-2-04)
-ARTICLE III. GENERAL TOWN ADMINISTRATION
+**** ARTICLE III. GENERAL TOWN ADMINISTRATION ****
 Sec. 3.01. POWERS AND DUTIES OF THE TOWN COMMISSION.
    All powers of the Town shall be vested in an elected Commission, except as
 otherwise provided by this Charter or by law. The Town Commission shall be
@@ -550,7 +550,7 @@ Sec. 3.06. POLICE DEPARTMENT.
    The Police Department shall be responsible for the enforcement of federal
 and state laws and Town ordinances.
 (Adopted by electorate 11-6-73; Amendment adopted by electorate 9-2-86)
-Sec. 3.06A. LAW ENFORCEMENT AND POLICE PROTECTION.  
+*** Sec. 3.06A. LAW ENFORCEMENT AND POLICE PROTECTION.   ***
    Before any arrangement is entered into that would materially change the
 existing arrangement for law enforcement and police protection, including the
 utilization of the Brevard County Sheriff's Department or the police department
@@ -617,9 +617,9 @@ facilities and activities as well as planning and zoning and such other
 municipal functions as the Commission deems advisable. Such boards shall be
 composed of a representative membership of registered electors of the Town.
 (Adopted by electorate 11-6-73)
-ARTICLE IV. JUDICIAL SYSTEM
-(Repealed 11-2-04)
-ARTICLE V. ELECTORAL PROVISIONS
+**** ARTICLE IV. JUDICIAL SYSTEM
+(Repealed 11-2-04) ****
+**** ARTICLE V. ELECTORAL PROVISIONS ****
 Sec. 5.01. ELECTORS.
    Any person who is a resident of the Town and registered through the County
 registration system shall be an elector of the Town.
@@ -641,7 +641,7 @@ candidates for elective office in the Town shall report to the Town Clerk all
 expenses and contributions of said election campaign. Such reports shall be
 available to the public.
 (Adopted by electorate 11-6-73)
-ARTICLE VI. INITIATIVE, REFERENDUM, RECALL
+**** ARTICLE VI. INITIATIVE, REFERENDUM, RECALL ****
 Editor's note: Article VI is applicable unless otherwise governed by F.S. §§
 166.031, 171.0413, and 171.051.
 Sec. 6.01. PROPOSED ORDINANCES.
@@ -719,7 +719,7 @@ a referendum election proposing such an increase. The cost of any such
 referendum election shall be borne by the person, group, or entity proposing
 the increase.
 (Adopted by electorate 11-7-06)
-ARTICLE VII. BONDS
+**** ARTICLE VII. BONDS ****
 Sec. 7.01. AUTHORITY TO ISSUE.
    Whenever it shall be deemed advisable to issue bonds of the Town of
 Melbourne Beach for any lawful municipal purpose, refunding previous bonds and
@@ -731,7 +731,7 @@ obligation bonds pledging the full faith and credit of the Town shall not be
 issued unless approved by referendum by a majority vote of the qualified
 elector of this Town.
 (Adopted by electorate 11-6-73)
-ARTICLE VIII. FINANCIAL PROCEDURES
+**** ARTICLE VIII. FINANCIAL PROCEDURES ****
 Sec. 8.01. FISCAL YEAR.
    The fiscal year for Town government shall conform to the Florida Statutes.
 (Adopted by electorate 11-6-73)
@@ -794,7 +794,7 @@ Amendment adopted by electorate 11-3-09)
 Sec. 8.10. FRANCHISES.
    Franchises shall be granted as prescribed by ordinance.
 (Adopted by electorate 11-6-73)
-ARTICLE IX. MISCELLANEOUS PROVISIONS
+**** ARTICLE IX. MISCELLANEOUS PROVISIONS ****
 Sec. 9.01 ACTIONS AGAINST THE TOWN.
    No action shall be maintained against the Town for damage, injury, death, or
 other loss arising out of accident, or the alleged failure to keep in proper
@@ -923,7 +923,7 @@ Article III. Reserved
 Article IV. Penalties
    
 1-99   General penalty
-ARTICLE I. GENERAL; INTERPRETATION
+**** ARTICLE I. GENERAL; INTERPRETATION ****
 § 1-1. TITLE OF CODE.
    This codification of ordinances by and for the municipality of Melbourne
 Beach, shall be designated as the Code of Melbourne Beach, and may be so cited.
@@ -1422,8 +1422,8 @@ confidential.
 Editor’s note:
    Town commission's intent: Portions of this language is derived from an
 opinion of the state Attorney General in A.G.O. 75-45.
-§§ 1-27. – 1-39. RESERVED.
-ARTICLE II. INDEMNIFICATION; CONTRACTS WITH TOWN
+*** §§ 1-27. – 1-39. RESERVED. ***
+**** ARTICLE II. INDEMNIFICATION; CONTRACTS WITH TOWN ****
 § 1-40. INDEMNIFICATION.
    (a)   To be valid and binding against the town, any contract of
 indemnification, agreement to hold another party harmless, or offer to
@@ -1443,9 +1443,9 @@ agreement to otherwise hold another party harmless pursuant to this section.
 or executed in violation of this section is an ultra vires act and is null and
 void.
 (Ord. 2008-01, adopted 2-20-08)
-ARTICLE III. RESERVED
+**** ARTICLE III. RESERVED ****
 §§ 1-41. – 1-98. RESERVED.
-ARTICLE IV. PENALTIES
+**** ARTICLE IV. PENALTIES ****
 § 1-99. GENERAL PENALTY.
    (a)   Whenever in this Code any act is prohibited or is made or declared to
 be unlawful or an offense, or whenever in such Code the doing of any act is
@@ -1641,7 +1641,7 @@ Article X. History Center Board
    
 11-123   Powers, duties and authority
    11-124 – 11-129   Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 11-1. ESTABLISHMENT OF CERTAIN TOWN DEPARTMENTS; SUPERVISION BY TOWN MANAGER.
    (a)   In addition to the Police Department, which is created by the Charter,
 there are hereby established the following town departments: Fire Department,
@@ -1654,7 +1654,7 @@ modified. The Town Manager shall be the administrative and supervisory head of
 the above town departments.
 (Ord. 86-21, passed 12-9-86; Am. Ord. 2004-02, adopted 7-21-04)
 §§ 11-2 – 11-14. RESERVED.
-ARTICLE II. CODE ENFORCEMENT SPECIAL MAGISTRATE.
+**** ARTICLE II. CODE ENFORCEMENT SPECIAL MAGISTRATE. ****
 § 11-15. AUTHORITY TO ESTABLISH; PURPOSE.
    (a)   This article is adopted by the Town Commission to establish a code
 enforcement special magistrate and hearing process pursuant to the authority
@@ -1957,7 +1957,7 @@ of the record created before the special magistrate. An appeal shall be filed
 within 30 days of the rendition of the order to be appealed.
 (Ord. 2020-05, adopted 10-21-20)
 §§ 11-23. – 11-39. RESERVED.
-ARTICLE III. FIRE DEPARTMENT
+**** ARTICLE III. FIRE DEPARTMENT ****
 § 11-40. ESTABLISHMENT.
    (a)   Pursuant to Section
 3.02 of the Town Charter, there is hereby established the Town Fire Department.
@@ -2009,7 +2009,7 @@ emergency.
 Town Manager.
 ('75 Code, § 11-17) (Ord. passed 9-25-68; Ord. 2021-05, adopted 11-17-21)
 §§ 11-42. – 11-49. RESERVED.
-ARTICLE IV. POLICE DEPARTMENT
+**** ARTICLE IV. POLICE DEPARTMENT ****
 § 11-50. ESTABLISHMENT.
    Pursuant to Section
 3.02 and consistent with Section
@@ -2981,7 +2981,7 @@ operation and control of the regular Police Department of the town.
 ('75 Code, §§ 18-35 – 18-37) (Ord. passed 12-8-70; Am. Ord. 79-7, passed 3-27-
 79)
 § 11-56. – 11-64. RESERVED.
-ARTICLE V. CIVIL SERVICE BOARD
+**** ARTICLE V. CIVIL SERVICE BOARD ****
 § 11-65. CIVIL SERVICE   
    (a)   The Town Commission may, but shall not be obligated to, create a civil
 service system. Additionally, the Town Commission may, but shall not be
@@ -3140,7 +3140,7 @@ efficient and effective personnel administration so long as such action is not
 inconsistent with the Town Charter.
 (Am. Ord. 93-02, passed 7-21-93)
 §§ 11-73. – 11-79. RESERVED.
-ARTICLE VI. DEPARTMENT OF PUBLIC WORKS
+**** ARTICLE VI. DEPARTMENT OF PUBLIC WORKS ****
 § 11-80. ESTABLISHMENT; ADMINISTRATION.
    The subdepartment of Office of Public Properties shall administratively be
 arranged as a subdepartment under the Department of Public Works, and the
@@ -3164,7 +3164,7 @@ town; and
       (5)   Supervision of the public works employees.
 ('75 Code, § 2-2(a)) (Ord. 77-3, passed 10-25-77)
 §§ 11-82. – 11-89. RESERVED.
-ARTICLE VII. TOWN PARKS BOARD
+**** ARTICLE VII. TOWN PARKS BOARD ****
 § 11-90. ESTABLISHMENT; APPOINTED MEMBERS.
    There is hereby created the Melbourne Beach Parks Board, which shall consist
 of five members plus two alternate members established by the Town Commission.
@@ -3205,7 +3205,7 @@ facilities which may in the future be used for museums, zoological gardens,
 observatories or such other facilities utilized for cultural events.
 (Ord. 87-17, passed 12-8-87)
 §§ 11-95. – 11-99. RESERVED.
-ARTICLE VIII. ENVIRONMENTAL ADVISORY BOARD
+**** ARTICLE VIII. ENVIRONMENTAL ADVISORY BOARD ****
 § 11-100. ESTABLISHMENT; APPOINTED MEMBERS.
    There is hereby created the Melbourne Beach Environmental Advisory Board,
 which shall consist of five members plus two alternate members. The alternate
@@ -3268,7 +3268,7 @@ protection measures; and
 to time be requested by the Town Commission.
 (Ord. 92-02, passed 4-15-92)
 §§ 11-104. – 11-109. RESERVED.
-ARTICLE IX. AUDITOR SELECTION COMMITTEE
+**** ARTICLE IX. AUDITOR SELECTION COMMITTEE ****
 § 11-110. AUTHORITY.
    This article is enacted pursuant to and in accordance with Section 218.391,
 Florida Statutes, Auditor Selection Procedures.
@@ -3299,7 +3299,7 @@ rules and procedure established by the initial committee.
 Selection Committee expenses necessary to conduct its work.
 (Ord. 6-2005, adopted 11-2-05)
 §§ 11-116. — 11.119. RESERVED.
-ARTICLE X. HISTORY CENTER BOARD
+**** ARTICLE X. HISTORY CENTER BOARD ****
 § 11-120. ESTABLISHMENT; APPOINTED MEMBERS.
    There is hereby created the Melbourne Beach History Center Board, which
 shall consist of seven members plus two alternate members. The alternate
@@ -3375,7 +3375,7 @@ Cross-reference:
 11-54
 * State law reference:
    Florida Retirement System, Fla. Stat., Chapter 121
-ARTICLE I. SOCIAL SECURITY; RETIREMENT PLAN
+**** ARTICLE I. SOCIAL SECURITY; RETIREMENT PLAN ****
 § 12-1. SOCIAL SECURITY COVERAGE; EXEMPTION.
    (a)   By authority of Chapter 650, Florida Statutes, in order to extend to
 officials and employees of the town, except as such as are hereinafter
@@ -3386,7 +3386,7 @@ in the Social Security Act, as amended, is hereby adopted by the town.
 coverage provided for in division (a) of this section.
 ('75 Code, § 2-12) (Ord. passed 12-11-73)
 §§ 12-2. – 12-14. RESERVED.
-ARTICLE II. FLORIDA RETIREMENT SYSTEM
+**** ARTICLE II. FLORIDA RETIREMENT SYSTEM ****
 § 12-15. BENEFITS EXTENDED; WHEN EFFECTIVE.
    It is hereby declared to be the policy and purpose of the Town of Melbourne
 Beach to extend, effective December 1, 2006, to its employees, officers, and
@@ -3861,7 +3861,7 @@ service
 Statutory reference:
    For state provisions regarding excise taxes on insurance companies, see F.S.
 §§ 175.101 and 185.08.
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 14-1. ASSESSMENT AND COLLECTION OF AD VALOREM TAXES BY COUNTY.
    The County Property Appraiser and Tax Collector shall be responsible for the
 assessment and collection of ad valorem taxes within the town.
@@ -3934,8 +3934,8 @@ United States as a whole, issued by the United States Department of Labor.
    The Town Clerk shall provide a copy of this code to the county property
 appraiser prior to December 1, 2002.
 (Ord. 2002-03, passed 3-20-02)
-§§ 14-10. – 14-14. RESERVED.
-ARTICLE II. EXCISE TAX; INSURANCE COMPANIES
+*** §§ 14-10. – 14-14. RESERVED. ***
+**** ARTICLE II. EXCISE TAX; INSURANCE COMPANIES ****
 § 14-15. ASSESSMENT; AMOUNT.
    There is hereby assessed, imposed and levied on every insurance company,
 corporation, or other insurer now engaging in or carrying on, or which shall
@@ -3956,7 +3956,7 @@ used as the basis for the .85% tax herein imposed and assessed.
 March 1 of each year hereafter.
 ('75 Code, § 21-2(c)) (Ord. 75-6, passed 9-9-75)
 §§ 14-18. – 14-25. RESERVED.
-ARTICLE III. PUBLIC SERVICE TAX
+**** ARTICLE III. PUBLIC SERVICE TAX ****
 § 14-26. TITLE; AUTHORITY FOR REGULATION.
    (a)   Title. This article may be cited as the "Melbourne Beach Utility Tax
 Code."
@@ -4176,7 +4176,7 @@ Article III. Library Trust Fund
 15-92   Finances and fund management
    
 15-93   Repeal or termination of system
-Article I. Town Budget
+**** Article I. Town Budget ****
 § 15-1. FISCAL YEAR.
    As used in this chapter, the term “budget year” shall mean the fiscal year
 for which any particular budget is adopted and in which it is administered.
@@ -4326,7 +4326,7 @@ be paid daily to the department of finance.
 additions to, fixed assets with a unit value of $500 or greater.
 (Ord. 92-08, passed 11-18-92)
 §§ 15-11. – 15-19. RESERVED.
-ARTICLE II. PURCHASING
+**** ARTICLE II. PURCHASING ****
 § 15-20. SHORT TITLE.
    The provisions of this article shall be known and cited as the “Purchasing
 Ordinance of the Town of Melbourne Beach.”
@@ -4735,7 +4735,7 @@ award of a contract without delay is necessary to protect substantial interests
 of the Town.
 (Ord. 2003-01, adopted 6-25-03)
 §§ 15-35. ­ 15-89. RESERVED.
-ARTICLE III. LIBRARY TRUST FUND
+**** ARTICLE III. LIBRARY TRUST FUND ****
 § 15-90 DEFINITIONS; CONTRIBUTIONS; INTENT.
    (a)   For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4943,7 +4943,7 @@ Article I. Civil Emergencies
    
 16-6   Violations and penalties
    16-7 - 16-19   Reserved
-ARTICLE I. CIVIL EMERGENCIES
+**** ARTICLE I. CIVIL EMERGENCIES ****
 § 16-1. DEFINITIONS.
    The following words, terms and phrases, when used in this chapter, shall
 have the meanings ascribed to them in this section, except where the context
@@ -6269,7 +6269,7 @@ Article III. Stormwater Runoff; Fertilizer
 27-59   Exemptions
    
 27-60   Proof of training of commercial applicators
-ARTICLE I. STORMWATER UTILITY
+**** ARTICLE I. STORMWATER UTILITY ****
 § 27-1. FINDINGS AND PURPOSE.
    (a)   Uncontrolled drainage and development of land has a significant
 adverse impact upon the health, safety, and welfare of the citizens of the
@@ -6591,7 +6591,7 @@ development review related to the stormwater management program;
       (5)   Debt service financing of capital improvements related to the
 stormwater management program.
 (Ord. 2000-04, passed 8-16-00)
-ARTICLE II. ILLICIT DISCHARGE AND CONNECTION
+**** ARTICLE II. ILLICIT DISCHARGE AND CONNECTION ****
 § 27-20. SHORT TITLE.
    This article shall be known and may be cited as “The Town of Melbourne Beach
 Illicit Discharge (IDO) Code.”
@@ -6989,7 +6989,7 @@ Section            Description                     Penalty
 caused pollution in the town in violation of this article or state law shall be
 used for water quality improvement protects in the town.
 (Ord. 2008-04, adopted 4-16-08)
-ARTICLE III. STORMWATER RUNOFF; FERTILIZER
+**** ARTICLE III. STORMWATER RUNOFF; FERTILIZER ****
 § 27-50. FINDINGS AND PURPOSE.
    (a)   Findings. As a result of impairment to Brevard County's surface
 waters, caused by excessive nutrients, or, as a result of increasing levels of
@@ -7283,7 +7283,7 @@ Article IV. Low-Speed Vehicles
 30-108   Enforcement
    
 30-109   Reciprocity with the Town of Indialantic
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 30-1. TRAFFIC ENGINEER; APPOINTMENT; POWERS.
    (a)   Appointment. The Town Manager shall be empowered to appoint an
 individual to function as a Traffic Engineer. Any employee or individual
@@ -7331,7 +7331,7 @@ pursuant to §
 town's comprehensive plan.
 (Ord. 2000-03, passed 7-19-00)
 § 30-3. – 30-19. RESERVED.
-ARTICLE II. TRAFFIC RULES
+**** ARTICLE II. TRAFFIC RULES ****
 § 30-20. BOARDING OR ALIGHTING FROM VEHICLES.
    No person shall board or alight from any vehicle while such vehicle is in
 motion.
@@ -7370,7 +7370,7 @@ Riverside Drive              10,000              81-22-24-81
 Statutory reference:
    See § 316.555, Fla. Stat.
 § 30-23. – 30-39. RESERVED.
-ARTICLE III. PARKING REGULATIONS
+**** ARTICLE III. PARKING REGULATIONS ****
 § 30-40. RESERVED.
 § 30-41. DEFINITIONS.
    (a)   For the purpose of this chapter the following definitions shall apply
@@ -7854,7 +7854,7 @@ vehicles are parked on real property without the property owner's consent.
 (`75 Code, § 16-26.12) (County Ord. 79-31, passed 11-8-79; Town Ord. 80-10,
 passed 5-27-80)
 §§ 30-49. – 30-99. RESERVED.
-ARTICLE IV. LOW-SPEED VEHICLES
+**** ARTICLE IV. LOW-SPEED VEHICLES ****
 § 30-100. DEFINITIONS.
    For the purpose of this article, the following definitions shall apply
 unless the context clearly indicates or required a different meaning.
@@ -8039,7 +8039,7 @@ Code of Ordinances may operate with the Town of Melbourne Beach.
 Melbourne Beach pursuant to this article, may operate within the Town of
 Indialantic if authorized under Article IV of Chapter 32 of the Town of
 Indialantic Code of Ordinances.
-(Ord. 2022-01, adopted 7-20-22)
+*** (Ord. 2022-01, adopted 7-20-22) ***
 CHAPTER 35: ANIMALS
 Section
 Article I. General Provisions
@@ -8058,7 +8058,7 @@ Article II. County Animal Control Regulations
    
 35-18   Authority of Town police officers
    35-19 – 30-99   Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 35-01. TOWN DESIGNATED AS BIRD SANCTUARY.
    All the land and water within and embracing the corporate limits of the town
 is hereby declared to be a bird sanctuary. It shall be unlawful for any person
@@ -8078,7 +8078,7 @@ zoning classification in which a dog kennel or veterinarian clinic has been
 approved by the Town Commission.
 (Ord. 97-02, passed 6-18-97)
 §§ 35-03. – 35-14. RESERVED.
-ARTICLE II. COUNTY ANIMAL CONTROL REGULATIONS
+**** ARTICLE II. COUNTY ANIMAL CONTROL REGULATIONS ****
 § 35-15. ADOPTION OF COUNTY REGULATIONS.
    (a)   Chapter 4, as amended from time to time, of the Code of Ordinances of
 Brevard County, regarding animal control, is adopted in full and incorporated
@@ -8167,7 +8167,7 @@ Article III. Boats, Docks and Waterways
 40-33   Taking or attempted taking of fish from certain salt-water residential
 canals
    40-34 – 40-99   Reserved
-ARTICLE I. BEACHES
+**** ARTICLE I. BEACHES ****
 § 40-1. DRIVING ON BEACHES.
    It shall be unlawful for any person to drive, operate or control any motor
 vehicle, motorcycle, scooter, powered sand sled or similar vehicle on any beach
@@ -8197,7 +8197,7 @@ from a bathing suit, from or in any vehicle or other place, other than in a
 properly designated dressing room.
 ('75 Code, § 5-15)
 §§ 40-5. – 40-19. RESERVED.
-ARTICLE II. SEA TURTLES
+**** ARTICLE II. SEA TURTLES ****
 § 40-20. DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -8412,7 +8412,7 @@ or shaded or shall not be utilized during the period of May 1 to October 31 of
 each year.
 (Ord. 86-5, passed 3-25-86)
 §§ 40-26. – 40-29. RESERVED.
-ARTICLE III. BOATS, DOCKS AND WATERWAYS
+**** ARTICLE III. BOATS, DOCKS AND WATERWAYS ****
 § 40-30. SPEED OF BOATS.
    No boat or vessel shall be operated upon any waterways in the town at a rate
 of speed which causes waves to damage docks, wharves, seawalls, or boats moored
@@ -8798,7 +8798,7 @@ violations
 46-22   Interference with enforcement officers; immunity of officers to
 trespass prosecution
    46-23 – 46-99   Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 46-1. JUNK ITEMS PROHIBITED.
    Except as provided herein, the keeping, dumping, storing, placing or
 maintaining of abandoned, discarded, worn-out, scrapped or unlicensed
@@ -8834,7 +8834,7 @@ convicted defendant to redeem any property as defined in this chapter where
 such property was used in violation of state law or the ordinances of the town.
 (Ord. 87-09, passed 7-28-87)
 §§ 46-6. – 46-19. RESERVED.
-ARTICLE II. ENFORCEMENT
+**** ARTICLE II. ENFORCEMENT ****
 § 46-20. ENFORCEMENT BY CODE ENFORCEMENT SPECIAL MAGISTRATE; PENALTIES FOR
 VIOLATIONS.
    The provisions of this chapter may be enforced by the Town Code Enforcement
@@ -8921,7 +8921,7 @@ term of franchise
    
 47-24   Franchise fees on commercial/residential service
    47-25 – 47-99   Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 47-00. TITLE; AUTHORITY FOR REGULATION; RESERVATIONS GENERALLY.
    (a)   Title. This chapter may be cited as the "Melbourne Beach Solid Waste
 Disposal Code."
@@ -10281,7 +10281,7 @@ Article VI. Attractive Nuisance Condition
    
 49-63   Condition may be remedied by town
    49-64–49-99   Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 49-1. STATE SANITARY CODE ADOPTED.
    The State Sanitary Code set forth in Section 381.031, Florida Statutes, is
 adopted as the sanitary code of the Town, and its provisions are incorporated
@@ -10311,7 +10311,7 @@ enforce the provisions of Articles I and II of this chapter.
 (`75 Code, § 13-3) (Ord. 73-2, passed 8-14-73; Am. Ord. 79-1, passed 1-23-79;
 Am. Ord. 2020-05, adopted 10-21-20)
 §§ 49-4. – 49-9. RESERVED.
-ARTICLE II. SANITARY NUISANCES
+**** ARTICLE II. SANITARY NUISANCES ****
 § 49-10. DEFINITION.
    For the purpose of this article the following definition shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -10353,7 +10353,7 @@ procedure similar to that contained in §§
 49-22 through
 49-24.
 §§ 49-16. – 49-19. RESERVED.
-ARTICLE III. LOT CLEARANCE
+**** ARTICLE III. LOT CLEARANCE ****
 § 49-20. DEFINITION.
    For the purpose of this article the following definition shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -10405,8 +10405,8 @@ such liens shall bear interest at the rate of 1% per month until redeemed by
 the owner.
 (`75 Code, § 12-21)
 §§ 49-25. – 49-39. RESERVED.
-ARTICLE IV. TREE AND SHRUB REMOVAL AFFECTING PUBLIC PROPERTY OR UTILITIES
-SERVING THE PUBLIC
+**** ARTICLE IV. TREE AND SHRUB REMOVAL AFFECTING PUBLIC PROPERTY OR UTILITIES
+SERVING THE PUBLIC ****
 § 49-40. DEFINITIONS.
    For the purpose of this article the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -10513,7 +10513,7 @@ may seek relief in a court of competent jurisdiction by filing a petition for
 writ of certiorari pursuant to the Florida Rules of Appellate Procedure.
 (Ord. 90-08, passed 12-19-90)
 §§ 49-44. – 49-49. RESERVED.
-ARTICLE V. MORTGAGED REAL PROPERTY
+**** ARTICLE V. MORTGAGED REAL PROPERTY ****
 § 49-50. RESERVED.
 § 49-51. PURPOSE AND INTENT.
    It is the purpose and intent of the Town Commission to establish a process
@@ -10701,7 +10701,7 @@ any and all door, window or other openings, employment of on- site security
 guard, or other measures as may be reasonably required to prevent a decline of
 the property.
 (Ord. 2009-01, adopted 2-18-09)
-ARTICLE VI. ATTRACTIVE NUISANCE CONDITION
+**** ARTICLE VI. ATTRACTIVE NUISANCE CONDITION ****
 § 49-61. ATTRACTIVE NUISANCE PROHIBITED.
    (a)   As used in this article, ATTRACTIVE NUISANCE shall be construed to
 mean any artificial condition, whether in a building, on the premises of a
@@ -11462,7 +11462,7 @@ Article V. Location Requirements
 Appendix A:    Application for identification card
    
 Appendix B:    Annual Regulation Permit
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 61-1. DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -11679,7 +11679,7 @@ performances which show or depict nudity, sexual conduct or sadomasochistic
 abuse, shall be restricted to the hours of 9:00 a.m. to 10:00 p.m.
 (Ord. 85-4, passed 11-20-85)
 §§ 61-5. – 61-14. RESERVED
-ARTICLE II. ANNUAL REGULATORY PERMIT
+**** ARTICLE II. ANNUAL REGULATORY PERMIT ****
 § 61-15. PERMIT REQUIRED.
    An annual regulatory permit shall be required for each commercial physical
 contact establishment, adult bookstore, adult dancing facility and adult motion
@@ -11896,7 +11896,7 @@ from time to time without further notice. Such notice shall also list
 specifically the acts or occurrences concerning which the hearing will be held.
 (Ord. 85-4, passed 11-20-85)
 §§ 61-29. – 61-34. RESERVED.
-ARTICLE III. COMMERCIAL CONTACT
+**** ARTICLE III. COMMERCIAL CONTACT ****
 § 61-35. UNLAWFUL TO PERFORM COMMERCIAL CONTACT EXCEPT IN CERTAIN
 ESTABLISHMENTS.
    (a)    It shall be unlawful for any person to perform or offer to perform,
@@ -11979,7 +11979,7 @@ licensing, or allowing the commission of any act otherwise prohibited or made
 unlawful by a valid town or county ordinance, or state or federal law.
 (Ord. 85-4, passed 11-20-85)
 §§ 61-39. – 61-44. RESERVED.
-ARTICLE IV. OBSCENE MATERIALS
+**** ARTICLE IV. OBSCENE MATERIALS ****
 § 61-45. LEGISLATIVE INTENT.
    It is the intention of the Town Commission that this article shall apply to
 all persons within the town and shall specifically be deemed to be an adoption
@@ -12000,7 +12000,7 @@ or
 or scientific value.
 (Ord. 85-4, passed 11-20-85)
 §§ 61-47. – 61-54. RESERVED.
-ARTICLE V. LOCATION REQUIREMENTS
+**** ARTICLE V. LOCATION REQUIREMENTS ****
 § 61-55. PROHIBITED LOCATIONS.
    (a)   Every adult bookstore, adult motion picture theater, adult dancing
 facility or commercial physical contact establishment or any part thereof shall
@@ -12625,7 +12625,7 @@ Article I. Residential Picketing
    
 66-3   Penalty
    66-4 – 66-99   Reserved
-ARTICLE I. RESIDENTIAL PICKETING
+**** ARTICLE I. RESIDENTIAL PICKETING ****
 § 66-1. DECLARATION OF INTENT.
    It is declared that the protection and preservation of the home is the
 keystone to democratic government; that the public health and welfare and the
@@ -12679,7 +12679,7 @@ Article II. Charitable Solicitation
    
 70-20   Adoption of state law by reference
    70-21 – 70-99   Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 70-1. DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12814,7 +12814,7 @@ under this chapter. The license shall contain the words "Licensed Peddler" or
 license. The license shall be kept with the licensee during such time as he is
 engaged in the business licensed.
 §§ 70-9. – 70-19. RESERVED
-ARTICLE II. CHARITABLE SOLICITATION
+**** ARTICLE II. CHARITABLE SOLICITATION ****
 § 70-20. ADOPTION OF STATE LAW BY REFERENCE.
    The provisions of Chapter 496, Florida Statutes, are hereby adopted and
 incorporated by reference in this chapter as if fully set forth herein.
@@ -12900,20 +12900,20 @@ Article VI. Parks and Beaches
    
 73-62   Penalties
    73-63 – 73-99   Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 73-1. ADOPTION OF STATE MISDEMEANORS.
    It shall be unlawful for any person to commit any act which under the laws
 of the state constitutes a misdemeanor. The commission of any such act shall be
 considered a violation of this code of ordinances.
 (`75 Code, § 17-l)
 §§ 73-2. – 73-9. RESERVED.
-ARTICLE II. OFFENSES AGAINST PROPERTY
+**** ARTICLE II. OFFENSES AGAINST PROPERTY ****
 § 73-10. DAMAGING PROPERTY OF ANOTHER.
    It shall be unlawful for any person, by act or omission, to cause damage to
 the property of another person.
 (`75 Code, § 17-2)
 §§ 73-11. – 73-14. RESERVED.
-ARTICLE III. OFFENSES AGAINST PUBLIC PEACE AND SAFETY
+**** ARTICLE III. OFFENSES AGAINST PUBLIC PEACE AND SAFETY ****
 § 73-15. CURFEW FOR MINORS.
    (a)   Curfew.
       (1)   It is a curfew violation for a child 13, 14, 15, 16 or 17 years of
@@ -12979,7 +12979,7 @@ conduct as to constitute a breach of the peace or disorderly conduct, shall be
 guilty of a violation, punishable as provided in Sections 775.082 or 775.083,
 Florida Statutes.
 (§ 877.03, Fla. Stat.)
-ARTICLE IV. RAVE CLUBS
+**** ARTICLE IV. RAVE CLUBS ****
 § 73-30. LEGISLATIVE FINDINGS, INTENT, AND PURPOSE.
    (a)   The town hereby finds and determines, as a matter of fact, that the
 late night and all night rave clubs and similar forums of assembly, commonly
@@ -13409,8 +13409,8 @@ and permanent, without the necessity of showing an irreparable harm. A
 violation of this Article shall constitute a public nuisance.
 (Ord. 2002-02, passed 4-17-02)
 Penalty, see § 1-99
-§§ 73-48. – 73-49. RESERVED.
-ARTICLE V. SEXUAL PREDATORS AND OFFENDERS.
+*** §§ 73-48. – 73-49. RESERVED. ***
+**** ARTICLE V. SEXUAL PREDATORS AND OFFENDERS. ****
 § 73-50. FINDINGS AND INTENT.
    (a)   Repeat sexual offenders, sexual offenders who use physical violence,
 sexual offenders who prey on children, and sexual predators are sexual
@@ -13565,8 +13565,8 @@ violation of a municipal ordinance punishable as provided in §
 residence or permanent residence of the sexual violator.
 (Ord. 2014-04, passed 6-18-14) Penalty, see §
 1-99
-§§ 73-55. – 73-59. RESERVED.
-ARTICLE VI. PARKS SAND BEACHES
+*** §§ 73-55. – 73-59. RESERVED. ***
+**** ARTICLE VI. PARKS SAND BEACHES ****
 § 73-60. DEFINITIONS.
    The following words, terms, and phrases, when used in this article, shall
 have the meanings ascribed to them in this section, except where the context
@@ -13665,7 +13665,7 @@ agreement
 Article IV. Exemptions
    
 74-50   Exemption for pre- existing rental agreements
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 74-1. AUTHORITY, SCOPE, AND PURPOSE.
    (A)   This chapter is enacted under the home rule authority and power of the
 Town of Melbourne Beach in the interest of the health, peace, safety and
@@ -13868,7 +13868,7 @@ and visitors, and the quiet enjoyment by Melbourne Beach residents of their
 residential property located within the Town of Melbourne Beach.
 (Ord. 2020-02, adopted 5-20-20; Am. Ord. 2024-05, adopted 2-19-25)
 §§ 74-7. – 74-14. RESERVED.
-ARTICLE II. VACATION RENTAL REGISTRATION
+**** ARTICLE II. VACATION RENTAL REGISTRATION ****
 § 74-15. REGISTRATION REQUIRED.
    A vacation rental registration shall be required to operate a vacation
 rental within the Town of Melbourne Beach, utilizing forms promulgated by the
@@ -14143,7 +14143,7 @@ be the "violator" of this chapter as the term is used in Florida Statutes §
 notice on the vacation rental owner, occupant, or violator.
 (Ord. 2020-02, adopted 5-20-20; Am. Ord. 2024-05, adopted 2-19-25)
 §§ 74-26. – 74-34. RESERVED.
-ARTICLE III. STANDARDS AND REQUIREMENTS FOR VACATION RENTALS
+**** ARTICLE III. STANDARDS AND REQUIREMENTS FOR VACATION RENTALS ****
 § 74-35. GENERALLY.
    The standards and requirements set forth in this Article shall apply to the
 rental, use, and occupancy of vacation rentals in the Town of Melbourne Beach.
@@ -14404,7 +14404,7 @@ through any timely appeal, for a period of up to six months.
 occupants, during a period of suspension, for a period of up to one year.
 (Ord. 2024-05, adopted 2-19-25)
 §§ 74-43. – 74-49. RESERVED.
-ARTICLE IV. EXEMPTIONS
+**** ARTICLE IV. EXEMPTIONS ****
 § 74-50. EXEMPTION FOR PRE- EXISTING RENTAL AGREEMENTS.
    (A)   Notwithstanding any other provision of this chapter, rental agreements
 with prospective occupants for vacations rentals that were pre-existing as of
@@ -14656,7 +14656,7 @@ Article I. General Provisions
 visits; receipt of expert opinion; and review of mail and other communications
    
 1A-8 – 1A-99   Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 1A-1. SHORT TITLE.
    (a)   This appendix to the Town Code of Ordinances of Melbourne Beach may be
 referred to and shall be known as the Land Development Code.
@@ -16001,7 +16001,7 @@ Article II. Local Planning Agency
 2A-20   Funding
    
 2A-21 – 2A-99   Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 2A-1. PLAN ADOPTED BY REFERENCE.
    Pursuant to the Local Government Comprehensive Planning and Land Development
 Regulation Act, §§ 163.3161 et seq., Fla. Stat., the Town Comprehensive Plan,
@@ -16025,7 +16025,7 @@ the official Comprehensive Plan for and of the Town.
 2010-07, adopted 10-20-10; Am. Ord. 2017-05, adopted 12-20-17; Am. Ord. 2021-
 04, adopted 4-20-22)
 §§ 2A-2. – 2A-14. RESERVED.
-ARTICLE II. LOCAL PLANNING AGENCY
+**** ARTICLE II. LOCAL PLANNING AGENCY ****
 § 2A-15. AUTHORITY.
    This article is enacted pursuant to and in accordance with provisions of §§
 163.3161 et seq., Fla. Stat., the Local Government Comprehensive Planning Act
@@ -16162,7 +16162,7 @@ Article VIII. Statutory  Developer's Agreements
 3A-90   General Intent
    
 3A-91 – 3A-99 Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 3A-1. SHORT TITLE.
    This chapter of the Land Development Code shall be known as, and may be
 cited as, the “Melbourne Beach Concurrency Ordinance.”
@@ -16334,7 +16334,7 @@ for maintaining the cumulative record of the level of service allocations
 permitted under this chapter.
 (Am. Ord. 2017-05, adopted 12-20-17)
 §§ 3A-11. – 3A.19. RESERVED.
-ARTICLE II. TRANSPORTATION CRITERIA
+**** ARTICLE II. TRANSPORTATION CRITERIA ****
 § 3A-20. TRANSPORTATION OR ROAD CONCURRENCY.
    (a)   Capacity for transportation facilities shall be evaluated by using the
 Florida Highway System Plan Level of Service Standards and Guidelines Manual,
@@ -16387,7 +16387,7 @@ Institutional                               0
  
 (Am. Ord. 2017-05, adopted 12-20-17)
 §§ 3A-21. – 3A-39. RESERVED.
-ARTICLE III. SANITARY SEWER CRITERIA
+**** ARTICLE III. SANITARY SEWER CRITERIA ****
 § 3A-40. SANITARY SEWER CONCURRENCY.
    (a)   The Town shall require all applicants to obtain a Capacity Reservation
 Certificate from Brevard County Utilities Department prior to issuance of a
@@ -16398,7 +16398,7 @@ using the adopted minimum level of service standard of 92 gallons per person
 per day.
 (Am. Ord. 2017-05, adopted 12-20-17)
 §§ 3A-41. – 3A-49. RESERVED.
-ARTICLE IV. POTABLE WATER CRITERIA
+**** ARTICLE IV. POTABLE WATER CRITERIA ****
 § 3A-50. POTABLE WATER CONCURRENCY.
    (a)   The Town shall require all applicants to obtain a Capacity Reservation
 Certificate from the City of Melbourne Water Department prior to the issuance
@@ -16409,7 +16409,7 @@ be determined by using the adopted minimum level of service standard of 105
 gallons per person per day.
 (Am. Ord. 2017-05, adopted 12-20-17)
 §§ 3A-51. – 3A-59. RESERVED.
-ARTICLE V. SOLID WASTE CRITERIA
+**** ARTICLE V. SOLID WASTE CRITERIA ****
 § 3A-60. SOLID WASTE DISPOSAL CONCURRENCY.
    (a)   The Town shall require all applicants to obtain a capacity reservation
 certificate from the Brevard County Utilities Department prior to the issuance
@@ -16421,7 +16421,7 @@ person per day. This level of service standard shall increase to 8.9 pounds per
 person per day of January 1, 1992, and to 10.4 pounds, on January 1, 2000.
 (Am. Ord. 2017-05, adopted 12-20-17)
 §§ 3A-61. – 3A-69. RESERVED.
-ARTICLE VI. PARKS/RECREATION CRITERIA
+**** ARTICLE VI. PARKS/RECREATION CRITERIA ****
 § 3A-70. PARKS/RECREATION CONCURRENCY.
    (a)   The Town shall determine whether a proposed residential project meets
 the adopted level of service standards contained below.
@@ -16460,7 +16460,7 @@ shall be used to compare with the demand from a proposed project in order to
 determine if there is a deficiency in the level of service standards.
 (Am. Ord. 2017-05, adopted 12-20-17)
 §§ 3A-71. – 3A-79. RESERVED.
-ARTICLE VII. DRAINAGE CRITERIA
+**** ARTICLE VII. DRAINAGE CRITERIA ****
 § 3A-80. DRAINAGE CONCURRENCY.
    (a)   The Town shall require all applicants to obtain a permit or an
 exemption letter from the St. Johns River Water Management District prior to
@@ -16478,7 +16478,7 @@ its appraised value and any regrading of any residential lot shall require
 compliance with division 3A-80 (a) and (b).
 (Am. Ord. 2017-05, adopted 12-20-17; Am. Ord. 2019-06, adopted 1-15-20)
 §§ 3A-81. – 3A-89. RESERVED.
-ARTICLE VIII. STATUTORY DEVELOPER'S AGREEMENTS
+**** ARTICLE VIII. STATUTORY DEVELOPER'S AGREEMENTS ****
 § 3A-90. GENERAL INTENT.
    The Town Commission in its sole and exclusive discretion, may enter into
 Developer's Agreements with the legal and equitable owners of parcels of land
@@ -16769,7 +16769,7 @@ areas (Zone V)
    
 4A-238   Other forms of development; nonstructural fill in coastal high hazard
 areas (Zone V)
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 4A-1. COMPLIANCE.
    All buildings which shall be erected, constructed or moved within the Town
 shall conform to the requirements of this chapter.
@@ -16797,7 +16797,7 @@ if applicable.
 (`75 Code, § 9-10) (Ord. 83-4, passed 8-23-83; Am. Ord. 2017-05, adopted 12-20-
 17)
 §§ 4A-3. – 4A-19. RESERVED.
-ARTICLE II. ADOPTION OF BUILDING CODES
+**** ARTICLE II. ADOPTION OF BUILDING CODES ****
 § 4A-20. FLORIDA BUILDING CODE AND THE FLORIDA RESIDENTIAL BUILDING CODE
 ADOPTED.
    (a)   The Florida Building Code and the Florida Residential Building Code,
@@ -16935,7 +16935,7 @@ Adjustment and Appeals for this code.
 adopted.
 (Ord. 2008-03, adopted 3-19-08; Am. Ord. 2017-05, adopted 12-20-17)
 §§ 4A-22.– 4A-34. RESERVED.
-ARTICLE III. BUILDING PERMITS
+**** ARTICLE III. BUILDING PERMITS ****
 § 4A-35. STATE AND COUNTY APPROVALS FOR CERTAIN BUILDING PERMIT APPLICATIONS.
    All applications for building permits requiring plan or other approvals by
 the Florida Division of Hotels and Restaurants of the state shall be stamped,
@@ -16951,7 +16951,7 @@ Am. Ord. 2008-03, adopted 3-19-08; Am. Ord. 2017-05, adopted 12-20-17)
 Chapter 4A shall be provided by the Town Commission by resolution.
 (Am. Ord. 2008-03, adopted 3-19-08; Am. Ord. 2017-05, adopted 12-20-17)
 §§ 4A-38. – 4A-49. RESERVED.
-ARTICLE IV. ELECTRICAL CODE
+**** ARTICLE IV. ELECTRICAL CODE ****
 § 4A-50. ELECTRICAL CODE ADOPTED.
    (a)   The National Electrical Code, NFPA 70, current edition as mandated by
 the Florida Legislature and published by the National Fire Protection
@@ -16970,8 +16970,8 @@ Appeals for this code.
 (Am. Ord. 92-11, passed 1-20-93; Am. Ord. 96-02, passed 4-17-96; Am. Ord. 2008-
 03, adopted 3-19-08; Am. Ord. 2017-05, adopted 12-20-17)
 §§ 4A-51. – 4A-59. RESERVED.
-ARTICLE V. STANDARD EXISTING BUILDINGS CODE AND STANDARD UNSAFE BUILDING
-ABATEMENT CODE
+**** ARTICLE V. STANDARD EXISTING BUILDINGS CODE AND STANDARD UNSAFE BUILDING
+ABATEMENT CODE ****
 §§ 4A-60. – 4A-62. RESERVED.
 § 4A-63. UNSAFE BUILDING ABATEMENT CODE ADOPTED.
    (a)   The Standard Unsafe Building Abatement Code, 1985 edition, as
@@ -17032,7 +17032,7 @@ address.
 (Ord. 96-01, passed 4-17-96; Am. Ord. 2008-03, adopted 3-19-08; Am. Ord. 2017-
 05, adopted 12-20-17)
 § 4A-64. RESERVED.
-ARTICLE VI. PLUMBING CODE
+**** ARTICLE VI. PLUMBING CODE ****
 § 4A-65. PLUMBING CODE ADOPTED.
    (a)   The Florida Plumbing Code, current edition as mandated by the Florida
 Legislature, and published by the Florida Building Commission is hereby adopted
@@ -17045,7 +17045,7 @@ adopted: Appendix B, Appendix D, and Appendix E.
 03, passed 4-15-98; Am. Ord. 2008-03, adopted 3-19-08; Am. Ord. 2017-05,
 adopted 12-20-17)
 §§ 4A-66. – 4A-80. RESERVED.
-ARTICLE VII. MECHANICAL CODE
+**** ARTICLE VII. MECHANICAL CODE ****
 § 4A-81. MECHANICAL CODE ADOPTED.
    (a)   The Florida Mechanical Code, current edition as mandated by the
 Florida Legislature, and published by the Florida Building Commission, is
@@ -17056,7 +17056,7 @@ Adjustment and Appeals for this code.
 03, passed 4-15-98; Am. Ord. 2008-03, adopted 3-19-08; Am. Ord. 2017-05,
 adopted 12-20-17)
 § 4A-82. RESERVED.
-ARTICLE VIII. FUEL GAS CODE
+**** ARTICLE VIII. FUEL GAS CODE ****
 § 4A-83. FUEL GAS CODE ADOPTED.
    (a)   The Florida Fuel Gas Code, current edition as mandated by the Florida
 Legislature, and published by the Florida Building Commission, is hereby
@@ -17069,10 +17069,10 @@ adopted: Appendix A and Appendix B.
 03, passed 4-15-98; Am. Ord. 2008-03, adopted 3-19-08; Am. Ord. 2017-05,
 adopted 12-20-17)
 § 4A-84. RESERVED.
-ARTICLE IX. CONSTRUCTION REQUIREMENTS FOR FLOOD PROTECTION
+**** ARTICLE IX. CONSTRUCTION REQUIREMENTS FOR FLOOD PROTECTION ****
 § 4A-85. – 4A-114. REPEALED.
 (Ord. 2014-01, passed 2-19-14)
-ARTICLE X. COASTAL CONSTRUCTION CODE
+**** ARTICLE X. COASTAL CONSTRUCTION CODE ****
 § 4A-115. TITLE.
    The provisions contained in this Article X. shall constitute the Coastal
 Construction Code for construction within the Coastal Building Zone and coastal
@@ -17278,7 +17278,7 @@ Department of the Navy.
 Board of the Town.
 (Ord. 87-04, passed 3-10-87; Am. Ord. 2017-05, adopted 12-20-17)
 §§ 4A-128. – 4A-139. RESERVED.
-ARTICLE XI. ADMINISTRATION AND ENFORCEMENT
+**** ARTICLE XI. ADMINISTRATION AND ENFORCEMENT ****
 § 4A-140. OFFICE OF BUILDING INSPECTION.
    (a)   Administrator designated; duties generally. A department under the
 Town Manager is hereby created to be designated as the Office of Building
@@ -17363,7 +17363,7 @@ authorized, shall be deemed a violation of this Land Development Code.
 (`75 Code, Appendix A, Art. VIII, § 7) (Ord. passed 9-26-72; Am. Ord. 2017-05,
 adopted 12-20-17)
 §§ 4A-149. – 4A-169. RESERVED.
-ARTICLE XII. FLOODPLAIN MANAGEMENT CODE
+**** ARTICLE XII. FLOODPLAIN MANAGEMENT CODE ****
 § 4A-170. ADMINISTRATION - GENERAL.
    (a)   Title. These regulations shall be known as the Floodplain Management
 Code of the Town of Melbourne Beach, hereinafter referred to as "this
@@ -18919,7 +18919,7 @@ Article I. General Provisions
 6A-1   Approval required prior to filing plats
    
 6A-2 – 6A-99   Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 6A-1. APPROVAL REQUIRED PRIOR TO FILING PLATS.
    (a)   No person shall file for record or cause to be filed for record any
 plat or map of a subdivision of any tract of land, or portion thereof located
@@ -19117,7 +19117,7 @@ Commission and courts on matters of appeal
 7A-173   Penalty
    
 7A-174 – 7A-199   Reserved
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 7A-1. SHORT TITLE.
    This
 Chapter 7A shall be known and may be cited as the Zoning Code of the Town of
@@ -19145,7 +19145,7 @@ structures.
 passed 8-10-76; Am. Ord. 85-7, passed 11-12-85; Am. Ord. 87-02, passed 5-12-87;
 Am. Ord. 2017-05, adopted 12-20-17)
 §§ 7A-4.– 7A-14. RESERVED.
-ARTICLE II. DISTRICTS AND BOUNDARIES
+**** ARTICLE II. DISTRICTS AND BOUNDARIES ****
 § 7A-15. OFFICIAL ZONING MAP.
    (a)   The Town is hereby divided into zones, or districts, as shown on the
 official zoning map which, together with all explanatory matter thereon and as
@@ -19251,7 +19251,7 @@ until the area is assigned an initial zoning classification by the Town
 consistent with the town's Comprehensive Plan.
 (Am. Ord. 2006-08, adopted 8-30-06; Am. Ord. 2017-05, adopted 12-20-17)
 §§ 7A-18. – 7A-29. RESERVED.
-ARTICLE III. ZONING DISTRICTS
+**** ARTICLE III. ZONING DISTRICTS ****
 § 7A-30. DISTRICT REGULATIONS ESTABLISHED.
    District regulations shall be set forth in the following sections, and as
 set forth in §§
@@ -20331,7 +20331,7 @@ before the effective date of this section.
 (Ord. 90-04, passed 4-25-90; Am. Ord. 2006-08, adopted 8-30-06; Am. Ord. 2017-
 05, adopted 12-20-17)
 §§ 7A-41. – 7A-49. RESERVED.
-ARTICLE IV. SUPPLEMENTARY DISTRICT REGULATIONS
+**** ARTICLE IV. SUPPLEMENTARY DISTRICT REGULATIONS ****
 § 7A-50. OFF-STREET PARKING.
    (a)   Minimum requirements. In the interest of the health, safety and
 welfare of the general public and in the promotion and preservation of traffic
@@ -21591,7 +21591,7 @@ shall also be in compliance with marine turtle protection lighting standards
 found in Article II of Chapter 40 of the Town Code, as applicable.
 (Ord. 2019-05, adopted 9-18-19)
 §§ 7A-72.–7A-79. RESERVED.
- ARTICLE V. NONCONFORMING USES  
+****  ARTICLE V. NONCONFORMING USES   ****
 § 7A-80. INTENT.
    (a)   Within the districts established by this chapter, or amendments that
 may later be adopted, there exists lots, structures, uses of land and
@@ -21810,7 +21810,7 @@ site plan accompanying the approved special exception.
 10-31-90; Am. Ord. 2017-05, adopted 12-20-17; Am. Ord. 2019-06, adopted 1-15-
 20)
 §§ 7A-88. – 7A-99. RESERVED.
-ARTICLE VI. AMENDMENTS
+**** ARTICLE VI. AMENDMENTS ****
 § 7A-100. REGULATIONS; RESTRICTIONS AND BOUNDARIES MAY BE AMENDED.
    The zoning district boundaries and site specific regulations may be amended,
 supplemented, changed or repealed in the manner prescribed by law.
@@ -21967,7 +21967,7 @@ Planning and Zoning Board or any department or agency of the Town.
 (`75 Code, Appendix A, Art. XIII, § 5) (Ord. passed 9-26-72; Am. Ord. 2017-05,
 adopted 12-20-17)
 §§ 7A-105.–7A-119. RESERVED.
-ARTICLE VII. SCHEDULE OF FEES, CHARGES AND EXPENSES
+**** ARTICLE VII. SCHEDULE OF FEES, CHARGES AND EXPENSES ****
 § 7A-120. FEES AND CHARGES.
    Fees and charges in connection with matters pertinent to zoning petitions,
 special exceptions, variances and appeals shall be established from time to
@@ -21988,7 +21988,7 @@ the General Fund of the Town.
 (`75 Code, Appendix A, Art. XIV, § 2) (Ord. passed 9-26-72; Am. Ord. 2017-05,
 adopted 12-20-17)
 §§ 7A-122. – 7A-134. RESERVED.
-ARTICLE VIII. PLANNING AND ZONING BOARD
+**** ARTICLE VIII. PLANNING AND ZONING BOARD ****
 § 7A-135. ESTABLISHMENT; TERMS AND MEMBERSHIP.
    (a)   The Planning and Zoning Board is a five- member body plus two
 alternates established by the Town Commission. The term of office of the first
@@ -22075,7 +22075,7 @@ provisions of the Town of Melbourne Beach Code of Ordinances.
 Am. Ord. 2006-06, passed 5-17-06; Am. Ord. 2010-01, adopted 3-17-10; Am. Ord.
 2017-05, adopted 12-20-17)
 §§ 7A-138. – 7A-149. RESERVED.
-ARTICLE IX. BOARD OF ADJUSTMENT
+**** ARTICLE IX. BOARD OF ADJUSTMENT ****
 § 7A-150. ESTABLISHMENT; TERMS AND MEMBERSHIPS.
    (a)   There is hereby established a Board to be called the Board of
 Adjustment. The Board of Adjustment is a five-member body plus two alternates
@@ -22548,7 +22548,7 @@ of Adjustment as to the powers and duties of the Board as defined in §§
 passed 5-12-87; Am. Ord. 2017-05, adopted 12-20-17)
 § 7A-157. REPEALED.
 §§ 7A-158. – 7A-169. RESERVED.
-ARTICLE X. ADMINISTRATION AND ENFORCEMENT
+**** ARTICLE X. ADMINISTRATION AND ENFORCEMENT ****
 § 7A-170. DESIGNATING THE ADMINISTRATIVE AND ENFORCEMENT OFFICIALS.
    (a)   The Building Official, under the direction of the Town Manager, shall
 administer the provisions of
@@ -22654,7 +22654,7 @@ Article I. Landscaping
 9A-12   Penalty
    
 9A-13 – 9A-99   Reserved
-ARTICLE I. LANDSCAPING
+**** ARTICLE I. LANDSCAPING ****
 § 9A-1. DEFINITION.
    For the purpose of this article the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -22925,7 +22925,7 @@ Article I. Wetlands Protection
 11A-4   Prohibited uses in wetlands
    
 11A-5 –11A-99 Reserved
-ARTICLE I. WETLANDS PROTECTION
+**** ARTICLE I. WETLANDS PROTECTION ****
 § 11A-1. PURPOSE AND INTENT.
    The purpose of this chapter is to protect, preserve and enhance the natural
 functions of wetlands and other environmentally sensitive areas. It is also the
