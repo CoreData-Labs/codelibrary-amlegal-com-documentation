@@ -704,7 +704,7 @@ City Administrator
 31.20   Administrative appeal
    
 31.21   Deputy Clerk-Treasurer
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 PERSONNEL POLICY.
    The personnel policy is hereby adopted by reference. A full copy of the
 policy can be found in the City Administrator’s office.
@@ -730,7 +730,7 @@ other final adjudication thereof adverse to the individual shall establish that
 acts of active or deliberate dishonesty or fraud committed by the individual
 were material to the cause of action so adjudicated.
 (Prior Code, § 207.01)
-CITY ADMINISTRATOR
+**** CITY ADMINISTRATOR ****
 § 31.15 OFFICES DEFINED.
    The office of the City Administrator is hereby combined with the City Clerk-
 Treasurer. The Council shall appoint one person to the position of City
@@ -889,7 +889,7 @@ Planning and Zoning Commission
 32.47   Organization
    
 32.48   Powers and duties
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 32.01 ESTABLISHMENT.
    (A)   The Police Department is hereby established. The head of the
 Department shall be known as the Chief of Police and the number of additional
@@ -943,7 +943,7 @@ Police.
 abuse prosecution, deadly force and general personnel policies made a part
 hereof by reference and on file at the office of the City Administrator.
 (Prior Code, § 203.06)
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 32.20 FIRE DEPARTMENT.
    There is hereby continued in this city a Volunteer Fire Department
 consisting of a Chief, an Assistant Chief and not fewer than 25 nor more than
@@ -1077,7 +1077,7 @@ be determined by the mutual aid agreement.
 be city funds and used to off-set the expenses of the Fire Department in
 providing fire services.
 (Prior Code, § 204.11)
-PLANNING AND ZONING COMMISSION
+**** PLANNING AND ZONING COMMISSION ****
 § 32.45 ESTABLISHMENT OF COMMISSION.
    The Planning and Zoning Commission for the city is hereby established and
 shall be the municipal planning agency authorized by M.S. § 462.354, Subd. 1,
@@ -1151,7 +1151,7 @@ Local Housing Trust Fund
 34.05   Term of affordability
    
 34.06   Administration of Local Housing Trust Fund
-LOCAL HOUSING TRUST FUND
+**** LOCAL HOUSING TRUST FUND ****
 § 34.01 ESTABLISHMENT.
    (A)   Authority. This chapter is adopted pursuant to M.S. § 462C.16, as it
 may be amended from time to time.
@@ -2208,13 +2208,13 @@ Special Vehicles
  
    
 71.99   Penalty
-BICYCLES
+**** BICYCLES ****
 § 71.01 GENERAL REGULATIONS.
    Every person operating or parking a bicycle within the city limits shall
 comply with all provisions of M.S. § 169.222, as it may be amended from time to
 time.
 (Prior Code, § 703.01)
-SNOWMOBILES
+**** SNOWMOBILES ****
 § 71.15 OPERATION OF SNOWMOBILES WITHIN THE CITY.
    It is hereby declared to be in the best interest of the public safety and
 welfare to provide for the regulation and control of snowmobiles upon the
@@ -2241,7 +2241,7 @@ operated upon or over any private yard, lot or public grounds without the
 consent of the owner thereof.
 (Prior Code, § 702.01) Penalty, see §
 71.99
-SPECIAL VEHICLES
+**** SPECIAL VEHICLES ****
 § 71.30 OPERATION OF SPECIAL VEHICLES WITHIN THE CITY.
    The operation of motorized golf carts, all-terrain vehicles or utility task
 vehicles is authorized on designated roadways in the city by permit only,
@@ -2371,7 +2371,7 @@ Abandoned Property
 90.15   Abandoned motor vehicles
    
 90.16   Other abandoned property
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 LOUD PARTIES OR NOISE.
    (A)   Unreasonable noise prohibited in residential areas. No person shall
 produce loud conversations, amplified music or unnecessary noise in sufficient
@@ -2402,7 +2402,7 @@ allowed in any city park between the hours of 11:00 p.m. and 5:00 a.m. each
 day.
 (Prior Code, § 804.01) Penalty, see §
 10.99
-ABANDONED PROPERTY
+**** ABANDONED PROPERTY ****
 § 90.15 ABANDONED MOTOR VEHICLES.
    (A)   Impoundment and sale. The Police Department may take into custody and
 impound any abandoned vehicle, junk vehicle or unauthorized vehicle as defined
@@ -2504,7 +2504,7 @@ Dogs
 91.26   Proceedings for destruction of certain dogs
    
 91.27   Impounding
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 GENERAL PROHIBITION.
    No person shall keep any livestock or poultry in the city except under the
 conditions prescribed by this chapter.
@@ -2592,7 +2592,7 @@ and distance from all structures on the property.
 section.
 (Prior Code, § 504.08) Penalty, see §
 10.99
-DOGS
+**** DOGS ****
 § 91.20 RUNNING AT LARGE PROHIBITED.
    No dog shall be permitted to run at large within the limits of the city.
 This restriction does not prohibit the appearance of any dog upon streets or
@@ -2748,7 +2748,7 @@ Smoke Detectors
 92.09   Direct connection to electrical system
    
 92.10   Inspection on request
-SMOKE DETECTORS
+**** SMOKE DETECTORS ****
 § 92.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2888,7 +2888,7 @@ Open Burning
 93.65   Burning ban or air quality alert
    
 93.66   External solid fuel-fired heating devices (outdoor wood burning stoves)
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 ASSESSABLE CURRENT SERVICES.
    (A)   Definition. For the purpose of this section, the following definition
 shall apply unless the context clearly indicates or requires a different
@@ -3190,7 +3190,7 @@ covered from April 15 to October 15 with four mil plastic. The edges of the
 cover must be buried or sealed to the ground.
          (b)   Definition of control areas. The control area for Dutch Elm
 Disease is defined as all lands within the boundaries of the city.
-NUISANCES
+**** NUISANCES ****
 § 93.15 PUBLIC NUISANCE.
    A person must not act, or fail to act in a manner that is or causes a public
 nuisance. For purpose of this chapter, a person who does any of the following
@@ -3564,7 +3564,7 @@ installments, not exceeding ten, as the City Council may determine in each
 case.
 Penalty, see §
 10.99
-GRASS, WEEDS AND PLANTS
+**** GRASS, WEEDS AND PLANTS ****
 § 93.35 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3661,7 +3661,7 @@ immediately due and payable at the Office of the City Clerk.
    (B)   Assessment. If the bill for service charges is not paid when due, the
 city may assess the costs as a public nuisance in accordance with §
 93.15.
-OPEN BURNING
+**** OPEN BURNING ****
 § 93.55 RULES AND LAWS ADOPTED BY REFERENCE.
    The provisions of M.S. Ch. 88, as it may be amended from time to time, with
 reference to the definition of terms, conditions of operation, permits and all
@@ -3947,7 +3947,7 @@ Small Wireless Facility Design Guidelines
 94.49   Location requirements
    
 94.50   Limitations
-GENERALLY
+**** GENERALLY ****
 § 94.01 FINDINGS AND PURPOSE.
    (A)   To provide for the health, safety and well-being of its citizens, and
 to ensure the structural integrity of its streets and the appropriate use of
@@ -4800,7 +4800,7 @@ visibly be seen by city employees. During the winter season, dumpsters and
 storage containers are not allowed where there are parking restrictions.
 Penalty, see §
 10.99
-SMALL WIRELESS FACILITY DESIGN GUIDELINES
+**** SMALL WIRELESS FACILITY DESIGN GUIDELINES ****
 § 94.45 PURPOSE AND COMPLIANCE.
    (A)   In implementing this chapter, the City Council finds that in order to
 protect the public health, safety and welfare of its citizens and to reasonably
@@ -5070,8 +5070,8 @@ Local Improvement Policy
 95.15   Branch service lines
    
 95.16   Certification of assessments
-ASSESSABLE CURRENT SERVICES; OBLIGATION
-OF PROPERTY OWNERS AND OCCUPANTS
+**** ASSESSABLE CURRENT SERVICES; OBLIGATION
+OF PROPERTY OWNERS AND OCCUPANTS ****
 § 95.01 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5129,7 +5129,7 @@ record of the total cost of the installation or repair against the property and
 deliver such information to the City Administrator annually by September 1 as
 to each parcel of property on which the cost has not been paid.
 (Prior Code, § 302.03)
-LOCAL IMPROVEMENT POLICY
+**** LOCAL IMPROVEMENT POLICY ****
 § 95.15 BRANCH SERVICE LINES.
    Water and sewer lines shall be installed from the main to the front property
 line of property to be served before any permanent street surfacing is
@@ -5284,7 +5284,7 @@ Beer Licensing
 111.40    Hours and days of sale
    
 111.41    Prohibition of resale
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 111.01 PERSONS INELIGIBLE FOR LICENSE.
    No new retail license may be issued to, and in the discretion of the city,
 no license shall be held by any person who:
@@ -5458,7 +5458,7 @@ as may be requested. Any suspension under this division (B) shall continue
 until the City Council determines that the financial responsibility
 requirements of this chapter have again been met.
 (Prior Code, § 603.04)
-INTOXICATING LIQUOR LICENSING
+**** INTOXICATING LIQUOR LICENSING ****
 § 111.15 PROVISION OF STATE LAW ADOPTED.
    The provisions of M.S. Chapter 340A, as it may be amended from time to time,
 otherwise referred to as the Liquor Act, relating to the definitions of terms,
@@ -5612,7 +5612,7 @@ intends to resell the alcoholic beverage without written approval of the
 Commissioner.
 (Prior Code, § 601.07) Penalty, see §
 10.99
-BEER LICENSING
+**** BEER LICENSING ****
 § 111.35 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6660,7 +6660,7 @@ Building Code
 150.06   Board of Appeals
    
 150.07   Right of entry
-BUILDING CODE
+**** BUILDING CODE ****
 § 150.01 PURPOSE.
    The purpose of this subchapter is to provide minimum standards to safeguard
 life or limb, health, property and the public welfare by regulating and
@@ -6840,7 +6840,7 @@ Required Improvements
 151.090   Service lines
    
 151.091   Water
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.001 POLICY.
    (A)   It is hereby declared to be the policy of the city to consider the
 subdivision of land and the subsequent development of the subdivided plat as
@@ -7241,7 +7241,7 @@ final review by the Council of each subdivision.
    (B)   The filing fees shall be as set forth and changed from time to time by
 action of the Council.
 (Ord. passed 10-13-2021)
-SUBMISSION OF PLATS
+**** SUBMISSION OF PLATS ****
 § 151.030 PRELIMINARY PLAT.
    (A)   The subdivider shall prepare a general development plan and a
 preliminary plat, which shall conform to the requirements of this chapter and
@@ -7348,7 +7348,7 @@ surrounding areas; and
    (H)   The design will create an undue burden on the city’s traffic system or
 water/wastewater infrastructure.
 (Ord. passed 10-13-2021)
-APPLICATIONS AND PLATS
+**** APPLICATIONS AND PLATS ****
 § 151.050 APPLICATION FOR PRELIMINARY PLAT.
    An application for approval of a preliminary plat shall include the
 following:
@@ -7657,7 +7657,7 @@ this section shall be subject to the same violation provisions as set forth in
 10.99.
 (Ord. passed 10-13-2021) Penalty, see §
 10.99
-DESIGN STANDARDS
+**** DESIGN STANDARDS ****
 § 151.065 GENERAL.
    The design of each subdivision and resubdivision shall conform to the
 Comprehensive Plan and shall comply with the design standards contained in this
@@ -7761,7 +7761,7 @@ subdivision. However, the Council, with recommendation of the Planning and
 Zoning Commission, reserves the right to purchase a minimum of one-half acre of
 the development at the current value for city use.
 (Ord. passed 10-13-2021)
-REQUIRED IMPROVEMENTS
+**** REQUIRED IMPROVEMENTS ****
 § 151.085 GENERAL.
    The following improvements will be required for all new subdivisions and
 resubdivisions within the jurisdiction of this chapter and to the
@@ -8016,7 +8016,7 @@ Temporary Dwellings
 152.245   Opt-out of M.S. § 462.3593
    
 152.246   Sexually oriented businesses location regulation
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.001 PURPOSE.
    (A)   This chapter shall be known as the Zoning Ordinance of Lewiston and is
 referred to herein as this chapter.
@@ -8562,7 +8562,7 @@ modify the order, requirement, decision or determination as in its opinion
 ought to be made in each case. The reasons for the Board’s decision shall be
 stated in the Board’s minutes and communication to applicants.
 (Prior Code, § 903.07)
-NON-CONFORMITIES
+**** NON-CONFORMITIES ****
 § 152.020 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8644,7 +8644,7 @@ enforcing any other ordinance or portion of the code that applies to adults-
 only bookstores, adults-only theaters or similar adult-businesses, as defined
 in this code.
 (Prior Code, § 902.03)
-ZONING PROCEDURES
+**** ZONING PROCEDURES ****
 § 152.035 PLANNING AND ZONING COMMISSION.
    (A)   The Planning and Zoning Commission is hereby established which shall
 consist of not less than five members and not more than 11, one of which may be
@@ -8942,7 +8942,7 @@ and Zoning Commission or Board of Adjustment (City Council) for review and
 appropriate action according to the procedures set forth in this code.
 (Prior Code, § 904.05) Penalty, see §
 10.99
-PLANNED UNIT DEVELOPMENTS
+**** PLANNED UNIT DEVELOPMENTS ****
 § 152.050 PURPOSE.
    The purposes of this section are to:
    (A)   Encourage a more creative and efficient development of land and its
@@ -9144,7 +9144,7 @@ planned unit development shall require the same procedures as an application
 for a conditional use permit as set forth in §
 152.037.
 (Prior Code, § 905.11)
-R-A AGRICULTURE-RESIDENCE DISTRICT
+**** R-A AGRICULTURE-RESIDENCE DISTRICT ****
 § 152.075 PURPOSE.
    R-A Agriculture-Residence District is intended for transition from previous
 agricultural uses to residential uses; provided the development is compatible
@@ -9295,7 +9295,7 @@ Cross-reference:
    Signs generally, see §§
 152.205 through
 152.210
-R-1 ONE- AND TWO-FAMILY RESIDENCE DISTRICTS
+**** R-1 ONE- AND TWO-FAMILY RESIDENCE DISTRICTS ****
 § 152.095 PERMITTED USES.
    The following are permitted uses in the R-1 One- and Two-Family Residence
 Districts:
@@ -9475,7 +9475,7 @@ Cross-reference:
    Signs generally, see §§
 152.205 through
 152.210
-R-2 MULTI-FAMILY RESIDENTIAL DISTRICT
+**** R-2 MULTI-FAMILY RESIDENTIAL DISTRICT ****
 § 152.115 PERMITTED USES.
    The following are permitted uses in the R-2 Multi-Family Residential
 District:
@@ -9673,7 +9673,7 @@ Cross-reference:
    Signs generally, see §§
 152.205 through
 152.210
-B-1 SERVICE BUSINESS DISTRICT
+**** B-1 SERVICE BUSINESS DISTRICT ****
 § 152.135 PERMITTED USES.
    The following are permitted uses in the B-1 Service Business District:
    (A)   Armories, convention halls or exhibition halls;
@@ -9855,7 +9855,7 @@ above the roof line or exceed respective area limits.
 signs, to be considered a type of wall sign; provided the sign in all other
 respects is consistent with the provisions of this chapter for wall signs.
 (Prior Code, § 909.05)
-B-2 GENERAL BUSINESS DISTRICT
+**** B-2 GENERAL BUSINESS DISTRICT ****
 § 152.150 PERMITTED USES.
    The following are permitted uses in the B-2 General Business District:
    (A)   Animal or pet shops;
@@ -10090,7 +10090,7 @@ fumes or gases may be required before the issuance of a building permit.
 facilities and treatment of all industrial sewage and waste shall comply with
 city and state health standards and requirements.
 (Prior Code, § 910.07)
-I-1 LIMITED INDUSTRIAL DISTRICT
+**** I-1 LIMITED INDUSTRIAL DISTRICT ****
 § 152.175 PERMITTED USES.
    The following are permitted uses in the I-1 Limited Industrial District:
    (A)   Airports, heliports, cartage and express facilities, and railroad
@@ -10217,7 +10217,7 @@ facilities and treatment of all industrial sewage and waste shall comply with
 city and state health standards and requirements.
 (Prior Code, § 911.04) Penalty, see §
 10.99
-I-2 GENERAL INDUSTRIAL DISTRICT
+**** I-2 GENERAL INDUSTRIAL DISTRICT ****
 § 152.190 PERMITTED USES.
    The following are permitted uses in the I-2 General Industrial District:
    (A)   Airports, heliports, cartage and express facilities, and railroad
@@ -10355,7 +10355,7 @@ Fremont Street from its intersection with Harrison Street on the north to city
 alley south of First Street South.
 (Prior Code, § 912.04) Penalty, see §
 10.99
-GENERAL REGULATION OF SIGNS
+**** GENERAL REGULATION OF SIGNS ****
 § 152.205 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -10564,7 +10564,7 @@ reasonable costs and disbursements for any legal action necessary to recover
 damages or obtain injunctive relief, including reasonable attorney’s fees.
 (Prior Code, § 913.06) Penalty, see §
 10.99
-MOBILE HOME PARKS
+**** MOBILE HOME PARKS ****
 § 152.225 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -10812,7 +10812,7 @@ application of any of the regulations or provisions contained in this chapter,
 in cases in which there is practical difficulties or unnecessary hardships in
 the way of strict application.
 (Prior Code, § 914.08)
-TEMPORARY DWELLINGS
+**** TEMPORARY DWELLINGS ****
 § 152.245 OPT-OUT OF M.S. § 462.3593.
    Pursuant to authority granted by M.S. § 462.3593, Subd. 9, as it may be
 amended from time to time, the city opts out of the requirements of M.S. §
