@@ -10,7 +10,7 @@ AMERICAN LEGAL PUBLISHING
 525 Vine Street * Suite 310 * Cincinnati, Ohio 45202
 1-800-445-5588 www.amlegal.com
 ADOPTING ORDINANCE
-ORDINANCE: 2008-12-0208O
+***** ORDINANCE: 2008-12-0208O *****
    AN ORDINANCE ENACTING A CODE OF ORDINANCES FOR THE CITY OF OAK FOREST,
 ILLINOIS, REVISING, AMENDING, RESTATING, CODIFYING AND COMPILING CERTAIN
 EXISTING GENERAL ORDINANCES OF THE CITY OF OAK FOREST AND DEALING WITH SUBJECTS
@@ -1014,7 +1014,7 @@ achieves passage by a two-thirds vote of the members of Council.
 passage thereof, as provided by statute, even though the operation of the
 ordinance may not take effect until a later date.
 (2000 Code, § 2.02.330)
-COMPOSITION OF CITY COUNCIL AND ELECTIONS
+**** COMPOSITION OF CITY COUNCIL AND ELECTIONS ****
 § 30.40 COMPOSITION OF CITY COUNCIL; ELECTION; FUNCTIONS.
    (A)   The City Council shall consist of the Mayor and seven Aldermen. One
 Alderman shall be elected from each of the seven wards into which the city is
@@ -2074,7 +2074,7 @@ or United States Constitutions.
 Cross-reference:
    Civil Emergencies, see
 Ch. 93.
-CITY ADMINISTRATOR
+**** CITY ADMINISTRATOR ****
 § 31.030 ESTABLISHMENT OF POSITION, COMPENSATION, AND BOND.
    (A)   Establishment. There is established in and for the city the position
 of City Administrator, which office shall be appointed by the Mayor with the
@@ -2146,7 +2146,7 @@ authority of the Mayor to supervise and administer the government and affairs
 of the city through executive and legislative authority.
 (2000 Code, § 2.04.080) (Am. Ord. 2012-05-0379O, passed 5-8-2012; Am. Ord.
 2017-09-0659O, passed 9-12-2017)
-CITY CLERK
+**** CITY CLERK ****
 § 31.050 BOND.
    Before entering upon the duties of his or her office, the City Clerk shall
 execute and deliver a bond to the city as provided in §
@@ -2215,7 +2215,7 @@ City Clerk until the vacancy is filled at an election as provided by law.
    Unless and until otherwise provided by Council, the City Clerk shall be the
 Business License Commissioner of and for the city.
 (2000 Code, § 2.06.090)
-CITY TREASURER
+**** CITY TREASURER ****
 § 31.070 BOND.
    Before entering upon the duties of his or her office, the City Treasurer
 shall execute and deliver a bond to the city as provided in §
@@ -2339,7 +2339,7 @@ removal from office by the Mayor and Council.
 jointly, shall appoint a successor, who shall hold office for the remainder of
 the unexpired term.
 (2000 Code, § 2.08.150)
-FINANCE DIRECTOR
+**** FINANCE DIRECTOR ****
 § 31.095 ESTABLISHMENT OF POSITION; APPOINTMENT, STATUS AND COMPENSATION.
    There is established the position of Finance Director. The Finance Director
 shall be appointed by the Mayor with the advice and consent of Council. The
@@ -2404,7 +2404,7 @@ upon the city for the current fiscal year.
 then to the Mayor, and shall coordinate with the City Treasurer on all fiscal
 matters.
 (Ord. 2008-05-0184O, passed 5-27-2008)
-CITY COLLECTOR
+**** CITY COLLECTOR ****
 § 31.110 ESTABLISHMENT OF OFFICE.
    There is established in and for the city the office of City Collector.
 (2000 Code, § 2.12.010)
@@ -2422,7 +2422,7 @@ May, 2017.
    The person appointed to the office of City Collector shall receive
 compensation as established from time to time by the Mayor and City Council.
 (2000 Code, § 2.12.040) (Ord. 2943, § 5, passed --2005)
-CITY ATTORNEY
+**** CITY ATTORNEY ****
 § 31.125 APPOINTMENT AND TERM OF OFFICE; REMOVAL.
    (A)   The City Attorney shall be appointed by the Mayor with the approval of
 Council, and shall hold his or her office for a term of one year and until his
@@ -2458,7 +2458,7 @@ employing special counsel to represent the city from time to time, or from
 paying such compensation to the special counsel as Council may, from time to
 time, determine.
 (2000 Code, § 2.14.030)
-CITY HEALTH INSPECTOR
+**** CITY HEALTH INSPECTOR ****
 § 31.140 POSITION OF HEALTH INSPECTOR CREATED.
    (A)   There is hereby created the position of City Health Inspector.
    (B)   The City Health Inspector(s) shall be part of the Oak Forest Building
@@ -2731,7 +2731,7 @@ certificate be issued for more than two consecutive 12-month periods.
    (C)   The purpose of the conditional license or permit is to allow a
 reasonable period of time for correction of existing defects.
 (Ord. 2006-04-0021O, passed 4-25-2006)
-TAXPAYER ADVOCATE
+**** TAXPAYER ADVOCATE ****
 § 31.205 OFFICE CREATED.
    There is created the office of City of Oak Forest Taxpayer Advocate.
 (2000 Code, § 2.20.010) (Ord. 2353, § 1, passed --1998)
@@ -2785,7 +2785,7 @@ services performed as Taxpayer Advocate.
    The Taxpayer Advocate may be entitled to the reimbursement of reasonable and
 necessary expenses as allowed by City Council approval.
 (2000 Code, § 2.20.060) (Ord. 2353, § 6, passed --1998)
-HUMAN RESOURCES MANAGER
+**** HUMAN RESOURCES MANAGER ****
 § 31.220 ESTABLISHMENT OF POSITION.
    (A)   There is an established position for the Human Resources Manager of
 the City of Oak Forest.
@@ -2830,7 +2830,7 @@ Council.
    The Human Resources Manager shall report to the City Administrator and then
 to the Mayor.
 (Ord. 2016-08-0617O, passed - -2016)
-NETWORK ADMINISTRATOR
+**** NETWORK ADMINISTRATOR ****
 § 31.225 ESTABLISHMENT OF POSITION.
    (A)   There is established the position of Network Administrator of the City
 of Oak Forest.
@@ -2870,7 +2870,7 @@ City Council.
    The Network Administrator shall report to the City Administrator and then to
 the Mayor.
 (2000 Code, § 2.21.040) (Ord. 2846, § 2 (part), passed --2004)
-CITY HISTORIAN
+**** CITY HISTORIAN ****
 § 31.240 ESTABLISHMENT.
    (A)   There is established a volunteer position of City Historian.
    (B)   The City Historian shall be appointed by the Mayor, with advice and
@@ -3384,7 +3384,8 @@ Green Steps Commission
 32.606   Membership
    
 32.607   Duties and responsibilities
-DEPARTMENTS; CODE HEARING DEPARTMENT; SYSTEM OF ADMINISTRATIVE ADJUDICATION
+**** DEPARTMENTS; CODE HEARING DEPARTMENT; SYSTEM OF ADMINISTRATIVE
+ADJUDICATION ****
 § 32.001 PURPOSE.
    The purpose of this subchapter is to provide for a fair and efficient system
 of enforcement of city ordinances as may be allowed by law and directed by
@@ -3539,7 +3540,7 @@ process.
    (B)   Compensation shall be determined by the City Administrator within
 approved budget or appropriation limitations.
 (Ord. 2007-03-0090O, passed 3-27-2007)
-HEARINGS
+**** HEARINGS ****
 § 32.020 COMMENCEMENT OF HEARINGS.
    (A)   (1)   A proceeding before a Hearing Officer shall be instituted upon
 the filing with the Adjudication Hearing Administrator of a written sworn
@@ -3731,7 +3732,7 @@ default judgment.
 the petition is granted, he or she is prepared to proceed immediately with a
 hearing on the merits.
 (Ord. 2007-03-0090O, passed 3-27-2007)
-RULES APPLICABLE TO MOTOR VEHICLECITATIONS
+**** RULES APPLICABLE TO MOTOR VEHICLECITATIONS ****
 § 32.035 ENFORCEMENT OF MOTOR VEHICLE VIOLATIONS; CITATIONS.
    (A)   Whenever any vehicle is parked in violation of any provision of the
 code prohibiting or restricting vehicular parking or standing, the owner shall
@@ -3988,7 +3989,7 @@ and the costs incurred by the Secretary in any hearing conducted with respect
 to the report and any appeal from a hearing.
 (Ord. 2007-03-0090O, passed 3-27-2007; Am. Ord. 2011-01-0321O, passed 1-11-
 2011)
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 32.050 ESTABLISHMENT OF OFFICES, ORGANIZATION, FUNCTION OF OFFICES AND CHAIN
 OF COMMAND.
    There is established the full-time offices of Police Chief, Deputy Police
@@ -4303,7 +4304,7 @@ bookable arrest, including any arrest on a warrant. Any fee not paid within 30
 daysof processing, shall be subject to a fee of $200.
 (Ord. 2011-01-0324O, passed 1-25-2011; Am. Ord. 2025-04-1080O, passed 4-22-
 2025)
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 32.070 ESTABLISHMENT; COMPOSITION.
    There is established in and for the city a Fire Department. The Department
 shall consist of a Fire Chief, a Bureau of Fire Prevention and such other
@@ -4785,7 +4786,7 @@ $50 for each false alarm, not to exceed a fine of $500 per incident.
 $500 will be charged regardless of the number of false alarm occurrences in the
 preceding 12-month period.
 (Ord. 2018-04-06900, passed 4-24-2018)
-DEPARTMENT OF PUBLIC WORKS
+**** DEPARTMENT OF PUBLIC WORKS ****
 § 32.115 ESTABLISHMENT; COMPOSITION.
    (A)   There is established in and for the city a Department of Public Works.
    (B)   The Department shall consist of a Director of Public Works and other
@@ -4896,7 +4897,7 @@ Works and shall not result in any automatic disqualification of any current
 employees in the Department of Public Works.
 (Ord. 2015-04-059O, passed 4-12-2016) Penalty, see §
 10.99
-COMMUNITY/COMMERCIAL ECONOMIC DEVELOPMENT DEPARTMENT
+**** COMMUNITY/COMMERCIAL ECONOMIC DEVELOPMENT DEPARTMENT ****
 § 32.130 ESTABLISHMENT OF DEPARTMENT.
    (A)   There is established the Community/Commercial Economic Development
 Department.
@@ -4921,7 +4922,7 @@ and other activities which may be assigned.
 the supervision of, and shall report to the City Administrator, and to the
 Mayor.
 (Ord. 2010-04-0287O, passed 4-27-2010)
-BOARD OF FIRE AND POLICE COMMISSIONERS
+**** BOARD OF FIRE AND POLICE COMMISSIONERS ****
 § 32.145 ESTABLISHMENT AND COMPOSITION; TERMS OF OFFICE.
    There is established in and for the city a Board of Fire and Police
 Commissioners consisting of three members who shall be appointed by the Mayor
@@ -4973,7 +4974,7 @@ the minutes of the Board’s proceedings, shall be custodian of all papers
 pertaining to the business of the Board, shall keep a record of all
 examinations held and shall perform other duties as the Board prescribes.
 (2000 Code, § 2.44.050)
-BOARD OF TRUSTEES OF POLICE PENSION FUND
+**** BOARD OF TRUSTEES OF POLICE PENSION FUND ****
 § 32.160 ESTABLISHMENT.
    There is established in and for the city a Board of Trustees of the Police
 Pension Fund.
@@ -5002,7 +5003,7 @@ Police Pension Fund Act.
    The Board of Trustees of the police pension fund shall exercise and have all
 the powers and duties delegated to it by statute.
 (2000 Code, § 2.46.040)
-BOARD OF LOCAL IMPROVEMENTS
+**** BOARD OF LOCAL IMPROVEMENTS ****
 § 32.175 ESTABLISHMENT; COMPOSITION.
    (A)   There is established in and for the city a Board of Local
 Improvements, which shall consist of the Mayor and seven members of Council.
@@ -5028,7 +5029,7 @@ of the members of the Board.
 budgeted sums not to exceed $2,500 per line item, or $2,500 for any particular
 project proposed before the Board.
 (2000 Code, § 2.50.050)
-EMERGENCY TELEPHONE SYSTEM BOARD
+**** EMERGENCY TELEPHONE SYSTEM BOARD ****
 § 32.190 ESTABLISHMENT.
    The city establishes an Emergency Telephone System Board.
 (2000 Code, § 2.52.010)
@@ -5083,7 +5084,7 @@ upgrade and maintenance of the system. However, the costs shall not include
 personnel or facilities, nor shall the costs include equipment which is not
 directly associated with the 9-1-1 emergency telephone system.
 (2000 Code, § 2.52.060)
-EMERGENCY TELEPHONE SYSTEM ADVISORY BOARD
+**** EMERGENCY TELEPHONE SYSTEM ADVISORY BOARD ****
 § 32.210 ESTABLISHMENT.
    The city establishes an Emergency Telephone System Advisory Board.
 (2000 Code, § 2.54.010)
@@ -5119,7 +5120,7 @@ the emergency telephone system fund; and
    (D)   To render other duties as may be delegated by the 9-1-1 Emergency
 Telephone System Board, with the approval of the City Council.
 (2000 Code, § 2.54.050)
-FOREIGN FIRE INSURANCE BOARD
+**** FOREIGN FIRE INSURANCE BOARD ****
 § 32.225 ESTABLISHMENT.
    The city does create and establish a Foreign Fire Insurance Board. The Board
 shall have the powers, duties and responsibilities provided for in this
@@ -5229,7 +5230,7 @@ accepted auditing principals.
 City Administrator. The audit shall be paid for from funds collected from the
 foreign fire insurance company fees.
 (2000 Code, § 2.56.100)
-CITIZENS ADVISORY COMMISSION
+**** CITIZENS ADVISORY COMMISSION ****
 § 32.245 ESTABLISHMENT.
    There is established a Citizens Advisory Commission, which shall be known as
 the Oak Forest Citizens Advisory Commission.
@@ -5262,7 +5263,7 @@ the operation of the Commission.
    (B)   Nothing in these powers and duties shall in any way be construed to
 usurp the duties of the Mayor or Council, which are nondelegable.
 (Ord. 2006-11-0067O, passed 11-14-2006)
-CIVIL SERVICE COMMISSION
+**** CIVIL SERVICE COMMISSION ****
 § 32.260 COMPOSITION.
    Pursuant to ILCS Ch. 65, Act 5, § 10-1-1, the Mayor shall forthwith appoint
 three Civil Service Commissioners, who shall be known as the Civil Service
@@ -5292,7 +5293,7 @@ passed --1999)
    All entry level candidate lists shall expire one year following the final
 approval and posting of any list by the Civil Service Commission.
 (2000 Code, § 2.66.050) (Ord. 2758, § 2, passed --2003)
-CONSUMER PROTECTION COMMISSION
+**** CONSUMER PROTECTION COMMISSION ****
 § 32.275 ESTABLISHMENT AND COMPOSITION; TERMS OF OFFICE.
    (A)   There is established in and for the city a Commission of Consumer
 Protection, the chairperson of which shall be entitled the Commissioner of
@@ -5347,7 +5348,7 @@ consumers of the city.
    No existing right or remedy shall be lost, impaired or affected by reason of
 the adoption of the ordinance codified in this subchapter.
 (2000 Code, § 2.68.030)
-CRIME PREVENTION COMMISSION
+**** CRIME PREVENTION COMMISSION ****
 § 32.290 RECITALS.
    The City Council finds that all the recitals contained in the preamble to
 the ordinance codified in this subchapter are full, true and correct, and
@@ -5403,7 +5404,7 @@ relative to law enforcement;
    (F)   Maintain media relations on crime prevention and law enforcement
 activities in Oak Forest.
 (2000 Code, § 2.70.050) (Ord. 2220, § 5, passed --1997)
-FINANCE COMMISSION
+**** FINANCE COMMISSION ****
 § 32.320 ESTABLISHMENT; COMPOSITION.
    There is established in and for the city a Finance Commission, to be
 composed of the Mayor and aldermen, the City Treasurer and a Budget Officer.
@@ -5503,7 +5504,7 @@ passed --1999)
    The Finance Commission shall meet once every month or at the call of the
 Budget Officer with two days’ notice.
 (2000 Code, § 2.80.100)
-PLANNING AND ZONING COMMISSION
+**** PLANNING AND ZONING COMMISSION ****
 § 32.340 CREATED.
    There is created a Planning and Zoning Commission, which shall consist of
 the nine members of the present Planning Commission. The Planning and Zoning
@@ -5576,7 +5577,7 @@ specified.
 written charges have been filed and after a public hearing has been held if
 demanded by the member so charged.
 (2000 Code, § 2.86.100) (Ord. 2272, § 5, passed --1997)
-SENIOR CITIZEN COMMISSION
+**** SENIOR CITIZEN COMMISSION ****
 § 32.360 ESTABLISHMENT.
    There is established a Senior Citizen Commission which shall be known as the
 Oak Forest Senior Citizen Commission.
@@ -5618,7 +5619,7 @@ for each fiscal year; and
 purposes of this subchapter, consistent with the direction of the Mayor and
 Council.
 (2000 Code, § 2.88.040) (Ord. 2006-04-0015O, passed 4-25-2006)
-YOUTH COMMISSION
+**** YOUTH COMMISSION ****
 § 32.375 ESTABLISHMENT; COMPOSITION.
    There is established in the city a Youth Commission, to be composed of 13
 members, one of whom shall serve as chairperson.
@@ -5684,7 +5685,7 @@ normal function of their duties.
    (B)   A budget line item shall be established for the Youth Commission, in
 each fiscal year budget, and shall be approved by the City Council.
 (2000 Code, § 2.94.060)
-COMMUNITY POOL COMMISSION
+**** COMMUNITY POOL COMMISSION ****
 § 32.382 ESTABLISHMENT.
    There is an establishment in the city, the Community Pool Commission to be
 composed of four members, one of whom shall serve as Chairperson appointed by
@@ -5717,7 +5718,7 @@ normal function of their duties.
 the Community Pool Commission, in each fiscal year budget, and shall be
 approved by the City Council.
 (Ord. 2017-11-0667, passed 11-14-2017)
-EMERGENCY MANAGEMENT AGENCY
+**** EMERGENCY MANAGEMENT AGENCY ****
 § 32.395 ESTABLISHMENT; COMPOSITION.
    (A)   There is established in and for the city the Oak Forest Emergency
 Management Agency (“EMA”), to prevent, minimize, repair and alleviate injury or
@@ -5931,7 +5932,7 @@ specified by the agency.
 (Ord. 2006-02-0006O, passed 2-28-2006; Am. Ord. 2009-12-0268O, passed 12-8-
 2009) Penalty, see §
 10.99
-BUREAU OF FIRE INVESTIGATION
+**** BUREAU OF FIRE INVESTIGATION ****
 § 32.425 PREAMBLES.
    The preambles recited in the ordinance codified in this subchapter shall be
 incorporated as part of this chapter.
@@ -5975,7 +5976,7 @@ Marshal’s Office; and
    (C)   Additional requirements as deemed necessary by the Fire and Police
 Chiefs.
 (2000 Code, § 2.58.060) (Ord. 2413, § 6, passed --1999)
-ECONOMIC ADVISORY COUNCIL
+**** ECONOMIC ADVISORY COUNCIL ****
 § 32.445 ESTABLISHMENT; PURPOSE.
    The Citizens’ Commission previously known as the Oak Forest Economic
 Development Commission (EDC) shall be dissolved effective with the passage of
@@ -6642,7 +6643,7 @@ regulations.
    The City of Oak Forest Finance Director shall maintain records and submit
 reports as may be required by applicable state and federal laws or regulations.
 (2000 Code, § 2.99.050) (Ord. 2799, § 6, passed - -2004)
-VETERANS COMMISSION
+**** VETERANS COMMISSION ****
 § 32.575 CREATION.
    There is hereby created a Veterans Commission in the City of Oak Forest.
 (Ord. 2008-10-0203O, passed 10-28-2008)
@@ -6682,7 +6683,7 @@ the city, recognize accomplishments of local veterans, assist veterans who may
 need help in securing benefits and, in general, be the knowledge base of
 veteran matters in the city.
 (Ord. 2008-10-0203O, passed 10-28-2008)
-BUILDING DEPARTMENT
+**** BUILDING DEPARTMENT ****
 § 32.590 ESTABLISHMENT OF DEPARTMENT.
    (A)   There is established the Building Department.
    (B)   The Building Department shall consist of the position of Building
@@ -6707,7 +6708,7 @@ activities which may be assigned.
    The Building Commissioner shall be subject to the supervision of, and shall
 report to the City Administrator, and to the Mayor.
 (Ord. 2010-04-0287O, passed 4-27-2010)
-GREEN STEPS COMMISSION
+**** GREEN STEPS COMMISSION ****
 § 32.605 ESTABLISHMENT.
    (A)   Findings.
       (1)   Oak Forest is an environmentally conscious community surrounded by
@@ -7354,7 +7355,7 @@ at the hearing. Any license suspension or revocation resulting from the hearing
 shall not relieve or discharge the civil liability for nonpayment of the tax
 due.
 (2000 Code, § 3.36.070) (Ord. 2684, § 2 (part), passed - -2002)
-GROCERY RETAILERS’ AND SERVICE OCCUPATION TAX
+**** GROCERY RETAILERS’ AND SERVICE OCCUPATION TAX ****
 § 33.070 MUNICIPAL GROCERY RETAILERS’ OCCUPATION TAX AND MUNICIPAL GROCERY
 SERVICE OCCUPATION TAX.
    (A)   Municipal Grocery Retailers' Occupation Tax.
@@ -7597,7 +7598,7 @@ January, 2007.
 this subchapter with the Illinois Department of Revenue on or before September
 20, 2006.
 (Ord. 2006-07-0046O, passed 7-11-2006)
-MUNICIPAL CANNABIS RETAILERS’ OCCUPATION TAX
+**** MUNICIPAL CANNABIS RETAILERS’ OCCUPATION TAX ****
 § 33.090 TAXES IMPOSED.
    A tax is hereby imposed upon all persons engaged in the business of selling
 cannabis, other than cannabis purchased under the Compassionate Use of Medical
@@ -11229,7 +11230,7 @@ Single-Family and Two-Family Dwellings
 Multi-Family, Commercial and Industrial Uses
    
 54.40   Specifications for garbage containers (non-residential)
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 54.01 GARBAGE CONTAINERS REQUIRED.
    Every owner, agent of such owner or occupant of a house, building, flat or
 apartment in the city, where people reside, board or lodge, or where meat or
@@ -11284,7 +11285,7 @@ administrative fees. The minimum charge for such abatement shall be $150.
    (C)   Neither the city or any of its agents shall be liable for any damage
 to property occasioned in the enforcement of this section.
 (Ord. 2008-05-0185O, passed 5-27-2008)
-SINGLE-FAMILY AND TWO-FAMILY DWELLINGS
+**** SINGLE-FAMILY AND TWO-FAMILY DWELLINGS ****
 § 54.20 SPECIFICATIONS FOR GARBAGE CONTAINERS.
    For residential property, a container shall be a commercially manufactured
 metal, rubber or plastic container which is watertight, has a close-fitting
@@ -11326,7 +11327,7 @@ the established charges for use. No other companies may service single-family
 or two-family residences other than the firm or firms that have been so
 contracted by the city.
 (Ord. 2008-05-0185O, passed 5-27-2008)
-MULTI-FAMILY, COMMERCIAL AND INDUSTRIAL USES
+**** MULTI-FAMILY, COMMERCIAL AND INDUSTRIAL USES ****
 § 54.40 SPECIFICATIONS FOR GARBAGE CONTAINERS (NONRESIDENTIAL).
    (A)   All garbage and refuse from multi-family dwellings (three or more
 units), apartments, businesses, schools, libraries, churches, lodge halls,
@@ -11411,7 +11412,7 @@ Traffic Regulation Agreement for Private Property
  
    
 70.99   Penalty
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 70.01 DEFINITIONS.
    Words and phrases used in this Traffic Code shall, for the purposes of this
 Traffic Code, have the meanings respectively ascribed to them in the Illinois
@@ -11733,7 +11734,7 @@ a registered owner of a vehicle has failed to pay any fine or penalty due and
 owing as a result of five offenses for automated traffic law violations.
 (Ord. 2007-11-01410, passed 11-27-2007; Am. Ord. 2010-12-0316O, passed 12-14-
 2010)
-VEHICLE LICENSES
+**** VEHICLE LICENSES ****
 § 70.20 LICENSE REQUIRED.
    No owner of a motor vehicle registered with the state to a city address
 within the City of Oak Forest corporate municipal limits shall use or cause or
@@ -14437,7 +14438,7 @@ or construct any structure that encroaches upon the state right-of-way on Route
 50 (Cicero Avenue) within the limits of the city.
 (2000 Code, § 12.20.030) Penalty, see §
 90.999
-TREES AND PARKWAYS
+**** TREES AND PARKWAYS ****
 § 90.100 PURPOSE.
    (A)   The purpose of this subchapter is to provide for the proper parkway
 standards and establishment of new trees, the protection and maintenance of
@@ -14673,7 +14674,7 @@ city or any of its agents, while engaging in and about the planting,
 cultivating, mulching, pruning, spraying, or removing of any street trees, park
 trees, or dead, nuisance, or diseased trees on private grounds.
 (Ord. 2008-11-0207O, passed 11-25-2008)
-HONORARY DESIGNATION OF STREETS
+**** HONORARY DESIGNATION OF STREETS ****
 § 90.120 REQUEST.
    (A)   Every request for the honorary designation of a street shall be
 presented in writing to the City Clerk.
@@ -15112,7 +15113,7 @@ by 20% until he or she has completed ten years of service in his or her
 respective department, after which he or she shall be restored to the then
 current base salary.
 (2000 Code, § 8.28.080)
-INTERNATIONAL  PROPERTY MAINTENANCE CODE
+**** INTERNATIONAL  PROPERTY MAINTENANCE CODE ****
 § 91.060 INTERNATIONAL PROPERTY MAINTENANCE CODE.
    (A)   Adoption. The City of Oak Forest adopts the 2018 International
 Property Maintenance Code and Referenced Standards and Appendix A, as published
@@ -15341,7 +15342,7 @@ subchapter of the appropriate provisions thereof and request that the violator
 cease smoking in a prohibited area and, if the person continues to smoke,
 request the person to leave.
 (Ord. 2008-02-0154O, passed 2-12-2008)
-VACANT BUILDING AND REGISTRY REGULATIONS
+**** VACANT BUILDING AND REGISTRY REGULATIONS ****
 § 91.090 DECLARATION OF POLICY.
    (A)   The purpose of this subchapter is to protect the public health,
 safety, and welfare by enactment of this subchapter which:
@@ -16650,7 +16651,7 @@ prohibited structures
  
    
 95.99   Penalty
-GENERAL PROVISIONS; ADMINISTRATION
+**** GENERAL PROVISIONS; ADMINISTRATION ****
 § 95.01 SHORT TITLE.
    This chapter shall be known and may be cited as the Oak Forest Animal
 Control Code of 2013.
@@ -16840,7 +16841,7 @@ controlled by him or her.
 (2000 Code, § 6.04.140) (Am. Ord. 2010-09- 0307O, passed 9-28-2010; Am. Ord.
 2013-03-0434O, § 2 (part), passed 3-12-2013; Am. Ord. 2018-02-0681O, passed 2-
 27-2018)
-PROHIBITIONS; RULES FOR KEEPING
+**** PROHIBITIONS; RULES FOR KEEPING ****
 § 95.25 RELEASE OF DOMESTIC ANIMALS.
    No person, other than a duly authorized employee or agent of the city, shall
 untie any domestic animal that is in an enclosure or on the premises of its
@@ -17408,7 +17409,7 @@ Chronic Nuisance Property Abatement
 96.03   Procedure
    
 96.04   Judicial remedies
-CHRONIC NUISANCE PROPERTY ABATEMENT
+**** CHRONIC NUISANCE PROPERTY ABATEMENT ****
 § 96.01 VIOLATION.
    (A)   It shall be unlawful for any property within the city to become or
 remain a chronic nuisance property in violation of this chapter.
@@ -18535,7 +18536,7 @@ Restaurants
 Cross-reference:
    Discharging sludge into sewers prohibited, see §
 110.082
-FOOD SERVICE ESTABLISHMENTS
+**** FOOD SERVICE ESTABLISHMENTS ****
 § 111.01 PURPOSE AND INTENT.
    The purpose of this subchapter is to ensure that all foods served in the
 city are served in a safe and healthful manner. This subchapter and the
@@ -22307,7 +22308,7 @@ prohibit the continuation of any violation of this subchapter.
    (C)   The application for relief may include seeking a temporary restraining
 order, temporary injunction or permanent injunction.
 (2000 Code, § 5.68.090)
-RAFFLES
+**** RAFFLES ****
 § 114.079 TITLE.
    This subchapter shall be known and may be cited as “Raffles Ordinance of the
 City of Oak Forest.”
@@ -25764,7 +25765,7 @@ the Mayor as provided in §
 110.010 of this code.
 (Ord. 2013-09-0461O, § 2 (part), passed 9-24-2013; Am. Ord. 2020-02-0785O,
 passed 2-25-2020)
-SHORT-TERM/VACATION RENTAL
+**** SHORT-TERM/VACATION RENTAL ****
 § 117.50 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -30480,7 +30481,7 @@ Section
 City Comprehensive Plan
    
 150.01   Adoption
-CITY COMPREHENSIVE PLAN
+**** CITY COMPREHENSIVE PLAN ****
 § 150.01 ADOPTION.
    The corporate authorities hereby approve the Comprehensive Plan and declare
 it to be the Official Comprehensive Plan of the City of Oak Forest.
@@ -30726,7 +30727,7 @@ Cross-reference:
 32.590 through
 32.593
    Use of groundwater as potable water supply prohibited, see § 50.08
-ADOPTION OF CODES
+**** ADOPTION OF CODES ****
 § 151.001 INTERNATIONAL BUILDING CODE.
    (A)   Adoption. The city adopts the 2018 International Building Code and
 Referenced Standards and Appendices, as published by the International Code
@@ -31362,23 +31363,23 @@ of the water pressure shall be assumed to be equal to the height of the wall.
    (D)   Coping. All masonry retaining walls, other than reinforced concrete
 walls, shall be protected with an approved coping.
 (Ord. 2008-02-0158O, passed 3-11-2008)
-NEW RESIDENTIAL BUILDINGS OR STRUCTURES AND OTHER RELATED ACTIVITIES;
-CONSTRUCTION
+**** NEW RESIDENTIAL BUILDINGS OR STRUCTURES AND OTHER RELATED ACTIVITIES;
+CONSTRUCTION ****
 § 151.035 FEES AND DEPOSITS.
    The fees for residential construction, fees for major repairs or remodeling,
 additional fees and miscellaneous fees regarding same pursuant to this
 subchapter shall be established by the City Council from time to time by
 resolution.
 (Ord. 2011-02-033O, passed 2-22-2011)
-NONRESIDENTIAL BUILDINGS OR STRUCTURES AND OTHER RELATED ACTIVITIES;
-CONSTRUCTION
+**** NONRESIDENTIAL BUILDINGS OR STRUCTURES AND OTHER RELATED ACTIVITIES;
+CONSTRUCTION ****
 § 151.050 FEES AND DEPOSITS.
    The fees for nonresidential construction, fees for major repairs or
 remodeling, additional fees and miscellaneous fees regarding same pursuant to
 this subchapter shall be established by the City Council from time to time by
 resolution.
 (Ord. 2011-02-033O, passed 2-22-2011)
-UTILITY FACILITIES IN THE PUBLIC RIGHTS-OF-WAY; CONSTRUCTION
+**** UTILITY FACILITIES IN THE PUBLIC RIGHTS-OF-WAY; CONSTRUCTION ****
 § 151.065 PREAMBLES.
    The facts and statements contained in the preambles to this subchapter are
 found to be true and correct and are hereby adopted as part of this subchapter.
@@ -32746,7 +32747,7 @@ competent jurisdiction, that portion shall be deemed a separate, distinct, and
 independent provision and the holding shall not affect the validity of the
 remaining portions hereof.
 (Ord. 2007-10-0128O, passed 10-9-2007)
-BURIAL OF CABLES
+**** BURIAL OF CABLES ****
 § 151.100 BURIAL OF CABLES AND PIPES REQUIRED.
    (A)   Every contractor, installer or other company or individual who places
 any cable, pipe or similar tubing on or across streets or municipal or private
@@ -32756,7 +32757,7 @@ pipe or tubing.
 surface.
 (2000 Code, § 15.26.010) (Ord. 2479, § 1, passed - - 2000) Penalty, see §
 151.999
-ELEVATORS, DUMBWAITERS, ESCALATORS AND MOVING WALKS
+**** ELEVATORS, DUMBWAITERS, ESCALATORS AND MOVING WALKS ****
 § 151.115 NATIONAL STANDARD SAFETY CODE.
    (A)   There is adopted by and for the city the American National Standard
 Safety Code for Elevators, Dumbwaiters, Escalators and Moving Walks (ANSI A-
@@ -32772,7 +32773,7 @@ provisions of the standard adopted in §
 151.115, the regulations which are more restrictive or which impose higher
 standards or requirements shall govern.
 (2000 Code, § 15.40.020)
-FALLOUT SHELTERS
+**** FALLOUT SHELTERS ****
 § 151.130 CONSTRUCTION STANDARDS.
    (A)   All fallout shelters shall comply with the minimum construction
 standards established by the Emergency Services and Disaster Administration in
@@ -32790,7 +32791,7 @@ forth in the International Building Code adopted in §
 under this chapter when application is made to construct a fallout shelter
 under this chapter.
 (2000 Code, § 15.48.020)
-MULTIPLE-OWNER COMPLEXES
+**** MULTIPLE-OWNER COMPLEXES ****
 § 151.145 PREAMBLES.
    The preambles recited in this ordinance codified in this chapter are
 expressly incorporated within and made a part of this chapter.
@@ -32975,7 +32976,7 @@ does not warrant that all deficiencies are listed in a certificate of housing
 inspection and does not warrant anything as to the condition of the property or
 the habitability thereof.
 (2000 Code, § 15.64.080) (Ord. 2380, Art. 8, passed - -1999)
-RENTAL MULTI-FAMILY DWELLING STRUCTURES
+**** RENTAL MULTI-FAMILY DWELLING STRUCTURES ****
 § 151.165 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -33204,7 +33205,7 @@ an appeal. At the appeal hearing, the City Council may:
       (2)   Delay the suspension and allow additional compliance time; or
       (3)   Rescind the suspension.
 (Ord. 2008-02-160O, passed 3-25-2008)
-SEWER SYSTEM CONNECTION CHARGE
+**** SEWER SYSTEM CONNECTION CHARGE ****
 § 151.185 PREAMBLES.
    The preambles are expressly incorporated into and made part of this chapter.
 (2000 Code, § 15.70.010) (Ord. 2597, § 1, passed - -2002)
@@ -33222,7 +33223,7 @@ structure shall be assessed $3,000 per rental unit.
    (D)   These amounts shall be paid at the time any building permit is issued.
 This connection charge is in addition to any now existing charges and fees.
 (2000 Code, § 15.70.020) (Ord. 2597, § 2, passed - -2002)
-SIGNS
+**** SIGNS ****
 § 151.200 MOBILE SIGNS.
    (A)   Definition. For the purpose of this section, the following definitions
 shall apply unless the context clearly indicates or requires a different
@@ -33322,7 +33323,7 @@ an injunction to prohibit the continuation of such violation. The application
 for relief may include a request for a temporary restraining order, a temporary
 injunction or a permanent injunction.
 (2000 Code, § 15.76.020)
-STORAGE OF CONSTRUCTION MATERIALS
+**** STORAGE OF CONSTRUCTION MATERIALS ****
 § 151.215 PERMIT REQUIRED; APPLICATION AND DEPOSIT.
    (A)   The owner of a new building under construction, or of an existing
 building that is being repaired or remodeled, may apply to the Director of
@@ -33424,7 +33425,7 @@ the amount of the cash deposit.
    Deposits made under this subchapter shall in no way limit the liability of
 any person for damage to city property.
 (2000 Code, § 15.80.090)
-SMALL WIRELESS FACILITIES
+**** SMALL WIRELESS FACILITIES ****
 § 151.300 PURPOSE.
    Consistent with the requirements of the Small Wireless Facilities Deployment
 Act (Public Act 100-585) (the "Act"), and in anticipation of a continued
@@ -35699,7 +35700,7 @@ antennas
 buildings or structures
    
 156.37   Public property
-SATELLITE ANTENNA DISHES
+**** SATELLITE ANTENNA DISHES ****
 § 156.01 DISH ANTENNA DEFINED.
    As used in this chapter, DISHED ANTENNA, sometimes referred to as DISH-TYPE
 SATELLITE SIGNAL-RECEIVING EARTH STATIONS, DISHED SATELLITES or EARTH STATIONS,
@@ -35808,7 +35809,7 @@ conveyance provides specifically for the dished antenna to remain in place for
 use by the successive possessor of the property, and the dished antenna is in
 acceptable condition, then this section shall not apply.
 (2000 Code, § 15.72.110)
-TELECOMMUNICATIONS FACILITIES, TOWERS AND ANTENNAS
+**** TELECOMMUNICATIONS FACILITIES, TOWERS AND ANTENNAS ****
 § 156.25 PURPOSES.
    The purposes of this chapter are to:
    (A)   Provide for the appropriate location and development of communication
@@ -37362,7 +37363,7 @@ Occupation and Use of SFHA Areas Where Floodways are not Identified
 identified
    
 159.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 159.01 PURPOSES.
    This chapter is enacted pursuant to the police powers granted to this city
 by ILCS Ch. 65, Act 5, §§ 1-1-1 et seq., 1-2-1, 11-12-12, 11-30-2, 11-30-8, and
@@ -38357,7 +38358,7 @@ regulations, but is not intended to repeal the resolution which the city passed
 in order to establish initial eligibility for the program.
 (Ord. 2008-08-0196O, passed 8-12-2008; Am. Ord. 2019-10-0759O, passed 10-22-
 2019)
-OCCUPATION AND USE OF FLOOD FRINGE AREAS
+**** OCCUPATION AND USE OF FLOOD FRINGE AREAS ****
 § 159.25 GENERAL REQUIREMENTS FOR FLOOD FRINGE AREAS.
    Development in and/or filling of the flood fringe will be permitted if
 protection is provided against the base flood or 100-year frequency flood by
@@ -38496,7 +38497,7 @@ practices.
 (Ord. 2008-08-0196O, passed 8-12-2008; Am. Ord. 2019-10-0759O, passed 10-22-
 2019) Penalty, see §
  159.99
-OCCUPATION AND USE OF DESIGNATED FLOODWAYS
+**** OCCUPATION AND USE OF DESIGNATED FLOODWAYS ****
 § 159.40 APPLICABILITY OF SUBCHAPTER.
    This subchapter applies to proposed development, redevelopment, site
 modification or building modification within a designated floodway. The
@@ -39060,8 +39061,8 @@ athletic fields, playground equipment and streambank protection activities.
 (Ord. 2008-08-0196O, passed 8-12-2008; Am. Ord. 2019-10-0759O, passed 10-22-
 2019) Penalty, see §
  159.99
-OCCUPATION AND USE OF SFHA AREAS
-WHERE FLOODWAYS ARE NOT IDENTIFIED
+**** OCCUPATION AND USE OF SFHA AREAS
+WHERE FLOODWAYS ARE NOT IDENTIFIED ****
 § 159.60 DEVELOPMENT REQUIREMENTS GENERALLY.
    In SFHA or floodplains, (including AE, AH, AO and Unnumbered A Zones) where
 no floodways have been identified and no base flood or 100-year frequency flood
