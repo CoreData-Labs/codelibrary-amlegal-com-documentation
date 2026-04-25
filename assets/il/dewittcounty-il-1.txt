@@ -2118,7 +2118,7 @@ EMPLOYEE SIGNATURE                     DATE
  
                                                                                                                                                                            
  
-                                                                                                                                                   
+                                                                                                                                                    
  
                                                                                                                                                                            
  
@@ -2403,7 +2403,7 @@ Fee Schedules
 36.30   County Clerk fee schedule
    
 36.31   Laredo subscription pricing
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 36.01 PRESUMPTION.
    All records in the custody or possession of a county are presumed to be open
 to inspection or copying. Any county that asserts that a record is exempt from
@@ -3461,7 +3461,7 @@ commenced in Cook or Sangamon County. An advisory opinion issued to the county
 shall not be considered a final decision of the Attorney General for purposes
 of this section.
 (ILCS Ch. 5, Act 140, § 11.5)
-FEE SCHEDULES
+**** FEE SCHEDULES ****
 § 36.30 COUNTY CLERK FEE SCHEDULE.
    (A)   The fees stated in this section shall be maintained within the Office
 of the County Clerk and shall be available to the public with the cost study
@@ -5625,7 +5625,7 @@ supervisor, department head, Finance Committee Chair, County Board Chair,
 respectively and to seek a remedy using these procedures before accessing state
 or federal agencies.
 (Ord. passed 11-28-2011)
-DISCRIMINATION, HARASSMENT AND SEXUAL ASSAULT POLICY
+**** DISCRIMINATION, HARASSMENT AND SEXUAL ASSAULT POLICY ****
 § 38.345 STATEMENT OF POLICY.
    (A)   It is the County of DeWitt's policy that it will not tolerate or
 condone discrimination or harassment on the basis of race, color, religion,
@@ -5889,7 +5889,7 @@ also be filed with these state agencies. For matters involving the abuse of
 minors the Illinois Department of Children and Family Services (DCFS) may be
 contacted by dialing 800-25-ABUSE.
 (Res. 2019-05, passed 12-19-2019)
-IDENTITY PROTECTION POLICY
+**** IDENTITY PROTECTION POLICY ****
 § 38.365 PROHIBITED CONDUCT.
    (A)   No county employee or official shall publicly post or display in any
 manner an individual's social security number.
@@ -6005,7 +6005,7 @@ employees.
    In the event of a conflict with the Illinois Identity Protection Act and
 this section state law shall control.
 (Res. 2017-14A, passed 12-21-2017)
-NURSING MOTHER POLICY
+**** NURSING MOTHER POLICY ****
 § 38.380 NURSING MOTHER POLICY.
    (A)   The County of DeWitt shall make reasonable efforts to provide a
 private room or other location, in close proximity to the work area, other than
@@ -6037,7 +6037,7 @@ baby, The County of DeWitt shall provide reasonable break time as needed by the
 employee unless to do so would create an undue hardship as defined by item (j)
 of Section 2-102 of the Illinois Human Rights Act.
 (Res. 2019-03, passed 3-21-2019)
-MULTI-FACTOR AUTHENTICATION  POLICY AND PROCEDURES
+**** MULTI-FACTOR AUTHENTICATION  POLICY AND PROCEDURES ****
 § 38.385 PURPOSE.
    (A)   Two-factor authentication (2FA) is required to be used by all DeWitt
 County users with access to DeWitt County data and systems or with access to
@@ -7003,7 +7003,7 @@ of water from possible contamination.
 ground.
    (F)   No contamination of drinking water.
 (Ord. passed 11-19-2015)
-REQUIRED AREA
+**** REQUIRED AREA ****
 § 52.015 MINIMUM LOT SIZE.
    Minimum lot size for a residential structure served with a public water
 system but requiring a private sewage disposal system shall be 20,000 square
@@ -7026,7 +7026,7 @@ proposed subdivision will be able to support the installation and subsequent
 use of an approved private sewage disposal system as defined in the Illinois
 Private Sewage Disposal Licensing Act and Code.
 (Ord. passed 11-19-2015)
-PERMIT REGULATIONS
+**** PERMIT REGULATIONS ****
 § 52.030 PERMIT REQUIRED.
    It shall be unlawful for any person to construct, alter, or extend
 individual sewage disposal systems within DeWitt County unless he or she holds
@@ -7081,7 +7081,7 @@ disposal system which is to be paid to the Health Department upon application.
 The fee will be returned to the applicant if a permit is denied. The fee has
 been established by the Board of Health and is reviewed annually.
 (Ord. passed 11-19-2015)
-REGISTRATIONS
+**** REGISTRATIONS ****
 § 52.050 PRIVATE SEWAGE CONTRACTORS LICENSE.
    All private sewage contractors must possess a valid license and fulfill all
 requirements for annual renewal set forth by the Illinois Department of Public
@@ -7103,7 +7103,7 @@ transports or maintains portable toilets or hand washing units shall be
 licensed as a portable sanitation business. Approval must be received from the
 Illinois Department of Public Health.
 (Ord. passed 11-19-2015)
-COMPLIANCE AND PERFORMANCE
+**** COMPLIANCE AND PERFORMANCE ****
 § 52.065 INSTALLATION AND SERVICE.
    All private sewage disposal systems within the limits of DeWitt County,
 shall be installed, modified or serviced by an individual with a valid Illinois
@@ -7128,13 +7128,13 @@ disposal system for his or her property shall be the same as the minimum
 performance standards promulgated under authority granted in the current
 Illinois Private Sewage Disposal Licensing Act and Code.
 (Ord. passed 11-19-2015)
-SUBSURFACE SEEPAGE FIELDS
+**** SUBSURFACE SEEPAGE FIELDS ****
 § 52.080 INSTALLATION AS COMPONENT PART.
    Where a subsurface seepage field is installed as a component part of a
 private sewage disposal system, the seepage field shall be in accordance with
 the Private Sewage Disposal Licensing Act and Code.
 (Ord. passed 11-19-2015)
-SURFACE DISCHARGING SYSTEMS
+**** SURFACE DISCHARGING SYSTEMS ****
 § 52.095 NATIONAL POLLUTION DISCHARGE ELIMINATION SYSTEM PERMIT.
    (A)   In accordance with the Private Sewage Disposal Code, all surface
 discharging private sewage disposal systems that enter the waters of the State
@@ -7149,14 +7149,14 @@ compliance with the terms and conditions of the permit.
    (D)   A permit application along with the NPDES permit must be submitted to
 the Health Department prior to installation.
 (Ord. passed 11-19-2015)
-ALTERNATIVE SYSTEMS
+**** ALTERNATIVE SYSTEMS ****
 § 52.110 ALTERNATIVE SYSTEMS.
    Alternative systems or alternative technologies not listed in the Private
 Sewage Disposal Code as an approved means of sewage disposal must receive
 approval from the Illinois Department of Public Health before a permit is to be
 issued by the Health Department.
 (Ord. passed 11-19-2015)
-PERIMETER DRAINS (CURTAIN DRAINS)
+**** PERIMETER DRAINS (CURTAIN DRAINS) ****
 § 52.125 PRESENCE OF HIGH WATER TABLE OR LIMITING LAYER.
    If the soil survey indicates the presence of a high water table or limiting
 layer that is less than two feet of vertical separation from the subsurface
@@ -7187,7 +7187,7 @@ seasonally high water table or limiting layer.
    (B)   If a variance is denied, alternative technology may be required after
 approval is granted from the Illinois Department of Public Health.
 (Ord. passed 11-19-2015)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 52.140 ENFORCEMENT.
    (A)   Private sewage disposal systems constructed prior to the effective
 date of this chapter shall be updated to comply with the requirements of this
@@ -8316,7 +8316,7 @@ neutered within 14 days.
    (U)   Registration late fee (each 30 days late): $5.
 (Res. passed 12-17-2015; Res. 2016-02, passed 1-21-2016; Res. 23-11, passed 5-
 18-2023)
-DOGS
+**** DOGS ****
 § 90.090 COLLAR REQUIRED.
    No person shall own, possess, keep, maintain or harbor any dog without
 providing the dog with a collar to be worn at all times.
@@ -9225,7 +9225,7 @@ specifications shall be submitted to the regulatory authority. Said plans shall
 indicate layout and arrangement of the work area(s) along with product
 specification sheets for all equipment to be purchased and used.
 (Ord. passed 6-18-2009; Am. Ord. passed 5-30-2018)
-PERMITS
+**** PERMITS ****
 § 111.020 GENERALLY.
    No person shall operate a food service establishment, retail food store,
 vending operation, seasonal food operation, or mobile food unit within the
@@ -9319,7 +9319,7 @@ operations within the food service establishment. In such case, the permit
 holder must immediately surrender the suspended or invalid permit to the
 regulatory authority.
 (Ord. passed 6-18-2009; Am. Ord. passed 5-30-2018)
-INSPECTION PROTOCOL
+**** INSPECTION PROTOCOL ****
 § 111.040 CLASSIFICATION.
    The regulatory authority shall determine a risk category of Category I: High
 Risk; Category II: Medium Risk; or Category III: Low Risk for each food
@@ -9434,7 +9434,7 @@ authority confirms that the conditions responsible for the requirement to cease
 operations no longer exist. The regulatory authority shall offer an opportunity
 for a follow-up inspection within a reasonable time frame.
 (Ord. passed 6-18-2009; Am. Ord. passed 5-30-2018)
-TEMPORARY FOOD OPERATIONS
+**** TEMPORARY FOOD OPERATIONS ****
 § 111.060 RULES AND REGULATIONS.
    Temporary food operations operating within the jurisdictional boundaries of
 the regulatory authority shall comply with the rules and regulations of set
@@ -9456,7 +9456,7 @@ time by the regulatory authority.
 suspension or revocation. Serious offenses may result in permanent exclusion of
 operations in the County of DeWitt, State of Illinois.
 (Ord. passed 5-30-2018)
-HOME KITCHEN OPERATION
+**** HOME KITCHEN OPERATION ****
 § 111.075 QUALIFICATIONS FOR A HOME KITCHEN OPERATION.
    In order to qualify as a home kitchen operation, the following conditions
 must be met:
@@ -9487,7 +9487,7 @@ the operation is non-compliant with the investigative process, the regulatory
 authority may seek a court order for cessation of a home kitchen operation or
 food sales by a religious or charitable organization.
 (Ord. passed 5-30-2018)
-EXAMINATION AND CONDEMNATION OF FOOD AND/OR EQUIPMENT
+**** EXAMINATION AND CONDEMNATION OF FOOD AND/OR EQUIPMENT ****
 § 111.090 FOOD.
    The regulatory may examine or sample food as often as may be necessary to
 determine whether it is free from adulteration. The regulatory authority may,
@@ -16814,7 +16814,7 @@ application
 157.15   Complaints
    
 157.16   Remedies
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 157.01 TITLE.
    This chapter shall be known as, referred to or cited as the “DeWitt County
 Solar Energy Systems Ordinance of DeWitt County, Illinois.”
