@@ -66,7 +66,7 @@ Chapter 33
 Chapter 30
    Mayor and Board of Aldermen, see
 Chapter 32
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 10.01 CONTENTS OF CODE.
    This code contains all ordinances of a general and permanent nature of the
 city, and includes ordinances dealing with municipal administration, municipal
@@ -264,7 +264,7 @@ words importing the singular number, the plural and separate matters and
 persons and bodies corporate shall be deemed to be included; and when words
 importing the plural number are used, the singular shall be included.
 (Prior Code, § 100.210)
-CITY INCORPORATION AND SEAL
+**** CITY INCORPORATION AND SEAL ****
 § 10.30 MUNICIPAL INCORPORATION.
    The inhabitants of the city, as its limits now are, or may hereafter be
 defined by law, shall be and continue a body corporate by the name of “The City
@@ -348,7 +348,7 @@ Emergency Management
 30.08   Oath
    
 30.09   Office space
-EMERGENCY MANAGEMENT
+**** EMERGENCY MANAGEMENT ****
 § 30.01 ESTABLISHMENT.
    There is hereby created within and for the city an emergency management
 organization to be known as the “city’s Emergency Management Organization”,
@@ -454,7 +454,7 @@ General Provisions
 31.05   Notice of elections
    
 31.06   At-large elections
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 CONFORMANCE OF CITY ELECTIONS WITH STATE LAW.
    All city elections shall be conducted and held in conformance with the
 provisions of RSMo. Chapter 115.
@@ -575,7 +575,7 @@ Board of Meetings
 32.33   Absence from meetings; fine; dismissal
    
 32.34   Chief of Police and city officials attendance at Aldermen meetings
-GENERALLY
+**** GENERALLY ****
 § 32.01 ALDERMEN, QUALIFICATIONS.
    No person shall be an Alderman unless he or she be at least 21 years of age,
 a citizen of the United States, and an inhabitant and resident of the city for
@@ -712,7 +712,7 @@ but this section shall not be so construed as to authorize the Mayor to remit
 any costs which may have accrued to any officer of said city by reason of any
 prosecution under the laws or ordinances of such city.
 (Prior Code, § 110.160)
-BOARD OF MEETINGS
+**** BOARD OF MEETINGS ****
 § 32.30 REGULAR MEETINGS.
    The Board of Aldermen shall meet in regular session at the City Hall at 6:00
 p.m. on the first Wednesday of each month; provided however, that when such day
@@ -793,7 +793,7 @@ Miscellaneous Provisions
 33.080   Officers to report receipts and expenditures
    
 33.081   Mayor or Board may inspect books and records of officers
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.001 ELECTIVE OFFICERS; TERMS.
    The following officers shall be elected by the qualified voters of the city
 and shall hold office for the term of two years, except as provided in this
@@ -883,7 +883,7 @@ connected with the city government, not herein defined, shall be prescribed by
 ordinance; bonds may be required of any such officers for faithfulness in
 office in all respects.
 (Prior Code, § 115.080)
-CITY CLERK
+**** CITY CLERK ****
 § 33.020 ELECTION AND DUTIES.
    The Board of Aldermen shall elect a Clerk for such Board, to be known as
 “the City Clerk”, whose duties and term of office shall be fixed by ordinance.
@@ -895,7 +895,7 @@ empowered to administer official oaths and oaths to persons certifying to
 demands or claims against the city. The City Clerk shall serve at the pleasure
 of the Board.
 (Prior Code, § 115.090) (Ord. 146, passed 10-1-1970)
-CITY TREASURER
+**** CITY TREASURER ****
 § 33.035 TREASURER DUTIES.
    The Treasurer shall receive and safely keep all monies, warrants, books,
 bonds, and obligations entrusted to his or her care, and shall pay over all
@@ -905,7 +905,7 @@ attested by the City Clerk, and having the seal of the city affixed thereto,
 and not otherwise; and shall perform such other duties as may be required of
 him or her by ordinance.
 (Prior Code, § 115.100) (Ord. 237, passed 10-6-1987)
-CITY COLLECTOR
+**** CITY COLLECTOR ****
 § 33.050 APPOINTMENT.
     The City Collector shall be elected as set out in
 Chapter 31.
@@ -951,7 +951,7 @@ Aldermen, and when such Deputy Collector shall have taken and subscribed to the
 oath provided by this code, he or she shall possess all the qualifications and
 powers and be charged with the same duties as the Collector.
 (Prior Code, § 115.140)
-CITY ATTORNEY
+**** CITY ATTORNEY ****
 § 33.065 APPOINTMENT; TERM.
    (A)   The Mayor, with the advice and consent of the Board of Aldermen, at
 the first meeting after each annual city election, shall appoint a suitable
@@ -960,7 +960,7 @@ appointed and qualified.
    (B)   No person shall be appointed to the office of City Attorney unless he
 or she be a licensed and practicing attorney at law in this state.
 (Prior Code, § 115.150)
-MISCELLANEOUS PROVISIONS
+**** MISCELLANEOUS PROVISIONS ****
 § 33.080 OFFICERS TO REPORT RECEIPTS AND EXPENDITURES.
    It shall be the duty of all the officers of the city to report annually to
 the Board of Aldermen, such reports to embrace a full statement of the receipts
@@ -1009,7 +1009,7 @@ Open Meetings and Records Policy
 34.052   Closed records and votes
    
 34.053   Public notice board
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.001 FEDERAL OLD-AGE, SURVIVORS, DISABILITY, AND HEALTH INSURANCE.
    (A)   It is hereby declared to be the policy and purpose of the city to
 extend to all eligible employees and officials of said city who are not
@@ -1081,7 +1081,7 @@ Internal Revenue Service to this city with respect to said plan and agreement
 shall be addressed to: City of Otterville, PO Box 58, Otterville, Missouri
 65348.
 (Prior Code, § 135.010) (Ord. 243, passed 12-6-1988)
-IDENTITY THEFT PREVENTION PROGRAM
+**** IDENTITY THEFT PREVENTION PROGRAM ****
 § 34.015 PURPOSE.
    (A)   The city (the “utility”) has developed this identity theft prevention
 program (“program”) pursuant to the Federal Trade Commission’s (FTC) Red Flag
@@ -1276,7 +1276,7 @@ and procedures in place; and
       (2)   Requiring, by contract, that service providers review the utility’s
 program and report any red flags to the Program Administrator.
 (Ord. passed - -)
-SEARCH WARRANTS
+**** SEARCH WARRANTS ****
 § 34.035 DEFINITION; WHO MAY ISSUE.
    (A)   An administrative search warrant is a written order of the Municipal
 Judge commanding the search or inspection of any property, place, or thing, and
@@ -1423,7 +1423,7 @@ inspected, entered upon, or seized with sufficient certainty;
    (G)   If it was not executed and the required return made within ten days
 after the date of the making of the application.
 (Ord. 340, passed 3-5-2005)
-OPEN MEETINGS AND RECORDS POLICY
+**** OPEN MEETINGS AND RECORDS POLICY ****
 § 34.050 CITY TO COMPLY.
    The city, and all elected officials and staff, will comply with the
 provisions of RSMo. Chapter 610, as amended from time to time.
@@ -1613,14 +1613,14 @@ Sales Tax
  
    
 36.999   Penalty
-FISCAL YEAR
+**** FISCAL YEAR ****
 § 36.001 FISCAL YEAR ESTABLISHED.
    The fiscal year for the city shall begin January and end December of each
 year and all city budgets, audits, and other statutory requirements shall be
 prepared on a fiscal year, and all required matters concerning same be required
 to use such dates for those statutory and other necessary purposes.
 (Prior Code, § 130.010)
-BUDGET
+**** BUDGET ****
 § 36.015 BUDGET; WHEN.
    Prior to the commencement of each fiscal year, the Mayor, City Clerk, City
 Collector, and Chief of Police shall submit a detailed estimate of the expenses
@@ -1692,7 +1692,7 @@ adopts a resolution setting forth the facts and reasons making the increase
 necessary and approves or adopts an order, motion, resolution, or ordinance to
 authorize the expenditures.
 (Prior Code, § 130.050)
-LEVY OF TAXES
+**** LEVY OF TAXES ****
 § 36.030 BOARD TO PROVIDE FOR LEVY AND COLLECTION OF TAXES; FIX PENALTIES.
    The Board of Aldermen shall, from time to time, provide by ordinance for the
 levy and collection of all taxes, licenses, wharfage, and other duties not
@@ -1733,7 +1733,7 @@ the same rules and regulations as are or may be provided by law for the
 collection and enforcement of the payment of state and county taxes, including
 fees, penalties, commissions, and other charges.
 (Prior Code, § 130.100)
-PURCHASING
+**** PURCHASING ****
 § 36.045 EXPENDITURES IN EXCESS OF $1,000.
    Neither the Mayor, City Clerk, City Collector, Chief of Police, or other
 city official and no committee shall incur any indebtedness in the
@@ -1819,7 +1819,7 @@ Clerk and legally due or refuses to approve any requisition, said account,
 claim, or demand or requisition may be called up for consideration by the Board
 on motion duly seconded of any member of the Board.
 (Prior Code, § 130.230) (Ord. 146, passed 10-1-1970)
-SALES TAX
+**** SALES TAX ****
 § 36.065 CITY SALES TAX.
    A city sales tax, at the rate of 1% on the receipts from the sale at retail
 of all tangible personal property or taxable services at retail within the
@@ -2431,7 +2431,7 @@ Backflow Prevention Policy
  
    
 51.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.001 COMBINED WATERWORKS AND SEWERAGE SYSTEMS.
    (A)   It is hereby found, determined, and declared to be necessary for the
 public health, safety, welfare, and benefit of the city, and its inhabitants,
@@ -2485,7 +2485,7 @@ to reconnection and, in addition to all normal charges associated with
 reconnection due to disconnection of water service, an additional $100 charge
 for violation of this section.
 (Prior Code, § 700.030) (Ord. 322, passed 7-26-2003)
-SUPERINTENDENT OF MAINTENANCE OF THE WATERWORKS SYSTEM
+**** SUPERINTENDENT OF MAINTENANCE OF THE WATERWORKS SYSTEM ****
 § 51.015 ESTABLISHMENT OF OFFICE.
    There is hereby established the office of Superintendent of Maintenance of
 the Waterworks System of the city.
@@ -2766,7 +2766,7 @@ by any promise, agreement, or representation with reference to the operation
 and maintenance of said waterworks system, unless such authority is given in
 writing, signed by the Mayor, and attested by the City Clerk.
 (Prior Code, § 705.190) (Ord. 213, passed 5-3-1983)
-LEAD BAN POLICY
+**** LEAD BAN POLICY ****
 § 51.050 LEAD BAN; GENERAL POLICY.
    (A)   Purpose. The purpose of this subchapter is:
       (1)   To ban the use of lead materials in the public drinking water
@@ -2815,7 +2815,7 @@ modifications of the drinking water plumbing after January 1, 1989.
 service shall be disconnected until such time that the drinking water plumbing
 is lead free.
 (Prior Code, § 705.230) (Ord. 295, passed 8-3-1999)
-BACKFLOW PREVENTION POLICY
+**** BACKFLOW PREVENTION POLICY ****
 § 51.065 PURPOSE.
    The purpose of this subchapter is to protect the public potable water supply
 of the city by containing within the customer’s internal distribution system or
@@ -3121,7 +3121,7 @@ Cross-Connection Control
  
    
 52.99   Penalty
-PUBLIC AND PRIVATE SEWERS
+**** PUBLIC AND PRIVATE SEWERS ****
 § 52.01 RULES AND REGULATIONS.
    The following rules and regulations are hereby adopted to govern the sewer
 services furnished by the municipality in a uniform manner for the benefit of
@@ -3414,7 +3414,7 @@ and identification shall be permitted to enter upon all properties for the
 purpose of inspection, observation, measurement, sampling, and testing in
 accordance with the provisions of this chapter.
 (Prior Code, § 710.140) (Ord. 204A, passed 8-9-1983)
-USER CHARGE SYSTEM
+**** USER CHARGE SYSTEM ****
 § 52.25 PURPOSE.
    (A)   It is determined and declared to be necessary and conducive to the
 protection of the public health, safety, welfare, and convenience of the city,
@@ -3590,7 +3590,7 @@ charge rates due to the above stated circumstances.
 each user as to any change of the user charge rate and the effective date of
 that change.
 (Prior Code, § 715.060) (Ord. 395, passed 1-6-2010)
-CROSS-CONNECTION CONTROL
+**** CROSS-CONNECTION CONTROL ****
 § 52.45 GENERAL POLICY.
    (A)   Purpose. The purpose of this subchapter is:
       (1)   To protect the public potable water supply from contamination or
@@ -4226,7 +4226,7 @@ Golf Carts and Motorized Wheel Chairs
  
    
 71.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 71.001 RECORDS OF TRAFFIC VIOLATIONS.
    (A)   The Police Department shall keep a record of all violations of the
 traffic ordinances of the city or of the state vehicle laws of which any person
@@ -4299,7 +4299,7 @@ for more than 90 days.
    (B)   The City Traffic Engineer may test traffic control devices under
 actual conditions of traffic.
 (Prior Code, § 305.080)
-DRIVER’S LICENSES
+**** DRIVER’S LICENSES ****
 § 71.020 DRIVING WHILE LICENSE SUSPENDED OR REVOKED.
    A person commits the offense of driving while revoked if he or she operates
 a motor vehicle on a highway when his or her license or driving privilege has
@@ -4499,7 +4499,7 @@ purchaser may drive such a motor vehicle or trailer without compliance with the
 foregoing license requirements.
 (Prior Code, § 390.130) Penalty, see §
 71.999
-INSURANCE
+**** INSURANCE ****
 § 71.045 FINANCIAL RESPONSIBILITY REQUIRED.
    (A)   No owner of a motor vehicle registered in this state or required to be
 registered in this state shall operate the vehicle, or authorize any other
@@ -4582,7 +4582,7 @@ person knowingly shall make, sell, or otherwise make available an invalid or
 counterfeit insurance card.
 (Ord. 303, passed 8-1-2000) Penalty, see §
 71.999
-PEDESTRIANS’ RIGHTS AND DUTIES
+**** PEDESTRIANS’ RIGHTS AND DUTIES ****
 § 71.060 PEDESTRIANS SUBJECT TO TRAFFIC CONTROL DEVICES.
    Pedestrians shall be subject to traffic control signals as heretofore
 declared in §§
@@ -4658,7 +4658,7 @@ pedestrian upon any roadway and shall give warning by sounding the horn when
 necessary and shall exercise proper precaution upon observing any child or any
 confused or incapacitated person upon a roadway.
 (Prior Code, § 345.080)
-BICYCLES AND MOTORIZED BICYCLES
+**** BICYCLES AND MOTORIZED BICYCLES ****
 § 71.080 BICYCLE AND MOTORIZED BICYCLE, DEFINED.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4735,7 +4735,7 @@ requirements for construction and equipment of MOPEDS, Regulation VESC-17,
 approved July, 1977, as promulgated by the Vehicle Equipment Safety Commission.
 (Prior Code, § 385.080) Penalty, see §
 71.999
-GOLF CARTS AND MOTORIZED WHEEL CHAIRS
+**** GOLF CARTS AND MOTORIZED WHEEL CHAIRS ****
 § 71.100 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5274,7 +5274,7 @@ when
  
    
 74.999   Penalty
-SPEED REGULATIONS
+**** SPEED REGULATIONS ****
 § 74.001 STATE SPEED LAWS APPLICABLE.
    The state traffic laws regulating the speed of vehicles shall be applicable
 upon all streets within the city, except that the city may by ordinance declare
@@ -5316,7 +5316,7 @@ Schedule I at a rate of speed in excess of that speed limit set for such
 portions of the roadways by said Schedule.
 (Prior Code, § 320.050) Penalty, see §
 74.999
-TURNING MOVEMENTS
+**** TURNING MOVEMENTS ****
 § 74.020 REQUIRED POSITION AND METHOD OF TURNING AT INTERSECTION.
    The driver of a vehicle intending to turn at an intersection shall do so as
 follows.
@@ -5372,7 +5372,7 @@ upon any other street so turn a vehicle unless such movement can be made in
 safety and without interfering with other traffic.
 (Prior Code, § 325.050) Penalty, see §
 74.999
-MISCELLANEOUS DRIVING RULES
+**** MISCELLANEOUS DRIVING RULES ****
 § 74.035 FOLLOWING FIRE APPARATUS PROHIBITED.
    The driver of any vehicle other than one on official business shall not
 follow any fire apparatus traveling in response to a fire alarm closer than 500
@@ -5784,7 +5784,7 @@ this section.
 section shall be fined up to $500 and/or up to 90 days in jail for each such
 violation.
 (Ord. 479, passed 9-4-2024)
-ALCOHOL-RELATED TRAFFIC OFFENSES
+**** ALCOHOL-RELATED TRAFFIC OFFENSES ****
 § 74.070 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5937,7 +5937,7 @@ Truck Routes
  
    
 75.99   Penalty
-ONE-WAY STREETS AND ALLEYS
+**** ONE-WAY STREETS AND ALLEYS ****
 § 75.01 AUTHORITY TO SIGN ONE-WAY STREETS AND ALLEYS.
    Whenever any ordinance of the city designates any one-way street or alley,
 the City Traffic Engineer shall place and maintain signs giving notice thereof,
@@ -5967,7 +5967,7 @@ violation of such markings, signs, barriers, or other devices so placed in
 accordance with this section.
 (Prior Code, § 330.030) Penalty, see §
 75.99
-STOP AND YIELD INTERSECTIONS, RAILROAD CROSSINGS
+**** STOP AND YIELD INTERSECTIONS, RAILROAD CROSSINGS ****
 § 75.15 THROUGH STREETS DESIGNATED.
    Those streets and parts of streets described by ordinances of the city are
 declared to be through streets for the purposes of this subchapter.
@@ -6061,7 +6061,7 @@ crossing gate or barrier at a railroad crossing while such gate or barrier is
 closed or is being opened or closed.
 (Prior Code, § 335.090) Penalty, see §
 75.99
-TRUCK ROUTES
+**** TRUCK ROUTES ****
 § 75.35 DEFINITIONS.
    (A)   Rules of construction. Any word or term not defined herein shall be
 considered to be defined in accordance with its common or standard definition.
@@ -6238,7 +6238,7 @@ certain streets
  
    
 76.999   Penalty
-METHOD OF PARKING
+**** METHOD OF PARKING ****
 § 76.001 STANDING OR PARKING CLOSE TO CURB.
    Except as otherwise provided in this chapter, every vehicle stopped or
 parked upon a roadway where there are adjacent curbs shall be so stopped or
@@ -6297,7 +6297,7 @@ traffic. The foregoing provisions shall not apply to a motor-driven cycle.
    (C)   Any lighted headlamps upon a parked vehicle shall be depressed or
 dimmed.
 (Prior Code, § 350.050)
-STOPPING, STANDING, OR PARKING PROHIBITED IN SPECIFIED PLACES
+**** STOPPING, STANDING, OR PARKING PROHIBITED IN SPECIFIED PLACES ****
 § 76.020 STOPPING, STANDING, OR PARKING PROHIBITED.
    (A)   Except when necessary to avoid conflict with other traffic, or in
 compliance with law or the directions of a police officer or official traffic
@@ -6456,7 +6456,7 @@ after ten days, a complaint may be filed against the offender in the Municipal
 Division of the Circuit Court, and the violator shall be subject to penalties
 therein prescribed for such violation.
 (Prior Code, § 355.110) (Ord. 298, passed 2-1-2000; Ord. 332, passed 4-3-2004)
-STOPPING FOR LOADING OR UNLOADING ONLY
+**** STOPPING FOR LOADING OR UNLOADING ONLY ****
 § 76.045 CITY TRAFFIC ENGINEER TO DESIGNATE CURB LOADING ZONES.
    The City Traffic Engineer is hereby authorized to determine the location of
 passenger and freight curb loading zones and shall place and maintain
@@ -6529,8 +6529,8 @@ does not interfere with any bus or taxicab waiting to enter or about to enter
 such zone.
 (Prior Code, § 360.070) Penalty, see §
 76.999
-STOPPING, STANDING, OR PARKING RESTRICTED OR PROHIBITED
-ON CERTAIN STREETS
+**** STOPPING, STANDING, OR PARKING RESTRICTED OR PROHIBITED
+ON CERTAIN STREETS ****
 § 76.065 APPLICATION OF CHAPTER.
    The provisions of this Title prohibiting the standing or parking of a
 vehicle shall apply at all times or at those times herein specified or as
@@ -6610,7 +6610,7 @@ stopped
 77.23   Warning of arrest sent upon failure to appear
    
 77.24   Police may remove vehicle
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 77.01 VIOLATIONS OF TRAFFIC ORDINANCES AND LAWS.
    (A)   The judge of the court in which violations of the municipal ordinances
 are heard may establish a Traffic Violations Bureau to assist the court with
@@ -6663,7 +6663,7 @@ records shall be public records.
 prescribed by the traffic ordinances of the city or as may be required by any
 laws of this state.
 (Prior Code, § 370.040)
-PROCEDURE ON ARREST
+**** PROCEDURE ON ARREST ****
 § 77.20 FORMS AND RECORDS OF TRAFFIC CITATIONS AND ARRESTS.
    (A)   The city shall provide books containing uniform traffic tickets as
 prescribed by Supreme Court Rule. Said books shall include serially numbered
@@ -6794,7 +6794,7 @@ Cross-reference:
 Ch. 76
    Vehicle regulations, see
 Ch. 74
-LIGHT REGULATIONS
+**** LIGHT REGULATIONS ****
 § 78.01 WHEN LIGHTS REQUIRED.
    (A)   WHEN LIGHTED LAMPS ARE REQUIRED means at any time from a half hour
 after sunset to a half hour before sunrise and at any other time when there is
@@ -6967,7 +6967,7 @@ no more than six feet from the ground and shall be visible from the front and
 the back of the vehicle at a distance of at least 500 feet.
 (Prior Code, § 380.130) Penalty, see §
 10.99
-OTHER VEHICLE EQUIPMENT
+**** OTHER VEHICLE EQUIPMENT ****
 § 78.25 OTHER EQUIPMENT OF MOTOR VEHICLES.
    (A)   Signaling devices. Every motor vehicle shall be equipped with a horn,
 directed forward, or whistle in good working order, capable of emitting a sound
@@ -7742,7 +7742,7 @@ Weeds, High Grass, or Other Vegetation
  
    
 91.99   Penalty
-GENERALLY
+**** GENERALLY ****
 § 91.01 NUISANCES AFFECTING HEALTH.
    (A)   Nuisances generally. The following are declared to be nuisances
 affecting health:
@@ -7863,7 +7863,7 @@ streets, sidewalks, parking lots, public parks or recreation areas, and private
 property. The provisions of this section shall not apply to a guide dog
 accompanying any blind person.
 (Prior Code, § 215.020)
-ABANDONED PROPERTY
+**** ABANDONED PROPERTY ****
 § 91.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8244,7 +8244,7 @@ property, if available, and shall be lawful proof of ownership for any dealer
 registered under the provisions of RSMo. §§ 301.218 or 301.560, or for any
 other person.
 (Ord. 304, passed 8-1-2000)
-WEEDS, HIGH GRASS, OR OTHER VEGETATION
+**** WEEDS, HIGH GRASS, OR OTHER VEGETATION ****
 § 91.35 PROPERTY MAINTENANCE.
    (A)   Failure to keep weeds, high grass, and other vegetation cut and
 removed. All persons owning or occupying any lot or tract of land in the city
@@ -8906,9 +8906,8 @@ Marijuana Businesses
 111.35   Residential consumption
    
 111.36   Possession or consumption prohibited
-   
-111.37   Public consumption
-ELECTRIC SERVICE
+****    111.37   Public consumption ****
+**** ELECTRIC SERVICE ****
 § 111.01 OCCUPATIONAL TAX.
    Every person, firm, or corporation engaged in the business of manufacturing,
 transmitting, distributing and selling electricity for lighting, heating, and
@@ -8939,7 +8938,7 @@ receipts of electric utilities without reduction, notwithstanding any periodic
 fluctuations in the tariffs of such utility, corporations or any notice
 thereof, including, but not limited to, notice sent under RSMo. § 393.275
 (Ord. 408, passed 9-14-2011)
-TELECOMMUNICATION COMPANIES
+**** TELECOMMUNICATION COMPANIES ****
 § 111.15 TELECOMMUNICATION COMPANIES BUSINESS LICENSE TAX.
    (A)   The Board of Aldermen adopt, pursuant to the Municipal
 Telecommunications Business License Simplification Act (hereinafter referred to
@@ -8967,7 +8966,7 @@ discretion to protect the interest of the city with respect to this section,
 HB209, and Ordinance 283 of the city and the validity of any action of this
 Board pursuant thereto.
 (Ord. 360, passed 5-6-2006)
-MARIJUANA BUSINESS
+**** MARIJUANA BUSINESS ****
 § 111.25 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. Any term
@@ -10336,8 +10335,7 @@ prohibited; violations
 public places prohibited
    
 130.108   Driving under the influence of marijuana
-   
-130.109   Additional motor vehicle offenses involving marijuana
+*****    130.109   Additional motor vehicle offenses involving marijuana *****
 Offenses Concerning Minors
    
 130.120   Definitions
@@ -10369,7 +10367,7 @@ traffic
  
    
 130.999   Penalty
-OFFENSES AGAINST THE PERSON
+**** OFFENSES AGAINST THE PERSON ****
 § 130.001 ASSAULT.
    A person commits the offense of assault if:
    (A)   He or she attempts to cause or recklessly causes physical injury to
@@ -10441,7 +10439,7 @@ state.
 130.999
 Editor’s note:
    Under certain circumstances this offense can be a felony under state law
-OFFENSES CONCERNING ADMINISTRATION OF JUSTICE
+**** OFFENSES CONCERNING ADMINISTRATION OF JUSTICE ****
 § 130.020 CONCEALING AN OFFENSE.
    A person commits the offense of concealing an offense if:
    (A)   He or she confers or agrees to confer any pecuniary benefit or other
@@ -10596,7 +10594,7 @@ he or she escapes or attempts to escape from custody.
 130.999
 Editor’s note:
    Under certain circumstances this offense can be a felony under state law
-OFFENSES CONCERNING PUBLIC SAFETY
+**** OFFENSES CONCERNING PUBLIC SAFETY ****
 § 130.040 ABANDONMENT OF AIRTIGHT OR SEMI-AIRTIGHT CONTAINERS.
    (A)   A person commits the offense of abandonment of airtight icebox if he
 or she abandons, discards, or knowingly permits to remain on premises under his
@@ -10647,7 +10645,7 @@ government or on any private real property owned by another without his or her
 consent.
 (Prior Code, § 210.200) Penalty, see §
 130.999
-OFFENSES CONCERNING PUBLIC PEACE
+**** OFFENSES CONCERNING PUBLIC PEACE ****
 § 130.055 PEACE DISTURBANCE.
    A person commits the offense of peace disturbance if:
    (A)   He or she unreasonably and knowingly disturbs or alarms another person
@@ -10763,7 +10761,7 @@ fails or refuses to obey the lawful command of a law enforcement officer to
 depart from the scene of such unlawful assembly or riot.
 (Prior Code, § 210.280) Penalty, see §
 130.999
-OFFENSES CONCERNING PROPERTY
+**** OFFENSES CONCERNING PROPERTY ****
 § 130.075 TAMPERING.
    (A)   A person commits the offense of tampering if he or she:
       (1)   Tampers with property of another for the purpose of causing
@@ -10909,7 +10907,7 @@ deemed to be unlawful, nor render such merchant or his or her agent or employee
 criminally or civilly liable.
 (Prior Code, § 210.390) Penalty, see §
 130.999
-OFFENSES CONCERNING ALCOHOL AND DRUGS
+**** OFFENSES CONCERNING ALCOHOL AND DRUGS ****
 § 130.100 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11360,7 +11358,7 @@ transport while it is being operated; or
    (C)   Smoking marijuana within a motor vehicle, train, or aircraft,
 motorboat, or another motorized form of transport while it is being operated.
 (Ord. 472, passed 3-1-2023)
-OFFENSES CONCERNING MINORS
+**** OFFENSES CONCERNING MINORS ****
 § 130.120 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11432,7 +11430,7 @@ violation of this section. No person shall be liable for more than one
 violation of this section on any single day.
 (Prior Code, § 210.510) Penalty, see §
 130.999
-MISCELLANEOUS OFFENSES
+**** MISCELLANEOUS OFFENSES ****
 § 130.135 INDECENT EXPOSURE/SEXUAL MISCONDUCT.
    A person commits the offense of indecent exposure (sexual misconduct) if he
 or she exposes his or her genitals under circumstances in which he or she knows
@@ -11617,13 +11615,13 @@ fronting on all streets
  
    
 150.99   Penalty
-SEISMIC DESIGN
+**** SEISMIC DESIGN ****
 § 150.01 EARTHQUAKE AND SEISMIC DESIGN REQUIREMENTS.
    All construction in the city shall comply with the requirements of RSMo. §§
 319.200 through 319.207, and any amendments thereto, relating to earthquakes
 and seismic construction requirements.
 (Prior Code, § 500.010)
-EXCAVATIONS
+**** EXCAVATIONS ****
 § 150.15 PERMIT REQUIRED BEFORE EXCAVATION WORK.
    It shall be unlawful for any person, firm, or corporation to tunnel under or
 to make any excavation in any street, alley, sidewalk, or other public place in
@@ -11729,7 +11727,7 @@ that all work was performed in accordance with city specifications.
 culvert in the city is unlawful.
 (Ord. 326-1, passed 11-3-2007) Penalty, see §
 150.99
-MISCELLANEOUS BUILDING REGULATIONS
+**** MISCELLANEOUS BUILDING REGULATIONS ****
 § 150.40 MOVING OF HOUSES OR OTHER STRUCTURES.
    (A)   Permit required; fee. It shall be unlawful to move homes or other
 structures, or to raze or shore same within the city, without first securing a
@@ -12212,7 +12210,7 @@ Fire Safety and Public Health Standards
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12767,7 +12765,7 @@ provisions of this subchapter shall be deemed to prevail, and such other
 ordinances or codes are hereby declared to be repealed to the extent that they
 may be found in conflict with this subchapter.
 (Prior Code, § 510.190) (Ord. 192, passed 12-15-1977)
-FIRE SAFETY AND PUBLIC HEALTH STANDARDS
+**** FIRE SAFETY AND PUBLIC HEALTH STANDARDS ****
 § 152.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.

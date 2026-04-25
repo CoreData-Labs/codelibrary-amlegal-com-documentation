@@ -1,13 +1,13 @@
 WORTHINGTON, MINNESOTA
 CODE OF ORDINANCES
-2025 S-27 Supplement contains:
-Local legislation current through 12-31-2024
+2026 S-28 Supplement contains:
+Local legislation current through 12-31-2025
 Published by:
 AMERICAN LEGAL PUBLISHING
 525 Vine Street * Suite 310 * Cincinnati, Ohio 45202
 1-800-445-5588 www.amlegal.com
 Adopting Ordinance
-ORDINANCE NO. 917
+***** ORDINANCE NO. 917 *****
 AN ORDINANCE ENACTING A CODE OF ORDINANCES FOR THE CITY OF WORTHINGTON,
 MINNESOTA, AMENDING, RESTATING, REVISING, UPDATING, CODIFYING AND COMPILING
 CERTAIN ORDINANCES OF THE CITY DEALING WITH THE SUBJECTS EMBRACED IN THE CODE
@@ -726,7 +726,7 @@ Local Sales and Use Tax
  
    
 32.99   Penalty
-LODGING TAX
+**** LODGING TAX ****
 § 32.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -961,7 +961,7 @@ by this section, shall bear interest at the rate of 8% per annum from the time
 such tax should have been paid until paid. Any interest and penalty shall be
 added to the tax and be collected as part thereof.
 (Ord. 796, passed 11-8-93)
-LOCAL SALES AND USE TAX
+**** LOCAL SALES AND USE TAX ****
 § 32.30 LOCAL SALES AND USE TAX.
    (A)   Authority. Pursuant to Session Laws 2019, First Special Session,
 Chapter 6, the Minnesota Legislature has authorized the City of Worthington to
@@ -1334,7 +1334,7 @@ Powers and Authority of Inspectors
 51.132   Authorized employees to observe safety rules
    
 51.133   Authorized employees permitted to enter all property with easements
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.001 DEFINITIONS.
       For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1545,7 +1545,7 @@ the discharge of prohibited wastes by such person, and may collect such
 assessment as an additional charge for the use of the public sewer system or in
 any other manner deemed appropriate by the city.
 (Ord. 744, passed 11-27-89)
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 51.015 DEPOSITS OF UNSANITARY MANNER PROHIBITED.
    It shall be unlawful for any person to place, deposit or permit to be
 deposited in any unsanitary manner on public or private property within the
@@ -1600,7 +1600,7 @@ for local improvements. The rights of the city shall be in addition to any
 remedial or enforcement provisions of this chapter.
 (Ord. 744, passed 11-27-89)
 Penalty, see § 10.99
-PRIVATE WASTEWATER DISPOSAL
+**** PRIVATE WASTEWATER DISPOSAL ****
 § 51.035 PUBLIC SEWER NOT AVAILABLE.
    Where a public sewer is not available under the provisions of § 51.018, the
 building sewer shall be connected to a private wastewater disposal system
@@ -1645,7 +1645,7 @@ facilities in a sanitary manner at all times at no expense to the city.
 with any additional requirements that may be imposed by the MPCA or the
 Minnesota Department of Health.
 (Ord. 744, passed 11-27-89)
-BUILDING SEWERS AND CONNECTIONS
+**** BUILDING SEWERS AND CONNECTIONS ****
 § 51.055 RESTRICTIONS ON NEW CONNECTIONS.
    Any new connections to the sanitary sewer system shall be prohibited unless
 sufficient capacity is available in all downstream facilities, including but
@@ -1793,7 +1793,7 @@ building sewer to knowingly allow the perpetuation of any storm water,
 groundwater, roof runoff, surface drainage, or non-contact cooling water
 discharge connection to the sanitary sewer.
 (Ord. 744, passed 11-27-89)
-USE OF PUBLIC SERVICES
+**** USE OF PUBLIC SERVICES ****
 § 51.080 DISCHARGES OF UNPOLLUTED WATER.
    (A)   No person shall discharge or caused to be discharged any water such as
 stormwater, ground water, roof runoff, surface drainage or non-contact cooling
@@ -2119,7 +2119,7 @@ the city or not. The person hauling or trucking the wastewater and the person
 producing the wastewater to be discharged shall be considered a "user" and be
 subject to all provisions of this chapter.
 (Ord. 825, passed 7-22-96)
-USER RATE SCHEDULE FOR CHARGES
+**** USER RATE SCHEDULE FOR CHARGES ****
 § 51.110 CHARGES GENERALLY.
    Each user of sewer service shall pay the charges applicable to the type of
 service, and in accordance with the provisions set forth in this subchapter.
@@ -2606,7 +2606,7 @@ conditions of agreements or contracts which are inconsistent with the
 requirements of 33 USC 1284(b)(1)(A) and 40 CFR 35.2140 of the Environmental
 Protection Agency's grant regulations.
 (Ord. 745, passed 11-27-89)
-POWERS AND AUTHORITY OF INSPECTORS
+**** POWERS AND AUTHORITY OF INSPECTORS ****
 § 51.130 AUTHORIZED EMPLOYEES PERMITTED TO ENTER ALL PROPERTIES.
    The Administrator or other duly authorized employees of the city, bearing
 proper credentials and identification, shall be permitted to enter all
@@ -2694,7 +2694,7 @@ Removal of Unwholesome Substance and Solid Waste by City
 52.35   Unwholesome material on boulevard
    
 52.36   Appeal from costs
-COLLECTION AND DISPOSAL
+**** COLLECTION AND DISPOSAL ****
 § 52.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2828,7 +2828,7 @@ certified to the County Auditor and collected and remitted in the same manner
 as assessments for local improvements.
 (Ord. 768, passed 7-8-91; Am. Ord. 929, passed 12-26-01; Am. Ord. 967, passed
 6-14-04)
-SEPARATION AND COLLECTION OF RECYCLABLE MATERIALS
+**** SEPARATION AND COLLECTION OF RECYCLABLE MATERIALS ****
 § 52.20 PURPOSE.
    The purpose of this subchapter is to safeguard the health, safety and
 welfare of the citizens of the city, by regulating the storage and disposal of
@@ -2913,7 +2913,7 @@ the circumstances to determine that recyclables are not disposed of contrary to
 the provisions of this subchapter.
 (Ord. 756, passed 6-11-90; Am. Ord. 967, passed 6-14-04)
 Penalty, see § 10.99
-REMOVAL OF UNWHOLESOME SUBSTANCE AND SOLID WASTE BY CITY
+**** REMOVAL OF UNWHOLESOME SUBSTANCE AND SOLID WASTE BY CITY ****
 § 52.30 DEFINITIONS.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3151,15 +3151,15 @@ Classification Land Use                                     Utility Factor
 9              Lake/Streams/Wetlands                        Exempt
 10             Vacant                                       Exempt
  
-   (C)   The annual fee per acre for residential is $409.27.
+   (C)   The annual fee per acre for residential is $443.03.
 (Ord. 956, passed 12-8-03; Am. Ord. 975, passed 12-13-04; Am. Ord. 981, passed
 12-12-05; Am. Ord. 997, passed 12-11-06; Am. Ord. 1009, passed 1-14-08; Am.
 Ord. 1020, passed 11-24-08; Am. Ord. 1031, passed 12-14-09; Am. Ord. 1038,
-passed 11-8-10; Am. Ord. 1049, passed 12-12-11; Am. Ord. 1062, passed 12-10-
-12; Am. Ord. 1089, passed 12-28-15; Am. Ord. 1101, passed 12-12-16; Am. Ord.
-1108, passed 12-11-17; Am. Ord. 1128, passed 11-26-18; Am. Ord. 1154, passed
-12-9-19; Am. Ord. 1176, passed 11-22-21; Am. Ord. 1192, passed 12-12-22; Am.
-Ord. 1201, passed 12-11-23; Am. Ord. 1208, passed 11-25-24)
+passed 11-8-10; Am. Ord. 1049, passed 12-12-11; Am. Ord. 1062, passed 12-10-12;
+Am. Ord. 1089, passed 12-28-15; Am. Ord. 1101, passed 12-12-16; Am. Ord. 1108,
+passed 12-11-17; Am. Ord. 1128, passed 11-26-18; Am. Ord. 1154, passed 12-9-19;
+Am. Ord. 1176, passed 11-22-21; Am. Ord. 1192, passed 12-12-22; Am. Ord. 1201,
+passed 12-11-23; Am. Ord. 1208, passed 11-25-24; Am. Ord. 1219, passed 12-8-25)
 § 54.05 CREDITS.
    The Council may adopt policies by resolution for adjustment of the storm
 water utility fees. Information to justify a fee adjustment must be supplied by
@@ -3934,7 +3934,7 @@ Motorized Golf Carts
 71.98   Enforcement
    
 71.99   Penalty
-GENERAL TRAFFIC RULES
+**** GENERAL TRAFFIC RULES ****
 § 71.01 EXHIBITION DRIVING PROHIBITED.
    It is a petty misdemeanor for any person to:
    (A)   Start or accelerate any motor vehicle with unnecessary exhibition of
@@ -3953,7 +3953,7 @@ Penalty, see § 71.99
 device, by driving upon or through any private property.
 ('69 Code, § 5.32) (Ord. 538-5, eff. 1-8-76)
 Penalty, see § 71.99
-BICYCLES
+**** BICYCLES ****
 § 71.15 APPLICATION OF TRAFFIC LAWS.
    Persons riding or propelling any bicycle, shall observe and obey all traffic
 signs and stop at all stop signs; and shall obey all traffic rules and
@@ -3995,7 +3995,7 @@ Penalty, see § 71.99
 in an upright position.
 ('69 Code, § 5.10, Subd. 8) (Ord. 655, eff. 5-24-82)
 Penalty, see § 71.99
-SNOWMOBILES
+**** SNOWMOBILES ****
 § 71.35 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4140,7 +4140,7 @@ Penalty, see § 71.99
 wild or domestic, with a snowmobile.
 ('69 Code, § 5.40, Subd. 11) (Ord. 552, eff. 1-10-77)
 Penalty, see § 71.99
-MOTORIZED GOLF CARTS
+**** MOTORIZED GOLF CARTS ****
 § 71.50 AUTHORIZATION.
    Pursuant to its authority under M.S. § 169.045, motorized golf carts may be
 operated within the city only on designated streets under its jurisdiction.
@@ -5678,7 +5678,7 @@ Animals
 92.73   Manner of keeping and care of premises
    
 92.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 92.01 PUBLIC NUISANCES DEFINED.
    (A)   Whoever by his or her act or failure to perform a legal duty
 intentionally does any of the following is guilty of maintaining a public
@@ -5951,7 +5951,7 @@ finds that the person bringing the action prevails, the Court shall award the
 person his/her costs, disbursements and a reasonable attorney's fee for
 pursuing the action.
 (Ord. 878, passed 6-14-99)
-BLIGHT
+**** BLIGHT ****
 § 92.20 CAUSES OF BLIGHT OR BLIGHTING FACTORS.
    It is hereby determined that the uses, structures, activities and causes of
 blight or blighting factors described herein, if allowed to exist, will tend to
@@ -6090,7 +6090,7 @@ and to substantially exclude wind from entering the structure.
 prevent the entrance of rodents and rain.
 (Ord. 878, passed 6-14-99)
 Penalty, see § 92.99
-GRAFFITI
+**** GRAFFITI ****
 § 92.35 ELIMINATION OF GRAFFITI.
    (A)   The City Council hereby finds and declares that graffiti is a public
 nuisance and destructive to the rights and values of property owners as well as
@@ -6309,7 +6309,7 @@ the
 minor to make restitution.
 (Ord. 878, passed 6-14-99)
 Penalty, see § 92.99
-NOISES
+**** NOISES ****
 § 92.55 UNNECESSARY NOISE GENERALLY.
    No person shall make, continue or cause to be made or continued any loud,
 unnecessary or unusual noise which unreasonably annoys, disturbs, injures or
@@ -6371,7 +6371,7 @@ musical instruments, phonographs and machines and devices for the production or
 reproduction of sound, whether on public or private property.
 (Ord. 878, passed 6-14-99)
 Penalty, see § 92.99
-ANIMALS
+**** ANIMALS ****
 § 92.70 KEEPING WITHOUT PERMIT DECLARED NUISANCE.
    The keeping, harboring or permitting of cattle, horses, sheep, goats,
 rabbits, pigeons, fowl or swine in the city without a permit constitutes a
@@ -6474,7 +6474,7 @@ Regulation of Boating, Docks and Public Docking Areas on Lake Okabena
 93.39   Parking regulations at docking areas
    
 93.40   Docks
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 RULES AND REGULATIONS GOVERNING CITY OWNED PROPERTY.
    (A)   The Council may from time to time, by Council action establish
 prohibited activities, uses and practices in or on any park, playground,
@@ -6487,7 +6487,7 @@ park, playground, recreation area or other city owned property in violation of
 the prohibition placed thereon shall be a public nuisance.
 ('69 Code, § 6.33) (Ord. 437, eff. 9-3-69)
 Penalty, see § 10.99
-REGULATION OF PARKS
+**** REGULATION OF PARKS ****
 § 93.10 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6868,8 +6868,8 @@ city parks may be given, in writing, by the City Administrator or his or her
 designee.
 ('69 Code, § 6.34, Subd. 10) (Am. Ord. 938, passed 7-8-02; Am. Ord. 986, passed
 4-24-06)
-REGULATION OF BOATING, DOCKS AND PUBLIC DOCKING AREAS
-ON LAKE OKABENA
+**** REGULATION OF BOATING, DOCKS AND PUBLIC DOCKING AREAS
+ON LAKE OKABENA ****
 § 93.30 APPLICATION OF REGULATIONS.
    It is unlawful for any person to navigate, operate, dock or anchor any boat,
 motorboat, sailboat or watercraft upon Lake Okabena except in accordance with
@@ -7052,7 +7052,7 @@ improvement costs
 94.25   Partial prepayment of assessments
    
 Appendix:   Downtown Parking District Map
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 OBSTRUCTIONS, FIRES, AND DUMPING IN STREETS.
    (A)   Obstructions. No person shall place or deposit any fence or other
 obstruction upon any street without first having obtained a written permit to
@@ -7191,7 +7191,7 @@ clearly at night with a spotlight or a porch light attached to the building.
    (D)   All persons violating any of the provisions of this section shall be
 guilty of a petty misdemeanor as defined by state law.
 ('69 Code, § 2.50) (Ord. 554, eff. 7-1-77)
-SPECIAL ASSESSMENT POLICY
+**** SPECIAL ASSESSMENT POLICY ****
 § 94.15 INITIATION OF PUBLIC IMPROVEMENTS PROJECTS.
    Public improvement projects may be initiated by petition of affected
 property owners. Such petitions will be received by the Council until the last
@@ -7789,7 +7789,7 @@ Dutch Elm Disease
 95.26   Interfering with City Forester prohibited
    
 95.27   Position of City Forester created
-PLANTING AND MAINTENANCE OF TREES ON PUBLIC PROPERTY
+**** PLANTING AND MAINTENANCE OF TREES ON PUBLIC PROPERTY ****
 § 95.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7932,7 +7932,7 @@ trees, park trees, or trees on private grounds, as authorized in this
 subchapter.
 (Ord. 803, passed 12-12-94)
 Penalty, see § 10.99
-DUTCH ELM DISEASE
+**** DUTCH ELM DISEASE ****
 § 95.20 DECLARATION OF POLICY.
    The city has determined that the health of the elm trees is threatened by a
 fatal disease known as Dutch Elm disease. It has further determined that the
@@ -9809,7 +9809,7 @@ Chapter
       
 116.   LAWFUL GAMBLING
       
-117.   RESERVED
+117.   CANNABIS BUSINESS REGULATIONS
       
 118.   TAXICABS
       
@@ -9836,7 +9836,7 @@ Licenses
 Miscellaneous Business Regulations
    
 110.20   Airport businesses
-LICENSES
+**** LICENSES ****
 § 110.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9985,7 +9985,7 @@ Penalty, see § 10.99
 a finding of the necessity therefor, place such conditions and restriction upon
 a license as it, in its discretion, may deem reasonable and justified.
 ('69 Code, § 4.08) (Ord. 538-4, eff. 1-8-76)
-MISCELLANEOUS BUSINESS REGULATIONS
+**** MISCELLANEOUS BUSINESS REGULATIONS ****
 § 110.20 AIRPORT BUSINESSES.
    No person, organization, partnership, corporation or firm shall conduct an
 aeronautical business on the airport or establish a place of business for a
@@ -10063,7 +10063,7 @@ On-Sale Liquor
 Cross-reference:
    Liquor in parks, see
 § 93.19
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 111.01 EVACUATION OF LIQUOR ESTABLISHMENTS.
    (A)   All glasses, bottles and other containers or drinking utensils of any
 nature whatsoever containing even the slightest amounts of intoxicating liquor
@@ -10178,7 +10178,7 @@ violation of any law relating to the businesses for which such license has been
 granted.
 (Ord. 1047, passed 10-10-11; Am. Ord. 1182, passed 6-27-22)
 Penalty, see § 10.99.
-3.2 MALT LIQUOR
+**** 3.2 MALT LIQUOR ****
 § 111.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -10242,7 +10242,7 @@ Residence District.
    Minnesota Statutes § 340A.503, as it may be amended from time to time, is
 hereby adopted by reference.
 Penalty, see § 10.99
-INTOXICATING LIQUOR
+**** INTOXICATING LIQUOR ****
 § 111.29 SUNDAY INTOXICATING LIQUOR LICENSES.
    Sunday on-sale intoxicating liquor licenses were authorized by voter
 approval at the November 8, 2016 general election. Sunday on-sale intoxicating
@@ -10430,7 +10430,7 @@ according to its terms. A temporary licensee shall be subject to all state and
 local liquor laws. The fee for a temporary license shall be established by
 resolution of the City Council from time to time.
 (Ord. 1032, passed 2-22-10)
-ON-SALE LIQUOR
+**** ON-SALE LIQUOR ****
 § 111.45 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13144,7 +13144,294 @@ of a misdemeanor, as provided in § 10.99. Additionally, a violation of this
 chapter may result in the recommendation by the City Council that a license not
 be renewed.
 (Ord. 725, passed 8-8-88; Am. Ord. 924, passed 8-27-01)
-CHAPTER 117: RESERVED
+CHAPTER 117: CANNABIS BUSINESS REGULATIONS
+Section
+   
+117.01   Findings and purpose
+   
+117.02   Authority and jurisdiction
+   
+117.03   Definitions
+   
+117.04   Registration of cannabis businesses
+   
+117.05   Registration and application procedure
+   
+117.06   Renewal of registration
+   
+117.07   Suspension of registration
+   
+117.08   Annual compliance checks
+   
+117.09   Location change
+   
+117.10   Civil penalties
+   
+117.11   Limiting of registrations
+   
+117.12   Temporary cannabis events licensure and application process
+   
+117.13   Temporary cannabis events standards
+   
+117.14   Use in public places
+   
+117.15   Hours of operation
+   
+117.16   Business buffer
+   
+117.17   Lower-potency hemp edibles
+§ 117.01 FINDINGS AND PURPOSE.
+   The City of Worthington, MN, (hereinafter, “city”) makes the following
+legislative findings: The purpose of this chapter is to implement the
+provisions of M.S. Chapter 342, which authorizes the city to protect the public
+health, safety, and welfare of residents by regulating cannabis businesses
+within the legal boundaries of the city. Zoning information regarding cannabis
+businesses shall be found in
+Chapter 155 of this code.
+(Ord. 1211, passed 2-24-25)
+§ 117.02 AUTHORITY AND JURISDICTION.
+   (A)   (1)   The city has the authority to adopt this chapter pursuant to:
+         (a)   M.S. § 342.13(c), regarding the authority of a local unit of
+government to adopt reasonable restrictions of the time, place, and manner of
+the operation of a cannabis business provided that such restrictions do not
+prohibit the establishment or operation of cannabis businesses.
+         (b)   M.S. § 342.22, regarding the local registration and enforcement
+requirements of state-licensed cannabis retail businesses and lower-potency
+hemp edible retail businesses.
+         (c)   M.S. § 152.0263, Subd. 5, regarding the use of cannabis in
+public places.
+         (d)   M.S. § 462.357, regarding the authority of a local authority to
+adopt zoning ordinances.
+      (2)   This chapter shall be applicable to the legal boundaries of the
+city.
+   (B)   Severability. If any section, clause, provision, or portion of this
+chapter is adjudged unconstitutional or invalid by a court of competent
+jurisdiction, the remainder of this chapter shall not be affected thereby.
+   (C)   Enforcement. The city is responsible for the administration and
+enforcement of this chapter. Any violation of the provisions of this chapter or
+failure to comply with any of its requirements constitutes a misdemeanor and is
+punishable as defined by law. Violations of this chapter can occur regardless
+of whether or not a permit is required for a regulated activity listed in this
+chapter.
+(Ord. 1211, passed 2-24-25)
+§ 117.03 DEFINITIONS.
+   Unless otherwise noted in this section, words and phrases contained in M.S.
+§ 342.01 and the rules promulgated pursuant to any of these acts, shall have
+the same meanings in this section.
+   CANNABIS CULTIVATION. A cannabis business licensed to grow cannabis plants
+within the approved amount of space from seed or immature plant to mature
+plant, harvest cannabis flower from mature plant, package and label immature
+plants and seedlings and cannabis flower for sale to other cannabis businesses,
+transport cannabis flower to a cannabis manufacturer located on the same
+premises, and perform other actions approved by the office.
+   CANNABIS RETAIL BUSINESSES. A retail location and the retail location(s) of
+mezzobusinesses with a retail operations endorsement, microbusinesses with a
+retail operations endorsement, and medical combination businesses operating a
+retail location, excluding lower-potency hemp edible retailers.
+   CANNABIS RETAILER. Any person, partnership, firm, corporation or
+association, foreign or
+domestic, selling cannabis product to a consumer and not for the purpose of
+resale in any form.
+   DAYCARE. A location licensed with the Minnesota Department of Human Services
+to provide the care of a child in a residence outside the child’s own home for
+gain or otherwise, on a regular basis, for any part of a 24-hour day.
+   LOWER-POTENCY HEMP EDIBLE. As defined under M.S. § 342.01, Subd. 50.
+   OFFICE OF CANNABIS MANAGEMENT. Minnesota Office of Cannabis Management,
+referred to as “OCM” in this chapter.
+   PLACE OF PUBLIC ACCOMMODATION. A business, accommodation, refreshment,
+entertainment, recreation, or transportation facility of any kind, whether
+licensed or not, whose goods, services, facilities, privileges, advantages or
+accommodations are extended, offered, sold, or otherwise made available to the
+public.
+   PRELIMINARY LICENSE APPROVAL. OCM pre-approval for a cannabis business
+license for applicants who qualify under M.S. §
+342.17.
+   PUBLIC PLACE. A public park or trail, public street or sidewalk; any
+enclosed, indoor area used by the general public, including, but not limited
+to, restaurants; bars; any other food or liquor establishment; hospitals;
+nursing homes; auditoriums; arenas; gyms; meeting rooms; common areas of rental
+apartment buildings, and other PLACES OF PUBLIC ACCOMMODATION.
+   RESIDENTIAL TREATMENT FACILITY. As defined under M.S. § 245.462, Subd. 23.
+   RETAIL REGISTRATION. An approved registration issued by the city to a state-
+licensed cannabis retail business.
+   SCHOOL. A public school as defined under M.S. § 120A.05, or a nonpublic
+school that must meet the reporting requirements under M.S. § 120A.24.
+   STATE LICENSE. An approved license issued by the State of Minnesota's Office
+of Cannabis Management to a cannabis retail business.
+(Ord. 1211, passed 2-24-25)
+§ 117.04 REGISTRATION OF CANNABIS BUSINESSES.
+   (A)   Consent to registering of cannabis businesses. No individual or entity
+may operate a state-licensed cannabis retail business within the city without
+first registering with the city. Any state-licensed cannabis retail business
+that sells to a customer or patient without valid retail registration shall
+incur a civil penalty of up to $2,000 for each violation.
+   (B)   Compliance checks prior to retail registration. Prior to issuance of a
+cannabis retail business registration, the city may conduct a preliminary
+compliance check to ensure compliance with local ordinances. Pursuant to M.S.
+Chapter 343, within 30 days of receiving a copy of a state license application
+from OCM, the city shall certify on a form provided by OCM whether a proposed
+cannabis retail business complies with local zoning ordinances and, if
+applicable, whether the proposed business complies with the state fire code and
+building code.
+(Ord. 1211, passed 2-24-25)
+§ 117.05 REGISTRATION AND APPLICATION PROCEDURE.
+   (A)   The city shall not charge an application fee.
+   (B)   A registration fee, as established by resolution of the City Council,
+shall be charged to applicant depending on the type of retail business license
+applied for. An initial retail registration fee shall not exceed $500 or half
+the amount of an initial state license fee under M.S. § 342.11, whichever is
+less. The initial registration fee shall include the initial retail
+registration fee and the first annual renewal thereafter. A renewal retail
+registration fee shall not exceed $1,000 or half the amount of a renewal state
+license fee under M.S. § 342.11, whichever is less. A medical combination
+business operating an adult-use retail location may only be charged a single
+registration, not to exceed the lesser of a single retail registration fee,
+defined under this section, of the adult-use retail business.
+   (C)   The city shall issue a retail registration to a state-licensed
+cannabis retail business that adheres to the requirements of M.S. § 342.22.
+      (1)   An applicant for a retail registration shall fill out an
+application form, as provided by the city. Said form shall include, but is not
+limited to:
+         (a)   Address and parcel ID of the business;
+         (b)   Property owner’s name and contact information;
+         (c)   Business name and business owner’s contact information;
+         (d)   Business tax identification number; and
+         (e)   Certification that the applicant complies with the requirements
+of local ordinances established pursuant to M.S. § 342.13.
+      (2)   The applicant shall include with the form:
+         (a)   A floor plan;
+         (b)   A copy of their license from the Office of Cannabis Management;
+         (c)   The registration fee as required in division (B) of this
+section; and
+         (d)   Any other information deemed necessary by the city.
+      (3)   Once an application is considered complete, the city shall inform
+the applicant as such, process the application fees, and forward the
+application to the office of the City Clerk for approval or denial.
+      (4)   The registration fee shall be non-refundable once processed.
+   (D)   A state-licensed cannabis retail business shall not be approved or
+renewed if the applicant is unable to meet the requirements of this chapter.
+   (E)   A state-licensed cannabis retail business application that meets the
+requirements of this chapter shall be approved.
+(Ord. 1211, passed 2-24-25)
+§ 117.06 RENEWAL OF REGISTRATION.
+   (A)   The city shall renew an annual registration of a state-licensed
+cannabis retail business at the same time OCM renews the cannabis retail
+business’ license. A state-licensed cannabis retail business shall apply to
+renew registration on a form established the by the city. A cannabis retail
+registration issued under this chapter shall not be transferred.
+   (B)   The city may charge a renewal fee for the registration starting the
+second renewal, as established by resolution of the City Council.
+   (C)   The application for renewal of a retail registration shall include,
+but is not limited to items required under §
+117.05(C).
+(Ord. 1211, passed 2-24-25)
+§ 117.07 SUSPENSION OF REGISTRATION.
+   (A)   The city may suspend a cannabis retail business’s registration if it
+violates this chapter of the City Code or poses an immediate theat to the
+health or safety of the public. The city shall immediately notify the cannabis
+retail business in writing the grounds for the suspension.
+   (B)   The city shall immediately notify the OCM in writing the grounds for
+the suspension of a registration. OCM will provide the city and cannabis
+business retailer a response to the complaint within seven calendar days and
+perform any necessary inspections within 30 calendar days.
+   (C)   The suspension of a cannabis retail business registration may be for
+up to 30 calendar days, unless OCM suspends the license for a longer period.
+The business may not make sales to customers if their registration is
+suspended.
+      (1)   The city may reinstate a suspended registration at any time if it
+determines that any violation has been resolved.
+      (2)   The city shall reinstate a registration if OCM determines that any
+violations have been resolved.
+(Ord. 1211, passed 2-24-25)
+§ 117.08 ANNUAL COMPLIANCE CHECKS.
+   The city shall complete at minimum, one compliance check per calendar year
+of every cannabis business to assess if the business meets age verification
+requirements, as required under M.S. § 342.22, Subd. 4(b), M.S. § 342.24, and
+this chapter. The city shall conduct at minimum one unannounced age
+verification compliance check at least once per calendar year. Age verification
+compliance checks shall involve persons at least 17 years of age but under the
+age of 21 who, with the prior written consent of a parent or guardian if the
+person is under the age of 18, will attempt to purchase adult-use cannabis
+flower, adult-use cannabis products, lower-potency hemp edibles, or hemp-
+derived consumer products under the direct supervision of a law enforcement
+officer or an employee of the local unit of government. Any failures under this
+section must be reported to the Office of Cannabis Management.
+(Ord. 1211, passed 2-24-25)
+§ 117.09 LOCATION CHANGE.
+   A state-licensed cannabis retail business shall be required to submit new
+application for registration under §§
+117.04 and
+117.05 if it seeks to move to a new location still within the legal boundaries
+of the city.
+(Ord. 1211, passed 2-24-25)
+§ 117.10 CIVIL PENALTIES.
+   Subject to M.S. § 342.22, Subd. 5(e), the city may impose a civil penalty
+for registration violations, not to exceed $2,000.
+(Ord. 1211, passed 2-24-25)
+§ 117.11 LIMITING OF REGISTRATIONS.
+   The city shall not limit the number of cannabis retail businesses in the
+city.
+(Ord. 1211, passed 2-24-25)
+§ 117.12 TEMPORARY CANNABIS EVENTS LICENSURE AND APPLICATION PROCESS.
+   (A)   A license is required to be issued and approved by the City Council
+prior to holding a temporary cannabis event.
+   (B)   A license fee, as established by resolution of the City Council, shall
+be charged to applicants for temporary cannabis events.
+   (C)   The city shall require an application for a temporary cannabis event
+be submitted for review and approval.
+      (1)   An applicant for a temporary cannabis event license shall fill out
+an application form, as provided by the city. Said form shall contain the
+requirements for submission.
+      (2)   The city reserves the right to require the submission of additional
+information as necessary.
+      (3)   An applicant for a temporary cannabis event license must submit to
+the city a copy of the OCM cannabis event license application.
+      (4)   Should the city determine the application is incomplete, the
+application shall be sent back to the applicant with the notice of
+deficiencies.
+   (D)   The application fee shall be non-refundable once processed.
+(Ord. 1211, passed 2-24-25)
+§ 117.13 TEMPORARY CANNABIS EVENTS STANDARDS.
+   (A)   On-site consumption of any cannabis product is prohibited.
+   (B)   Temporary events shall only be held between the hours of 10:00 a.m.
+through 9:00 p.m.
+(Ord. 1211, passed 2-24-25)
+§ 117.14 USE IN PUBLIC PLACES.
+   No person shall use cannabis flower, cannabis products, lower-potency hemp
+edibles, or hemp-derived consumer products in a public place or a place of
+public accommodation unless the premises is an establishment licensed to permit
+on-site consumption of adult use.
+(Ord. 1211, passed 2-24-25)
+§ 117.15 HOURS OF OPERATION.
+   (A)   State law limits the retail sale of cannabis flower, cannabis
+products, lower-potency hemp edibles, or hemp-derived consumer products to the
+hours of:
+      (1)   Monday through Saturday: 8:00 a.m. to 2:00 a.m. the following day.
+      (2)   Sunday: 10:00 a.m. to 2:00 a.m.
+   (B)   Retail sale of cannabis flower, cannabis products, lower-potency hemp
+edibles, or hemp-derived consumer products shall be further prohibited between
+the hours of 8:00 a.m. to 10:00 a.m. and between 9:00 p.m. to 2:00 a.m. the
+following day, seven days a week.
+(Ord. 1211, passed 2-24-25)
+§ 117.16 BUSINESS BUFFER.
+   Cannabis retail businesses are prohibited from operating within 1,000 feet
+of another cannabis retail business. Such distance shall be measured property
+line to property line.
+(Ord. 1215, passed 7-28-25)
+§ 117.17 LOWER-POTENCY HEMP EDIBLES.
+   (A)   The sale of low-potency edibles is permitted, subject to the
+conditions within this section.
+   (B)   The sale of low-potency edibles is permitted in a municipal liquor
+store.
+   (C)   The sale of low-potency edibles is permitted only to persons 21 years
+of age or older.
+   (D)   Low-potency hemp edible retailers must obtain a local retail
+registration in accordance with §§
+117.04 and
+117.05. Retailers must renew their local registration annually in accordance
+with §
+117.06.
+(Ord. 1218, passed 11-10-25)
 CHAPTER 118: TAXICABS
 Section
    
@@ -13742,7 +14029,7 @@ General Provisions
 Rental House Code
    
 150.10   Rental housing maintenance and occupancy
-GENERAL PROVISION
+**** GENERAL PROVISION ****
 § 150.01 MINNESOTA STATE BUILDING CODE ADOPTED.
    (A)   Application, administration and enforcement.  
       (1)   The application, administration and enforcement of the code shall
@@ -14065,7 +14352,7 @@ reason of the inspection or reinspection authorized herein or the certificate
 of approval issued as herein provided or by reason of the approval or
 disapproval of any equipment authorized herein.
 ('69 Code, § 4.22) (Ord. 534, eff. 9-4-74)
-RENTAL HOUSING CODE
+**** RENTAL HOUSING CODE ****
 § 150.10 RENTAL HOUSING MAINTENANCE AND OCCUPANCY.
    (A)   Legislative finding. It is hereby found that there exist and may in
 the future exist, within the city, residential rental premises, rooming units
@@ -15157,7 +15444,7 @@ Amendments
 152.121   Amendments require DNR approval
    
 152.122   Map revisions require ordinance amendments
-STATUTORY AUTHORIZATION, FINDINGS OF FACT AND PURPOSE
+**** STATUTORY AUTHORIZATION, FINDINGS OF FACT AND PURPOSE ****
 § 152.001 STATUTORY AUTHORIZATION.
    The legislature of the State of Minnesota has, in M.S. Chapter 103F and M.S.
 Chapter 462, delegated the responsibility to local government units to adopt
@@ -15183,7 +15470,7 @@ storm water impacts, improve water quality, reduce soil erosion, protect
 aquatic and riparian habitat, provide recreational opportunities, provide
 aesthetic benefits and enhance community and economic development.
 (Ord. 1079, passed 4-14-14)
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.010 HOW TO USE THIS CHAPTER.
    This chapter adopts the floodplain maps applicable to Worthington and
 includes three floodplain districts: floodway, floodway fringe, and general
@@ -15400,7 +15687,7 @@ floodplain land areas are annexed into the city after the date of adoption of
 this chapter, the newly annexed floodplain lands will be subject to the
 provisions of this chapter immediately upon the date of annexation.
 (Ord. 1079, passed 4-14-14)
-ESTABLISHMENT OF ZONING DISTRICTS
+**** ESTABLISHMENT OF ZONING DISTRICTS ****
 § 152.020 DISTRICTS.
    (A)   Floodway district. The floodway district includes those areas
 designated as floodway on the Flood Insurance Rate Map adopted in §
@@ -15448,7 +15735,7 @@ the general provisions of this chapter and specifically as stated in §
 152.091 and §
 152.093.
 (Ord. 1079, passed 4-14-14)
-FLOODWAY DISTRICT (FW)
+**** FLOODWAY DISTRICT (FW) ****
 § 152.030 PERMITTED USES.
    The following uses, subject to the standards set forth in §
 152.032, are permitted uses if otherwise allowed in the underlying zoning
@@ -15562,7 +15849,7 @@ assume equal conveyance or storage loss on both sides of a stream.
 of the channel and adjoining floodplain of any tributary watercourse or
 drainage system.
 (Ord. 1079, passed 4-14-14)
-FLOOD FRINGE DISTRICT (FF)
+**** FLOOD FRINGE DISTRICT (FF) ****
 § 152.040 PERMITTED USES.
    Permitted uses are those uses of land or structures allowed in the
 underlying zoning district(s) that comply with the standards in §
@@ -15716,7 +16003,7 @@ removal of such materials within the time available after a flood warning.
 structures on slopes to guide floodwaters around and away from proposed
 structures or structure additions.
 (Ord. 1079, passed 4-14-14)
-GENERAL FLOODPLAIN DISTRICT (GF)
+**** GENERAL FLOODPLAIN DISTRICT (GF) ****
 § 152.050 PERMITTED USES.
    (A)   The uses listed in §
 152.030, floodway district permitted uses, are permitted uses.
@@ -15768,7 +16055,7 @@ consistent with the applicable provisions of §§
 152.041 through
 152.043.
 (Ord. 1079, passed 4-14-14)
-LAND DEVELOPMENT STANDARDS
+**** LAND DEVELOPMENT STANDARDS ****
 § 152.060 IN GENERAL.
    Recognizing that flood prone areas may exist outside of the designated
 floodplain districts, the requirements of this section apply to all land within
@@ -15825,7 +16112,7 @@ conditioning equipment and other service facilities that are designed and/or
 located so as to prevent water from entering or accumulating within the
 components during conditions of flooding.
 (Ord. 1079, passed 4-14-14)
-PUBLIC UTILITIES, RAILROADS, ROADS, AND BRIDGES
+**** PUBLIC UTILITIES, RAILROADS, ROADS, AND BRIDGES ****
 § 152.070 PUBLIC UTILITIES.
    All public utilities and facilities such as gas, electrical, sewer, and
 water supply systems to be located in the floodplain must be flood proofed in
@@ -15856,7 +16143,8 @@ to impairment or contamination during times of flooding.
 current statewide standards for on-site sewage treatment systems is considered
 to be in compliance with this section.
 (Ord. 1079, passed 4-14-14)
-MANUFACTURED HOMES, MANUFACTURED HOME PARKS, AND RECREATIONAL VEHICLES
+**** MANUFACTURED HOMES, MANUFACTURED HOME PARKS, AND RECREATIONAL VEHICLES
+****
 § 152.080 MANUFACTURED HOMES.
    New manufactured home parks, expansions to existing manufactured home parks,
 and new or replacement manufactured home units on lots of record are prohibited
@@ -15942,7 +16230,7 @@ or contaminated during times of flooding in accordance with §
          (c)   Any fill placed in the floodway to meet the requirements of this
 section must not increase the flood stage of the regional (1% chance) flood.
 (Ord. 1079, passed 4-14-14)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 152.090 ZONING ADMINISTRATOR.
    A Zoning Administrator or other official designated by the City Council must
 administer and enforce this chapter.
@@ -16118,7 +16406,7 @@ granting conditional uses must be forwarded to the DNR within ten days of such
 action. The notice may be sent by electronic mail or U.S. Mail to the
 respective DNR area hydrologist.
 (Ord. 1079, passed 4-14-14)
-NONCONFORMITIES
+**** NONCONFORMITIES ****
 § 152.100 CONTINUANCE OF NONCONFORMITIES.
    A use, structure, or occupancy of land which was lawful before the passage
 or amendment of this chapter but which is not in conformity with the provisions
@@ -16175,7 +16463,7 @@ any additions must meet the requirements of §§
 152.043 for new structures, depending upon whether the structure is in the
 floodway or flood fringe district.
 (Ord. 1079, passed 4-14-14)
-PENALTIES AND ENFORCEMENT
+**** PENALTIES AND ENFORCEMENT ****
 § 152.110 VIOLATION CONSTITUTES A MISDEMEANOR.
    Violation of the provisions of this chapter or failure to comply with any of
 its requirements (including violations of conditions and safeguards established
@@ -16201,7 +16489,7 @@ act in good faith to enforce these official controls and to correct ordinance
 violations to the extent possible so as not to jeopardize its eligibility in
 the National Flood Insurance Program.
 (Ord. 1079, passed 4-14-14)
-AMENDMENTS
+**** AMENDMENTS ****
 § 152.120 FLOODPLAIN DESIGNATION-RESTRICTIONS ON REMOVAL.
    The floodplain designation on the official zoning map must not be removed
 from floodplain areas unless it can be shown that the designation is in error
@@ -16264,7 +16552,7 @@ Permit Provisions
  
    
 153.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.01 INTENT.
    The intent of this chapter is to protect the health, safety and public
 welfare through the control of all signs so as to achieve the following:
@@ -16282,6 +16570,9 @@ appropriate to the type of activity to which they pertain.
 § 153.02 DEFINITION.
    For the purpose of this chapter, the following definition shall apply unless
 the context clearly indicates or requires a different meaning.
+   OFF-PREMISE SIGN. A sign bearing commercial speech that is located on a
+property that is not the premises, property, or site of the use identified or
+advertised on the sign.
    SCOREBOARD. A structurally-engineered sign erected at an athletic field or
 stadium and which is generally used to maintain the score or time expired in an
 event at the field or stadium. This definition includes signs mounted or
@@ -16292,7 +16583,7 @@ or identify the purpose of a person or entity, or to communicate information of
 any kind to the public. Public art as defined and regulated pursuant to
 Chapter 101 of the city code is not a sign under this chapter.
 (Ord. 857, passed 3-9-98; Am. Ord. 993, passed 9-25-06; Am. Ord. 1082, passed
-7-14-14; Am. Ord. 1160, passed 4-14-20)
+7-14-14; Am. Ord. 1160, passed 4-14-20; Am. Ord. 1216, passed 11-10-25)
 § 153.03 EXEMPTED SIGNS.
    (A)   The following signs are exempt from the requirements of this chapter:
       (1)   Public signs, street signs, warning signs, railroad crossing signs,
@@ -16351,18 +16642,21 @@ conformance with §
 153.20(C).
    (C)   No sign shall be installed which by reason of position, movement,
 shape, illumination or color would constitute a traffic hazard by obstructing a
-driver's vision or by interfering, confusing or misleading traffic.
+driver’s vision or by interfering, confusing or misleading traffic.
    (D)   Roof signs.
    (E)   Painted wall signs.
-   (F)   All other signs not expressly permitted by this chapter are
+   (F)   Off-premise signs.
+   (G)   Off-premise signs bearing digital or electronic faces.
+   (H)   All other signs not expressly permitted by this chapter are
 prohibited.
-(Ord. 857, passed 3-9-98; Am. Ord. 993, passed 9-25-06)
-Penalty, see § 153.99
+(Ord. 857, passed 3-9-98; Am. Ord. 993, passed 9-25-06; Am. Ord. 1216, passed
+11-10-25) Penalty, see §
+153.99
 § 153.05 SIGNS WITH MULTIPLE SIGN FACES.
    In cases where a sign has more than one surface which falls under the
 definition of a sign, each individual surface shall be considered to be a sign.
 (Ord. 857, passed 3-9-98; Am. Ord. 993, passed 9-25-06)
-SIGN REGULATIONS
+**** SIGN REGULATIONS ****
 § 153.15 MAINTENANCE AND REMOVAL OF SIGNS.
    (A)   All signs shall be maintained by the owner in a safe condition. A sign
 shall be repainted whenever its paint begins to fade, chip or discolor.
@@ -16494,8 +16788,6 @@ sign (sq.ft.)
 Notes:   1   Signs which are attached to a building and display only the
 name or logo of the occupant are not subject to the maximum size
 restriction.
-   2   Off-premises signs located along Interstate 90 shall be allowed 400
-square feet.
  
 MAXIMUM SIGN HEIGHT
 (Text provisions take precedence over regulations in the table)
@@ -16523,22 +16815,9 @@ level and the lowest portion of any marquee.
       (4)   Marquees, as defined by State Building Code, shall be constructed
 in accordance with applicable building codes, and a building permit shall be
 obtained in addition to the sign permit.
-   (D)   Off-premises signs. Off-premises signs are those with a message which
-is not directly related to the premises on which the sign is located. Off-
-premises commercial signs shall only be permitted in commercial and industrial
-districts, and in those parts of the Transition Zone District designated for
-future commercial or industrial development in the comprehensive guide. Such
-signs shall be subject to the requirements of this section; in the case of such
-signs in the Transition Zone District, the standards to be applied shall be the
-B-3 standard for areas designated for future commercial development, and the
-industrial standard for areas designated for future industrial development. No
-more than one off-premises sign or structure with multiple sign faces shall be
-permitted on a lot or group of lots under common ownership, unless there is a
-minimum separation distance of 500 feet between each sign or structure with
-multiple sign faces.
 (Ord. 857, passed 3-9-98; Am. Ord. 869, passed 10-12-98; Am. Ord. 880, passed
-7-12-99; Am. Ord. 993, passed 9-25-06; Am. Ord. 1160, passed 4-14-20) Penalty,
-see §
+7-12-99; Am. Ord. 993, passed 9-25-06; Am. Ord. 1160, passed 4-14-20; Am. Ord.
+1216, passed 11-10-25) Penalty, see §
 153.99
 § 153.21 SCOREBOARDS.
    (A)   Scoreboards not exceeding 16 feet in height or 200 square feet in
@@ -16617,7 +16896,7 @@ shall be 2,000 square feet.
    (F)   All other signs for parks, fields and athletic venues must comply with
 the applicable provisions in Chapter 153.
 (Ord. 1160, passed 4-14-20)
-PERMIT PROVISIONS
+**** PERMIT PROVISIONS ****
 § 153.30 PERMIT REQUIRED.
    The following provisions are applicable to all signs. It shall be unlawful
 for any person to erect, alter, replace or relocate any sign or other
@@ -16715,7 +16994,7 @@ Standards of Design and Development
  
    
 154.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.01 PURPOSE.
    It is the purpose of this chapter to regulate the platting of land within
 the city pursuant to the authority contained in M.S. Chapters 429, 462, 471,
@@ -16936,7 +17215,7 @@ by the subdivider at the time when the preliminary plat is filed for the
 consideration of the Planning Commission. The petition shall state fully the
 grounds for the variance and all of the facts relied upon by the petitioner.
 (Ord. 989, passed 7-10-06)
-SUBDIVISION PROCEDURES
+**** SUBDIVISION PROCEDURES ****
 § 154.11 MINOR SUBDIVISION.
    (A)   A minor subdivision may not be considered unless the following is
 true:
@@ -17179,7 +17458,7 @@ the townhouse units meets the requirements of the State Building Code.
 used, transferred, owned, or developed only for townhouse units.
 (Ord. 989, passed 7-10-06)
 Penalty, see § 154.99
-STANDARDS OF DESIGN AND DEVELOPMENT
+**** STANDARDS OF DESIGN AND DEVELOPMENT ****
 § 154.30 COMPLIANCE REQUIRED.
    All subdivisions considered for approval must comply with the design
 standards as outlined in §§ 154.31 through 154.36 of this chapter.
@@ -17675,7 +17954,7 @@ Appendix H:   Table 7. Parking Lot Standards - Design Criteria
 Appendix I:   Hydrology
    
 Appendix J:   Specific Development Standards
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 155.001 TITLE.
    This chapter shall be known, referred to and cited as the Zoning Ordinance
 of Worthington, Minnesota.
@@ -18220,7 +18499,7 @@ designated on the Thoroughfare Plan or Official Map.
 passed 1-8-18; Am. Ord. 1116, passed 7-9-18; Am. Ord. 1157, passed 3-9-20; Am.
 Ord. 1159, passed 3-23-20; Am. Ord. 1166, passed 11-23-20; Am. Ord. 1168,
 passed 3-22-21)
-ZONING MAP, DISTRICTS AND BOUNDARIES
+**** ZONING MAP, DISTRICTS AND BOUNDARIES ****
 § 155.025 ZONING MAP.
    The city is hereby divided into zoning districts as shown on the zoning map.
 The zoning map together with all explanatory matter thereon, is hereby adopted
@@ -18293,7 +18572,7 @@ Zoning Appeals shall make the necessary interpretation. The person contesting
 the location of the district boundary shall be given a reasonable opportunity
 to present his case to the Board and submit his own technical evidence if he so
 desires. ('69 Code, § 7-8.09)
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 155.040 LOTS AND YARDS.
    (A)   Required area or space cannot be reduced. No lot, yard, court, parking
 area or other space shall be reduced in area or dimension so as to make said
@@ -18943,7 +19222,7 @@ investigation and tests disclose noncompliance with the performance standards;
 in which situation, the entire investigation or testing cost shall be paid by
 the owner or operator. ('69 Code, § 7-13.03)
 Penalty, see § 155.999
-USES
+**** USES ****
 § 155.055 PERMITTED USES.
    Table No. 5 indicates those use groups which are permitted uses and allowed
 as general development (see §§ 155.160 through 155.171). The use groups
@@ -19070,7 +19349,7 @@ than 10% of the required dimensions or areas, and
 than 20% less than the requirement for new buildings in the district.
 ('69 Code, § 7-15.06)
 Penalty, see § 155.999
-RESIDENCE DISTRICTS
+**** RESIDENCE DISTRICTS ****
 § 155.070 GENERAL PURPOSES.
    (A)   To preserve existing living qualities of residential neighborhoods.
    (B)   To ensure future high quality amenity including, but limited to the
@@ -19243,7 +19522,7 @@ feet.
 ('69 Code, § 7-16.01, Subd. 6) (Am. Ord. 706, passed 6-9-86; Am. Ord. 789,
 passed 5-10-93; Am. Ord. 845, passed 8-11-97; Am. Ord. 854, passed 1-12-98; Am.
 Ord. 1010, passed 2-12-08)
-COMMERCIAL AND INDUSTRIAL DISTRICTS
+**** COMMERCIAL AND INDUSTRIAL DISTRICTS ****
 § 155.085 GENERAL PROVISIONS.
    (A)   Uses. Table 5 designates the only uses permitted in the various
 commercial and industrial districts. To determine the districts where a use is
@@ -19402,7 +19681,7 @@ and rail lines.
          (b)   Enclosure. All open storage shall be screened from view from a
 residential area or street.
 ('69 Code, § 7-16.02, Subd. 3)
-SPECIAL DISTRICTS
+**** SPECIAL DISTRICTS ****
 § 155.100 GENERAL PROVISIONS.
    (A)   Uses. Table 5 designates the only uses permitted in the various
 special districts. To determine the districts where a use is permitted:
@@ -19887,7 +20166,7 @@ prohibited.
 will change the course, current or cross-section of public waters shall be
 subject to the provisions of M.S. § 105.42.
 ('69 Code, § 7-16.03, Subd. 2 G.)
-MOBILE HOME PARK DISTRICT
+**** MOBILE HOME PARK DISTRICT ****
 § 155.120 LICENSE PROVISIONS.
    (A)   Intent. It shall be unlawful for any person to operate any mobile home
 park within the limits of the city unless he holds a valid license issued
@@ -20182,7 +20461,7 @@ secured.
 occupants of this title.
 ('69 Code, § 7-17.07)
 Penalty, see § 155.999
-SHORELAND OVERLAY DISTRICT
+**** SHORELAND OVERLAY DISTRICT ****
 § 155.140 STATUTORY AUTHORIZATION AND POLICY.
    (A)   This subchapter is adopted pursuant to the authorization and policies
 contained in M.S. Chapter 103F, Minnesota Rules, Parts 6120.2500 - 6120.3900,
@@ -21488,7 +21767,7 @@ limit impacts of high densities by requiring seasonal use, improving vegetative
 screening, centralizing shore recreation facilities, installing new sewage
 treatment systems, or other means.
 (Ord. 808, passed 3-13-95)
-DEVELOPMENT PERMITS
+**** DEVELOPMENT PERMITS ****
 § 155.160 COMPLIANCE OF ALL DEVELOPMENT.
    All development within the city except as hereafter specified, shall be
 undertaken in accordance with the terms of this title and only after a
@@ -21913,7 +22192,7 @@ city.
    (C)   Clean earth fill of land outside of a flood hazard zone, wetland or
 "S" District.
 ('69 Code, § 7-25.12)
-SPECIAL DEVELOPMENT
+**** SPECIAL DEVELOPMENT ****
 § 155.185 INTENT OF SPECIAL DEVELOPMENT FOR A CONDITIONAL USE.
    A conditional use is development which would not generally be appropriate
 within a district but might be allowed in certain locations within the district
@@ -22313,7 +22592,7 @@ of any of the following events, whichever first occurs:
 nonconforming,
       (4)   The use has been discontinued for a minimum of six months.
 (Ord. 824, passed 7-8-96; Am. Ord. 1044, passed 7-11-11)
-NONCONFORMING LOTS, USES AND STRUCTURES
+**** NONCONFORMING LOTS, USES AND STRUCTURES ****
 § 155.200 INTENT.
    Where the districts established contain structures and uses of land and
 structures which were lawful before this title was passed or amended, but which
@@ -22479,7 +22758,7 @@ by the Planning Commission and the City Council before it is erected or put
 into place.
 (Ord. 942, passed 10-14-02)
 Penalty, see § 155.999
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 155.215 DEVELOPMENT ADMINISTRATOR.
    (A)   Designation. There is hereby established the office of Development
 Administrator or Planner, hereinafter referred to as Administrator. ('69 Code,
@@ -23047,29 +23326,35 @@ All uses except M-2  Junk yards and used vehicles  6'0"
  
 ('69 Code, Ch. 7 App. Table 3)
 APPENDIX D: TABLE 4. REQUIRED DISTANCE BUFFERING
-USE                                   DISTANCE
-Swimming pool in residential area     10' to property line
-Swimming pool pump or filter          30' to property line
-Air conditioners, independent mounted 10' to property line
-Loading docks                         100' to abutting residential and medical
-                                      uses property line
-Junk yards and salvaging yards        20' to property line
-                                      Amateur radio towers shall comply with
-                                      the same setback requirements of the
-Amateur radio towers                  principal structure in the district it is
-                                      located in and not exceed a height of 50
-                                      feet
-                                      The height of the tower or the length of
-                                      the guy wire, whichever is greater, to
-Commercial communication towers       the property line of an existing or
-                                      future residential district or use.
-                                      Measurement shall begin from the location
-                                      of the tower, including anchors.
-Open air recreation uses              200' to residential district property
-                                      line
+USE                                    DISTANCE
+Swimming pool in residential area      10' to property line
+Swimming pool pump or filter           30' to property line
+Air conditioners, independent mounted  10' to property line
+Loading docks                          100' to abutting residential and medical
+                                       uses property line
+Junk yards and salvaging yards         20' to property line
+                                       Amateur radio towers shall comply with
+                                       the same setback requirements of the
+Amateur radio towers                   principal structure in the district it
+                                       is located in and not exceed a height of
+                                       50 feet
+                                       The height of the tower or the length of
+                                       the guy wire, whichever is greater, to
+                                       the property line of an existing or
+Commercial communication towers        future residential district or use.
+                                       Measurement shall begin from the
+                                       location of the tower, including
+                                       anchors.
+Open air recreation uses               200' to residential district property
+                                       line
+                                       200' to schools or attractions within
+Cannabis business (non-residential use public parks regularly used by minors
+groups PP. through UU. in Chapter 155, including playgrounds and athletic
+Appendix E: Table 5).                  fields. Such distance shall be measured
+                                       property line to property line.
  
 ('69 Code, Ch. 7 App. Table 4) (Am. Ord. 888, passed 12-13-99; Am. Ord. 893,
-passed 6-12-00; Am. Ord. 1173, passed 8-9-21)
+passed 6-12-00; Am. Ord. 1173, passed 8-9-21; Am. Ord. 1212, passed 3-24-25)
 APPENDIX E: TABLE 5. SCHEDULE OF USE REGULATIONS
                                     KEY:   P - Permitted Use
                     SCHEDULE OF USE REGULATIONS         S - Special Development
@@ -23237,6 +23522,8 @@ OO. Automotive
 Repair         ————— — — — — C   C   C   C   C      —�——
 Services
  
+[https://export.amlegal.com/media/d883256f95878f5eefac21737110afcb511bfb17/
+IMAGES/0-0-0-6239.png]
 ('69 Code, Ch. 7 App. Table 5) (Am. Ord. 600, eff. 11-27-76; Am. Ord. 603, eff.
 1-22-79; Am. Ord. 773, passed 1-13-92; Am. Ord. 820, passed 3-25-96; Am. Ord.
 822, passed 4-8-96; Am. Ord. 829, passed 2-24-97; Am. Ord. 846, passed 9-8-97;
@@ -23433,10 +23720,36 @@ repair or maintenance of motor vehicles, trailers, and similar mechanical
 equipment, including but not limited to brake, muffler, upholstery work, tire
 repair and change, lubrication, tune ups, and transmission work, provided it is
 conducted within a completely enclosed building.
+   PP.   INDOOR CULTIVATION - Any activity involving the planting, growing,
+harvesting, drying, curing, grading, or trimming of cannabis plants, cannabis
+flower, hemp plants, or hemp plant parts inside an enclosed building or
+structure.
+   QQ.   OUTDOOR CULTIVATION - Any activity involving the planting, growing,
+harvesting, drying, curing, grading, or trimming of cannabis plants, cannabis
+flower, hemp plants, or hemp plant parts not in an enclosed building or
+structure.
+   RR.   CANNABIS MANUFACTURING, PROCESSING, AND EXTRACTION - Any activity that
+turns raw, dried cannabis and cannabis parts into other types of cannabis
+products.
+   SS.   HEMP MANUFACTURING - The conversion of hemp into lower-potency hemp
+edible products.
+   TT.   WHOLESALE - The sale and distribution of cannabis products to other
+businesses.
+   UU.   CANNABIS RETAIL - The sale of cannabis and cannabis products directly
+to consumers.
+   VV.   CANNABIS TRANSPORTATION - The storage of transportation vehicles for
+cannabis and cannabis product delivery.
+   WW.   CANNABIS DELIVERY - The storage of vehicles for cannabis and cannabis
+product delivery.
+   XX.   TEMPORARY CANNABIS EVENT - A temporary cannabis event as defined by
+state statute and licensed by the Office of Cannabis Management.
+   YY.   LOW-POTENCY EDIBLE SALES - The sale of lower-potency hemp edibles as
+defined by M.S. § 342.01.
 ('69 Code, Ch. 7 App. Table 5) (Am. Ord. 773, passed 1-13-92; Am. Ord. 829,
 passed 2-24-97; Am. Ord. 870, passed 10-12-98; Am. Ord. 1065, passed 12-10-12;
 Am. Ord. 1112, passed 1-8-18; Am. Ord. 1116, passed 7-9-18; Am. Ord. 1157,
-passed 3-9-20; Am. Ord. 1166, passed 11-23-20)
+passed 3-9-20; Am. Ord. 1166, passed 11-23-20; Am. Ord. 1212, passed 3-24-25;
+Am. Ord. 1217, passed 11-10-25)
 APPENDIX F: SCHEDULE OF USE REGULATIONS - SHORELAND OVERLAY DISTRICT (SO)
                                        KEY:   P - Permitted Use
       SCHEDULE OF USE REGULATIONS - SHORELAND OVERLAY DISTRICT (SO)       C -
@@ -23444,7 +23757,8 @@ Conditional Use
                                        A - Accessory Use
 AC- Accessory/Conditional Use
 S - Special Use
-RESIDENTIAL   RESIDENTIAL                   BUSINESS        INDUSTRIAL OTHER
+              RESIDENTIAL                   BUSINESS        INDUSTRIAL OTHER
+RESIDENTIAL      
 USE GROUPS    R- R- R-3 R-4 R-5 R-6 R-7 R-8 B-1 B-2 B-3 B-4 M-1 M-2    I S TZ L
               1  2
 A. Single     P  P  P   P   C   C   P   P   P   C   — — — —    C �P  —
@@ -23590,8 +23904,30 @@ Seating Area
 JJ. Automotive
 Repair         ————— — —     — C   C   C   C   C      —�——
 Services
-KK. Commercial ————— — —     — C   C   C   — —    —�——
+KK. Commercial ————— — — — — C   C   C   — —    —�——
 PUD
+LL. Indoor     ————— — — — — — — — C   C      —�——
+Cultivation
+MM. Outdoor    ————— — — — — — — — — —    —�C  —
+Cultivation
+NN. Cannabis
+Manufacturing, ————— — — — — — — — C   C      —�——
+Processing,
+and Extraction
+OO. Hemp       ————— — — — — — — — C   C      —�——
+Manufacturing
+PP. Wholesale  ————— — — — — — C   — C   C      —�——
+QQ. Cannabis   ————— — — — — C   C   C   C   —    —�——
+Retail
+RR.            ————— — — — — — — — C   C      —�——
+Transportation
+SS. Cannabis   ————— — — — — — — — C   C      —�——
+Delivery
+TT. Temporary  ————— — — — — C   C   C   C   C      —�——
+Cannabis Event
+UU. Low-
+Potency Edible ————— — — — P   P   P   P   P   —    —�——
+Sales
  
 TABLE OF USE GROUPS
 PART I. RESIDENTIAL AND OTHER USE GROUPS
@@ -23768,8 +24104,33 @@ repair or maintenance of motor vehicles, trailers, and similar mechanical
 equipment, including but not limited to brake, muffler, upholstery work, tire
 repair and change, lubrication, tune ups, and transmission work, provided it is
 conducted within a completely enclosed building.
+   LL.   INDOOR CULTIVATION - Any activity involving the planting, growing,
+harvesting, drying, curing, grading, or trimming of cannabis plants, cannabis
+flower, hemp plants, or hemp plant parts inside an enclosed building or
+structure.
+   MM.   OUTDOOR CULTIVATION - Any activity involving the planting, growing,
+harvesting, drying, curing, grading, or trimming of cannabis plants, cannabis
+flower, hemp plants, or hemp plant parts not in an enclosed building or
+structure.
+     NN.   CANNABIS MANUFACTURING, PROCESSING, AND EXTRACTION - Any activity
+that turns raw, dried cannabis and cannabis parts into other types of cannabis
+products.
+   OO.   HEMP MANUFACTURING - The conversion of hemp into lower-potency hemp
+edible products.
+   PP.   WHOLESALE - The sale and distribution of cannabis products to other
+businesses.
+   QQ.   CANNABIS RETAIL - The sale of cannabis and cannabis products directly
+to consumers.
+   RR.   CANNABIS TRANSPORTATION - The storage of transportation vehicles for
+cannabis and cannabis product delivery.
+   SS.   CANNABIS DELIVERY - The storage of vehicles for cannabis and cannabis
+product delivery.
+   TT.   TEMPORARY CANNABIS EVENT - A temporary cannabis event as defined by
+state statute and licensed by the Office of Cannabis Management.
+   UU.   LOW-POTENCY EDIBLE SALES - The sale of lower-potency hemp edibles as
+defined by M.S. § 342.01.
 (Am. Ord. 1157, passed 3-9-20; Am. Ord. 1166, passed 11-23-20; Am. Ord. 1175,
-passed 9-13-21)
+passed 9-13-21; Am. Ord. 1212, passed 3-24-25; Am. Ord. 1217, passed 11-10-25)
 ZONING DISTRICTS
    R-1   One Family Detached Residential District
    R-2   One Family Low Density Residential District
@@ -23901,7 +24262,7 @@ Angle   Width Curb                                     Road Between
 45°    9.0'  19.8'    13.0'       12.7'               52.6' 46.2'
 60°    9.0'  21.0'    18.0'       10.4'               60.0' 55.5'
 90°    9.0'  19.0'    24.0'       9.0'                62.0' n/a
-[https://export.amlegal.com/media/d4e4d1395d16d53f6320cf97b6f3d5f33f12c353/
+[https://export.amlegal.com/media/d883256f95878f5eefac21737110afcb511bfb17/
 IMAGES/0-0-0-5508.bmp]
 1   For parking stalls with an angle of 30° or greater, the minimum stall
 dimensions shall be 9 feet wide and 19 feet long.
@@ -24186,7 +24547,7 @@ Administration
  
    
 156.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.01 PURPOSE AND AUTHORITY.
    The Worthington Municipal Airport Joint Zoning Board, created and
 established by joint action of the City Council of the City of Worthington and
@@ -24262,7 +24623,7 @@ airport which is specifically designated and used, or planned to be used, for
 the landing and/or taking off of the aircraft.
    SLOPE. An incline from the horizontal expressed in arithmetic ratio of
 horizontal magnitude to vertical magnitude.
-[https://export.amlegal.com/media/d4e4d1395d16d53f6320cf97b6f3d5f33f12c353/
+[https://export.amlegal.com/media/d883256f95878f5eefac21737110afcb511bfb17/
 IMAGES/0-0-0-5515.bmp]
    Slope = 3:1 = 3 feet horizontal to 1 foot vertical
    STRUCTURE. Any object constructed or installed by man. It includes but is
@@ -24275,7 +24636,7 @@ visual approach procedures, with no straight-in instrument approach procedure,
 and no instrument approach designation indicated on an approved planning
 document.
 (Ord. passed 9-15-77)
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 156.15 HEIGHT LIMITS.
    (A)   For the purpose of determining the height limits in all zones set
 forth in this chapter or shown on the zoning map, the datum shall be mean sea
@@ -24590,7 +24951,7 @@ operate, and maintain thereon such markers and lights as may be necessary to
 indicate the presence of an airport hazard.
 (Ord. passed 9-15-77)
 Penalty, see § 156.99
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 156.35 AIRPORT DEVELOPMENT ADMINISTRATOR.
    The Planner and Zoning Administrator of the city shall also function as the
 Airport Development Administrator, hereinafter referred to as "Administrator".
@@ -24978,6 +25339,9 @@ Ord. No. Date Passed Description
                      by Ridley Inc.
                      Extending the corporate limits of the city to include
 1207     10-14-24    70.00 acres of unplatted land abutting the city and owned
+                     by Bedford Industries, Inc.
+                     Extending the corporate limits of the city to include
+1210     1-13-25     70.00 acres of unplatted land abutting the city and owned
                      by Bedford Industries, Inc.
                     
  
@@ -25566,6 +25930,29 @@ No.  Passed
               4 Medium Density Residential District.
 1209 12-9-24  Rezoning Lot 1, Block 1, Worthington Bio Science Industrial Park Fourth Addition
               from TZ Transition Zone District to M-2 General Manufacturing District.
+              Rezoning Lots 1 through 4, Block 1, Lot l, Block 2, and the north half of the
+              right-of-way of East Flower Lane, South Shore Apartments, from TZ Transition
+1213 4-14-25  Zone District to R-5 Multi-Family, Medium and High Density District; rezoning
+              Outlot B, and the south half of the right-of-way of East Flower Lane, South
+              Shore Apartments, from TZ Transition Zone District to B-3 General Business
+              District.
+              Rezoning part of Government Lot 3, in Section 26, Township 102, Range 40;
+              excepting therefrom part of Lots 26 and 27 of County Auditor’s Plat of Buss
+              Outlots, Section 28, Township 102, Range 40; together with part of Government
+              Lot 3 and Lot J of the County Auditor’s Plat of the East Okabena Lake Bed in
+              Section 26, Township 102, Range 40; excepting therefrom part of Government Lot
+              3, Section 28, Township 102, Range 40; and also excepting therefrom part of Lot
+              28 of County Auditor’s Plat of Buss Outlots of Government Lot 3 in Section 28,
+              Township 102, Range 40; and also excepting therefrom the northerly 300 feet of
+1214 5-12-25  Outlot 27, and that part of Outlot 26, lying easterly of Outlot 25, all in
+              Auditor’s Plat of Buss Outlots; together with the northerly 300 feet of the
+              easterly 334 feet of Lot 27, of County Auditor’s Plat of Buss Outlots, Section
+              26, Township 102 North, Range 40 West; excepting therefrom the portion of
+              property lying in the right-of-way of East Gateway Drive (formerly Minnesota
+              State Trunk highway 59/60); together with part of Lot 26 of County Auditor’s
+              Plat of Buss Outlots lying southerly of a tract of land in Section 26, Township
+              102, Range 40, from TZ Transition Zone District and B-3 General Business
+              District to M-1 Light Manufacturing District.
              
  
 TABLE V: SPECIAL SERVICE DISTRICTS
@@ -25612,7 +25999,10 @@ Ch. 103F               152.001,
 115.01                 51.001
 115.07                 51.001
 116.082                91.02
+120A.05                117.03
+120A.24                117.03
 Ch. 152                93.12
+152.0263, Subd. 5      117.02
 152.09                 93.12
 157.17, Subd. 9        113.01
 Ch. 169                70.01,
@@ -25635,6 +26025,7 @@ Ch. 201                30.08
 211B.045               153.18
 238.083                114.06
 238.084                114.05
+245.462, Subd. 23      117.03
 260.125                130.02
 270A                   32.30
 270C                   32.30
@@ -25668,7 +26059,22 @@ Ch. 340A               111.52,
 340A.503               111.17
 340A.504 Subd. 3b      111.29
 340A.801               111.32
-Ch. 343                90.08
+Ch. 342                117.01
+                       117.03, Ch. 155, Apps.
+342.01                 E,
+                       F
+342.01, Subd. 50       117.03
+342.11                 117.05
+342.13                 117.05
+342.13(c)              117.02
+342.17                 117.03
+342.22                 117.02,
+                       117.05
+342.22, Subd. 4(b)     117.08
+342.22, Subd. 5(e)     117.10
+342.24                 117.08
+Ch. 343                90.08,
+                       117.04
 343.40, Subd. 2        90.13
 344.02, Subd. 1(a)-(d) 152.018
 347.51                 90.08
@@ -25705,7 +26111,8 @@ Ch. 462                155.004,
                        155.142,
                        155.143
 462.351 - 462.363      154.04
-462.357                152.092
+462.357                117.02,
+                       152.092
 469.190                32.13
 Ch. 471                154.01
 471.195                100.01
@@ -26960,14 +27367,32 @@ Ord. No. Eff. Date Code Section
 1199     6-12-23   T.S.O. IV
 1200     7-24-23   32.30
 1201     12-11-23  54.04
-1202     1-8-24    T.S.O IV
+1202     1-8-24    T.S.O. IV
 1203     4-22-24   155.042,
                    Ch. 155 App. B
                    71.50 -
 1204     6-10-24   71.58,
                    71.98,
                    71.99
-1207     10-14-24  T.S.O I
+1207     10-14-24  T.S.O. I
 1208     11-25-24  54.04
-1209     12-9-24   T.S.O IV
+1209     12-9-24   T.S.O. IV
+1210     1-13-25   T.S.O. I
+1211     2-24-25   117.01 -
+                   117.15
+                   Ch. 155 Apps.
+1212     3-24-25   D,
+                   E,
+                   F
+1213     4-14-25   T.S.O. IV
+1214     5-12-25   T.S.O. IV
+1215     7-28-25   117.16
+                   153.02,
+1216     11-10-25  153.04,
+                   153.20
+                   Ch. 155 Apps.
+1217     11-10-25  E,
+                   F
+1218     11-10-25  117.17
+1219     12-8-25   54.04
                   
