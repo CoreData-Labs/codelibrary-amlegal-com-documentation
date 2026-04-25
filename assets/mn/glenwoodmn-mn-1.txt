@@ -367,7 +367,7 @@ SECTION 6.02.  FURTHER REGULATIONS.
    The Commission may provide by ordinance such further regulations for the
 initiative, referendum, and recall, not inconsistent with this Charter, as it
 deems necessary.
-Initiative
+**** Initiative ****
 SECTION 6.03.  INITIATION OF MEASURES.
    Any five (5) registered voters may form themselves into a committee for the
 initiation of any ordinance except as provided in Section
@@ -460,7 +460,7 @@ SECTION 6.08.  INITIATION OF CHARTER AMENDMENTS.
    Nothing in this Charter shall be construed as in any way affecting the right
 of the registered voters under the Constitution and statutes of Minnesota to
 propose amendments to this Charter.
-Referendum
+**** Referendum ****
 SECTION 6.09.  THE REFERENDUM.
    If, prior to the date when an ordinance takes effect, a petition is signed
 by a number at least equal to fifteen (15) percent of the number of voters
@@ -505,7 +505,7 @@ SECTION 6.11.  REFERENDUM BALLOTS.
    The ballots used in any referendum election shall conform to the rules laid
 down in Section
 6.07 of this Charter for initiative ballots.
-Recall
+**** Recall ****
 SECTION 6.12.  THE RECALL.
    Any five (5) registered voters may form themselves into a committee for the
 purpose of bringing about the recall of any elected officer of the City. The
@@ -2735,7 +2735,10 @@ on any connection with the municipal utility systems, has violated any
 requirement of the city code relative thereto, or any connection therewith;
       (2)   It is the policy of the city to discontinue utility service to
 customers by reason of nonpayment of bills only after notice and a meaningful
-opportunity to be heard on disputed bills. 
+opportunity to be heard on disputed bills.  The city's form for application for
+utility service and all bills shall contain, in addition to the title, address,
+room number, and telephone number of the official in charge of billing, clearly
+visible and easily readable provisions to the effect:
          (a)   That all bills are due and payable on or before the date set
 forth on the bill; and
          (b)   That if any bill is not paid by or before that date, a second
@@ -5827,7 +5830,7 @@ Right-Of-Way Construction Regulations
 90.35   Appeal
    
 90.36   Reservation of regulatory and police powers
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01  UNLOADING ON STREET OR SIDEWALK.
    No person shall unload any heavy material in the streets of the city by
 throwing or letting the material fall upon the pavement of any street, alley,
@@ -5868,7 +5871,7 @@ street or sidewalk closed to public travel or to remove, deface or damage any
 such barricade, fence or obstruction.
 Penalty, see §
 10.99
-RIGHT-OF-WAY CONSTRUCTION REGULATIONS
+**** RIGHT-OF-WAY CONSTRUCTION REGULATIONS ****
 § 90.15  ELECTION TO MANAGE THE PUBLIC RIGHT-OF-WAY.
    In accordance with the authority granted to the city under state and federal
 statutory, administrative and common law, the city hereby elects pursuant to
@@ -10467,7 +10470,7 @@ Chapter 151
 Chapter 152
    Zoning Code, see
 Chapter 153
-BUILDING CODE
+**** BUILDING CODE ****
 § 150.01  CODES ADOPTED.
    The Minnesota State Building Code, as adopted by the Commissioner of
 Administration, pursuant to M.S. §§ 326B.101 though 326B.194, as they may be
@@ -11082,7 +11085,7 @@ peat
 151.43   Nonconformities
    
 151.44   Subdivision/platting provisions
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.01  STATUTORY AUTHORIZATION AND POLICY.
    (A)   Statutory authorization. This shoreland ordinance is adopted pursuant
 to the authorization and policies contained in M.S. Chapter 103F, as it may be

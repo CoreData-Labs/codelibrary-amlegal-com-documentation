@@ -605,7 +605,7 @@ Administration and Enforcement
  
    
 50.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.001 PURPOSE, SCOPE AND AUTHORITY.
    (A)   This chapter regulates the storage, transportation and disposal of
 solid waste materials in the county. If a local requirement is more restrictive
@@ -1195,7 +1195,7 @@ processing facilities by state statute after the adoption date of this chapter
 may be disposed of or processed at these facilities.
 (Ord. 4C, passed 11-14-00)
 Penalty, see § 50.999
-HAULING REQUIREMENTS
+**** HAULING REQUIREMENTS ****
 § 50.020 OPERATING AND EQUIPMENT STANDARDS.
    (A)   (1)   All solid waste which is hauled must be secured in covered,
 leak-proof vehicles or containers such that loads will not blow free or
@@ -1658,7 +1658,7 @@ term of the construction/demolition license.
 of county ordinances and any other conditions set forth in this chapter or
 established by the Board of Commissioners.
 (Ord. 4C, passed 11-14-00)
-SOLID WASTE FACILITIES
+**** SOLID WASTE FACILITIES ****
 § 50.045 FACILITIES COVERED.
    (A)   No person may operate one or more of the following types of
 facilities, except as licensed by the county:
@@ -1924,7 +1924,7 @@ reasons for the denial.
    (D)   The Board shall either approve or deny a license application within 60
 calendar days of receipt of the complete final license application.
 (Ord. 4C, passed 11-14-00)
-SPECIAL WASTES
+**** SPECIAL WASTES ****
 § 50.070 YARD WASTES.
    (A)   Yard waste may not be disposed of at a MMSW disposal or processing
 facility, unless that facility has a designated yard waste compost area which
@@ -2120,7 +2120,7 @@ purchase.
 consumers. Any outlet failing to recycle these batteries is guilty of a
 misdemeanor.
 (Ord. 4C, passed 11-14-00)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 50.090 MODIFICATIONS.
    (A)   The Board may waive or modify the strict application of the provisions
 of this chapter by reducing or waiving certain requirements when the
@@ -2406,7 +2406,7 @@ Administration and Enforcement
  
    
 51.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.01 PURPOSE.
    It is the purpose and intent of this chapter to establish rules, regulations
 and standards for hazardous waste management in the county for the
@@ -2892,7 +2892,7 @@ reasonably foreseeable conditions and must be reasonably designed to prevent
 the escape of mercury into the environment by volatilization or any other
 means.
 (Ord. 60-2007, passed 8-14-07)
-LICENSING REQUIREMENTS
+**** LICENSING REQUIREMENTS ****
 § 51.20 LICENSE REQUIRED.
    Unless otherwise provided by this chapter, no person shall, within the
 county, make or allow property under his, her or its control to be used for any
@@ -3196,7 +3196,7 @@ of hazardous wastes on the site of a terminated operation shall be done in
 compliance with the hazardous waste storage facility rules in Minn. Rules
 Chapters 7045 and 7001 and this chapter.
 (Ord. 28F, passed 10-31-00; Am. Ord. 60-2007, passed 8-14-07)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 51.40 MODIFICATIONS.
    (A)   The County Board may waive or modify the strict application of the
 provisions of this chapter by reducing or waiving certain requirements when the
@@ -3666,7 +3666,7 @@ Enforcement
  
    
 52.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.001 PURPOSE.
    The purpose of this chapter is to establish minimum requirements for
 regulation of subsurface sewage treatment systems (hereinafter “SSTS”) for the
@@ -3807,7 +3807,7 @@ damage resulting from a defective design, construction, operation, abandonment,
 or misplacement of any onsite or cluster SSTS regulated under this rule by
 reason of standards, requirements, or inspections authorized hereunder.
 (Ord. 67-2010, passed 5-17-11)
-SSTS STANDARDS
+**** SSTS STANDARDS ****
 § 52.020 STANDARDS ADOPTED BY REFERENCE.
    Minnesota Rules Chapters 7080, 7081, 7082, and 7083, as they may be amended
 from time to time, relating to SSTS are hereby adopted by reference and made
@@ -4075,7 +4075,7 @@ Agency as described in 40 C.F.R. § 144. Further, owners are required to
 identify all Class V injection wells in property transfer disclosures.
 (Ord. 67-2010, passed 5-17-11) Penalty, see §
 52.999
-GENERAL REQUIREMENTS RETROACTIVITY
+**** GENERAL REQUIREMENTS RETROACTIVITY ****
 § 52.040 ALL SSTS.
    Except as explicitly set forth in §
 52.041, all provisions of this chapter shall apply to any SSTS regardless of
@@ -4106,7 +4106,7 @@ resolution may identify specific geographic areas, timelines for compliance,
 establish incentives, target specific system types, and may include such other
 provisions as necessary to accomplish the goals.
 (Ord. 67-2010, passed 5-17-11)
-SSTS UPGRADE, REPAIR, REPLACEMENT, AND ABANDONMENT
+**** SSTS UPGRADE, REPAIR, REPLACEMENT, AND ABANDONMENT ****
 § 52.055 FAILURE TO PROTECT GROUNDWATER.
    An SSTS that is determined not to be protective of groundwater in accordance
 with Minn. Rules Chapter 7080.1500, subpart 4, item B, must be connected to a
@@ -4144,7 +4144,7 @@ abandonment themselves provided a final inspection is conducted by the
 Department or a licensed SSTS professional.
 (Ord. 67-2010, passed 5-17-11) Penalty, see §
 52.999
-SSTS CONSTRUCTION PERMIT
+**** SSTS CONSTRUCTION PERMIT ****
 § 52.070 SSTS CONSTRUCTION PERMIT REQUIRED.
    It is unlawful for any person, business, firm, or corporation to construct,
 install, modify, replace, or operate an SSTS without the appropriate permit
@@ -4289,7 +4289,7 @@ available for inspection until SSTS construction is completed and a certificate
 of compliance is issued.
 (Ord. 67-2010, passed 5-17-11) Penalty, see §
 52.999
-SSTS MANAGEMENT PLAN
+**** SSTS MANAGEMENT PLAN ****
 § 52.095 PURPOSE.
    The purpose of an SSTS management plan is to describe how a particular SSTS
 is intended to be operated and maintained to sustain the performance required.
@@ -4323,7 +4323,7 @@ three years. Solids must be removed when their accumulation meets the limit
 described in Minn. Rules Chapter 7080.2450.
 (Ord. 67-2010, passed 5-17-11) Penalty, see §
 52.999
-SSTS OPERATING PERMIT
+**** SSTS OPERATING PERMIT ****
 § 52.110 SSTS REQUIRING AN OPERATING PERMIT.
    (A)   An SSTS operating permit shall be required of all owners of new Type
 IV, Type V, MSTS, or any other SSTS deemed by the Department to require
@@ -4439,7 +4439,7 @@ correct them; and
 provider who performed the work.
 (Ord. 67-2010, passed 5-17-11) Penalty, see §
 52.999
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 52.130 OCCUPANCY OR USE OF A STRUCTURE WITHOUT A COMPLIANT SSTS.
    It is unlawful for any person to maintain, occupy, or use any dwelling or
 structure with plumbing that is not:
@@ -4476,7 +4476,7 @@ working for or on behalf of a local unit of government is not allowed to use
 the person’s position to solicit for private business gain.
 (Ord. 67-2010, passed 5-17-11) Penalty, see §
 52.999
-VARIANCES
+**** VARIANCES ****
 § 52.145 VARIANCE REQUESTS.
    A property owner may request a variance from the standards as specified in
 this chapter pursuant to county policies and procedures.
@@ -4509,7 +4509,7 @@ provided in Minn. Rules Chapter 7080.2350, must be approved by MPCA; and
 Minnesota Department of Health.
 (Ord. 67-2010, passed 5-17-11) Penalty, see §
 52.999
-SSTS PRACTITIONER LICENSING
+**** SSTS PRACTITIONER LICENSING ****
 § 52.160 SSTS PRACTITIONER LICENSING.
    No person shall engage in site evaluation, inspection, design, installation,
 construction, alteration, extension, repair, maintenance, or pumping of an SSTS
@@ -4700,7 +4700,7 @@ saturated soil between licensed individuals for SSTS design or compliance
 purposes, all disputing parties must follow the procedure outlined in Minn.
 Rules Chapter 7082.0700, subpart 5.
 (Ord. 67-2010, passed 5-17-11)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 52.180 PUBLIC EDUCATION OUTREACH.
    Programs may be provided by the Department and/or others to increase public
 awareness and knowledge of SSTS. Programs may include distribution of
@@ -4721,7 +4721,7 @@ other records relevant to each SSTS.
    The Department shall provide an annual report of SSTS permitting activities
 to the MPCA.
 (Ord. 67-2010, passed 5-17-11)
-SSTS COMPLIANCE INSPECTION PROGRAM
+**** SSTS COMPLIANCE INSPECTION PROGRAM ****
 § 52.195 DEPARTMENT RESPONSIBILITY.
    The Department, or its agent, is authorized to perform various SSTS
 inspections to assure that the requirements of this chapter are met.
@@ -4922,7 +4922,7 @@ transfer or have the SSTS brought into compliance within 90 days of the
 property transfer.
 (Ord. 67-2010, passed 5-17-11) Penalty, see §
 52.999
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 52.210 NOTICE OF VIOLATION.
    The Department is authorized to serve, in person or by mail, a notice of
 violation to any person determined to be violating provisions of this chapter.
@@ -5472,7 +5472,7 @@ Manure and Land Application Requirements
 54.64   Additional land
    
 54.65   Animal feedlot or manure storage area closure
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 54.01 PURPOSE.
    It is the intent and purpose of this chapter to maintain and improve the
 county’s agricultural economy and community, and to ensure that animal feedlots
@@ -5737,7 +5737,7 @@ property owners/renters seek a resolution through the County Dispute Resolution
 Program or other form of mediation or dispute resolution before pursuing
 litigation.
 (Ord. 49, passed 7-7-03; Am. Ord. 101-2022, passed 7-19-22)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 54.15 ADMINISTRATION.
    (A)    The County Environmental Services Department shall administer this
 chapter. The County Board shall appoint a County Feedlot Officer to discharge
@@ -5865,7 +5865,7 @@ such a fashion as to violate the comprehensive plan or violate any state or
 federal law or rule. The Board shall act in such time as required to comply
 with state law.
 (Ord. 49, passed 7-7-03; Am. Ord. 101-2022, passed 7-19-22)
-PERMIT AND REGISTRATION REQUIREMENTS
+**** PERMIT AND REGISTRATION REQUIREMENTS ****
 § 54.30 FEEDLOT PERMITS.
    (A)   Permit required. Any person owning or operating an existing feedlot,
 or proposing a new feedlot, shall make application to the Environmental
@@ -6047,7 +6047,7 @@ Horse              1.0              Other animals       Average weight ÷ 1,000
    Service fees are annually set by the County Board for various permits and
 other such services.
 (Ord. 49, passed 7-7-03; Am. Ord. 101-2022, passed 7-19-22)
-FEEDLOT AND SETBACK REQUIREMENTS
+**** FEEDLOT AND SETBACK REQUIREMENTS ****
 § 54.45 MINIMUM ACREAGE.
     A minimum area of five acres or such greater area required to meet all
 setbacks set forth by
@@ -6192,7 +6192,7 @@ equivalent (i.e., University of Minnesota approved systems).
 of pollution abatement, may be exempt from this section, if so determined by
 action of the Board of Commissioners.
 (Ord. 49, passed 7-7-03; Am. Ord. 101-2022, passed 7-19-22)
-MANURE AND LAND APPLICATION REQUIREMENTS
+**** MANURE AND LAND APPLICATION REQUIREMENTS ****
 § 54.60 LAND APPLICATION OF MANURE.
    (A)    All application of manure shall follow Minn. Rules Chapter 7020.2225,
 as amended, in addition to the requirements set forth in this chapter.
@@ -10215,7 +10215,7 @@ Sunday Liquor Sales
 110.03   Adoption of state licensing regulations
    
 110.04   Organizational structure requirements
-SUNDAY LIQUOR SALES
+**** SUNDAY LIQUOR SALES ****
 § 110.01 AUTHORITY.
    These regulations are adopted pursuant to M.S. § 340A.504, as it may be
 amended from time to time.
@@ -10737,7 +10737,7 @@ Adult Use Operational Restrictions
  
    
 113.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 113.01 STATUTORY AUTHORIZATION.
    This chapter is adopted pursuant to the authority delegated to Carver County
 by M.S. Chapter 394.
@@ -11012,7 +11012,7 @@ contact with an animal by a human being; and/or
          (g)   Human erection, urination, menstruation, vaginal or anal
 irrigation.
 (Ord. 66-2010, passed 4-13-10)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 113.25 ADULT USE LICENSE AND CONDITIONAL USE PERMIT REQUIRED.
    (A)   No person shall own or operate an adult use; principal without first
 having secured an adult use license and a conditional use permit from Carver
@@ -11250,7 +11250,7 @@ Board or its designee. The applicant may not commence doing business unless the
 action is concluded in its favor.
 (Ord. 66-2010, passed 4-13-10) Penalty, see §
 113.99
-ADULT USE OPERATIONAL RESTRICTIONS
+**** ADULT USE OPERATIONAL RESTRICTIONS ****
 § 113.45 ADULT USE; PRINCIPAL.
    (A)   General provisions. Adult uses as defined in §
 113.12(C) shall be subject to the following general provisions.
@@ -11408,7 +11408,7 @@ registration authority to county
  
    
 114.99   Penalty
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 114.01 FINDINGS AND PURPOSE.
    The purpose of this chapter is to implement the provisions of M.S. Chapter
 342, which authorizes the county to protect the public health, safety, and
@@ -11452,7 +11452,7 @@ and Licensing Department to a state-licensed cannabis retail business.
    STATE LICENSE. An approved license issued by the Minnesota Office of
 Cannabis Management to a cannabis retail business.
 (Ord. 111-2025, passed 7-25-25)
-REGISTRATION OF CANNABIS RETAIL BUSINESSES
+**** REGISTRATION OF CANNABIS RETAIL BUSINESSES ****
 § 114.15 REGISTRATION OF CANNABIS RETAIL BUSINESSES REQUIRED.
    No individual or entity may operate a state-licensed cannabis retail
 business within the county without first registering with the County Elections
@@ -11566,7 +11566,7 @@ while their registration is suspended. The County Elections and Licensing
 Department may reinstate a registration if it determines that the violations
 have been resolved.
 (Ord. 111-2025, passed 7-25-25)
-LIMITING OF CANNABIS RETAIL BUSINESSES
+**** LIMITING OF CANNABIS RETAIL BUSINESSES ****
 § 114.30 LIMIT ON NUMBER OF BUSINESSES.
    The county shall limit the number of cannabis retail businesses to no fewer
 than one registration for every 12,500 population.
@@ -11816,7 +11816,7 @@ Conveyance of Titles
 150.33   Recording prohibited
    
 150.34   Exclusions
-BUILDING CODE
+**** BUILDING CODE ****
 § 150.01 STATE BUILDING CODE ADOPTED.
    The currently enforced Minnesota State Building Code (Residential and
 Commercial), established pursuant to M.S. §§ 326B.101 to 326B.197, as amended
@@ -11876,7 +11876,7 @@ more restrictive or less restrictive than similar conditions imposed by any
 provision of any other community ordinance or regulation, the more restrictive
 conditions shall prevail.
 (Ord. 52, passed 11-25-03; Am. Res. 93-22, passed 11-15-22)
-CONVEYANCE OF TITLES
+**** CONVEYANCE OF TITLES ****
 § 150.30 PURPOSE.
    The county has adopted rules by which it regulates the platting or
 subdivision of lands outside of municipalities as authorized by M.S. § 505.11,
@@ -12068,7 +12068,7 @@ Financial Guarantee
 151.175   Financial guarantee
    
 Appendix:    Road standards
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.001 SHORT TITLE.
    This chapter shall be known as the Carver County Subdivision Ordinance, and
 will be referred to herein as this chapter.
@@ -12394,7 +12394,7 @@ improvements associated with the subdivision of land.
 schedule of fees for the subdivision and development of land as provided by
 this chapter.
 (Ord. 33, § 1.12, passed 1-21-92)
-GENERAL PROCEDURES FOR THE SUBDIVISION OF LAND
+**** GENERAL PROCEDURES FOR THE SUBDIVISION OF LAND ****
 § 151.025 PLATTING REQUIRED.
    With the exception of those divisions of land specifically provided for in
 §§ 151.095 et seq., all subdivisions of land regulated by this chapter shall be
@@ -12447,7 +12447,7 @@ be the same as that for the published notice. Defects in the public notices
 shall not abrogate or annul subsequent proceedings provided a good faith
 attempt was made to give proper notice.
 (Ord. 33, § 2.5, passed 1-21-92)
-SKETCH PLAN
+**** SKETCH PLAN ****
 § 151.040 PURPOSE.
    Subdividers shall prepare, for review and approval by the Department, a
 sketch plan depicting a subdivision proposal. In addition, the subdivider shall
@@ -12499,7 +12499,7 @@ environmental review documents must be completed pursuant to Minn. Rules Parts
 documents are required, the Platting Officer shall notify the subdivider of the
 requirement.
 (Ord. 33, § 3.5, passed 1-21-92)
-PRELIMINARY PLAT
+**** PRELIMINARY PLAT ****
 § 151.055 REQUIREMENT FOR APPLICATION.
    After the completion of the sketch plan process if required, the owner or
 subdivider shall file with the Platting Officer an application for preliminary
@@ -12699,7 +12699,7 @@ provisions for the proper disposal of storm water.
    (F)   A plat or subdivision shall not be approved where a variance will
 subsequently be required in order to use the lots for their intended purpose.
 (Ord. 33, § 4.8, passed 1-21-92)
-FINAL PLAT
+**** FINAL PLAT ****
 § 151.075 FILING OF APPLICATION AND REQUIREMENTS FOR APPLICATION.
    (A)   The owner or subdivider shall file five copies of the final plat no
 later than six months after the date of approval of the preliminary plat or as
@@ -12804,7 +12804,7 @@ elevations, grades, slopes and all other pertinent information concerning the
 completed work. The subdivider shall submit to the county one complete set of
 reproducible MYLAR record plans and two sets of prints of the record plan.
 (Ord. 33, § 5.9, passed 1-21-92)
-MINOR SUBDIVISION APPROVAL
+**** MINOR SUBDIVISION APPROVAL ****
 § 151.095 APPLICATION OF PROVISIONS.
    Notwithstanding the requirements of §§
 151.025 et seq., the provisions of this subchapter shall apply only to those
@@ -12912,7 +12912,7 @@ office of the County Recorder/Registrar of Titles within 90 days after the date
 of approval otherwise the approval of the subdivision shall be considered null
 and void.
 (Ord. 33, § 6.7, passed 1-21-92)
-IMPROVEMENTS
+**** IMPROVEMENTS ****
 § 151.135 RESPONSIBILITY.
    All required improvements are to be installed and furnished by subdivider
 including all costs of inspection by the county, at the sole expense of the
@@ -13092,7 +13092,7 @@ responsible authority. However, this provision does not require the county to
 issue any building permits until all improvements required by the county have
 been fully completed and accepted by the county.
 (Ord. 33, § 8.9, passed 1-21-92)
-SUBDIVISION DESIGN AND PUBLIC IMPROVEMENT/INSTALLATION STANDARDS
+**** SUBDIVISION DESIGN AND PUBLIC IMPROVEMENT/INSTALLATION STANDARDS ****
 § 151.155 GENERAL PROVISIONS.
    (A)   Compliance with statutes, ordinances, regulations, plans. In addition
 to the standards and guidelines established herein, all subdivisions and plats
@@ -13749,7 +13749,7 @@ of that portion of the work. Sod and seed that dies, or washes out, prior to
 acceptance are to be replaced by the developer.
    (D)   Debris and waste. Waste materials of any kind shall not be buried in
 any land or left deposited on any lot or road.
-FINANCIAL GUARANTEE
+**** FINANCIAL GUARANTEE ****
 § 151.175 FINANCIAL GUARANTEE.
    The development contract provided in §
 151.137 requires the developer to provide a financial guarantee. The financial
@@ -14205,7 +14205,7 @@ Public Hearings
  
    
 Appendix:   Zoning map
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.001 SHORT TITLE.
    This chapter shall be known, cited, and referred to as the Carver County
 Zoning Code except as referred to herein where it shall be known as “this
@@ -15412,7 +15412,7 @@ Carver County Fee Schedule as adopted by the County Board of Commissioners. Any
 fees adopted shall be collected by the Department for deposit with the county
 and credited to the general revenue funds.
 (Ord. 47, passed 7-23-02; Am. Ord. 97-2021, passed 7-20-21)
-STANDARDS
+**** STANDARDS ****
 § 152.025 REQUIREMENT FOR COMPLIANCE.
    (A)   No structure shall be erected, converted, enlarged, reconstructed, or
 altered and no structure or land shall be used for any purpose nor in any
@@ -16134,7 +16134,7 @@ of planting, and a final inspection has been completed by the county.
 submitted to assure performance if the county determines that the entire amount
 is no longer required to ensure compliance with permit conditions and rules.
 (Ord. 97-2021, passed 7-20-21; Am. Ord. 108-2024, passed 11-19-24)
-ESSENTIAL SERVICES
+**** ESSENTIAL SERVICES ****
 § 152.050 SCOPE.
    (A)   Land uses that serve a public need, or are deemed beneficial or
 essential to the public health and safety, welfare, or serving a public good of
@@ -16695,7 +16695,7 @@ existing single-family home or farming operation are prohibited.
 (Ord. 70-2010, passed 1-25-11; Am. Ord. 80-2015, passed 6-16-15; Am. Ord. 84-
 2017, passed 7-11-17; Am. Ord. 97-2021, passed 7-20-21) Penalty, see §
 152.999
-“A” AGRICULTURE DISTRICT REGULATIONS
+**** “A” AGRICULTURE DISTRICT REGULATIONS ****
 § 152.070 PERMITTED PRINCIPAL USES.
    (A)   Generally. The permitted principal uses in the “A” District are
 agriculture, including animal agriculture, on parcels of 20 acres or more and
@@ -18189,7 +18189,7 @@ approval of the County Board.
 (Ord.70-2010, passed 1-25-11; Am. Ord. 80-2015, passed 6-16-15; Am. Ord. 97-
 2021, passed 7-20-21; Am. Ord. 108-2024, passed 11-19-24) Penalty, see §
 152.999
-RURAL SERVICE OVERLAY DISTRICT
+**** RURAL SERVICE OVERLAY DISTRICT ****
 § 152.095 PURPOSE.
    The purpose of the overlay zoning district is to recognize and facilitate
 the role of the rural service districts as defined in the comprehensive plan
@@ -18290,7 +18290,7 @@ be such that the agreement is in force so long as the permit is in effect.
 the context of the level of services available in the Rural Service District.
 (Ord. 47, passed 7-23-02; Am. Ord. 97-2021, passed 7-20-21; Am. Ord. 108-2024,
 passed 11-19-24)
-SHORELAND OVERLAY DISTRICT
+**** SHORELAND OVERLAY DISTRICT ****
 § 152.108 STATUTORY AUTHORIZATION AND POLICY.
    (A)   Statutory authorization. This subchapter is adopted pursuant to the
 authorization and policies contained in M.S. Chapter 103F, Minn. Rules Parts
@@ -19253,7 +19253,7 @@ must meet the setback and other requirements of §
 152.034. Any deviation from these requirements must be authorized by a
 variance.
 (Ord. 97-2021, passed 7-20-21)
-FLOODPLAIN OVERLAY DISTRICT
+**** FLOODPLAIN OVERLAY DISTRICT ****
 § 152.143 STATUTORY AUTHORIZATION, FINDINGS OF FACT, AND PURPOSE.
    (A)   Statutory authorization. The legislature of the state has, in M.S.
 Chapters 103F and 394, delegated the responsibility to local government units
@@ -19490,7 +19490,7 @@ consistent with §
 152.153(B)(2) shall be required.
 (Ord. 47, passed 7-23-02; Am. Ord. 88-2018, passed 11-20-18; Am. Ord. 97-2021,
 passed 7-20-21)
-§ 152.148 FLOOD FRINGE DISTRICT (FF).
+*** § 152.148 FLOOD FRINGE DISTRICT (FF). ***
    (A)   Permitted uses. Permitted uses shall be those uses of land or
 structures listed as permitted uses in the underlying zoning use district. If
 no pre-existing, underlying zoning use districts exist, then any residential or
@@ -19985,7 +19985,7 @@ district regulations must be amended to incorporate any revisions by the
 Federal Emergency Management Agency to the floodplain maps adopted in §
 152.006 of this chapter.
 (Ord. 88-2018, passed 11-20-18; Am. Ord. 97-2021, passed 7-20-21)
-TRANSITION AREA OVERLAY ZONE
+**** TRANSITION AREA OVERLAY ZONE ****
 § 152.160 PURPOSE.
    The purpose of this overlay zoning district is to implement the policies
 contained in the comprehensive plan regarding the use of land in the Transition
@@ -20039,7 +20039,7 @@ that it could not easily and economically be converted to the planned land use
 upon urbanization.
 (Ord. 47, passed 7-23-02; Am. Ord. 70-2010, passed 1-25-11; Am. Ord. 97-2021,
 passed 7-20-21)
-RESIDENTIAL CLUSTER DISTRICT
+**** RESIDENTIAL CLUSTER DISTRICT ****
 § 152.175 PURPOSES OF THE DISTRICT.
    The implementation of the provisions of a previous comprehensive plan and
 zoning ordinance resulted in the rezoning of several parcels of land to the
@@ -20114,7 +20114,7 @@ be those stated in §§
 152.036, and
 152.037.
 (Ord. 47, passed 7-23-02; Am. Ord. 97-2021, passed 7-20-21)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 152.190 LAND MANAGEMENT DEPARTMENT; AUTHORITY/RESPONSIBILITY.
    (A)   The Land Management Department, hereinafter called “Department”, is
 responsible to the County Board for the administration and enforcement of this
@@ -20200,7 +20200,7 @@ may be recognized as permitted land uses pursuant to this chapter if approved
 by the County Board.
 (Ord. 47, passed 7-23-02; Am. Ord. 80-2015, passed 6-16-15; Am. Ord. 97-2021,
 passed 7-20-21)
-BOARD OF ADJUSTMENT
+**** BOARD OF ADJUSTMENT ****
 § 152.210 CREATION.
    The Board of Adjustment is hereby established and invested with the
 authority as is hereinafter provided and as provided by M.S. §§ 394.21 through
@@ -20405,7 +20405,7 @@ information is obtained which is relevant to the issue. The Board of Adjustment
 shall then re-hear the issue at another duly called public hearing.
 (Ord. 47, passed 7-23-02; Am. Ord. 70-2010, passed 1-25-11; Am. Ord. 97-2021,
 passed 7-20-21)
-PLANNING COMMISSION
+**** PLANNING COMMISSION ****
 § 152.230 PLANNING COMMISSION ESTABLISHED.
    The Carver County Planning Commission is hereby established and invested
 with such authority as is hereinafter provided and as provided by M.S. §§
@@ -20488,7 +20488,7 @@ to §
 to official controls, conditional use permits and subdivision applications.
 (Ord. 47, passed 7-23-02; Am. Ord. 58-2007, passed 3-27-07; Am. Ord. 80-2015,
 passed 6-16-15; Am. Ord. 97-2021, passed 7-20-21)
-CONDITIONAL AND INTERIM USE PERMITS
+**** CONDITIONAL AND INTERIM USE PERMITS ****
 § 152.245 APPLICATION.
    (A)   Prior to submission of a CUP or IUP application, the person applying
 for a CUP or IUP shall submit a concept plan and meet with the Department to
@@ -20729,7 +20729,7 @@ enacting or amending official controls to change the status of conditional or
 interim uses.
 (Ord. 47, passed 7-23-02; Am. Ord. 70-2010, passed 1-25-11; Am. Ord. 97-2021,
 passed 7-20-21)
-AMENDMENTS
+**** AMENDMENTS ****
 § 152.265 AMENDMENT OF ZONING CODE.
    The provisions of this chapter may be amended by the Board of County
 Commissioners of Carver County.
@@ -20840,7 +20840,7 @@ passed 7-20-21)
 denied by the County Board, no request for the same district change on the same
 property will be considered for at least one year.
 (Ord. 47, passed 7-23-02; Am. Ord. 97-2021, passed 7-20-21)
-PUBLIC HEARINGS
+**** PUBLIC HEARINGS ****
 § 152.285 PUBLIC HEARINGS.
    (A)   A public hearing shall be held as required by M.S. § 394.26, as it may
 be amended from time to time. In addition to the notice requirements of M.S. §
@@ -20998,7 +20998,7 @@ Enforcement
 Appendix A: Volume and Water Quality Calculations
    
 Appendix B: Maintenance
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.01 DISCLAIMER, INTERPRETATION AND OTHER GENERAL PROVISIONS.
    (A)   Disclaimer. This chapter does not imply that areas within or outside
 of the CCWMO will be free from water related damages. This chapter does not
@@ -21294,7 +21294,7 @@ providing guidance and specific standards for decision-makers, residents,
 landowners, educators, and implementing staff at the local level.
 (Ord. 57-2005, passed 1-10-06; Am. Ord. 75-2012, passed 6-26-12; Am. Ord. 83-
 2016, passed 9-20-16; Am. Ord. 99-2022, passed 6-28-22)
-GENERAL REQUIREMENTS AND REVIEW PROCESS
+**** GENERAL REQUIREMENTS AND REVIEW PROCESS ****
 § 153.10 GENERAL REQUIREMENT FOR COMPLIANCE.
    (A)   Effective date. This chapter shall take effect immediately upon its
 passage and publication according to law.
@@ -21506,7 +21506,7 @@ the county may require additional submittals.
 county may deny the application. Reason for denial shall be in writing.
 (Ord. 57-2005, passed 1-10-06; Am. Ord. 75-2012, passed 6-26-12; Am. Ord. 83-
 2016, passed 9-20-16; Am. Ord. 99-2022, passed 6-28-22)
-APPLICATION REQUIREMENTS
+**** APPLICATION REQUIREMENTS ****
 § 153.40 FEES.
    Responsible parties for approval of a project shall provide a fee as set
 forth in the Carver County fee schedule.
@@ -21796,7 +21796,7 @@ application may be required. Requests for additional information shall be
 submitted in writing to the responsible party and shall specify requirements
 for submittal to the county.
 (Ord. 99-2022, passed 6-28-22)
-STANDARDS
+**** STANDARDS ****
 § 153.55 EROSION AND SEDIMENT CONTROL DESIGN AND OPERATIONAL STANDARDS.
    (A)   Carver County adopts and incorporates by reference the erosion and
 sediment control design and operational standards as set forth in Minnesota
@@ -22447,7 +22447,7 @@ disturbing activities are not permitted.
    (G)   Monumentation requirements may be altered for sites with unique
 circumstances at county discretion.
 (Ord. 99-2022, passed 6-28-22)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 153.70 AUTHORITY/RESPONSIBILITY.
    The county shall have the overall authority to enforce the provisions of
 this chapter. If the LGU has an approved and adopted Local Water Plan and
@@ -22943,7 +22943,7 @@ Noncommercial Speech
 Appeals
    
 154.45   Appeals
-PURPOSE AND DEFINITIONS
+**** PURPOSE AND DEFINITIONS ****
 § 154.01 FINDINGS, PURPOSE AND EFFECT.
    (A)   Findings. The County Board hereby finds as follows:
       (1)   Exterior signs have a substantial impact on the character and
@@ -23192,7 +23192,7 @@ designed to communicate information about an activity, business, commodity,
 event, sale, or service, that is placed inside a window or upon the window
 panes or glass and is visible from the exterior of the window.
 (Ord. 58-2007, passed 3-27-07)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 154.10 PERMIT REQUIRED.
    (A)   No sign shall be erected, altered, reconstructed, maintained or moved
 in the county without first securing a permit from the county or as part of a
@@ -23274,7 +23274,7 @@ remedies, as determined appropriate by the county, may be imposed upon the
 applicant, permittee, installer, property owner, or other responsible person in
 addition to or separate from other enforcement actions.
 (Ord. 58-2007, passed 3-27-07)
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.20 SIZE.
    (A)   No sign shall exceed 32 square feet of surface area. The size of a
 two-sided sign shall be calculated based on the surface area of only one of the
@@ -23373,7 +23373,7 @@ zoning code.
    This chapter shall apply to all sign applications applied for and/or pending
 prior to its enactment.
 (Ord. 58-2007, passed 3-27-07)
-NONCONFORMING USES
+**** NONCONFORMING USES ****
 § 154.35 NONCONFORMING SIGNS; COMPLIANCE.
    It is recognized that signs exist within the county which were lawful before
 this chapter was enacted, which would be prohibited, regulated or restricted
@@ -23403,7 +23403,7 @@ the structure shall be removed and all signs painted directly on the structure
 shall be repainted in a neutral color or a color which will harmonize with the
 structure.
 (Ord. 58-2007, passed 3-27-07)
-NONCOMMERCIAL SPEECH
+**** NONCOMMERCIAL SPEECH ****
 § 154.40 NONCOMMERCIAL SPEECH.
    Notwithstanding any other provisions of this chapter, all signs of any size
 containing noncommercial speech may be posted from August 1 in any general
@@ -23419,7 +23419,7 @@ favoring of commercial speech over noncommercial speech, or favoring of any
 particular noncommercial message over any other noncommercial message. This
 provision prevails over any more specific provision to the contrary.
 (Ord. 58-2007, passed 3-27-07)
-APPEALS
+**** APPEALS ****
 § 154.45 APPEALS.
    (A)   Filing. A person wishing to appeal any order, requirement, decision or
 determination made by the county pursuant to this chapter shall, within 30 days
