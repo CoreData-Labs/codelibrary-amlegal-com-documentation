@@ -1,7 +1,7 @@
 CITY OF CHARLESTOWN, INDIANA
 CODE OF ORDINANCES
-2025 S-2 Supplement contains:
-Local legislation current through Ord. 2025-OR-19, passed - -2025; and
+2026 S-2 Supplement contains:
+Local legislation current through Ord. 2026-OR-01, passed 3-2-26; and
 State legislation current through Indiana Legislative Service,
 2024 Acts, Pamphlet No. 3
  
@@ -937,7 +937,7 @@ Minimum Standards for Employment
 33.54   Disciplinary and dismissal actions
    
 33.55   Resignations; layoffs; reduction in force
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.01 EMPLOYEE HANDBOOK.
    (A)   The city’s Board of Public Works and Safety shall have exclusive
 responsibility for and shall adopt an employee handbook setting forth the
@@ -1179,7 +1179,7 @@ audited as provided by law.
 specifications prepared by or under the authority of its purchasing agents for
 each reverse auction in which the purchasing agency participates.
 (Ord. 2004-OR-22, passed 10-21-2004)
-DRUGS AND ALCOHOL TESTING POLICY
+**** DRUGS AND ALCOHOL TESTING POLICY ****
 § 33.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1761,7 +1761,7 @@ substances, the employee is subject to suspension, with or without pay, at the
 discretion of the Board of Public Works.
 (Ord. 2000-OR-02, passed 3-6-2000) Penalty, see §
 10.99
-MINIMUM STANDARDS FOR EMPLOYMENT
+**** MINIMUM STANDARDS FOR EMPLOYMENT ****
 § 33.40 APPLICATION AND DEFINITIONS.
    (A)   Employees affected by this subchapter. This subchapter shall apply to
 all appointed city and municipal employees of the city, regardless of what
@@ -2103,7 +2103,7 @@ Fixed Assets
 34.16   Recording and accounting
    
 34.17   Safeguarding of assets
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 PLANNING REVIEW AND DEVELOPMENT FEES.
    The review and development fees as outlined in the schedule attached to the
 ordinance codified in this section are approved and implemented by the Common
@@ -2131,7 +2131,7 @@ follow the existing internal controls ordinance that is place with regard to
 the Clerk Treasurer and her agents in the administration of their financial
 duties for the City of Charlestown, as provided by law.
 (Ord. 2022-OR-14, passed 8-1-2022)
-FIXED ASSETS
+**** FIXED ASSETS ****
 § 34.15 DEFINITIONS AND PROVISIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2706,7 +2706,6 @@ Reporting Requirements
 52.080   Notice of violation; repeat sampling and reporting
    
 52.081   Certification statements
- 
 Compliance Monitoring
    
 52.090   Wastewater survey
@@ -2736,11 +2735,13 @@ Rates and Charges
    
 52.125   Pretreatment charges and fees
    
-52.126   Wastewater service rates and charges
+52.126   Sewer capacity fees
+   
+52.127   Wastewater service rates and charges
  
    
 52.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.001 PURPOSE AND POLICY.
    (A)   This chapter sets forth uniform requirements for users of the
 publicly-owned treatment works (POTW) for the city and enables the city to
@@ -3488,7 +3489,7 @@ the Board; and
       (8)   A provision specifying remedies available for breach of the terms
 of the interlocal municipal agreement.
 (Ord. 2009-OR-06, passed 6-1-2009; Ord. 2025-OR-19, passed - -2025)
-GENERAL SEWER USE REQUIREMENTS
+**** GENERAL SEWER USE REQUIREMENTS ****
 § 52.020 PROHIBITED DISCHARGE STANDARDS.
    (A)   General prohibitions.
       (1)   No user shall introduce or cause to be introduced into the POTW any
@@ -3872,7 +3873,7 @@ section.
 (Ord. 2012-OR-12, passed 10-1-2012; Ord. 2025-OR-19, passed - -2025) Penalty,
 see §
 52.999
-PRETREATMENT OF WASTEWATER
+**** PRETREATMENT OF WASTEWATER ****
 § 52.040 PRETREATMENT FACILITIES.
    (A)   Users shall provide wastewater treatment as necessary to comply with
 this chapter and shall achieve compliance with all categorical pretreatment
@@ -4068,7 +4069,7 @@ report as required in 40 CFR 441.50(a).
    (C)   The Board may periodically survey or inspect dental dischargers to
 ensure compliance with the code.
 (Ord. 2025-OR-19, passed - -2025)
-WASTEWATER DISCHARGE PERMIT APPLICATION
+**** WASTEWATER DISCHARGE PERMIT APPLICATION ****
 § 52.055 WASTEWATER ANALYSIS.
    When requested by the Board, a user must submit information on the nature
 and characteristics of his, her or their wastewater within ten days of the
@@ -4417,7 +4418,7 @@ terms of the control mechanism or this chapter; and
       (12)   Ceasing operations or failure to notify of a transfer of ownership
 without prior Board approval per § 52.061 of this code.
 (Ord. 2025-OR-19, passed - -2025)
-REPORTING REQUIREMENTS
+**** REPORTING REQUIREMENTS ****
 § 52.070 SUBMITTAL REQUIREMENTS.
    (A)   Certification of the following reports is required by an authorized or
 duly authorized representative of the user and contain the certification
@@ -4751,7 +4752,7 @@ the best of my knowledge and belief, there has been no increase in the level of
 activities at the facility since filing of the last periodic report under 40
 CFR 403.12(e).
 (Ord. 2025-OR-19, passed - -2025)
-COMPLIANCE MONITORING
+**** COMPLIANCE MONITORING ****
 § 52.090 WASTEWATER SURVEY.
    (A)   The Board is authorized to identify and locate all possible users
 which might be subject to the Board's approved pretreatment program, any other
@@ -4900,7 +4901,7 @@ least three years. This period shall be automatically extended for the duration
 of any litigation concerning the user or the city, or where the user has been
 specifically notified of a longer retention period by the Board, state, or EPA.
 (Ord. 2009-OR-06, passed 6-1-2009; Ord. 2025-OR-19, passed - -2025)
-ADMINISTRATIVE AND ENFORCEMENT
+**** ADMINISTRATIVE AND ENFORCEMENT ****
 § 52.110 ADMINISTRATIVE ENFORCEMENT REMEDIES.
    (A)   Notification of violation. When the Superintendent finds that a user
 has violated, or continues to violate, any provision of this chapter, a
@@ -5316,7 +5317,7 @@ during normal periods of equipment downtime or preventive maintenance; and
 its adverse effects, if the Board determines that it will meet the three
 conditions listed in division (C)(4)(a) above.
 (Ord. 2009-OR-06, passed 6-1-2009; Ord. 2025-OR-19, passed - -2025)
-RATES AND CHARGES
+**** RATES AND CHARGES ****
 § 52.125 PRETREATMENT CHARGES AND FEES.
    (A)   The city may adopt reasonable fees for reimbursement of costs of
 setting up and operating the city’s pretreatment program which may include:
@@ -5382,7 +5383,139 @@ chapters, this chapter shall take precedence; and
       (3)   This list may be updated as determined by the Board to update, add,
 or remove user fees or rates.
 (Ord. 2009-OR-06, passed 6-1-2009; Ord. 2025-OR-19, passed - -2025)
-§ 52.126 WASTEWATER SERVICE RATES AND CHARGES.
+§ 52.126 SEWER CAPACITY FEES.
+   (A)   Definitions. For the purpose of this section, the following
+definitions shall apply unless the context clearly indicates or requires a
+different meaning.
+      AVERAGE DAILY FLOW (ADF). As defined by 327 I.A.C. 3-6-11, which is the
+flow rate requirements for collection systems and water pollution treatment/
+control facilities.
+      CITY. The City of Charlestown, Indiana, or representatives acting on its
+behalf.
+      COLLECTOR SEWER. A sanitary sewer of minimum eight inches in diameter
+which receives sanitary sewage or wastewater from the individual service
+lateral sewers.
+      COUNCIL. The Common Council of the city or any duly authorized officials
+acting on its behalf.
+      DESIGN OCCUPANT LOAD. The number of persons that are intended to occupy a
+building, or portion thereof, at any one time, based on the facility’s intended
+use. The DESIGN OCCUPANT LOAD shall comply with the most current standards of
+the state’s Building Code, 675 I.A.C.
+      EQUIVALENT DWELLING UNIT (EDU). The equivalent of the sanitary sewage
+flow produced by a single-family residence served by a single service lateral
+discharging a base flow; that being established as 310 gallons of wastewater
+per day.
+      FLOW CALCULATION FACTOR (FCF). The recommended minimum daily sewerage
+production per occupant unit, per occupant type, the same definition as defined
+in Table 11-1 of 327 I.A.C. 3-6-11.
+      MAY. An act that is permissive.
+      PERSON. Any persons or entities, including any individual, firm, company,
+municipal or private corporation, limited liability company, association,
+society, institution, enterprise, governmental agency or other legal entity.
+      SERVICE LATERAL SEWER. The branch from the collector sewer to the
+residence or equivalent unit for the purposes of conveying sewage or wastewater
+to the collection system for disposal.
+      SEWER CAPACITY FEE. The payment required to be paid by a customer of the
+utility for the purpose of allowing the utility to maintain and/or replace the
+capacity of the sanitary sewer collection system and wastewater treatment
+facility anticipated to be used by the customer. This charge applies to all
+customers, including but not limited to each single-family residence, multi-
+residential structures and commercial, industrial or government customers of
+the utility.
+      SHALL. An act that is mandatory.
+   (B)   Sewer capacity fee. Beginning on the effective date of this chapter,
+prior to the issuance of a preliminary plat, final plat or building permit for
+any new structure, renovated structure, structure that is being used in a
+different manner, or developments, a sewer capacity fee of $3,100 per
+equivalent dwelling unit (EDU) shall be levied against a user connecting to the
+city’s sewage works as follows. Likewise, if a structure is not altered, but
+will be put to a different use which is anticipated to cause an increase in the
+wastewater discharge to the utility, a sewer capacity fee will be required, as
+described hereafter in this chapter.
+      (1)   Calculation of EDU.
+         (a)   Single-family residence. A single-family residential connection
+shall equal one EDU, which is established at 310 GPD.
+         (b)   Duplex residence. A duplex residential connection shall equal
+two EDUs.
+         (c)   Tri-plex residence. A tri-plex residential connection shall
+equal three EDUs.
+         (d)   Uses other than single-family, duplex, and tri-plex residential
+users. All other utility customers making new connections or changing the use
+of the structures served by the utility shall pay a sewer capacity fee based on
+the equivalent EDU or, in the case of changes, the anticipated increase in
+EDUs. The number of equivalent EDUs shall be calculated by dividing the average
+daily flow (ADF) by 310 GPD, as described in division (B)(2) below. The ADF
+shall be calculated by multiplying the flow calculation factor(s) (FCF) by the
+design occupant load (see attachment to Ord. 2025-OR-09).
+         (e)   Changes of use. If the use to which a structure with an existing
+utility connection changes, such that the ADF is likely to increase, or does
+increase, the owner is required to pay an additional sewer capacity fee in an
+amount equal to the difference in ADF between the previous use and the intended
+(or changed) use, prior to the time that the new use begins. Any person that
+intends to change the use of such a structure, or who does change the use of
+such a structure, shall promptly notify the utility’s billing office, in
+writing, on a form provided by the utility’s billing office, of the intended
+change of use. Failure to provide such written notice is a violation of this
+chapter.
+      (2)   Calculation of sewer capacity fee.
+         (a)   The sewer capacity fee shall be calculated as follows:
+ 
+Capacity fee = number of EDUs x $3,100
+ 
+         (b)   Final determination of sewer capacity fees for structures other
+than single-family residential structures shall only be made after details of
+the structure’s proposed use, area (footprint) and design occupant load have
+been determined and submitted to the city for review (also see attachment to
+Ord. 2025-OR-09).
+      (3)   Previously paid fees. If a sewer tap-in fee or sewer capacity fee
+has previously been paid, that tap-in permit shall be honored for a period of
+five years from the original date of payment. If not used within that time, the
+tap-in permit will expire.
+      (4)   Refunds; transfers. In all cases, a sewer tap-in fees and sewer
+capacity fee is non- refundable and non-transferrable and shall remain with the
+property or improvement for which it was issued and applied.
+      (5)   Abandonment. In the event that a structure that has previously
+tapped into the utility ceases to produce sanitary sewage flow and pay a usage
+fee to the utility for a period of more than six months, before that structure
+is allowed to discharge sanitary sewage to the utility the owner of the
+structure shall pay an additional sewer capacity fee. However, notwithstanding
+any provisions to the contrary, an owner of an existing single-family
+residential structure, existing duplex residential structure, or existing tri-
+plex residential structure that ceases to produce sanitary sewage flow and pay
+a usage fee to the utility for a period of more than six months will not be
+required to pay an additional sewer capacity fee and instead must meet the
+following conditions in order for such residential structure to be permitted to
+discharge sanitary sewage to the utility: (i) the owner pays the utility a
+sewer tap inspection fee (defined herein) of $30; (ii) the owner pays the
+utility a sewer disconnect/reconnect fee of $70; and (iii) provides a
+certification from a licensed plumber that the sewer line connecting to their
+property has been televised and is free of defects from the tap to the
+residential dwelling. The provisions of the preceding sentence only apply to
+existing single-family, duplex, and tri-plex residential properties as of the
+effective date of this section and do not apply to non-residential properties,
+multi-family residential properties, or to any demolition and rebuild of a new
+residential structure, which will be required to pay an additional sewer
+capacity fee pursuant to this section.
+   (C)   Sewer tap inspection fee. In addition to the capacity fee, a separate
+sewer tap inspection fee of $30 shall be paid by all customers connecting to
+the city’s sewage works, for each tap (“Sewer Tap Inspection Fee”). The sewer
+tap inspection fee shall be paid prior to making the lateral connection to the
+city’s sanitary sewer facilities.
+   (D)   Sewer disconnect/reconnect fee (service charge) $70. When water
+service is turned off for non-payment of bill, or whenever for any reason
+beyond the control of the Wastewater Department a re-establishment of service
+is required by any one customer, this fee will be charged by the Wastewater
+Department to cover the cost of discontinuance and re-establishment of service.
+The fee together with any arrears due to the Wastewater Department, shall be
+paid by customer before service will be re-established.
+   (E)   Fines for non-compliance. A person who fails to pay any fee when
+required by this section, or that violates any other provision of this section,
+shall be subject to fines. The minimum fine for any violation of this section
+shall be $25, with the maximum fine for a violation of this section being
+$1,500. Each day a violation continues is considered a separate offense.
+(Ord. 2018-OR-11, passed 4-2-2018; Ord. 2020-OR-18, passed 8-3-2020; Ord. 2025-
+OR-09, passed 6-2-2025; Ord. 2025-OR-21, passed 12-1-2025)
+§ 52.127 WASTEWATER SERVICE RATES AND CHARGES.
    Table 52.126-1
 High Strength/Surcharge Table
           Current              2026                 2027
@@ -5404,7 +5537,8 @@ Phosphorus  7         $5.00      7         $5.00      7             $5.00
  
 (Ord. 2001-OR-09, passed 4-16-2001; Ord. 2005-OR-12, passed 6-27-2005; Ord.
 2010-OR-09, passed 4-5-2010; Ord. 2021-OR-15, passed 7-8-2021; Ord. 2025-OR-19,
-passed - -2025) Penalty, see § 52.999
+passed - -2025) Penalty, see §
+52.999
 § 52.999 PENALTY.
    (A)   (1)   When the Board finds that a user has violated, or continues to
 violate, any provision of this chapter, a wastewater discharge permit or order
@@ -5489,6 +5623,7 @@ TITLE VII: TRAFFIC CODE
 71.   TRAFFIC AND PARKING SCHEDULES
 CHAPTER 70: TRAFFIC AND PARKING
 Section
+General Provisions
    
 70.01   Vehicle tow-in fee
    
@@ -5497,9 +5632,38 @@ Section
 70.03   Skateboards and other similar devices
    
 70.04   Golf carts, low speed vehicles, and utility task vehicles
+Designating Certain Parking Restrictions Upon City Streets
+   
+70.15   Definitions
+   
+70.16   Street parking
+   
+70.17   Parking within marked parking spaces
+   
+70.18   Parking on streets with no marked parking spaces
+   
+70.19   Parking in alleys, sidewalks, and other areas
+   
+70.20   Parking longer than 72 hours prohibited
+   
+70.21   Parking vehicles facing oncoming traffic
+   
+70.22   Towing and storage charges
+   
+70.23   Parking prohibited in specific place
+   
+70.24   Designated parking restrictions on certain highway, streets, alleys, or
+parking areas
+   
+70.25   Subdivision inclusion
+   
+70.26   Violations and fines
+   
+70.27   Enforcement and appeals
  
    
 70.99   Penalty
+**** GENERAL PROVISIONS ****
 § 70.01 VEHICLE TOW-IN FEE.
    (A)   Tow-in fee. The Police Department shall assess a $45 tow-in fee for
 each vehicle the Department orders towed, except in those instances where a
@@ -5732,6 +5896,222 @@ of the provisions of this section.
 fines shall be placed into the Charlestown Police Department non-reverting fund
 account to be used for Police Department training, equipment, and supplies.
 (Ord. 2025-OR-06, passed 7-7-2025; Ord. 2025-OR-13, passed 9-3-2025)
+**** DESIGNATING CERTAIN PARKING RESTRICTIONS UPON CITY STREETS ****
+§ 70.15 DEFINITIONS.
+   As used in this subchapter:
+   APPROVED PARKING SURFACE AREA. Any hard pan surface such as asphalt,
+concrete, gravel, rock or other surface approved by the City of Charlestown
+Code Enforcement Officer. Parking on grass, dirt, cinders, brick dust, lime or
+other surface deemed non-compliant by the City of Charlestown Code Enforcement
+Officer shall be prohibited.
+   VEHICLE. Every device, in upon or by which any person or property is or may
+be transported or drawn or moved upon a street, highway, waterway or airway
+shall include any automobile, bus, truck, motorcycle, moped, motor home, board,
+aircraft, recreational vehicle, trailer, fifth wheel trailer, campers or camper
+shell.
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.16 STREET PARKING.
+   No person shall stop, stand, or park a vehicle upon the public streets of
+the city where doing so limits the road width to less than 12 feet, which shall
+be measured from the side mirrors or other furthest most point from the vehicle
+or in such a way to prevent a travel path of access of emergency responders.
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.17 PARKING WITHIN MARKED PARKING SPACES.
+   (A)   Parking spaces shall be marked upon the streets of the city only upon
+the order of the Board of Public Works.
+   (B)   All vehicles parked upon or in streets upon which parking spaces have
+been designated by lines, painted or otherwise placed upon streets of the city,
+shall be parked within a space so that no part of the vehicle touches any of
+the lines designating the parking space, and it shall be unlawful for any
+vehicle to be parked upon or in any such street in any other manner.
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.18 PARKING ON STREETS WITH NO MARKED PARKING SPACES.
+   All vehicles parked upon or in streets upon which no parking spaces have
+been designated shall be parked parallel to the curb, with the right-hand
+wheels of the vehicle not further than one foot from the curb, and on the right
+side of the street. It shall be unlawful for any vehicle to be parked upon or
+in any such street in any other manner.
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.19 PARKING IN ALLEYS, SIDEWALKS AND OTHER AREAS.
+   (A)   It shall be unlawful for any vehicle to park in any alley; however,
+this section shall not apply to vehicles parking in alleys for a period of not
+more than 30 minutes for the purpose of loading and unloading the vehicle.
+   (B)   It shall be unlawful to park any vehicle or any part of a vehicle on
+any sidewalk in the city.
+   (C)   Parking in more than 25% of a residential property shall be
+prohibited. The 25% shall be inclusive of all vehicles, structures, driveways,
+pull-offs and greenspace. Parking on green space shall be permitted; however,
+all property shall be maintained from damage resulting in standing water or the
+leakage of oils, or other fluids from the vehicles.
+   (D)   It shall be unlawful to park any RV, camper or trailer unattended or
+unattached to a vehicle on public street or highway.
+   (E)   It shall be unlawful to park any vehicle in a state of disrepair,
+inoperable, dismantled, having expired or no registration on any public street,
+highway or property within the City of Charlestown.
+   (F)   It shall be unlawful to park or cause a vehicle to be parked on a
+residential lot without consent of the deeded owner or controlling agent of the
+property. Vehicles parked in private residential property without express
+authorization may be moved with a signed affidavit from the property owner or
+controlling agent by any member of the Charlestown Police Department or
+Charlestown Code Enforcement Office. The vehicle owner is liable for cost
+incurred with removal of the vehicle.
+   (G)   It shall be unlawful to park in any manner that will impede egress to
+a private drive or alley, or park in any manner that does not allow a vehicle
+to safely enter the flow of traffic.
+   (H)   It shall be unlawful to park a vehicle on any public street or highway
+for the purposes of:
+      (1)   Parking a vehicle for sale; or
+      (2)   Washing, greasing or repairing such vehicles for commercial
+purposes, except when repairs are necessitated by an emergency.
+   (I)   It shall be unlawful to park any type of vehicle within an
+intersection.
+   (J)   It shall be unlawful to park within 15 feet of a fire hydrant.
+   (K)   It shall be unlawful to park any type of vehicle in a yellow marked
+curbed area.
+   (L)   It shall be unlawful to park any type of vehicle within 30 feet of an
+intersection.
+   (M)   It shall be unlawful to park any type of vehicle alongside or opposite
+a street excavation.
+   (N)   It shall be unlawful to park any type of vehicle within 30 feet of a
+driveway entrance to a fire station or on the side of a street opposite the
+entrance to the fire station.
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.20 PARKING LONGER THAN 72 HOURS PROHIBITED.
+   It shall be unlawful to park any vehicle, other than a trailer used for
+construction or repair purposes, on any street in the city for a period of more
+than 72 hours continuously. Vehicles must be moved a minimum of ten feet from
+the original location to be in compliance with this subchapter. In the case of
+a trailer used for construction or repair purposes such trailer must be removed
+upon completion of the work. In any case, a trailer must be parked in front of
+the premises at which the work is being performed. (This allows for guest
+events, parties, yard sales, open houses and other gatherings)
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.21 PARKING VEHICLES FACING ONCOMING TRAFFIC.
+   It shall be unlawful to park any vehicle along the side of any street so
+that its vehicle faces oncoming traffic from the nearest lane of travel.
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.22 TOWING AND STORAGE CHARGES.
+   Before the owner or person in charge of any impounded vehicle shall be
+permitted to remove it from the custody of the owner, agent, employee, or lease
+of the parking area or garage where the vehicle has been stored, they must pay
+any and all towing charges, plus storage charge. They will also read and adhere
+to the instructions on the violation ticket placed on the vehicle by the
+investigating officer.
+   (A)   Members of the Charlestown Police Department are authorized to
+immediately remove a vehicle under the circumstances enumerated as determined
+by the officer:
+      (1)   When any vehicle is left unattended upon any bridge, viaduct or
+causeway where such a vehicle constitutes an obstruction to traffic.
+      (2)   When a vehicle upon a public street or highway is so disabled as to
+constitute an obstruction to traffic and the person in charge of the vehicle is
+by reason of physical injury or incapacitated to such an extent as to provide
+for its custody or removal.
+      (3)   When any vehicle is left unattended in any so marked emergency
+access lane, fire lane or within 15 feet of any fire hydrant.
+      (4)   When any vehicle is left unattended on any public street, highway
+or alley and is so parked illegally to constitute a hazard or obstruction to
+the normal movement of traffic.
+      (5)   When any unauthorized vehicle is left unattended on any private
+property, including multi-family residential housing property, retail
+establishments, professional offices, a house of worship, or public building
+where all vehicular entrances to such parking lots have signs posted
+prohibiting unauthorized parking, in a form prescribed by the Chief of Police.
+      (6)   When any authorized vehicle is left unattended in parking spaces
+that are designated and marked as reserved or handicapped spaces.
+      (7)   When the illegal parking of the vehicle or the vehicle is causing
+any emergency situation by preventing ingress or egress of any foot or
+vehicular traffic or by preventing the movement of traffic, or the record shows
+that the vehicle has had a prior citation for unauthorized parking at the same
+business.
+      (8)   When any vehicle is remaining on a snow emergency route 12 hours
+after a snow emergency has been declared by the mayor or designee of the City
+of Charlestown.
+      (9)   In the event a vehicle is towed, or personal property is removed
+pursuant to this subchapter, the owner of the vehicle shall be liable for all
+tow-in and removing storage fees.
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.23 PARKING PROHIBITED IN SPECIFIC PLACE.
+   (A)   No person shall stop, stand or park a vehicle except with the
+direction of a police officer or traffic control devise, in the following
+locations.
+      (1)   Withing ten feet of a crosswalk or an intersection.
+      (2)   On a crosswalk.
+      (3)   Within 30 feet upon the approach to any flashing beacon, stop sign,
+or traffic control signal located at the side of the roadway.
+      (4)   On any bridge or elevated structure, except were indicated
+otherwise.
+      (5)   Upon any island which separates traffic lanes.
+      (6)   At any place where official signs or marking have been temporarily
+erected or painted prohibiting parking or stopping.
+      (7)   Parking within three feet of a public or private mail receptacle.
+      (8)   Restricting or delaying the mail delivery to a public or private
+property by parking in a way as to cause such delays or non-delivery to occur.
+   (B)   This section shall not apply to any emergency vehicle of a Fire
+Department, Police or Sheriff Department, Emergency Medical Services, official
+vehicles of the City, County State or Federal Government, official volunteer
+firefighters and emergency medical technicians, and any other type of
+department equipment used by them, while they are actually engaged in
+authorized work upon the surface or other portions or appurtenances to the
+highway, except that all such persons shall exercise reasonable care to avoid
+injury to any person or damage to property. This section shall not apply to
+those vehicles stopping or standing when in a line of traffic due to official
+traffic control devices, signals or orders of public safety officers.
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.24 DESIGNATED PARKING RESTRICTIONS ON CERTAIN HIGHWAY, STREETS, ALLEYS, OR
+PARKING AREAS.
+   The following city streets, highways, alleys, or parking areas are
+designated for parking specific restrictions, the listed streets, highways,
+alleys and parking areas are also required to adhere to all sections of this
+subchapter in addition to those presented in the attached Exhibit A to Ord.
+2026-OR-01.
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.25 SUBDIVISION INCLUSION.
+   The city shall include in this subchapter the ability to enforce any parking
+restrictions set forth by any subdivision in accordance with those respective
+subdivision's parking regulations. Those restrictions will be held on file in
+the office of the Building Commissioner.
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.26 VIOLATIONS AND FINES.
+   Any person receiving a citation for violating this subchapter of the City of
+Charlestown shall be deemed to have committed a violation and shall be fined in
+accordance with the following:
+   (A)   Initial notice of violation shall result in a verbal or posted warning
+requiring compliance within 72 hours of notice.
+   (B)   Second notice of violation resulting from a failure to adhere to the
+initial notice shall result in the issuance of a certified notice of violation
+requiring immediate compliance.
+   (C)   Third notice of violation resulting from a failure to comply with the
+previous notice(s) will result in the issuance of a certified letter of
+citation in the amount of $25 payable within 30 days of receipt to the Office
+of the Clerk Treasurer, 304 Main Cross, Charlestown Indiana 47111.
+   (D)   A fourth and final notice of violation resulting from failure to
+comply with previous notice(s) will result in the issuance of a certified
+letter of citation in the amount of $50 and the possibility of the vehicle(s)
+being towed at the owner's expense. Payment to be made within 30 days to the
+Office of the Clerk Treasurer, 304 Main Cross, Charlestown, Indiana 47111.
+   (E)   In the event of an emergency, the Charlestown Police Department, Code
+Enforcement Officer or Charlestown Fire Department personnel shall authorize
+the immediate removal of any vehicles in violation of this subchapter at the
+owner's expense.
+   (F)   The City of Charlestown does not wish to create hardships on any
+person(s) or business and will make all reasonable efforts to assist in
+bringing the property/vehicle into compliance. Please contact the Charlestown
+Building Commissioner/Code Enforcement Officer at 812-256-3422 Ext. 305 for
+assistance.
+(Ord. 2026-OR-01, passed 3-2-2026)
+§ 70.27 ENFORCEMENT AND APPEALS.
+   (A)   Citations issued by the Charlestown Police Department are adjudicated
+through the Charlestown Board of Public Works and Safety. All appeals of issued
+citations shall be made in writing to the Charlestown Clerk Treasurer’s Office,
+304 Main Cross, Charlestown, Indiana 47111 and must be received by the Clerk
+Treasurer within 30 days of receipt/posting. The Charlestown Board of Public
+Works and Safety is the hearing authority for the enforcement of this
+subchapter.
+   (B)   Appeals of any enforcement actions by the Charlestown Board of Public
+Works and Safety may be appealed to the appropriate court for writ of
+certiorari to correct errors of law within 30 days of final action by the
+Charlestown Board of Public Works and Safety.
+(Ord. 2026-OR-01, passed 3-2-2026)
 § 70.99 PENALTY.
    (A)   Any person violating any provision of this chapter for which no
 specific penalty is prescribed shall be subject to §
@@ -6017,6 +6397,8 @@ TITLE IX: GENERAL REGULATIONS
 93.   PARKS AND RECREATION
       
 94.   FAIR HOUSING
+      
+95.   TREES
 CHAPTER 90: ANIMALS
 Section
    
@@ -6225,7 +6607,7 @@ property conditions
  
    
 91.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 DEFINITIONS.
 For the purpose of this chapter, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -6490,7 +6872,7 @@ Circuit Court.
 sufficient evidence to support the Board’s determinations and are not in the
 nature of a trial de novo.
 (Ord. 2016-OR-07, passed 2-15-2016)
-UNLAWFUL NOISES
+**** UNLAWFUL NOISES ****
 § 91.20 PUBLIC POLICY.
    In order to eliminate the nuisance caused by offensive, unnecessary and
 undesirable noises in the city, the Common Council ordains:
@@ -6601,7 +6983,7 @@ the city (the “BPW”). Such permit shall be at no cost to the applicant, and 
 person aggrieved by the action of the BPW may appeal that decision to the
 Common Council.
 (Ord. 2009-OR-8, passed 8-8-2009)
-MOSQUITOES
+**** MOSQUITOES ****
 § 91.35 ELIMINATING CONDITIONS FAVORABLE TO MOSQUITO GROWTH.
    No person(s), business and/or property owner shall own, maintain or allow to
 exist, any of the following condition(s) that may harbor or create, or have the
@@ -7242,6 +7624,145 @@ and shall cooperate with the Mayor and the Commission to further such purposes.
 information on remedies available to any aggrieved person or complainant
 requesting such information.
 (Ord. 2020-OR-15, passed 8-3-2020)
+CHAPTER 95: TREES
+Section
+   
+95.01   Purpose
+   
+95.02   Definitions
+   
+95.03   Authority and power
+   
+95.04   Tree planting and care standards
+   
+95.05   Prohibition against harming public trees
+   
+95.06   Adjacent owner responsibility
+   
+95.07   Certain trees declared a nuisance
+ 
+   
+95.99   Violations and penalty
+§ 95.01 PURPOSE.
+   To enhance the quality of life and the present and future health, safety,
+and welfare of all residents, to enhance property values, and to ensure proper
+planting and care of trees on public property, the Common Council herein
+delegates the authority and responsibility for managing public trees,
+establishes practices governing the planting and care of trees on public
+property, and makes provision for the emergency removal of trees on private
+property under certain conditions.
+(Ord. 2025-OR-20, passed 12-1-2025)
+§ 95.02 DEFINITIONS.
+   As used in this chapter, the following words and phrases shall have the
+meanings indicated:
+   DAMAGE. Any injury to or destruction of a tree, including but not limited
+to: uprooting; severance of all or part of the root system or main trunk;
+storage of material on or compaction of surrounding soil; a substantial change
+in the natural grade above a root system or around a trunk; surrounding the
+tree with impervious paving materials; or any trauma caused by accident or
+collision.
+   NUISANCE. Any tree, or limb thereof, that has an infectious disease or
+insect; is dead or dying; obstructs the view of traffic signs or the free
+passage of pedestrians or vehicles; or threatens public health, safety, and
+welfare.
+   PARKWAY. The area along a public street between the curb and the sidewalk;
+or if there is no curb or sidewalk, the unpaved portion of the area between the
+street right-of-way line and the paved portion of the street or alley.
+   PUBLIC PROPERTY. All grounds and rights-of-way (ROWs) owned or maintained by
+the city.
+   PUBLIC TREE. Any tree or woody vegetation on city-owned or city-maintained
+property or rights-of-way.
+   TOP or TOPPING. The non-standard practice of cutting back of limbs to stubs
+within a tree's crown to such a degree so as to remove the normal canopy and
+disfigure the tree.
+(Ord. 2025-OR-20, passed 12-1-2025)
+§ 95.03 AUTHORITY AND POWER.
+   (A)   Delegation of authority and responsibility. The City of Charlestown
+Building Commissioner, Code Enforcement Officer, Parks Director, and/or their
+designee, hereinafter referred to as the "Director", shall have full authority
+and responsibility to plant, prune, maintain and remove trees and woody plants
+growing in or upon all municipal streets, rights-of-ways, city parks, and other
+public property. This shall include the removal of trees that may threaten
+electrical, telephone, gas, or any municipal water or sewer line, or any tree
+that is affected by fungus, insect, or other pest disease.
+   (B)   Coordination among city departments. All city departments will
+coordinate as necessary with the Director and will provide services as required
+to ensure compliance with this chapter as it relates to streets, alleys,
+rights-of-way, drainage, easements, and other public properties not under
+direct jurisdiction of the Director.
+   (C)   Interference. No person shall hinder, prevent, delay, or interfere
+with the Director or his or her agents while engaged in carrying out the
+execution or enforcement of this chapter.
+(Ord. 2025-OR-20, passed 12-1-2025)
+§ 95.04 TREE PLANTING AND CARE STANDARDS.
+   (A)   Standards. All planting and maintenance of public trees shall conform
+to the American National Standards Institute (ANSI) A-300 "Standards for Tree
+Care Operations" and shall follow all tree care Best Management Practices
+(BMPs) published by the International Society of Arboriculture.
+   (B)   Requirements of franchise utility companies. The maintenance of public
+trees for utility clearance shall conform to all applicable utility industry
+standards.
+   (C)   Preferred species list. The Director shall maintain an official list
+of desirable tree species for planting on public property in two size classes:
+Ornamental (20 feet or less in height at maturity) and Shade (greater than 20
+feet at maturity). Trees from this approved list may be planted without special
+permission; other species may be planted with written approval from the
+Director.
+   (D)   Planting distances. The Director shall develop and maintain an
+official set of spacing requirements for the planting of trees on public
+property. No tree may be planted within the visibility triangle of a street
+intersection or within ten feet of a fire hydrant.
+   (E)   Planting trees under electric utility lines. Only trees listed as
+Ornamental trees on the official city tree species list may be planted under or
+within 15 lateral feet of any overhead utility wire.
+(Ord. 2025-OR-20, passed 12-1-2025) Penalty, see § 95.99
+§ 95.05 PROHIBITION AGAINST HARMING PUBLIC TREES.
+   (A)   It shall be unlawful for any person, firm, or corporation to damage,
+remove, or cause the damage or removal of a tree on public property without
+written permission from the Director.
+   (B)   It shall be unlawful for any person, firm, or corporation to attach
+any cable, wire, sign, or any other object to any street, park, or public tree.
+   (C)   It shall be unlawful for any person, firm, or corporation to "top" any
+public tree. Trees severely damaged by storms or other causes, where best
+pruning practices are impractical may be exempted from this provision at the
+determination of the Director.
+   (D)   Any person, firm, corporation, or city department performing
+construction near any public tree(s) shall consult with the Director and shall
+employ appropriate measures to protect the tree(s), according to procedures
+contained in the Best Management Practices (BMPs) for "Managing Trees During
+Construction" published by the International Society of Arboriculture.
+   (E)   Each violation of this section as determined and notified by the
+Director shall constitute a separate violation, punishable by fines and
+penalties under § 95.99, in addition to mitigation values placed on the tree(s)
+removed or damaged in violation of this section.
+(Ord. 2025-OR-20, passed 12-1-2025) Penalty, see § 95.99
+§ 95.06 ADJACENT OWNER RESPONSIBILITY.
+   (A)   The owner of land adjacent to any city street or highway, when acting
+within the provisions of this chapter, may plant and maintain trees in the
+adjacent parkway area.
+   (B)   No property owner shall allow a tree, or other plant growing on his or
+her property to obstruct or interfere with pedestrians or the view of drivers,
+thereby creating a hazard. If an obstruction persists, the Director shall
+notify the property owner to prune or remove the tree or plant. If the owner
+fails to comply with the notice, the city may undertake the necessary work and
+charge the cost to the property owner.
+(Ord. 2025-OR-20, passed 12-1-2025) Penalty, see § 95.99
+§ 95.07 CERTAIN TREES DECLARED A NUISANCE.
+   (A)   Any tree, or limb thereof, on private property determined by the
+Director to have contracted a lethal, communicable disease or insect; to be
+dead or dying; to obstruct the view of traffic signs or the free passage of
+pedestrians or vehicles; or that threatens public health, safety, and welfare
+is declared a nuisance and the city may require its treatment or removal.
+   (B)   Private property owners have the duty, at their own expense, to remove
+or treat nuisance trees on their property. The city may remove such trees at
+the owner's expense if the owner does not comply with treatment and/or removal
+as specified by the Director within the written notification period.
+(Ord. 2025-OR-20, passed 12-1-2025) Penalty, see § 95.99
+§ 95.99 VIOLATIONS AND PENALTY.
+   Any person, firm or corporation violating any provision of this subchapter
+shall be deemed guilty of a misdemeanor and shall be subject to a fine not to
+exceed $500 for each offense.
+(Ord. 2025-OR-20, passed 12-1-2025)
 TITLE XI: BUSINESS REGULATIONS
    Chapter
       
@@ -7283,7 +7804,7 @@ Electricians
  
    
 110.99   Penalty
-REMOTE FOOD SALES
+**** REMOTE FOOD SALES ****
 § 110.01 APPLICABILITY.
    (A)   Authorization. Subject to the other provisions of this subchapter,
 remote food sales are hereby allowed within the city on properties that are
@@ -7452,7 +7973,7 @@ address of the permit holder’s designated representative; or
    (C)   Sent by certified or first-class mail addressed to the address that
 the permit holder provided in its most recent annual permit application.
 (Ord. 2020-OR-09, passed 5-4-2020)
-ELECTRICIANS
+**** ELECTRICIANS ****
 § 110.20 APPLICABILITY; LICENSE REQUIRED.
    (A)   Scope. All persons, firms and entities performing any installation,
 alteration or repair of any electrical wiring, devices, panels or equipment
@@ -7803,7 +8324,7 @@ Unsafe Building Law
  
    
 150.99   Penalty
-BUILDING CODE
+**** BUILDING CODE ****
 § 150.01 TITLE.
    This subchapter and all ordinances supplemental or amendatory hereto shall
 be known as the “Building Code of the City of Charlestown, Indiana,” may be
@@ -7963,7 +8484,7 @@ made by the Building Commissioner, and any such action for mandatory injunctive
 relief may be joined with an action to recover the penalties provided for in
 this subchapter.
 (Ord. 2001-OR-18, passed 8-28-2001)
-INSPECTION WARRANTS
+**** INSPECTION WARRANTS ****
 § 150.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8045,7 +8566,7 @@ returned to the court within 72 hours after execution upon the owner, occupant
 or possessor of the property, with a notation of what relevant circumstances
 were discovered upon inspection.
 (Ord 2018-OR-22, passed 12-3-2018)
-UNSAFE BUILDING LAW
+**** UNSAFE BUILDING LAW ****
 § 150.45 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9548,7 +10069,7 @@ Minimum Improvements
  
    
 153.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.01 PURPOSE; AUTHORITY.
    (A)   Purpose. The purpose of this chapter is to enact provisions amending
 and clarifying the requirements for the development of subdivisions in the City
@@ -9893,7 +10414,7 @@ planting and harvesting seasons.
 all properties within the subdivision, the covenants shall convey to the city
 the right to enforce the terms and conditions of the restrictive covenants.
 (Ord. 2003-OR-13, passed 5-8-2003)
-DESIGN STANDARDS
+**** DESIGN STANDARDS ****
 § 153.25 GENERAL STANDARDS.
    Unless otherwise approved by the Commission, all roadway designs shall
 conform with the design following standards: The city’s Storm Drainage, Erosion
@@ -10114,7 +10635,7 @@ subdivision, or a portion of the subdivision, in accordance with this chapter,
 such area shall either be dedicated to the proper public agency within a
 specified reasonable period of time.
 (Ord. 2003-OR-13, passed 5-8-2003)
-MINIMUM IMPROVEMENTS
+**** MINIMUM IMPROVEMENTS ****
 § 153.45 WORK AND MATERIALS.
    (A)   All plans, work and materials shall conform with best engineering and
 construction practices, and all construction shall be in accordance with plans
@@ -10234,7 +10755,7 @@ Rights-of-Way and Easements
  
    
 154.99   Penalty
-RIGHTS-OF-WAY AND EASEMENTS
+**** RIGHTS-OF-WAY AND EASEMENTS ****
 § 154.01 REQUIREMENTS.
    (A)   Any person, firm or corporation now owning, operating or hereafter
 installing and operating any utility within the right-of-way of any street or
@@ -10416,11 +10937,11 @@ within a reasonable amount of time, or if the traffic flows cannot be
 maintained. Exceptions will be made for emergencies as defined in §
 154.02 of this code.
 Figure 1
-[https://export.amlegal.com/media/6805ee1d4621613beb0f5fca313be8ca13b53bf2/
+[https://export.amlegal.com/media/467789bbda863333db5ccdc307f6830c1078f2e4/
 IMAGES/0-0-0-811.png]
  
 Figure 2
-[https://export.amlegal.com/media/6805ee1d4621613beb0f5fca313be8ca13b53bf2/
+[https://export.amlegal.com/media/467789bbda863333db5ccdc307f6830c1078f2e4/
 IMAGES/0-0-0-813.png]
  
 (Ord. 2020-OR-11, passed 7-6-2020) Penalty, see §
@@ -10897,7 +11418,7 @@ floodways/fringes
  
    
 156.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.01 STATUTORY AUTHORIZATION.
    The state legislature has in I.C. 36-7-4 granted the power to local
 government units to control land use within their jurisdictions. Therefore, the
@@ -11429,7 +11950,7 @@ liability on the part of the city, the state’s Department of Natural Resources
 or the state for any flood damage that results from reliance on this chapter or
 any administrative decision made lawfully thereunder.
 (Ord. 2014-OR-04, passed 4-7-2014)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 156.25 FLOODPLAIN ADMINISTRATOR DESIGNATION; DUTIES; RESPONSIBILITIES.
    (A)   Designation of Administrator. The Common Council of the city hereby
 appoints the Building Commissioner to administer and implement the provisions
@@ -11648,7 +12169,7 @@ preserve the historic character and design of the structure.
 Appeals may attach such conditions to the granting of variances as it deems
 necessary to further the purposes of this chapter.
 (Ord. 2014-OR-04, passed 4-7-2014)
-FLOOD HAZARD REDUCTION
+**** FLOOD HAZARD REDUCTION ****
 § 156.40 GENERAL STANDARDS.
    In all SFHAs and known flood prone areas, the following provisions are
 required.
@@ -12048,7 +12569,7 @@ Special and Nonconforming Uses
  
    
 157.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 157.01 PURPOSE; AUTHORITY.
    (A)   The purpose of this chapter is to enact provisions amending and
 clarifying the Zoning Code for the City of Charlestown, Indiana (hereinafter
@@ -12123,7 +12644,7 @@ feet of any kindergarten, elementary school, junior high school or high school.
 regulations, except as allowed. As with other ordinances, any amendment to city
 zoning ordinances shall be subject to veto by the city executive only as
 permitted by law.
-ZONING DESIGNATIONS
+**** ZONING DESIGNATIONS ****
 § 157.15 GENERAL REQUIREMENTS FOR ALL ZONING DESIGNATIONS.
    Except as otherwise provided, the following standards shall apply in all
 areas that have any zoning designation.
@@ -13161,7 +13682,7 @@ ensure proper design for prospective tenants.
 INAAP Redevelopment District Zoning classification and developmental standards
 and is consistent with the city’s Comprehensive Plan.
 (Ord. 2005-OR-18, passed 9-12-2005)
-PLANNED UNIT DEVELOPMENTS
+**** PLANNED UNIT DEVELOPMENTS ****
 § 157.35 INTENT OF DESIGNATION.
    (A)   The purpose of these designations is to provide greater design
 flexibility in the development of land when consistent with the intent of the
@@ -13452,7 +13973,7 @@ so that the land will be zoned into a category or categories which most nearly
 approximate its then existing use or such other zoning category or categories
 which the legislative body deems appropriate.
 (Ord. 2003-OR-14, passed 5-8-2003)
-SPECIAL AND NONCONFORMING USES
+**** SPECIAL AND NONCONFORMING USES ****
 § 157.60 SPECIAL USES.
    The following is a list of “special uses.” In addition to meeting the
 regular requirements of the zoning classification in which it is located each
@@ -13971,7 +14492,7 @@ Ord. No.      Date Passed Code Section
 2001-OR-03    2-19-2001   TSO Table III
 2001-OR-04    3-5-2001    33.01
 2001-OR-06    4-16-2001   TSO Table IV
-2001-OR-09    4-16-2001   52.126
+2001-OR-09    4-16-2001   52.127
 2001-OR-10    8-6-2001    TSO Table IV
 2001-OR-11    8-6-2001    TSO Table IV
                           150.01-
@@ -14027,7 +14548,7 @@ Ord. No.      Date Passed Code Section
 2005-OR-08    5-2-2005    70.99
 2005-OR-09    6-6-2005    70.03,
                           70.99
-2005-OR-12    6-27-2005   52.126
+2005-OR-12    6-27-2005   52.127
 2005-OR-18    9-12-2005   157.22
 2004-OR-05(A) 9-19-2005   TSO Table IV
 2005-OR-19    10-3-2005   TSO Table III
@@ -14082,7 +14603,7 @@ Ord. No.      Date Passed Code Section
                           52.111–
                           52.113,
                           52.125,
-                          52.126,
+                          52.127,
                           52.999
                           91.20-
 2009-OR-8     8-8-2009    91.22,
@@ -14090,7 +14611,7 @@ Ord. No.      Date Passed Code Section
 2009-OR-19    1-4-2010    TSO Table II
 2010-OR-05    3-1-2010    153.28,
                           153.99
-2010-OR-09    4-5-2010    52.128
+2010-OR-09    4-5-2010    52.127
                           70.02,
 2010-OR-10    7-6-2010    70.99,
                           Ch. 71, Schd. I
@@ -14139,7 +14660,8 @@ Ord. No.      Date Passed Code Section
 2017-OR-11    7-6-2017    TSO Table V
 2018-OR-01    1-22-2018   TSO Table III
 2018-OR-08    3-5-2018    TSO Table IV
-2018-OR-11    4-2-2018    52.999
+2018-OR-11    4-2-2018    52.126,
+                          52.999
                           110.20-
 2018-OR-12    4-2-2018    110.28,
                           110.99
@@ -14173,7 +14695,8 @@ Ord. No.      Date Passed Code Section
                           154.15
 2020-OR-15    8-3-2020    94.01-
                           94.11
-2020-OR-18    8-3-2020    52.999
+2020-OR-18    8-3-2020    52.126,
+                          52.999
                           50.01-
 2020-OR-12    8-17-2020   50.07,
                           50.99
@@ -14184,7 +14707,7 @@ Ord. No.      Date Passed Code Section
 2021-OR-07    6-7-2021    TSO Table IV
 2021-OR-8     6-7-2021    TSO Table IV
 2021-OR-14    7-8-2021    TSO Table IV
-2021-OR-15    7-8-2021    52.126
+2021-OR-15    7-8-2021    52.127
 2021-OR-18    9-9-2021    TSO Table II
 2021-OR-23    10-4-2021   31.01
 2021-OR-19    10-9-2021   TSO Table II
@@ -14217,6 +14740,7 @@ Ord. No.      Date Passed Code Section
 2025-OR-01    1-6-2025    TSO Table II
 2025-OR-06    7-7-2025    70.04
 2025-OR-08    6-2-2025    93.06
+2025-OR-09    6-2-2025    52.126
 2025-OR-10    7-7-2025    TSO Table V
 2025-OR-13    9-3-2025    70.04
 2025-OR-14    10-6-2025   TSO Table II
@@ -14238,5 +14762,11 @@ Ord. No.      Date Passed Code Section
                           52.125,
                           52.126,
                           52.999
+                          95.01–
+2025-OR-20    12-1-2025   95.07,
+                          95.99
+2025-OR-21    12-1-2025   52.126
+2026-OR-01    3-2-2026    70.15–
+                          70.27
                          
  
