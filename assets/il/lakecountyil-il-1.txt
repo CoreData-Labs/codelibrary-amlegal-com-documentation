@@ -513,7 +513,7 @@ Departments
 30.58   Human Resources
    
 30.59   Division of Transportation
-LAKE COUNTY BOARD
+*** LAKE COUNTY BOARD ***
 § 30.01 ELECTION OF BOARD MEMBERS.
    (A)   County Board members shall be elected as set by state statute as found
 in the Illinois Election Code (10 ILCS 5/1-1 et seq.).
@@ -625,7 +625,7 @@ Ord. 11-0517, passed 6-14-2011)
    The Chair of the County Board shall be elected by the members of the County
 Board.
 (1977 Code, § 1:8-1) (Ord. passed 5-14-1991)
-OFFICIALS
+*** OFFICIALS ***
 § 30.20 DIRECTOR OF FINANCE AND ADMINISTRATIVE SERVICES, ESTABLISHED; DUTIES.
    (A)   The Department of Finance and Administrative Services is hereby
 established.
@@ -684,7 +684,7 @@ Director of Transportation upon the advice and consent of the County Board. The
 County Engineer/Director shall enjoy all powers and duties provided by state
 statute, 605 ILCS 5/5-101 et seq.
 (Res. passed 2-10-2015)
-COUNTY ADMINISTRATOR
+*** COUNTY ADMINISTRATOR ***
 § 30.35 POSITION CREATED.
    There is herewith created, under the Classification and Compensation
 Ordinances of the county, the position which shall be known and designated as
@@ -1041,7 +1041,7 @@ agency, including allegations related to agents, officers, employees, or any
 other person performing work on behalf of the unit of local government or
 agency.
 (Ord. 11-0733, passed 9-13-2011)
-MISCELLANEOUS ORGANIZATIONS
+*** MISCELLANEOUS ORGANIZATIONS ***
 § 31.015 PUBLIC BUILDING COMMISSION.
    There is need, and it is in the best interest of the public that a Public
 Building Commission be organized to exercise the powers and authority
@@ -1197,7 +1197,7 @@ hereinafter known as the Lake County Stormwater Management Commission, shall
 remain in full force and effect and shall apply to the Lake County Stormwater
 Management Commission.
 (1977 Code, § 6:2-8) (Ord. passed 6-10-1991)
-WORKFORCE INVESTMENT BOARD
+*** WORKFORCE INVESTMENT BOARD ***
 § 31.050 BOARD PROVISIONS.
    (A)   Establishment. The County of Lake has been designated a local
 workforce investment area pursuant to § 116 of the Workforce Investment Act of
@@ -1240,7 +1240,7 @@ years.
 powers and functions as are provided at 55 ILCS 5/3-8001 et seq., as now or
 hereafter amended.
 (1977 Code, §§ 3:3-1, 7:1) (Ord. passed 9-14-1965; Ord. passed 11-13-1979)
-HOUSING AND COMMUNITY DEVELOPMENT COMMISSION
+*** HOUSING AND COMMUNITY DEVELOPMENT COMMISSION ***
 § 31.100 ESTABLISHMENT OF HOUSING AND COMMUNITY DEVELOPMENT COMMISSION.
    (A)   Creation. The county has been designated to serve as a recipient
 agency for federal funds under the Housing and Community Development Act of
@@ -1851,8 +1851,8 @@ Motor Vehicle Purchasing
 Appendix A: Reserved
    
 Appendix B: Motor Vehicle User Guidelines
-COUNTY PURCHASING SUBCHAPTER
-GENERAL PROVISIONS
+**** COUNTY PURCHASING SUBCHAPTER ****
+*** GENERAL PROVISIONS ***
 § 33.001 POLICIES AND PROCEDURES.
    The policy of the county is to enter into contracts for goods, services,
 construction, and professional services at fair and reasonable compensation for
@@ -2185,7 +2185,7 @@ such media. The Purchasing Agent shall determine which solicitations are
 suitable for electronic transmissions.
 (1977 Code, § 1:4-1) (Ord., § 2-101, passed 12-8-2009; Ord. passed 2-12-2013;
 Ord. 21-0923, passed 10-12-2021)
-COMPETITIVE BIDDING
+*** COMPETITIVE BIDDING ***
 § 33.035 GENERAL.
    An openly publicized competitive process is the most effective means of
 determining the lowest cost from a responsible source, and such a process shall
@@ -2486,7 +2486,7 @@ after a competitive solicitation, the county may, after determining whether the
 bidder is responsible, accept the bid.
 (1977 Code, § 1:4-1) (Ord., § 4-102, passed 12-8-2009; Ord. passed 2-12-2013;
 Res. passed 2-10-2015; Ord. 21-0923, passed 10-12-2021)
-PROFESSIONAL SERVICES AND COMPETITIVE SEALED PROPOSALS
+*** PROFESSIONAL SERVICES AND COMPETITIVE SEALED PROPOSALS ***
 § 33.050 GENERAL.
    (A)   Department heads, agencies and/or elected officials shall have the
 authority to award professional services contracts of less than $50,000 and may
@@ -2559,7 +2559,7 @@ circumstances, the solicitation may be canceled, or the proposer disqualified
 from participation in the solicitation request.
 (1977 Code, § 1:4-1) (Ord., § 5-102, passed 12-8-2009; Ord. passed 2-12-2013;
 Ord. 21-0923, passed 10-12-2021)
-PURCHASES EXEMPT FROM BIDDING AND COMPETITIVE SEALED PROPOSALS
+*** PURCHASES EXEMPT FROM BIDDING AND COMPETITIVE SEALED PROPOSALS ***
 § 33.065 GENERAL.
    This section applies to and details the requirements for purchases that, for
 various reasons, may be exempt from the competitive sealed bid process. Despite
@@ -2851,7 +2851,7 @@ notification.
 33.098, if applicable, are subject to the review and approval of elected county
 officials as provided by Illinois statutes.
 (1977 Code, § 1:4-1) (Ord., § 9-105, passed 12-8-2009; Ord. passed 2-12-2013)
-COOPERATIVE JOINT PURCHASING
+*** COOPERATIVE JOINT PURCHASING ***
 § 33.115 COOPERATIVE JOINT PURCHASING AUTHORIZED.
    Subject to applicable state statutes, the county may either participate in,
 sponsor, conduct, or administer a cooperative purchasing agreement for the
@@ -2926,7 +2926,7 @@ debarred person has ten calendar days after receipt of the decision to submit a
 written appeal to the Chairman of the Financial and Administrative Committee
 for consideration by the full committee.
 (1977 Code, § 1:4-1) (Ord., § 11-102, passed 12-8-2009; Ord. passed 2-12-2013)
-ETHICS IN PUBLIC PURCHASING/CONTRACTING
+*** ETHICS IN PUBLIC PURCHASING/CONTRACTING ***
 § 33.130 STATEMENT OF POLICY.
    (A)   Public employment is a public trust. Proper conduct by the county
 officers and employees inspires confidence in the work of the county. County
@@ -3075,7 +3075,7 @@ consulting with the Purchasing Agent:
 in violation of the ethical principles and guidelines of this subchapter,
 including but not limited to monetary gifts, gratuities, and kickbacks.
 (1977 Code, § 1:4-1) (Ord., § 12-108, passed 12-8-2009; Ord. passed 2-12-2013)
-REAL PROPERTY LEASES
+**** REAL PROPERTY LEASES ****
 § 33.138 STATEMENT OF POLICY.
    (A)   For real property leases, the Purchasing Division in conjunction with
 Facilities and Construction Services shall, on request, assist county
@@ -3097,8 +3097,8 @@ the requestor with entering into a lease agreement. After securing the lease,
 the Purchasing Division shall turn over any management or other issues related
 to the lease to Facilities and Construction Services.
 (Ord. 21-0923, passed 10-12-2021)
-MOTOR VEHICLE PURCHASING SUBCHAPTER
-MOTOR VEHICLE PURCHASING
+**** MOTOR VEHICLE PURCHASING SUBCHAPTER ****
+*** MOTOR VEHICLE PURCHASING ***
 § 33.150 PURPOSE.
    This subchapter is intended to provide county- wide coordination of the
 purchase and maintenance of all county motor vehicles.
@@ -3252,7 +3252,7 @@ Cannabis Retailers’ Occupation Tax
 Cross-reference:
    Solid waste management tax, see
 Ch. 50
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 34.01 DETERMINATION OF COSTS OF COLLECTING ON BEHALF OF TAXING DISTRICTS.
    (A)   The County Collector is hereby authorized to determine the total
 actual costs to the county of extending and collecting taxes on behalf of
@@ -3267,7 +3267,7 @@ to be included as a “taxing district”.
    (B)   This section shall be in full force and effect commencing October 1,
 1974.
 (1977 Code, § 5:2-2) (Ord. passed 9-10-1974)
-TAXES AND SURCHARGES
+*** TAXES AND SURCHARGES ***
 § 34.15 LAKE COUNTY 9-1-1 SERVICE AREA SURCHARGE.
    (A)   Pursuant to referendum voted in favor thereof, a surcharge is hereby
 imposed on monthly billed subscribers of telecommunication carriers residing
@@ -3418,7 +3418,7 @@ this amended section shall be paid to the Lake County Treasurer.
 or privilege taxes imposed by the state or by any municipal corporation or
 political subdivision hereof.
 (1977 Code, § 5:2-3) (Ord. passed 1-14-1986)
-HOTEL OPERATOR’S TAX
+*** HOTEL OPERATOR’S TAX ***
 § 34.35 IMPOSITION.
    A tax is hereby imposed upon all persons engaged in the business of renting,
 leasing, or letting rooms in a hotel which is not located within a city,
@@ -3505,7 +3505,7 @@ administer and enforce the provisions of 55 ILCS 5/5-1030 or this subchapter,
 as amended, on behalf of the county as of the effective date cited in §
 34.42, or as cited in subsequent amendatory documentation.
 (1977 Code, § 1:9-2) (Ord. passed 11-13-2001)
-CANNABIS RETAILERS’ OCCUPATION TAX
+**** CANNABIS RETAILERS’ OCCUPATION TAX ****
 § 34.55 TAX IMPOSED; RATE.
    (A)   A tax is hereby imposed upon all persons engaged in the business of
 selling cannabis, other than cannabis purchased under the Compassionate Use of
@@ -3588,7 +3588,7 @@ Funds
 35.50   Illinois Municipal Retirement Fund
    
 Appendix A: Ability to Pay Table
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 35.01 ELECTION NOT TO BE SUBJECT TO CERTAIN STATUTES.
    (A)   The County Board of Lake County, Illinois, hereby elects not to be
 subject to 705 ILCS 105/27.5, which section was added by S.B. 907 (P.A. 87-
@@ -3598,7 +3598,7 @@ subject to 705 ILCS 105/27.5, which section was added by S.B. 907 (P.A. 87-
 (1977 Code, § 3:6-10) (Ord. passed 12-10-1991)
 Editor’s note:
    705 ILCS 105//27.5 and 27.6 were repealed by repealed by P.A. 100-987
-FEES
+*** FEES ***
 § 35.15 CRIMINAL, TRAFFIC AND CIVIL FEES.
    Civil fees and criminal assessments. Civil fees and criminal assessments
 shall meet the requirements of Section 27.1b of the Clerks of Courts Act, 705
@@ -4304,7 +4304,7 @@ use of electric vehicle charging stations located on county property.
    (D)   This section sets such fee at $.00 per kilowatt hour and may be
 periodically amended by County Board resolution.
 (Res. passed 9-8-2015)
-LAKE COUNTY SHERIFF’S FEES
+*** LAKE COUNTY SHERIFF’S FEES ***
 § 35.35 JUDICIAL SALES FEES.
    (A)   The Lake County Sheriff’s fee for conducting a judicial sale shall be
 $600, except in the case of unimproved real estate which sells for $10,000 or
@@ -4533,7 +4533,7 @@ adoption by the County Board.
 (Ord. 17-0902, passed 11-14-2017)
 Editor’s note:
    720 ILCS 5/16A was repealed by P.A. 97-597
-FUNDS
+*** FUNDS ***
 § 35.50 ILLINOIS MUNICIPAL RETIREMENT FUND.
    The Lake County Clerk is hereby appointed custodian of the Illinois
 Municipal Retirement Fund for the county, with full power and authority to
@@ -4756,7 +4756,7 @@ Rules for Neutral Site Custody Exchange
 37.137   Reporting procedures; client compliance
    
 Appendix A: Adopt-a-Highway Program Agreement
-ADOPT-A-HIGHWAY PROGRAM
+*** ADOPT-A-HIGHWAY PROGRAM ***
 § 37.001 TITLE AND PURPOSE.
    (A)   Title. This subchapter shall be known as and may be referred to as the
 “Lake County Adopt-A-Highway Ordinance” or “this chapter”, and the program it
@@ -5237,7 +5237,7 @@ participation.
       (3)   In the event of a suspension the County Engineer may specify the
 length of the duration of the suspension.
 (1977 Code, § 4:1-11) (Ord. passed 5-9-2000; Ord. passed 4-9-2013)
-RULES AND REGULATIONS GOVERNING PUBLIC BUILDINGS AND GROUNDS
+*** RULES AND REGULATIONS GOVERNING PUBLIC BUILDINGS AND GROUNDS ***
 § 37.030 TITLE.
    This subchapter shall be known, and may be cited, as the “Rules and
 Regulations Governing Public Buildings and Grounds” or “this subchapter”.
@@ -5409,10 +5409,10 @@ compliance with the formal permitting process provided herein.
 temporary use of rooms or other private locations within the County Buildings
 for purposes consistent with the operations of the County Buildings.
 (Ord. passed 10-9-2007; Ord. 18-0466, passed 5-8-2018)
-PROCEDURE FOR THE MANAGEMENT AND DISPOSITION OF REAL ESTATE AND TAX
+**** PROCEDURE FOR THE MANAGEMENT AND DISPOSITION OF REAL ESTATE AND TAX
 CERTIFICATES ACQUIRED
 BY THE COUNTY OF LAKE, AS TRUSTEE, FOR THE RESPECTIVE TAXING DISTRICTS THROUGH
-THE TAX SALE
+THE TAX SALE ****
 § 37.047 BACKGROUND.
    Each year the county conducts a tax sale under the provisions o f the
 Illinois Property Tax Code. For properties receiving no bids, the Illinois
@@ -5629,7 +5629,7 @@ the State’s Attorney as to the types of action to be taken.
 supersede the procedures established in the resolution passed July 21, 1987,
 for the disposition of tax deed-acquired property.
 (Ord. 21-0420, passed 3-9-2021)
-OCCASIONAL USE OF PUBLIC AREAS IN PUBLIC BUILDINGS
+*** OCCASIONAL USE OF PUBLIC AREAS IN PUBLIC BUILDINGS ***
 § 37.060 SCOPE AND PURPOSE.
    Designated public areas of buildings and grounds under the jurisdiction of
 the County Board can occasionally be made available for expressive activities
@@ -5905,7 +5905,7 @@ organization.
 announcements of the presence of any permittees and of their non-affiliation
 with the county.
 (Ord. passed 10-9-2007; Ord. 18-0466, passed 5-8-2018)
-ADMISSIONS TO WINCHESTER HOUSE
+*** ADMISSIONS TO WINCHESTER HOUSE ***
 § 37.086 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply.
    GENERAL ASSISTANCE RESIDENT. A resident whose care is paid for by the local
@@ -6050,13 +6050,13 @@ returned check.
 regulate under the provisions of the County Home Act without such
 unconstitutional, inoperative, or invalid part contained herein.
 (1977 Code, § 2:2-1) (Ord. passed 11-9-1999)
-CLINICS
+*** CLINICS ***
 § 37.100 LAKE COUNTY HEALTH CLINICS, FORMERLY TB SANITARIUM.
    The premises located at 2400 Belvidere Street, Waukegan, Illinois, known as
 the Lake County Tuberculosis Sanitarium, shall be changed to “Lake County
 Health Clinics”.
 (1977 Code, § 7:1) (Res. passed 2-11-1975)
-HOME HEALTH SERVICE
+*** HOME HEALTH SERVICE ***
 § 37.115 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply.
    BOARD OF HEALTH. The Board of Health of the County of Lake.
@@ -6105,7 +6105,7 @@ invested, the income from these gifts and bequests which are invested, and all
 fees collected, in the Lake County Health Fund to the credit of the home health
 service.
 (1997 Code, § 2:1-9) (Ord. passed 3-11-1997)
-RULES FOR NEUTRAL SITE CUSTODY EXCHANGE
+*** RULES FOR NEUTRAL SITE CUSTODY EXCHANGE ***
 § 37.130 PURPOSE.
    Pursuant to 55 ILCS 82/25, Neutral Site Custody Exchange Funding Act -
 Rules, the following rules shall govern the operation and standards to be
@@ -6584,7 +6584,8 @@ Solid Waste Management Tax
 Appendix A: Solid Waste Disposal Site Regulations; Sanitary Landfill
    
 Appendix B: Solid Waste Disposal Site Regulations; Dump
-SOLID WASTE HAULING AND RECYCLING; LICENSING AND ADMINISTRATIVE REQUIREMENTS
+*** SOLID WASTE HAULING AND RECYCLING; LICENSING AND ADMINISTRATIVE
+REQUIREMENTS ***
 § 50.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply.
    APPLICANT. In reference to a solid waste hauling license, any person
@@ -7059,7 +7060,7 @@ effect beginning on January 1, 2014.
 § 50.10 AMENDMENTS.
    This subchapter may be amended from time to time by amendatory ordinances.
 (Ord. passed 6-11-2013)
-REGULATION OF DISPOSAL SITES
+*** REGULATION OF DISPOSAL SITES ***
 § 50.20 PURPOSE.
    (A)   This subchapter codifies an ordinance defining sanitary landfills,
 dumps, requiring permits for the operation of the solid waste disposal sites;
@@ -7190,7 +7191,7 @@ existing on the effective date of this subchapter, the provision which
 establishes the higher standard for the promotion and protection of the health
 and safety of the people of Lake County shall prevail.
 (1977 Code, § 2:1-8) (Ord. [Bd of Health Ord., Art. VIII] passed 6-12-1961)
-PROCEDURE FOR NEW POLLUTION CONTROL FACILITIES; SITE APPROVAL REQUESTS
+*** PROCEDURE FOR NEW POLLUTION CONTROL FACILITIES; SITE APPROVAL REQUESTS ***
 § 50.40 DEFINITIONS.
    (A)   For the purpose of this subchapter, the following definitions shall
 apply.
@@ -8082,7 +8083,7 @@ site. In the event that the local siting decision has been appealed, the
 calculation of the expiration date shall be deemed to begin on the date upon
 which the appeal process is concluded.
 (Ord. 24-0593, passed 5-14-2024)
-SOLID WASTE MANAGEMENT TAX
+*** SOLID WASTE MANAGEMENT TAX ***
 § 50.60 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply.
    CLEAN CONSTRUCTION AND DEMOLITION DEBRIS FILL OPERATION. A current or former
@@ -8403,7 +8404,7 @@ Rates and Charges
 51.27   Wholesale sewer rates, fees and charges
    
 51.28   Lake County AMR Meter Opt-Out Policy
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 51.01 DEFINITIONS.
    Unless the context specifically indicates otherwise, the meaning of terms
 used in this ordinance shall be as follows.
@@ -8587,7 +8588,7 @@ to ensure compliance with the terms of the special and general conditions to
 the federal and/or state grant.
 (1977 Code, §§ 4:2-1, 4:3-4) (Ord. 1979.04.43, passed 4-10-1979; Ord.
 1984.10.43, passed 10-9-1984)
-RATES AND CHARGES
+*** RATES AND CHARGES ***
 § 51.15 BILLING, GENERALLY.
    The rates, fees, and charges for the use and service of certain waterworks
 and sewerage systems of the County, billed on various cycles, shall be
@@ -10286,7 +10287,7 @@ Sewer Use
  
    
 53.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 53.01 INTRODUCTORY PROVISIONS.
    (A)   Title. This chapter shall be officially known and cited as the Sewer
 Use Ordinance of Lake County, Illinois. References made herein to "this
@@ -10782,7 +10783,7 @@ industrial wastes and to transport treated effluent to a receiving water.
       WATER RECLAMATION FACILITY EFFLUENT. The discharge from the county's
 water reclamation facilities into the receiving water.
 (Ord. 19-1394, passed 9-10-2019)
-SEWER USE
+*** SEWER USE ***
 § 53.05 USE OF PUBLIC SEWERS.
    (A)   Use of public sewer required.
       (1)   It shall be unlawful for any person to place, deposit, or permit to
@@ -12637,7 +12638,7 @@ Facility regardless of ownership, but does not include sewers, pipes, and other
 conveyances not connected to the Water Reclamation Facility. Also referred to
 as PUBLICLY OWNED TREATMENT WORKS (POTW).
 (Ord. 19-1394, passed 9-10-2019)
-§ 54.02 GENERAL SEWER USE REQUIREMENTS.
+** § 54.02 GENERAL SEWER USE REQUIREMENTS. **
    (A)   Prohibited discharge standards. An industrial user that discharges to
 a county-owned interceptor that is tributary to a POTW owned and operated by an
 outside agency shall be subject to the local POTW's pretreatment requirements
@@ -13880,7 +13881,7 @@ Operation of Motor Vehicles on Frozen Waters
 Editor’s note:
    For traffic offense fees, see §
 35.15
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 70.01 (RESERVED).
 § 70.02 ESTABLISHMENT OF SPEED LIMITS.
    (A)   Generally. Speed limits shall be as set by Illinois Vehicle Code (625
@@ -13926,7 +13927,7 @@ the highway and whose use is prohibited by the signs so erected and maintained.
 approval.
 (Ord. passed 1-10-1961) Penalty, see §
 70.99
-HIGHWAY WEIGHT CONTROL
+*** HIGHWAY WEIGHT CONTROL ***
 § 70.15 WEIGHT LIMITS.
    (A)   Designations.
       (1)   Providing for the designation of county highways as Class II truck
@@ -14151,7 +14152,7 @@ movement)
 (single), $180 (round).
  
 (Res. passed 11-1-1988; Res. passed 11-14-1989; Res. passed 11-13-2007)
-OPERATION OF MOTOR VEHICLES ON FROZEN WATERS
+*** OPERATION OF MOTOR VEHICLES ON FROZEN WATERS ***
 § 70.30 TITLE AND DECLARATION OF INTENT.
    This subchapter shall be known as the “Operation of Motor Vehicles on Frozen
 Waters Ordinance”. It is the policy of this county to promote safety for
@@ -14566,7 +14567,7 @@ Participation in Program
 Fees and Charges
    
 72.70   Fee schedule
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 72.01 TITLE AND PURPOSE.
    (A)   Title. This chapter shall be known as the “Lake County Snowmobile
 Signing Accommodation Ordinance” or “this chapter”, and the program it
@@ -14642,7 +14643,7 @@ connections.
    UNIFORM SNOWMOBILE SIGNS. Signs allowed by the county to be used by an
 association on a connecting section and a cross-connection.
 (1977 Code, § 4:1-9) (Res./Ord. passed 12-9-1997)
-ADMINISTRATIVE PROVISIONS
+*** ADMINISTRATIVE PROVISIONS ***
 § 72.15 AUTHORITY.
    (A)   This subchapter sets forth the administrative provisions for this
 chapter.
@@ -14774,7 +14775,7 @@ program shall also terminate all Snowmobile Signing Accommodation Program
 Agreements then in effect in accordance with §
 72.52.
 (1977 Code, § 4:1-9) (Res./Ord. passed 12-9-1997)
-PARTICIPATION IN PROGRAM
+*** PARTICIPATION IN PROGRAM ***
 § 72.40 GENERALLY.
    The following terms, requirements, and procedures shall govern the
 participation of associations in the Lake County Snowmobile Signing
@@ -15058,7 +15059,7 @@ any work whatsoever on a county highway other than the Snowmobile Signing
 Accommodation as approved herein, shall be undertaken by, or authorized by, an
 association or by any person.
 (1977 Code, § 4:1-9) (Res./Ord. passed 12-9-1997)
-FEES AND CHARGES
+*** FEES AND CHARGES ***
 § 72.70 FEE SCHEDULE.
    (A)   Fees for the Lake County Snowmobile Signing Accommodation Program
 shall be as adopted by the County Board.
@@ -15183,7 +15184,7 @@ Disposition of Revenue
  
    
 73.999   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 73.001 TITLE AND DECLARATION OF INTENT.
    This chapter shall be known as the “Motorboat Equipment and Operation of
 Motorboats Ordinance” or “this chapter”. It is the policy of this county to
@@ -15262,7 +15263,7 @@ a particular subchapter of this chapter.
    WATERS OF THE COUNTY. Any water within the jurisdiction of Lake County,
 State of Illinois.
 (1977 Code, § 3:5-2) (Ord. passed 8-11-1992)
-ENFORCEMENT
+*** ENFORCEMENT ***
 § 73.015 ENFORCEMENT.
    (A)   This chapter shall be enforced by the Lake County Sheriff or his or
 her designee(s) who, in his or her discretion, may either issue a ticket to
@@ -15312,7 +15313,7 @@ a Deputy Sheriff or to assume to act as such without having been duly appointed
 and employed as such.
 (1977 Code, § 3:5-2) (Ord. passed 8-11-1992) Penalty, see §
 73.999
-REGISTRATION OF MOTORBOATS AND SAILBOATS OVER 12 FEET IN LENGTH
+*** REGISTRATION OF MOTORBOATS AND SAILBOATS OVER 12 FEET IN LENGTH ***
 § 73.030 OPERATION UNLAWFUL.
    (A)   Every motorboat and sailboat over 12 feet in length on waters within
 the jurisdiction of this county shall be numbered.
@@ -15431,7 +15432,7 @@ the race. Testing of motorboats incidental to tuning up of the boats and
 engines for the race may be accomplished only after obtaining the permission of
 the local authority.
 (1977 Code, § 3:5-2) (Ord. passed 8-11-1992)
-EQUIPMENT
+*** EQUIPMENT ***
 § 73.050 LIFE PRESERVERS; PERSONAL FLOTATION DEVICES (PFDs).
    (A)   It is unlawful to operate any watercraft less than 16 feet in length
 or a canoe or kayak unless at least one Coast Guard approved PFD of the
@@ -15671,7 +15672,7 @@ any circumstances except a situation where assistance is needed because of
 immediate or potential danger to the persons aboard.
 (1977 Code, § 3:5-2) (Ord. passed 8-11-1992) Penalty, see §
 73.999
-OPERATION OF MOTORBOATS
+*** OPERATION OF MOTORBOATS ***
 § 73.075 CARELESS OPERATION.
    No person shall operate any motorboat in a careless or heedless manner so as
 to be indifferent to the person or property of other persons, or at a rate of
@@ -15929,7 +15930,7 @@ lights of the vessel.
 watercraft.
 (1977 Code, § 3:5-2) (Ord. passed 8-11-1992) Penalty, see §
 73.999
-DISPOSITION OF REVENUE
+*** DISPOSITION OF REVENUE ***
 § 73.110 DISBURSEMENT.
    All revenue received for violations of this chapter shall be disbursed to
 Lake County and shall be deposited in Lake County General Fund Lake County.
@@ -16197,7 +16198,7 @@ Performance and Maintenance Guarantees, and Insurance Requirements
 90.178   Escrow accounts
    
 90.179   Insurance requirements
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.001 TITLE.
    This chapter shall be known as and may be referred to as the "Lake County
 Highway Access and Use Ordinance," hereinafter referred to as "this chapter".
@@ -16668,7 +16669,7 @@ utility to accommodate their utilities as defined by this chapter.
    WORKING DAYS. Any calendar day except Saturdays, Sundays, or legal holidays
 as observed by the county.
 (Ord. 19-1061, passed 7-9-2019)
-ADMINISTRATIVE PROVISIONS
+**** ADMINISTRATIVE PROVISIONS ****
 § 90.020 GENERAL PURPOSE.
    This chapter sets forth the administrative provisions for this chapter.
 (Ord. 19-1061, passed 7-9-2019)
@@ -17103,7 +17104,7 @@ or provisions of the permit. The duties, obligations, and responsibilities of
 the parties to the permit with respect to third parties shall remain as imposed
 by law.
 (Ord. 19-1061, passed 7-9-2019)
-PERMIT TYPES AND HIGHWAY CLASSIFICATION
+**** PERMIT TYPES AND HIGHWAY CLASSIFICATION ****
 § 90.045 HIGHWAY ACCESS CLASSIFICATION.
    (A)   The LCDOT uses a highway access classification system to apply
 appropriate access management techniques, requirements and standards to
@@ -17297,7 +17298,7 @@ watermains, sanitary sewer lines and trees.
    A single service connection permit is limited to installation of a single
 service connection to a utility or facility for a single family residence.
 (Ord. 19-1061, passed 7-9-2019)
-ACCESS REQUIREMENTS AND POLICIES
+**** ACCESS REQUIREMENTS AND POLICIES ****
 § 90.064 INTRODUCTION.
    Any owner of property abutting a county highway has the right of reasonable
 access. Access which meets the requirements in this chapter shall be approved
@@ -17848,7 +17849,7 @@ engineer's license number for the licensed professional engineer who will act
 as resident engineer. A sample letter for use by resident engineers can be
 found in the Technical Reference Manual.
 (Ord. 19-1061, passed 7-9-2019)
-UTILITY AND FACILITY PERMIT POLICIES
+**** UTILITY AND FACILITY PERMIT POLICIES ****
 § 90.100 PERMIT REQUIRED.
    In order to provide for the safe placement of utilities and facilities
 within the rights-of-ways of county highways, to safeguard the motoring public,
@@ -18144,7 +18145,7 @@ municipal or local agency with sufficient financial and operational resources
 to properly maintain and operate said facilities in a manner satisfactory to
 the county.
 (Ord. 19-1061, passed 7-9-2019)
-SPECIAL EVENT POLICIES
+**** SPECIAL EVENT POLICIES ****
 § 90.120 PERMIT REQUIRED.
    (A)   The County Engineer, in accordance with 605 ILCS 5/5-414 et seq. as
 amended, may issue a permit to temporarily close any portion of a county
@@ -18216,7 +18217,7 @@ additional regulations, requirements and conditions imposed by the permit have
 not taken place or if the traffic control requirements are not in accordance
 with the requirements of the permit.
 (Ord. 19-1061, passed 7-9-2019)
-CONSTRUCTION REQUIREMENTS
+**** CONSTRUCTION REQUIREMENTS ****
 § 90.140 NOTIFICATION OF UTILITY COMPANIES.
    The County, all utility companies, and J.U.L.I.E. must be notified before
 construction work commences within the required J.U.L.I.E. notification time
@@ -18426,7 +18427,7 @@ shall be released.
 of the performance or maintenance guarantee shall not be performed prior to May
 1 nor later than November 1 in any year.
 (Ord. 19-1061, passed 7-9-2019)
-PERFORMANCE AND MAINTENANCE GUARANTEES, AND INSURANCE REQUIREMENTS
+**** PERFORMANCE AND MAINTENANCE GUARANTEES, AND INSURANCE REQUIREMENTS ****
 § 90.170 REQUIRED PRIOR TO PERMIT.
    Prior to the issuance of any permit for work to occur within a county
 highway right-of-way, the permittee shall provide sufficient financial
@@ -18664,7 +18665,7 @@ Wireless Telecommunication Facilities
    
 91.999   Penalty
 §§ 91.001 through 91.199 RESERVED.
-WIRELESS TELECOMMUNICATION FACILITIES
+**** WIRELESS TELECOMMUNICATION FACILITIES ****
 § 91.200 TITLE.
    This subchapter shall be known and may be referred to as the “Wireless
 Telecommunication Facilities Ordinance.”
@@ -19127,7 +19128,7 @@ Fireworks
  
    
 92.99   Penalty
-HAZARDOUS MATERIALS COST RECOVERY
+*** HAZARDOUS MATERIALS COST RECOVERY ***
 § 92.01 RECITALS; PURPOSE.
    This subchapter is hereby ordained for the following purpose:
    (A)   Whereas the cost of providing emergency services to isolate and
@@ -19219,7 +19220,7 @@ parties pursuant to §
    (B)   Payment. The responsible party shall submit payment for the invoice to
 the county within 30 days of receipt of the county’s invoice.
 (1977 Code, § 3:5-1B) (Ord. passed 3-14-2006)
-FIREWORKS
+*** FIREWORKS ***
 § 92.15 PERMIT REQUIRED TO SELL, USE, OR EXPLODE.
    It shall be unlawful for any person, firm, co-partnership, or corporation to
 knowingly possess, offer for sale, expose for sale, sell at retail, or use or
@@ -19689,7 +19690,7 @@ Enforcement
  
    
 94.99   Penalty
-PUBLIC NUISANCES
+*** PUBLIC NUISANCES ***
 § 94.01 TITLE.
    This subchapter shall be known as the “Lake County Public Nuisance Ordinance
 of the County of Lake”, hereinafter referred to as “this subchapter”.
@@ -20199,7 +20200,7 @@ or failure to correct conditions that support the presence of mold in a rental
 property.
 (Ord. 16-0652, passed 6-23-2016) Penalty, see §
 94.99
-CAMPS AND CAMP SITES
+*** CAMPS AND CAMP SITES ***
 § 94.30 GENERAL PROVISIONS.
    This subchapter requires registration of camp sites, establishes minimum
 standards governing the operation of camps, and authorizes the issuing of
@@ -20510,7 +20511,7 @@ clauses or sections.
 § 94.66 EFFECTIVE DATE.
    This subchapter shall be published and take effect as provided by law.
 (Ord. 12-0447, passed 5-8-2012; Ord. 13-0739, passed 7-9-2013)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 94.80 ENFORCEMENT OFFICERS.
    Sections
 94.02,
@@ -21009,7 +21010,7 @@ Bikeways
 Cross-reference:
    Signage for snowmobiles, see
 Ch. 72
-BIKEWAYS
+*** BIKEWAYS ***
 § 96.01 AUTHORIZATION.
    The county is desirous of designating certain bikeways as county bikeways
 and, pursuant to 605 ILCS 30/0.01 et seq., as amended, is authorized to
@@ -21196,7 +21197,7 @@ Amusement Devices
 Cross-reference:
    Video gaming, see
 Ch. 115
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 110.01 TABLES FOR PINBALL, BAGATELLE, OR PIGEONHOLE PROHIBITED.
    (A)   It shall be unlawful for any person to keep or use in any place of
 public resort within the unincorporated area of Lake County any tables or
@@ -21229,7 +21230,7 @@ and to issue permits, and to pay over the monies collected to the Lake County
 Treasurer, to be by him or her distributed in accordance with the provisions of
 § 5-9002 of the Counties Code, 55 ILCS 5/5-9002.
 (1977 Code, § 3:5-4) (Res. passed 5-10-1955)
-RAFFLES
+*** RAFFLES ***
 § 110.15 DEFINITIONS.
    All definitions contained in the Illinois Raffles Act, being 230 ILCS 15/
 0.01 et seq., shall apply to this subchapter, and in case of any conflict
@@ -21400,7 +21401,7 @@ required in the Illinois Raffles Act.
 the report may be filed within 30 days after the conclusion of the last raffle
 drawing.
 (1977 Code, § 3:6-13) (Ord. passed 11-13-2001)
-AMUSEMENT DEVICES
+*** AMUSEMENT DEVICES ***
 § 110.35 PURPOSE.
    This subchapter is an ordinance of the county providing for the licensing,
 regulation, and control of coin-operated entertainment, amusement and
@@ -21703,7 +21704,7 @@ Procedure
 Cross-reference:
    Minors consuming alcoholic beverages or illicit drugs at social events, see
 Ch. 131
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 111.001 CONSTRUCTION; PURPOSE.
    This chapter shall be liberally construed to the end that the health,
 safety, and welfare of the people of this county may thereby be protected, and
@@ -21827,7 +21828,7 @@ may require; and
 Control Commissioner and to make recommendations thereon to the Liquor Control
 Commissioner.
 (Ord. passed 6-14-2005; Ord. passed 8-13-2013)
-LICENSES
+*** LICENSES ***
 § 111.035 LICENSE REQUIRED; REGULATIONS.
    (A)   No person shall sell or permit the sale, use or consumption of any
 alcoholic liquors in the county in that territory subject to the control of the
@@ -22428,7 +22429,7 @@ educational programs and not to property boundaries.
    All licenses issued under this chapter shall be displayed in plain view in a
 conspicuous place within the licensed premises.
 (Ord. passed 6-14-2005; Ord. passed 8-13-2013)
-PROCEDURE
+*** PROCEDURE ***
 § 111.065 TYPE OF NOTICE REQUIRED.
    (A)   Whenever this chapter required a hearing before the Liquor Control
 Commission or the Commissioner acts affirmatively concerning a license or
@@ -22581,7 +22582,7 @@ Violations; Enforcement; Recordkeeping
  
    
 113.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 113.01 RECITALS.
    The recitals attached to the ordinance establishing this chapter and to the
 licensing ordinance adopted February 10, 1998, are incorporated herein as the
@@ -22812,7 +22813,7 @@ Commissioner; and
 establishment license as required pursuant to §
 113.51.
 (1977 Code, § 6:1-15) (Ord. 6:1-15, passed 10-9-2001)
-LICENSING
+*** LICENSING ***
 § 113.15 ADULT ESTABLISHMENT LICENSES GENERALLY.
    (A)   Adult establishment license required. An adult establishment license
 shall be required to establish, operate, or maintain an adult entertainment
@@ -23159,7 +23160,7 @@ application pursuant to §
 113.16(C)(1) or (C)(2) of this chapter; or if any of the events specified in §
 113.51(A) occur.
 (1977 Code, § 6:1-15) (Ord. 6:1-15, passed 10-9-2001)
-REGULATIONS, GENERAL AND SPECIAL
+*** REGULATIONS, GENERAL AND SPECIAL ***
 § 113.35 REGULATIONS APPLICABLE TO ALL ADULT ENTERTAINMENT ESTABLISHMENTS.
    (A)   General compliance. All licensed premises and adult entertainment
 establishments shall comply with the provisions of this chapter; all other
@@ -23387,8 +23388,8 @@ other goods or services at or from any adult theater or any licensed premises
 used for an adult theater.
 (1977 Code, § 6:1-15) (Ord. 6:1-15, passed 10-9-2001) Penalty, see §
 113.99
-VIOLATIONS; ENFORCEMENT;
-RECORDKEEPING
+*** VIOLATIONS; ENFORCEMENT; ***
+*** RECORDKEEPING ***
 § 113.50 LICENSEE RESPONSIBILITY FOR EMPLOYEES.
    Every act or omission by an adult establishment employee constituting a
 violation of the provisions of this chapter shall be deemed to be the act or
@@ -23601,7 +23602,7 @@ License Renewal; Display; Currency of Information; Revocation or Suspension
  
    
 114.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 114.01 JURISDICTION.
    This chapter shall apply only in the unincorporated areas of Lake County,
 Illinois.
@@ -23721,7 +23722,7 @@ operate massage establishments or out-call massage services in the
 unincorporated areas of Lake County, Illinois must file an application for
 license within 30 days of the effective date of this chapter.
 (1977 Code, § 6:1-14) (Ord. passed 9-13-1994; Ord. 15-0539, passed 5-12-2015)
-OPERATIONS
+*** OPERATIONS ***
 § 114.20 OPERATING REQUIREMENTS.
    (A)   Every portion of the massage establishment and all mechanical and
 therapeutic devices that come into contact with the human body shall be kept
@@ -23791,7 +23792,8 @@ business which gives massages at a location designated by the customer or
 client rather than at a fixed and permanent location.
 (1977 Code, § 6:1-14) (Ord. passed 9-13-1994) Penalty, see §
 114.99
-LICENSE RENEWAL; DISPLAY; CURRENCY OF INFORMATION; REVOCATION OR SUSPENSION
+*** LICENSE RENEWAL; DISPLAY; CURRENCY OF INFORMATION; REVOCATION OR SUSPENSION
+***
 § 114.35 RENEWAL OF LICENSE.
    (A)   The procedure to be followed in renewing a license is the same
 procedure set forth for obtaining the initial license.
@@ -24208,7 +24210,7 @@ Vandalism and Property Defacing
  
    
 130.99   Penalty
-VANDALISM AND PROPERTY DEFACING
+*** VANDALISM AND PROPERTY DEFACING ***
 § 130.01 GRAFFITI; DEFACEMENT OF PRIVATE AND PUBLIC PROPERTY.
    (A)   This section shall be known as and may be referred to as the “Lake
 County Graffiti Ordinance”.
@@ -24352,7 +24354,7 @@ Truancy
  
    
 131.99   Penalty
-CURFEW
+*** CURFEW ***
 § 131.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply.
    CURFEW HOURS.
@@ -24528,7 +24530,7 @@ enforcement to assist in preventing the underage person from operating a motor
 vehicle before the underage person has left the social event.
 (1977 Code, § 3:2-2) (Ord. 10-0238, passed 4-13-2010) Penalty, see §
 131.99
-TRUANCY
+**** TRUANCY ****
 § 131.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply.
    TRUANT. A child subject to compulsory school attendance and who is absent
@@ -24772,7 +24774,7 @@ Building Codes Adopted
  
    
 150.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 150.01 STANDARD STREET ADDRESS SYSTEM.
    (A)   Official address.
       (1)   Official address. Every parcel of land in unincorporated Lake
@@ -24847,7 +24849,7 @@ of Ordinance Violation was issued, pay the fine listed on the Notice of
 Ordinance Violation, and not participate in the hearing.
 (Ord. 19-1111, passed 7-9-2019) Penalty, see §
 150.99
-BUILDING CODES ADOPTED
+*** BUILDING CODES ADOPTED ***
 § 150.15 ADOPTION OF CODES.
    (A)   Effective July 12, 2025 upon passage of the ordinance codified herein,
 the ICC International Building Code, 2024 (as amended), the ICC International
@@ -26840,7 +26842,7 @@ Lake County Impacts
 Appendix T: Solar Energy Systems
    
 Appendix U: Application Requirements for Fill/Grade Operations
-INTRODUCTORY PROVISIONS
+*** INTRODUCTORY PROVISIONS ***
 § 151.001 TITLE.
    This chapter shall be officially known and cited as the “Unified Development
 Ordinance of Lake County, Illinois”. References herein to “this chapter” shall
@@ -27087,7 +27089,7 @@ materially affected by any pending amendments to other county ordinances,
 subject to the same notice requirements specified above.
 (Ord., §
 1.11, passed 10-13-2009)
-REVIEW AND DECISION-MAKING BODIES
+*** REVIEW AND DECISION-MAKING BODIES ***
 § 151.025 PLANNING, BUILDING AND ZONING COMMITTEE.
    The Planning, Building and Zoning Committee shall have all of the powers and
 duties specifically assigned in this chapter, including the following:
@@ -27468,7 +27470,7 @@ contrary to this chapter or based on a false statement or misrepresentation in
 the application.
 (Ord., § 2.8, passed 10-13-2009; Ord. 22-1060, passed 8-9-2022) Penalty, see §
 10.99
-DEVELOPMENT REVIEW PROCEDURES
+*** DEVELOPMENT REVIEW PROCEDURES ***
 § 151.045 GENERAL.
    The provisions of this §
 151.045 apply to all development applications and procedures under this
@@ -28477,7 +28479,7 @@ Every decision of the Zoning Board of Appeals shall be accompanied by a written
 finding of fact specifying the reason for the decision. Those written findings
 shall be filed in the office of the Zoning Board of Appeals.
 (Ord., § 3.14, passed 10-13-2009)
-SITE CAPACITY, SITE PLAN REVIEW, AND NATURAL RESOURCE PROTECTION
+*** SITE CAPACITY, SITE PLAN REVIEW, AND NATURAL RESOURCE PROTECTION ***
 § 151.070 SITE CAPACITY CALCULATIONS/SITE PLAN REVIEW PROCEDURES.
    This section sets out the procedures for site capacity calculations and site
 plan review. No site development permit or building permit shall be issued for
@@ -30024,7 +30026,7 @@ Zoning Committee. The report shall describe the action taken and the basis for
 the decision. Deed-restricted open space shall not be allowed in conservation
 developments.
 (Ord., § 4.3, passed 10-13-2009; Ord. passed 8-14-2012)
-ZONING DISTRICTS
+*** ZONING DISTRICTS ***
 § 151.085 GENERALLY.
    (A)   Establishment of zoning districts.
       (1)   Base zoning districts. The following base zoning districts are
@@ -30380,7 +30382,7 @@ accordance with the provisions of §
 District is subject to the standards contained in §
 151.285.
 (Ord., § 5.15, passed 10-13-2009)
-USE REGULATIONS
+*** USE REGULATIONS ***
 § 151.110 USE PERMIT.
    A use permit shall be required prior to the establishment or change of any
 use. A use permit may also be obtained to identify a use.
@@ -34674,7 +34676,7 @@ dimensional requirements of this chapter.
 (Ord., § 6.5, passed 10-13-2009; Ord. passed 8-14-2012; Ord. passed - -; Ord.
 15-0701, passed 7-14-2015; Ord. 19-1378, passed 9-10-2019; Ord. 22-1356, passed
 10-11-2022; Ord. 24-0207, passed 3-12-2024)
-DENSITY AND DIMENSIONAL STANDARDS
+*** DENSITY AND DIMENSIONAL STANDARDS ***
 § 151.125 DENSITY AND DIMENSIONAL STANDARDS TABLES.
    The following tables (
 151.125(1) through
@@ -35689,7 +35691,7 @@ accordance with the requirements of §§
    (L)   Public roads. All roads shall be public roads. No private roads shall
 be permitted.
 (Ord., § 7.8, passed 10-13-2009)
-SITE DEVELOPMENT REGULATIONS
+*** SITE DEVELOPMENT REGULATIONS ***
 § 151.145 SITE DEVELOPMENT PERMITS.
    (A)   Purpose. The regulations of this subchapter are intended to accomplish
 the following purposes:
@@ -39324,7 +39326,7 @@ of §
 151.147.
 (Ord., § 8.10, passed 10-13-2009; Ord. passed 10-9-2012; Ord. 23-1056, passed
 8-8-2023)
-GENERAL DEVELOPMENT STANDARDS
+*** GENERAL DEVELOPMENT STANDARDS ***
 § 151.165 OFF-STREET PARKING.
    (A)   Applicability.
       (1)   New development. The off-street parking standards of this section
@@ -40785,7 +40787,7 @@ ground level when limp shall not be less than nine feet; and
 require a permit but are subject to the requirements of
 Table 151.173(I).
 (Ord., § 9.9, passed 10-13-2009; Ord. passed 8-14-2012; Ord. passed - -)
-SUBDIVISIONS
+*** SUBDIVISIONS ***
 § 151.185 GENERAL.
    The layout, design and engineering of all subdivision improvements shall
 comply with the provisions of this chapter and all other applicable county,
@@ -44247,7 +44249,7 @@ or agency in, or related to, the subdivision plat or right-of-way. The approval
 of a vacation does not, for example, vacate the rights of a public utility with
 facilities in the subject right-of-way.
 (Ord., § 10.20, passed 10-13-2009)
-SCHOOL AND PARK CONTRIBUTIONS
+*** SCHOOL AND PARK CONTRIBUTIONS ***
 § 151.220 SCHOOLS.
    This section addresses school contributions related to school land needs to
 accommodate additional student population generated by proposed residential
@@ -44858,7 +44860,7 @@ that due to site design constraints, the entire required land area cannot be
 accommodated in the subdivision, the remainder of the required donation shall
 be in the form of a cash contribution.
 (Ord., § 11.2, passed 10-13-2009)
-NONCONFORMITIES
+*** NONCONFORMITIES ***
 § 151.230 GENERAL.
    (A)   Introduction. The regulations of this subchapter govern uses,
 structures, lots, and other situations that came into existence legally but
@@ -45395,7 +45397,7 @@ landscaping regulations of §
 nonconformities in accordance with the requirements of the Illinois Compiled
 Statutes.
 (Ord., § 12.7, passed 10-13-2009)
-VIOLATIONS, PENALTIES AND ENFORCEMENT
+*** VIOLATIONS, PENALTIES AND ENFORCEMENT ***
 § 151.250 RESPONSIBILITY FOR ENFORCEMENT.
    The Planning, Building and Development Director shall be responsible for
 enforcing this chapter, unless otherwise specifically stated.
@@ -45835,7 +45837,7 @@ operation.
       (2)   Once violations have been remedied, as determined by the Director
 of Planning, Building and Development, the facility may resume operations.
 (Ord. 24-0207, passed 3-12-2024)
-DEFINITIONS
+*** DEFINITIONS ***
 § 151.270 USE CATEGORIES.
    (A)   General.
       (1)   Basis for classifications. Use categories classify land uses and
@@ -48494,7 +48496,7 @@ passed 10-13-2015; Ord. 19-1378, passed 9-10-2019; Ord. 21-0744, passed 5-11-
 2021; Ord. 22-1060, passed 8-9-2022: Ord. 22-1356, passed 10-11-2022; Ord. 23-
 0675, passed 5-9-2023; Ord. 23-1056, passed 8-8-2023; Ord. 24-0207, passed 3-
 12-2024; Ord. 24-0924, passed 8-13-2024)
-SPECIAL AREA REGULATIONS
+*** SPECIAL AREA REGULATIONS ***
 § 151.285 GENERAL.
    (A)   General. The GW, Gateway Zoning District regulations implement Chapter
 12 of the County Regional Framework Plan, entitled “Gateway Economic
@@ -49352,16 +49354,16 @@ should be considered.
 (Ord., Appendix A, passed 10-13-2009; Ord. 19-1378, passed 9-10-2019; Ord. 24-
 0924, passed 8-13-2024)
 APPENDIX B: STREET CLASSIFICATION MAPS
-Major Roads: Northeast Quadrant
+** Major Roads: Northeast Quadrant **
 [https://export.amlegal.com/media/ff465182a9e721ec0bd1a5364abbd370f7efc0e8/
 IMAGES/0-0-0-4193.jpg]
-Major Roads: Northwest Quadrant
+** Major Roads: Northwest Quadrant **
 [https://export.amlegal.com/media/ff465182a9e721ec0bd1a5364abbd370f7efc0e8/
 IMAGES/0-0-0-3116.jpg]
-Major Roads: Southeast Quadrant
+** Major Roads: Southeast Quadrant **
 [https://export.amlegal.com/media/ff465182a9e721ec0bd1a5364abbd370f7efc0e8/
 IMAGES/0-0-0-3118.jpg]
-Major Roads: Southwest Quadrant
+** Major Roads: Southwest Quadrant **
 [https://export.amlegal.com/media/ff465182a9e721ec0bd1a5364abbd370f7efc0e8/
 IMAGES/0-0-0-3120.jpg]
 (Ord., Appendix B, passed 10-13-2009)
@@ -51541,7 +51543,7 @@ IMAGES/0-0-0-3148.jpg]
 (Ord. passed 10-9-2012)
 APPENDIX S: UNIFIED DEVELOPMENT ORDINANCE MITIGATION REQUIREMENTS
 AND GUIDELINES FOR ISOLATED WATERS OF LAKE COUNTY IMPACTS
-INTRODUCTION
+** INTRODUCTION **
    This Appendix contains the minimum requirements and guidelines for
 preparation of a Project Mitigation Document (PMD) related to the creation or
 enhancement of wetlands on a development site, or on an offsite property, to
@@ -51571,7 +51573,7 @@ I       Monitoring and Management
 J       Reports
 K       Compliance and Completion
  
-A.   MITIGATION GOALS
+** A.   MITIGATION GOALS **
       1.   Discuss how the wetland mitigation shall duplicate or improve the
 hydrologic and biologic features of the impacted wetlands. Describe the
 specific functions of the wetlands to be created or enhanced versus the
@@ -51602,7 +51604,7 @@ aquatic resources existing on the mitigation site shall, at a minimum, meet the
 buffer requirements for high-quality aquatic resources; all other existing
 enhanced, created or restored wetland areas shall, at a minimum, meet the non-
 high-quality aquatic resource buffer requirements of this Ordinance.
-B.   MITIGATION SITE INFORMATION
+** B.   MITIGATION SITE INFORMATION **
       1.   Site Location. Identify the mitigation site on a general location
 map (USGS quadrangle map preferred), plat of survey, and major watershed map
 (e.g., Fox River Watershed).
@@ -51644,7 +51646,7 @@ proposed mitigation area is in compliance with the IDNR’s Endangered Species
 Consultation Program and the Illinois Natural Areas Preservation Act [520 ILCS
 10/11 and 525 ILCS 30/17] and the USFWS’ consultation program under the federal
 Endangered Species Act.
-C.   MITIGATION DESIGN
+** C.   MITIGATION DESIGN **
       1.   Topography. If grading is proposed, submit a grading plan at a
 minimum scale of 1 in.=100 ft. showing existing and proposed grades with a
 minimum of 1-foot contour lines. Identify elevation and location of reference
@@ -51695,18 +51697,18 @@ established in community by common and scientific name, along with the seeding
 or planting rate for each species. Seed and plant stock source(s) shall
 originate from within 150 miles of the mitigation site to maintain local
 genotypes.
-D.   DEED OR PLAT RESTRICTION
+** D.   DEED OR PLAT RESTRICTION **
    All mitigation wetlands, as well as other preserved wetlands or waters and
 wetland buffers on the mitigation site, shall be protected in perpetuity by a
 deed or plat restriction. The permittee shall provide PB&D with a draft copy of
 the proposed deed or plat restriction document and associated exhibit(s)
 showing the restricted areas for approval. Contact PB&D for example wetland and
 wetland buffer restrictive language.
-E.   CONSTRUCTION SCHEDULE
+** E.   CONSTRUCTION SCHEDULE **
    Provide a schedule with anticipated start date and duration for each phase
 of the mitigation site construction, including installation of soil erosion and
 sediment control measures, earthwork, and planting.
-F.   FINANCIAL ASSURANCE
+** F.   FINANCIAL ASSURANCE **
    The permittee shall provide PB&D with a financial surety for 110% of the
 total estimated cost for construction, monitoring, and management of the
 mitigation wetlands and wetland buffers. The amount of the financial surety
@@ -51722,7 +51724,7 @@ the performance standards in Section H. Such surety may be phased out or
 reduced by PB&D once it has been demonstrated that the mitigation site is
 functionally mature and/or self-sustaining in accordance with the performance
 standards in Section H.
-G.   AS-BUILT PLANS
+** G.   AS-BUILT PLANS **
       1.   Upon the completion of earthwork, but prior to planting, the
 permittee shall provide an as-built topographic map to PB&D for approval. The
 as-built map shall depict the constructed grades at a minimum of 2-ft contour
@@ -51741,7 +51743,7 @@ wetlands and wetland buffers, including the common and scientific name of each
 species, the quantity of each species planted (e.g., weight of seeds/acre,
 number of plugged plants/acre), the source of the seeds/plants, the planting
 method(s) used, and the date(s) seeding or planting occurred.
-H.   PERFORMANCE STANDARDS
+** H.   PERFORMANCE STANDARDS **
    Performance standards are predetermined goals for guiding and measuring
 mitigation success.
       1.   Performance Period. The performance period shall consist of a
@@ -51820,7 +51822,7 @@ following species: Cirsium arvense, Melilotus spp., Aliiaria petiolata, Poa
 compressa, Poa pratensis, Ambrosia artemisiifolia, or Rhamnus cathartica and R.
 franguia. Dominance shall be based on the relative importance value (RIV) of
 each species, which is calculated using the equation in Section H.2.d.
-I.   MONITORING AND MANAGEMENT
+** I.   MONITORING AND MANAGEMENT **
       1.   Monitoring.
          a.   Monitoring Plan. The PMD shall contain a proposed five-year
 monitoring plan. Such plan shall include, at a minimum, a description of the
@@ -51890,7 +51892,7 @@ proposed management practices (e.g., IEPA open burn permit, local fire
 department permits, IDOA herbicide applicators license, etc.). Personnel who
 perform the management activities shall have appropriate licenses and
 qualifications.
-J.   REPORTS
+** J.   REPORTS **
    At a minimum, an annual report prepared by, or under the supervision of, a
 Certified Wetland Specialist summarizing the results of the previous year’s
 monitoring data shall be submitted to the PB&D by January 31st of the following
@@ -51907,7 +51909,7 @@ previous year and photographs documenting these activities;
 during the following year(s), based on the monitoring results to date; and
       7.   The proposed schedule for management practices in the following year
 (s).
-K.   COMPLIANCE AND COMPLETION
+** K.   COMPLIANCE AND COMPLETION **
       1.   Responsible Parties.
       The permittee shall be responsible for establishment of the mitigation
 wetlands and wetland buffers and all associated monitoring and management
@@ -52172,7 +52174,8 @@ restrictions; fees
 170.99   Penalty
    
 170.100   Other remedies
-REGULATION OF PRIVATE, SEMI- PRIVATE AND NON-COMMUNITY WELLS AND WATER SYSTEMS
+*** REGULATION OF PRIVATE, SEMI- PRIVATE AND NON-COMMUNITY WELLS AND WATER
+SYSTEMS ***
 § 170.01 GENERAL PROVISIONS.
    (A)   General.
       (1)   Title. This subchapter shall be known as the “Well Ordinance of the
@@ -58175,7 +58178,7 @@ Food and Beverage Vending Machines
  
    
 173.99   Penalty
-FOOD SERVICE FACILITIES
+*** FOOD SERVICE FACILITIES ***
 § 173.01 GENERAL REGULATIONS.
    It is the intent of this subchapter to enhance public protection by
 targeting for education and enforcement those issues which are most commonly
@@ -58622,7 +58625,7 @@ subchapter.
    (C)   Effective date. This subchapter is effective after January 11, 1960.
 (1977 Code, § 2:1-3) (Ord. [Bd of Health Ord., Art. III] passed 6-13-1995; Ord.
 18-0950, passed 9-11-2018)
-FOOD AND BEVERAGE VENDING MACHINES
+*** FOOD AND BEVERAGE VENDING MACHINES ***
 § 173.20 RULES AND REGULATIONS.
    (A)   The current and subsequent edition of the Illinois Food Code, as
 amended from time to time and promulgated by the Illinois Department of Public
@@ -58634,7 +58637,7 @@ reference. Three certified copies of the Illinois Food Code shall be on file at
 the office of the Lake County Clerk.
 (1977 Code, § 2:1-3) (Ord. [Bd of Health Ord., Art. III] passed 6-13-1995; Ord.
 18-0950, passed 9-11-2018)
-§§ 173.21 - 173.24 [RESERVED.]
+** §§ 173.21 - 173.24 [RESERVED.] **
 § 173.25 PURPOSE.
    This subchapter establishes requirements for regulating the sale of food and
 beverages through vending machines; defining vending machine, operator, Health
@@ -58915,7 +58918,7 @@ Public Bathing Beaches
 174.100   Water samples
    
 174.101   Water quality standards
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 174.001 TITLE.
    This chapter shall be known as the Swimming Facility Ordinance of the County
 of Lake, hereinafter referred to as “this ordinance” or “this chapter”.
@@ -59048,7 +59051,7 @@ chapter be declared by a court of competent jurisdiction to be invalid, such
 decision shall not affect the validity of the chapter as a whole, or any part
 thereof, other than the part so declared to be invalid.
 (Ord. [Bd of Health Ord., Art. XIX] passed 1-15-2013)
-DUTIES AND POWERS OF THE HEALTH OFFICER
+*** DUTIES AND POWERS OF THE HEALTH OFFICER ***
 § 174.025 GENERAL.
    The Health Officer shall enforce all of the provisions of this chapter and
 shall act on any question relative to the operation and maintenance of swimming
@@ -59083,7 +59086,7 @@ notices, and/or orders issued. These records shall be retained in the official
 records so long as the facility to which they relate remains in existence
 unless otherwise provided for.
 (Ord. [Bd of Health Ord., Art. XIX] passed 1-15-2013)
-EXISTING FACILITIES
+*** EXISTING FACILITIES ***
 § 174.040 CONTINUED FACILITY USE.
    The legal use and occupancy of any swimming facility that had been
 heretofore approved, shall be permitted to be continued without change, except
@@ -59097,7 +59100,7 @@ condition. All service equipment, devices, and safeguards that are required by
 this chapter shall be maintained in working order as when installed or
 repaired.
 (Ord. [Bd of Health Ord., Art. XIX] passed 1-15-2013)
-LICENSES
+*** LICENSES ***
 § 174.055 LICENSE.
    No person shall operate a swimming facility without a valid license issued
 by the Health Officer. Operation of a swimming facility without a valid license
@@ -59239,7 +59242,7 @@ administrative hearing officer, provide the alleged violator the option to
 appear before the county's administrative hearing officer, or pay the
 established fine.
 (Res. passed 2-10-2015)
-INSPECTIONS
+*** INSPECTIONS ***
 § 174.080 FREQUENCY.
    (A)   Annual facility. The Health Officer shall conduct a minimum of two
 inspections per license year at each annual facility.
@@ -59280,7 +59283,7 @@ passed or failed the inspection including the reason(s) for the results.
 time for the correction of the violation(s) found as specified in the Swimming
 Facility Program Administrative Procedures and Policies.
 (Ord. [Bd of Health Ord., Art. XIX] passed 1-15-2013)
-PUBLIC BATHING BEACHES
+*** PUBLIC BATHING BEACHES ***
 § 174.100 WATER SAMPLES.
    The Health Officer shall collect water samples at public bathing beaches in
 accordance with the Illinois Department of Public Health Swimming Pool and
@@ -59384,9 +59387,9 @@ Cross-reference:
 94.66
    Nuisances and Environment; Sanitation, see
 Ch. 94
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 176.01 RESERVED.
-HEARINGS, BOARD OF HEALTH
+*** HEARINGS, BOARD OF HEALTH ***
 § 176.15 GENERAL PROVISIONS.
    This subchapter provides for hearings before a Hearings Committee of the
 Lake County Board of Health.
@@ -61084,7 +61087,7 @@ Res. No.   Date Passed Code Section
                       
  
 REFERENCES TO ORDINANCES
-Lake County Board Ordinances
+*** Lake County Board Ordinances ***
 Ord. No. Date Passed Code Section
 Ord. No.    Date Passed Code Section
                         151.003,
@@ -62145,7 +62148,7 @@ Ord. No.    Date Passed Code Section
                        
  
  
-Board of Health Ordinances
+*** Board of Health Ordinances ***
 Ord. No. Date Passed Code Section
 Ord. No.                      Date Passed Code Section
                                           94.30 -

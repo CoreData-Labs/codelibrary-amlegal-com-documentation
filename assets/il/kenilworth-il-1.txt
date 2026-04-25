@@ -125,7 +125,7 @@ Indemnification of Public Officials, Officers and Employees
  
    
 10.99   General penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 10.01 TITLE OF CODE.
    The ordinances included in this and the following chapters and sections
 shall constitute and be designated as the “Kenilworth Village Code” and may be
@@ -435,8 +435,8 @@ and that shall be referred to in accordance with the following example:
    30.01(B)(3)(a)         Subparagraph
    30.01(B)(3)(a)2.      Subparagraph
    30.01(B)(3)(a)2.(iii)      Subparagraph
-§§ 10.20 THROUGH 10.29 RESERVED.
-INDEMNIFICATION OF PUBLIC OFFICIALS, OFFICERS AND EMPLOYEES
+** §§ 10.20 THROUGH 10.29 RESERVED. **
+**** INDEMNIFICATION OF PUBLIC OFFICIALS, OFFICERS AND EMPLOYEES ****
 § 10.30 IN GENERAL.
    The village shall defend, indemnify and hold harmless its current and former
 President and Trustees, officials, commissioners, board members, officers and
@@ -799,7 +799,7 @@ Village Clerk
 30.71   Additional duties
    
 30.72   Deputy Village Clerks
-ELECTED OFFICES GENERALLY
+**** ELECTED OFFICES GENERALLY ****
 § 30.01 ELECTIONS.
    Elections for village offices shall be held at the time and in the manner
 provided by statute.
@@ -849,8 +849,8 @@ delivered to the Village Clerk.
 officer was elected, such vacancy shall be filled in accordance with the
 applicable provisions set forth in the Illinois Municipal Code, 65 ILCS 5/1-1-
 1 et seq., as amended.
-§§ 30.10 THROUGH 30.19 RESERVED.
-VILLAGE PRESIDENT
+** §§ 30.10 THROUGH 30.19 RESERVED. **
+**** VILLAGE PRESIDENT ****
 § 30.20 ELECTION AND TERM OF OFFICE.
    The Village President shall be elected by the electors of the village for a
 term of four years and until his or her successor is elected and has qualified.
@@ -875,8 +875,8 @@ Trustees shall elect one of their number to act as a temporary Chair. He or she
 shall have only the powers of a presiding officer and the right to vote as a
 Trustee.
 (Ord. 1265, passed 9-21-2020)
-§§ 30.23 THROUGH 30.29 RESERVED.
-TRUSTEES
+** §§ 30.23 THROUGH 30.29 RESERVED. **
+**** TRUSTEES ****
 § 30.30 ELECTION, TERM OF OFFICE AND FUNCTIONS.
    There shall be six Trustees of the village, each of whom shall be elected to
 office for a four-year term and until his or her successors are elected and
@@ -884,8 +884,8 @@ have qualified as is provided by statute. The terms shall be staggered such
 that the terms of one-half of the Trustees shall be subject to election every
 two years. The Trustees shall perform such duties and have such powers as may
 be authorized by statute.
-§§ 30.31 THROUGH 30.39 RESERVED.
-BOARD OF TRUSTEES
+** §§ 30.31 THROUGH 30.39 RESERVED. **
+**** BOARD OF TRUSTEES ****
 § 30.40 COMPOSITION OF BOARD.
    The Board of Trustees shall consist of the Village President and the six
 village Trustees. The Board of Trustees shall be the legislative department of
@@ -1016,8 +1016,8 @@ may be necessary for the proper accomplishment of village business, as
 determined and scheduled by the Board of Trustees. Notice of committee meetings
 shall be given in the manner provided by law.
 (Ord. 1265, passed 9-21-2020)
-§§ 30.51 THROUGH 30.59 RESERVED.
-VILLAGE CLERK
+** §§ 30.51 THROUGH 30.59 RESERVED. **
+**** VILLAGE CLERK ****
 § 30.60 ELECTION AND TERM OF OFFICE.
    The Village Clerk shall be elected to office and serve for a four-year term
 and until his or her successor is elected and qualified, as provided by
@@ -1178,7 +1178,7 @@ Village Budget Officer
 31.71   Bond
    
 31.72   Powers and duties
-OFFICERS AND EMPLOYEES GENERALLY
+**** OFFICERS AND EMPLOYEES GENERALLY ****
 § 31.01 PROVISIONS AND DEFINITIONS.
    Section 31.01 through 31.11 shall apply to all appointed officers and
 employees of the village, regardless of the time of the creation of the office
@@ -1242,8 +1242,8 @@ is guilty of willful and corrupt oppression, misconduct, or malfeasance in the
 discharge of the duties of his or her office, shall be guilty of a business
 offense and, on conviction, shall be fined in an amount established in §
 10.99 of this code.
-§§ 31.12 THROUGH 31.19 RESERVED.
-VILLAGE TREASURER
+** §§ 31.12 THROUGH 31.19 RESERVED. **
+**** VILLAGE TREASURER ****
 § 31.20 OFFICE ESTABLISHED; APPOINTMENT AND TERM OF OFFICE.
    There is hereby established the office of Village Treasurer, who shall be
 appointed by the Village President, with the advice and consent of the Board of
@@ -1377,8 +1377,8 @@ publication as required by law and its correctness.
    In addition to the duties herein provided, the Village Treasurer shall
 perform such other duties and functions as may be required of municipal
 treasurers or of municipal collectors by statute or ordinance.
-§§ 31.29 THROUGH 31.39 RESERVED.
-VILLAGE MANAGER
+** §§ 31.29 THROUGH 31.39 RESERVED. **
+**** VILLAGE MANAGER ****
 § 31.40 CREATION AND APPOINTMENT.
    The office of Village Manager is hereby created as a full-time position. The
 Village Manager may not engage in other employment without the approval of the
@@ -1513,8 +1513,8 @@ Board.
 additional duties as may be required by the Village President or Board of
 Trustees from time to time.
 (Am. Ord. 1150, passed 8-17-2015)
-§§ 31.46 THROUGH 31.49 RESERVED.
-VILLAGE COMPTROLLER
+** §§ 31.46 THROUGH 31.49 RESERVED. **
+**** VILLAGE COMPTROLLER ****
 § 31.50 OFFICE ESTABLISHED; APPOINTMENT AND TERM OF OFFICE.
    There is hereby established the office of Village Comptroller, an executive
 office of the village. The Village Manager shall be ex officio Village
@@ -1567,8 +1567,8 @@ discharge of his or her duties.
    (H)   Additional duties. The Comptroller shall perform other duties as may
 be required of him or her from time to time by ordinance or resolution of the
 Village Board or by law.
-§§ 31.54 THROUGH 31.59 RESERVED.
-VILLAGE COLLECTOR
+** §§ 31.54 THROUGH 31.59 RESERVED. **
+**** VILLAGE COLLECTOR ****
 § 31.60 OFFICE ESTABLISHED; APPOINTMENT AND TERM OF OFFICE.
    There is hereby established the office of Village Collector, an executive
 office of the village. The Village Manager shall be ex officio Village
@@ -1609,8 +1609,8 @@ depository bank designated by the Village Board.
    (D)   Additional duties. The Village Collector shall perform other duties as
 may be from time to time required of him or her by ordinance or resolution of
 the Village Board or by law.
-§§ 31.64 THROUGH 31.69 RESERVED.
-VILLAGE BUDGET OFFICER
+** §§ 31.64 THROUGH 31.69 RESERVED. **
+**** VILLAGE BUDGET OFFICER ****
 § 31.70 OFFICE ESTABLISHED; APPOINTMENT AND TERM OF OFFICE.
    There is hereby created the Office of the Village Budget Officer who shall
 be designated by the Village President, with the approval of the corporate
@@ -1718,7 +1718,7 @@ Fire Department
 32.53   Services of fire departments of other municipalities.
    
 32.54   Ambulance user fee
-DEPARTMENT OF PUBLIC WORKS
+**** DEPARTMENT OF PUBLIC WORKS ****
 § 32.01 CREATION OF DEPARTMENT.
    There is hereby created a Public Works Department, an administrative
 department of the village, which shall consist of a Director of Public Works
@@ -1751,8 +1751,8 @@ coordination with the Village Manager, all provisions of this code and any
 other ordinance of the village relating to them, except traffic ordinances, and
 shall perform any other duties as may be required of him or her by law,
 ordinance or resolution of the Village Board.
-§§ 32.03 THROUGH 32.09 RESERVED.
-DEPARTMENT OF COMMUNITY DEVELOPMENT
+** §§ 32.03 THROUGH 32.09 RESERVED. **
+**** DEPARTMENT OF COMMUNITY DEVELOPMENT ****
 § 32.10 CREATION OF DEPARTMENT.
    There is hereby created a Community Development Department, an
 administrative department of the village, which shall consist of a Director of
@@ -1817,8 +1817,8 @@ building or premises within the village in the discharge of their official
 duties.
       (4)   Records. The Building Inspector shall keep complete records of all
 permits, inspections and activities of the Building Department.
-§§ 32.14 THROUGH 32.19 RESERVED.
-VILLAGE LEGAL COUNSEL
+** §§ 32.14 THROUGH 32.19 RESERVED. **
+**** VILLAGE LEGAL COUNSEL ****
 § 32.20 EMPLOYMENT OF VILLAGE LEGAL COUNSEL.
    The corporate authorities shall employ an attorney or firm of attorneys as
 the legal advisor to the village as an independent contractor or employee.
@@ -1859,8 +1859,8 @@ the village unless the Village Manager shall assign the prosecution of certain
 cases to some other attorney. The Village Prosecutor shall notify the Village
 Legal Counsel of any notice of appeal served in connection with the imposition
 of any fine or other penalty for a violation of a village ordinance.
-§§ 32.25 THROUGH 32.29 RESERVED.
-POLICE DEPARTMENT
+** §§ 32.25 THROUGH 32.29 RESERVED. **
+**** POLICE DEPARTMENT ****
 § 32.30 CREATION AND COMPOSITION.
    There is hereby created a Police Department, an administrative department of
 the village, which shall consist of the Chief of Police and of a number of
@@ -2009,8 +2009,8 @@ Trustees for that purpose, shall be the jail of the village.
 until that person is brought before a magistrate or other properly constituted
 legal tribunal for a hearing and admitted to bail or discharged, or until that
 person is lawfully transferred to some other place of incarceration.
-§§ 32.39 THROUGH 32.49 RESERVED.
-FIRE DEPARTMENT
+** §§ 32.39 THROUGH 32.49 RESERVED. **
+**** FIRE DEPARTMENT ****
 § 32.50 CREATION OF DEPARTMENT.
    There is hereby created a Fire Department, an administrative department of
 the village. The Fire Department shall consist of a Fire Marshal, who shall be
@@ -2169,7 +2169,7 @@ Foreign Fire Insurance Board
 E-911 Board
    
 33.100   Joint Emergency Telephone System Board
-BOARD OF HEALTH
+**** BOARD OF HEALTH ****
 § 33.001 DESIGNATION OF HEALTH OFFICER.
    The Village Manager or the Village Manager's designee shall serve as the
 Village Health Officer.
@@ -2204,8 +2204,8 @@ they are in force in the village.
 member of the Police Department, to aid in the enforcement of any order issued
 by the Board of Health.
 (1959 Code, § 2b-4)
-§§ 33.005 THROUGH 33.014 RESERVED.
-PLAN COMMISSION
+** §§ 33.005 THROUGH 33.014 RESERVED. **
+**** PLAN COMMISSION ****
 § 33.015 CREATION OF COMMISSION.
    There is hereby created a Plan Commission, as provided by statute.
 (1959 Code, § 2b-9)
@@ -2242,8 +2242,8 @@ time to time as it may deem necessary or desirable.
     The members of the Plan Commission shall receive compensation for their
 services as may be fixed by the Village Board.
 (1959 Code, § 2b-12) (Ord. 1355, passed 4-15-2024)
-§§ 33.019 THROUGH 33.049 RESERVED.
-ZONING BOARD OF APPEALS
+** §§ 33.019 THROUGH 33.049 RESERVED. **
+**** ZONING BOARD OF APPEALS ****
 § 33.050 CREATION AND MEMBERSHIP.
    There is hereby created a Board of Appeals, consisting of seven members to
 serve respectively for the following terms: one for one year, one for two
@@ -2292,8 +2292,8 @@ accordance with procedures specified in the statutes and ordinances, but the
 Board of Appeals may adopt its own rules of procedure not in conflict with the
 statutes or ordinances.
 (1959 Code, § 2b-18) (Ord. 748, passed 3-13-1989)
-§§ 33.053 THROUGH 33.069 RESERVED.
-BUILDING REVIEW COMMISSION
+** §§ 33.053 THROUGH 33.069 RESERVED. **
+**** BUILDING REVIEW COMMISSION ****
 § 33.070 CREATION; MEMBERSHIP; COMPENSATION.
    (A)   Creation; members; compensation. There is created a Building Review
 Commission for the village consisting of seven members. The members of the
@@ -2354,8 +2354,8 @@ required to deposit, and has deposited, in escrow to reimburse the village;
 Building Code or applicable law.
 (Ord. 885, passed 11-13-2001; Ord. 916, passed 4-12-2004; Ord. 929, passed 12-
 14-2004)
-§§ 33.073 THROUGH 33.079 RESERVED.
-POLICE PENSION FUND BOARD
+** §§ 33.073 THROUGH 33.079 RESERVED. **
+**** POLICE PENSION FUND BOARD ****
 § 33.080 CREATION OF BOARD; MEMBERS.
    There is hereby created a board of trustees of the Police Pension Fund.
 § 33.081 APPOINTED AND TERM OF MEMBERS.
@@ -2368,8 +2368,8 @@ and places as are required by law and in the manner required by law.
 shall hold meetings as provided by state law. The board of trustees of the Fund
 shall have all of the powers, duties and obligations conferred or imposed upon
 it by applicable state law.
-§§ 33.083 THROUGH 33.089 RESERVED.
-FOREIGN FIRE INSURANCE BOARD
+** §§ 33.083 THROUGH 33.089 RESERVED. **
+**** FOREIGN FIRE INSURANCE BOARD ****
 § 33.090 CREATION OF BOARD; MEMBERS.
    There is hereby created a Foreign Fire Insurance Board.
 § 33.091 APPOINTMENT AND TERM OF MEMBERS.
@@ -2405,8 +2405,8 @@ open to inspection and audit by the Village Board. Upon the expiration of his
 or her term of office, he or she shall surrender, pay and deliver to his or her
 successor in office, all books, records, accounts and moneys relating to his or
 her office.
-§§ 33.093 THROUGH 33.099 RESERVED.
-E-911 BOARD
+** §§ 33.093 THROUGH 33.099 RESERVED. **
+**** E-911 BOARD ****
 § 33.100 JOINT EMERGENCY TELEPHONE SYSTEM BOARD.
    There is hereby authorized a joint emergency telephone system board that
 shall be established and maintained pursuant to an intergovernmental agreement
@@ -2425,7 +2425,7 @@ Village Officials and Employees Ethics
 34.04   Ethics Officer
    
 34.05   Interpretation
-VILLAGE OFFICIALS AND EMPLOYEES ETHICS
+**** VILLAGE OFFICIALS AND EMPLOYEES ETHICS ****
 § 34.01 DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2705,7 +2705,7 @@ Simplified Municipal Telecommunications Tax
  
    
 35.99   Penalty
-ELECTRICITY TAX
+**** ELECTRICITY TAX ****
 § 35.01 DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2880,8 +2880,8 @@ or credit within one year after the date on which the tax was paid or remitted.
 action to recover any amount of tax due under the provisions of this subchapter
 shall be commenced more than three years after the due date of the amount.
 (Ord. 844, passed 2-8-1999; Ord. 850, passed 4-12-1999)
-§§ 35.10 THROUGH 35.19 RESERVED.
-SIMPLIFIED MUNICIPAL TELECOMMUNICATIONS TAX
+** §§ 35.10 THROUGH 35.19 RESERVED. **
+**** SIMPLIFIED MUNICIPAL TELECOMMUNICATIONS TAX ****
 § 35.20 DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3200,7 +3200,7 @@ Water Service
  
    
 50.99   Penalty
-WATER SERVICE
+**** WATER SERVICE ****
 § 50.01 WATER USE RULES.
    Every consumer of water and every owner, occupant or person in possession,
 charge or control of any premises supplied with water by the village shall be
@@ -3700,7 +3700,7 @@ from Private Properties
  
    
 52.999   Penalty
-USE OF PUBLIC SEWERS REQUIRED
+**** USE OF PUBLIC SEWERS REQUIRED ****
 § 52.001 DEPOSITING UNSANITARY MATTER.
    It shall be unlawful for any person to place, deposit or permit to be
 deposited in any unsanitary manner on public or private property within the
@@ -3733,15 +3733,15 @@ away from a property and a combined sewer is located within 200 feet (61
 meters) from the property, the owner is required at his or her expense to
 connect the facilities directly with the combined sewer.
 (Ord. 703, passed 10-10-1983; Ord. 1365, passed 11-18-2024)
-§§ 52.005 THROUGH 52.014 RESERVED.
-PRIVATE SEWAGE DISPOSAL
+** §§ 52.005 THROUGH 52.014 RESERVED. **
+**** PRIVATE SEWAGE DISPOSAL ****
 § 52.015 PRIVATE SEWAGE DISPOSAL SYSTEMS.
    Public sanitary (or combined) sewers are available throughout the village
 under the provisions of §
 52.004. Private sewage disposal systems shall be unlawful in the village.
 (Ord. 703, passed 10-10-1983)
-§§ 52.016 THROUGH 52.029 RESERVED.
-BUILDING SEWERS, CONNECTIONS AND MAINTENANCE
+** §§ 52.016 THROUGH 52.029 RESERVED. **
+**** BUILDING SEWERS, CONNECTIONS AND MAINTENANCE ****
 § 52.030 PERMIT REQUIRED.
    No unauthorized person shall uncover, make any connections with, or opening
 into, use, alter or disturb any public sewer or appurtenance thereof without
@@ -4194,8 +4194,8 @@ for any damage caused by, or resulting from obstructions in the branch or house
 drain sewer or from any disrepair thereof, or from failure to make needed
 repairs.
 (Ord. 703, passed 10-10-1983)
-§§ 52.075 THROUGH 52.084 RESERVED.
-USE OF PUBLIC SEWERS
+** §§ 52.075 THROUGH 52.084 RESERVED. **
+**** USE OF PUBLIC SEWERS ****
 § 52.085 DISCHARGE OF STORMWATER, SURFACE WATER AND THE LIKE.
    (A)   No person shall discharge, or cause to be discharged, any stormwater,
 surface water, groundwater, roof run-off, subsurface drainage, uncontaminated
@@ -4381,16 +4381,16 @@ the village for conveyance subject to payment therefor, in accordance with §§
 accordance with federal and state guidelines for user charge system and
 industrial cost recovery system.
 (Ord. 703, passed 10-10-1983)
-§§ 52.095 THROUGH 52.104 RESERVED.
-PROTECTION OF SEWER SYSTEM FROM DAMAGE
+** §§ 52.095 THROUGH 52.104 RESERVED. **
+**** PROTECTION OF SEWER SYSTEM FROM DAMAGE ****
 § 52.105 DAMAGE TO SEWER SYSTEM.
    No unauthorized person shall maliciously, willfully or negligently break,
 damage, destroy or tamper with any structure, appurtenance or equipment which
 is a part of the sewer system. Any person violating this section shall be
 subject to immediate arrest under charge of disorderly conduct.
 (Ord. 703, passed 10-10-1983)
-§§ 52.106 THROUGH 52.119 RESERVED.
-POWERS AND AUTHORITY OF INSPECTORS
+** §§ 52.106 THROUGH 52.119 RESERVED. **
+**** POWERS AND AUTHORITY OF INSPECTORS ****
 § 52.120 PERMISSION TO ENTER PROPERTIES.
    Duly authorized employees of the village, the State Environmental Protection
 Agency and the United States Environmental Protection Agency, bearing proper
@@ -4426,9 +4426,9 @@ entry and subsequent work, if any, on the easement, shall be done in full
 accordance with the terms of the duly negotiated easement pertaining to the
 private property involved.
 (Ord. 703, passed 10-10-1983)
-§§ 52.123 THROUGH 52.134 RESERVED.
-EXTRANEOUS FLOWS INTO THE SANITARY SEWER SYSTEM THROUGH ILLEGAL CONNECTIONS
-FROM PRIVATE PROPERTIES
+** §§ 52.123 THROUGH 52.134 RESERVED. **
+**** EXTRANEOUS FLOWS INTO THE SANITARY SEWER SYSTEM THROUGH ILLEGAL
+CONNECTIONS FROM PRIVATE PROPERTIES ****
 § 52.135 EXTRANEOUS FLOWS.
    (A)   It is the purpose of this section that the entry of extraneous flows
 into the sanitary sewer system be prohibited and be discontinued, where the
@@ -4523,7 +4523,7 @@ Wastewater Service Charges
  
    
 53.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 53.01 BILLS.
    (A)   The rates or charges for wastewater service shall be payable at the
 same time and for the same periods as water service charges are billed and
@@ -4854,8 +4854,8 @@ plant.
 or intermittently.
 (Ord. 703, passed 10-10-1983; Ord. 705, passed 12-12-1983; Ord. 1365, passed
 11-18-2024)
-§§ 53.09 THROUGH 53.19 RESERVED.
-WASTEWATER SERVICE CHARGES
+** §§ 53.09 THROUGH 53.19 RESERVED. **
+**** WASTEWATER SERVICE CHARGES ****
 § 53.20 BASIS FOR WASTEWATER SERVICE CHARGES.
    (A)   The wastewater service charge for the use of and for service supplied
 by the wastewater facilities of the village shall consist of a basic user
@@ -5474,7 +5474,7 @@ Excavations
  
    
 55.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 55.001 SUPERVISION.
    All public streets, alleys, sidewalks and other public ways in the village,
 shall be under the supervision of the Village Manager, under the direction of
@@ -5655,8 +5655,8 @@ Lawn sprinkling systems installed in the public parkway, whether permanent or
 movable, shall be so placed and operated as not to interfere with the free use
 of the parkway, street pavement or sidewalk for public purposes.
 (1959 Code, § 38-24)
-§§ 55.017 THROUGH 55.029 RESERVED.
-STREETS
+** §§ 55.017 THROUGH 55.029 RESERVED. **
+**** STREETS ****
 § 55.030 SPECIFICATIONS FOR PAVEMENTS.
    All pavements in public streets and ways shall be made in conformity with
 the current Standard Specifications for Road and Bridge Construction of the
@@ -5681,8 +5681,8 @@ provided by the Village Manager or his or her designee; and
       (2)   May also be subject to the penalty provisions of §
 10.99 of this code.
 (Ord. 1175, passed 10-17-2016)
-§§ 55.032 THROUGH 55.044 RESERVED.
-SIDEWALKS
+** §§ 55.032 THROUGH 55.044 RESERVED. **
+**** SIDEWALKS ****
 § 55.045 LICENSE REQUIRED; FEE AND BOND.
    No person shall engage in the business of constructing or repairing
 sidewalks in any public street or place in the village without first having
@@ -5794,8 +5794,8 @@ flagstone, payers, or concrete in accordance with the specifications outlined
 in §
 55.046. Material color shall complement the existing sidewalk and landscape.
 (Ord. 1384, passed 4-21-2025)
-§§ 55.051 THROUGH 55.064 RESERVED.
-DRIVEWAYS
+** §§ 55.051 THROUGH 55.064 RESERVED. **
+**** DRIVEWAYS ****
 § 55.065 PERMIT REQUIRED.
    (A)   Permit required. It is unlawful for any person to construct or
 maintain any driveway over or across any public sidewalk or connecting with any
@@ -5826,8 +5826,8 @@ shall be paid for each driveway permit
 of this subchapter, to keep the same free from snow and ice and any obstruction
 and to keep it in good repair where it crosses a public sidewalk.
 (1959 Code, § 31-25)
-§§ 55.068 THROUGH 55.079 RESERVED.
-FENCES
+** §§ 55.068 THROUGH 55.079 RESERVED. **
+**** FENCES ****
 § 55.080 NO DIVISION FENCE OVER SIX FEET HIGH.
    (A)   It is unlawful for any person to erect and maintain any fence upon or
 within any lot or parcel of ground within the village, without first obtaining
@@ -5866,8 +5866,8 @@ violation of this section is subject to the penalties provided for in §
 (1959 Code, § 31-26) (Ord. 500, passed 11-9-1959; Ord. 526, passed 7-1-1963;
 Ord. 607, passed 4-24-1972; Ord. 677, passed 11-9-1981; Ord. 700, passed 8-8-
 1983)
-§§ 55.081 THROUGH 55.094 RESERVED.
-STREET HOUSE NUMBERS
+** §§ 55.081 THROUGH 55.094 RESERVED. **
+**** STREET HOUSE NUMBERS ****
 § 55.095 NUMBERING PLAN.
    All lots, buildings and structures in the village shall be numbered in
 accordance with the following plan.
@@ -5992,8 +5992,8 @@ village to place and maintain thereon in a place visible from the street,
 figures at least three inches high, showing the street number of the building,
 within 30 days after notice so to do.
 (1959 Code, § 31-31)
-§§ 55.099 THROUGH 55.109 RESERVED.
-HOUSE MOVERS
+** §§ 55.099 THROUGH 55.109 RESERVED. **
+**** HOUSE MOVERS ****
 § 55.110 PERMIT REQUIRED.
    It is unlawful for any person to move a building on or over any public
 street, sidewalk, alley or other public place in the village without obtaining
@@ -6008,8 +6008,8 @@ in the amount and with sureties to be approved by the Building Commissioner;
 provided, however, that in lieu of the foregoing bond, the contractor may file
 an annual bond.
 (1959 Code, § 31-34)
-§§ 55.112 THROUGH 55.124 RESERVED.
-EXCAVATIONS
+** §§ 55.112 THROUGH 55.124 RESERVED. **
+**** EXCAVATIONS ****
 § 55.125 PERMIT REQUIRED.
    (A)   It is unlawful for any person to make any excavation in any street,
 alley, sidewalk or public place or to tunnel under the same, except in case of
@@ -7905,14 +7905,14 @@ Administration and Enforcement
 70.99   Penalty
 Statutory reference:
    State Vehicle Code, see 625 ILCS 5
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    Terms used in this title shall have the meanings respectively ascribed to
 them by the State Vehicle Code, as amended, except where otherwise set forth in
 this title.
 (Ord. 780, passed 7-8-1991)
-§§ 70.02 THROUGH 70.14 RESERVED.
-STATE VEHICLE CODE
+** §§ 70.02 THROUGH 70.14 RESERVED. **
+**** STATE VEHICLE CODE ****
 § 70.15 ADOPTION OF ILLINOIS VEHICLE CODE.
    The Illinois Vehicle Code, 625 ILCS 5, 1- 100 et seq., as may be amended
 (“State Vehicle Code”), is hereby adopted in its entirety by reference.
@@ -7920,8 +7920,8 @@ STATE VEHICLE CODE
 1996; Ord. 1032, passed 3-15-2010; Ord. 1197, passed 7-24-2017)
 Statutory reference:
    State Vehicle Code, see 625 ILCS 5
-§§ 70.16 THROUGH 70.29 RESERVED.
-ADMINISTRATION AND ENFORCEMENT
+** §§ 70.16 THROUGH 70.29 RESERVED. **
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 70.30 POLICE OFFICER TO ENFORCE.
    Police officers of the village are hereby authorized to direct all traffic
 in accordance with the provisions of this title or in emergencies or otherwise
@@ -8050,7 +8050,7 @@ Permit Parking
  
    
 72.99   Penalty
-PARKING GENERALLY
+**** PARKING GENERALLY ****
 § 72.01 DRIVING AND PARKING OF VEHICLES GENERALLY.
    No person shall drive, operate, stop, stand or park a motor vehicle, except
 in compliance with the directions of a police officer, traffic control device
@@ -8171,8 +8171,8 @@ corporate limits of the village, if the vehicle does not display a current
 annual state registration sticker or current temporary permit pending
 registration.
 (Ord. 831, passed 1-13-1997)
-§§ 72.10 THROUGH 72.19 RESERVED.
-PERMIT PARKING
+** §§ 72.10 THROUGH 72.19 RESERVED. **
+**** PERMIT PARKING ****
 § 72.20 NONRESIDENT PARKING ZONES.
    (A)   Any person desiring a permit for the parking within nonresident
 parking zones shall file an application with the village, upon a form provided,
@@ -8983,7 +8983,7 @@ Impoundment of Animals
  
    
 91.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.001 DEFINITIONS.
    For the purposes of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9053,8 +9053,8 @@ hereunder while engaged in the performance of any duty imposed by the
 provisions of this chapter. It shall be unlawful for any person to cause or
 permit any violation of this chapter.
 (Ord. 812, passed 5-9-1994)
-§§ 91.007 THROUGH 91.019 RESERVED.
-DOGS
+** §§ 91.007 THROUGH 91.019 RESERVED. **
+**** DOGS ****
 § 91.020 LICENSE TAG REQUIRED; FEE.
    (A)   It shall be unlawful for any person to harbor or keep a dog within the
 village at any time before January 1, 2000 unless the person applies for and
@@ -9184,8 +9184,8 @@ hereby declared to be a public nuisance and shall be impounded while it is in
 heat at the cost of the owner. A dog so impounded may be redeemed as provided
 in this chapter.
 (Ord. 812, passed 5-9-1994)
-§§ 91.025 THROUGH 91.034 RESERVED.
-CATS
+** §§ 91.025 THROUGH 91.034 RESERVED. **
+**** CATS ****
 § 91.035 INOCULATIONS.
    The owner of any cat harbored or kept within the village shall cause the cat
 to be inoculated for rabies and other diseases as and when required by state
@@ -9203,8 +9203,8 @@ hereby declared to be a nuisance. Any person creating or permitting a nuisance
 to exist, having the right and power to abate the same, shall be guilty of a
 violation of this chapter.
 (Ord. 812, passed 5-9-1994)
-§§ 91.037 THROUGH 91.049 RESERVED.
-OTHER ANIMALS
+** §§ 91.037 THROUGH 91.049 RESERVED. **
+**** OTHER ANIMALS ****
 § 91.050 CERTAIN ANIMALS PROHIBITED.
    It shall be unlawful for any person to harbor or keep or allow to be
 harbored or kept within the village any animal other than dogs, cats and
@@ -9260,8 +9260,8 @@ or kept within the village on a temporary basis in connection with a circus,
 animal exhibition, petting zoo or similar event conducted in accordance with
 all other applicable village ordinances.
 (Ord. 812, passed 5-9-1994)
-§§ 91.056 THROUGH 91.059 RESERVED.
-DANGEROUS ANIMALS
+** §§ 91.056 THROUGH 91.059 RESERVED. **
+**** DANGEROUS ANIMALS ****
 § 91.060 FIERCE, VICIOUS AND DANGEROUS ANIMALS.
    No fierce, vicious or dangerous animal shall be harbored or kept within the
 village, and any unspayed female dog not confined in a manner as to positively
@@ -9346,8 +9346,8 @@ animal.
 mischievous animal, being the owner or keeper thereof, to run or be at large,
 to the danger, annoyance or damage of any other person.
 (1995 Code, § 27-2)
-§§ 91.067 THROUGH 91.079 RESERVED.
-IMPOUNDMENT OF ANIMALS
+** §§ 91.067 THROUGH 91.079 RESERVED. **
+**** IMPOUNDMENT OF ANIMALS ****
 § 91.080 CHIEF OF POLICE EX OFFICIO POUNDMASTER.
    The Chief of Police of the village shall be ex officio poundmaster for the
 village and he or she shall appoint deputy poundmasters from among the Police
@@ -10275,7 +10275,7 @@ Theatrical and Other Public Amusements
 111.122   Building and ventilation requirements
    
 111.123   Aisles, corridors and exits not to be obstructed
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 111.001 LICENSE REQUIRED.
    No person shall conduct or operate any amusement in the village which is
 open to the public and for admission to which a fee is charged without
@@ -10331,8 +10331,8 @@ inspected, periodically if necessary, by a member of the Police and/or Fire
 Department, to ensure conformity with fire regulations and all applicable
 ordinances and laws.
 (1959 Code, § 4-6)
-§§ 111.007 THROUGH 111.019 RESERVED.
-BILLIARD AND POOL ROOMS
+** §§ 111.007 THROUGH 111.019 RESERVED. **
+**** BILLIARD AND POOL ROOMS ****
 § 111.020 LICENSE REQUIRED.
    No person shall operate, maintain or conduct within the village a billiard
 table, pool table or any similar gaming table open to the public without first
@@ -10371,8 +10371,8 @@ of any premises used for a billiard, pool or similar gaming table open to the
 public, at all reasonable hours, for the purpose of making inspections to see
 to the enforcement of the provisions of this subchapter.
 (1959 Code, § 4-13)
-§§ 111.026 THROUGH 111.059 RESERVED.
-CIRCUSES AND CARNIVALS
+** §§ 111.026 THROUGH 111.059 RESERVED. **
+**** CIRCUSES AND CARNIVALS ****
 § 111.060 LICENSE REQUIRED.
    No person shall conduct or operate a circus, carnival or similar amusement
 in the village without first obtaining a license therefor as herein provided.
@@ -10412,8 +10412,8 @@ of any premises used for amusement, at all reasonable hours, for the purpose of
 making inspections to see to the enforcement of the provisions of this
 subchapter and of all applicable ordinances and laws.
 (1959 Code, § 4-26)
-§§ 111.066 THROUGH 111.079 RESERVED.
-USE OF PUBLIC PROPERTY
+** §§ 111.066 THROUGH 111.079 RESERVED. **
+**** USE OF PUBLIC PROPERTY ****
 § 111.080 SUPERVISION.
    All public streets, public ways and other municipal property in the village
 shall be under the supervision of the Village Manager, under the direction of
@@ -10544,8 +10544,8 @@ violation of any ordinance or any condition or provision of the permit; and
 permission to inspect all structures, devices, and equipment to be used in
 connection with the permitted event or activity.
 (Ord. 1056, passed 1-18-2011)
-§§ 111.092 THROUGH 111.114 RESERVED.
-THEATRICAL AND OTHER PUBLIC AMUSEMENTS
+** §§ 111.092 THROUGH 111.114 RESERVED. **
+**** THEATRICAL AND OTHER PUBLIC AMUSEMENTS ****
 § 111.115 LICENSE REQUIRED.
    It is unlawful for any person to conduct or operate within the village any
 theatrical performance, exhibition, carnival, game for hire or other public
@@ -10669,7 +10669,7 @@ Auctioneers
 112.52   Auctions in streets prohibited
    
 112.53   Exemptions
-CANVASSERS AND SOLICITORS
+**** CANVASSERS AND SOLICITORS ****
 § 112.01 PERMIT REQUIRED.
    It is unlawful for any person to go in or upon any private residence,
 apartment or premises in the village, without first having been invited to do
@@ -10773,8 +10773,8 @@ commercial, political, religious or other cause, or to conduct any survey or
 poll, on any day after the hour of 8:00 p.m. and before the hour of 7:00 a.m.
 on the following day.
 (Ord. 899, passed 10-21-2002)
-§§ 112.08 THROUGH 112.19 RESERVED.
-PEDDLERS, HAWKERS AND ITINERANT MERCHANTS
+** §§ 112.08 THROUGH 112.19 RESERVED. **
+**** PEDDLERS, HAWKERS AND ITINERANT MERCHANTS ****
 § 112.20 LICENSE REQUIRED.
    It is unlawful for any person to engage in the business of an itinerant
 merchant, peddler or hawker in the village without obtaining a license
@@ -10816,8 +10816,8 @@ apply to magazines, books, newspapers, pamphlets or other written or printed
 matter which the village cannot, as a matter of law, prohibit the sale of in or
 upon those places.
 (1959 Code, § 26-5)
-§§ 112.25 THROUGH 112.34 RESERVED.
-CHARITABLE AND POLITICAL SOLICITATIONS
+** §§ 112.25 THROUGH 112.34 RESERVED. **
+**** CHARITABLE AND POLITICAL SOLICITATIONS ****
 § 112.35 PERMIT REQUIRED.
    (A)   (1)   It shall be unlawful for any person to solicit or direct anyone
 to solicit on that person’s behalf within the village, by telephone or in
@@ -10950,8 +10950,8 @@ Village Board if written notice of the appeal is given within 30 days. The
 appeal must be decided by the Village Board within 40 days from the time the
 applicant files the notice of appeal.
 (Ord. 689, passed 1-10-1983)
-§§ 112.39 THROUGH 112.49 RESERVED.
-AUCTIONEERS
+** §§ 112.39 THROUGH 112.49 RESERVED. **
+**** AUCTIONEERS ****
 § 112.50 LICENSE REQUIRED.
    No person shall conduct a public auction or do business as a public
 auctioneer in the village without first obtaining a license therefor as herein
@@ -11174,7 +11174,7 @@ Restaurants
  
    
 114.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 114.01 DEFINITION OF FOOD.
    For the purposes of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11270,8 +11270,8 @@ automatically adopted, and such regulations shall apply to all establishments
 in the village that engage in storage, handling, sale or preparation of food or
 drink intended for human consumption.
 (Ord. 1293, passed 11-15-2021)
-§§ 114.12 THROUGH 114.19 RESERVED
-RESTAURANTS
+** §§ 114.12 THROUGH 114.19 RESERVED **
+**** RESTAURANTS ****
 § 114.20 DEFINITION.
    For the purposes of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11527,7 +11527,7 @@ Enforcement
 116.094   Automatic revocation
    
 116.095   Forfeiture of fees
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 116.001 DEFINITIONS.
    For the purposes of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. All words
@@ -11655,7 +11655,7 @@ Commissioner; and
       (5)   To perform all other duties required pursuant to the Liquor Control
 Act.
 (Ord. 1191, passed 3-20-2017)
-LICENSES
+**** LICENSES ****
 § 116.015 LOCAL LIQUOR LICENSE REQUIRED.
    (A)   No person, firm, or corporation shall sell at retail or offer for sale
 at retail any alcoholic liquor in the village except in the manner authorized
@@ -11854,7 +11854,7 @@ licensee until the original expiration date of that licensee's license but no
 longer than six months after the death, bankruptcy, or insolvency of that
 licensee.
 (Ord. 1191, passed 3-20-2017)
-LICENSING PROCESS
+**** LICENSING PROCESS ****
 § 116.030 APPLICATION FOR LICENSE.
    (A)   New applicants. An applicant for a new local liquor license shall file
 an application therefor with the Village Clerk, on a form provided by the
@@ -12191,7 +12191,7 @@ license fee.
 refund any application fee paid pursuant to this chapter to an applicant or
 local liquor licensee for any reason.
 (Ord. 1191, passed 3-20-2017)
-INSURANCE AND TRAINING
+**** INSURANCE AND TRAINING ****
 § 116.050 DRAM SHOP INSURANCE.
    All local liquor licensees shall maintain dram shop insurance for the
 premises within which alcoholic liquor is sold in a minimum amount of
@@ -12232,7 +12232,7 @@ Police for the responsible alcohol service training required pursuant to this §
 116.051 shall pay a program fee in the amount set forth in the Annual Fee
 Ordinance.
 (Ord. 1191, passed 3-20-2017)
-SALES
+**** SALES ****
 § 116.065 SALES RESTRICTED TO AUTHORIZED PREMISES.
    A local liquor license shall permit the sale of alcoholic liquor only in or
 from the premises described in the local liquor license, and only in the manner
@@ -12464,7 +12464,7 @@ ILCS 5/6-28.8 is repealed, this section is automatically repealed without
 further action by the Village Board and, upon repeal, the additional privileges
 granted by this section will automatically terminate.
 (Ord. 1317, passed 10-24-2022)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 116.090 VIOLATIONS AND PENALTIES.
    (A)   Fines.
       (1)   Except where otherwise permitted or required by the Liquor Control
@@ -12630,7 +12630,7 @@ Secondhand Stores
 117.37   Pawnbroker license, when required
    
 117.38   Records to be kept
-JUNK DEALERS
+**** JUNK DEALERS ****
 § 117.01 JUNK STORE OR YARD PROHIBITED.
    No person shall locate, build, construct, operate or maintain any shop,
 store, yard or place in the village in or upon which rags, old rope, paper,
@@ -12647,8 +12647,8 @@ rags, paper, bags, metals, bottles, automobiles, trucks or vehicles to be
 dismantled, or other similar articles, without first obtaining a license
 therefor, for which the fee shall be established in the annual fee ordinance.
 (1959 Code, § 19-2)
-§§ 117.03 THROUGH 117.14 RESERVED.
-PAWNBROKERS
+** §§ 117.03 THROUGH 117.14 RESERVED. **
+**** PAWNBROKERS ****
 § 117.15 LICENSE REQUIRED.
    It is unlawful for any person to conduct or operate the business of a
 pawnbroker in the village without obtaining a license therefor.
@@ -12702,8 +12702,8 @@ PAWNBROKER.
 obtaining the license required for the dealer in addition to his or her
 pawnbroker’s license.
 (1959 Code, § 25-9)
-§§ 117.24 THROUGH 117.34 RESERVED.
-SECONDHAND STORES
+** §§ 117.24 THROUGH 117.34 RESERVED. **
+**** SECONDHAND STORES ****
 § 117.35 LICENSE REQUIRED; APPLICATION; INVESTIGATION.
    It is unlawful for any person to operate or conduct a secondhand store in
 the village without obtaining a license therefor. Application for the license
@@ -12864,7 +12864,7 @@ agent
  
    
 130.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 130.01 ASSAULT AND BATTERY.
    It is unlawful for any person to commit assault and battery or to fight in
 any street, alley or public place in the village.
@@ -12917,8 +12917,8 @@ street, alley or public place in the village.
 street, alley or public place in the village, or to appear in any street, alley
 or public place not properly and decently clothed.
 (1959 Code, § 24-14)
-§§ 130.12 THROUGH 130.24 RESERVED.
-HEATING OF MULTIPLE DWELLINGS
+** §§ 130.12 THROUGH 130.24 RESERVED. **
+**** HEATING OF MULTIPLE DWELLINGS ****
 § 130.25 DUTY OF PERSON OWNING OR CONTROLLING TO HEAT; REQUIRED TEMPERATURE.
    It is the duty of every person owning or controlling any dwelling in which
 heat is furnished from a heating plant used in common for the purpose of
@@ -13012,7 +13012,7 @@ Trespass to Property
  
    
 131.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 131.01 INJURING PROPERTY.
    Any person who unlawfully defaces or interferes with any property belonging
 to another shall be, upon conviction, fined as provided in §
@@ -13063,8 +13063,8 @@ with the intent of advertising or making known in a general or promiscuous
 manner, any business, occupation, service, profession, medical treatment,
 medicine or anything whatsoever.
 (1959 Code, § 27-9)
-§§ 131.09 THROUGH 131.19 RESERVED.
-TRESPASS TO PROPERTY
+** §§ 131.09 THROUGH 131.19 RESERVED. **
+**** TRESPASS TO PROPERTY ****
 § 131.20 DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13148,7 +13148,7 @@ Possession of Cannabis
  
    
 132.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 132.01 DUTY OF CITIZENS TO ASSIST POLICE.
    It shall be the duty of every person, when called upon by any member of the
 Police Department, to promptly aid and assist him or her in the execution of
@@ -13189,8 +13189,8 @@ fire hydrant.
 case of fire, asphyxiation, drowning or other similar emergency involving the
 safety of life or property.
 (1959 Code, § 2a-24)
-§§ 132.07 THROUGH 132.19 RESERVED.
-GAMBLING, GAMBLING DEVICES AND GAMES OF CHANCE
+** §§ 132.07 THROUGH 132.19 RESERVED. **
+**** GAMBLING, GAMBLING DEVICES AND GAMES OF CHANCE ****
 § 132.20 GAMBLING PROHIBITED.
    (A)   Prohibition. It is unlawful for any person in the village to play for
 money or other valuable thing at any game with cards, dice, chips or checks, or
@@ -13219,8 +13219,8 @@ electronic gambling device or paraphernalia or other apparatus for playing at
 any game or sport for money or other valuable thing or to keep or allow to be
 used or rented any place for gambling purposes.
 (1959 Code, § 24-10) (Ord. 1026, passed 9-14-2009)
-§§ 132.22 THROUGH 132.49 RESERVED.
-POSSESSION OF CANNABIS
+** §§ 132.22 THROUGH 132.49 RESERVED. **
+**** POSSESSION OF CANNABIS ****
 § 132.50 POSSESSION, USE, AND SALE OF CANNABIS.
    (A)   Prohibited.
       (1)   It shall be unlawful for any person within the limits of the
@@ -13280,7 +13280,7 @@ Fireworks
  
    
 133.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 133.01 UNLAWFUL TO DISCHARGE FIREARMS.
    It is unlawful for any person to discharge or cause to be discharged within
 the village, any gun, pistol or other firearms, or to use, discharge or operate
@@ -13302,8 +13302,8 @@ other business entity, to sell, barter, rent or loan any firearm within the
 boundaries of the village, except for those quality hunting weapons which are
 sold in stores whose primary purpose is the sale of sporting goods.
 (Ord. 662, passed 7-9-1979)
-§§ 133.04 THROUGH 133.19 RESERVED.
-FIREWORKS
+** §§ 133.04 THROUGH 133.19 RESERVED. **
+**** FIREWORKS ****
 § 133.20 DEFINITION.
    For the purposes of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13446,7 +13446,7 @@ enterprises in or upon automobiles prohibited; declared nuisance
  
    
 135.99   Penalty
-NUISANCES GENERALLY
+**** NUISANCES GENERALLY ****
 § 135.01 PUBLIC NUISANCES PROHIBITED.
    No person shall erect, contrive, cause, continue, maintain or permit to
 exist any public nuisance within the village or within the police jurisdiction
@@ -13815,8 +13815,8 @@ the extent permitted by law, be assessed against the premises and the village
 shall have a lien against the premises for the costs, enforceable in the manner
 provided by law for the enforcement of mechanics liens.
 (Ord. 766, passed 9-10-1990)
-§§ 135.06 THROUGH 135.19 RESERVED.
-ADVERTISING
+** §§ 135.06 THROUGH 135.19 RESERVED. **
+**** ADVERTISING ****
 § 135.20 LITTERING STREETS WITH HANDBILLS AND THE LIKE PROHIBITED.
    It is unlawful for any person to litter any street or sidewalk in the
 village with any circulars, leaflets, handbills or other advertisements
@@ -14126,7 +14126,7 @@ Pool and Spa Code
  
    
 150.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.001 COMPLIANCE REQUIRED.
    It shall be unlawful to erect, construct, repair or alter, occupy or
 maintain, remove or demolish any building or structure in the village or to
@@ -14192,8 +14192,8 @@ Chapter 154 of this code unless the proposed development also complies with the
 requirements of
 Chapter 154.
 (Ord. 1163, passed 12-14-2015)
-§§ 150.009 THROUGH 150.019 RESERVED.
-DEMOLITIONS
+** §§ 150.009 THROUGH 150.019 RESERVED. **
+**** DEMOLITIONS ****
 § 150.020 DEMOLITIONS GENERALLY.
    No application for a building permit that contemplates demolition work for
 which a demolition permit is required pursuant to this chapter shall be
@@ -14466,8 +14466,8 @@ required by §
 the stay of issuance of the demolition permit shall commence pursuant to §
 150.043.
 (Ord. 1099, passed 4-29-2013)
-§§ 150.031 THROUGH 150.039 RESERVED.
-PRELIMINARY HISTORIC AND ARCHITECTURAL REVIEW
+** §§ 150.031 THROUGH 150.039 RESERVED. **
+**** PRELIMINARY HISTORIC AND ARCHITECTURAL REVIEW ****
 § 150.040 TIME AND NATURE OF REVIEW.
    (A)   Except as provided below, the Building Review Commission shall meet
 and determine whether the building and/or property that is the subject of the
@@ -14573,8 +14573,8 @@ findings of fact shall include statements and other evidence as to whether or
 not the building or property is of special importance.
 (Ord. 885, passed 11-13-2001; Ord. 1005, passed 9-8-2008; Ord. 1010, passed 4-
 13-2009)
-§§ 150.045 THROUGH 150.053 RESERVED.
-PROPERTIES OF SPECIAL IMPORTANCE
+** §§ 150.045 THROUGH 150.053 RESERVED. **
+**** PROPERTIES OF SPECIAL IMPORTANCE ****
 § 150.054 PREDETERMINATION OF SPECIAL IMPORTANCE FOR CERTAIN BUSINESS DISTRICT
 PROPERTIES.
    (A)   Subject to division (B) below, the Building Review Commission finds
@@ -14711,8 +14711,8 @@ stay period shall be issued to the applicant and the owner, with a copy to the
 code official.
 (Ord. 885, passed 11-13-2001; Ord. 916, passed 4-9-2004; Ord. 1005, passed 9-8-
 2008; Ord. 1010, passed 4-13-2009; Ord. 1350, passed 12-11-2023)
-§§ 150.057 THROUGH 150.069 RESERVED.
-PERMITS AND DELAY OF ISSUANCE
+** §§ 150.057 THROUGH 150.069 RESERVED. **
+**** PERMITS AND DELAY OF ISSUANCE ****
 § 150.070 DELAY FOR PUBLIC CONVENIENCE AND SAFETY.
    The code official may order that the issuance of a demolition permit be
 delayed if the proposed schedule for the demolition will interfere with
@@ -14777,8 +14777,8 @@ expiration of the permit, a demolition permit issued pursuant to this chapter
 shall expire six months after its issuance.
 (Ord. 885, passed 11-13-2001; Ord. 916, passed 4-9-2004; Ord. 1010, passed 4-
 13-2009)
-§§ 150.077 THROUGH 150.089 RESERVED.
-NOTICE REQUIREMENT
+** §§ 150.077 THROUGH 150.089 RESERVED. **
+**** NOTICE REQUIREMENT ****
 § 150.090 NOTICE TO ADJACENT PROPERTY OWNERS.
    (A)   All applicants filing an application for a permit involving a lot in a
 residential zone and authorizing the demolition of a dwelling or additions that
@@ -14799,8 +14799,8 @@ signature acknowledging receipt for each property so notified.
 application for which the notice was not given or for which the certification
 was not filed as provided herein.
 (Ord. 1000, passed 8-5-2008)
-§§ 150.091 THROUGH 150.104 RESERVED.
-MUNICIPAL PROPERTY DAMAGE DEPOSIT
+** §§ 150.091 THROUGH 150.104 RESERVED. **
+**** MUNICIPAL PROPERTY DAMAGE DEPOSIT ****
 § 150.105 MUNICIPAL PROPERTY DAMAGE DEPOSIT.
    (A)   Before commencing any work on village property for which a permit is
 required, the applicant shall post with the village a cash deposit or other
@@ -14842,8 +14842,8 @@ required by this section shall be provided and additional bonds or deposits for
 damage to village property pursuant to those other sections shall not be
 required.
 (Ord. 941, passed 7-11-2005)
-§§ 150.106 THROUGH 150.119 RESERVED.
-INSURANCE
+** §§ 150.106 THROUGH 150.119 RESERVED. **
+**** INSURANCE ****
 § 150.120 CERTIFICATE OF INSURANCE.
    Prior to issuance of a permit for any demolition or construction, the permit
 applicant shall provide the village with a certificate of insurance
@@ -14855,8 +14855,8 @@ $1,000,000 per occurrence and $3,000,000 in the aggregate. The certificate of
 insurance shall provide that insurance coverage shall be maintained during the
 entire time that work is being performed on the site pursuant to the permit.
 (Ord. 941, passed 7-11-2005)
-§§ 150.121 THROUGH 150.134 RESERVED.
-CONSTRUCTION SITE MANAGEMENT REGULATIONS
+** §§ 150.121 THROUGH 150.134 RESERVED. **
+**** CONSTRUCTION SITE MANAGEMENT REGULATIONS ****
 § 150.135 GENERALLY.
    The following standards and regulations in this subchapter shall apply to
 all construction or demolition work undertaken in the village for which a
@@ -14957,8 +14957,8 @@ a health or safety risk.
    Workers may not park at the construction site so as to block access to or
 through any public street, sidewalk, crosswalk or alley or any driveway
 (Ord. 941, passed 7-11-2005)
-§§ 150.144 THROUGH 150.154 RESERVED.
-TREE PRESERVATION
+** §§ 150.144 THROUGH 150.154 RESERVED. **
+**** TREE PRESERVATION ****
 § 150.155 PURPOSE.
    The preservation, protection and replacement of trees under this subchapter
 is intended to accomplish the following benefits:
@@ -15467,8 +15467,8 @@ of the tree replacement or the tree protection measures, as the case may be,
 the security, or any remainder thereof, shall be returned or released to the
 applicant.
 (Ord. 945, passed 10-11-2005)
-§§ 150.168 THROUGH 150.174 RESERVED.
-BUILDINGS
+** §§ 150.168 THROUGH 150.174 RESERVED. **
+**** BUILDINGS ****
 § 150.175 ADOPTION OF INTERNATIONAL BUILDING CODE.
    The provisions of the International Building Code, 2021 edition, published
 by the International Code Council, are hereby adopted by reference, subject
@@ -15743,8 +15743,8 @@ Chapter 29 Plumbing      Deleted in its entirety, superseded by Section 150.195 
 (Ord. 723, passed 4-14-1986; Ord. 1010, passed 4-13-2009; Ord. 1211, passed 1-
 22-2018; Ord. 1241, passed 4-15-2019; Ord. 1336, passed 7-17-2023; Ord. 1374,
 passed 12-9-2024)
-§§ 150.177 THROUGH 150.184 RESERVED.
-ONE- AND TWO-FAMILY DWELLINGS
+** §§ 150.177 THROUGH 150.184 RESERVED. **
+**** ONE- AND TWO-FAMILY DWELLINGS ****
 § 150.185 ADOPTION OF INTERNATIONAL RESIDENTIAL CODE, 2021 EDITION.
    The provisions of the International Residential Code for One- and Two-Family
 Dwellings, 2021 edition, published by the International Code Council, Inc., are
@@ -16215,8 +16215,8 @@ Appendices                                                    Adopt by Referenc
  
 (Ord. 1010, passed 4-13-2009; Ord. 1211, passed 1-22-2018; Ord. 1241, passed 4-
 15-2019; Ord. 1336, passed 7-17-2023; Ord. 1374, passed 12-9-2024)
-§§ 150.187 THROUGH 150.194 RESERVED.
-PLUMBING
+** §§ 150.187 THROUGH 150.194 RESERVED. **
+**** PLUMBING ****
 § 150.195 ADOPTION OF THE STATE OF ILLINOIS PLUMBING CODE.
    The Village of Kenilworth adopts by reference the provisions of the Illinois
 Plumbing Code, 77 Ill. Admin. Code Part 890, subject only to the additions,
@@ -16271,8 +16271,8 @@ Section    Appendix A, Table A, “Approved Amended by replacing with the follow
  
 (Ord. 1153, passed 9-21-2015; Ord. 1241, passed 4-15-2019; Ord. 1374, passed
 12-9-2024)
-§§ 150.197 THROUGH 150.204 RESERVED.
-MECHANICAL
+** §§ 150.197 THROUGH 150.204 RESERVED. **
+**** MECHANICAL ****
 § 150.205 ADOPTION OF THE INTERNATIONAL MECHANICAL CODE.
    The provisions of the International Mechanical Code, 2021 edition, published
 by the International Code Council, Inc., are hereby adopted by reference,
@@ -16315,8 +16315,8 @@ Number  Title
  
 (Ord. 725, passed 4-14-1986; Ord. 1010, passed 4-13-2009; Ord. 1241, passed 4-
 15-2019; Ord. 1374, passed 12-9-2024)
-§§ 150.207 THROUGH 150.214 RESERVED.
-ELECTRICAL
+** §§ 150.207 THROUGH 150.214 RESERVED. **
+**** ELECTRICAL ****
 § 150.215 ADOPTION OF THE NATIONAL ELECTRICAL CODE.
    The provisions of the National Electrical Code, 2020 edition, published by
 the National Fire Protection Association, are hereby adopted by reference,
@@ -16505,8 +16505,8 @@ Annex H and            f.   230.11 Overhead Service-drop conductors.”
  
 (Ord. 726, passed 4-14-1986; Ord. 1010, passed 4-13-2009; Ord. 1241, passed 4-
 15-2019; Ord. 1374, passed 12-9-2024; Ord. 1385, passed 5-19-2025)
-§§ 150.219 THROUGH 150.229 RESERVED.
-FIRE PREVENTION CODE
+** §§ 150.219 THROUGH 150.229 RESERVED. **
+**** FIRE PREVENTION CODE ****
 § 150.230 ADOPTION OF INTERNATIONAL FIRE CODE.
    (A)   The provisions of the International Fire Code, 2021 edition, published
 by the International Code Council, Inc. are hereby adopted by reference,
@@ -16699,8 +16699,8 @@ Appendices                   B.   Appendix C: Fire Hydrant Locations and Dist
  
 (Ord. 727, passed 4-14-1986; Ord. 1010, passed 4-13-2009; Ord. 1241, passed 4-
 15-2019; Ord. 1374, passed 12-9-2024)
-§§ 150.232 THROUGH 150.244 RESERVED.
-LIFE SAFETY
+** §§ 150.232 THROUGH 150.244 RESERVED. **
+**** LIFE SAFETY ****
 § 150.245 ADOPTION OF THE NFPA 101 LIFE SAFETY CODE.
    The provisions of the National Fire Protection Association (NFPA) 101 Life
 Safety Code, 2024 edition, published by the National Fire Protection
@@ -16727,8 +16727,8 @@ Number    Title
                       following:”
  
 (Ord. 1010, passed 4-13-2009; Ord. 1241, passed 4-15-2019)
-§§ 150.247 THROUGH 150.289 RESERVED.
-FUEL GAS
+** §§ 150.247 THROUGH 150.289 RESERVED. **
+**** FUEL GAS ****
 § 150.290 ADOPTION OF THE INTERNATIONAL FUEL GAS CODE.
    The provisions of the International Fuel Gas Code, 2021 edition, published
 by the International Code Council, Inc., are hereby adopted by reference,
@@ -16756,8 +16756,8 @@ Number  Title
  
 (Ord. 1010, passed 4-13-2009; Ord. 1241, passed 4-15-2019; Ord. 1374, passed
 12-9-2024)
-§§ 150.292 THROUGH 150.304 RESERVED.
-ENERGY CONSERVATION
+** §§ 150.292 THROUGH 150.304 RESERVED. **
+**** ENERGY CONSERVATION ****
 § 150.305 ADOPTION OF THE INTERNATIONAL ENERGY CONSERVATION CODE.
    The Village of Kenilworth hereby adopts by reference the provisions of the
 International Energy Conservation Code, 71 Ill. Admin. Code Subpart B and
@@ -16808,8 +16808,8 @@ Number  Title
  
 (Ord. 1039, passed 5-17-2010; Ord. 1241, passed 4-15-2019; Ord. 1374, passed
 12-9-2024)
-§§ 150.307 THROUGH 150.424 RESERVED.
-PUBLIC IMPROVEMENT STANDARDS
+** §§ 150.307 THROUGH 150.424 RESERVED. **
+**** PUBLIC IMPROVEMENT STANDARDS ****
 § 150.425 REQUIREMENTS GENERALLY.
    Except as hereinafter provided, it is unlawful for any person to erect a
 building for habitation on any lot or parcel of land within the village unless
@@ -16888,8 +16888,8 @@ subchapter are complied with.
 specific cases which do not affect the general plan, intent or the spirit of
 the subchapter.
 (1959 Code, § 16-34)
-§§ 150.433 THROUGH 150.439 RESERVED.
-DRAINAGE AND GRADING
+** §§ 150.433 THROUGH 150.439 RESERVED. **
+**** DRAINAGE AND GRADING ****
 § 150.440 PURPOSE.
    The regulation of drainage and grading in this subchapter is intended to
 accomplish the following benefits:
@@ -17201,8 +17201,8 @@ from reliance on these regulations, activities for which a permit is issued
 pursuant to this subchapter, or any administrative decision lawfully made
 thereunder.
 (Ord. 1178, passed 10-17-2016)
-§§ 150.447 THROUGH 150.449 RESERVED.
-PROPERTY MAINTENANCE
+** §§ 150.447 THROUGH 150.449 RESERVED. **
+**** PROPERTY MAINTENANCE ****
 § 150.450 ADOPTION OF INTERNATIONAL PROPERTY MAINTENANCE CODE.
    The provisions of Chapters 1, 2, 3, and 8 of the International Property
 Maintenance Code, 2021 edition, published by the International Code Council,
@@ -17397,8 +17397,8 @@ Number
 308.3.2  Containers     Delete entire subsection.
  
 (Ord. 1142, passed 5-18-2015; Ord. 1374, passed 12-9-2024)
-§§ 150.452 THROUGH 150.459 RESERVED.
-EXISTING BUILDINGS
+** §§ 150.452 THROUGH 150.459 RESERVED. **
+**** EXISTING BUILDINGS ****
 § 150.460 ADOPTION OF THE INTERNATIONAL EXISTING BUILDING CODE.
    The provisions of the International Existing Building Code, 2021 edition,
 published by the International Code Council, Inc., are hereby adopted by this
@@ -17547,8 +17547,8 @@ Chapter Historic     Delete entire chapter.
 12      Buildings
  
 (Ord. 1241, passed 4-15-2019; Ord. 1374, passed 12-9-2024)
-§§ 150.462 THROUGH 150.549 RESERVED.
-SWIMMING POOLS AND SPAS
+** §§ 150.462 THROUGH 150.549 RESERVED. **
+**** SWIMMING POOLS AND SPAS ****
 § 150.550 ADOPTION OF THE INTERNATIONAL SWIMMING POOL AND SPA CODE.
    The provisions of Chapters 1, 2, 3, 7, 8, 9, and 10 of the International
 Swimming Pool and Spa Code, 2021 edition, published by the International Code
@@ -17653,7 +17653,7 @@ Section Definitions to be used for swimming, wading or bathing and constructed, 
                     requirements of the section at the pool owner’s expense.”
  
 (Ord. 1241, passed 4-15-2019; Ord. 1374, passed 12-9-2024)
-§§ 150.552 THROUGH 150.998 RESERVED.
+** §§ 150.552 THROUGH 150.998 RESERVED. **
 § 150.999 PENALTY.
    (A)   Generally. Any person violating any provision of this chapter shall be
 subject to the penalty provisions of §
@@ -19863,7 +19863,7 @@ Appendix A: Appearance Plan
 Appendix B: Zoning maps
    
 Appendix C: Kenilworth Design Guidelines—Business District
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.001 TITLE.
    This chapter, including the zoning map made a part hereof, shall be known
 and may be cited as the Kenilworth Zoning Ordinance, 1969.
@@ -20346,8 +20346,8 @@ passed 10-9-2007; Ord. 1004, passed 9-8-2008; Ord. 1018, passed 6-22-2009; Ord.
 1024, passed 8-10-2009; Ord. 1057, passed 2-22-2011; Ord. 1082, passed 5-21-
 2012; Ord. 1177, passed 10-17-2016; Ord. 1270, passed 10-26-2020; Ord. 1318,
 passed 10- 24-2022; Ord. 1340, passed 10-23-2023; Ord. 1356, passed 4-15-2024)
-§§ 153.004 THROUGH 153.014 RESERVED.
-ZONING DISTRICTS
+** §§ 153.004 THROUGH 153.014 RESERVED. **
+**** ZONING DISTRICTS ****
 § 153.015 ESTABLISHMENT OF DISTRICTS.
    The village is hereby divided into 11 districts designated as follows:
    (A)   R-1 Residence District;
@@ -20380,9 +20380,9 @@ village, stating that:
    On [date] the following change was made in the official zoning map [brief
 description of change].
 (Ord. 577, passed 4-14-1969)
-§§ 153.018 THROUGH 153.029 RESERVED.
-GENERAL REQUIREMENTS AND PROVISIONS FOR ALL DISTRICTS
-PART A. GENERAL MATTERS
+** §§ 153.018 THROUGH 153.029 RESERVED. **
+**** GENERAL REQUIREMENTS AND PROVISIONS FOR ALL DISTRICTS ****
+*** PART A. GENERAL MATTERS ***
 § 153.030 CERTAIN GENERAL REQUIREMENTS.
    Except as specifically provided otherwise in this chapter:
    (A)   The regulations set by this chapter for each district shall be minimum
@@ -21316,8 +21316,8 @@ property that occurs after the first date of operation of the WES.
    Adult-use cannabis business establishments are prohibited in all zoning
 districts as either principal or accessory uses.
 (Ord. 1270, passed 10-26-2020)
-§§ 153.040 THROUGH 153.044 RESERVED.
-PART B. KENILWORTH SIGN CODE
+** §§ 153.040 THROUGH 153.044 RESERVED. **
+*** PART B. KENILWORTH SIGN CODE ***
 § 153.045 STATEMENT OF PURPOSE AND INTENT.
    The following statement of purpose and intent is hereby adopted:
    (A)   The purpose of this part is to:
@@ -22698,8 +22698,8 @@ filed with the Administrative Official. He or she shall record properly and
 promptly investigate such complaint, and shall take action thereon as provided
 by this part, this chapter and other applicable law.
 (Ord. 1057, passed 2-22-2011)
-§§ 153.061 THROUGH 153.064 RESERVED.
-RESIDENTIAL DISTRICT REGULATIONS
+** §§ 153.061 THROUGH 153.064 RESERVED. **
+**** RESIDENTIAL DISTRICT REGULATIONS ****
 § 153.065 PERMITTED AND SPECIAL USES.
    The following are the permitted and special uses in residential districts:
 District Use
@@ -22969,8 +22969,8 @@ and subject to the limitations stated in §
 153.033.
 (Ord. 577, passed 4-14-1969; Ord. 936, passed 6-13-2005; Ord. 946, passed 10-
 11-2005; Ord. 976, passed 4-9-2007; Ord. 1177, passed 10-17-2016)
-§§ 153.071 THROUGH 153.074 RESERVED.
-SUPPLEMENTAL REGULATIONS APPLICABLE TO ALL RESIDENTIAL DISTRICTS
+** §§ 153.071 THROUGH 153.074 RESERVED. **
+**** SUPPLEMENTAL REGULATIONS APPLICABLE TO ALL RESIDENTIAL DISTRICTS ****
 § 153.075 VISIBILITY AT INTERSECTIONS.
    (A)   Corners. On a corner lot in any residential district, nothing shall be
 erected, placed, planted or allowed to grow in a manner as to impede materially
@@ -23209,8 +23209,8 @@ period.
       (2)   Testing of all electric generators shall take place between the
 hours of 10:00 a.m. to 3:00 p.m. Monday through Friday.
 (Ord. 577, passed 4-14-1969; Ord. 1048, passed 11-15-2010)
-§§ 153.087 THROUGH 153.094 RESERVED.
-B BUSINESS DISTRICT REGULATIONS
+** §§ 153.087 THROUGH 153.094 RESERVED. **
+**** B BUSINESS DISTRICT REGULATIONS ****
 § 153.095 PERMITTED AND SPECIAL USES IN B BUSINESS DISTRICT.
    The uses in the following table designated by a P are permitted as of right
 in B Business District. Except as specifically limited by this chapter, the
@@ -23341,8 +23341,8 @@ intersecting streets in the area bounded by the lot lines of the corner lot,
 and a line joining points along the lot lines 20 feet from the point of their
 intersection.
 (Ord. 577, passed 4-14-1969; Ord. 1018, passed 6-22-2009)
-§§ 153.100 THROUGH 153.109 RESERVED.
-S SCHOOL DISTRICT REGULATIONS
+** §§ 153.100 THROUGH 153.109 RESERVED. **
+**** S SCHOOL DISTRICT REGULATIONS ****
 § 153.110 PERMITTED USES.
    The following are permitted uses in the S School District:
    (A)   Schools; and
@@ -23362,8 +23362,8 @@ Rear  A minimum depth equal to the larger of 25 feet or 20% of the depth of the
 Side  A minimum width of six feet on each side of a building
  
 (Ord. 577, passed 4-14-1969)
-§§ 153.113 THROUGH 153.124 RESERVED.
-P PARK AND PLAYGROUND DISTRICT
+** §§ 153.113 THROUGH 153.124 RESERVED. **
+**** P PARK AND PLAYGROUND DISTRICT ****
 § 153.125 PERMITTED USES.
    The following are permitted uses in the P Park and Playground District:
    (A)   Public park or playground;
@@ -23372,8 +23372,8 @@ P PARK AND PLAYGROUND DISTRICT
    (D)   Accessory uses as defined in §
 153.003.
 (Ord. 577, passed 4-14-1969)
-§§ 153.126 THROUGH 153.139 RESERVED.
-M-1 MAHONEY PARK DISTRICT
+** §§ 153.126 THROUGH 153.139 RESERVED. **
+**** M-1 MAHONEY PARK DISTRICT ****
 § 153.140 PERMITTED USES.
    The following are permitted uses in the M-1 Mahoney Park District:
    (A)   Public park in accordance with the conditions upon which the Mahoney
@@ -23381,8 +23381,8 @@ Park District premises are owned and possessed by the village; and
    (B)   Accessory uses as defined in §
 153.003 to the extent permitted by those conditions.
 (Ord. 577, passed 4-14-1969)
-§§ 153.141 THROUGH 153.154 RESERVED.
-M-2 MUNICIPAL LANDS DISTRICT
+** §§ 153.141 THROUGH 153.154 RESERVED. **
+**** M-2 MUNICIPAL LANDS DISTRICT ****
 § 153.155 PERMITTED USES.
    The following are permitted uses in the M-2 Municipal Lands District:
    (A)   Municipal and park district uses existing at the time of passage of
@@ -23396,8 +23396,8 @@ in this district will constitute special uses, and the authorization thereof
 shall be subject to the provisions of §
 153.245.
 (Ord. 577, passed 4-14-1969)
-§§ 153.157 THROUGH 153.169 RESERVED.
-R RAILWAY RIGHT-OF-WAY, PARKWAY AND AUTOMOBILE PARKING DISTRICT
+** §§ 153.157 THROUGH 153.169 RESERVED. **
+**** R RAILWAY RIGHT-OF-WAY, PARKWAY AND AUTOMOBILE PARKING DISTRICT ****
 § 153.170 PERMITTED USES.
    The following are permitted uses in the R Railway Right-of-Way, Parkway and
 Automobile Parking District:
@@ -23408,8 +23408,8 @@ Automobile Parking District:
    (E)   Accessory uses as defined in §
 153.003.
 (Ord. 577, passed 4-14-1969)
-§§ 153.171 THROUGH 153.184 RESERVED.
-OFF-STREET AUTOMOBILE PARKING REQUIREMENTS
+** §§ 153.171 THROUGH 153.184 RESERVED. **
+**** OFF-STREET AUTOMOBILE PARKING REQUIREMENTS ****
 § 153.185 GENERAL STATEMENT OF REQUIREMENTS.
    In all districts, off-street automobile parking facilities, both those
 permitted under the provisions of this chapter and those required herein, shall
@@ -23552,8 +23552,8 @@ family attached dwelling
  
 (Ord. 577, passed 4-14-1969; Ord. 918, passed 5-10-2004; Ord. 976, passed 4-9-
 2007; Ord. 1024, passed 8-10-2009)
-§§ 153.193 THROUGH 153.204 RESERVED.
-NONCONFORMING LOTS, STRUCTURES AND USES
+** §§ 153.193 THROUGH 153.204 RESERVED. **
+**** NONCONFORMING LOTS, STRUCTURES AND USES ****
 § 153.205 INTENT.
    (A)   Within the districts established by this chapter or by future
 amendment hereof, there may exist lots, structures and uses of land and
@@ -23703,8 +23703,9 @@ of the official.
 of this chapter shall not be deemed a nonconforming use in the district but
 shall without further action be considered a conforming use.
 (Ord. 577, passed 4-14-1969)
-§§ 153.212 THROUGH 153.224 RESERVED.
-ADMINISTRATION AND ENFORCEMENT: BUILDING PERMITS AND CERTIFICATES OF COMPLIANCE
+** §§ 153.212 THROUGH 153.224 RESERVED. **
+**** ADMINISTRATION AND ENFORCEMENT: BUILDING PERMITS AND CERTIFICATES OF
+COMPLIANCE ****
 § 153.225 ADMINISTRATION AND ENFORCEMENT.
    (A)   An Administrative Official designated by ordinance of the village
 shall administer and enforce this chapter. He or she may be provided with the
@@ -23774,8 +23775,8 @@ variance with that authorized shall be deemed a violation of this chapter, and
 punishable as provided by §
 153.999.
 (Ord. 577, passed 4-14-1969; Ord. 949, passed 2-13-2006)
-§§ 153.228 THROUGH 153.239 RESERVED.
-ZONING ADMINISTRATION, APPLICATIONS AND PROCEDURES
+** §§ 153.228 THROUGH 153.239 RESERVED. **
+**** ZONING ADMINISTRATION, APPLICATIONS AND PROCEDURES ****
 § 153.240 BOARD OF APPEALS, JURISDICTION.
    (A)   Establishment and membership. A Zoning Board of Appeals (herein
 sometimes referred to as the “Board”) is hereby established, which shall
@@ -25356,17 +25357,17 @@ in advance of the hearing date, containing the information required in the
 notice in subsection (A) above.
 (Ord. 968, passed 11-13-2006; Ord. 1018, passed 6-22-2009; Ord. 1126, passed 5-
 19-2014; Ord. 1340, passed 10-23-2023)
-§§ 153.250 THROUGH 153.259 RESERVED.
-APPEALS FROM THE BOARD OF APPEALS
+** §§ 153.250 THROUGH 153.259 RESERVED. **
+**** APPEALS FROM THE BOARD OF APPEALS ****
 § 153.260 WHO MAY APPEAL.
    Any person or persons, or any board, taxpayer, department, board or bureau
 of the village aggrieved by any decision of the Board of Appeals may seek
 review by a court of record of the decision, in the manner provided by the
 statutes of the state.
 (Ord. 577, passed 4-14-1969)
-§§ 153.261 THROUGH 153.274 RESERVED.
-DUTIES OF ADMINISTRATIVE OFFICIAL, AND OF BOARD OF APPEALS AND BOARD OF
-TRUSTEES ON MATTERS OF APPEAL
+** §§ 153.261 THROUGH 153.274 RESERVED. **
+**** DUTIES OF ADMINISTRATIVE OFFICIAL, AND OF BOARD OF APPEALS AND BOARD OF
+TRUSTEES ON MATTERS OF APPEAL ****
 § 153.275 PROCEDURES AS TO QUESTIONS OF INTERPRETATION AND ENFORCEMENT.
    (A)   Authority. The Administrative Official, subject to the procedures,
 standards and limitations of this section, may render interpretations,
@@ -25463,8 +25464,8 @@ repeal of this chapter, as provided by law; and
 153.290 through
 153.294.
 (Ord. 577, passed 4-14-1969)
-§§ 153.277 THROUGH 153.289 RESERVED.
-SCHEDULE OF FEES, CHARGES AND EXPENSES
+** §§ 153.277 THROUGH 153.289 RESERVED. **
+**** SCHEDULE OF FEES, CHARGES AND EXPENSES ****
 § 153.290 ESTABLISHMENT OF SCHEDULE OF FEES; PAYMENT REQUIRED.
    (A)   Fee established. Every application filed pursuant to this chapter
 shall be subject to a non-refundable application and filing fee in the amount
@@ -25568,8 +25569,8 @@ to which the unpaid fee or deposit relates.
 required of, any public body or agency deriving the majority of its revenues
 from taxes levied within the village.
 (Ord. 988, passed 12-10-2007)
-§§ 153.295 THROUGH 153.304 RESERVED.
-AMENDMENTS
+** §§ 153.295 THROUGH 153.304 RESERVED. **
+**** AMENDMENTS ****
 § 153.305 AMENDMENTS OF CHAPTER.
    The regulations imposed and the districts created by this chapter may from
 time to time be amended by ordinance in the manner provided by the statutes of
@@ -25578,8 +25579,8 @@ before some commission or committee designated by the President and Board of
 Trustees of the village which shall report its findings and recommendations to
 the Board of Trustees.
 (Ord. 577, passed 4-14-1969; Ord. 1355, passed 4-15-2024)
-§§ 153.306 THROUGH 153.319 RESERVED.
-PROVISIONS OF CHAPTER DECLARED TO BE MINIMUM REQUIREMENTS
+** §§ 153.306 THROUGH 153.319 RESERVED. **
+**** PROVISIONS OF CHAPTER DECLARED TO BE MINIMUM REQUIREMENTS ****
 § 153.320 PROVISIONS ARE MINIMUM REQUIREMENTS.
    In their interpretation and application, the provisions of this chapter
 shall be held to be minimum requirements, adopted for the promotion of the
@@ -25588,8 +25589,8 @@ this chapter are at variance with the requirements of any other lawfully
 adopted rules, regulations, ordinances, deed restrictions or covenants, the
 most restrictive or that imposing the higher standards shall govern.
 (Ord. 577, passed 4-14-1969)
-§§ 153.321 THROUGH 153.334 RESERVED.
-COMPLAINTS REGARDING VIOLATIONS
+** §§ 153.321 THROUGH 153.334 RESERVED. **
+**** COMPLAINTS REGARDING VIOLATIONS ****
 § 153.335 HANDLING OF COMPLAINTS OF VIOLATIONS OF CHAPTER.
    Whenever a violation of this chapter occurs, or is alleged to have occurred,
 any person may file a written complaint. The complaint stating fully the causes
@@ -25602,7 +25603,7 @@ action thereon as provided by this chapter.
 penalty provisions of §
 10.99 of this code, except where another specific penalty is provided.
 APPENDIX A: APPEARANCE PLAN
-Section I. CRITERIA FOR APPEARANCE.
+** Section I. CRITERIA FOR APPEARANCE. **
    The purpose of these criteria is to establish a checklist of those items
 which affect the physical aspect of the village environment. Pertinent to
 appearance is the design of the site, building and structures, planting, signs
@@ -25720,7 +25721,7 @@ evaluation of a design submissions
       Harmony and compatibility
       Circulation – vehicular and pedestrian
       Maintenance aspects
-Section II. MAINTENANCE FOR GOOD APPEARANCE.
+** Section II. MAINTENANCE FOR GOOD APPEARANCE. **
    A.   Site.
       1.   Landscape materials, other than plantings, which have deteriorated
 or have been damaged or defaced, should be properly repaired or replaced.
@@ -25753,7 +25754,7 @@ littering of waste materials.
       4.   Street hardware shall be erected and secured properly, and shall be
 cleaned or painted regularly to present an orderly appearance. Signs shall be
 treated similarly.
-Section III. DEFINITIONS.
+** Section III. DEFINITIONS. **
    APPEARANCE - The outward aspect visible to the public.
    APPURTENANCES - The visible, functional objects accessory to and part of
 buildings.
@@ -26377,7 +26378,7 @@ chargeable to such application.
 building regulations or elsewhere in this code, the provisions of this chapter
 shall control.
 (Ord. 1163, passed 12-14-2015)
-§§ 154.12 THROUGH 15.98 RESERVED.
+** §§ 154.12 THROUGH 15.98 RESERVED. **
 § 154.99 ENFORCEMENT AND PENALTIES.
    (A)   Generally. Any person violating any provision of this chapter shall be
 subject to the penalty provisions of §
