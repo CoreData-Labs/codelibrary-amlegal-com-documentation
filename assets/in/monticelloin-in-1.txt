@@ -1,10 +1,10 @@
 MONTICELLO, INDIANA
 CODE OF ORDINANCES
-2025 S-29 Supplement contains:
-Local legislation current through Ordinance 2024-15, passed 9-16-24;
-and Resolution No. 2025-03, passed 2-18-25; and
+2026 S-30 Supplement contains:
+Local legislation current through Ordinance 2025-18, passed 12-15-25;
+and Resolution No. 2025-12, passed 12-29-25; and
 State legislation current through Indiana Legislative Service,
-2024 Acts, Pamphlet No. 3
+2025 Acts, Pamphlet No. 4
 Published by:
 American Legal Publishing
 525 Vine Street Suite 310
@@ -321,7 +321,7 @@ Ordinances and Resolutions
 30.39   Recording of adopted ordinances
    
 30.40   Legislative powers of Council
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 COMMON COUNCIL; COMPOSITION; COUNCILMANIC DISTRICTS.
    (A)   The Common Council shall be composed of five members, four of whom are
 elected from districts and one of whom is elected at large. The districts are
@@ -458,7 +458,7 @@ Code, § 2-33)
 § 30.04 LEGISLATURE POWERS.
    All legislative power shall be vested in the Common Council.
 ('77 Code, § 2-56)
-MEETINGS; RULES OF PROCEDURES
+**** MEETINGS; RULES OF PROCEDURES ****
 § 30.15 REGULAR MEETINGS.
    The Common Council shall hold meetings on the first and third Monday of each
 month at 7:00 p.m. and at such other times as the Council may determine.
@@ -566,7 +566,7 @@ Council and Board of Public Works and Safety may take final action to:
       (6)   Exercise the City of Monticello's power of eminent domain; or
       (g)   Establish, impose, raise or renew a tax.
 (Res. 2021-03, passed 6-21-21)
-ORDINANCES AND RESOLUTIONS
+**** ORDINANCES AND RESOLUTIONS ****
 § 30.35 PASSAGE OF ORDINANCES.
    (A)   Definitions.  
       (1)   A requirement that an ordinance, resolution, or other action of the
@@ -720,7 +720,7 @@ Nonelected City Officials
 31.30   City Attorney
    
 31.31   City Engineer
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 QUALIFICATIONS OF OFFICIALS.
    All city officials shall have the residency qualifications and such other
 qualifications as may be provided by state law.
@@ -917,7 +917,7 @@ such event the employee shall be responsible for payment of any additional cost
 incurred as a result of any personal use.
 (Ord. 2007-02, passed 2-20-07; Am. Ord. 2008-7, passed 4-7-08; Am. Ord. 2010-
 04, passed 3-1-10)
-ELECTED OFFICIALS
+**** ELECTED OFFICIALS ****
 § 31.20 CITY CLERK-TREASURER.
    (A)   The City Clerk-Treasurer shall be elected as provided by state law.
 ('77 Code, § 2-70)
@@ -927,7 +927,7 @@ place. ('77 Code, § 2-71)
    (C)   The Clerk-Treasurer shall have such other powers and duties as may be
 prescribed by law. ('77 Code, § 2-72) (Ord. 98, passed 7-8-1895)
    (D)   The salary of the Clerk-Treasurer shall be as set forth by ordinance.
-NONELECTED CITY OFFICIALS
+**** NONELECTED CITY OFFICIALS ****
 § 31.30 CITY ATTORNEY.
    (A)   There is hereby established the position of City Attorney. ('77 Code,
 § 2-84)
@@ -1010,7 +1010,7 @@ Department of Unsafe Buildings
 Redevelopment Authority
    
 32.85   Creation and organization
-DEPARTMENT OF ECONOMIC DEVELOPMENT
+**** DEPARTMENT OF ECONOMIC DEVELOPMENT ****
 § 32.01 CREATION OF DEPARTMENT.
    There is hereby created the Monticello Department of Economic Development.
 ('77 Code, § 15-17) (Ord. 293, passed 12-17-74)
@@ -1020,7 +1020,7 @@ shall be composed of five members appointed as required by state law. The
 Commission shall have the powers, duties and organization required by state
 law.
 ('77 Code, § 15-18) (Ord. 293, passed 12-17-74)
-DEPARTMENT OF REDEVELOPMENT
+**** DEPARTMENT OF REDEVELOPMENT ****
 § 32.10 DEPARTMENT OF REDEVELOPMENT.
    There is hereby created a Department of Redevelopment with full power and
 authority to act as provided by law. ('77 Code, § 15-30) (Ord. 292, passed 4-7-
@@ -1034,7 +1034,7 @@ Redevelopment Commission as is required by state law. ('77 Code, § 15-31) (Ord.
 Trustees which shall have the composition, organization powers and duties
 provided by state law.
 ('77 Code, § 15-32) (Ord. 292, passed 4-7-74)
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 32.25 OFF-DUTY MEMBERS SUBJECT TO CALL-TO-DUTY.
    (A)   Off-duty members of the regularly organized Fire Department, in order
 to assist the regular on-duty firefighters, in their firefighting duties, shall
@@ -1070,7 +1070,7 @@ two-, or three-family dwellings.
    The Police and Fire Departments are hereby incorporated into the Department
 of Public Safety.
 (Ord. 2020-14, passed 10-19-20)
-DEPARTMENT OF PARKS AND RECREATION
+**** DEPARTMENT OF PARKS AND RECREATION ****
 § 32.30 CREATION.
    There is hereby created a Department of Parks and Recreation pursuant to IC
 36-10-3.
@@ -1100,7 +1100,7 @@ held in reserve by the Board for the maintenance of the property so purchased,
 so long as such a reserve is not prohibited by the conditions of any such gift,
 donation or subsidy.
 (Ord. 498, passed 11-15-82; Am. Ord. 2012-13, passed 6-4-12)
-URBAN FORESTRY BOARD
+**** URBAN FORESTRY BOARD ****
 § 32.35 CREATION.
    (A)   There is hereby created the Urban Forestry Board which shall consist
 of five voting members appointed by the Mayor. The initial term of three of the
@@ -1150,24 +1150,24 @@ owned by the city, or to which the public has free access as a park.
       (3)   The word SHALL is always mandatory and not merely suggestive.
       (4)   The word PERSON means any person, firm, partnership, association,
 corporation, company, or organization of any kind.
-   (B)   The Tree Manual contains a periodically updated list of Street Tree
+   (B)    The Tree Manual contains a periodically updated list of Street Tree
 species for Monticello, Indiana. No species other than those included in this
 list may be planted as Street Trees without written permission of the
-Monticello Urban Forestry Board or their representative.
+Monticello Urban Forestry Board (the “Board”) or their representative.
    (C)   The spacing of Street Trees will be in accordance with the three
-species size listed in the tree manual, except in special plantings designated
-or approved by a landscape architect.
+species size listed in the Tree Manual, except in special plantings designed or
+approved by a landscape architect.
    (D)   The distance trees may be planted from curbs or curblines and
 sidewalks will be in accordance with the three species size classes listed in
 the Tree Manual and no trees may be planted closer to any curb or sidewalks
-than the following: Small Trees, two feet; Medium Trees, three feet; and Large
-Trees, four feet.
+than the following: Small Trees, four feet; Medium Trees, five feet; and Large
+Trees, eight feet.
    (E)   No street tree shall be planted closer than 35 feet from any street
 corner, measured from the point nearest intersecting curbs or curblines. No
-street tree shall be planted closer than ten feet from any fireplug.
+street tree shall be planted closer than 12 feet from any fireplug.
    (F)   No street tree other than those listed as small trees in the Tree
-Manual may be planted under or within ten lateral feet of any overhead utility
-wire, or over or within five lateral feet of any underground water lines, sewer
+Manual may be planted under or within 15 lateral feet of any overhead utility
+wire, or over or within ten lateral feet of any underground water lines, sewer
 lines, transmission line or other utility.
    (G)   (1)   The city may plant, prune, maintain and remove trees, plants and
 shrubs, at their discretion, within the lines of all streets, alleys, avenues,
@@ -1178,74 +1178,52 @@ their discretion, any tree or part thereof which is unsafe condition or which
 by reason of its nature is injurious to sewers, electrical power lines, gas
 lines, water lines, or other public improvements. They may also cause to be
 removed any tree that is affected with any injurious disease, or insects, or is
-a hazard to life or property.
-   (H)   It shall be unlawful as a normal practice for any person or to top any
+a hazard to person or property.
+   (H)   It shall be unlawful as a normal practice for any person to top any
 street tree, park tree, or other tree on public property. Topping is defined as
 the severe cutting back of limbs to stubs larger than three inches in diameter
-within the tree's crown to such a degree so as to remove the normal canopy and
+within the tree’s crown to such a degree so as to remove the normal canopy and
 disfigure the tree. Trees severely damaged by storms or other causes, or
 certain trees under utility wires or other obstructions where other pruning
 practices are impractical may be exempted from this section at the
-determination of the Monticello Urban Forestry Board or its representative.
+determination of the Monticello Urban Forestry Board or its representatives.
    (I)   Every owner of any tree on private property overhanging any street or
 right-of-way within the city shall prune the branches so that such branches
 shall not obstruct the light from any street lamp or obstruct the view of any
 street intersection and so that there shall be a clear space of eight feet
-above the surface of the street or sidewalk. Said owners shall remove all dead,
-diseased or dangerous trees, or broken or decayed limbs which constitute a
-menace to the safety of the public. The city shall have the right to prune any
-tree or shrub on private property when it interferes with the proper spread of
-light along the street from a street light or interferes with the visibility of
-any traffic control device or impede the passage or inhibit usage of public
-roads, streets, alleys, sidewalks and other public property by any citizen.
-   (J)   No person shall remove, or cause to be removed, a street tree or park
-tree on city right-of- way without written permission of the Monticello Urban
-Forestry Board or its representative.
+above the sidewalks or 16 feet above streets or alleys. Said owners shall
+remove all dead, diseased or dangerous trees, or broken or decayed limbs which
+constitute a menace to the safety of the public. In the event any owner fails
+to perform such removal after 30 days receipt of written notice to do so from
+the city, then the city may perform such removal, the cost associated therewith
+to be paid by the owner and may constitute a lien upon the property. The city
+shall have the right to prune any tree or shrub on private property when it
+interferes with the proper spread of light along the street from a street light
+or interferes with the visibility of any traffic control device or impede the
+passage or inhibit usage of public roads, streets, alleys, sidewalks and other
+public property by any citizen.
+   (J)   No person shall remove or trim, or cause to be removed or trimmed, a
+street tree or park tree on city right-of-way without written permission of the
+Monticello Urban Forestry Board or its representative.
    (K)   Person or persons involved with the development of new subdivisions of
 two or more buildings lots within the boundaries of the City of Monticello
 shall consult with the Monticello Urban Forestry Board to determine that
 guidelines as presented in this section are adhered to by developers and
 property owners alike. The Monticello Urban Forestry Board shall make the White
 County Area Plan Commission aware of this chapter and such guidelines.
-   (L)   All stumps of street and park trees shall be removed below the surface
-of the ground so that the top of the stump shall not project above the surface
-of the ground.
+   (L)   All stumps of street trees and park trees shall be removed below the
+surface of the ground so that the top of the stump shall not project above the
+surface of the ground.
    (M)   It shall be unlawful for any person to prevent, delay or interfere
-with the Monticello Urban Forestry Board, or its agents, while engaging in
-planting, cultivating, mulching, pruning, spraying or removing any street
+with the Monticello Urban Forestry Board, or any of its agents, while engaging
+in planting, cultivating, mulching, pruning, spraying or removing any street
 trees, park trees or trees on private grounds, as authorized in this amendment.
-   (N)   It shall be unlawful for any person to engage in the business or
-occupation of pruning, treating or removing street trees within the city
-without first applying for and procuring a license. The license fee shall be
-$25 annually in advance; provided, however, that no license shall be required
-of any public service company, or city employee doing such work in the pursuit
-of their public service endeavors. Before any license shall be issued, each
-applicant shall first file evidence of possession of a minimum amount of
-$300,000 Comprehensive Single Limit of Liability covering both Bodily Injury
-and Property Damage, including Products and Completed Operations, and
-indemnifying the City or any person injured or damaged resulting from the
-pursuit of such endeavor as herein described. Each applicant must provide the
-Monticello Urban Forestry Board with a Certificate of Insurance listing the
-limits of liability provided, name and address of applicant, applicants
-insurance company, policy number, policy effective and expiration dates, ten
-day notice of cancellation clause, and naming the City of Monticello as an
-Additional Named Insured. Cancellation or other termination or any insurance
-policy for any reasons whatsoever shall automatically terminate a license.
-License may also be revoked by the Monticello Urban Forestry Board when it has
-evidence of the failure to apply principles of good arboricultural by a person
-so licensed.
-   (O)   The Common Council of the City of Monticello shall have the right to
-review the conduct, acts and decisions of the Monticello Urban Forestry Board.
-Any person may appeal from any ruling or other of the Monticello Urban Forestry
-Board to the Common Council of the City of Monticello who may hear the matter
-and make final decisions. Any person making an appeal from any ruling or order
-or the Monticello Urban Forestry Board must do so in writing to the Common
-Council of the City of Monticello within 90 days of such ruling or order.
-   (P)   Any person violating any provision of the chapter shall be, upon
-judgement of such violation or an admission of such violation, subject to a
-fine of $50 for each and every violation.
-(Ord. 98-8, passed 5-4-98)
-ORDINANCE VIOLATIONS BUREAU
+   (N)   Any person may appeal from any ruling or order of the Board to the
+City Council which may hear the matter and make final decisions. Any person
+making an appeal from any ruling or order of the Board must do so in writing to
+the City Council within 30 days of such ruling.
+(Ord. 98-8, passed 5-4-98; Am. Ord. 2025-06, passed 5-5-25)
+**** ORDINANCE VIOLATIONS BUREAU ****
 § 32.50 CREATION.
    There is hereby created an Ordinance Violations Bureau pursuant to IC § 33-
 6-3, or as amended, for the city.
@@ -1315,7 +1293,7 @@ code provision.
 existence shall constitute a separate violation for which civil penalties may
 be imposed.
 (Ord. 95-2, passed 10-16-95)
-PURCHASING AGENCY
+**** PURCHASING AGENCY ****
 § 32.65 DESIGNATION.
    The Common Council of the City of Monticello is hereby designated as the
 Purchasing Agency for the City of Monticello, with all of the powers and duties
@@ -1343,7 +1321,7 @@ manufactured elsewhere; or
       (4)   The purchase of supplies manufactured in the United States is not
 in the public interests.
 (Ord. 98-14, passed 6-15-98)
-DEPARTMENT OF UNSAFE BUILDINGS
+**** DEPARTMENT OF UNSAFE BUILDINGS ****
 § 32.70 CREATION.
    There is hereby created the Monticello Department of Unsafe Buildings, which
 is hereby authorized to administer this Unsafe Building Subchapter. The Chief
@@ -1361,7 +1339,7 @@ subchapter provided under IC § 36-7-9-1 et seq., a copy of which is appended to
 the ordinance codified herein, and as hereafter amended, be and are hereby is
 adopted and incorporated herein by reference as if set out herein in full.
 (Ord. 2010-07, passed 6-21-10)
-REDEVELOPMENT AUTHORITY
+**** REDEVELOPMENT AUTHORITY ****
 § 32.85 CREATION AND ORGANIZATION.
    (A)   The city hereby creates a redevelopment authority under the Act to be
 known as the Monticello Redevelopment Authority ("Authority") as a separate
@@ -1545,10 +1523,15 @@ Purchasing Rules and Policies
 34.210   Special purchasing methods
    
 34.211   Contract term adjustments
+Local Option Highway User Taxes and Funds
+   
+34.215   Wheel Tax and Fund
+   
+34.216   Motor Vehicle License Excise Surtax and Fund
  
    
 Appendix: Fixed asset notification form
-CUMULATIVE CAPITAL IMPROVEMENT FUND
+**** CUMULATIVE CAPITAL IMPROVEMENT FUND ****
 § 34.01 CREATION; APPROPRIATION AND USE OF MONIES.
    (A)   In according with state law, there is hereby created a special fund to
 be known as the Cumulative Capital Improvement Fund into which the cigarette
@@ -1568,7 +1551,7 @@ improvements.
 said city or town issued for the purpose of purchase or construction of
 improvements which would qualify for use of such funds.
 ('77 Code, § 2-2) (Ord. 156, passed 6-6-65)
-INSURANCE FUND
+**** INSURANCE FUND ****
 § 34.20 ESTABLISHMENT.
    There is hereby established an Insurance Fund for the city and the City
 Clerk-Treasurer is hereby directed to keep a full and complete record of all
@@ -1584,28 +1567,30 @@ Insurance Fund herein established.
 for the purpose of repairing or replacing the damaged property, pursuant to IC
 6-1.1-18-7.
 (Ord. 508, passed 3-7-83)
-CUMULATIVE CAPITAL DEVELOPMENT FUND
+**** CUMULATIVE CAPITAL DEVELOPMENT FUND ****
 § 34.35 ESTABLISHMENT.
    There is hereby established a Monticello Cumulative Capital Development
 Fund.
 (Ord. 542, passed 7-16-84; Am. Ord. 573, passed 11-17-86; Am. Ord. 579, passed
-7-6-87; Am. Ord. 90-4, passed 5-21-90)
+7-6-87; Am. Ord. 90-4, passed 5-21-90; Am. Ord. 2025-04, passed 5-5-25)
 § 34.36 IMPOSITION OF AD VALOREM TAX.
    An ad valorem property tax levy will be disposed and the revenues from the
 levy will be retained in the Monticello Cumulative Capital Development Fund.
 (Ord. 542, passed 7-16-84; Am. Ord. 573, passed 11-17-86; Am. Ord. 579, passed
-7-6-87; Am. Ord. 90-4, passed 5-21-90)
+7-6-87; Am. Ord. 90-4, passed 5-21-90; Am. Ord. 2025-04, passed 5-5-25)
 § 34.37 MAXIMUM LEVY RATE.
    The fund will not exceed $0.05 per $100 of assessed valuation beginning with
 taxes payable in 2014 and thereafter, continuing until reduced or rescinded.
 (Ord. 542, passed 7-16-84; Am. Ord. 573, passed 11-17-86; Am. Ord. 579, passed
-7-6-87; Am. Ord. 90-4, passed 5-21-90; Am. Ord. 2013-07, passed 6-24-13)
+7-6-87; Am. Ord. 90-4, passed 5-21-90; Am. Ord. 2013-07, passed 6-24-13; Am.
+Ord. 2025-04, passed 5-5-25)
 § 34.38 USE OF FUNDS.
    The Monticello Cumulative Capital Development Fund exists for all uses as
 set out in IC 36-9-15.5.
 (Ord. 542, passed 7-16-84; Am. Ord. 573, passed 11-17-86; Am. Ord. 579, passed
-7-6-87; Am. Ord. 90-4, passed 5-21-90; Am. Ord. 2013-07, passed 6-24-13)
-PARKS AND RECREATION FUNDS
+7-6-87; Am. Ord. 90-4, passed 5-21-90; Am. Ord. 2013-07, passed 6-24-13; Am.
+Ord. 2025-04, passed 5-5-25)
+**** PARKS AND RECREATION FUNDS ****
 § 34.50 ESTABLISHMENT OF SPECIAL NONREVERTING CAPITAL FUND.
    Under the provisions of the “Park and Recreation Law” there is hereby
 established a special nonreverting capital fund created for the purpose of
@@ -1668,7 +1653,7 @@ the Monticello Park Board or the city.
 invoice shall pay such invoice in accordance with the stipulations contained in
 division (C) and in such manner as the accounts payable schedule of the city.
 (Ord. 2006-08, passed 4-3-06)
-DEPARTMENT FUNDS
+**** DEPARTMENT FUNDS ****
 § 34.70 POLICE ACCIDENT REPORT FUND; ESTABLISHED; PURPOSE.
    (A)   There is hereby established a Police Accident Report Fund for the
 Police Department of the city, and the City Clerk-Treasurer is directed to keep
@@ -1734,10 +1719,11 @@ of which to be used for paying costs related to fire training classes.
 of all receipts thereto and disbursements therefrom as required by law.
    (C)   In addition to those sources of funding of the non-reverting Fire
 Department Training Fund for the Fire Department set forth in division (A), the
-training fund shall also be funded by 4% of all income received by the Fire
+training fund shall also be funded by 5% of all income received by the Fire
 Department Ambulance Services, commencing the first day of January, 2009.
-(Ord. 2007-03, passed 4-2-2007; Am. Ord. 2008-11, passed 8-4-08)
-CITY FINANCES
+(Ord. 2007-03, passed 4-2-2007; Am. Ord. 2008-11, passed 8-4-08; Am. Ord. 2025-
+01, passed 2-18-25)
+**** CITY FINANCES ****
 § 34.80 PRE-APPROVED PAYMENT OF CLAIMS.
    (A)   Pursuant to I.C. § 36-4-8-14, the Clerk-Treasurer is hereby authorized
 to make claim payments in advance of allowance of the same by the Common
@@ -1950,7 +1936,7 @@ provided by this policy.
       (3)   Amendments. This policy shall be reviewed periodically. Any changes
 must be approved by the Investment Officer and any other appropriate authority.
 (Ord. 2019-10, passed 10-21-19; Am. Res. 2025-03, passed 2-18-25)
-MAYOR’S OFFICE PETTY CASH FUND
+**** MAYOR’S OFFICE PETTY CASH FUND ****
 § 34.90 ESTABLISHED.
    (A)   There is hereby established a General Mayor’s Office “Petty Cash Fund”
 not to exceed the sum of $100. The fund shall be used for the purpose of
@@ -1962,7 +1948,7 @@ the Petty Cash Fund shall be evidenced by a corresponding receipt for payment
 showing the date of payment, amount of expenditure and the consideration
 received from such expenditure.
 (Ord. 01-14, passed 11-5-01)
-RAINY DAY FUND
+**** RAINY DAY FUND ****
 § 34.100 ESTABLISHMENT.
 A Rainy Day Fund is established as follows:
    (A)   Unused and unencumbered monies raised by a general or special tax levy
@@ -1979,7 +1965,7 @@ be appropriated is consistent with the intent of the fund.
    (D)   No transfer shall be made from any fund to the Rainy Day Fund except
 in accordance with the provisions of I.C. § 36-1-8-5 and I.C. § 36-1-8-5.1.
 (Ord. 2004-05, passed 2-17-04)
-CAPITAL ASSETS POLICY
+**** CAPITAL ASSETS POLICY ****
 § 34.105 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2174,7 +2160,7 @@ authorization;
 assets at least every two years and appropriate action is taken with respect to
 any differences.
 (Ord. 2002-13, passed 10-21-02; Am. Ord. 2005-03, passed 3-21-05)
-PARKING LOT MAINTENANCE FUND
+**** PARKING LOT MAINTENANCE FUND ****
 § 34.120 CREATION.
    (A)   There is hereby established a Parking Lot Maintenance Fund for receipt
 of funds from leases of city parking lot spaces and from parking ticket fine
@@ -2188,7 +2174,7 @@ be retained in the account and not revert to the City General Fund.
 fines is hereby repealed and set aside, and any funds remaining in said account
 shall be transferred to the Parking Lot Maintenance Fund.
 (Ord. 2005-09, passed 7-18-05)
-ADA GIFT FUND
+**** ADA GIFT FUND ****
 § 34.130 ESTABLISHMENT.
    (A)   Pursuant to the authority granted by IC 36-1-4-10, the Common Council
 of the city hereby establishes an “ADA Gift Fund” to be included within the
@@ -2201,7 +2187,7 @@ related expenses, including those incurred for or pertaining to printing,
 promotion, conference registrations, awards, fundraising, and ADA Awareness
 Month.
 (Ord. 2013-08, passed 8-19-13)
-CONSTITUTION PLAZA FUND
+**** CONSTITUTION PLAZA FUND ****
 § 34.140 ESTABLISHMENT.
    (A)   There is hereby established the “Constitution Plaza Fund” for the
 city.
@@ -2209,7 +2195,7 @@ city.
 city for its share of the reconstruction of the Monticello downtown area known
 as “Constitution Plaza.”
 (Ord. 2013-17, passed 12-16-13)
-LOIT SPECIAL DISTRIBUTION FUND
+**** LOIT SPECIAL DISTRIBUTION FUND ****
 § 34.150 ESTABLISHMENT.
    (A)   Common Council has determined a need exists for the establishment of a
 LOIT Special Distribution Fund for the purpose of receipt and account for the
@@ -2221,7 +2207,7 @@ distribution and any other funding source not specifically prohibited by law.
 This fund shall be subject to the same appropriation process as other municipal
 funds.
 (Ord. 2016-10, passed 5-2-16)
-EAST SOUTH STREET WATER LINE FUND
+**** EAST SOUTH STREET WATER LINE FUND ****
 § 34.155 ESTABLISHMENT.
    (A)   There is hereby established the Monticello Water Utility “East South
 Street Water Line Fund #609”.
@@ -2232,7 +2218,7 @@ monies from the Monticello Water Utility Tower Improvement Fund #610.
    (D)   The life of Fund #609 shall be perpetual, pending the completion of
 the East South Street Water Line Project.
 (Ord. 2017-02, passed 2-21-17)
-LOCAL ROAD AND BRIDGE MATCHING GRANT FUND
+**** LOCAL ROAD AND BRIDGE MATCHING GRANT FUND ****
 § 34.160 ESTABLISHMENT.
    (A)   There is hereby established the “Local Road and Bridge Matching Grant
 Fund”, for the receipt of INDOT Community Crossings Matching Grant funds.
@@ -2243,7 +2229,7 @@ Grant Funds are intended.
    (C)   The life of the fund shall be perpetual, pending the completion of the
 projects described in division (B) herein.
 (Ord. 2017-03, passed 3-6-2017)
-SOMA WALK THROUGH PROJECT FUND
+**** SOMA WALK THROUGH PROJECT FUND ****
 § 34.165 ESTABLISHMENT.
    There is hereby established the “SOMA Walk Through Fund” for the receipt and
 disbursement of development funds and SOMA matching funds received by the city
@@ -2252,7 +2238,7 @@ into by and between the city and Catalaunch, LLC, d/b/a Patronicity, which
 funds shall be used and disbursed pursuant to the terms and conditions of the
 agreement.
 (Ord. 2018-06, passed 7-2-18)
-DOWNTOWN CHRISTMAS DECORATION GIFT FUND
+**** DOWNTOWN CHRISTMAS DECORATION GIFT FUND ****
 § 34.170 ESTABLISHMENT.
    (A)   Pursuant to the authority granted by IC 36-1-4-10, the Common Council
 hereby establishes a “Downtown Christmas Decoration Gift Fund”, to be included
@@ -2264,7 +2250,7 @@ Superintendent may utilize monies in the fund to pay for costs and expenses
 pertaining to the purchase of Christmas decorations and lighting for streets in
 downtown Monticello.
 (Ord. 2018-15, passed 11-19-18)
-ARP CORONAVIRUS LOCAL FISCAL RECOVERY FUND
+**** ARP CORONAVIRUS LOCAL FISCAL RECOVERY FUND ****
 § 34.175 ESTABLISHMENT.
    There is hereby established Fund 176 to be known as the "ARP Coronavirus
 Local Fiscal Recovery Fund".
@@ -2299,14 +2285,14 @@ disbursements must be made directly from the fund through its normal claims
 process.
    (D)   Fund monies may not be transferred to another fund
 (Ord. 2021-01, passed 5-3-21)
-INDIANA MAYORS’ ROUNDTABLE FUND
+**** INDIANA MAYORS’ ROUNDTABLE FUND ****
 § 34.180 ESTABLISHMENT.
    There is hereby established a Northern Indiana Mayors' Roundtable Fund for
 the purpose of receipt of funds including donations to be used exclusively for
 the costs incurred by the city as a result of its hosting Northern Indiana
 Mayors' Roundtables, sponsored by Accelerate Indiana Municipalities ("AIM").
 (Ord. 2022-03, passed 1-4-22)
-MOBILE INTEGRATED HEALTHCARE PLAN PROGRAM FUND
+**** MOBILE INTEGRATED HEALTHCARE PLAN PROGRAM FUND ****
 § 34.185 ESTABLISHMENT.
    There is hereby established a Mobile Integrated Healthcare Plan Program Fund
 for the purpose of receipt of funds including grants and donations to be used
@@ -2315,7 +2301,7 @@ all other expenses incurred by the Monticello Fire Department in the course of
 its EMTs carrying out their duties under the Mobile Integrated Healthcare Plan
 Program. This fund shall not revert to the general fund from year to year.
 (Ord. 2022-02, passed 1-4-22)
-SAFE HAVEN BABY BOX MAINTENANCE FUND
+**** SAFE HAVEN BABY BOX MAINTENANCE FUND ****
 § 34.190 ESTABLISHMENT.
    There is hereby established a Safe Haven Baby Box Maintenance Fund for the
 purpose of receipt of funds including donations to be used exclusively for the
@@ -2325,7 +2311,7 @@ Agreement with the City of Monticello, pertaining to the newborn safety device
 leased by the City of Monticello from SHBB installed at the Monticello Fire
 Station. This fund shall not revert to the general fund from year to year.
 (Ord. 2022-01, passed 1-4-22)
-PURCHASING RULES AND POLICIES.
+**** PURCHASING RULES AND POLICIES. ****
 § 34.200 DEFINITIONS.
    The definitions contained in IC 5-22-2 are incorporated herein and made a
 part hereof by reference, including the following:
@@ -2422,7 +2408,7 @@ Statutory Reference:
 purchasing agent for a purchase of supplies is not feasible, the purchasing
 agent may issue a request for specifications in accordance with IC 5-22-5-5.
 (Ord. 2023-08, passed 10-16-23)
-§ 34.206 REQUEST FOR PROPOSALS.
+*** § 34.206 REQUEST FOR PROPOSALS. ***
    If the BOW determines that it is either not practicable or not advantageous
 to purchase certain types of supplies by sealed competitive bidding; and, that
 receiving proposals is the preferred method for purchasing certain types of
@@ -2541,6 +2527,103 @@ or in any public works contracts related thereto.
 contract provisions dealing with variations between the estimated quantities of
 work in a contract and the actual quantity delivered.
 (Ord. 2023-08, passed 10-16-23)
+**** LOCAL OPTION HIGHWAY USER TAXES AND FUNDS ****
+§ 34.215 WHEEL TAX AND FUND.
+   (A)   Definitions. The definitions and provisions set forth in IC 6-3.5-11-
+1 are incorporated herein by reference and shall apply throughout this section.
+   (B)   City of Monticello Wheel Tax Fund. The "City of Monticello Wheel Tax
+Fund" is hereby created and shall be a non-reverting fund. The city may only
+use the Wheel Tax revenues for the following purposes:
+      (1)   To construct, reconstruct, repair, or maintain streets and roads
+that are under the jurisdiction of the city;
+      (2)   As a contribution to an authority established under IC 36-7-23;
+      (3)   For the city's contribution to obtain grants from the Local Road
+and Bridge Matching Grant Fund under IC 8-23-30; and
+      (4)   Any other allowable uses under IC 6-3.5-11.
+   (C)   Imposition and rate of Wheel Tax. Effective January 1, 2026, the
+following vehicles registered in the City of Monticello and subject to the
+Wheel Tax shall incur a Wheel Tax in the amount of $40, pursuant to IC 6-3.5-
+11-1, et seq.:
+      (1)   Buses;
+      (2)   Recreational vehicles;
+      (3)   Semi-trailers;
+      (4)   Trailers with a declared gross weight of more than 9,000 pounds;
+and
+      (5)   Trucks and tractors with a declared gross weight or more then
+11,000 pounds.
+   (D)   Exemptions. Pursuant to IC 6-3.5-11-4, a vehicle is exempt from the
+Wheel Tax if the vehicle is:
+      (1)   Owned by the State of Indiana;
+      (2)   Owned by an Indiana state agency;
+      (3)   Owned by a political subdivision of the State of Indiana;
+      (4)   Subject to the annual municipal vehicle license excise tax imposed
+pursuant to IC 6-3.5-10;
+      (5)   A bus owned and operated by a religious or non-profit youth
+organization and used to transport persons to religious services or for the
+benefit of its members;
+      (6)   A school bus;
+      (7)   A motor vehicle that is funeral equipment and that is used in the
+operation of funeral services as defined in IC 25-15-2-17; or
+      (8)   Any other vehicle exempt pursuant to IC 6-3.5-11-4.
+   (E)   Payment, deposit, and distribution. The Wheel Tax shall be paid to the
+Indiana Bureau of Motor Vehicles each year at the time the vehicle is
+registered. The City Clerk-Treasurer shall deposit the Wheel Tax revenues in a
+fund the be known as the "City of Monticello Wheel Tax Fund" and shall
+distribute the City of Monticello Wheel Tax Fund consistent with IC 6-3.5-11-1,
+et seq.
+   (F)   Accounting of Wheel Tax Fund. On or before October 1 of each year, the
+City Clerk-Treasurer shall provide the Council with an estimate of the Wheel
+Tax revenues to be received by the city during the next calendar year, and the
+city shall include the estimated Wheel Tax revenues in the city's budget
+estimate for that calendar year.
+   (G)   Transmittal of section. The Council authorizes the Mayor or the
+Mayor's designee to provide a copy of this section to the Indiana Department of
+Revenue and the Indiana Bureau of Motor Vehicles as required by IC 6-3.5-11-8.
+(Ord. 2025-18, passed 12-15-25)
+§ 34.216 MOTOR VEHICLE LICENSE EXCISE SURTAX AND FUND.
+   (A)   Definitions. The definitions and provisions set forth in IC 6-3.5-10-
+1 are incorporated herein by reference and shall apply throughout this section.
+   (B)   City of Monticello Vehicle License Excise Surtax Fund. The "City of
+Monticello Motor Vehicle License Excise Surtax Fund" is hereby created and
+shall be a non-reverting fond. The city may use the Excise Surtax revenues for
+the following purposes:
+      (1)   To construct, reconstruct, repair, or maintain streets and roads
+under the city's jurisdiction;
+      (2)   For the city's contribution to obtain a grant from the local road
+and bridge matching grant fund under IC 8-23-30; or
+      (3)   Any other allowable uses under IC 5-3.5-10.
+   (C)   Imposition and rate of Excise Surtax - automobiles, trucks, trailers
+and cycles. 
+      (1)   Effective January 1, 2026, the following vehicles, registered in
+the City of Monticello and subject to the Motor Vehicle License Excise Tax,
+shall be subject to the Excise Surtax in the amount of $15.30, pursuant to IC
+6-3.5-10-1, et seq.:
+         (a)   Passenger motor vehicles.
+         (b)   Collector vehicles.
+         (c)   Trailers with a declared weight of 9,000 pounds or less (except
+permanent 3,000 pound trailers).
+         (d)   Trucks with a declared gross weight of 11,000 pounds or less.
+         (e)   Mini-trucks.
+         (f)   Military vehicles.
+         (g)   Motorcycles.
+         (h)   Motor driven cycles.
+      (2)   The Excise Surtax shall be paid with the registration of each such
+vehicle.
+   (D)   Payment, deposit, and distribution. The Excise Surtax shall be paid
+with the registration of each such vehicle. The Excise Surtax shall be paid to
+the Indiana Bureau of Motor Vehicles at the time the vehicle is registered. The
+City Clerk-Treasurer shall deposit revenue received from the Excise Surtax in a
+fund to be known as the "City of Monticello Motor Vehicle License Excise Surtax
+Fund" and shall distribute the Surtax Fund consistent with IC 6-3.5-10-10.
+   (E)   Accounting of Wheel Tax Fund. On or before October 1 of each year, the
+City Clerk-Treasurer shall provide the Common Council an estimate of the Excise
+Surtax revenues to be received by the city during the next calendar year, and
+the city shall include the estimated Excise Surtax revenues in the city's
+budget estimate for that calendar year.
+   (F)   Transmittal of section. The Common Council authorizes the Mayor or the
+Mayor's designee to provide a copy of this section to the Indiana Department of
+Revenue and the Indiana Bureau of Motor Vehicles as required by IC 6-3.5-10-6.
+(Ord. 2025-18, passed 12-15-25)
 APPENDIX: FIXED ASSET NOTIFICATION FORM
 FIXED ASSET NOTIFICATION FORM
 DEPARTMENT
@@ -2616,7 +2699,7 @@ Internal Control Standards
 Cross-reference:
    Investment policy, see §
 34.83
-NEPOTISM AND CONTRACTING WITH A UNIT BY A RELATIVE
+**** NEPOTISM AND CONTRACTING WITH A UNIT BY A RELATIVE ****
 § 35.01 FINDINGS.
    (A)   The city finds that it is necessary and desirous to adopt a policy of
 conduct with regard to city employee nepotism, and in contracting with
@@ -2698,7 +2781,7 @@ are adopted and incorporated herein by reference.
 or amended, shall be on file in the office of the Clerk-Treasurer for public
 inspection as maybe required by IC 36-1-5-4.
 (Ord. 2012-14, passed 6-18-12)
-MATERIALITY POLICY
+**** MATERIALITY POLICY ****
 § 35.10 ADOPTION.
    (A)   The City Council hereby endorses the Clerk-Treasurer's Directive,
 attached to Ordinance 2016-03 and incorporated by reference as if full set
@@ -2715,7 +2798,7 @@ reporting material items and report noteworthy items to the full City Council.
 of any changes in the policy on materiality and process for reporting material
 items.
 (Ord. 2016-03, passed 3-21-16)
-INTERNAL CONTROL STANDARDS
+**** INTERNAL CONTROL STANDARDS ****
 § 35.20 ADOPTION.
    The City of Monticello adopts as policy the Internal Control Standards as
 set forth by the Indiana State Board of Accounts Uniform Internal Control
@@ -2794,7 +2877,7 @@ Customer Application and Deposit Policy
 50.39   Refunding of deposits and the payment of interest
    
 Appendix:    Forms
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 DEFINITION.
    For the purpose of this chapter, the following definition shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -2808,7 +2891,7 @@ person, or whereby the city shall make any utility connections, or perform any
 work of any kind in connection with the furnishing of any utility service
 pursuant to the rules and regulations of the Common Council.
 ('77 Code, § 20-2)
-RULES AND REGULATIONS
+**** RULES AND REGULATIONS ****
 § 50.10 APPLICATION FOR UTILITY SERVICE.
    Any person desiring any utility service furnished by the city shall make
 application for the same to the utility service department. Such application
@@ -2898,7 +2981,7 @@ service furnished by the city due to backflow of the sewerage system, failure
 of supply, interruption of service or any other cause outside the direct
 control of the city.
 ('77 Code, § 20-4)
-CUSTOMER APPLICATION AND DEPOSIT POLICY
+**** CUSTOMER APPLICATION AND DEPOSIT POLICY ****
 § 50.30 GENERAL PROVISIONS.
    (A)   New or moving customers applying for utility service shall do so in
 person at the business office; and shall put down a cash deposit before any
@@ -3025,41 +3108,48 @@ Monticello Water and Sewage Utilities. Pursuant to IC 36-4-10-7(c), the Clerk-
 Treasurer shall appoint those employees who are responsible for such billing
 and collection, which employees shall serve at the Clerk-Treasurer's pleasure.
    (B)   Billing adjustments.
-      (1)   Appropriate adjustments shall be made for billing errors on part of
-the Utility Office. One billing adjustment due to a sudden and accidental water
-leak per customer may be approved within a 24 month period. The account
-adjustment may be made for up to a maximum of 30 consecutive days limited to
-within portions of up to two billing cycles. Property owner/tenant/
-representative must apply for the adjustment, in person, to the Board of Public
-Works within 30 days of a customer's receipt of its monthly utility bill unless
-it can show there are extenuating circumstances (i.e. sickness, vacations,
-etc.). The consumption spike must be higher than 25% of the average utility
-bill from the prior 12 months. The leak must be repaired prior to the approval
-of an adjustment. If the source of a leak or excessive water usage is due to
-theft or vandalism, the customer must report the theft or vandalism to the
-police. A copy of the police report must be submitted with the application for
-a water leak adjustment in a timely manner. Should the customer or party in
-control of the property fail to repair the leak within a reasonable time
-period, as determined by the city, no adjustment will be granted. Customer or
-personal representative must present their case to the Board of Works, either
-in person or virtually. If an adjustment is approved the next opportunity for
-an adjustment by the same customer would be after two years. Example: If the
-approval date is 9-1-23, next opportunity for an adjustment would be 9-2-25. No
-refund checks will be issued for approved account adjustments.
-      (2)   Other billing adjustments, including incorrect tariff applications,
-may be adjusted to the known date of error or for a period of one year,
-whichever period is shorter.
-      (3)   Discounted utility use shall be considered on a case-by-case basis
-for users that contribute more than 5% of the average dry-weather flow to the
-utility, if supported by sufficient verifiable data provided by the user to
-support a billing adjustment agreement, after review by the Utility
-Superintendent and approval by the Board of Public Works and Safety. Utility
-adjustments shall be prohibited relating to lawn and garden watering,
-sprinklers, pool filling, or other discounted uses except for those billing
-adjustments set forth in this section.
+      (1)   It is the responsibility of every customer of the Monticello Water
+Utility to keep their plumbing system in good working order.
+      (2)   No customer shall receive more than one billing adjustment due to a
+water leak (“adjustment”) that could incorporate a maximum of two billing
+cycles during any 12 month period.
+      (3)   Adjustments will not be made for the following:
+         (a)   Residential customers who do not have their own water meter.
+         (b)   Premises left or abandoned without reasonable care for the
+plumbing system.
+         (c)   Leaks on irrigation systems or irrigation lines, leaks in water
+features such as fountains, etc., leaks on any water lines coming off the
+primary water service line, or plumbing leaks in any structure other than the
+primary residence.
+         (d)   Negligent acts such as leaving water running.
+         (e)   Excess water charges not directly resulting from a qualifying
+plumbing leak.
+         (f)   Filling of swimming pools or leaks in swimming pools.
+         (g)   Watering of lawns or gardens.
+      (4)   In the event of a qualifying adjustment, the customer will be
+responsible for paying their average bill. The average bill will be calculated
+using the previous 12 months’ bills, excluding the high bills pertaining to the
+qualifying leak. The residential adjustment amount will be reimbursed up to the
+city’s chosen protection limit of $500, and the commercial/industrial and
+master- metered multiple occupancy adjustment amount will be reimbursed up to
+the city’s chosen protection limit of $1,000, less the customer’s average bill.
+      (5)   The city shall not be obligated to make adjustments of any bills
+not submitted for adjustment within 90 days from the billing date.
+      (6)   Customers must repair the leak before an adjustment will be made
+and may be requested to present proof of repair (i.e. copy of invoice for
+materials or bill from plumber).
+      (7)   In any case where a customer might incur a leak before there is
+three months of average usage, an adjustment will not be made until they have
+established three months of average usage.
+      (8)   Any enrolled customers may decline to participate in the city’s
+ServLine Leak Protection Program by calling its telephone number to be provided
+by the city. Any customer declining to participate in the program will be
+responsible for the full amount of their water bill with no adjustments being
+made. The city’s ServLine Program is the only way qualifying leak adjustments
+will be made for leaks occurring after September 1, 2025.
 (Ord. 01-02, passed 5-7-01; Am. Ord. 2002-05, passed 7-1-02; Am. Res. 2012-02,
 passed 6-18-12; Am. Ord. 2019-15, passed 12-16-19; Am. Ord. 2023-05, passed 6-
-19-23)
+19-23; Am. Ord. 2025-05, passed 6-20-25)
 § 50.39 REFUNDING OF DEPOSITS AND THE PAYMENT OF INTEREST.
    (A)   Cash deposits will be applied to the customer's final bill after which
 the balance, if any, will be refunded. Any balance due after application of the
@@ -3299,7 +3389,7 @@ Rates and Charges
 51.998   Violations
    
 51.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3570,7 +3660,7 @@ Ordinance 91-04-20-98-1 by reference as its policy for the management of
 stormwater runoff from developed real property within the city, and approves
 the administration and enforcement thereof by White County under the Ordinance.
 (Ord. 01-01, passed 2-20-01)
-PRIVATE SEWAGE DISPOSAL SYSTEM
+**** PRIVATE SEWAGE DISPOSAL SYSTEM ****
 § 51.020 CONNECTING BUILDING SEWER TO PRIVATE SEWAGE DISPOSAL SYSTEM.
    Where a public sanitary or combined sewer is not available under the
 provisions of
@@ -3621,7 +3711,7 @@ any additional requirements that may be imposed by the Health Officer.
 to said sewer within 90 days and the private sewage disposal system shall be
 cleaned of sludge and filled with clean bank-run gravel or dirt.
 ('77 Code, § 20-45(g)) (Ord. 374, passed 4-3-78; Am. Ord. 98-6, passed 2-17-98)
-BUILDING SEWERS AND CONNECTIONS
+**** BUILDING SEWERS AND CONNECTIONS ****
 § 51.040 CONNECTION PERMIT REQUIRED.
    No unauthorized person shall uncover, make any connections with or opening
 into, use, alter or disturb any public sewer or appurtenance thereof without
@@ -3706,7 +3796,7 @@ the building sewer is ready for inspection and connection to the public sewer.
 The connection shall be made under the supervision of the Inspector or his
 representatives.
 ('77 Code, § 20-46(j)) (Ord. 374, passed 4-3-78; Am. Ord. 98-6, passed 2-17-98)
-USE OF PUBLIC SEWERS
+**** USE OF PUBLIC SEWERS ****
 § 51.060 DISCHARGE OF STORM WATER OR OTHER UNPOLLUTED DRAINAGE.
    (A)   No person shall discharge or cause to be discharged to any sanitary
 sewer, either directly or indirectly, storm water, surface water, groundwater,
@@ -3939,7 +4029,7 @@ Wastewater Treatment Plant Superintendent, which trucked or hauled waste must
 be introduced at a discharge point designated by the Monticello Wastewater
 Treatment Plant Superintendent.
 (Ord. 2006-17, passed 12-4-06)
-INDUSTRIAL USAGE
+**** INDUSTRIAL USAGE ****
 § 51.080 PRETREATMENT REQUIRED FROM CERTAIN INDUSTRIES.
    (A)   Pretreatment of industrial wastes from major contributing industries
 prior to discharge to the treatment works is required and is subject to the
@@ -4044,7 +4134,7 @@ approval by the city.
 unusual flows or wastes that are discharged accidentally or otherwise to the
 sewer system.
 ('77 Code, § 20-47) (Ord. 374, passed 4-3-78; Am. Ord. 98-6, passed 2-17-98)
-INDUSTRIAL COST RECOVERY SYSTEM
+**** INDUSTRIAL COST RECOVERY SYSTEM ****
 § 51.100 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4255,7 +4345,7 @@ collected in the manner provided by law and ordinance.
 effective for services rendered during the first calendar quarter following
 completion of construction and shall be prepared and billed quarterly.
 ('77 Code, § 20-78(B) (Ord. 375, passed 4-3-78)
-RATES AND CHARGES
+**** RATES AND CHARGES ****
 § 51.115 DEFINITIONS.
    Unless the context specifically indicates otherwise, the meaning of terms
 used in this subchapter shall be as follows:
@@ -4368,66 +4458,43 @@ on the sizes of the water meter installed, except as herein otherwise provided.
 Water meters will be read monthly, and sewage service bills shall be rendered
 monthly (or period equaling one month). The water usage schedule on which the
 amount of said rates and charges shall be determined shall be as follows:
-      (1)   Metered Rates Per Month            Sewage Rate
-         (Per 100 Cubic Feet of Flow)         (Effective March 1, 2021)
-         (In addition to monthly
-         minimum charge)
-         User Class:
-         Class I - Residential                  $8.90
-         Class II - Apartments,               $8.35
-             Institutional,
-             Governmental and
-             Commercial
-         Class III - Industrial                  $7.96
-      (2)   Minimum Charge Per Month         Sewage Rate
-         Monthly minimum charge            (Effective March 1, 2021)
-         (In addition to metered rate)   
-          -inch – ¾-inch meter               $30.34
-         1-inch meter                     $50.58
-         1½-inch meter                  $106.50
-         2-inch meter                     $185.63
-         3-inch meter                     $407.86
-         4-inch meter                     $721.61
-         6-inch meter                     $1,614.02
-         8-inch meter                     $2,867.26
-         Compound meters:               Sewage Rate
-                              (Effective March 1, 2021)
-         Two ¾-inch meters                  $54.20
-         Two 1-inch meters                  $94.81
-         Two 1½-inch meters               $206.70
-         Two 2-inch meters                  $364.29
-         1½-inch + 2-inch meters               $285.67
-      (3)   Multiple Units   
-         Effective March 1, 2021,               $10.46
-         Additional charge per month            
-         for each dwelling unit or business
-         unit over one served through
-         a single water meter
-      (4)   Unmetered Users   
-         Effective March 1, 2021,               $97.09
-         flat monthly charge for               
-         unmetered user - equivalent
-         to a single-family residence
-         using 750 cubic feet per month
-      (5)   Sewage Works Tap Charge
-         A tap charge shall be collected from each customer prior to connection
-to the sewage system. Effective March 1, 2020, the charge shall be based on the
-water meter size as follows:
-         -inch – ¾-inch meter         $2,500
-         1-inch meter               $3,000
-         1½-inch meter            $3,500
-         2-inch meter               $4,000
-         3-inch meter               $4,500
-         4-inch meter               $5,000
-         6-inch meter               $6,000
-         All taps made to 60' Hobas
-          fiberglass pipe on
-          Bluewater Drive             $6,500
+                                    Phase I         Phase II
+      (1)   Metered Rates Per Month (per 100 cubic feet of flow)
+         (In addition to monthly minimum charge)
+         Class I - Residential                      $10.68         $12.82
+         Class II - Apartments, Institutional,
+            Governmental and Commercial         $10.02          $12.02
+         Class III - Industrial                      $9.55         $11.46
+      (2)   Minimum Charge Per Month
+         (in addition to monthly metered rate)
+         5/8 - 3/4 inch meter                      $36.41         $43.69
+         1 inch meter                         $60.70         $72.84
+         1 ½ inch meter                      $127.80         $153.36
+         2 inch meter                         $222.76         $267.31
+         3 inch meter                         $489.43         $587.32
+         4 inch meter                         $865.93         $1,039.12
+         6 inch meter                         $1,936.82      $2,324.18
+         8 inch meter                         $3,440.71      $4,128.85
+      (3)   Compound Meters
+         Two 3/4 inch meters                      $65.04         $78.05
+         Two 1 inch meters                      $113.77         $136.52
+         Two 1 ½ inch meters                  $248.04          $297.65
+         Two 2 inch meters                      $437.15         $524.58
+         1 ½ inch + 2 inch meters                   $342.80         $411.36
+      (4)   Multiple Units
+         Additional charges per month for each
+         dwelling unit or business unit over one
+         served through a single water meter          $12.55         $15.06
+      (5)   Unmetered Users
+         Flat monthly charge for unmetered user -
+         equivalent to a single-family residence
+         using 750 cubic feet per month             $116.51         $139.84
    (B)   For the service rendered to the City of Monticello, the city shall be
 subject to the same rates and charges as hereinabove provided.
 (Ord. 98-7, passed 3-2-98; Am. Ord. 2004-14, passed 6-21-04; Am. Ord. 2009-28,
 passed 12-14-09; Am. Ord. 2014-04, passed 7-21-14; Am. Ord. 2019-15, passed 12-
-16-19; Am. Ord. 2020-08, passed 10-5-20; Am. Ord. 2024-13, passed 10-21-24)
+16-19; Am. Ord. 2020-08, passed 10-5-20; Am. Ord. 2024-13, passed 10-21-24; Am.
+Ord. 2025-08, passed 8-4-25)
 § 51.118 QUANTITY OF WATER.
    The quantity of water discharged into the sanitary sewerage system and
 obtained from sources other than the utility that serves the city shall be
@@ -4643,7 +4710,7 @@ Cross Connection Control
 52.34   Hazardous users to install backflow preventers; testing
    
 52.35   Regulations supplemental
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.01 COMPLIANCE WITH TECHNICAL PROVISIONS REQUIRED.
    Any water service furnished under the provisions of this chapter shall be in
 accordance with an in compliance with all applicable technical provisions of
@@ -4770,7 +4837,7 @@ nineteenth day of each month, commencing with utility bills issued May 2009.
 are returned because of non-sufficient funds may be subject to further charges
 in the maximum amount permitted by law.
 (Ord. 2009-07, passed 3-2-09)
-CONNECTIONS
+**** CONNECTIONS ****
 § 52.15 PERMIT REQUIRED.
    No person shall connect his premises onto the city's water system without a
 permit.
@@ -4822,7 +4889,7 @@ shall be sent to the following address:
       IGCN Suite 1101 100N Senate Ave.
       Indianapolis, IN 46204-2251.
 (Ord. 2019-01, passed 2-19-2019)
-CROSS CONNECTION CONTROL
+**** CROSS CONNECTION CONTROL ****
 § 52.30 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4913,7 +4980,7 @@ Section
  
    
 53.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 53.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5142,7 +5209,7 @@ Traffic-Control Devices
 Enforcement
    
 70.25   Police officers to enforce traffic laws
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 COMPLIANCE WITH TRAFFIC CODE REQUIRED.
    It shall be unlawful for any person to do any forbidden act, or fail to
 perform any act, or duty, required in this Traffic Code.
@@ -5180,7 +5247,7 @@ vehicle upon a roadway shall be granted all of the rights of and be subject to
 all the duties applicable to drivers of vehicles imposed by this Traffic Code
 except those provisions which by their nature can have no application.
 ('77 Code, § 10-7)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.15 AUTHORIZATION OF TRAFFIC-CONTROL DEVICES.
    The location and existence of all traffic-control signs, signals, devices
 and markings which are in place on the adoption date of this Traffic Code are
@@ -5193,7 +5260,7 @@ signs and markings that have been erected pursuant to law unless otherwise
 directed by a police officer, but subject to the exceptions granted by law to
 the driver of an authorized emergency vehicle.
 ('77 Code, § 10-6) (Ord. 225, passed 11-18-69)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 70.25 POLICE OFFICERS TO ENFORCE TRAFFIC LAWS.
    It shall be the duty of all police officers or such other persons as are
 assigned by the Chief of Police to enforce all traffic laws.
@@ -5213,7 +5280,7 @@ Railroads
  
    
 71.99   Penalty
-OPERATION OF VEHICLES
+**** OPERATION OF VEHICLES ****
 § 71.01 SPEED LIMIT; VEHICLE DEFINED.
    (A)   No person shall operate a vehicle on the public streets and alleys
 within the city at a speed greater than that provided in Ch. 74, Sch. I,
@@ -5255,7 +5322,7 @@ deemed appropriate to advise motorists of the prohibitions contained in this
 section.
 (Ord. 2017-16, passed 11-6-17) Penalty, see §
 71.99
-RAILROADS
+**** RAILROADS ****
 § 71.10 SPEED LIMIT.
    It shall be unlawful for any person having charge of any railway train to
 move such train or portion thereof at a speed of more than 15 miles per hour.
@@ -5344,7 +5411,7 @@ Administration and Enforcement
 72.69   Sections deemed to be supplementary and additional to other provisions
    
 72.99   Penalty
-PARKING GENERALLY
+**** PARKING GENERALLY ****
 § 72.01 MAXIMUM PARKING TIME IN RESIDENTIAL AREAS.
    It shall be unlawful for private and passenger cars and trucks of three-
 fourths ton capacity or less to park in a residential section of the city for a
@@ -5396,7 +5463,7 @@ park any object of any kind, motorized or non-motorized, within any portion of
 an abandoned railway bed that is adjacent to a public street or roadway.
 (Ord. 2004-26, passed 2-22-05) Penalty, see
 § 72.99
-FREE PARKING ZONES
+**** FREE PARKING ZONES ****
 § 72.10 AUTHORITY TO ESTABLISH ZONES; PURPOSE.
    The Common Council of the city, is hereby empowered and directed to
 establish parking zones within the city, for the purpose of regulating free
@@ -5447,7 +5514,7 @@ Year's Day, Memorial Day, Independence Day, Labor Day, Veteran's Day,
 Thanksgiving Day, Christmas Day, General Election Day, and Primary Election
 Day.
 ('77 Code, § 10-34) (Ord. 449, passed 11-17-80)
-PARKING SPACES FOR PERSONS WITH PHYSICAL DISABILITIES
+**** PARKING SPACES FOR PERSONS WITH PHYSICAL DISABILITIES ****
 § 72.20 APPLICATION OF SUBCHAPTER.
    This subchapter applies to all reserved, accessible parking spaces in a
 parking facility located on property that is privately or publicly owned.
@@ -5479,7 +5546,7 @@ must be of a non-glare finish.
 background color of the sign.
 (Ord. 2004-15, passed 6-21-04) Penalty, see
 § 72.99
-SPECIAL PRIVATE PARKING PRIVILEGES
+**** SPECIAL PRIVATE PARKING PRIVILEGES ****
 § 72.40 RESERVED SPACES.
    Reserved private parking spaces within city-leased lots may be reserved and
 posted by the city as private parking for individuals granted private parking
@@ -5513,7 +5580,7 @@ for all second and subsequent offenses, and shall also subject such vehicle to
 removal and the owner of such vehicle shall be responsible for all towing and
 removal costs in addition to said fines.
 (Ord. 2005-07, passed 6-6-05)
-COMMERCIAL VEHICLE PARKING
+**** COMMERCIAL VEHICLE PARKING ****
 § 72.55 COMMERCIAL VEHICLE PARKING RESTRICTED.
    (A)   Except for loading or unloading not to exceed 30 minutes, it shall be
 unlawful to park in a residential area a vehicle designed, used or maintained
@@ -5528,7 +5595,7 @@ off-street driveway, with access to a city street provided by a curb cut and a
 driveway, so long as any sidewalk is not thereby obstructed.
 ('77 Code, § 10-22) (Ord. 2004-26, passed 2-22-05) Penalty, see
 § 72.99
-RECREATIONAL VEHICLE PARKING
+**** RECREATIONAL VEHICLE PARKING ****
 § 72.60 PARKING MOTOR HOMES, RECREATIONAL VEHICLES, AND NON-MOTORIZED OBJECTS
 PROHIBITED.
    It shall be unlawful to park on a public street or roadway in a residential
@@ -5537,7 +5604,7 @@ and any non-motorized objects of any kind, including boats, trailers of any
 kind, or inoperable motor vehicles.
 (Ord. 2004-26, passed 2-22-05) Penalty, see
 § 72.99
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 72.65 REMOVAL OF VEHICLES; EXPENSES.
    (A)   It shall be the duty of the Chief of Police to remove from the streets
 of the city all vehicles which are in direct violation of §§
@@ -5690,7 +5757,7 @@ Golf Carts
  
    
 73.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 73.01 RIDING OF MOTORCYCLES UPON SIDEWALKS.
    It shall be unlawful for any person or persons to ride a motorcycle upon any
 of the sidewalks within the city. Nothing in this section shall prohibit any
@@ -5698,7 +5765,7 @@ person from riding upon or across said sidewalks where the same are crossed by
 any streets or alley or leading to any private driveway.
 ('77 Code, § 10-10) Penalty, see
 § 73.99
-BICYCLES; SKATEBOARDS
+**** BICYCLES; SKATEBOARDS ****
 § 73.10 OBEDIENCE TO STATE LAWS AND RULES ESTABLISHED FOR MOTOR VEHICLES
 REQUIRED.
    Operators of bicycles shall obey all laws of the state, and when on a public
@@ -5756,7 +5823,7 @@ on the south by Harrison Street, on the north by Marion Street, on the west by
 Illinois Street, and on the east by Bluff Street.
 ('77 Code, § 10-9) (Ord. 155, passed 7-6-65) Penalty, see
 § 73.99
-SNOWMOBILES
+**** SNOWMOBILES ****
 § 73.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5808,7 +5875,7 @@ operation.
 are not inconsistent with this article are supplementary thereto, and all
 operators of snowmobiles must comply with said law.
 ('77 Code, § 10-69) (Ord. 407, passed 3-19-79)
-GOLF CARTS
+**** GOLF CARTS ****
 § 73.45 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning:
@@ -6061,9 +6128,20 @@ Impoundment Procedure
 Enforcement
    
 91.50   Animal Warden
+Deer Hunting
+   
+91.60   Definitions
+   
+91.61   Authorization of archery deer hunting
+   
+91.62   Hunting regulations
+   
+91.63   Deer Task Force participation requirements
+   
+91.64   Landowner requirements
    
 91.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6158,7 +6236,7 @@ penalties provided for this chapter, any person violating this section may be
 ordered to abate the nuisance.
 (Ord. 92-8, passed 8-3-92; Am. Ord. 2002-16, passed 11-18-02) Penalty, see
 § 91.99
-RABIES CONTROL
+**** RABIES CONTROL ****
 § 91.20 RABID ANIMALS; HARBORING; RUNNING AT-LARGE.
    No person shall harbor any dog, cat or other animal affected with rabies or
 suffer them to run at- large within the city. It shall be the duty of every
@@ -6222,7 +6300,7 @@ animal from biting during the time mentioned in such proclamation.
    (C)   During the period of time covered by a proclamation issued pursuant to
 this section, any dog found running at-large without a proper muzzle shall be
 impounded by city personnel. ('77 Code, § 3-34)
-IMPOUNDMENT PROCEDURE
+**** IMPOUNDMENT PROCEDURE ****
 § 91.35 CONDITIONS CONSTITUTING IMPOUNDMENT.
    Any animal may be captured and impounded by any peace officer or the Animal
 Warden if such animal:
@@ -6292,19 +6370,142 @@ that an impounded animal is incurably ill or injured, or is suffering unduly,
 he may destroy the animal immediately, and the prior consent of the owner of
 said animal shall not be required.
 ('77 Code, § 3-43) (Ord. 318, passed 1-7-75; Am. Ord. 92-8, passed 8-3-92)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 91.50 ANIMAL WARDEN.
    The Board of Public Works and Safety may appoint an Animal Warden who, in
 addition to other police officers, shall have full authority to enforce and
 carry out the provisions of this chapter.
 ('77 Code, § 3-2) (Ord. 318, passed 1-7-75; Am. Ord. 92-8, passed 8-3-92)
+**** DEER HUNTING ****
+§ 91.60 DEFINITIONS.
+   As used in this subchapter:
+   ARCHERY EQUIPMENT. Legal archery equipment as defined by the Indiana
+Department of Natural Resources (the "IDNR"), including compound bows, recurve
+bows, and crossbows. Only compound bows, recurve bows, and crossbows must be
+used, all requirements, i.e.: weight, draw length, arrow size, etc. must meet
+all IDNR specified requirements. No firearms or air guns of any kind are
+permitted.
+   DEER NUISANCE ZONE.  A specific geographic area within Monticello City
+limits designated by the Monticello Deer Task Force as experiencing significant
+deer overpopulation and authorized for regulated hunting activity.
+   DEER TASK FORCE. A committee appointed by the Council to oversee and manage
+the city's urban deer management program, consisting of three to five members
+appointed annually.
+   REDUCTION ZONE. An area designated by the Deer Task Force within the
+Monticello City limits approved by the Council within which regulated deer
+hunting is permitted.
+(Ord. 2025-10, passed 9-15-25)
+§ 91.61 AUTHORIZATION OF ARCHERY DEER HUNTING.
+   (A)   The City of Monticello permits the regulated harvesting of deer within
+city limits using archery equipment only.
+   (B)   The urban archery deer hunting season shall be established by the Deer
+Task Force and approved by City Council, which coincides with the State of
+Indiana's archery deer season determined by the IDNR.
+   (C)   Hunting is permitted only in designated Deer Nuisance Zones as
+identified and authorized by the Deer Task Force.
+(Ord. 2025-10, passed 9-15-25)
+§ 91.62 HUNTING REGULATIONS.
+   (A)   Only participants approved by the Deer Task Force are permitted to
+hunt deer within the Deer Nuisance Zones.
+   (B)   Hunters must:
+      (1)   Use only legal archery equipment as defined by the IDNR.
+      (2)   Wear hunter safety orange in accordance with IDNR guidelines.
+      (3)   Hunt from an elevated tree stand at least ten feet above ground
+level.
+      (4)   Hunters must hunt only between ½ an hour before sunrise and ½ an
+hour after sunset Monday through Friday. No hunting is permitted on weekends or
+outside of designated hours.
+      (5)   Obtain written permission from landowners for hunting on private
+property within a designated Deer Nuisance Zone which must be provided to the
+Deer Task Force at least 48 hours prior to hunting.
+      (6)   Possess all valid and required tags, licenses, and permits required
+by the IDNR. All hunting activities must comply fully with Indiana laws and
+IDNR regulations.
+      (7)   First kill an antlerless deer before an antlered deer.
+   (C)   All harvested deer must:
+      (1)   Be checked and reported according to IDNR requirements.
+      (2)   Be reported to the Monticello Police Department within 48 hours of
+harvest. Reporting must include:
+         (a)   Sex of the animal.
+         (b)   Time of harvest.
+         (c)   Date of harvest.
+         (d)   Location of harvest (address or parcel number).
+(Ord. 2025-10, passed 9-15-25; Am. Ord. 2025-10A, passed 11-17-25) Penalty, see
+§
+91.99
+§ 91.63 DARK TASK FORCE PARTICIPATION REQUIREMENTS.
+   To be eligible for participation in the Deer Task Force Program applicants
+must:
+   (A)   Be at least 21 years of age and a legal resident of Indiana.
+   (B)   Attend all required meetings and training sessions scheduled by the
+Deer Task Force.
+   (C)   Have successfully harvested at least three big game animals using
+archery equipment.
+   (D)   Submit three references, including one from a landowner who has
+granted the applicant hunting permission.
+   (E)   Have no prior violations of state hunting or game laws and be able to
+obtain the required licenses, tags, and/or permits from 1DNR to hunt, take, or
+possess a whitetail deer.
+   (F)   Consent to and pass applicable federal, state, or local background
+checks.
+   (G)   Pass a shooting proficiency test administered by the Deer Task Force.
+   (H)   Comply with all policies and directives issued by the Deer Task Force,
+Mayor, City Council, and landowners.
+   (I)   Obtain and maintain written landowner approval to hunt on designated
+properties within the Deer Nuisance Zone.
+   (J)   Fill out and report at least one antlerless deer tag before harvesting
+a buck within any Deer Nuisance Zone. All reporting must comply with IDNR and
+local ordinance requirements.
+   (K)   Monticello Police Department must be notified immediately in the event
+of a deceased deer on property that the property owner or hunter cannot remove.
+(Ord. 2025-10, passed 9-15-25) Penalty, see §
+91.99
+§ 91.64 LANDOWNER REQUIREMENTS.
+   (A)   Restricted authorization. A landowner may only grant hunting
+permission to hunters who have been officially approved by the Monticello Deer
+Task Force. This restriction applies even if the landowner resides within the
+designated Deer Nuisance Zone.
+   (B)   Written permission required.
+      (1)   All permission granted by landowners for deer hunting must be
+provided in writing and must specifically authorize the use of their property
+for archery deer hunting under the terms of this ordinance. Written permission
+must include:
+         (a)   The landowner's full name, address, and signature.
+         (b)   The name of the approved Deer Task Force hunter.
+         (c)   The dates or duration for which permission is granted.
+         (d)   A statement affirming that the landowner understands the
+property is within a Deer Nuisance Zone and subject to ordinance regulations.
+   (C)   No leasing or subleasing of hunting rights. Landowners may not lease,
+sublease, sell, or otherwise transfer hunting rights to any party. Hunting
+permission are non-transferable and valid only for the approved hunter
+designated in written authorization.
+   (D)   Compliance.
+      (1)   Landowners are responsible for ensuring that any authorized hunter
+they permit to access their property is in compliance with this subchapter and
+state hunting laws.
+      (2)   Violations may result in removal of the property from the Deer
+Nuisance Zone list and/or other penalties as determined by the Deer Task Force
+or City Council.
+   (E)   The Monticello Police Department must be notified within 24 hours in
+the event of a deceased deer on property that the property owner or hunter
+cannot remove.
+(Ord. 2025-10, passed 9-15-25) Penalty, see §
+91.99
 § 91.99 PENALTY.
-   Any person violating this chapter for the first time, shall be given a
+   (A)   Any person violating this chapter for the first time, shall be given a
 written warning thereof by the Animal Warden or other law enforcement officers
 of the city. Any subsequent violation of this chapter, of any kind, shall
 constitute an infraction and subject such person to a fine of $25, in addition
 to all other fees and costs imposed by this chapter.
-(Ord. 92-8, passed 8-3-92)
+   (B)   (1)   Any violation of §§
+91.60 through
+91.64 is subject to a fine of up to $2,500 and attorney fees incurred by the
+city, and/or permanent disqualification from participation in the Deer Task
+Force program.
+      (2)   A $1,000 fine may be imposed for possession or control of a deer
+taken within the zone by unapproved hunter or by any person outside of the
+zone, per deer.
+(Ord. 92-8, passed 8-3-92; Am. Ord. 2025-10, passed 9-15-25)
 CHAPTER 92: LOCAL DISASTER EMERGENCY DECLARATIONS AND TRAVEL ADVISORIES
 Section
    
@@ -6448,7 +6649,7 @@ Fireworks
  
    
 93.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 ESTABLISHMENT OF FIRE ZONES.
    (A)   Fire Zone I defined. Fire Zone I shall include all property contained
 within the following areas:
@@ -6490,11 +6691,11 @@ intersections and intermediate points between city street intersections, and as
 recommended by the Indiana State ISO, shall be spaced from 350 feet to no
 greater than 450 feet between such hydrants.
 (Ord. 2010-12, passed 8-16-10)
-UNIFORM FIRE CODE
+**** UNIFORM FIRE CODE ****
 § 93.10 ADOPTION OF CODE BY REFERENCE.
    The Indiana Fire Safety Code enacted pursuant to I.C. §§ 22-13-1 et seq. is
 hereby adopted as the city fire code.
-BONFIRES; RUBBISH FIRES
+**** BONFIRES; RUBBISH FIRES ****
 § 93.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6568,7 +6769,7 @@ disaster, if the area has been declared a disaster area.
 other dangerous materials, where such fires are properly controlled by a
 responsible person and are deemed necessary to the public interest.
 (Ord. 2004-13, passed 5-17-04)
-BARRIERS AND PEDESTRIAN PROTECTION FENCES
+**** BARRIERS AND PEDESTRIAN PROTECTION FENCES ****
 § 93.50 WHEN BARRIERS OR PEDESTRIAN PROTECTION FENCES REQUIRED.
    Every owner of land which is located within the fire zone shall place, erect
 and maintain barriers or pedestrian protection fences in all areas and in all
@@ -6606,7 +6807,7 @@ within 60 days after receipt of the bill.
 the erection of said barricades or pedestrian protection fences to be levied as
 an assessment and recovered in accordance with applicable state law.
 ('77 Code, § 4-72) (Ord. 319, passed 1-7-76)
-FIREWORKS
+**** FIREWORKS ****
 § 93.60 INDOOR PYROTECHNICS.
    (A)   As used in this section, INDOOR PYROTECHNICS means, as defined at IC §
 22-11-14.5-1, controlled exothermic chemical reactions that are timed to create
@@ -6707,7 +6908,7 @@ or danger.
    (B)   For each violation of this section, a warning may be given.
 (Ord. 2002-07, passed 8-5-02; Am. Ord. 2009-13, passed 5-18-09 ) Penalty, see
 § 94.99
-RAILROADS
+**** RAILROADS ****
 § 94.15 UNNECESSARY NOISE PROHIBITED.
    It shall be unlawful for any person having charge of a railway train to make
 any unnecessary noise by the blowing of the whistle, siren or horn.
@@ -6754,7 +6955,7 @@ Trees and Shrubbery
  
    
 95.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 95.01 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6862,7 +7063,7 @@ collected from the owner as other real estate taxes are collected.
 all other provisions of the ordinances of the city, state and federal law, and
 other legal remedies available at law or in equity.
 ('77 Code, § 11-9) (Ord. 2004-23, passed 10-18-04)
-TREES AND SHRUBBERY
+**** TREES AND SHRUBBERY ****
 § 95.20 OWNER OF REAL ESTATE TO TRIM TREES; SPECIFICATIONS.
    Any person owning real estate abutting upon any street or alley where tree
 limbs or branches extend over and above the streets, alleys or sidewalks, shall
@@ -7003,7 +7204,7 @@ Underground and Buried Utility District
  
    
 96.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 96.01 OBSTRUCTION OF STREETS.
    It shall be unlawful for any person to obstruct any street in such a manner
 as to interfere with the free use thereof by vehicles or pedestrians.
@@ -7070,7 +7271,7 @@ shall be required to execute any further permit applications and documents as
 may be required by the city including, but not limited to, waivers of
 liability.
 (Ord. 2023-03, passed 6-5-23)
-EXCAVATIONS
+**** EXCAVATIONS ****
 § 96.15 COMPLIANCE WITH PROVISIONS REQUIRED.
    It shall be unlawful for any person, firm or corporation to do, cause or
 permit any digging, cutting or excavation into or upon any street, alley,
@@ -7133,7 +7334,7 @@ proper barricade and danger lights shall be maintained by such person until the
 excavation has been restored.
 ('77 Code, § 17-34) (Am. Ord. 95-11, passed 9-18-95) Penalty, see
 § 96.99
-VISUAL OBSTRUCTIONS
+**** VISUAL OBSTRUCTIONS ****
 § 96.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7186,7 +7387,7 @@ the cause of the violation within 14 days from the date of notification, or be
 subject to the penalties provided by
 § 10.99.
 ('77 Code, § 17-65)
-DRIVEWAYS
+**** DRIVEWAYS ****
 § 96.45 PERMIT REQUIRED; APPROVAL OF COMMON COUNCIL; APPLICATION; PLANS AND
 SPECIFICATIONS.
    (A)   No person shall hereafter construct, build, establish or maintain any
@@ -7244,7 +7445,7 @@ in accordance with all standards and specifications required by the Indiana
 Department of Transportation in effect at the time of such construction and
 maintenance thereof.
 (Ord. 2008-09, passed 4-21-08)
-SNOW REMOVAL
+**** SNOW REMOVAL ****
 § 96.60 REMOVAL OF SNOW FROM SIDEWALKS.
    It shall be unlawful for the owner or occupant of any land adjacent to and
 abutting upon any sidewalk to suffer or permit snow to accumulate, be or remain
@@ -7262,7 +7463,7 @@ City Clerk-Treasurer who shall certify such costs to the County Auditor. The
 Auditor shall cause such costs to be placed upon the tax duplicate of the
 property concerned and such costs shall then be collected from such person as
 other taxes are collected. ('77 Code, § 17-16)
-SIDEWALK REPAIR AND REPLACEMENT
+**** SIDEWALK REPAIR AND REPLACEMENT ****
 § 96.75 SIDEWALK REPAIR PROGRAM.
    There is hereby created a Monticello Sidewalk Repair Program (“Program”) to
 be administered by the city as hereinafter set forth.
@@ -7299,7 +7500,7 @@ Superintendent; and
    (C)   The City Council determines in advance that sufficient funds exist for
 such reimbursement.
 (Ord. 00-02, passed 3-6-00)   
-PUBLIC RIGHT-OF-WAYS
+**** PUBLIC RIGHT-OF-WAYS ****
 § 96.85 GENERALLY.
    It shall be unlawful to occupy areas along, under, upon, and across the
 streets, highways, or other public property within the city without first fully
@@ -7423,7 +7624,7 @@ or relocating any of its streets, sidewalks, rights-of-way, utilities,
 buildings or infrastructure, or in the performance of any other municipal
 services.
 (Ord. 2016-09, passed 5-16-16)
-UNDERGROUND AND BURIED UTILITY DISTRICT
+**** UNDERGROUND AND BURIED UTILITY DISTRICT ****
 § 96.95 ESTABLISHED.
    (A)   The city hereby establishes an Underground and Buried Utilities
 District (the “District”) to be in effect April 28, 2017, and to apply
@@ -7866,7 +8067,7 @@ Permit Provisions
 110.36   Revocation of permit
    
 110.99   Penalty   
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 110.01 DEFINITION.
    For the purpose of this chapter, the following definition shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -7894,7 +8095,7 @@ this city.
    (E)   Any other solicitations, sales or distribution which constitute
 interstate commerce which only the Federal Government may regulate.
 (Ord. 97-1, passed 3-3-97)
-STANDARDS OF OPERATION
+**** STANDARDS OF OPERATION ****
 § 110.10 REFUSAL OF PEDDLER TO LEAVE PREMISES.
    Any peddler who enters upon premises owned, leased or rented by another and
 refuses to leave such premises after having been notified by the owner or
@@ -7921,7 +8122,7 @@ morning, or at any time on Sundays, except by specific appointment with or
 invitation from the prospective customer.
 (Ord. 97-1, passed 3-3-97) Penalty, see
 § 110.99
-PERMIT PROVISIONS
+**** PERMIT PROVISIONS ****
 § 110.25 PERMIT REQUIRED.
    It shall be unlawful for any person to engage in business as a peddler
 within this city without first obtaining a permit to do so.
@@ -8350,7 +8551,7 @@ Zoning Specific Wireless Communications
 Facility Performance Standards
    
 112.65   Wireless facility siting standards - zoning
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 112.01 TITLE.
    These regulations shall officially be known, cited, and referred to as the
 Wireless Telecommunication Facility Regulations of the City of Monticello
@@ -8437,7 +8638,7 @@ fine in an amount of $2,500 per violation. Each day the violation exists
 constitutes a separate violation pursuant to the provisions of the statutes of
 the State of Indiana.
 (Ord. 98-16, passed 9-8-98)
-DEFINITIONS
+**** DEFINITIONS ****
 § 112.20 USAGE.
    (A)   For the purpose of these regulations, certain abbreviations, terms,
 and words shall be used, interpreted, and defined as set forth in this
@@ -8629,8 +8830,8 @@ focus of the view, the mapped portion of the corridor extends from the
 viewpoint and is based on the area where base zone heights must be limited in
 order to protect the view.
 (Ord. 98-16, passed 9-8-98)
-WIRELESS COMMUNICATIONS FACILITY APPLICATION PROCEDURE
-AND APPROVAL PROCESS
+**** WIRELESS COMMUNICATIONS FACILITY APPLICATION PROCEDURE
+AND APPROVAL PROCESS ****
 § 112.30 GENERAL PROCEDURE.
    The submission of applications for wireless communications facilities shall
 follow the procedure as set forth herein and shall also comply with the White
@@ -8752,8 +8953,8 @@ use:
 ordinance); and
    (Y)   Protective restrictions and/or covenants.
 (Ord. 98-16, passed 9-8-98)
-GENERAL WIRELESS COMMUNICATIONS
-FACILITY PERFORMANCE STANDARDS
+**** GENERAL WIRELESS COMMUNICATIONS
+FACILITY PERFORMANCE STANDARDS ****
 § 112.45 CO-LOCATION REQUIREMENTS.
    All commercial wireless telecommunication towers erected, constructed, or
 located within the municipality shall comply with the following requirements:
@@ -8884,8 +9085,8 @@ information signs is prohibited.
 Cross-reference:
    For provisions governing signs generally, see
 Chapter 113.
-ZONING SPECIFIC WIRELESS COMMUNICATIONS
-FACILITY PERFORMANCE STANDARDS
+**** ZONING SPECIFIC WIRELESS COMMUNICATIONS
+FACILITY PERFORMANCE STANDARDS ****
 § 112.65 WIRELESS FACILITY SITING STANDARDS - ZONING.
    A commercial wireless communications facilities are allowed only as a
 special exception, requiring the approval of a special exception permit, in the
@@ -9445,7 +9646,7 @@ inspections
 152.30   Filing of plans; fee
    
 152.04   Violations
-UNIFORM HOUSING CODE
+**** UNIFORM HOUSING CODE ****
 § 152.01 ADOPTION OF CODE BY REFERENCE.
    There is hereby adopted by the Common Council for the purpose of providing
 minimum requirements for the protection of life, limb, health, property, safety
@@ -9747,7 +9948,8 @@ Ord. 2022-06, passed 3-21-22; Am. Ord. 2022-11, passed 7-18-22; Am. Ord. 2022-
 7-17-23; Am. Ord. 2023-12, passed 7-17-23; Am. Ord. 2023-13, passed 7-17-23;
 Am. Ord. 2023-17, passed 9-5-23; Am. Ord. 2023-18, passed 9-5-23; Am. Ord.
 2024-04, passed 2-20-24; Am. Ord. 2024-11, passed 7-15-24; Am. Ord. 2024-12,
-passed 11-18-24)
+passed 11-18-24; Am. Ord. 2025-02, passed 1-21-25; Am. Ord. 2025-03, passed 2-
+18-25; Am. Ord. 2025-10, passed 7-21-25; Am. Ord. 2025-11, passed 7-21-25)
 CHAPTER 157: FLOOD PLAIN MANAGEMENT
 Section
    
@@ -9892,6 +10094,12 @@ Res.           Approving term of real estate contract for release of judgement a
 Res.
 2024- 12- -24  Confirming interest in purchase of real estate.
 07
+Res.
+20-   11-19-25 Approving purchase of real estate.
+25-01
+Res.
+2025- 12-29-25 Approving purchase of real estate.
+12
               
  
 TABLE IV: VACATIONS
@@ -10573,6 +10781,7 @@ IC Section              Code Section
                         30.36,
 5-3-1                   34.204,
                         34.208
+5-3.5-10                34.216
 5-11-10                 31.08
 5-13-9                  34.83
 5-13-9-2                34.83
@@ -10615,7 +10824,19 @@ IC Section              Code Section
 5-22-10-17              34.210
 5-22-10-19              34.210
 6-1.1-18-7              34.22
+6-3.5-10                34.215
+6-3.5-10-1              34.216
+6-3.5-10-1 et seq.      34.216
+6-3.5-10-6              34.216
+6-3.5-10-10             34.216
+6-3.5-11                34.215
+6-3.5-11-1              34.215
+6-3.5-11-1 et seq.      34.215
+6-3.5-11-4              34.215
+6-3.5-11-8              34.215
 6-3.6-9-17              34.150
+8-23-30                 34.215 ,
+                        34.216
 9-13-2-1                95.02
 9-22-1-30               90.02
 9-25-4-1 et seq.        73.45
@@ -10654,6 +10875,7 @@ IC Section              Code Section
 22-13-2-7(b)            150.03
 22-15-3-1               150.06
 22-15-4                 150.04
+25-15-2-17              34.215
 33-6-3                  32.50
 36-1-3-8(a)(10)(B)      51.002,
                         51.999
@@ -10699,6 +10921,7 @@ IC Section              Code Section
 36-7-4-217              154.01
 36-7-4-919              153.05
 36-7-9-1 et seq.        32.72
+36-7-23                 34.215
 36-9-6                  96.76
 36-9-15.5               34.38
 36-9-23                 Ch. 50, Appendix
@@ -10952,679 +11175,699 @@ REFERENCES TO 1977 CODE
  
 REFERENCES TO ORDINANCES
 Ord. No. Date Passed Code Section
-Ord. No.     Date Passed Code Section
-98           7-8-1895    31.20
-258          - -         156.01
-601          - -         T.S.O. V
-50           3-20-56     71.10,
-                         94.15
-130          4-16-63     72.20 -
-                         72.22
-155          7-6-65      73.17
-156          6-6-65      34.01
-198          9-18-67     91.03
-206          5-8-68      96.15,
-                         96.16
-210          8-6-68      91.04
-                         95.02,
-220          5-5-69      95.03,
-                         95.05
-221          5-6-69      93.31,
-                         93.32
-225          11-18-69    70.16
-255          11-18-69    70.15
-228          1-20-70     154.01
-230          7-7-70      34.72
-251          4-18-72     32.25
-255          7-5-72      T.S.O. V
-256          7-18-72     T.S.O. III
-265          9-19-72     T.S.O. I
-263          10-3-72     T.S.O. V
-264          10-3-72     T.S.O. V
-266          12-19-72    T.S.O. V
-267          12-19-72    T.S.O. V
-268          12-19-72    T.S.O. V
-271          2-6-73      T.S.O. V
-272          2-6-73      T.S.O. V
-273          2-20-73     T.S.O. V
-277          6-5-73      T.S.O. V
-278          6-19-73     T.S.O. V
-292          4-7-74      32.10 -
-                         32.12
-                         152.01,
-300          5-28-74     152.02,
-                         152.04 
-302          6-4-74      T.S.O. V
-304          6-18-74     T.S.O. V
-305          7-2-74      T.S.O. V
-307          8-6-74      T.S.O. V
-312          10-1-74     T.S.O. V
-314          11-6-74     T.S.O. V
-316          12-3-74     T.S.O. V
-317          12-3-74     T.S.O. V
-293          12-17-74    32.01,
-                         32.02
-                         91.01,
-                         91.02,
-                         91.05 -
-                         91.07,
-318          1-7-75      91.20 -
-                         91.23,
-                         91.35 -
-                         91.37,
-                         91.50
-319          1-7-75      93.50
-329          7-15-75     T.S.O. V
-330          10-7-75     T.S.O. V
-333          10-16-75    T.S.O. V
-334          10-7-75     T.S.O. V
-336          10-21-75    54.01,
-                         54.02
-                         96.45,
-336          11-3-75     96.48,
-                         96.47,
-                         96.46
-338          10-21-75    T.S.O. V
-319          1-7-76      93.51 -
-                         93.53
-341          2-3-76      T.S.O. V
-345          5-18-76     T.S.O. V
-349          7-20-76     T.S.O. V
-351          10-5-76     T.S.O. V
-258          11-16-76    T.S.O. V
-356          3-1-77      93.01,
-                         93.02
-359A         5-2-77      T.S.O. V
-363          10-3-77     30.15
-372          4-3-78      T.S.O. V
-                         51.001 -
-                         51.008,
-                         51.020 -
-                         51.027,
-                         51.040,
-                         51.042 -
-                         51.050,
-374          4-3-78      51.060 -
-                         51.063,
-                         51.065 -
-                         51.067,
-                         51.080 -
-                         51.088,
-                         51.998,
-                         51.999
-375          4-3-78      51.100 -
-                         51.106
-380          5-15-78     T.S.O. V
-386          6-19-78     T.S.O. V
-389          8-21-78     T.S.O. V
-393          8-21-78     34.70
-395          8-21-78     T.S.O. V
-283          10-2-78     130.03
-398          12-4-78     T.S.O. V
-400          2-5-79      T.S.O. V
-401          2-5-79      T.S.O. V
-                         73.31 -
-407          3-19-79     73.34,
-                         73.99
-410          6-4-79      T.S.O. I
-412          7-16-79     51.100,
-                         51.101
-416          7-16-79     T.S.O. V
-417          8-20-79     T.S.O. V
-418          8-20-79     T.S.O. V
-430          1-21-80     T.S.O. V
-431          1-21-80     T.S.O. V
-433          4-7-80      90.02
-436          6-2-80      T.S.O. V
-438          7-14-80     T.S.O. V
-445          9-15-80     91.09
-448          10-6-80     34.71
-                         72.10 -
-449          11-17-80    72.13,
-                         72.66 -
-                         72.68
-460          7-20-81     96.02
-469          8-24-81     T.S.O. V
-481          4-5-82      T.S.O. V
-484          6-7-82      71.01,
-                         71.99
-487          8-2-82      T.S.O. V
-488          8-2-82      T.S.O. V
-489          7-19-82     T.S.O. V
-492          8-16-82     30.01
-495          10-4-82     T.S.O. V
-498          11-15-82    32.30 -
-                         32.33
-500          12-20-82    30.01
-502          12-6-82     T.S.O. V
-                         153.01 -
-504          1-3-83      153.08,
-                         153.99
-507          2-21-83     155.01
-508          3-7-83      34.20 -
-                         34.22
-511          7-18-83     T.S.O. I
-523          9-6-83      T.S.O. V
-528          12-5-83     T.S.O. V
-532          12-19-83    T.S.O. V
-534          6-4-84      73.99,
-                         Ch. 74, Sch. I
-541          7-16-84     151.01 -
-                         151.07
-542          7-16-84     34.35 -
-                         34.38
-544          8-20-84     T.S.O. V
-536          10-1-84     T.S.O. I
-542A         1-21-85     T.S.O. V
-547          4-15-85     T.S.O. V
-548          4-15-85     T.S.O. V
-551          6-3-85      T.S.O. II
-557          8-19-85     T.S.O. V
-559          10-21-85    T.S.O. V
-561          12-16-85    32.32
-563          4-21-86     34.50 -
-                         34.55
-564          4-21-86     T.S.O. V
-565          4-21-86     T.S.O. V
-566          5-19-86     T.S.O. V
-573          11-17-86    34.35 -
-                         34.37
-576          3-16-87     T.S.O. V
-577          3-16-87     T.S.O. V
-578          3-2-87      T.S.O. IV
-378          4-18-87     156.01
-579          7-6-87      34.35 -
-                         34.38
-583          7-20-87     T.S.O. V
-585          10-5-87     T.S.O. V
-586          11-16-87    T.S.O. V
-590          5-16-88     T.S.O. V
-591          7-5-88      70.04
-593          9-6-88      30.03
-596          7-18-88     T.S.O. V
-600          12-19-88    T.S.O. V
-602          5-15-89     T.S.O. V
-603          5-15-89     T.S.O. V
-609          9-5-89      T.S.O. IV
-610          9-18-89     T.S.O. V
-89-12        12-4-89     T.S.O. IV
-90-1         2-20-90     T.S.O. V
-90-2         2-20-90     T.S.O. V
-90-4         5-21-90     34.35 -
-                         34.38
-90-6         6-18-90     T.S.O. V
-                         73.10 -
-90-7         8-6-90      73.15,
-                         73.99
-90-9         9-24-90     T.S.O. V
-90-13        12-3-90     T.S.O. IV
-91-1         1-21-91     T.S.O. V
-91-2         4-15-91     52.30 -
-                         52.35
-91-7         5-20-91     T.S.O. V
-91-8         5-20-91     T.S.O. V
-91-9         6-17-91     T.S.O. V
-91-11        7-15-91     32.35 -
-                         32.38
-91-12        7-15-91     T.S.O. V
-91-17        10-7-91     34.56
-92-1         1-20-92     T.S.O. I
-92-3         3-16-92     T.S.O. V
-92-7         7-20-92     T.S.O. V
-                         91.01,
-                         91.03,
-                         91.04,
-92-8         8-3-92      91.11,
-                         91.35 -
-                         91.37.
-                         91.99
-92-10        8-17-92     T.S.O. V
-92-18        12-7-92     T.S.O. V
-92-19        12-21-92    30.01
-93-2         5-17-93     T.S.O. V
-                         97.01 -
-93-6         8-16-93     97.08,
-                         97.10,
-                         97.11
-93-14        10-4-93     T.S.O. V
-93-15        11-1-93     T.S.O. V
-93-17        11-15-93    T.S.O. V
-94-1         1-17-94     T.S.O. V
-94-4         4-18-94     T.S.O. V
-94-6         7-18-94     T.S.O. V
-94-7         7-18-94     T.S.O. V
-94-12        10-17-94    T.S.O. V
-95-1         4-3-95      Ch. 150
-95-2         10-16-95    32.50 -
-                         32.55
-95-3         5-1-95      72.02
-95-6         5-15-95     T.S.O. V
-                         96.15 -
-95-11        9-18-95     96.20,
-                         96.99
-96-2         3-18-96     T.S.O. V
-96-3         4-15-96     T.S.O. V
-96-4         4-15-96     T.S.O. V
-96-8         6-17-96     T.S.O. V
-96-9         7-15-96     T.S.O. V
-97-1         3-3-97      Ch. 110
-97-2         3-3-97      34.80
-97-3         6-2-97      T.S.O. V
-97-4         6-16-97     T.S.O. V
-97-5         6-16-97     T.S.O. V
-97-9         12-1-97     T.S.O. IV
-97-11        12-15-97    T.S.O. V
-97-12        12-15-97    T.S.O. V
-98-1         1-19-98     T.S.O. V
-98-2         1-19-98     T.S.O. V
-                         51.001 -
-                         51.008,
-                         51.020 -
-                         51.027,
-                         51.040 -
-                         51.050,
-98-6         2-27-98     51.060 -
-                         51.063,
-                         51.065 -
-                         51.068,
-                         51.080 -
-                         51.088,
-                         51.998,
-                         51.999
-98-7         3-2-98      51.115 -
-                         51.124
-98-8         5-4-98      32.39
-98-9         4-20-98     T.S.O. V
-98-10        6-15-98     96.03
-98-14        6-15-98     32.55,
-                         32.56
-98-16        9-8-98      Ch. 112
-98-18        12-21-98    T.S.O. V
-99-2         3-15-99     T.S.O. V
-99-3         3-15-99     T.S.O. V
-99-4         3-15-99     T.S.O. V
-99-5         3-15-99     T.S.O. V
-99-6         5-3-99      T.S.O. V
-99-8         7-19-99     T.S.O. V
-99-9         7-19-99     34.73
-99-11        9-7-99      T.S.O. V
-99-12        10-18-99    T.S.O. V
-99-13        11-15-99    T.S.O. V
-99-15        12-20-99    T.S.O. V
-99-16        1-3-00      T.S.O. V
-00-01        2-22-00     72.03,
-                         72.99
-00-02        3-6-00      96.75 -
-                         96.78
-00-09        7-3-00      96.85 -
-                         96.91
-00-10        6-5-00      34.71
-00-11        6-19-00     T.S.O. V
-00-12        6-19-00     T.S.O. V
-00-15        6-20-00     T.S.O. IV
-00-18        8-21-00     T.S.O. V
-00-19        1-2-01      T.S.O. I
-00-20        1-2-01      T.S.O. I
-00-21        11-6-00     T.S.O. I
-00-21        11-20-00    34.81
-00-22        10-16-00    T.S.O. V
-00-23        10-16-00    T.S.O. V
-00-29        1-16-01     52.02
-01-01        2-20-01     51.009
-           2-20-01     96.85 -
-                         96.91
-                         50.30  -
-                         50.33,
-01-02        5-7-01      50.35 -   
-                         50.39,
-                         Ch. 50, Appendix
-01-03        5-7-01      T.S.O. VI
-01-04        5-21-01     T.S.O. V
-            6-4-01      54.03
-01-06        10-1-01     T.S.O. V
-01-07        10-1-01     T.S.O. V
-01-08        10-1-01     T.S.O. V
-01-09        10-1-01     T.S.O. V
-01-11        9-17-01     T.S.O. V
-01-12        9-17-01     T.S.O. V
-01-14        11-5-01     34.90
-01-15        11-19-01    T.S.O. V
-            2-19-02     34.80
-2002-01      3-18-02     T.S.O. V
-2002-02      5-20-02     T.S.O. V
-2002-03      6-17-02     T.S.O. V
-2002-04      6-17-02     T.S.O. V
-                         50.30 -
-2002-05      7-1-02      50.33,
-                         50.36 -
-                         50.39
-                         94.01,
-2002-07      8-5-02      94.02,
-                         94.99
-2002-08      6-16-03     T.S.O. I
-2002-10      9-16-02     T.S.O. V
-                         113.01 -
-2002-12      10-2-02     113.09,
-                         113.99
-                         34.105 -
-2002-13      10-21-02    34.111,
-                         Chapter 34, Appendix
-2002-14      10-21-02    30.01
-2002-16      11-18-02    91.11
-2003-01      1-6-03      156.01
-2003-02      1-6-03      156.01
-2003-03      6-16-03     T.S.O. I
-2003-04      3-17-03     T.S.O. V
-2003-05      4-7-03      32.26
-2003-8       9-15-03     T.S.O. IV
-2003-09      9-15-03     T.S.O. V
-2003-11      12-15-03    T.S.O. V
-2004-03      2-2-04      156.01
-2004-04      2-2-04      156.01
-2004-05      2-17-04     34.100
-2004-06      2-17-04     T.S.O. V
-2004-11      4-19-04     34.74
-                         93.30 -
-2004-13      5-17-04     93.33,
-                         93.99
-2004-14      6-21-04     51.117,
-                         52.02
-                         72.20 -
-2004-15      6-21-04     72.22,
-                         72.99
-2004-16      6-21-04     T.S.O. V
-2004-17      6-21-04     T.S.O. V
-2004-18      6-21-04     156.01
-2004-19      7-19-04     72.99
-2004-21B     8-16-04     T.S.O. V
-2004-22      9-7-04      156.01
-                         95.01 -
-2004-23      10-18-04    95.06,
-                         95.99
-                         72.04,
-                         72.05,
-2004-26      2-22-05     72.55,
-                         72.60,
-                         72.99
-2005-01      2-7-05      T.S.O. V
-2005-03      3-21-05     34.105 -
-                         34.111
-2005-04      3-7-05      156.01
-2005-07      6-6-05      72.40 -
-                         72.44
-2005-09      7-18-05     34.120
-2005-14      12-19-05    T.S.O. V
-2006-01      1-17-06     156.01
-2006-02      2-21-06     156.01
-2006-06      3-20-06     156.01
-2006-07      3-20-06     156.01
-2006-08      4-3-06      34.57
-2006-09      7-3-06      34.75
-2006-11      7-17-06     156.01
-2006-13      8-21-06     156.01
-2006-14      8-21-06     156.01
-                         51.001,
-                         51.061,
-2006-17      12-4-06     51.062,
-                         51.069,
-                         51.080
-2007-01      1-16-07     31.08
-2007-02      2-20-07     31.09
-2007-03      4-2-07      34.76
-2007-04      4-16-07     T.S.O. V
-2007-06      5-21-07     T.S.O. V
-2007-07      5-21-07     T.S.O. V
-2007-09      7-2-07      156.01
-2007-12      10-15-07    93.60,
-                         93.99
-2007-13      11-5-07     51.080
-2008-1       1-22-08     T.S.O. V
-2008-2       1-22-08     T.S.O. V
-2008-3       1-22-08     156.01
-2008-7       4-7-08      31.09
-2008-09      4-21-08     96.49
-2008-11      8-4-08      34.76
-2008-14      8-18-08     156.01
-2008-15      8-18-08     155.01
-2008-20      12-1-08     72.04
-2008-21      12-1-08     95.99
-2008-22      1-20-09     156.01
-2008-23      12-15-08    T.S.O. V
-2009-2       1-20-09     T.S.O. V
-2009-4       1-20-09     156.01
-2009-05      1-20-09     72.12,
-                         72.99
-2009-07      3-2-09      52.06
-2009-09      - -09       156.01
-2009-10      - -09       156.01
-2009-11      6-1-09      156.01
-2009-12      6-1-09      156.01
-2009-13      5-18-09     94.02
-2009-14      7-6-09      156.01
-2009-15      7-6-09      156.01
-2009-16      7-6-09      156.01
-2009-17      7-6-09      156.01
-2009-18      8-3-09      156.01
-2009-24      11-2-09     156.01
-2009-25      11-2-09     156.01
-2009-26      11-2-09     156.01
-2009-27      12-14-09    52.02
-2009-28      12-14-09    51.117
-                         53.01 -
-2010-01      2-1-10      53.06,
-                         53.99
-2010-02      2-1-10      156.01
-2010-03      2-1-10      156.01
-2010-04      3-1-10      31.09
-2010-05      4-5-10      34.71,
-                         34.72
-2010-06      5-3-10      156.01
-2010-07      6-21-10     32.70 -
-                         32.72
-2010-09      8-2-10      156.01
-2010-10      8-2-10      156.01
-                         111.01 -
-2010-11      8-16-10     111.12,
-                         111.99
-2010-12      8-16-10     93.03
-2010-17      11-1-10     156.01
-2011-01      1-18-11     T.S.O. V
-2011-2       5-2-11      156.01
-2011-04      5-16-11     156.01
-2011-6       6-20-11     52.02
-2011-08      7-18-11     156.01
-2011-09      7-18-11     156.01
-2011-10      8-1-11      156.01
-2011-13      9-19-11     T.S.O. V
-2011-014     10-3-11     T.S.O. V
-2011-16      11-21-11    156.01
-2011-17      11-21-11    155.01
-2012-01      1-17-12     T.S.O. V
-                         92.01 -
-2012-02      3-19-12     92.05,
-                         92.99
-2012-03      5-7-12      T.S.O. V
-2012-07      5-21-12     156.01
-2012-08      5-21-12     156.01
-2012-09      5-21-12     156.01
-2012-10      5-21-12     156.01
-2012-11      5-21-12     155.01
-2012-12      6-4-12      31.08
-2012-13      6-4-12      32.33
-Res. 2012-02 6-18-12     50.38
-2012-14      6-18-12     35.01 -
-                         35.05
-2012-16      9-17-12     T.S.O. IV
-2012-23      12-3-12     30.01
-2013-01      10-9-13     157.01
-2013-02      2-19-13     156.01
-2013-03      2-19-13     156.01
-2013-4    3-18-13     53.07
-                         73.45  -
-2013-05      4-15-13     73.56 ,
-                         73.99
-2013-06      4-15-13     156.01
-2013-07      6-24-13     34.37 ,
-                         34.38
-2013-08      8-19-13     34.130
-2013-12      9-25-13     156.01
-2013-13      9-16-13     156.01
-2013-14      12-2-13     156.01
-2013-17      12-16-13    34.140
-Res. 2013-01 4-15-13     T.S.O. VI
-2014-01      1-21-14     156.01
-2014-02      5-19-14     T.S.O. V
-Res. 2014-01 7-9-14      T.S.O. III
-2014-04      7-21-14     51.117
-2014-09      10-27-14    T.S.O. V
-Res. 2014-06 11-3-14     T.S.O. V
-2014-11      11-17-14    T.S.O. V
-Res. 2014-10 12-15-14    T.S.O. III
-2015-01      1-20-15     T.S.O. V
-2015-02      1-20-15     156.01
-2015-03      3-2-15      32.85
-                         51.002,
-                         51.061,
-2015-04      6-22-15     51.062,
-                         51.080,
-                         51.999
-2015-08      8-17-15     T.S.O. V
-2015-09      8-17-15     T.S.O. V
-2015-11      9-21-15     34.82
-2015-15      10-19-15    T.S.O. VI
-2015-17      10-19-15    156.01
-2015-18      10-19-15    156.01
-2015-19      10-19-15    156.01
-2015-20      12-7-15     33.01
-2016-03      3-21-16     35.10
-2016-05      4-4-16      156.01
-2016-06      4-4-16      T.S.O. V
-2016-07      4-4-16      96.87,
-                         96.88
-2016-08      4-18-16     156.01
-2016-09      5-16-16     96.92,
-                         96.93
-2016-10      5-2-16      34.150
-Res. 2016-02 10-3-16     T.S.O. III
-2016-15      10-17-16    35.20
-2016-21      10-17-16    156.01
-2016-23      11-21-16    156.01
-2016-24      11-21-16    156.01
-2016-26      12-19-16    154.02
-2017-02      2-21-17     34.155
-2017-03      3-6-17      34.160
-Res. 2017-03 4-28-17     96.95
-2017-08      7-17-17     T.S.O. V
-2017-09      7-17-17     T.S.O. V
-Res. 2017-06 9-18-17     T.S.O. III
-2017-16      11-6-17     71.03,
-                         71.99
-2017-21      11-20-17    T.S.O. V
-Res. 2017-08 12-1-17     T.S.O. II
-Res. 2017-01 12-11-17    T.S.O. II
-2018-01      1-16-18     T.S.O. IV
-Res. 2018-02 2-20-18     T.S.O. II
-2018-02      3-19-18     97.01 -
-                         97.11
-2018-03      4-2-18      T.S.O. V
-Res. 2018-08 5-21-18     T.S.O. III
-2018-06      7-2-18      34.165
-2018-09      9-4-18      32.53
-2018-10      9-17-18     156.01
-2018-11      9-17-18     156.01
-2018-15      11-19-18    34.170
-2019-01      2-19-19     52.19
-2019-02      2-19-19     156.01
-2019-03      2-19-19     156.01
-2019-04      5-6-19      156.01
-Res. 2019-03 5-20-19     T.S.O. III
-Res. 2019-04 5-20-19     T.S.O. III
-Res. 2019-05 5-20-19     T.S.O. III
-2019-05      8-19-19     156.01
-2019-06      8-19-19     156.01
-2019-07      8-19-19     156.01
-2019-08      8-19-19     156.01
-2019-09      9-16-19     156.01
-2019-10      10-21-19    34.82,
-                         34.83
-                         50.31,
-2019-15      12-16-19    50.38,
-                         51.117
-2019-16      12-16-19    50.31,
-                         52.02
-2020-01      3-16-20     156.01
-2020-02      316-20      156.01,
-                         T.S.O. V
-Res. 2020-02 5-18-20     T.S.O. III
-2020-03      3-16-20     156.01
-2020-04      3-16-20     156.01
-Res. 2020-06 6-15-20     T.S.O. III
-2020-08      10-5-20     51.117
-2020-09      9-21-20     156.01,
-                         T.S.O. V
-2020-10      9-21-20     156.01,
-                         T.S.O. V
-Res. 2020-12 10-19-20    T.S.O. VI
-2020-14      10-19-20    32.27
-2020-16      1-4-21      52.02
-2021-01      5-3-21      34.175 -
-                         34.177
-2021-03      5-17-21     156.01
-2021-04      5-17-21     156.01
-Res. 2021-03 6-21-21     30.23
-2021-05      7-19-21     156.01
-2021-06      8-16-21     T.S.O. V
-2021-13      9-20-21     T.S.O. V
-2021-17      12-6-21     156.01
-2022-01      1-4-22      34.190
-2022-02      1-4-22      34.185
-2022-03      1-4-2022    34.180
-2022-05      3-21-22     156.01
-2022-06      3-21-22     156.01
-Res. 2022-07 6-20-22     T.S.O. II
-2022-09      6-20-22     52.02
-2022-11      7-18-22     156.01
-2022-12      11-21-22    156.01
-2022-19A     10-17-22    T.S.O. V
-2022-20      11-21-22    30.01
-2022-23      11-21-22    156.01
-2022-24      12-19-22    52.02
-2023-01      1-17-23     T.S.O. V
-2023-02      1-17-23     T.S.O. V
-2023-03      6-5-23      96.04
-2023-04      4-17-23     T.S.O. V
-2023-05      6-19-23     50.38
-2023-06      5-15-23     T.S.O. V
-2023-07      5-15-23     T.S.O. V
-2023-08      10-16-23    34.200 -
-                         34.211
-2023-09      7-17-23     T.S.O. V
-Res. 2023-08 8-7-23      T.S.O. III
-2023-10      7-17-23     T.S.O. V
-2023-11      7-17-23     156.01
-2023-12      7-17-23     156.01
-2023-13      7-17-23     156.01
-2023-14      8-7-23      T.S.O. V
-2023-16      9-5-23      T.S.O. V
-2023-17      9-5-23      156.01
-2023-18      9-5-23      156.01
-2023-23      10-16-23    T.S.O. V
-2023-30      1-20-23     T.S.O. V
-Res. 2023-34 12-18-23    T.S.O. III
-2024-01      1-22-24     T.S.O. V
-2024-04      2-20-24     156.01
-2024-07      3-18-24     T.S.O. V
-Res. 2024-03 4-1-24      T.S.O. II
-2024-08      4-15-24     T.S.O. V
-2024-10      5-20-24     T.S.O. IV
-2024-11      7-15-24     156.01
-Res. 2024-04 7-15-24     T.S.O. VI
-2024-12      11-18-24    156.01
-2024-13      10-21-24    51.117
-2024-14      9- -24      95.99
-2024-15      9-16-24     T.S.O. V
-Res. 2024-06 11-4-24     T.S.O. III
-Res. 2024-07 12- -24     T.S.O. III
-Res. 2025-03 2-18-25     34.83
-                        
+Ord. No.      Date Passed Code Section
+98            7-8-1895    31.20
+258           - -         156.01
+601           - -         T.S.O. V
+50            3-20-56     71.10,
+                          94.15
+130           4-16-63     72.20 -
+                          72.22
+155           7-6-65      73.17
+156           6-6-65      34.01
+198           9-18-67     91.03
+206           5-8-68      96.15,
+                          96.16
+210           8-6-68      91.04
+                          95.02,
+220           5-5-69      95.03,
+                          95.05
+221           5-6-69      93.31,
+                          93.32
+225           11-18-69    70.16
+255           11-18-69    70.15
+228           1-20-70     154.01
+230           7-7-70      34.72
+251           4-18-72     32.25
+255           7-5-72      T.S.O. V
+256           7-18-72     T.S.O. III
+265           9-19-72     T.S.O. I
+263           10-3-72     T.S.O. V
+264           10-3-72     T.S.O. V
+266           12-19-72    T.S.O. V
+267           12-19-72    T.S.O. V
+268           12-19-72    T.S.O. V
+271           2-6-73      T.S.O. V
+272           2-6-73      T.S.O. V
+273           2-20-73     T.S.O. V
+277           6-5-73      T.S.O. V
+278           6-19-73     T.S.O. V
+292           4-7-74      32.10 -
+                          32.12
+                          152.01,
+300           5-28-74     152.02,
+                          152.04 
+302           6-4-74      T.S.O. V
+304           6-18-74     T.S.O. V
+305           7-2-74      T.S.O. V
+307           8-6-74      T.S.O. V
+312           10-1-74     T.S.O. V
+314           11-6-74     T.S.O. V
+316           12-3-74     T.S.O. V
+317           12-3-74     T.S.O. V
+293           12-17-74    32.01,
+                          32.02
+                          91.01,
+                          91.02,
+                          91.05 -
+                          91.07,
+318           1-7-75      91.20 -
+                          91.23,
+                          91.35 -
+                          91.37,
+                          91.50
+319           1-7-75      93.50
+329           7-15-75     T.S.O. V
+330           10-7-75     T.S.O. V
+333           10-16-75    T.S.O. V
+334           10-7-75     T.S.O. V
+336           10-21-75    54.01,
+                          54.02
+                          96.45,
+336           11-3-75     96.48,
+                          96.47,
+                          96.46
+338           10-21-75    T.S.O. V
+319           1-7-76      93.51 -
+                          93.53
+341           2-3-76      T.S.O. V
+345           5-18-76     T.S.O. V
+349           7-20-76     T.S.O. V
+351           10-5-76     T.S.O. V
+258           11-16-76    T.S.O. V
+356           3-1-77      93.01,
+                          93.02
+359A          5-2-77      T.S.O. V
+363           10-3-77     30.15
+372           4-3-78      T.S.O. V
+                          51.001 -
+                          51.008,
+                          51.020 -
+                          51.027,
+                          51.040,
+                          51.042 -
+                          51.050,
+374           4-3-78      51.060 -
+                          51.063,
+                          51.065 -
+                          51.067,
+                          51.080 -
+                          51.088,
+                          51.998,
+                          51.999
+375           4-3-78      51.100 -
+                          51.106
+380           5-15-78     T.S.O. V
+386           6-19-78     T.S.O. V
+389           8-21-78     T.S.O. V
+393           8-21-78     34.70
+395           8-21-78     T.S.O. V
+283           10-2-78     130.03
+398           12-4-78     T.S.O. V
+400           2-5-79      T.S.O. V
+401           2-5-79      T.S.O. V
+                          73.31 -
+407           3-19-79     73.34,
+                          73.99
+410           6-4-79      T.S.O. I
+412           7-16-79     51.100,
+                          51.101
+416           7-16-79     T.S.O. V
+417           8-20-79     T.S.O. V
+418           8-20-79     T.S.O. V
+430           1-21-80     T.S.O. V
+431           1-21-80     T.S.O. V
+433           4-7-80      90.02
+436           6-2-80      T.S.O. V
+438           7-14-80     T.S.O. V
+445           9-15-80     91.09
+448           10-6-80     34.71
+                          72.10 -
+449           11-17-80    72.13,
+                          72.66 -
+                          72.68
+460           7-20-81     96.02
+469           8-24-81     T.S.O. V
+481           4-5-82      T.S.O. V
+484           6-7-82      71.01,
+                          71.99
+487           8-2-82      T.S.O. V
+488           8-2-82      T.S.O. V
+489           7-19-82     T.S.O. V
+492           8-16-82     30.01
+495           10-4-82     T.S.O. V
+498           11-15-82    32.30 -
+                          32.33
+500           12-20-82    30.01
+502           12-6-82     T.S.O. V
+                          153.01 -
+504           1-3-83      153.08,
+                          153.99
+507           2-21-83     155.01
+508           3-7-83      34.20 -
+                          34.22
+511           7-18-83     T.S.O. I
+523           9-6-83      T.S.O. V
+528           12-5-83     T.S.O. V
+532           12-19-83    T.S.O. V
+534           6-4-84      73.99,
+                          Ch. 74, Sch. I
+541           7-16-84     151.01 -
+                          151.07
+542           7-16-84     34.35 -
+                          34.38
+544           8-20-84     T.S.O. V
+536           10-1-84     T.S.O. I
+542A          1-21-85     T.S.O. V
+547           4-15-85     T.S.O. V
+548           4-15-85     T.S.O. V
+551           6-3-85      T.S.O. II
+557           8-19-85     T.S.O. V
+559           10-21-85    T.S.O. V
+561           12-16-85    32.32
+563           4-21-86     34.50 -
+                          34.55
+564           4-21-86     T.S.O. V
+565           4-21-86     T.S.O. V
+566           5-19-86     T.S.O. V
+573           11-17-86    34.35 -
+                          34.37
+576           3-16-87     T.S.O. V
+577           3-16-87     T.S.O. V
+578           3-2-87      T.S.O. IV
+378           4-18-87     156.01
+579           7-6-87      34.35 -
+                          34.38
+583           7-20-87     T.S.O. V
+585           10-5-87     T.S.O. V
+586           11-16-87    T.S.O. V
+590           5-16-88     T.S.O. V
+591           7-5-88      70.04
+593           9-6-88      30.03
+596           7-18-88     T.S.O. V
+600           12-19-88    T.S.O. V
+602           5-15-89     T.S.O. V
+603           5-15-89     T.S.O. V
+609           9-5-89      T.S.O. IV
+610           9-18-89     T.S.O. V
+89-12         12-4-89     T.S.O. IV
+90-1          2-20-90     T.S.O. V
+90-2          2-20-90     T.S.O. V
+90-4          5-21-90     34.35 -
+                          34.38
+90-6          6-18-90     T.S.O. V
+                          73.10 -
+90-7          8-6-90      73.15,
+                          73.99
+90-9          9-24-90     T.S.O. V
+90-13         12-3-90     T.S.O. IV
+91-1          1-21-91     T.S.O. V
+91-2          4-15-91     52.30 -
+                          52.35
+91-7          5-20-91     T.S.O. V
+91-8          5-20-91     T.S.O. V
+91-9          6-17-91     T.S.O. V
+91-11         7-15-91     32.35 -
+                          32.38
+91-12         7-15-91     T.S.O. V
+91-17         10-7-91     34.56
+92-1          1-20-92     T.S.O. I
+92-3          3-16-92     T.S.O. V
+92-7          7-20-92     T.S.O. V
+                          91.01,
+                          91.03,
+                          91.04,
+92-8          8-3-92      91.11,
+                          91.35 -
+                          91.37.
+                          91.99
+92-10         8-17-92     T.S.O. V
+92-18         12-7-92     T.S.O. V
+92-19         12-21-92    30.01
+93-2          5-17-93     T.S.O. V
+                          97.01 -
+93-6          8-16-93     97.08,
+                          97.10,
+                          97.11
+93-14         10-4-93     T.S.O. V
+93-15         11-1-93     T.S.O. V
+93-17         11-15-93    T.S.O. V
+94-1          1-17-94     T.S.O. V
+94-4          4-18-94     T.S.O. V
+94-6          7-18-94     T.S.O. V
+94-7          7-18-94     T.S.O. V
+94-12         10-17-94    T.S.O. V
+95-1          4-3-95      Ch. 150
+95-2          10-16-95    32.50 -
+                          32.55
+95-3          5-1-95      72.02
+95-6          5-15-95     T.S.O. V
+                          96.15 -
+95-11         9-18-95     96.20,
+                          96.99
+96-2          3-18-96     T.S.O. V
+96-3          4-15-96     T.S.O. V
+96-4          4-15-96     T.S.O. V
+96-8          6-17-96     T.S.O. V
+96-9          7-15-96     T.S.O. V
+97-1          3-3-97      Ch. 110
+97-2          3-3-97      34.80
+97-3          6-2-97      T.S.O. V
+97-4          6-16-97     T.S.O. V
+97-5          6-16-97     T.S.O. V
+97-9          12-1-97     T.S.O. IV
+97-11         12-15-97    T.S.O. V
+97-12         12-15-97    T.S.O. V
+98-1          1-19-98     T.S.O. V
+98-2          1-19-98     T.S.O. V
+                          51.001 -
+                          51.008,
+                          51.020 -
+                          51.027,
+                          51.040 -
+                          51.050,
+98-6          2-27-98     51.060 -
+                          51.063,
+                          51.065 -
+                          51.068,
+                          51.080 -
+                          51.088,
+                          51.998,
+                          51.999
+98-7          3-2-98      51.115 -
+                          51.124
+98-8          5-4-98      32.39
+98-9          4-20-98     T.S.O. V
+98-10         6-15-98     96.03
+98-14         6-15-98     32.55,
+                          32.56
+98-16         9-8-98      Ch. 112
+98-18         12-21-98    T.S.O. V
+99-2          3-15-99     T.S.O. V
+99-3          3-15-99     T.S.O. V
+99-4          3-15-99     T.S.O. V
+99-5          3-15-99     T.S.O. V
+99-6          5-3-99      T.S.O. V
+99-8          7-19-99     T.S.O. V
+99-9          7-19-99     34.73
+99-11         9-7-99      T.S.O. V
+99-12         10-18-99    T.S.O. V
+99-13         11-15-99    T.S.O. V
+99-15         12-20-99    T.S.O. V
+99-16         1-3-00      T.S.O. V
+00-01         2-22-00     72.03,
+                          72.99
+00-02         3-6-00      96.75 -
+                          96.78
+00-09         7-3-00      96.85 -
+                          96.91
+00-10         6-5-00      34.71
+00-11         6-19-00     T.S.O. V
+00-12         6-19-00     T.S.O. V
+00-15         6-20-00     T.S.O. IV
+00-18         8-21-00     T.S.O. V
+00-19         1-2-01      T.S.O. I
+00-20         1-2-01      T.S.O. I
+00-21         11-6-00     T.S.O. I
+00-21         11-20-00    34.81
+00-22         10-16-00    T.S.O. V
+00-23         10-16-00    T.S.O. V
+00-29         1-16-01     52.02
+01-01         2-20-01     51.009
+            2-20-01     96.85 -
+                          96.91
+                          50.30  -
+                          50.33,
+01-02         5-7-01      50.35 -   
+                          50.39,
+                          Ch. 50, Appendix
+01-03         5-7-01      T.S.O. VI
+01-04         5-21-01     T.S.O. V
+             6-4-01      54.03
+01-06         10-1-01     T.S.O. V
+01-07         10-1-01     T.S.O. V
+01-08         10-1-01     T.S.O. V
+01-09         10-1-01     T.S.O. V
+01-11         9-17-01     T.S.O. V
+01-12         9-17-01     T.S.O. V
+01-14         11-5-01     34.90
+01-15         11-19-01    T.S.O. V
+             2-19-02     34.80
+2002-01       3-18-02     T.S.O. V
+2002-02       5-20-02     T.S.O. V
+2002-03       6-17-02     T.S.O. V
+2002-04       6-17-02     T.S.O. V
+                          50.30 -
+2002-05       7-1-02      50.33,
+                          50.36 -
+                          50.39
+                          94.01,
+2002-07       8-5-02      94.02,
+                          94.99
+2002-08       6-16-03     T.S.O. I
+2002-10       9-16-02     T.S.O. V
+                          113.01 -
+2002-12       10-2-02     113.09,
+                          113.99
+                          34.105 -
+2002-13       10-21-02    34.111,
+                          Chapter 34, Appendix
+2002-14       10-21-02    30.01
+2002-16       11-18-02    91.11
+2003-01       1-6-03      156.01
+2003-02       1-6-03      156.01
+2003-03       6-16-03     T.S.O. I
+2003-04       3-17-03     T.S.O. V
+2003-05       4-7-03      32.26
+2003-8        9-15-03     T.S.O. IV
+2003-09       9-15-03     T.S.O. V
+2003-11       12-15-03    T.S.O. V
+2004-03       2-2-04      156.01
+2004-04       2-2-04      156.01
+2004-05       2-17-04     34.100
+2004-06       2-17-04     T.S.O. V
+2004-11       4-19-04     34.74
+                          93.30 -
+2004-13       5-17-04     93.33,
+                          93.99
+2004-14       6-21-04     51.117,
+                          52.02
+                          72.20 -
+2004-15       6-21-04     72.22,
+                          72.99
+2004-16       6-21-04     T.S.O. V
+2004-17       6-21-04     T.S.O. V
+2004-18       6-21-04     156.01
+2004-19       7-19-04     72.99
+2004-21B      8-16-04     T.S.O. V
+2004-22       9-7-04      156.01
+                          95.01 -
+2004-23       10-18-04    95.06,
+                          95.99
+                          72.04,
+                          72.05,
+2004-26       2-22-05     72.55,
+                          72.60,
+                          72.99
+2005-01       2-7-05      T.S.O. V
+2005-03       3-21-05     34.105 -
+                          34.111
+2005-04       3-7-05      156.01
+2005-07       6-6-05      72.40 -
+                          72.44
+2005-09       7-18-05     34.120
+2005-14       12-19-05    T.S.O. V
+2006-01       1-17-06     156.01
+2006-02       2-21-06     156.01
+2006-06       3-20-06     156.01
+2006-07       3-20-06     156.01
+2006-08       4-3-06      34.57
+2006-09       7-3-06      34.75
+2006-11       7-17-06     156.01
+2006-13       8-21-06     156.01
+2006-14       8-21-06     156.01
+                          51.001,
+                          51.061,
+2006-17       12-4-06     51.062,
+                          51.069,
+                          51.080
+2007-01       1-16-07     31.08
+2007-02       2-20-07     31.09
+2007-03       4-2-07      34.76
+2007-04       4-16-07     T.S.O. V
+2007-06       5-21-07     T.S.O. V
+2007-07       5-21-07     T.S.O. V
+2007-09       7-2-07      156.01
+2007-12       10-15-07    93.60,
+                          93.99
+2007-13       11-5-07     51.080
+2008-1        1-22-08     T.S.O. V
+2008-2        1-22-08     T.S.O. V
+2008-3        1-22-08     156.01
+2008-7        4-7-08      31.09
+2008-09       4-21-08     96.49
+2008-11       8-4-08      34.76
+2008-14       8-18-08     156.01
+2008-15       8-18-08     155.01
+2008-20       12-1-08     72.04
+2008-21       12-1-08     95.99
+2008-22       1-20-09     156.01
+2008-23       12-15-08    T.S.O. V
+2009-2        1-20-09     T.S.O. V
+2009-4        1-20-09     156.01
+2009-05       1-20-09     72.12,
+                          72.99
+2009-07       3-2-09      52.06
+2009-09       - -09       156.01
+2009-10       - -09       156.01
+2009-11       6-1-09      156.01
+2009-12       6-1-09      156.01
+2009-13       5-18-09     94.02
+2009-14       7-6-09      156.01
+2009-15       7-6-09      156.01
+2009-16       7-6-09      156.01
+2009-17       7-6-09      156.01
+2009-18       8-3-09      156.01
+2009-24       11-2-09     156.01
+2009-25       11-2-09     156.01
+2009-26       11-2-09     156.01
+2009-27       12-14-09    52.02
+2009-28       12-14-09    51.117
+                          53.01 -
+2010-01       2-1-10      53.06,
+                          53.99
+2010-02       2-1-10      156.01
+2010-03       2-1-10      156.01
+2010-04       3-1-10      31.09
+2010-05       4-5-10      34.71,
+                          34.72
+2010-06       5-3-10      156.01
+2010-07       6-21-10     32.70 -
+                          32.72
+2010-09       8-2-10      156.01
+2010-10       8-2-10      156.01
+                          111.01 -
+2010-11       8-16-10     111.12,
+                          111.99
+2010-12       8-16-10     93.03
+2010-17       11-1-10     156.01
+2011-01       1-18-11     T.S.O. V
+2011-2        5-2-11      156.01
+2011-04       5-16-11     156.01
+2011-6        6-20-11     52.02
+2011-08       7-18-11     156.01
+2011-09       7-18-11     156.01
+2011-10       8-1-11      156.01
+2011-13       9-19-11     T.S.O. V
+2011-014      10-3-11     T.S.O. V
+2011-16       11-21-11    156.01
+2011-17       11-21-11    155.01
+2012-01       1-17-12     T.S.O. V
+                          92.01 -
+2012-02       3-19-12     92.05,
+                          92.99
+2012-03       5-7-12      T.S.O. V
+2012-07       5-21-12     156.01
+2012-08       5-21-12     156.01
+2012-09       5-21-12     156.01
+2012-10       5-21-12     156.01
+2012-11       5-21-12     155.01
+2012-12       6-4-12      31.08
+2012-13       6-4-12      32.33
+Res. 2012-02  6-18-12     50.38
+2012-14       6-18-12     35.01 -
+                          35.05
+2012-16       9-17-12     T.S.O. IV
+2012-23       12-3-12     30.01
+2013-01       10-9-13     157.01
+2013-02       2-19-13     156.01
+2013-03       2-19-13     156.01
+2013-4     3-18-13     53.07
+                          73.45  -
+2013-05       4-15-13     73.56 ,
+                          73.99
+2013-06       4-15-13     156.01
+2013-07       6-24-13     34.37 ,
+                          34.38
+2013-08       8-19-13     34.130
+2013-12       9-25-13     156.01
+2013-13       9-16-13     156.01
+2013-14       12-2-13     156.01
+2013-17       12-16-13    34.140
+Res. 2013-01  4-15-13     T.S.O. VI
+2014-01       1-21-14     156.01
+2014-02       5-19-14     T.S.O. V
+Res. 2014-01  7-9-14      T.S.O. III
+2014-04       7-21-14     51.117
+2014-09       10-27-14    T.S.O. V
+Res. 2014-06  11-3-14     T.S.O. V
+2014-11       11-17-14    T.S.O. V
+Res. 2014-10  12-15-14    T.S.O. III
+2015-01       1-20-15     T.S.O. V
+2015-02       1-20-15     156.01
+2015-03       3-2-15      32.85
+                          51.002,
+                          51.061,
+2015-04       6-22-15     51.062,
+                          51.080,
+                          51.999
+2015-08       8-17-15     T.S.O. V
+2015-09       8-17-15     T.S.O. V
+2015-11       9-21-15     34.82
+2015-15       10-19-15    T.S.O. VI
+2015-17       10-19-15    156.01
+2015-18       10-19-15    156.01
+2015-19       10-19-15    156.01
+2015-20       12-7-15     33.01
+2016-03       3-21-16     35.10
+2016-05       4-4-16      156.01
+2016-06       4-4-16      T.S.O. V
+2016-07       4-4-16      96.87,
+                          96.88
+2016-08       4-18-16     156.01
+2016-09       5-16-16     96.92,
+                          96.93
+2016-10       5-2-16      34.150
+Res. 2016-02  10-3-16     T.S.O. III
+2016-15       10-17-16    35.20
+2016-21       10-17-16    156.01
+2016-23       11-21-16    156.01
+2016-24       11-21-16    156.01
+2016-26       12-19-16    154.02
+2017-02       2-21-17     34.155
+2017-03       3-6-17      34.160
+Res. 2017-03  4-28-17     96.95
+2017-08       7-17-17     T.S.O. V
+2017-09       7-17-17     T.S.O. V
+Res. 2017-06  9-18-17     T.S.O. III
+2017-16       11-6-17     71.03,
+                          71.99
+2017-21       11-20-17    T.S.O. V
+Res. 2017-08  12-1-17     T.S.O. II
+Res. 2017-01  12-11-17    T.S.O. II
+2018-01       1-16-18     T.S.O. IV
+Res. 2018-02  2-20-18     T.S.O. II
+2018-02       3-19-18     97.01 -
+                          97.11
+2018-03       4-2-18      T.S.O. V
+Res. 2018-08  5-21-18     T.S.O. III
+2018-06       7-2-18      34.165
+2018-09       9-4-18      32.53
+2018-10       9-17-18     156.01
+2018-11       9-17-18     156.01
+2018-15       11-19-18    34.170
+2019-01       2-19-19     52.19
+2019-02       2-19-19     156.01
+2019-03       2-19-19     156.01
+2019-04       5-6-19      156.01
+Res. 2019-03  5-20-19     T.S.O. III
+Res. 2019-04  5-20-19     T.S.O. III
+Res. 2019-05  5-20-19     T.S.O. III
+2019-05       8-19-19     156.01
+2019-06       8-19-19     156.01
+2019-07       8-19-19     156.01
+2019-08       8-19-19     156.01
+2019-09       9-16-19     156.01
+2019-10       10-21-19    34.82,
+                          34.83
+                          50.31,
+2019-15       12-16-19    50.38,
+                          51.117
+2019-16       12-16-19    50.31,
+                          52.02
+2020-01       3-16-20     156.01
+2020-02       316-20      156.01,
+                          T.S.O. V
+Res. 2020-02  5-18-20     T.S.O. III
+2020-03       3-16-20     156.01
+2020-04       3-16-20     156.01
+Res. 2020-06  6-15-20     T.S.O. III
+2020-08       10-5-20     51.117
+2020-09       9-21-20     156.01,
+                          T.S.O. V
+2020-10       9-21-20     156.01,
+                          T.S.O. V
+Res. 2020-12  10-19-20    T.S.O. VI
+2020-14       10-19-20    32.27
+2020-16       1-4-21      52.02
+2021-01       5-3-21      34.175 -
+                          34.177
+2021-03       5-17-21     156.01
+2021-04       5-17-21     156.01
+Res. 2021-03  6-21-21     30.23
+2021-05       7-19-21     156.01
+2021-06       8-16-21     T.S.O. V
+2021-13       9-20-21     T.S.O. V
+2021-17       12-6-21     156.01
+2022-01       1-4-22      34.190
+2022-02       1-4-22      34.185
+2022-03       1-4-2022    34.180
+2022-05       3-21-22     156.01
+2022-06       3-21-22     156.01
+Res. 2022-07  6-20-22     T.S.O. II
+2022-09       6-20-22     52.02
+2022-11       7-18-22     156.01
+2022-12       11-21-22    156.01
+2022-19A      10-17-22    T.S.O. V
+2022-20       11-21-22    30.01
+2022-23       11-21-22    156.01
+2022-24       12-19-22    52.02
+2023-01       1-17-23     T.S.O. V
+2023-02       1-17-23     T.S.O. V
+2023-03       6-5-23      96.04
+2023-04       4-17-23     T.S.O. V
+2023-05       6-19-23     50.38
+2023-06       5-15-23     T.S.O. V
+2023-07       5-15-23     T.S.O. V
+2023-08       10-16-23    34.200 -
+                          34.211
+2023-09       7-17-23     T.S.O. V
+Res. 2023-08  8-7-23      T.S.O. III
+2023-10       7-17-23     T.S.O. V
+2023-11       7-17-23     156.01
+2023-12       7-17-23     156.01
+2023-13       7-17-23     156.01
+2023-14       8-7-23      T.S.O. V
+2023-16       9-5-23      T.S.O. V
+2023-17       9-5-23      156.01
+2023-18       9-5-23      156.01
+2023-23       10-16-23    T.S.O. V
+2023-30       1-20-23     T.S.O. V
+Res. 2023-34  12-18-23    T.S.O. III
+2024-01       1-22-24     T.S.O. V
+2024-04       2-20-24     156.01
+2024-07       3-18-24     T.S.O. V
+Res. 2024-03  4-1-24      T.S.O. II
+2024-08       4-15-24     T.S.O. V
+2024-10       5-20-24     T.S.O. IV
+2024-11       7-15-24     156.01
+Res. 2024-04  7-15-24     T.S.O. VI
+2024-12       11-18-24    156.01
+2024-13       10-21-24    51.117
+2024-14       9- -24      95.99
+2024-15       9-16-24     T.S.O. V
+Res. 2024-06  11-4-24     T.S.O. III
+Res. 2024-07  12- -24     T.S.O. III
+Res. 2025-03  2-18-25     34.83
+2025-01       2-18-25     34.76
+2025-02       1-21-25     156.01
+2025-03       2-18-25     156.01
+2025-04       5-5-25      34.35 -
+                          34.38
+2025-05       6-20-25     50.38
+2025-06       5-5-25      32.39
+2025-07       6-16-25     T.S.O. V
+2025-08       8-4-25      51.117
+2025-09       8-4-25      T.S.O. V
+2025-10       7-21-25     156.01
+                          91.60 -
+2025-10       9-15-25     91.64,
+                          91.99
+2025-10A      11-17-25    91.62
+2025-11       7-21-25     156.01
+Res. 20-25-01 11-19-25    T.S.O. III
+2025-18       12-15-25    34.215,
+                          34.216
+Res. 2025-12  12-29-25    T.S.O. III
+                         
  

@@ -2243,11 +2243,11 @@ resolution of the County Council.
 § 33.68 2021 READI GRANT FUND 9114.
    There is hereby established the READI Grant Fund 9114.
 (Ord. 2021-12D, passed 12-21-21)
-§ 33.67 2021 HANCOCK COUNTY PARENTING PROGRAM GRANT FUND 9120.
+*** § 33.67 2021 HANCOCK COUNTY PARENTING PROGRAM GRANT FUND 9120. ***
    There is hereby established the Hancock County Parenting Program Grant Fund
 9120.
 (Ord. 2021-12A, passed 12-7-21)
-§ 33.68 2021 READI GRANT FUND 9114.
+*** § 33.68 2021 READI GRANT FUND 9114. ***
    There is hereby established the READI Grant Fund 9114.
 (Ord. 2021-12D, passed 12-21-21)
 § 33.69 STATE HOMELAND SECURITY GRANT PROGRAM FUND 8962.
@@ -2299,7 +2299,7 @@ Unrestricted Fund 1238.
 § 33.79.3 LOCAL PUBLIC HEALTH SERVICES FUND 1161.
    There is hereby established the Local Public Health Services Fund 1161.
 (Ord. 2023-8B, passed 8-15-23)
-DEPARTMENT OF CORRECTIONS ALTERNATING GRANT FUNDS
+**** DEPARTMENT OF CORRECTIONS ALTERNATING GRANT FUNDS ****
 § 33.80 COMMUNITY CORRECTIONS IDOC GRANT FUND 9121.
    There is hereby established the Community Corrections IDOC Grant Fund 9121.
 (Ord. 2021-12E, passed 12-21-21)
@@ -6179,7 +6179,7 @@ Public and Semi-Public Swimming Pool Rules
 91.88   Enforcement
    
 91.89   Incorporation by reference
-WEEDS AND RANK VEGETATION
+**** WEEDS AND RANK VEGETATION ****
 § 91.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6228,7 +6228,7 @@ under divisions (A) and (B) above to the County Weed Control Board.
 above within ten days after it is mailed to the landowner, the Board shall
 certify it to the County Auditor for collection pursuant to I.C. 36-7-10.1-4.
 (Ord. 1999-3C, passed 3-15-99; Am. Ord. 2007-4B, passed 4-30-07 )
-VECTOR AND PEST ABATEMENT
+**** VECTOR AND PEST ABATEMENT ****
 § 91.10 DEFINITIONS.
    For the purposes of the subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6681,7 +6681,7 @@ State Board of Health before starting any construction work.
 (’86 Code, §§ 4-88; 4-90.8) (Ord. 1989-5B, passed 6-14-89; Am. Ord. 1995-12B,
 12-11-95) Penalty, see
 § 10.99
-MINIMUM STANDARDS FOR RESIDENTIAL PROPERTY AND HOUSING
+**** MINIMUM STANDARDS FOR RESIDENTIAL PROPERTY AND HOUSING ****
 § 91.35 PURPOSES OF RESIDENTIAL PROPERTY AND HOUSING MINIMUM STANDARDS.
    The purposes of this subchapter are to:
    (A)   Prevent and control the incidents of communicable diseases;
@@ -6885,7 +6885,7 @@ forth above, the offending person or entity shall be responsible for repayment
 to the Department of any expense, including but not limited to, attorney's fees
 incurred in said enforcement action.
 (Ord. 2003-3B, passed 3-3-03)
-SMOKING
+**** SMOKING ****
 § 91.50 DEFINITIONS. 
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7183,7 +7183,7 @@ year.
 considered a separate and distinct violation.
 (Ord. 2008-12G, passed 12-15-08; Am. Ord. 2009-7A, passed 8-3-09; Am. Ord.
 2019-9B, passed 9-11-19)
-TATTOO PARLORS AND BODY PIERCING FACILITIES
+**** TATTOO PARLORS AND BODY PIERCING FACILITIES ****
 § 91.60 OPERATION OF TATTOO PARLORS.
    Indiana Administrative Code sections 410 IAC 1-5-1 through 410 IAC 1-5-38
 are incorporated by reference into this subchapter.
@@ -7252,7 +7252,7 @@ enforce this subchapter. The Health Officer shall be entitled to recover all
 costs and expenses associated with any action for enforcement of this
 subchapter including reasonable attorney fees.
 (Ord. 2012-5B, passed 5-29-12)
-PUBLIC AND SEMI-PUBLIC SWIMMING POOL RULES
+**** PUBLIC AND SEMI-PUBLIC SWIMMING POOL RULES ****
 § 91.65 DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates of requires a different meaning.
@@ -9295,7 +9295,7 @@ Unsafe Building Regulations
 Unsafe Building Law
    
 150.400   Unsafe Building Law
-BUILDING CODE
+**** BUILDING CODE ****
 § 150.100 TITLE.
    This subchapter and all material included herein by reference shall be known
 as the “Building Code” of Hancock County, Indiana.
@@ -9673,7 +9673,7 @@ ordinance. If no such administrative body exists, then the person may petition
 a court for judicial review of the order.
 (’86 Code, § 5-28.1) (Ord. 1988-2A, passed 2-16-88; Am. Ord. 2004-3A, passed 3-
 15-04; Am. Ord. 2005-2A, passed 2-7-05)
-DEBRIS CONTROL AND SITE WASTE DISPOSAL
+**** DEBRIS CONTROL AND SITE WASTE DISPOSAL ****
 § 150.200 DEBRIS CONTROL.
    Any person constructing a new structure or when deemed altering or repairing
 of any existing structures shall commit to the Department of Buildings in
@@ -9739,7 +9739,7 @@ $2,500; and
    (C)   Attorney's fees and any other expenses or costs incurred with said
 enforcement action.
 (Ord. of 2004-3A, passed 3-15-04; Am. Ord. 2005-2C, passed 2-7-05)
-UNSAFE BUILDING REGULATIONS
+**** UNSAFE BUILDING REGULATIONS ****
 § 150.300 ADOPTION OF THE UNSAFE BUILDING LAW.
    The County Department of Building hereby adopts I.C. 36-7-9, as amended from
 time to time, which establishes the Indiana Unsafe Building Law.
@@ -9764,7 +9764,7 @@ Building Fund.
    Violations of this subchapter shall be addressed as established in I.C. 36-
 7-9 as it may be amended from time to time.
 (Ord. 2005-2B, passed 2-7-05)
-UNSAFE BUILDING LAW
+**** UNSAFE BUILDING LAW ****
 § 150.400 UNSAFE BUILDING LAW.
    (A)   The Unsafe Building Law as set out in I.C. 36-7-9 is hereby adopted.
    (B)   The department authorized to administer the law is the County
@@ -9885,7 +9885,7 @@ Administration and Enforcement
 152.57   Duties and responsibilities of the Floodplain Administrator
    
 152.58   Violations
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 STATUTORY AUTHORIZATION.
    The Indiana Legislature has in I.C. 36-1-4-11 granted the power to local
 government units to control land use within their jurisdictions. Therefore, the
@@ -10495,7 +10495,7 @@ reliance on this chapter or any administrative decision made lawfully
 thereunder.
 (Ord. 2007-11A, passed 11-5-07; Am. Ord. 2013-12C, passed 1-7-14; Am. Ord.
 2024-7A, passed 7-2-24)
-PROVISIONS FOR FLOOD HAZARD REDUCTION
+**** PROVISIONS FOR FLOOD HAZARD REDUCTION ****
 § 152.24 FLOODPLAIN STATUS STANDARDS.
    (A)   Floodways (riverine). Located within SFHAs, established in §
 152.07, are areas designated as floodways. The floodway is an extremely
@@ -10995,7 +10995,7 @@ increase flood damages or potential flood damages.
 where no FEMA published map is available, shall meet applicable standards as
 required per this subchapter.
 (Ord. 2013-12C, passed 1-7-14; Am. Ord. 2024-7A, passed 7-2-24)
-VARIANCES
+**** VARIANCES ****
 § 152.40 DESIGNATION OF VARIANCE AND APPEALS BOARD.
    The Hancock County Drainage Board as established by I.C. 36-9-27 shall hear
 and decide appeals and requests for variances from requirements of this
@@ -11098,7 +11098,7 @@ conditions to the granting of variances as it deems necessary to further the
 purposes of this chapter.
 (Ord. 2007-11A, passed 11-5-07; Am. Ord. 2013-12C, passed 1-7-14; Am. Ord.
 2024-7A, passed 7-2-24)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 152.55 DESIGNATION OF ADMINISTRATOR.
    The Board of Commissioners of Hancock County hereby appoints the Hancock
 County Surveyor to administer and implement the provisions of this chapter and
@@ -11452,7 +11452,7 @@ Sidewalk Requirements
 Cross-reference:
    Streets and Sidewalks, see
 Chapter 92
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 153.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12386,7 +12386,7 @@ temporary driveway approach. The bond amount shall not be less than $1,000.
    (E)   Fees for a temporary driveway permit shall be the same as for a
 permanent driveway.
 (Ord. 2005-11E, passed 11-28-05)
-SIDEWALK REQUIREMENTS
+**** SIDEWALK REQUIREMENTS ****
 § 153.30 SIDEWALK APPLICATION PROCEDURES.
    (A)   Any person, partnership, company, corporation, association or agency
 intending to construct a sidewalk on the county’s right-of-way shall make
@@ -14027,7 +14027,7 @@ as specified in the Hancock County notification, Hancock County may undertake
 the work and collect from the owner using lien rights if necessary.
 (Ord. 2005-12C, passed 12-12-05; Am. Ord. 2010-10A, passed 10-18-10; Am. Ord.
 2018-11-A, passed 12-5-18; Am. Ord. 2022-10A, passed 10-4-22)
-STORMWATER MANAGEMENT PERMITTING REQUIREMENTS AND PROCEDURES
+**** STORMWATER MANAGEMENT PERMITTING REQUIREMENTS AND PROCEDURES ****
 § 154.601 CONCEPTUAL DRAINAGE PLAN REVIEW.
    In order to gain an understanding of the drainage requirements for a
 specific project, a developer may submit conceptual drainage plans and
@@ -14516,7 +14516,7 @@ will require review and approval from the Hancock County Drainage Board and/or
 Hancock County Surveyor.
 (Ord. 2018-11-A, passed 12-5-18; Am. Ord. 2022-10A, passed 10-4-22)
 Figure_1-2018
-COMPLIANCE AND ENFORCEMENT
+**** COMPLIANCE AND ENFORCEMENT ****
 § 154.701 COMPLIANCE WITH THIS CHAPTER.
    In addition to the requirements of this chapter, compliance with the
 requirements set forth in the local zoning ordinances is also necessary.
@@ -16729,7 +16729,7 @@ By:_________________________ ________________________ __________________,
     President            Secretary          Date
 Void unless recorded before _________________, 20____.
 (Ord. 1993-9G, passed 9-27-93)
-APPENDIX F: PERFORMANCE BOND AGREEMENT FORM
+**** APPENDIX F: PERFORMANCE BOND AGREEMENT FORM ****
 This Performance Bond Agreement is hereby presented by  (name of subdivider),
 the “Principal”, and
                   (name of bonding company), the "Surety Company"
@@ -17907,7 +17907,7 @@ Board.
 office expires, each new appointment is for a term of four years. Each term
 expires on the first Monday of January.
 (Ord. 2015-12C, passed 12-1-15; Am. Ord. 2023-4B, passed 4-4-23)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 156.010 GENERAL ADMINISTRATION.
    (A)   Administrative Officer. The Hancock County Planning Director
 (including any designee(s) of the Planning Director), will have the principal
@@ -18192,7 +18192,7 @@ Cross reference:
 156.002(B)
    Notice of public hearing, see §
 156.101
-ZONING DISTRICTS
+**** ZONING DISTRICTS ****
 § 156.020 ESTABLISHMENT OF ZONING DISTRICTS.
    (A)   Establishment of zoning districts.  For the purpose of this chapter,
 the planning jurisdiction is divided into the following zoning districts. Each
@@ -20572,7 +20572,7 @@ Cross reference:
  156.100 et seq.
    Sign standards, see §§
 156.085 et seq.
-OVERLAY ZONING DISTRICTS
+**** OVERLAY ZONING DISTRICTS ****
 § 156.040 ESTABLISHMENT AND GENERAL STANDARDS.
    (A)   Establishment of overlay districts. The overlay districts noted below
 have been established to provide additional development standards that respond
@@ -21625,7 +21625,7 @@ to the levels necessary, as determined by the county executive.
       (5)   Any other bond or financial assurance measure that the county
 executive finds necessary.
 (Ord. 2024-8B, passed 8-6-24)
-PLANNED UNIT DEVELOPMENT
+**** PLANNED UNIT DEVELOPMENT ****
 § 156.050 PUD, INTENT, USES, AND STANDARDS.
    (A)   Intent.  
       (1)   The purpose of these regulations is to provide greater design
@@ -22240,7 +22240,7 @@ Cross reference:
 Ch. 155
    Zoning map amendments, see §
 156.004
-DEVELOPMENT STANDARDS
+**** DEVELOPMENT STANDARDS ****
 § 156.060 INTRODUCTION AND APPLICATION.
    (A)   Introduction. All structures, land uses, land use changes, structural
 alterations, structural relocations, structural additions, and structural
@@ -26409,7 +26409,7 @@ See §
  
 (Ord. 2007-1B, passed 2-5-07; Am. Ord. 2007-6A, passed 6-4-07; Am. Ord. 2011-
 3E, passed 5-31- 11; Am. Ord. 2015-8B, passed 8-4-15)
-NONCONFORMITIES
+**** NONCONFORMITIES ****
 § 156.090 NONCONFORMING STATUS.
    (A)   Intent.  
       (1)   Upon adoption of this chapter some structures, lots, and uses that
@@ -26640,7 +26640,7 @@ considered to be in violation of this chapter and shall be subject to the
 provisions of §§
 156.115 et. seq.
 (Ord. 2007-1B, passed 2-5-07)
-PROCEDURES AND PERMITS
+**** PROCEDURES AND PERMITS ****
 § 156.100 PETITION AND PERMIT APPLICATION TYPES.
    (A)   Petition applications required. Hancock County requires that an
 application and fee be submitted for the following types of petitions:
@@ -27002,7 +27002,7 @@ administrative decision based on a determination in writing, that the decision
 of the administrative person or board was inconsistent with the provisions of
 this chapter.
 (Ord. 2007-1B, passed 2-5-07)
-§1 56.105 ZONING MAP AMENDMENT APPLICATIONS (REZONES).
+*** §1 56.105 ZONING MAP AMENDMENT APPLICATIONS (REZONES). ***
    The following procedure shall apply to all zoning map amendment ("rezoning")
 applications.
    (A)   Application initiation. Proposals for zoning map amendments may be
@@ -27816,7 +27816,7 @@ Subdivision Control Ordinance, and other applicable requirements. The Planning
 Director may also issue a limited or temporary certificate of occupancy at his/
 her discretion.
 (Ord. 2007-1B, passed 2-5-07)
-ENFORCEMENT AND PENALTIES
+**** ENFORCEMENT AND PENALTIES ****
 § 156.115 GENERAL PROVISIONS.
    (A)   Authority.  The Plan Commission, Board of Zoning Appeals, Building
 Official, County Surveyor, and/or Planning Director (including their staff and/
@@ -28082,7 +28082,7 @@ force at the time the commitment was made; or
          (b)   Specified parties. Any other specially affected person who was
 designated in the written commitment.
 (Ord. 2007-1B, passed 2-5-07)
-DEFINITIONS
+**** DEFINITIONS ****
 § 156.120 DEFINED WORDS.
    Words used in a special sense in this chapter are defined in §
 156.121. All other words, terms, and/or phrases not specifically defined by
