@@ -31,7 +31,7 @@ Bill Mattes     Village Solicitor
 Susan Derwacter Village Engineer
  
 ADOPTING ORDINANCE
-ORDINANCE 2008-14
+**** ORDINANCE 2008-14 ****
 AN ORDINANCE ADOPTING THE CODIFIED ORDINANCES OF THE VILLAGE OF COMMERCIAL
 POINT, AND DECLARING AN EMERGENCY.
    WHEREAS, the ordinances and resolutions of the Village have been codified;
@@ -120,7 +120,7 @@ Chap. 262. Clerk of Mayor’s Court.
 Chap. 280. Federal General Revenue Sharing Trust Fund.
          
 Chap. 281. Continuing Professional Training Fund.
-TITLE TWO - General Provisions
+***** TITLE TWO - General Provisions *****
                
 Chap. 202. Rules of Construction; Definitions; General Code Penalty.
                
@@ -141,7 +141,7 @@ Rules of Construction; Definitions; General Code Penalty
 202.06   General repealer; conflicts.
 202.07   Severability.
 202.99   General Code penalty.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Codification in book form - see Ohio R.C. 731.23
    Imprisonment until fine paid - see Ohio R.C. 1905.30, 2947.14
    Ordinances and resolutions - see ADM.
@@ -381,7 +381,7 @@ this change to Congress. Congress retains the right to resume the 2005 Daylight
 Saving Time schedule once the Department of Energy study is complete.
 There are no sections in Chapter 204. This chapter has been established to
 provide a place for cross references and any future legislation.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    State standard of time - see Ohio R.C. 1.04
    State legal holidays - see Ohio R.C. 1.14, 5.20 et seq., 1303.45
    State flag and other insignia - see Ohio R.C. 5.01 et seq.
@@ -396,7 +396,7 @@ Public Meetings
 206.06   Notification of discussion of specific types of public business.
 206.07   General provisions.
 206.08   Smoking prohibited.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Public meetings - see Ohio R.C. 121.22
 § 206.01 ADOPTION OF RULES.
    The following rules are hereby adopted pursuant to Ohio R.C. 121.22(F) for
@@ -548,7 +548,7 @@ Village Records
 208.01   Creation of Village Records Commission.
 208.02   Function.
 208.03   Disposal of records.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Records commission - municipal corporation - see Ohio R.C. 149.39
 § 208.01 CREATION OF VILLAGE RECORDS COMMISSION.
    (a)   There is hereby created a Village Records Commission (“Commission”)
@@ -583,7 +583,7 @@ historical value.
 CHAPTER 210
 Paying Routine Bills
 210.01   Fiscal Officer action authorized.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Annexation duties - see Ohio R.C. 709.03, 709.06
    Certification of assessments - see Ohio R.C. 727.30, 727.33
    Income tax collection - see Ohio R.C. 733.85
@@ -613,7 +613,7 @@ shall present to the President of Council a written itemized listing of all
 bills paid under authority of this section which have not previously been
 reviewed by Council.
 (Ord. 2005-07, passed 6-6-2005)
-TITLE FOUR - Legislation
+***** TITLE FOUR - Legislation *****
                
 Chap. 220. Council.
                
@@ -641,7 +641,7 @@ meetings.
 220.12   Notice when new bond required.
 220.13   Care, supervision and management of public institutions.
 220.14   Council member salaries.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Passage of ordinances and resolutions - see ADM.
 222.01 et seq.
    Publication of ordinances and resolutions - see ADM.
@@ -839,7 +839,7 @@ circulation.
 222.13   Ordinances providing for appropriations or street improvements;
 emergency ordinances.
 222.14   Ordinances and resolutions as evidence.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Publication where no newspaper printed - see Ohio R.C. 701.04
    Charter method of passage or publication - see Ohio R.C. 701.05
    Annexation - see Ohio R.C. 709.23 et seq.
@@ -1045,7 +1045,7 @@ petitions; ordinances passed or repealed prior to election.
 224.10   Accepting premiums for signing.
 224.11   Threats in securing signatures.
 224.12   Application of chapter if Charter adopted.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Initiative and referendum - see Ohio Const. Art. II, Sec. 1 et seq.; Ohio
 R.C. 3519.01 et seq.
    Transfer of powers to county - see Ohio Const. Art. X, Sec. 1
@@ -1262,7 +1262,7 @@ Contracts
 226.07   Permanent and continuing request for authorization to participate in
 cooperative purchasing programs of the Ohio Department of Transportation
 established pursuant to R.C. § 5513.01(B) and its successors.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Contracts for utility services without advertising for bids - see Ohio R.C.
 9.30
    Contracts for work on public buildings and improvements - see Ohio R.C.
@@ -1479,7 +1479,7 @@ Mayor
 228.12   Disposition of fines and other moneys.
 228.13   Annual report to Council.
 228.14   Salary and benefits.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Contracts - see ADM.
 226.02
 § 228.01 TERM; QUALIFICATIONS; POWERS.
@@ -1624,7 +1624,7 @@ described in divisions (a) and (b) of this section.
 passed 6-5-1971; Am. Ord. 1500.30, passed 12-4-1989; Am. Ord. 2200.17, passed
 11- -1995; Am. Ord. 99-9, passed 11-1-1999; Am. Ord. 2007-31, passed 8-6-2007;
 Am. Ord. 2012-16, passed - -2012; Am. Ord. 2022-14, passed 6-20-2022)
-TITLE SIX - Administration
+***** TITLE SIX - Administration *****
                
 Chap. 230. Village Administrator.
                
@@ -1645,7 +1645,7 @@ CHAPTER 230
 Village Administrator
 230.01   Employment of Village Administrator.
 230.02   Salary.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Streets and public grounds - see Ohio R.C. Ch. 723
    Sidewalks and sewers - see Ohio R.C. Ch. 729
    Water works - see Ohio R.C. 743.01 et seq.
@@ -1677,7 +1677,7 @@ CHAPTER 232
 Village Fiscal Officer
 232.01   Fiscal Officer.
 232.02   Salary.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Annexation duties - see Ohio R.C. 709.03, 709.06
    Certification of assessments - see Ohio R.C. 727.30, 727.33
    Income tax collection - see Ohio R.C. 733.85
@@ -1701,7 +1701,7 @@ Legal Counsel
 234.01   Employment of legal counsel.
 234.02   Salary.
 234.03   Duties.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Appointment in commission plan of government - see Ohio R.C. 705.46
    Approval of leases - see Ohio R.C. 715.011
    Preparation of bonds - see Ohio R.C. 733.70
@@ -1778,7 +1778,7 @@ Police Department
 village.
 236.04   Auxiliary police officers.
 236.05   Position of Captain established.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Recovered property and disposition - see Ohio R.C. 737.29 et seq., 4513.60
 et seq.
    Police Pension and Disability Fund - see Ohio R.C. Ch. 742
@@ -1866,7 +1866,7 @@ Miscellaneous Village Employees
 240.09   Plant operator.
 240.10   Plant superintendent.
 240.11   Part-time Village Engineer.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Public Employee’s Retirement System - see Ohio R.C. Ch. 145
    Strikes by public employees - see Ohio R.C. Ch. 4117
 § 240.01 ZONING INSPECTOR.
@@ -2016,7 +2016,7 @@ Village Council.
 CHAPTER 242
 Employee Guidelines
 242.01   Village of Commercial Point Employee guidelines adopted by reference.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Welfare - see Ohio Const., Art. II, § 34
    Workers’ compensation - see Ohio Const., Art. II, § 35; Ohio R.C. Ch. 4123
    Wages and hours on public works - see Ohio Const., Art. II, § 37; Ohio R.C.
@@ -2940,7 +2940,7 @@ set forth below            forth below, or in violation
                            property and tow away zones
  
 (Ord. 2023-01, passed 4-11-2023)
-TITLE EIGHT - Judiciary
+***** TITLE EIGHT - Judiciary *****
                
 Chap. 260. Magistrate.
                
@@ -2949,7 +2949,7 @@ CHAPTER 260
 Magistrate
 260.01   Mayor authorized to enter into contract for employment.
 260.02   Compensation for magistrate.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Release of Court Clerk’s liability for loss of funds - see Ohio R.C. 131.18
 et seq.
    Municipal Court - see Ohio R.C. Ch. 1901
@@ -2972,7 +2972,7 @@ CHAPTER 262
 Clerk of Mayor’s Court
 262.01   Established.
 262.02   Compensation.
-   CROSS REFERENCES
+**    CROSS REFERENCES **
    Release of Court Clerk’s liability for loss of funds - see Ohio R.C. 131.18
 et seq.
    Municipal Court - see Ohio R.C. Ch. 1901
@@ -2988,7 +2988,7 @@ established.
 fifty dollars ($50.00) per month and with the compensation to be paid
 quarterly.
 (Ord. 04-11, passed 4-5-2004)
-TITLE TEN - Finances
+***** TITLE TEN - Finances *****
                
 Chap. 280. Federal General Revenue Sharing Trust Fund.
                
@@ -3070,7 +3070,7 @@ Chap. 448.   Watercraft.
 Chap. 452.   Parking Generally.
    
 APPENDIX B - Traffic Schedules
-TITLE TWO – Administration, Enforcement and Penalties
+***** TITLE TWO – Administration, Enforcement and Penalties *****
                
 Chap. 402.   Definitions.
                
@@ -4030,7 +4030,7 @@ of suspension that is permitted or required to be imposed for the violation of
 the provision of the Revised Code to which the provision of this traffic code
 is substantially equivalent.
 (R.C. § 4510.05)
-TITLE FOUR – Public Ways and Traffic-control Devices
+***** TITLE FOUR – Public Ways and Traffic-control Devices *****
          
 Chap. 412.   Obstruction and Special Uses of Public Ways.
          
@@ -5089,7 +5089,7 @@ Editor’s note:
    See §§
 408.01 and
 408.02 for general traffic code penalty if no specific penalty is provided.
-TITLE SIX – Operation and Vehicles
+***** TITLE SIX – Operation and Vehicles *****
             
 Chap. 432.   Operation Generally.
             
@@ -15226,7 +15226,7 @@ powercraft powered by more than ten horsepower on the waters in this state.
 Violation of a court order entered under this division is punishable as
 contempt under R.C. Chapter 2705.
 (R.C. § 1547.99(L))
-TITLE EIGHT – Parking
+***** TITLE EIGHT – Parking *****
                   
 Chap. 452.   Parking Generally.
 CHAPTER 452
@@ -32038,7 +32038,7 @@ authorized by law, pursuant to the Ohio Revised Code, no person shall knowingly
 possess, have under the person’s control, convey, or attempt to convey a deadly
 weapon or dangerous ordnance onto these premises.”
 (R.C. § 2923.1212)
-§ 678.17 DEFACED FIREARMS.
+*** § 678.17 DEFACED FIREARMS. ***
    (a)   No person shall do either of the following:
       (1)   Change, alter, remove or obliterate the name of the manufacturer,
 model, manufacturer’s serial number or other mark of identification on a
@@ -32889,7 +32889,7 @@ Chap. 810. Video Service Providers.
 Chap. 820. Income Tax.
          
 Chap. 824. Residential Tax Increment Financing Incentive District.
-TITLE TWO - Business Regulation
+***** TITLE TWO - Business Regulation *****
                
 Chap. 804. Sale of Beer, Liquor or Intoxicating Beverages.
                
@@ -33254,7 +33254,7 @@ Video Service Providers
 CROSS REFERENCES
    The “Video Law” - see Ohio R.C. 1332.21 through 1332.34
 § 810.01 VIDEO SERVICE PROVIDER FEE. (REPEALED)
-TITLE FOUR - Taxation
+***** TITLE FOUR - Taxation *****
                
 Chap. 820. Income Tax.
                
@@ -35795,7 +35795,7 @@ Chap. 1056. Water Availability During Emergencies.
 Chap. 1080. Solid Waste.
          
 Chap. 1082. Street Lighting.
-TITLE FOUR - Utilities
+***** TITLE FOUR - Utilities *****
                
 Chap. 1040. Sanitary Regulations.
                
@@ -37554,7 +37554,7 @@ misdemeanor of the fourth degree.
 1056.03 during the state of water availability emergency shall constitute a
 misdemeanor of the third degree.
 (Ord. 02-14, passed 9-9-2002)
-   TITLE SIX - Other Public Services
+*****    TITLE SIX - Other Public Services *****
                
 Chap. 1080. Solid Waste.
                
@@ -37801,7 +37801,7 @@ Appendix A   Zoning Map
 Appendix B   Text Amendments
          
 Appendix C   Standard Drawings
-TITLE ONE - Subdivision Regulations
+***** TITLE ONE - Subdivision Regulations *****
                
 Chap. 1101.   General Provisions.
                
@@ -38568,8 +38568,8 @@ documents are signed and recorded with the applicable County Auditor and
 Recorder. If the new legal descriptions are not recorded within 30 calendar
 days of approval, the descriptions shall become null and void.
 (Ord. 2020-10, passed 6-15-2020)
-CHAPTER 1109
-Subdivision Application Procedure and Appeal Process
+**** CHAPTER 1109
+Subdivision Application Procedure and Appeal Process ****
 1109.01   Preliminary subdivision plan, submittal and review.
 1109.02   Technical Review Group.
 1109.03   Engineering construction plans, submittal and review.
@@ -40371,7 +40371,7 @@ ATTEST:
                                                      
                   Its                                                            
 ACCEPTED AS TO FORM:
-TITLE THREE - Zoning Administration
+***** TITLE THREE - Zoning Administration *****
                
 Chap. 1131.   General Provisions.
                
@@ -42478,7 +42478,7 @@ destroyed to an extent of more than one-half of its fair value, and provided
 such reconstruction is started within 12 months of such calamity and is
 continued in a reasonable manner until completed.
 (Ord. 2020-10, passed 6-15-2020)
-TITLE FIVE - Zoning Districts
+***** TITLE FIVE - Zoning Districts *****
                
 Chap. 1151.   Districts Established.
                
@@ -47294,7 +47294,7 @@ requirements of these uses, and because their locations cannot be readily
 predetermined, appropriate development standards, requirements, and other
 provisions of this Zoning Code, as appropriate, shall be used.
 (Ord. 2020-10, passed 6-15-2020)
-TITLE SEVEN - Supplemental Zoning Regulations
+***** TITLE SEVEN - Supplemental Zoning Regulations *****
                
 Chap. 1181.   Special Provisions. (with amendment deleting § 1181.06)
                
@@ -50956,7 +50956,7 @@ Chap. 1440. Permits and Fees.
 Chap. 1442. Numbering of Buildings.
          
 Chap. 1444. Flood Damage Reduction.
-TITLE TWO - Building Standards
+***** TITLE TWO - Building Standards *****
                
 Chap. 1420. Ohio Basic Building Code.
                
@@ -51077,7 +51077,7 @@ process established in the O.A.C. 4101.3 with the Ohio Board of Building
 Appeals; and in the case of the CABO code, the adjudication process will be in
 accordance with the established procedures through the City of Circleville.
 (Ord. 2202, passed 3-7-1994)
-TITLE FOUR - Miscellaneous Building Regulations
+***** TITLE FOUR - Miscellaneous Building Regulations *****
                
 Chap. 1440. Permits and Fees.
                
