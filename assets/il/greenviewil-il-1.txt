@@ -421,7 +421,7 @@ Other Officials
 31.62   Certificate of appointment
    
 31.63   Duty to successor
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 QUALIFICATIONS.
    (A)   (1)   A person is not eligible for an elective village office unless
 that person is a qualified elector of the village and has resided in the
@@ -546,7 +546,7 @@ removed a second time for the same offense.
 an appointed officer resigns, he or she shall continue in office until a
 successor has been chosen and has qualified.
 (65 ILCS 5/3.1-30-5(d))
-PRESIDENT
+**** PRESIDENT ****
 § 31.20 ELECTION; TERM; VACANCY.
    (A)   As set forth in 65 ILCS 5/3.1-15-5, the President shall be elected by
 the electors of the village at a general village election held therein.
@@ -614,7 +614,7 @@ take effect during the term for which that President is elected. His or her
 salary shall be fixed 180 days before the beginning of the term for which
 compensation is to be fixed.
 (65 ILCS 5/3.1-50-10)
-CLERK
+**** CLERK ****
 § 31.35 ELECTION; TERM; VACANCY.
    At every other election for Trustees, a Clerk shall also be elected who
 shall hold office for a four-year term. Whenever a vacancy in the office of a
@@ -667,7 +667,7 @@ effect during the term for which that Clerk is elected. His or her salary shall
 be fixed 180 days before the beginning of the term for which compensation is to
 be fixed.
 (65 ILCS 5/3.1-50-10)
-TREASURER
+**** TREASURER ****
 § 31.50 APPOINTMENT; TERM; VACANCY.
    (A)   The President, by and with the advice and consent of the Board of
 Trustees, shall appoint a Village Treasurer.
@@ -828,7 +828,7 @@ the requirements established pursuant to § 6 of the Public Funds Investment Act
 (30 ILCS 235/6) or is otherwise exempt from compliance as authorized by § 6.5
 of that Act (30 ILCS 235/6.5).
 (30 ILCS 225/1)
-OTHER OFFICIALS
+**** OTHER OFFICIALS ****
 § 31.60 APPOINTMENT OF OTHER VILLAGE OFFICIALS.
    The President, with the advice and consent of the Board of Trustees, shall
 appoint such other officers and commissioners as are set forth by ordinance or
@@ -903,7 +903,7 @@ Standing Committees
 32.60   Authority to establish
    
 32.61   Members
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01 COMPOSITION.
    The Board of Trustees shall consist of the President and Trustees.
 (65 ILCS 5/3.1-45-5)
@@ -976,7 +976,7 @@ incurred by the member in attending committee meetings of the Board of Trustees
 or for other expenses incurred by the Trustee in the course of performing
 official duties.
 (65 ILCS 5/3.1-50-5, 3.1-50-10, 3.1-50-15)
-RULES OF PROCEDURE
+**** RULES OF PROCEDURE ****
 § 32.20 PROCEEDINGS BEFORE BOARD OF TRUSTEES.
    (A)   Rules of Order. The current edition of Robert’s Rules of Order shall
 govern the proceedings of the Board of Trustees where applicable and when not
@@ -1026,7 +1026,7 @@ failure to attend) as set forth by ordinance or resolution.
 the Board shall be deferred, for final action thereon, to the next regular
 meeting of the Board after the report is made.
 (65 ILCS 5/3.1-40-35)
-ORDINANCES
+**** ORDINANCES ****
 § 32.40 ORDINANCES AND RULES TO EXECUTE POWERS.
    The Board of Trustees may pass all ordinances and make all rules and
 regulations proper or necessary to carry into effect the powers granted to
@@ -1198,7 +1198,7 @@ standards are available in any public record of the state.
 Statutory reference:
    Incorporation by reference of technical codes and public records, see 50
 ILCS 220/1 et seq.
-STANDING COMMITTEES
+**** STANDING COMMITTEES ****
 § 32.60 AUTHORITY TO ESTABLISH.
    The Board of Trustees may have one or more standing committees with the
 powers, functions and duties established by ordinance.
@@ -1222,7 +1222,7 @@ General Provisions
 33.06   Annual audits and reports
    
 33.07   Contracts
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.01 ADMINISTRATION OF FINANCES; FISCAL YEAR.
    (A)   The Board of Trustees shall control the finances of the village.
 (65 ILCS 5/8-1-1)
@@ -2476,7 +2476,7 @@ Discontinuance of Utility Service
 51.28   Credit extension
    
 51.29   Reinstatement of service
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.01 MONTHLY CHARGES.
    The monthly utility charges established by this code shall be applicable to
 all consumers of the village utility services.
@@ -2564,7 +2564,7 @@ or a sanitary sewage service connection permit to which the application of the
 charges set forth by ordinance or resolution are not definitely applicable, the
 Board of Trustees shall determine the charges to be made in the particular
 situation.
-DISCONTINUANCE OF UTILITY SERVICE
+**** DISCONTINUANCE OF UTILITY SERVICE ****
 § 51.25 NOTICE OF TERMINATION.
    (A)   If the rates and charges for utility service, including all penalties,
 are not paid within 15 days after the due date of the current bill or, if the
@@ -2729,7 +2729,7 @@ Cross-Connection Device Regulations
  
    
 52.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.01 ILLINOIS PLUMBING CODE ADOPTED BY REFERENCE.
    All plumbing henceforth installed within the village shall be installed in
 accordance with the Illinois Plumbing Code, 77 Ill. Admin. Code 890, which is
@@ -2828,7 +2828,7 @@ backflow, if contamination of the potable water supply system occurs through an
 illegal cross-connection or an improperly installed, maintained or repaired
 device, or a device which has been bypassed, must bear the cost of clean-up of
 the potable water supply.
-CROSS-CONNECTION DEVICE REGULATIONS
+**** CROSS-CONNECTION DEVICE REGULATIONS ****
 § 52.15 PURPOSE.
    The purpose of these rules and regulations is:
    (A)   To protect the public water supply system from contamination or
@@ -3279,7 +3279,7 @@ signals
  
    
 70.99   Penalty
-IN GENERAL
+**** IN GENERAL ****
 § 70.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3798,7 +3798,7 @@ are designed for pulling or carrying property, freight, or cargo; and those
 motor vehicles of the First Division remodeled for use and used as vehicles of
 the Second Division.
 (625 ILCS 5/1-217)
-OBEDIENCE TO AND EFFECT OF TRAFFIC LAWS
+**** OBEDIENCE TO AND EFFECT OF TRAFFIC LAWS ****
 § 70.10 OBEDIENCE TO POLICE OFFICERS.
    No person shall wilfully fail or refuse to comply with any lawful order or
 direction of any police officer, firefighter, person authorized by the village
@@ -3861,7 +3861,7 @@ if driving a vehicle, the vehicle shall be marked showing it to be an official
 police vehicle.
 Penalty, see §
 70.99
-TRAFFIC SIGNS, SIGNALS AND MARKINGS
+**** TRAFFIC SIGNS, SIGNALS AND MARKINGS ****
 § 70.30 OBEDIENCE TO TRAFFIC-CONTROL DEVICES.
    (A)   The driver of any vehicle shall obey the instructions of any official
 traffic-control device applicable thereto placed or held in accordance with
@@ -4290,7 +4290,7 @@ Parades
  
    
 71.999   Penalty
-SPEED RESTRICTIONS
+**** SPEED RESTRICTIONS ****
 § 71.001 SPEED LIMITS.
    (A)   (1)   No vehicle may be driven upon any highway of this village at a
 speed which is greater than is reasonable and proper with regard to traffic
@@ -4420,7 +4420,7 @@ block the normal and regular movement of traffic, except when reduced speed is
 necessary for safe operation of his or her vehicle or in compliance with law.
 (625 ILCS 5/11-606(a)) Penalty, see §
 71.999
-TURNING AND STARTING; SIGNALS
+**** TURNING AND STARTING; SIGNALS ****
 § 71.020 REQUIRED POSITION AND METHOD OF TURNING AT INTERSECTIONS.
    (A)   The driver of a vehicle intending to turn at an intersection shall do
 so as follows.
@@ -4511,7 +4511,7 @@ right side of the bicycle; and
    (C)   Stop or decrease of speed. Hand and arm extended downward.
 (625 ILCS 5/11-806) Penalty, see §
 71.999
-OVERTAKING AND PASSING
+**** OVERTAKING AND PASSING ****
 § 71.040 DRIVING ON RIGHT SIDE OF ROADWAY; EXCEPTIONS.
    (A)   Upon all roadways of sufficient width, a vehicle shall be driven upon
 the right half of the roadway, except as follows:
@@ -4770,7 +4770,7 @@ directions of every such device.
 with 625 ILCS 5/11-907, 625 ILCS 5/11-907.5 or 625 ILCS 5/11-908.
 (625 ILCS 5/11-709) Penalty, see §
 71.999
-RIGHT-OF-WAY
+**** RIGHT-OF-WAY ****
 § 71.060 VEHICLES APPROACHING OR ENTERING INTERSECTION.
    When two vehicles approach or enter an intersection from different roadways
 at approximately the same time, the driver of the vehicle on the left must
@@ -4899,7 +4899,7 @@ funeral procession, a funeral director or his or her designee may direct
 traffic during a funeral procession.
 (625 ILCS 5/11-1420) Penalty, see §
 71.999
-SPECIAL STOPS REQUIRED
+**** SPECIAL STOPS REQUIRED ****
 § 71.080 OBEDIENCE TO SIGNAL INDICATING APPROACH OF TRAIN OR RAILROAD TRACK
 EQUIPMENT.
    (A)   (1)   Whenever any person driving a vehicle approaches a railroad
@@ -5063,7 +5063,7 @@ train or other railroad equipment using the rails, notwithstanding any traffic-
 control signal indication to proceed.
 (625 ILCS 5/11-1425(a) - (b-5)) Penalty, see §
 71.999
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 71.095 BACKING.
    (A)   The driver of a vehicle shall not back the same unless the movement
 can be made with safety and without interfering with other traffic.
@@ -5180,7 +5180,7 @@ place of work or repair.
 except at entrances and exits established by public authority.
 (625 ILCS 5/11-711) Penalty, see §
 71.999
-PARADES
+**** PARADES ****
 § 71.120 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5479,7 +5479,7 @@ Violations
  
    
 72.99   Penalty
-METHOD OF PARKING
+**** METHOD OF PARKING ****
 § 72.01 GENERAL PARKING REGULATIONS.
    (A)   Except as otherwise provided in this section, every vehicle stopped or
 parked upon a two-way roadway shall be so stopped or parked with the right-hand
@@ -5508,7 +5508,7 @@ unattended motor vehicle shall not include an unattended locked motor vehicle
 with the engine running after being started by a remote starter system.
 (625 ILCS 5/11-1401) Penalty, see §
 72.99
-RESTRICTIONS ON STOPPING, STANDING AND PARKING
+**** RESTRICTIONS ON STOPPING, STANDING AND PARKING ****
 § 72.10 STOPPING, STANDING OR PARKING PROHIBITED IN SPECIFIED PLACES.
    (A)   Except when necessary to avoid conflict with other traffic, or in
 compliance with law or the directions of a police officer, or an official
@@ -5661,7 +5661,7 @@ violation of this section.
 (625 ILCS 5/11-1301.3(g))
 Penalty, see §
 72.99
-SNOW EMERGENCIES
+**** SNOW EMERGENCIES ****
 § 72.25 ANNOUNCEMENT OF SNOW EMERGENCY.
    Whenever the Village President finds that falling snow, sleet or freezing
 rain will create a condition which makes it necessary that the parking of motor
@@ -5692,7 +5692,7 @@ between 6:00 a.m. and 11:00 p.m., it shall be repeated between those hours.
    The term SNOW EMERGENCY ROUTE shall mean any route designated by the Village
 President. On such street or highway designated as a snow emergency route,
 special signs shall be posted to this effect.
-VIOLATIONS
+**** VIOLATIONS ****
 § 72.40 OFFICERS AUTHORIZED TO REMOVE VEHICLES.
    (A)   Whenever any police officer finds a vehicle in violation of any of the
 provisions of §
@@ -5813,7 +5813,7 @@ Motorcycles and Mopeds
 73.24   Lamps on mopeds
    
 73.25   Riding on mopeds
-BICYCLES
+**** BICYCLES ****
 § 73.01 TRAFFIC LAWS APPLY TO PERSONS RIDING BICYCLES.
    Every person riding a bicycle upon a highway shall be granted all of the
 rights, including, but not limited to, rights under 625 ILCS 5/11-901 et seq.,
@@ -5906,7 +5906,7 @@ prescribed by the State Department of Transportation.
 equipped with an essentially colorless front-facing reflector.
 (625 ILCS 5/11-1507) Penalty, see §
 70.99
-MOTORCYCLES AND MOPEDS
+**** MOTORCYCLES AND MOPEDS ****
 § 73.20 RIDING ON MOTORCYCLES.
    (A)   A person operating a motorcycle shall ride only upon the permanent and
 regular seat attached thereto, and the operator shall not carry any other
@@ -6236,7 +6236,7 @@ Loads
 75.13   Spilling loads prohibited
    
 75.14   Pushing of disabled vehicles
-EQUIPMENT
+**** EQUIPMENT ****
 § 75.01 SCOPE AND EFFECT OF EQUIPMENT REQUIREMENTS.
    (A)   It is unlawful for any person to drive or move, or for the owner to
 cause or knowingly permit to be driven or moved on any highway any vehicle or
@@ -6258,7 +6258,7 @@ fertilizer to a field applicator from a local source of supply to the farm or
 field or from one farm or field to another.
 (625 ILCS 5/12-101) Penalty, see §
 70.99
-LOADS
+**** LOADS ****
 § 75.10 SCOPE AND EFFECT OF SIZE, WEIGHT AND LOAD REGULATIONS.
    (A)   It is unlawful for any person to drive or move on, upon or across, or
 for the owner to cause to knowingly permit to be driven or moved on, upon or
@@ -7178,7 +7178,7 @@ Administration; Enforcement
  
    
 91.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7384,7 +7384,7 @@ expense.
    (E)   No animal will be released by a veterinarian from impoundment to the
 owner or keeper following treatment of an injury until a release is received
 from the village showing payment of impoundment fees.
-DOG INOCULATION; LICENSING
+**** DOG INOCULATION; LICENSING ****
 § 91.25 INOCULATION OF DOGS; INOCULATION TAG AFFIXED TO COLLARS.
    (A)   Each calendar year, or at intervals as may hereafter be promulgated by
 the Department of Agriculture, every owner or keeper of a dog which is four
@@ -7441,7 +7441,7 @@ tag to be attached to a collar or harness worn by the dog at all times.
    (F)   Should a village identification tag be lost during a year of which the
 dog tax has been paid, the Clerk shall reissue the tag for the remainder of the
 year upon payment of $0.50.
-ADMINISTRATION; ENFORCEMENT
+**** ADMINISTRATION; ENFORCEMENT ****
 § 91.40 INTERFERENCE WITH ENFORCEMENT PROHIBITED.
    No person shall in any way interfere with any person who is known to the
 person to be or who identifies himself or herself to be and is, in fact, a
@@ -7734,7 +7734,7 @@ Open Burning
  
    
 93.99   Penalty
-FIREWORKS
+**** FIREWORKS ****
 § 93.01 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7830,7 +7830,7 @@ to the military or naval forces of the United States, nor to the duly
 authorized militia of the state, nor to the use of signals necessary for the
 safe operation of railroads, steamboats, trucks or aircraft.
 (425 ILCS 30/23)
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 93.15 FIRE PREVENTION CODE ADOPTED.
    All construction, operation and maintenance of buildings and structures in
 the village shall conform with the applicable provisions of the fire code or
@@ -7850,7 +7850,7 @@ or property.
 Statutory reference:
    Power of village to regulate storage of combustible or explosive material,
 see 65 ILCS 5/11-8-4
-OPEN BURNING
+**** OPEN BURNING ****
 § 93.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7976,7 +7976,7 @@ Enforcement
 Statutory reference:
    Authority of village to promote health and suppress disease, see 65 ILCS 5/
 11-20-5
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 DUTY TO KEEP PREMISES CLEAN.
    The owner or occupant of every lot or building, or any appurtenances
 thereof, shall keep every part thereof free from filth or anything offensive
@@ -8040,7 +8040,7 @@ on any private property in the village, the point of the planting of which
 shall be within 45 feet of any public sewer, drain or water pipe.
 Penalty, see §
 94.99
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 94.20 PUBLIC HEALTH VIOLATION TICKET.
    (A)   The authorized village officer shall have the authority to issue a
 public health violation ticket to any person who shall violate the provisions
@@ -8223,7 +8223,7 @@ Plants and Weeds
  
    
 96.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 96.01 ENUMERATION OF PARTICULAR NUISANCES.
    The presence of the following within the village is declared to be
 detrimental to the public health, safety and welfare and constitutes a
@@ -8270,7 +8270,7 @@ correct the nuisance.
 Cross-reference:
    Public health violation ticket, see
 Ch. 94
-PLANTS AND WEEDS
+**** PLANTS AND WEEDS ****
 § 96.15 WEEDS DECLARED TO BE NUISANCE.
    Any weeds such as jimson, burdock, ragweed, thistle, cockleburr, wild
 lettuce or other weeds of a like kind found growing in any lot or tract of land
@@ -8422,7 +8422,7 @@ Moving Buildings
  
    
 97.999   Penalty
-IN GENERAL
+**** IN GENERAL ****
 § 97.001 DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -8486,7 +8486,7 @@ of any building owned, occupied or controlled by him or her, to spread over the
 sidewalk in front of same.
 Penalty, see §
 97.999
-OBSTRUCTIONS AND ENCROACHMENTS
+**** OBSTRUCTIONS AND ENCROACHMENTS ****
 § 97.015 UNAUTHORIZED OBSTRUCTION OR ENCUMBRANCES.
    (A)   No person shall place, throw or leave, or cause to be placed, thrown
 or left any obstruction or encumbrance in or on any street, alley, sidewalk or
@@ -8812,7 +8812,7 @@ as at street intersections.
 and material prescribed by the village.
 Penalty, see §
 97.999
-MOVING BUILDINGS
+**** MOVING BUILDINGS ****
 § 97.080 PERMIT REQUIRED.
    No person shall move any building on, through or over any street, alley,
 sidewalk or other public place in the village without first obtaining a permit
@@ -9410,7 +9410,7 @@ Violations
  
    
 111.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 111.01 DEFINITIONS.
    All words and phrases used in this chapter and not otherwise defined herein,
 which are defined in the Liquor Control Act of 1934, 235 ILCS 5/1-1 et seq., as
@@ -9911,7 +9911,7 @@ to be framed and hung in plain view in a conspicuous place on the licensed
 premises.
 Penalty, see §
 111.99
-LOCATION, BUILDING AND PREMISES RESTRICTIONS
+**** LOCATION, BUILDING AND PREMISES RESTRICTIONS ****
 § 111.30 LOCATION RESTRICTIONS.
    (A)   No license shall be issued for the sale at retail of any alcoholic
 liquor within 100 feet of any church, school, hospital, home for the aged or
@@ -10116,7 +10116,7 @@ the direct supervision and approval of the parents or parent of the underage
 person in the privacy of a home.
 Penalty, see §
 111.99
-VIOLATIONS
+**** VIOLATIONS ****
 § 111.50 VIOLATION OF TAX ACTS.
    (A)   In addition to other grounds specified in this chapter, the Local
 Commissioner, upon the complaint of the State Department of Revenue, may refuse
@@ -11495,7 +11495,7 @@ vehicle
  
    
 136.99   Penalty
-LITTER
+**** LITTER ****
 § 136.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11647,7 +11647,7 @@ Deadly Weapons
 137.99   Penalty
 Statutory reference:
    Firearms and ammunition registration, see 430 ILCS 65/0.01 through 16-3
-DEADLY WEAPONS
+**** DEADLY WEAPONS ****
 § 137.01 UNLAWFUL USE OF WEAPONS.
    (A)   A person commits the offense of unlawful use of weapons when he or she
 knowingly:
@@ -12070,7 +12070,7 @@ Required Improvements
 150.43   Acceptance of streets and improvements
    
 150.44   Financing of certain improvements
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 TITLE AND PURPOSE.
    (A)   This chapter shall be known and cited as the “Subdivision Control
 Regulations of the village” or “this chapter.”
@@ -12274,7 +12274,7 @@ shall pay to the village 1.5% of the estimated cost, as approved by the Village
 Engineer, of construction of the public improvements in the proposed
 subdivision. The payment shall be due prior to the recording of the final plat
 by the village.
-PLAT PROCEDURES
+**** PLAT PROCEDURES ****
 § 150.20 PREAPPLICATION CONFERENCE.
    (A)   Prior to the filing of an application for the approval of a
 preliminary plat, the subdivider may consult with the Plan Commission in order
@@ -12591,7 +12591,7 @@ render its report within 30 days of the filing of the application for approval
 of the add-on condominium plat or within 30 days from the date of filing the
 last required document, whichever is later. The applicant and the Board may
 mutually agree to extend the 30-day period.
-REQUIRED IMPROVEMENTS
+**** REQUIRED IMPROVEMENTS ****
 § 150.40 STORM WATER RUNOFF CONTROL.
    An adequate system of storm water runoff control drainage shall be
 constructed and installed in accordance with sound engineering practices as
@@ -13268,7 +13268,7 @@ Operation Regulations
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13331,7 +13331,7 @@ forth in §
 Thereafter, the mobile home park shall be subject to license renewals in
 accordance with §
 152.28 of this chapter.
-PERMIT AND LICENSE REQUIREMENTS
+**** PERMIT AND LICENSE REQUIREMENTS ****
 § 152.20 APPLICATION FOR PERMIT TO CONSTRUCT NEW PARK; FEE.
    (A)   In order to obtain a permit to construct a new mobile home park, the
 applicant shall file with the Village Clerk a written application, including
@@ -13489,7 +13489,7 @@ a file thereof.
 records shall show the names and addresses of all parks, names and addresses of
 the licensees, number of mobile home lots in each park, source of water supply
 and system of sewage and garbage disposal.
-OPERATION REGULATIONS
+**** OPERATION REGULATIONS ****
 § 152.50 COMPLIANCE REQUIRED.
    Each mobile home park licensed or to be constructed under the provisions of
 this chapter shall be operated and maintained in accordance with the

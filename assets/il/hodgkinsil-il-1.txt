@@ -12,7 +12,7 @@ American Legal Publishing
 Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
-PREFACE
+***** PREFACE *****
    This code of the Village of Hodgkins, as supplemented, contains ordinances
 up to and including ordinance 22-08, passed October 10, 2022. Ordinances of the
 Village adopted after said ordinance supersede the provisions of this code to
@@ -28,7 +28,7 @@ Please contact the office of the clerk if there are any questions concerning
 the ordinances listed.
  
 ADOPTING ORDINANCE
-ORDINANCE NO. 16-15
+***** ORDINANCE NO. 16-15 *****
    AN ORDINANCE ADOPTING THE HODGKINS, IL VILLAGE CODE
 BE IT ORDAINED by the President and Board of Trustees of the Village of
 Hodgkins, Illinois, as follows:
@@ -84,8 +84,8 @@ ATTEST:
 Published by me on 10th day of October, 2016
 TITLE 1
 ADMINISTRATION
-CHAPTER 1
-HODGKINS VILLAGE CODE
+***** CHAPTER 1
+HODGKINS VILLAGE CODE *****
 SECTION:
 1-1-1: Title
 1-1-2: Acceptance
@@ -155,8 +155,8 @@ to the Illinois municipal league. (1985 Code § 1-1-5)
 wishing to obtain a copy of this code shall pay to the village a purchase price
 of fifty dollars ($50.00) per copy. (1985 Code § 1-1-5; amd. Ord. 91-2, 2-11-
 1991)
-CHAPTER 2
-SAVING CLAUSE
+***** CHAPTER 2
+SAVING CLAUSE *****
 SECTION:
 1-2-1: Repeal Of General Ordinances
 1-2-2: Court Proceedings
@@ -210,8 +210,8 @@ that it would have passed each section, subsection, paragraph, sentence, clause
 or phrase thereof irrespective of the fact that any one or more sections,
 subsections, paragraphs, sentences, clauses or phrases be declared
 unconstitutional, invalid or ineffective. (1985 Code § 1-2-4; amd. 2016 Code)
-CHAPTER 3
-DEFINITIONS; INTERPRETATION
+***** CHAPTER 3
+DEFINITIONS; INTERPRETATION *****
 SECTION:
 1-3-1: General Rules Of Interpretation
 1-3-2: General Definitions
@@ -323,8 +323,8 @@ in any manner affect the scope, meaning or intent of the provisions of any
 section hereof, nor unless expressly so provided, shall they be so deemed when
 any of such sections, including the catchlines, are amended or reenacted. (1985
 Code § 1-3-3; amd. 2016 Code)
-CHAPTER 4
-GENERAL PENALTY
+***** CHAPTER 4
+GENERAL PENALTY *****
 SECTION:
 1-4-1: General Penalty
 1-4-2: Application Of Provisions
@@ -434,8 +434,8 @@ or penalty provided for a failure to perform such duty, unless the intention of
 the village president and board of trustees to impose such fine or penalty on
 such officer or employee is specifically and clearly expressed in the section
 creating the duty. (1985 Code § 1-4-3)
-CHAPTER 5
-VILLAGE PRESIDENT
+***** CHAPTER 5
+VILLAGE PRESIDENT *****
 SECTION:
 1-5-1: Election; Qualifications
 1-5-2: Bond; Compensation
@@ -562,8 +562,8 @@ discharge the duties of the office of president in accordance with this
 subsection C, such persons shall serve in their designated capacities at the
 pleasure of the village and may be removed or replaced by the village at any
 time, with or without cause. (Ord. 05-07, 2-14-2005)
-CHAPTER 6
-VILLAGE BOARD OF TRUSTEES
+***** CHAPTER 6
+VILLAGE BOARD OF TRUSTEES *****
 SECTION:
 1-6-1: Election; Qualifications; Functions
 1-6-2: Compensation
@@ -841,8 +841,8 @@ privileged and have precedence in the order named.
 Rule 21. The following motions are permitted: motion to approve or adopt,
 motion to deny, motion to reconsider, and motion to take from the table. (1985
 Code § 1-6-6)
-CHAPTER 7
-VILLAGE CLERK
+***** CHAPTER 7
+VILLAGE CLERK *****
 SECTION:
 1-7-1: Bond; Compensation
 1-7-2: Duties
@@ -931,8 +931,8 @@ may not exceed the term of the appointing clerk.
    B.   Powers And Duties: The deputy clerk shall have the powers and duties
 set forth in state law and such other duties as the village clerk and the board
 of trustees shall prescribe. (Ord. 91-2, 2-11-1991)
-CHAPTER 8
-VILLAGE OFFICERS AND PERSONNEL
+***** CHAPTER 8
+VILLAGE OFFICERS AND PERSONNEL *****
 SECTION:
 1-8-1: Appointive Officers Designated; Terms
 1-8-2: Oath Of Office
@@ -1110,7 +1110,7 @@ and standards of the United States Department of Labor, Occupational Safety and
 Health Administration and the Illinois Department of Labor as are currently in
 full force and effect and as they are from time to time amended. (Ord. 97-16,
 5-12-1997)
-ARTICLE A. VILLAGE ATTORNEY
+**** ARTICLE A. VILLAGE ATTORNEY ****
 SECTION:
 1-8A-1: Duties
 1-8A-2: Compensation
@@ -1154,7 +1154,7 @@ with the board. (1985 Code § 1-8A-2)
 receive such compensation as shall be provided in the ordinance authorizing the
 improvement, but not less than four and one-half percent (4.5%) of the
 estimated total cost of the improvement. (1985 Code § 1-8A-2; amd. 2016 Code)
-ARTICLE B. VILLAGE PROSECUTOR
+**** ARTICLE B. VILLAGE PROSECUTOR ****
 SECTION:
 1-8B-1: Office Created; Appointment; Qualifications
 1-8B-2: Duties
@@ -1181,7 +1181,7 @@ Notes
 1-8B-3: COMPENSATION:
 The salary of the village prosecutor shall be as prescribed by the board of
 trustees. (1985 Code § 1-8B-3)
-ARTICLE C. VILLAGE COMPTROLLER
+**** ARTICLE C. VILLAGE COMPTROLLER ****
 SECTION:
 1-8C-1: Appointment; Term Of Office
 1-8C-2: Bond
@@ -1294,7 +1294,7 @@ the village board of trustees. (2016 Code)
 The comptroller shall be the finance officer and shall perform all duties of
 that office which shall, from time to time, be prescribed by ordinance. (1985
 Code § 1-8C-5; amd. 2016 Code)
-ARTICLE D. VILLAGE ENGINEER
+**** ARTICLE D. VILLAGE ENGINEER ****
 SECTION:
 1-8D-1: Appointment; Term Of Office
 1-8D-2: Duties
@@ -1316,7 +1316,7 @@ done, and if any improvement is rejected by court or discontinued by vote of
 the village board, he shall be paid for his work on a quantum meruit basis,
 plus one hundred percent (100%) for his cost, profit and overhead. (1985 Code §
 1-8E-3)
-ARTICLE E. TAX INCREMENT FINANCE ADMINISTRATOR
+**** ARTICLE E. TAX INCREMENT FINANCE ADMINISTRATOR ****
 SECTION:
 1-8E-1: Appointment; Compensation
 1-8E-2: Duties
@@ -1346,8 +1346,8 @@ board of trustees. (Ord. 96-2, 1-8-1996)
 1-8E-3: ASSISTANT ADMINISTRATOR:
 The village comptroller shall serve as the assistant tax increment finance
 administrator. (2016 Code)
-CHAPTER 9
-ETHICS
+***** CHAPTER 9
+ETHICS *****
 SECTION:
 1-9-1: Definitions
 1-9-2: Prohibited Political Activities
@@ -1608,8 +1608,8 @@ violates any provision of section
 1-9-2 or
 1-9-3 of this chapter is subject to discipline or discharge. (Ord. 04-06, 5-10-
 2004)
-CHAPTER 10
-IDENTITY PROTECTION
+***** CHAPTER 10
+IDENTITY PROTECTION *****
 SECTION:
 1-10-1: Social Security Numbers
 1-10-2: Municipal Utility Identity Theft Prevention Program
@@ -1646,8 +1646,8 @@ implementation of the program may be made by the program administrator,
 however, major changes or shifts of policy positions under the program shall be
 reported to the president and village board of trustees. (Ord. 11-07, 7-11-
 2011)
-CHAPTER 11
-COMPREHENSIVE PLAN
+***** CHAPTER 11
+COMPREHENSIVE PLAN *****
 SECTION:
 1-11-1: Short Title
 1-11-2: Purpose
@@ -1692,8 +1692,8 @@ either through duplication in advance of contemplated demand or upon order as
 required. The copies of the comprehensive plan ordinance shall be in addition
 to the original copy which the statutes require the clerk to keep as part of
 the official record of enacted ordinances. (Ord. 86-20, 12-30-1986)
-CHAPTER 12
-MISCELLANEOUS ADMINISTRATIVE PROVISIONS
+***** CHAPTER 12
+MISCELLANEOUS ADMINISTRATIVE PROVISIONS *****
 SECTION:
 1-12-1: Corporate Seal
 1-12-2: Ordinances
@@ -1743,8 +1743,8 @@ by ordinance. (1985 Code § 1-10-4)
 The village hall shall be the archive, and all records, documents and papers
 not being currently used by the clerk shall be kept therein. (1985 Code § 1-10-
 5)
-CHAPTER 13
-PUBLIC SAFETY EMPLOYEE BENEFITS
+***** CHAPTER 13
+PUBLIC SAFETY EMPLOYEE BENEFITS *****
 SECTION:
 1-13-1: Purpose
 1-13-2: Application Procedure
@@ -1957,8 +1957,8 @@ coverage and/or adjust health insurance benefits accordingly. (Ord. 18-06, 3-
 12-2018)
 TITLE 2
 BOARDS AND COMMISSIONS
-CHAPTER 1
-BOARD OF LOCAL IMPROVEMENTS
+***** CHAPTER 1
+BOARD OF LOCAL IMPROVEMENTS *****
 SECTION:
 2-1-1: Board Created; Powers And Duties
 2-1-2: Membership; Compensation
@@ -1980,8 +1980,8 @@ secretary shall receive compensation for their duties on the board. (1985 Code
 The village attorney shall be the attorney for the board of local improvements
 and shall receive as his compensation the amount set forth in section
  1-8A-2 of this code. (1985 Code § 2-1-3; amd. 2016 Code)
-CHAPTER 2
-CIVIL SERVICE COMMISSION
+***** CHAPTER 2
+CIVIL SERVICE COMMISSION *****
 SECTION:
 2-2-1: Commission Created; Membership; Appointment And Term
 2-2-2: Meeting Place
@@ -2013,8 +2013,8 @@ member. (Ord. 96-3, 1-8-1996; amd. Ord. 06-23, 12-19-2006)
 The rules of the civil service commission, as amended, previously adopted by
 reference by the village, are hereby adopted nunc pro tunc. (Ord. 94-23, 10-10-
 1994)
-CHAPTER 3
-EMERGENCY SERVICES AND DISASTER AGENCY (ESDA)
+***** CHAPTER 3
+EMERGENCY SERVICES AND DISASTER AGENCY (ESDA) *****
 SECTION:
 2-3-1: Agency Established; Membership
 2-3-2: Coordinator And Assistant Coordinator
@@ -2171,8 +2171,8 @@ elsewhere, as may be provided for by the president, for the ESDA as its office.
 2-3-13: APPROPRIATION:
 The village may make an appropriation for ESDA purposes in the manner provided
 by law. (Ord. 99-3, 3-8-1999)
-CHAPTER 4
-ZONING BOARD OF APPEALS
+***** CHAPTER 4
+ZONING BOARD OF APPEALS *****
 SECTION:
 2-4-1: Board Created; Membership; Term Of Office
 2-4-2: Powers And Duties
@@ -2214,8 +2214,8 @@ hearings attended. (Ord. 95-19, 9-11-1995; amd. Ord. 06-24, 12-19-2006)
 A nonmember of the board or the village attorney shall act as secretary to the
 zoning board of appeals and shall ensure that the applications are processed
 and hearings are conducted in accordance with the law. (1985 Code § 2-4-4)
-CHAPTER 5
-PLAN COMMISSION
+***** CHAPTER 5
+PLAN COMMISSION *****
 SECTION:
 2-5-1: Commission Created; Membership; Term Of Office
 2-5-2: Powers And Duties
@@ -2251,8 +2251,8 @@ on the same day as a meeting of the zoning board of appeals. (1985 Code § 2-5-
 A nonmember of the commission or the village attorney shall act as secretary to
 the plan commission and shall ensure that the proceedings are conducted in
 accordance with the law. (1985 Code § 2-5-4)
-CHAPTER 6
-HUMAN RELATIONS COMMISSION
+***** CHAPTER 6
+HUMAN RELATIONS COMMISSION *****
 SECTION:
 2-6-1: Commission Created
 2-6-2: Membership, Secretary And Compensation
@@ -2294,8 +2294,8 @@ and shall receive as his compensation the amount set forth in section
 1-8A-2 of this code. (Ord. 94-3, 2-14-1994)
 TITLE 3
 FINANCES AND TAXATION
-CHAPTER 1
-GENERAL FINANCE PROVISIONS
+***** CHAPTER 1
+GENERAL FINANCE PROVISIONS *****
 SECTION:
 3-1-1: Appropriations
 3-1-2: Annual Tax Levy Ordinance
@@ -2346,8 +2346,8 @@ to, engineering, planning or legal service, the party making the request shall
 reimburse the village for its cost of such professional services otherwise
 provided by the president and board of trustees. (1985 Code § 1-10-6; amd. 2016
 Code)
-CHAPTER 2
-CONTRACTS AND PURCHASES
+***** CHAPTER 2
+CONTRACTS AND PURCHASES *****
 SECTION:
 3-2-1: General Requirements
 3-2-2: Workers' Compensation And Liability Insurances
@@ -2525,9 +2525,10 @@ All the provisions set forth in the Hodgkins Village Code concerning equal
 employment opportunity as required by the Illinois Fair Employment Practices
 Commission are herein incorporated by reference.
 (1985 Code § 1-9-5-3)
-CHAPTER 3
-VILLAGE TAXES
-ARTICLE A. MUNICIPAL RETAILERS' OCCUPATION, SERVICE OCCUPATION AND USE TAXES
+***** CHAPTER 3
+VILLAGE TAXES *****
+**** ARTICLE A. MUNICIPAL RETAILERS' OCCUPATION, SERVICE OCCUPATION AND USE
+TAXES ****
 SECTION:
 3-3A-1: Municipal Retailers' Occupation Tax
 3-3A-2: Municipal Service Occupation Tax
@@ -2592,7 +2593,7 @@ sections 2(e) and 3 of the service occupation tax act, and section 3 of the use
 tax act for machinery and equipment used directly and exclusively in the
 manufacture of tangible personal property for resale shall not apply to the
 taxes imposed by this article. (1985 Code § 3-2-4)
-ARTICLE B. AMUSEMENT TAX
+**** ARTICLE B. AMUSEMENT TAX ****
 SECTION:
 3-3B-1: Definition
 3-3B-2: Tax Imposed; Amount
@@ -2687,7 +2688,7 @@ with respect to which the violations occur shall be prohibited from operating
 same for a period of thirty (30) days. For the purpose of this section, each
 day during which a violation of this section shall exist shall constitute a
 separate and distinct offense. (Ord. 97-25, 11-10-1997)
-ARTICLE C. UTILITIES TAXES
+**** ARTICLE C. UTILITIES TAXES ****
 SECTION:
 3-3C-1: Taxes Imposed; Amounts
 3-3C-2: Exemptions From Taxes
@@ -2824,7 +2825,7 @@ misdemeanor and, upon conviction thereof, shall be fined not less than one
 hundred dollars ($100.00) nor more than five hundred dollars ($500.00) and, in
 addition, shall be liable in a civil action for the amount of the tax due.
 (Ord. 98-16, 8-10-1998)
-ARTICLE D. POLICE AND FIRE TAXES
+**** ARTICLE D. POLICE AND FIRE TAXES ****
 SECTION:
 3-3D-1: Police Pension Tax
 3-3D-2: Fire Protection Tax
@@ -2840,7 +2841,7 @@ property in the village at a rate of 0.075 percent of the value as equalized or
 assessed by the department of revenue for all taxable property therein, in all
 succeeding years, all in accordance with the provisions of 65 Illinois Compiled
 Statutes 5/11-7-1. (1985 Code § 1-9-6; amd. 2016 Code)
-ARTICLE E. SIMPLIFIED TELECOMMUNICATIONS TAX
+**** ARTICLE E. SIMPLIFIED TELECOMMUNICATIONS TAX ****
 SECTION:
 3-3E-1: Definitions
 3-3E-2: Imposition Of Tax; Exemptions
@@ -2925,7 +2926,7 @@ after January 1, 2014, and any amounts due or payable to the village for any
 tax periods ending prior to the last day of each month thereafter shall
 nevertheless remain payable as if this section had not been adopted. (2016
 Code)
-ARTICLE F. MUNICIPAL CANNABIS RETAILERS’ OCCUPATION TAX
+**** ARTICLE F. MUNICIPAL CANNABIS RETAILERS’ OCCUPATION TAX ****
 SECTION:
 3-3F-1: Tax Imposed; Rate
 3-3F-2: Collection Of Tax By Retailers !2R!
@@ -2952,8 +2953,8 @@ Illinois tax that a seller is required to collect.
 as an incident thereto, shall be collected and enforced by the Illinois
 department of revenue. The state department of revenue shall have full power to
 administer and enforce the provisions of this chapter. (Ord. 19-09, 10-14-2019)
-CHAPTER 4
-TAX RIGHTS AND RESPONSIBILITIES
+***** CHAPTER 4
+TAX RIGHTS AND RESPONSIBILITIES *****
 SECTION:
 3-4-1: Short Title
 3-4-2: Scope; Application Of Provisions
@@ -3261,9 +3262,9 @@ improper, the local tax administrator shall:
    B.   Correct the taxpayer's credit record; and
    C.   Correct any public disclosure of the improperly imposed lien. (Ord. 00-
 16, 12-11-2000)
-CHAPTER 5
+***** CHAPTER 5
 TAX INCREMENT FINANCING INTERESTED PARTIES
-REGISTRATION AND RULES
+REGISTRATION AND RULES *****
 SECTION:
 3-5-1: Recitals Incorporated
 3-5-2: Creation Of Registries
@@ -3288,8 +3289,8 @@ registry. The tax increment finance administrator shall have the authority to
 amend such registration rules and registration form from time to time as may be
 necessary or desirable to comply with and carry out the purposes intended by
 the act. (Ord. 07-08, 6-26-2007; amd. 2016 Code)
-CHAPTER 6
-McCOOK-HODGKINS ENTERPRISE ZONE
+***** CHAPTER 6
+McCOOK-HODGKINS ENTERPRISE ZONE *****
 SECTION:
 3-6-1: Zone Established
 3-6-2: Purpose
@@ -3365,8 +3366,8 @@ designated redevelopment project area as provided in section 5.4.1 of the
 Illinois enterprise zone act. (Ord. 07-21, 12-10-2007)
 TITLE 4
 BUSINESS AND LICENSE REGULATIONS
-CHAPTER 1
-GENERAL LICENSE PROVISIONS
+***** CHAPTER 1
+GENERAL LICENSE PROVISIONS *****
 SECTION:
 4-1-1: Short Title
 4-1-2: Village Right To License
@@ -3576,7 +3577,7 @@ authorized and acting as license inspectors shall be conservators of the peace
 with police powers for the purpose of enforcing the provisions of this title
 and other village ordinances relating to the licensing of businesses and
 occupations and their regulations. (1985 Code § 3-1-12)
-ARTICLE A. LICENSE FEES
+**** ARTICLE A. LICENSE FEES ****
 SECTION:
 4-1A-1: Schedule Of Fees
 4-1A-2: Penalties
@@ -3647,8 +3648,8 @@ wage in accordance with the law of the State of Illinois.
    B.   In the absence of State law or Collective Bargaining Agreements taking
 precedence, all matters concerning employee sick pay or leave policies shall be
 at the discretion of the employer. (Ord. 17-06, 5-8-2017)
-CHAPTER 2
-LIQUOR CONTROL
+***** CHAPTER 2
+LIQUOR CONTROL *****
 SECTION:
 4-2-1: Local Liquor Control Commissioner
 4-2-2: License Required
@@ -3947,8 +3948,8 @@ Commissioner. A certified official record of the proceeding taken and prepared
 by a certified court reporter or certified shorthand reporter shall be filed by
 the Local Liquor Control Commissioner within five (5) days after notice of the
 filing of such appeal. (1985 Code § 3-3-16)
-CHAPTER 3
-SOLICITATION
+***** CHAPTER 3
+SOLICITATION *****
 SECTION:
 4-3-1: Purpose
 4-3-2: Definitions
@@ -4140,8 +4141,8 @@ Any person violating any provisions of this chapter shall, upon conviction, be
 fined as provided in section
 1-4-1 of this code for each offense. (Ord. 12-03, 5-14-2012, eff. 5-14-2012;
 amd. 2016 Code)
-CHAPTER 4
-TAXICABS AND PUBLIC PASSENGER VEHICLES
+***** CHAPTER 4
+TAXICABS AND PUBLIC PASSENGER VEHICLES *****
 SECTION:
 4-4-1: Definitions
 4-4-2: Licenses Required
@@ -4426,8 +4427,8 @@ suspended or revoked, who engages in the business of operating a taxicab/public
 passenger vehicle, as defined in this chapter, shall be fined not less than
 fifty dollars ($50.00) nor more than seven hundred fifty dollars ($750.00) for
 each offense. (Ord. 91-12, 5-13-1991; amd. 2016 Code)
-CHAPTER 5
-TOBACCO DEALERS
+***** CHAPTER 5
+TOBACCO DEALERS *****
 SECTION:
 4-5-1: Sales To Minors Prohibited
 4-5-2: Minimum Age To Sell Products
@@ -4518,8 +4519,8 @@ When any license shall have been revoked for any cause, no license shall be
 granted to said licensee for the period of six (6) months thereafter for the
 conduct of the business of selling tobacco products in the premises described
 in such revoked license. (Ord. 97-18, 5-12-1997; amd. 2016 Code)
-CHAPTER 6
-AUTOMATIC VENDING MACHINES
+***** CHAPTER 6
+AUTOMATIC VENDING MACHINES *****
 SECTION:
 4-6-1: License Required
 4-6-2: Application For License
@@ -4568,10 +4569,10 @@ the same and to see that there is compliance with all requirements of this
 title and the health provisions of this code, including the operation and use
 of such machines, to guard against improper handling, distribution and
 contamination of food purveyed thereby. (1985 Code § 3-6-4)
-CHAPTER 7
-RESERVED
-CHAPTER 8
-ADULT ENTERTAINMENT FACILITIES
+***** CHAPTER 7
+RESERVED *****
+***** CHAPTER 8
+ADULT ENTERTAINMENT FACILITIES *****
 SECTION:
 4-8-1: Location Prohibitions
 4-8-1: LOCATION PROHIBITIONS:
@@ -4585,8 +4586,8 @@ material, shows, or other distributions; or b) an adult bookstore or adult
 video store in which twenty five percent (25%) or more of its stock and trade
 is the commercial sale, dissemination, or distribution of sexually explicit
 material, shows, or other exhibitions. (Ord. 05-22, 8-8-2005; amd. 2016 Code)
-CHAPTER 9
-MULTIPLE-FAMILY DWELLING RENTALS
+***** CHAPTER 9
+MULTIPLE-FAMILY DWELLING RENTALS *****
 SECTION:
 4-9-1: Definitions
 4-9-2: License Required; General Provisions
@@ -5026,8 +5027,8 @@ In addition to any and all penalties provided in this chapter, any person found
 to have violated any provision of this chapter shall be subject to the general
 penalty provided in section
 1-4-1 of this code. (Ord. 14-02, 4-14-2014)
-CHAPTER 10
-MISCELLANEOUS BUSINESS PROVISIONS
+***** CHAPTER 10
+MISCELLANEOUS BUSINESS PROVISIONS *****
 SECTION:
 4-10-1: Itinerant Performers
 4-10-2: Garage And Rummage Sales
@@ -5150,8 +5151,8 @@ parking lot and shall require a village business license pursuant to section
 operator of the truck parking lot to a fine of two hundred dollars ($200.00)
 for each day said owner or operator remains in violation. (Ord. 86-9, 6-9-1986;
 amd. 2016 Code)
-CHAPTER 11
-GUN SHOPS
+***** CHAPTER 11
+GUN SHOPS *****
 SECTION:
 4-11-1: Intent
 4-11-2: Administration Of Gun Shops
@@ -5250,8 +5251,8 @@ the Cook County Sheriff and any other appropriate law enforcement authorities
 prior to imposing any penalty. The holder of the business license is entitled
 to service of process of the charges, and to a hearing not more than five (5)
 days from service of the charges. (Ord. 16-04, 2-8-2016)
-CHAPTER 12
-MOBILE FOOD UNITS
+***** CHAPTER 12
+MOBILE FOOD UNITS *****
 SECTION:
 4-12-1: Definition
 4-12-2: License Procedures, Fees And Regulations
@@ -5287,8 +5288,8 @@ food units. The method and frequency of such inspections shall be as deemed
 necessary by the Code Enforcement Officer. (Ord. 21-05, 5-20-2021)
 TITLE 5
 PUBLIC HEALTH AND SAFETY
-CHAPTER 1
-HEALTH AND SAFETY ADMINISTRATION AND ENFORCEMENT
+***** CHAPTER 1
+HEALTH AND SAFETY ADMINISTRATION AND ENFORCEMENT *****
 SECTION:
 5-1-1: Health Officer
 5-1-2: Vital Statistics Records
@@ -5377,8 +5378,8 @@ time before closing the premises. In the event the village corrects the
 violation, the cost of the same shall be reimbursed to the village by the
 owner, lessor, lessee, occupant or one in possession of the premises, and the
 village shall have a lien as provided for in state law. (1985 Code § 4-1-4)
-CHAPTER 2
-GENERAL HEALTH AND SAFETY PROVISIONS
+***** CHAPTER 2
+GENERAL HEALTH AND SAFETY PROVISIONS *****
 SECTION:
 5-2-1: Open Burning
 5-2-1-1: Recreational Burning And Cooking Outdoors
@@ -5526,8 +5527,8 @@ other possible disease carrying animals on any property or lot within the
 village is prohibited. In the extermination of rats, charging the cost thereof
 to the owner, occupant or person interested in the premises shall be controlled
 by state law. (1985 Code § 4-2-4)
-CHAPTER 3
-NUISANCES
+***** CHAPTER 3
+NUISANCES *****
 SECTION:
 5-3-1: Nuisances Prohibited
 5-3-2: Nuisances Enumerated
@@ -5680,8 +5681,8 @@ any offender shall be held to a penalty of not less than seventy five dollars
 ($75.00) nor more than seven hundred fifty dollars ($750.00) for each and every
 day the nuisance shall remain in existence after notice to abate same has been
 given. (1985 Code § 4-3-4; amd. 2016 Code)
-CHAPTER 4
-GARBAGE AND REFUSE
+***** CHAPTER 4
+GARBAGE AND REFUSE *****
 SECTION:
 5-4-1: Definitions
 5-4-2: Collection And Removal Requirements
@@ -5996,7 +5997,7 @@ any proceeding in any court in the state of Illinois.
    B.   The offenses herein enumerated shall not prevent the enforcement of any
 of the nuisances provided in chapter 3 of this title, but the offenses
 enumerated herein shall be in addition thereto. (1985 Code § 4-4-11)
-ARTICLE A. COLLECTORS OF GARBAGE AND REFUSE
+**** ARTICLE A. COLLECTORS OF GARBAGE AND REFUSE ****
 SECTION:
 5-4A-1: License And Certificate Requirements
 5-4A-2: Collection Vehicles
@@ -6091,8 +6092,8 @@ replace, at once onto such vehicle, any part of the contents thereof which
 shall or may have fallen, dropped or spilled from such vehicle, or from any box
 or receptacle conveyed thereon, upon any public way or other place. (1985 Code
 § 4-4A-5)
-CHAPTER 5
-RODENT CONTROL
+***** CHAPTER 5
+RODENT CONTROL *****
 SECTION:
 5-5-1: Definition
 5-5-2: Ratproofing Required
@@ -6146,9 +6147,9 @@ deemed guilty of maintaining a rat harborage. The health officer may declare
 the maintenance of such rat harborage a nuisance and summarily abate the same
 as provided in subsection
  5-1-4C of this title. (1985 Code § 4-5-5)
-CHAPTER 6
-FOOD DEALERS
-ARTICLE A. RETAIL FOOD ESTABLISHMENTS
+***** CHAPTER 6
+FOOD DEALERS *****
+**** ARTICLE A. RETAIL FOOD ESTABLISHMENTS ****
 SECTION:
 5-6A-1: Rules And Regulations
 5-6A-2: Permit, License Or Certificate Required; Compliance With Provisions
@@ -6395,7 +6396,7 @@ in section
 committed on each day during or on which a violation continues. The village
 shall have the right to enjoin any person or establishment in the event
 violations occur on a continuing basis. (Ord. 92-6, 3-9-1992; amd. 2016 Code)
-ARTICLE B. FOOD VENDORS
+**** ARTICLE B. FOOD VENDORS ****
 SECTION:
 5-6B-1: Licensing Provisions
 5-6B-2: Street Dispensing Prohibitions
@@ -6471,8 +6472,8 @@ dealer revoked by the village president; and any person littering, throwing or
 dropping such cup, plate or container on the street, and any person acting as a
 runner as herein prohibited, shall be guilty of a misdemeanor. (1985 Code § 4-
 6-2-4)
-CHAPTER 7
-ILLICIT DISCHARGE DETECTION AND ELIMINATION
+***** CHAPTER 7
+ILLICIT DISCHARGE DETECTION AND ELIMINATION *****
 SECTION:
 5-7-1: Purpose And Intent
 5-7-2: Definitions
@@ -6849,8 +6850,8 @@ authorized enforcement agency to seek cumulative remedies. (Ord. 09-05, 4-13-
 2009; amd. 2016 Code)
 TITLE 6
 POLICE REGULATIONS
-CHAPTER 1
-POLICE DEPARTMENT
+***** CHAPTER 1
+POLICE DEPARTMENT *****
 SECTION:
 6-1-1: Department Created
 6-1-2: Department Members And Employees
@@ -7041,8 +7042,8 @@ this section shall be construed so as to give it that effect. (Ord. 87-7, 5-11-
 Any person violating any provision of this chapter shall be fined as provided
 in section
 1-4-1 of this code for each offense. (1985 Code § 5-1-8; amd. 2016 Code)
-CHAPTER 2
-CIVIL EMERGENCIES
+***** CHAPTER 2
+CIVIL EMERGENCIES *****
 SECTION:
 6-2-1: Definitions
 6-2-2: Declaration Of Emergency
@@ -7118,8 +7119,8 @@ Any person violating the provisions of this chapter or of an executive order
 issued pursuant hereto shall be guilty of an offense against the village and
 shall be punishable by a fine as provided in section
 1-4-1 of this code. (1985 Code § 5-2-5; amd. 2016 Code)
-CHAPTER 3
-ANIMAL CONTROL
+***** CHAPTER 3
+ANIMAL CONTROL *****
 SECTION:
 6-3-1: Definitions
 6-3-2: Dog Licensing Provisions
@@ -7374,8 +7375,8 @@ shall keep the same confined or on a leash at all times and shall not permit
 such dog or other animal to be at large on the streets, parks or other public
 places within the village, or on any premises other than those of the owner.
 (1985 Code § 5-3-12)
-CHAPTER 4
-ABANDONED VEHICLES AND PERSONALTY
+***** CHAPTER 4
+ABANDONED VEHICLES AND PERSONALTY *****
 SECTION:
 6-4-1: Definitions
 6-4-2: Abandonment Of Vehicles Prohibited; Nuisance Declared
@@ -7628,8 +7629,8 @@ permitted to continue shall constitute a separate offense and shall be
 punishable hereunder as such. In all cases of violation, the penalty provisions
 herein are cumulative, and the village may proceed on any other remedy, civil
 or statutory, it may have. (1985 Code § 5-4-11; amd. 2016 Code)
-CHAPTER 5
-GENERAL OFFENSES
+***** CHAPTER 5
+GENERAL OFFENSES *****
 SECTION:
 6-5-1: General Offense
 6-5-2: Concealing Knowledge
@@ -7647,7 +7648,7 @@ It shall be unlawful for any person, in any way or manner, to aid, abet,
 counsel, advise or encourage any other person in the commission of any of the
 acts mentioned herein or in any manner encourage the commission of such offense
 defined in this chapter. (1985 Code § 5-5-3)
-ARTICLE A. OFFENSES AGAINST THE PERSON
+**** ARTICLE A. OFFENSES AGAINST THE PERSON ****
 SECTION:
 6-5A-1: Disorderly Conduct And Houses
 6-5A-2: Assault And Battery
@@ -7793,7 +7794,7 @@ All rails, pillars and columns of iron, steel or other metal which are being
 transported over and along the streets in any manner shall be so loaded as to
 avoid causing loud noises and disturbing the peace and quiet of the streets.
 (1985 Code § 5-5A-10)
-ARTICLE B. OFFENSES AGAINST PROPERTY
+**** ARTICLE B. OFFENSES AGAINST PROPERTY ****
 SECTION:
 6-5B-1: Damage To Property
 6-5B-1-1: Injury And Damage To Property
@@ -7946,7 +7947,7 @@ restoration of his property from any person convicted of the prohibited
 activity upon the submission of receipts evidencing payments of such costs, and
 provided the court entering the finding or conviction for the offense shall so
 order. (Ord. 89-7, 5-22-1989; amd. 2016 Code)
-ARTICLE C. OFFENSES AFFECTING PUBLIC HEALTH AND SAFETY
+**** ARTICLE C. OFFENSES AFFECTING PUBLIC HEALTH AND SAFETY ****
 SECTION:
 6-5C-1: Injurious Articles On Public Ways
 6-5C-2: Throwing Missiles
@@ -7989,7 +7990,7 @@ herein contained shall be construed to prohibit any exhibition of, or contests
 in fast or fancy skating on such portions of any ice pond or surface used for
 roller skating as may be set aside for that purpose by the board of trustees or
 other regulatory body. (Ord. 93-22, 12-13-1993)
-ARTICLE D. OFFENSES INVOLVING AMUSEMENTS
+**** ARTICLE D. OFFENSES INVOLVING AMUSEMENTS ****
 SECTION:
 6-5D-1: Admission Fees; Fraudulently Avoiding Payment
 6-5D-2: Sound Amplification
@@ -8050,7 +8051,7 @@ or open air dances to be conducted in such manner as to be an annoyance or
 injury to the public. All public picnics or open air dances shall be subject to
 the issuance of a permit by the village in accordance with the licensing and
 permit provisions of this code. (1985 Code § 5-5D-5)
-ARTICLE E. OFFENSES AFFECTING MORALS AND DECENCY
+**** ARTICLE E. OFFENSES AFFECTING MORALS AND DECENCY ****
 SECTION:
 6-5E-1: Obscenity
 6-5E-1-1: Definitions
@@ -8288,8 +8289,8 @@ place of sport or bookmaker, said wager or bet.
    E.   To knowingly lease, let or permit any premises to be used in whole or
 in part for any of the unlawful purposes described in this section. (1985 Code
 § 5-5E-3)
-CHAPTER 6
-MINORS
+***** CHAPTER 6
+MINORS *****
 SECTION:
 6-6-1: Curfew
 6-6-2: Encouraging Delinquency
@@ -8497,8 +8498,8 @@ minutes.
    C.   "Unattended" means either: 1) not accompanied by a person fourteen (14)
 years of age or older; or 2) if accompanied by a person fourteen (14) years of
 age or older, out of sight of that person. (Ord. 17-17, 12-11-2017)
-CHAPTER 7
-WEAPONS
+***** CHAPTER 7
+WEAPONS *****
 SECTION:
 6-7-1: Identification Card Required
 6-7-2: Concealed Weapons
@@ -8542,8 +8543,8 @@ shall be fined as provided in section
 6-7-4: BOWS AND ARROWS:
 Hunting with the use of bows and arrows is hereby prohibited. (1985 Code § 5-7-
 3)
-CHAPTER 8
-CANNABIS AND DRUG PARAPHERNALIA
+***** CHAPTER 8
+CANNABIS AND DRUG PARAPHERNALIA *****
 SECTION:
 6-8-1: Definitions
 6-8-2: Offenses
@@ -8585,8 +8586,8 @@ ordinances providing for administrative adjudication of Code violations or by
 any other means provided by law. (Ord. 16-13, 9-12-2016)
 TITLE 7
 MOTOR VEHICLES AND TRAFFIC
-CHAPTER 1
-TRAFFIC CODE
+***** CHAPTER 1
+TRAFFIC CODE *****
 SECTION:
 7-1-1: Illinois Vehicle Code Adopted
 7-1-2: Procedure For Issuance Of Citations (P Tickets)
@@ -8717,8 +8718,8 @@ alleged violation.
       2.   The commercial lessor of any vehicle, whether or not the registered
 owner, shall be responsible for such parking violation and subject to the
 penalty therefor. (Ord. 92-8, 4-13-1992)
-CHAPTER 2
-VEHICLE LICENSES
+***** CHAPTER 2
+VEHICLE LICENSES *****
 SECTION:
 7-2-1: Definition
 7-2-2: State Licenses Required
@@ -8888,8 +8889,8 @@ violated, the seized item shall be returned to its owner and any posted bond
 refunded. Any unlicensed motorized device which remains unclaimed for a period
 in excess of one year shall be presumed abandoned and may be destroyed. (Ord.
 02-08, 10-22-2002)
-CHAPTER 3
-GENERAL TRAFFIC PROVISIONS
+***** CHAPTER 3
+GENERAL TRAFFIC PROVISIONS *****
 SECTION:
 7-3-1: Applicability Of Provisions
 7-3-2: Obedience To Police
@@ -9200,8 +9201,8 @@ this section. The prohibition against skitching shall not be construed to
 include the tow of disabled vehicles. (1985 Code § 6-3-8)
 7-3-10: SOLICITING RIDES OR BUSINESS:
 (Repl. by Ord. 21-09, 10-11-2021)
-CHAPTER 4
-SPEED RESTRICTIONS
+***** CHAPTER 4
+SPEED RESTRICTIONS *****
 SECTION:
 7-4-1: State Speed Laws Applicable
 7-4-2: General Speed Restrictions
@@ -9278,8 +9279,8 @@ the duty to drive with due regard for the safety of all persons using the
 street, nor shall it protect the driver of any such vehicle from the
 consequences of a reckless disregard of the safety of others. (1985 Code § 6-4-
 5)
-CHAPTER 5
-STOPPING, STANDING OR PARKING
+***** CHAPTER 5
+STOPPING, STANDING OR PARKING *****
 SECTION:
 7-5-1: Authority To Regulate Parking
 7-5-2: Stopping, Standing And Parking Prohibited In Specified Places
@@ -9550,8 +9551,8 @@ request, provide such police officers as have authority of the offense, and the
 court having jurisdiction thereof, with a written statement of the name and
 address of the lessee at the time of such offense and the identifying number
 upon the registration plates of such vehicle. (1985 Code § 6-5-9)
-CHAPTER 6
-YIELD RIGHT OF WAY AND STOP INTERSECTIONS
+***** CHAPTER 6
+YIELD RIGHT OF WAY AND STOP INTERSECTIONS *****
 SECTION:
 7-6-1: Yield Right Of Way Intersections
 7-6-2: Stop Intersections
@@ -9641,8 +9642,8 @@ Wenz Avenue         Lyons Street
 All stop signs or yield signs erected at the effective date hereof are hereby
 determined to be stop or yield signs to which vehicles shall stop or yield and
 obey. (1985 Code § 6-6-3)
-CHAPTER 7
-TRAFFIC VIOLATIONS AND PENALTIES
+***** CHAPTER 7
+TRAFFIC VIOLATIONS AND PENALTIES *****
 SECTION:
 7-7-1: Impoundment Of Vehicles
 7-7-2: Liability Of Vehicle Owner And Driver
@@ -9708,8 +9709,8 @@ offense shall be deemed committed on each day during or on which a violation
 occurs or continues. (1985 Code § 6-7-6; amd. 2016 Code)
 TITLE 8
 PUBLIC WAYS AND PROPERTY
-CHAPTER 1
-PUBLIC WORKS DEPARTMENT
+***** CHAPTER 1
+PUBLIC WORKS DEPARTMENT *****
 SECTION:
 8-1-1: Superintendent Of Public Works And Water
 8-1-2: Combined Water And Sewer Department
@@ -9797,8 +9798,8 @@ municipalities on a part time or full time basis.
 the department shall receive as compensation for their services amounts to be
 fixed by the board of trustees from time to time or as provided by the annual
 appropriation ordinance. (1985 Code § 7-1-2)
-CHAPTER 2
-STREETS, SIDEWALKS AND PUBLIC WAYS
+***** CHAPTER 2
+STREETS, SIDEWALKS AND PUBLIC WAYS *****
 SECTION:
 8-2-1: Control And Supervision
 8-2-2: Construction Requirements
@@ -10128,9 +10129,9 @@ sod will be allowed for restoration of parkway landscaping. Fertilizer shall be
 applied as per section K, and topsoil shall be pulverized virgin topsoil, 4"
 minimum compacted thickness.
       (Ord. 94-7, 5-9-1994)
-CHAPTER 3
-WATERWORKS AND SEWERAGE SYSTEM
-ARTICLE A. COMBINED SYSTEM
+***** CHAPTER 3
+WATERWORKS AND SEWERAGE SYSTEM *****
+**** ARTICLE A. COMBINED SYSTEM ****
 SECTION:
 8-3A-1: Use Of Public System
 8-3A-2: Rules And Regulations
@@ -10304,7 +10305,7 @@ liability, stipulations and reservations, or for any violation not otherwise
 provided for herein, shall, upon conviction, be fined not less than twenty five
 dollars ($25.00) nor more than seven hundred fifty dollars ($750.00). (1985
 Code § 7-3A-8; amd. 2016 Code)
-ARTICLE B. WATER USE AND SERVICE
+**** ARTICLE B. WATER USE AND SERVICE ****
 SECTION:
 8-3B-1: Use Of Public System Required
 8-3B-2: Construction Requirements
@@ -10815,7 +10816,7 @@ than seven hundred fifty dollars ($750.00), and in addition thereto, the
 department shall not issue permits of any kind within its jurisdiction to the
 offending party until the said party has complied with the provisions of this
 article. (1985 Code § 7-3B-10; amd. 2016 Code)
-ARTICLE C. CROSS CONNECTION CONTROL
+**** ARTICLE C. CROSS CONNECTION CONTROL ****
 SECTION:
 8-3C-1: Purpose
 8-3C-2: Scope
@@ -11254,7 +11255,7 @@ violations.
 to the fine provided, shall become liable to the village for any expense, loss
 or damage occasioned by the village by reason of such violation, whether the
 same was caused before or after notice. (Ord. 91-31, 8-12-1991, eff. 8-12-1991)
-ARTICLE D. SEWER USE AND SERVICE
+**** ARTICLE D. SEWER USE AND SERVICE ****
 SECTION:
 8-3D-1: Sewer System Properties
 8-3D-2: Definitions
@@ -11947,8 +11948,8 @@ cost or sue for an injunction to cause compliance as provided in article 11,
 divisions 31 and 31.1 of the Illinois municipal code. (Ord. 91-7, 3-11-1991)
 TITLE 9
 BUILDING CODE
-CHAPTER 1
-ENACTMENT
+***** CHAPTER 1
+ENACTMENT *****
 SECTION:
 9-1-1: Name Of Title
 9-1-2: Purpose Of Title
@@ -11976,8 +11977,8 @@ excepted. (Ord. 19-05, 6-4-2019)
 9-1-5: PROVISIONS AND REQUIREMENTS OF TITLE:
 The following chapters and their several sections contain and shall constitute
 the provisions and requirements of the Building Code. (Ord. 19-05, 6-4-2019)
-CHAPTER 2
-ADMINISTRATION AND SUPERVISION
+***** CHAPTER 2
+ADMINISTRATION AND SUPERVISION *****
 SECTION:
 9-2-1: Building Official
 9-2-2: Duties Of Building Official
@@ -12623,8 +12624,8 @@ requesting the temporary occupancy shall provide a description of the type of
 work being performed, indicate the number of occupants, and state that the
 building or space will not be open to the general public. (Ord. 19-05, 6-4-
 2019)
-CHAPTER 3
-SUPPLEMENTARY REGULATIONS
+***** CHAPTER 3
+SUPPLEMENTARY REGULATIONS *****
 SECTION:
 9-3-1: Occupancy Of Street
 9-3-2: Driveways
@@ -12859,8 +12860,8 @@ curb with a depressed curb. This requirement shall apply to new driveways built
 for new residential and non-residential buildings on all streets with curbs
 regardless of the type of curb that exists prior to installation of the
 driveway. (Ord. 19-05, 6-4-2019)
-CHAPTER 4
-COMPLIANCE AND ENFORCEMENT
+***** CHAPTER 4
+COMPLIANCE AND ENFORCEMENT *****
 SECTION:
 9-4-1: Compliance With This Title Necessary
 9-4-2: Building Contrary To This Title Declared A Nuisance
@@ -12888,8 +12889,8 @@ for violations of said laws or this title. (Ord. 19-05, 6-4-2019)
 9-4-3: VIOLATIONS; PROCEDURE:
 A written notice of violation shall be provided to the contractor or permit
 holder when violations are found during inspections. (Ord. 19-05, 6-4-2019)
-CHAPTER 5
-GENERAL PENALTY
+***** CHAPTER 5
+GENERAL PENALTY *****
 SECTION:
 9-5-1: Penalty
 9-5-1: PENALTY:
@@ -12904,8 +12905,8 @@ provisions of this title, and any architect designing, drawing plans for, or
 having charge of such building or who shall permit it to be constructed, shall
 be liable to the penalties provided and imposed by this section. (Ord. 19-05,
 6-4-2019)
-CHAPTER 6
-CONSTRUCTION OF THIS TITLE
+***** CHAPTER 6
+CONSTRUCTION OF THIS TITLE *****
 SECTION:
 9-6-1: Conflicts Between General And Specific Provisions
 9-6-2: Invalidity Of One Portion Of Title Shall Not Alter Remainder
@@ -12926,8 +12927,8 @@ for such cause, be construed or held to be invalid in its application to
 buildings, structures, or any portion thereof constructed subsequent to said
 adoption - unless such invalidity shall have been otherwise specifically
 established in its application to such subsequent work. (Ord. 19-05, 6-4-2019)
-CHAPTER 7
-ADOPTION OF REGULATIONS
+***** CHAPTER 7
+ADOPTION OF REGULATIONS *****
 SECTION:
 9-7-1: Building Regulations Adopted
 9-7-1-1: International Residential Code For One- And Two- Family Dwellings
@@ -13190,7 +13191,7 @@ following: "The Village Board shall function as the Board of Appeals." All
 appeals shall be submitted in writing no more than thirty (30) days after the
 issuance of a violation notice.
 (Ord. 19-05, 6-4-2019)
-9-7-1-6: INTERNATIONAL PROPERTY MAINTENANCE CODE (IPMC), 2015 EDITION:
+** 9-7-1-6: INTERNATIONAL PROPERTY MAINTENANCE CODE (IPMC), 2015 EDITION: **
    A.   The following sections of the International Property Maintenance Code
 are deleted, modified, amended, or added.
       1.   Section 101.1 Title. Insert Village of Hodgkins in the space
@@ -14073,8 +14074,8 @@ the Pleasantview Fire Protection District. The results of all required test
 shall be recorded and shall be provided to the Pleasantview Fire Protection
 District as part of the annual fire alarm system compliance verification. (Ord.
 19-05, 6-4-2019)
-CHAPTER 8
-FAIR HOUSING POLICY
+***** CHAPTER 8
+FAIR HOUSING POLICY *****
 SECTION:
 9-8-1: Declaration Of Policy
 9-8-2: Construction
@@ -14963,8 +14964,8 @@ case, citing the cause and additional evidence; or
 The decision of the President and Trustees on such appeals shall be final.
       3.   After a decision by the President and Trustees, the aggrieved person
 may apply for judicial review under writ of certiorari. (Ord. 19-05, 6-4-2019)
-CHAPTER 9
-SOIL EROSION AND SEDIMENTATION CONTROL
+***** CHAPTER 9
+SOIL EROSION AND SEDIMENTATION CONTROL *****
 SECTION:
 9-9-1: Minimum Standards; Application Of Provisions
 9-9-2: General Requirements
@@ -15221,8 +15222,8 @@ determined that silt and debris traps are not properly functioning and their
 performance is impaired.
    N.   All erosion control measures shall remain in place until directed
 otherwise by the Village Engineer. (Ord. 19-05, 6-4-2019)
-CHAPTER 10
-POINT OF RESALE INSPECTIONS
+***** CHAPTER 10
+POINT OF RESALE INSPECTIONS *****
 SECTION:
 9-10-1: Findings
 9-10-2: Definitions
@@ -15499,8 +15500,8 @@ Inspector Signature:       
 Property Owner of Agent Signature:          
  
 (Ord. 19-05, 6-4-2019)
-CHAPTER 11
-REAL ESTATE; INTENT TO SELL
+***** CHAPTER 11
+REAL ESTATE; INTENT TO SELL *****
 SECTION:
 9-11-1: Definitions
 9-11-2: Transfer Of Title By Deed Or Transfer Of Beneficial Interest
@@ -15568,8 +15569,8 @@ of not less than two hundred fifty dollars ($250.00) nor more than seven
 hundred fifty dollars ($750.00). (Ord. 16-10, 4-11-2016)
 TITLE 10
 ZONING REGULATIONS
-CHAPTER 1
-PURPOSE AND DEFINITIONS
+***** CHAPTER 1
+PURPOSE AND DEFINITIONS *****
 SECTION:
 10-1-1: Title And Purpose
 10-1-2: Scope And Effect
@@ -16352,8 +16353,8 @@ ZONING MAP:     Code § 9-1-3; amd. Ord. 92-14, 7-13-1992; Ord. 92-21, 6-8-1992;
                 1996; 2016 Code; Ord. 20-08, 3-9-2020; Ord. 21-06, 5-20-2021; Ord. 22-04, 4-11-
                 2022)
  
-CHAPTER 2
-GENERAL ZONING PROVISIONS
+***** CHAPTER 2
+GENERAL ZONING PROVISIONS *****
 SECTION:
 10-2-1: Compliance With District Regulations
 10-2-2: Lots
@@ -16522,8 +16523,8 @@ based on the Zoning District.
    B.   All parking surfaces shall be concrete or asphalt.
    C.   No parking is allowed on grass or any unpaved hard surface. (Ord. 22-
 04, 4-11-2022)
-CHAPTER 3
-ZONING DISTRICTS AND MAP
+***** CHAPTER 3
+ZONING DISTRICTS AND MAP *****
 SECTION:
 10-3-1: Districts Established
 10-3-2: Zoning Map
@@ -16932,9 +16933,9 @@ standards shall include, but not be limited to, the requirements as outlined in
 the publication entitled "Water Pollution Regulations of Illinois," dated March
 7, 1972 (Division of Water Pollution Control) or subsequent revisions. (1985
 Code § 9-3-5; amd. 2016 Code; Ord. 22-04, 4-11-2022)
-CHAPTER 4
-RESIDENCE ZONES
-ARTICLE A. RESIDENCE R ZONE
+***** CHAPTER 4
+RESIDENCE ZONES *****
+**** ARTICLE A. RESIDENCE R ZONE ****
 SECTION:
 10-4A-1: Uses Permitted
 10-4A-2: Site And Structure Requirements
@@ -17057,7 +17058,7 @@ in the driveway.
 Buildings, premises, and uses permitted in this district are subject to the
 applicable performance standards in section
 10-3-4 of this Title. (1985 Code § 9-4A-3; amd. Ord. 22-04, 4-11-2022)
-ARTICLE B. RESIDENCE AND MULTIPLE DWELLING R-2 ZONE
+**** ARTICLE B. RESIDENCE AND MULTIPLE DWELLING R-2 ZONE ****
 SECTION:
 10-4B-1: Uses Permitted
 10-4B-2: Site And Structure Requirements
@@ -17119,8 +17120,8 @@ not be in front of the building. (2016 Code; amd. Ord. 22-04, 4-11-2022)
 Buildings, premises, and uses permitted in this district are subject to the
 applicable performance standards in section
 10-3-4 of this Title. (Ord. 22-04, 4-11-2022)
-CHAPTER 5
-COMMERCIAL C ZONE
+***** CHAPTER 5
+COMMERCIAL C ZONE *****
 SECTION:
 10-5-1: Uses Permitted
 10-5-2: Building Height
@@ -17208,9 +17209,9 @@ effect regarding accessibility for persons with disabilities. (Ord. 92-21, 6-8-
 1992; amd. 2016 Code; Ord. 22-04, 4-11-2022)
 10-5-6: CANNABIS RELATED FACILITIES:
 See Chapter 14 for additional requirements. (Ord. 22-04, 4-11-2022)
-CHAPTER 6
-MANUFACTURING ZONES
-ARTICLE A. LIGHT MANUFACTURING LM ZONE
+***** CHAPTER 6
+MANUFACTURING ZONES *****
+**** ARTICLE A. LIGHT MANUFACTURING LM ZONE ****
 SECTION:
 10-6A-1: Uses Permitted
 10-6A-2: Accessory Uses Permitted
@@ -17337,7 +17338,7 @@ See Chapter 14 for additional requirements. (Ord. 22-04, 4-11-2022)
 Buildings, premises, and uses permitted in this district are subject to the
 applicable performance standards in section
 10-3-4 of this Title. (Ord. 22-04, 4-11-2022)
-ARTICLE B. HEAVY MANUFACTURING HM ZONE
+**** ARTICLE B. HEAVY MANUFACTURING HM ZONE ****
 SECTION:
 10-6B-1: Uses Permitted
 10-6B-2: Uses Prohibited
@@ -17395,7 +17396,7 @@ Any industrial facility either constructed or altered after the effective date
 hereof shall be constructed or altered in compliance with the applicable
 sections of the federal and state laws regarding accessibility for persons with
 disabilities. (Ord. 92-21, 6-8-1992; amd. 2016 Code; Ord. 22-04, 4-11-2022)
-ARTICLE C. CEMENT AND ASPHALT PLANT CA ZONE
+**** ARTICLE C. CEMENT AND ASPHALT PLANT CA ZONE ****
 SECTION:
 10-6C-1: Zone Designated; Purpose
 10-6C-2: Uses Permitted
@@ -17451,8 +17452,8 @@ Any industrial facility either constructed or altered after the effective date
 hereof shall comply with the applicable sections of the federal and state laws
 in effect regarding accessibility for persons with disabilities. (2016 Code;
 amd. Ord. 22-04, 4-11-2022)
-CHAPTER 7
-RESERVED
+***** CHAPTER 7
+RESERVED *****
 Reserved by Ord. 22-04, 4-11-2022
 CHAPTER 8
 MANUFACTURED HOMES AND MANUFACTURED HOME COMMUNITY
@@ -17910,8 +17911,8 @@ separate offense. The Village may, in addition to other remedies provided in
 this Chapter, bring action for an injunction to restrain such violation or to
 enjoin the operation of any such Manufactured Home Community in the Circuit
 Court of Cook County. (Ord. 18-10, 5-14-2018; amd. Ord. 22-04, 4-11-2022)
-CHAPTER 9
-SPECIAL USE S ZONES
+***** CHAPTER 9
+SPECIAL USE S ZONES *****
 SECTION:
 10-9-1: Special Use Zone(s) Designated
 10-9-2: Adult-Use Cannabis
@@ -17924,8 +17925,8 @@ All uses specified within Title 10, Chapter 14 shall only be performed within
 the special use area as approved by the Board of Trustees following a hearing
 before the Hodgkins Zoning Board of Appeals and legally described herein. (Ord.
 21-07, 5-20-2021; amd. Ord. 22-04, 4-11-2022)
-CHAPTER 10
-OFF STREET PARKING AND LOADING
+***** CHAPTER 10
+OFF STREET PARKING AND LOADING *****
 SECTION:
 10-10-1: Off Street Parking Spaces
 10-10-1-1: Design And Development Requirements
@@ -18076,8 +18077,8 @@ otherwise adequately provided for, shall include a ten foot by twenty five foot
 such space shall be provided for each twenty thousand (20,000) square feet, or
 fraction thereof, of floor or lot area used for other than residence purposes.
 (1985 Code § 9-10-2; amd. Ord. 22-04, 4-11-2022)
-CHAPTER 11
-NONCONFORMING LAND, STRUCTURES AND USES
+***** CHAPTER 11
+NONCONFORMING LAND, STRUCTURES AND USES *****
 SECTION:
 10-11-1: Existing Nonconformances
 10-11-2: Continuance Of Existing Uses
@@ -18125,8 +18126,8 @@ Nothing herein shall prevent the continuance of the present occupancy or lawful
 use of any existing building or use of land, except as may be necessary for the
 safety of life and property and except as specifically provided and made to
 conform in this Title. (1985 Code § 9-11-2; amd. Ord. 22-04, 4-11-2022)
-CHAPTER 12
-ADMINISTRATION AND ENFORCEMENT
+***** CHAPTER 12
+ADMINISTRATION AND ENFORCEMENT *****
 SECTION:
 10-12-1: Zoning Committee
 10-12-2: Letters Of Compliance
@@ -18257,8 +18258,8 @@ provision of this Title, shall be subject to a fine as provided in section 10-
 shall constitute a separate offense. The remedies or penalties enumerated
 herein are cumulative. (1985 Code § 9-12-9; amd. 2016 Code; Ord. 22-04, 4-11-
 2022)
-CHAPTER 13
-SIGNS
+***** CHAPTER 13
+SIGNS *****
 SECTION:
 10-13-1: Short Title
 10-13-2: Purpose And Scope
@@ -19033,8 +19034,8 @@ removed or made to conform. However, in commercial centers, the fact that one
 particular business or activity has a legal nonconforming sign will not
 prohibit another business or activity within the same center from erecting a
 conforming sign. (Ord. 22-04, 4-11-2022)
-CHAPTER 14
-ADULT USE CANNABIS
+***** CHAPTER 14
+ADULT USE CANNABIS *****
 SECTION:
 10-14-1: Purpose Adult-Use Cannabis
 10-14-2: Conditional Use
@@ -19191,8 +19192,8 @@ uses therein shall be exclusive to the Facility. (Ord. 20-08, 3-9-2020, amd.
 Ord. 21-06, 5-20-2021; Ord. 22-04, 4-11-2022)
 TITLE 11
 SUBDIVISION REGULATIONS
-CHAPTER 1
-GENERAL SUBDIVISION PROVISIONS
+***** CHAPTER 1
+GENERAL SUBDIVISION PROVISIONS *****
 SECTION:
 11-1-1: Title
 11-1-2: Purpose
@@ -19407,8 +19408,8 @@ by this section. (1985 Code § 10-1-11; amd. 2016 Code)
    B.   In addition to the penalty provided in subsection A of this section,
 the village may file suit and proceed to demolish, repair, enclose, recover
 cost or sue to cause compliance. (1985 Code § 10-1-11)
-CHAPTER 2
-PLATTING PROCEDURE
+***** CHAPTER 2
+PLATTING PROCEDURE *****
 SECTION:
 11-2-1: Preliminary Consultations
 11-2-2: Preliminary Plat
@@ -19639,8 +19640,8 @@ acceptable for recording in the office of the recorder of deeds of Cook County.
 Developers of commercial and industrial areas shall proceed as if they were
 proposing a planned unit development and follow this chapter as to those
 sections that are applicable. (1985 Code § 10-2-4)
-CHAPTER 3
-DESIGN STANDARDS
+***** CHAPTER 3
+DESIGN STANDARDS *****
 SECTION:
 11-3-1: Street Plan
 11-3-2: Streets And Alleys
@@ -19815,8 +19816,8 @@ will be permitted only under unusual circumstances. (1985 Code § 10-3-4)
 11-3-5: NATURAL FEATURES:
 Outstanding natural and cultural features, such as scenic spots and
 watercourses, shall be preserved insofar as possible. (1985 Code § 10-3-5)
-CHAPTER 4
-REQUIRED IMPROVEMENTS
+***** CHAPTER 4
+REQUIRED IMPROVEMENTS *****
 SECTION:
 11-4-1: General Requirements
 11-4-2: Street Improvements
@@ -19919,7 +19920,7 @@ public utility company.
    D.   Where side lot easements occur adjacent to a driveway, there shall not
 be less than ten feet (10') clearance between the easement line and the extreme
 projection of the building structure. (1985 Code § 10-4-5)
-ARTICLE A. CONSTRUCTION REQUIREMENTS
+**** ARTICLE A. CONSTRUCTION REQUIREMENTS ****
 SECTION:
 11-4A-1: Compliance With Village Standards
 11-4A-2: Construction Plans; Procedure
@@ -20206,9 +20207,9 @@ by the village in repairing damages and cleaning streets, catch basins and
 sewers shall be deducted from the surety. (1985 Code § 10-4A-9)
 TITLE 12
 FLOOD CONTROL
-CHAPTER 1
+***** CHAPTER 1
 GENERAL FLOOD CONTROL PROVISIONS;
-ADMINISTRATION AND ENFORCEMENT
+ADMINISTRATION AND ENFORCEMENT *****
 SECTION:
 12-1-1: Statute Authority; Purpose
 12-1-2: Definitions
@@ -20893,8 +20894,8 @@ intended to repeal the original ordinance or resolution which was adopted to
 meet the national flood insurance program regulations, but is not intended to
 repeal the resolution which the village passed in order to establish initial
 eligibility for the program. (Ord. 08-07, 6-9-2008)
-CHAPTER 2
-FLOOD FRINGE AREAS
+***** CHAPTER 2
+FLOOD FRINGE AREAS *****
 SECTION:
 12-2-1: General Requirements
 12-2-2: Development Permit
@@ -21051,8 +21052,8 @@ if necessary. All such excavation shall be constructed to drain freely and
 openly to the watercourse or storm sewer system. The use of mechanical means to
 drain the compensatory storage area will not be permitted. (Ord. 08-07, 6-9-
 2008)
-CHAPTER 3
-DESIGNATED FLOODWAYS
+***** CHAPTER 3
+DESIGNATED FLOODWAYS *****
 SECTION:
 12-3-1: General Requirements
 12-3-2: Development Permit
@@ -21616,8 +21617,8 @@ mitigation requirements: regional permit 3 which authorizes, for example,
 underground and overhead utilities, storm and sanitary sewer outfalls,
 sidewalks, patios, athletic fields, playground equipment and stream bank
 protection activities. (Ord. 08-07, 6-9-2008)
-CHAPTER 4
-SFHA AREAS WHERE FLOODWAYS ARE NOT IDENTIFIED
+***** CHAPTER 4
+SFHA AREAS WHERE FLOODWAYS ARE NOT IDENTIFIED *****
 SECTION:
 12-4-1: Development Restricted
 12-4-2: Development Permit
@@ -21791,8 +21792,8 @@ floodplain storage lost above the existing 10-year flood elevation shall be
 replaced above the proposed 10-year flood elevation. All such excavations shall
 be constructed to drain freely and openly to the watercourse. (Ord. 08-07, 6-9-
 2008)
-CHAPTER 5
-REQUIREMENTS APPLICABLE TO ALL FLOODPLAIN AREAS
+***** CHAPTER 5
+REQUIREMENTS APPLICABLE TO ALL FLOODPLAIN AREAS *****
 SECTION:
 12-5-1: Compliance Required
 12-5-2: Public Health Standards
@@ -22017,8 +22018,8 @@ with section
 other natural or manmade disaster may be restored unless the damage exceeds
 fifty percent (50%) of its market value before it was damaged, in which, case
 it shall conform to this title. (Ord. 08-07, 6-9-2008)
-CHAPTER 6
-OTHER DEVELOPMENT REQUIREMENTS
+***** CHAPTER 6
+OTHER DEVELOPMENT REQUIREMENTS *****
 SECTION:
 12-6-1: Village Considerations
 12-6-2: Compliance Required

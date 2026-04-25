@@ -17,8 +17,8 @@ Updated by American Legal Publishing
 beginning in 2011
  
  
-2026 S-20 Supplement contains:
-Local legislation current through 12-11-2025
+2026 S-21 Supplement contains:
+Local legislation current through 2-19-2026
  
 Published by:
 American Legal Publishing
@@ -57,7 +57,7 @@ service.
                                  Wayne B. Addis
                                  Village Prosecutor
 Adoption of Code
-Ordinance No. 65-6-1431
+***** Ordinance No. 65-6-1431 *****
    An ordinance adopting a revision and codification of the ordinances of the
 Village of Glencoe, Cook County, Illinois, providing for the repeal of
 ordinances not included therein, with certain exceptions, and for other
@@ -1610,7 +1610,7 @@ ch. 21
 ch. 28
    As to vehicle approaching fire department vehicle, see §
 23-81
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 2-1 CONTRACTS - SIGNATURES REQUIRED.
    All contracts entered into by the village shall be signed by the village
 president and attested by the village clerk, unless some other officer is
@@ -1781,7 +1781,7 @@ village provided, however, that nothing in this section shall be deemed to
 affect the validity or change the terms of currently-existing collective
 bargaining agreements to which the village is a party.
 (Ord. No. 2023-32-3577)
-ARTICLE II. BOARD OF TRUSTEES
+**** ARTICLE II. BOARD OF TRUSTEES ****
 § 2-3 REGULAR MEETINGS.
    The regular meetings of the president and board of trustees shall be held on
 the third Thursday of each month in the council chambers in the village hall at
@@ -1920,8 +1920,8 @@ present.
    The village president shall decide all questions of order and be governed in
 his or her decisions by parliamentary law, as prescribed in Robert's Rules of
 Order, as revised.
-ARTICLE III. OFFICERS AND EMPLOYEES GENERALLY
-Division 1. Village President
+**** ARTICLE III. OFFICERS AND EMPLOYEES GENERALLY ****
+*** Division 1. Village President ***
 § 2-16 CHIEF EXECUTIVE OF VILLAGE, ETC.
    (a)   The village president shall be chief executive of the village and
 shall perform all such duties as may be required of him or her by statute, this
@@ -1941,7 +1941,7 @@ of trustees.
 board of trustees, and shall preside thereat. He or she shall have a vote only
 in case of a tie.
 (1929 Code, § 18)
-Division 2. Village Manager
+*** Division 2. Village Manager ***
 § 2-20 OFFICE CREATED.
    There is hereby created the office of village manager, an administrative
 office of the village.
@@ -2102,7 +2102,7 @@ members shall deal with the administrative service solely through the village
 manager and neither the board of trustees nor any member thereof shall give
 orders to any subordinates of the village manager, either publicly or
 privately.
-Division 3. Village Treasurer
+*** Division 3. Village Treasurer ***
 § 2-28 OFFICE CREATED.
    There is hereby created the office of village treasurer.
 (1929 Code, § 64)
@@ -2135,7 +2135,7 @@ village.
 by the village manager or by the board of trustees, and shall render monthly
 reports showing the state of the treasury at the termination of the month, and
 such other reports as may be required by the board of trustees.
-Division 4. Village Clerk
+*** Division 4. Village Clerk ***
 § 2-35 APPOINTMENT; TERM.
    The village president and the board of trustees shall appoint a village
 clerk, who shall hold his or her office for the term of two years from and
@@ -2182,7 +2182,7 @@ or appointed to any village office of their election or appointment; and unless
 such persons shall respectively qualify within ten days after such notice, the
 respective offices shall thereby become vacant.
 (1929 Code, § 26)
-Division 5. Village Attorney
+*** Division 5. Village Attorney ***
 § 2-41 OFFICE CREATED; APPOINTMENT.
    There is hereby created the office of village attorney. The village
 president and board of trustees shall appoint the village attorney.
@@ -2218,7 +2218,7 @@ collection of the same and condemnation proceedings. It may also, by majority
 vote, employ attorneys to assist the village attorney in any legal matter or
 proceeding, or to conduct any particular legal matter or proceeding.
 (1929 Code, § 52a)
-Division 6. Village Collector
+*** Division 6. Village Collector ***
 § 2-47 APPOINTMENT; TERM.
    The president and the board of trustees shall appoint a village collector,
 who shall hold his or her office for the term of one year from and after the
@@ -2246,7 +2246,7 @@ board of trustees shall appoint a successor to serve out the term, as is
 provided by
 § 1 of article III of the village charter.
 (1929 Code, § 32)
-Division 7. Village Prosecutor
+*** Division 7. Village Prosecutor ***
 § 2-52 OFFICE CREATED.
    There is hereby created the office of village prosecutor, an administrative
 office of the village.
@@ -2277,7 +2277,7 @@ salary of the village prosecutor.
    Vacancies in the office of village prosecutor shall be filled by appointment
 of the village manager.
 (Ord. No. 1415)
-Division 8. Street Commissioner
+*** Division 8. Street Commissioner ***
 § 2-57 APPOINTMENT; TERM.
    Pursuant to § 3-8-2 of the Illinois Municipal Code and notwithstanding any
 provision of the village charter of the contrary, the village president and
@@ -2301,7 +2301,7 @@ be required from time to time by the board of trustees.
    Vacancies in the office of street commissioner shall be filled by
 appointment of the president and board of trustees.
 (Ord. No. 85-16-1721)
-Division 9. Village Marshal
+*** Division 9. Village Marshal ***
 § 2-62 APPOINTMENT; TERM.
    The village president and board of trustees shall appoint a village marshal,
 who shall hold his or her office for the term of one year from and after the
@@ -2325,7 +2325,7 @@ required from time to time by the board of trustees.
 the board of trustees shall appoint a successor to serve out the term, as is
 provided by
 § 1 of article III of the village charter.
-Division 10. Police Constable
+*** Division 10. Police Constable ***
 § 2-67 ELECTION.
    There shall be elected a police constable, as is provided by
 § 1 of article III of the village charter.
@@ -2349,7 +2349,7 @@ provided by
    For negligence or violation of duty, the police constable shall be subject
 to the penalties provided by
 § 9 of article III of the village charter.
-DIVISION 11. BUDGET OFFICER
+*** DIVISION 11. BUDGET OFFICER ***
 § 2-72.1 POSITION CREATED, APPOINTMENT, ETC.
    There is hereby created the position of budget officer. The village
 treasurer is designated as the village’s budget officer.
@@ -2382,8 +2382,8 @@ village manager; and
 accounts only if, at the time of the transfer, sufficient uncommitted and
 unspent funds are in the account from which the funds are to be transferred.
 (Ord. No. 2025-24-3629)
-ARTICLE IV. VILLAGE DEPARTMENTS
-Division 1. Department of Public Works
+**** ARTICLE IV. VILLAGE DEPARTMENTS ****
+*** Division 1. Department of Public Works ***
 § 2-73 CREATION; COMPOSITION.
    There is hereby created the department of public works, an administrative
 department of the village. This department shall consist of a director of
@@ -2442,7 +2442,7 @@ thereof.
 to the operation of the department of public works.
    (o)   He or she shall perform such other duties as may be assigned by the
 village manager.
-Division 2. Department of Finance
+*** Division 2. Department of Finance ***
 § 2-77 CREATION; COMPOSITION.
    There is hereby created the Department of Finance, an administrative
 department of the village. The Department of Finance shall consist of a
@@ -2500,7 +2500,7 @@ all applicable state laws regarding the procurement of goods and services by
 the village. The purchasing policy may be amended by resolution of the Village
 Board of Trustees duly adopted.
 (Ord. No. 2017-23-3431)
-Division 3. Department of Public Safety
+*** Division 3. Department of Public Safety ***
 § 2-84 CREATION; COMPOSITION.
    There is hereby created a department of public safety, an administrative
 department of the village. The department of public safety shall consist of a
@@ -2619,7 +2619,7 @@ be suspended or discharged, he or she shall immediately deliver his or her
 badge and all other property of the village issued to him or her to the
 director of public safety and any pay due or to become due such member shall be
 withheld until such property has been returned.
-Division 4. Fire Department
+*** Division 4. Fire Department ***
 § 2-97 DUTIES OF CITIZENS.
    It shall be the duty of all persons when called upon by a member of the
 department of public safety to promptly aid and assist the officer in the
@@ -2645,7 +2645,7 @@ summonses and other processes.
    (c)   Each member of the department shall have all the responsibility,
 authority and liability prescribed by statute, this code or other village
 ordinances for firefighters or police officers.
-Division 5. Health Department
+*** Division 5. Health Department ***
 § 2-103 CREATION; COMPOSITION.
    There is hereby created the department of health, an administrative
 department of the village. This department shall consist of the health officer
@@ -2689,8 +2689,8 @@ prosecuted.
 another municipality for health services, by contract approved by the board of
 trustees, the personnel of that health department, including the health
 officer, shall be considered officers and employees of the village.
-ARTICLE V. BOARDS AND COMMISSIONS
-Division 1. Board of Health
+**** ARTICLE V. BOARDS AND COMMISSIONS ****
+*** Division 1. Board of Health ***
 § 2-111 CREATION; COMPOSITION.
    There is hereby created and established a board of health for the village.
 This board shall consist of the president of the village, who shall be ex
@@ -2725,7 +2725,7 @@ village.
    It shall be the duty of every member of the health department, and of every
 member of the police and fire departments, to aid in the enforcement of any
 order issued by the board of health.
-Division 2. Board of Local Improvements
+*** Division 2. Board of Local Improvements ***
 § 2-116 CREATION; COMPOSITION.
    There is hereby established a board of local improvements for the village,
 which shall consist of the village president and the board of trustees.
@@ -2737,7 +2737,7 @@ any other ordinance of the village.
    The board of local improvements shall keep adequate records of all work
 undertaken by it, showing the work undertaken, the work accomplished, the
 expenditures made and the amount of money received.
-Division 3. Plan Commission
+*** Division 3. Plan Commission ***
 (Ord. No. 94-15-1951; Ord. No. 92-33-1899)
 § 2-119 CREATION; MEMBERSHIP.
    (a)   There is hereby established a plan commission for the village to be
@@ -2900,7 +2900,7 @@ and its region; and
    (d)   To exercise such other powers, germane to the powers granted by this
 code and state statute, as may be conferred by the board of trustees.
 (Ord. No. 94-15-1951; Ord. No. 92-33-1899)
-Division 4. Glencoe Sustainability Task Force
+*** Division 4. Glencoe Sustainability Task Force ***
 § 2-127 ESTABLISHED; PURPOSE; DUTIES.
    (a)   There is hereby established a body that shall be known as the Glencoe
 Sustainability Task Force ("GSTF").
@@ -2994,7 +2994,7 @@ at least annually in writing to the Board of Trustees and the Village Manager,
 and at such additional times as requested by the Village President. The annual
 report shall cover the activities of the GSTF for the preceding calendar year.
 (Ord. No. 2022-16-3536)
-Division 5. Electrical Commission
+*** Division 5. Electrical Commission ***
 § 2-130 CREATION; COMPOSITION; APPOINTMENT AND TERM OF MEMBERS.
    (a)   There is hereby created an electrical commission which shall consist
 of five members, as follows:
@@ -3019,7 +3019,7 @@ paid for the inspection by such inspectors of all electrical equipment
 installed or altered within this village; provided, that such standards and
 specifications, such rules and regulations and such fees shall not become
 effective until adopted by ordinance by the board of trustees.
-Division 6. Playground Commission
+*** Division 6. Playground Commission ***
 § 2-132 ESTABLISHED; POWERS AND DUTIES GENERALLY.
    (a)   There is hereby established a committee or commission which shall be
 known as the municipal playground commission.
@@ -3089,7 +3089,7 @@ village treasurer within ten days after such repeal is effected, but such
 repeal shall not thereby work a dissolution of the commission; provided, that
 three fourths of all of the members of such commission shall thereupon elect to
 continue such commission as a non-official organization.
-Division 7. Public Safety Commission
+*** Division 7. Public Safety Commission ***
 § 2-139 CREATION; COMPOSITION.
    In accordance with Division 2.1 of Article 10 of the Illinois Municipal
 Code, Ill. Rev. Stat. ch. 24, §§ 10-2.1-1 et seq., there is hereby established
@@ -3138,7 +3138,7 @@ secretary shall be fixed by the village manager with the approval of the board
 of trustees.
 § 2-144 MEMBERS TO SERVE WITHOUT COMPENSATION.
    Members of the public safety commission shall serve without compensation.
-Division 8. Joint Emergency Telephone System Board
+*** Division 8. Joint Emergency Telephone System Board ***
 (Ord. No. 2017-2-3410)
 § 2-145 AUTHORIZATION.
    There is hereby authorized a joint emergency telephone system board that
@@ -3146,7 +3146,7 @@ shall be established pursuant to an intergovernmental agreement approved by a
 duly adopted resolution of the village's corporate authorities.
 (Ord. 2017-2-3410)
 § 2-146 RESERVED.
-Division 9. Glencoe Council for Inclusion and Community
+*** Division 9. Glencoe Council for Inclusion and Community ***
 § 2-146.1 CREATION.
    There is created a Council that shall be known as the Glencoe Council for
 Inclusion and Community.
@@ -3236,9 +3236,9 @@ Manager, and at such additional times as requested by the Village President.
 The annual report shall cover the activities of the Council for the preceding
 calendar year.
 (Ord. No. 97-8-2031; Ord. No. 2020-19-3485; Ord. No. 2021-15-3511)
-ARTICLE VI. CODE OF ETHICS
+**** ARTICLE VI. CODE OF ETHICS ****
 (Ord. No. 06-01-3143)
-Division 1. General Provisions
+*** Division 1. General Provisions ***
 § 2-147 POLICY AND PURPOSE.
    It is the policy of the village that its elected and appointed officers and
 employees should, in all cases, exercise their judgment and perform their
@@ -3275,7 +3275,7 @@ concerning the property, government or affairs of the village or use such
 information to advance the interests of such officer or employee or his or her
 family members.
 (Ord. No. 06-01-3143)
-Division 2. Conflicts of Interest
+*** Division 2. Conflicts of Interest ***
 § 2-151 DEFINITIONS.
    For the purposes of this division 2, the following terms shall have the
 following meanings.
@@ -3483,7 +3483,7 @@ decision by a board, commission or committee on any transaction or negate any
 contract of the village. This division is intended only for the betterment of
 village governance and provides no rights or benefits to any applicant,
 interested party or third party to any transaction.
-Division 3. Gift Ban and Prohibited Political Activities
+*** Division 3. Gift Ban and Prohibited Political Activities ***
 § 2-156 GIFT BAN AND PROHIBITED POLITICAL ACTIVITIES.
    (a)   Definitions. Whenever the following words or terms are used in this
 section, they shall have the meanings ascribed to them below.
@@ -3892,7 +3892,7 @@ Statutory reference:
    3ILCS 430/1-1 et seq.
    410 ILCS 5/9-3
    510 ILCS 5/9-1 et seq.
-ARTICLE VII. PSEBA POLICY AND PROCEDURES
+**** ARTICLE VII. PSEBA POLICY AND PROCEDURES ****
 § 2-157 PURPOSE.
    The purpose of this article is to provide a fair and efficient method of
 determining the eligibility of an applicant for health insurance benefits
@@ -4082,7 +4082,7 @@ Ill. Rev. Stat. 1963, ch. 24, § 11-80-15
    For state law as to power of village to regulate and prevent the use of
 streets, etc., for signs, advertisements, etc., see Ill. Rev. Stat. 1963, ch.
 24, § 11-80-14
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 3-1 INJURING, ETC., ADVERTISEMENT OR NOTICE.
    No persons shall injure, deface or mutilate any lawful advertisement or
 notice.
@@ -4115,7 +4115,7 @@ Cross-reference:
 posting of signs or notices by order of any court or by any public officer in
 the performance of his or her duties.
 (1929 Code, § 566)
-ARTICLE II. DISTRIBUTION OF ADVERTISING MATTER
+**** ARTICLE II. DISTRIBUTION OF ADVERTISING MATTER ****
 § 3-5 LICENSE - REQUIRED.
    No person shall engage in the distribution of any circulars, dodgers,
 handbills, pamphlets, booklets, newspapers or other advertisements, except
@@ -4242,7 +4242,7 @@ Article VIII. Consumption of Alcoholic Beverages
 4-50   Intoxication
    
 4-51   Consumption of intoxicating beverage in public
-ARTICLE I. DEFINITIONS
+**** ARTICLE I. DEFINITIONS ****
 § 4-1 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. All words
@@ -4343,7 +4343,7 @@ contents of fruits or vegetables, containing sugar, including, without
 limitation, such beverages when fortified by the addition of alcohol or
 spirits.
 (Ord. No. 74-11-1519; Ord. No. 2015-13a-3385, § 2)
-ARTICLE II. LOCAL LIQUOR CONTROL COMMISSIONER
+**** ARTICLE II. LOCAL LIQUOR CONTROL COMMISSIONER ****
 § 4-2 VILLAGE PRESIDENT DESIGNATED LOCAL LIQUOR CONTROL COMMISSIONER.
    The village president is hereby designated as the local liquor control
 commissioner in and for the village.
@@ -4384,7 +4384,7 @@ Liquor Commission or any of the provisions of this chapter, as the case may be.
 (Ord. No. 74-11-1519; Ord. No. 2015-13a-3385, § 2)
 § 4-4 RESERVED.
 (Ord. No. 2015-13a-3385, § 2)
-ARTICLE III. LICENSES
+**** ARTICLE III. LICENSES ****
 § 4-5 LOCAL LIQUOR LICENSE REQUIRED.
    (a)   No person, firm, or corporation shall sell at retail or offer for sale
 at retail any alcoholic liquor in the village except in the manner authorized
@@ -4546,9 +4546,9 @@ licensee until the original expiration date of that licensee’s license, but no
 longer than six months after the death, bankruptcy, or insolvency of that
 licensee.
 (Ord. No. 2015-13a-3385, § 2)
-§§ 4-8 - 4-9 RESERVED.
+* §§ 4-8 - 4-9 RESERVED. *
 (Ord. No. 2015-13a-3385, § 2)
-ARTICLE IV: LICENSING PROCESS
+**** ARTICLE IV: LICENSING PROCESS ****
 § 4-10 APPLICATION FOR LICENSE.
    (a)   New applicants.  An applicant for a new local liquor license shall
 file an application therefor with the village clerk, on a form provided by the
@@ -4904,9 +4904,9 @@ license fee.
 refund any application fee paid pursuant to this chapter to an applicant or
 local liquor licensee for any reason.
 (Ord. No. 2015-13a-3385, § 2; Ord. No. 2025-35-3640, § 2)
-§§ 4-17 - 4-19 RESERVED.
+* §§ 4-17 - 4-19 RESERVED. *
 (Ord. No. 2015-13a-3385, § 2)
-ARTICLE V. INSURANCE AND TRAINING
+**** ARTICLE V. INSURANCE AND TRAINING ****
 § 4-20 DRAM SHOP INSURANCE.
    All local liquor licensees shall maintain dram shop insurance, in a minimum
 amount of $1,000,000 per occurrence, for the premises within which alcoholic
@@ -4952,9 +4952,9 @@ public safety for the responsible alcohol service training required pursuant to
 this section shall pay a program fee in the amount set forth in the
 Comprehensive Fee and Fine Schedule.
 (Ord. No. 2015-13a-3385, § 2; Ord. No. 2022-10-3530, § 2)
-§§ 4-22 - 4-24 RESERVED.
+* §§ 4-22 - 4-24 RESERVED. *
 (Ord. No. 2015-13a-3385, § 2)
-ARTICLE VI. SALES
+**** ARTICLE VI. SALES ****
 § 4-25 SALES RESTRICTED TO AUTHORIZED PREMISES.
    A local liquor license shall permit the sale of alcoholic liquor only in or
 from the premises described in the local liquor license, and only in the manner
@@ -5145,9 +5145,9 @@ Illinois Liquor Control Act, including without limitation, Section 6-28.8
 thereof (235 ILCS 5/6-28.8), and any regulations and guidelines promulgated by
 the Illinois Liquor Control Commission.
 (Ord. No. 2023-22-3567)
-§§ 4-38 - 4-39 RESERVED.
+* §§ 4-38 - 4-39 RESERVED. *
 (Ord. No. 2015-13a-3385, § 2)
-ARTICLE VII. ENFORCEMENT
+**** ARTICLE VII. ENFORCEMENT ****
 § 4-40 VIOLATIONS AND PENALTIES.
    (a)   Fines.
       (1)   Except where otherwise permitted or required by the Liquor Control
@@ -5279,9 +5279,9 @@ violation of any of the provisions of the Liquor Control Act.
 pursuant to this chapter, all fees paid by the local liquor licensee pursuant
 to this chapter shall be forfeited.
 (Ord. No. 2015-13a-3385, § 2)
-§§ 4-46 - 4-49 RESERVED.
+* §§ 4-46 - 4-49 RESERVED. *
 (Ord. No. 2015-13a-3385, § 2)
-ARTICLE VII. CONSUMPTION OF ALCOHOLIC BEVERAGES
+**** ARTICLE VII. CONSUMPTION OF ALCOHOLIC BEVERAGES ****
 § 4-50 INTOXICATION.
    It shall be unlawful for any person to be in an intoxicated condition on any
 street, alley or public place in the village, or in any private house or place
@@ -5428,7 +5428,7 @@ of amusement, see Ill. Rev. Stat. 1963, ch. 24, § 11-42-5
    For state law as to authority of village to license, regulate, etc.,
 theatricals, places of amusements, etc., see Ill. Rev. Stat. 1963, ch. 24, §
 11-42-5
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 5-1 LICENSE - REQUIRED.
    No person shall conduct or operate any theatrical, circus, carnival,
 exhibition or public amusement of any kind without having first obtained a
@@ -5550,7 +5550,7 @@ such aisles, passageways, corridors or exits during any performance.
 Cross-reference:
    As to obstructing exits, etc., in motion picture theatres, see §
 5-31
-ARTICLE II. BILLIARDS AND POOL
+**** ARTICLE II. BILLIARDS AND POOL ****
 § 5-15 LICENSE - REQUIRED; FEE.
    No person shall operate, maintain or conduct a billiard, pool, bagatelle or
 pigeon hole table open to the public without having obtained a license therefor
@@ -5614,7 +5614,7 @@ Cross-reference:
    As to police department generally, see §§
 2-84 to
 2-96
-ARTICLE III. BOWLING ALLEYS
+**** ARTICLE III. BOWLING ALLEYS ****
 § 5-21 LICENSE - REQUIRED; APPLICATION.
    No person shall operate, maintain or conduct a bowling or pin alley open to
 the public for which a fee is charged without having first obtained a license
@@ -5650,7 +5650,7 @@ minor.
 Cross-reference:
    As to minors under 16 years of age in poolrooms, etc., see §
 5-19
-ARTICLE IV. MOTION PICTURES
+**** ARTICLE IV. MOTION PICTURES ****
 § 5-25 LICENSE TO OPERATE MOTION PICTURE PROJECTOR - REQUIRED.
    (a)   It shall be unlawful for any person to operate any moving picture
 projecting machine or device in any public place or any place where the public
@@ -5774,7 +5774,7 @@ as provided in §
 16-1. In addition thereto the president of the village may revoke the permits
 or licenses or any of them issued under this article to such person.
 (1929 Code, § 388)
-ARTICLE V. PUBLIC DANCE HALLS
+**** ARTICLE V. PUBLIC DANCE HALLS ****
 § 5-36 LICENSE - REQUIRED; ISSUANCE.
    No person shall operate or conduct a public dance hall without having
 obtained a license to do so. No such license shall be issued except on order of
@@ -5801,7 +5801,7 @@ equipped with sufficient and adequate exits, and no hall or building that is
 not equipped with at least two exits of four feet or more in width shall be
 used for a public dance in the village.
 (1929 Code, § 391)
-ARTICLE VI. MEETINGS ON PUBLIC PROPERTY
+**** ARTICLE VI. MEETINGS ON PUBLIC PROPERTY ****
 § 5-39 APPROVAL OR PERMIT REQUIRED.
    No person or group of persons shall hold any meeting or event of any kind on
 village owned property (including village streets or rights-of-way) or within
@@ -5859,7 +5859,7 @@ be required to reimburse the village for the costs of such personnel, equipment
 or supplies in accordance with generally applicable rates established by the
 village manager from time to time.
 (Ord. No. 06-13-3155)
-ARTICLE VII. COMMERCIAL FILMING OR TAPING ON PUBLIC PROPERTY
+**** ARTICLE VII. COMMERCIAL FILMING OR TAPING ON PUBLIC PROPERTY ****
 (Ord. No. 96-4-2000)
 § 5-42 PERMIT - REQUIRED.
    No person or group of persons shall use any street, right-of-way or public
@@ -5975,7 +5975,7 @@ interests of the village and its residents. The terms and amount of any such
 bond shall be determined by the village manager in the exercise of his or her
 sound discretion.
 (Ord. No. 96-4-2000)
-ARTICLE VIII. SPECIAL EVENTS
+**** ARTICLE VIII. SPECIAL EVENTS ****
 (Ord. No. 06-13-3155)
 § 5-48 DEFINITION OF SPECIAL EVENT.
    (a)   For purposes of this article, the term SPECIAL EVENT shall mean any
@@ -6118,7 +6118,7 @@ Statutory reference:
    For state law as to animals generally, see Ill. Rev. Stat., ch. 8
    For state law as to rabies among dogs, see Ill. Rev. Stat., ch. 8, §§ 351 et
 seq.
-ARTICLE I. ANIMAL CARE AND CONTROL
+**** ARTICLE I. ANIMAL CARE AND CONTROL ****
 § 6-1 DEFINITIONS.
    For the purpose of this article, the following words and phrases shall have
 the meanings respectively ascribed to them by this section.
@@ -6248,7 +6248,7 @@ proper receptacle located on such owner's property.
 6-18 shall not apply to guide dogs for the handicapped.
 (Ord. No. 84-1-1687; Ord. No. 2001-19-3036)
 § 6-19 RESERVED.
-ARTICLE II. LICENSING OF ANIMALS
+**** ARTICLE II. LICENSING OF ANIMALS ****
 § 6-20 LICENSING OF DOGS AND CATS.
    (a)   Any person owning, keeping, harboring or having custody of any dog or
 cat over six months of age within this municipality must obtain a license as
@@ -6427,8 +6427,8 @@ to the Illinois Department of Agriculture and shall provide a copy of the
 submitted form to the village unless the Department shall stop accepting
 residential chicken registrations.
 (Ord. No. 2022-09-3529, § 2)
-§§ 6-22 - 6-29 RESERVED.
-ARTICLE III. IMPOUNDMENT OF ANIMALS
+* §§ 6-22 - 6-29 RESERVED. *
+**** ARTICLE III. IMPOUNDMENT OF ANIMALS ****
 § 6-30 IMPOUNDMENT.
    (a)   It shall be the duty of such village employees as shall be designated
 for that purpose by the director of public safety to take up and impound any
@@ -6453,7 +6453,7 @@ and Fine Schedule, plus all costs of maintaining the animal while impounded and
 any license fees required.
 (Ord. No. 2014-19-3371)
 §§ 6-31 - 6-39 RESERVED.
-ARTICLE IV. RABIES CONTROL
+**** ARTICLE IV. RABIES CONTROL ****
 § 6-40 ANIMAL BITE NOTICE.
    It shall be unlawful for any person knowing that a person has been bitten by
 an animal to fail to notify within 24 hours the director of public safety of
@@ -6500,7 +6500,7 @@ disposed of as an unclaimed dog and the owner shall have no right to claim such
 dog.
 (Ord. No. 77-5-1547, § 1)
 §§ 6-44 - 6-49 RESERVED.
-ARTICLE V. PENALTIES
+**** ARTICLE V. PENALTIES ****
 § 6-50 PENALTIES.
    (a)   The owner of an animal violating §§
 6-2(a),
@@ -6676,7 +6676,7 @@ Statutory reference:
 barbershops, see Ill. Rev. Stat. 1963, ch. 24, § 11-42-1
    For state law as to barbers generally, see Ill. Rev. Stat. 1963, ch. 16 3/4,
 §§ 14.35 to 14.96
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 8-1 DEFINITION.
    For the purpose of this chapter a BARBERSHOP means a fixed place of business
 wherein barbering is practiced and carried on.
@@ -6723,7 +6723,7 @@ required by §
 village’s Comprehensive Fee and Fine Schedule.
 (Ord. No. 80-10-1610; Ord. No. 90-3-1812; Ord. No. 92-2-1868; Ord. No. 2016-04-
 3394)
-ARTICLE II. SANITARY REGULATIONS
+**** ARTICLE II. SANITARY REGULATIONS ****
 § 8-7 COMPLIANCE WITH ARTICLE.
    The owner or manager and all of the employees of any barbershop shall
 conform strictly to the sanitary regulations set out in this article.
@@ -7166,7 +7166,7 @@ see Ill. Rev. Stat., ch. 24 §§ 11-31-1, 11-31-2
 Ill. Rev. Stat. 1963, ch. 24, § 11-80-2
    For state law as to recording of building permits, see Ill. Rev. Stat. 1963,
 ch. 24, §§ 11-39-1, 11-39-39-1, 11-39-2
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 9-1 DEFINITIONS GENERALLY.
    Unless otherwise defined in this chapter or in the edition of the various
 construction codes adopted herein,, the terms used in this chapter shall have
@@ -7295,7 +7295,7 @@ this code, may appeal to the development services director for reconsideration.
 this section may petition the Cook County Circuit Court in the manner provided
 by law for administrative review.
 (Ord. No. 2025-22-3627)
-ARTICLE II. BUILDING PERMITS
+**** ARTICLE II. BUILDING PERMITS ****
 § 9-9 WHEN REQUIRED.
    (a)   Before proceeding with the erection, construction, alteration, repair,
 or excavation for any building or structure in the village, a permit for works
@@ -7690,7 +7690,8 @@ of communication or ingress or egress, or in lighting or ventilation or in
 plumbing or electric wiring, and that are not in violation of any of the
 provisions of this chapter, may be made without the permission of the
 development services director.
-ARTICLE III. CLASSIFICATION AND REGULATIONS FOR CONSTRUCTION OF BUILDINGS
+**** ARTICLE III. CLASSIFICATION AND REGULATIONS FOR CONSTRUCTION OF BUILDINGS
+****
 § 9-18 ADOPTION OF THE INTERNATIONAL BUILDING CODE, 2021 EDITION, THE
 INTERNATIONAL EXISTING BUILDING CODE, 2021 EDITION, AND THE INTERNATIONAL
 RESIDENTIAL CODE, 2021 EDITION.
@@ -7829,7 +7830,7 @@ Passim    inches minimum above grade, continuous, and uninterrupted except for a
           Where not otherwise specified, the term "flammable gas" includes both Category 1A and
           Category 1B.
 Table     Amend Table 307.1(1) to include the following:
-307.1(1)  [https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/IMAGES/0-0-
+307.1(1)  [https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/IMAGES/0-0-
           0-4620.gif]
           Amend Section 307.4 to read as follows:
           307.4 High hazard Group H-2. Buildings and structures containing materials that pose a
@@ -7888,10 +7889,10 @@ Table     Amend Table 307.1(1) to include the following:
           International Fire Code and quantities do not exceed the amounts specified in Table
           414.2.5(3).
 Table     Amend Table 414.2.5(3) to include the following:
-414.2.5   [https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/IMAGES/0-0-
+414.2.5   [https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/IMAGES/0-0-
 (3)       0-4622.gif]
 Table     Amend Table 414.5.1 to include the following:
-414.5.1   [https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/IMAGES/0-0-
+414.5.1   [https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/IMAGES/0-0-
           0-4624.gif]
           Add the following sentence to the end of Section 903.2:
 903.2     A fire hydrant must be located within 100 feet of the Fire Department connection, and
@@ -8134,7 +8135,7 @@ R114.4   structure after having been served with a stop work order, except such 
          is directed to perform to remove a violation or unsafe condition, shall be liable
          to punishment as provided in § R113.4 of this Code.
          Revise to add Table R301.2:
-R301.2   [https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/IMAGES/
+R301.2   [https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/IMAGES/
          0-0-0-4626.gif]
          Revise this section to read as follows:
          Notwithstanding anything to the contrary in this Code, each habitable room shall
@@ -8262,20 +8263,20 @@ Table      Amend Table 1103.1 to read as follows:
 1103.1
  
 Table 1103.1
-[https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/
+[https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/
 IMAGES/0-0-0-4628.png]
  
-[https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/
+[https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/
 IMAGES/0-0-0-4630.png]
  
-[https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/
+[https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/
 IMAGES/0-0-0-4632.png]
  
-[https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/
+[https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/
 IMAGES/0-0-0-4634.png]
-[https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/
+[https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/
 IMAGES/0-0-0-4636.png]
-[https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/
+[https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/
 IMAGES/0-0-0-4638.png]
  
  
@@ -8309,7 +8310,7 @@ Section
 Table      Amend Table 1106.4.2 to read as follows:
 1106.4.2
  
-[https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/
+[https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/
 IMAGES/0-0-0-4640.gif]
  
  
@@ -8320,7 +8321,7 @@ Mechanical Code Section Addition, Deletion or Modification
                         with ASHRAE 15.
 Table 1107.4            Amend Table 1107.4 to read as follows:
  
-[https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/
+[https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/
 IMAGES/0-0-0-4642.gif]
  
  
@@ -8328,7 +8329,7 @@ Mechanical Code Section Addition, Deletion or Modification
 Table 1107.5            Amend Table 1107.5 to read as follows:
  
      [https://export.amlegal.com/media/
-b4b86004867051fd62ac328f453554b16e9c429e/IMAGES/0-0-0-4644.gif]
+8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/IMAGES/0-0-0-4644.gif]
  
 Mechanical Code Section Addition, Deletion or Modification
 Mechanical
@@ -8445,7 +8446,7 @@ Section
 1110.6     Delete Section 1110.6 in its entirety without substitution.
 1110.7     Delete Section 1110.7 in its entirety without substitution.
  
-[https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/
+[https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/
 IMAGES/0-0-0-4646.gif]
  
 (Ord. No. 2011-16-3297; Ord. No. 2017-6-3414; Ord. No. 2025-22-3627)
@@ -8664,7 +8665,7 @@ other means of egress or ingress.
 (Ord. No. 2025-22-3627)
 § 9-22 RESERVED.
 (Ord. No. 2025-22-3627)
-ARTICLE IV. OCCUPATION OF STREETS AND STREET OPENINGS
+**** ARTICLE IV. OCCUPATION OF STREETS AND STREET OPENINGS ****
 § 9-23 STREET OCCUPATION PERMIT - REQUIRED.
       It shall be unlawful for any person to deposit or store upon the street,
 parkway or sidewalk abutting upon or adjacent to the lot or tract upon which
@@ -8777,7 +8778,7 @@ chapter 34, article III of this code.
 (Ord. No. 2000-10-2092)
 §§ 9-33 - 9-36 RESERVED.
 (Ord. No. 86-2-1723; Ord. No. 2000-10-2092)
-ARTICLE V. SEWERS
+**** ARTICLE V. SEWERS ****
 § 9-37 CONNECTIONS GENERALLY.
    (a)   The connection between any building sanitary sewer service pipe or any
 building storm sewer service pipe extending to a public sewer shall be
@@ -8849,12 +8850,12 @@ service pipe system.
    Every owner of a building with a sanitary or storm sewer service pipe is
 required, at his or her own cost and expense, to keep in repair all service
 pipes leading from the public sanitary or storm sewer to the building.
-ARTICLE VII. SIGNS
+**** ARTICLE VII. SIGNS ****
 §§ 9-48 - 9-48.5 REPEALED.
 (Ord. No. 92-33-1899)
 §§ 9-49 - 9-49.9 REPEALED.
 (Ord. No. 92-33-1899)
-ARTICLE VIII. DANGEROUS BUILDINGS
+**** ARTICLE VIII. DANGEROUS BUILDINGS ****
 § 9-50 DEEMED A NUISANCE.
    Any building or part thereof, or any structure of like nature, in a
 condition dangerous to the occupants, or those passing, or to any adjacent
@@ -8967,7 +8968,7 @@ property.
 alteration or repair of any building or portion thereof on the property
 involved until the expenditure incurred by the village on account of the work
 and material supplied has been repaid.
-ARTICLE IX. MOVING BUILDINGS
+**** ARTICLE IX. MOVING BUILDINGS ****
 § 9-58 PERMIT - REQUIRED.
    No person shall move any building on, through or over any street, alley,
 sidewalk or other public place in the village without having obtained a permit
@@ -9051,7 +9052,7 @@ issued shall place and cause to be maintained on such building red lights
 sufficient in number and so located as to adequately protect the public, which
 lights shall be plainly visible for 100 yards during the period above
 mentioned.
-ARTICLE X. PRIVATE SWIMMING POOLS
+**** ARTICLE X. PRIVATE SWIMMING POOLS ****
 § 9-67 DEFINITION.
    For the purpose of this article, a PRIVATE SWIMMING POOL shall mean a human-
 made rigid or semi-rigid receptacle for water having a depth at any point
@@ -9199,7 +9200,7 @@ punished as provided in §
 16-1 of this code. In addition, the village manager may revoke any permit
 issued under this article to such person.
 (Ord. No. 2025-22-3627)
-ARTICLE XI. FENCES
+**** ARTICLE XI. FENCES ****
 § 9-74 DEFINITIONS.
    (a)   The terms used in this chapter shall have the definitions or meanings
 that such terms have in the zoning ordinance.
@@ -9401,7 +9402,7 @@ shall have been erected and constructed in violation of the provisions of this
 article, and the cost of such tearing down shall be charged to and recovered
 from the owner of such fence or wall or from the person for whom such fence or
 wall has been or is being erected.
-ARTICLE XII. STORM WATER RUNOFF RESTRICTIONS
+**** ARTICLE XII. STORM WATER RUNOFF RESTRICTIONS ****
 (Ord. No. 2007-19-3196)
 § 9-82 PURPOSE AND SCOPE.
    The purpose of this article XII is to preserve the landscaped character of
@@ -9507,7 +9508,7 @@ and the village shall have the right to assess its costs in connection with any
 such actions against the owner of the lot.
 (Ord. No. 2025-22-3627)
 §§ 9-84 - 9-87 REPEALED.
-ARTICLE XIII. LAND GRADES
+**** ARTICLE XIII. LAND GRADES ****
 § 9-87A GENERAL PROHIBITION.
    No person, firm or corporation shall alter or cause or permit the alteration
 of any existing land grade or contour if such alteration will:
@@ -9582,7 +9583,7 @@ foreclosed as provided in § 11-20-13 of the Illinois Municipal Code, Ill. Rev.
 Stat. ch. 24, § 11-20-13, pertaining to the removal of debris from private
 property.
 (Ord. No. 80-16-1616)
-ARTICLE XIV. FLOOD CONTROL REGULATIONS.
+**** ARTICLE XIV. FLOOD CONTROL REGULATIONS. ****
 (Ord. No. 2008-16-3227)
 § 9-94 PURPOSE.
    This article XIV is enacted pursuant to the police powers granted to this
@@ -11404,7 +11405,7 @@ and the invalidity of any portion of this article XIV shall not affect the
 validity of the remainder.
 §§ 9-108 - 9-109 RESERVED.
 (Ord. No. 2008-16-3227)
-ARTICLE XV. STEEP SLOPE REGULATIONS
+**** ARTICLE XV. STEEP SLOPE REGULATIONS ****
 § 9-110 INTRODUCTION.
    (a)   The topography of the Village of Glencoe is characterized by an
 abundance of ravines and bluffs. These are valuable land resources that should
@@ -11510,7 +11511,7 @@ be whichever toe that provides the greatest slope impact area. In plan view,
 the toe of bluff or ravine is depicted as continuous line, and is referred to
 as the toe line.
 (Ord. No. 2013-13-3343; Ord. No. 2025-22-3627)
-[https://export.amlegal.com/media/b4b86004867051fd62ac328f453554b16e9c429e/
+[https://export.amlegal.com/media/8e2f0271bc17d59ef46b6aeccc9122e52b4b04e0/
 IMAGES/0-0-0-4392.jpg]
  
 § 9-113 DEVELOPMENT IN SLOPE TRANSITION AREA.
@@ -11973,7 +11974,7 @@ has received all required permits and approvals prior to April 18, 2013,
 provided that such development is completed in compliance with all such
 permits, approvals, and other requirements of law.
 (Ord. No. 2013-13-3343)
-ARTICLE XVI. EXCAVATIONS
+**** ARTICLE XVI. EXCAVATIONS ****
 (Ord. No. 92-3-1869)
 § 9-125 EXCAVATIONS - WHEN ALLOWED; NUISANCES.
    In addition to the other requirements of this chapter, excavations may be
@@ -12502,7 +12503,7 @@ Division 3. Contracting Parties
 Statutory reference:
    For state law as to real estate brokers and salesmen generally, see Ill.
 Rev. Stat., ch. 114 ½, § 1 et seq.
-ARTICLE I. REAL ESTATE TRANSACTIONS
+**** ARTICLE I. REAL ESTATE TRANSACTIONS ****
 § 10A-1 DEFINITIONS.
    For the purposes of this article, the following words and phrases shall have
 the meanings respectively ascribed to them by this section.
@@ -12783,7 +12784,7 @@ following a full hearing before it pursuant to at least 15 days' notice given
 to such broker by certified mail directed to the address given in his or her
 application for license.
 (Ord. No. 68-13-1463, § 11; Ord. No. 75-4-1525)
-ARTICLE II. HUMAN RELATIONS ORDINANCE
+**** ARTICLE II. HUMAN RELATIONS ORDINANCE ****
 (Ord. No. 97-8-2031)
 § 10A-11 GENERAL PROVISIONS.
    This article shall be known and may be cited as the "Village of Glencoe
@@ -12813,7 +12814,7 @@ routinely reviewed by the Village Manager or designee to further promote
 inclusion of all individuals and compliance with laws of the County of Cook,
 the State of Illinois or the United States.
 (Ord. No. 2021-15-3511)
-Division 3. Contracting Parties
+*** Division 3. Contracting Parties ***
 § 10A-17 PROVISION STATEMENT OF POLICY.
    Each person, firm or entity with whom the village contracts shall be
 provided with a written copy of the village's policy with respect to
@@ -12942,7 +12943,7 @@ ch. 22
 Statutory reference:
    For state law as to authority of village to regulate, etc., laundries, etc.,
 see Ill. Rev. Stat. 1963, ch. 24, § 11-42-8
-ARTICLE I. DRY CLEANING ESTABLISHMENTS
+**** ARTICLE I. DRY CLEANING ESTABLISHMENTS ****
 § 12-1 LICENSE - REQUIRED; COMPLIANCE WITH ARTICLE ETC.
    No person shall conduct or operate a dry cleaning establishment in which
 coal oil, benzene, turpentine, petroleum or any of the products thereof are
@@ -12996,7 +12997,7 @@ other contagious disease in a dry cleaning establishment.
 Cross-reference:
    As to health and sanitation generally, see
 ch. 21
-ARTICLE II. DRY CLEANING OUTLETS
+**** ARTICLE II. DRY CLEANING OUTLETS ****
 § 12-9 DEFINED; LICENSE FEE.
    A DRY CLEANING OUTLET is hereby defined as any person engaged in calling for
 or delivering wearing apparel or other articles which are cleaned or renovated
@@ -13005,7 +13006,7 @@ carried on in the premises in the village. The annual license fee for such
 establishment shall be as set forth in the village’s Comprehensive Fee and Fine
 Schedule.
 (Ord. No. 80-10-1610; Ord. No. 92-2-1868; Ord. No. 2016-04-3394)
-ARTICLE III. LAUNDRIES
+**** ARTICLE III. LAUNDRIES ****
 § 12-10 LICENSE - REQUIRED; EXCEPTION.
    No person shall operate or conduct a laundry in the village without having
 obtained a license therefor; provided, that establishments licensed as dry
@@ -13171,7 +13172,7 @@ Article II. Public Garages
 15-19   Inspections - generally
    
 15-20   Same - police may view all cars; hindering police inspections
-ARTICLE I. FILLING STATIONS
+**** ARTICLE I. FILLING STATIONS ****
 § 15-1 "FILLING STATION" DEFINED.
    The term FILLING STATION as used in this article shall mean any building,
 structure, premises, enclosure or other place within the city where a container
@@ -13238,7 +13239,7 @@ ordinances which may be discovered during such inspections.
 accordance with the provisions of this code and other ordinances of the village
 relative thereto.
 (1929 Code, § 469)
-ARTICLE II. PUBLIC GARAGES
+**** ARTICLE II. PUBLIC GARAGES ****
 § 15-10 LICENSE - REQUIRED.
    No person shall operate or maintain a public garage in the village without
 having first obtained a license therefor.
@@ -13466,7 +13467,7 @@ Article III. Smoke Detectors
 17-5   Application
    
 17-6   Violation
-ARTICLE I. FIRE PREVENTION CODE
+**** ARTICLE I. FIRE PREVENTION CODE ****
 (Ord. No. 2011-16-3297)
 § 17-1 ADOPTION OF THE INTERNATIONAL FIRE CODE, 2021 EDITION.
    The provisions of the International Fire Code, 2021 Edition, as published by
@@ -13930,7 +13931,7 @@ Appendix M Adopted by Reference.
  
 (Ord. No. 2011-16-3297; Ord. No. 2014-05-3357; Ord. No. 2016-04-3394; Ord. No.
 2017-6-3414; Ord. No. 2025-22-3627)
-ARTICLE II. LIFE SAFETY CODE
+**** ARTICLE II. LIFE SAFETY CODE ****
 (Ord. No. 2011-16-3297)
 § 17-2 ADOPTION OF THE LIFE SAFETY CODE, 2021 EDITION.
    The Life Safety Code, 2024 Edition, (hereafter referred to as the “Life
@@ -13971,7 +13972,7 @@ Passim  Wherever the phrase “code official” appears, it shall be deemed to r
         this section.
  
 (Ord. No. 2011-16-3297; Ord. No. 2017-6-3414; Ord. No. 2025-22-3627)
-ARTICLE III. SMOKE DETECTORS
+**** ARTICLE III. SMOKE DETECTORS ****
 § 17-3 DEFINITIONS.
    For the purposes of this article:
    APPROVED SMOKE DETECTOR, SMOKE DETECTOR, or DETECTOR. A smoke detector of
@@ -14124,7 +14125,7 @@ Article II. Foreign Fire Insurance Board
 19-10   Election, powers, duties of foreign fire insurance board
    
 19-11   Management and administration fund
-ARTICLE I. FOREIGN FIRE INSURANCE TAX
+**** ARTICLE I. FOREIGN FIRE INSURANCE TAX ****
 § 19-1 "FOREIGN FIRE INSURANCE COMPANY" DEFINED.
    As used in this article, the term FOREIGN FIRE INSURANCE COMPANY shall mean
 a fire insurance corporation, company or association not incorporated under the
@@ -14182,7 +14183,7 @@ foreign fire insurance company, which shall be in default for not reporting or
 making payment provided in this chapter until it shall have complied with all
 the requirements of this chapter.
 (1929 Code, § 526)
-ARTICLE II. FOREIGN FIRE INSURANCE BOARD
+**** ARTICLE II. FOREIGN FIRE INSURANCE BOARD ****
 (Ord. No. 2010-11-3269)
 § 19-7 ESTABLISHMENT OF FOREIGN FIRE INSURANCE BOARD.
    There is hereby established a foreign fire insurance board, consisting of a
@@ -14369,7 +14370,7 @@ Article III. Fees and Billing
 20-22   General collection services fee
    
 20-23   Discontinuation of service
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 20-1 AUTHORITY AND APPLICATION.
    The Illinois Municipal Code (65 ILCS 5/1 et seq.) grants the village the
 authority to abate nuisances and to enter into contracts for the collection of
@@ -14515,7 +14516,7 @@ by suit or otherwise in accordance with applicable state statutes, and will be
 in addition to any fine or penalty imposed.
 (Ord. No. 2017-15-3423)
 § 20-10 RESERVED.
-ARTICLE II. COLLECTION SERVICES
+**** ARTICLE II. COLLECTION SERVICES ****
 § 20-11 SOLID WASTE COLLECTION.
    (a)   All premises within the village that generate solid waste must be
 serviced by either a public or private solid waste collection service at least
@@ -14673,7 +14674,7 @@ premises within the village, or for the transportation thereof through, in,
 upon or along any of the streets, avenues, alleys, public thoroughfares or
 public places in the village.
 (Ord. No. 2017-15-3423)
-ARTICLE III. FEES AND BILLING
+**** ARTICLE III. FEES AND BILLING ****
 § 20-21 COLLECTION FEES; BILLING; NON-PAYMENT PENALTIES.
    (a)   Billing. Fees for solid waste and recyclable materials collection will
 be billed quarterly as soon as practical, upon completion of the service
@@ -14932,7 +14933,7 @@ Statutory reference:
    As to public health generally, see Ill. Rev. Stat., ch. 111 ½
    As to vital statistics, see Ill. Rev. Stat. 1963, ch. 111 ½, §§ 73-1 to 73-
 29
-ARTICLE I. VITAL STATISTICS
+**** ARTICLE I. VITAL STATISTICS ****
 § 21-1 DUTY OF HEALTH OFFICER TO KEEP RECORDS.
    The health officer shall collect and keep records pertaining to abortions,
 miscarriages, stillbirths, births, illnesses, accidents and deaths relating to
@@ -14945,8 +14946,8 @@ Statutory reference:
    For state law as to appointment and duties of local registrars for
 registration of births and deaths, see Ill. Rev. Stat. 1963, ch. 111 ½, §§ 73-
 8, 73-9
-ARTICLE II. CONTROL OF DISEASE
-Division 1. Generally
+**** ARTICLE II. CONTROL OF DISEASE ****
+*** Division 1. Generally ***
 § 21-3 DUTY OF PERSONS TO REPORT DISEASES DANGEROUS TO PUBLIC HEALTH.
    It shall be the duty of every physician, dentist, other practitioner,
 hospital, attendant, nurse, laboratory, parent, householder, school authority
@@ -14972,7 +14973,7 @@ sustaining such illness or experiencing such circumstances.
 numerically important conditions, the health officer may develop programs that
 may be expected to reduce the number of residents who may ultimately sustain
 such illness or be exposed to such risk.
-Division 2. Communicable Diseases
+*** Division 2. Communicable Diseases ***
 § 21-6 DEFINITIONS.
    For the purposes of this division, the following words and phrases shall
 have the meaning respectively ascribed to them by this section.
@@ -15041,8 +15042,8 @@ immunization of all persons through mass procedures if, in the opinion of the
 health officer, such mass procedures are indicated. A person shall be deemed
 unable to employ a private physician if he or she states that he or she are
 unable to employ a private physician.
-ARTICLE III. ENVIRONMENTAL SANITATION
-Division 1. Air Pollution
+**** ARTICLE III. ENVIRONMENTAL SANITATION ****
+*** Division 1. Air Pollution ***
 § 21-14 DETERMINATION OF STATUS.
    The health officer is hereby authorized to undertake periodic determinations
 of the status of air pollution in the village as, from time to time,
@@ -15118,13 +15119,13 @@ elimination or control of such air pollutants of natural origin.
 1-7 shall not impair, invalidate or affect actions under the abatement
 provisions of this code.
 (Ord. No. 70-1-1470, § 2)
-Division 2. Water Supply
+*** Division 2. Water Supply ***
 § 21-16 POLLUTERS; CROSS-CONNECTIONS.
    (a)   It shall be unlawful for any person to pollute any watercourse or
 water supply in the village.
    (b)   It shall be unlawful for any person to establish a cross-connection
 between the public water system of the village and other water system.
-Division 3. Disposal of Human Excrement
+*** Division 3. Disposal of Human Excrement ***
 § 21-17 DISPOSAL IN PUBLIC SANITARY SEWER REQUIRED; PERMIT FOR EXCEPTIONS;
 RESCISSION OF PERMIT.
    (a)   Any method for the disposal of human excrement other than by
@@ -15140,7 +15141,7 @@ of human excrement is by a hazardous method.
 Cross-reference:
    As to sewers and sewage disposal, see
 ch. 11
-Division 4. Insects Dangerous to the Public Health
+*** Division 4. Insects Dangerous to the Public Health ***
 § 21-18 PROHIBITED GENERALLY.
    It shall be unlawful to permit any premises in the village to become a
 breeding site for insects or to become infested with insects in such a way as
@@ -15169,26 +15170,26 @@ prevent such breeding, shall be guilty of a violation of this section.
 § 21-22 SAME - PROOF OF MOSQUITO BREEDING.
    The presence of mosquito larvae in standing or running water shall be
 evidence that mosquitoes are breeding in such water.
-Division 5. Rodents
+*** Division 5. Rodents ***
 § 21-23 INFESTED PREMISES AND BREEDING SITES.
    It shall be unlawful to permit any premises in the village to become a
 breeding site for rodents or to become infested with rodents in such a way as
 to endanger health or permit the spread of such rodents to other premises.
-Division 6. Housing
+*** Division 6. Housing ***
 § 21-24 PROHIBITED WHEN DANGEROUS TO PUBLIC HEALTH.
    (a)   It shall be unlawful to permit any building, structure or place to be
 or remain in a condition in any way dangerous to the public health.
    (b)   Any such structure, building or place is hereby declared to be a
 nuisance.
-ARTICLE IV. PROMOTION OF PUBLIC HEALTH
+**** ARTICLE IV. PROMOTION OF PUBLIC HEALTH ****
 § 21-25 DUTY OF HEALTH OFFICER.
    The health officer shall make known to the citizens of the village those
 facts which from time to time become known concerning what individuals may do
 in the way of developing habits of eating, resting, recreation, working,
 thinking and feeling which will lead to the best attainable health and the
 prolongation of effective years of life.
-ARTICLE V. MILK AND FOOD
-Division 1. Generally
+**** ARTICLE V. MILK AND FOOD ****
+*** Division 1. Generally ***
 § 21-26 MILK AND MILK PRODUCTS GENERALLY.
    All milk sold in the village shall be pasteurized and the production,
 transportation, processing, handling, sampling, examination, grading, labeling
@@ -15208,9 +15209,9 @@ village.
    (b)   The department of health is hereby empowered to adopt and enforce such
 reasonable regulations as may be necessary which may supplement and amplify the
 Illinois Pure Food Law.
-Division 2. Food Service Establishments and Food Stores
+*** Division 2. Food Service Establishments and Food Stores ***
 (Ord. No. 98-19-2062)
-Subdivision I. Generally
+** Subdivision I. Generally **
 § 21-28 ADOPTION OF RETAIL FOOD STORE SANITATION CODE/1992; WHERE FILED.
    The provisions of the Retail Food Store Sanitation Code/1992, Illinois
 Department of Public Health, Office of Health Protection, Division of Food,
@@ -15505,7 +15506,7 @@ provided by §
 16-1. In addition thereto, such persons may be enjoined from continuing such
 violations. Each day upon which such a violation occurs shall constitute a
 separate violation.
-Division 3. Food Vending Machines
+*** Division 3. Food Vending Machines ***
 § 21-45 ADOPTION OF THE VENDING OF FOOD AND BEVERAGES/1978; WHERE FILED.
    The provisions of The Vending of Food and Beverages/1978, United States
 Department of Health, Education, and Welfare, Public Health Service, Food and
@@ -15541,7 +15542,7 @@ passim  designated representative.
 6-602   Delete this section without substitution.
  
 (Ord. No. 84-4-1690; 85-10-1716)
-ARTICLE VI. HAZARDOUS MATERIALS
+**** ARTICLE VI. HAZARDOUS MATERIALS ****
 § 21-46 DEFINITIONS.
    The following words, terms and phrases, when used in this article, shall
 have the meaning described herein in this section, except where the context
@@ -15758,7 +15759,7 @@ Division 3. Effective Dates of Rates
 Division 4. Appeals
    
 21A-82   Appeals
-ARTICLE I. DEFINITIONS
+**** ARTICLE I. DEFINITIONS ****
 § 21A-1 DEFINITIONS AND WORD USAGE.
    (a)   Unless the context specifically indicates otherwise, the meaning of
 the terms used in this chapter shall be as follows.
@@ -15957,8 +15958,8 @@ intermittently.
       VILLAGE. The Village of Glencoe, Cook County, Illinois.
    (b)   For purposes of this chapter the word SHALL is mandatory, and the word
 MAY is permissible.
-ARTICLE II. SEWER USE
-Division 1. Use of Public Sewers Required
+**** ARTICLE II. SEWER USE ****
+*** Division 1. Use of Public Sewers Required ***
 § 21A-2 ILLEGAL DISPOSAL OF WASTE.
    It shall be unlawful for any person to place, deposit or permit to be
 deposited in any unsanitary manner on public or private property within the
@@ -15992,7 +15993,7 @@ available.
    (b)   Footing drains shall be connected to sump pumps for further discharge
 to the storm sewer.
 §§ 21A-7 - 21A-9 RESERVED.
-Division 2. Private Sewage Disposal
+*** Division 2. Private Sewage Disposal ***
 § 21A-10 PRIVATE SEWAGE DISPOSAL SYSTEM; WHEN PERMITTED.
    Where a public sanitary (or combined) sewer is not available under the
 provisions of §
@@ -16046,7 +16047,7 @@ in a sanitary manner at all times, and at his or her own expense.
 § 21A-16 RELATION TO HEALTH REQUIREMENTS.
    No statement contained in this article shall be construed to interfere with
 any additional requirements that may be imposed by any public health authority.
-Division 3. Building Sewers and Public Sewer Connections
+*** Division 3. Building Sewers and Public Sewer Connections ***
 § 21A-17 RESTRICTIONS ON USE OF PUBLIC SEWERS.
    (a)   No unauthorized person shall uncover, connect with, open into, use,
 alter or disturb any public sewer or appurtenance thereof without first
@@ -16150,7 +16151,7 @@ accordance with the provisions of §§
 30-28 through
 30-39 of this code.
 §§ 21A-27 - 21A-29 RESERVED.
-Division 4. Use of the Public Sewers
+*** Division 4. Use of the Public Sewers ***
 § 21A-30 RUNOFF AND UNPOLLUTED DISCHARGES.
    (a)   No person shall discharge or cause to be discharged any storm water,
 surface water, ground water, roof runoff, subsurface drainage, uncontaminated
@@ -16330,7 +16331,7 @@ village for treatment, subject to payment by the industry of user charges in
 accordance with article III of this chapter, provided such payments are in
 accordance with federal and state guidelines for user charge systems.
 § 21A-40 RESERVED.
-Division 5. Protection of Waste Water Facilities from Damage
+*** Division 5. Protection of Waste Water Facilities from Damage ***
 § 21A-41 PROHIBITED ACTIVITIES.
    No unauthorized person shall maliciously, willfully or negligently break,
 damage, destroy or tamper with any structure, appurtenance or equipment which
@@ -16395,7 +16396,7 @@ works lying within the easement. All entry and subsequent work, if any, on the
 easement, shall be done in full accordance with the terms of the duly
 negotiated easement pertaining to the private property involved.
 §§ 21A-48 - 21A-49 RESERVED.
-Division 6. Penalties
+*** Division 6. Penalties ***
 § 21A-50 NOTICE OF VIOLATION.
    (a)   Any person found to be violating any provision of this chapter, except
 division 5, shall be served by the village with written notice stating the
@@ -16468,8 +16469,8 @@ invalid by the final decision of any court of competent jurisdiction, the
 remaining provisions of this section shall continue in effect.
 (Ord. No. 91-7-1848)
 §§ 21A-54 - 21A-60 RESERVED.
-ARTICLE III. USER CHARGES
-Division 1. Waste Water Service Charge Computation
+**** ARTICLE III. USER CHARGES ****
+*** Division 1. Waste Water Service Charge Computation ***
 § 21A-61 BASIS FOR WASTE WATER SERVICE CHARGES.
    (a)   Generally. The waste water service charge for the use of and for
 service supplied by the waste water facilities of the village shall consist of:
@@ -16604,7 +16605,7 @@ metering devices on the water supply or sewer main to measure the amount of
 service supplied or base usage on actual water consumption on that meter.
 (Ord. No. 2008-19-3230; Ord. No. 2020-30-3496)
 §§ 21A-65 - 21A-69 RESERVED.
-Division 2. General Provisions
+*** Division 2. General Provisions ***
 § 21A-70 BILLS; RESPONSIBILITY FOR PAYMENT.
    (a)   Rates or charges for service shall be payable quarterly or such other
 period for which bills may be rendered. The owner of the premises, the occupant
@@ -16727,7 +16728,7 @@ to the village system of user charges for the purpose of making audit,
 examination, excerpts and transcriptions thereof to insure compliance with the
 terms of the federal regulations and conditions of the federal grant.
 §§ 21A-79 - 21A-80 RESERVED.
-Division 3. Effective Date of Rates
+*** Division 3. Effective Date of Rates ***
 § 21A-81 EFFECTIVE DATE OF RATES.
    The rates and charges established for user charges in this article shall be
 effective commencing on the first day of the next fiscal year as defined in
@@ -16735,7 +16736,7 @@ Section 1-12 of this Code, and on bills to be rendered for the next succeeding
 quarter that commences on the first day of the next fiscal year for quarterly
 users.
 (Ord. No. 2020-03-3469)
-Division 4. Appeals
+*** Division 4. Appeals ***
 § 21A-82 APPEALS.
    (a)   The method of computation of rates and service charges established for
 user charges in this article shall be made available to a user within ten
@@ -16982,7 +16983,7 @@ see §
    As to village vehicle licenses, see §§
 23-65 to
 23-70
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 22-1 ISSUING OFFICER AND FORMS; ADDITIONAL FEES; EXEMPTIONS.
    (a)   In all cases where a license or a permit is required by this code or
 other village ordinance, such license or permit shall be issued by the village
@@ -17187,7 +17188,7 @@ the petition has been so filed.
    (f)   It shall not be necessary to secure a renewal of such consents, once
 given, for the continued operation of the business concerned.
 (1929 Code, § 263)
-ARTICLE II. CERTAIN SPECIFIC BUSINESSES
+**** ARTICLE II. CERTAIN SPECIFIC BUSINESSES ****
 § 22-18 BAKERIES.
    (a)   No person shall establish, maintain or operate any bakery without
 first having been licensed to do so. Every person establishing, maintaining or
@@ -17535,8 +17536,8 @@ service business shall permit any patron to bring into the restaurant, retail,
 or service business any alcoholic beverages for purposes of consuming them on
 the premises.
 (Ord. No. 2015-13a-3385, § 3)
-§§ 22-28 - 22-29 RESERVED.
-ARTICLE III. GENERAL BUSINESS LICENSES
+* §§ 22-28 - 22-29 RESERVED. *
+**** ARTICLE III. GENERAL BUSINESS LICENSES ****
 (Ord. No. 90-3-1812)
 § 22-30 LICENSE - REQUIRED.
    No person shall establish, operate, engage in, or conduct any business,
@@ -17591,7 +17592,7 @@ service business shall permit any patron to bring into the restaurant, retail,
 or service business any alcoholic beverages for purposes of consuming them on
 the premises.
 (Ord. No. 2015-13a-3385, § 3)
-ARTICLE IV. GROUP HOME REGISTRATION
+**** ARTICLE IV. GROUP HOME REGISTRATION ****
 (Ord. No. 90-2-1811)
 § 22-35 DEFINITION OF "GROUP HOME".
    (a)   For purposes of this article, the term GROUP HOME shall mean any
@@ -17636,7 +17637,7 @@ community integrated living arrangement, pursuant to Ill. Rev. Stat. ch. 91 ½
 §§1701-1709, if such home is located within 1,500 feet of any other community
 integrated living arrangement in the village.
 (Ord. No. 90-9-1818)
-ARTICLE V. LANDSCAPE AND LAWN CARE PROFESSIONALS
+**** ARTICLE V. LANDSCAPE AND LAWN CARE PROFESSIONALS ****
 (Ord. No. 2007-13-3190)
 § 22-38 DEFINITIONS.
    For purposes of this article V, the following words and phrases shall have
@@ -17834,7 +17835,7 @@ fine as set forth in the village’s Comprehensive Fee and Fine Schedule. Any
 violation of any other provision of the village code or ordinance of the
 village shall be subject to the fine applicable to such violation.
 (Ord. No. 2007-13-3190; Ord. No. 2014-05-3357; Ord. No. 2016-04-3394)
-ARTICLE VI. RAFFLES
+**** ARTICLE VI. RAFFLES ****
 (Ord. No. 2017-19-3427)
 § 22-44 ADOPTION; PURPOSE.
    (a)   This Article VI is adopted pursuant to the provisions of 230 ILCS 15/
@@ -18454,7 +18455,7 @@ see Ill. Rev. Stat. 1963, ch. 95 ½, § 123
 Stat. 1963, ch. 95 ½, §§ 185 to 188a
    For state law as to traffic signs, signals and markings, see Ill. Rev. Stat.
 1963, ch. 95 ½, §§ 126 to 132
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 23-1 DEFINITIONS.
    The following words and phrases when used in this chapter shall, for the
 purpose of this chapter, have the meanings respectively ascribed to them in
@@ -18686,7 +18687,7 @@ department.
 Statutory reference:
    For state law as to accidents generally, see Ill. Rev. Stat. 1963, ch. 95 ½,
 §§ 133 to 143
-ARTICLE II. BICYCLES
+**** ARTICLE II. BICYCLES ****
 § 23-15 SUBJECT TO TRAFFIC REGULATIONS.
    (a)   Bicycles are hereby classed as vehicles and every person operating a
 bicycle shall be subject to the provisions of all state vehicle laws and all
@@ -18912,7 +18913,7 @@ period to be prescribed by the department of public safety; or
 directed within the time period prescribed, shall be subject to a fine as set
 forth in the village’s Comprehensive Fee and Fine Schedule.
 (Ord. No. 06-22-3164; Ord. No. 2016-04-3394)
-ARTICLE III. PEDESTRIANS
+**** ARTICLE III. PEDESTRIANS ****
 § 23-46 PEDESTRIANS' RIGHT-OF-WAY AT CROSSWALKS.
    (a)   Where traffic-control signals are not in operation, the driver of a
 vehicle shall yield the right-of- way, slowing down or stopping if need be, to
@@ -19004,7 +19005,7 @@ walking on streets, highways or sidewalks but such fact shall not be considered
 evidence of contributory negligence.
 Statutory reference:
    For similar state law, see Ill. Rev. Stat. 1963, ch 95 ½, § 172a
-ARTICLE IV. TRAFFIC-CONTROL DEVICES
+**** ARTICLE IV. TRAFFIC-CONTROL DEVICES ****
 § 23-54 AUTHORITY TO INSTALL GENERALLY.
    The village manager shall cause to be placed and maintained traffic-control
 signs, signals and other devices when and as required under this chapter and
@@ -19167,7 +19168,7 @@ any railroad sign or signal or any inscription, shield or insignia thereon, or
 any other part thereof.
 Statutory reference:
    For similar state law, see Ill. Rev. Stat. 1963, ch. 95 ½, § 132
-ARTICLE V. VILLAGE LICENSES
+**** ARTICLE V. VILLAGE LICENSES ****
 § 23-65 REQUIRED.
    Any motor vehicle registered with the State of Illinois (or any other state)
 to an address within the corporate limits of the village by a person, residing
@@ -19209,7 +19210,7 @@ license to a different motor vehicle upon making application to the village,
 giving such information as may be required (i.e. documentation of sale) no
 later than 30 days after the date of sale.
 (Ord. No. 2014-19-3371; Ord. No. 2025-04-3608)
-ARTICLE VI. OPERATION OF VEHICLES
+**** ARTICLE VI. OPERATION OF VEHICLES ****
 § 23-71 DRIVING ON SIDEWALKS, ETC.
    The driver of a vehicle shall not drive within any parkway or sidewalk area
 except at a permanent or temporary driveway.
@@ -19457,7 +19458,7 @@ department officer in command.
 Statutory reference:
    For state law as to crossing fire hose, see Ill. Rev. Stat. 1963, ch. 95 ½,
 § 194
-ARTICLE VII. STOPPING, STANDING AND PARKING
+**** ARTICLE VII. STOPPING, STANDING AND PARKING ****
 § 23-84 MANNER OF PARKING.
    (a)   Every vehicle stopped or parked upon a roadway where there is an
 adjacent curb shall be so stopped or parked with the right-hand wheels of such
@@ -19647,7 +19648,7 @@ Fee and Fine Schedule. Unless the person subject to a fine timely requests a
 hearing on the citation, any citation not paid within ten days is subject to
 double pursuant to the village’s Comprehensive Fee and Fine Schedule.
 (Ord. No. 2018-09-3440; Ord. No. 2025-34-3639, § 3)
-ARTICLE VIII. BUSINESS DISTRICT PARKING
+**** ARTICLE VIII. BUSINESS DISTRICT PARKING ****
 § 23-94 DEFINITIONS.
    Whenever in this article the following terms are used, they shall have the
 meanings respectively ascribed to them in this section.
@@ -19803,7 +19804,7 @@ parking zone.
 for the regulation of traffic and parking in parking zones and not in conflict
 with other ordinances of the village.
 (Ord. No. 2016-12-3402)
-ARTICLE IX. TOWING
+**** ARTICLE IX. TOWING ****
 § 23-110 DEFINITIONS.
    For the purposes of this article, the following terms shall have the
 meanings stated in this section. Any term not defined herein shall have the
@@ -20200,7 +20201,7 @@ least 30 days in advance of a sale and shall be published at least 20 days in
 advance in a newspaper of general circulation in Cook County, Illinois.
 (Ord. No. 84-10-1696)
 §§ 23-118 - 23-119 RESERVED.
-ARTICLE X. OTHER MOTOR-DRIVEN VEHICLES ON STREETS AND HIGHWAYS
+**** ARTICLE X. OTHER MOTOR-DRIVEN VEHICLES ON STREETS AND HIGHWAYS ****
 § 23-120 DEFINITIONS.
    The following words and phrases when used in this article shall, for the
 purpose of this chapter, have the meanings respectively ascribed to them in
@@ -21156,7 +21157,7 @@ Article III. Itinerant Merchants
 25-17   License required; fee
    
 25-18   Fraud
-ARTICLE I. SOLICITATION
+**** ARTICLE I. SOLICITATION ****
 § 25-1 DEFINITIONS.
    For the purposes of this article, the following words and phrases shall have
 the meanings herein ascribed to them.
@@ -21552,7 +21553,7 @@ Schedule. The village shall issue a receipt to any person making payment
 pursuant to the provisions of this subsection
 25-13(b).
 (Ord. No. 2016-04-3394)
-ARTICLE II. SECONDHAND STORES
+**** ARTICLE II. SECONDHAND STORES ****
 § 25-14 LICENSE REQUIRED; FEE.
    No person shall operate or conduct a secondhand or resale store in the
 village without first having obtained a license therefor or without complying
@@ -21575,7 +21576,7 @@ receiving stolen goods, burglary or robbery.
 all articles purchased, which record, together with the articles themselves,
 shall be open to inspection by any member of the police department at all
 reasonable hours.
-ARTICLE III. ITINERANT MERCHANTS
+**** ARTICLE III. ITINERANT MERCHANTS ****
 § 25-17 LICENSE REQUIRED; FEE.
    No itinerant merchant shall do business in the village without first having
 obtained a license therefor. The fee for doing business as an itinerant
@@ -21714,7 +21715,7 @@ Article VIII. General Provisions
 26A-60   Violations
    
 26A-61   Interpretation
-ARTICLE I. STATEMENT OF PURPOSE AND GOALS
+**** ARTICLE I. STATEMENT OF PURPOSE AND GOALS ****
 § 26A-1 PURPOSE.
    The purpose of this chapter is to promote historic and architectural
 preservation in the village. The village seeks to protect, enhance and
@@ -21738,7 +21739,7 @@ level; and
    (g)   Educate the general public as to the significance of historic
 preservation.
 (Ord. No. 90-32-1841; Ord. No. 2013-10-3340)
-ARTICLE II. DEFINITIONS
+**** ARTICLE II. DEFINITIONS ****
 § 26A-3 DEFINITIONS.
    For the purpose of this chapter, certain words, phrases and terms, shall be
 construed as set forth in this article.
@@ -21827,7 +21828,7 @@ having a permanent location on or in the ground.
 be interpreted so as to give them the same meaning as they have in common usage
 and so as to give this chapter its most reasonable application.
 (Ord. No. 90-32-1841; Ord. No. 2013-10-3340)
-ARTICLE III. PRESERVATION COMMISSION
+**** ARTICLE III. PRESERVATION COMMISSION ****
 § 26A-5 COMMISSION CREATED.
    There is hereby created the preservation commission of the Village of
 Glencoe.
@@ -21965,8 +21966,8 @@ preservation materials shall be made available to the public.
 § 26A-15 RESERVED.
 (Ord. No. 05-17-3137; Ord. No. 90-32-1841; Ord. No. 10-01-3259; Ord. No. 2013-
 10-3340)
-ARTICLE IV. ESTABLISHMENT OF CERTIFIED LANDMARKS AND CERTIFIED HISTORIC
-DISTRICTS
+**** ARTICLE IV. ESTABLISHMENT OF CERTIFIED LANDMARKS AND CERTIFIED HISTORIC
+DISTRICTS ****
 § 26A-20 CRITERIA.
    The commission shall consider the criteria provided herein in order to
 recommend a structure, building, object or site for approval as a certified
@@ -22333,10 +22334,10 @@ status has been withdrawn. The board of trustees shall also direct that the
 ordinance withdrawing the certified status from a structure, building, object,
 site or area be recorded in the office of Cook County Recorder of Deeds.
 (Ord. No. 90-32-1841; Ord. No. 2013-10-3340)
-ARTICLE V. RESERVED
+**** ARTICLE V. RESERVED ****
 § 26A-30 - 26A-39 RESERVED.
 (Ord. 2013-10-3340)
-ARTICLE VI. FINANCIAL BENEFITS
+**** ARTICLE VI. FINANCIAL BENEFITS ****
 § 26A-40 INTENT; COOPERATION WITH ILLINOIS HISTORIC PRESERVATION AGENCY.
    To the extent that any tax advantages or public funds are made available to
 maintain or encourage historic preservation, it is the intent of this chapter
@@ -22357,7 +22358,7 @@ chapter as set forth in this section 26A-40.
 (Ord. No. 2013-10-2340)
 § 26A-41 - 26A-42 RESERVED.
 (Ord. No. 2013-10-2340)
-ARTICLE VII. CERTIFICATE OF APPROPRIATENESS
+**** ARTICLE VII. CERTIFICATE OF APPROPRIATENESS ****
 § 26A-50 CERTIFICATE OF APPROPRIATENESS.
    (a)   Unless expressly exempted herein, no alteration shall be allowed to,
 and no permits shall be issued for the alteration, demolition, signage or any
@@ -22672,7 +22673,7 @@ relating to the economic viability of the site. Economic hardship shall be but
 one criterion to be considered by the commission and, if applicable, by the
 board of trustees.
 (Ord. No. 90-32-1841; Ord. No. 2013-10-3340)
-ARTICLE VIII. GENERAL PROVISIONS
+**** ARTICLE VIII. GENERAL PROVISIONS ****
 § 26A-60 VIOLATIONS.
    Any person who violates any provision of this chapter shall be subject to
 the penalty provisions of chapter 16 of the Glencoe village code. In addition,
@@ -22735,7 +22736,7 @@ Article VIII. General Provisions
 26B-60   Violations
    
 26B-61   Interpretation
-ARTICLE I. STATEMENT OF PURPOSE AND GOALS
+**** ARTICLE I. STATEMENT OF PURPOSE AND GOALS ****
 § 26B-1 PURPOSE.
    The purpose of this chapter is to promote the recognition of structures,
 buildings, objects, sites, and areas in the village having historic and
@@ -22762,7 +22763,7 @@ area status upon structures, buildings, objects and sites on a local level; and
    (g)   Educate the general public as to the significance of historic
 preservation.
 (Ord. No. 2013-10-3340)
-ARTICLE II. DEFINITIONS
+**** ARTICLE II. DEFINITIONS ****
 § 26B-3 DEFINITIONS.
    For the purpose of this chapter, certain words, phrases and terms, shall be
 construed as set forth in this article.
@@ -22867,7 +22868,7 @@ having a permanent location on or in the ground.
 be interpreted so as to give them the same meaning as they have in common usage
 and so as to give this chapter its most reasonable application.
 (Ord. No. 2013-10-3340)
-ARTICLE III. HISTORIC PRESERVATION COMMISSION
+**** ARTICLE III. HISTORIC PRESERVATION COMMISSION ****
 § 26B-5 COMMISSION TO IMPLEMENT.
    The commission as established under article III of
 chapter 26A of the village code shall implement the provisions of this
@@ -22900,9 +22901,9 @@ district;
    (d)   To determine an appropriate design of markers for honorary landmarks
 and recognized historic areas.
 (Ord. No. 2013-10-3340)
-§§ 26B-8 - 26B-19 RESERVED.
+* §§ 26B-8 - 26B-19 RESERVED. *
 (Ord. No. 2013-10-3340)
-ARTICLE IV. ESTABLISHMENT OF LANDMARKS AND HISTORIC DISTRICTS
+**** ARTICLE IV. ESTABLISHMENT OF LANDMARKS AND HISTORIC DISTRICTS ****
 § 26B-20 CRITERIA.
    The commission shall consider the criteria set forth in section
 26A-20 of the village code in order to recommend a structure, building, object
@@ -23088,7 +23089,7 @@ that the ordinance withdrawing the honorary status from a structure, building,
 object, site or area be recorded in the office of Cook County Recorder of
 Deeds.
 (Ord. No. 2013-10-3340)
-ARTICLE V. ADVISORY REVIEW
+**** ARTICLE V. ADVISORY REVIEW ****
 § 26B-30 ADVISORY REVIEW.
    (a)   Unless expressly exempted herein, no permits for the alteration,
 demolition, signage or any other physical modifications of an honorary landmark
@@ -23160,9 +23161,9 @@ safety.
 described in section
 26A-53 of the village code, as applicable.
 (Ord. No. 2013-10-3340)
-§§ 26B-33 - 26B-39 RESERVED.
+* §§ 26B-33 - 26B-39 RESERVED. *
 (Ord. No. 2013-10-3340)
-ARTICLE VI. FINANCIAL BENEFITS
+**** ARTICLE VI. FINANCIAL BENEFITS ****
 § 26B-40 INTENT.
    It is the express intention of the board of trustees that this
 chapter 26B not be considered for, nor presented to the Illinois Historic
@@ -23180,12 +23181,12 @@ granting of financial benefits in furtherance of historic preservation) to
 effect the intent of this chapter as set forth in this section
 26B-40.
 (Ord. No. 2013-10-3340)
-§§ 26B-41 - 26B-49 RESERVED.
+* §§ 26B-41 - 26B-49 RESERVED. *
 (Ord. No. 2013-10-3340)
-ARTICLE VII. RESERVED
-§§ 26B-50 - 26B-59 RESERVED.
+**** ARTICLE VII. RESERVED ****
+* §§ 26B-50 - 26B-59 RESERVED. *
 (Ord. No. 2013-10-3340)
-ARTICLE VIII. GENERAL PROVISIONS
+**** ARTICLE VIII. GENERAL PROVISIONS ****
 § 26B-60 VIOLATIONS.
    Any person who violates any provision of this chapter shall be subject to
 the penalty provisions of
@@ -23779,7 +23780,7 @@ of driveways, see Ill. Rev. Stat. 1963, ch. 24, § 11-30-8
 buildings and lots, see Ill. Rev. Stat. 1963, ch. 24, § 11-80-18
    For state law as to general powers of village over streets and public ways,
 see Ill. Rev. Stat. 1963, ch. 24, §§ 11-80-1 to 11-80-22
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 30-1 SUPERVISION, ETC.
    (a)   All streets, sidewalks, alleys and public ways in the village shall be
 under the supervision of the village manager.
@@ -23842,7 +23843,7 @@ Cross-reference:
 Statutory reference:
    For state law as to authority of village to prevent and regulate use of
 streets for amusements, see Ill. Rev. Stat. 1963, ch. 24, § 11-80-9
-ARTICLE II. SIDEWALK CONSTRUCTION
+**** ARTICLE II. SIDEWALK CONSTRUCTION ****
 § 30-10 APPLICABILITY OF ARTICLE TO CERTAIN WORK.
    The provisions of this article shall not apply to sidewalks which are laid
 by the village or by the board of local improvements.
@@ -23877,7 +23878,7 @@ plans and specifications for a sidewalk incorporated pursuant to §
    All sidewalks shall be five feet in width, unless specific provision to the
 contrary is made authorizing the construction of a particular sidewalk.
 (1929 Code, § 206)
-ARTICLE III. DRIVEWAY CONSTRUCTION AND ALTERATION
+**** ARTICLE III. DRIVEWAY CONSTRUCTION AND ALTERATION ****
 § 30-16 COMPLIANCE WITH ARTICLE REQUIRED.
    No person shall construct, build, establish or maintain upon any public
 thoroughfare a driveway from any property abutting such public thoroughfare to
@@ -24004,7 +24005,7 @@ established; provided, that a permit therefor is obtained from the village
 manager. Such temporary driveway shall be properly planked so that the parkway,
 sidewalk and curb are adequately protected from injury.
 (Ord. No. 1392, § 1)
-ARTICLE IV. EXCAVATIONS AND TUNNELS
+**** ARTICLE IV. EXCAVATIONS AND TUNNELS ****
 § 30-28 COMPLIANCE WITH ARTICLE REQUIRED.
    It shall be unlawful for any person to make any excavation in any street,
 parkway, alley or public place, or to tunnel under any street, parkway, alley
@@ -24094,7 +24095,7 @@ not been complied with, the work shall be done by the village, and accurate
 account of the expense involved shall be kept, and the total cost shall be
 charged to the person who made the excavation or tunnel.
 (1929 Code, § 196) (Ord. No. 1314)
-ARTICLE V. PARKING CUTOUT CONSTRUCTION
+**** ARTICLE V. PARKING CUTOUT CONSTRUCTION ****
 § 30-40 "PARKING CUTOUT" DEFINED.
    As used in this article, the term PARKING CUTOUT shall mean a space, located
 on any public thoroughfare adjacent to a village pavement, used primarily for
@@ -24212,7 +24213,7 @@ with respect to other cutouts when it is found that there are practical
 difficulties or particular hardships in the way of carrying out the strict
 letter of this article.
 (Ord. No. 1323)
-ARTICLE VI. OBSTRUCTIONS, PROJECTIONS AND ENCROACHMENTS
+**** ARTICLE VI. OBSTRUCTIONS, PROJECTIONS AND ENCROACHMENTS ****
 § 30-54 AWNINGS AND PROJECTING SIGNS.
    (a)   All movable awnings shall be elevated at least seven feet at the
 lowest part of the main wood frame thereof and not less than six feet six
@@ -24369,7 +24370,7 @@ in place on April 20, 1953.
 Statutory reference:
    For state law as to authority of village to prevent, etc., encroachments,
 etc., upon streets, etc., see Ill. Rev. Stat. 1963, ch. 24, § 11-80-3
-ARTICLE VII. NUMBERING BUILDINGS
+**** ARTICLE VII. NUMBERING BUILDINGS ****
 § 30-64 REQUIRED.
    It is hereby made the duty of the owner, agent or person in possession of
 every building in the village to number it in the manner provided in this
@@ -24408,7 +24409,7 @@ be not less than three inches in height, being so marked as to be easily read.
 Such numbers shall be placed in a conspicuous place of the side of the house
 nearest to the street.
 (1929 Code, § 201)
-ARTICLE VIII. SNOW REMOVAL
+**** ARTICLE VIII. SNOW REMOVAL ****
 (Ord. No. 90-3-1812)
 § 30-68 DEFINITION.
    The term SNOW REMOVAL as used in this article is hereby defined as and shall
@@ -24470,7 +24471,8 @@ manager.
    (c)   No agreement entered into pursuant to this section shall be for a
 period in excess of 12 months.
 (Ord. No. 2010-19-3277)
-ARTICLE IX. CONSTRUCTION OF UTILITY FACILITIES IN THE PUBLIC RIGHTS-OF-WAY
+**** ARTICLE IX. CONSTRUCTION OF UTILITY FACILITIES IN THE PUBLIC RIGHTS-OF-WAY
+****
 (Ord. No. 2007-03-3180, replaced in its entirety by Ord. No. 2007-24-3201)
 § 30-72 PURPOSE AND SCOPE.
    (a)   Purpose. The purpose of this article is to establish policies and
@@ -26178,7 +26180,7 @@ competent jurisdiction, such portion shall be deemed a separate, distinct and
 independent provision and such holding shall not affect the validity of the
 remaining portions hereof.
 (Ord. No. 2007-03-3180; Ord. No. 2007-24-3201)
-ARTICLE X. COAL TAR SEALANT PROHIBITION
+**** ARTICLE X. COAL TAR SEALANT PROHIBITION ****
 § 30-98 PURPOSE.
    The purpose of this article, and the police of the Village, is to ban the
 retail sale of coal tar sealant products and application and/or use of coal tar
@@ -26340,7 +26342,7 @@ Cross-reference:
 Statutory reference:
    For state law as to planning, zoning, etc., generally, see Ill. Rev. Stat.
 1963, ch. 24, §§ 11-11-1 et seq.
-ARTICLE I-A. GENERAL PROVISIONS
+**** ARTICLE I-A. GENERAL PROVISIONS ****
 (Ord. No. 2005-08-3128)
 § 31-1.1 JURISDICTION.
    The Glencoe subdivision code shall apply to every subdivision either within
@@ -26475,7 +26477,7 @@ shall in every instance be held to be the minimum reasonable requirements
 adopted for the promotion of public health, safety, comfort, morals and welfare
 of the people of the village.
 (Ord. No. 2005-08-3128)
-ARTICLE I-B. ADMINISTRATION
+**** ARTICLE I-B. ADMINISTRATION ****
 (Ord. No. 2005-08-3128)
 § 31-1.5 APPLICATION AND COMPLIANCE REQUIRED.
    (a)   Subdivision. No subdivision shall be undertaken within the
@@ -26688,7 +26690,7 @@ for any such permit or authorization; and
    (d)   To refuse to accept for processing or consideration any future
 application for any such permit or authorization.
 (Ord. No. 2005-08-3128)
-ARTICLE I-C. APPLICATION REQUIREMENTS
+**** ARTICLE I-C. APPLICATION REQUIREMENTS ****
 (Ord. No. 2005-08-3128)
 § 31-1.14 PRE-APPLICATION REVIEW SUBMITTALS.
    Prior to the processing of a preliminary plat of subdivision or a plat of
@@ -26971,7 +26973,7 @@ prepared in accordance with the requirements of § 6 of the Illinois Plat Act,
 765 ILCS 205/6, and shall have the form and content provided in §
 31-1.18 of this chapter for final plats of subdivision.
 (Ord. No. 2005-08-3128)
-ARTICLE I-D. SUBDIVISION REVIEW PROCESS
+**** ARTICLE I-D. SUBDIVISION REVIEW PROCESS ****
 (Ord. No. 2005-08-3128)
 § 31-1.20 PRE-APPLICATION REVIEW.
    (a)   As a prerequisite to any preliminary plat application or application
@@ -27315,7 +27317,7 @@ entitle the applicant to any other approval or issuance of any permit until
 after all of the standards and procedures for such other approval or issuance
 of a permit have been satisfied.
 (Ord. No. 2005-08-3128)
-ARTICLE II. VILLAGE PLAN
+**** ARTICLE II. VILLAGE PLAN ****
 § 31-2.1 ADOPTED, MADE OFFICIAL.
    The comprehensive plan of public improvements looking to the present and
 future development of the village, which plan has been prepared and recommended
@@ -27377,9 +27379,9 @@ record or shall be valid unless the subdivision shown thereon shall provide for
 streets, public grounds and improvements in conformity with the requirements
 applicable thereto in the village plan.
 (Ord. No. 1292, art. 1, § 4)
-ARTICLE III. PLATS
+**** ARTICLE III. PLATS ****
 (Deleted by Ord. No. 06-09-3151)
-ARTICLE III. SUBDIVISION DESIGN STANDARDS
+**** ARTICLE III. SUBDIVISION DESIGN STANDARDS ****
 (Ord. No. 06-09-3151)
 § 31-3.1 CONSISTENCY WITH ZONING CODE AND COMPREHENSIVE PLAN; TECHNICAL
 STANDARDS.
@@ -28172,7 +28174,7 @@ Efficiency 0.000     0.000      0.000     0.000     0.000     1.294  1.294
 or more
  
 (Ord. No. 06-24-3166; Ord. No. 08-17-3228)
-ARTICLE IV. PUBLIC IMPROVEMENTS
+**** ARTICLE IV. PUBLIC IMPROVEMENTS ****
 (Ord. No. 06-09-3151)
 § 31-4.1 GENERAL REQUIREMENTS.
    The applicant shall provide, at his or her sole expense, the public
@@ -28503,7 +28505,7 @@ Statutory reference:
 draymen, carters, expressmen, etc., see Ill. Rev. Stat. 1963, ch. 24, § 11-42-6
    For state law as to local transportation systems generally, see Ill. Rev.
 Stat. 1963, ch. 24, § 23-116
-ARTICLE I. TAXICABS
+**** ARTICLE I. TAXICABS ****
 § 32-1 TAXICAB LICENSE GENERALLY - REQUIRED.
    It shall be unlawful for any person to operate a taxicab or a public
 passenger vehicle for hire which is not used as a part of and in connection
@@ -28798,7 +28800,7 @@ village manager, and a written report shall be submitted to the director of
 public safety indicating that each licensed taxicab has successfully passed
 these periodic inspections and tests.
 (Ord. No. 2001-12-3029)
-ARTICLE II. BUS LINES
+**** ARTICLE II. BUS LINES ****
 § 32-31 DEFINITIONS.
    For the purposes of this Article II of
 Chapter 32, the following words and phrases shall have the meanings
@@ -28953,7 +28955,7 @@ and all orders and directions of traffic officers and all traffic signals.
 licensed under this article shall be careful and competent drivers and shall
 conduct themselves in an orderly manner.
 (1929 Code, § 452)
-ARTICLE III. DRAYMEN, CARTERS AND EXPRESSMEN
+**** ARTICLE III. DRAYMEN, CARTERS AND EXPRESSMEN ****
 § 32-38 LICENSE - REQUIRED.
    It shall be unlawful for any person to conduct the business of drayman,
 carter or expressman in the village without having obtained a license therefor.
@@ -28986,7 +28988,7 @@ have printed thereon, in a place easily visible from the side of the vehicle,
 the name and address of the owner thereof in letters legible to one of normal
 eyesight at a distance of 25 feet.
 (1929 Code, § 463)
-ARTICLE IV. CHAUFFEURS
+**** ARTICLE IV. CHAUFFEURS ****
 (Ord. No. 90-3-1812)
 § 32-43 LICENSE - REQUIRED.
    It shall be unlawful for any person to be a chauffeur in the village without
@@ -29151,7 +29153,7 @@ Cross-reference:
    As to powers and duties of director of public works in connection with trees
 located in public streets, etc., see §
 2-76
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 34-1 NUISANCE TREES, SHRUBS, AND WEEDS - DUTY OF OWNERS AND OCCUPANTS.
    (a)   All weeds; any tree or shrub overhanging any public sidewalk, street,
 avenue, alley or any other public property so as to interfere with pedestrian
@@ -29217,7 +29219,7 @@ carry out and execute the terms of this article and to aid him or her in
 fulfilling the same he or she may require members of the police force or fire
 department to assist him or her.
 (1929 Code, § 229)
-ARTICLE II. NUISANCE TREES
+**** ARTICLE II. NUISANCE TREES ****
 § 34-8 NUISANCE TREES - GENERALLY.
    A tree which is determined by the village arborist, as defined in § 34-22 of
 this chapter, to be a nuisance tree is one which is dead or declining and has
@@ -29486,8 +29488,8 @@ amended.
 foreclosed on in accordance with the processes set forth in § 11-20-15.1(d) of
 the Illinois Municipal Code (65 ILCS 5/11-20-15.1(d)), as amended.
 (Ord. No. 2022-12-3532, § 2)
-ARTICLE III. TREE PRESERVATION
-Division 1. General
+**** ARTICLE III. TREE PRESERVATION ****
+*** Division 1. General ***
 (Ord. No. 2000-10-2092)
 § 34-21 PURPOSE AND POLICY.
    The purpose of this article is to protect, preserve and enhance the forested
@@ -29556,7 +29558,7 @@ There may at any time be more than one village arborist.
 that is defined in the Glencoe zoning code, shall have the meaning ascribed to
 it by the zoning code.
 (Ord. No. 2000-10-2092; Ord. No. 2022-12-3532, § 2)
-Division 2. Tree Permit Procedures
+*** Division 2. Tree Permit Procedures ***
 § 34-23 TREE PERMIT REQUIRED.
    Any person that proposes to undertake any tree impact activity shall be
 required to obtain a tree permit from the village arborist prior to the
@@ -29632,11 +29634,11 @@ tree is desired, the applicant shall receive a tree permit, subject to
 satisfying the tree replacement condition prescribed in the tree permit.
    (e)   When issuing a tree permit, the village arborist may establish such
 conditions as may be necessary or appropriate to achieve the purposes of this
-article, including without limitation the installation of fencing to protect
-the drip line of any priority tree. Any applicant receiving a tree permit shall
-be required to comply strictly with the terms and conditions of such tree
-permit, including the priority tree plan, at the applicant's sole cost and
-expense.
+article, including without limitation the tree preservation and protection
+requirements as described in Section 31-3. Any applicant receiving a tree
+permit shall be required to comply strictly with the terms and conditions of
+such tree permit, including the priority tree plan, at the applicant’s sole
+cost and expense.
    (f)   Notwithstanding anything in this section to the contrary, to the
 extent a tree permit is sought for a removable tree, the village arborist shall
 issue the tree permit without any tree replacement obligation.
@@ -29644,7 +29646,7 @@ issue the tree permit without any tree replacement obligation.
 the tree, exposes a tree to decay, and permits invasion from insects and
 disease. In addition, the loss of foliage starves the tree, weakening the
 roots, and reducing the tree's structural strength.
-(Ord. No. 2022-12-3532, § 2)
+(Ord. No. 2022-12-3532, § 2; Ord. No. 2026-04-3646)
 § 34-26 TREE REPLACEMENT STANDARDS.
    (a)   Whenever a tree permit is subject to a tree replacement obligation due
 to the cutting or destruction of a priority tree, the village arborist shall
@@ -29704,7 +29706,7 @@ and replaced with a tree(s) that is not a heritage tree(s), the replacement
 tree must measure two caliper inches for each DBH inch of the removed heritage
 tree.
 (Ord. No. 2000-10-2092; Ord. No. 2009-11-3244)
-Division 3. Administration and Enforcement
+*** Division 3. Administration and Enforcement ***
 § 34-27 APPLICATION FORMS, FEES AND INCIDENTAL RULES; APPEALS.
    (a)   The village manager is hereby authorized to establish any incidental
 rules or regulations that may be necessary to implement the provisions of this
@@ -29777,7 +29779,7 @@ article shall be deemed a separate offense.
 a priority tree without a permit due to emergency circumstances, the village
 arborist shall have the authority to waive any penalty or to issue a tree
 permit after the fact of such cutting or destruction.
-ARTICLE IV. PARKWAY TREE MANAGEMENT
+**** ARTICLE IV. PARKWAY TREE MANAGEMENT ****
 § 34-30 PURPOSE.
    The purpose of this article is to define the scope of protection,
 preservation, management, removals, care and pruning, selection, and planting
@@ -29796,9 +29798,13 @@ describes best practices for managing trees in the village, as amended from
 time to time.
 (Ord. No. 2022-12-3532, § 2)
 § 34-32 PARKWAY TREE AUTHORITY.
-   The Village of Glencoe, through its public works department, shall have sole
-authority to manage, maintain, remove, and plant all parkway trees.
-(Ord. No. 2022-12-3532, § 2)
+   The Village of Glencoe, acting through the Public Works Director, or through
+the Director’s authorized designee having the qualifications of the Village
+Arborist, shall have sole authority to manage, maintain, remove, and plant all
+parkway trees. In the event the Public Works Director does not authorize a
+designee, the Public Works Director shall consult with a Village Arborist on
+all decisions related to trees under this code.
+(Ord. No. 2022-12-3532, § 2; Am. Ord. 2026-04-3646)
 § 34-33 PARKWAY TREE MAINTENANCE AND MANAGEMENT.
    The Urban Forestry Management Plan is hereby adopted by reference for the
 purpose of guiding the village's planting, care, pruning, and general
@@ -29808,7 +29814,7 @@ management of parkway trees.
    Trees listed on the not approved list in Appendix A of the Urban Forestry
 Management Plan shall not be used as parkway trees.
 (Ord. No. 2022-12-3532, § 2)
-ARTICLE V. TREE COMMISSION
+**** ARTICLE V. TREE COMMISSION ****
 § 34-35 COMMISSION CREATED.
    There is hereby created the tree commission of the Village of Glencoe.
 (Ord. No. 2022-12-3532, § 2)
@@ -29923,7 +29929,7 @@ Article III. Separability; Effective Date
 34A-14   Separability
    
 34A-15   Effective date
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 34A-1 PURPOSE.
    It is intended that this chapter establish standardized and uniform
 collection enforcement procedures for all monies due to the village.
@@ -29951,7 +29957,7 @@ considering the facts and circumstances involved in each particular case.
 this chapter shall not constitute a waiver of its rights to proceed under
 administrative regulations and provisions of the village, other provisions of
 this chapter, this code or applicable state statutes.
-ARTICLE II. ENFORCEMENT PROCEDURES
+**** ARTICLE II. ENFORCEMENT PROCEDURES ****
 § 34A-4 FIRST NOTICE; LATE PAYMENT PENALTY.
    (a)   If, at the end of 30 days after any monies, as provided in §
 34A-2, due to the village have not been received, the village clerk or the
@@ -30095,7 +30101,7 @@ actions which may be available to enforce payment of monies due the village.
 § 34A-13 DEPOSIT IN FUNDS.
    Monies recovered shall be placed in the appropriate special fund, if any.
 Otherwise, such monies shall be deposited in the general fund.
-ARTICLE III. SEPARABILITY; EFFECTIVE DATE
+**** ARTICLE III. SEPARABILITY; EFFECTIVE DATE ****
 § 34A-14 SEPARABILITY.
    If any section, subsection, sentence, clause, phrase or portion of this
 chapter is for any reason held invalid or unconstitutional by any court of
@@ -30365,7 +30371,7 @@ Article IX: Home Rule Tax
 35A-75   Collection and enforcement of taxes
    
 35A-76   Effective date
-ARTICLE I. TAXATION
+**** ARTICLE I. TAXATION ****
 (Ord. No. 92-28-1894; Ord. No. 2000-34-3016)
 § 35A-1 DEFINITIONS.
    For the purposes of this article, the following words and phrases shall have
@@ -30471,8 +30477,8 @@ as compensation for the use of its streets, alleys or other public places, or
 for the installation and maintenance of poles, wires, pipes or other equipment
 used in the operation of the taxpayer's business.
 (Ord. No. 92-28-1894; Ord. No. 2000-34-3016)
-§ 35A-5 WITH RESPECT TO THE TAXES IMPOSED PURSUANT TO §
-35A-2(a) OF THIS ARTICLE, RETURNS TO BE FILED; PAYMENT OF TAX.
+§ 35A-5 WITH RESPECT TO THE TAXES IMPOSED PURSUANT TO § 35A-2(a) OF THIS
+ARTICLE, RETURNS TO BE FILED; PAYMENT OF TAX.
    (a)   On or before the last day of August, 1983, each taxpayer shall make a
 return to the village treasurer for the month of July, 1983, stating
 taxpayer's:
@@ -30569,7 +30575,7 @@ who makes a fraudulent return, or who willfully violates any other provision of
 this chapter shall be subject to the penalties provided in §
 35A-47 of this code.
 (Ord. No. 2000-34-3016)
-ARTICLE II. TELECOMMUNICATIONS TAX
+**** ARTICLE II. TELECOMMUNICATIONS TAX ****
 § 35A-8 DEFINITIONS.
    For the purposes of this article, the following words and phrases shall have
 the meaning respectively ascribed to them by this section.
@@ -30673,7 +30679,7 @@ who makes a fraudulent return, or who willfully violates any other provision of
 this chapter shall be subject to the penalties provided in §
 35A-47 of this code.
 (Ord. No. 2000-34-3016)
-ARTICLE III. ENHANCED 9-1-1 SURCHARGE
+**** ARTICLE III. ENHANCED 9-1-1 SURCHARGE ****
 (Ord. No. 93-21-1926)
 § 35A-16 DEFINITIONS.
    For the purpose of this article the following words and phrases shall have
@@ -30701,7 +30707,7 @@ within the corporate limits of the village and terminating within the State of
 Illinois. A network connection shall not be deemed to be in service if the
 subscriber’s account for such connection is uncollectible.
 §§ 35A-18 - 35A-25 RESERVED FOR FUTURE USE.
-ARTICLE IV. TELECOMMUNICATIONS INFRASTRUCTURE MAINTENANCE FEE
+**** ARTICLE IV. TELECOMMUNICATIONS INFRASTRUCTURE MAINTENANCE FEE ****
 (Ord. No. 97-16-2039)
 § 35A-26 DEFINITIONS.
    For the purposes of this article, the following words and phrases shall have
@@ -30977,7 +30983,7 @@ remaining portions hereof.
 thereof adopted prior hereto which are in conflict herewith, to the extent of
 such conflict.
 (Ord. No. 97-16-2039)
-ARTICLE V. TAXPAYERS' RIGHTS
+**** ARTICLE V. TAXPAYERS' RIGHTS ****
 (Ord. No. 2000-34-3016)
 § 35A-36 DEFINITIONS.
    As used in this chapter, the following terms shall have the following
@@ -31208,7 +31214,7 @@ criminal penalties) and, in addition, shall be liable in a civil action for the
 full amount of the tax due plus the applicable amount of interest.
 (Ord. No. 2000-34-3016)
 §§ 35A-48 - 35A-49  RESERVED FOR FUTURE USE.
-ARTICLE VI. MUNICIPAL MOTOR FUEL TAX
+**** ARTICLE VI. MUNICIPAL MOTOR FUEL TAX ****
 (Ord. No. 2020-05-3471 (superseded by Ord. No. 2020-10-3476))
 § 35A-50 DEFINITIONS AND USAGE.
    Whenever used in this Article VI, the term MOTOR FUEL shall have the meaning
@@ -31237,7 +31243,7 @@ Revenue of the State of Illinois shall have full power to administer and
 enforce the provisions of this section.
 (Ord. No. 2020-10-3476)
 §§ 35A-53 - 35A-54  RESERVED FOR FUTURE USE.
-ARTICLE VII. FOOD AND BEVERAGE TAX
+**** ARTICLE VII. FOOD AND BEVERAGE TAX ****
 (Ord. No. 2020-05-3471; Ord. No. 2025-29-3634)
 § 35A-55 DEFINITIONS.
    For the purposes of this article, the following words and phrases shall have
@@ -31435,7 +31441,7 @@ for by this subsection shall not be discharged or released from the payment of
 any tax due.
 (Ord. No. 2020-04-3470; Ord. No. 2025-29-3634)
 §§ 35A-64 - 35A-69 RESERVED FOR FUTURE USE.
-ARTICLE VIII. GROCERY TAX
+**** ARTICLE VIII. GROCERY TAX ****
 (Ord. No. 2025-13-3617; Ord. No. 2025-17-3621)
 § 35A-70 MUNICIPAL GROCERY RETAILERS' OCCUPATION TAX IMPOSED.
    A tax is hereby imposed upon all persons engaged in the business of selling
@@ -31463,7 +31469,7 @@ the full power to administer and enforce the provisions of this article.
    The taxes imposed by this Article VIII are and will be effective as of and
 after January 1, 2026.
 (Ord. No. 2025-17-3621)
-ARTICLE IX: HOME RULE TAX
+**** ARTICLE IX: HOME RULE TAX ****
 (Ord. No. 2025-28-3633)
 § 35 A-74 TAXES IMPOSED.
    (a)   Home Rule Municipal Retailers' Occupation Tax. A tax is hereby imposed
@@ -31627,7 +31633,7 @@ Article III. Water Shortage Crisis
 36-53   Failure to obey orders
    
 36-54   Seasonal lawn sprinkling restrictions
-ARTICLE I. IN GENERAL
+**** ARTICLE I. IN GENERAL ****
 § 36-1 POLLUTING WATERS OF LAKE MICHIGAN, ETC.
    No person shall throw, place or deposit, or cause to be thrown, placed or
 deposited, or permit his or her servant, child or other member of his or her
@@ -31648,7 +31654,7 @@ any watercourse or source of water supply in the village.
 nuisance. It shall be unlawful for any person to permit any such nuisance to
 remain or exist on property under his or her control.
 (1929 Code, § 593)
-ARTICLE II. WATER SUPPLY
+**** ARTICLE II. WATER SUPPLY ****
 § 36-4 DEFINITIONS.
    Unless otherwise expressly stated or the context clearly indicates a
 different intention, the following terms shall, for the propose of this
@@ -32558,7 +32564,7 @@ conformance fee set forth in the village’s Comprehensive Fee and Fine Schedule
 to the customer’s water account.
 (Ord. No. 2014-05-3357; Ord. No. 2016-04-3394; Ord. No. 2023-31-3576)
 § 36-50 RESERVED.
-ARTICLE III. WATER SHORTAGE CRISIS
+**** ARTICLE III. WATER SHORTAGE CRISIS ****
 § 36-51 EMERGENCY POWERS OF PRESIDENT.
    In the event that the Secretary of the Illinois Department of Transportation
 declares a water shortage crisis, the village president may order the following
@@ -32657,7 +32663,8 @@ Article II. Cable and Video Customer Protection Law
 38-22   Penalties
    
 38-23   Customer credits
-ARTICLE I. CABLE/VIDEO SERVICE PROVIDER FEE AND PEG ACCESS SUPPORT FEE
+**** ARTICLE I. CABLE/VIDEO SERVICE PROVIDER FEE AND PEG ACCESS SUPPORT FEE
+****
 § 38-1 DEFINITIONS.
    As used in this article, the following terms shall have the following
 meanings:
@@ -32848,7 +32855,7 @@ paid within 30 days after the village's submission of an invoice for the sum.
 adopted by this village pursuant to the Local Government Taxpayers' Bill of
 Rights Act, 50 ILCS 45/1 et seq.
 §§ 38-8 - 38-19 RESERVED.
-ARTICLE II. CABLE AND VIDEO CUSTOMER PROTECTION LAW
+**** ARTICLE II. CABLE AND VIDEO CUSTOMER PROTECTION LAW ****
 § 38-20 CUSTOMER SERVICE AND PRIVACY PROTECTION LAW.
    (a)   Adoption. The regulations of 220 ILCS 5/70-501 are hereby adopted by
 reference and made applicable to the cable or video providers offering services
@@ -32892,8 +32899,8 @@ cable or video provider is responsible for providing the credits and the
 customer is under no obligation to request the credit.
 ZONING CODE
 Current through Ordinance 2025-31-3636, passed 11-20-2025
-ARTICLE I
-TITLE AND PURPOSES
+***** ARTICLE I
+TITLE AND PURPOSES *****
 1-101 TITLE
    This document shall be known, and may be referred to, as the GLENCOE
 ZONING CODE.
@@ -32955,8 +32962,8 @@ provisions of this Code; and
 this Code; and
       4.   Prescribe penalties for the violation of the provisions of this
 Code.
-ARTICLE II
-ZONING DISTRICTS AND OFFICIAL ZONING MAP
+***** ARTICLE II
+ZONING DISTRICTS AND OFFICIAL ZONING MAP *****
 2-101 ESTABLISHMENT OF ZONING DISTRICTS
    To carry out the purposes of this Code, the Village is hereby divided into
 the following zoning districts:
@@ -33040,8 +33047,8 @@ indicated on the official copy of the Zoning Map.
 by court decrees shall be shown on the Zoning Map in accordance with the
 provisions of Subsection
 8-106B of this Code.
-ARTICLE III
-RESIDENTIAL DISTRICTS - SINGLE FAMILY AND MULTIPLE FAMILY
+***** ARTICLE III
+RESIDENTIAL DISTRICTS - SINGLE FAMILY AND MULTIPLE FAMILY *****
 3-101 PURPOSES
    Four zoning districts are provided for residential development. Of these,
 three districts are provided for single family residential development, while
@@ -33622,8 +33629,8 @@ authorized pursuant to this Paragraph shall not subsequently be eligible for a
 variation with respect to such front yard setback.
 (New Section 21, 18 November 2004; Am. Ord. 2022-17-3537, passed 10-20-2022;
 Am. Ord. 2025-31-3636, passed 11-20-2025)
-ARTICLE IV
-BUSINESS DISTRICTS
+***** ARTICLE IV
+BUSINESS DISTRICTS *****
 4-101 PURPOSES
    Two zoning districts are provided for business and commercial uses. When
 taken together, these districts are intended to permit development of property
@@ -34193,8 +34200,8 @@ an efficiency dwelling unit; 800 square feet if a one-bedroom dwelling unit; or
 800 square feet plus an additional 150 square feet for every bedroom in excess
 of the first bedroom if a two or more bedroom dwelling unit.
 (Am. Ord. 2022-19-3539, passed 11-17-2022)
-ARTICLE IV-A
-HIGHWAY FRONTAGE DISTRICT
+***** ARTICLE IV-A
+HIGHWAY FRONTAGE DISTRICT *****
 (Adopted July 2000)
 4A-101 PURPOSES
    The Highway Frontage (HF) District addresses the special circumstances
@@ -34358,8 +34365,8 @@ total lot area of the zoning lot on which it is located. “Gross floor area” 
 otherwise defined in Subsection
 8-302F) shall be modified so that it shall also include the sum of the gross
 horizontal areas in a structure devoted to a specific use.
-ARTICLE V
-DISTRICT REGULATIONS OF GENERAL APPLICABILITY
+***** ARTICLE V
+DISTRICT REGULATIONS OF GENERAL APPLICABILITY *****
 5-101 ACCESSORY STRUCTURES AND USES
    A.   Authorization. Subject to the limitations of this Section, accessory
 structures and uses are permitted in any zoning district in connection with any
@@ -36286,8 +36293,8 @@ such space shall be so designed and maintained as to preserve unobstructed
 vision of the street and sidewalk at points of access and as not to interfere
 with, or be damaged by, work within any public or utility easement unless the
 Village Manager shall determine that no other location is reasonably feasible.
-ARTICLE VI
-NON-CONFORMITIES
+***** ARTICLE VI
+NON-CONFORMITIES *****
 6-101 GENERAL PROVISIONS
    A.   Purposes. This Article regulates and limits the continued existence of
 uses, structures, lots, and signs established prior to the effective date of
@@ -36573,9 +36580,9 @@ it is located shall be terminated upon any change in the use of the property on
 which the sign is located. Every such sign, including all of its structural
 elements, shall be immediately removed or brought into con-formity with the
 provisions of this Code.
-ARTICLE VII
-ZONING ADMINISTRATION AND ENFORCEMENT
-PART I: ADMINISTRATIVE OFFICIALS AND BODIES
+***** ARTICLE VII
+ZONING ADMINISTRATION AND ENFORCEMENT *****
+**** PART I: ADMINISTRATIVE OFFICIALS AND BODIES ****
 7-101 VILLAGE MANAGER
    A.   General Powers. The Village Manager shall be charged with the
 administration and enforcement of this Code. In addition to the jurisdiction,
@@ -36997,7 +37004,7 @@ relating to contextual design or zoning and its administration in the Village
 as requested by the Board of Trustees; provided, however, that the expenditures
 of the Contextual Design Review Commission shall not exceed the amount
 appropriated therefor.
-PART II: ZONING APPLICATIONS AND HEARINGS
+**** PART II: ZONING APPLICATIONS AND HEARINGS ****
 7-201 APPLICATIONS
    A.   Place of Filing. All applications filed pursuant to this Code shall be
 filed with the Office of the Village Manager or with such other Village
@@ -37277,7 +37284,7 @@ Office of the Village Manager pertaining to the matter subject to such notice.
 In addition, any person shall be entitled to copies of such application and
 documents upon reasonable request and payment of a fee as established from time
 to time by the Village Manager to cover the cost of such copies.
-PART III: ZONING CERTIFICATES
+**** PART III: ZONING CERTIFICATES ****
 7-301 CERTIFICATE OF ZONING COMPLIANCE
    A.   Authority. The Village Manager shall have authority to issues
 certificates of zoning compliance, but only in accordance with the provisions
@@ -37471,7 +37478,7 @@ the use or structure nor the applicable provisions of this Code are changed.
    G.   Void Certificates. Any certificate of occupancy issued in violation of
 the provisions of this Code, whether intentionally, negligently, or innocently,
 shall be void ab initio and shall give rise to no rights whatsoever.
-PART IV: INTERPRETATIONS, APPEALS, AND VARIATIONS
+**** PART IV: INTERPRETATIONS, APPEALS, AND VARIATIONS ****
 7-401 INTERPRETATIONS
    A.   Authority. The Village Manager, subject to the procedures, standards,
 and limitations of this Section, may render interpretations, including use
@@ -37850,7 +37857,7 @@ Paragraphs L1 or L3 of this Section, the owner of the subject property may
 reapply for such variation, but such re-application shall be treated as a new
 application and shall be granted or denied based solely on the facts and
 circumstances shown to exist at the time of such new application.
-PART V: AMENDMENTS, SPECIAL APPROVALS, AND OTHER PERMITS
+**** PART V: AMENDMENTS, SPECIAL APPROVALS, AND OTHER PERMITS ****
 7-501 AMENDMENTS
    A.   Authority. This Code and the Zoning Map may be amended from time to
 time by ordinance duly enacted by the Board of Trustees in accordance with the
@@ -38620,7 +38627,7 @@ into a single family dwelling development shall be deemed to agree to reimburse
 the Village for any costs that the Village might incur (including reasonable
 attorneys' fees) in connection with any enforcement action wherein a violation
 is found.
-PART VI: ENFORCEMENT AND PENALTIES
+**** PART VI: ENFORCEMENT AND PENALTIES ****
 7-601 GENERAL ENFORCEMENT AUTHORITY AND DUTY
    Upon finding the existence of any violation of this Code, the Village
 Manager shall have the authority and duty to take or direct all actions
@@ -38670,9 +38677,9 @@ violation continues to exist shall constitute a separate offense.
    Nothing in this Part VI shall be interpreted to prevent any person entitled
 to relief in law or equity by reason of a violation of the provisions of this
 Code from bringing an appropriate action to secure such relief.
-ARTICLE VIII
-APPLICABILITY, SCOPE, AND CONSTRUCTION
-PART I: APPLICABILITY
+***** ARTICLE VIII
+APPLICABILITY, SCOPE, AND CONSTRUCTION *****
+**** PART I: APPLICABILITY ****
 8-101 GENERAL APPLICABILITY
    A.   Territorial Application. This Code shall apply to all land, structures,
 and uses within the corporate limits of the Village.
@@ -38854,7 +38861,7 @@ Code is a matter of urgency. The Village Manager is hereby authorized and
 directed to post and publish this Code in pamphlet form and to publish an
 appropriate notice of its adoption and availability in a newspaper of general
 circulation in the Village.
-PART II: SCOPE
+**** PART II: SCOPE ****
 8-201 PROVISIONS ARE MINIMUM REQUIREMENTS
    In their interpretation and application, the provisions of this Code shall
 be held to be the minimum requirements for the promotion of the public health,
@@ -38885,7 +38892,7 @@ industry, occupation, or activity.
 use or structure existing upon the effective date of this Code. Any such
 unlawful use or structure shall remain unlawful to the extent that said use or
 structure is in conflict with the provisions of this Code.
-PART III: USAGE AND DEFINITIONS
+**** PART III: USAGE AND DEFINITIONS ****
 8-301 WORD USAGE
 Tense and Form. Words used or defined in one tense or form shall include other
 tenses and derivative forms.
@@ -39977,7 +39984,7 @@ regulations of this Code are uniform. See also Section
 Am. Ord. 2021-09-3505, passed 3-18-2021; Am. Ord. 2023-12-3557, passed 6-15-
 2023; Amd. Ord. 2023-19-3564, passed 9-21-2023; Amd. Ord. 2023-23-3568, passed
 10-19-2023)
-WRITTEN INTERPRETATIONS AND CLARIFICATIONS
+***** WRITTEN INTERPRETATIONS AND CLARIFICATIONS *****
    VILLAGE OF GLENCOE
    MEMORANDUM
    TO: Zoning Code Amendment
@@ -40127,6 +40134,6 @@ noted in Section 8-302 of the Zoning Code definition under "Lot Line, Front."
 This memo is to clearly note this requirement, which more often becomes a
 question on the subdivision of an existing house lot into two or more lots
 located on the small number of remaining private streets in the Village.
-ZONING CODE MAP
+***** ZONING CODE MAP *****
 To view the Zoning Code Map in PDF, please click HERE
  
