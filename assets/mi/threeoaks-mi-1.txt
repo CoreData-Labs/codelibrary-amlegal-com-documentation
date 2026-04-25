@@ -986,7 +986,7 @@ Special Assessment Procedure
 34.19   Notice of hearing
    
 34.20   Anticipatory borrowing and bond issues
-SPECIAL ASSESSMENT PROCEDURE
+**** SPECIAL ASSESSMENT PROCEDURE ****
 § 34.01 SPECIAL ASSESSMENTS FOR PUBLIC IMPROVEMENTS.
    The Village Council, by adopting a resolution, may determine the whole or a
 part of the expense of a local public improvement or repair shall be defrayed
@@ -1379,7 +1379,7 @@ Yard Waste
 Cross-reference:
    Prohibiting dumping on streets, see §
 92.26
-VILLAGE COLLECTION SERVICE
+**** VILLAGE COLLECTION SERVICE ****
 § 50.01 ESTABLISHMENT.
    There shall be a Village Garbage, Trash and Recyclables Collection Service
 for the residents of the village. The village is hereby authorized to
@@ -1550,7 +1550,7 @@ collector and at the option of the village such services may be discontinued
 for such violation.
 (Ord. 103, passed 12-12-1990) Penalty, see §
 50.99
-YARD WASTE
+**** YARD WASTE ****
 § 50.30    DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1963,7 +1963,7 @@ Sewer Service Charges, Rates, and Fees
 51.415   Transfer of monies
    
 51.416   Investments
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.001 PURPOSE AND SCOPE.
    (A)   The purposes of this chapter include, but are not limited to, the
 following:
@@ -2951,7 +2951,7 @@ the village’s POTW that is designed to provide treatment, including recycling
 or reclamation, of wastewater, and that is commonly referred to as a POTW
 wastewater treatment plant.
 (Ord. 230, passed 8-9-2023)
-USE OF PUBLIC SEWERS REQUIRED
+**** USE OF PUBLIC SEWERS REQUIRED ****
 § 51.010 PUBLIC SANITARY SEWER SYSTEM; DECLARATION OF NECESSITY.
    A public sanitary sewer system is essential to the health, safety, and
 welfare of the people of the village. Privies, privy vaults, septic tanks,
@@ -3085,7 +3085,7 @@ be in accordance with appropriate construction standards acceptable to the
 village. All conditions and requirements of this chapter shall be satisfied by
 the owner before the village will allow connection to the system.
 (Ord. 230, passed 8-9-2023)
-SEWER SERVICE LATERALS AND CONNECTIONS
+**** SEWER SERVICE LATERALS AND CONNECTIONS ****
 § 51.030 WASTE DISCHARGE PROHIBITED EXCEPT THROUGH APPROVED SEWER CONNECTION.
    All discharges to a sewer shall be through an approved sewer connection or
 at another discharge point expressly approved by the Village Manager in
@@ -3313,7 +3313,7 @@ specifications of lot size, distance from the sewer line, and other such zoning
 conditions are met; approval of the village is given; and all permit and
 connection fees for each additional service connection are paid.
 (Ord. 230, passed 8-9-2023)
-CONDITIONS OF SERVICE
+**** CONDITIONS OF SERVICE ****
 § 51.060 RESPONSIBILITIES AND LIABILITY FOR SEWER SERVICE LATERALS.
    (A)   All costs and expenses incidental to the installation, connection,
 maintenance, and repair or replacement of a private sewer service lateral (the
@@ -3397,7 +3397,7 @@ any portion of a payment refunded for any interruption.
    All premises receiving sanitary sewer service shall at all times be subject
 to inspection by duly authorized personnel of the village.
 (Ord. 230, passed 8-9-2023)
-DISCHARGE PROHIBITED
+**** DISCHARGE PROHIBITED ****
 § 51.080 DISCHARGE PROHIBITED WITHOUT REQUIRED APPROVALS, PERMITS, AND
 TREATMENT.
    Except as otherwise expressly permitted by local, state, and federal laws
@@ -3425,7 +3425,7 @@ order its disconnection at the property owner’s expense, and if the property
 owner refuses to obey the village’s order, then the village shall disconnect
 the connection and the costs shall be charged to the property owner.
 (Ord. 230, passed 8-9-2023)
-REGULATION OF DISCHARGES TO THE POTW
+**** REGULATION OF DISCHARGES TO THE POTW ****
 § 51.090 DISCHARGE PROHIBITIONS.
    No person shall discharge to the POTW except in compliance with this
 chapter. The general discharge prohibitions under division (A) and the specific
@@ -4183,7 +4183,7 @@ intending to use dilution as a substitute for treatment shall do so without the
 prior approval of the Village Manager consistent with the requirements of this
 section.
 (Ord. 230, passed 8-9-2023)
-USER PERMITS
+**** USER PERMITS ****
 § 51.110 USER PERMIT REQUIRED.
    (A)   Non-domestic user permits. It is unlawful and prohibited for any
 significant industrial user (SIU), or any other user as determined necessary by
@@ -4819,7 +4819,7 @@ this subchapter, §§
 51.410 through
 51.415
 (Ord. 230, passed 8-9-2023)
-REPORTING AND NOTICE REQUIREMENTS
+**** REPORTING AND NOTICE REQUIREMENTS ****
 § 51.140 REPORTS BY NON-DOMESTIC USERS REGARDING CATEGORICAL PRETREATMENT
 STANDARDS AND REQUIREMENTS.
    (A)   Baseline monitoring reports. Within 180 days after the effective date
@@ -5121,7 +5121,7 @@ notification, the user will not be required to comply with the certification
 requirements for the sampling and analysis (or portion thereof) performed by
 the Village Manager.
 (Ord. 230, passed 8-9-2023)
-SAMPLING, ANALYSIS, AND MONITORING REQUIREMENTS
+**** SAMPLING, ANALYSIS, AND MONITORING REQUIREMENTS ****
 § 51.170 PURPOSE.
    This subchapter provides the sampling, analysis, and monitoring requirements
 applicable to users of the POTW. It does not apply to domestic users except as
@@ -5402,7 +5402,7 @@ installed by the owner of the premises, at the owner’s sole expense; or
 to the POTW from a premises using a combination of any of the above methods, or
 using any other method determined appropriate by the Village Manager.
 (Ord. 230, passed 8-9-2023)
-ACCIDENTAL DISCHARGES
+**** ACCIDENTAL DISCHARGES ****
 § 51.200 GENERAL.
    This subchapter sets forth minimum requirements for non-domestic users (and
 any other users as required by the Village Manager) to prepare for, respond to,
@@ -5604,7 +5604,7 @@ slug discharge from the user’s premises.
 discharges as required by §
 51.207 (immediate notice by telephone followed by a written report).
 (Ord. 230, passed 8-9-2023)
-UPSET AND ADDITIONAL AFFIRMATIVE DEFENSES
+**** UPSET AND ADDITIONAL AFFIRMATIVE DEFENSES ****
 § 51.220 UPSET.
    An upset shall constitute an affirmative defense to an action brought for
 noncompliance with categorical pretreatment standards if all of the
@@ -5653,7 +5653,7 @@ enforcement proceeding, the user seeking to establish the affirmative defenses
 provided by R323.2303(3) of the State Administrative Code shall have the burden
 of proof.
 (Ord. 230, passed 8-9-2023)
-BYPASS
+**** BYPASS ****
 § 51.240 BYPASS NOT VIOLATING APPLICABLE PRETREATMENT STANDARDS OR
 REQUIREMENTS.
    A non-domestic user may allow any bypass to occur that does not cause
@@ -5711,7 +5711,7 @@ set forth in §
 51.241. It shall be a violation of this chapter for a user to allow an
 anticipated bypass to occur without the prior approval of the Village Manager.
 (Ord. 230, passed 8-9-2023)
-CONFIDENTIAL INFORMATION
+**** CONFIDENTIAL INFORMATION ****
 § 51.250 CONFIDENTIAL INFORMATION.
    The following provisions shall apply regarding the treatment by the POTW of
 confidential information submitted to or obtained by the POTW in the
@@ -5778,7 +5778,7 @@ this subchapter is subsequently determined by the Village Manager or any other
 governmental agency to be non-confidential, such information shall thereafter
 be subject to public disclosure consistent with applicable law and regulations.
 (Ord. 230, passed 8-9-2023)
-RECORDS RETENTION
+**** RECORDS RETENTION ****
 § 51.260 MAINTENANCE OF RECORDS.
    All users shall retain and preserve records, including, without limitation,
 all books, documents, memoranda, reports, correspondence, and similar
@@ -5828,7 +5828,7 @@ retain all records, notices, and other information regarding discharges to the
 POTW submitted to it by non-domestic users of the POTW for a period of not less
 than three years.
 (Ord. 230, passed 8-9-2023)
-MANAGEMENT, SUPERVISION, AND CONTROL OF THE POTW
+**** MANAGEMENT, SUPERVISION, AND CONTROL OF THE POTW ****
 § 51.270 MANAGEMENT, SUPERVISION, AND CONTROL OF POTW.
    The POTW shall be under the management, supervision, and control of the
 Village Council. The Village Council may employ or designate such persons in
@@ -5891,7 +5891,7 @@ the purposes and objectives of this chapter.
 or advisable for the supervision, management, and operation of the POTW and the
 enforcement of this chapter and other applicable laws and regulations.
 (Ord. 230, passed 8-9-2023)
-USER POLLUTION CONTROLS
+**** USER POLLUTION CONTROLS ****
 § 51.290 PROVISION BY USERS OF NECESSARY PRETREATMENT FACILITIES.
    Users shall provide necessary wastewater treatment as required to comply
 with all applicable pretreatment standards and requirements within the time
@@ -6481,7 +6481,7 @@ flammable substances may be required to install and maintain an approved
 explosion hazard meter, combustible gas detection meter, or similar device, as
 determined appropriate by the Village Manager.
 (Ord. 230, passed 8-9-2023)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 51.310 POTW INSPECTION, SURVEILLANCE, AND MONITORING AUTHORITY; RIGHT OF
 ENTRY.
    (A)   In general. The POTW is authorized to carry out all inspection,
@@ -7126,7 +7126,7 @@ criminal action against a person shall not be dependent upon and need not be
 held in abeyance during any civil, judicial, or administrative proceeding,
 conference, or hearing regarding the person.
 (Ord. 230, passed 8-9-2023)
-ADMINISTRATIVE REVIEW AND APPEALS
+**** ADMINISTRATIVE REVIEW AND APPEALS ****
 § 51.340 PROCEDURES AVAILABLE.
    Any person aggrieved by a notice of violation, order, final decision, final
 determination, or other final action taken by the Village Manager under this
@@ -7278,7 +7278,7 @@ environment, or the POTW; and as otherwise expressly provided by this chapter
 competent jurisdiction as provided by law. All findings of fact made by the
 WBA, if supported by the evidence, shall be deemed conclusive.
 (Ord. 230, passed 8-9-2023)
-PROTECTION FROM DAMAGE
+**** PROTECTION FROM DAMAGE ****
 § 51.360 PROTECTION FROM DAMAGE.
    It is a misdemeanor for any person to maliciously or willfully break,
 damage, destroy, uncover, deface or tamper with, climb upon, or enter any
@@ -7291,7 +7291,7 @@ sanctions and remedies as provided by this chapter, including, but not limited
 to, reimbursement of the POTW as provided by §
 51.320.
 (Ord. 230, passed 8-9-2023)
-MUNICIPAL LIABILITY
+**** MUNICIPAL LIABILITY ****
 § 51.370 MUNICIPAL LIABILITY.
    Neither the POTW nor the village (including, but not limited to, village
 staff, employees, and officials) shall be responsible for interruptions of
@@ -7300,7 +7300,7 @@ It shall be the responsibility of the users that all connected equipment remain
 in good working order so as not to cause disruption of service of any sewer or
 treatment plant equipment.
 (Ord. 230, passed 8-9-2023)
-USE OF PUBLIC SEWERS CONDITIONAL
+**** USE OF PUBLIC SEWERS CONDITIONAL ****
 § 51.380 USE OF PUBLIC SEWERS CONDITIONAL.
    The use of the public sewer is conditional upon the user complying with all
 applicable provisions of this chapter, the rules and regulations promulgated
@@ -7309,7 +7309,7 @@ and local laws, rules, regulations, standards, and requirements. Use of the
 public sewer is also conditional upon the payment of all applicable charges,
 surcharges, rates, fees, and penalties.
 (Ord. 230, passed 8-9-2023)
-INDUSTRIAL PRETREATMENT PROGRAM FEES
+**** INDUSTRIAL PRETREATMENT PROGRAM FEES ****
 § 51.390 PURPOSE.
    It is a purpose of this chapter to provide for the recovery from users of
 the POTW of all costs incurred by the Village Manager for the administration
@@ -7403,7 +7403,7 @@ provided by §§
 51.410 through
 51.415 and other applicable village laws or regulations.
 (Ord. 230, passed 8-9-2023)
-SEWER SERVICE CHARGES, RATES, AND FEES
+**** SEWER SERVICE CHARGES, RATES, AND FEES ****
 § 51.410 USER RATES AND CHARGES FOR WASTEWATER TREATMENT SERVICE; GENERAL.
    (A)   The sanitary sewer system of the village shall be operated and
 maintained on a public utility basis as authorized by law. Each premises within
@@ -7668,7 +7668,7 @@ Additional Regulations
  
    
 52.99   Penalty
-WATER SYSTEM OPERATION AND RATES
+**** WATER SYSTEM OPERATION AND RATES ****
 § 52.01 RATES AND CHARGES ESTABLISHED IN THIS SUBCHAPTER.
    Monthly rates and any associated charges for the use and services furnished
 by the village water system shall be as provided herein.
@@ -7833,7 +7833,7 @@ replacement or repair.
    All prior ordinances, resolutions or parts thereof in conflict with the
 subject matter of this subchapter are hereby repealed in their entirety.
 (Ord. 179, passed 2-25-2009)
-PRIVATE WELLS
+**** PRIVATE WELLS ****
 § 52.25 PRIVATE WELL DEFINED.
    A PRIVATE WELL is defined as an opening in the surface of earth for the
 purpose of removing water through mechanical or non-mechanical means for any
@@ -7873,7 +7873,7 @@ notify the Director of the State Department of Environmental Quality by
 registered mail.
 (Ord. 155, passed 5-19-2004) Penalty, see §
 52.99
-ADDITIONAL REGULATIONS
+**** ADDITIONAL REGULATIONS ****
 § 52.40 PROHIBITING THE ADDITION OF FLUORIDE TO DRINKING WATER.
    The addition of fluoride to the drinking water of the municipal water system
 of the village is hereby expressly prohibited. The specific purpose of this
@@ -8031,7 +8031,7 @@ Tourist Signs, Bicycles and Railroads
  
    
 70.99   Penalty
-STATE PROVISIONS ADOPTED
+**** STATE PROVISIONS ADOPTED ****
 § 70.01 MICHIGAN VEHICLE CODE ADOPTED BY REFERENCE.
    (A)   The Michigan Vehicle Code, Public Act 300 of 1949, being M.C.L.A. §§
 257.1 through 257.923, is hereby adopted by reference.
@@ -8064,7 +8064,7 @@ Village Clerk for inspection.
    (D)   The penalties provided by the Uniform Traffic Code for Cities,
 Townships and Villages are adopted by reference.
 (Ord. 166, passed 4-12-2006)
-TOURIST SIGNS, BICYCLES AND RAILROADS
+**** TOURIST SIGNS, BICYCLES AND RAILROADS ****
 § 70.15 TOURIST-ORIENTED DIRECTIONAL SIGNS.
    (A)   The village may permit tourist-oriented directional signs as defined
 by M.C.L.A. § 247.401 within its jurisdictional boundaries as provided by and
@@ -8711,7 +8711,7 @@ Parking Regulations
  
    
 72.99   Penalty
-PARKING VIOLATIONS BUREAU
+**** PARKING VIOLATIONS BUREAU ****
 § 72.01 ESTABLISHMENT.
    Pursuant to § 8395 of the Revised Judicature Act, M.C.L.A. § 600.8395, as
 added by Public Act 154 of 1968, being M.C.L.A. §§ 600.8101 et seq., a Parking
@@ -8810,7 +8810,7 @@ street (signs required)
    (17) Within 200 feet of accident where police are in attendance          $3
  
 (Ord. 45, passed 6-5-1969)
-PARKING REGULATIONS
+**** PARKING REGULATIONS ****
 § 72.20 OBEDIENCE TO PARKING SIGNS.
     No person shall park or stand a vehicle upon the portion of any street upon
 which authorized signs or markings have been erected designating the manner or
@@ -9175,7 +9175,7 @@ Other Animals
  
    
 90.99   Penalty
-DOGS AND CATS
+**** DOGS AND CATS ****
 § 90.01 DOGS RUNNING AT LARGE.
    No person shall permit any dog to run at large anywhere outdoors in the
 village. This regulation shall apply to all public places and to all private
@@ -9259,7 +9259,7 @@ except inside a building or out of doors in a fenced yard, with a fence
 adequate to prevent the dog from leaving the yard.
 (Ord. 86, passed 5-2-1985) Penalty, see §
 90.99
-OTHER ANIMALS
+**** OTHER ANIMALS ****
 § 90.20 RESTRICTION ON THE NUMBER OF ANIMALS OTHER THAN DOGS AND CATS.
    No more than two each of any other domestic or wild animals more than four
 months old shall be kept or housed on any premises within the village limits,
@@ -9367,7 +9367,7 @@ Bulk Storage of Petroleum Products
 Cross-reference:
    Second Hand Dealers, Junk Shops and Junk Dealers, see
 Chapter 114
-WEEDS AND GRASSES
+**** WEEDS AND GRASSES ****
 § 91.01 WEED GROWTH PROHIBITED.
    (A)   No person owning any premises shall permit or maintain on any such
 premises any growth of noxious weeds; nor any growth of grass or other rank
@@ -9426,7 +9426,7 @@ shrubbery, vegetable gardens, and small grain plots. An exemption under the
 terms of this section cannot be claimed unless the land has been cultivated and
 cared for in a manner appropriate to such exempt categories.
 (Ord. 124, passed 5-14-1997)
-JUNK, TRASH, RUBBISH, ABANDONED VEHICLES AND THE LIKE
+**** JUNK, TRASH, RUBBISH, ABANDONED VEHICLES AND THE LIKE ****
 § 91.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9551,7 +9551,7 @@ storage or accumulation of junk vehicles or abandoned vehicles, or parts of
 either, nor from the penalties for violation thereof.
 (Ord. 39, passed 4-14-1966) Penalty, see §
 91.99
-BULK STORAGE OF PETROLEUM PRODUCTS
+**** BULK STORAGE OF PETROLEUM PRODUCTS ****
 § 91.40 DEFINITION.
    For the purpose of this subchapter, the phrase BULK STORAGE OF PETROLEUM
 PRODUCTS is defined as the storing of petroleum products in any single tank or
@@ -9706,7 +9706,7 @@ and obstructions
 Cross-reference:
    Use of bicycles and other wheeled vehicles on sidewalks, see §
 70.16
-CONSTRUCTION OF SIDEWALKS
+**** CONSTRUCTION OF SIDEWALKS ****
 § 92.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9907,7 +9907,7 @@ pursuant to this section shall have the authority to issue and serve appearance
 tickets for appearance before a court of competent jurisdiction.
 (Ord. 157, passed 1-12-2005) Penalty, see §
 92.99
-USE OF STREETS
+**** USE OF STREETS ****
 § 92.25 PROHIBITING OPERATION OF TRACTORS OR MACHINERY WITH LUGS OVER STREETS.
    No person or persons, partnership, corporation or combination of same shall
 operate any tractors or other implements or motor vehicles or machinery over
@@ -9926,7 +9926,7 @@ vehicle, implement or other machinery or equipment of any kind which drops dirt
 or other material on any street within the corporate limits of the village.
 (Ord. 12, passed 4-3-1947) Penalty, see §
 92.99
-MANAGEMENT AND REGULATION OF STREETS AND PUBLIC RIGHTS-OF-WAY
+**** MANAGEMENT AND REGULATION OF STREETS AND PUBLIC RIGHTS-OF-WAY ****
 § 92.35 COMPLIANCE REQUIRED.
    All maintenance and repair of public streets, sidewalks, alleys, and other
 public ways, and the placement and maintenance of aerial or above ground wires,
@@ -10343,7 +10343,7 @@ permit required; standards
  
    
 93.99   Penalty
-PARK AND RECREATION BOARD
+**** PARK AND RECREATION BOARD ****
 § 93.01 CREATION OF BOARD.
    There is hereby created a Park and Recreation Board consisting of seven
 members appointed by the Village President with the consent of the Village
@@ -10384,7 +10384,7 @@ and Environment guidelines. The Parks and Recreation Board shall be responsible
 for preparing any updates to the Plan under the direction and approval of the
 Village Council.
 (Ord. 189, passed 10-13-2010)
-USE OF PUBLIC PARKS
+**** USE OF PUBLIC PARKS ****
 § 93.20 PUBLIC SALE OF ALCOHOL IN VILLAGE PARKS AT CERTAIN TIMES AUTHORIZED;
 PERMIT REQUIRED; STANDARDS.
    (A)   Sale authorized. The Village Council has deemed it advisable to allow
@@ -11219,7 +11219,7 @@ films, videos or live entertainment in viewing rooms
  
    
 110.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 110.01 PURPOSE AND FINDINGS.
    (A)   Purpose. It is the purpose of this chapter to regulate sexually
 oriented businesses in order to promote the health, safety and general welfare
@@ -11519,7 +11519,7 @@ the ownership or control.
    (H)   Nude model studios; and
    (I)   Sexual encounter centers.
 (Ord. 185, passed 11-11-2009)
-LICENSING PROVISIONS
+**** LICENSING PROVISIONS ****
 § 110.15 LICENSE REQUIRED.
    (A)   It is unlawful:
       (1)   For any person to operate a sexually oriented business without a
@@ -11847,7 +11847,7 @@ village’s enforcement.
 a licensee operate a sexually oriented business under the authority of a
 license at any place other than the address designated in the application.
 (Ord. 185, passed 11-11-2009)
-BUSINESS OPERATION REGULATIONS
+**** BUSINESS OPERATION REGULATIONS ****
 § 110.35 LOCATION OF SEXUALLY ORIENTED BUSINESSES.
    (A)   A sexually oriented business may only be located on a property located
 within the C-1 Commercial District pursuant to the village zoning ordinance,
@@ -12465,7 +12465,7 @@ deadline
 113.41   Failure to comply; remedies
    
 113.42   Conflicting provisions
-FRANCHISE PROVISIONS
+**** FRANCHISE PROVISIONS ****
 § 113.01 TITLE.
    This shall be known as the Cable Television Subchapter.
 (Ord. 77, passed 8-6-1981)
@@ -13098,7 +13098,7 @@ entire system of the grantee, as hereinabove provided, and regardless of the
 exercise of any other right of the village hereunder, then the village may
 institute appropriate court action to enforce requirements of this section.
 (Ord. 77, passed 8-6-1981)
-RATE REGULATION
+**** RATE REGULATION ****
 § 113.25 DEFINITIONS.
    (A)   For purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14350,7 +14350,7 @@ Offenses Involving Minors
 Cross-reference:
    Prohibition against children in a sexually oriented business, see §
 110.41
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 130.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14359,7 +14359,7 @@ public, or any number of persons of the public has access to, or to which the
 public is customarily invited or admitted.
    VILLAGE. The Village of Three Oaks, Berrien County, Michigan.
 (Ord. 64, passed 12-2-1976)
-OFFENSES AGAINST PUBLIC PEACE AND SAFETY
+**** OFFENSES AGAINST PUBLIC PEACE AND SAFETY ****
 § 130.15 PUBLIC NUDITY.
    (A)   Public nudity. It shall be unlawful for any person to permit or engage
 in any public nudity.
@@ -14460,7 +14460,7 @@ in any of the streets or public places within the corporate limits of said
 village.
 (Ord. 6, passed 4-3-1947) Penalty, see §
 130.99
-OFFENSES INVOLVING MINORS
+**** OFFENSES INVOLVING MINORS ****
 § 130.35 CURFEW FOR MINORS.
    (A)   It shall be unlawful for any minor, under the age of 18 years, to be
 or remain in or upon any of the streets, alleys, parks or other public places
@@ -14648,7 +14648,7 @@ Other Uses of Lots
  
    
 150.99   Penalty
-STANDARD CODES AND ENFORCEMENT
+**** STANDARD CODES AND ENFORCEMENT ****
 § 150.01 STATE BUILDING CODE ADOPTED BY REFERENCE; ENFORCING AGENCY.
    (A)   Code adopted. Pursuant to the provisions of the State Construction
 Code Act of 1972 (Public Act 230 of 1972, being M.C.L.A. §§ 125.1501 et seq.;
@@ -14799,7 +14799,7 @@ premises.
       (3)   Section 106.5 of the International Property Maintenance Code is
 hereby deleted.
 (Ord. 137, passed 9-13-2000)
-DANGEROUS BUILDINGS
+**** DANGEROUS BUILDINGS ****
 § 150.20 TITLE.
    This subchapter shall be known and may be cited as the Dangerous Buildings
 Subchapter.
@@ -15025,7 +15025,7 @@ under §
 court by filing a petition for an order of superintending control within 21
 days from the date of the decision.
 (Ord. 123, passed 5-14-1997)
-OTHER USES OF LOTS
+**** OTHER USES OF LOTS ****
 § 150.40 DIVISION OF LOTS IN RECORDED PLATS.
    (A)   The division of a lot, out lot or parcel of land in a recorded plat is
 prohibited, unless approved following application to the Building Inspector or
@@ -15159,7 +15159,7 @@ Financing, Taxation and other Provisions Concerning the Authority
 151.41   Budget
    
 151.42   Historic sites
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.01 DESCRIPTION OF DISTRICT.
    A Downtown Development Authority is hereby created, pursuant to Public Act
 197 of 1975, being M.C.L.A. §§ 125.1651 through 125.1680, as amended, for the
@@ -15221,7 +15221,7 @@ shall be dissolved by ordinance of the Village Council. The property and assets
 of the Authority remaining after the satisfaction of the obligations of the
 Authority shall belong to the village.
 (Ord. 187, passed 7-14-2010)
-GOVERNING BOARD
+**** GOVERNING BOARD ****
 § 151.15 ESTABLISHMENT OF GOVERNING BOARD.
    The said Authority shall be under the supervision and control of a Board,
 consisting of the President of the village or the President's designee from the
@@ -15329,7 +15329,7 @@ bonds issued by the Authority;
 value from a public or private source; and
    (L)   Acquire and construct public facilities.
 (Ord. 187, passed 7-14-2010)
-FINANCING, TAXATION AND OTHER PROVISIONS CONCERNING THE AUTHORITY
+**** FINANCING, TAXATION AND OTHER PROVISIONS CONCERNING THE AUTHORITY ****
 § 151.30 TRANSFER OF PRIVATE PROPERTY TO AUTHORITY.
    The village may take private property under Public Act 149 of 1911, M.C.L.A.
 §§ 213.21 et seq., as amended, for the purpose of transfer to the Authority,

@@ -521,7 +521,7 @@ Meetings
  
    
 30.99   General penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 AUTHORITY AND PURPOSE.
    Pursuant to authority granted by statute, this chapter of the city code is
 enacted so as to set down for enforcement the government and good order of the
@@ -535,7 +535,7 @@ The terms of the Council members shall be four years, with the term of the
 office of the Mayor to be two years.
 (1989 Code, § 2.60) (Ord. 6, 2nd Ser., eff. 12-2-1994; Ord. 106, passed 10-3-
 2024)
-MEETINGS
+**** MEETINGS ****
 § 30.15 COUNCIL MEETINGS.
    Regular meetings of the Council shall be held once a month at a time
 established by resolution of the Council at the organizational meeting in
@@ -635,7 +635,7 @@ Officials
 31.16   Deputy City Clerk
    
 31.17   Salaries of Mayor and Council members
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 RIGHT TO ADMINISTRATIVE APPEAL.
    (A)   If any person shall be aggrieved by any administrative decision of the
 City Administrator/Clerk-Treasurer or any other city official, or any Board or
@@ -655,7 +655,7 @@ or a member of the Council, adjourn the hearing to a more convenient time or
 place, but the time or place shall be fixed and determined before adjournment
 so as to avoid the necessity for formal notice of reconvening.
 (1989 Code, § 2.06)
-OFFICIALS
+**** OFFICIALS ****
 § 31.15 CITY ADMINISTRATOR/CLERK-TREASURER.
    (A)   Pursuant to the authority granted by M.S. § 412.591, as it may be
 amended from time to time, the offices of the Clerk and Treasurer shall be, and
@@ -1149,7 +1149,7 @@ Lodging Tax
  
    
 35.99   Penalty
-LODGING TAX
+**** LODGING TAX ****
 § 35.01 RECITALS.
    The State Legislature has authorized the imposition of a tax upon lodging at
 a hotel, motel, rooming house, tourist court or other use of space by a
@@ -1410,7 +1410,7 @@ Disposal of Abandoned Motor Vehicles, Unclaimed Property and Excess Property
  
    
 36.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 36.01 WORKERS’ COMPENSATION.
    (A)   Contractors.  The city shall not enter into any contract for doing
 public work before receiving from all other contracting parties acceptable
@@ -1442,7 +1442,8 @@ provisions of M.S. § 65A.50, as it may be amended from time to time, are hereby
 incorporated herein and adopted by reference, including the penalty provision
 thereof.
 (1989 Code, § 2.53) (Ord. 26, 2nd Ser., eff. 5-7-1999)
-DISPOSAL OF ABANDONED MOTOR VEHICLES, UNCLAIMED PROPERTY AND EXCESS PROPERTY
+**** DISPOSAL OF ABANDONED MOTOR VEHICLES, UNCLAIMED PROPERTY AND EXCESS
+PROPERTY ****
 § 36.20 DISPOSAL OF ABANDONED MOTOR VEHICLES.
    (A)   Definitions. For the purpose of this subchapter, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -1694,7 +1695,7 @@ Rules and Regulations Relating to Municipal Utilities
  
    
 50.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1734,7 +1735,7 @@ connection charges are payable in installments, no permit shall be granted
 unless all installments then due and payable have been paid.
 (1989 Code, § 3.05) Penalty, see §
 50.99
-RULES AND REGULATIONS RELATING TO MUNICIPAL UTILITIES
+**** RULES AND REGULATIONS RELATING TO MUNICIPAL UTILITIES ****
 § 50.15 BILLING, PAYMENT AND DELINQUENCY.
    (A)   All municipal utilities shall be billed and a utilities statement
 mailed which shall be due and payable and, if unpaid, become delinquent, all as
@@ -2132,7 +2133,7 @@ Accounting and Records
 Cross-reference:
    Sewer and water main service lateral installation, see §
 91.053
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 53.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2828,7 +2829,7 @@ remedy.
 this section, neither the city nor its council, agents or employees warrant or
 guarantee the safety, fitness or suitability to any property in the city.
 (Ord. 101, passed 10-3-2023)
-WASTEWATER SERVICE CHARGES
+**** WASTEWATER SERVICE CHARGES ****
 § 53.20 USER CHARGES.
    (A)   Basis for wastewater service charges. The wastewater service charge
 for the use of and for service supplied by the wastewater facilities of the
@@ -2948,7 +2949,7 @@ B   = BOD - 100 mg/l
 S   = SS - 250 mg/l
  
 (1989 Code, § 3.40, Subd. 7G) (Ord. 33, 2nd Ser., eff. 5-21-1999)
-ACCOUNTING AND RECORDS
+**** ACCOUNTING AND RECORDS ****
 § 53.40 REVENUES.
    (A)   All revenues and moneys derived from the operation of the sewerage
 system shall be deposited in the sewerage account of the Sewerage Fund, to be
@@ -3044,7 +3045,7 @@ Special Vehicle Use by Disabled
  
    
 70.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 HIGHWAY TRAFFIC REGULATION ACT ADOPTED BY REFERENCE.
    Except as otherwise provided in this chapter or in
 Chapter 71 of this code, M.S. Chapter 169 (commonly referred to as the Highway
@@ -3164,7 +3165,7 @@ walkway or bicycle trail, except when crossing the same for ingress and egress
 through a curb cut to property lying on the other side thereof.
 (1989 Code, § 7.11) Penalty, see §
 70.99
-SPECIAL VEHICLE USE BY DISABLED
+**** SPECIAL VEHICLE USE BY DISABLED ****
 § 70.20 OPERATION AUTHORIZED.
    Operation of motorized golf carts or four-wheel all-terrain vehicles are
 hereby authorized on the roadways of all streets, except those that are
@@ -3532,7 +3533,7 @@ Skateboards, Roller Skates, Roller Blades and Roller Skis
  
    
 72.99   Penalty
-RECREATIONAL MOTOR VEHICLES (INCLUDING SNOWMOBILES)
+**** RECREATIONAL MOTOR VEHICLES (INCLUDING SNOWMOBILES) ****
 § 72.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3684,7 +3685,7 @@ visibility; and
 handlebars, so as to reflect or beam light at a 90-degree angle.
 (1989 Code, § 8.07, Subd. 5) Penalty, see §
 72.99
-MOTORCYCLES
+**** MOTORCYCLES ****
 § 72.20 MOTORCYCLE REGULATIONS.
    (A)   It is unlawful for any person to operate a motorcycle, except as
 follows:
@@ -3730,7 +3731,7 @@ precautions to ensure that any minor conforms to the provisions of this section
 while operating a motorcycle within the city.
 (1989 Code, § 8.08) Penalty, see §
 72.99
-SKATEBOARDS, ROLLER SKATES, ROLLER BLADES AND ROLLER SKIS
+**** SKATEBOARDS, ROLLER SKATES, ROLLER BLADES AND ROLLER SKIS ****
 § 72.35 UNLAWFUL ACTS.
    (A)   It is unlawful for any person to operate or ride upon a skateboard,
 roller skates, roller blades or roller skis at any time upon sidewalks, streets
@@ -3884,7 +3885,7 @@ Cross-reference:
 Chapter 130
    Street excavations, see
 Chapter 91
-MISCELLANEOUS PROVISIONS
+**** MISCELLANEOUS PROVISIONS ****
 § 90.01 SHADE TREE DISEASE CONTROL AND PREVENTION.
    (A)   Policy and purpose. The city has determined that the health of oak and
 elm trees is threatened by fatal diseases known as oak wilt and Dutch elm
@@ -4356,7 +4357,7 @@ may appeal to the City Council, which shall hear the matter and make a final
 decision. The City Council shall have the right to review decisions and may
 modify, affirm, or reverse any determination of the Tree Board.
 (Ord. 75, passed 2-3-2015)
-NUISANCES
+**** NUISANCES ****
 § 90.15 PUBLIC NUISANCE.
    Whoever by his or her act or failure to perform a legal duty intentionally
 does any of the following is guilty of maintaining a public nuisance, which is
@@ -4773,7 +4774,7 @@ current taxes the following year or in annual installments, not exceeding ten,
 as the City Council may determine in each case.
 Penalty, see §
 90.99
-EXCAVATIONS IN THE EARTH’S SURFACE
+**** EXCAVATIONS IN THE EARTH’S SURFACE ****
 § 90.40 PURPOSES.
    The purposes of this subchapter are to prevent any interruption of or damage
 to utilities, and to prevent unsightly or hazardous holes in the earth’s
@@ -4989,7 +4990,7 @@ Chapter 70
    Traffic and parking control, see
 Chapters 70 and
 71
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.001 DEFINITIONS.
    Except as otherwise defined in the city code, or where the context clearly
 indicates a contrary intent, the words and terms defined in M.S. Chapter 169,
@@ -5011,7 +5012,7 @@ fail or refuse to comply with any lawful order or direction of any peace
 officer invested by law with authority to direct, control or regulate traffic.
 (1989 Code, § 7.03) Penalty, see §
 91.999
-SIDEWALKS
+**** SIDEWALKS ****
 § 91.015 ICE AND SNOW ON PUBLIC SIDEWALKS.
    (A)   Ice and snow a nuisance. All snow and ice remaining upon public
 sidewalks in the Central Business District is hereby declared to constitute a
@@ -5044,7 +5045,7 @@ Council to determine by resolution the manner of collection to be used as
 provided in divisions (C) or (D) of this section.
 (1989 Code, § 7.05) Penalty, see §
 91.999
-STREETS
+**** STREETS ****
 § 91.030 CONSTRUCTION AND RECONSTRUCTION OF ROADWAY SURFACING, SIDEWALK, CURB
 AND GUTTER.
    (A)   Unlawful act. It is a misdemeanor for any abutting or non-abutting
@@ -5115,7 +5116,7 @@ for any person to operate a vehicle on any street in violation of the
 limitation so posted.
 (1989 Code, § 7.09) Penalty, see §
 91.999
-STREET OPENINGS OR EXCAVATIONS
+**** STREET OPENINGS OR EXCAVATIONS ****
 § 91.045 PROHIBITION; PERMIT REQUIRED.
    It is a misdemeanor for any person, except a city employee acting within the
 course and scope of his or her employment or a contractor acting within the
@@ -5212,7 +5213,7 @@ if it finds the effects thereof are burdensome and upon notice and hearing as
 the Council may deem necessary or proper.
 (1989 Code, § 7.10) Penalty, see §
 91.999
-RIGHT-OF-WAYS
+**** RIGHT-OF-WAYS ****
 § 91.065 FINDINGS, PURPOSE AND INTENT.
    (A)   To provide for the health, safety and welfare of its citizens, and to
 ensure the integrity of its streets and the appropriate use of the rights-of-
@@ -6016,7 +6017,7 @@ Dangerous Dogs
  
    
 92.99   Penalty
-ANIMAL LICENSING AND REGULATION
+**** ANIMAL LICENSING AND REGULATION ****
 § 92.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6392,7 +6393,7 @@ be subject to the penalties set forth in §
 preclude the city from seeking any other remedy available in law or equity.
 (Ord. 85, passed 7-2-2019) Penalty, see §
 92.99
-ANIMALS AND FOWL; KEEPING, TRANSPORTING, TREATMENT, HOUSING
+**** ANIMALS AND FOWL; KEEPING, TRANSPORTING, TREATMENT, HOUSING ****
 § 92.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6449,7 +6450,7 @@ specific permission therefor from the owner.
    This subchapter shall take effect after adoption upon the publication in the
 city's official newspaper.
 (Ord. 85, passed 7-2-2019)
-DANGEROUS DOGS
+**** DANGEROUS DOGS ****
 § 92.50 DANGEROUS AND POTENTIALLY DANGEROUS DOGS.
    (A)   Adoption by reference. Except as otherwise provided in this section,
 the regulatory and procedural provisions of M.S. §§ 347.50 to 347.565 (commonly
@@ -7205,7 +7206,7 @@ Specific Businesses
 Cross-reference:
    Lodging tax, see
 Chapter 35
-GENERAL LICENSING REGULATIONS
+**** GENERAL LICENSING REGULATIONS ****
 § 110.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7381,7 +7382,7 @@ compensation insurance coverage requirement of state law by providing the name
 of the insurance company, the policy number and dates of coverage, or the
 permit to self-insure.
 (1989 Code, § 6.12)
-SPECIFIC BUSINESSES
+**** SPECIFIC BUSINESSES ****
 § 110.25 RESERVED
 § 110.26 LAWFUL GAMBLING.
    (A)   Adoption of state law by reference. The provisions of M.S. Chapter
@@ -7657,7 +7658,7 @@ Consumption and Display Licenses
  
    
 112.999   Penalty
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 112.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8017,7 +8018,7 @@ insurance will not be canceled or terminated without 30 days’ written notice
 served upon the City Administrator/Clerk-Treasurer. Cancellation or termination
 of the coverage shall be grounds for license revocation.
 (1989 Code, § 5.13)
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 112.025 MINORS AS DEFINED IN § 112.001; UNLAWFUL ACTS.
    (A)   Consumption. It is unlawful for any:
       (1)   Licensee to permit any minor to consume alcoholic beverages on
@@ -8146,7 +8147,7 @@ performance or continued use of obscenities by any agent, employee, patron or
 other person.
 (1989 Code, § 5.80) Penalty, see §
 112.999
-BEER
+**** BEER ****
 § 112.045 BEER LICENSE REQUIRED.
    It is unlawful for any person, directly or indirectly, on any pretense or by
 any device, to sell, barter, keep for sale, charge for possession or otherwise
@@ -8191,7 +8192,7 @@ when on-sale is permitted on Sunday as stated in §
 112.061).
 (1989 Code, § 5.32) (Ord. 80, passed 6-26-2017) Penalty, see §
 112.999
-LIQUOR
+**** LIQUOR ****
 § 112.060 LIQUOR LICENSE REQUIRED.
    (A)   It is unlawful for any person, directly or indirectly, on any pretense
 or by any device, to sell, barter, keep for sale or otherwise dispose of
@@ -8259,7 +8260,7 @@ when on-sale is permitted on Sunday as stated in §
 (1989 Code, § 5.42) (Ord. 46, 2nd Ser., passed 8-2-2005; Ord. 53, 2nd Ser.,
 passed 11-18-2008; Ord. 80, passed 6-26-2017) Penalty, see §
 112.999
-WINE
+**** WINE ****
 § 112.075 ON-SALE WINE LICENSE REQUIRED.
    (A)   It is unlawful for any person, directly or indirectly, on any pretense
 or by any device, to sell, barter, keep for sale or otherwise dispose of wine
@@ -8288,7 +8289,8 @@ when on-sale is permitted on Sunday as stated in §
 (1989 Code, § 5.51) (Ord. 47, 2nd Ser., passed 8-2-2005; Ord. 80, passed 6-26-
 2017) Penalty, see §
 112.999
-LIQUOR AND ON-SALE WINE LICENSE RESTRICTIONS, REGULATIONS AND UNLAWFUL ACTS
+**** LIQUOR AND ON-SALE WINE LICENSE RESTRICTIONS, REGULATIONS AND UNLAWFUL
+ACTS ****
 § 112.090 LIMITATIONS ON ISSUANCE OF LICENSES TO ONE PERSON OR PLACE.
    (A)   No off-sale liquor license may be issued to any one person for more
 than one place in the city. Any person holding an interest in two or more
@@ -8345,7 +8347,7 @@ guests at one time.
 restrict the number from time to time as it may, in its discretion, deem
 proper.
 (1989 Code, § 5.60, Subd. 6)
-CLUB LICENSES
+**** CLUB LICENSES ****
 § 112.110 CLUB LICENSE RESTRICTIONS AND REGULATIONS; UNLAWFUL ACTS.
    (A)   Definitions. For the purpose of this section, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -8381,7 +8383,7 @@ guest or host member, or to give false, fraudulent or misleading information in
 response to the request.
 (1989 Code, § 5.61) Penalty, see §
 112.999
-CONSUMPTION AND DISPLAY LICENSES
+**** CONSUMPTION AND DISPLAY LICENSES ****
 § 112.125 LICENSE REQUIRED; RESTRICTIONS AND REGULATIONS.
    (A)   Consumption and display license required. It is unlawful for any
 business establishment or club, not holding an on-sale liquor license, to
@@ -9069,7 +9071,7 @@ Synthetic or Alternative Drugs
  
    
 130.99   Penalty
-OFFENSES AGAINST THE PEACE
+**** OFFENSES AGAINST THE PEACE ****
 § 130.01 DANGEROUS TRESPASSES AND OTHER ACTS.
    It is unlawful for any person to:
    (A)   Smoke in the presence of explosives or inflammable materials, or in a
@@ -9271,7 +9273,7 @@ premises of the establishment during curfew hours and refused to leave.
 whether a minor has an affirmative defense before making an arrest.
 (1989 Code, § 10.23) (Ord. 13, 2nd Ser., eff. 12-9-1994) Penalty, see §
 130.99
-OFFENSES AGAINST PUBLIC PROPERTY
+**** OFFENSES AGAINST PUBLIC PROPERTY ****
 § 130.15 RULES AND REGULATIONS GOVERNING PUBLIC PARKS.
    (A)   Establishment.  Recreation areas and picnic grounds on lands owned by
 the city and known as Pine Grove Recreation Area are hereby established and
@@ -9340,7 +9342,7 @@ insurance or bond shall also protect the city from any suit, action or cause of
 action arising by reason of the obstruction.
 (1989 Code, § 10.31) Penalty, see §
 130.99
-HAZARDOUS CONDITIONS
+**** HAZARDOUS CONDITIONS ****
 § 130.30 PREAMBLE.
    (A)   Private property. The Council finds that accumulation on private
 property of unlicensed, unregistered or inoperable motor vehicles, household
@@ -9464,7 +9466,7 @@ future license shall be issued therefor until full abatement has been
 completed.
 (1989 Code, § 10.32, Subd. 9) Penalty, see §
 130.99
-DANGEROUS WEAPONS AND ARTICLES
+**** DANGEROUS WEAPONS AND ARTICLES ****
 § 130.50 ACTS PROHIBITED; EXCEPTION.
    (A)   Prohibition.  It is unlawful for any person to:
       (1)   Recklessly handle or use a gun or other dangerous weapon or
@@ -9537,7 +9539,7 @@ community-wide supervised class or event specifically authorized by the Chief
 of Police, or a bow and arrow range authorized by the Council.
 (1989 Code, § 10.03, Subd. 7) Penalty, see §
 130.99
-SYNTHETIC OR ALTERNATIVE DRUGS
+**** SYNTHETIC OR ALTERNATIVE DRUGS ****
 § 130.60 PROHIBITIONS.
    A person is guilty of a violation of this subchapter if they sell, possess,
 transfer, or manufacture any substance or product containing any quantity of
@@ -9796,7 +9798,7 @@ Signs
  
    
 150.99   Penalty
-ADOPTED CODES
+**** ADOPTED CODES ****
 § 150.01 HOUSING CODE ADOPTED.
    The Uniform Housing Code, 1996 edition, published by the International
 Conference of Building Officials, is hereby adopted by reference as though set
@@ -9804,7 +9806,7 @@ forth verbatim herein. One copy of the Code shall be marked “City of Aurora �
 Official Copy” and kept on file in the office of the City Administrator/Clerk-
 Treasurer and open to inspection and use by the public.
 (1989 Code, § 4.10) (Ord. 28, 2nd Ser., eff. 5-14-1999)
-OUTDOOR SWIMMING POOLS
+**** OUTDOOR SWIMMING POOLS ****
 § 150.15 DEFINITIONS.
    For purposes of this subchapter, an OUTDOOR SWIMMING POOL is defined as any
 temporary or permanent structure, basin, chamber or tank containing an
@@ -9858,7 +9860,7 @@ Chapter 153.
 of the provisions of the city code relating to building and land use, and state
 statutes relating to swimming pool construction and operation.
 (1989 Code, § 4.21, Subd. 6) (Ord. 9, 2nd Ser., eff. 12-2-1994)
-SIGNS
+**** SIGNS ****
 § 150.35 PURPOSE AND DEFINITIONS.
    (A)   Findings, purpose and effect.
       (1)   Findings. The City Council hereby finds as follows:
@@ -10901,7 +10903,7 @@ the Department of Natural Resources (DNR) for review and approval prior to
 adoption, for compliance with state and federal rules and requirements. The
 floodplain chapter shall not be considered valid until approved.
 (Ord. 111, passed 3-4-2025)
-STANDARDS
+**** STANDARDS ****
 § 151.20 PERMITTED USES, STANDARDS AND FLOODPLAIN ELEVATION CRITERIA.
    (A)   Permitted uses in the floodplain.  The following uses of land are
 permitted uses in the floodplain district:
@@ -11079,7 +11081,7 @@ structure or multi-lot developments. These standards should be investigated
 prior to the initiation of site preparation if a change of special flood hazard
 area designation will be requested.
 (1989 Code, § 13.40) (Ord. 21, 2nd Ser., eff. 5-30-1997)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 151.35 PERMIT REQUIRED.
    A permit issued by the City Administrator/Clerk-Treasurer shall be secured
 prior to the construction, addition or alteration of any building or structure;
@@ -11247,7 +11249,7 @@ Subdivision Improvements
  
    
 152.99   Penalty
-GENERAL PROVISIONS; ADMINISTRATION
+**** GENERAL PROVISIONS; ADMINISTRATION ****
 § 152.01 PURPOSE.
    All subdivisions of land hereafter submitted for approval shall comply in
 all respects with the regulations set forth herein. It is the purpose of these
@@ -11494,7 +11496,7 @@ by the Council, the Planning Commission or by petition. A notice of the time,
 place and purpose of hearing shall be published in the official newspaper of
 the city at least ten days prior to the date of the hearing.
 (1989 Code, § 12.21) (Ord. 129, eff. 4-24-1976)
-SUBDIVISION DESIGN STANDARDS
+**** SUBDIVISION DESIGN STANDARDS ****
 § 152.20 STREETS.
    (A)   Widths. Street right-of-way widths shall be as shown in the
 Comprehensive Guide Plan and where applicable shall conform to county and state
@@ -11643,7 +11645,7 @@ design of the subdivision.
    Planting strips shall be placed along highways and railroad lines to screen
 the view and to reduce the noise levels in residential areas.
 (1989 Code, § 12.06, Subd. 8)
-SUBDIVISION IMPROVEMENTS
+**** SUBDIVISION IMPROVEMENTS ****
 § 152.40 REQUIRED IMPROVEMENTS.
    Prior to the approval of a final plat, the subdivider shall have agreed in
 the manner set forth below to install, in conformity with construction plans,
@@ -11891,7 +11893,7 @@ Enforcement
  
    
 153.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.001 STATEMENT OF POLICY.
    The Council finds that the city is faced with mounting problems in providing
 means of guiding future development of land so as to ensure a safer, pleasant
@@ -12433,7 +12435,7 @@ violation is subject to the maximum penalty prescribed by state law for a
 misdemeanor. Each day such violation continues shall constitute a separate
 offense.
 (Ord. 77, passed 12-1-2015; Ord. 103, passed - -)
-PLANNING ORGANIZATIONS
+**** PLANNING ORGANIZATIONS ****
 § 153.020 COMPREHENSIVE PLANNING.
    The Council hereby undertakes to carry on comprehensive study and planning
 as a continuing guide for land use and development legislation within the city.
@@ -12513,7 +12515,7 @@ consist of the written application, petition or appeal; a copy of the minutes
 of the hearing of the Board; and a copy of the written recommendation of the
 Board.
 (1989 Code, § 11.11)
-ZONING DISTRICTS
+**** ZONING DISTRICTS ****
 § 153.035 ZONING DISTRICTS LISTED; MAP.
    (A)   For the purposes of this chapter, the city is hereby classified into
 the following Zoning Districts:
@@ -12818,7 +12820,7 @@ but not be restricted to the following:
       (2)   Public recreational buildings and parks, playgrounds and athletic
 fields.
 (1989 Code, § 11.50) (Ord. 129, eff. 4-24-1976)
-SPECIAL REQUIREMENTS AND STANDARDS
+**** SPECIAL REQUIREMENTS AND STANDARDS ****
 § 153.060 TABLE OF MINIMUM DISTRICT REQUIREMENTS.
    Every use of land within the city shall conform to the following minimum
 requirements which are applicable to the zoning district in which the use is
@@ -13519,7 +13521,7 @@ standard, or other contract between multiple property owners shall prohibit
 property owners from installing solar energy systems for the capture of direct
 sunlight.
 (Ord. 92, passed 10-18-2022)
-PUD – PLANNED UNIT DEVELOPMENT PROCEDURE
+**** PUD – PLANNED UNIT DEVELOPMENT PROCEDURE ****
 § 153.095 PURPOSE.
    (A)   The planned unit development (PUD) provision is applicable to all uses
 and districts and is optional except where specifically required by this
@@ -13624,7 +13626,7 @@ plan after approval has been granted will require a public hearing and the
 submission of an amended plan document unless the changes are minor enough to
 be authorized by administrative directive.
 (1989 Code, § 11.55, Subd. 3) (Ord. 129, eff. 4-24-1976)
-ADULT ORIENTED ESTABLISHMENTS
+**** ADULT ORIENTED ESTABLISHMENTS ****
 § 153.110 PURPOSE AND FINDINGS.
    (A)   Purpose.  
       (1)   It is the purpose of this subchapter to regulate adult oriented
@@ -14276,7 +14278,7 @@ Chapter 150
    This subchapter shall take effect on 6-1-1976 and be enforced from and after
 its passage, adoption and publication.
 (Ord. 42, 2nd Ser., passed 9-3-2002)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 153.130 ENFORCEMENT.
    (A)   This chapter shall be administered and enforced by the City
 Administrator/Clerk-Treasurer who is hereby designated as the Zoning Official.
