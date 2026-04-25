@@ -43,7 +43,7 @@ Code Enforcement Officer William Bower
 Zoning Administrator     Danielle Tiedeman
  
 PRELIMINARY UNIT
-COMPARATIVE SECTION TABLE
+***** COMPARATIVE SECTION TABLE *****
 EDITOR'S NOTE: The 1991 Codified Ordinances of Dimondale comprise ordinances
 and resolutions enacted by Council or new matter ordained by the Adopting
 Ordinance. Sections and subsections of the 1991 Codified Ordinances without a
@@ -475,7 +475,7 @@ Res. Unno.         10-9-23     1040, App. I
                               
  
 PART TWO - ADMINISTRATION CODE
-TITLE TWO - General Provisions
+***** TITLE TWO - General Provisions *****
    Chap.
 202.   Codified Ordinances.
    Chap.
@@ -1285,7 +1285,7 @@ CHAPTER 214
 Elections
 EDITOR'S NOTE: This chapter was repealed in its entirety by Ordinance 2007-2,
 passed March 12, 2007.
-TITLE FOUR - Legislation
+***** TITLE FOUR - Legislation *****
    Chap.
 220.   Council.
    Chap.
@@ -1388,7 +1388,7 @@ Ch. 202
 1240.03
    Amendments of the Zoning Code - see P. & Z.
 1260.03
-TITLE SIX - Administration
+***** TITLE SIX - Administration *****
    Chap.
 230.   President.
    Chap.
@@ -1719,7 +1719,7 @@ Act 88 of the Public Acts of 1961, as amended, C.L. 1970, Section 38.1101, et
 seq., and makes it a part of this chapter as if set forth herein in its
 entirety.
 (Ord. 99-8. Passed 8-9-99.)
-TITLE EIGHT - Boards and Commissions
+***** TITLE EIGHT - Boards and Commissions *****
    Chap.
 280.   Planning Commission.
    Chap.
@@ -1902,7 +1902,7 @@ may review this chapter at any time to determine if revisions or improvements
 are necessary to facilitate the needs and interests of the Village of Dimondale
 and the goals of the public arts program.
 (Ord. 2015-3. Passed 6-8-15.)
-TITLE TEN - Judiciary
+***** TITLE TEN - Judiciary *****
    Chap.
 290.   District Court and Circuit Court
 CHAPTER 290
@@ -2222,7 +2222,7 @@ same manner as provided by the statutes for the collection of Village taxes.
 Such tax or assessment shall be in addition to the penalty provided in Section
 660.99.
 (Ord. Unno. Passed 6-13-77; Ord. 2020-02. Passed 1-11-21.)
-660.05 (RESERVED).
+** 660.05 (RESERVED). **
 660.06 OPEN BURNING.
    (a)   Intent and Purpose. This section is intended to control and regulate
 the burning of man-made and naturally occurring combustible substances in the
@@ -2670,7 +2670,7 @@ et seq., 750.222 et seq.
    (EDITOR'S NOTE: Section
 672.99 was repealed by Ordinance 99-6, passed July 12, 1999.)
 PART EIGHT - BUSINESS REGULATION AND TAXATION CODE
-TITLE TWO - Business Regulation
+***** TITLE TWO - Business Regulation *****
    Chap.
 810.   Adult Businesses.
    Chap.
@@ -4479,7 +4479,7 @@ Window Sign       √            √                 √            √
 T= Temporary Only
 In all districts, the types of signs allowed shall be limited to those
 described in Schedule E.
-TITLE FOUR - Taxation
+***** TITLE FOUR - Taxation *****
    Chap.
 880.   Property Tax Exemptions.
 CHAPTER 880
@@ -4607,7 +4607,7 @@ provision of this chapter other than the section or provision so declared to be
 unconstitutional or invalid.
 (Ord. 2000-5. Passed 10-9-00.)
 PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE
-TITLE TWO - Street and Sidewalk Areas
+***** TITLE TWO - Street and Sidewalk Areas *****
    Chap.
 1010.   Complete Streets.
    Chap.
@@ -4971,7 +4971,7 @@ sidewalk.
 1026.99 PENALTY.
    (EDITOR'S NOTE: See Section
 202.99 for general Code penalty if no specific penalty is provided.)
-TITLE FOUR - Utilities
+***** TITLE FOUR - Utilities *****
    Chap.
 1040.   Sewers Generally.
    Chap.
@@ -5065,7 +5065,7 @@ Ch. 1044
 1294.04
    Mobile home connections - see B. & H.
 1440.05
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 1040.01 PURPOSE; OBJECTIVES; APPLICATION.
    (a)   The purposes of this chapter are to regulate private and public
 sewers, sewer connections, industrial waste pretreatment facilities and the
@@ -5444,7 +5444,7 @@ contained within, flow through or border upon the State or any portion thereof.
    TSS      Total suspended solids
    USC      United States Code
 (Ord. 97-4. Passed 9-8-97.)
-REGULATIONS
+*** REGULATIONS ***
 1040.04 TREATMENT OF POLLUTED WATER REQUIRED BEFORE DISCHARGE.
    No person shall directly discharge into the waters of the State within the
 Village or in any area under the jurisdiction of the Village any sanitary
@@ -5837,7 +5837,7 @@ Superintendent.
 haulers based on noncompliance with the conditions as stated herein or changes
 in treatment standards as required by the Department of Environmental Quality.
 (Ord. 97-4. Passed 9-8-97.)
-CONSTRUCTION OF BUILDING SEWERS
+*** CONSTRUCTION OF BUILDING SEWERS ***
 1040.21 GENERAL PROVISIONS.
    (a)   No person, firm, or corporation shall lay, alter, repair or do any
 kind of work connected with any building sewer, connection or sewer work or
@@ -6060,7 +6060,7 @@ to drain into the sanitary sewer.
 available in all downstream sewers, lift stations, force mains and the sewage
 treatment plant, including capacity for treatment of BOD and suspended solids.
 (Ord. 97-4. Passed 9-8-97.)
-INDUSTRIAL USE OF SYSTEM
+*** INDUSTRIAL USE OF SYSTEM ***
 1040.22 WASTEWATER DISCHARGES.
    No person shall discharge, without a permit, to any natural outlet within
 the Township or the Village, or in any area under their jurisdiction, and/or to
@@ -6515,7 +6515,7 @@ characteristics will not be recognized as confidential information.
 any governmental agency or to the general public by the POTW until and unless a
 ten-day notification is given to the user.
 (Ord. 97-4. Passed 9-8-97.)
-ENFORCEMENT
+*** ENFORCEMENT ***
 1040.30 HARMFUL CONTRIBUTIONS; SUSPENSION OF WASTEWATER TREATMENT SERVICE AND/
 OR WASTEWATER DISCHARGE PERMIT.
    The Board may suspend the wastewater treatment service and/or a wastewater
@@ -6670,7 +6670,7 @@ the State of Michigan (Act 306 of the Public Acts of 1979, as amended, being
 M.C.L.A. 24.201 et seq., as amended). All findings of fact, if supported by the
 evidence, made by the Board, shall be conclusive upon the Court.
 (Ord. 97-4. Passed 9-8-97.)
-RATES AND CHARGES
+*** RATES AND CHARGES ***
 1040.36 RATES ESTABLISHED; APPLICABILITY; BASIS FOR COMPUTATION.
    Inasmuch as the POTW treatment plant and certain appurtenances to be used by
 Village and Township users are owned by the Village, rates and charges for the
@@ -6814,7 +6814,7 @@ the cost of inspection for the connection of a building sewer to the main,
 shall be paid to the Village at the time that application is made for sewer
 service.
 (Ord. 97-4. Passed 9-8-97.)
-MISCELLANEOUS PROVISIONS
+*** MISCELLANEOUS PROVISIONS ***
 1040.46 GENERAL DUTIES OF SUPERINTENDENT.
    In addition to the specific duties of the Superintendent enumerated
 elsewhere in this chapter, the Superintendent is charged with the duty of
@@ -6953,7 +6953,7 @@ treatment is provided. This requirement shall apply in any situation where,
 among others, the primary source of power of the facility is receded, lost or
 fails.
 (Ord. 97-4. Passed 9-8-97.)
-APPENDIX I Table of Equivalent Unit Factors
+** APPENDIX I Table of Equivalent Unit Factors **
 Usage Residential Equivalent Unit Factor Information Source
                                                                               Residential   Information
 Usage                                                                         Equivalent    Source
@@ -7832,7 +7832,7 @@ System within that area defined as Cherry Street Drain Assessment District,
 plus those additional properties which have paid the enterprise fee pursuant to
 the terms of this chapter.
 (Ord. 2003-3. Passed 3-10-03.)
-TITLE SIX - Other Public Services
+***** TITLE SIX - Other Public Services *****
    Chap.
 1060.   Parks.
    Chap.
@@ -8208,7 +8208,7 @@ application thereof to any resident or circumstances is held invalid, such
 invalidity shall not affect any remaining portions of the application of this
 chapter, which can be given effect without the invalid portion or application.
 (Ord. 2016-6. Passed 9-12-16.)
-TITLE EIGHT - Sale of Public Property
+***** TITLE EIGHT - Sale of Public Property *****
    Chap.
 1080. Sale of Personal Property.
 CHAPTER 1080
@@ -8259,7 +8259,7 @@ expertise to provide an unbiased and knowledgeable opinion as to the fair
 market value of the property being sold by the village.
 (Ord. 2005-3. Passed 9-12-05.)
 PART TWELVE - PLANNING AND ZONING CODE
-TITLE TWO - Planning
+***** TITLE TWO - Planning *****
    Chap.
 1220.   Planning Commission.
 CHAPTER 1220
@@ -8345,7 +8345,7 @@ planning activities.
    (d)   Other. Other powers and duties associated with the Planning Commission
 are described throughout Part Twelve of this Code of Ordinances.
 (Ord. 2009-5. Passed 11-9-09.)
-TITLE FOUR - Subdivision Regulations
+***** TITLE FOUR - Subdivision Regulations *****
    Chap.
 1240.   Subdivision Control.
    Chap.
@@ -9000,7 +9000,7 @@ for a Municipal civil infraction as provided for in Section
 subject to a civil action seeking invalidation of the land division and
 appropriate injunctive or other relief.
 (Ord. 99-1. Passed 7-12-99.)
-TITLE SIX - Zoning Code
+***** TITLE SIX - Zoning Code *****
    Chap.
 1260.   General Provisions and Definitions.
    Chap.

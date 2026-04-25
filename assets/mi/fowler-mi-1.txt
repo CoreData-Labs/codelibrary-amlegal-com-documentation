@@ -9,7 +9,7 @@ Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
 ADOPTING ORDINANCE
-ORDINANCE NO. 39
+***** ORDINANCE NO. 39 *****
 AN ORDINANCE ADOPTING AND ENACTING A NEW CODE OF ORDINANCES FOR THE VILLAGE OF
 FOWLER, MICHIGAN; PROVIDING FOR THE CONTINUATION OF THE ZONING ORDINANCE AS A
 SEPARATE ORDINANCE; PROVIDING FOR THE REPEAL OF CERTAIN ORDINANCES NOT INCLUDED
@@ -775,7 +775,7 @@ potential
 31.20   Delivery of copies of ethics code to public servants
    
 31.99   Penalty
-   GENERAL POLICIES
+****    GENERAL POLICIES ****
 § 31.01 VILLAGE OFFICERS COMPENSATION.
    (A)   Village officers shall receive compensation for the performance of
 duties of their respective offices as provided in this section.
@@ -792,7 +792,7 @@ determined by resolution of the Council from time to time for fulfilling the
 duties of their respective offices. Other village officers shall receive such
 compensation for services rendered the village as prescribed by the Council.
 (Ord. 44, passed 5-12-03)
-ETHICS POLICY
+**** ETHICS POLICY ****
 § 31.10 TITLE.
    This subchapter shall be known as the “Ethics Policy Ordinance” or the “Code
 of Ethics for Public Servants of the Village of Fowler” (“the Code”).
@@ -1048,7 +1048,7 @@ T.S.O. I
 Chapter 92
    Special assessments, see §§
 30.01 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 WATER AND SEWER CONNECTIONS, HOOK-UPS AND METER FEES.
    (A)   Permit required. No unauthorized person shall uncover, make any
 connections with or open into, use, alter or disturb any public sewer or water
@@ -1239,7 +1239,7 @@ bank or trust company having on deposit the fund or funds from which such
 purchase was made. Income received from such investments shall be credited to
 the fund from which the investments were made.
 (Ord. passed 3-12-07)
-SEWER USE REGULATIONS
+**** SEWER USE REGULATIONS ****
 § 50.15 OPERATION AND MAINTENANCE OF THE SANITARY SEWAGE DISPOSAL SYSTEM.
    (A)   It is hereby determined to be desirable and necessary, for the public
 health, safety and welfare of the village, that the sanitary sewage disposal
@@ -1630,7 +1630,7 @@ guilty of refusing or obstructing such entry shall upon conviction be
 punishable as set forth in §
 10.99 of this code.
 (Ord. 17, passed 9-14-81)
-WATER SYSTEM SAFEGUARDS
+**** WATER SYSTEM SAFEGUARDS ****
 § 50.35 TITLE.
    This subchapter shall be known as the "Village of Fowler Wellhead Protection
 and Mandatory Water Connection Ordinance."(Ord. 46, passed 9-8-03)
@@ -1923,7 +1923,7 @@ Section
 91.20   Other remedies
    
 91.21   No limitation of liability
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 FIRE PREVENTION CODE ADOPTED.
    (A)   Adoption of Fire Prevention Code.
       (1)   There is hereby adopted, for the purpose of prescribing regulations
@@ -1996,7 +1996,7 @@ an outdoor furnace fired by wood, corn, pellets, coal, gas, or any other type
 of combustible material within the village.
 (Ord. 50, passed 9-11-06)
 Penalty, see § 10.99
-PUBLIC SAFETY AND FIRE EMERGENCY COST RECOVERY
+**** PUBLIC SAFETY AND FIRE EMERGENCY COST RECOVERY ****
 § 91.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2641,7 +2641,7 @@ Section
 Cross-reference:
    Streets and sidewalks, see
 Ch. 93
-RIGHTS-OF-WAY
+**** RIGHTS-OF-WAY ****
 § 111.01 PURPOSE.
    The purposes of this subchapter are to regulate access to and ongoing use of
 public rights-of-way by telecommunications providers for their
@@ -4779,7 +4779,7 @@ Wind Energy Conversion Systems
 152.319   Wind energy monitoring station
    
 152.320   Construction codes, towers, interconnection standards
-PURPOSE, TITLE, AND SCOPE
+**** PURPOSE, TITLE, AND SCOPE ****
 § 152.001 PURPOSE.
    Pursuant to the authority granted to the Village of Fowler by the Public
 Acts of the State of Michigan, this chapter is established for the following
@@ -4869,7 +4869,7 @@ permitted by right or a use permitted by special land use.
 activity existing on the effective date of this chapter may continue subject to
 the provisions contained in §
 152.069, Nonconforming Uses, Structures, and Lots.
-DEFINITIONS AND INTERPRETATIONS
+**** DEFINITIONS AND INTERPRETATIONS ****
 § 152.015 INTENT AND PURPOSE.
    The purpose of this subchapter is to establish rules for interpreting the
 text of this chapter, to define certain words and terms, and to provide for the
@@ -5616,7 +5616,7 @@ its amendments. [Amended 3-10-2008]
    ZONING BOARD OF APPEALS. The Zoning Board of Appeals of the Village of
 Fowler.
    ZONING ORDINANCE. The Village of Fowler Zoning Ordinance.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.050 INTENT AND PURPOSE.
    It is the purpose of this subchapter to establish regulations and conditions
 which are applicable to all districts of this chapter unless otherwise
@@ -6348,7 +6348,7 @@ any direction and shall be safely maintained. Support wires and towers may not
 be erected or placed closer than ten feet to any side or rear lot line. Support
 wires and towers are prohibited from being located in the front yard. Towers
 must be erected, mounted and maintained in a safe manner.
-ZONING DISTRICTS AND BOUNDARIES
+**** ZONING DISTRICTS AND BOUNDARIES ****
 § 152.090 ZONE DISTRICTS.
    For the purposes of this chapter, the Village of Fowler is hereby divided
 into the following zone districts:
@@ -6416,7 +6416,7 @@ Council shall otherwise designate.
    Zone districts and district standards are enumerated and described in §§
 152.115 through
 152.182.
-R-1 SINGLE FAMILY RESIDENTIAL DISTRICT
+**** R-1 SINGLE FAMILY RESIDENTIAL DISTRICT ****
 § 152.115 INTENT.
    This district is intended to provide a low-density, single family
 residential living environment and to foster stable, high quality
@@ -6509,7 +6509,7 @@ All yard setbacks         Same as for residential buildings or equal to height
                           of main building, whichever is greater.
 Maximum lot coverage      35%
  
-R-2 SINGLE, TWO, AND MULTIPLE FAMILY RESIDENTIAL DISTRICT
+**** R-2 SINGLE, TWO, AND MULTIPLE FAMILY RESIDENTIAL DISTRICT ****
 § 152.130 INTENT.
    This district is intended to provide additional variety in housing
 opportunities and choices. The R-2 District should also provide high-quality
@@ -6630,7 +6630,7 @@ All yard setbacks                        equal to height of main building,
 Maximum lot coverage (includes accessory 35%
 buildings)
  
-C-1 CENTRAL BUSINESS DISTRICT
+**** C-1 CENTRAL BUSINESS DISTRICT ****
 § 152.140 INTENT.
    This district is intended to provide a wide range of goods and services to
 residents of Fowler as well as surrounding areas in a downtown setting. This
@@ -6722,7 +6722,7 @@ Rear setback                   25 feet
 Maximum lot coverage (includes Residential uses - 35%
 accessory buildings)
  
-C-2 GENERAL COMMERCIAL DISTRICT
+**** C-2 GENERAL COMMERCIAL DISTRICT ****
 § 152.150 INTENT.
    This district is intended to provide a wide range of goods and services to
 the residents of Fowler as well as surrounding areas. These uses will generally
@@ -6793,7 +6793,7 @@ Side yard setback    15 feet (each side) see Landscape subchapter
 Rear yard setback    25 feet - see Landscape subchapter
 Maximum lot coverage 40% - does not include parking and landscaping
  
-I - INDUSTRIAL DISTRICT
+**** I - INDUSTRIAL DISTRICT ****
 § 152.160 INTENT.
    This district is intended to provide exclusive areas for industrial uses in
 areas served by adequate infrastructure. Uses in this district are to provide
@@ -6919,7 +6919,7 @@ Side yard setback    0 feet (each side) see Landscape subchapter
 Rear yard setback    0 feet - see Landscape subchapter
 Maximum lot coverage 70%
 [Amended 4-17-2017]
-PUD - PLANNED UNIT DEVELOPMENT DISTRICT
+**** PUD - PLANNED UNIT DEVELOPMENT DISTRICT ****
 § 152.170 INTENT.
    (A)   Planned unit developments are promoted in the Village of Fowler as a
 way for the village to encourage high quality development with an emphasis on
@@ -7224,7 +7224,7 @@ or final PUD plans previously approved become null and void. In order to
 utilize the property as a PUD, an applicant would have to submit plans for
 preliminary and final PUD site plan approval as stated in this subchapter, but
 would not require PUD rezoning action from the Council.
-SITE PLAN REVIEW
+**** SITE PLAN REVIEW ****
 § 152.190 INTENT AND PURPOSE.
    It is the purpose of this subchapter to require site plan review approval
 for certain buildings, structures, and uses that can be expected to have a
@@ -7501,7 +7501,7 @@ site plan have been fulfilled.
 to an action regarding the final site plan may have that decision reviewed by
 the Board of Zoning Appeals; provided the petition for appeal is filed with the
 Village Clerk within 20 days of the Planning Commission decision.
-SPECIAL LAND USES
+**** SPECIAL LAND USES ****
 § 152.210 INTENT AND PURPOSE.
    (A)   This subchapter is intended to respond to the functions and
 characteristics of an increasing number of new kinds of land uses, combined
@@ -8123,7 +8123,7 @@ including some natural vegetation shall be provided around these outdoor areas.
       (3)   All indoor and outdoor hospital and clinic areas, runs, pens, and/
 or exercise areas shall be daily maintained, including the removal of animal
 waste.
-LANDSCAPING AND DESIGN REQUIREMENTS
+**** LANDSCAPING AND DESIGN REQUIREMENTS ****
 § 152.225 INTENT.
    It is the intent of this subchapter to require buffer zones, landscaping,
 and screening to reduce the negative impacts between incompatible land uses and
@@ -8499,7 +8499,7 @@ parking lot and may be used to separate pedestrian areas, maneuvering areas,
 and drives.
          (f)   Trees planted shall comply with the provisions of §
 152.227(A).
-OFF-STREET PARKING AND LOADING
+**** OFF-STREET PARKING AND LOADING ****
 § 152.240 INTENT AND PURPOSE.
    It is the intent of this subchapter that off-street parking and loading
 spaces shall be provided and adequately maintained by each property owner in
@@ -8886,7 +8886,7 @@ fully operational and display the current license plate/registration. It cannot
 be used for living or housing purposes and shall not have any fixed connections
 to electricity, water, gas, or sanitary sewer.
 [Amended 10-13-2014]
-SIGNS
+**** SIGNS ****
 § 152.265 PURPOSE AND INTENT.
    The purpose of this subchapter is to promote traffic safety, public safety,
 and the conservation of property values through the application of reasonable
@@ -9345,7 +9345,7 @@ Location 50 feet to any other property line, and no closer than 1,500 feet to
          any other billboard on the same of opposite side of the street
 Height   No higher than 20 feet
  
-ZONING BOARD OF APPEALS
+**** ZONING BOARD OF APPEALS ****
 § 152.280 PURPOSE.
    (A)   The role of the Zoning Board of Appeals (ZBA) as authorized by
 Michigan's zoning statutes is a unique and important one. The ZBA is empowered
@@ -9567,7 +9567,7 @@ variance.
 requirements of the variance have been fulfilled, as a precondition to the
 issuance of any permit required for development, construction, occupancy or use
 within the area governed by the variance.
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 152.295 RESPONSIBILITY.
    (A)   Deputy Administrator. Where the provisions of this chapter authorize
 or direct the Zoning Administrator to perform any act or carry out any
@@ -9849,7 +9849,7 @@ Fowler Code of Ordinances, and all amendments, are now repealed.
    This chapter is hereby adopted at a regular meeting of the Village Council
 held on the 9th day of September 2002, and shall be effective September 22nd,
 2002.
-WIND ENERGY CONVERSION SYSTEMS
+**** WIND ENERGY CONVERSION SYSTEMS ****
 § 152.315 INTENT AND PURPOSE.
    It is the purpose of this subchapter to establish regulations and conditions
 for wind energy conversion systems which are applicable to all districts of
@@ -10056,7 +10056,7 @@ electrical codes and local building permit requirements. WECS shall comply with
 Federal Aviation Administration requirements, the Michigan Airport Zoning Act,
 and the Michigan Tall Structures Act.
 [Amended 3-14-2011]
-ZONING CODE PARALLEL REFERENCES
+***** ZONING CODE PARALLEL REFERENCES *****
 References to Michigan Compiled Laws Annotated
 References to Ordinances
 REFERENCES TO MICHIGAN COMPILED LAWS ANNOTATED
