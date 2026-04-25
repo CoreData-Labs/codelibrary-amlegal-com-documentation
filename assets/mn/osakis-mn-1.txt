@@ -1948,7 +1948,7 @@ Individual Sewage Disposal Systems
 52.32   Abandonment of septic system
    
 52.33   Objectives
-GENERAL SEWER PROVISIONS
+**** GENERAL SEWER PROVISIONS ****
 § 52.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2624,7 +2624,7 @@ and loadings, costs of the wastewater collection and treatment facilities,
 sampling programs and other information which is necessary to document
 compliance with 40 C.F.R. pt 35, Subpart E of the Clean Water Act.
 (1986 Code, § 403.12)
-INDIVIDUAL SEWAGE DISPOSAL SYSTEMS
+**** INDIVIDUAL SEWAGE DISPOSAL SYSTEMS ****
 § 52.25 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3678,7 +3678,7 @@ Specific Regulations
 70.39   Windshield
    
 70.40   Police duties
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 70.01 DEFINITIONS.
    Any term used in this chapter and defined in M.S. § 169.01, as it may be
 amended from time to time, has the meaning given it by that section.
@@ -3781,7 +3781,7 @@ devices.
    (B)   No regulation may be established on a trunk highway unless the consent
 of the Commissioner of Transportation is first secured.
 (1986 Code, § 701.14)
-SPECIFIC REGULATIONS
+**** SPECIFIC REGULATIONS ****
 § 70.25 REMOVING KEYS.
    (A)   No person shall leave a motor vehicle, except a truck which is engaged
 in loading or unloading, unattended on any street, used car lot, or unattended
@@ -4458,7 +4458,7 @@ Open Burning
 90.69   Burning ban or air quality alert
    
 90.70   Rules and laws adopted by reference
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 ASSESSABLE CURRENT SERVICES.
    (A)   Definition. For the purpose of this section, the following definition
 shall apply unless the context clearly indicates or requires a different
@@ -4584,7 +4584,7 @@ against the property involved as a special assessment as authorized by M.S. §
 for certification to the County Auditor and collection the following year along
 with the current taxes.
 Penalty, see § 10.99
-NUISANCES
+**** NUISANCES ****
 § 90.15 PUBLIC NUISANCE.
    Whoever by his or her act or failure to perform a legal duty intentionally
 does any of the following is guilty of maintaining a public nuisance, which is
@@ -4997,7 +4997,7 @@ allowed by state law.
 Cross-reference:
    Cannabis Businesses, see
 Ch. 125
-WEEDS
+**** WEEDS ****
 § 90.35 SHORT TITLE.
    This subchapter shall be cited as the Weed Ordinance.
 § 90.36 JURISDICTION.
@@ -5077,7 +5077,7 @@ expenses and costs incurred by the city.
    (D)   All sums payable by the property owner may be collected as a special
 assessment as provided by M.S. § 429.101, as it may be amended from time to
 time.
-OPEN BURNING
+**** OPEN BURNING ****
 § 90.60 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5341,7 +5341,7 @@ Local Improvement Policy
 Street Numbers
    
 92.65   General provisions
-STREET EXCAVATIONS
+**** STREET EXCAVATIONS ****
 § 92.01 PERMIT REQUIRED.
    (A)   No person, except an authorized city employee or a contractor
 performing work under a contract with the city, shall make any excavation in a
@@ -5493,7 +5493,8 @@ other public grounds in the city shall constitute an agreement to all
 provisions of this subchapter.
 (1986 Code, § 301.08)
 Penalty, see § 10.99
-ASSESSABLE CURRENT SERVICES; OBLIGATIONS OF PROPERTY OWNERS AND OCCUPANTS
+**** ASSESSABLE CURRENT SERVICES; OBLIGATIONS OF PROPERTY OWNERS AND OCCUPANTS
+****
 § 92.20 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5645,7 +5646,7 @@ time, and other pertinent statutes for certification to the County Auditor and
 collection along with current taxes the following year or in annual
 installments, not exceeding ten, as the Council may determine in each case.
 (1986 Code, § 302.10)
-LOCAL IMPROVEMENT POLICY
+**** LOCAL IMPROVEMENT POLICY ****
 § 92.40 CUT-OFF DATE FOR PETITIONS.
    No petition for construction of public improvements shall be accepted or
 acted upon by the Council unless it is filed with the City Clerk/Treasurer on
@@ -5862,7 +5863,7 @@ therewith.
 with this chapter in the conduct of all local improvements proceedings to which
 they apply by their terms.
 (1986 Code, § 303.13)
-STREET NUMBERS
+**** STREET NUMBERS ****
 § 92.65 GENERAL PROVISIONS.
    (A)   Requirements.
       (1)   All commercial buildings and residential buildings located within
@@ -5929,7 +5930,7 @@ Dogs
 93.26   Proceedings for destruction of certain dogs
    
 93.27   Impounding
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 93.01 GENERAL PROHIBITION.
    No person shall keep any horses, cattle, sheep, pigs or goats in the city or
 permit an animal to be kept on premises owned, occupied or controlled by him or
@@ -6010,7 +6011,7 @@ sold.
 release any animal legally placed therein.
 (1986 Code, § 504.08)
 Penalty, see § 10.99
-DOGS
+**** DOGS ****
 § 93.20 RUNNING AT LARGE PROHIBITED.
    (A)   It shall be unlawful for the dog of any person who owns, harbors or
 keeps a dog, to run at large.
@@ -6157,7 +6158,7 @@ improvements or on private property
 94.32   Adjacent landowner responsibility
    
 94.33   Interference with the City Tree Board
-TREE DISEASES
+**** TREE DISEASES ****
 § 94.01 DECLARATION OF POLICY.
    (A)   The Council of Osakis determines that the health of the elm and oak
 trees within the municipal limits is threatened by fatal diseases known as
@@ -6333,7 +6334,7 @@ property, including streets and boulevards, without the written permission of
 the City Council.
 (Ord. 6, passed 8-3-1992)
 Penalty, see § 10.99
-CITY TREE BOARD
+**** CITY TREE BOARD ****
 § 94.25 AUTHORITY AND POWER.
    There is hereby created and established a City Tree Board for the City of
 Osakis which shall consist of 5 members, citizens and residents who shall be
@@ -7241,7 +7242,7 @@ Open Burning
 98.44   Burning ban or air quality alert
    
 98.45   Rules and laws adopted by reference
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 98.01 OPEN BURNING OF DRIED LEAVES.
    (A)   The open burning of leaves, tree branches or limbs is allowed; the
 open burning of diseased trees, their branches and limbs is permissible after
@@ -7250,7 +7251,7 @@ rule and regulation control and restrict the issuance of the burning permits.
 The fee for the issuance of the burning permits shall be set by the Council
 from time to time by resolution.
    (B)   The burning of rubbish, trash or other material is prohibited.
-FIREWOOD STORAGE
+**** FIREWOOD STORAGE ****
 § 98.20 STATEMENT OF POLICY.
    The Council finds that the use of renewable resources including wood is
 increasing. The Council recognizes that to protect public health and safety,
@@ -7295,7 +7296,7 @@ within 90 days of adoption of this subchapter, or upon written notice to comply
 by the Building Official and Fire Marshal.
    (B)   The notice shall be in writing and shall be served upon the property
 owner either in person or by mail.
-OPEN BURNING
+**** OPEN BURNING ****
 § 98.35 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7755,7 +7756,7 @@ Specific Provisions
 101.33   Emergency suspension of authorized event
    
 101.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 101.01 PURPOSE.
    This chapter is adopted for the purpose of regulating parades and athletic
 events occurring on or within a city street, parking facility, sidewalk or
@@ -7914,7 +7915,7 @@ deposited, the excess of the deposit shall be refunded to the permittee.
    (C)   Any event involving the exercise of free speech rights shall be exempt
 from paying a deposit and reimbursing the city’s costs as set forth in this
 section.
-SPECIFIC PROVISIONS
+**** SPECIFIC PROVISIONS ****
 § 101.25 ACTION ON PERMIT APPLICATION.
    (A)   The Director of Community Development shall approve or deny an
 application permit within 2 working days after receipt of the application.
@@ -9142,7 +9143,7 @@ Municipal Liquor Stores
 118.55   Issuance of other licenses
    
 118.99   Penalties
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 118.01 ADOPTION OF STATE LAW BY REFERENCE.
    The provisions of M.S. Ch. 340A, as they may be amended from time to time,
 with reference to the definition of terms, conditions of operation,
@@ -9213,7 +9214,7 @@ place other than on the premises of an establishment licensed under this
 chapter, in a municipal liquor dispensary if one exists in the city, or where
 the consumption and display of liquor is lawfully permitted.
 Penalty, see § 118.99
-LICENSING
+**** LICENSING ****
 § 118.20 NUMBER OF LICENSES WHICH MAY BE ISSUED.
    State law establishes the number of liquor licenses that a city may issue,
 as provided under M.S. § 340A.413, as it may be amended from time to time. The
@@ -9471,7 +9472,7 @@ have again been met.
 118.99 pertaining to administrative penalty may be imposed in addition to or in
 lieu of any suspension or revocation under this chapter.
 Penalty, see § 118.99
-MUNICIPAL LIQUOR STORES
+**** MUNICIPAL LIQUOR STORES ****
 § 118.50 APPLICATION OF THIS SUBCHAPTER.
    This subchapter, consisting of §§
 118.50 through
@@ -9932,7 +9933,7 @@ Special Events
 122.29   Issuance of permit, conditions and posting
    
 122.30   Exceptions to the permit
-PUBLIC DANCES
+**** PUBLIC DANCES ****
 § 122.01 REGULATION OF PUBLIC DANCES.
    All public dances held in this city shall be conducted in accordance with
 the provisions of this chapter.
@@ -10023,7 +10024,7 @@ Penalty, see § 10.99
    All public dances shall be subject to the provisions of this code regulating
 noise.
 Penalty, see § 10.99
-SPECIAL EVENTS
+**** SPECIAL EVENTS ****
 § 122.25 PURPOSE AND FINDINGS.
    (A)   The purpose of this chapter is to protect the health, safety and
 welfare of the citizens of this city by regulating the time, place and manner
@@ -10577,7 +10578,7 @@ Temporary Cannabis Events
 Use in Public Places
    
 125.45   Prohibition of cannabis use in public places
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 125.01 FINDINGS AND PURPOSE.
    The City Council for the City of Osakis makes the following legislative
 findings:
@@ -10669,7 +10670,7 @@ school that must meet reporting requirements under M.S. § 120A.24.
    STATE LICENSE. An approved license issued by the State of Minnesota's Office
 of Cannabis Management to a cannabis retail business.
 (Ord. 142, passed 5-12-2025)
-RETAIL REGISTRATION
+**** RETAIL REGISTRATION ****
 § 125.10 REGISTRATION OF CANNABIS RETAIL BUSINESSES.
    (A)   Registration required. No individual or entity may operate a state-
 licensed cannabis retail business or lower-potency hemp edible retailer within
@@ -10923,7 +10924,7 @@ the following Zoning Districts:
       (1)   C-3 (Highway Commercial)
       (2)   I-1 (General Industrial)
 (Ord. 142, passed 5-12-2025)
-TEMPORARY CANNABIS EVENTS
+**** TEMPORARY CANNABIS EVENTS ****
 § 125.35 LICENSE OR PERMIT REQUIRED FOR TEMPORARY CANNABIS EVENTS.
    A license or permit is required to be issued and approved by city prior to
 holding a temporary cannabis event.
@@ -10988,7 +10989,7 @@ security, the environment or the convenience of the citizens, and reserves the
 right to set a fee for the use of city property commensurate with the costs to
 the city of an individual application on a case-by-case basis.
 (Ord. 142, passed 5-12-2025)
-USE IN PUBLIC PLACES
+**** USE IN PUBLIC PLACES ****
 § 125.45 PROHIBITION OF CANNABIS USE IN PUBLIC PLACES.
    No person shall use cannabis flower, cannabis products, lower-potency hemp
 edibles, or hemp-derived consumer products in a public place or a place of

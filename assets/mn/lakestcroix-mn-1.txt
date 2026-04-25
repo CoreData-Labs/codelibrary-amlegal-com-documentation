@@ -609,7 +609,7 @@ City Clerk-Administrator and City Treasurer
 31.17   Compensation
    
 31.18   Establishment by employment or contract
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 STATUTORY ORGANIZATION; FORM OF GOVERNMENT.
    (A)   The city is organized under M.S. § 412.572 (1989), as it may be
 amended from time to time, as an optional Plan A statutory city.
@@ -643,7 +643,7 @@ representative be directly reimbursed from the board or commission on which
 they are a member on behalf of the city, the compensation otherwise provided by
 the city shall be offset by the amount so directly paid such representative by
 the board or commission on which they serve.
-CITY CLERK-ADMINISTRATOR AND CITY TREASURER
+**** CITY CLERK-ADMINISTRATOR AND CITY TREASURER ****
 § 31.15 STATUTORY AUTHORIZATION FOR CITY CLERK-ADMINISTRATOR.
    The city shall have a City Clerk-Administrator who shall serve at the
 direction and pleasure of the City Council and shall perform the duties of City
@@ -720,7 +720,7 @@ Cross-reference:
 Chapter 150
    Parks and Recreation, see
 Chapter 91
-PLANNING COMMISSION
+**** PLANNING COMMISSION ****
 § 32.01 ESTABLISHMENT.
 There is hereby established a Planning Commission for the city.
 § 32.02 COMPOSITION.
@@ -755,7 +755,7 @@ Commission shall take into consideration the best interest of the city.
    (B)   The Planning Commission shall carry on city planning activities and
 recommend such plans for the regulation of future physical development of the
 city, including land use and building construction.
-PARK BOARD; TECHNICAL COMMITTEE
+**** PARK BOARD; TECHNICAL COMMITTEE ****
 § 32.20 ESTABLISHMENT.
    There is hereby established a Park Board for the city.
 § 32.21 COMPOSITION.
@@ -798,7 +798,7 @@ docking facility inspections, and/or other such tasks as may be assigned to it
 by the Chairperson and the Mayor from time to time. Like the Park Board
 members, the members of the Park Technical Committee shall serve annually
 within the year of their appointment.
-BUILDING DEPARTMENT
+**** BUILDING DEPARTMENT ****
 § 32.40 CREATION.
    There is hereby established in the municipality the Building Department
 which shall be under the jurisdiction of the Building Official designated by
@@ -1109,7 +1109,7 @@ Hauler Regulations
 50.22   Containers
    
 50.23   Storage and placement
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1200,7 +1200,7 @@ to those plans approved by the city or the county and with the state and/or the
 county Recycling and Solid Waste reduction mandates and to eliminate other and
 similar health and safety hazards which the Council finds now exist or are to
 be anticipated in the absence of such licensing and regulation.
-HAULER REGULATIONS
+**** HAULER REGULATIONS ****
 § 50.15 LICENSE REQUIRED.
    No person, firm, or corporation shall engage in the business of collecting
 or removing MSW, Recyclables, Bulky Wastes, Yard Wastes, SSOM, or construction/
@@ -5442,7 +5442,7 @@ Golf Carts
 71.63   Violations
    
 71.79   Penalties
-SNOWMOBILES
+**** SNOWMOBILES ****
 § 71.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5572,7 +5572,7 @@ with a snowmobile.
    Owners of land or Persons in control thereof shall not be liable for any
 claim from Persons operating Snowmobiles thereon in violation of this
 ordinance.
-BICYCLE AND HIKING TRAILS
+**** BICYCLE AND HIKING TRAILS ****
 § 71.25 USE OF MOTORIZED VEHICLES.
    (A)   It shall be unlawful to Operate any motorized vehicle, motorized foot
 scooter as defined within M.S. § 169.01, subd. 4(c), as it may be amended from
@@ -5595,7 +5595,7 @@ Penalty, see § 71.99
    All provisions of
 Chapter 70 of this Code regulating traffic shall apply to the operation of
 bicycles on said trail.
-ALL-TERRAIN VEHICLES
+**** ALL-TERRAIN VEHICLES ****
 
 Except as herein specifically addressed or modified, the provisions of
 Minnesota Statute Section 169.045 are incorporated herein by reference.
@@ -5731,7 +5731,7 @@ operating an ATV or UTV without a permit and the violations listed in 1006.040.
 a violation of the provisions of this ordinance shall be punished in accordance
 with Minnesota Statute 609.02 Subd. 3 as it may be amended from time to time;
 and the cost of prosecution may be added pursuant to Minn. Stat. §631.48.
-Golf Carts
+**** Golf Carts ****
 
 Except as herein specifically addressed or modified, the provisions of
 Minnesota Statute Section 169.045 in relation to Golf Carts are incorporated
@@ -6062,7 +6062,7 @@ Conditions and Regulations
 90.070   Indemnification and liability
    
 90.071   Abandoned, unusable facilities
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.001 FINDINGS, PURPOSE, AND INTENT.
    (A)   To provide for the health, safety, and welfare of its citizens, and to
 ensure the integrity of its streets and the appropriate use of the rights-of-
@@ -6311,7 +6311,7 @@ reasonably determined by the City.
 the administration of the rights-of-way, right-of-way Permits and the
 ordinances related thereto. The City Clerk-Administrator may delegate any or
 all of the duties hereunder.
-REGISTRATION AND OCCUPANCY
+**** REGISTRATION AND OCCUPANCY ****
 § 90.020 REGISTRATION REQUIRED; EXCEPTIONS.
    (A)   Registration. Each Person who occupies, uses, or seeks to occupy or
 use, the right-of-way or place any Equipment or Facilities in or on the right-
@@ -6411,7 +6411,7 @@ listed by the other Registrant.
 will not deny an application for a right-of-way Permit for failure to include a
 project in a plan submitted to the City if the Registrant has used commercially
 reasonable efforts to anticipate and plan for the project.
-PERMITS, OBLIGATIONS, AND INSPECTIONS
+**** PERMITS, OBLIGATIONS, AND INSPECTIONS ****
 § 90.035 PERMIT REQUIRED.
    Except as otherwise provided in this code, no Person may Obstruct or
 Excavate any right-of-way, or install or place Facilities in the right-of way,
@@ -6830,7 +6830,7 @@ Restoration Costs and the costs of collection and reasonable attorneys' fees
 incurred in connection with such revocation.
 Penalty, see §
 10.99.
-CONDITIONS AND REGULATIONS
+**** CONDITIONS AND REGULATIONS ****
 § 90.065 MAPPING DATA.
    Each Registrant and Permittee shall provide mapping information required by
 the City in accordance with Minn. Rules, parts 7819.4000 and 7819.4100.
@@ -7369,7 +7369,7 @@ Chickens
 92.98   Constitutionality
    
 92.99   Penalty
-DOGS AND CATS
+**** DOGS AND CATS ****
 § 92.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7826,7 +7826,7 @@ designated by City Council.
 Park areas. To preserve the health and safety of residents and the St. Croix
 River, Dog waste must be disposed of in containers away from the beach and
 river.
-CHICKENS
+**** CHICKENS ****
 § 92.30 Chicken Keeping
    No Person shall keep, harbor, or maintain care, custody, or control over hen
 chickens without first obtaining a permit from the City. Any Person desiring a
@@ -7949,7 +7949,7 @@ Weeds and Vegetation
    
 93.38   Non-compliance by owner
    93.39   Definitions
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 PROHIBITION.
    No person, firm, corporation, or association shall cause or permit any
 nuisance as hereinafter defined to exist or to be maintained upon property
@@ -8137,7 +8137,7 @@ the County Auditor for collection in the same manner as taxes and special
 assessments are certified and collected as allowed under M.S. §429.101.
 Penalty, see §
 10.99
-AIR POLLUTION
+**** AIR POLLUTION ****
 § 93.20 ADOPTION OF MINNESOTA OPEN BURING PROHIBITIONS
    Minn. Stat. 88.171 is hereby adopted by reference pursuant to M.S. § 471.62,
 as it may be amended from time to time.
@@ -8184,7 +8184,7 @@ the costs of Fire District actions needed to ensure compliance with them and to
 safeguard life and property.
 Penalty, see §
 10.99
-WEEDS AND VEGETATION
+**** WEEDS AND VEGETATION ****
 § 93.35 WEED INSPECTOR.
    The Mayor may appoint an Inspector who shall have the authority and
 responsibility to enforce this subchapter. The City Council members are also
@@ -8284,7 +8284,7 @@ Tree Diseases
  
    
 94.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 SHORT TITLE.
    This subchapter Shall be known and may be cited as the Municipal Tree
 Ordinance of the city.
@@ -8486,7 +8486,7 @@ Model Bluffland Shoreland Management Ordinance of the city. In the event any
 portion hereof is determined to be inconsistent with the terms and provisions
 of the Model Bluffland Shoreland Management Ordinance, the more restrictive
 interpretation and construction Shall prevail and apply.
-TREE DISEASES
+**** TREE DISEASES ****
 § 94.25 CITY FORESTER.
    (A)   Position created. The powers and duties of the City Forester as set
 forth herein are conferred upon the Persons or employees whom the Council Shall
@@ -8888,7 +8888,7 @@ Allegations of License Violations
 110.05   Payment of fines
    
 110.06   Revocation or suspension
-ALLEGATIONS OF LICENSE VIOLATIONS
+**** ALLEGATIONS OF LICENSE VIOLATIONS ****
 § 110.01 FINDINGS AND PURPOSE.
    (A)   The city regulates many types of activities. For many of these
 activities, the city issues licenses or permits. Licenses or permits are issued
@@ -9016,7 +9016,7 @@ Types of Sales
  
    
 111.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 111.01 PURPOSE.
    Because the city recognizes that many persons under the age of 18 years
 purchase or otherwise obtain, possess and use Tobacco, Tobacco Products and
@@ -9245,7 +9245,7 @@ issued to a Retail Establishment at the time that a license is obtained. The
 cost of said sign shall be included within the licensing fee.
 Penalty, see §
 111.99
-LICENSE REGULATIONS
+**** LICENSE REGULATIONS ****
 § 111.20 LICENSE REQUIRED.
    No person shall sell or offer to sell any Tobacco, Tobacco Products or
 Tobacco-Related Device without first having obtained a license to do so from
@@ -9334,7 +9334,7 @@ application, or provides false or misleading information.
 ordinance, or other regulation from holding such a license.
 Penalty, see §
 111.99
-TYPES OF SALES
+**** TYPES OF SALES ****
 § 111.45 PROHIBITED SALES.
    It shall be a violation of this chapter for any person to sell or offer to
 sell any Tobacco, Tobacco Product or Tobacco-Related Device:
@@ -9417,7 +9417,7 @@ Regulations and Conditions
  
    
 112.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 112.01 DEFINITIONS.
 For the purpose of this chapter, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -9520,7 +9520,7 @@ Penalty, see §
 publication of a summary of the ordinance as provided by M.S. § 412.191, subd.
 4, as it may be amended from time to time, which meets the requirements of M.S.
 § 331A.01. subd. 10, as it may be amended from time to time.
-REGULATIONS AND CONDITIONS
+**** REGULATIONS AND CONDITIONS ****
 § 112.20 USE OF PROCEEDS OF CHARITABLE GAMBLING.
    (A)   Each Organization licensed to conduct Lawful Gambling within the city
 pursuant to M.S. § 349.16, as it may be amended from time to time, with the
@@ -9631,8 +9631,8 @@ license.
 CHAPTER 113: ALCOHOLIC BEVERAGES
 Section
 General Provisions
-GENERAL PROVISIONS
-§ 113.001. ADOPTION OF STATE LAW BY REFERENCE.
+**** GENERAL PROVISIONS ****
+*** § 113.001. ADOPTION OF STATE LAW BY REFERENCE. ***
    The provisions of M.S. Ch. 340A, as they may be amended from time to time,
 with reference to the definition of terms, conditions of operation,
 restrictions on consumption, provisions relating to sales, hours of sale, and
@@ -10530,7 +10530,7 @@ Public Property
  
    
 130.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 130.01 DISORDERLY CONDUCT; BRAWLING AND FIGHTING.
    It shall be unlawful for any person to engage in brawling, fighting or other
 disorderly conduct within the city limits.
@@ -10578,7 +10578,7 @@ division (A) above, to allow or permit a minor under the age of 16 years to
 violate the provisions of division (A) above.
 Penalty, see §
 130.99
-PUBLIC PROPERTY
+**** PUBLIC PROPERTY ****
 § 130.15 ADOPTION AND PURPOSE.
    (A)   This subchapter is adopted for the purpose of protecting the health,
 safety and welfare of residents and future residents of the city by regulating
@@ -10829,7 +10829,7 @@ Stormwater Management Code
 150.45   Financial securities
    
 150.46   Enforcement actions
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 BUILDING CODE.
    (A)   Application, administration and enforcement.
       (1)   The application, administration and enforcement of this Building
@@ -11010,7 +11010,7 @@ on findings by such Board shall be reported to the State Building Inspector
 within 15 days of such decision or finding.
 Penalty, see §
 10.99
-HAZARDOUS AND SUBSTANDARD BUILDINGS
+**** HAZARDOUS AND SUBSTANDARD BUILDINGS ****
 § 150.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11119,7 +11119,7 @@ is an appeal to the payment, the deposit with the clerk is considered a payment
 of the award.
 Penalty, see §
 10.99
-STORMWATER MANAGEMENT CODE
+**** STORMWATER MANAGEMENT CODE ****
 § 150.35 AUTHORIZATION, PURPOSE, SCOPE, AND INTERPRETATION.
    (A)   Statutory authorization.
       (1)   This subchapter is adopted pursuant to the authorization and
@@ -12011,7 +12011,7 @@ Flood Hazard Prevention
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 STATUTORY AUTHORIZATION.
    The legislature of the state has, in M.S. Chapters 103F and 462, as they may
 be amended from time to time, delegated the responsibility to local government
@@ -12326,7 +12326,7 @@ consider an amendment to this chapter and said notice shall include a draft of
 the ordinance amendment or technical study under consideration.
 Penalty, see §
 152.99
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 152.25 ZONING ADMINISTRATOR.
    A Zoning Administrator or other official designated by the City Council
 shall administer and enforce this chapter. If the Zoning Administrator finds a
@@ -12571,7 +12571,7 @@ are consistent with the regulatory Flood protection elevation and associated
 Flood factors for the particular area.
 Penalty, see §
 152.99
-FLOOD HAZARD PREVENTION
+**** FLOOD HAZARD PREVENTION ****
 § 152.40 ESTABLISHMENT OF ZONING DISTRICTS.
    (A)   Districts.
       (1)   Floodway District. For the St. Croix River, the Floodway District
@@ -13940,7 +13940,7 @@ Soil Erosion Control for Development Activities
  
    
 155.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 155.01 PURPOSE.
    The purpose of this chapter is to encourage and guide the use of land in
 accordance with its capabilities to prevent the degradation of lands, streams
@@ -14117,7 +14117,7 @@ any subject matter in this chapter.
    Minn. Rules, parts 8400.4000 to 8400.4075 are incorporated by reference into
 this chapter. The priority cost-share assistance contract is incorporated by
 reference into this chapter.
-SOIL EROSION CONTROL FOR AGRICULTURAL USE
+**** SOIL EROSION CONTROL FOR AGRICULTURAL USE ****
 § 155.20 COMPLAINT.
    An adversely affected Land Occupier, and elected or appointed official of
 the City or a District board member may submit a signed, written complaint to
@@ -14237,7 +14237,7 @@ federal cost-share funds are used, the method of application and eligibility
 requirements shall follow the current state or federal guidelines.
 Penalty, see §
 155.99
-SOIL EROSION CONTROL FOR DEVELOPMENT ACTIVITIES
+**** SOIL EROSION CONTROL FOR DEVELOPMENT ACTIVITIES ****
 § 155.45 SEDIMENTATION CONTROL PLAN FOR DEVELOPMENT ACTIVITIES.
    The provisions of this section only apply to the City.
    (A)   A person engaged in a Development Activity that will disturb land
@@ -14477,7 +14477,7 @@ Editor's Note:
 There may be some instances, particularly various procedures involving county
 and city administration, where the user should refer to the city as to the
 correct process to be followed.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.001 INTRODUCTION.
    (A)   General introduction.
       (1)   The city is but one of the land areas making up the Saint Paul-
@@ -15421,7 +15421,7 @@ passive and active solar energy systems with special attention given to street,
 lot and building orientation.
 Penalty, see §
 156.999
-§ 156.009 Public sites and open space
+*** § 156.009 Public sites and open space ***
 Missing Text
 § 156.010 PLANNED UNIT DEVELOPMENT.
    Upon receiving a report from the Planning Commission, the City Council may
@@ -15599,7 +15599,7 @@ the parcel is recorded with the County Recorder.
 shall be issued until a survey is submitted and the parcel is recorded with the
 County Recorder's office. A survey is not required for parcels in excess of 20
 acres.
-MINIMUM PLAT DESIGN STANDARDS
+**** MINIMUM PLAT DESIGN STANDARDS ****
 § 156.035 CONFORMITY WITH THE COMPREHENSIVE DEVELOPMENT PLAN.
    The proposed subdivision shall conform to the comprehensive development plan
 and policies as adopted by the city.
@@ -15878,7 +15878,7 @@ preliminary resubdivision plan may be required showing a potential and feasible
 way in which the lot or lots may be resubdivided in future years for more
 intensive use on the land. The placement of buildings or structures upon such
 lots shall allow for potential resubdivision.
-ENGINEERING STANDARDS
+**** ENGINEERING STANDARDS ****
 § 156.060 STREETS.
    (A)   Street grading. Streets shall be graded in accordance with a plan
 approved by the City Engineer. In the case of an urban street design the
@@ -15969,7 +15969,7 @@ Penalty, see §
 construction at the expense of the subdivider.
 Penalty, see §
 156.999
-REQUIRED IMPROVEMENTS AND FINANCIAL ARRANGEMENTS
+**** REQUIRED IMPROVEMENTS AND FINANCIAL ARRANGEMENTS ****
 § 156.080 IMPROVEMENTS REQUIRED.
    Prior to the approval of a plat by the City Council, the subdivider shall
 have agreed, in the manner set forth below, to install, in conformity with
@@ -16549,7 +16549,7 @@ on Nuisance and Hazardous Activities
  
    
 157.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 157.001 TITLE.
    This chapter may be cited as the Lake St. Croix Beach Zoning Ordinance,
 referred to herein as “this chapter.”
@@ -17393,7 +17393,7 @@ on lands within the City by private declaration or agreement, but where the
 provisions of this chapter are more restrictive than any such easement,
 restriction or Covenant or provision of any private agreement, the provisions
 of this chapter shall prevail.
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 157.020 ADMINISTRATOR; DUTIES.
    (A)   Administrator. The office of the Zoning Administrator is hereby
 established. The Zoning Administrator shall be appointed by the City Council
@@ -18523,7 +18523,7 @@ expended within 30 days after final action on the application. The City shall
 not pay interest on such security deposits.
 Penalty, see §
 157.999
-ZONING DISTRICTS, PERMITTED USES AND DIMENSIONAL STANDARDS
+**** ZONING DISTRICTS, PERMITTED USES AND DIMENSIONAL STANDARDS ****
 § 157.040 DISTRICTS.
    (A)   Basic Zoning Districts. For the purpose of this chapter, the City is
 hereby divided into the following basic zoning Use districts:
@@ -19141,7 +19141,7 @@ River District regulations.
 Penalty, see §
 157.999
 § 157.048 RESERVED.
-DESIGN AND PERFORMANCE STANDARDS
+**** DESIGN AND PERFORMANCE STANDARDS ****
 § 157.065 MINIMUM STANDARDS; PURPOSE.
    All Uses, Buildings and Structures permitted pursuant to this chapter shall
 conform to the performance and design standards set forth in this section; said
