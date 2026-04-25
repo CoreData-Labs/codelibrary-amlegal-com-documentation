@@ -77,8 +77,8 @@ be in full force and effect from and after the 12th day of November, 1991.
 Linda M. Boger /s/
 Town Clerk
 CHARTER
-THE CHARTER OF THE TOWN OF HARRISBURG.
-ARTICLE 1. INCORPORATION AND CORPORATION POWERS.
+**** THE CHARTER OF THE TOWN OF HARRISBURG. ****
+**** ARTICLE 1. INCORPORATION AND CORPORATION POWERS. ****
 Section 1.1. Incorporation and General Powers.
    The inhabitants of the area described in Section 2 of this Charter shall be
 and constitute a body politic and corporate under the name of the 'Town of
@@ -105,7 +105,7 @@ of Harrisburg shall have and may exercise all powers which are granted to
 municipal corporations by the general laws of North Carolina and all powers
 which under the Constitution of North Carolina, it would be competent for this
 Charter specifically to enumerate.
-ARTICLE II. CORPORATE BOUNDARIES
+**** ARTICLE II. CORPORATE BOUNDARIES ****
 Sec. 2.1. Corporate Boundaries.
    The corporate boundaries of the town of Harrisburg shall be those existing
 at the time of ratification of this Charter as set forth on the official map of
@@ -121,7 +121,7 @@ Sec. 2.2. Extension of Corporate Boundaries.
    All extensions of the corporate boundaries shall be governed by the General
 Statutes of North Carolina and any applicable local legislation.
 (Am. Ord., passed 7-13-15)
-ARTICLE III. MAYOR AND TOWN COUNCIL.
+**** ARTICLE III. MAYOR AND TOWN COUNCIL. ****
 Sec. 3.1 Town Governing Body.
    The Town Council, hereinafter referred to as the 'Council', and the Mayor
 shall be the governing body of the Town.
@@ -208,7 +208,7 @@ Council. The enacting clause of all ordinances shall be: 'BE IT ORDAINED by the
 Town Council of the Town of Harrisburg.' All ordinances and resolutions shall
 take effect upon adoption unless otherwise provided therein, or unless some
 provision of the General Statutes provides otherwise.
-ARTICLE IV. ELECTION PROCEDURE.
+**** ARTICLE IV. ELECTION PROCEDURE. ****
 Sec. 4.1. Regular Municipal Elections.
    Regular municipal elections shall be held on the Tuesday after the first
 Monday in November of each odd-numbered year, beginning in 1973. Council
@@ -219,7 +219,7 @@ Sec. 4.2. Regulation of Elections.
    All municipal elections shall be conducted in accordance with the general
 laws of North Carolina relating to municipal elections, except as otherwise
 herein provided.
-ARTICLE V. TOWN ATTORNEY.
+**** ARTICLE V. TOWN ATTORNEY. ****
 Sec. 5.1. Appointment; Qualification; Terms; Compensation.
    The Town Council may appoint a Town Attorney who shall be an attorney- at-
 law licensed to engage in the practice of law in North Carolina and who need
@@ -234,7 +234,7 @@ when requested to do so; to inspect and pass upon all agreements, contracts,
 franchises and other instruments with which the Town may be concerned; and to
 perform such other duties as may be required of him by virtue of his position
 as Town Attorney.
-ARTICLE VI. ADMINISTRATIVE OFFICERS AND EMPLOYEES.
+**** ARTICLE VI. ADMINISTRATIVE OFFICERS AND EMPLOYEES. ****
 Sec. 6.1. Form of Government.
    The Town shall operate under the council-manager form of government in
 accordance with Part 2 of Article 7 of Chapter 160A of the General Statutes.
@@ -278,7 +278,7 @@ Sec. 6.7. Other Employees.
 by the Town Manager, and may organize the Town government as deemed
 appropriate, subject to the requirements of general law.
 (Am. Ord., passed 7-13-15)
-ARTICLE VII. FINANCE.
+**** ARTICLE VII. FINANCE. ****
 Sec. 7.1. Custody of Town Money.
    All monies received by the Town and in connection with the business of the
 Town government shall be paid promptly into the Town depository. Such
@@ -1156,7 +1156,7 @@ Fats, Oils and Grease Control
  
    
 50.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 SEWER CONNECTIONS FOR IMPROVED PROPERTY REQUIRED.
    The owners of improved property within the town limits are hereby required
 to connect such premises directly to the municipal sewer collection system at
@@ -1179,7 +1179,7 @@ shopping centers, shall be as provided in the town’s adopted budget ordinance.
 permit is issued.
 (Ord., passed 8-10-87; Am. Res., passed 11-12-90; Am. Ord., passed 12-10-01;
 Am. Ord., passed 3-13-06)
-WATER AND SEWER SERVICE EXTENSION
+**** WATER AND SEWER SERVICE EXTENSION ****
 § 50.15 APPLICATION FOR AND APPROVAL OF EXTENSIONS REQUIRED.
    (A)   Any property owner, or owners, desiring water or sanitary sewer
 service shall apply in writing to the Town Council requesting the extension of
@@ -1363,8 +1363,8 @@ force governing the acceptance of public streets for the town. If required,
 this section shall apply to subdivisions which are located either within or
 outside the corporate limits of the town.
 (Ord., passed 9-9-85)
-RESIDENTIAL AND COMMERCIAL
-SEWER USER CHARGE
+**** RESIDENTIAL AND COMMERCIAL
+SEWER USER CHARGE ****
 § 50.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning:
@@ -1631,7 +1631,7 @@ in effect until changed by the Town Council.
 Cross reference:
    Water/sewer fees also listed in §
 51.36
-INDUSTRIAL SEWER USER CHARGE
+**** INDUSTRIAL SEWER USER CHARGE ****
 § 50.55 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2476,7 +2476,7 @@ Cross-reference:
    Water and sewer service extension, see §§
 50.15 through
 50.20
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2713,7 +2713,7 @@ misdemeanor.
 Ord., passed 7-11-88; Am. Ord. passed 4-11-22)
 Penalty, see §
 51.99
-RATES AND CHARGES; BILLING
+**** RATES AND CHARGES; BILLING ****
 § 51.30 DEPOSIT REQUIRED AS SECURITY FOR PAYMENT OF WATER CHARGES.
    (A)   As security for the payment of bills for service under the schedule
 set out in §
@@ -2783,7 +2783,7 @@ in effect until changed by the Town Council.
 Cross reference:
    Water/sewer fees also listed in §
 50.44
-CROSS-CONNECTION CONTROL
+**** CROSS-CONNECTION CONTROL ****
 § 51.50 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3363,7 +3363,7 @@ required - $200 per day.
       (6)   Enforcement of this program shall be administered by the Operator
 in Responsible Charge (ORC) of Cross-Connection and Backflow Prevention.
 (Ord., passed 2-9-09)
-MANDATORY WATER CONSERVATION
+**** MANDATORY WATER CONSERVATION ****
 § 51.70 WATER EMERGENCY MANAGEMENT.
    (A)   Definition.
       WATER EMERGENCY shall be defined as any condition or situation which
@@ -4212,7 +4212,7 @@ Ordinances.
 (Ord., passed 5-11-09; Am. Ord., passed 1-13-20; Am. Ord., passed 9-13-21)
 Penalty, see §
 10.99
-ADMINISTRATION AND PROCEDURES
+**** ADMINISTRATION AND PROCEDURES ****
 § 53.020 REVIEW AND DECISION- MAKING ENTITIES.
    (A)   Designation. A Storm Water Administrator shall be designated by the
 Town Council to administer and enforce this chapter.
@@ -5076,7 +5076,7 @@ Services Utility service charges; and
       (3)   Railroad rights-of-way used for trackage and related appurtenances
 shall be exempt from town Storm Water Services Utility service charges.
 (Ord., passed 5-11-09)
-PET WASTE
+**** PET WASTE ****
 § 53.110 PURPOSE.
    (A)   Elimination of pet waste. This subchapter establishes requirements for
 the proper disposal of pet solid waste in the town, so as to protect the public
@@ -6009,8 +6009,8 @@ Public Streets
  
    
 93.99   Penalty
-CROSS-VISIBILITY OBSTRUCTIONS
-AT STREET INTERSECTIONS
+**** CROSS-VISIBILITY OBSTRUCTIONS
+AT STREET INTERSECTIONS ****
 § 93.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6090,7 +6090,7 @@ control devices.
 the state shall be in conflict with the provisions of this chapter, the more
 stringent provision shall control.
 (Ord. 501, passed 2-9-76)
-STRUCTURES AND OBSTRUCTIONS
+**** STRUCTURES AND OBSTRUCTIONS ****
 § 93.10 STRUCTURES.
    No person shall maintain, erect, or permit the erection of any temporary or
 permanent building, hut, hotel, shanty, tent, basketball goal, culvert, or
@@ -6125,8 +6125,8 @@ misdemeanor.
 (Ord. passed 3-12-18; Am. Ord. passed 4-9-18; Am. Ord. passed 4-11-22) Penalty,
 see §
 93.99
-ACCEPTANCE AND IMPROVEMENT OF
-PUBLIC STREETS
+**** ACCEPTANCE AND IMPROVEMENT OF
+PUBLIC STREETS ****
 § 93.20 POLICY ESTABLISHED.
    The policy of the town for the acceptance of streets dedicated for public
 use and the policy for improving all streets shall be as hereinafter prescribed
@@ -6457,7 +6457,7 @@ Emergency Management
 95.104   Fire watch
    
 95.105   General penalties
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 95.001 DISPOSAL OF HOT ASHES.
    No person shall empty hot ashes on or near any sweepings, shavings or
 inflammable material of any kind with the town limits. A violation of this
@@ -6868,7 +6868,7 @@ apartment house, townhouse or condominium dwelling unit. A violation of this
 section is punishable as a misdemeanor.
 (Ord. passed 10-13-08; Am. Ord. passed 4-11-22) Penalty, see §
 10.99
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 95.040 PRIMARY AND SECONDARY FIRE LIMITS ESTABLISHED.
    (A)   The primary fire limits of the town are established and defined as
 follows: the corporate town limits.
@@ -6919,7 +6919,7 @@ Department that any business or premises constitutes a fire hazard, it shall be
 the duty of the Chief of the Fire Department to have such business or premises
 inspected immediately.
 (Ord. passed 10-13-08)
-FIRE PREVENTION CODE
+**** FIRE PREVENTION CODE ****
 § 95.070 ADOPTION.
    (A)   It is hereby adopted by reference that the latest edition of the code
 adopted by the North Carolina Department of Insurance, known as the
@@ -7508,7 +7508,7 @@ hazardous materials, no fee will be assessed for resources normally associated
 with fire suppression operations. Costs as defined above shall be assessed for
 those activities and resources associated with abatement.
 (Ord. passed 10-13-08)
-EMERGENCY MANAGEMENT
+**** EMERGENCY MANAGEMENT ****
 § 95.101 DESIGNATION OF NIMS FOR EMERGENCY MANAGEMENT.
    The Town Council has established the National Incident Management System
 (NIMS) as the town's standard for incident management, all emergency agencies
