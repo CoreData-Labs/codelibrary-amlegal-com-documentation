@@ -442,7 +442,7 @@ Fire Department
  
    
 30.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 ELECTIONS; VOTER REGISTRATION REQUIRED.
    No person shall vote at any annual or special town election held in
 pursuance of the laws of the state and ordinances of the town within and for
@@ -464,7 +464,7 @@ and to carry out all obligations that may become due and payable on its part
 under the contract.
 (Prior Code, § 2.32.020)
 (Ord. 76, passed - -1952)
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 30.15 ORGANIZATION.
    The Fire Department of the town shall be organized in such manner as the
 Council, by resolution, shall direct, and the Council is authorized to adopt
@@ -539,7 +539,7 @@ Fund Accounts
 31.16   Distribution of taxes into funds
    
 31.17   Warrants on funds
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 WARRANTS.
    From and after the passage of the provisions codified in this section, when
 any warrant, drawn upon the Town Clerk-Treasurer pursuant to any ordinance or
@@ -548,7 +548,7 @@ Treasurer for payment and the same is not paid for want of funds, such warrant,
 from the time it is so presented until it is called for payment, shall bear
 interest at the rate of 6% per annum.
 (Prior Code, § 3.04.010) (Ord. 12, passed - -1915)
-FUND ACCOUNTS
+**** FUND ACCOUNTS ****
 § 31.15 FUNDS CREATED.
    There is created for the various departments of the town the following
 funds:
@@ -650,7 +650,7 @@ Refuse Disposal
 50.02   Acceptable disposal items in containers
    
 50.03   Items not to dispose of in containers
-REFUSE DISPOSAL
+**** REFUSE DISPOSAL ****
 § 50.01 REQUIREMENTS GENERALLY.
    (A)   Place refuse in the container so the lid can be closed.
    (B)   Do not litter at the site or while transporting refuse to the site.
@@ -1041,7 +1041,7 @@ Private Wastewater Disposal
 Cross-reference:
    Sewer system rates and fees, see
 Ch. 32
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1257,7 +1257,7 @@ occasioned the town by reason of such violation, including attorney fees
 reasonably incurred by the town in recovering such damages.
 (Ord. passed - -) Penalty, see §
 52.999
-SANITARY SEWERS, BUILDING SEWERS AND CONNECTIONS
+**** SANITARY SEWERS, BUILDING SEWERS AND CONNECTIONS ****
 § 52.020 PUBLIC SEWER CONNECTION OR REPAIR; PERMIT REQUIRED.
    No unauthorized person shall uncover, make any connection with or opening
 into or use, alter or disturb any public sewer or appurtenance thereof without
@@ -1374,7 +1374,7 @@ customer’s responsibility to repair any leaks in the service lines immediately
 upon discovery.
 (Ord. passed - -) Penalty, see §
 52.999
-PUBLIC SEWER USE RESTRICTIONS AND REQUIREMENTS
+**** PUBLIC SEWER USE RESTRICTIONS AND REQUIREMENTS ****
 § 52.045 UNPOLLUTED WATER DISCHARGE.
    No person shall discharge or cause to be discharged any unpolluted waters,
 such as stormwater, surface water, groundwater, roof runoff, subsurface
@@ -1651,7 +1651,7 @@ special agreement or arrangement between the town and any industrial concern
 whereby an industrial waste of unusual strength or character may be accepted by
 the town for treatment.
 (Ord. passed - -)
-PRIVATE WASTEWATER DISPOSAL
+**** PRIVATE WASTEWATER DISPOSAL ****
 § 52.070 CONNECTION TO PRIVATE SYSTEM.
    Where a public sanitary or combined sewer is not available under the
 provisions of §
@@ -2224,7 +2224,7 @@ Community Decay Nuisances
 Cross-reference:
    Noxious and nuisance weed fees, see
 Ch. 32
-ABATEMENT GENERALLY
+**** ABATEMENT GENERALLY ****
 § 91.01 ABATEMENT OF NUISANCES.
    (A)   In all cases where no provision is herein made defining what are
 nuisances and how the same may be removed, abated or prevented, in addition to
@@ -2265,7 +2265,7 @@ hours thereafter in which the nuisance is continued, be subject to a like
 penalty as originally prescribed.
 (Prior Code, § 8.08.150) (Ord. 27, passed - -1915) Penalty, see §
 91.99
-NUISANCES GENERALLY
+**** NUISANCES GENERALLY ****
 § 91.15 OBSTRUCTING OR SELLING ON STREETS; EXCEPTIONS.
    It is unlawful for any person or persons to make use of any street, avenue
 or alley of the town as a standing place for a wagon, truck, trailer,
@@ -2380,7 +2380,7 @@ allow any dog or dogs to remain or loiter within the building where the
 business is being carried on, except for service animals.
 (Prior Code, § 8.08.010) (Ord. 7, passed - -1915) Penalty, see §
 91.99
-NOXIOUS AND NUISANCE WEEDS
+**** NOXIOUS AND NUISANCE WEEDS ****
 § 91.40 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2462,7 +2462,7 @@ growing season has started, to allow for proper inspection of the property.
 nuisance weeds by the Town Maintenance Department shall be deposited into the
 General Fund.
 (Ord. 2018-01, passed 7-10-2018)
-COMMUNITY DECAY NUISANCES
+**** COMMUNITY DECAY NUISANCES ****
 § 91.60 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2747,7 +2747,7 @@ Fireworks
  
    
 92.99   Penalty
-FIREWORKS
+**** FIREWORKS ****
 § 92.01 SALE OF FIREWORKS PROHIBITED.
    No person, association, firm or corporation shall hereafter sell, give away
 or in any manner dispose of any firecrackers, explosive toys, such as toy
@@ -2784,7 +2784,7 @@ Public Skate Park
  
    
 93.99   Penalty
-PUBLIC SKATE PARK
+**** PUBLIC SKATE PARK ****
 § 93.01 PARK ESTABLISHED.
    The town has established and maintained a public skate park located at the
 300 block of Vernon Avenue, Big Sandy, Montana. Said described land shall be
@@ -3259,7 +3259,7 @@ Curfew
 130.02   Parental responsibility
    
 130.03   Violators remanded to guardian
-CURFEW
+**** CURFEW ****
 § 130.01 CURFEW IMPOSED.
    (A)   It is unlawful for any minor under the age of 18 years to loiter,
 idle, wander, stroll or play in or upon the public streets, highways, roads,
@@ -3477,7 +3477,7 @@ Uniform Code for the Abatement of Dangerous Buildings
  
    
 150.99   Penalty
-UNIFORM HOUSING CODE
+**** UNIFORM HOUSING CODE ****
 § 150.01 ADOPTION OF CODE.
    There is adopted by the Town Council that certain code known as the Uniform
 Housing Code, 1979 edition, together with any amendments, additions, new
@@ -3494,7 +3494,7 @@ entity to violate any of the provisions of this subchapter or of the Uniform
 Housing Code, 1979 edition.
 (Prior Code, § 15.12.030) (Ord. 114, passed - -1980) Penalty, see §
 150.99
-ONE- AND TWO-FAMILY DWELLINGS
+**** ONE- AND TWO-FAMILY DWELLINGS ****
 § 150.15 ADOPTION OF CODE.
    The Town Council adopts and incorporates herein by this reference that
 certain building code known as the CABO One- and Two-Family Dwelling Code, with
@@ -3519,7 +3519,7 @@ the town may bring a civil action to enjoin the violation of any provisions of
 this subchapter.
 (Prior Code, § 15.16.040) (Ord. 87-3, passed - -1987) Penalty, see §
 150.99
-UNIFORM CODE FOR THE ABATEMENT OF DANGEROUS BUILDINGS
+**** UNIFORM CODE FOR THE ABATEMENT OF DANGEROUS BUILDINGS ****
 § 150.30 ADOPTION OF CODE.
    There is adopted by the Town Council that certain code known as the Uniform
 Code for the Abatement of Dangerous Buildings, 1979 edition, together with any
@@ -3621,7 +3621,7 @@ Cross-reference:
 91.15
    Sewer system excavation requirements, see §
 52.030
-STREET AND SIDEWALK SPECIFICATIONS
+**** STREET AND SIDEWALK SPECIFICATIONS ****
 § 151.01 STREET WIDTHS.
    The width of all streets and avenues in the town are measured from curbline
 to curbline as follows:
@@ -3673,7 +3673,7 @@ the property lines.
 located in the center of the park space between the curbline and property
 lines.
 (Prior Code, § 12.04.030) (Ord. 48, passed - -1917)
-SIDEWALK CONSTRUCTION AND REPAIR
+**** SIDEWALK CONSTRUCTION AND REPAIR ****
 § 151.15 NOTIFICATION FOR REPAIR.
    For any sidewalk heretofore or hereafter constructed that shall become
 broken or otherwise out of repair, or shall need to be wholly relaid or
@@ -3698,7 +3698,7 @@ repair as aforesaid, the sidewalk needing the same shall be repaired or rebuilt
 at the expense of the town and the expenses incurred therefor shall be assessed
 to and collected of the parties in the manner provided by law.
 (Prior Code, § 12.08.040) (Ord. 8, passed - -1915)
-OBSTRUCTIONS ON PUBLIC PROPERTY
+**** OBSTRUCTIONS ON PUBLIC PROPERTY ****
 § 151.30 OBSTRUCTIONS UNLAWFUL.
    It is unlawful hereafter for any person or persons or corporation to erect,
 place or locate, or cause to be erected, placed or located, any building, fence
@@ -3746,7 +3746,7 @@ then only with permission of the Mayor, Council members or Town Marshal.
 (Prior Code, § 12.12.050)
 (Ord. 74, passed - -1950) Penalty, see §
 151.99
-GRAIN STORAGE AREAS
+**** GRAIN STORAGE AREAS ****
 § 151.45 AREA ESTABLISHED.
    There is established a grain storage area for the erection of private grain
 storage facilities consisting of 12 lots, each 50 feet wide by 140 feet deep,

@@ -290,7 +290,7 @@ City Council
 Cross-reference:
    City Council meetings, see
 Chapter 31
-MAYOR
+**** MAYOR ****
 § 30.01 ELECTION; QUALIFICATIONS; TERM.
    (A)   The Mayor shall be elected as provided in the Election Act, Neb. RS
 32-101 through 32-1551. The Mayor shall take office on the date of the first
@@ -386,7 +386,7 @@ unexpired term, there shall be a vacancy on the Council.
 Statutory reference:
    Additional and similar provisions, see Neb. RS 32-560 through 32-572
    Ineligibility of person subjected to recall, see Neb. RS 32-1308
-CITY COUNCIL
+**** CITY COUNCIL ****
 § 30.15 ELECTION; QUALIFICATIONS; TERMS.
    (A)   The City Council shall consist of not less than four nor more than 12
 residents of the city who are registered voters.
@@ -576,7 +576,7 @@ Meetings
 31.54   Minutes
    
 31.55   Decorum
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 PERSONNEL POLICIES.
    The city’s personnel policies as set forth in the employee’s manual are
 adopted by reference and incorporated herein as fully as if set out at length
@@ -910,7 +910,7 @@ appointed.
 Statutory reference:
    Mergers of offices or employment, see Neb. RS 17-108.02
    Similar provisions, see Neb. RS 32-604
-APPOINTED OFFICIALS
+**** APPOINTED OFFICIALS ****
 § 31.20 APPOINTMENT; TERMS; REMOVAL; POWERS; DUTIES.
    (A)   (1)   The Mayor, with the consent of the City Council, may appoint
 such officers as shall be required by ordinance or otherwise required by law.
@@ -1365,7 +1365,7 @@ expense resulting from loss of use or occupancy;
 Statutory reference:
    Intergovernmental risk management authorized and regulated, see Neb. RS 44-
 4301 through 44-4339
-MEETINGS
+**** MEETINGS ****
 § 31.45 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1702,7 +1702,7 @@ Boards, Commissions and Committees
 Fire Department
    
 32.35   City fire protection
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01 APPOINTMENTS AND NOTICE OF MEETINGS.
    The Mayor, with approval of the City Council, shall make the appointments
 and fill vacancies for the boards, commissions and departments described in
@@ -1710,7 +1710,7 @@ this chapter unless otherwise stated. Advance notice of the meetings of the
 city boards and committees shall comply with ordinance and statute for public
 bodies.
 (Prior Code, § 2-4.1)
-BOARDS, COMMISSIONS AND COMMITTEES
+**** BOARDS, COMMISSIONS AND COMMITTEES ****
 § 32.15 LIBRARY BOARD.
    (A)   When the City Council has decided by ordinance to establish and
 maintain a public library and reading room under Neb. RS 51-201 through 51-219,
@@ -2105,7 +2105,7 @@ of its rules and regulations shall be kept in the office of the City Clerk.
 (Prior Code, § 2-4.8) (Ord. 303, passed 4-5-1990)
 Statutory reference:
    Open Meetings Law, see Neb. RS 84-1408 through 84-1414
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 32.35 CITY FIRE PROTECTION.
    Fire protection for the city shall be provided by the County Rural Fire
 District #2 as set forth in the joint resolution between the city and the
@@ -2163,7 +2163,7 @@ Initiative and Referendum
 33.31   Referendum passage
    
 33.32   Applicability
-ORDINANCES, RESOLUTIONS AND MOTIONS
+**** ORDINANCES, RESOLUTIONS AND MOTIONS ****
 § 33.01 GRANT OF POWER.
    In addition to its special powers specifically granted by law, the city
 shall have the power to make all ordinances, bylaws, rules, regulations and
@@ -2285,7 +2285,7 @@ Statutory reference:
    Modifications to zoning or building districts, see Neb. RS 19-915
    Ordinances revising all the ordinances of the city, see Neb. RS 17-614
    Requests to detach property from city or village, see Neb. RS 17-614
-INITIATIVE AND REFERENDUM
+**** INITIATIVE AND REFERENDUM ****
 § 33.20 DEFINITIONS.
    The powers of initiative and referendum are reserved to the qualified
 electors of the city by state law. This section shall govern the use of
@@ -3106,7 +3106,7 @@ Tax Levies
 35.47   Property tax levy; certification of amount; collection
    
 35.48   Property tax request; procedure for setting
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 35.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3553,7 +3553,7 @@ Statutory reference:
    Bonds in general, see Neb. RS 18-1801 through 18-1805
    Funding and refunding bonds, see Neb. RS 10-606 through 10-612
    General provisions, see Neb. RS 10-101 through 10-143
-ANNUAL BUDGET
+**** ANNUAL BUDGET ****
 § 35.25 FISCAL YEAR.
    The fiscal year of the city and any public utility of the city commences on
 October 1 and extends through the following September 30, except as provided in
@@ -3885,7 +3885,7 @@ which is transferred to the General Fund of the city shall be shown as a source
 of revenue in the city budget statement created pursuant to the State Budget
 Act.
 (Neb. RS 18-2808)
-TAX LEVIES
+**** TAX LEVIES ****
 § 35.45 ALL-PURPOSE LEVY; EXTRAORDINARY LEVIES; ALLOCATION; ABANDONMENT.
    (A)   Notwithstanding provisions in the statutes of the state and this code
 to the contrary, for any fiscal year, the City Council may decide to certify to
@@ -4622,7 +4622,7 @@ Rates and Billing
  
    
 52.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4680,7 +4680,7 @@ designated number of feet from any municipal water supply, then such facilities
 shall be deemed a nuisance and the City Council shall abate such facility as a
 public nuisance.
 (Prior Code, § 3-2.27)
-SERVICE CONNECT
+**** SERVICE CONNECT ****
 § 52.020 FEE.
    Applications to make water connection with the city water system shall be
 made in writing to the City Clerk upon forms provided by the City Clerk and
@@ -4738,7 +4738,7 @@ in which the plumbing does not comply with city ordinances; provided, that
 water may be turned on for construction work in unfinished buildings, subject
 to the provisions of this subchapter.
 (Prior Code, § 3-2.6)
-USE REGULATIONS
+**** USE REGULATIONS ****
 § 52.035 PIPES.
    (A)   All service pipes from the mains to the premises served shall be
 installed by, and at the cost of, the owner of the property to be served or the
@@ -4843,7 +4843,7 @@ hydrants and draw water from the same, or in any manner to interfere with the
 hydrant.
 (Prior Code, § 3-2.18) Penalty, see §
 52.999
-WELLHEAD PROTECTION
+**** WELLHEAD PROTECTION ****
 § 52.060 PROHIBITION OF DRILLING OF PRIVATE WELLS WITHIN CORPORATE CITY LIMITS.
    The Mayor and City Council declare that unregulated private domestic water
 wells within the corporate limits of the city pose a serious and substantial
@@ -4931,7 +4931,7 @@ wellhead protection area are groundwater section wellhead protection program,
 Department of Environmental Quality (NDEQ) presented to the city on December
 20, 2002, and is on file in the offices of the city.
 (Prior Code, § 3-2.29)
-RATES AND BILLING
+**** RATES AND BILLING ****
 § 52.075 RATES.
    All property upon which any building has been or may hereafter be erected
 having a connection with any mains or pipes which are or may hereafter be
@@ -5309,7 +5309,7 @@ Speed Limits
 Cross-reference:
    Speed limits schedule, see
 Chapter 74
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 71.01 STATE STATUTES ADOPTED.
    Except for the penalty provisions, the city hereby adopts Neb. RS Chapter
 39, Article 6 “Highways and Bridges” and Neb. RS Chapter 60, Article 6, “State
@@ -5392,7 +5392,7 @@ avoid a collision or in response to other emergency situations.
 indicating this prohibition.
 (Ord. 483, passed 10-10-2024) Penalty, see §
 71.99
-SPEED LIMITS
+**** SPEED LIMITS ****
 § 71.20 BASIC RULE.
    (A)   No person shall drive a vehicle on a highway at a speed greater than
 is reasonable and prudent under the conditions and having regard to the actual
@@ -5483,7 +5483,7 @@ Administration and Enforcement
 Cross-reference:
    Restricted parking schedule, see
 Chapter 75
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.01 REGULATION OR PROHIBITION AUTHORIZED.
    (A)   The City Council, with respect to highways under its jurisdiction and
 within the reasonable exercise of the police power, may regulate or prohibit
@@ -5616,7 +5616,7 @@ prohibited by the provisions of this chapter or by a resolution adopted by the
 City Council.
 Penalty, see §
 72.99
-PARKING FOR HANDICAPPED PERSONS
+**** PARKING FOR HANDICAPPED PERSONS ****
 § 72.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5788,7 +5788,7 @@ or knowingly provide false information on an application for a permit.
 permit for a period of six months. At the expiration of such period, a
 suspended permit may be renewed upon payment of the permit fee.
 (Neb. RS 18-1737) (Prior Code, § 4-3.16)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 72.40 REMOVAL OF ILLEGALLY STOPPED VEHICLES; LIABILITY FOR COSTS.
    (A)   Whenever any peace officer, or any authorized employee of a law
 enforcement agency who is employed by the city and specifically empowered by
@@ -5879,7 +5879,7 @@ Cross-reference:
    Speed limit provisions, see Chapters 71 and 74
 Statutory reference:
    Regulation of highways by local authorities, see Neb. RS 60-680
-BICYCLES AND TOY VEHICLES
+**** BICYCLES AND TOY VEHICLES ****
 § 73.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5967,7 +5967,7 @@ this section.
 (Prior Code, § 4-2.12)
 Statutory reference:
    Similar provisions, see Neb. RS 60-6,196 et seq.
-ALL-TERRAIN AND UTILITY-TYPE VEHICLES
+**** ALL-TERRAIN AND UTILITY-TYPE VEHICLES ****
 § 73.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6174,7 +6174,7 @@ City Auditorium
 90.56   Rentals
    
 90.57   Rules and regulations
-PARKS AND RECREATIONAL FACILITIES
+**** PARKS AND RECREATIONAL FACILITIES ****
 § 90.01 DUTIES OF CITY ADMINISTRATOR.
    (A)   Supervision. All city parks shall be operated and maintained under the
 supervision of the City Administrator.
@@ -6234,7 +6234,7 @@ during inclement weather, where unsanitary water conditions exist or for
 special events.
 (Prior Code, § 5-1.16) Penalty, see §
 10.99
-LIBRARY
+**** LIBRARY ****
 § 90.15 FUNDING.
    (A)   (1)   If the City Council has established a public library free of
 charge for the use of the inhabitants of the city or contracted for the use of
@@ -6399,7 +6399,7 @@ a book from the library without properly checking it out shall be deemed to be
 guilty of an offense.
 Penalty, see §
 10.99
-CITY SWIMMING POOL
+**** CITY SWIMMING POOL ****
 § 90.40 OPERATION AND FUNDING.
    The city owns and manages the city swimming pool. The City Council, for the
 purpose of defraying the cost of the management, maintenance and improvements
@@ -6426,7 +6426,7 @@ for the efficient management thereof. They may provide suitable penalties for
 the violation of such bylaws, rules and regulations subject to the review and
 supervision of the City Council.
 (Neb. RS 17-040) (Prior Code, § 5-1.13)
-CITY AUDITORIUM
+**** CITY AUDITORIUM ****
 § 90.55 OWNERSHIP.
    The city owns and manages the city auditorium through the City Council. The
 City Council, for purpose of defraying the cost of the management, maintenance
@@ -6506,7 +6506,7 @@ Statutory reference:
    Nuisances; definition; prevention; abatement; joint and cooperative action
 with county, see Neb. RS 18-1720
    Weeds; destruction and removal within right-of-way, see Neb. RS 18-1719
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 HEALTH REGULATIONS.
    For the purpose of promoting the health and safety of the residents of the
 city, the Board of Health shall, from time to time, adopt such rules and
@@ -6521,7 +6521,7 @@ his or her duty to notify the City Council and the Board of Health of health
 nuisances within the city and its zoning jurisdiction.
 Statutory reference:
    Quarantine officer, see Neb. RS 17-121
-NUISANCES
+**** NUISANCES ****
 § 91.15 DEFINITION.
    (A)   General definition. For the purpose of this subchapter, the following
 definition shall apply unless the context clearly indicates or requires a
@@ -6804,7 +6804,7 @@ lanceolatum), buckthorn (Rhamnus sp.) (tourn), hemp plant (Cannabis sativa) and
 ragweed (Ambrosiaceae).
 (Neb. RS 17-563) Penalty, see §
 10.99
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 91.35 ENFORCEMENT PROCEDURE.
    (A)   The nuisance, health and/or sanitation violation is brought to the
 governing body by the City nuisance officer, or the Board of Health or upon the
@@ -6948,7 +6948,7 @@ Fireworks
 92.15   Definitions and exceptions
    
 92.16   Fireworks prohibition
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 92.01 CITY FIRE PROTECTION.
    Fire protection within the city is provided by way of Garden County Rural
 Fire District #2 as established by joint resolution of the City of Oshkosh and
@@ -7001,7 +7001,7 @@ attention of the Fire Chief.
 (Prior Code, § 5-2.4)
 Statutory reference:
    Authority to regulate, see Neb. RS 17-549
-FIREWORKS
+**** FIREWORKS ****
 § 92.15 DEFINITIONS AND EXCEPTIONS.
    (A)   Definition. For the purpose of this subchapter, the following
 definition shall apply unless the context clearly indicates or requires a
@@ -7719,7 +7719,7 @@ Franchises
 Cross-reference:
    Alcoholic beverage licenses, see
 Chapter 112
-PLUMBERS
+**** PLUMBERS ****
 § 110.01 MASTER PLUMBER; LICENSE.
    No individual shall engage in the business of plumbing in the city unless
 licensed by the city.
@@ -7791,7 +7791,7 @@ under a franchise agreement with the city, or its agents and employees, and
 shall not be construed as a limitation or restriction upon any franchises
 heretofore granted by the city.
 (Neb. RS 18-1910) (Prior Code, § 6-1.8)
-RAILROAD COMPANIES
+**** RAILROAD COMPANIES ****
 § 110.20 RAILROAD COMPANIES; SAFE CROSSING.
    It shall be the duty of every railroad company doing business in, or
 traveling through, the city to keep in a suitable and safe condition the
@@ -7848,7 +7848,7 @@ public street, except in the event of an emergency, for a longer period at one
 time than ten minutes.
 (Neb. RS 17-552) (Prior Code, § 6-1.12) Penalty, see §
 10.99
-SOLID WASTE COLLECTION
+**** SOLID WASTE COLLECTION ****
 § 110.35 SOLID WASTE COLLECTION; REGULATION.
    It shall be unlawful for any person to own, operate or participate in the
 removal of garbage for a fee until and unless said person has contracted with,
@@ -7875,7 +7875,7 @@ Statutory reference:
    Each resident user shall pay for the services provided by the city based on
 a flat rate monthly as designated resolution of the governing body.
 (Prior Code, § 6-1.14)
-FRANCHISES
+**** FRANCHISES ****
 § 110.50 FRANCHISES; NATURAL GAS.
    The City Council has granted to the Black Hills Energy Inc. the authority to
 construct, maintain and operate a gas transmission, and distribution system
@@ -8403,7 +8403,7 @@ Weapons Offenses
  
    
 131.99   Penalty
-TOBACCO
+**** TOBACCO ****
 § 131.01 POSSESSION OF TOBACCO BY MINORS.
    (A)   It shall be unlawful for any person under the age of 21 years to
 possess or smoke cigarettes or cigars, to use or possess vapor products or
@@ -8438,7 +8438,7 @@ not of the proprietor or person in charge of such room or hall.
 131.99
 Statutory reference:
    Clean Indoor Air Act, see Neb. RS 57-5716 et seq.
-SEXUAL PREDATOR
+**** SEXUAL PREDATOR ****
 § 131.15 SEXUAL PREDATOR RESIDENCY RESTRICTIONS.
    (A)   Definitions. For the purpose of this section, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -8475,7 +8475,7 @@ initial date of the sexual predator’s residence at that location.
 131.99
 Statutory reference:
    Similar provisions, see Neb. RS 29-4005 and 29-4017
-WEAPONS OFFENSES
+**** WEAPONS OFFENSES ****
 § 131.30 DISCHARGE OF FIREARMS.
    It shall be unlawful for any person, except an officer of the law in the
 discharge of official duty, to fire or discharge any gun, pistol or other
@@ -8710,7 +8710,7 @@ Streets and Alleys
 151.67   Driveway approaches
    
 151.68   Snow, debris and the like on street prohibited
-CITY PROPERTY
+**** CITY PROPERTY ****
 § 151.01 STREETS, ALLEYS, WALKS, MALLS AND OTHER IMPROVEMENTS.
    (A)   (1)   The City Council may grade, partially or to an established
 grade, change grade, curb, recurb, gutter, regutter, pave, gravel, regravel,
@@ -8851,7 +8851,7 @@ is issued, execute a bond to the city with a good and sufficient surety, to be
 approved by the Council, in a sum set by resolution.
 Penalty, see §
 10.99
-SALE AND ACQUISITION OF PROPERTY; PUBLIC WORKS
+**** SALE AND ACQUISITION OF PROPERTY; PUBLIC WORKS ****
 § 151.20 ACQUISITION OR CONSTRUCTION OF PUBLIC BUILDINGS; ELECTION
 REQUIREMENTS.
    (A)   The city is authorized and empowered to purchase, accept by gift or
@@ -8978,7 +8978,7 @@ service provider if it employs or appoints an architect or a professional
 engineer to be in responsible charge of the city’s architectural or engineering
 work.
 (Neb. RS 81-3423)
-SIDEWALKS
+**** SIDEWALKS ****
 § 151.35 MAINTENANCE.
    Every owner of any lot, lots or piece of land within the corporate limits
 shall at all times keep and maintain the sidewalk along and contiguous to the
@@ -9210,7 +9210,7 @@ other city taxes.
 Statutory reference:
    Authority to improve through sidewalk district, see Neb. RS 19-2417 through
 19-2419
-STREETS AND ALLEYS
+**** STREETS AND ALLEYS ****
 § 151.60 CONSTRUCTION NOTICE.
    (A)   The City Administrator shall notify the owners in fee simple of real
 estate abutting a street, alley or a part thereof which is to be put under
@@ -9564,7 +9564,7 @@ Standards for Floodplain Development
  
    
 153.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.01 STATUTORY AUTHORIZATION.
    The legislature of the state has delegated the responsibility to local
 governmental units to adopt zoning regulations designed to protect the public
@@ -9899,7 +9899,7 @@ elapse between the date of this publication and the public hearing.
 Natural Resources and the Federal Emergency Management Agency for review and
 approval before being adopted.
 (Ord. 474, passed 5-11-2023)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 153.25 FLOODPLAIN ADMINISTRATOR DESIGNATION; DUTIES; RESPONSIBILITIES.
    (A)   Designation of Floodplain Administrator. The Mayor of the community or
 his or her designee is hereby designated as the community’s local Floodplain
@@ -10145,7 +10145,7 @@ require; and
 the development into compliance with the provisions of this chapter.
 (Ord. 474, passed 5-11-2023) Penalty, see §
 153.99
-STANDARDS FOR FLOODPLAIN DEVELOPMENT
+**** STANDARDS FOR FLOODPLAIN DEVELOPMENT ****
 § 153.45 GENERAL STANDARDS.
    (A)   Alteration or relocation of a watercourse.
       (1)   A watercourse or drainway shall not be altered or relocated in any

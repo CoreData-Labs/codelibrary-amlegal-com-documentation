@@ -1,7 +1,7 @@
 LYONS, NEBRASKA
 CODE OF ORDINANCES
-2025 S-2 Supplement contains:
-Local legislation current through Ordinance 775, passed 11-12-2024
+2026 S-3 Supplement contains:
+Local legislation current through Ordinance 794, passed 1-6-2026
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -9,7 +9,7 @@ Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
 ADOPTING ORDINANCE
-ORDINANCE NO. 766
+***** ORDINANCE NO. 766 *****
 AN ORDINANCE ENACTING A CODE OF ORDINANCES FOR THE CITY OF LYONS, NEBRASKA, AND
 REVISING, AMENDING, RESTATING, CODIFYING AND COMPILING CERTAIN EXISTING GENERAL
 ORDINANCES OF THE CITY DEALING WITH SUBJECTS EMBRACED IN SUCH CODE OF
@@ -360,7 +360,7 @@ Ordinances, Resolutions, and Motions
 30.51   Effective date; emergency ordinances
    
 30.52   Amendments and revisions
-MAYOR
+**** MAYOR ****
 § 30.01 ELECTION; QUALIFICATIONS; TERM.
    (A)   (1)   The Mayor shall be elected as provided in the Election Act.
       (2)   The Mayor shall take office on the date of the first regular
@@ -454,7 +454,7 @@ unexpired term, there shall be a vacancy on the Council.
 Statutory reference:
    Additional and similar provisions, see Neb. RS 32-560 through 32-572
    Ineligibility of person subjected to recall, see Neb. RS 32-1308
-CITY COUNCIL
+**** CITY COUNCIL ****
 § 30.15 ELECTION; QUALIFICATIONS; TERMS.
    (A)   The City Council shall consist of not less than four nor more than 12
 residents of the city who are registered voters.
@@ -602,7 +602,7 @@ of its members, subject to review by the courts.
 (Prior Code, § 1-107) (Ord. 468, passed 2-5-1991)
 Statutory reference:
    Related provisions, see Neb. RS 17-108.02 and 32-563
-ORDINANCES, RESOLUTIONS, AND MOTIONS
+**** ORDINANCES, RESOLUTIONS, AND MOTIONS ****
 § 30.45 GRANT OF POWER.
    The City Council may make all ordinances, bylaws, rules, regulations, and
 resolutions not inconsistent with the laws of the state, as may be expedient
@@ -1115,6 +1115,8 @@ Boards and Commissions
 32.04   Board of Health
    
 32.05   Parks and Recreation Advisory Board
+   
+32.06   Community Development Agency
 Housing Authority
    
 32.15   Election; appointments
@@ -1134,11 +1136,13 @@ Police Department
    
 32.33   Officers; discipline or removal from duty; notice and hearing;
 determination
-BOARDS AND COMMISSIONS
+**** BOARDS AND COMMISSIONS ****
 § 32.01 LIBRARY BOARD.
    (A)   (1)   The Library Board shall consist of five appointed members. At
-least four of the members shall be residents of the municipality and all five
-members shall serve terms of four years. The board members shall be appointed
+least three of the members shall be residents of the municipality. Each member
+shall serve a term of four years, provided, however, beginning in 2026 terms of
+appointments of members shall be staggered, so that the terms of no more than
+two members shall expire at the same time. The board members shall be appointed
 by a majority vote of the members of the City Council. Neither the Mayor nor
 any member of the City Council shall be a member of the Library Board. The
 terms of members serving on the effective date of a change in the number of
@@ -1165,7 +1169,7 @@ inspection at any reasonable time.
       (3)   The Board shall meet at such times as the Board may designate.
 Special meetings may be held upon the call of the President or a majority of
 the members of the Board.
-(Prior code, § 2-201) (Ord. 688, passed 9-7-2010)
+(Prior code, § 2-201) (Ord. 688, passed 9-7-2010; Ord. 791, passed 12-9-2025)
 Cross-reference:
    Library provisions, see
 Ch. 90 of this code
@@ -1532,7 +1536,22 @@ Council in areas concerning the layout, improvement, beautification design,
 maintenance, program planning, and general operation of the public parks and
 municipally-owned recreation facilities.
 (Res. 2023-19, passed 10-10-2023)
-HOUSING AUTHORITY
+§ 32.06 COMMUNITY DEVELOPMENT AGENCY.
+   (A)   Establishment. There is hereby established pursuant to Neb. RS 18-
+2101.01, as amended, a Community Development Agency for the city.
+   (B)   Designation of Agency members. The Mayor and City Council are hereby
+designated to be and shall be the Community Development Agency for the city.
+The term of office of each member of the Agency shall coincide with his or her
+term as Mayor and City Councilperson.
+   (C)   Designation of Agency officers. The Mayor shall be the chairperson of
+the Community Development Agency, and the president of the City Council shall
+be the vice chairperson.
+   (D)   Powers and authorities of Agency. The Community Development Agency
+shall have all of the powers and duties, without limitation, as provided in
+Nebraska’s Community Development Law, Neb. RS 18-2101 to 18-2158, as amended
+from time to time, and shall be governed by the provisions contained therein.
+(Ord. 784, passed 9-16-2025)
+**** HOUSING AUTHORITY ****
 § 32.15 ELECTION; APPOINTMENTS.
    (A)   The City Council shall appoint five persons who shall constitute the
 Housing Authority and such persons shall be called the Commissioners. One
@@ -1716,7 +1735,7 @@ a statement to that effect in lieu of the report.
 (Prior Code, § 2-208)
 Statutory reference:
    Related provisions, see Neb. RS 71-1552
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 32.30 DUTIES.
    (A)   If the Mayor and City Council have provided for the appointment of a
 Police Chief, the Police Department shall consist of the Chief of Police and
@@ -1951,7 +1970,7 @@ Compensation; Conflicts of Interest
 Civil Emergencies; Risk Management
    
 33.55   Intergovernmental risk management
-MEETINGS
+**** MEETINGS ****
 § 33.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2287,7 +2306,7 @@ comply with procedures set forth in §§
 (Prior Code, § 1-516) (Ord. 407, passed 11-5-1985)
 Statutory reference:
    Related provisions, see Neb. RS 17-106
-BONDS AND OATHS
+**** BONDS AND OATHS ****
 § 33.25 BONDS; REQUIREMENTS.
    (A)   The city may enact ordinances or bylaws to require from all officers
 and servants, elected or appointed, bonds and security or evidence of
@@ -2422,7 +2441,7 @@ me God.”
    (B)   If any such officer is not required to give bond, the oath shall be
 filed with the City Clerk.
 (Neb. RS 11-101)
-COMPENSATION; CONFLICTS OF INTEREST
+**** COMPENSATION; CONFLICTS OF INTEREST ****
 § 33.40 COMPENSATION; HOW FIXED; LIMITATIONS.
    (A)   The officers and employees of the city shall receive such compensation
 as the Mayor and City Council shall fix by ordinance.
@@ -2583,7 +2602,7 @@ were increased.
 Ord. 765, passed 1-9-2024)
 Statutory reference:
    Related provisions, see Neb. RS 17-108, 17-108.02, 17-611, and 17-612)
-CIVIL EMERGENCIES; RISK MANAGEMENT
+**** CIVIL EMERGENCIES; RISK MANAGEMENT ****
 § 33.55 INTERGOVERNMENTAL RISK MANAGEMENT.
    (A)   For the purpose of this section, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3062,7 +3081,7 @@ Taxation
 35.46   Property tax levy; authority to set
    
 35.47   Sales and use tax; General Fund
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 35.01 DEFINITIONS.
    For the purpose of this chapter, the following definition shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -3580,8 +3599,10 @@ clearinghouse or the Federal Reserve’s Fedwire system.
 shall be, and hereby are, fixed in accordance with the city’s fee schedule, and
 such fees and taxes charged shall be in accordance with such rules as the city
 may establish.
-(Ord. 763, passed 11-14-2023; Ord. 772, passed 6-11-2024)
-ANNUAL BUDGET
+(Ord. 763, passed 11-14-2023; Ord. 772, passed 6-11-2024; Ord. 777, passed 1-
+14-2025; Ord. 780, passed 4-17-2025; Ord. 786, passed 9-16-2025; Ord. 788,
+passed 12-9-2025; Ord. 794, passed 1-6-2026)
+**** ANNUAL BUDGET ****
 § 35.25 FISCAL YEAR.
    The fiscal year of the city and any public utility of the city commences on
 October 1 and extends through the following September 30, except as provided in
@@ -3847,7 +3868,7 @@ budget.
 (Neb. RS 13-511)
 Statutory reference:
    State Budget Act, see Neb. RS 13-501 et seq.
-TAXATION
+**** TAXATION ****
 § 35.45 PROPERTY TAX; CERTIFICATION OF AMOUNT.
    The City Council shall, at the time and in the manner provided by law, cause
 to be certified to the County Clerk the amount of tax to be levied upon the
@@ -3929,6 +3950,8 @@ prohibited; evidence
 50.05   Lien
    
 50.06   Voluntary disconnect and reconnect fee
+   
+50.07   Billings; delinquent utility assessment
 § 50.01 DEPOSIT REQUIRED.
    (A)   Applicants for utility services, namely, gas, water, or electricity,
 or any two or three of such services, from the city shall make a utility
@@ -3958,63 +3981,26 @@ Ord. 663, passed 6-5-2008; Ord. 669, passed 7-15-2008; Ord. 721, passed 8-4-
    (A)   The city shall have the right to discontinue utility services and
 remove its properties if the charges for such services are not paid within
 seven days after the date that the charges become delinquent. Before any
-termination, the city shall first give notice by first-class mail or in person
-to any domestic subscriber whose service is proposed to be terminated. If
-notice is given by first-class mail, such mail shall be conspicuously marked as
-to its importance. Service shall not be discontinued for at least seven days
-after notice is sent or given. As to any subscriber who has previously been
-identified to the city by the Department of Health and Human Services, as a
-recipient of energy assistance, such notice shall be by certified mail and
-notice of such proposed termination shall be given to the Department of Health
-and Human Services.
-   (B)   The notice shall contain the following information:
-      (1)   The reason for the proposed disconnection;
-      (2)   A statement of the intention to disconnect unless the domestic
-subscriber either pays the bill or reaches an agreement with the city regarding
-payment of the bill;
-      (3)   The date upon which service will be disconnected if the domestic
-subscriber does not take appropriate action;
-      (4)   The name, address, and telephone number of the employee or
-department to whom the domestic subscriber may address an inquiry or complaint;
-       (5)   The domestic subscriber’s right, prior to the disconnection date,
-to request a conference regarding any dispute over such proposed disconnection;
-      (6)   A statement that the city may not disconnect service pending the
-conclusion of the conference;
-      (7)   A statement to the effect that disconnection may be postponed or
-prevented upon presentation of a duly licensed physician’s certificate which
-shall certify that the domestic subscriber or a resident within such
-subscriber’s household has an existing illness or handicap which would cause
-such subscriber or resident to suffer an immediate and serious health hazard by
-the disconnection of the city’s service to that household. Such certificate
-shall be filed with the city within five days of receiving notice under this
-section and will prevent the disconnection of the city’s service for a period
-of 30 days from such filing. Only one postponement of disconnection shall be
-allowed under this section for each incidence of nonpayment of any past-due
-account;
-      (8)   The cost that will be borne by the domestic subscriber for
-restoration of service;
-      (9)   A statement that the domestic subscriber may arrange with the city
-for an installment payment plan;
-      (10)   A statement to the effect that those domestic subscribers who are
-welfare recipients may qualify for assistance in payment of their utility bill
-and that they should contact their caseworker in that regard; and
-      (11)   Any additional information not inconsistent with this section
-which has received prior approval from the City Council.
-   (C)   (1)   A domestic subscriber may dispute the proposed discontinuance of
-service by notifying the city with a written statement that sets forth the
-reasons for the dispute and the relief requested.
-      (2)   If a statement has been made by the subscriber, a conference shall
-be held before the city may discontinue services.
+termination, the city shall first give notice in a manner pursuant to state law
+to any domestic subscriber whose service is proposed to be terminated. Service
+shall not be discontinued for at least seven days after notice is sent or
+given.
+   (B)   The notice of termination shall include any and all information
+required by state law, as amended from time to time.
+   (C)   A domestic subscriber may dispute the proposed termination of service
+by notifying the city by written statement, which shall set forth the reasons
+for the dispute and the relief requested. After such written statement is
+submitted, a conference shall be held before the city may discontinue services.
    (D)   The procedures adopted by the City Council for resolving utility
 bills, copies of which are on file in the office of the City Clerk, are hereby
 incorporated by reference in addition to any amendments thereto and are made a
-part of this section as though set out in full.
+part of this section as though fully set forth here.
    (E)   This section shall not apply to any disconnections or interruptions of
 services made necessary by the city for reasons of repair or maintenance or to
 protect the health or safety of the domestic subscriber or of the general
 public.
-(Prior Code, § 3-1102) (Ord. 578, passed 2-2-1999; Ord. 720, passed 8-4-2015)
-Penalty, see §
+(Prior Code, § 3-1102) (Ord. 578, passed 2-2-1999; Ord. 720, passed 8-4-2015;
+Ord. 787, passed 10-9-2025) Penalty, see §
 10.99
 Statutory reference:
    Related provisions, see Neb. RS 70-1602 et seq.
@@ -4120,6 +4106,21 @@ Statutory reference:
 disconnected or reconnected, the customer shall pay the fees as set forth in
 the city’s fee schedule.
 (Prior Code, § 3-1106) (Ord. 693, passed 7-5-2011)
+§ 50.07 BILLINGS; DELINQUENT UTILITY ASSESSMENT.
+   (A)   All domestic subscribers of any city-provided utility, including
+electricity, gas, water, sewer, and solid waste service, shall be billed by the
+city’s Utility Department. Bills shall be prepared and issued on or before the
+tenth of each month for the prior month’s usage. Such bills shall be due and
+payable at the office of the City Clerk on or before the 25th day of the month.
+   (B)   Any bill not paid in full by the 25th day of the month shall be
+considered delinquent. A delinquency assessment in the amount of 10% of the
+utility bill, excluding tax, shall be added if the bill remains unpaid on the
+last calendar day of the month. The delinquency assessment shall apply to all
+city- provided utilities listed in division (A) of this section.
+   (C)   Domestic subscribers enrolled in budget billing shall be assessed a
+delinquency charge of 10% of their budgeted monthly amount (excluding tax) if
+payment is not received by the budget billing due date.
+(Ord. 787, passed 10-9-2025)
 CHAPTER 51: SEWERS
 Section
    
@@ -4145,7 +4146,7 @@ Section
    
 51.11   Rate structure
    
-51.12   Billings
+51.12   Reserved
    
 51.13   Review of charges
    
@@ -4644,14 +4645,7 @@ the responsible plant operating personnel and approved by the City Council.
 regardless of their location, of the city’s treatment works.
 (Prior Code, § 3-211) (Ord. 644, passed 12-4-2003; Ord. 668, passed - -; Ord.
 675, passed 5-5-2009; Ord. 712, passed 4-1-2014; Ord. 761, passed 9-12-2023)
-§ 51.12 BILLINGS.
-   All users shall be billed monthly for sewer service, provided by the City
-Sewer Department. Monthly bills are due and payable at the office of the City
-Clerk. Payment of the net amount is allowed until the twenty-fifth day of the
-month the bill is mailed. After that date, the bill is considered delinquent
-and payable at the gross amount. Delinquent bills will be collected as provided
-for in Chapter 50.
-(Prior Code, § 3-212) (Ord. 671, passed 9-2-2008)
+§ 51.12 RESERVED.
 § 51.13 REVIEW OF CHARGES.
    (A)   The city will review the user charge system at least every June and
 revise user charge rates as necessary to ensure that the system generates
@@ -4661,19 +4655,26 @@ a regular bill, of the rate being charged for operation and maintenance,
 including replacement of the treatment works.
 (Prior Code, § 3-213)
 § 51.14 MANDATORY HOOKUP.
-   The property owner, occupant, or lessee of any premise that abuts a sewer
-main that is now, or may hereafter be laid, shall without delay, cause the said
-building to be connected with the city’s sewer system and equipped with inside
-sewerage facilities. Every building hereafter erected shall be connected with
-the city’s sewer system at the time of its construction. In the event that any
-property owner, occupant, or lessee shall neglect, fail, or refuse to make such
-connection, within a period of ten days after notice has been given to him or
-her, by registered mail or by publication in a newspaper in or of general
-circulation in the city, the City Council shall have the power to cause the
-same to be done, to assess the cost thereof against the property, and to
-collect the assessment thus made in the manner provided for collection of other
-special taxes and assessments.
-(Ord. 745, passed 11-5-2020)
+   (A)   The property owner, occupant, or lessee of any premise that abuts a
+sewer main that is now, or may hereafter be laid, shall without delay, cause
+the said building to be connected with the city’s sewer system and equipped
+with inside sewerage facilities. Every building hereafter erected shall be
+connected with the city’s sewer system at the time of its construction. In the
+event that any property owner, occupant, or lessee shall neglect, fail, or
+refuse to make such connection, within a period of ten days after notice has
+been given to him or her, by registered mail or by publication in a newspaper
+in or of general circulation in the city, the City Council shall have the power
+to cause the same to be done, to assess the cost thereof against the property,
+and to collect the assessment thus made in the manner provided for collection
+of other special taxes and assessments.
+   (B)   Upon approval of any application for hookup to the city’s sewer
+utility, and prior to the issuance of any permit for the same, the applicant
+shall pay to the City Clerk a tap fee in an amount set forth in the city’s fee
+schedule to cover the cost of processing the application and the expense of
+tapping the sewer main. The City Clerk shall collect the tap fees and
+faithfully account for and pay to the City Treasurer all said fees collected by
+him or her.
+(Ord. 745, passed 11-5-2020; Ord. 793, passed 1-6-2026)
 Statutory reference:
    Related provisions, see Neb. RS 17-149.01 and 17-574
 § 51.99 PENALTY.
@@ -4737,7 +4738,7 @@ Fees; Billing Procedure
    
 52.33   Rates
    
-52.34   Billings
+52.34   Reserved
    
 52.35   Lien
 Backflow/Backsiphonage Prevention
@@ -4768,7 +4769,7 @@ Backflow/Backsiphonage Prevention
  
    
 52.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.01 OPERATION AND FUNDING.
    (A)   The city owns and operates the City Water Department through the
 Utilities Superintendent. The City Council, for the purpose of defraying the
@@ -5127,7 +5128,7 @@ by the City Council, to hook up with the city’s water system.
 (Ord. 744, passed 11-5-2020)
 Statutory reference:
    Related provisions, see Neb. RS 17-539
-FEES; BILLING PROCEDURE
+**** FEES; BILLING PROCEDURE ****
 § 52.30 INSTALLATION EXPENSE.
    The expense of providing water service to the lot line shall be paid by the
 city. The consumer shall then pay the cost of installation and pipe from the
@@ -5184,17 +5185,7 @@ Ord. 618, passed 2-7-2002; Ord. 642, passed 12-4-2003; Ord. 650, passed 10-5-
 12-2023)
 Statutory reference:
    Related provisions, see Neb. RS 17-542
-§ 52.34 BILLINGS.
-   All users shall be billed monthly for water usage, provided by the City
-Water Department. The Utilities Superintendent shall read, or cause to be read,
-water meters, monthly. Monthly bills are due and payable at the office of the
-City Clerk. Payment of the net amount is allowed until the twenty-fifth day of
-the month the bill is mailed. After that date, the bill is considered
-delinquent and payable in the gross amount. Delinquent bills will be collected
-as provided for in Chapter 50.
-(Prior Code, § 3-109) (Ord. 670, passed 9-2-2008)
-Statutory reference:
-   Related provisions, see Neb. RS 17-542 and 19-2702
+§ 52.34 RESERVED.
 § 52.35 LIEN.
    In addition to all other remedies, if a customer shall for any reason remain
 indebted to the city for water service furnished, such amount due, together
@@ -5209,7 +5200,7 @@ of the premise upon which the same was used. The report shall be examined, and
 if approved by the City Council, shall be certified by the City Clerk to the
 County Clerk to be collected as a special tax in the manner provided by law.
 (Prior Code, § 3-110)
-BACKFLOW/BACKSIPHONAGE PREVENTION
+**** BACKFLOW/BACKSIPHONAGE PREVENTION ****
 § 52.50 STATEMENT OF POLICY.
    (A)   Purpose. The purpose of this subchapter is:
       (1)   To protect the public potable water supply of the city water system
@@ -5536,7 +5527,7 @@ Gas Department
    
 53.08   Rates
    
-53.09   Delinquent; billings
+53.09   Reserved
    
 53.10   Restricted use
    
@@ -5584,7 +5575,7 @@ Natural Gas Regulations
 53.42   Retroactive application; prohibited
    
 53.43   Regulations; rate filing fee
-GAS DEPARTMENT
+**** GAS DEPARTMENT ****
 § 53.01 OWNERSHIP.
    The city owns and operates the City Gas Department through the Utilities
 Superintendent. The City Council, for the purpose of defraying the cost of the
@@ -5669,15 +5660,7 @@ schedule.
 (Prior Code, § 3-1009) (Ord. 359, passed 10-23-1975; Ord. 368, passed 10-5-
 1976; Ord. 430, passed 1-5-1988; Ord. 425, passed 5-5-1987; Ord. 440, passed 1-
 5-1988; Ord. 535, passed 9-10-1996)
-§ 53.09 DELINQUENT; BILLINGS.
-   All users shall be billed monthly for gas service provided the City Gas
-Department. The Utilities Superintendent shall read, or cause to be read, gas
-meters, monthly. Monthly bills shall be due and payable at the office of the
-City Clerk. Payment of net amount is allowed until the twenty-fifth day of the
-month the bill is mailed. After that date, the bill is considered delinquent
-and payable at the gross amount. Delinquent bills will be collected as provided
-for in Chapter 50.
-(Prior Code, § 3-1010) (Ord. 673, passed 9-2-2008)
+§ 53.09 RESERVED.
 § 53.10 RESTRICTED USE.
    The City Gas Department does not guarantee the delivery of gas except when
 it has a sufficient supply, sufficient equipment, and sufficient personnel to
@@ -5721,7 +5704,7 @@ or impair the intended use of any of the above mentioned property without the
 written permission of the Utilities Superintendent.
 (Prior Code, § 3-1014) Penalty, see §
 10.99
-NATURAL GAS REGULATIONS
+**** NATURAL GAS REGULATIONS ****
 § 53.25 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6359,7 +6342,7 @@ Section
    
 54.10   Service deposit fund
    
-54.11   Delinquent payments
+54.11   Reserved
    
 54.12   Restricted use
    
@@ -6374,6 +6357,7 @@ Section
 54.17   Load control management
    
 54.18   Interconnection procedures
+   54.19   Electrical generators
 § 54.01 OWNERSHIP.
    The city owns and operates the city’s electrical system through the
 Utilities Superintendent. The City Council, for the purpose of defraying the
@@ -6552,18 +6536,10 @@ recent summer period (June, July, August, and September) .
 rendered hereunder may be adjusted administratively, with Council approval,
 from month to month to reflect the change in production cost adjustments
 charged by the city’s supplier(s).
-   (E)   Terms of payment. Bills are due on the twenty-fifth of each month for
-prior month’s usage and payable upon receipt. Payments shall be delinquent if
-not paid before noon on the twenty-sixth of the same month. Any payments made
-after shall be subject to an additional charge of 10% of the balance due.
-Electric service shall be discontinued to those consumers who remain unpaid
-after payments become due according to the laws of the state. A disconnection/
-reconnect charge shall be assessed against said consumer; service shall be
-reconnected upon full payment.
 (Prior Code, § 3-909) (Ord. 358, passed 10-23-1975; Ord. 367, passed 10-5-1976;
 Ord. 400, passed 3-5-1985; Ord. 624, passed 8-6-2002; Ord. 641, passed 12-4-
 2003; Ord. 649, passed 10-5-2004; Ord. 690, passed 12-7-2010; Ord. 762, passed
-9-12-2023; Ord. 764, passed 1-9-2024)
+9-12-2023; Ord. 764, passed 1-9-2024; Ord. 787, passed 10-9-2025)
 Statutory reference:
    Related provisions, see Neb. RS 17-902
 § 54.10 SERVICE DEPOSIT FUND.
@@ -6573,22 +6549,7 @@ shall be deducted all delinquent electrical charges. If, after two years, there
 are no delinquent electric charges, the deposit shall be refunded to the
 customer.
 (Prior Code, § 3-910)
-§ 54.11 DELINQUENT PAYMENTS.
-   Electrical fees shall be due and payable monthly at the office of the
-Utilities Superintendent. If said fees are not paid within 15 days after the
-same become due, there shall be assessed a 10% penalty for such delinquency. If
-payment is not received by the twenty-sixth day of the month, the electricity
-may be turned off after ten days’ notice by mail to the subscriber and not
-turned on again until all back fees and charges are paid, including any penalty
-charge which the City Council may, by resolution, prescribe; provided, if the
-delinquent customer is a known welfare recipient, it shall be the duty of the
-City Clerk to notify the customer and also the Department of Social Services by
-certified mail of the proposed termination of service. The owner of the
-premises will, in all cases, be held primarily responsible and will be required
-to pay for electricity at such premises.
-(Prior Code, § 3-911)
-Statutory reference:
-   Related provisions, see Neb. RS 17-902
+§ 54.11 RESERVED.
 § 54.12 RESTRICTED USE.
    The city’s electrical system does not guarantee the delivery of electric
 current over the lines of the distribution system except when it has sufficient
@@ -6686,6 +6647,25 @@ metering process:
 generation; and
       (2)   The net metering service rate schedule.
 (Prior Code, § 3-918) (Ord. 724, passed 2-16-2016)
+§ 54.19 ELECTRICAL GENERATORS.
+   (A)   Use or maintenance of electrical generator; permit required. No
+consumer of the city’s electrical utility shall connect or interface a standby
+electrical generator or freestanding generator into the city’s electrical
+distribution system without first obtaining a permit from the Utilities
+Superintendent. The Utilities Superintendent shall not approve and execute the
+permit unless the consumer has demonstrated to the satisfaction of the
+Utilities Superintendent that the connection of the generator meets all
+applicable safety requirements and will not allow feedback of any electricity
+into the city’s electrical system. Any permit issued shall further provide the
+generator shall have a double throw switch to provide a break before the same
+makes contact with the city’s electrical system.
+   (B)   Applicability to consumers with existing generators. This section
+shall apply to any consumer using or maintaining a generator existing as of the
+date of this section’s passage. Any such consumer shall have a period of 30
+days, beginning on the date of the passage of this section, to secure the
+permit required.
+(Ord. 789, passed 12-9-2025) Penalty, see §
+10.99
 CHAPTER 55: GARBAGE
 Section
 City Dump
@@ -6701,7 +6681,7 @@ Solid Waste
 responsibilities
    
 55.17   Solid waste collection and disposal fees; deposit
-CITY DUMP
+**** CITY DUMP ****
 § 55.01 OPERATION AND FUNDING.
    The city owns and operates the city dump. The City Council, for the purpose
 of defraying the cost of the care, management, and maintenance of the city
@@ -6725,7 +6705,7 @@ as follows: each municipal water meter located within the city limits or
 outside the city limits shall be billed every month a flat fee of an amount as
 set forth in the city’s fee schedule per month.
 (Prior Code, § 3-702) (Ord. 451, passed 12-5-1989)
-SOLID WASTE
+**** SOLID WASTE ****
 § 55.15 COLLECTION AND DISPOSAL OF SOLID WASTE.
    All solid waste generated and accumulated within the planning jurisdiction
 map of the city shall be disposed of according to the terms and conditions of
@@ -6792,7 +6772,7 @@ Operator and Vehicle Qualifications
 70.23   Semi tractors; prohibited noises
 Statutory reference:
    Nebraska Rules of the Road, see Neb. RS 60-601 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this title, the following definitions and the other
 definitions in Neb. RS 60-606 through 60-676 shall apply unless the context
@@ -6995,7 +6975,7 @@ removal with or without notice.
 10.99
 Statutory reference:
    Related provisions, see Neb. RS 60-6,127
-OPERATOR AND VEHICLE QUALIFICATIONS
+**** OPERATOR AND VEHICLE QUALIFICATIONS ****
 § 70.20 REGULATION; OPERATOR AND VEHICLE LICENSE.
    (A)   No person shall operate a motor vehicle upon any street, alley, or
 public highway without having first registered the same in accordance with Neb.
@@ -7371,7 +7351,7 @@ permits
  
    
 72.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.01 PARKING; GENERALLY.
    No person shall park any vehicle, or approach the curb with a vehicle,
 except when headed in the direction of the traffic. Vehicles, when parked,
@@ -7555,7 +7535,7 @@ complaint in a court of competent jurisdiction. The fine for any such
 violations after 30 days or after judgment is entered against the violator
 shall be $50 plus costs.
 (Prior Code, § 5-520) (Ord. 687, passed 8-4-2009)
-PARKING FOR DISABLED PERSONS
+**** PARKING FOR DISABLED PERSONS ****
 § 72.35 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7882,7 +7862,7 @@ All-Terrain Vehicles
  
    
 73.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 73.01 BICYCLES; OPERATION.
    Every person riding or propelling a bicycle upon any street or other public
 highway shall observe all traffic rules and regulations applicable thereto; and
@@ -7953,7 +7933,7 @@ operate a motorized golf cart on the streets of the city during daylight hours.
 Operators of motorized golf carts shall be subject to all the rules and
 regulations applicable to any other motorized vehicle.
 (Prior Code, § 5-406) (Ord. 622, passed 5-7-2002)
-ALL-TERRAIN VEHICLES
+**** ALL-TERRAIN VEHICLES ****
 § 73.20 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8168,6 +8148,8 @@ Main Street                   western-most gate of the Lyons City   20 mph
                               city
 Main Street                   From Burlington Northern Railway to   35 mph
                               U.S. Highway No.77
+Main Street                   Between North Cemetery Road and North 25 mph
+                              Eighth Street
                               From Pearl Street to Grant Street,
 South Fifth Street            between the hours of 8:00 a.m. and 5: 15 mph
                               00 p.m. during any school day in
@@ -8179,7 +8161,7 @@ South Sixth Street            between the hours of 8:00 a.m. and 5: 15 mph
  
 (Prior Code, § 5-205) (Ord. 361, passed 3-2-1976; Ord. 393, passed 8-1-1983;
 Ord. 426, passed 7-7-1987; Ord. 621, passed 5-7-2002; Ord. 774, passed 9-10-
-2024) Penalty, see §
+2024; Ord. 782, passed 6-10-2025) Penalty, see §
 10.99
 CHAPTER 75: PARKING SCHEDULES
 Section
@@ -8277,7 +8259,7 @@ Community Center
 90.56   Rentals
    
 90.57   Rules and regulations
-PARKS AND RECREATIONAL FACILITIES
+**** PARKS AND RECREATIONAL FACILITIES ****
 § 90.01 OPERATION AND FUNDING.
    (A)   If the city has already acquired or hereafter acquires land for park
 purposes or recreational facilities or has already built or hereafter builds
@@ -8331,7 +8313,7 @@ Penalty, see §
 10.99
 Statutory reference:
    Littering of public and private property, see Neb. RS 28-523
-LIBRARY
+**** LIBRARY ****
 § 90.15 FUNDING.
    (A)   (1)   If the City Council has established a public library free of
 charge for the use of the inhabitants of the city or contracted for the use of
@@ -8491,7 +8473,7 @@ a book from the library without properly checking it out shall be deemed to be
 guilty of an offense.
 Penalty, see §
 10.99
-SWIMMING POOL
+**** SWIMMING POOL ****
 § 90.40 OPERATION AND FUNDING.
    The city owns and manages the Lyons Municipal Pool. The City Council, for
 the purpose of defraying the cost of the management, maintenance, and
@@ -8540,7 +8522,7 @@ Lyons Municipal Pool itself when the city swimming pool is closed. Anyone found
 violating this section shall be deemed guilty of trespass.
 (Prior Code, § 3-504) (Ord. 446, passed 6-7-1988) Penalty, see §
 10.99
-COMMUNITY CENTER
+**** COMMUNITY CENTER ****
 § 90.55 OWNERSHIP.
    The city owns and manages the Community Center. The City Council, for the
 purpose of defraying the cost of the management, maintenance, and improvements
@@ -8601,7 +8583,7 @@ Nuisances, Generally
 91.04   Jurisdiction
    
 91.05   Adjoining land owners; intervention before trial
-NUISANCES, GENERALLY
+**** NUISANCES, GENERALLY ****
 § 91.01 GENERAL DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8908,7 +8890,7 @@ CHAPTER 93: ANIMALS
 Section
 General Provisions
    
-93.01   Running at large; tethering
+93.01   Certain animals prohibited within corporate limits of city; exceptions
    
 93.02   Enclosures
    
@@ -8917,7 +8899,7 @@ General Provisions
 93.04   Pitting
    
 93.05   Equine; bovine; prohibited acts
-Dogs
+***** Dogs *****
    
 93.20   License and tax required; exemption; tags
    
@@ -8962,28 +8944,42 @@ Cats
  
    
 93.99   Penalty
-GENERAL PROVISIONS
-§ 93.01 RUNNING AT LARGE; TETHERING.
-   (A)   It shall be unlawful for the owner of any cow, hog, horse, mule,
-sheep, goat, dog, chicken, turkey, goose, or other animal except a cat to
-permit the animal to run at large at any time on any of the public ways and
-property or the property of another in the city or to be tethered or staked out
-in such a manner so as to allow the animal to reach or pass into any public way
-or property or any property of another.
-   (B)   The owner of a cat may permit the cat to run at large within the
-corporate limits subject to any restrictions or prohibitions otherwise imposed
-by the City Council.
-   (C)   Any animal found running at large or tethered or staked out in
-violation of this section is a public nuisance and may be impounded or
-destroyed as provided in this chapter.
-   (D)   Nothing in this section shall be construed to permit anyone to own an
-animal in the corporate limits of the city that is prohibited by the City
-Council.
-Penalty, see §
+**** GENERAL PROVISIONS ****
+§ 93.01 CERTAIN ANIMALS PROHIBITED WITHIN CORPORATE LIMITS OF CITY; EXCEPTIONS.
+   (A)   It shall be unlawful for any person to own, keep, or maintain within
+the corporate limits of the city any cow, hog, horse, mule, sheep, goat,
+livestock of any other kind, or any variety of poultry, except chickens shall
+be permitted under the following circumstances:
+      (1)   No more than four hens shall be present at any one time on any one
+parcel of property;
+      (2)   Any hen shall at all times be kept in an enclosed place or private
+property; and
+      (3)   The person shall first obtain a written permit from the City
+Clerk’s office permitting the keeping of the hen(s), the application for which
+shall be on a written form provided by the Clerk’s office, and which shall
+include the name and property address of the applicant, the number of hens to
+be kept, the name and contact information of the person in charge of the hens,
+and such other information as required by the City Clerk or his or her
+representative. The application shall be accompanied by a fee in the amount of
+$25 or as otherwise fixed by the City Council in a master fee ordinance or
+schedule.
+   (B)   Any permit issued for hens as provided in this section shall be issued
+by the City Clerk or his or her designated representative only after an
+investigation of the property on which the hens are to be kept and the manner
+in which they are to be kept. The City Clerk may consult with any police or
+health officials deemed necessary or appropriate by the City Clerk. A permit
+shall be issued only after the City Clerk determines the location and keeping
+of hens is not a health hazard or nuisance to the surrounding neighborhood. Any
+permit issued shall be valid for a period of one year, from January 1 to
+December 31, and may be revoked by the City Clerk at any time for any violation
+of its conditions, city ordinances, or other laws, rules, and regulations.
+   (C)   Any violation of this section shall be deemed a nuisance and shall
+also be punishable as provided generally in §
+93.99.
+(Ord. 779, passed 3-11-2025)Penalty, see §
 93.99
 Statutory reference:
    Authority to regulate, see Neb. RS 17-526 and 17-547
-   Fine for permitting collarless dog to run at large, see Neb. RS 54-607
 § 93.02 ENCLOSURES.
    All pens, cages, sheds, yards, or any other area or enclosure for the
 confinement or animals not specifically barred within the corporate limits
@@ -9102,7 +9098,7 @@ Penalty, see §
 93.99
 Statutory reference:
    Livestock Animal Welfare Act, see Neb. RS 54-907 through 54-912
-DOGS
+**** DOGS ****
 § 93.20 LICENSE AND TAX REQUIRED; EXEMPTION; TAGS.
    (A)   Any owner of a dog over the age of six months within the city shall,
 within 30 days after acquisition of the dog, acquire a license for the dog
@@ -9355,7 +9351,7 @@ within the city and do not permit such pit bull dog or offspring to be kept
 within the jurisdiction of the city.
 (Prior Code, § 6-115) (Ord. 679, passed 9-1-2009) Penalty, see §
 93.99
-CATS
+**** CATS ****
 § 93.45 INTENT.
    The intent of this subchapter is to decrease community cat populations by
 humanely controlling reproduction and without removing cats from city limits in
@@ -9546,7 +9542,7 @@ Tree Board
 94.33   Duties and responsibilities
    
 94.34   Operation
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9914,17 +9910,17 @@ contractor will be responsible for removing brush that is blocking sidewalks
 and driveways.
 (Prior Code, § 8-428) Penalty, see §
 10.99
-TREE BOARD
+**** TREE BOARD ****
 § 94.30 CREATION AND ESTABLISHMENT.
    There is hereby created and established a City Tree Board for the city,
-which shall consist of four members, citizens, and residents of this city who
+which shall consist of five members, citizens, and residents of this city who
 shall be appointed by the Mayor with the approval of the City Council.
-(Prior Code, § 8-402)
+(Prior Code, § 8-402) (Ord. 790, passed 12-9-2025)
 § 94.31 TERM OF OFFICE.
-   The term of the four persons to be appointed by the Mayor shall be one year.
+   The term of the five persons to be appointed by the Mayor shall be one year.
 In the event that a vacancy shall occur during the term of any member, a
-successor shall be appointed for a new one-year term.
-(Prior Code, § 8-403)
+successor shall be appointed to serve the remainder of the unexpired term.
+(Prior Code, § 8-403) (Ord. 790, passed 12-9-2025)
 § 94.32 COMPENSATION.
    Members of the Tree Board shall serve without compensation.
 (Prior Code, § 8-404)
@@ -9979,6 +9975,8 @@ Sale and Acquisition of Property; Public Works
 95.27   Acquisition of real property
    
 95.28   Public works involving architecture or engineering; requirements
+   
+95.29   Vacant properties
 Sidewalks
    
 95.40   Requirement to keep clean
@@ -10017,7 +10015,7 @@ Streets and Alleys
 95.67   Closing designated public ways
    
 95.68   Snow emergencies
-CITY PROPERTY
+**** CITY PROPERTY ****
 § 95.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -10025,8 +10023,9 @@ unless the context clearly indicates or requires a different meaning.
 control of streets and sidewalks. If one official is responsible for streets
 and another official is responsible for sidewalks, OVERSEER OF STREETS shall
 mean whichever one is appropriate in the context the term is used.
-   SIDEWALK SPACE. The portion of a street between curb lines and adjacent
-property lines.
+   SIDEWALK SPACE. The portion of a street between the edge of the lane or area
+of travel, whether curbed or not, and adjacent property lines.
+(Ord. 783, passed 9-16-2025)
 § 95.02 STREETS, ALLEYS, WALKS, MALLS, AND OTHER IMPROVEMENTS.
    (A)   The City Council may grade, partially or to an established grade,
 change grade, curb, recurb, gutter, regutter, pave, gravel, regravel,
@@ -10156,32 +10155,17 @@ of such vehicles, structures, or machines will be permitted and allowed.
 Penalty, see §
 10.99
 § 95.09 WEEDS.
-   It is hereby the duty of the Building Inspector, or his or her duly
-authorized agent, to view and inspect the sidewalk space within the corporate
-limits for growing weeds during the growing season, and if weeds and worthless
-vegetation that are noxious, obstruct travel on public ways, or create a fire
-or health hazard, are found growing thereon, he or she shall notify the owner
-or occupant thereof to cut down such weeds as close to the ground as can be
+   It is hereby the duty of the owner or occupant of any lot or piece of ground
+adjacent to any sidewalk space within the corporate limits of the city to keep
+the sidewalk space free of growing weeds during the growing season and free of
+weeds and worthless vegetation that are noxious, obstruct travel on public
+ways, or create a fire or health hazard. The owner or occupant shall cut down
+any such weeds and worthless vegetation as close to the ground as can be
 practicably done and keep the weeds cut thereon in like manner during the
-growing season for weeds. In the event that the owner of any lot or parcel of
-land within the city is a non-resident of the city or cannot be found therein,
-the notice may be given to any person having the care, custody, or control of
-such lot or parcel of land. In the event that there can be found no one within
-the city to whom notice can be given, it shall be the duty of the Building
-Inspector or his or her agent to post a copy of the notice on the premises and
-then to cut or cause the weeds thereon to be cut as therein provided and report
-the cost thereof in writing to the City Council. The cost shall then be audited
-and paid by the city, and the amount thereof shall be assessed against the lot
-or parcel of land as a special tax thereon and shall be collected as are other
-taxes of the city; or may be recovered by civil suit brought by the city
-against the owner of the parcel of land. In the event the property owner is a
-non-resident of the county in which the property lies, the city shall, before
-levying any special assessment against that property, send a copy of any notice
-required by law to be published by means of certified mail, return receipt
-requested to the last known address of the non-resident property owner. The
-last known address shall be that address listed on the current tax rolls at the
-time such required notice was first published.
-(Prior Code, § 8-105)
+growing season for weeds. Any such weeds and worthless vegetation found in
+violation of this section shall be abated and removed in the manner provided
+for the abatement and removal of nuisances generally in the municipal code.
+(Prior Code, § 8-105) (Ord. 783, passed 9-16-2025)
 § 95.10 SPECIAL IMPROVEMENT DISTRICT.
    (A)   Assessment and creation procedure.
       (1)   The City Council may, by ordinance, create a Special Improvement
@@ -10297,7 +10281,7 @@ absolute guides for close proximity digging the power equipment.
 (Prior Code, § 8-109) (Ord. 452, passed 12-5-1989; Ord. 470, passed 5-7-1991)
 Penalty, see §
 10.99
-SALE AND ACQUISITION OF PROPERTY; PUBLIC WORKS
+**** SALE AND ACQUISITION OF PROPERTY; PUBLIC WORKS ****
 § 95.25 SALE AND CONVEYANCE; REAL PROPERTY.
    (A)   Except as provided in division (G) below, the power of the city to
 convey any real property owned by it, including land used for park purposes and
@@ -10500,7 +10484,130 @@ service provider if it employs or appoints an architect or a professional
 engineer to be in responsible charge of the city’s architectural or engineering
 work.
 (Neb. RS 81-3423)
-SIDEWALKS
+§ 95.29 VACANT PROPERTIES.
+   (A)   For the purposes of this section, the following definitions shall
+apply unless the context clearly indicates or requires a different meaning.
+      COMMERCIAL BUILDING. Any building used for commercial purposes. Examples
+of commercial buildings include, but are not limited to, offices, retail
+spaces, warehouses, and factories.
+      OWNER. The person(s) or legal entity(ies) shown to be the owner(s) of
+record according to the records of the Register of Deeds.
+      PROGRAM ADMINISTRATOR. The City Clerk or his or her designee shall be the
+Program Administrator.
+      PROPERTY. Either a residential building or a commercial building located
+within the corporate limits of the City of Lyons, Nebraska, excluding any
+property owned by the federal government, the State of Nebraska, or any
+political subdivision thereof.
+      RESIDENTIAL BUILDING. A house, condominium, townhouse, apartment unit or
+building, mobile home, or any other structure used or designed for use as a
+residence.
+      VACANT. A property is vacant if any condition or circumstance that on its
+own, or in combination with other conditions or circumstances, would lead a
+reasonable person to believe that the property is vacant. Such conditions or
+circumstances may include, but are not limited to:
+         (a)   Overgrown or dead vegetation, including grass, shrubbery, and
+other plantings;
+         (b)   An accumulation of abandoned personal property, trash, or other
+waste;
+         (c)   Visible deterioration or lack of maintenance of any building or
+structure on the property;
+         (d)   Graffiti or other defacement of any building or structure on the
+property; or
+         (e)   Any other condition or circumstance reasonably indicating that
+the property is not occupied for residential purposes or being used for the
+operation of a lawful business. Storage does not constitute occupancy unless
+authorized by the zoning ordinance of the city.
+   (B)   The owner of a vacant property must register such property with the
+Program Administrator if the property has been vacant for 180 days or longer.
+At the time of registration, the owner must submit a plan for occupancy for the
+property detailing how and when the property will be occupied or used, together
+with the following information:
+      (1)   The name, street address, mailing address, telephone number, and,
+if applicable, the facsimile number and email address of the property owner and
+his or her agent;
+      (2)   The street address and parcel identification number of the vacant
+property;
+      (3)   The transfer date of the instrument conveying the property to the
+owner; and
+      (4)   The date on which the property became vacant.
+   (C)   The Program Administrator may, but is not obligated to, determine a
+property is vacant. The Program Administrator will provide written notice to
+the owner of any such determination by certified mail to the owner at the
+address maintained in the Register of Deeds office at least ten days prior to
+such a determination.
+   (D)   The vacant property registration fee shall be $250 for a residential
+building and $1,000 for a commercial building, due and payable 180 days after
+initial registration of the vacant property or 360 days after the property
+becomes vacant, whichever is sooner.
+   (E)   Every six months following the assessment of the initial registration
+fee, the owner of a vacant property must pay a supplemental registration fee of
+$500 for a residential building or $2,000 for a commercial building for as long
+as the property remains vacant. The total supplemental registration fee may not
+exceed ten times the initial registration fee amount.
+   (F)   An owner who, in good faith, advertises a vacant property for sale or
+lease is exempt from the above registration and fee requirements, provided,
+however, that the asking price for the sale of the vacant property does not
+exceed twice the assessed value of said property. If the asking price exceeds
+this limit, the owner shall not qualify for this exemption.
+   (G)   The following exemptions apply to the vacant property registration and
+fee requirements:
+      (1)   A residential building used only as a seasonal residence is exempt
+provided the building is seasonally occupied;
+      (2)   A property damaged by fire, weather, explosion, act of God, or
+vandalism within six months prior to becoming vacant is exempt from the
+registration requirements. Such damaged properties are no longer exempt after
+expiration of a six month period;
+      (3)   A property under construction or renovation is exempt to the extent
+the construction or renovation is ongoing and in compliance with all relevant
+building permits and codes;
+      (4)   A residential building where the owner is temporarily absent, but
+who has demonstrated his or her intent to return is exempt unless it is
+subsequently determined the owner does not intend to return; and
+      (5)   Property which is subject to divorce, probate, or estate
+proceedings is exempt until the end of the proceeding.
+   (H)   Any subsequent owner of a vacant property subject to this section
+assumes the obligations of the previous owner.
+   (I)   The Program Administrator may annually inspect the interior and
+exterior of a registered vacant property so long as the property remains on the
+vacant property registration database. An owner will be provided at least ten
+days' notice prior to an annual inspection.
+   (J)   Upon written notice from the owner of a registered vacant property to
+the Program Administrator that the property is no longer vacant, the Program
+Administrator will, within 30 days, inspect the interior and exterior of the
+property to confirm the property is no longer vacant. The owner must pay any
+supplemental registration fee that comes due during the period between the
+owner's written notice and the Program Administrator's inspection, but upon the
+Program Administrator's confirmation the property is no longer vacant, the
+Program Administrator may refund the supplemental registration fee so
+occurring.
+   (K)   After the Program Administrator confirms a property is no longer
+vacant, the Program Administrator will remove the property from the vacant
+property registration database within seven days. No supplemental registration
+fee will be assessed after confirmation that a property is no longer vacant
+irrespective of the property's presence on the registration database.
+   (L)   Owners have the right to appeal adverse decisions of the Program
+Administrator to the City Council. Such appeals shall be taken by filing with
+the City Clerk within ten days after a notice of the decision has been mailed
+to the owner's last known address, a written statement setting forth the
+grounds for the appeal. The City Council shall set the time and place for a
+hearing on such appeal which shall be no later than 30 days from the date of
+receiving the notice of appeal. Prior notice of the hearing date shall be given
+to the owner by certified or registered mail, postage prepaid, at the owner's
+last known address. The order of the City Council on such appeal shall be
+final.
+   (M)   Penalty. Any person violating any provision of this section shall be
+fined for failure to comply in an amount of not more than $500, with each day
+of violation being a separate offense. The city may enforce the collection of
+vacant property registration fees and/or fines by civil action in any court of
+competent jurisdiction. Unpaid vacant property registration fees and unpaid
+fines for any violation of this section shall become a lien on the applicable
+property upon the recording of a notice of such lien in the office of the
+Register of Deeds for the county in which the property is located. The lien
+created pursuant to this section shall be subordinate to all liens on the
+applicable property recorded prior to the time the notice of such lien under
+this section is recorded.
+(Ord. 785, passed 1-6-2026)
+**** SIDEWALKS ****
 § 95.40 REQUIREMENT TO KEEP CLEAN.
    It shall be unlawful for the occupant of any lot or lots or the owner of any
 vacant lot or lots within the corporate limits to allow snow, sleet, mud, ice,
@@ -10600,7 +10707,7 @@ return receipt requested to the last known address of the non-resident property
 owner. The last known address shall be that address listed on the current tax
 rolls at the time such required notice was first published.
 (Prior Code, § 8-206)
-STREETS AND ALLEYS
+**** STREETS AND ALLEYS ****
 § 95.55 OPENING, WIDENING, IMPROVING, OR VACATING.
    (A)   (1)   The city shall have power to open, widen, or otherwise improve
 or vacate any street, avenue, alley, or lane within the limits of the city and
@@ -10970,7 +11077,7 @@ Occupation Taxes
 110.04   Failure to pay
    
 110.05   Fire insurance companies
-OCCUPATION TAXES
+**** OCCUPATION TAXES ****
 § 110.01 AMOUNTS.
    For the purpose of raising revenue an occupation tax is hereby levied as set
 forth in the city’s fee schedule.
@@ -11061,7 +11168,7 @@ Retail Establishments
 111.43   Original package
    
 111.44   Hiring minors
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 111.01 DEFINITIONS.
    Unless the context otherwise requires, the words and phrases used in this
 chapter shall have the meaning as defined in the State Liquor Control Act, and
@@ -11131,7 +11238,7 @@ proprietary or business uses which invites patronage by the public or which
 invites public ingress and egress.
 (Neb. RS 53-1,121) Penalty, see §
 10.99
-LICENSES REQUIRED
+**** LICENSES REQUIRED ****
 § 111.15 LICENSE REQUIRED.
    It shall be unlawful for any person to manufacture for sale, sell, keep for
 sale, or to barter any alcoholic liquors within the city unless said person
@@ -11678,7 +11785,7 @@ City Council within 30 days from the date the complaint was filed by resolution
 thereof, which resolution shall be deemed the final order for purposes of
 appeal to the State Liquor Control Commission as provided in Neb. RS 53-1,115.
 (Neb. RS 53-134.04)
-RETAIL ESTABLISHMENTS
+**** RETAIL ESTABLISHMENTS ****
 § 111.40 SANITARY CONDITIONS.
    It shall be unlawful to open for public use any retail liquor establishment
 that is not in a clean and sanitary condition. Toilet facilities shall be
@@ -11963,7 +12070,7 @@ Lottery
 113.01   Definition
    
 113.02   Participation; restrictions
-LOTTERY
+**** LOTTERY ****
 § 113.01 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12082,7 +12189,7 @@ Offenses Against Public Order
 131.20   Curfew; parents responsible
    
 131.21   Excessive noise
-OFFENSES AGAINST PUBLIC JUSTICE AND ADMINISTRATION
+**** OFFENSES AGAINST PUBLIC JUSTICE AND ADMINISTRATION ****
 § 131.01 REFUSING TO AID A PEACE OFFICER.
    It shall be unlawful for any person, upon a request by a person known to him
 or her to be a peace officer, unreasonably to refuse or fail to aid the peace
@@ -12118,7 +12225,7 @@ impeding the investigation.
 reporting.
 (Neb. RS 28-907) Penalty, see §
 10.99
-OFFENSES AGAINST PUBLIC ORDER
+**** OFFENSES AGAINST PUBLIC ORDER ****
 § 131.15 DISORDERLY CONDUCT.
    It shall be unlawful for any person within the corporate limits to create a
 public inconvenience, disturbance, annoyance, or alarm by participating in any
@@ -12258,7 +12365,7 @@ Weapons Offenses
  
    
 132.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 132.01 FIREWORKS.
    (A)   Fireworks, generally. It shall be unlawful for any person to sell or
 dispense or ignite or cause to be exploded fireworks or firecrackers of any
@@ -12342,7 +12449,7 @@ Statutory reference:
    Child Care Licensing Act, see Neb. RS 71-1908 et seq.
    Sexual Predator Residency Restriction Act, see Neb. RS 29-4015 et seq.
    Sex Offender Registration Act, see Neb. RS 29-4001 et seq.
-NUISANCE OFFENSES
+**** NUISANCE OFFENSES ****
 § 132.15 APPLIANCES IN YARD.
    It shall be unlawful for any person to permit a refrigerator, icebox,
 freezer, or any other dangerous appliance to be in the open and accessible to
@@ -12457,7 +12564,7 @@ of glass, refuse, waste, yard waste, garbage, rubbish, or trash of any kind.
 (Prior Code, § 6-332) (Ord. 666, passed 7-1-2008; Ord. 710, passed 3-4-2014)
 Penalty, see §
 132.99
-SUBSTANCE OFFENSES
+**** SUBSTANCE OFFENSES ****
 § 132.30 DRINKING ON PUBLIC PROPERTY; OPEN BEVERAGE CONTAINER.
    (A)   For the purpose of this section, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12524,7 +12631,7 @@ to become impaired, intoxicated, or under the influence of such. A person who
 violates this section commits the offense of huffing.
 (Prior Code, § 6-330) Penalty, see §
 132.99
-MOTOR VEHICLE AND HIGHWAY OFFENSES
+**** MOTOR VEHICLE AND HIGHWAY OFFENSES ****
 § 132.45 ABANDONED AUTOMOBILES.
    (A)   For the purpose of this section, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12728,7 +12835,7 @@ Penalty, see §
 132.99
 Statutory reference:
    “In Transit” stickers, see Neb. RS 60-376
-WEAPONS OFFENSES
+**** WEAPONS OFFENSES ****
 § 132.60 DISCHARGE OF FIREARMS.
    It shall be unlawful for any person, except an officer of the law in the
 discharge of official duty, to fire or discharge any gun, pistol, or other
@@ -12808,7 +12915,7 @@ Building Inspector
 150.46   Right of entry
    
 150.47   Plans, specifications, plats, and reports
-ADOPTION OF CODES
+**** ADOPTION OF CODES ****
 § 150.01 BUILDING CODE; ADOPTED BY REFERENCE.
    To provide certain minimum standards, provisions, and requirements for safe
 and stable design, methods of construction, and uses of materials in buildings
@@ -12863,7 +12970,7 @@ Clerk and are available for public inspection at any reasonable time.
 (Prior Code, § 9-801)
 Statutory reference:
    Related provisions, see Neb. RS 17-1001 and 18-132
-BUILDING PERMITS AND REGULATIONS
+**** BUILDING PERMITS AND REGULATIONS ****
 § 150.15 BUILDING PERMITS, GENERALLY.
    (A)   Any person desiring to commence or proceed to erect, construct, or
 cause the same to be done, shall file with the City Clerk an application for a
@@ -12907,7 +13014,7 @@ buildings and improvements until suitable protections are erected and
 maintained in the required manner.
 Penalty, see §
 10.99
-MOVING OF BUILDINGS
+**** MOVING OF BUILDINGS ****
 § 150.30 REGULATIONS.
    (A)   It shall be unlawful for any person, firm, or corporation to move any
 building or structure within the city without a written permit to do so.
@@ -12960,7 +13067,7 @@ expense of correcting the conditions. If the expense of correcting the
 hazardous condition is greater than the amount of the deposit set by the City
 Council, the City Council may recover the excess expense by civil suit or
 otherwise as prescribed by law.
-BUILDING INSPECTOR
+**** BUILDING INSPECTOR ****
 § 150.45 POWER AND AUTHORITY.
    The Building Inspector shall be the City Official who shall have the duty of
 enforcing all building and housing regulations as herein prescribed. He or she
@@ -13023,7 +13130,7 @@ Procedure, Dispute and Compliance
 151.42   Disputes
    
 151.43   Building Inspector; defined
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.01 DESIGNATION.
    Any buildings and structures which have any or all of the following defects
 are hereby declared to be dangerous buildings:
@@ -13105,7 +13212,7 @@ taken down or repaired without delay. The cost of taking down or repairing any
 building or structure under the provisions of this section shall be collected
 in the same manner provided for by law.
 (Prior Code, § 9-1105) (Ord. 563, passed 7-7-1998; Ord. 771, passed 6-11-2024)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 151.20 DUTIES OF BUILDING INSPECTOR.
    The duties of the Building Inspector are to:
    (A)   Inspect any building, wall, or structure about which complaints are
@@ -13133,7 +13240,7 @@ forth that such building or structure is unsafe or unfit for occupancy and use.
 a nuisance, no building permit for the building may be issued except with the
 consent and approval of the City Council.
 (Prior Code, § 9-1110) (Ord. 563, passed 7-7-1998; Ord. 771, passed 6-11-2024)
-PROCEDURE, DISPUTE AND COMPLIANCE
+**** PROCEDURE, DISPUTE AND COMPLIANCE ****
 § 151.40 NUISANCE; PROCEDURE.
    If the Building Inspector determines that a building or structure is unsafe
 or dangerous and a nuisance, he or she shall:
@@ -13357,7 +13464,7 @@ Rooming Houses
  
    
 152.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. Whenever
@@ -13478,7 +13585,7 @@ on the matter upon his or her request, as soon as practicable, but such
 conference shall in no case stay the abatement of correction of such
 emergencies.
 (Prior Code, § 9-1217) (Ord. 560, passed 2-12-1998)
-NOTICE OF VIOLATION
+**** NOTICE OF VIOLATION ****
 § 152.020 ISSUANCE.
    Whenever the Administrator shall determine that there are reasonable grounds
 to believe that there has been a violation of any of the provisions of this
@@ -13556,7 +13663,7 @@ is not filed in the Office of the Administrator within 20 days after such
 notice is received.
 (Prior Code, § 9-1216)
 (Ord. 560, passed 2-12-1998)
-APPEALS; VARIANCES
+**** APPEALS; VARIANCES ****
 § 152.040 APPEALS, GENERALLY.
    Whenever the Administrator shall make any order in accordance with the
 provisions of this chapter, or when it is claimed that the provisions of this
@@ -13599,7 +13706,7 @@ chapter to safeguard the public health, safety, and welfare.
 may be appealed to the District Court. Such appeal must be filed within 30 days
 from the date of the order, decision, or award of the Board.
 (Prior Code, § 9-1222) (Ord. 560, passed 2-12-1998)
-UNFIT DWELLINGS
+**** UNFIT DWELLINGS ****
 § 152.055 DETERMINATION; PLACARDING.
    Any dwelling or dwelling unit which shall be found to have any of the
 following defects shall be designated as unfit for human habitation and shall
@@ -13640,7 +13747,7 @@ under the procedure set forth in §§
 152.020 through
 152.025 and 152.040 through 152.044.
 (Prior Code, § 9-1227) (Ord. 560, passed 2-12-1998)
-HOUSING STANDARDS; RULES AND REGULATIONS
+**** HOUSING STANDARDS; RULES AND REGULATIONS ****
 § 152.070 ADOPTION BY ADMINISTRATOR.
    The Administrator is hereby authorized to make and, after public hearing has
 been held, to adopt such written rules and regulations as may be necessary for
@@ -13660,7 +13767,7 @@ immediately upon approval by the Council.
 approved by the City Council shall have the same force and effect as the
 provisions of this chapter.
 (Prior Code, § 9-1230) (Ord. 560, passed 2-12-1998)
-MINIMUM EQUIPMENT AND FACILITIES
+**** MINIMUM EQUIPMENT AND FACILITIES ****
 § 152.085 COMPLIANCE.
    No person shall occupy or permit another to occupy any dwelling or dwelling
 unit, for the purpose of living, sleeping, cooking, and eating therein, which
@@ -13717,7 +13824,7 @@ under the provisions of §
 safe open space at ground level, as required by the laws of this state and the
 city.
 (Prior Code, § 9-1240) (Ord. 560, passed 2-12-1998)
-LIGHT, VENTILATION, AND HEATING
+**** LIGHT, VENTILATION, AND HEATING ****
 § 152.105 COMPLIANCE.
    No person shall occupy or permit another to occupy any dwelling or dwelling
 unit, for the purpose of living therein, which does not comply with the
@@ -13825,7 +13932,7 @@ and every other opening to a basement which might provide an entry for rodents,
 shall be supplied with a screen or such other device as will effectively
 prevent their entrance.
 (Prior Code, § 9-1251) (Ord. 560, passed 2-12-1998)
-MAINTENANCE
+**** MAINTENANCE ****
 § 152.125 COMPLIANCE.
    No person shall occupy or permit another to occupy any dwelling or dwelling
 unit, for the purpose of living therein, which does not comply with the
@@ -13877,7 +13984,7 @@ discontinuance of service is approved by the Administrator.
    No owner shall occupy or let to any other occupant any vacant dwelling unit
 unless it is clean, sanitary, and fit for human occupancy.
 (Prior Code, § 9-1260) (Ord. 560, passed 2-12-1998)
-SPACE, USE, AND LOCATION
+**** SPACE, USE, AND LOCATION ****
 § 152.145 COMPLIANCE.
    No person shall occupy or permit another to occupy any dwelling or dwelling
 unit, for the purpose of living therein, which does not comply with the
@@ -13931,7 +14038,7 @@ ventilation.
    Every dwelling unit of one habitable room shall be occupied by a maximum of
 two occupants.
 (Prior Code, § 9-1267) (Ord. 560, passed 2-12-1998)
-RESPONSIBILITIES OF OWNERS AND OCCUPANTS
+**** RESPONSIBILITIES OF OWNERS AND OCCUPANTS ****
 § 152.165 CLEANLINESS OF PUBLIC AREAS.
    Every owner of a dwelling containing two or more dwelling units shall be
 responsible for maintaining, in a clean and sanitary condition, the shared or
@@ -13986,7 +14093,7 @@ responsibility of the owner.
 clean and sanitary condition and shall be responsible for the exercise of
 reasonable care in the proper use and operation thereof.
 (Prior Code, § 9-1274) (Ord. 560, passed 2-12-1998)
-ROOMING HOUSES
+**** ROOMING HOUSES ****
 § 152.185 MINIMUM REQUIREMENTS.
    No person shall operate a rooming house, or shall occupy or permit another
 to occupy any rooming unit, except in compliance with all applicable provisions
@@ -14077,7 +14184,7 @@ Mobile Homes
  
    
 153.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14101,7 +14208,7 @@ alley, or highway for not longer than two hours subject to any other
 prohibitions, regulations, or limitations imposed by the Traffic Regulations of
 this code for that street, alley, or highway.
 (Prior Code, § 9-904)
-TRAILERS
+**** TRAILERS ****
 § 153.15 LOCATION.
    No person shall park or occupy any trailer, or erect a foundation for
 placement of a trailer on the premises of any occupied or unoccupied dwelling
@@ -14118,7 +14225,7 @@ parked or stored.
    Nothing in this chapter shall be construed to apply to trailers located in
 the City Park.
 (Prior Code, § 9-909)
-MOBILE HOMES
+**** MOBILE HOMES ****
 § 153.30 LOCATION REQUIREMENTS.
    Mobile homes, as defined in this chapter and whether moved into the city on
 wheels or otherwise, must be located on a solid foundation with tongue or other
@@ -15020,7 +15127,7 @@ Standards for Floodplain Development
 155.42 Design and construction standards
    
 155.43 Nonconforming use
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 155.01 STATUTORY AUTHORIZATION.
    The Legislature of the State of Nebraska has delegated the responsibility to
 local governmental units to adopt zoning regulations designed to protect the
@@ -15323,7 +15430,7 @@ the part of the city, or any officer or employee thereof for any flood damages
 that may result from reliance on this chapter or any administrative decision
 lawfully made thereunder.
 (Ord. 770, passed 5-21-2024)
-GENERAL ADMINISTRATION
+**** GENERAL ADMINISTRATION ****
 § 155.20 ESTABLISHMENT OF ZONING DISTRICTS.
    The mapped floodplain areas within the jurisdiction of this chapter are
 hereby established as the Floodplain Overlay District, as identified in the
@@ -15346,7 +15453,7 @@ shall elapse between the date of this publication and the public hearing.
 of Natural Resources and the Federal Emergency Management Agency for review and
 approval before being adopted.
 (Ord. 770, passed 5-21-2024)
-FLOODPLAIN MANAGEMENT ADMINISTRATION
+**** FLOODPLAIN MANAGEMENT ADMINISTRATION ****
 § 155.30 DESIGNATION OF FLOODPLAIN ADMINISTRATOR.
    The Mayor is hereby designated as the community’s local Floodplain
 Administrator. The Floodplain Administrator is authorized and directed to
@@ -15570,7 +15677,7 @@ remedied within an established and reasonable time.
 appropriate authority from taking such other lawful action as is necessary to
 prevent or remedy any violation.
 (Ord. 770, passed 5-21-2024)
-STANDARDS FOR FLOODPLAIN DEVELOPMENT
+**** STANDARDS FOR FLOODPLAIN DEVELOPMENT ****
 § 155.40 GENERAL PROVISIONS.
    (A)   Alteration or relocation of a watercourse.
       (1)   A watercourse or drainway shall not be altered or relocated in any
@@ -15830,7 +15937,7 @@ Zoning Regulations
 156.35   Regulations adopted
    
 156.36   City planning; designation of extraterritorial jurisdiction
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.01 COMPREHENSIVE PLAN; ADOPTED.
    In order to accommodate anticipated long-range future growth, the
 “Comprehensive Development Plan for the City of Lyons, Nebraska,” as prepared
@@ -15842,7 +15949,7 @@ during office hours.
 Ord. 738, passed 5-21-2020; Ord. 758, passed 7-11-2023)
 Statutory reference:
    Related provisions, see Neb. RS 18-132
-CITY LIMITS
+**** CITY LIMITS ****
 § 156.15 CITY LIMITS DEFINED.
    All additions, lots, lands, subdivisions, and parcels of ground included
 within the official City Map and plat on file at the office of the County
@@ -15933,7 +16040,7 @@ be subject to all the laws, ordinances, rules, and regulations of the city.
 (Prior Code, § 11-106)
 Statutory reference:
    Related provisions, see Neb. RS 19-916
-ZONING REGULATIONS
+**** ZONING REGULATIONS ****
 § 156.35 REGULATIONS ADOPTED.
    For the purpose of setting minimum standards to promote the public health,
 safety, morals, convenience, order, prosperity, and general welfare of the
@@ -15947,7 +16054,8 @@ pamphlet form, have been adopted by Ord. 758, passed July 11, 2023. One copy of
 the adopted Zoning Regulations shall be kept on file with the City Clerk and
 available for inspection by any member of the public during office hours.
 (Prior Code, § 11-301) (Ord. 477, passed 5-12-1992; Ord. 497, passed 4-5-1994;
-Ord. 626, passed 11-11-2002; Ord. 758, passed 7-11-2023)
+Ord. 626, passed 11-11-2002; Ord. 758, passed 7-11-2023; Ord. 781, passed 5-13-
+2025)
 Statutory reference:
    Related provisions, see Neb. RS 18-132 and 19-926
 § 156.36 CITY PLANNING; DESIGNATION OF EXTRATERRITORIAL JURISDICTION.
@@ -16118,8 +16226,7 @@ Ch. 16, Art. 9               95.64
 17-541                       31.10
                              52.30;
 17-542                       52.31;
-                             52.33;
-                             52.34
+                             52.33
 17-547                       93.01
 17-548                       93.26
 17-549                       92.10;
@@ -16185,9 +16292,8 @@ Ch. 16, Art. 9               95.64
 17-803                       35.11
                              54.03—
                              54.06;
-                             54.08;
-17-902                       54.09;
-                             54.11;
+17-902                       54.08;
+                             54.09;
                              54.12;
                              54.15
 17-902 through 17-904        54.01
@@ -16259,6 +16365,8 @@ Ch. 17, Art. 10              95.64
                              95.27
 18-1756                      35.03
 18-1801 through 18-1805      35.12
+18-2101 to 18-2158           32.06
+18-2101.01                   32.06
 18-2102.01                   32.02
 18-2715                      32.02
 18-2801                      35.25;
@@ -16314,7 +16422,6 @@ Ch. 17, Art. 10              95.64
                              95.64
 19-2701                      52.03;
                              54.03
-19-2702                      52.34
 19-2902                      35.02
 19-2903                      35.02
 19-2904                      35.02
@@ -16558,7 +16665,6 @@ Ch. 39                       73.99
 54-603(3)                    93.20
 54-605                       93.21
 54-606                       93.23
-54-607                       93.01
 54-907 through 54-912        93.05
 54-911                       93.05
 54-912                       93.05
@@ -16803,7 +16909,6 @@ Prior Code Section Code Section
 3-106              52.31
 3-107              52.32
 3-108              52.33
-3-109              52.34
 3-110              52.35
 3-111              52.05
 3-112              52.06
@@ -16841,7 +16946,6 @@ Prior Code Section Code Section
 3-209              51.09
 3-210              51.10
 3-211              51.11
-3-212              51.12
 3-213              51.13
 3-214              51.99
 3-302              32.31
@@ -16865,7 +16969,6 @@ Prior Code Section Code Section
 3-908              54.08
 3-909              54.09
 3-910              54.10
-3-911              54.11
 3-912              54.12
 3-913              54.13
 3-914              54.14
@@ -16881,7 +16984,6 @@ Prior Code Section Code Section
 3-1007             53.06
 3-1008             53.07
 3-1009             53.08
-3-1010             53.09
 3-1011             53.10
 3-1012             53.11
 3-1013             53.12
@@ -17330,9 +17432,6 @@ Ord. No. Date Passed Description
 666      7-1-2008    132.18
 667      7-1-2008    52.33
 669      7-15-2008   50.01
-670      9-2-2008    52.34
-671      9-2-2008    51.12
-673      9-2-2008    53.09
 675      5-5-2009    51.11
 676      5-5-2009    Ch. 75, Sched. II
 687      8-4-2009    72.14
@@ -17407,5 +17506,25 @@ Ord. No. Date Passed Description
 773      9-10-2024   TSO Table I
 774      9-10-2024   Ch. 74, Sched. I
 775      11-12-2024  TSO Table II
+777      1-14-2025   35.14
+779      3-11-2025   93.01
+780      4-17-2025   35.14
+781      5-13-025    156.35
+782      6-10-2025   Ch. 74, Sched. I
+783      9-16-2025   95.01;
+                     95.09
+784      9-16-2025   32.06
+785      1-6-2026    95.29
+786      9-16-2025   35.14
+                     50.02;
+787      10-9-2025   50.07;
+                     54.09
+788      12-9-2025   35.14
+789      12-9-2025   54.19
+790      12-9-2025   94.30,
+                     94.31
+791      12-9-2025   32.01
+793      1-6-2026    51.14
+794      1-6-2026    35.14
                     
  

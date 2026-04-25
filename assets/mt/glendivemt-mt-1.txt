@@ -400,7 +400,7 @@ City Council
 30.27   General powers
    
 30.28   Contracts
-MAYOR
+**** MAYOR ****
 § 30.01 QUALIFICATIONS.
    (A)   No person is eligible for the office of the Mayor unless he or she:
       (1)   Is at least 21 years old;
@@ -478,7 +478,7 @@ law.
 Statutory reference:
    For statute authority, see M.C.A. §§ 7-3-4101, 7-3-4102, 7-4-4303, 7-4-4305,
 7-4-4306, 7-5-4122, 7-5-4205 and 7-5-4206
-CITY COUNCIL
+**** CITY COUNCIL ****
 § 30.15 ELECTION.
    At each biennial municipal election, there shall be elected one City Council
 member from the First Ward, one City Council member from the Second Ward, one
@@ -856,7 +856,7 @@ Police Department
 35.35   Governing law
    
 35.36   Arrests outside city limits
-EMERGENCY MANAGEMENT
+**** EMERGENCY MANAGEMENT ****
 § 35.01 PLAN APPROVED.
    (A)   The county and city disaster and emergency services plan is hereby
 approved. This plan provided for an integrated city-county organization for
@@ -882,7 +882,7 @@ periods of emergency, such actions as are reasonably necessary to prevent or
 minimize loss of life or property, in cooperation with said Board of County
 Commissioners and the Disaster and Emergency Services Director of the county.
 (Prior Code, § 1-13-2)
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 35.15 COMPOSITION.
    The Fire Department of the city shall consist of a Chief of the Fire
 Department, an assistant Chief and such number of paid and part paid
@@ -939,7 +939,7 @@ intoxication, shall be discharged.
    No gambling shall be allowed in any building occupied by the Fire
 Department.
 (Prior Code, § 7-1-8)
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 35.35 GOVERNING LAW.
    The Police Department of the city shall be governed by the metropolitan
 police law as set forth in state law.
@@ -1093,7 +1093,7 @@ Landfill
  
    
 50.999   Penalty
-REGULATION AND FEES
+**** REGULATION AND FEES ****
 § 50.001 RESIDENTIAL GARBAGE FEES.
    (A)   Divided into types. The residences of the city are hereby divided into
 fair and reasonable types according to their structure and use for the purpose
@@ -1424,7 +1424,7 @@ safety or welfare. Those individuals and commercial establishments using city
 owned containers shall bear the complete responsibility of keeping the
 containers in a sanitary condition at all times.
 (Prior Code, § 4-2A-19) (Ord. 02-2002, passed 5-21-2002)
-COLLECTION AND DISPOSITION
+**** COLLECTION AND DISPOSITION ****
 § 50.030 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1614,7 +1614,7 @@ prosecution for a misdemeanor and punishable as provided in §
 10.99.
 (Prior Code, § 4-2B-18) (Ord. 04-2001, passed 3-20-2001) Penalty, see §
 50.999
-GARBAGE AND REFUSE
+**** GARBAGE AND REFUSE ****
 § 50.060 USE OF CONTAINERS REQUIRED.
    Every person having garbage on his or her premises shall place the same in
 garbage containers provided for that purpose.
@@ -1803,7 +1803,7 @@ cart or vehicle any part of the contents thereof which shall or may have
 fallen, dropped or been spilled from such cart or vehicle upon any street,
 public way or other place.
 (Prior Code, § 4-2C-8) (Ord. 47-85, passed 7-6-1993)
-LANDFILL
+**** LANDFILL ****
 § 50.080 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1935,7 +1935,7 @@ Public and Private Sewers and Drains
  
    
 51.99   Penalty
-SEWER SYSTEM RATES AND CHARGES
+**** SEWER SYSTEM RATES AND CHARGES ****
 § 51.01 OPERATION AND MAINTENANCE.
    (A)   Rates established. For the purpose of providing adequately for the
 operation and maintenance of the municipal sanitary sewer system, for the
@@ -2065,7 +2065,7 @@ until the charges have been due and unpaid for at least 30 days.
 to a customer for nonpayment of bills, service will be reinstated only after
 all bills for service then due have been paid, along with a turn-on charge in
 the sum of an amount as set forth by resolution of the City Council.
-PUBLIC AND PRIVATE SEWERS AND DRAINS
+**** PUBLIC AND PRIVATE SEWERS AND DRAINS ****
 § 51.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3306,7 +3306,7 @@ Trucked and Hauled Waste
  
    
 53.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 53.001 PURPOSE AND POLICY.
    (A)   This chapter sets forth uniform requirements for industrial users
 (“IUs”) of the publicly owned treatment works (“POTW”) for the city related to
@@ -3526,7 +3526,7 @@ liquid, and that is removable by laboratory filtering.
 commercial buildings, industrial and manufacturing facilities, and
 institutions, whether treated or untreated, which are contributed to the POTW.
 (Prior Code, § 10-2A-1-4) (Ord. 01-2016, passed 7-5-2016)
-GENERAL SEWER USE REQUIREMENTS
+**** GENERAL SEWER USE REQUIREMENTS ****
 § 53.015 PROHIBITED DISCHARGE STANDARDS.
    (A)   General prohibitions. No IU shall introduce or cause to be introduced
 into the POTW any pollutant which causes passthrough or interference. These
@@ -3729,7 +3729,7 @@ pollutants, including solvents and/or measures and equipment for emergency
 response; and
       (7)   Any other information as required by the POTW.
 (Prior Code, § 10-2A-6) (Ord. 01-2016, passed 7-5-2016)
-PRETREATMENT OF WASTEWATER
+**** PRETREATMENT OF WASTEWATER ****
 § 53.035 PRETREATMENT FACILITIES.
    (A)   IUs shall provide wastewater treatment, as necessary, to comply with
 this chapter and shall achieve compliance prior to discharge. Any facilities
@@ -3766,7 +3766,7 @@ maintained on the industrial user’s premises outside of the building.
    (D)   IUs with the potential to discharge flammable substances may be
 required to install and maintain an approved combustible gas detection meter.
 (Prior Code, § 10-2A-3-2) (Ord. 01-2016, passed 7-5-2016)
-NOTIFICATION AND REPORTING
+**** NOTIFICATION AND REPORTING ****
 § 53.050 INDUSTRIAL USER QUESTIONNAIRE.
    If the POTW deems it necessary to assure compliance with the provisions of
 this chapter, any IU of the POTW may be required to submit a wastewater
@@ -3847,7 +3847,7 @@ by the user for a minimum period of three years, shall be made immediately
 available upon request of the POTW at any time during the three-year period or
 so long as actually retained.
 (Prior Code, § 10-2A-5) (Ord. 01-2016, passed 7-5-2016)
-COMPLIANCE AND ENFORCEMENT
+**** COMPLIANCE AND ENFORCEMENT ****
 § 53.070 TIME FOR COMPLIANCE.
    All existing IUs must come into compliance with the terms of this chapter
 upon the effective date.
@@ -3893,7 +3893,7 @@ any additional duties.
    (B)   Denial of access shall constitute a violation of this chapter.
 (Prior Code, § 10-2A-7-3) (Ord. 01-2016, passed 7-5-2016) Penalty, see §
 53.999
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 53.085 NOTIFICATION OF VIOLATION.
    (A)   When the POTW finds that an IU has violated, or continues to violate,
 any provision of this chapter or any other pretreatment standard or
@@ -3959,7 +3959,7 @@ conduct environmental remediation. A petition for injunctive relief shall not
 be a bar against, or a prerequisite for, taking any other action against an
 industrial user.
 (Prior Code, § 10-2A-8-5) (Ord. 01-2016, passed 7-5-2016)
-TRUCKED AND HAULED WASTE
+**** TRUCKED AND HAULED WASTE ****
 § 53.100 HAULED WASTEWATER.
    (A)   The POTW may prohibit the discharge of trucked/hauled septic tank
 waste, industrial waste and RV waste to the POTW.
@@ -4589,7 +4589,7 @@ Bicycles
  
    
 72.99   Penalty
-BICYCLES
+**** BICYCLES ****
 § 72.01 APPLICABILITY.
    These regulations applicable to bicycles shall apply whenever a bicycle is
 operated upon any public thoroughfare.
@@ -4777,7 +4777,7 @@ Weeds
 90.25   Service of notice
    
 90.26   Forced compliance; assessment
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 “NUISANCE” DEFINED.
    (A)   For the purpose of this chapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4911,7 +4911,7 @@ thereafter such nuisance is abated, city personnel shall prepare and file with
 the County Clerk and County Recorder a certificate stating that such nuisance
 has been abated and indicating the method of abatement.
 (Prior Code, § 4-1-8) (Ord. 01-2011, passed 12-6-2011)
-WEEDS
+**** WEEDS ****
 § 90.20 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5217,7 +5217,7 @@ Fireworks
  
    
 92.99   Penalty
-FIRE CODE
+**** FIRE CODE ****
 § 92.01 ADOPTION.
    The current edition of the Fire Code and all accompanying appendices,
 amendments and modification adopted by the Fire Marshal’s Bureau, State
@@ -5368,7 +5368,7 @@ wrongly interpreted, the applicant may appeal from the decision of the Fire
 Chief to the City Council within 30 days from the date of the decision
 appealed.
 (Prior Code, § 7-2-8) (Ord. 02-99, passed 2-1-1999)
-RESTRICTED AREAS AT FIRES
+**** RESTRICTED AREAS AT FIRES ****
 § 92.20 ESTABLISHED.
    Whenever a fire incident occurs within the city, the senior fire officer of
 the Fire Department may prescribe the boundaries in the vicinity of any fire
@@ -5386,7 +5386,7 @@ of the senior fire officer at any fire incident.
 so designated by the Chief of the Fire Department or officer in charge.
 (Prior Code, § 7-3-3) Penalty, see §
 92.99
-FIREWORKS
+**** FIREWORKS ****
 § 92.35 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5598,7 +5598,7 @@ Cats
  
    
 94.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 DEFECATION.
    (A)   Removal. An owner or person having custody of any dog or any other
 animal shall not permit said dog or other animal to defecate on any school
@@ -5735,7 +5735,7 @@ other building, or from outside of the city into the city, with the intent that
 such animal shall be impounded.
 (Prior Code, § 5-3A-5) (Ord. 04-2002, passed 5-21-2002) Penalty, see §
 94.99
-DOGS
+**** DOGS ****
 § 94.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5934,7 +5934,7 @@ as provided in §
 Cross-reference:
    Vicious animals generally, see §
 94.05
-CATS
+**** CATS ****
 § 94.45 LICENSE REQUIRED.
    (A)   Required. In the event any cat, excepting those under the age of six
 months, is brought within the city within the license year, the owner or person
@@ -6061,7 +6061,7 @@ Gaming
  
    
 110.99   Penalty
-GAMING
+**** GAMING ****
 § 110.01 SHORT TITLE.
    This subchapter may be cited as the Glendive Gaming Ordinance.
 (Prior Code, § 3-3-1)
@@ -6390,7 +6390,7 @@ Special Beer and Table Wine Permit
  
    
 112.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 112.001 DEFINITIONS.
    For the purpose of this chapter, the words LIQUOR, BEER and WINE shall be
 defined in accordance with the definitions given in the State Alcoholic
@@ -6505,7 +6505,7 @@ and a misdemeanor for any person to engage in any public display or exhibition
 of beer or liquor, as herein defined within the city limits.
 (Prior Code, § 3-1-6) (Ord. 33-85, passed 5-7-1990) Penalty, see §
 112.999
-BEER AND WINE
+**** BEER AND WINE ****
 § 112.020 DEFINITIONS.
    For the purpose of this subchapter, the definition of words and terms
 contained in the State Alcoholic Beverage Code are adopted as fixing the
@@ -6737,7 +6737,7 @@ adopted in aid of such police powers and regulations.
 licensees under the terms of this subchapter as are set forth in §
 112.058.
 (Prior Code, § 3-1A-15)
-LIQUOR
+**** LIQUOR ****
 § 112.045 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6944,7 +6944,7 @@ shall be immediately reported to the State Department of Revenue with a request
 that the Department of Revenue suspend or revoke the liquor license issued by
 the state.
 (Prior Code, § 3-1B-14)
-SPECIAL BEER AND TABLE WINE PERMIT
+**** SPECIAL BEER AND TABLE WINE PERMIT ****
 § 112.070 SPECIAL PERMIT REQUIRED.
    Any association or corporation conducting a picnic, convention, fair, civic
 community enterprise, or sporting event, in the city, shall, in the discretion
@@ -7182,7 +7182,7 @@ Swimming Pools
  
    
 150.99   Penalty
-CODES ADOPTED
+**** CODES ADOPTED ****
 § 150.01 BUILDING CODES.
    The current editions of the Building Codes and all accompanying appendices,
 amendments and modifications adopted by the Building Codes Bureau, State
@@ -7232,7 +7232,7 @@ herein as fully as if set out at length, and from the date of which this
 chapter shall take effect, the provisions thereof shall be controlling within
 the limits of the city.
 (Prior Code, § 9-2-1)
-PLUMBING
+**** PLUMBING ****
 § 150.15 APPLICABILITY.
    This subchapter shall not apply to or affect plumbing or pipe fitting in any
 railroad or oil industry.
@@ -7251,7 +7251,7 @@ all current State Plumbing Codes and regulations.
    All buildings in which there is human occupancy or employment located within
 100 feet of a public sewer shall be connected to such public sewer.
 (Prior Code, § 9-3-4)
-TRAILERS AND TRAILER COURTS
+**** TRAILERS AND TRAILER COURTS ****
 § 150.30 COMPLIANCE WITH STATUTE.
    Tourist campgrounds and trailer courts shall comply with M.C.A. §§ 50-52-101
 through 50-52-303 and 70-24-311.
@@ -7274,7 +7274,7 @@ parked, located or stationed within the city except in a duly authorized
 trailer court.
 (Prior Code, § 9-4-4) Penalty, see §
 150.99
-SWIMMING POOLS
+**** SWIMMING POOLS ****
 § 150.45 APPLICABILITY; COMPLIANCE.
    No person shall erect, construct, enlarge, alter, repair, improve, convert,
 equip, use or maintain any private swimming pool in the city, or cause or
@@ -7463,7 +7463,7 @@ Special Improvement Districts
  
    
 151.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.001 DEPOSITING MATERIALS ON PUBLIC WAYS.
    (A)   Permit required. Any person, firm, association or corporation,
 desiring to place, dump, push upon or deposit any material, including ice and
@@ -7475,7 +7475,7 @@ permit.
 material herein referred to does not include any of the material set forth and
 included in Chapter 50, more commonly referred to as the garbage ordinance.
 (Prior Code, § 8-8-2)
-SIDEWALKS AND CURB
+**** SIDEWALKS AND CURB ****
 § 151.015 CONSTRUCTION SUPERVISION.
    The construction of concrete driveways and concrete crosswalks used for
 private purposes, constructed, reconstructed or laid within the street rights-
@@ -7680,7 +7680,7 @@ owner of property for any taxes or assessments levied for the purpose of
 constructing, repairing or removing any curbs or sidewalks or obstructions
 therefrom.
 (Prior Code, § 8-1-16) (Ord. 01-2001, passed 3-20-2001)
-CONSTRUCTION OF CURB CUTS AND DRIVEWAYS
+**** CONSTRUCTION OF CURB CUTS AND DRIVEWAYS ****
 § 151.045 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7844,7 +7844,7 @@ property owners. Extension of property frontage is to be determined by
 projecting lines at right angles from the street centerline to the intersection
 of the abutting property lines with the street right-of-way.
 (Prior Code, § 8-2-5) (Ord. 02-2001, passed 3-20-2001)
-SIDEWALK REQUIREMENTS
+**** SIDEWALK REQUIREMENTS ****
 § 151.060 AWNINGS.
    (A)   Required height. All awnings hung so as to project over any part of
 sidewalks or other walks or roads used for travel by pedestrians shall be at
@@ -7918,7 +7918,7 @@ height of seven feet as measured from the surface of the adjacent sidewalk,
 walkway or top of curb.
 (Prior Code, § 8-3-8) Penalty, see §
 151.999
-TRENCH BACKFILL AND STREET RESTORATION
+**** TRENCH BACKFILL AND STREET RESTORATION ****
 § 151.080 DEFINITIONS; REFERENCES; STANDARD DRAWINGS.
    (A)   Definitions. For the purpose of this subchapter, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -8263,7 +8263,7 @@ excavate any street, avenue or alley in the city shall file a certificate of
 insurance or its equivalent with the city providing public liability coverage
 which limits are set by resolution.
 (Prior Code, § 8-4-15) (Ord. 74-85, passed 6-2-1997)
-POLES, WIRES AND PIPES
+**** POLES, WIRES AND PIPES ****
 § 151.105 DESIGNATION OF LOCATION.
    All poles, pipes, conduits or mains of any description which shall be
 placed, located in, along, under or upon any of the streets, avenues or public
@@ -8334,7 +8334,7 @@ stringing of wires along, in, upon or through its streets, avenues or alleys
 and the laying, maintenance and operation of pipes, conduits or mains under any
 of its streets, avenues or alleys as may from time to time appear necessary.
 (Prior Code, § 8-5-6)
-SPECIAL IMPROVEMENT DISTRICTS
+**** SPECIAL IMPROVEMENT DISTRICTS ****
 § 151.125 APPLICATION.
    (A)   Form. Applications for consideration for approval by the City Council
 of special improvement districts shall be made in the form and according to the
@@ -9244,7 +9244,7 @@ Floodproofing Requirements
  
    
 154.99   Penalty
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 154.01 TITLE AND PURPOSE.
    (A)   Title. This chapter shall be known and cited as the Glendive
 Floodplain Regulations.
@@ -9520,7 +9520,7 @@ Zone floodplain boundary when there is a conflict between a mapped boundary and
 actual field conditions.
 (Prior Code, § 12-6-1) (Ord. 61-85, passed 1-2-1996) Penalty, see §
 154.99
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 154.25 ADMINISTRATION.
    (A)   Floodplain Administrator. As provided in §
 154.05, the Floodplain Administrator has been designated by the City Council
@@ -9733,7 +9733,7 @@ or subdivisions located within floodprone areas. This plan should be developed,
 filed with and approved by appropriate community emergency management
 authorities.
 (Prior Code, § 12-4-8) (Ord. 61-85, passed 1-2-1996)
-SPECIFIC STANDARDS
+**** SPECIFIC STANDARDS ****
 § 154.45 APPLICABILITY.
    The minimum floodplain development standards listed in this subchapter apply
 to the floodway and floodway fringe portions of the 100-year floodplain as
@@ -10053,7 +10053,7 @@ make interpretations where needed as to the exact location of an AO Zone
 floodplain boundary when there is a conflict between a mapped boundary and
 actual field conditions.
 (Prior Code, § 12-5-5) (Ord. 61-85, passed 1-2-1996)
-FLOODPROOFING REQUIREMENTS
+**** FLOODPROOFING REQUIREMENTS ****
 § 154.60 CERTIFICATION.
    If the following floodproofing requirements are to be applied to a proposed
 structure, as stipulated by the Floodplain Administrator in accordance with
@@ -10367,7 +10367,7 @@ Amendments
  
    
 155.999   Penalty
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 155.001 TITLE, PURPOSE, APPLICATION.
    (A)   Title. This chapter shall be known as the Zoning Ordinance of the City
 of Glendive and shall be referred to herein as “this chapter.”
@@ -10801,7 +10801,7 @@ this chapter, unless otherwise noted.
 designating the zoning districts.
 (Prior Code, § 11-2-2) (Ord. 09-2002, passed 5-21-2002; Ord. 02-2024, passed 3-
 5-2024)
-DISTRICTS GENERALLY
+**** DISTRICTS GENERALLY ****
 § 155.015 ESTABLISHMENT OF DISTRICTS.
    For the purpose of promoting the public health, safety, morals and general
 welfare of the city, the city jurisdictional area is hereby divided into the
@@ -11110,7 +11110,7 @@ they approximately follow shorelines, such shorelines shall be construed to be
 said boundaries and, in the event of change in the shoreline, such boundaries
 shall be construed as moving with the actual shoreline.
 (Prior Code, § 11-3-5) (Ord. 09-2002, passed 5-21-2002)
-AG AGRICULTURAL DISTRICT
+**** AG AGRICULTURAL DISTRICT ****
 § 155.030 PERMITTED USES.
    In AG Agricultural Districts, no building or premises shall be used and no
 building shall be hereafter erected or structurally altered except for one of
@@ -11176,7 +11176,7 @@ foot of height of the structure, but in no event less than ten feet.
 housing, keeping or sheltering livestock or fowl shall be set back a distance
 of 100 feet from any property line and 50 feet from any dwelling.
 (Prior Code, § 11-3A-4) (Ord. 09-2002, passed 5-21-2002)
-AR AGRICULTURAL RESIDENTIAL DISTRICT
+**** AR AGRICULTURAL RESIDENTIAL DISTRICT ****
 § 155.045 PERMITTED USES.
    In AR Agricultural Residential Districts, no building or premises shall be
 constructed or structurally altered except for one of the following purposes:
@@ -11245,7 +11245,7 @@ be side yards of not less than ten feet on each side of a lot.
 housing, keeping or sheltering livestock or fowl shall be setback a distance of
 50 feet from any property line and 50 feet from any dwelling.
 (Prior Code, § 11-3B-4) (Ord. 09-2002, passed 5-21-2002)
-R-1 ONE-FAMILY RESIDENTIAL DISTRICT
+**** R-1 ONE-FAMILY RESIDENTIAL DISTRICT ****
 § 155.060 PERMITTED USES.
    In R-1 One-Family Residential Districts, no buildings or premises shall be
 used and no building shall be hereafter erected or structurally altered except
@@ -11342,7 +11342,7 @@ property.
    (B)   Minimum size structure. A new residence must be a minimum of 800
 square feet.
 (Prior Code, § 11-3C-5) (Ord. 02-2014, passed 12-2-2014)
-R-2 ONE-FAMILY AND TWO-FAMILY RESIDENTIAL DISTRICT
+**** R-2 ONE-FAMILY AND TWO-FAMILY RESIDENTIAL DISTRICT ****
 § 155.075 PERMITTED USES.
    In R-2 One-Family and Two-Family Dwelling Districts, no building or premises
 shall be used and no building shall be hereafter erected or structurally
@@ -11393,7 +11393,7 @@ property.
    (B)   Minimum size structure. A new residence must be a minimum of 800
 square feet.
 (Prior Code, § 11-3D-5) (Ord. 02-2014, passed 12-2-2014)
-R-3 MULTIPLE-FAMILY DWELLING DISTRICT
+**** R-3 MULTIPLE-FAMILY DWELLING DISTRICT ****
 § 155.090 PERMITTED USES.
    In R-3 Multiple-Family Dwelling Districts, no building or premises shall be
 used, and no building shall be hereafter erected or structurally altered except
@@ -11551,7 +11551,7 @@ every accessory building there shall be a rear yard of not less than five feet.
 be side yards of not less than five feet on each side of the lot, except for
 multi-family dwellings which will be eight feet.
 (Prior Code, § 11-3E-4) (Ord. 09-2002, passed 5-21-2002)
-R-4 MULTIPLE-FAMILY DWELLING AND TOWNHOUSES
+**** R-4 MULTIPLE-FAMILY DWELLING AND TOWNHOUSES ****
 § 155.105 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11794,7 +11794,7 @@ the time of development. Further, a legal subdivision plat shall be placed in
 the public records of the county prior to the issuance of any building permit
 within such townhouse development.
 (Prior Code, § 11-3F-14) (Ord. 09-2002, passed 5-21-2002)
-RP RESIDENTIAL PROFESSIONAL
+**** RP RESIDENTIAL PROFESSIONAL ****
 § 155.130 DESCRIPTION.
    An RP Residential District is a district permitting professional and
 semiprofessional uses compatible with surrounding residential development.
@@ -11840,7 +11840,7 @@ feet from any accessory use.
    (E)   Minimum side yard. Measured from the real property line, there shall
 be a side yard of not less than five feet.
 (Prior Code, § 11-3G-5) (Ord. 09-2002, passed 5-21-2002)
-NCL NEIGHBORHOOD COMMERCIAL LIMITED
+**** NCL NEIGHBORHOOD COMMERCIAL LIMITED ****
 § 155.145 DESCRIPTION.
    An NCL Neighborhood Commercial Limited District shall be a personal service
 convenience retail district, limited in size and land use.
@@ -11881,7 +11881,7 @@ shall be a front yard of not less than 20 feet.
    (E)   Minimum side yard. Requirement of side yard of five feet except that
 there shall be a side yard of ten feet on corner lots.
 (Prior Code, § 11-3H-4) (Ord. 09-2002, passed 5-21-2002)
-C-1 GENERAL COMMERCIAL DISTRICT
+**** C-1 GENERAL COMMERCIAL DISTRICT ****
 § 155.160 PERMITTED USES.
    In C-1 General Commercial Districts, no building or premises shall be used,
 and no building shall be hereafter erected or structurally altered except for
@@ -11983,7 +11983,7 @@ contained in §§
 which case there shall be a side yard of not less than ten feet on the street
 side.
 (Prior Code, § 11-3I-3) (Ord. 09-2002, passed 5-21-2002)
-C-2 CENTRAL BUSINESS DISTRICT
+**** C-2 CENTRAL BUSINESS DISTRICT ****
 § 155.175 PERMITTED USES.
    In C-2 Central Business District zones, no building or premises shall be
 used, and no building shall be hereafter erected or structurally altered except
@@ -12035,7 +12035,7 @@ contained in §§
 155.240 through
 155.245.
 (Prior Code, § 11-3J-3) (Ord. 09-2002, passed 5-21-2002)
-C-3 HIGHWAY COMMERCIAL DISTRICT
+**** C-3 HIGHWAY COMMERCIAL DISTRICT ****
 § 155.190 PERMITTED USES.
    In C-3 Highway Commercial District, no building or premises shall be used,
 and no building shall be hereafter erected or structurally altered except for
@@ -12089,7 +12089,7 @@ contained in §§
 which case there shall be a side yard of not less than 15 feet on the street
 side.
 (Prior Code, § 11-3K-3) (Ord. 09-2002, passed 5-21-2002)
-M-1 LIGHT INDUSTRIAL DISTRICT
+**** M-1 LIGHT INDUSTRIAL DISTRICT ****
 § 155.205 PERMITTED USES.
    In M-1 Light Industrial Districts, no building or premises shall be used,
 and no building shall be hereafter erected or structurally altered except for
@@ -12211,7 +12211,7 @@ being M.C.A. §§ 16-12-102 et seq. and all applicable federal laws and
 regulations.
 (Prior Code, § 11-3L-7) (Ord. 01-2018, passed 8-7-2018) Penalty, see §
 155.999
-M-3 HEAVY INDUSTRIAL DISTRICT
+**** M-3 HEAVY INDUSTRIAL DISTRICT ****
 § 155.225 PERMITTED USES.
    In M-2 Heavy Industrial Districts, no building or premises shall be used and
 no building shall be thereafter erected or structurally altered except for one
@@ -12288,7 +12288,7 @@ contained in §§
 155.240 through
 155.245.
 (Prior Code, § 11-3M-4) (Ord. 09-2002, passed 5-21-2002)
-SPECIAL REGULATIONS
+**** SPECIAL REGULATIONS ****
 § 155.240 OFF-STREET PARKING REQUIREMENTS.
    (A)   Intent. The intent of this subchapter is to reduce traffic congestion
 and the need for parking on streets and the hazards caused thereby and to
@@ -12804,7 +12804,7 @@ view triangle shall be maintained no higher than three feet above the
 established top of curb grade.
 (Prior Code, § 11-4-6) (Ord. 09-2002, passed 5-21-2002; Ord. 02-2024, passed 3-
 5-2024)
-PLANNED UNIT DEVELOPMENT
+**** PLANNED UNIT DEVELOPMENT ****
 § 155.260 PURPOSE.
    The purpose of the planned unit development zone (PUD) is to permit
 flexibility in the design and development of larger tracts of land that are in
@@ -12873,7 +12873,7 @@ and
 whether in its judgment the foregoing provisions have been satisfied and, if
 not, whether they can be satisfied with further revision of the plan.
 (Prior Code, § 11-5-3) (Ord. 09-2002, passed 5-21-2002)
-NONCONFORMING USES
+**** NONCONFORMING USES ****
 § 155.275 INTENT.
    The provisions of this subchapter shall apply to buildings, structures,
 lands and uses which became nonconforming as a result of the application of
@@ -12989,7 +12989,7 @@ restoring to a safe condition of any building or part thereof declared to be
 unsafe by any official charged with protecting the public safety, upon order of
 such official.
 (Prior Code, § 11-6-6) (Ord. 09-2002, passed 5-21-2002)
-BOARD OF ADJUSTMENT
+**** BOARD OF ADJUSTMENT ****
 § 155.295 CREATED.
    A Board of Adjustment is hereby created for the city.
 (Prior Code, § 11-7-1)
@@ -13252,7 +13252,7 @@ within a period of one year from the date of denial, except upon the initiation
 of the Board of Adjustment after a showing of a change of circumstances which
 would warrant a rehearing.
 (Prior Code, § 11-7-14)
-ZONING COMMISSION
+**** ZONING COMMISSION ****
 § 155.320 CREATED.
    There is hereby created for the city a Zoning Commission, consisting of the
 City-County Planning Board, pursuant to M.C.A. § 76-1-108. The City-County
@@ -13285,7 +13285,7 @@ comprehensive plan and the intent of this chapter;
    (E)   Such other factors as the Commission may deem pertinent to the
 petition.
 (Prior Code, § 11-8-4)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 155.335 METHODS OF ADMINISTRATION.
    The provisions of the title shall be administered and enforced by the City
 Council and City Attorney. The following methods shall be employed:
@@ -13337,7 +13337,7 @@ full, nor shall any action be taken on proceedings before the Board of
 Adjustment, unless or until preliminary charges and fees have been paid in full
 to the Finance Clerk-Treasurer.
 (Prior Code, § 11-9-4)
-AMENDMENTS
+**** AMENDMENTS ****
 § 155.350 APPLICATION PROCEDURE.
    (A)   Initiation. Application for amendment of the zoning ordinance map or
 text may be initiated at the request of the following:

@@ -7,7 +7,7 @@ Published by:
 American Legal Publishing
 525 Vine Street Suite 310 Cincinnati, Ohio 45202
 1-800-445-5588 www.amlegal.com
-PREFACE
+**** PREFACE ****
    The Chinook Municipal Code, originally published by Book Publishing in 1975,
 has been kept current by regular supplementation.
    During original codification, the ordinances were compiled, edited and
@@ -2579,12 +2579,12 @@ Chapter:
    VIII.   WEAPONS
    
 9.76   Discharging Firearms
-I. OFFENSES BY OR AGAINST PUBLIC OFFICERS AND GOVERNMENT*
-(RESERVED)
-II. OFFENSES AGAINST THE PERSON (RESERVED)
+**** I. OFFENSES BY OR AGAINST PUBLIC OFFICERS AND GOVERNMENT*
+(RESERVED) ****
+**** II. OFFENSES AGAINST THE PERSON (RESERVED) ****
    For provisions relating to false fire alarms, see
 Chapter 2.12 of this code.
-III. OFFENSES AGAINST PUBLIC DECENCY
+**** III. OFFENSES AGAINST PUBLIC DECENCY ****
 Chapter 9.20
 CONSUMING INTOXICATING LIQUOR IN PUBLIC
 Sections:
@@ -2616,7 +2616,7 @@ beverage is being used and consumed by such person.
 of not more than five hundred dollars and/or imprisonment of not more than six
 months.
 (Ord. 346 § 3; 1976).
-IV. OFFENSES AGAINST PUBLIC PEACE
+**** IV. OFFENSES AGAINST PUBLIC PEACE ****
 Chapter 9.32
 JUKEBOXES —OTHER MUSICAL INSTRUMENTS *
 Sections:
@@ -2642,12 +2642,12 @@ refuses to comply with the terms thereof shall be punished according to the
 provisions set out in
 Chapter 1.20 of this code.
 (Ord. 336 § 1(part), 1975; Ord. 210 § 3, 1946).
-V. OFFENSES AGAINST PROPERTY (RESERVED)
-VI. CONSUMER PROTECTION (RESERVED)
+**** V. OFFENSES AGAINST PROPERTY (RESERVED) ****
+**** VI. CONSUMER PROTECTION (RESERVED) ****
    For statutory provisions authorizing the city council to prevent and punish
 loud noises and acts or conduct calculated to disturb the peace, see RCM § 11-
 927.
-VII. OFFENSES BY OR AGAINST MINORS
+**** VII. OFFENSES BY OR AGAINST MINORS ****
 Chapter 9.64
 CURFEW
 Sections;
@@ -2704,7 +2704,7 @@ sum not less than five dollars and not to exceed fifty dollars, or be
 imprisoned in the city jail for a period not to exceed twentyfive days, or both
 such fine and imprisonment for each offense.
 (Ord. 416 (part), 1988: Ord. 261 § 3, 1958).
-VIII. WEAPONS
+**** VIII. WEAPONS ****
 Chapter 9.76
 DISCHARGING FIREARMS
 Sections:
@@ -3596,7 +3596,7 @@ Sections
 10.24.050   Violation—Penalty.
 10.24.060   Records of conviction.
 10.24.070   Reckless driving—Penalty for violation.
-10.24.010   Under the influence—Driving prohibited.
+** 10.24.010   Under the influence—Driving prohibited. **
    It is unlawful and punishable as provided in Section
 10.24.050 for any person who is under the influence of intoxicating liquor to
 drive or be in actual physical control of any motor vehicle upon the streets of
@@ -4392,7 +4392,7 @@ II.   MOTORCYCLES
 10.48.140   Driving motorcycles in traffic lanes.
 III.   VIOLATIONS
 10.48.150   Penalty.
-I. BICYCLES
+*** I. BICYCLES ***
 10.48.010   Application.
    The regulations of this chapter applicable to bicycles shall apply whenever
 a bicycle is operated upon any street or upon any path set aside for the
@@ -4462,7 +4462,7 @@ in addition to the red reflector.
    B.   Every bicycle shall be equipped with a brake which will enable the
 operator to make the braked wheels skid on dry, level, clean pavement.. (Ord.
 321 Art. 8 Part 1 § 10, 1974) .
-II. MOTORCYCLES
+*** II. MOTORCYCLES ***
 10.48.110   Motorcycle—Defined.
    "Motorcycle,11 when used in this chapter, shall include motor-driven cycles,
 as that term is defined in Section
@@ -4500,7 +4500,7 @@ as to deprive any other vehicle of the full use of a traffic lane, except that
 motorcycles may, with the consent of both drivers, be operated not more than
 two abreast in a single traffic lane.
 (Ord. 321 Art. 8 Part 2 § 4, 1974).
-III. VIOLATIONS
+*** III. VIOLATIONS ***
 10.48.150   Penalty.
    Any person violating a provision of this chapter for which another penalty
 has not been provided shall, upon conviction thereof, be punished as set forth
@@ -5149,7 +5149,7 @@ Chapters:
 13.32   Sewage Disposal System
 13.36   Sanitary District
 13.40   Procedure for Determining Equitable Wastewater System Service Charges
-I. WATER
+***** I. WATER *****
 Chapter 13.04
 WATER REGULATIONS
 Sections:
@@ -5352,7 +5352,7 @@ occupied by a tenant of the owner, and if the owner has provided the city with
 the tenant’s name and mailing address, then the city will send any notices of
 discontinuance of water service to both the owner and the tenant.
 (Ord. 529 §1, 2017: Ord. 251 §2, 1955).
-II. SEWERS
+***** II. SEWERS *****
 Chapter 13.28
 SEWER RULES AND REGULATIONS*
    Prior ordinance history: Ord. 239.
@@ -5414,7 +5414,7 @@ ARTICLE VIII. PENALTIES
 13.28.430   Violation—Written notice.
 13.28.440   Violation—Misdemeanor—Fine.
 13.28.450   Violation—Liability.
-ARTICLE I. DEFINITIONS
+*** ARTICLE I. DEFINITIONS ***
 13.28.010   Definitions.
    Unless the context specifically indicates otherwise, the meaning of terms
 used in this chapter shall be as follows:
@@ -5506,7 +5506,7 @@ or "water pollutant control plant."
 "Watercourse" means a natural or artificial channel for the passage of water
 either continuously or intermittently.
 (Ord. 360 Art. I, §§l--28, 1980).
-ARTICLE II. USE OF PUBLIC SEWERS REQUIRED
+*** ARTICLE II. USE OF PUBLIC SEWERS REQUIRED ***
 13.28.020   Deposit of objectionable waste unlawful.
    It is unlawful for any person to place, deposit or permit to be deposited in
 any unsanitary manner on public or private property within the city, or in any
@@ -5536,7 +5536,7 @@ in accordance with the provisions of this chapter, within three hundred
 sixtyfive days after date of official notice to do so; provided, that said
 public sewer is within three hundred fifty feet of the property line.
 (Ord. 360 Art. II, § 4, 1980).
-ARTICLE III. PRIVATE WASTEWATER DISPOSAL SYSTEMS
+*** ARTICLE III. PRIVATE WASTEWATER DISPOSAL SYSTEMS ***
 13.28.060   Compliance with article.
    Where a public sanitary or combined sewer is not available under the
 provisions of Section
@@ -5589,7 +5589,7 @@ a licensed operator with the sludge disposed of in a state-approved facility.
 any additional requirements that may be imposed by the county, state or federal
 regulations.
 (Ord. 360 Art. Ill, § 7, 1980).
-ARTICLE IV. SANITARY SEWERS, BUILDING SEWERS AND CONNECTIONS
+*** ARTICLE IV. SANITARY SEWERS, BUILDING SEWERS AND CONNECTIONS ***
 13.28.130   Permit required.
    No unauthorized person(s) shall uncover, make any connections with or
 opening into, use, alter or disturb any public sewer or appurtenance thereof
@@ -5724,7 +5724,7 @@ with barricades and lights so as to protect the public from hazard. Streets,
 sidewalks, parkways and other public property disturbed in the course of the
 work shall be restored in a manner satisfactory to the city.
 (Ord. 360 Art. IV, § 14, 1980).
-ARTICLE V. USE OF PUBLIC SEWERS
+*** ARTICLE V. USE OF PUBLIC SEWERS ***
 13.28.270   Discharge of unpolluted waters to sewer prohibited.
    No person(s) shall discharge or cause to be discharged any unpolluted waters
 such as stormwater, surface water, groundwater, roof runoff, subsurface
@@ -5916,7 +5916,7 @@ special agreement or arrangement between the city and any industrial concern
 whereby an industrial waste of unusual strength or character may be accepted by
 the city for treatment.
 (Ord. 360 Art. V, § 11, 1980).
-ARTICLE VI. PROTECTION OF MATERIALS
+*** ARTICLE VI. PROTECTION OF MATERIALS ***
 13.28.380   Protection of materials.
    No person(s) shall maliciously, wilfully or negligently break, damage,
 destroy, uncover, deface or tamper with any structure, appurtenance or
@@ -5924,7 +5924,7 @@ equipment which is a part of the wastewater facilities.
    Any person(s) violating this provision shall be subject to immediate arrest
 under charge of disorderly conduct.
 (Ord. 360 Art. VI, § 1, 1980).
-ARTICLE VII. POWERS AND AUTHORITY OF INSPECTORS
+*** ARTICLE VII. POWERS AND AUTHORITY OF INSPECTORS ***
 13.28.390   Entry for inspection.
    The director of public works and other duly authorized employees of the city
 bearing proper Credentials and identification shall be permitted to enter all
@@ -5965,7 +5965,7 @@ lying within said easement.
 full accordance with the terms of the duly negotiated easement pertaining to
 the private property involved.
 (Ord. 360 Art. VII, § 4, 1980).
-ARTICLE VIII. PENALTIES
+*** ARTICLE VIII. PENALTIES ***
 13.28.430   Violation—Written notice.
    Any person found to be violating any provision of this chapter except
 Article VI shall be served by the city with written notice stating the nature
@@ -6822,9 +6822,7 @@ zone in which it is to be installed, as in the case of other homes.
 (Ord. 469 § 1, 1997; Ord. 192 § 5, 1939).
    Editor's note: At the time of codification Ord. 183 was being revised and
 was not codified. Copies are on file in the office of the city clerk.
-15.20.060   Violation of Sections
-15.20.010 through
-15.20.050--Penalty.
+15.20.060   Violation of Sections 15.20.010 through 15.20.050--Penalty.
    Any person, firm or corporation who violates any of the provisions of
 Sections
 15.20.010 through
@@ -6844,8 +6842,7 @@ regulations of the State Board of Health, as adopted by said board under
 authority of Section 69-113, Revised Codes of Montana of 1947, as said
 regulations now exist, or as the same may be hereafter amended or modified.
 (Ord. 263 § 2, 1958).
-15.20.090   Violation of Sections
-15.20.070 and 15. 20.080—Penalty.
+15.20.090   Violation of Sections 15.20.070 and 15. 20.080—Penalty.
    Any person, firm or corporation who violates the provisions of Section
 15.20.070 and
 15.20.080, upon conviction thereof, shall be punished by a fine not exceeding
