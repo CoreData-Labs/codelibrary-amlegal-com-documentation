@@ -101,7 +101,7 @@ Manager
 Finance Director
  
 PRELIMINARY UNIT
-COMPARATIVE SECTION TABLE
+***** COMPARATIVE SECTION TABLE *****
 EDITOR'S NOTE; Source material for the 1989 Codified Ordinances of East
 Palestine was ordinances and resolutions enacted by Council or new matter
 ordained by the Adopting Ordinance. Sections and subsections of the 1989
@@ -2672,7 +2672,7 @@ Adopting Ordinance                    452.04,
                                        698.02
                                       
  
-TABLES OF SPECIAL ORDINANCES
+***** TABLES OF SPECIAL ORDINANCES *****
    EXPLANATION OF TABLES OF SPECIAL ORDINANCES
    The Codified Ordinances of East Palestine comprises all ordinances and
 resolutions of a general and permanent nature. The provisions of such general
@@ -3412,19 +3412,19 @@ TABLE OF CONTENTS
 November 6, 1991. Dates appearing in parentheses following a section heading in
 the Table of Contents, and following a section in the text, indicate that the
 section was subsequently amended or enacted on the date given.
-   ARTICLE I   GENERAL ORGANIZATION
+*    ARTICLE I   GENERAL ORGANIZATION *
    Section
 1.01.   Name and Boundaries.
    Section
 1.02.   Form of Government.
-   ARTICLE II   GOVERNMENTAL POWERS GRANTED
+*    ARTICLE II   GOVERNMENTAL POWERS GRANTED *
    Section
 2.01.   Powers of Municipal Government.
    Section
 2.02.   Manner of Exercise of Municipal Powers.
    Section
 2.03.   Construction of the Charter.
-   ARTICLE III   COUNCIL AND MAYOR-PRESIDENT OF COUNCIL
+*    ARTICLE III   COUNCIL AND MAYOR-PRESIDENT OF COUNCIL *
    Section
 3.01.   Number and Term.
    Section
@@ -3453,7 +3453,7 @@ section was subsequently amended or enacted on the date given.
 3.13.   Rules of Council.
    Section
 3.14.   Vacancies in Office of Council or Mayor-President of Council.
-   ARTICLE IV   LEGISLATIVE PROCEDURE, ORDINANCES AND RESOLUTIONS
+*    ARTICLE IV   LEGISLATIVE PROCEDURE, ORDINANCES AND RESOLUTIONS *
    Section
 4.01.   Action to be Taken by Ordinance or Resolution.
    Section
@@ -3486,7 +3486,7 @@ section was subsequently amended or enacted on the date given.
 4.15.   Codification of Ordinances and Resolutions.
    Section
 4.16.   Publication of Ordinances and Resolutions.
-   ARTICLE V   MANAGER
+*    ARTICLE V   MANAGER *
    Section
 5.01.   Appointment and Removal.
    Section
@@ -3499,7 +3499,7 @@ section was subsequently amended or enacted on the date given.
 5.05.   Council-Manager Relations.
    Section
 5.06.   Manager May Act as Department Head.
-   ARTICLE VI   ADMINISTRATIVE DEPARTMENTS
+*    ARTICLE VI   ADMINISTRATIVE DEPARTMENTS *
    Section
 6.01.   Creation of Departments.
    Section
@@ -3516,7 +3516,7 @@ section was subsequently amended or enacted on the date given.
 6.07.   Department of Public Safety.
    Section
 6.08.   Organization for Departments and Divisions.
-   ARTICLE VII   BOARDS AND COMMISSIONS
+*    ARTICLE VII   BOARDS AND COMMISSIONS *
    Section
 7.01.   Civil Service Commission - Membership. (11-11-97)
    Section
@@ -3541,7 +3541,7 @@ section was subsequently amended or enacted on the date given.
 7.11.   Removal of Members of Boards and Commissions.
    Section
 7.12.   Reference to Positions.
-   ARTICLE VIII   NOMINATIONS, ELECTIONS AND RECALL
+*    ARTICLE VIII   NOMINATIONS, ELECTIONS AND RECALL *
    Section
 8.01.   Nominations.
    Section
@@ -3552,12 +3552,12 @@ section was subsequently amended or enacted on the date given.
 8.04.   Conduct of Elections.
    Section
 8.05.   Recall Elections.
-   ARTICLE IX   INITIATIVE AND REFERENDUM
+*    ARTICLE IX   INITIATIVE AND REFERENDUM *
    Section
 9.01.   Initiative.
    Section
 9.02.   Referendum.
-   ARTICLE X   FINANCES, TAXATION AND DEBT
+*    ARTICLE X   FINANCES, TAXATION AND DEBT *
    Section   
 10.01.   General Provisions.
    Section   
@@ -3568,7 +3568,7 @@ section was subsequently amended or enacted on the date given.
 10.04.   Salaries and Bonds.
    Section   
 10.05.   Contracts and Purchasing.
-   ARTICLE XI   GENERAL PROVISIONS
+*    ARTICLE XI   GENERAL PROVISIONS *
    Section   
 11.01.   Succession.
    Section   
@@ -3589,7 +3589,7 @@ section was subsequently amended or enacted on the date given.
 11.09.   Oath of Office.
    Section   
 11.10.   Political Activity.
-   ARTICLE XII   TRANSITIONAL PROVISIONS
+*    ARTICLE XII   TRANSITIONAL PROVISIONS *
    Section   
 12.01.   Effective Date of Charter.
    Section   
@@ -3602,14 +3602,14 @@ section was subsequently amended or enacted on the date given.
 12.05.   Present Council Obligations.
 [https://export.amlegal.com/media/5e5723013e5e9829fbe39411b4a9e70ee5bd8917/
 IMAGES/0-0-0-2950.bmp]
-PREAMBLE
+**** PREAMBLE ****
    We the people of the Municipality of East Palestine, County of Columbiana
 and the State of Ohio, in order to secure for ourselves and our posterity the
 benefits of Municipal home rule and the free exercise of all the powers of
 local self-government conferred by the Ohio Constitution, do frame and adopt
 this Charter for the government of the Municipality of East Palestine.
-ARTICLE I
-GENERAL ORGANIZATION
+**** ARTICLE I
+GENERAL ORGANIZATION ****
 Section 1.01   Name and Boundaries.
    This Municipality, known as the City of East Palestine, Ohio, or Village if
 such is appropriate, shall continue to be a body politic and corporate, under
@@ -3625,8 +3625,8 @@ Mayor-Council-Manager Plan. The powers and functions of the municipal
 government hereby created shall be distributed among the Municipality, its
 citizens, and the various officers, bodies, boards, and commissions according
 to the provisions of this Charter as set forth hereinafter.
-ARTICLE II
-GOVERNMENTAL POWERS GRANTED
+**** ARTICLE II
+GOVERNMENTAL POWERS GRANTED ****
 Section 2.01   Powers of Municipal Government.
    The Municipality shall possess and exercise all the power, general or
 special, governmental or proprietary, that may now or hereafter lawfully be
@@ -3646,8 +3646,8 @@ the broadest possible exercise of powers of local self-government and home-rule
 consistent with the Constitution of the State of Ohio, and the Constitution of
 the United States of America, and any provisions for, or enumeration of,
 particular powers shall not be by way of limitation.
-ARTICLE III
-COUNCIL AND MAYOR-PRESIDENT OF COUNCIL
+**** ARTICLE III
+COUNCIL AND MAYOR-PRESIDENT OF COUNCIL ****
 Section 3.01   Number and Term.
    The legislative powers of the Municipality, except as otherwise provided by
 this Charter and by the Constitution of the State of Ohio, shall be vested in a
@@ -4016,8 +4016,8 @@ Municipal general election shall serve the remainder of the unexpired term of
 the person whose resignation, death, failure to qualify or to maintain
 qualifications, removal or recall created the vacancy, and until his successor
 is elected and qualified. (Amended November 2, 2021)
-ARTICLE IV
-LEGISLATIVE PROCEDURE, ORDINANCES AND RESOLUTIONS
+**** ARTICLE IV
+LEGISLATIVE PROCEDURE, ORDINANCES AND RESOLUTIONS ****
 Section 4.01   Action to be Taken by Ordinance or Resolution.
    Action of Council shall be by ordinance, resolution or motion. Every action
 of a general and permanent nature, or granting a franchise, or levying a tax;
@@ -4291,8 +4291,8 @@ Dated this .........date of ............, 19......
    The failure of the Clerk of Council to affix the appropriate "Certificate of
 Publication" provided hereinabove shall not affect the validity of an otherwise
 duly and properly enacted ordinance or resolution.
-ARTICLE V
-MANAGER
+**** ARTICLE V
+MANAGER ****
 Section 5.01   Appointment and Removal.
    A manager shall be appointed by a majority vote of the members of Council,
 and the manager's term shall be indefinite, only at the pleasure of Council. A
@@ -4445,8 +4445,8 @@ extension is approved by Council. The Manager may designate one person to serve
 as head of one or more departments or divisions, except that the Municipal
 Attorney shall not serve or act as head of any other department or division.
 (Amended November 2, 2021)
-ARTICLE VI
-ADMINISTRATIVE DEPARTMENTS
+**** ARTICLE VI
+ADMINISTRATIVE DEPARTMENTS ****
 Section 6.01   Creation of Departments.
    For the purpose of carrying on the administrative functions of the
 Municipality, the following departments are hereby established: Department of
@@ -4590,8 +4590,8 @@ ordinance for the organization of the departments and divisions of the
 Municipality, and define the powers and functions of each organizational unit,
 but all departments and divisions shall be under the general supervision of the
 Manager.
-ARTICLE VII
-BOARDS AND COMMISSIONS
+**** ARTICLE VII
+BOARDS AND COMMISSIONS ****
 Section 7.01   Civil Service Commission - Membership.
    There is hereby created and established a Civil Service Commission which
 shall consist of three (3) members appointed by a majority vote of the Council
@@ -4809,8 +4809,8 @@ office no longer in existence under this Charter, then such reference shall be
 deemed to be a reference to the position or office created pursuant to this
 Charter most nearly having the same duties as the office referred to in said
 ordinance.
-ARTICLE VIII
-NOMINATIONS, ELECTIONS AND RECALL
+**** ARTICLE VIII
+NOMINATIONS, ELECTIONS AND RECALL ****
 Section 8.01   Nominations.
    Candidates for Mayor and members of Council shall be elected on a non-
 partisan basis on the first Tuesday after the first Monday in November, or at
@@ -4899,8 +4899,8 @@ period of one (1) year following such election. The removal of any officer
 under the provisions of this section shall not affect the validity of any
 ordinance, resolution or other action in which such officer shall have
 participated.
-ARTICLE IX
-INITIATIVE AND REFERENDUM
+**** ARTICLE IX
+INITIATIVE AND REFERENDUM ****
 Section 9.01   Initiative.
    The qualified electors of the Municipality shall have the power to propose
 ordinances, resolutions, and other measures by initiative petition in
@@ -4920,8 +4920,8 @@ relating to the levy of taxes; to any other ordinances or resolutions which
 become effective immediately upon passage pursuant to the provisions of Section
 4.08 of this Charter; or to the ordinances or resolutions relating to the
 removal of any officer of the Municipality.
-ARTICLE X
-FINANCES, TAXATION AND DEBT
+**** ARTICLE X
+FINANCES, TAXATION AND DEBT ****
 Section 10.01   General Provisions.
    Unless other provision is made in this Charter, or by ordinance, resolution,
 or other action of the Council, the provisions of the Constitution and the laws
@@ -5010,8 +5010,8 @@ and competitive bidding as provided by subsection b. hereof.
 Agent to award and execute such contracts, offers, and agreements on behalf of
 the Municipality as the Manager is authorized to award and execute pursuant to
 the provisions of subsection a. hereof.
-ARTICLE XI
-GENERAL PROVISIONS
+**** ARTICLE XI
+GENERAL PROVISIONS ****
 Section 11.01   Succession.
    The Municipality of East Palestine, under this Charter, is hereby declared
 to be the legal successor of the City of East Palestine, under the laws of the
@@ -5112,8 +5112,8 @@ Section 11.10   Political Activity.
 contributions of money or services from any person in the employ of the
 Municipality for use in promoting the nomination or election of any candidate
 for Municipal office.
-ARTICLE XII
-TRANSITIONAL PROVISIONS
+**** ARTICLE XII
+TRANSITIONAL PROVISIONS ****
 Section 12.01   Effective Date of Charter.
    The Charter shall be submitted to the electors of the Municipality at the
 General Election to be held on November 6, 1990, and, if approved by the
@@ -5246,7 +5246,7 @@ PART TWO - ADMINISTRATION CODE
    TITLE TEN - Judicial
    Chap.
 290. Mayor's Court.
-   TITLE TWO - General Provisions
+*****    TITLE TWO - General Provisions *****
       Chap.
 202   Codified Ordinances.
       Chap.
@@ -5958,7 +5958,7 @@ publicly available, it would be counterproductive to list these specific
 practices here. Therefore, only the program's general red flag detection,
 implementation and prevention practices are listed in this document.
 (Res. 17-2009-R. Passed 9-28-09.)
-TITLE FOUR - Legislation
+***** TITLE FOUR - Legislation *****
       Chap.
 220   Council.
       Chap.
@@ -6018,7 +6018,7 @@ established to provide a place for cross references and any future legislation.
    Initiative and referendum - see CHTR. Art. IX
    Codified Ordinances - see ADM.
 Ch. 202
-TITLE SIX - Administration
+***** TITLE SIX - Administration *****
       Chap.
 230   Mayor. (Repealed)
       Chap.
@@ -8187,7 +8187,7 @@ National Incident Management System (NIMS). All departments and offices of the
 City of East Palestine shall utilize the Incident Management System prescribed
 by the Department of Homeland Security, as implemented by the State of Ohio and
 the Columbiana County Emergency Management Agency.
-TITLE EIGHT - Boards, Commissions and Committees
+***** TITLE EIGHT - Boards, Commissions and Committees *****
       Chap.
 260   Board of Health.
       Chap.
@@ -8605,7 +8605,7 @@ CHAPTER 289
 Tree Commission
 EDITOR'S NOTE: Provisions relating to the Tree Commission are codified in
 Chapter 1030 of Part Ten - Streets, Utilities and Public Services Code.
-TITLE TEN - Judicial
+***** TITLE TEN - Judicial *****
    Chap.
 290. Mayor's Court.
 CHAPTER 290
@@ -8719,7 +8719,7 @@ PART FOUR - TRAFFIC CODE
 474   Bicycles and Motorcycles.
       Chap.
 476   Snowmobiles and All-Purpose Vehicles.
-TITLE TWO - Administration, Enforcement and Penalties
+***** TITLE TWO - Administration, Enforcement and Penalties *****
       Chap.
 402   Definitions.
       Chap.
@@ -9849,7 +9849,7 @@ suspension that is permitted or required to be imposed for the violation of the
 provision of the Revised Code to which the provision of this Traffic Code is
 substantially similar.
 (ORC 4510.05)
-TITLE FOUR - Public Ways and Traffic Control Devices
+***** TITLE FOUR - Public Ways and Traffic Control Devices *****
       Chap.
 412   Obstruction and Special Uses of Public Ways.
       Chap.
@@ -10904,7 +10904,7 @@ with limits of up to $1,000,000 per occurrence and $2,000,000 per aggregate.
    (EDITOR'S NOTE: See Sections
 408.01 and
 408.02 for general Traffic Code penalty if no specific penalty is provided.)
-TITLE SIX - Operation and Vehicles
+***** TITLE SIX - Operation and Vehicles *****
       Chap.
 432   Operation Generally.
       Chap.
@@ -17949,7 +17949,7 @@ person is guilty of a misdemeanor of the fourth degree; and each subsequent
 offense within one year after the first offense, the person is guilty of a
 misdemeanor of the third degree.
 (Ord. 16-2023. Passed 7-10-23.)
-TITLE EIGHT - Parking
+***** TITLE EIGHT - Parking *****
       Chap.
 452   Parking Generally.
       Chap.
@@ -19185,7 +19185,7 @@ payment of the fine within either of the periods provided above in divisions
 hundred fifty dollars ($250.00), together with all other penalty provisions as
 set forth in R.C. § 4511.69, which are hereby incorporated by reference.
 (Ord. 35-01. Passed 12-3-01; Ord. 16-2022. Passed 9-12-22.)
-TITLE TEN - Bicycles, Motorcycles and Snowmobiles
+***** TITLE TEN - Bicycles, Motorcycles and Snowmobiles *****
       Chap.
 474   Bicycles and Motorcycles.
       Chap.
@@ -36116,7 +36116,7 @@ PART EIGHT - BUSINESS REGULATION AND TAXATION CODE
 888   Community Reinvestment Area.
    Chap.
 890   Motor Vehicle License Tax.
-TITLE TWO - Business Regulation
+***** TITLE TWO - Business Regulation *****
    Chap.
 804   Auctions.
    Chap.
@@ -38442,7 +38442,7 @@ notice shall be given by certified mail, upon receipt of notice from such video
 service provider that it will begin providing video service in the Village
 pursuant to a state-issued video service authorization.
 (Ord. 5-2019. Passed 4-8-19.)
-TITLE FOUR - Taxation
+***** TITLE FOUR - Taxation *****
    Chap.
 880   Earned Income Tax Regulations Effective Through December 31, 2015.
    Chap.
@@ -41855,7 +41855,7 @@ PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE
 1068.   Glenview Cemetery.
    Chap.
 1070.   Litter Removal.
-TITLE TWO - Street and Sidewalk Areas
+***** TITLE TWO - Street and Sidewalk Areas *****
    Chap.
 1020   Excavations.
    Chap.
@@ -43366,7 +43366,7 @@ said penalty shall be assessed starting 15 calendar days after service of the
 notice referenced in this division and continuing for each day thereafter until
 compliance is achieved. The determination of the City Manager shall be final.
 (Ord. 4-2007. Passed 3-12-07.)
-TITLE FOUR - Utilities
+***** TITLE FOUR - Utilities *****
    Chap.
 1040   Sewers Generally.
    Chap.
@@ -45450,7 +45450,7 @@ established to provide a place for cross references and any future legislation.
    Compulsory gas connections - see Ohio R.C. 743.37
    Contract for gas - see Ohio R.C. 743.38
    Public Utilities Commission, fixation of rates - see Ohio R.C. Ch. 4909
-TITLE SIX - Other Public Services
+***** TITLE SIX - Other Public Services *****
    Chap.
 1060.   Parks.
    Chap.
@@ -45822,7 +45822,7 @@ PART TWELVE - PLANNING AND ZONING CODE
 1268   Off-Street Parking and Loading Regulations.
       Chap.
 1272   Provisions Applicable to All Districts.
-TITLE TWO - Planning
+***** TITLE TWO - Planning *****
    Chap.
 1220   Planning Commission.
    Chap.
@@ -45982,7 +45982,7 @@ Ch. 1048
    Gas - see S.U. & P.S.
 Ch. 1052
    Ohio Fire Code - see FIRE PREV. Ch. 1602
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
    1224.01   PURPOSE.
    This chapter was enacted in accordance with Ohio R.C. Chapter 711, and for
 the purpose of protecting the public health, safety, and general welfare; and
@@ -46320,7 +46320,7 @@ establishing the front and rear yards.
    (ooo)   The present tense includes the future tense; the singular number
 includes the plural; and the plural number includes the singular.
 (Ord. 12-02. Passed 7-8-02.)
-PROCEDURE FOR SUBDIVISION APPROVAL
+*** PROCEDURE FOR SUBDIVISION APPROVAL ***
    1224.10   PREAPPLICATION MEETING REQUIRED.
    (a)   The subdivider shall meet with the Technical Review Committee prior to
 submitting the preliminary plat. The purpose of this meeting is to discuss
@@ -46707,7 +46707,7 @@ for said parcel(s), stamp "Approved by the Planning Commission; no plat
 required," and the designated representative of the Commission shall sign the
 conveyance as properly formatted per the Planning Commission's requirements.
 (Ord. 12-02. Passed 7-8-02.)
-SUBDIVISION DESIGN STANDARDS
+*** SUBDIVISION DESIGN STANDARDS ***
    1224.32   GENERAL STATEMENT.
    (a)   The regulations in Sections
 1224.33 to
@@ -47014,9 +47014,9 @@ least a one and one-half acre site reserved for recreational use and for each
 additional 25 lots or units of housing another one-half acre should be
 reserved.
 (Ord. 12-02. Passed 7-8-02.)
-ADDITIONAL STANDARDS FOR DEVELOPMENT
+*** ADDITIONAL STANDARDS FOR DEVELOPMENT
 IN INDUSTRIAL AND/OR COMMERCIAL SUBDIVISIONS,
-INCLUDING SHOPPING CENTERS
+INCLUDING SHOPPING CENTERS ***
    1224.51   STANDARDS FOR DEVELOPMENT.
    The following additional standards apply to all industrial and/or commercial
 industrial subdivisions, including shopping centers:
@@ -47077,7 +47077,7 @@ circulation. Loading and delivery zones shall be marked clearly.
 industrial areas exclusively and shall connect with arterial streets so that no
 industrial traffic will be directed into any residential streets.
 (Ord. 12-02. Passed 7-8-02.)
-REQUIREMENTS FOR CONSTRUCTION OF IMPROVEMENTS
+*** REQUIREMENTS FOR CONSTRUCTION OF IMPROVEMENTS ***
    1224.53   GUARANTEE FOR INSTALLATION OF IMPROVEMENTS.
    All improvements required herein shall be constructed prior to the granting
 of the final plat approval by the Planning Commission, or the subdivider shall
@@ -47442,7 +47442,7 @@ estimated amount of these final inspection costs, as approved by the City
 Manager, shall be posted or paid prior to the final approval of the plat. The
 subdivider shall be billed for any additional costs.
 (Ord. 12-02. Passed 7-8-02.)
-HILLSIDE REGULATIONS
+*** HILLSIDE REGULATIONS ***
    1224.81   GENERAL STATEMENT.
    These regulations apply to all hillside areas. A hillside area as referred
 to herein is defined as one with an average slope of more than 15 percent. The
@@ -47545,7 +47545,7 @@ treatment plant shall be installed by the subdivider in accordance with Ohio
 R.C. 3701.34 and regulations promulgated thereunder. The use of individual
 systems shall be prohibited.
 (Ord. 12-02. Passed 7-8-02.)
-REVISIONS, ENFORCEMENT, VARIANCES
+*** REVISIONS, ENFORCEMENT, VARIANCES ***
    1224.92   RECORDING OF PLAT.
    No plat of any subdivision shall be recorded by the County Recorder of
 Columbiana County or have any validity until the plat has received final
@@ -47640,7 +47640,7 @@ Ch. 264
 Ch. 1220
    Subdivision Regulations - see P. & Z.
 Ch. 1224
-TITLE FOUR - Zoning
+***** TITLE FOUR - Zoning *****
       Chap.
 1240   General Provisions and Definitions.
       Chap.
@@ -49993,7 +49993,7 @@ PART FOURTEEN - BUILDING AND HOUSING CODE
    TITLE SIX - Housing
       Chap.
 1470.   Housing Code.
-TITLE TWO - Building Standards
+***** TITLE TWO - Building Standards *****
       Chap.
 1424   National Electrical Code.
       Chap.
@@ -50177,7 +50177,7 @@ which a violation occurs or continues.
    (b)   The application of the penalty provided in subsection (a) hereof shall
 not be held to prevent the enforced removal of prohibited conditions.
 (Ord. 10-2010. Passed 9-27-10.)
-TITLE FOUR - Miscellaneous Building Regulations
+***** TITLE FOUR - Miscellaneous Building Regulations *****
       Chap.
 1442.   Contractor Registration.
       Chap.
@@ -52034,7 +52034,7 @@ for a first offense and a misdemeanor of the first degree for a subsequent
 offense. Each day such violation occurs or continues shall constitute a
 separate offense.
 (Ord. 17-2009. Passed 11-23-09.)
-TITLE SIX - Housing
+***** TITLE SIX - Housing *****
    Chap.
 1470.   Housing Code.
 CHAPTER 1470
