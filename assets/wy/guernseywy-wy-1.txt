@@ -10,7 +10,7 @@ American Legal Publishing
 Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
-PREFACE
+***** PREFACE *****
    This code of the Town of Guernsey, as supplemented, contains ordinances up
 to and including ordinance 2024-003, passed June 4, 2024. Ordinances of the
 Town adopted after said ordinance supersede the provisions of this code to the
@@ -23,7 +23,7 @@ ORDINANCES PENDING CODIFICATION
 Ordinances listed have been passed, but have not been incorporated in the
 actual code. Please contact the office of the clerk if there are any questions
 concerning the ordinances listed.
-ORDINANCE NO. 2021-001
+***** ORDINANCE NO. 2021-001 *****
 AN ORDINANCE AMENDING ORDINANCE 2016-06; ESTABLISHING RATES FOR SEWER SERVICE
 FOR THE TOWN OF GUERNSEY.
 BE IT ORDAINED BY THE TOWN COUNCIL OF THE TOWN OF GUERNSEY, WYOMING.
@@ -71,7 +71,7 @@ Kate Farmer, Clerk/Treasurer
  
  
 ADOPTING ORDINANCE
-ORDINANCE NO. 06-07-002
+***** ORDINANCE NO. 06-07-002 *****
 AN ORDINANCE FOR REVISING, CODIFYING AND COMPILING THE GENERAL ORDINANCES OF
 THE TOWN OF GUERNSEY, WYOMING, AND ADOPTING THE GUERNSEY TOWN CODE.
 BE IT ORDAINED by the mayor and town council of the town of Guernsey, Wyoming,
@@ -546,9 +546,9 @@ Notes
 The clerk-treasurer, police chief, and town superintendent may be discharged
 and that employment terminated at any time by a majority vote of the governing
 body. (Charter Ord. 2, 6-1-2004)
-CHAPTER 6
-TOWN OFFICERS AND EMPLOYEES
-ARTICLE A. PERSONNEL POLICY
+***** CHAPTER 6
+TOWN OFFICERS AND EMPLOYEES *****
+**** ARTICLE A. PERSONNEL POLICY ****
 SECTION:
 1-6A-1: Adopted By Reference
 1-6A-1:   ADOPTED BY REFERENCE:
@@ -3215,8 +3215,8 @@ In the event either of the above sections is violated, said violation is a
 misdemeanor and punishable by the general penalty provisions set forth in
 section
 1-4-2 of this code. (Ord. 92-12-001, 1-12-1993)
-CHAPTER 4
-WIRELESS COMMUNICATION FACILITIES
+***** CHAPTER 4
+WIRELESS COMMUNICATION FACILITIES *****
 SECTION:
 6-4-1: Definitions
 6-4-2: Access To Public Rights-Of-Way
@@ -5607,7 +5607,7 @@ knowledgeable representative of the town as unsafe to be in or around. (Ord.
 04-07-003, 8-9-2003; amd. Ord. 06-09-002, 10-4-2005; Ord. 09-13-013, 10-1-2013)
 CHAPTER 3
 DISTRICTS
-ARTICLE A. R-1 SINGLE RESIDENCE ZONE
+**** ARTICLE A. R-1 SINGLE RESIDENCE ZONE ****
 SECTION:
 10-3A-1: Uses Permitted
 10-3A-2: Building Height
@@ -5621,12 +5621,12 @@ Accessory buildings.
 Home occupation.
 Modular structure placed on a permanent foundation.
 One-family dwelling. (Ord. 03-01-15, 4-7-2015)
-10-3A-2:   BUILDING HEIGHT:
+** 10-3A-2:   BUILDING HEIGHT: **
 Maximum building height, thirty five feet (35'). (Ord. 04-07-003, 8-9-2003)
-10-3A-3:   LOT AREA:
+** 10-3A-3:   LOT AREA: **
 Minimum lot area, seven thousand five hundred (7,500) square feet. (Ord. 04-07-
 003, 8-9-2003)
-10-3A-4:   YARDS:
+** 10-3A-4:   YARDS: **
    A.   Front yard: Minimum of twenty five feet (25') from back of curb to
 building line.
    B.   Side yard: Minimum of five feet (5') from drip line of roof to side lot
@@ -5635,16 +5635,16 @@ line 1 . (Ord. 04-07-003, 8-9-2003)
  
 Notes
 1 1. See definition of "drip line", section 10-2-2 of this title.
-10-3A-5:   DISTANCE BETWEEN BUILDINGS:
+** 10-3A-5:   DISTANCE BETWEEN BUILDINGS: **
 The minimum distance between main buildings and accessory buildings a distance
 of ten feet (10') from drip line to drip line. (Ord. 04-07-003, 8-9-2003)
-10-3A-6:   ACCESSORY BUILDINGS:
+** 10-3A-6:   ACCESSORY BUILDINGS: **
 The drip line of the roof may be located five feet (5') from rear and side lot
 line.
    A.   Garage entrance, minimum of twelve feet (12') from rear lot line.
    B.   Garage entrance, minimum of twenty five feet (25') from back side of
 street curb. (Ord. 04-07-003, 8-9-2003)
-10-3A-7:   USES NOT PERMITTED:
+** 10-3A-7:   USES NOT PERMITTED: **
 Accessory buildings without a primary dwelling.
 Any business/commercial use.
 Any industrial use.
@@ -5654,7 +5654,7 @@ as defined in section
 Any R-2 or R-3 multiple-family use.
 Mobile home, motorized home, travel trailer, camper trailer, or any other type
 of recreation vehicle. (Ord. 03-01-15, 4-7-2015)
-ARTICLE B. R-2 MULTIPLE RESIDENCE ZONE
+**** ARTICLE B. R-2 MULTIPLE RESIDENCE ZONE ****
 SECTION:
 10-3B-1: Uses Permitted
 10-3B-2: Building Height
@@ -5663,13 +5663,13 @@ SECTION:
 10-3B-5: Distance Between Buildings
 10-3B-6: Accessory Buildings
 10-3B-7: Uses Not Permitted
-10-3B-1: USES PERMITTED:
+** 10-3B-1: USES PERMITTED: **
 Accessory buildings.
 Duplex dwellings.
 Home occupation. (Ord. 03-02-15, 4-7-2015)
-10-3B-2:   BUILDING HEIGHT:
+** 10-3B-2:   BUILDING HEIGHT: **
 Maximum building height, thirty five feet (35'). (Ord. 04-07-003, 8-9-2003)
-10-3B-3:   LOT AREA:
+** 10-3B-3:   LOT AREA: **
 Minimum lot area, seven thousand five hundred (7,500) square feet. (Ord. 04-07-
 003, 8-9-2003)
 10-3B-4:   YARDS:
@@ -5678,15 +5678,15 @@ building line.
    B.   Side yard: Minimum of five feet (5') from drip line of roof to side lot
 line. (Ord. 04-07-003, 8-9-2003)
    C.   Rear yard: Not less than five feet (5'). (Ord. 07-02-001, 2-20-2007)
-10-3B-5:   DISTANCE BETWEEN BUILDINGS:
+** 10-3B-5:   DISTANCE BETWEEN BUILDINGS: **
 The minimum distance between main buildings and accessory buildings a distance
 of ten feet (10') from drip line to drip line. (Ord. 04-07-003, 8-9-2003)
-10-3B-6:   ACCESSORY BUILDINGS:
+** 10-3B-6:   ACCESSORY BUILDINGS: **
 Drip line of roof may be located five feet (5') from rear and side lot line.
    A.   Garage entrance, minimum of twelve feet (12') from rear lot line.
    B.   Garage entrance, minimum of twenty five feet (25') from back side of
 street curb. (Ord. 04-07-003, 8-9-2003)
-10-3B-7:   USES NOT PERMITTED:
+** 10-3B-7:   USES NOT PERMITTED: **
 Accessory buildings without a primary dwelling.
 Any business/commercial use.
 Any industrial use.
@@ -5698,7 +5698,7 @@ Any R-1 residential use.
 Any R-3 multiple-family use.
 Mobile home, motorized home, travel trailer, camper trailer, or any type of
 recreation vehicle. (Ord. 03-02-15, 4-7-2015)
-ARTICLE C. R-3 MULTIPLE RESIDENCE ZONE
+**** ARTICLE C. R-3 MULTIPLE RESIDENCE ZONE ****
 SECTION:
 10-3C-1: Uses Permitted
 10-3C-2: Building Height
@@ -5707,31 +5707,31 @@ SECTION:
 10-3C-5: Distance Between Buildings
 10-3C-6: Accessory Buildings
 10-3C-7: Uses Not Permitted
-10-3C-1: USES PERMITTED:
+** 10-3C-1: USES PERMITTED: **
 Accessory buildings.
 Home occupation.
 Multiple dwellings for three (3) or more families.
 Townhouses and condominiums. (Ord. 03-03-15, 4-7-2015)
-10-3C-2:   BUILDING HEIGHT:
+** 10-3C-2:   BUILDING HEIGHT: **
 Maximum building height, thirty five feet (35'). (Ord. 04-07-003, 8-9-2003)
-10-3C-3:   LOT AREA:
+** 10-3C-3:   LOT AREA: **
 Minimum lot area, seven thousand five hundred (7,500) square feet. (Ord. 04-07-
 003, 8-9-2003)
-10-3C-4:   YARDS:
+** 10-3C-4:   YARDS: **
    A.   Front yard: Minimum of twenty five feet (25') from back of curb to
 building line.
    B.   Side yard: Minimum of five feet (5') from drip line of roof to side lot
 line. (Ord. 04-07-003, 8-9-2003)
    C.   Rear yard: Not less than five feet (5'). (Ord. 07-02-001, 2-20-2007)
-10-3C-5:   DISTANCE BETWEEN BUILDINGS:
+** 10-3C-5:   DISTANCE BETWEEN BUILDINGS: **
 The minimum distance between main buildings and accessory buildings a distance
 of ten feet (10') from drip line to drip line. (Ord. 04-07-003, 8-9-2003)
-10-3C-6:   ACCESSORY BUILDINGS:
+** 10-3C-6:   ACCESSORY BUILDINGS: **
 Drip line of roof may be located five feet (5') from rear and side lot line.
    A.   Garage entrance, minimum of twelve feet (12') from rear lot line.
    B.   Garage entrance, minimum of twenty five feet (25') from back side of
 street curb. (Ord. 04-07-003, 8-9-2003)
-10-3C-7:   USES NOT PERMITTED:
+** 10-3C-7:   USES NOT PERMITTED: **
 Accessory buildings without a primary dwelling.
 Any business/commercial use.
 Any industrial use.
@@ -5742,7 +5742,7 @@ as defined in section
 Any R-1 or R-2 residential use.
 Mobile home, motorized home, travel trailer, camper trailer, or any type of
 recreation vehicle. (Ord. 03-03-15, 4-7-2015)
-ARTICLE D. MH-1 MOBILE HOME RESIDENCE ZONE
+**** ARTICLE D. MH-1 MOBILE HOME RESIDENCE ZONE ****
 SECTION:
 10-3D-1: Uses Permitted
 10-3D-2: Building Height
@@ -5752,35 +5752,35 @@ SECTION:
 10-3D-6: Accessory Buildings
 10-3D-7: Skirting
 10-3D-8: Uses Not Permitted
-10-3D-1: USES PERMITTED:
+** 10-3D-1: USES PERMITTED: **
 Any use permitted in the R-1 and R-2 zones.
 Accessory buildings.
 Home occupation.
 One-family dwelling. (Ord. 04-07-003, 8-9-2003)
-10-3D-2:   BUILDING HEIGHT:
+** 10-3D-2:   BUILDING HEIGHT: **
 Maximum building height, thirty five feet (35'). (Ord. 04-07-003, 8-9-2003)
-10-3D-3:   LOT AREA:
+** 10-3D-3:   LOT AREA: **
 Minimum lot area, seven thousand five hundred (7,500) square feet. (Ord. 04-07-
 003, 8-9-2003)
-10-3D-4:   YARDS:
+** 10-3D-4:   YARDS: **
    A.   Front yard: Minimum of twenty five feet (25') from back of curb to
 building line.
    B.   Side yard: Minimum of five feet (5') from drip line of roof to side lot
 line. (Ord. 04-07-003, 8-9-2003)
    C.   Rear yard: No minimum required. (Ord. 06-09-005, 11-15-2005)
-10-3D-5:   DISTANCE BETWEEN BUILDINGS:
+** 10-3D-5:   DISTANCE BETWEEN BUILDINGS: **
 The minimum distance between main buildings and accessory buildings a distance
 of ten feet (10') from drip line to drip line. (Ord. 04-07-003, 8-9-2003)
-10-3D-6:   ACCESSORY BUILDINGS:
+** 10-3D-6:   ACCESSORY BUILDINGS: **
 Drip line of roof may be located five feet (5') from rear and side lot line.
    A.   Garage entrance, minimum of twelve feet (12') from rear lot line.
    B.   Garage entrance, minimum of twenty five feet (25') from back side of
 street curb. (Ord. 04-07-003, 8-9-2003)
-10-3D-7:   SKIRTING:
+** 10-3D-7:   SKIRTING: **
 Perimeter of trailer must be skirted from the base of the trailer to the
 ground. Skirting must be installed no later than sixty (60) days after trailer
 has been located onto a lot or lot area. (Ord. 06-09-002, 10-4-2005)
-10-3D-8:   USES NOT PERMITTED:
+** 10-3D-8:   USES NOT PERMITTED: **
 Accessory buildings without a primary dwelling.
 Any occupation which does not fall within the definition of "home occupation"
 as defined in section
@@ -5801,7 +5801,7 @@ SECTION:
 Notes
 1 1. Any and all new construction, if covered under ADA, shall meet with said
   requirements.
-10-3E-1: USES PERMITTED:
+** 10-3E-1: USES PERMITTED: **
 All commercial/business activities shall be conducted wholly within a
 completely enclosed building unless otherwise specified. Any use operating as
 stores, shops, hotels, motels, restaurants, bars, drive-up food establishments,
@@ -5819,16 +5819,16 @@ the premises may be those awaiting repair only.
 public or other private property per WSS 15-1-103(xliv)(A-E).
    E.   Repaired vehicles may be parked on a public street for no more than
 twenty (20) consecutive days.
-10-3E-2:   PRIVACY WALL OR FENCE REQUIRED:
+** 10-3E-2:   PRIVACY WALL OR FENCE REQUIRED: **
 Where a commercial/business zone abuts (shares a property line) with a
 residential zone, a minimum six foot (6')/maximum ten foot (10') high
 decorative privacy wall or fence shall be constructed along the abutment except
 as needed for an entry or exit. A public street or alleyway shall not be
 considered a buffer. This exclusion does not apply to a state highway. (Ord.
 09-17-013, 10-1-2013)
-10-3E-3:   BUILDING HEIGHT:
+** 10-3E-3:   BUILDING HEIGHT: **
 Maximum building height, thirty five feet (35'). (Ord. 04-07-003, 8-9-2003)
-10-3E-4:   LOT AREA:
+** 10-3E-4:   LOT AREA: **
    A.   For all residential single, and multi-family dwellings, a minimum lot
 area, of seven thousand five hundred (7,500) square feet is required.
    B.   Property with a lot area less than seven thousand five hundred (7,500)
@@ -5837,9 +5837,9 @@ variance approval process.
    C.   For non-conforming use, new construction must follow the permitting and
 submission process found in this chapter. (Ord. 04-07-003, 8-9-2003; amd. Ord.
 2023-003, 7-18-2023)
-10-3E-5:   LOT WIDTH:
+** 10-3E-5:   LOT WIDTH: **
 No minimum for business. (Ord. 04-07-003, 8-9-2003)
-10-3E-6:   YARDS:
+** 10-3E-6:   YARDS: **
    A.   Front yard:
       1.   No minimum for business.
       2.   Minimum of five feet (5') from drip line of roof to side lot line.
@@ -5850,7 +5850,7 @@ No minimum for business. (Ord. 04-07-003, 8-9-2003)
       1.   No minimum for business.
       2.   Not less than five feet (5'). (Ord. 04-07-003, 8-9-2003; amd. Ord.
 2023-003, 7-18-2023)
-10-3E-7:   DISTANCE BETWEEN BUILDINGS:
+** 10-3E-7:   DISTANCE BETWEEN BUILDINGS: **
 The minimum distance between main buildings and accessory buildings, a distance
 of ten feet (10') from drip line to drip line between all buildings for
 residential single and multi-family dwellings.
@@ -5859,7 +5859,7 @@ and side of lot line.
    A.   Garage entrance, minimum of twelve feet (12') from rear of lot line.
    B.   Garage entrance, minimum of twenty-five feet (25') from back side of
 street curb. (Ord. 04-07-003, 8-9-2003; amd. Ord. 2023-003, 7-18-2023)
-10-3E-8:   USES NOT PERMITTED:
+** 10-3E-8:   USES NOT PERMITTED: **
 Mobile homes, motorized homes, travel trailers, camper trailers, any type of
 recreation vehicles, or any temporary or permanent residential use. (Ord. 09-
 18-013, 10-1-2013)
@@ -5895,14 +5895,14 @@ SECTION:
 Notes
 1 1. Any and all new construction, if covered under ADA, shall meet with said
   requirements.
-10-3F-1: USES PERMITTED:
+** 10-3F-1: USES PERMITTED: **
 Automobile wrecking yards.
 Building material sales yard.
 Contractor yard.
 Manufacturing and warehousing.
 One office or office trailer for a watchman in conjunction with a permitted
 use. (Ord. 04-07-003, 8-9-2003)
-10-3F-2:   INDUSTRIAL BUFFER REQUIRED:
+** 10-3F-2:   INDUSTRIAL BUFFER REQUIRED: **
 Where an industrial use adjoins, faces or confronts a residential property or a
 major or secondary highway, such industrial use shall provide a yard of no less
 than ten percent (10%) of the lot depth or width on the side or sides abutting,
@@ -5913,18 +5913,18 @@ screen not less than eight feet (8') in height is required. A public street or
 alleyway shall not be considered a buffer. (Ord. 09-19-013, 10-1-2013)
 10-3F-3:   BUILDING HEIGHT:
 Maximum building height, thirty five feet (35'). (Ord. 04-07-003, 8-9-2003)
-10-3F-4:   LOT AREA:
+** 10-3F-4:   LOT AREA: **
 No minimum. (Ord. 04-07-003, 8-9-2003)
-10-3F-5:   LOT WIDTH:
+** 10-3F-5:   LOT WIDTH: **
 No minimum. (Ord. 04-07-003, 8-9-2003)
-10-3F-6:   LOT AREA PER DWELLING UNIT:
+** 10-3F-6:   LOT AREA PER DWELLING UNIT: **
 None. (Ord. 04-07-003, 8-9-2003)
-10-3F-7:   YARDS:
+** 10-3F-7:   YARDS: **
    A.   Front yard: None except as provided in section 10-3F-2 of this article.
    B.   Side yard: None except as provided in section 10-3F-2 of this article.
    C.   Rear yard: None except as provided in section 10-3F-2 of this article.
 (Ord. 04-07-003, 8-9-2003)
-10-3F-8:   USES NOT PERMITTED:
+** 10-3F-8:   USES NOT PERMITTED: **
 No residential use. (Ord. 04-07-003, 8-9-2003)
 CHAPTER 4
 SUPPLEMENTAL REGULATIONS
