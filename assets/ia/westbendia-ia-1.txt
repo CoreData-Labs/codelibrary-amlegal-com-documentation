@@ -11,7 +11,7 @@ Storm Lake, Iowa 50588
 www.sc-ic.com
  
 Adopted October 10, 2022, by Ordinance No. 283
-SUPPLEMENT RECORD
+**** SUPPLEMENT RECORD ****
 SUPPLEMENT                        ORDINANCES AMENDING CODE
 Supp. No. Repeals, Amends or Adds Ord. No. Date Subject
 SUPPLEMENT                          ORDINANCES AMENDING CODE
@@ -51,6 +51,7 @@ Sep-25    111.06(3); 111.07(3);     302      7-14-25  Electric Rates
                                                       Requirements
           165.19(1)(B); 165.19(2)   306      9-22-25  Public Hearing
           (B); 165.19(3)(B); 165.32                   Requirements - Zoning
+Feb-26    62.09                     307      1-12-26  Scooter Regulations
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -3809,10 +3810,11 @@ and 321.231A of the Code of Iowa.
 CHAPTER 62
 GENERAL TRAFFIC REGULATIONS
  
-62.01 Violation of Regulations 62.05 Quiet Zones
-62.02 Play Streets Designated  62.06 Obstructing View at Intersections
-62.03 Vehicles on Sidewalks    62.07 Milling
-62.04 Clinging to Vehicle      62.08 Engine Brakes Prohibited
+62.01 Violation of Regulations 62.06 Obstructing View at Intersections
+62.02 Play Streets Designated  62.07 Milling
+62.03 Vehicles on Sidewalks    62.08 Engine Brakes Prohibited
+62.04 Clinging to Vehicle      62.09 Scooter Regulations
+62.05 Quiet Zones               
  
 62.01   VIOLATION OF REGULATIONS.
 Any person who willfully fails or refuses to comply with any lawful order of a
@@ -4037,6 +4039,33 @@ person.
 62.08   ENGINE BRAKES PROHIBITED.
 No truck being operated on any street or highway within the City shall use the
 engine back-pressure braking system except in the case of an emergency.
+62.09   SCOOTER REGULATIONS.
+1.   Operators of electric stand-up scooters in the City shall be subject to
+the following provisions:
+   A.   No operator of an electric stand-up scooter intended for one person
+shall carry a second person on any part of the scooter.
+   B.   No operator of an electric stand-up scooter shall carry any package,
+bundle, or article which prevents the operator from keeping both hands on the
+handlebars.
+   C.   Operators of electric stand-up scooters on roadways shall not ride more
+than two abreast and, on laned roadways, shall ride within a single lane.
+   D.   No person operating an electric stand-up scooter shall ride so as to
+impede the normal and reasonable movement of traffic.
+   E.   Electric stand-up scooters shall not be operated on City sidewalks
+except to enter or exit the nearest other public way.
+   F.   The operator of an electric stand-up scooter shall exercise caution to
+avoid colliding with pedestrians, shall yield the right-of-way to any
+pedestrian and shall give an audible warning before overtaking and passing a
+pedestrian.
+   G.   The operation of a scooter, electric or non-electric on the following
+streets shall be prohibited:
+      (1)   S. Broadway Avenue, between E. Division Street and 4th Street.
+2.   Penalty. Any person violating the provisions of this section may, in lieu
+of the scheduled fine or a civil penalty provided for violations of this Code,
+allow the person’s scooter to be impound by the City for not less than five
+days for the first violation, 10 days for a second violation and 30 days for a
+third offense.
+(Section 62.09 – Ord. 307 – Feb. 26 Supp.)
 CHAPTER 63
 SPEED REGULATIONS
  
@@ -8838,8 +8867,8 @@ kept available for public inspection.
 The City may from time to time by ordinance change, amend, and add to said
 National Fuel Code for Natural Gas Piping where it is deemed advisable in the
 judgement of the Council.
-CHAPTER 156
-SUDAS
+**** CHAPTER 156
+SUDAS ****
  
 156.01 Adoption of Statewide Urban       156.03 Amendments to SUDAS
 Design and Specifications (SUDAS)        Specifications Manual
@@ -9126,7 +9155,7 @@ streets may be referred to as “through” lots.
 is substantially a continuation of the front lot line of the first lot to its
 rear.
 CHART – LOT
-[https://export.amlegal.com/media/f3f249ecabb4f7929485f6ec04aca8152b18dbef/
+[https://export.amlegal.com/media/7391ccc4550193756caa72bbbf383ff8833daff4/
 IMAGES/0-0-0-26.png]
  
 A – Width of lot
@@ -9265,10 +9294,10 @@ along with the zoning text, comprises the Zoning Ordinance.
 CHART – YARD
 Where yards overlap, all regulations applying to either yard shall apply to
 that portion which overlaps.
-[https://export.amlegal.com/media/f3f249ecabb4f7929485f6ec04aca8152b18dbef/
+[https://export.amlegal.com/media/7391ccc4550193756caa72bbbf383ff8833daff4/
 IMAGES/0-0-0-28.png]
  
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 165.03   APPLICATION OF DISTRICT REGULATIONS.
 The regulations set by this chapter within each district shall be minimum
 regulations and shall apply uniformly to each class or kind of structure or
@@ -9362,7 +9391,7 @@ interpret the district boundaries;
 districts shall extend to the center line of the vacation;
 9.   Whenever a variance exists between the Zoning Map and the legal
 description on an amendment to this chapter, the legal description applies.
-NONCONFORMITIES
+*** NONCONFORMITIES ***
 165.06   NONCONFORMITIES.
 Within the districts established by this chapter there exist:
 1.   Lots,
@@ -9487,7 +9516,7 @@ of this chapter (other than a change through Board of Adjustment action from a
 nonconforming use to another use not generally permitted in the district) shall
 not be deemed a nonconforming use in such district, but shall without further
 action be considered a conforming use.
-ZONING ADMINISTRATOR
+*** ZONING ADMINISTRATOR ***
 165.13   ADMINISTRATION AND ENFORCEMENT.
 A Zoning Administrator designated by the City Council shall administer and
 enforce these regulations. The Administrator may be provided with the
@@ -9519,7 +9548,7 @@ shall provide for a Zoning Commission. Such Commission shall, with due
 diligence, prepare reports and hold public hearings on issues under this
 chapter and such Council shall not hold or take action until it has received
 the report or reports of such Commission.
-BOARD OF ADJUSTMENT
+*** BOARD OF ADJUSTMENT ***
 165.18   BOARD OF ADJUSTMENT; ESTABLISHMENT AND PROCEDURE.
 1.   Board Created. A Board of Adjustment is hereby established which shall
 consist of five members. Members of the five-member Board shall be appointed
@@ -9648,7 +9677,7 @@ the City, or other areas subject to this chapter aggrieved by any decision of
 the Board of Adjustment may seek review by a court of record of such decision,
 in the manner provided by the laws of the State and particularly by Chapter 414
 of the Code of Iowa.
-DISTRICT REGULATIONS
+*** DISTRICT REGULATIONS ***
 165.21   DISTRICTS ESTABLISHED.
 The City is herewith divided into the following districts:
 AG   Agricultural District
@@ -10448,7 +10477,7 @@ resembling traffic signals or control signs.
 or other perennial plants, or on poles maintained by public utilities.
    J.   Signs may be erected on municipal utility structures by written
 approval of the City.
-SUPPLEMENTARY DISTRICT REGULATIONS
+*** SUPPLEMENTARY DISTRICT REGULATIONS ***
 165.30   SUPPLEMENTARY DISTRICT REGULATIONS.
 1.   Building Lines on Approved Plats. Whenever the plat of a land subdivision
 approved by the Zoning Commission and on record in the office of the County
@@ -10523,10 +10552,10 @@ be allowed in front or side yards.
 15.   Satellite dishes shall be allowed in all districts except in front yards.
 DIAGRAM
 Corner Lots – Yards and Visibility
-[https://export.amlegal.com/media/f3f249ecabb4f7929485f6ec04aca8152b18dbef/
+[https://export.amlegal.com/media/7391ccc4550193756caa72bbbf383ff8833daff4/
 IMAGES/0-0-0-30.png]
  
-ADMINISTRATION
+*** ADMINISTRATION ***
 165.31   ADMINISTRATION.
 All questions of interpretation and enforcement shall be first presented to the
 Zoning Administrator, or that person’s assistant, and such questions shall be
