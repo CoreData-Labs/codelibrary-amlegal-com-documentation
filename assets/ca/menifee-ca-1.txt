@@ -904,7 +904,7 @@ into service under the provisions of this section, be charged with duties
 incident to the protection of life and property in this city during such
 emergency, shall constitute the emergency organization of the City of Menifee.
 (Ord. 2009-35, passed 6-2-2009)
-§ 1.10.070 EMERGENCY PLAN.
+** § 1.10.070 EMERGENCY PLAN. **
    The City of Menifee Disaster Council shall be responsible for the
 development of the city's emergency plan, which plan shall provide for the
 effective mobilization of all the resources of this city, both public and
@@ -9737,7 +9737,7 @@ ARTICLE 5: DEFINITIONS
 ARTICLE 6: GRADING
    
 7.90.   GRADING REGULATIONS
-ARTICLE 1: GENERAL PROVISIONS
+***** ARTICLE 1: GENERAL PROVISIONS *****
 CHAPTER 7.01: PURPOSE AND APPLICABILITY
 Section
    
@@ -10112,7 +10112,7 @@ Chapter 7.45 (Certificates of Compliance), only those conditions stipulated in
 that certificate shall be applicable in accordance with Cal. Gov’t Code §
 66499.34.
 (Ord. 2019-286, passed 11-20-2019; Am. Ord. 2019-291, passed 12-18-2019)
-ARTICLE 2: MAPS REQUIRED
+***** ARTICLE 2: MAPS REQUIRED *****
 CHAPTER 7.20: TENTATIVE MAPS
 Section
    
@@ -11263,7 +11263,7 @@ approved a final map is annexed to the City of Menifee, the final map and
 agreements relating to the subdivision shall continue to govern the
 subdivision.
 (Ord. 2019-286, passed 11-20-2019; Am. Ord. 2019-291, passed 12-18-2019)
-ARTICLE 3: CERTIFICATES, ADJUSTMENTS, AND MERGERS
+***** ARTICLE 3: CERTIFICATES, ADJUSTMENTS, AND MERGERS *****
 CHAPTER 7.45: CERTIFICATES OF COMPLIANCE
 Section
    
@@ -11666,7 +11666,7 @@ record by the County Recorder. Upon filing, all dedications and offers of
 dedication not shown on the final map or parcel map for reversion shall be of
 no further force or effect.
 (Ord. 2019-286, passed 11-20-2019; Am. Ord. 2019-291, passed 12-18-2019)
-ARTICLE 4: DESIGN, DEDICATION, AND IMPROVEMENTS
+***** ARTICLE 4: DESIGN, DEDICATION, AND IMPROVEMENTS *****
 CHAPTER 7.65: DESIGN STANDARDS
 Section
    
@@ -12444,7 +12444,7 @@ provisions of this title and to the satisfaction of the Director of Community
 Services. The City Council shall provide final approval and acceptance of
 public park facilities and other fee title interests.
 (Ord. 2019-286, passed 11-20-2019; Am. Ord. 2019-291, passed 12-18-2019)
-ARTICLE 5: DEFINITIONS
+***** ARTICLE 5: DEFINITIONS *****
 CHAPTER 7.85: DEFINITIONS
 Section
    
@@ -12561,7 +12561,7 @@ it is filed.
 all text and maps, as it may be amended from time to time. See also DEVELOPMENT
 CODE.
 (Ord. 2019-286, passed 11-20-2019; Am. Ord. 2019-291, passed 12-18-2019)
-ARTICLE 6: GRADING
+***** ARTICLE 6: GRADING *****
 CHAPTER 7.90: GRADING REGULATIONS
 Section
    
@@ -19473,9 +19473,9 @@ visible to the patrons of the licensee and to persons in or on any parking lot
 or public sidewalk immediately adjacent to the licensed premises, which notify
 all persons that the provisions of division (A) above are applicable.
 (Ord. 2009-29, passed 5-20-2009)
-§ 11.10.020 OPEN ALCOHOLIC BEVERAGE CONTAINERS IN THE IMMEDIATE VICINITY OF A
-BAR, NIGHT CLUB, BEER GARDEN OR OTHER FACILITY SELLING ON SALE ALCOHOLIC
-BEVERAGES.
+** § 11.10.020 OPEN ALCOHOLIC BEVERAGE CONTAINERS IN THE IMMEDIATE VICINITY OF
+A BAR, NIGHT CLUB, BEER GARDEN OR OTHER FACILITY SELLING ON SALE ALCOHOLIC
+BEVERAGES. **
    (A)   It is unlawful for any person who has in his or her possession any
 bottle, can or other receptacle containing any alcoholic beverage which has
 been opened, or seal broken, or the contents of which have been partially
@@ -26628,7 +26628,7 @@ PARALLEL REFERENCES
 References to California Codes
 References to Ordinances
 REFERENCES TO CALIFORNIA CODES
-ADMINISTRATIVE CODE
+*** ADMINISTRATIVE CODE ***
  
  
 Cal. Code Cite     Code Section
@@ -26636,7 +26636,7 @@ Title 17, § 2606.410.04.020
 2606.8             10.04.180
                    
  
-BUSINESS AND PROFESSIONS CODE
+*** BUSINESS AND PROFESSIONS CODE ***
  
 Cal. Code Cite Code Section
 Cal. Code Cite                                  Code Section
@@ -26673,7 +26673,7 @@ Division 9 (commencing with § 23000)           11.10.010;
 26322                                           5.60.020
                                                 
  
-CIVIL CODE
+*** CIVIL CODE ***
  
 Cal. Code Cite Code Section
 Cal. Code Cite   Code Section
@@ -26703,7 +26703,7 @@ Cal. Code Cite   Code Section
                  8.24.010
                  
  
-CODE OF CIVIL PROCEDURE
+*** CODE OF CIVIL PROCEDURE ***
 Cal. Code Cite Code Section
 Cal. Code Cite                                                        Code
                                                                       Section
@@ -26723,7 +26723,7 @@ Article 3 (commencing with § 415.10) of Chapter 4 of Title 5 of part 11.20.170
                                                                       10.04.090
                                                                       
  
-CODE OF REGULATIONS
+*** CODE OF REGULATIONS ***
 Cal. Code Cite Code Section
 Cal. Code Cite                                                     Code Section
 Title 14, Division 1.5, Chapter 7, Subchapter 3, Article 3, §     8.21.110
@@ -26745,7 +26745,7 @@ Title 25, Division 1                                               8.18.010
 Title 25, Subsections 54—70                                      11.10.030
                                                                    
  
-CORPORATIONS CODE
+*** CORPORATIONS CODE ***
  
  
 Cal. Code Cite                                       Code Section
@@ -26754,20 +26754,20 @@ Part 2 (commencing with § 5110) of Div. 2 of Title 15.45.010
                                                      10.04.110
                                                      
  
-EDUCATION CODE
+*** EDUCATION CODE ***
  
 Cal. Code Cite Code Section
 100850         5.45.010
                
  
-FIRE CODE
+*** FIRE CODE ***
  
 Cal. Code Cite Code Section
 308.1          5.45.100
                
  
  
-FOOD AND AGRICULTURE CODE
+*** FOOD AND AGRICULTURE CODE ***
 Cal. Code Cite Code Section
 Cal. Code Cite Code Section
 6701 et seq.   5.01.020
@@ -26786,7 +26786,7 @@ Cal. Code Cite Code Section
                9.06.010
                
  
-GOVERNMENT CODE
+*** GOVERNMENT CODE ***
 Cal. Code Cite Code Section
 Cal. Code Cite                                                   Code Section
 Chapter 1 of Part 3 of Division 3.6 (commencing with § 900)     2.10.030
@@ -26948,7 +26948,7 @@ Title 9, Chapter 4 (commencing with § 84100)                    2.06.020
 81000—81016                                                    2.06.010
                                                                  
  
-HEALTH AND SAFETY CODE
+*** HEALTH AND SAFETY CODE ***
 Cal. Code Cite Code Section
 Cal. Code Cite   Code Section
 11018.5          5.50.010
@@ -27004,7 +27004,7 @@ Cal. Code Cite   Code Section
 121710           10.04.220
                  
  
-LABOR CODE
+*** LABOR CODE ***
  
 Cal. Code Cite Code Section
 432.7          5.01.230
@@ -27013,7 +27013,7 @@ Cal. Code Cite Code Section
 6404.5         5.24.030
                
  
-PENAL CODE
+*** PENAL CODE ***
 Cal. Code Cite Code Section
 Cal. Code Cite  Code Section
 290             11.26.040
@@ -27039,7 +27039,7 @@ Cal. Code Cite  Code Section
 4852.06 et seq. 5.01.140
                 
  
-PUBLIC CONTRACT CODE
+*** PUBLIC CONTRACT CODE ***
 Cal. Code Cite Code Section
 Cal. Code Cite Code Section
 20160 et seq.  3.12.010
@@ -27060,7 +27060,7 @@ Cal. Code Cite Code Section
                
  
  
-PUBLIC RESOURCES CODE
+*** PUBLIC RESOURCES CODE ***
 Cal. Code Cite Code Section
 Cal. Code Cite Code Section
 4201—4204    8.21.080
@@ -27072,7 +27072,7 @@ Cal. Code Cite Code Section
 49000 et seq.  6.30.010
                
  
-PUBLIC UTILITIES CODE
+*** PUBLIC UTILITIES CODE ***
 Cal. Code Cite Code Section
 Cal. Code Cite Code Section
 Division 2.5   5.06.010
@@ -27083,7 +27083,7 @@ Division 2.5   5.06.010
 21411          3.26.110
                
  
-REVENUE AND TAXATION CODE
+*** REVENUE AND TAXATION CODE ***
 Cal. Code Cite Code Section
 Cal. Code Cite                                                Code Section
 Chapter 3 (commencing with § 11921) of Part 6.7 of Division 23.22.140
@@ -27139,7 +27139,7 @@ Part 6.7 of Division 2                                        3.22.150
                                                               11.20.060
                                                               
  
-STREETS AND HIGHWAYS CODE
+*** STREETS AND HIGHWAYS CODE ***
  
 Cal. Code Cite Code Section
 2100 et seq.   3.20.010
@@ -27147,7 +27147,7 @@ Cal. Code Cite Code Section
 2113           3.20.010
                
  
-VEHICLE CODE
+*** VEHICLE CODE ***
 Cal. Code Cite Code Section
 Cal. Code Cite                                  Code Section
 Ch. 1 (commencing with § 4000) of Division 3   3.26.110
@@ -27177,7 +27177,7 @@ Ch. 10 (commencing with § 22650) of Division 1112.01.030
 39000 et seq. (Division 16.7)                   12.30.010
                                                 
  
-WATER CODE
+*** WATER CODE ***
  
 Cal. Code Cite Code Section
                15.01.015;
@@ -27186,7 +27186,7 @@ Cal. Code Cite Code Section
 13050(d)       15.01.020
                
  
-WELFARE AND INSTITUTIONS CODE
+*** WELFARE AND INSTITUTIONS CODE ***
  
 Cal. Code Cite Code Section
 5116           11.26.040

@@ -12,7 +12,7 @@ American Legal Publishing
 Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
-PREFACE
+**** PREFACE ****
       The La Puente Municipal Code, originally published by Book Publishing
 Company in 1960, has been kept current by regular supplementation. Supplements
 for this Municipal Code are now published by American Legal Publishing
@@ -8956,8 +8956,7 @@ district, the violator shall reimburse the City within thirty (30) days after
 the City engineer shall render an invoice for the same. The amount when paid
 shall be deposited in the City Treasury.
 (Ord. 613 § 2 (part), 1989)
-4.08.040 Section
-20.36.250—Annual inspection fee—Schedule and billing—Amended.
+4.08.040 Section 20.36.250—Annual inspection fee—Schedule and billing—Amended.
    Section 20.36.250 of Los Angeles County Code. Title 20, is amended by
 increasing the fees to one and one-half times the amount set forth in Section
 20.36.250 of Los Angeles County Code, Title 20.
@@ -9519,7 +9518,7 @@ safety of the community by establishing reasonable regulations relating to the
 storage, accumulation, collection and disposal of garbage, trash, rubbish,
 debris and other discarded matter, goods and material.
 (Ord. 976 § 2, 2021; Ord. 671 § 1 (part), 1992)
-Part 1 Definitions
+*** Part 1 Definitions ***
 4.12.030 Definitions.
    (a)   For the purposes of this chapter, the words, terms and phrases as
 defined in this section shall be construed as hereinafter set forth, unless it
@@ -10102,7 +10101,7 @@ exclusive solid waste handling services definitions relating to their
 respective contractual rights and obligations which may differ from or augment
 those set forth herein.
 (Ord. 976 § 2, 2021; Ord. 881 § 2, 2009; Ord. 671 § 1 (part), 1992)
-Part 2 Franchise
+*** Part 2 Franchise ***
 4.12.040 Authorization by city council—Franchise requirement.
    (a)   The city council may authorize, by franchise, a solid waste enterprise
 to provide solid waste handling services for residential, commercial/industrial
@@ -10235,7 +10234,7 @@ hearing, it shall base its action upon the standards delineated in Section
 4.12.100. Notice of such hearing shall be sent to the collector not less than
 fifteen days prior to the hearing.
 (Ord. 671 § 1 (part), 1992)
-Part 3 Rates
+*** Part 3 Rates ***
 4.12.150 Rates.
    The city council may, by resolution, establish or adjust limits on the
 rates, fees or charges that an authorized collector may charge to residential
@@ -10258,7 +10257,7 @@ collecting the charges for such collector’s services for providing such
 commercial/ industrial collections as may be authorized by this chapter, and
 the city shall have no liability or responsibility therefor.
 (Ord. 881 § 3, 2009; Ord. 671 § 1 (part), 1992)
-Part 4 Vehicles
+*** Part 4 Vehicles ***
 4.12.170 Vehicle identification.
    No person may operate any vehicle for the collection of solid waste or
 recyclables other than a collector who has a valid business license and solid
@@ -10321,7 +10320,7 @@ vehicle shall not again be utilized in the city until it has been inspected and
 approved by the city manager. The collector shall maintain its regular
 collection schedule regardless of the repair of any vehicle.
 (Ord. 671 § 1 (part), 1992)
-Part 5 Exclusions
+*** Part 5 Exclusions ***
 4.12.210 Residential householder exclusion.
    No provision of this chapter shall prevent residential householders from
 composting green wastes or from selling or disposing of recyclables generated
@@ -10433,7 +10432,7 @@ waste collection services offered by the authorized collector, but who uses the
 recyclables collection services offered by the authorized collector, must pay
 the applicable rates and charges for such recyclables collection services.
 (Ord. 881 § 6, 2009; Ord. 765 § 2 (part), 1998)
-Part 6 General Requirements
+*** Part 6 General Requirements ***
 4.12.260 Mandatory service.
    (a)   All solid waste collected from residential or commercial/industrial
 premises for a fee, service charge or other consideration, shall be collected
@@ -10647,7 +10646,7 @@ reasonable times and shall be maintained for a period of one year. Compliance
 with the requirements of this section are conditions to any permit or franchise
 which is awarded by the city.
 (Ord. 671 § 1 (part), 1992)
-Part 7 Residential Collection and Recycling
+*** Part 7 Residential Collection and Recycling ***
 4.12.420 Residential collection—Disposal and status of solid waste or
 recyclables.
    All solid waste collected by a collector shall be disposed of by the
@@ -10712,7 +10711,7 @@ may be approved by the city and at such times as may be agreed upon by the
 collector and the person requesting the service. If no agreement is reached,
 such special collections shall be provided as determined by the city manager.
 (Ord. 671 § 1 (part), 1992)
-Part 8 Commercial/Industrial Collection
+*** Part 8 Commercial/Industrial Collection ***
 4.12.490 Commercial/industrial—Disposal and status of solid waste.
    The commercial/industrial collector shall collect and dispose of all solid
 waste generated and presented for collection at each commercial/industrial
@@ -10783,7 +10782,7 @@ provide such service, the city manager may authorize the business owner to use
 another solid waste enterprise for such special service until the franchised
 collector can provide such service in its normal course of business.
 (Ord. 671 § 1 (part), 1992)
-Part 9 Penalty and Enforcement 
+*** Part 9 Penalty and Enforcement  ***
 4.12.550 Penalty and Enforcement.
    No person shall violate or fail to comply with any provision or requirement
 of this chapter. A violation of any provision of this chapter may be enforced
@@ -10792,7 +10791,7 @@ in any combination as provided by Chapters
 1.12 and
 3.20 of this code, in addition to any other available legal remedy.
 (Ord. 881, § 8, 2009)
-Part 10 SB 1383 Compliance Regulations*
+*** Part 10 SB 1383 Compliance Regulations* ***
 *Effective January 1, 2022 - Any conflict as of the effective date with the
 other existing parts of the Municipal Code will be resolved in favor of this
 regulation.
@@ -15137,7 +15136,7 @@ Article VI. Miscellaneous
 5.12.320   Conflicts.
 *Prior ordinance history: Ord. 1 §§ 6310—6317, 6320, 6320.1—6320.39, Ords. 75
 and 86.
-Article I. Purpose and Definitions
+*** Article I. Purpose and Definitions ***
 5.12.010 Purpose.
    The purpose of this chapter is to prevent community-wide adverse secondary
 effects that can be brought about by the unregulated operation of adult
@@ -15353,7 +15352,7 @@ adult entertainment business by more than ten percent of its floor area as it
 existed at the time an adult entertainment regulatory permit was issued for the
 business.
 (Ord. 788 § 3 (part), 1999)
-Article II. Adult Entertainment Regulatory Permit
+*** Article II. Adult Entertainment Regulatory Permit ***
 5.12.030 Permit required.
    No person shall operate, engage in, conduct or carry on any adult
 entertainment business unless the owner of such business first obtains and
@@ -15832,7 +15831,7 @@ entertainment regulatory permit approvals. Failure to comply with every such
 requirement shall be grounds for suspension or revocation of an adult
 entertainment regulatory permit.
 (Ord. 788 § 3 (part), 1999)
-Article III. Adult Entertainer Permit
+*** Article III. Adult Entertainer Permit ***
 5.12.160 Permit required.
    No person shall perform at an adult entertainment business unless such
 person first obtains and continues to maintain in full force and effect, an
@@ -15941,7 +15940,7 @@ permit is governed by Section
 shall be processed in accordance with the procedures governing initial
 applications as specified in this article.
 (Ord. 788 § 3 (part), 1999)
-Article IV. Suspension or Revocation of Permits
+*** Article IV. Suspension or Revocation of Permits ***
 5.12.230 Additional grounds for modification, revocation or suspension.
    (a)   Adult Entertainment Regulatory Permit. The director shall suspend or
 revoke an adult entertainment regulatory permit for the following causes:
@@ -16020,7 +16019,7 @@ months;
 issuance of a warning or the suspension of a permit, order the permittee to
 take appropriate corrective action.
 (Ord. 788 § 3 (part), 1999)
-Article V. Appeals
+*** Article V. Appeals ***
 5.12.250 Appeal.
    Any interested person may appeal the Director’s issuance, denial of
 issuance, renewal, denial of renewal, suspension or revocation of an adult
@@ -16057,7 +16056,7 @@ judicial review of that decision as provided by law and as further specified in
 Section
 5.08.140 of this title.
 (Ord. 788 § 3 (part), 1999)
-Article VI. Miscellaneous
+*** Article VI. Miscellaneous ***
 5.12.300 Existing adult businesses.
    (a)   Any adult business lawfully operating on the effective date of this
 article in violation hereof shall be deemed a nonconforming use.
@@ -18893,7 +18892,7 @@ Article III. Taxicab Operator’s Franchise
 5.48.570   Display flag.
 5.48.580   Fare schedule.
 5.48.590   Nonliability.
-Article I. Taxicab Operators
+*** Article I. Taxicab Operators ***
 5.48.010 Permit required.
    No person shall engage in, conduct or carry on the business of operating a
 taxicab service, where such service originates in the city, without first
@@ -19343,7 +19342,7 @@ service are in poor or inadequate operating condition; or
    (h)   The permittee violated the provisions of this chapter or allowed any
 of its employees or agents to violate the provisions of this chapter.
 (Ord. 788 § 28 (part), 1999)
-Article II. Taxicab Drivers
+*** Article II. Taxicab Drivers ***
 5.48.200 Taxicab driver’s permit required.
    No person shall operate or drive a taxicab which accepts passengers for
 transportation within the city of La Puente without first obtaining a valid
@@ -19579,7 +19578,7 @@ citation; the date of the notice to owner; or the date of any hearing, the city
 may dispose of the vehicle, in accordance with Section 1411 of the California
 Penal Code.
 (Ord. 788 § 28 (part), 1999)
-Article III. Taxicab Operator's Franchise
+*** Article III. Taxicab Operator's Franchise ***
 5.48.410 Franchise and permit required.
    No person shall engage in, conduct or carry on the business of operating a
 taxicab service, where such service originates in the city, without first
@@ -20213,7 +20212,7 @@ Article V. Definitions
 Article VI. Violations—Severability
 5.52.500   Violations—Enforcement.
 5.52.510   Severability.
-Article I. General Provisions
+*** Article I. General Provisions ***
 5.52.010 Title.
    This chapter is known and may be cited as the “telecommunications regulatory
 ordinance” of the city of La Puente.
@@ -20263,7 +20262,7 @@ telecommunications market.
 V, Section
 5.52.400.
 (Ord. 760 § 2 (part), 1998)
-Article II. Cable Television Systems
+*** Article II. Cable Television Systems ***
 5.52.100 Authority and findings.
    (a)   In accordance with applicable federal and state law, the city is
 authorized to grant one or more nonexclusive franchises to construct,
@@ -20519,7 +20518,7 @@ public interest and protect the public health, welfare and safety.
 franchise agreement authorized by the city council and provisions of this
 Article II, the provisions of the franchise agreement will control.
 (Ord. 760 § 2 (part), 1998)
-Article III. Open Video Systems
+*** Article III. Open Video Systems ***
 5.52.200 Applicability.
    The provisions of this Article III are applicable to an open video system
 operator, as defined below in Article V of this chapter, that intends to
@@ -20755,7 +20754,7 @@ procedures as may be mutually agreed upon by the city and the open video system
 operator and that will, in the judgment of the city council, best serve the
 public interest and protect the public health, welfare and safety.
 (Ord. 760 § 2 (part), 1998)
-Article IV. Other Telecommunications Services and Systems
+*** Article IV. Other Telecommunications Services and Systems ***
 5.52.300 Other multichannel video programming distributors.
    The term “cable system,” as defined in federal law and as set forth in
 Article V of this chapter, does not include a facility that serves subscribers
@@ -20961,7 +20960,7 @@ ministerial permits to construct facilities after a predetermined date may be
 required to delay such construction until the next quarterly “window” that is
 established by the city.
 (Ord. 760 § 2 (part), 1998)
-Article V. Definitions
+*** Article V. Definitions ***
 5.52.400 Defined terms and phrases.
    (a)   For the purposes of this chapter, the words, terms, phrases, and their
 derivations set forth in this Article V have the meanings set forth below.
@@ -21118,7 +21117,7 @@ defined in this Article V will be given their meaning as used in Title 47 of
 the United States Code, as amended, and, if not defined in that code, their
 meaning as used in Title 47 of the Code of Federal Regulations.
 (Ord. 760 § 2 (part), 1998)
-Article VI. Violations—Severability
+*** Article VI. Violations—Severability ***
 5.52.500 Violations—Enforcement.
    (a)   Any person who wilfully violates any provision of this chapter is
 guilty of a misdemeanor and is punishable as provided for in
@@ -25701,8 +25700,7 @@ being served and thirty days thereafter shall have the authority to order the
 disconnection and removal of any and all overhead service wires and associated
 facilities supplying utility service to the property.
 (Ord. 303 § 1 (part); November 26, 1968)
-8.40.110 Alternative to Section
-8.40.100.
+8.40.110 Alternative to Section 8.40.100.
    The city council may, at its discretion, adopt the following procedure in
 lieu of Section
 8.40.100:
@@ -29668,8 +29666,7 @@ driveways, or parking spaces shall be prohibited in the front yard.
 provided required parking. However, where a carport provides additional, non-
 required parking in the R-E and R-1 zones, such carport shall be permitted only
 within the rear one-third of the lot. On a corner lot, the carport shall be set
-back a minimum of 40 feet from any street-side lot line. (Ord. 935 § 3 (part),
-2015)
+back a minimum of 40 feet from any street-side lot line. (Ord. 935 §
 10.30.090   Parking Lot Location.
    A.   Residential Uses. Required parking facilities for residential uses as
 specified in this Chapter shall be located on the same lot or parcel of land
@@ -32086,8 +32083,8 @@ Chapter 3.20. In addition, the City may enforce the violation of this Chapter
 by means of civil enforcement through a restraining order, a preliminary or
 permanent injunction, or by any other means authorized under the law. (Ord. 935
 § 3 (part), 2015)
-Chapter 10.44
-MARIJUANA REGULATIONS
+**** Chapter 10.44
+MARIJUANA REGULATIONS ****
 Sections:
 10.44.010   Purpose and Applicability.
 10.44.020   Definitions.
@@ -41394,7 +41391,7 @@ STATUTORY REFERENCES FOR CALIFORNIA CITIES
    The statutory references direct the code user to those portions of the state
 statutes that are applicable to the laws of the municipality. This reference
 list is up-to-date through July 2004.
-General Provisions
+*** General Provisions ***
 Code adoption
 Gov. Code §§ 50022.1—50022.10
 Ordinances
@@ -41420,7 +41417,7 @@ General powers
 Gov. Code § 37100 et seq. and Cal. Const. Art. 11 § 7
 Conflict of interest code
 Gov. Code § 87100 et seq.
-Administration and Personnel
+*** Administration and Personnel ***
 City records
 Gov. Code §§ 34090—34090.7 et seq.
 Alternative forms of government
@@ -41461,7 +41458,7 @@ Personnel system
 Gov. Code § 45000 et seq.
 Retirement systems
 Gov. Code § 45341 et seq.
-Revenue and Finance
+*** Revenue and Finance ***
 Financial powers
 Gov. Code § 37200 et seq.
 Transfer of tax function to county
@@ -41490,7 +41487,7 @@ Claims against public entities
 Gov. Code § 900 et seq.
 Development fees
 Gov. Code § 66000 et seq.
-Business Licenses, Taxes and Regulations
+*** Business Licenses, Taxes and Regulations ***
 Authority to license businesses
 Gov. Code § 37101, Bus. and Prof. Code § 16000 et seq. and Const. Art. II, § 2
 Bingo
@@ -41514,7 +41511,7 @@ Automatic checkout systems
 Civil Code § 7100 et seq.
 Telecommunications
 Gov. Code § 50030
-Animals
+*** Animals ***
 Animals generally
 Food and Agric. Code § 16301 et seq.
 Dogs
@@ -41525,7 +41522,7 @@ Rabies control
 Health and Saf. Code § 121575 et seq.
 Cruelty to animals
 Penal Code § 597 et seq.
-Health and Safety
+*** Health and Safety ***
 Garbage and refuse collection and disposal Nuisance abatement
 Gov. Code § 38771 et seq. and Penal Code § 373a
 Littering
@@ -41543,7 +41540,7 @@ Noise control
 Health and Saf. Code § 46000 et seq. and Gov. Code § 65302(f)
 Hospitals
 Gov. Code § 37600 et seq.
-Public Peace, Morals and Welfare
+*** Public Peace, Morals and Welfare ***
 Crimes against public justice
 Penal Code § 92 et seq.
 Crimes against the person
@@ -41561,7 +41558,7 @@ Loitering by criminal street gangs
 Penal Code § 186.22(f)
 Weapons
 Penal Code § 12000 et seq.
-Vehicles and Traffic
+*** Vehicles and Traffic ***
 Local traffic rules and regulations
 Vehicle Code § 21100 et seq.
 Traffic signs, signals and markings
@@ -41588,7 +41585,7 @@ Bicycles
 Vehicle Code §§ 21100, 21206 and 39000 et seq.
 Penalties
 Vehicle Code § 40000.1 et seq.
-Streets, Sidewalks and Public Places
+*** Streets, Sidewalks and Public Places ***
 Improvement Act of 1911
 Str. and Hwys. Code § 5000 et seq.
 Construction of sidewalks and curbs
@@ -41607,7 +41604,7 @@ Charitable solicitations
 Bus. and Prof. Code § 17510 et seq.
 Advertising displays
 Bus. and Prof. Code §§ 5230 and 5231
-Public Services
+*** Public Services ***
  
 Municipal water systems
 Gov. Code § 38730 et seq.
@@ -41615,7 +41612,7 @@ Municipal sewers
 Gov. Code § 38900 et seq. and Health and Saf. Code § 5470 et seq.
 Water wells
 Water Code § 13803 et seq.
-Buildings and Construction
+*** Buildings and Construction ***
 Authority to regulate buildings and construction
 Gov. Code §§ 38601 and 38660
 State Housing Law
@@ -41628,11 +41625,11 @@ Inspection warrants
 Civil Pro. Code § 1822.50 et seq.
 Development fees
 Gov. Code § 66000 et seq.
-Subdivisions
+*** Subdivisions ***
  
 Subdivision Map Act
 Gov. Code § 66410 et seq.
-Zoning
+*** Zoning ***
 Local planning generally
 Gov. Code § 65000 et seq.
 Local authority to regulate land use
@@ -41643,7 +41640,7 @@ Open-space zoning
 Gov. Code § 65910 et seq.
 Family day care homes
 Health and Saf. Code § 1597.30 et seq.
-Environmental Protection
+*** Environmental Protection ***
  
 Environmental Quality Act
 Public Res. Code § 21000 et seq.

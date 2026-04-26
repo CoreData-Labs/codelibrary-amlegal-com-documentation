@@ -10,7 +10,7 @@ American Legal Publishing
 525 Vine Street * Suite 310 * Cincinnati, Ohio 45202
 1-800-445-5588 * www.amlegal.com
 ADOPTING ORDINANCE
-ORDINANCE NO. 2000-015
+**** ORDINANCE NO. 2000-015 ****
 AN ORDINANCE OF THE CITY OF CULVER CITY, CALIFORNIA, ENACTING A MUNICIPAL CODE,
 REVISING, AMENDING, RESTATING, CODIFYING AND COMPILING CERTAIN EXISTING GENERAL
 ORDINANCES OF THE CITY OF CULVER CITY.
@@ -340,20 +340,20 @@ Article XXI. Miscellaneous 
 2100.   Violations.
    
 2101.   Validity.
-PREAMBLE
+*** PREAMBLE ***
    The People of the City of Culver City, by popular vote, have enacted this
 Charter to establish a responsive, efficient, effective and accountable
 government through which all voices in our diverse community can be heard; to
 ensure fair representation and distribution of government resources; to provide
 a safe and harmonious environment for our mutual well-being; and to promote the
 principles of liberty, equality and home rule.
-ARTICLE I. NAME AND CHARTER STATUS
-SECTION 100. NAME AND CHARTER STATUS.
+*** ARTICLE I. NAME AND CHARTER STATUS ***
+** SECTION 100. NAME AND CHARTER STATUS. **
    The municipal corporation now existing and known as the “City of Culver
 City” shall continue to exist, under the same name, as a charter city and a
 municipal corporation organized and existing under the Constitution and laws of
 the State of California.
-ARTICLE II. DEFINITIONS
+*** ARTICLE II. DEFINITIONS ***
 SECTION 200. DEFINITIONS.
    As used in this Charter:
    (a)   “Board of Education” shall mean and refer to the Board of Education of
@@ -375,17 +375,17 @@ board, committee or other governmental body.
    (i)   “School District” shall mean and refer to the Culver City Unified
 School District.
    (j)   “State” shall mean and refer to the State of California.
-ARTICLE III. FORM OF GOVERNMENT
+*** ARTICLE III. FORM OF GOVERNMENT ***
 SECTION 300. FORM OF GOVERNMENT.
    The municipal government established by this Charter shall be the “Council-
 Manager” form of government, under which the City Council sets policy and the
 City Manager administers the government.
-ARTICLE IV. BOUNDARIES
+*** ARTICLE IV. BOUNDARIES ***
 SECTION 400. BOUNDARIES.
    The boundaries of the City shall be those boundaries existing as of the
 effective date of this Charter. The boundaries may later be changed in the
 manner authorized by State law.
-ARTICLE V. POWERS OF THE CITY
+*** ARTICLE V. POWERS OF THE CITY ***
 SECTION 500. POWERS OF THE CITY.
    The City shall have all of the rights, powers and privileges which may be
 granted to a charter city under the Constitution and laws of the State, as
@@ -398,7 +398,7 @@ Charter and in the Constitution.
    The enumeration in this Charter of any particular power shall not be held to
 exclude other powers, nor to be any limitation upon this general grant of
 power.
-ARTICLE VI. CITY COUNCIL
+*** ARTICLE VI. CITY COUNCIL ***
 SECTION 600. NUMBER, ELECTION AND TERM OF OFFICE.
    The City Council shall consist of five members elected at-large, at the
 times and in the manner provided in this Charter. A full term of office shall
@@ -648,7 +648,7 @@ posted in at least three public places within the City.
    Posting of legal notices in three public places shall be sufficient, without
 publication if the designated newspaper is unavailable and a suitable
 replacement cannot be designated.
-ARTICLE VII. CITY ADMINISTRATION
+*** ARTICLE VII. CITY ADMINISTRATION ***
 SECTION 700. POWERS AND DUTIES OF CITY MANAGER.
    The City Council shall appoint the City Manager who shall be the chief
 executive officer of the City, responsible to the City Council for the
@@ -682,7 +682,7 @@ members, from advising the City Manager of any information which might assist
 the City Manager in the discharge of the City Manager's duties; or contacting
 City employees for the purpose of inquiry, obtaining information or advising
 employees of citizen complaints.
-ARTICLE VIII. ANNUAL BUDGET
+*** ARTICLE VIII. ANNUAL BUDGET ***
 SECTION 800. BUDGET PREPARATION.
    All Department Heads shall, upon request, provide the City Manager with
 estimates of revenues and expenditures for their departments, detailed in the
@@ -722,7 +722,7 @@ expended or lawfully encumbered.
 SECTION 805. AMENDMENTS.
    After the adoption of the budget, the City Council may amend or supplement
 the budget only by a vote of at least four-fifths of its members.
-ARTICLE IX. CITY ATTORNEY
+*** ARTICLE IX. CITY ATTORNEY ***
 SECTION 900. ELIGIBILITY.
    The City Attorney shall be an attorney-at-law, licensed and authorized to
 practice in all of the courts of the State.
@@ -744,8 +744,8 @@ this Charter, of City ordinances or of State laws, which in the opinion of the
 City Attorney warrant prosecution; and
    (f)   Perform such other duties as are specified in this Charter, or by
 ordinance, resolution or other action of the City Council.
-ARTICLE X. BOARD OF EDUCATION
-SECTION 1000. NUMBER AND TERM.
+*** ARTICLE X. BOARD OF EDUCATION ***
+** SECTION 1000. NUMBER AND TERM. **
    The Board of Education shall consist of five members, elected at-large from
 the School District, for a term of four years.
 SECTION 1001. ELIGIBILITY.
@@ -796,14 +796,14 @@ more than two consecutive years in such office.
 SECTION 1005. SPECIAL ELECTIONS.
    The Board of Education may, at its discretion, call an election for any
 reason sanctioned by law at any time it deems appropriate.
-ARTICLE XI. COMMISSIONS, BOARDS AND COMMITTEES
-SECTION 1100. IN GENERAL.
+*** ARTICLE XI. COMMISSIONS, BOARDS AND COMMITTEES ***
+** SECTION 1100. IN GENERAL. **
    The City Council may, by ordinance, establish and abolish such commissions
 and boards as it may determine, from time to time, to be necessary for the
 effective and efficient governance of the City, to encourage citizen
 participation in local government and maintain positive human relations in the
 community.
-SECTION 1101. APPROPRIATIONS.
+** SECTION 1101. APPROPRIATIONS. **
    The City Council shall appropriate sufficient funds for the efficient and
 proper functioning of all City commissions and boards.
 SECTION 1102. CHAIRPERSON AND VICE CHAIRPERSON.
@@ -834,7 +834,7 @@ SECTION 1105. COMMITTEES.
    The City Council, by ordinance, resolution or other action, may establish
 and abolish committees for a specified purpose, and shall appropriate
 sufficient funds for the efficient and proper functioning of such committees.
-ARTICLE XII. CIVIL SERVICE
+*** ARTICLE XII. CIVIL SERVICE ***
 SECTION 1200. MERIT PRINCIPLE.
    Appointments and promotions in the administrative service of the City shall
 be made according to merit and fitness, to be ascertained, so far as
@@ -866,7 +866,7 @@ rating or report in regard to any application, test certification or
 appointment held or made under the Civil Service System or in any manner commit
 or attempt any fraud preventing the impartial execution of such Civil Service
 System or its rules and regulations.
-ARTICLE XIII. RETIREMENT SYSTEM
+*** ARTICLE XIII. RETIREMENT SYSTEM ***
 SECTION 1300. PUBLIC EMPLOYEES' RETIREMENT SYSTEM.
    Plenary authority and power are hereby vested in the City, its City Council
 and its several officers, agents and employees, to do and perform any act or
@@ -877,8 +877,8 @@ Employees' Retirement System. The City Council may terminate the contract with
 the Board of Administration of the Public Employees' Retirement System, whereby
 all employees are members of the System, only under authority granted by
 ordinance adopted by majority vote at a City election.
-ARTICLE XIV. GENERAL PROVISIONS
-RELATING TO OFFICERS AND EMPLOYEES
+*** ARTICLE XIV. GENERAL PROVISIONS
+RELATING TO OFFICERS AND EMPLOYEES ***
 SECTION 1400. OFFICIAL BONDS.
    The City Council shall fix the amounts and terms of the official bonds of
 all employees who are required to give such bonds. All bonds shall be executed
@@ -920,7 +920,7 @@ SECTION 1404. IMPROPER POLITICAL ACTIVITY.
 facilities of the City be used for, improper political activities. The City
 Council shall have the authority to establish rules and regulations to
 implement this policy.
-ARTICLE XV. ELECTIONS
+*** ARTICLE XV. ELECTIONS ***
 SECTION 1500. GENERAL MUNICIPAL ELECTIONS.
    General municipal elections for the filling of all elective offices, other
 than the Board of Education, shall be held in the City on the date of the
@@ -953,7 +953,7 @@ SECTION 1505. ELECTIONS BY MAIL.
    The City Council may, by ordinance, authorize the conduct of elections
 wholly by mail, under which all votes shall be cast in the manner of absentee
 ballots.
-ARTICLE XVI. FINANCIAL AND FISCAL MATTERS
+*** ARTICLE XVI. FINANCIAL AND FISCAL MATTERS ***
 SECTION 1600. FISCAL YEAR.
    The fiscal year of the City government shall begin on the first day of July
 of each year and end on the thirtieth day of June of the following year;
@@ -1060,7 +1060,7 @@ shall be placed on file in the office of the City Clerk and made available for
 inspection by the general public. Such accountant or firm shall have no direct
 or indirect personal interest in the fiscal affairs of the City or of any of
 the officers of the City.
-ARTICLE XVII. FRANCHISES
+*** ARTICLE XVII. FRANCHISES ***
 SECTION 1700. FRANCHISES.
    The City Council may, by ordinance, grant a franchise to furnish the City
 and its inhabitants with any public utility or service and to use the public
@@ -1082,7 +1082,7 @@ Thereafter, the City Council may amend, grant or deny the franchise. Such
 decision shall be final and conclusive, subject to the right of referendum of
 the People. The provisions of this section shall not apply to a transfer or
 assignment of an existing franchise.
-ARTICLE XVIII. REVENUE RETENTION
+*** ARTICLE XVIII. REVENUE RETENTION ***
 SECTION 1800. REDUCTIONS PROHIBITED.
    With regard to municipal affairs and areas not preempted by the State, any
 revenues raised and collected by the City shall not be subject to subtraction,
@@ -1095,7 +1095,7 @@ mandating authority provides sufficient funds for the performance of such
 function. The City Council may instruct any department, commission, board,
 committee, officer or employee of the City to disregard any mandate for which
 adequate funding has not been provided.
-ARTICLE XIX. CHARTER REVIEW COMMITTEE
+*** ARTICLE XIX. CHARTER REVIEW COMMITTEE ***
 SECTION 1900. CHARTER REVIEW COMMITTEE.
    Beginning in January 2014, and in January every 10 years thereafter, the
 City Council shall hold a public hearing to consider the need for a
@@ -1107,7 +1107,7 @@ Council any proposed amendments to the Charter. The City Council shall act upon
 the recommendations of the Committee before the last day to place the proposed
 amendments on the ballot at the next regular municipal election. The City
 Council may, at its discretion, appoint a Charter Review Committee at any time.
-ARTICLE XX. SUCCESSION AND TRANSITION
+*** ARTICLE XX. SUCCESSION AND TRANSITION ***
 SECTION 2000. EFFECTIVE DATE OF CHARTER.
    This Charter shall be effective on the later of July 1, 2006, or the date it
 is accepted and filed by the Secretary of State.
@@ -1175,7 +1175,7 @@ under those sections, the City Attorney shall so advise the City Council. Upon
 the adoption by the City Council of a resolution to such effect, the obsolete
 sections shall be deemed to have expired, and the City Clerk shall then remove
 those sections from the next printing of this Charter.
-ARTICLE XXI. MISCELLANEOUS
+*** ARTICLE XXI. MISCELLANEOUS ***
 SECTION 2100. VIOLATIONS.
    A violation of any provision of this Charter shall be a misdemeanor, except
 that such violation may be prosecuted as an infraction at the discretion of the
@@ -1888,7 +1888,7 @@ Meetings
    
 3.01.160   Disobedience of subpoenas; misleading statements under oath
 prohibited
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 3.01.005 COMPENSATION FOR COUNCIL MEMBERS.
    Pursuant to the City Charter and Cal. Gov't Code § 36516, the salary of each
 Council member is hereby established at One Thousand Two Hundred Sixty-One
@@ -1920,7 +1920,7 @@ signatures of the Mayor and City Treasurer.
 Cross-reference:
    Finance and revenue, see
 Ch. 3.07
-MEETINGS
+*** MEETINGS ***
 § 3.01.100 TIME AND PLACE.
    All official, regular and adjourned meetings of the City Council shall be
 held in the City Hall on the second and fourth Mondays of each month at 7:00
@@ -2238,7 +2238,7 @@ Redevelopment Agency
 3.03.510   Term limits
    
 3.03.515   Authorization to continue agency
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 3.03.005 CREATION; COMPOSITION; ELIGIBILITY; COMPENSATION.
    There shall be a Civil Service Commission, Cultural Affairs Commission,
 Parks, Recreation, and Community Services Commission, and Planning Commission,
@@ -2322,7 +2322,7 @@ directly by the City Council.
 that its programs, policies and activities provide equal access and
 opportunities to all persons.
 (Ord. No. 2020-004 § 2 (part))
-CIVIL SERVICE COMMISSION
+*** CIVIL SERVICE COMMISSION ***
 § 3.03.100 POWERS AND DUTIES.
    The Civil Service Commission shall have the following powers and duties:
    A.   Act in an advisory capacity to the City Council on matters pertaining
@@ -2345,7 +2345,7 @@ Council;
 inconsistent with the City Charter or this Code, as may be prescribed by
 ordinance, resolution, City Council policy or other City Council action.
 (Ord. No. 2011-005 § 1 (part))
-CULTURAL AFFAIRS COMMISSION
+*** CULTURAL AFFAIRS COMMISSION ***
 § 3.03.200 POWERS AND DUTIES.
    The Cultural Affairs Commission shall have the following powers and duties:
    A.   Act in an advisory capacity to the City Council on matters pertaining
@@ -2362,7 +2362,7 @@ the quality of life for City residents; and
 this Code, as may be prescribed by ordinance, resolution, City Council policy
 or other City Council action.
 (Ord. No. 2011-005 § 1 (part); Ord. No. 2020-004 § 3; Ord. No. 2023-007 § 1)
-PARKS, RECREATION AND COMMUNITY SERVICES COMMISSION
+*** PARKS, RECREATION AND COMMUNITY SERVICES COMMISSION ***
 § 3.03.300 POWERS AND DUTIES.
    The Parks, Recreation, and Community Services Commission shall have the
 following powers and duties:
@@ -2388,7 +2388,7 @@ compatibility, and other relevant factors; and
 this Code, as may be prescribed by ordinance, resolution, City Council policy
 or other City Council action.
 (Ord. No. 2011-005 § 1 (part); Ord. No. 2020-004 § 4)
-PLANNING COMMISSION
+*** PLANNING COMMISSION ***
 § 3.03.400 POWERS AND DUTIES.
    The Planning Commission shall have the following powers and duties:
    A.   After a public hearing thereon, recommend to the City Council the
@@ -2426,7 +2426,7 @@ accordance with the appeal procedures and within the time limits set forth in
 Chapter 17.640 of the Zoning Code. The Board may refer such matters to the
 Planning Commission, as a whole, as it deems advisable.
 (Ord. No. 2011-005 § 1 (part))
-REDEVELOPMENT AGENCY
+*** REDEVELOPMENT AGENCY ***
 § 3.03.500 NECESSITY DECLARED; AUTHORITY.
    It is hereby found and declared, pursuant to Section 33101 of the Community
 Redevelopment Law, that there is a need for the redevelopment agency created by
@@ -2540,7 +2540,7 @@ Cross-reference:
 9.06.025
    Application for parade permit; investigation by Police Department, see §
 9.06.120
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 3.04.005 SERVICE FEES.
    A.   Purpose. It is the purpose and intention of this Section to provide for
 a method whereby certain services rendered by the Police Department are
@@ -2561,7 +2561,7 @@ fixed by City Council resolution:
       4.   Persons required to be fingerprinted for service in charitable
 organizations.
 ('65 Code, § 28-20) (Ord. No. CS-457)
-POLICE BADGES
+*** POLICE BADGES ***
 § 3.04.100 OFFICIAL BADGES; TYPE; MANNER ISSUED.
    A.   Type. The official police officer badge of the City shall be of the
 type and design and size approved by the City Council in Resolutions Nos. 2249
@@ -2603,7 +2603,7 @@ return to the Chief of Police any badge issued to said person by the City;
 provided, that upon retirement a badge engraved “retired” may be retained by
 the retired employee.
 ('65 Code, § 28-9) (Ord. No. 943 § 1 (part))
-POLICE RESERVE CORPS
+*** POLICE RESERVE CORPS ***
 § 3.04.200 ESTABLISHMENT.
    There is hereby established, in and for the City of Culver City, a Police
 Reserve Corps, each member appointed by the Chief of Police.
@@ -2630,7 +2630,7 @@ carry such identification as prescribed by the Chief of Police.
    It shall be unlawful for any person not an authorized member of the Corps to
 represent himself in any manner as one.
 ('65 Code, § 28-17) (Ord. No. CS-58 § 6)
-DISPOSITION OF UNCLAIMED PROPERTY
+*** DISPOSITION OF UNCLAIMED PROPERTY ***
 § 3.04.300 UNCLAIMED PROPERTY; DISPOSITION PROCEDURE.
    A.   Unclaimed property in the possession of the Police Department shall be
 held by the Police Department for a period of at least four (4) months, except
@@ -2674,7 +2674,7 @@ Council for review before conversion.
    The provisions of this Subchapter shall have no application to property that
 has been intentionally abandoned by its owner.
 (Ord. No. 2005-013 § 1)
-MILITARY EQUIPMENT USE POLICY
+*** MILITARY EQUIPMENT USE POLICY ***
 § 3.04.400 DEFINITIONS.
    For the purposes of this Subchapter, the following terms shall have the
 following meanings:
@@ -2885,7 +2885,7 @@ Cross-reference:
 3.06.055
    Public Employees’ Retirement System, see Charter §
 1300
-CIVIL SERVICE SYSTEM
+*** CIVIL SERVICE SYSTEM ***
 § 3.05.005 PURPOSE.
    To establish and maintain an equitable and uniform procedure for dealing
 with personnel matters and to place municipal employment on a merit basis so
@@ -3087,7 +3087,7 @@ an employee's exclusive administrative remedy. An employee may not file a
 grievance or other form of complaint for any determination, decision or action
 taken under this policy, except as provided in Subsection G. herein.
 ('65 Code, § 2-45.5) (Ord. No. 88-027 § 1; Ord. No. 2006-011 § 1)
-POLICE OFFICERS' AND FIRE FIGHTERS' SALARIES
+*** POLICE OFFICERS' AND FIRE FIGHTERS' SALARIES ***
 § 3.05.200 SHORT TITLE.
    This Subchapter shall be known as “The Salary Act for Police Officers and
 Fire Fighters of the City of Culver City.”
@@ -3155,7 +3155,7 @@ unconstitutional or illegal for any purpose, then the illegal Section shall not
 affect the validity or legality of the remaining portion or portions of this
 Subchapter.
 ('65 Code, § 2-49) (Ord. No. 84-020 § 1)
-RETIREMENT SYSTEM
+*** RETIREMENT SYSTEM ***
 § 3.05.300 RETIREMENT SYSTEM CONTRACT.
    A.   Contract. A contract between the City of Culver City and the Board of
 Administration, California State Employees' Retirement System, in the form
@@ -3596,7 +3596,7 @@ Ch. 15.01
 3.01.020
    Financial and fiscal matters, see Charter §§
 1600 et seq.
-PURCHASING AND CONTRACTING SYSTEM
+*** PURCHASING AND CONTRACTING SYSTEM ***
 § 3.07.005 PURPOSE AND INTENT.
    The purpose and intent of this Subchapter is to establish procedures for the
 purchase of or contracting for equipment, goods, supplies and services; to
@@ -4083,7 +4083,7 @@ Department, the Purchasing Officer may authorize the conveyance of that peace
 officer's Department partnered police dog on behalf of and for resale to the
 retiring peace officer at no cost or below fair market value.
 (Ord. 2018-008 § 1 (part))
-FUNDS
+*** FUNDS ***
 § 3.07.200 SPECIAL GAS TAX STREET IMPROVEMENT FUND.
    A.   Source. All moneys received by the City from the State of California
 under the provisions of the Streets and Highways Code for the acquisition of
@@ -4145,7 +4145,7 @@ derived from each annual tax levy and from other sources for Capital Outlay
 purposes shall be apportioned and appropriated not later than the end of the
 third quarter of the fiscal year.
 ('65 Code, § 2-91) (Ord. CS-188 §§ 1 - 5)
-REVENUE BONDS
+*** REVENUE BONDS ***
 § 3.07.300 ISSUANCE AND SALE OF REVENUE BONDS.
    The City Council, exercising the powers reserved to the City under Cal.
 Const. Art. XI, § 5, and pursuant to City of Culver City Charter §
@@ -4417,7 +4417,7 @@ Cross-reference:
 1602
    Tax system, see Charter §
 1601
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 3.08.005 TAX MODIFICATIONS.
    A.   Suspension of operation. From time to time, by resolution, the City
 Council may suspend the operation of any tax for any period of time if the City
@@ -4436,7 +4436,7 @@ terminates an existing tax the proceeds of which the City Council finds and
 determines are necessary for the usual and ordinary operations of the City.
 ('65 Code, § 33G-3)
 (Ord. No. CS-933 § 1(A, B, C))
-SALES AND USE TAX
+*** SALES AND USE TAX ***
 § 3.08.100 PURPOSE.
    The purpose of this Subchapter is as follows:
    A.   To adopt a sales and use tax regulation which complies with the
@@ -4648,7 +4648,7 @@ of Culver City any sales or use tax accrued and owing by reason of the
 provisions of Ordinances Nos. 627 and CS-152 and all amendments thereto, in
 force and effect prior to and including March 31, 1956.
 ('65 Code, § 33-12) (Ord. No. CS-797 § 1)
-UTILITY USERS’ TAX
+*** UTILITY USERS’ TAX ***
 § 3.08.200 TITLE.
    This Subchapter shall be known as the Utility Users’ Tax Ordinance of the
 City of Culver City.
@@ -5595,7 +5595,7 @@ send by first class mail, a copy of the ordinance change to all collectors and
 remitters of the city’s utility users taxes according to the latest payment
 records of the Tax Administrator.
 (Ord. No. 2000-001 § 1 (part))
-ESSENTIAL CITY SERVICES TRANSACTIONS AND USE TAX
+*** ESSENTIAL CITY SERVICES TRANSACTIONS AND USE TAX ***
 § 3.08.300 TITLE.
    This Subchapter shall be known as the Essential City Services Transactions
 and Use Tax Ordinance. The City of Culver City hereinafter shall be called
@@ -5848,7 +5848,7 @@ on the subject.
    The authority to levy the tax imposed by this Subchapter shall expire March
 31, 2033.
 (Ord. No. 2012-009 § 1 (part); Ord. No. 2020-008 § 1 (part))
-REAL PROPERTY TRANSFER TAX
+*** REAL PROPERTY TRANSFER TAX ***
 § 3.08.400 TAX IMPOSED.
    A.   There is hereby imposed on each deed, instrument, or writing by which
 any lands, tenements, or other realty sold within the City shall be granted,
@@ -6048,7 +6048,8 @@ provisions or applications of this Subchapter which can be given effect without
 the invalid provision or application, and to this end the provisions of this
 Subchapter are declared to be severable.
 ('65 Code, § 33D-15) (Ord. No. CS-921 § 1 (part))
-NEIGHBORHOOD SAFETY AND CITY SERVICES PROTECTION TRANSACTIONS AND USE TAX
+*** NEIGHBORHOOD SAFETY AND CITY SERVICES PROTECTION TRANSACTIONS AND USE TAX
+***
 § 3.08.500 TITLE.
    This Subchapter shall be known as the City of Culver City Neighborhood
 Safety and City Services Protection Transactions and Use Tax Ordinance. The
@@ -6298,7 +6299,7 @@ transactions and use taxes and shall take effect immediately upon its adoption
 by a majority vote of the qualified electors of the City voting in an election
 on the subject.
 (Ord. No. 2018-017 § 1 (part))
-TAXES; CONDOMINIUMS
+*** TAXES; CONDOMINIUMS ***
 § 3.08.600 CONDOMINIUM TAX LAW.
    There is hereby imposed upon the development and construction of all
 condominium projects, whether of new construction or of conversion of an
@@ -6350,7 +6351,7 @@ Angeles, State of California, and particularly described as follows, to wit:
 Dated this       day of                             , 19    
    City Treasurer”
 ('65 Code, § 33E-4) (Ord. No. CS-782 § 1 (part); Ord. No. 96-007 § 1 (part))
-WATER EXTRACTION TAX
+*** WATER EXTRACTION TAX ***
 § 3.08.700 TAX IMPOSED.
    On and after July 1, 1978, every person who extracts water from a well or
 wells shall pay a tax on each acre-foot of water extracted in an amount which
@@ -6360,7 +6361,7 @@ foot of untreated water. Said tax shall not apply to any water which is subject
 to the City's utility users' tax and for the use of which a utility users' tax
 is paid.
 ('65 Code, § 33F-1) (Ord. No. CS-934 § 1; Ord. No. CS-968 § 2)
-COMMERCIAL AND INDUSTRIAL DEVELOPMENT TAX
+*** COMMERCIAL AND INDUSTRIAL DEVELOPMENT TAX ***
 § 3.08.800 TITLE.
    This tax shall be known as the “Commercial and Industrial Development Tax.”
 ('65 Code, § 33J-1) (Ord. No. 90-004 § 1)
@@ -6411,7 +6412,7 @@ earthquake rehabilitation required by this Code.
 the building permit is not used for such construction. Any claim for refund
 shall be processed in the same manner as refunds for building permit fees.
 ('65 Code, § 33J-6) (Ord. No. 90-004 § 1)
-CIGARETTE TAX
+*** CIGARETTE TAX ***
 § 3.08.900 DEFINITIONS.
    For the purpose of this Subchapter certain terms used herein are defined as
 follows:
@@ -6613,7 +6614,7 @@ imposed before October 1, 1967, but shall be suspended in the same manner that
 other provisions of this Subchapter are suspended for taxes imposed upon or
 after October 1, 1967.
 ('65 Code, § 33A-13) (Ord. No. CS-579 § 1)
-NEIGHBORHOOD SERVICES AND COMMUNITY SAFETY TRANSACTIONS AND USE TAX
+*** NEIGHBORHOOD SERVICES AND COMMUNITY SAFETY TRANSACTIONS AND USE TAX ***
 § 3.08.1000 TITLE.
    This Subchapter shall be known as the City of Culver City Neighborhood
 Services And Community Safety Transactions and Use Tax Ordinance. The City of
@@ -6905,7 +6906,7 @@ Anti-Price Gouging
 prices during a declared emergency
    
 3.09.215   Extension of time period during which prohibition is in effect
-DISASTER COUNCIL AND EMERGENCY SERVICES ORGANIZATION
+*** DISASTER COUNCIL AND EMERGENCY SERVICES ORGANIZATION ***
 § 3.09.005 PURPOSES.
    The declared purposes of this Chapter are to provide for the preparation and
 carrying out of plans for the protection of persons, property and the
@@ -7137,7 +7138,7 @@ thereof.
 specified by the Director of Emergency Services or specified in the city’s
 Emergency Plan.
 ('65 Code, § 12-10) (Ord. No. CS-696 § 1 (part)); Ord. No. 2010-004 § 2 (part))
-ANTI-PRICE GOUGING
+*** ANTI-PRICE GOUGING ***
 § 3.09.200 FINDINGS AND INTENT.
    The City Council hereby finds that during emergencies and major disasters
 elsewhere, including, but not limited to, earthquakes, fires, floods, or civil
@@ -7302,7 +7303,7 @@ present late claim
    
 3.10.080   Suit in absence of presentation of claim and action thereon
 prohibited
-CLAIM PROCEDURES
+*** CLAIM PROCEDURES ***
 § 3.10.005 AUTHORIZATION FOR CLAIMS PROCEDURE.
    Claims against the City for money or damages, which are excepted by Cal.
 Gov't Code § 905 from the provisions of Cal. Gov't Code §§ 900 et seq. and
@@ -8062,7 +8063,7 @@ waste discharge regulations and fees
 5.02.420   Violations; penalty
    
 5.02.425   Liability for damages caused by prohibited wastewater discharge
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 5.02.001 DEFINITIONS.
    The following definitions shall apply to terms used in this Chapter.
    DIRECTOR. The City's Public Works Director/ City Engineer or his/her
@@ -8187,7 +8188,7 @@ the two cities, shall, within 30 days' notice so to do from the City Engineer's
 Office of City, be disconnected from said sewer line of Los Angeles and
 connected to the City sewer line.
 ('65 Code, § 30-51) (Ord. No. CS-183)
-SEWERAGE FACILITIES CONNECTION REQUIREMENTS
+*** SEWERAGE FACILITIES CONNECTION REQUIREMENTS ***
 § 5.02.200 DEFINITIONS.
    For the purposes of this Subchapter, the following words and phrases are
 defined and shall be construed as hereinafter set out, unless it shall be
@@ -8745,7 +8746,7 @@ notwithstanding §
 set forth in §
 5.02.220 of this Subchapter.
 ('65 Code, § 29-31) (Ord. No. CS-719 § 1)
-INDUSTRIAL SEWAGE
+*** INDUSTRIAL SEWAGE ***
 § 5.02.400 PURPOSE.
    The purpose of this Subchapter is to provide for the maximum possible
 beneficial public use of the City's facilities through adequate regulation of
@@ -12085,7 +12086,7 @@ devices
 7.01.330   Distinctive roadway markings
    
 7.01.335   Unauthorized painting of curbs
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 7.01.005 VIOLATION AND PENALTY.
    Unless otherwise specified, a violation of a provision of this Chapter shall
 be deemed a civil offense, punishable by a fine as established by resolution of
@@ -12125,7 +12126,7 @@ use of vehicles during the loading or unloading of passengers.
    POLICE OFFICER. Every officer of the Police Department of this City.
    VEHICLE CODE. The Vehicle Code of the State of California.
 ('65 Code, § 21-1.2) (Ord. No. 83-027 § 1)
-TRAFFIC ADMINISTRATION
+*** TRAFFIC ADMINISTRATION ***
 § 7.01.100 DUTY OF CHIEF OF POLICE.
    It shall be the duty of the Chief of Police, with such aid as may be
 rendered by other members of the police department, to enforce the street
@@ -12202,7 +12203,7 @@ City Engineer, and to other City officials ways and means for improving traffic
 conditions and the administration and enforcement of traffic regulations.
 ('65 Code, § 21-2.9)
 (Ord. No. 83-027 § 1)
-ENFORCEMENT AND OBEDIENCE TO TRAFFIC REGULATIONS
+*** ENFORCEMENT AND OBEDIENCE TO TRAFFIC REGULATIONS ***
 § 7.01.200 AUTHORITY OF POLICE AND FIRE DEPARTMENTS TO DIRECT TRAFFIC.
    Officers of the Police Department and such officers as are assigned by the
 Chief of Police are hereby authorized to direct all traffic by voice, hand,
@@ -12309,7 +12310,7 @@ indicated by an appropriate sign or marking.
    E.   “Blue” shall mean parking limited exclusively to vehicles of disabled
 persons.
 ('65 Code, § 21-3.9) (Ord. No. 83-027 § 1)
-TRAFFIC CONTROL DEVICES
+*** TRAFFIC CONTROL DEVICES ***
 § 7.01.300 AUTHORITY TO INSTALL TRAFFIC CONTROL DEVICES.
    A.   The Public Works Director shall have the power and duty to place and
 maintain or cause to be placed and maintained official traffic control devices
@@ -12452,7 +12453,7 @@ Interstate Trucks
 Cross-reference:
    Parking and street closures for filming activity, see §
 11.14.025
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 7.02.005 SPEED LIMITS ON CERTAIN STREETS.
    Based upon an engineering and traffic survey, the prima facie speed limits
 herein designated for the following street segments are determined to be
@@ -12672,7 +12673,7 @@ operations;
    E.   When there is no vehicular traffic waiting to use the crossing; or
    F.   When necessary to comply with a governmental safety regulation.
 ('65 Code, § 21-11.1) (Ord. No. 83-027 § 1)
-COMMERCIAL VEHICLES; TRUCK ROUTES
+*** COMMERCIAL VEHICLES; TRUCK ROUTES ***
 § 7.02.200 DEFINITIONS.
    For the purpose of this Subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12746,7 +12747,7 @@ months in jail, or both, provided that the City Attorney may prosecute a repeat
 violation as an infraction.
 ('65 Code, § 21-16.1(e)) (Ord. No. 83-027 § 1; Ord. No. 96-004 §§ 1, 2; Ord.
 No. 96-013 § 1)
-INTERSTATE TRUCKS
+*** INTERSTATE TRUCKS ***
 § 7.02.300 DEFINITIONS.
    The following words and phrases shall have the meanings set forth, and if
 any word or phrase used in this Subchapter is not defined in this Section, it
@@ -13056,7 +13057,7 @@ Cross-reference:
    Parking and street closures for filming activity, see §
 11.14.025
    Off-street parking and loading zoning regulations, see Chapter 17.320
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 7.03.005 OBEDIENCE TO DIAGONAL PARKING SIGNS AND MARKINGS.
    On any of the streets or portions of streets established by resolution of
 the Council as diagonal parking zones, when signs or pavement markings are in
@@ -13159,7 +13160,7 @@ AVENUE.
    No parking, standing or stopping shall be permitted at any time on both
 sides of Sepulveda Boulevard between Slauson Avenue and Centinela Avenue.
 ('65 Code, § 21-14.8) (Ord. No. 83-027 § 1)
-PROHIBITED AND LIMITED PARKING
+*** PROHIBITED AND LIMITED PARKING ***
 § 7.03.200 APPLICATION OF SUBCHAPTER.
    A.   The provisions of this Subchapter prohibiting the stopping, standing or
 parking of a vehicle shall apply at all times or at those times herein
@@ -13345,7 +13346,7 @@ prescribed by the City Engineer.
    Whenever the term CITY is used within this Subchapter, it shall be deemed to
 include within its meaning the Culver City Redevelopment Agency.
 ('65 Code, § 21-13.13) (Ord. No. 85-001 § 1)
-PREFERENTIAL PARKING PROGRAM
+*** PREFERENTIAL PARKING PROGRAM ***
 § 7.03.300 ESTABLISHMENT OF PREFERENTIAL PARKING ZONES.
    A.   Pursuant to California Vehicle Code § 22507, the City Council may, by
 resolution, designate certain streets as preferential parking zones, and
@@ -13414,7 +13415,7 @@ or revocation of any preferential parking zone permit.
 may be appealed to the City Council within twenty (20) days of such denial,
 nonrenewal or revocation.
 (Ord. No. 2004-017 § 2 (part))
-LOADING AND UNLOADING ZONES; PUBLIC CARRIER ZONES
+*** LOADING AND UNLOADING ZONES; PUBLIC CARRIER ZONES ***
 § 7.03.400 AUTHORITY TO ESTABLISH LOADING ZONES.
    A.   The City Engineer is hereby authorized to determine and to mark loading
 zones and passenger loading zones as follows:
@@ -13471,7 +13472,7 @@ while actually engaged in loading or unloading passengers when such stopping
 does not interfere with any bus, or taxicab waiting to enter or about to enter
 such zone.
 ('65 Code, § 21-15.5) (Ord. No. 83-027 § 1)
-PARKING METERS
+*** PARKING METERS ***
 § 7.03.500 PURPOSE.
    The purpose of this Subchapter is to establish parking meter zones, parking
 meter fees and regulations applicable to parking meters.
@@ -13574,8 +13575,8 @@ preponderance of the evidence.
 substitute and/or damage to a parking meter under the provisions of §
 7.03.530 shall subject the offender to the penalty established.
 ('65 Code, § 21-17.12) (Ord. No. 83-027 § 1; Am. Ord. No. 97-009 § 8)
-PROHIBITED AND LIMITED PARKING OF OVERSIZED, NON-MOTORIZED AND COMMERCIAL
-VEHICLES
+*** PROHIBITED AND LIMITED PARKING OF OVERSIZED, NON-MOTORIZED AND COMMERCIAL
+VEHICLES ***
 § 7.03.600 DEFINITIONS.
    For the purposes of this Subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. Any term
@@ -13691,7 +13692,7 @@ Veh. Code §§22850.5 through 22855.
    In the event of any conflict between this Subchapter and any other
 provisions of this Code, this Subchapter shall control.
 (Ord. No. 2005-009 §1 (part))
-SPECIFIED VETERANS’ PARKING EXEMPTIONS
+*** SPECIFIED VETERANS’ PARKING EXEMPTIONS ***
 § 7.03.700 DEFINITIONS.
    For the purposes of this Subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning:
@@ -13739,7 +13740,7 @@ Cross-reference:
    Curb markings to indicate parking regulations, see §
 7.01.240
 §§ 7.04.005—7.04.245 RESERVED.
-TRAFFIC REGULATIONS
+*** TRAFFIC REGULATIONS ***
 § 7.04.250 RIDING ON SIDEWALKS.
    A.   No person shall ride a bicycle upon a sidewalk within any business
 district or upon the sidewalk adjacent to any public school building, church,
@@ -13751,7 +13752,7 @@ a pedestrian, after giving an audible signal, shall at all times pass to the
 left of such pedestrian.
 ('65 Code, § 8-27) (Ord. No. CS-100 § 51; Ord. No. CS-639 § 1)
 §§ 7.04.255—7.04.395 RESERVED.
-BICYCLE DEALERS
+*** BICYCLE DEALERS ***
 § 7.04.400 DEALERS' REPORTS OF PURCHASES.
    All persons engaged in the business of buying or receiving on consignment
 secondhand bicycles or secondhand bicycle frames shall make a daily report to
@@ -13806,7 +13807,7 @@ Mobile Source Air Pollution Reduction Fund
 7.05.115   Expenditure of trust fund revenues
    
 7.05.120   Audits
-TRANSPORTATION AND AIR QUALITY MANAGEMENT
+*** TRANSPORTATION AND AIR QUALITY MANAGEMENT ***
 § 7.05.005 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14004,7 +14005,7 @@ be deemed a conviction of the offense charged.
 this subchapter shall be liable for a civil penalty in accordance with §
 1.01.050 of the Culver City Municipal Code.
 ('65 Code, § 39-6) (Ord. No. 93-004 § 1 (part))
-MOBILE SOURCE AIR POLLUTION REDUCTION FUND
+*** MOBILE SOURCE AIR POLLUTION REDUCTION FUND ***
 § 7.05.100 PURPOSE.
    This subchapter is intended to support the South Coast Air Quality
 Management District's (SCAQMD) imposition of the vehicle registration fee
@@ -14169,7 +14170,7 @@ Cross-reference:
    Off-Leash Dog Park, see §§
 9.10.400 and
 9.10.405
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 9.01.005 PENALTIES FOR VIOLATION OF CHAPTER.
    A.   Any person who violates or fails to comply with any provision of this
 Chapter shall be guilty of an infraction, which shall be punishable by a fine,
@@ -14318,7 +14319,7 @@ the obtaining of permits from the City generally.
 provisions of Los Angeles County Code Title 10 (Animals), the provisions in
 this Chapter 9.01 shall prevail.
 (Ord. No. 2017-011 § 2)
-DOGS
+*** DOGS ***
 § 9.01.300 LICENSE REQUIRED.
    It shall be unlawful for any person to have, harbor, keep, to permit to be
 harbored or kept, any unlicensed dog in the City, over the age of four months.
@@ -14388,7 +14389,7 @@ than those of the person owning or having charge, care, custody or control of
 such dog, unless that dog be restrained by a substantial chain or leash not
 exceeding six feet in length, and is in the control of a competent person.
 (Ord. No. 2017-011 § 2)
-CATS
+*** CATS ***
 § 9.01.400 LICENSE VOLUNTARY.
    Every person owning or having custody or control of any cat over the age of
 four months in the City may obtain, on a voluntary basis, a City license for
@@ -14411,7 +14412,8 @@ months thereafter.
    Any person keeping or harboring any cat for 15 consecutive days shall be
 deemed to be the owner thereof within the meaning of this Chapter.
 (Ord. No. 2017-011 § 2)
-ADOPTION BY REFERENCE OF TITLE 10 OF THE LOS ANGELES COUNTY CODE - "ANIMALS"
+*** ADOPTION BY REFERENCE OF TITLE 10 OF THE LOS ANGELES COUNTY CODE -
+"ANIMALS" ***
 § 9.01.500 ADOPTION OF LOS ANGELES COUNTY CODE TITLE 10.
    A.   The City of Culver City hereby adopts by reference Divisions 1, 2 and 3
 of Title 10 of the Los Angeles County Code, "Animals," encompassing §§
@@ -14464,7 +14466,7 @@ apply for an unaltered dog or cat license.
    L.   Section 10.20.357 is hereby deleted.
    M.   Section 10.32.010 is hereby deleted.
 (Ord. No. 2017-011 § 2)
-DECLAWING OF ANIMALS
+*** DECLAWING OF ANIMALS ***
 § 9.01.600 ONYCHECTOMY (DECLAWING) AND FLEXOR TENDONECTOMY PROHIBITED.
    A.   No person, licensed medical professional or otherwise, shall perform or
 cause to be performed an onychectomy (declawing) or flexor tendonectomy
@@ -14485,7 +14487,7 @@ and
 at the discretion of the City Attorney, any violation may be prosecuted as an
 infraction.
 (Ord. No. 2017-011 § 2)
-ABATEMENT OF ANIMAL PUBLIC NUISANCES
+*** ABATEMENT OF ANIMAL PUBLIC NUISANCES ***
 § 9.01.700 PURPOSE.
    The disturbance caused by excessive, unrelenting or habitual noise of any
 animal is disruptive of the public's peace and tranquility and represents an
@@ -14770,7 +14772,7 @@ abatement of the nuisance hereby declared and not in conflict with or
 derogation of any other actions or proceedings or remedies otherwise provided
 by this title or other state or local law.
 (Ord. No. 2017-011 § 2)
-SALE AND USE OF GLUE TRAPS PROHIBITED
+*** SALE AND USE OF GLUE TRAPS PROHIBITED ***
 § 9.01.800 PURPOSE.
    The purpose of this subchapter is to prohibit the sale and use of glue traps
 which are designed to capture animals and subject them to a slow, cruel,
@@ -14863,7 +14865,7 @@ Very High, High, and Moderate Fire Hazard Severity Zones
    
 9.02.400    Designation of very high, high, and moderate fire hazard severity
 zones
-CALIFORNIA FIRE CODE ADOPTION AND AMENDMENTS
+*** CALIFORNIA FIRE CODE ADOPTION AND AMENDMENTS ***
 § 9.02.005 THE 2024 INTERNATIONAL FIRE CODE WITH THE 2025 CALIFORNIA FIRE CODE
 ADOPTED BY REFERENCE.
    A.   The City Council hereby adopts all chapters, certain amendments,
@@ -15253,7 +15255,7 @@ FDC shall not exceed 100 feet.
 on Fire Department access and water supplies, the Fire Department may change
 the tables to mitigate special hazards.
 (Ord. No. 2025-016 § 2 (part))
-ADMINISTRATIVE ASSESSMENT COST RECOVERY PROGRAM
+*** ADMINISTRATIVE ASSESSMENT COST RECOVERY PROGRAM ***
 § 9.02.300 DEFINITIONS.
    For the purpose of this Subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -15375,7 +15377,7 @@ hearing.
 Assessment shall follow the process set forth on the order to comply form and
 appropriate City procedures.
 (Ord. No. 2014-004 § 2 (part))
-VERY HIGH, HIGH, AND MODERATE FIRE HAZARD SEVERITY ZONES
+*** VERY HIGH, HIGH, AND MODERATE FIRE HAZARD SEVERITY ZONES ***
 § 9.02.400 DESIGNATION OF VERY HIGH, HIGH, AND MODERATE FIRE HAZARD SEVERITY
 ZONES.
    A.   The City Council designates very high, high, and moderate fire hazard
@@ -15431,7 +15433,7 @@ Culver City Hazardous Waste Management Plan
 9.03.305   Hazardous waste management facility siting permit
    
 9.03.310   Land use approvals
-HEALTH CODE
+*** HEALTH CODE ***
 § 9.03.005 HEALTH CODE ADOPTED BY REFERENCE; VIOLATIONS.
    There is hereby adopted by reference the Los Angeles County Public Health
 Code, as amended, three (3) copies of which are on file in the Office of the
@@ -15440,7 +15442,7 @@ Code of the City of Culver City, shall be punishable as a misdemeanor under the
 provisions of
 §§ 1.01.035 et seq. of the Culver City Municipal Code.
 ('65 Code, § 16-1) (Ord. No. CS-826 § 3; Ord. No. 88-014 § 1)
-PUBLIC HEALTH LICENSING
+*** PUBLIC HEALTH LICENSING ***
 § 9.03.007 ADOPTION OF PUBLIC HEALTH LICENSING.
    A.   Division 1 of Title 8, Consumer Protection, and Division 1 of Title 11,
 Health and Safety, of the Los Angeles County Code, as amended as of February 1,
@@ -15461,7 +15463,8 @@ provided by
 Chapter 1.01 of this Code and any and all remedies, civil and criminal,
 provided therein.
 (Ord. 2002-004 § 1)
-HAZARDOUS MATERIALS DISCLOSURE REQUIREMENTS, BUSINESS PLANS, AND INSPECTIONS
+*** HAZARDOUS MATERIALS DISCLOSURE REQUIREMENTS, BUSINESS PLANS, AND
+INSPECTIONS ***
 § 9.03.100 FINDINGS AND DECLARATIONS.
    The City Council finds and declares in order to protect the public health,
 safety and welfare and the environment, and in order to supplement the City's
@@ -15866,7 +15869,7 @@ sentences, paragraphs and sections of this Subchapter.
 substance incident on local streets and roads, other than freeways, is assigned
 to the Culver City Fire Department.
 ('65 Code, § 16-21) (Ord. No. 96-008 § 1)
-CULVER CITY HAZARDOUS WASTE MANAGEMENT PLAN
+*** CULVER CITY HAZARDOUS WASTE MANAGEMENT PLAN ***
 § 9.03.300 PURPOSE AND ADOPTION; CONTENTS.
    Pursuant to state requirements, the City has determined it shall provide a
 plan for the management of hazardous waste, including the siting of hazardous
@@ -16105,7 +16108,7 @@ Ch. 9.05
    Newsracks, see §§
 9.08.600 through
 9.08.675
-NUISANCES ENUMERATED
+*** NUISANCES ENUMERATED ***
 § 9.04.005 PURPOSE AND INTENT.
    A.   Purpose and intent. The purpose and intent of this Chapter are as
 follows:
@@ -16839,7 +16842,7 @@ day, or part thereof, during which a violation of this Chapter, or of any law
 or regulation referenced herein, is allowed, committed, continued, maintained
 or permitted by such person, and shall be punishable accordingly.
 (Ord. No. 2013-009, § 4 (part))
-ADMINISTRATIVE PROCEDURES FOR ABATEMENT OF NUISANCES
+*** ADMINISTRATIVE PROCEDURES FOR ABATEMENT OF NUISANCES ***
 § 9.04.030 ABATEMENT OF PUBLIC NUISANCES.
    All conditions or uses that constitute a public nuisance as defined in this
 Chapter, or that are contrary to, or in violation of, any other provision or
@@ -17436,7 +17439,7 @@ day, or part thereof, during which a violation of this Chapter, or of any law
 or regulation referenced herein, is allowed, committed, continued, maintained
 or permitted by such person, and shall be punishable accordingly.
 (Ord. No. 2013-009, § 4 (part))
-RECORDATION, ENFORCEMENT FEES AND ATTORNEY’S FEES
+*** RECORDATION, ENFORCEMENT FEES AND ATTORNEY’S FEES ***
 § 9.04.135 RECORDATION OF DECLARATION OF SUBSTANDARD PROPERTY.
    A.   Notwithstanding any provision of the Culver City Municipal Code to the
 contrary, if the City determines that any property, building or structure, or
@@ -17547,7 +17550,7 @@ having jurisdiction.
 exclusive and are in addition to any other provisions set forth in this Code or
 by State law for the abatement of public nuisances.
 (Ord. No. 2013-009, § 4 (part))
-GRAFFITI
+*** GRAFFITI ***
 § 9.04.200 PREVENTION AND REMOVAL OF GRAFFITI.
    Whenever the City Manager or his designee determines that graffiti is
 located on public property not owned by the City of Culver City, or on private
@@ -18249,7 +18252,7 @@ Parades
 9.06.165   Appeals
    
 9.06.170   Revocation of permit
-UNRULY PARTIES AND GATHERINGS; LAW ENFORCEMENT EXPENSES
+*** UNRULY PARTIES AND GATHERINGS; LAW ENFORCEMENT EXPENSES ***
 § 9.06.005 PURPOSE AND INTENT.
    The City Council finds that unruly parties, gatherings, or other assemblages
 of persons on private property and other gathering places on private property
@@ -18337,7 +18340,7 @@ bringing a civil action, at his/her discretion, for violations of the
 provisions of this Subchapter, as set forth in §
 1.01.050 of this code.
 ('65 Code, § 22-1) (Ord. No. 96-034 § 2)
-PARADES
+*** PARADES ***
 § 9.06.100 DEFINITIONS.
    For the purpose of this Subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -19055,7 +19058,7 @@ Cross-reference:
    Parades, see §§
 9.06.100 through
 9.06.170
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 9.08.005 DEFINITION.
    For the purpose of this Chapter, the word STREET shall include all streets,
 parkways, highways, avenues, lanes, alleys, courts, places, squares, curbs, or
@@ -19274,7 +19277,7 @@ public interest is better served, may permit the importing/exporting vehicles
 to be driven along routes other than those officially designated as truck
 routes.
 ('65 Code, § 30-61) (Ord. No. 84-023 § 1)
-USE OF STREETS FOR MOVING PURPOSES
+*** USE OF STREETS FOR MOVING PURPOSES ***
 § 9.08.100 MOVING REGULATIONS.
    The following regulations shall govern the moving of buildings, structures,
 heavy machinery and equipment.
@@ -19396,7 +19399,7 @@ moved and in motion, sufficient look-outs shall be maintained to safeguard
 persons or property against injury or damage which might result from such
 moving operations.
 ('65 Code, § 30-21) (Ord. No. 558 § 13)
-TREE REMOVAL
+*** TREE REMOVAL ***
 § 9.08.200 DEFINITIONS.
    In addition to the definitions contained elsewhere in this Code, the
 following words and phrases shall, for the purposes of this Subchapter, be
@@ -19626,7 +19629,7 @@ subchapter is hereby declared a public nuisance.
 provisions of this Code or the Tree Planting Act of 1931, this subchapter shall
 control.
 (Ord. No. 2013-007, § 1 (part))
-EXCAVATIONS
+*** EXCAVATIONS ***
 § 9.08.300 DEFINITIONS.
    Whenever in this Subchapter the following terms are used, they shall have
 the meaning ascribed to them, unless it is apparent from the context thereof
@@ -20182,7 +20185,7 @@ inference arising therefrom shall be deemed or considered to grant any
 franchise or privilege in, over or under any public streets, alleys or other
 public places in this City.
 ('65 Code, § 30-50.1) (Ord. No. CS-529)
-USE OF STREETS FOR BUS BENCHES
+*** USE OF STREETS FOR BUS BENCHES ***
 § 9.08.500 DEFINITIONS.
    For the purpose of this Subchapter, certain terms used herein are defined as
 follows:
@@ -20286,7 +20289,7 @@ within sixty (60) days from and after the effective date hereof unless, prior
 to said removal date, a permit shall have been duly obtained in the form and
 manner as required herein.
 ('65 Code, § 30-57) (Ord. No. CS-736 § 2)
-NEWSRACKS
+*** NEWSRACKS ***
 § 9.08.600 DEFINITIONS.
    For the purpose of this Subchapter, certain words and phrases shall be
 construed as set forth in this Section, unless it is apparent from the context
@@ -20678,7 +20681,7 @@ application thereof to any person or circumstances, is held invalid, the
 remainder of the provisions of this Subchapter and the application of such to
 other persons or other circumstances shall not be affected thereby.
 ('65 Code, § 22-45) (Ord. No. 96-010 § 1 (part))
-PARKWAY LANDSCAPING GUIDELINES
+*** PARKWAY LANDSCAPING GUIDELINES ***
 § 9.08.705 DEFINITIONS.
    For the purpose of this Subchapter, certain terms used herein are defined as
 follows:
@@ -20980,7 +20983,7 @@ Cross-reference:
    Residential development park dedication and in lieu parkland fees, see §§
 15.06.300 through
 15.06.330
-REGULATION OF PARKS
+*** REGULATION OF PARKS ***
 § 9.10.005 DEFINITIONS.
    A.   As used in this chapter, DEPARTMENT means the Parks, Recreation and
 Community Services Department.
@@ -21276,7 +21279,7 @@ penalties as set forth in §
 administrative citation process set forth in
 Chapter 1.02 of this Code.
 (Ord. No. 2024-002 § 1 (part))
-PUBLIC BUILDINGS AND PROPERTY
+*** PUBLIC BUILDINGS AND PROPERTY ***
 § 9.10.200 PROHIBITIONS.
    It shall be unlawful for any person to do any of the following in public
 buildings or on public property:
@@ -21326,8 +21329,8 @@ penalties as set forth in §
 administrative citation process set forth in
 Chapter 1.02 of this Code.
 (Ord. No. 2024-002 § 2 (part))
-SKATEBOARDS AND OTHER WHEELED RECREATIONAL DEVICES
-- RULES AND REGULATIONS
+*** SKATEBOARDS AND OTHER WHEELED RECREATIONAL DEVICES
+- RULES AND REGULATIONS ***
 § 9.10.300 PUBLIC SKATEBOARD PARKS; RULES AND REGULATIONS.
    A.   Any person who rides or operates a skateboard or other wheeled
 recreational device, in a publicly owned or operated skateboard park in the
@@ -21359,7 +21362,7 @@ penalties as set forth in §
 administrative citation process set forth in
 Chapter 1.02 of this Code.
 (Ord. No. 2024-002 § 3 (part))
-OFF-LEASH DOG PARK
+*** OFF-LEASH DOG PARK ***
 § 9.10.400 RULES AND REGULATIONS.
    Notwithstanding any other provision in this Code, a person may have charge,
 care, custody or control of any dog in that portion of Culver City Park
@@ -21423,7 +21426,7 @@ penalties as set forth in §
 administrative citation process set forth in
 Chapter 1.02 of this Code.
 (Ord. No. 2004-015, 4; Ord. No. 2024-002 § 4 (part))
-DESIGNATED DOG PATHS
+*** DESIGNATED DOG PATHS ***
 § 9.10.600 DESIGNATED DOG PATHS.
    A.   Notwithstanding any other provision in this Code, a person may have
 charge, care, custody or control of any dog upon the designated dog paths
@@ -21449,7 +21452,7 @@ penalties as set forth in § §
 administrative citation process set forth in
 Chapter 1.02 of this Code.
 (Ord. No. 2024-002 § 5 (part))
-CAMPING IN PUBLIC SPACES
+*** CAMPING IN PUBLIC SPACES ***
 § 9.10.700 CAMPING IN PROHIBITED PUBLIC PLACES.
    A.   No person shall camp in a prohibited public place.
    B.   No person shall leave or store personal property or camp facilities in
@@ -21537,7 +21540,7 @@ and existing units in common interest complexes
 Cross-reference:
    Tobacco retailer licensing, see
 Ch. 11.15
-REGULATION OF SMOKING IN OUTDOOR AREAS
+*** REGULATION OF SMOKING IN OUTDOOR AREAS ***
 § 9.11.100 PURPOSE.
    It is the intent of the City Council to control exposure to secondhand
 smoke, vapors and aerosol by prohibiting smoking and the use of electronic
@@ -21727,7 +21730,7 @@ general public may bring a civil action to enforce this chapter.
    In the event of any conflict between this chapter and any other provision of
 this code, this chapter shall control.
 (Ord. No. 2008-009 § 1 (part))
-REGULATION OF SMOKING IN MULTI-UNIT HOUSING
+*** REGULATION OF SMOKING IN MULTI-UNIT HOUSING ***
 § 9.11.200 PURPOSE.
    It is the intent of the City Council of the City of Culver City, in enacting
 this Subchapter, to provide for the public's health, safety, and welfare by
@@ -22826,7 +22829,7 @@ Administrative Fines
 11.01.655   Right to judicial review
    
 11.01.660   Notices
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 11.01.005 DEFINITIONS.
    For the purposes of this Chapter, the following definitions apply:
    ADVERTISING, PUBLIC RELATIONS AND MARKETING. All places of business the
@@ -23345,7 +23348,7 @@ Chapter 11.01 of this Code exists; an administrative fine may be imposed under
 the provisions of §§
 11.01.600 et seq.
 (Ord. No. 2003-010 § 1; Ord. No. 2022-012 § 1 (part))
-BUSINESS TAX REGULATIONS
+*** BUSINESS TAX REGULATIONS ***
 § 11.01.200 BUSINESS LICENSE TAX; TIME AND MANNER OF PAYMENT.
    The annual business license tax for each business is due and payable on
 January 1st of each year, according to the renewal period established pursuant
@@ -23810,7 +23813,7 @@ reclassification shall be final as to the City, but subject to judicial review
 pursuant to Cal. Code of Civil Procedure § 1094.5.
 ('65 Code, § 19-50) (Ord. No. 96- 035 § 1; Ord. No. 97-022 § 1; Ord. No. 99-010
 § 1; Ord. No. 2001-008 § 1; Ord. No. 2022-012 § 1 (part))
-CERTIFICATES OF COMPLIANCE; PERMIT REQUIREMENTS
+*** CERTIFICATES OF COMPLIANCE; PERMIT REQUIREMENTS ***
 § 11.01.300 CERTIFICATES OF COMPLIANCE AND PERMITS.
    A.   The following abbreviations for categories of certificates of
 compliance and permits are hereby established and designated as follows:
@@ -24039,7 +24042,7 @@ suspension or revocation proceeding against the permittee or licensee upon any
 ground provided by the Code, or for violation of any law or rule which relates
 to the suitability of the permittee or licensee to have such permit or license.
 ('65 Code, § 19-63) (Ord. No. 96-011, § 1; Ord. No. 96-021, § 1)
-ADMINISTRATIVE FINES
+*** ADMINISTRATIVE FINES ***
 § 11.01.600 LEGISLATIVE FINDINGS AND STATEMENT OF PURPOSE.
    A.   1.   The City Council hereby finds that there is a need for an
 alternative method of enforcement for violations of
@@ -24310,7 +24313,7 @@ procedures
 11.02.155   Actions to collect
    
 11.02.160   Violations; misdemeanors
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 11.02.005 REGISTER REQUIRED; REGULATIONS.
    The following regulations shall be applicable to hotels, and similar
 accommodations:
@@ -24360,7 +24363,7 @@ for rent, for the information of the guests, and the Chief of Police or Police
 Officers shall be permitted at all reasonable times to inspect said premises
 for the purpose of enforcing the provisions of this Chapter.
 ('65 Code, § 18-3) (Ord. No. CS-2, Chapter IV)
-TRANSIENT OCCUPANCY TAX
+*** TRANSIENT OCCUPANCY TAX ***
 § 11.02.100 DEFINITIONS.
    Except where the context otherwise requires, the definitions given in this
 Section shall govern the construction of this ordinance:
@@ -25343,7 +25346,7 @@ Cross-reference:
    Minors, see §§
 13.03.100 -
 13.03.150
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 11.06.005 BINGO GAMES.
    Notwithstanding any other provision of this Code, a no-fee license
 permitting bingo games shall be issued by the City Treasurer pursuant to §
@@ -25369,7 +25372,7 @@ or musical type entertainment of any kind between the hours of 2:00 a.m. of one
 day and 6:00 a.m. of the same day, except by a special permit for one day only,
 issued by the City.
 ('65 Code, § 23-40) (Ord. No. CS-548; Ord. No. 2025-001 § 2 (part))
-CARD ROOMS
+*** CARD ROOMS ***
 § 11.06.100 DEFINITIONS.
    For the purpose of this Subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -26700,7 +26703,7 @@ Yard Sales
 11.09.435   Inspection
    
 11.09.440   Penalty
-PAWNBROKERS
+*** PAWNBROKERS ***
 § 11.09.005 DEFINITIONS.
    Whenever in this Subchapter the following terms are used, they shall have
 the meaning ascribed to them, unless it is apparent from the context thereof
@@ -26811,7 +26814,7 @@ form, supplied by the Police Department, containing a full, true and complete
 report of what was purchased and all other pertinent information pertaining
 thereto.
 ('65 Code, § 26-13) (Ord. No. 259 § 12; Ord. No. 466)
-STREET VENDORS
+*** STREET VENDORS ***
 § 11.09.200 DEFINITIONS.
    For the purpose of this Subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -26856,7 +26859,7 @@ this Subchapter.
 months of the date of a conviction or plea of guilty or no contest to any
 criminal charge alleging a violation of the provisions of this Subchapter.
 ('65 Code, § 3-23) (Ord. No. 84-004 § 1; Ord. No. 85-017 §§ 1, 2)
-CLOSE-OUT SALES
+*** CLOSE-OUT SALES ***
 § 11.09.300 DEFINITIONS.
    For the purpose of this Subchapter certain terms used herein are defined as
 follows.
@@ -26943,7 +26946,7 @@ the same nature, with substantially the same parties in interest and at
 substantially the same location within six (6) months after the completion of
 the close-out sale.
 ('65 Code, § 6-22) (Ord. No. 86-027 § 1)
-YARD SALES
+*** YARD SALES ***
 § 11.09.400 DEFINITION.
    For the purpose of this Subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -27062,7 +27065,7 @@ Operating Requirements
 11.10.325   Operating regulations
    
 11.10.330   Taxicab stands
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 11.10.005 DEFINITIONS.
    Whenever in this Chapter the following terms are used, they shall have the
 following meaning unless it is apparent from the context thereof that some
@@ -27438,7 +27441,7 @@ such cancellation shall become effective.
 resolution.
 ('65 Code, § 34-15) (Ord. No. 83-020 § 1; Ord. No. 83-031 § 4; Ord. No. 92-017
 § 4; Ord. No 96-029 § 1; Ord. No. 2007-002 § 17)
-OPERATING REQUIREMENTS
+*** OPERATING REQUIREMENTS ***
 § 11.10.300 TAXIMETERS.
    A.   Taximeters required.  It shall be unlawful for any permittee or driver
 to operate any taxicab in the City unless such vehicle is equipped with a
@@ -27869,7 +27872,7 @@ Other Requirements
 11.12.330   Inspection of premises
    
 11.12.335   Premises to be kept clean
-PERMIT REQUIREMENTS
+*** PERMIT REQUIREMENTS ***
 § 11.12.005 OIL DRILLING PERMIT.
    A.   It shall be unlawful for any person to erect any derrick, or similar or
 related structure or equipment, or to drill, re-drill or deepen any well hole
@@ -28029,7 +28032,7 @@ the permittee, at least twenty (20) working days prior to the hearing.
       2.   The City Council's determination in the matter of revocation shall
 be binding.
 (Ord. No. 2003-013 § 1 (part))
-OPERATIONAL REQUIREMENTS
+*** OPERATIONAL REQUIREMENTS ***
 § 11.12.100 ONE WELL PER FIVE ACRES OF OPERATING UNIT.
    A.   It shall be unlawful to drill more than one (1) well or well hole for
 each five (5) full acres for each oil-producing zone contained in the operating
@@ -28361,7 +28364,7 @@ required by any State agency or the City.
 (Ord. No. 2003-013 § 1 (part)) Penalty, see  §§
 1.01.040 -
 1.01.055.
-OTHER REQUIREMENTS
+*** OTHER REQUIREMENTS ***
 § 11.12.300 DIRECTIONAL SURVEYS REQUIRED ON CERTAIN WELLS.
    Whenever permittee shall drill, re-drill, or deepen any well, or well hole,
 and the location of which at the surface of the ground, or the location of
@@ -28501,7 +28504,7 @@ businesses
 11.13.310   Conduct constituting a public nuisance
    
 11.13.315   Amortization of legal non-conforming uses
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 11.13.005 PURPOSE.
    It is the intent of this Chapter to prevent community-wide adverse economic
 impacts, increased crime, decreased property values, and the deterioration of
@@ -28697,7 +28700,7 @@ or industrial zones where a residence is permitted pursuant to a conditional
 use permit or other special permit or zones in which a residential use may
 exist as a non-conforming use.
 ('65 Code, § 23-24.3) (Ord. No. 98-006, § 20 (part))
-DEVELOPMENT AND OPERATING STANDARDS
+*** DEVELOPMENT AND OPERATING STANDARDS ***
 § 11.13.100 HOURS OF OPERATION.
    It shall be unlawful for any operator or employee of an adult use to allow
 such adult use to remain open for business, or to permit any employee or
@@ -28897,7 +28900,7 @@ material to be seen by those persons may not be seen from any public right-of-
 way, day care facility, park, public school or private school, or religious
 institution, as those terms are defined in this Chapter.
 ('65 Code, § 23-24.4(K)) (Ord. No. 98-006, § 20 (part))
-DEVELOPMENT PERMITS
+*** DEVELOPMENT PERMITS ***
 § 11.13.200 REQUIREMENTS.
    A.   No adult use may be established within the City by right - all persons
 wishing to establish or expand an adult use within the City must apply for and
@@ -29129,7 +29132,7 @@ provisions of §
 to operate an adult use shall not be granted to the permittee within twelve
 (12) months after the date of such revocation.
 ('65 Code, § 23-24.12) (Ord. No. 98-006, § 20 (part))
-ADMINISTRATION
+*** ADMINISTRATION ***
 § 11.13.300 PROHIBITION OF ANY NEW OR EXPANDED ADULT-ORIENTATED BUSINESSES.
    (A)   From January 27, 1997, until March 12, 1997, no application shall be
 accepted by the City for the establishment of any new or the expansion of any
@@ -30137,7 +30140,7 @@ and Chapter 11.37, “Cannabis Facilities,” of the Los Angeles County Code
    
 11.17.400   Adoption by reference of Los Angeles County Cannabis Public Health
 Ordinance
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 11.17.005 PURPOSE AND INTENT.
    It is the purpose and intent of this Chapter to implement the provisions of
 the Medicinal and Adult Use Cannabis Regulation and Safety Act ("MAUCRSA") to
@@ -30411,7 +30414,7 @@ drug as defined by § 109925 of the California Health and Safety Code.
 Safety Code.
 (Ord. No. 17-018 § 2 (part); Ord. No. 2017-020 § 2 (part); Ord. No. 2018-007 §
 2 (part))
-PERMIT PROCEDURES; ADMINISTRATION
+*** PERMIT PROCEDURES; ADMINISTRATION ***
 § 11.17.100 COMMERCIAL CANNABIS BUSINESS PERMIT REQUIRED TO ENGAGE IN
 COMMERCIAL CANNABIS BUSINESS.
    No person may engage in any commercial cannabis business or in any
@@ -31031,7 +31034,7 @@ but not limited to any rules, regulations or standards adopted by the City
 Manager.
 (Ord. No. 17-018 § 2 (part); Ord. No. 2017-020 § 2 (part); Ord. No. 2018-007 §
 2 (part))
-OPERATING REQUIREMENTS
+*** OPERATING REQUIREMENTS ***
 § 11.17.200 OPERATING REQUIREMENTS APPLICABLE TO ALL COMMERCIAL CANNABIS
 BUSINESSES.
    A.   Commercial cannabis businesses may operate only during the hours
@@ -31559,7 +31562,7 @@ community relations representative from each such permittee shall meet with the
 City Manager when and as requested by the City Manager.
 (Ord. No. 17-018 § 2 (part); Ord. No. 2017-020 § 2 (part); Ord. No. 2018-007 §
 2 (part))
-ENFORCEMENT AND PENALTIES
+*** ENFORCEMENT AND PENALTIES ***
 § 11.17.300 RESPONSIBILITY FOR VIOLATIONS.
    Permittees and their responsible persons and managers shall be responsible
 for violations of the laws of the State of California or of this Code, whether
@@ -31632,9 +31635,9 @@ however, relieve any person of his or her duty to comply with such laws if
 additional obligations, duties, or prohibitions are imposed thereby.
 (Ord. No. 17-018 § 2 (part); Ord. No. 2017-020 § 2 (part); Ord. No. 2018-007 §
 2 (part))
-ADOPTION BY REFERENCE OF PART 7 OF CHAPTER 8.04, “COMMERCIAL CANNABIS
+*** ADOPTION BY REFERENCE OF PART 7 OF CHAPTER 8.04, “COMMERCIAL CANNABIS
 ACTIVITIES,” AND CHAPTER 11.37, “CANNABIS FACILITIES,” OF THE LOS ANGELES
-COUNTY CODE
+COUNTY CODE ***
 § 11.17.400 ADOPTION BY REFERENCE OF LOS ANGELES COUNTY CANNABIS PUBLIC HEALTH
 ORDINANCE.
    A.   The City of Culver City hereby adopts by reference Part 7 of Chapter
@@ -33656,7 +33659,7 @@ Miscellaneous
 Cross-reference:
    Franchises, see Charter §
 1700
-GENERAL
+*** GENERAL ***
 § 11.21.005 PURPOSE AND INTENT.
    A.   The City Council finds and determines as follows:
       1.   The development of cable systems may provide significant benefits
@@ -33850,7 +33853,7 @@ who is lawfully receiving, for any purpose or reason, any cable service via a
 cable communications system, whether or not a fee is paid for such service.
    USC. The United States Code.
 (Ord. No. 2001-014 § 2; Ord. No. 2006-009 § 22 (part))
-PROVISIONS
+*** PROVISIONS ***
 § 11.21.100 FRANCHISE REQUIRED.
    No person may construct or operate a cable communications system within the
 public rights-of-way of the City without a properly granted franchise awarded
@@ -34988,7 +34991,7 @@ shall such recovery relieve a grantee of its franchise obligations, limit the
 amounts owed to the City, or in any respect prevent the City from exercising
 any other right or remedy it may have.
 (Ord. No. 2001-014 § 2)
-CONSUMER PROTECTION
+*** CONSUMER PROTECTION ***
 § 11.21.300 CONSUMER PROTECTION STANDARDS; GENERALLY.
    A.   Each cable operator shall comply with consumer protection standards
 adopted by the City from time to time by ordinance or by resolution; FCC
@@ -35470,7 +35473,7 @@ comply with all federal, state, and local laws and regulations governing equal
 employment opportunities, and hiring practices, as the same may be amended from
 time to time.
 (Ord. No. 2001-014 § 2; Ord. No. 2006-009 § 22 (part))
-CABLE FRANCHISE RENEWALS
+*** CABLE FRANCHISE RENEWALS ***
 § 11.21.400 CABLE FRANCHISE RENEWALS; PROCEDURE.
    A.   If the provisions of 47 USC 546(a)-(g) are properly invoked, the City
 may:
@@ -35669,7 +35672,7 @@ responsibility for all acts and omissions, known and unknown, of the previous
 grantee for all purposes. The proposed transferee shall pay all reasonable
 costs incurred by the City in reviewing and evaluating the applications.
 (Ord. No. 2001-014 § 2; Ord. No. 2006-009 § 22 (part))
-STATEWIDE VIDEO FRANCHISEES
+*** STATEWIDE VIDEO FRANCHISEES ***
 § 11.21.480 SPECIAL PROVISIONS APPLICABLE TO HOLDERS OF STATE VIDEO FRANCHISES.
    A.   Fee for support of local cable usage. The City Council reserves its
 right under Cal. Public Utilities Code §5870(n) to establish a fee for the
@@ -35813,7 +35816,7 @@ conclusive upon adoption of the resolution. A copy of the resolution adopted by
 the City Council will be served upon the appellant by placement in the United
 States mail, postage prepaid, to the appellant's last known address.
 (Ord. No. 2007-010 § 1)
-MISCELLANEOUS
+*** MISCELLANEOUS ***
 § 11.21.500 COMPLIANCE WITH STATE AND FEDERAL LAWS.
    Each grantee shall comply with all applicable laws and regulations of the
 state and federal government or any administrative agencies thereof.
@@ -36363,7 +36366,7 @@ Editor's note:
 system franchise from CommuniCom Cable TV to American Cablesystems of
 California, Inc., see Ordinance No. 87-020, a copy of which is on file in the
 office of the City Clerk.
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 11.30.005 PURPOSE.
    The City Council finds the development of cable television and
 communications systems has the potential of having great benefit and impact
@@ -36530,7 +36533,7 @@ definition of street from time to time.
 for any purpose, a service provided by the Grantee by means of or in connection
 with the Cable Communications System.
 ('65 Code, § 35B-2) (Ord. No. 87-021 § 1; Ord. No. 2001-009 § 1)
-FRANCHISE PROCEDURES AND REQUIREMENTS
+*** FRANCHISE PROCEDURES AND REQUIREMENTS ***
 § 11.30.100 GRANT OF FRANCHISE.
    A.   In the event the Grantor shall grant to a Grantee a nonexclusive,
 revocable franchise to construct, operate, maintain, and reconstruct, a Cable
@@ -36900,7 +36903,7 @@ inspection and permit fees specified in §
 11.30.550 A.1. and the franchise fee specified in §
 11.30.160 of this Subchapter.
 ('65 Code, § 35B-3(p)) (Ord. No. 87-021 § 1; Ord. No. 2001-009 § 1)
-REGULATION OF FRANCHISE
+*** REGULATION OF FRANCHISE ***
 § 11.30.300 REGULATORY AUTHORITY.
    The Grantor shall exercise regulatory authority under the provisions of this
 Chapter and applicable law. If the franchise area served by the Cable
@@ -37080,7 +37083,7 @@ Grantor considered technically and economically feasible. The Grantor may
 request the Grantee to provide such services within a reasonable time, under
 reasonable rates and conditions.
 ('65 Code, § 35B-4(h)) (Ord. No. 87-021 § 1; Ord. No. 2001-009 § 1)
-FINANCIAL AND INSURANCE REQUIREMENTS
+*** FINANCIAL AND INSURANCE REQUIREMENTS ***
 § 11.30.400 CONSTRUCTION BOND.
    A.   Within thirty (30) days after the granting of a new franchise, or a
 renewal which requires significant system construction, and prior to the
@@ -37220,7 +37223,7 @@ Grantor under the franchise issued hereunder to the amounts of such insurance.
 11.30.400 of this Subchapter shall be duly licensed to operate in the State of
 California.
 ('65 Code, § 35B-5(e)) (Ord. No. 87-021 § 1; Ord. No. 2001-009 § 1)
-DESIGN AND CONSTRUCTION
+*** DESIGN AND CONSTRUCTION ***
 § 11.30.500 SYSTEM DESIGN.
    The Cable Communications System shall be constructed in accordance with the
 design requirements contained in the Franchise Agreement.
@@ -37448,7 +37451,7 @@ and economically feasible.
 origination and access equipment that is compatible throughout the area served
 by the cable system.
 ('65 Code, § 35B-6(k)(6)) (Ord. No. 87-021 § 1; Ord. No. 2001-009 § 1)
-SERVICE PROVISIONS; CONSUMER PROTECTION
+*** SERVICE PROVISIONS; CONSUMER PROTECTION ***
 § 11.30.700 CATEGORIES OF SERVICES.
    A.    Services to be provided. The Grantee shall provide the broad
 categories of video programming services listed in the Franchise Agreement.
@@ -37667,7 +37670,7 @@ Every vehicle of the Grantee or its contractors or subcontractors shall be
 similarly identified. The Grantee's telephone number shall also be clearly
 marked on all such vehicles.
 ('65 Code, § 35B-8(l)) (Ord. No. 87-021 § 1; Ord. No. 2001-009 § 1)
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 11.30.900 OPEN BOOKS AND RECORDS MANAGEMENT POLICY; RECORDS REQUIRED.
    A.   Open books and records. 
       1.   The Grantee shall manage all of its operations in accordance with a
@@ -39124,7 +39127,7 @@ Gambling
 Cross-reference:
    Games, amusements, and entertainments, see
 Ch. 11.06
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 13.01.005 FILING FALSE OR MISLEADING STATEMENTS OR REPORTS.
    A.   Statements. It shall be unlawful for any person to wilfully make or
 file, on his own behalf or for any other person, firm or corporation, a false
@@ -39256,7 +39259,7 @@ exceed Five Hundred Dollars ($500.00), or by imprisonment in the County Jail
 for a period not to exceed six (6) months, or by both such fine and
 imprisonment.
 ('65 Code, § 23-58) (Ord. No. 93-009 § 1)
-GAMBLING
+*** GAMBLING ***
 § 13.01.100 GAMBLING OPERATIONS PROHIBITED.
    It shall be unlawful to operate, maintain, or keep or tolerate or permit the
 operation, maintenance or keeping of any and all games of chance, betting and
@@ -39400,7 +39403,7 @@ Cross-reference:
 9.04.270
    Zoning regulations for signs, see
 Chapter 17.330
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 13.02.005 MAINTENANCE STANDARDS OF PROPERTY; AESTHETICS.
    It shall be unlawful for any person owning, leasing, occupying or having
 charge of any premises to keep and maintain such premises in a manner at
@@ -39512,7 +39515,7 @@ California.
 provisions of §
 7.03.225 of the Municipal Code of the City of Culver City.
 ('65 Code, § 23-47) (Ord. No. CS-649 §§ 1-3; Ord. No. 84-001 § 1)
-TRESPASS ON PROPERTY
+*** TRESPASS ON PROPERTY ***
 § 13.02.100 PRIVATE PROPERTY OPEN TO THE PUBLIC.
    No person shall enter or remain upon any private property open to the public
 after being notified by the owner or lessee or other person in charge thereof
@@ -39649,7 +39652,7 @@ by his duly authorized agent, including a peace officer or private patrolman,
 or by a sign conspicuously posted on the property or premises giving notice of
 the prohibited conduct.
 ('65 Code, § 23-4.02) (Ord. No. CS-991 § 1)
-SIGNS
+*** SIGNS ***
 § 13.02.200 SIGNS PROHIBITED IN CERTAIN PLACES.
    A.   Signs in the public right-of-way. No person shall construct, affix,
 place or post any display or medium of communication, including without
@@ -39810,7 +39813,7 @@ Cross-reference:
 Ch. 11.05
    Games, amusements and entertainments, see
 Ch. 11.06
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 13.03.005 GAMES ON PUBLIC STREETS PROHIBITED.
    It shall be unlawful for any person or persons to play ball or any game of
 sport with a ball or football, or throw, cast, shoot or discharge any stone,
@@ -39883,7 +39886,7 @@ this purpose, a bail forfeiture shall be deemed to be a conviction of the
 offense charged.
 ('65 Code, § 23-43) (Ord. No. CS-635 § 1; Ord. No. 87-019 § 1; Ord. No. 94-032
 § 2; Ord. No. 2005-004 § 1; Ord. No. 2019-008 § 1)
-MINORS
+*** MINORS ***
 § 13.03.100 CURFEW RESTRICTIONS FOR MINORS.
    It shall be unlawful for any minor under the age of eighteen (18) years, to
 loiter, idle, wander, stroll, or aimlessly drive or ride about in or upon any
@@ -40014,8 +40017,8 @@ conducted.
 instruction of dancing to employ or permit a female under the age of 21 years
 to give instructions in dancing to persons of the opposite sex.
 ('65 Code, § 20-11) (Ord. No. CS-225)
-FIREARMS - SAFE STORAGE,
-SHOOTING REQUIREMENTS AND SUICIDE PREVENTION
+*** FIREARMS - SAFE STORAGE,
+SHOOTING REQUIREMENTS AND SUICIDE PREVENTION ***
 § 13.03.200 DEFINITIONS.
    As used in this Subchapter, the following terms shall have the following
 meanings:
@@ -40085,7 +40088,7 @@ point-of-sale giving notice of local firearm laws and providing Los Angeles
 County-approved resources for suicide prevention, including suicide warning
 signage or posters.
 (Ord. No. 2019-012 § 2 (part))
-PROHIBITION AGAINST ABUSIVE SOLICITATION
+*** PROHIBITION AGAINST ABUSIVE SOLICITATION ***
 § 13.03.300 PURPOSE.
    It is the purpose of this Chapter to impose reasonable place and manner
 limitations on SOLICITATION , as defined herein, in order to protect the safety
@@ -40142,7 +40145,7 @@ solicitation where prohibited, as stated herein, shall be guilty of a
 misdemeanor and, upon conviction, shall be fined an amount not to exceed $500,
 or shall be imprisoned for a period not to exceed six months, or both.
 (Ord. 97-003 § 1(part)
-LOITERING BY CRIMINAL STREET GANGS
+*** LOITERING BY CRIMINAL STREET GANGS ***
 § 13.03.400 PROHIBITED ACTS.
    A.   It is unlawful for any person who is a member of a "criminal street
 gang," as that term is defined in Cal. Penal Code § 186.22(f), or who is acting
@@ -41141,7 +41144,7 @@ areas
  
    
 Appendix   Hillside drainage diagrams
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 15.02.005   VIOLATIONS AND PENALTIES.
    A.   1.   No person shall erect, construct, enlarge, alter, repair, move,
 improve remove, convert, demolish, install, replace, equip, use, occupy,
@@ -41255,7 +41258,7 @@ knowledge of such change, excluding weekends and national holidays.
    H.   Any work performed prior to satisfying the requirements of this section
 shall be deemed performed without the required Permit.
 (Ord. No. 2025-005 § 1)
-ADOPTION OF STATE CODES
+*** ADOPTION OF STATE CODES ***
 § 15.02.100 CALIFORNIA BUILDING STANDARDS ADMINISTRATIVE CODE ADOPTED BY
 REFERENCE.
    A.   The 2025 Edition of the California Building Standards Administrative
@@ -41790,7 +41793,7 @@ diaphragm shall not exceed 75% of the maximum diaphragm shear.
    Section 1613.5.3 is added to Chapter 16 of the 2025 CBC to read as follows:
    1613.5.3 Structural separation. Modify ASCE 7 Section 12.12.3 Equation
 12.12-1 as follows:
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5062.png]
  
    Section 1613.6 is added to Chapter 16 of the 2025 CBC to read as follows:
@@ -42249,7 +42252,7 @@ in 10 units horizontal (10-percent slope).
 requirement shall also apply to the top surface of grade beams supporting
 walls. Footings shall be reinforced with four No. 4 bars. Two bars shall be
 place at the top and bottom of the footings as shown in Figure 1809.3.
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5064.png]
 FIGURE 1809.3 - STEPPED FOOTING
    Section 1809.7 and Table 1809.7 of the 2025 CBC are amended to read as
@@ -42446,7 +42449,7 @@ SDPWS.
    2307.2 Wood-frame shear walls. Wood-frame shear walls shall be designed and
 constructed in accordance with Section 2307.2 as applicable.
    Table 2308.6.1 of the 2022 CBC is amended to read as follows:
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5067.png]
  
 For S1: 1 inch = 25.4 mm, 1 foot = 304.8 mm.
@@ -42512,7 +42515,7 @@ directly under the braced wall line.
 wood structural panel sheathing shall be provided on both faces, three anchor
 bolts shall be placed at one-quarter points and tie-down device uplift capacity
 shall be not less than 3,000 pounds (13 344 N).
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5073.png]
 FIGURE 2308.6.5.1
 ALTERNATE BRACED WALL PANEL (ABW)
@@ -42563,7 +42566,7 @@ with the reinforcement required in the continuous foundation located directly
 under the braced wall line.
    Where a PFH is installed at the first story of two-story buildings, each
 panel shall have a length of not less than 24 inches (610 mm).
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5071.png]
 FIGURE 2308.6.5.2
 PORTAL FRAME WITH HOLD-DOWNS (PFH)
@@ -43028,7 +43031,7 @@ California.
    A.   All properties shown on the Hillside "H" Grading Designation Area map
 (below) and other hillside properties that are subject to the requirements of
 this Subchapter shall have the Hillside "H" Grading Designation.
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5075.png]
    B.   The Hillside "H" Grading Designation requires that hillside properties
 are designed and constructed in accordance with appropriate grading and
@@ -43236,10 +43239,10 @@ that the lack of all such systems on the property does not create any hazard to
 adjacent property.
 APPENDIX: HILLSIDE DRAINAGE; DIAGRAMS
 DIAGRAM “A”
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5077.png]
 DIAGRAM “B”
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5079.png]
    Section J114 is added to the 2025 CBC to read as follows:
    J114 National Pollutant Discharge Elimination System (NPDES) Compliance.
@@ -43632,7 +43635,7 @@ in 10 units horizontal (10-percent slope).
    For structures assigned to Seismic Design Categories D0, D1 or D2, stepped
 footings shall be reinforced with four No. 4 rebar. Two bars shall be place at
 the top and bottom of the footings as shown in Figure R403.1.5.
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5081.png]
 FIGURE R403.1.5 - STEPPED FOOTING
    Section R404.2 of the CRC is amended to read as follows.
@@ -43651,7 +43654,7 @@ structure in accordance with Section R301.2.2.11.
    R503.2.4 Openings in horizontal diaphragms. Openings in horizontal
 diaphragms with a dimension perpendicular to the joist that is greater than 4
 feet (1.2 m) shall be constructed in accordance with Figure R503.2.4.
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5083.png]
 FIGURE R503.2.4 - OPENINGS IN HORIZONTAL DIAPHRAGMS
 Lines 20, 21, 24, and 34 - 37 of Table R602.3(1) of the 2025 CRC are amended to
@@ -43732,7 +43735,7 @@ tolerance of not more than 1 inch (25 mm).
       3.   Omission of the top plate is permitted over headers where the
 headers are adequately tied to adjacent wall sections in accordance with Table
 R602.3.2.
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5093.png]
 Table R602.3(2)
    b. Staples shall have a minimum crown width of 7/16-inch on diameter except
@@ -43746,30 +43749,30 @@ more. Braced wall lines greater than 16 feet (4877 mm) shall have a minimum of
 two braced wall panels. No braced wall panel shall be less than 48 inches in
 length in Seismic Design Category D0, D1, or D2.
    Table R602.10.3(3) of the CRC is amended to read as follows:
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5089.png]
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5091.png]
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5095.png]
    Table R602.10.4 of the CRC is amended to read as follows:
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5097.png]
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5099.png]
    Table R602.10.5 of the CRC is amended to read as follows:
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5103.png]
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5105.png]
    Figure R602.10.6.1 of the CRC is amended to read as follows:
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5107.png]
    Figure R602.10.6.2 of the CRC is amended to read as follows:
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5109.png]
    Figure R602.10.6.4 of the CRC is amended to read as follows:
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5111.png]
  
    Section R606.4.4 of the CRC is amended to read as follows:
@@ -43982,7 +43985,7 @@ available for public inspection as required by law."
 Code, will govern the administration of the IPMC.
    Sections[A]111.2.1 through [A]111.8 of the IPMC are hereby deleted.
 (Ord. No. 2019-015 § 14; Ord. No. 2022-007 § 14; Ord. No. 2025-015 § 14)
-GENDER NEUTRAL PUBLIC RESTROOM FACILITIES IN NEW CONSTRUCTION
+*** GENDER NEUTRAL PUBLIC RESTROOM FACILITIES IN NEW CONSTRUCTION ***
 § 15.02.400 GENDER NEUTRAL PUBLIC RESTROOM FACILITIES REQUIRED.
    All newly constructed buildings shall be required to provide gender neutral
 public restroom facilities.
@@ -44022,9 +44025,9 @@ applicable provisions in Chapter 4 of the California Plumbing Code.
 within toilet rooms or grouped in an immediately adjacent common use area
 accessible to all users. The following accepable designs are proded for example
 purposes only.
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4873.png]
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4875.png]
  
    C.   Signage. Signage indicating that public toilet facilities are
@@ -44033,7 +44036,7 @@ gender identity, shall comply with Part 5 of Title 24 of the Cal. Code of
 Regulations, and be clearly and conspicuously posted on all entrances to such
 public restroom facility or facilities. An example of signage that may be used
 is depicted below:
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4877.png]
  
    D.   Design. Gender neutral public restroom facilities shall be designed to
@@ -44080,8 +44083,8 @@ lavatories, enclosed urinals and/or toilets, or other design features that
 promote the purposes herein promulgated in accordance with the California
 Building Code § 104.10.
 (Ord. No. 2024-003 § 1 (part))
-MANDATORY SEISMIC PROVISIONS FOR EXISTING WOOD-FRAME BUILDINGS WITH SOFT, WEAK
-OR OPEN-FRONT WALLS
+*** MANDATORY SEISMIC PROVISIONS FOR EXISTING WOOD-FRAME BUILDINGS WITH SOFT,
+WEAK OR OPEN-FRONT WALLS ***
 § 15.02.500 PURPOSE.
    The provisions of this Subchapter are intended to promote the public welfare
 and safety by reducing the risk of death or injury that may result from the
@@ -44489,7 +44492,7 @@ this Subchapter to the prescribed extent of each such reference. Where there
 are conflicts between provisions of this Subchapter and the provisions of any
 referenced code or standard, the provisions of this Subchapter shall apply.
 (Ord. 2021-013, § 1(part))
-ANTENNAS
+*** ANTENNAS ***
 § 15.02.600 DEFINITIONS.
    For the purpose of this Subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -44821,7 +44824,7 @@ the revocation of the approval by the City Planner.
 remedies provided in this Code, and not exclusive.
 (Ord. No. 2003-015 §1 (part))
 Penalty, see § 15.02.005
-POST-DISASTER RECOVERY AND RECONSTRUCTION
+*** POST-DISASTER RECOVERY AND RECONSTRUCTION ***
 § 15.02.700 PURPOSE.
    A.   This Subchapter establishes regulations to apply in the event a
 disaster causes damage to buildings and structures in the City, and includes
@@ -45085,7 +45088,7 @@ Subchapter and the State Historic Building Code, the State Historic Building
 Code shall govern.
 (Ord. No. 2003-015 § 1 (part))
 § 15.02.800 RESERVED.
-ADMINISTRATIVE ASSESSMENT COST RECOVERY
+*** ADMINISTRATIVE ASSESSMENT COST RECOVERY ***
 § 15.02.900 ADMINISTRATIVE ASSESSMENT COST RECOVERY PROGRAM.
    The City Council hereby finds and determines it is appropriate and necessary
 to require the recovery of costs incurred by the City in the administrative
@@ -45130,8 +45133,9 @@ federal, state or local laws, and does not prevent the use of concurrent or
 consecutive remedies to achieve compliance with this Code.
 (Ord. No. 2004-005 § 1 (part); Ord. No. 2005-005 § 1 (part))
 § 15.02.1000 RESERVED.
-LOCAL AMENDMENTS TO THE GREEN BUILDING STANDARDS CODE,
+*** LOCAL AMENDMENTS TO THE GREEN BUILDING STANDARDS CODE,
 BUILDING CODE AND RESIDENTIAL BUILDING CODE, TO ESTABLISH REACH CODES STANDARDS
+***
 § 15.02.1100 ESTABLISHMENT AND PURPOSE OF REACH CODE STANDARDS.
    The city has established Reach Code standards, which shall be administered
 by the Building Safety Division pursuant to the provisions of this Subchapter.
@@ -45323,12 +45327,12 @@ available remedies provided in the CCMC.
 015 § 15 (part))
 § 15.02.1200 RESERVED.
 APPENDIX: HILLSIDE DRAINAGE; DIAGRAMS
-DIAGRAM “A”
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+** DIAGRAM “A” **
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4879_6840x6855.jpg]
  
-DIAGRAM “B”
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+** DIAGRAM “B” **
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4882_6525x6075.jpg]
  
 CHAPTER 15.03: CONSTRUCTION IN FLOOD PRONE AREAS
@@ -46518,7 +46522,7 @@ Affordable Housing Commercial Development Impact Fee
 15.06.620   Conversion
    
 15.06.625   Use of funds
-NEW DEVELOPMENT IMPACT FEES
+*** NEW DEVELOPMENT IMPACT FEES ***
 § 15.06.005 PURPOSE.
    The purpose of this Subchapter is to provide a method for the financing of
 public works capital improvements made necessary by permitting new development
@@ -46703,7 +46707,7 @@ in this Section shall excuse or exempt a new development from complying with
 all conditions set forth in a site plan review, an exception, variance,
 conditional use permit, subdivision, or architectural design approval.
 ('65 Code, § 33H-11) (Ord. No. 83-021 § 1; Ord. No. 90-003 § 2)
-ART IN PUBLIC PLACES
+*** ART IN PUBLIC PLACES ***
 § 15.06.100 PURPOSE.
    The City Council finds and declares:
    A.   Cultural and artistic resources, that include visual artwork, the
@@ -47359,7 +47363,7 @@ days of the decision by the Commission. The City Clerk's Office shall
 coordinate with the Community Development Director to schedule the appeal
 hearing before the City Council.
 (Ord. No. 2013-003 § 1 (part))
-RESIDENTIAL DEVELOPMENT PARK DEDICATION AND IN LIEU PARKLAND FEES
+*** RESIDENTIAL DEVELOPMENT PARK DEDICATION AND IN LIEU PARKLAND FEES ***
 § 15.06.300 PURPOSE.
    The City Council finds and declares:
    A.   The purpose of this Chapter is to implement the goals, objectives and
@@ -47483,7 +47487,7 @@ within five (5) years from the date of payment shall be returned to the then
 current owner of the residential development project as required by state law.
 ('65 Code, § 33H-45) (Ord. No. 90-003 § 1; Ord. No. 96-007 § 1 (part); Ord. No.
 2026-003, Exhibit A (part))
-MOBILITY IMPROVEMENT FEES
+*** MOBILITY IMPROVEMENT FEES ***
 § 15.06.500 PURPOSE.
    The purpose of this Subchapter is to provide a method for new development
 projects to pay their fair share towards the funding of the City's identified
@@ -47649,7 +47653,7 @@ the return request is originally filed, then the right to have fees returned
 shall terminate, and the fees and all interest earned shall revert to the
 Mobility Improvement Fund.
 (Ord. No. 2021-006 § 2 (part))
-AFFORDABLE HOUSING COMMERCIAL   DEVELOPMENT IMPACT FEE
+*** AFFORDABLE HOUSING COMMERCIAL   DEVELOPMENT IMPACT FEE ***
 § 15.06.600 PURPOSE AND INTENT.
    The City Council of the City of Culver City finds:
    A.   The purpose of this Subchapter is to facilitate the development and
@@ -47801,7 +47805,7 @@ modifications
 15.07.035   Procedures for architectural review
    
 15.07.040   When decision becomes final; appeals
-Architectural Review Procedures
+*** Architectural Review Procedures ***
 § 15.07.005 FINDINGS AND DETERMINATIONS; PURPOSE.
    The City Council of the City of Culver City hereby finds and determines that
 structural design techniques and amenities applied in the community directly
@@ -48272,7 +48276,7 @@ Municipal Code Chapter 15.09.” The foregoing statement shall be clearly and
 conspicuously placed in the notice of rent increase in a manner reasonably
 likely to inform tenants of the availability of the City’s mediation services.
 (Ord. No. 2019-010 § 1)
-RENT CONTROL
+*** RENT CONTROL ***
 § 15.09.200 FINDINGS AND PURPOSE.
    The City Council of the City of Culver City finds:
    A.   Rents throughout the Los Angeles County region continue to rise as
@@ -48873,7 +48877,7 @@ judge of the Superior Court.
    In the event of any conflict between this subchapter and any other provision
 of this code, this subchapter shall control.
 (Ord. No. 2020-014 § 2; Ord. No. 2026-001 § 1)
-TENANT PROTECTIONS
+*** TENANT PROTECTIONS ***
 § 15.09.300 FINDINGS AND PURPOSE.
    The purposes of this subchapter are to be more protective than state law, as
 allowed by Cal. Civil Code § 1946.2. The City Council finds the provisions of
@@ -49971,7 +49975,7 @@ Certificate of Compliance
 Condominium Conversions
    
 15.10.985   Condominium conversions
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 15.10.005 SHORT TITLE.
    This Chapter shall be known and may be cited as the "Subdivision Ordinance
 of the City of Culver City."
@@ -50353,7 +50357,7 @@ practical use which can be made of the property as proposed to be divided or
 subdivided is a use prohibited by any ordinance, law, statute, general plan, or
 other valid regulation.
 (Ord. No. 2025-007, Exhibit A (part))
-§ 15.10.035 REFERENCES TO OTHER LAWS.
+** § 15.10.035 REFERENCES TO OTHER LAWS. **
    Whenever references are made to any portion of this Chapter or any other
 ordinance or statute, such references shall apply to all amendments and
 additions now or hereafter made.
@@ -50533,7 +50537,7 @@ court of competent jurisdiction and no authority is hereby granted to a
 legislative body to determine that the public at large has acquired easements
 for access through or use of property within the proposed subdivision.
 (Ord. No. 2025-007, Exhibit A (part))
-TENTATIVE MAP
+*** TENTATIVE MAP ***
 § 15.10.200 TENTATIVE MAP PREPARATION.
    The subdivider shall cause the Tentative Map covering the area proposed to
 be subdivided to be prepared by a registered civil engineer who is authorized
@@ -50886,7 +50890,7 @@ this title. Any approved amendment shall not alter the expiration date of the
 Tentative Map, but extensions may be granted under the provisions of §
 15.10.275.
 (Ord. No. 2025-007, Exhibit A (part))
-ADMINISTRATIVE REVIEW
+*** ADMINISTRATIVE REVIEW ***
 § 15.10.300 PURPOSE.
    This subchapter establishes an Administrative Review process for Parcel and
 Tentative Map applications submitted in conjunction with an Administrative Site
@@ -50968,7 +50972,7 @@ Maps, shall be required to conform to the plans approved during the
 Administrative Site Plan review process. These plans shall be included in the
 related subdivision map case file.
 (Ord. No. 2025-007, Exhibit A (part))
-FINAL MAPS
+*** FINAL MAPS ***
 § 15.10.400 ACCEPTANCE FOR CHECKING.
    If a Final Map is submitted to the County Engineer for checking under an
 agreement for examination of Tentative Maps and Parcel Maps, the subdivider
@@ -51226,7 +51230,7 @@ Council may accept such map, if the City Attorney finds that the dedicated
 easements will be legally sufficient and usable by the City and the public even
 if such signatures are omitted.
 (Ord. No. 2025-007, Exhibit A (part))
-PARCEL MAPS
+*** PARCEL MAPS ***
 § 15.10.600 PURPOSE.
    The purpose of this Subchapter is to supplement the Subdivision Map Act in
 order to provide for a division of land into four (4) lots or fewer, and to
@@ -51366,7 +51370,7 @@ Div. 3, Ch. 15 (commencing with § 8700), the Land Surveyor's Act, § 95 of
 Parcel Map Form. The Parcel Map shall conform to all requirements of Cal. Gov't
 Code § 66445.
 (Ord. No. 2025-007, Exhibit A (part))
-DESIGN STANDARDS
+*** DESIGN STANDARDS ***
 § 15.10.700 ACCESS AND EASEMENTS.
    The following general design standards shall govern the approval of any
 subdivision map:
@@ -51657,7 +51661,7 @@ the grading plan or to an approved off-site location.
          f.   Lot boundaries. Lots shall have their boundaries at the top
 rather than at a midway point or at the bottom of a slope.
 (Ord. No. 2025-007, Exhibit A (part))
-DEDICATION AND QUIMBY FEES
+*** DEDICATION AND QUIMBY FEES ***
 § 15.10.750 PARK DEDICATION REQUIREMENTS.
    It is hereby found and determined:
    A.   That the public interest, convenience, health, welfare, and safety
@@ -51945,7 +51949,7 @@ covenants or conditions or restrictions imposed upon such property may be
 modified or damaged by any means without an affirmative vote of four (4)
 members of the City Council.
 (Ord. No. 2025-007, Exhibit A (part); Ord. No. 2026-003, Exhibit A (part))
-IMPROVEMENTS
+*** IMPROVEMENTS ***
 § 15.10.900 REQUIREMENT.
    All areas required by the City for dedication and improvement as a condition
 of approval of the Tentative Map shall be offered by the subdivider for
@@ -52151,7 +52155,7 @@ promptly paid by the subdivider until the City Engineer is satisfied that the
 total amount paid to the City will be sufficient to cover the costs of all
 general supervision and inspections by the City.
 (Ord. No. 2025-007, Exhibit A (part))
-URBAN LOT SPLITS AND SMALL LOT SUBDIVISIONS
+*** URBAN LOT SPLITS AND SMALL LOT SUBDIVISIONS ***
 § 15.10.940 URBAN LOT SPLITS.
    A.   Purpose. This section is adopted pursuant to Cal. Gov't Code §§
 65852.6, 65852.21, and 66411.7 for the purpose of implementing the City's
@@ -52358,6 +52362,9 @@ unless the permanent structure is abandoned and uninhabitable.
 surrounded by urban uses.
       4.   The newly created parcels shall be no smaller than one thousand two
 hundred (1,200) square feet.
+      5.   Each newly created parcel may permit one (1) accessory dwelling unit
+or one (1) junior accessory dwelling unit, and the units shall not count toward
+the maximum number of residential units.
    D.   Fire standards.
       1.   For the purpose of deploying industry-standard hose packs, all
 dwelling units must be located within two hundred fifty (250) feet of the
@@ -52510,7 +52517,7 @@ effectuate the purpose of this Chapter.
 ownership within multi-family zones. A Small Lot Subdivision shall be permitted
 in the RLD, RMD, and R2 zones pursuant to an approved Map or Parcel Map. A
 subdivision for the purposes of small lots enables the construction of new
-small lot homes , and accessory dwelling units pursuant to Cal. Gov’t Code §§
+small lot homes, and accessory dwelling units pursuant to Cal. Gov’t Code §§
 66342, 66499.41.
    A.   Construction of new Small Lots. Notwithstanding any provisions of this
 Code relating to minimum lot area, in the RLD, RMD, and R2 zones, parcels of
@@ -52607,7 +52614,7 @@ available to serve the subject site.
       5.   The proposed project is consistent with the General Plan and any
 applicable specific plan.
 (Ord. No. 2025-007, Exhibit A (part); Ord. No. 2026-004, Exhibit A (part))
-LOT MERGERS
+*** LOT MERGERS ***
 § 15.10.960 LOT MERGERS.
    A.   Purpose. The ordinance codified in this section is enacted for the
 purpose of providing ministerial procedures and setting forth standards
@@ -52724,7 +52731,7 @@ Bus. and Prof. Code § 8762 is not applicable.
 all fees and charges, consistent with applicable law, as may be necessary to
 effectuate the purpose of this section.
 (Ord. No. 2025-007, Exhibit A (part))
-LOT LINE ADJUSTMENT
+*** LOT LINE ADJUSTMENT ***
 § 15.10.970 LOT LINE ADJUSTMENT.
    A.   Purpose. Pursuant to § 66412(d) of the Subdivision Map Act, Lot Line
 Adjustments between four (4) or fewer adjacent legal lots are streamlined map
@@ -52806,7 +52813,7 @@ approval period shall render the Lot Line Adjustment null and void.
 all fees and charges, consistent with applicable law, as may be necessary to
 effectuate the purpose of this section.
 (Ord. No. 2025-007, Exhibit A (part))
-CERTIFICATE OF COMPLIANCE
+*** CERTIFICATE OF COMPLIANCE ***
 § 15.10.980 CERTIFICATE OF COMPLIANCE.
    A.   Purpose. Certificates of Compliance provide a means for conferring
 legal status to parcels of land which were not created by legal or which proof
@@ -52829,7 +52836,7 @@ shall contain all information required in Cal. Gov't Code § 66499.35.
 all fees and charges, consistent with applicable law, as may be necessary to
 effectuate the purpose of this section.
 (Ord. No. 2025-007, Exhibit A (part))
-CONDOMINIUM CONVERSIONS
+*** CONDOMINIUM CONVERSIONS ***
 § 15.10.985 CONDOMINIUM CONVERSIONS.
    A.   Purpose and applicability.
       1.   The purpose of the standards and requirements contained in this
@@ -54800,29 +54807,29 @@ Other       See CCMC Article 3
 Standards
  
    Figure 2-1 Maximum Envelope - Zoning
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4885.jpg]
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4887.jpg]
  
    Figure 2-2 R1 Development Standards (Flat Roof and Sloping Roof)
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4889.jpg]
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4891.jpg]
  
    Figure 2-3 Neighborhood Transitions
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4893.jpg]
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4895.jpg]
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4897.jpg]
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4899.jpg]
  
    Figure 2-4 Maximum Parking Frontage
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4901.jpg]
  
 (Ord. No. 2005-007 § 1 (part); Ord. No. 2016-001 § 2 (part); Ord. No. 2020-003
@@ -55807,9 +55814,9 @@ visibility between the sidewalk and building entrance, the maximum setback on
 the ground floor shall be 10 feet, or a greater setback may be allowed with
 Director approval.
 Figure 2-5 Setbacks
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4903.jpg]
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4905.jpg]
  
 (Ord. No. 2005-007 § 1 (part); Ord. No. 2020-013 § 2 (part); Ord. No. 2022-008;
@@ -56821,7 +56828,7 @@ storage of inoperable vehicles, scrap, junk, or similar materials.
 D.   Measurement of Setbacks. Setbacks shall be measured as follows, see
 Figure 3-1 (Location and Measurements of Setbacks) below:
    Figure 3-1 Location and Measurement of Setbacks
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4907.jpg]
  
    1.   Front and street side setback. The front and street side setback shall
@@ -56838,7 +56845,7 @@ where the access strip ("flag pole") meets the bulk of the parcel, establishing
 a building line parallel to the lot line nearest to the public street or right-
 of-way. See Figure 3-2 (Flag Lot) below.
    Figure 3-2 Flag Lot
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-26.png]
  
    2.   Interior side setback. The interior side setback shall be measured at
@@ -57085,7 +57092,7 @@ back of walk. Finished Grade shall be consistent with parcels in the immediate
 vicinity, and shall not be, nor have been, artificially raised to gain
 additional building height.
    Figure 3-3 Height Measurement
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-28.png]
  
 C.   Rooftop Projections and Exceptions to Height Limits. Allowable rooftop
@@ -57114,7 +57121,7 @@ or exterior deck surface along front and side yard-facing facades (See Figure
    Figure 3-4
    1:1 Allowable Placement for Roof-Mounted and Upper-Story Mechanical
 Equipment in the R1 and R2 Zones
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4909.jpg]
  
    2.   Fire or parapet walls may extend up to five feet above the building
@@ -57245,7 +57252,7 @@ landscaping within a required side or rear setback.
 (4)   See
 Chapter 17.550 (Variances and Administrative Modifications).
    Figure 3-5 Measurement of Fences, Walls, and Landscaping Height
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-30.png]
  
 C.   Retaining Walls. Retaining walls shall not exceed six feet in height for
@@ -57558,7 +57565,7 @@ low-growth, hearty materials in lieu of paving, allowing a two-foot bumper
 overhang, including the six-inch required curbing, while maintaining the
 required parking dimensions. See Figure 3-6 (Bumper Overhang Area).
    Figure 3-6 Bumper Overhang Area
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4911.jpg]
  
    5.   Parking lot perimeter landscaping. Parking area perimeters shall be
@@ -57567,7 +57574,7 @@ this Subsection, based upon the growth characteristics and proper maintenance
 practices for the species of trees proposed. See Figure 3-7 (Parking Lot
 Perimeter Landscaping Requirements) at top of next page.
    Figure 3-7 Parking Lot Perimeter Landscaping Requirements
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4913.jpg]
  
       a.   Adjacent to streets.  Parking areas for non-residential uses
@@ -57609,7 +57616,7 @@ provide a concentration of landscape elements at primary entrances. Such
 elements may include specimen trees, flowering plants, enhanced paving, and
 project identification, as determined by the Director.
    Figure 3-8 Examples of Interior Parking Lot Landscaping
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4915.jpg]
  
 (Ord. No. 2020-013 § 2 (part); Ord. No. 2022-008; Ord. No. 2024-006; Ord. No.
@@ -57926,10 +57933,10 @@ parking facility during non-operating hours.
 17.320.035 compact spaces of seven feet, six inches by 15 feet, may be provided
 for up to 30% of on-site or off-site parking within the Parking Districts.
    Map 3-1 Hayden Tract Parking District
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4917.jpg]
    Map 3-2 Smiley Blackwelder Parking District
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4919.jpg]
 B.   Automated, Semi-Automated, and Stacked Parking. Automated, semi-automated,
 and stacked parking may be provided for non-residential uses subject to
@@ -57992,7 +57999,7 @@ feet of an access driveway, measured from the property line. See Figure 3-9
 shall comply with §
 17.320.035.P.3. (Allowable R1 and R2 uncovered parking placement).
    Figure 3-9 Parking Space Location
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4921.jpg]
    3.   Internal maneuvering area. Parking areas shall provide suitable
 maneuvering room so that vehicles enter the street in a forward direction,
@@ -58016,7 +58023,7 @@ behind a dwelling unit shall have a backup aisle of 17 feet with a 45 degree
 angle leading to a driveway. See Figure 3-10 (Residential Garage/Carport and
 Driveway) below.
    Figure 3-10 Residential Garage/Carport and Driveway
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4923.jpg]
       b.   Tandem parking spaces. Each tandem parking space shall be nine feet
 in width by 18 feet in depth.
@@ -58085,7 +58092,7 @@ obstructions are encountered.
 alley shall be included in the minimum dimensions required for aisle width and
 backup.
    Figure 3-11 Parking Space and Aisle Dimension
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4925.jpg]
  
 D.   Curbing.
@@ -58241,7 +58248,7 @@ Figure 3-12 (Allowable R1 and R2 Uncovered Parking Placement) below. For corner
 lots, uncovered parking accessed from the street side and located in the rear
 half of the lot may be screened by a solid six-foot-high fence.
    Figure 3-12 Allowable R1 and R2 Uncovered Parking Placement
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4927.jpg]
  
 Q.   Electric Vehicle (EV) Parking. Each land use type shall be provided the
@@ -58611,7 +58618,7 @@ Chapter 17.700: Definitions.
       Channel Letters. Three- dimensional, individually cut letters or figures,
 illuminated or nonilluminated, affixed to a structure.
    Figure 3-13 Channel Letters
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5022.png]
  
    City Engineer/Public Work Director. The City’s City Engineer/Public Works
@@ -58659,7 +58666,7 @@ similar manner and widened at the bottom to form a shaped similar to the letter
 (inverted) or the letter "H." This sign type is also referred to as a "Sandwich
 Board Sign" and "Portable Freestanding Sign."
    Figure 3-14 A-Frame Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4984.png]
  
       Animated Sign. A sign, other than electronic message sign, whereby the
@@ -58679,18 +58686,18 @@ building and projected downward or outward from the building in a manner such
 that both sides of the sign are visible (also referred to as “Bracket Sign,”
 “Projecting Sign,” or “Suspended Sign”).
 Figure 3-15 Blade Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4986.png]
  
 Figure 3-16 Suspended Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4988.png]
       Cabinet or Cabinet Sign. A sign that contains all the text and/or logo
 symbols within a single enclosed cabinet, which is a single enclosed frame with
 flat or shaped panels mounted to a wall or other surface, and which may or may
 not be illuminated.
    Figure 3-17 Cabinet Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4990.png]
  
       Changeable Copy Sign. A sign, not including an electronic message sign,
@@ -58721,7 +58728,7 @@ similar lightweight, non-rigid material, typically taller than it is longer,
 and supported by a single vertical pole mounted into the ground or on a
 portable structure. This sign type does not include flags (see “Flag”).
    Figure 3-18 Feather Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4992.png]
  
       Flag. A fabric sheet that is mounted on a pole, freestanding, or attached
@@ -58741,7 +58748,7 @@ ground or a structure, and either filled with air or gas or equipped with a
 portable blower motor that provides a constant flow of air into the device.
 (Also referred to as "Balloon Sign.")
    Figure 3-19 Inflatable Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4994.png]
  
       Menu Board. A permanently installed sign with changeable copy (electronic
@@ -58751,7 +58758,7 @@ occupying a drive-through service lane.
       Monument Sign. A freestanding ground sign of low overall height with a
 decorative cap, decorative trim, and decorative solid base.
    Figure 3-20 Monument Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4996.png]
  
       Neon Sign. A sign illuminated by or utilizing neon tubing, and/or related
@@ -58767,7 +58774,7 @@ considered on-site signs (also referred to as “On-premises Sign”).
 of a building, and above the top of the window line of the highest story of the
 building.
    Figure 3-21 Parapet Wall Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-4998.png]
  
       Pennant. A triangular or irregular piece of fabric or other material,
@@ -58775,7 +58782,7 @@ whether or not containing a message of any kind, commonly attached by strings
 or strands intended to flap in the wind. This sign type does not include flags
 (see “Flag”).
    Figure 3-22 Pennant Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5000.png]
  
       Permanent Sign. A sign constructed of durable materials that will resist
@@ -58789,7 +58796,7 @@ permanent material.
       Pole Sign. An elevated freestanding sign supported by one or more exposed
 poles that are permanently attached directly into or upon the ground.
    Figure 3-23 Pole Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5002.png]
  
       Pylon Sign. A free standing sign supported and in direct contact with the
@@ -58797,14 +58804,14 @@ ground or one or more solid, monumental structures or pylon that typically has
 a sign face with a vertical dimension that is larger than its horizontal
 dimension, and includes a decorative base, cap, and trim.
    Figure 3-24 Pylon Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5004.png]
  
       Roof Sign. A sign erected, constructed, or placed upon or over a roof of
 a building, including a mansard roof, and which is wholly or partly supported
 by such a building.
    Figure 3-25 Roof Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5006.png]
  
       Temporary Sign. A sign that is intended to be displayed for a definite
@@ -58813,14 +58820,14 @@ maintained on a building or structure.
       Theater Sign, Marquee. A sign attached to, or made an integral part of,
 the structural canopy of a theater.
    Figure 3-26 Theater Marquee Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5008.png]
  
       Theater Sign, Above Roof Identification. Vertical identification signs,
 consisting of individual characters displayed on sculpted, visually prominent
 architectural features that rise vertically above a theater building roof.
    Figure 3-27 Theater Above-Roof Identification Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5010.png]
  
       Vehicle Sign. Any sign or device placed on, mounted on, or affixed to a
@@ -58834,34 +58841,34 @@ persons, goods, or services in the normal course of business.
       Wall Painted Sign. A sign that is painted directly onto the building
 wall.
    Figure 2-28 Wall Painted Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5012.png]
  
       Wall Sign. A sign that is displayed on, or is attached to, an exterior
 wall of a building or structure with the exposed face of the sign in a line
 approximately parallel to the plane of the building or structure wall.
    Figure 3-29 Wall Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5014.png]
  
       Window Sign. A permanent or temporary sign that is displayed on the
 surface of any glass or glazed material, or that is displayed inside and close
 enough to a window to be reasonably visible from outside the window.
    Figure 3-30 Window Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5016.png]
  
       Yard Sign. Any temporary sign placed in the ground or attached to a
 supporting structure, posts, or poles that is not attached to any building or
 structure.
    Figure 3-31 Yard Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5018.png]
  
    Sign Clearance. The smallest vertical distance between finished grade and
 the lowest point of the sign, including any framework or other embellishments.
    Figure 3-32 Sign Clearance
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5020.png]
  
    Sign Copy. The message or content of a sign, which may include letters,
@@ -59339,7 +59346,7 @@ architectural decorative sign features shall not be included in any calculation
 of sign area, provided they contain no lettering or graphics except for
 addresses.
    Figure 3-33 Calculating Sign Area - Generally
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5024.png]
  
       b.    Where separate or individual component elements of a sign are
@@ -59353,7 +59360,7 @@ inclusive of the advertising surface and any framing, trim, or molding within a
 single continuous perimeter composed of single and vertical lines with no more
 than eight corners.
    Figure 3-34 Single-Faced Sign Area Calculation
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5026.png]
  
    3.   Calc ulating sign area - double-f aced signs. Only one face of a
@@ -59374,14 +59381,14 @@ beneath the freestanding sign. The area beneath the sign shall not be
 artificially built up or bermed to achieve a higher finished grade but shall
 generally match the finished grade of land area which it s adjacent.
    Figure 3-35 Freest anding Sign Height Measu rement
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5028.png]
  
    2.     Wall sign. The height of a wall sign shall be the greatest vertical
 distance measur ed from the highest point of the wall sign to the lowest point
 of the wall sign.
    Figure 3-36 Wall Sign Height Measur ement
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5030.png]
  
    3.    Wall painted sign. The height of a painted wall sign shall be the same
@@ -59689,7 +59696,7 @@ and/or sides of the awning.
       b.   Combined sign area. Awning signs shall count as building signs for
 the purpose of calculating maximum allowable sign area.
    Figure 3-37 Awning Sign Text Location
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5032.png]
       c.    Vertical clearance. A minimum vertical clearance of at least eight
 feet from the bottom of the awning to the highest finished grade shall be
@@ -59707,7 +59714,7 @@ front, sides, or top of the exterior surfaces the canopy. No part of a canopy
 sign displayed on the vertical or sloped surface of a canopy shall project
 beyond the edges of the canopy surface on which it is displayed
    Figure 3-38 Canopy Sign Text Location
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5034.png]
  
       b.    Combined sign area. Canopy signs shall count as building signs for
@@ -59752,7 +59759,7 @@ Decorative features shall be constructed of decorative masonry materials,
 including but not limited to stucco, rock, brick, or veneer, or other durable
 solid material.
    Figure 3-39 Monument Sign Features
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5036.png]
  
       d.     Landscaping required. Monument signs shall be located in a
@@ -59812,7 +59819,7 @@ compatible in scale with the design of the sign, and have a continuous finished
 appearance. Posts shall not include exposed metal but shall be surrounded by a
 decorative cover architecturally compatible with the sign cabinet
    Figure 3-40 Multiple Tenant Pylon Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5038.png]
       f.   Design. Where there is more than one pylon sign on a site, all such
 signs shall have designs that are visually related or complementary to each
@@ -59852,7 +59859,7 @@ except parapet and false mansard signs, shall only be approved as a sign
 modification pursuant to §
 17.330.025C.1. (Comprehensive Sign Programs - Master Sign Program).
    Figure 3-41 Architectural Feature Above Roofline
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5040.png]
       d.   Combined sign area. Wall signs on architectural features above
 rooflines count as building signs for the purpose of calculating maximum
@@ -59881,7 +59888,7 @@ the purpose of calculating maximum allowable sign area.
 false mansard wall shall be architecturally enclosed so that the sign appears
 to be an integral part of the false mansard roof structure.
    Figure 3-42 False Mansard Sign
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5042.png]
 D.   Permanent signs for specific uses of property. This Subsection establishes
 additional sign types and standards for specific uses.
@@ -59952,7 +59959,7 @@ Electronic message signs are prohibited.
          ii.   Sign area. Sign area shall not exceed 25% of the surface area of
 the canopy facade on which it is located.
    Figure 3-43 Fueling Station Canopy Sign.
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-5044.png]
  
       e.   §§ 13470 and 13530 of the California Business and Professions Code
@@ -60505,7 +60512,7 @@ privacy area shall be approved by the Director.
    4.   Located to not allow drive-through access from a vehicle.
    5.   Located to ensure the safety and security of patrons.
    Figure 4-1 ATM Location Requirements
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-34.jpg]
  
 B.   Design. All construction and modifications to the exterior of the
@@ -60641,7 +60648,7 @@ training neighborhood outreach security, screening of residents to ensure
 compatibility with services provided noise and loitering control and for
 training, counseling and treatment programs for residents.
    Map 4.05 Emergency Shelter Map
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-36.png]
  
 (Ord. No. 2013-008 § 1 (part); Ord. No. 2022-002 § 2 (part); Ord. No. 2024-006)
@@ -60868,7 +60875,7 @@ shall be 700 square feet.
 a multiple-level floor plan. See Figures 4-2 and 4-3 on the next page.
    Figure 4-2 Typical Live/Work Layout 1       Figure 4-3 Typical Live/Work
 Layout 2
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-38.jpg]
  
    3.   Building setbacks.  Same as those required by the underlying zone.
@@ -61450,7 +61457,7 @@ dwelling without internal access.
 K.   Occupancy Restrictions. ADUs shall not be used for rentals of terms of 30
 days or less unless established as defined in Cal. Gov’t Code §§ 66340 and
 66341. Owner occupancy is not required for ADUs or JADUs unless the JADU is
-dependent on shared sanitation facilities with the attacched single-family
+dependent on shared sanitation facilities with the attached single-family
 residence as provided in Cal. Gov’t Code § 66333.
 L.   Setbacks.
    1.   An ADU shall have side and rear yard setbacks of at least two feet from
@@ -61498,7 +61505,7 @@ include a cooking facility with appliances, a food preparation counter, and
 storage cabinets that are of reasonable size in relation to the size of the
 junior accessory dwelling unit.
    6.   Occupancy Restrictions. If the JADU is dependent on shared sanitation
-facilties with the attached single-faily residence as provided in Cal. Gov’t
+facilties with the attached single-family residence as provided in Cal. Gov’t
 Code § 66333, owner occupancy is required in either the remaining portion of
 the primary residence, another dwelling unit on the same lot, or the newly
 created JADU. Owner-occupancy shall not be required if the owner is another
@@ -61550,14 +61557,14 @@ proportionately in relation to the square footage of the primary dwelling unit.
 Ord. No. 2026-004, Exhibit A (part))
 § 17.400.096 ACCESSORY DWELLING UNIT CONDOMINIUMS.
 A.   Purpose. The purpose of this Section is to establish standards,
-requirements and procedures to allow separate sale or convevance of a primary
+requirements and procedures to allow separate sale or conveyance of a primary
 unit and an ADU or ADUs as condominiums pursuant to the regulations set forth
 in Gov’t Code § 66342. Any development standard or requirement not specifically
 addressed by this section or Gov’t Code § 66342 must conform to all other
 provisions of the municipal code and all other objective policies and
 requirements governing subdivisions.
 B.   Separate Sale or Conveyance of ADUs. An ADU or ADUs shall be separately
-sold or conveyed as condominiums onlv under the conditions outlined in this
+sold or conveyed as condominiums only under the conditions outlined in this
 Section.
    1.   JADUs shall not be sold separately from the primary dwelling unit and
 shall not be used for rentals of terms of 30 days or less, pursuant to CCMC
@@ -61572,7 +61579,7 @@ Interest Development Act (Part 5 (commencing with Section 40001 of Division 4
 of the Civil Code)).
    3.   ADU condominiums shall be created in conformance with all applicable
 objective requirements of the Subdivision Map Act (Division 2 (commencing with
-Section 66410 )) and all objective requirements of CCMC
+Section 66410)) and all objective requirements of CCMC
 Chapter 15.10 -Subdivisions.
       a.   The applicant shall obtain a parcel map or final map to establish
 the condominium parcels. A tentative map shall not be required.
@@ -61591,17 +61598,17 @@ Review.
 D.   ADU Development Standards. All ADU development standards of CCMC Chapter
 17.400.095 shall apply, unless exempted by state law or allowed pursuant to
 Cal. Gov't Code Section 66323.
-E.   Safety Inspection Required. Before recordation of the ADU condominium plan
-. a safety inspection of the ADU shall be conducted as evidenced either through
-a certificate of occupancy from the local agency or a housing quality standards
-report from a building inspector certified by the United States Department of
-Housing and Urban Development.
+E.   Safety Inspection Required. Before recordation of the ADU condominium
+plan, a safety inspection of the ADU shall be conducted as evidenced either
+through a certificate of occupancy from the local agency or a housing quality
+standards report from a building inspector certified by the United States
+Department of Housing and Urban Development.
 F.   Lienholder's Consent Required. Lienholder's consent shall be required as
 follows:
    1.   Neither a subdivision map nor a condominium plan shall be recorded with
 the county recorder in the county where the real property is located without
-each lienholder's consent. The following shall apoly to the consent of a lien
-holder:
+each lienholder's consent. The following shall apply to the consent of a
+lienholder:
       a.   A lienholder may refuse to give consent.
       b.   A lienholder may consent provided that any terms and conditions
 required by the lienholder are satisfied.
@@ -61621,30 +61628,30 @@ information:
       d.   The identities of all parties with an interest in the real property
 as reflected in the real property records.
       e.   The lienholder's consent shall be recorded in the office of the
-county recorder of the county in which the realproperty is located.
-      4.   The City shall include the following notice to consumers on any ADU
-or JADU unit submittal checklist or public information issued describing
-requirements and permitting for ADUs. including as standard condition of any
+county recorder of the county in which the real property is located.
+   4.   The City shall include the following notice to consumers on any ADU or
+JADU unit submittal checklist or public information issued describing
+requirements and permitting for ADUs, including as standard condition of any
 ADU building permit or condominium plan approval:
-         "NOTICE: If you are considering establishina your primary dwelling
+         "NOTICE: If you are considering establishing your primary dwelling
 unit and accessory dwelling unit as a condominium, please ensure that your
 building permitting agency allows this practice. If you decide to establish
-your primary dwelling unit and accessory dwelling unit as a condominium. your
+your primary dwelling unit and accessory dwelling unit as a condominium, your
 condominium plan or any future modifications to the condominium plan must be
 recorded with the County Recorder. Prior to recordation or modification of your
-subdivision map and condominium plan. any lienholder with a lien on your title
-must provide a form of written consent either on the condominium plan. or on
-the lien holder's consent form attached to the condominium plan with text that
+subdivision map and condominium plan, any lienholder with a lien on your title
+must provide a form of written consent either on the condominium plan, or on
+the lienholder's consent form attached to the condominium plan with text that
 clearly states that the lender approves recordation of the condominium plan and
 that you have satisfied their terms and conditions, if any.
-         In order to secure lender consent. you may be required to follow
-additional lender requirements. which may include. but are not limited to, one
+         In order to secure lender consent, you may be required to follow
+additional lender requirements, which may include, but are not limited to, one
 or more of the following:
          a.   Paying off your current lender. You may pay off your mortgage and
 any liens through a refinance or a new loan. Be aware that refinancing or using
-a new loan may result in changes to vour interest rate or tax basis. Also, be
+a new loan may result in changes to your interest rate or tax basis. Also, be
 aware that any subsequent modification to your subdivision map or condominium
-plan must also be consented to by your lender. which consent may be denied.
+plan must also be consented to by your lender, which consent may be denied.
          b.   Securing your lender's approval of a modification to their loan
 collateral due to the change of your current property legal description into
 one or more condominium parcels.
@@ -61653,19 +61660,19 @@ loan or ground lease. This may include a copy of the improvement contract
 entered in good faith with a licensed contractor, evidence that the record
 owner or ground lessee has the funds to complete the work, and a signed
 statement made by the record owner or ground lessor that the information in the
-consent above is true and correct.”
-G.   Utility Provider Notification. If an ADU is established as a condominium ,
-the homeowner shall notify providers of utilities including water sewer, gas,
+consent above is true and correct."
+G.   Utility Provider Notification. If an ADU is established as a condominium,
+the homeowner shall notify providers of utilities including water, sewer, gas,
 and electricity, of the condominium creation and separate conveyance.
 H.   Existing Association Consent Required. Consent from existing associations
 shall be required as follows:
    1.   The owner of a property or a separate interest within an existing
-planned development that has an existing association . as defined in § 4080 of
-the Civil Code shall not record a condominium plan to create a common interest
+planned development that has an existing association, as defined in § 4080 of
+the Civil Code, shall not record a condominium plan to create a common interest
 development under § 4100 of the Civil Code without the express written
 authorization by the existing association.
-   2.   For purooses of this subdivision, written authorization by the existing
-association means approval by the board at a duly noticed board meeting. as
+   2.   For puropses of this subdivision, written authorization by the existing
+association means approval by the board at a duly noticed board meeting, as
 defined in § 4090 of the Civil Code, and if needed pursuant to the existing
 association's governing documents, membership approval of the existing
 association.
@@ -66936,7 +66943,7 @@ property line of a reverse corner lot.
       e.   Reverse Corner Lot. A corner lot, the rear of which abuts a key lot.
       f.   Through Lot. A lot with frontage on two generally parallel streets.
    Figure 7-1 Examples of Lot Types
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-40.jpg]
  
    Lot Area.
@@ -66955,7 +66962,7 @@ a proposed project; and
          ii.   Other public or private easements where the owner of the
 property does not have the right to use the entire surface of the land.
    Figure 7-2 Lot Area
-[https://export.amlegal.com/media/1f885e38334a230e075c5601bcf2c59849a4e587/
+[https://export.amlegal.com/media/c779fcafbd5ebe1fcc91225fa687075963181a62/
 IMAGES/0-0-0-42.jpg]
  
    Lot Coverage.  See “Site Coverage.”
@@ -67829,7 +67836,7 @@ References to California Codes
 References to 1965 Code
 References to Ordinances
 REFERENCES TO CALIFORNIA CODES
-Administrative Code
+*** Administrative Code ***
  
 State Cite       Code Section
 Part 2, Title 24 17.320.030
@@ -67954,7 +67961,7 @@ State Cite      Code Section
 1775 et seq.    9.12.010
 2015.5          9.01.730
                 
-Code of Regulations
+*** Code of Regulations ***
 State Cite Code Section
 State Cite                                                   Code Section
 Title 14, § 671                                             9.01.010
@@ -68087,7 +68094,7 @@ Evidence Code
 State Cite Code Section
 1060       9.03.105
  
-Fish and Game Code
+*** Fish and Game Code ***
  
 State Cite                               Code Section
 Div. 2, Ch. 10 (commencing with § 1900) 15.10.940,
@@ -68099,12 +68106,12 @@ Div. 3, Ch. 10 (commencing with § 2800) 15.10.940,
 12029                                    11.17.025
                                          
  
-Food and Agricultural Code
+*** Food and Agricultural Code ***
  
 State Cite                                          Code Section
 Division 17, Chapter 10.5 (commencing with § 47000)11.18.020
  
-Government Code
+*** Government Code ***
 State Cite Code Section
 State Cite                                      Code Section
 900 et seq.                                     3.10.005
@@ -68324,7 +68331,7 @@ Ch. 4, 84100 et seq.                            3.11.005
 87300                                           3.11.010
                                                 
  
-Health and Safety Code
+*** Health and Safety Code ***
 State Cite Code Section
 State Cite                                          Code Section
 1569.2                                              17.580.010
@@ -68420,13 +68427,13 @@ Division 104, Part 9, Chapter 8 (commencing with § 5.08.005
 Division 104, Part 14 (commencing with § 117600)   5.08.005
                                                     
  
-Labor Code
+*** Labor Code ***
  
 State Cite                          Code Section
 Div. 2, Part 7, Ch. 1, Articles 1-5 3.07.090
 147.5                               11.17.025
  
-Penal Code
+*** Penal Code ***
 State Cite Code Section
 State Cite        Code Section
 186.22(f)         13.03.400
@@ -68470,7 +68477,7 @@ State Cite        Code Section
 32000             11.19.040
 32310             11.19.040
  
-Public Resources Code
+*** Public Resources Code ***
 State Cite Code Section
 State Cite                                                  Code Section
                                                             7.05.005,
@@ -68489,7 +68496,7 @@ State Cite                                                  Code Section
 Division 30, Part 3, Chapter 13.1 (commencing with § 42652)5.08.005
                                                             
  
-Public Utilities Code
+*** Public Utilities Code ***
 State Cite Code Section
 State Cite Code Section
 799        3.08.290
@@ -68504,7 +68511,7 @@ State Cite Code Section
            3.08.1050
            
  
-Revenue and Taxation Code
+*** Revenue and Taxation Code ***
 State Cite Code Section
 State Cite                         Code Section
 107.6                              11.26.040
@@ -68600,7 +68607,7 @@ Div. 2, Part 1.7 § 7285.9         3.08.355,
 34010 - 34021.5                    11.17.025
                                    
  
-Streets and Highways Code
+*** Streets and Highways Code ***
 State Cite Code Section
 State Cite        Code Section
 181 et seq.       3.07.200
@@ -68615,7 +68622,7 @@ Div. 10, (§ 8500)15.01.095
 22000 et seq.     9.08.205
 22553             15.01.070
  
-Vehicle Code
+*** Vehicle Code ***
 State Cite Code Section
 State Cite                        Code Section
 260(a)                            7.02.200
