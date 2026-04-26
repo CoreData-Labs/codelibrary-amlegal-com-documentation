@@ -38848,7 +38848,7 @@ and regulations applicable to all premises served by the public potable water
 system of the City.
 (Ord. 63 (88-89). Passed 5-5-88.)
 Exhibit "A"
-   SECTION 1. CROSS CONNECTION CONTROL; GENERAL POLICY.
+*    SECTION 1. CROSS CONNECTION CONTROL; GENERAL POLICY. *
    (a)    Purpose. The purpose of these rules and regulations is:
 (1)    To protect the public potable water supply from contamination or
 pollution by isolating within the consumer's water system contaminants or
@@ -38875,7 +38875,7 @@ approved device or devices at his own expense. Failure, refusal or inability on
 the part of the consumer to install such device or devices immediately shall
 constitute grounds for discontinuing water service to the premises until such
 device or devices have been installed.
-   SECTION 2. DEFINITIONS.
+*    SECTION 2. DEFINITIONS. *
    (a)    The following definitions shall apply in the interpretation and
 enforcement of these rules and regulations:
 (1)    "Air gap separations" means the unobstructed vertical distance through
@@ -38976,7 +38976,7 @@ public water system or a potable consumer's water system.
 (26)    "Used water" means any water supplied by a supplier of water from a
 public water system to a consumer's water system after it has passed through
 the service connection and is no longer under the control of the supplier.
-   SECTION 3. WATER SYSTEM.
+*    SECTION 3. WATER SYSTEM. *
    (a)    The water system shall be considered as made up of two parts: the
 public potable water system and the consumer's water system.
    (b)    The public potable water system shall consist of the source
@@ -38991,7 +38991,7 @@ used for delivery of water from the source to the consumer's water system.
    (e)    The consumer's water system shall include those parts of the
 facilities beyond the service connection which are utilized in conveying water
 from the public distribution system to points of use.
-   SECTION 4. CROSS CONNECTIONS PROHIBITED.
+*    SECTION 4. CROSS CONNECTIONS PROHIBITED. *
    (a)    No water service connection shall be installed or maintained to any
 premises where actual or potential cross connections to the public potable or
 consumer's water system may exist unless such actual or potential cross
@@ -39002,7 +39002,7 @@ auxiliary water system may enter a public potable or consumer's water system
 unless such auxiliary water system and the method of connection and use of such
 system shall have been approved by the Service Director and by the Director of
 the Ohio Environmental Protection Agency as required by Ohio R.C. 6109.13.
-   SECTION 5. SURVEY AND INVESTIGATIONS.
+*    SECTION 5. SURVEY AND INVESTIGATIONS. *
    (a)    The consumer's premises shall be open at all reasonable times to the
 Service Director, or his authorized representative, for the conduction of
 surveys and investigations of water use practices within the consumer's
@@ -39017,7 +39017,7 @@ periodic surveys of water use practices on his premises to determine whether
 there are actual or potential cross connections in his water system through
 which contaminants or pollutants could backflow into his or the public potable
 water system.
-   SECTION 6. WHERE PROTECTION IS REQUIRED.
+*    SECTION 6. WHERE PROTECTION IS REQUIRED. *
    (a)    An approved backflow prevention device shall be installed on each
 service line to a consumer's water system serving premises, where in the
 judgment of the Service Director or the Director, actual or potential hazards
@@ -39066,7 +39066,7 @@ point of connection between the public potable or consumer's water system and
 an auxiliary water system, unless such auxiliary system is accepted as an
 additional source by the Service Director and the source is approved by the
 Director of the Ohio Environmental Protection Agency.
-   SECTION 7. TYPE OF PROTECTION REQUIRED.
+*    SECTION 7. TYPE OF PROTECTION REQUIRED. *
    (a)    The type of protection required under Sections 6(a), (b) and (c) of
 these rules and regulations shall depend on the degree of hazard which exists
 as follows:
@@ -39104,7 +39104,7 @@ public or consumer's potable water system;
 protection only, with no regular use of water from the fire protection system
 downstream from the approved backflow prevention device;
 (6)    The water in the fire protection system shall contain no additives.
-   SECTION 8. BACKFLOW PREVENTION DEVICES.
+*    SECTION 8. BACKFLOW PREVENTION DEVICES. *
    (a)    Any backflow prevention device required by these rules and
 regulations shall be of a model or construction approved by the Service
 Director and the Director and shall comply with the following:
@@ -39133,7 +39133,7 @@ location or requires more than minimum maintenance or when the Service Director
 or his authorized representative finds that the maintenance of the device
 constitutes a hazard to health, the device shall be replaced by a backflow
 prevention device meeting the requirements of these regulations.
-   SECTION 9. INSTALLATION.
+*    SECTION 9. INSTALLATION. *
    (a)    Backflow prevention devices required by these rules and regulations
 shall be installed at a location and in a manner approved by and at the expense
 of the water consumer. In addition, any backflow prevention device required by
@@ -39153,7 +39153,7 @@ and adequate natural or artificial lighting shall be provided to permit
 maintenance, inspection and testing of the backflow prevention device.
    (d)    Reduced pressure principle backflow prevention devices must be
 installed above ground level or floor level, whichever is higher.
-   SECTION 10.INSPECTION AND MAINTENANCE.
+*    SECTION 10.INSPECTION AND MAINTENANCE. *
    (a)    It shall be the duty of the consumer at any premises on which
 backflow prevention devices required by these rules and regulations are
 installed to have inspections, tests, and overhauls made in accordance with the
@@ -39185,7 +39185,7 @@ submitted to the Service Director or his authorized representative.
    (e)    Backflow prevention devices shall not be bypassed, made inoperative,
 removed or otherwise made ineffective without specific authorization by the
 Service Director or his authorized representative.
-   SECTION 11.BOOSTER PUMPS.
+*    SECTION 11.BOOSTER PUMPS. *
    (a)    Where a booster pump has been installed on the service line to or
 within any premises, such pump shall be equipped with a low pressure cut-off
 device designed to shut-off the booster pump when the pressure in the service
@@ -39195,7 +39195,7 @@ or less.
 pressure cut-off device in proper working order and to certify to the Service
 Director or his authorized representative at least once a year, that the device
 is operating properly.
-   SECTION 12.VIOLATIONS.
+*    SECTION 12.VIOLATIONS. *
    (a)    The Service Director shall deny or discontinue, after reasonable
 notice to the occupants thereof, the water service to any premises wherein any
 backflow prevention device required by these regulations is not installed,
@@ -47179,7 +47179,7 @@ HIGH
    VaE Vandalia silty clay loam, 18 to 25 percent slopes
    VaF Vandalia silty clay loam, 25 to 35 percent slopes
 (Ord. 281(22-23). Passed 6-15-23.)
- 
+***   ***
    1155.02 APPENDIX B: FIGURES.
 CHAPTER 1156
 Water Quality Regulations
