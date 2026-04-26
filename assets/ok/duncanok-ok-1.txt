@@ -8,7 +8,7 @@ Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
 ADOPTING ORDINANCE
-ORDINANCE NO. 1872
+***** ORDINANCE NO. 1872 *****
 AN ORDINANCE ENACTING A CODE OF ORDINANCES FOR THE CITY OF DUNCAN, OKLAHOMA
 REVISING, AMENDING, RESTATING, CODIFYING AND COMPILING CERTAIN EXISTING GENERAL
 ORDINANCES OF THE POLITICAL SUBDIVISION DEALING WITH SUBJECTS EMBRACED IN SUCH
@@ -300,7 +300,7 @@ Section 11-2 Recall Petition
 Section 11-3 Recall Election: Council To Order
 Section 11-4 Recall Election: How Held
 Section 11-5 Person Recalled Or Resigning
-PREAMBLE
+***** PREAMBLE *****
    We, the people of the city of Duncan, Oklahoma, exercising the powers of
 home rule granted to us by the constitution and laws of the state of Oklahoma,
 in order to provide for more efficient, adequate and economical government, do
@@ -308,8 +308,8 @@ hereby amend the heretofore existing charter of the city of Duncan, Oklahoma,
 by repealing it and substituting in lieu thereof, this charter of the city of
 Duncan; and do hereby ordain, ratify and establish this charter of the city of
 Duncan, Oklahoma, as the organic law of the city.
-ARTICLE 1
-INCORPORATION; FORM OF GOVERNMENT; POWERS
+***** ARTICLE 1
+INCORPORATION; FORM OF GOVERNMENT; POWERS *****
 Section 1-1 Incorporation.
    The city of Duncan, Oklahoma, within the corporate limits as now established
 or as hereafter established, shall continue to be a municipal body politic and
@@ -358,8 +358,8 @@ enumerate; and
    4. Provisions of state law relating to matters which may be regulated by
 cities operating under charters, shall be in effect only insofar as they are
 applicable and are not superseded by this charter or by ordinance.
-ARTICLE 2
-THE COUNCIL
+***** ARTICLE 2
+THE COUNCIL *****
 Section 2-1 Councilmen: Number, Election, Term, Qualifications.
    There shall be a council of five members, which shall consist of the mayor
 as ex officio councilman at large and one councilman from each of the four
@@ -528,8 +528,8 @@ and the code may contain new matter, provisions of the state constitution and
 law relating to the city and provisions of this charter. A copy of the
 published code shall be filed in the office of the city clerk after adoption by
 council, but the code need not be enrolled in the book of ordinances.
-ARTICLE 3
-CITY MANAGER AND ADMINISTRATIVE DEPARTMENTS
+***** ARTICLE 3
+CITY MANAGER AND ADMINISTRATIVE DEPARTMENTS *****
 Section 3-1 City Manager: Appointment, Term, Qualifications, Removal.
    There shall be a city manager. The council shall appoint him for an
 indefinite term by a vote of a majority of all its members. It shall choose him
@@ -591,8 +591,8 @@ and all other subordinates; provided that the board may authorize a librarian
 to appoint his subordinates. The library board may adopt regulations for the
 administration and operation of the library or libraries, subject to ordinances
 which the council may enact.
-ARTICLE 4
-DEPARTMENT OF FINANCE; FISCAL AFFAIRS
+***** ARTICLE 4
+DEPARTMENT OF FINANCE; FISCAL AFFAIRS *****
 Section 4-1 City Treasurer: Office Created, Duties.
    There shall be a city treasurer, who shall be an officer of the city
 appointed by the city manager for an indefinite term, and who shall be head of
@@ -668,8 +668,8 @@ hundred ($500.00) dollars. The inventory and accounting system prescribed by
 the council shall conform to generally accepted accounting practices relating
 to municipal corporations or other local governmental entities.
 (Amendment adopted March 1986)
-ARTICLE 5
-PUBLIC UTILITIES
+***** ARTICLE 5
+PUBLIC UTILITIES *****
 Section 5-1 Electric Utility: Operation And Accounting.
    1. The electric utility of the city is a business, and it shall be operated
 in a businesslike manner. An electric utility fund is hereby established, and
@@ -715,8 +715,8 @@ Section 5-2 Other Utilities And Enterprises: Operation And Accounting.
 operated by the city (water utility, airport, hospital, parking facility,
 refuse disposal, etc.) shall be operated and accounted for in a manner similar
 to that prescribed above for the electric utility.
-ARTICLE 6
-MUNICIPAL COURT
+***** ARTICLE 6
+MUNICIPAL COURT *****
 Section 6-1 Municipal Court.
    There shall be a municipal judge, who shall be an officer of the city
 appointed by the city manager for an indefinite term. The council may suspend
@@ -732,8 +732,8 @@ proceedings of the municipal court, of the disposition of all cases, and of all
 fines and other money collected. The style of all processes shall be in the
 name of the city. The municipal judge may administer oaths, make and enforce
 all proper orders, rules and judgments, and punish for contempt.
-ARTICLE 7
-NOMINATIONS AND ELECTIONS
+***** ARTICLE 7
+NOMINATIONS AND ELECTIONS *****
 Section 7-1 Overlapping Terms: Nominated And Elected At Large: Nonpartisan
 Elections.
    1. The term of the first mayor elected under this charter, shall be three
@@ -781,8 +781,8 @@ general elections and special elections of the city. The provisions of the
 state constitution and law relating to elections, shall govern such elections
 insofar as they are applicable and are not superseded by this charter or by
 ordinance.
-ARTICLE 8
-MISCELLANEOUS PROVISIONS
+***** ARTICLE 8
+MISCELLANEOUS PROVISIONS *****
 Section 8-1 Feminine Gender.
    When the masculine gender is used in this charter, it shall also mean the
 feminine unless the masculine alone is clearly indicated.
@@ -862,8 +862,8 @@ part of a section; and
 or if a change in the state constitution or law renders a part of this charter
 invalid or inapplicable, the council by ordinance may take such appropriate
 action as will enable the city government to function properly.
-ARTICLE 9
-AMENDMENT
+***** ARTICLE 9
+AMENDMENT *****
 Section 9-1 Amendment: Proposal, Ratification, Approval.
    This charter may be amended by proposals therefor submitted by the council,
 or by the mayor upon initiative petition of the people as provided by the state
@@ -921,9 +921,9 @@ Section 9-7 Pending Actions And Proceedings.
 or proceeding, civil or criminal, pending when it takes full effect, brought by
 or against the municipality or any office, department agency or officer
 thereof.
-ARTICLE 10
-ARTICLE 11
-RECALL OF ELECTED OFFICIALS
+***** ARTICLE 10 *****
+***** ARTICLE 11
+RECALL OF ELECTED OFFICIALS *****
    (Adopted March 1986)
 Section 11-1 Recall Authorized.
    The incumbent of any elective city office, including a person appointed to
@@ -1346,10 +1346,8 @@ mean and include also the outlying real property belonging to or under the
 control of the city, unless the context clearly indicates otherwise.
 CHAPTER 2: CORPORATE AND WARD LIMITS
 Section
-   
-1-201   Map of city designated as official map
-   
-1-202   Ward number and boundaries
+**    1-201   Map of city designated as official map **
+**    1-202   Ward number and boundaries **
 §1-201 MAP OF CITY DESIGNATED AS OFFICIAL MAP.
    The map of the city showing its territorial limits is hereby designated as
 the official map of the city, and the corporate limits as shown thereon are
@@ -1639,14 +1637,14 @@ Article C. Employee Retirement System
 2-720   System established
    
 2-721   Administration, Trustees
-ARTICLE A. POLICE PENSION SYSTEM
+*** ARTICLE A. POLICE PENSION SYSTEM ***
 §2-701 POLICE PENSION SYSTEM.
    It is hereby declared to be the purpose and intention of the city to adopt
 the police pension and retirement system as provided by the laws of the state.
 Statutory reference:
    Similar provisions, see 11 O.S. §§ 50-101 et seq., 50-106.3, 50-109 and 50-
 110
-ARTICLE B. FIREFIGHTERS’ PENSION FUND
+*** ARTICLE B. FIREFIGHTERS’ PENSION FUND ***
 §2-710 FIREFIGHTERS’ PENSION AND RETIREMENT SYSTEM.
    (A)   There is hereby created a local Firefighters’ Pension and Retirement
 Board composed of the Mayor, the Clerk, the Treasurer and three members from
@@ -1658,7 +1656,7 @@ of the state.
 Statutory reference:
    Similar provisions, see 11 O.S. §§ 50-101 et seq., 50-106.3, 50-109 and 50-
 110
-ARTICLE C. EMPLOYEE RETIREMENT SYSTEM
+*** ARTICLE C. EMPLOYEE RETIREMENT SYSTEM ***
 §2-720 SYSTEM ESTABLISHED.
    Pursuant to the authority conferred by the laws of the state, and for the
 purpose of encouraging continuity and meritorious service on the part of city
@@ -2157,8 +2155,7 @@ permitted by law and renewal of existing permits.
 (Ord. 1330, passed - -1992)
 CHAPTER 11: GRANT ADMINISTRATION
 Section
-   
-2-1101   CDBG-EDIF job tracking
+**    2-1101   CDBG-EDIF job tracking **
 §2-1101 CDBG-EDIF JOB TRACKING.
    If the city is at any time a recipient of funds, either as a grant, loan or
 combination of grant and loan, from the program available through the State
@@ -3720,7 +3717,7 @@ conditions; exception
 shelters
    
 4-452   Cumulative effect of article
-ARTICLE A. SPAYING AND NEUTERING
+*** ARTICLE A. SPAYING AND NEUTERING ***
 §4-401 LEGISLATIVE PURPOSE.
    The City Council finds that each year hundreds of dogs and cats within the
 city are euthanized because they are unwanted, and data shows that the number
@@ -3749,7 +3746,7 @@ city and disposed of as described in § 4-208. The impoundment fee for second or
 subsequent offenses will be reduced by one-half upon presentation of a written
 receipt from a veterinarian for prepayment of having the animal sterilized.
 (Ord. 1563, passed 3-25-2003)
-ARTICLE B. GENERAL RESTRICTIONS
+*** ARTICLE B. GENERAL RESTRICTIONS ***
 §4-410 KEEPING OF DOGS AND CATS RESTRICTED BY NUMBER.
    (A)   It shall be unlawful for any person, firm or corporation that owns,
 leases or controls any premises within the city to maintain on said premises
@@ -3777,7 +3774,7 @@ failure to exercise due care and control, is subject to the penalties
 prescribed in §
 1-108.
 (Ord. 1510, passed 8-8-2000)
-ARTICLE C. REGISTRATION; TAGS
+*** ARTICLE C. REGISTRATION; TAGS ***
 §4-415 REGISTRATION/CITY TAGS NOT REQUIRED.
    (A)   Pet registration or obtaining city tags is not required for dogs, cats
 or ferrets.
@@ -3787,7 +3784,7 @@ identifying the owner. However, since every animal more than four months of age
 is required to have a current, valid rabies vaccination tag, such rabies
 vaccination tag is deemed sufficient to identify owners.
 (Ord. 1563, passed 3-25-2003)
-ARTICLE D. RABIES CONTROL
+*** ARTICLE D. RABIES CONTROL ***
 §4-420 VACCINATION REQUIRED.
    It is unlawful for any person to own, keep or harbor within the limits of
 the city any dog, cat or ferret, male or female, over the age of four months
@@ -4047,7 +4044,7 @@ shall direct the disposition of any animal found to be infected with rabies.
 or destruction when demand is made by an animal control officer or police
 officer. Such refusal shall be deemed an offense.
 (Ord. 1510, passed 8-8-2000)
-ARTICLE E. VICIOUS DOGS
+*** ARTICLE E. VICIOUS DOGS ***
 §4-435 CONFINEMENT.
    The owner of any vicious dog shall confine the animal within a building or
 secure enclosure and display a sign on the premises that there is a dangerous
@@ -4095,7 +4092,7 @@ impose fines and costs pursuant to §§
 1-108 and
 4-806.
 (Ord. 1510, passed 8-8-2000; Ord. 1837, passed 12-13-2022)
-ARTICLE F. KENNELS
+*** ARTICLE F. KENNELS ***
 §4-440 LICENSE REQUIRED; APPLICATION; FEE; RABIES VACCINATION; TERM; SANITARY
 CONDITIONS; EXCEPTION.
    (A)   (1)   No person shall own, maintain or operate a kennel within the
@@ -4808,7 +4805,7 @@ Article B. Building Permits and Certificates of Occupancy
 Article C. Fire Limits, Rules
    
 5-130   Fire limits defined, created
-ARTICLE A. BUILDING OFFICIAL AND INSPECTIONS
+*** ARTICLE A. BUILDING OFFICIAL AND INSPECTIONS ***
 §5-101 BUILDING OFFICIAL.
    The office of Building Official is hereby created. The Building Official
 shall be appointed by the City Manager. The terms BUILDING INSPECTOR or CODE
@@ -4828,7 +4825,7 @@ ordinances of the city. It is the Building Official’s responsibility to issue
 permits and perform inspections on the construction and related activities as
 specified by other sections of this part and other codes and ordinances of the
 city.
-ARTICLE B. BUILDING PERMITS AND CERTIFICATES OF OCCUPANCY
+*** ARTICLE B. BUILDING PERMITS AND CERTIFICATES OF OCCUPANCY ***
 §5-120 BUILDING PERMIT REQUIRED.
    It is unlawful to construct, enlarge, alter or demolish a structure or
 change the occupancy of a building or structure, or to change to another use,
@@ -4869,7 +4866,7 @@ connection therewith, and who may have participated or aided in such violation,
 shall be guilty of a separate offense and, upon conviction thereof, shall be
 punished as provided in §
 1-108.
-ARTICLE C. FIRE LIMITS, RULES
+*** ARTICLE C. FIRE LIMITS, RULES ***
 §5-130 FIRE LIMITS DEFINED, CREATED.
    There is hereby established in the city fire limits comprising the area
 following: all property within the city in a commercial or industrial zoning
@@ -4928,24 +4925,15 @@ contemplated by §
 shall be in such amounts as may be set by the Council by motion or resolution.
 CHAPTER 3: PLUMBING REGULATIONS
 Section
-   
-5-301   Plumbing inspector
-   
-5-302   Duties of plumbing inspector
-   
-5-303   Registration required, exemptions
-   
-5-304   Permits
-   
-5-305   Adoption of Plumbing Code
-   
-5-306   Additions, insertions and changes to Plumbing Code
-   
-5-307   Inspection
-   
-5-308   Failure to comply with plumbing rules
-   
-5-309   Recourse to plumbers’ surety and penalty
+**    5-301   Plumbing inspector **
+**    5-302   Duties of plumbing inspector **
+**    5-303   Registration required, exemptions **
+**    5-304   Permits **
+**    5-305   Adoption of Plumbing Code **
+**    5-306   Additions, insertions and changes to Plumbing Code **
+**    5-307   Inspection **
+**    5-308   Failure to comply with plumbing rules **
+**    5-309   Recourse to plumbers’ surety and penalty **
 §5-301 PLUMBING INSPECTOR.
    The office of plumbing inspector is hereby created. The plumbing inspector
 may be the Building Official or other person appointed by the City Manager in
@@ -9975,7 +9963,7 @@ revocation of state license or applicable federal prohibition
 8-747   Suspension or revocation of permit; imposition of fines
    
 8-748   Term of permit: renewals, expiration of permit
-ARTICLE A. MEDICAL MARIJUANA
+*** ARTICLE A. MEDICAL MARIJUANA ***
 §8-701 LEGISLATIVE INTENT AND PURPOSE.
    The intent of this chapter is to ensure the health and safety of the
 citizens of the city, and all Oklahomans, and provide reasonable and orderly
@@ -10051,7 +10039,7 @@ made a part of the ordinances of the city, as if fully set forth in this code.
 controlling within the city limits so that a violation of the provisions of the
 regulations will be a violation of this code.
 (Ord. 1813, passed 10-27-2020)
-ARTICLE B. COMMERCIAL MEDICAL MARIJUANA BUSINESS PERMIT
+*** ARTICLE B. COMMERCIAL MEDICAL MARIJUANA BUSINESS PERMIT ***
 §8-710 MEDICAL MARIJUANA BUSINESS PERMIT REQUIRED.
    (A)   It shall be unlawful for any person, persons or other business entity
 to operate a commercial medical marijuana business within the corporate limits
@@ -10093,7 +10081,7 @@ marijuana business formed from and after the date of enactment.
 fire and life safety codes for the city, in addition to any state building,
 fire and life safety codes, as the same may be amended from time to time.
 (Ord. 1813, passed 10-27-2020)
-ARTICLE C. GENERAL PROVISIONS
+*** ARTICLE C. GENERAL PROVISIONS ***
 §8-720 DEFENSE TO CRIMINAL PROSECUTIONS.
    Compliance with the requirements of this chapter shall not provide an
 exception, immunity or defense to criminal prosecution under any applicable
@@ -10331,8 +10319,8 @@ contrary to the terms of the plans submitted with the city medical marijuana
 business permit application, as such plans may be amended as provided in this
 chapter.
 (Ord. 1813, passed 10-27-2020)
-ARTICLE D. REQUIREMENTS RELATED TO THE OPERATION OF MEDICAL MARIJUANA
-BUSINESSES
+*** ARTICLE D. REQUIREMENTS RELATED TO THE OPERATION OF MEDICAL MARIJUANA
+BUSINESSES ***
 §8-740 ON-SITE USE PROHIBITED.
    No marijuana shall be smoked, eaten or otherwise consumed or ingested within
 the medical marijuana business, as provided for in OMMA 442:10-5-6 as it may be
@@ -13942,7 +13930,7 @@ Article B. Board of Adjustment
 Article C. Administrative Adjustment
    
 12-130   Administrative adjustment procedures
-ARTICLE A. PLANNING COMMISSION
+*** ARTICLE A. PLANNING COMMISSION ***
 §12-101 PLANNING COMMISSION ESTABLISHED.
    The city hereby establishes a Municipal Planning Commission in accordance
 with the laws of the state.
@@ -13976,7 +13964,7 @@ corporate limits of the city, including, but not limited to, §§
 12-823, otherwise known as the land development code, shall continue in full
 force and effect.
 (Ord. 1287, passed 7-12-1988)
-ARTICLE B. BOARD OF ADJUSTMENT
+*** ARTICLE B. BOARD OF ADJUSTMENT ***
 §12-120 CREATION AND PROCEDURES; BOARD OF ADJUSTMENT ESTABLISHED.
    (A)   There is hereby created a Board of Adjustment consisting of five
 members, citizens of the city, appointed by the Mayor and confirmed by the
@@ -14124,7 +14112,7 @@ charge of the enforcement of the terms and provisions of the ordinance, and
 upon notice to the Chairperson of the Board of Adjustment from which the appeal
 is taken, and upon due cause being shown, the court may reverse or affirm,
 wholly or partly, or modify the decision brought up for review.
-ARTICLE C. ADMINISTRATIVE ADJUSTMENT
+*** ARTICLE C. ADMINISTRATIVE ADJUSTMENT ***
 §12-130 ADMINISTRATIVE ADJUSTMENT PROCEDURES.
    (A)   Purpose. An administrative adjustment is a staff approved adjustment
 that may be issued for a structural encroachment to remedy an error made in the
@@ -14481,7 +14469,8 @@ Article L. Administration
 12-392   Adoption of amendment
    
 12-393   Violation and penalty
-ARTICLE A. CITATION, PURPOSE, NATURE AND APPLICATION OF ZONING ORDINANCE
+*** ARTICLE A. CITATION, PURPOSE, NATURE AND APPLICATION OF ZONING ORDINANCE
+***
 §12-201 CITATION.
    This chapter, in pursuance of the authority granted by the legislature of
 the state in 11 O.S. §§ 43-101 through 43-109, 44-101 through 44-110 and 45-101
@@ -14913,7 +14902,7 @@ the main building.
 passed 2-25-2003; Ord. 1559, passed 2-25-2003; Ord. 1640, passed 10-24-2006;
 Ord. 1680, passed 10-27-2009; Ord. 1695, passed 2-8-2011; Ord. 1698, passed 8-
 9-2011; Ord. 1757, passed 8-23-2016)
-ARTICLE B. ESTABLISHMENT OF DISTRICTS
+*** ARTICLE B. ESTABLISHMENT OF DISTRICTS ***
 §12-210 NUMBER OF DISTRICTS.
    (A)   For the purpose of this chapter the following districts are hereby
 established for the city:
@@ -14977,7 +14966,7 @@ building is located as hereinafter provided.
    Whenever any street, alley or other public easement is vacated, the district
 classifications of the property to which the vacated portions of land accrue
 shall become the classification of the vacated land.
-ARTICLE C. RESIDENTIAL DISTRICTS (R)
+*** ARTICLE C. RESIDENTIAL DISTRICTS (R) ***
 §12-220 R-1 SINGLE-FAMILY RESIDENTIAL DISTRICT.
    (A)   The R-1 Single-Family Residential District is the most restrictive
 residential district. The principal use of land is for single-family dwellings
@@ -15507,7 +15496,7 @@ construction before erection of any accessory buildings.
 or 35 feet in height except as provided in this part.
    (I)   Coverage. Main and accessory buildings shall not cover more than 20%
 of the lot area of any lot within this district.
-ARTICLE D. COMMERCIAL DISTRICTS (C)
+*** ARTICLE D. COMMERCIAL DISTRICTS (C) ***
 §12-240 C-1 NEIGHBORHOOD SHOPPING DISTRICT.
    The C-1 Neighborhood Shopping District is for the conduct of retail trade
 and personal service enterprises to meet the regular needs and for the
@@ -16058,7 +16047,7 @@ set back from the right-of-way a minimum of 325 feet.
    No building shall exceed two and one-half stories or 35 feet in height,
 except as hereinafter provided in §
 12-362.
-ARTICLE E. INDUSTRIAL DISTRICTS (I)
+*** ARTICLE E. INDUSTRIAL DISTRICTS (I) ***
 §12-265 I-1 RESTRICTED MANUFACTURING AND WAREHOUSING DISTRICT.
    The I-1 Restricted Manufacturing and Warehousing District is intended for
 manufacturing and assembly plants and warehousing that are conducted so the
@@ -16349,7 +16338,7 @@ area not exceeding one square foot of display surface area per linear foot of
 street frontage shall be allowed.
    (C)   Ground or pole signs shall not exceed 35 feet in height.
 (Ord. 1452, passed 1-13-1998)
-ARTICLE F. OTHER DISTRICTS
+*** ARTICLE F. OTHER DISTRICTS ***
 §12-290 F-1 FLOODPLAIN DISTRICT.
    (A)   This district is intended to encompass those lands lying within the
 boundaries of the 100-year floodplains identified in the flood insurance study
@@ -16524,7 +16513,7 @@ Sporting goods                      1 per 150 square feet of floor area
 Theater, indoor                     1 per 4 seats based upon maximum seating
                                     capacity
  
-ARTICLE G. AGRICULTURAL DISTRICTS (A)
+*** ARTICLE G. AGRICULTURAL DISTRICTS (A) ***
 §12-320 A-1 GENERAL AGRICULTURAL DISTRICT.
    This district is intended to provide an area primarily for agricultural uses
 or the extraction of the various products such as oil, minerals, rock and
@@ -16953,7 +16942,7 @@ Corridor Overlay District shall be applied to building additions/expansions and
 new development under building permits after the effective date hereof, except
 as otherwise provided for under the provisions of this chapter.
 (Ord. 1559, passed 2-25-2003)
-ARTICLE H. PLANNED UNIT ZONING AND MULTIPLE-FAMILY DWELLINGS
+*** ARTICLE H. PLANNED UNIT ZONING AND MULTIPLE-FAMILY DWELLINGS ***
 §12-340 PURPOSE OF PLANNED UNIT DEVELOPMENT.
    (A)   It is the intent of planned unit development zoning (PUD) to encourage
 unified design of housing, commercial, industrial or institutional areas and
@@ -17202,7 +17191,7 @@ permitted.
 is not considered an advertising sign and is permitted but shall be set back
 from the property line not less than five feet.
 (Ord. 1565, passed 5-27-2003)
-ARTICLE I. REQUIREMENTS FOR SATELLITE TELEVISION (DISH) ANTENNAS
+*** ARTICLE I. REQUIREMENTS FOR SATELLITE TELEVISION (DISH) ANTENNAS ***
 §12-350 “SATELLITE TELEVISION (DISH) ANTENNAS” DEFINED.
    A satellite television antenna or dish antenna shall meet the following
 requirements as listed below. For the purpose of this article, SATELLITE
@@ -17254,7 +17243,7 @@ application shall be made to the City Clerk, which permit will require approval
 by the City Council, and will be subject to all rules, regulations and charges
 now required under this city’s nonexclusive permit for the operation of
 cablevision in the city, as contained in the ordinances of the city.
-ARTICLE J. GENERAL PROVISIONS APPLYING TO ALL OR TO SEVERAL DISTRICTS
+*** ARTICLE J. GENERAL PROVISIONS APPLYING TO ALL OR TO SEVERAL DISTRICTS ***
 §12-360 APPLICATION OF REGULATION TO THE USES OF A MORE RESTRICTED DISTRICT.
    (A)   Whenever the specific district regulations pertaining to one district
 permit the uses of a more restricted district, such uses shall be subject to
@@ -17744,7 +17733,7 @@ constructed in accordance with applicable building and zoning regulations.
 an infraction punishable as provided for in §
 12-393 .
 (Ord. 1639, passed 10-24-2006)
-ARTICLE K. NONCONFORMING BUILDINGS, STRUCTURES AND USES OF LAND
+*** ARTICLE K. NONCONFORMING BUILDINGS, STRUCTURES AND USES OF LAND ***
 §12-380 NONCONFORMING BUILDINGS AND STRUCTURES.
    A nonconforming building or structure existing at the time of adoption of
 this chapter may be continued, maintained and repaired, except as otherwise
@@ -17808,7 +17797,7 @@ occupy more area than was in use on the effective date of this chapter; or
 period of six months, or changed, any future use of such land, or change in
 use, shall be in conformity with the provisions of the district in which the
 land is located.
-ARTICLE L. ADMINISTRATION
+*** ARTICLE L. ADMINISTRATION ***
 §12-387 BUILDING PERMIT OR CERTIFICATE OF OCCUPANCY REQUIRED.
    It is a violation of this chapter for any person to change or permit the
 change in the use of land or buildings or structure or to erect, alter, move or
@@ -18011,7 +18000,7 @@ Article E. Specifications For Documents
 12-462   Final plat
    
 12-463   Improvement plans
-ARTICLE A. GENERAL PROVISIONS AND DEFINITIONS
+*** ARTICLE A. GENERAL PROVISIONS AND DEFINITIONS ***
 §12-401 CITATION.
    These regulations shall hereafter be cited and referred to as the
 subdivision regulations of the city’s Planning Commission.
@@ -18340,7 +18329,7 @@ development for the dedication or vacation of a public or private right-of-way
 or easement.
 (Res. 901, passed 5-10-1977)
  
-ARTICLE B. APPLICATION AND APPROVAL PROCESS
+*** ARTICLE B. APPLICATION AND APPROVAL PROCESS ***
 §12-420 GENERAL PROCEDURE.
    (A)   Plats. For all cases of subdividing within the scope of these
 regulations, as defined in §
@@ -18589,7 +18578,7 @@ the County Clerk and shall be responsible for all filing fees; and
       (3)   The County Clerk shall enter the original tracing of record and
 return one to the administrative officer of the Planning Commission.
 (Res. 901, passed 5-10-1977)
-ARTICLE C. IMPROVEMENTS
+*** ARTICLE C. IMPROVEMENTS ***
 §12-430 GENERAL PROVISIONS.
    (A)   All improvements shall be designed and installed in accordance with
 all of the elements of the general plan and shall meet the minimum standards
@@ -18936,7 +18925,7 @@ in the Stagestand Creek drainage basin.
 section shall be assessed a penalty as provided for by §
 1-108 .
 (Ord. 1680, passed 10-27-2009)
-ARTICLE D. DESIGN
+*** ARTICLE D. DESIGN ***
 §12-450 MINIMUM STANDARDS AND GENERAL POLICIES.
    (A)   The standards and policies for development contained in these
 regulations, the zoning regulations, the building code, the major street plan
@@ -19196,7 +19185,7 @@ Commission’s discretion, be considered as the sketch plat and shall substitute
 for the preliminary plat when bearing all information required for a
 preliminary plat.
 (Res. 901, passed 5-10-1977)
-ARTICLE E. SPECIFICATIONS FOR DOCUMENTS
+*** ARTICLE E. SPECIFICATIONS FOR DOCUMENTS ***
 §12-460 SKETCH PLAT.
    Sketch plats submitted to the Planning Commission shall be prepared in pen
 or pencil, neatly drawn at a convenient scale of not more than 100 feet to one
@@ -19412,7 +19401,7 @@ Article D. Water Main Improvements
 12-535   Taps
    
 12-536   Materials
-ARTICLE A. GENERAL PROVISIONS
+*** ARTICLE A. GENERAL PROVISIONS ***
 §12-501 APPLICATION.
    Any person who develops or subdivides any residential, multi-family
 dwellings, commercial, industrial or institutional property within the scope of
@@ -19447,7 +19436,7 @@ shall be transmitted to the City Council, for final action. Any Council action
 to approve such a request shall specify the nature and extent of the variance
 and the nature and type of improvements to be provided by the developer.
 (Res. 901, passed 5-10-1977)
-ARTICLE B. STREET IMPROVEMENTS
+*** ARTICLE B. STREET IMPROVEMENTS ***
 §12-510 GENERAL.
    (A)   All street improvements shall be designed in conformance with the
 provisions of the subdivision regulations.
@@ -19486,7 +19475,7 @@ public streets shall include, in whole or by reference, the provisions of the
 city’s standard street construction specifications. There shall be no variance
 from these specifications unless approved in writing by the City Engineer.
 (Res. 901, passed 5-10-1977)
-ARTICLE C. SANITARY SEWER IMPROVEMENTS
+*** ARTICLE C. SANITARY SEWER IMPROVEMENTS ***
 §12-520 GENERAL.
    Where sanitary sewage facilities are required in conjunction with the
 development or subdivision of land, the subdivider shall install the facilities
@@ -19576,7 +19565,7 @@ as approved by the local government engineer.
 by the local government engineer.
  
 (Res. 901, passed 5-10-1977; Ord. 1354, passed 8-9-1994)
-§ 12-521 COMPLIANCE WITH THE FACILITIES PLAN.
+** § 12-521 COMPLIANCE WITH THE FACILITIES PLAN. **
    A sanitary sewer main improvement shall correspond with the city’s sanitary
 sewer facilities plan or other approved sanitary sewer report or document, and
 the improvement shall be designed in accordance with the facilities plan or
@@ -19588,11 +19577,11 @@ participate in the excess cost of such facility in accordance with the
 provisions of §§ 12-901 et seq.
 (Res. 901, passed 5-10-1977; Ord. 1354, passed 8-9-1994; Ord. 1610, passed 10-
 25-2005)
-§ 12-522 MINIMUM SIZE.
+** § 12-522 MINIMUM SIZE. **
    The minimum size of a public sanitary sewer shall be eight inches in
 diameter.
 (Res. 901, passed 5-10-1977)
-§ 12-523 DESIGN CRITERIA.
+** § 12-523 DESIGN CRITERIA. **
    (A)   All sewers shall be laid with straight alignment between manholes,
 unless otherwise directed or approved by the local government engineer.
    (B)   Manholes shall be installed at all changes in grade, size or
@@ -19625,7 +19614,7 @@ distance of ten feet in each direction from the crossing, measured
 perpendicular to the water line. This will not be required when the water main
 is at least two feet above the sewer.
 (Res. 901, passed 5-10-1977)
-§ 12-524 MATERIALS.
+** § 12-524 MATERIALS. **
    Sanitary sewer improvements shall be constructed of approved materials
 meeting the following specifications:
    (A)   Clay sewer pipe: ASTM C13, standard strength or C200, extra strength;
@@ -19636,8 +19625,8 @@ meeting the following specifications:
 construction (Oklahoma, 1959); and
    (F)   Brick: ASTM C62-50.
 (Res. 901, passed 5-10-1977; Ord. 1311, passed 6-11-1991)
-ARTICLE D. WATER MAIN IMPROVEMENTS
-§ 12-530 GENERAL.
+*** ARTICLE D. WATER MAIN IMPROVEMENTS ***
+** § 12-530 GENERAL. **
    Wherever the extension of public water mains is required or proposed in
 conjunction with the development or subdivision of land, the developer shall
 make provision for such extension in compliance with the standards contained
@@ -19648,13 +19637,13 @@ main to be connected to the public water supply. In addition, all water main
 extensions shall comply with the regulations of the State Department of Health
 and other appropriate agencies.
 (Res. 901, passed 5-10-1977)
-§ 12-531 IMPROVEMENTS REQUIRED.
+** § 12-531 IMPROVEMENTS REQUIRED. **
    The developer of land shall provide and install water mains, fire hydrants
 and all necessary valves and fittings. The cost of these improvements shall be
 borne by the developer except as provided in §
 12-532.
 (Res. 901, passed 5-10-1977)
-§ 12-532 COMPLIANCE WITH WATER PLAN.
+** § 12-532 COMPLIANCE WITH WATER PLAN. **
    (A)   A water main improvement shall correspond to improvements contained in
 the latest water distribution system development plan or map, and the developer
 shall provide water mains in compliance with the provisions of that plan or
@@ -19668,7 +19657,7 @@ compliance in accordance with the provisions of §§
 12-909 et seq.
 (Res. 901, passed 5-10-1977; Ord. 1354, passed 8-9-1994; Ord. 1610, passed 10-
 25-2005)
-§ 12-533 WATER MAIN DESIGN CRITERIA.
+** § 12-533 WATER MAIN DESIGN CRITERIA. **
    In order to facilitate the development of an adequate water distribution
 system, the following standards will be applied to water main extensions.
    (A)   Major trunk lines (generally along section line roads) shall be
@@ -19678,7 +19667,7 @@ distribution development plan.
 lines) shall be a minimum of eight inches in diameter.
    (C)   All other water mains shall be a minimum of six inches in diameter.
 (Res. 901, passed 5-10-1977)
-§ 12-534 FIRE HYDRANTS.
+** § 12-534 FIRE HYDRANTS. **
    Fire hydrants shall be required for all water main extensions. Fire hydrants
 shall be located within 300 feet of any lot or structure, measured along the
 shortest public roadway route from the nearest hydrant. Hydrants and
@@ -19686,7 +19675,7 @@ installation shall comply with the specifications in the standard
 specifications for water line construction as prepared by the local government
 engineer.
 (Res. 901, passed 5-10-1977)
-§ 12-535 TAPS.
+** § 12-535 TAPS. **
    (A)   Minimum service tap shall be a three-fourths inch tap. Where to be
 installed on the opposite side of a street from the water main, a single three-
 fourths inch or larger tap shall be installed under the roadbed for each lot or
@@ -19694,7 +19683,7 @@ tract prior to surfacing the roadway.
    (B)   Where existing streets are to be crossed, taps shall be bored
 underneath the street in all possible instances.
 (Res. 901, passed 5-10-1977)
-§ 12-536 MATERIALS.
+** § 12-536 MATERIALS. **
    (A)   All public water mains and all mains attached or proposed to be
 attached to the public water supply shall be constructed of PVC pipe or ductile
 iron pipe or both and shall be manufactured in accordance with the following
@@ -19768,7 +19757,8 @@ Article F. Floodplain Management Fee Schedule
 Article G. Penalties For Noncompliance
    
 12-624   Penalties
-ARTICLE A. STATUTORY AUTHORIZATION; FINDINGS OF FACT; PURPOSE AND    METHODS
+*** ARTICLE A. STATUTORY AUTHORIZATION; FINDINGS OF FACT; PURPOSE AND
+   METHODS ***
 §12-601 STATUTORY AUTHORIZATION.
    The legislature of the state has delegated the responsibility to local
 governmental units to adopt ordinances designed to minimize flood losses.
@@ -19823,7 +19813,7 @@ increase flood damage; and
 unnaturally divert floodwaters or which may increase flood hazards to other
 lands.
 (Ord. 1781, passed 7-10-2018)
-ARTICLE B. DEFINITIONS
+*** ARTICLE B. DEFINITIONS ***
 §12-605 DEFINITIONS ENUMERATED.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -20035,7 +20025,7 @@ Vertical Datum (NAVD) of 1988 (or other datum, where specified), of floods of
 various magnitudes and frequencies in the floodplains of coastal or riverine
 areas.
 (Ord. 1781, passed 7-10-2018)
-ARTICLE C. GENERAL PROVISIONS
+*** ARTICLE C. GENERAL PROVISIONS ***
 §12-606 LANDS TO WHICH THIS CHAPTER APPLIES.
    This chapter shall apply to all areas of special flood hazard within the
 jurisdiction of the city.
@@ -20083,7 +20073,7 @@ or any official or employee thereof for any flood damages that result from
 reliance on this chapter or any administrative decision lawfully made
 hereunder.
 (Ord. 1781, passed 7-10-2018)
-ARTICLE D. ADMINISTRATION
+*** ARTICLE D. ADMINISTRATION ***
 §12-613 DESIGNATION OF THE FLOODPLAIN ADMINISTRATOR.
    The City Council designates the City Manager to select his or her designee
 as Floodplain Administrator and Alternate Floodplain Administrator to
@@ -20263,7 +20253,7 @@ above are met; and
 minimize flood damages during the base flood and create no additional threats
 to public safety.
 (Ord. 1781, passed 7-10-2018)
-ARTICLE E. PROVISIONS FOR FLOOD HAZARD REDUCTION
+*** ARTICLE E. PROVISIONS FOR FLOOD HAZARD REDUCTION ***
 §12-617 GENERAL STANDARDS.
    In all areas of special flood hazards, the following provisions are required
 for all new construction and substantial improvements:
@@ -20461,7 +20451,7 @@ invalid or unconstitutional by any court of competent jurisdiction, then said
 holding shall in no way affect the validity of the remaining portions of this
 chapter.
 (Ord. 1781, passed 7-10-2018)
-ARTICLE F. FLOODPLAIN MANAGEMENT FEE SCHEDULE
+*** ARTICLE F. FLOODPLAIN MANAGEMENT FEE SCHEDULE ***
 §12-623 FEE SCHEDULE.
    The City Council establishes the following fee schedule not to exceed $500
 for any one service:
@@ -20471,7 +20461,7 @@ Floodplain development permit fee                $25
 Inspection fee                                   $25 per inspection
 Notice of intent fee                             $25 maximum
 (Ord. 1781, passed 7-10-2018)
-ARTICLE G. PENALTIES FOR NONCOMPLIANCE
+*** ARTICLE G. PENALTIES FOR NONCOMPLIANCE ***
 §12-624 PENALTIES.
    No structure or land shall hereafter be constructed, located, extended,
 converted or altered without full compliance with the terms of this chapter and
@@ -21511,7 +21501,7 @@ Article D. Major Water Main/Sanitary Sewer Main Extension Reimbursement Policy
 12-931   Major sanitary sewer main extension reimbursement
    
 12-932   Administration
-ARTICLE A. MAJOR SANITARY SEWER EXTENSIONS
+*** ARTICLE A. MAJOR SANITARY SEWER EXTENSIONS ***
 §12-901 PURPOSE.
    It is the purpose of these provisions to assure that sanitary sewer
 facilities are adequately designed to serve the needs of the community and to
@@ -21604,7 +21594,7 @@ approved plans and specifications, upon city/Authority provision of materials
 in accordance with an itemized bill of materials which shall be an exhibit
 attached to the contract for participation.
 (Ord. 1354, passed 8-9-1994)
-ARTICLE B. MAJOR WATER MAIN EXTENSIONS
+*** ARTICLE B. MAJOR WATER MAIN EXTENSIONS ***
 §12-909 PURPOSE.
    It is the purpose of these provisions to assure that public water main
 facilities are adequately designed to serve the needs of the community and to
@@ -21694,7 +21684,7 @@ specifications, upon city/Authority provision of materials in accordance with
 an itemized bill of materials which shall be an exhibit attached to the
 contract for participation.
 (Ord. 1354, passed 8-9-1994)
-ARTICLE C. MINOR UTILITY EXTENSIONS
+*** ARTICLE C. MINOR UTILITY EXTENSIONS ***
 §12-917 PURPOSE.
    It is the purpose of the following provisions to assist owners of property
 in predominantly developed neighborhoods with inadequate public facilities.
@@ -21804,7 +21794,8 @@ assessments in proportion to their excess contributions.
 assessments shall be deposited in the General Fund of the city’s Public
 Utilities Authority.
 (Ord. 1354, passed 8-9-1994)
-ARTICLE D. MAJOR WATER MAIN/SANITARY SEWER MAIN EXTENSION REIMBURSEMENT POLICY
+*** ARTICLE D. MAJOR WATER MAIN/SANITARY SEWER MAIN EXTENSION REIMBURSEMENT
+POLICY ***
 §12-928 PURPOSE AND SCOPE.
    It is the intent of this article to provide the city’s Public Utilities
 Authority (DPUA) or a developer/owner of a tract inside the city who has paid
@@ -23291,7 +23282,7 @@ agriculture
 13-234   Penalty
 Statutory reference:
    Similar provisions, see 11 O.S. §§ 29-101 et seq.
-ARTICLE A. GENERAL PROVISIONS
+*** ARTICLE A. GENERAL PROVISIONS ***
 §13-201 FIRE DEPARTMENT CREATED, CHIEF.
    (A)   There is hereby created a Fire Department, the head of which is the
 Chief of the Fire Department or Fire Chief, appointed by the City Manager for
@@ -23358,7 +23349,7 @@ together with all books, records, reports and data of the Department.
    It is unlawful for any person to interfere with the Fire Department or any
 officer or employee thereof in the proper discharge of its or his or her
 official duties.
-ARTICLE B. SERVICE OUTSIDE CITY LIMITS
+*** ARTICLE B. SERVICE OUTSIDE CITY LIMITS ***
 §13-221 AUTHORITY AND DUTY TO RENDER.
    (A)   The Fire Department is hereby authorized and empowered to render fire
 protection, fire prevention and rescue operations for individuals, firms,
@@ -23422,7 +23413,7 @@ doing any fire prevention work or rescue operation under and by virtue of this
 article.
 Statutory reference:
    Similar provisions, see 11 O.S. §§ 29-106 through 29-108
-ARTICLE C. OPEN BURNING
+*** ARTICLE C. OPEN BURNING ***
 §13-230 BURNING PERMIT REQUIRED; APPLICATION, FEE.
    (A)   No person, firm or corporation shall set fire to or burn any trees,
 brush, grass and other vegetable matter in the clearing of land for
@@ -25098,11 +25089,11 @@ or required to be abandoned, they shall be completely removed. When adjacent to
 a curb and gutter street, the curb and gutter shall be replaced.
 (Ord. 1263, passed 1-13-1987)
 § 14-610 FIGURES.
-[https://export.amlegal.com/media/9c14afa0fcd3385643b5c9743f43e69bf836be12/
-IMAGES/0-0-0-3619.jpg]
- 
-[https://export.amlegal.com/media/9c14afa0fcd3385643b5c9743f43e69bf836be12/
-IMAGES/0-0-0-3621.jpg]
+** [https://export.amlegal.com/media/9c14afa0fcd3385643b5c9743f43e69bf836be12/
+IMAGES/0-0-0-3619.jpg] **
+**   **
+** [https://export.amlegal.com/media/9c14afa0fcd3385643b5c9743f43e69bf836be12/
+IMAGES/0-0-0-3621.jpg] **
  
  
 Notes:
@@ -28146,7 +28137,7 @@ Chapter
 3.    RAILROADS
 CHAPTER 1: AIRPORT
 Section
-Article A. Airport Commission, Facilities and Rules
+**** Article A. Airport Commission, Facilities and Rules ****
    
 16-101   Airport Commission
    
@@ -28177,7 +28168,7 @@ Article B. Airport Zoning
    
 16-122   Penalty
  
-ARTICLE A. AIRPORT COMMISSION, FACILITIES AND RULES
+*** ARTICLE A. AIRPORT COMMISSION, FACILITIES AND RULES ***
 §16-101 AIRPORT COMMISSION.
    (A)   There is hereby created an Airport Commission. It shall consist of
 five members appointed by the Mayor with the consent of the City Council for
@@ -28480,7 +28471,7 @@ City Council, may be deprived of the further use of the airport and its
 facilities for such period of time as may appear necessary for the protection
 of life and property.
 (Ord. 1333, passed 1-26-1993)
-ARTICLE B. AIRPORT ZONING
+*** ARTICLE B. AIRPORT ZONING ***
 §16-121 AIRPORT ZONING BOARD.
    Where the city shall have established an Airport Zoning Board or Joint
 Airport Zoning Board under the authority granted by 3 O.S., there shall be not
@@ -29633,7 +29624,7 @@ Article F. Stormwater Sewer System Discharge
 Article G. Conflict
    
 17-370   Conflict
-ARTICLE A. GENERAL PROVISIONS
+*** ARTICLE A. GENERAL PROVISIONS ***
 §17-301 PURPOSE AND POLICY.
    (A)   This chapter sets forth uniform requirements for the disposal of
 wastewater in the service area of the publicly owned wastewater treatment
@@ -30040,7 +30031,7 @@ cleaning unit shall be prima facie evidence that such person is engaged in the
 business of cleaning, draining or flushing septic or other wastewater or
 excreta disposal systems within the service area of the city.
 (Ord. 1335, passed 6-22-1993)
-ARTICLE B. DISCHARGE AND DISCHARGE PERMITS
+*** ARTICLE B. DISCHARGE AND DISCHARGE PERMITS ***
 §17-310 APPLICATION FOR DISCHARGE OF WASTEWATER.
    (A)   All users or prospective users that generate nondomestic wastewater
 shall make application to the Superintendent for written authorization to
@@ -30571,7 +30562,7 @@ federal law.
 cause or suffer such a dangerous discharge to occur are advised of the
 emergency notification procedure.
 (Ord. 1335, passed 6-22-1993)
-ARTICLE C. INDUSTRIAL USER MONITORING
+*** ARTICLE C. INDUSTRIAL USER MONITORING ***
 §17-325 MONITORING FACILITIES.
    (A)   (1)   The installation of a monitoring facility shall be required for
 all industrial users having wastes which receive pretreatment, or otherwise
@@ -30768,7 +30759,7 @@ during the course of any unresolved litigation regarding the industrial user or
 when requested by the city, the approval authority or the Environmental
 Protection Agency.
 (Ord. 1335, passed 6-22-1993)
-ARTICLE D. ENFORCEMENT AND ABATEMENT
+*** ARTICLE D. ENFORCEMENT AND ABATEMENT ***
 §17-335 PRETREATMENT BOARD.
    (A)   Creation. There is hereby created and established the City
 Pretreatment Board, hereinafter referred to as the “Board” which shall be
@@ -30981,7 +30972,7 @@ provisions of this chapter:
    (D)   Such other persons as authorized under specific provisions of this
 chapter.
 (Ord. 1335, passed 6-22-1993)
-ARTICLE E. FEES AND BILLING
+*** ARTICLE E. FEES AND BILLING ***
 §17-350 PURPOSE.
    It is the purpose of this chapter to provide for the equitable recovery of
 costs from users of the city’s wastewater treatment system, including costs of
@@ -31022,7 +31013,7 @@ fee in accordance with this article.
 discharge requirements to compensate the city for the necessary compliance
 monitoring and other administrative duties of the pretreatment program.
 (Ord. 1335, passed 6-22-1993)
-ARTICLE F. STORMWATER SEWER SYSTEM DISCHARGE
+*** ARTICLE F. STORMWATER SEWER SYSTEM DISCHARGE ***
 §17-360 PURPOSE.
    (A)   (1)   The purpose of this article is to provide for the health, safety
 and welfare of people of the city by the regulation of non-stormwater
@@ -31265,7 +31256,7 @@ per day and/or imprisonment for a period of not more than 30 days.
 exclusive remedies. The city reserves the right to take any, all or any
 combination of these actions against violators of this article.
 (Ord. 1745, passed 11-10-2015)
-ARTICLE G. CONFLICT
+*** ARTICLE G. CONFLICT ***
 §17-370 CONFLICT.
    All other ordinances and parts of other ordinances inconsistent or
 conflicting with any part of this chapter are hereby repealed to the extent of
@@ -31741,8 +31732,7 @@ Ord. No. Date Passed Description
  
 APPENDIX 4: CITY HOSPITAL AUTHORITY
 Section
-   
-1   Acceptance of beneficial interest in City Hospital Authority
+**    1   Acceptance of beneficial interest in City Hospital Authority **
 § 1 ACCEPTANCE OF BENEFICIAL INTEREST IN CITY HOSPITAL AUTHORITY.
    The trust indenture dated October 26, 1976, creating the City Hospital
 Authority, a copy of which is on file in the office of the City Clerk, wherein
@@ -31752,8 +31742,7 @@ Mayor is authorized and directed to execute the acceptance of the beneficial
 interest for and on behalf of the city.
 APPENDIX 5: CITY INDUSTRIAL FOUNDATION
 Section
-   
-1   Trust accepted
+**    1   Trust accepted **
 § 1 TRUST ACCEPTED.
    The trust indenture by and between the City Industrial Foundation, as
 trustor, and Nolen Gugua, Gene Nelson and Jack Murer as Trustees, dated as of
