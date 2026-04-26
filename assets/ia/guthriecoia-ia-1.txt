@@ -282,7 +282,7 @@ Assistance Program
 30.25   Actions taken by Board of Supervisors
    
 30.26   Additional and state provisions
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 ORDINANCE ADOPTION PROCEDURE.
    (A)   Purpose. The procedures in this section shall be used by the county
 for the adoption and amendment of ordinances in the county.
@@ -340,7 +340,7 @@ herein as if set out in full:
    (A)   School infra-structure local option sales and service tax; and
    (B)   Local option sales and service tax.
 (Ord. 2003-, passed 10-21-2003; Ord. 23, passed 9-6-2005)
-ASSISTANCE PROGRAM
+**** ASSISTANCE PROGRAM ****
 § 30.15 CATEGORIES.
    (A)   There shall be three categories of general assistance in the county.
    (B)   They are:
@@ -662,7 +662,7 @@ Utility Permits
 Cross-reference:
    Wind energy, see
 Chapter 153
-UTILITY PERMITS
+**** UTILITY PERMITS ****
 § 50.01 PURPOSE.
    The purpose of this subchapter is to adopt provisions for the inspection and
 regulation of utility line installations, including the issuance of permits and
@@ -819,7 +819,7 @@ Mandatory Recycling
  
    
 52.99   Penalty
-MANDATORY RECYCLING
+**** MANDATORY RECYCLING ****
 § 52.01 PURPOSE.
    The purpose of this subchapter is to establish mandatory recycling of
 corrugated cardboard, mixed paper and tin/plastic/glass food and beverage
@@ -912,7 +912,7 @@ All-Terrain and Off-Road Utility Vehicles
  
    
 70.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 SPEED LIMITS.
    (A)   Short title. This section shall be known and may be cited as the
 “Guthrie County, Iowa Speed Restriction Ordinance”.
@@ -948,7 +948,7 @@ unlawful on any of the following designated roads or parts thereof: Tank
 Avenue, from 270th Street southward 250 feet.
 (Ord. 25, passed 4-10-2007) Penalty, see §
 70.99
-ALL-TERRAIN AND OFF-ROAD UTILITY VEHICLES
+**** ALL-TERRAIN AND OFF-ROAD UTILITY VEHICLES ****
 § 70.15 PURPOSE.
    This subchapter shall set forth regulations regarding the operation of all-
 terrain vehicles and/or off-road utility vehicles on county roadways designated
@@ -1286,7 +1286,7 @@ Drug Paraphernalia
  
    
 130.99   Penalty
-DRUG PARAPHERNALIA
+**** DRUG PARAPHERNALIA ****
 § 130.01 DEFINITIONS.
    (A)   DRUG PARAPHERNALIA means all equipment, products and materials of any
 kind which are used, intended for use or designed for use, in manufacturing,
@@ -1614,7 +1614,7 @@ Snow and Ice Clearance; Maintenance
  
    
 151.99   Penalty
-CONSTRUCTION/RECONSTRUCTION OF ROADWAYS AND BRIDGES
+**** CONSTRUCTION/RECONSTRUCTION OF ROADWAYS AND BRIDGES ****
 § 151.01 PURPOSE.
    The purpose of this subchapter is to establish the county’s policy for the
 construction and/or reconstruction of roads, construction and/or reconstruction
@@ -1714,7 +1714,7 @@ jurisdiction of the county.
 rendered null and void.
       (4)   The current County Entrance Policy shall remain in effect.
 (Ord. 32, passed 4-12-2016)
-RURAL ADDRESS SYSTEM
+**** RURAL ADDRESS SYSTEM ****
 § 151.20 PURPOSE.
    This subchapter mandates the use of a uniform rural address system for
 residents of the county in order to promote the convenience, safety and general
@@ -1827,7 +1827,7 @@ provisions of this subchapter shall be placed in the E911 Sign Operating Fund
 and credited to a special agency account to be designated as the uniform rural
 address system account under the control of the E911 Service Board.
 (Ord. 9, passed 3-24-1992)
-SNOW AND ICE CLEARANCE; MAINTENANCE
+**** SNOW AND ICE CLEARANCE; MAINTENANCE ****
 § 151.45 PURPOSE.
    (A)   The purpose of this subchapter is to establish the county’s policy and
 level of service in respect to clearance of snow or ice and maintenance of its
@@ -2027,7 +2027,7 @@ Administration
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 STATUTORY AUTHORITY.
    The legislature of the state has, in Iowa Code Chapter 335, as amended,
 delegated power to counties to enact zoning regulations to secure safety from
@@ -2329,7 +2329,7 @@ management regulations.
    VIOLATION. The failure of a structure or other development to be fully
 compliant with the community’s floodplain management regulations.
 (Ord. 33, passed 3-30-2017)
-FLOODPLAIN OVERLAY DISTRICT
+**** FLOODPLAIN OVERLAY DISTRICT ****
 § 152.25 ESTABLISHMENT.
    (A)   The areas within the jurisdiction of the county having special flood
 hazards are hereby designated as a Floodplain (Overlay) District and shall be
@@ -2522,7 +2522,7 @@ homes.
 banks or otherwise sufficiently protected to prevent rupture due to channel
 degradation and meandering.
 (Ord. 33, passed 3-30-2017)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 152.50 ZONING ADMINISTRATOR.
    (A)   The Zoning Administrator/Floodplain Coordinator is hereby appointed to
 implement and administer the provisions of this chapter and will herein be
@@ -2978,7 +2978,7 @@ Amendments
  
    
 154.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.001 TITLE.
    This chapter shall be known and may be cited and referred to as the “Guthrie
 County, Iowa, Zoning Ordinance”.
@@ -3801,7 +3801,7 @@ with the County Attorney in the perfection of such proceedings.
 Administrator shall cooperate with the County Attorney by performing such
 additional investigative work as the County Attorney may reasonably require.
 (Ord. passed - -2010)
-ZONING DISTRICT REGULATIONS
+**** ZONING DISTRICT REGULATIONS ****
 § 154.025 DISTRICTS GENERALLY.
    In order to carry out the purpose and intent of this chapter, the following
 zoning district classifications are hereby established:
@@ -3912,7 +3912,7 @@ or districts.
 disconnection by municipalities or otherwise shall automatically be designated
 as a Class “A-1” District until otherwise classified by amendment.
 (Ord. passed - -2010)
-GENERAL DISTRICT REGULATIONS AND EXCEPTIONS
+**** GENERAL DISTRICT REGULATIONS AND EXCEPTIONS ****
 § 154.045 FARMSTEADS.
    (A)   Within any Class “A” District, a farmstead in existence at the time of
 adoption of this chapter may be severed from the farm. A minimum of two acres
@@ -4758,7 +4758,7 @@ nacelle and rotor assembly.
 designed to extract kinetic energy from the wind and supply it in the form of
 electrical energy that is suitable for use by the electrical grid.
 (Ord. passed - -2010)
-SPECIFIC DISTRICTS
+**** SPECIFIC DISTRICTS ****
 § 154.080 AGRICULTURAL PRODUCTION DISTRICT (A-1).
    (A)   Intent. The Class “A-1” District is intended to preserve the land best
 suited for agricultural production by protecting prime agricultural lands in
@@ -6160,7 +6160,7 @@ The Board may approve the change in land use after consultation with the
 adjoining city government, and notification of adjacent property owners. Only
 the allowed use for the property under consideration will change.
 (Ord. passed - -2010)
-OFF-STREET PARKING AND LOADING
+**** OFF-STREET PARKING AND LOADING ****
 § 154.100 GENERALLY.
    The following general provisions shall apply to off-street parking and
 loading facilities.
@@ -6354,7 +6354,7 @@ completed within two years from the date of commencement, the bond or its
 equivalent shall be forfeited and the improvements thereafter constructed or
 completed under the direction of the County Engineer.
 (Ord. passed - -2010)
-DISPLAY AND OUTDOOR ADVERTISING SIGNS
+**** DISPLAY AND OUTDOOR ADVERTISING SIGNS ****
 § 154.120 GENERALLY.
    The following general provisions shall apply to display and outdoor
 advertising signs.
@@ -6558,7 +6558,7 @@ building and shall not have more than 100 square feet of area; and
       (4)   Not more than one sign of each category above may be provided for
 any single use, although each sign may be a double faced or back to back sign.
 (Ord. passed - -2010)
-SPECIAL EXCEPTIONS
+**** SPECIAL EXCEPTIONS ****
 § 154.140 PROCEDURES AND REQUIREMENTS.
    Allowable special exception uses may be permitted, enlarged or altered upon
 application for a special exception use permit in accordance with the rules and
@@ -6656,7 +6656,7 @@ necessary adjustments; and
    (N)   The use will not be in major conflict with the Comprehensive Land Use
 Plan.
 (Ord. passed - -2010)
-NON-CONFORMING USES AND STRUCTURES
+**** NON-CONFORMING USES AND STRUCTURES ****
 § 154.155 INTENT.
    (A)   Within the zoning districts established by this chapter or amendments
 that may be adopted later, there exists lots, structures and uses of land and
@@ -6829,7 +6829,7 @@ accompanied by affidavits of proof that such non-conforming use was legally
 established prior to the effective date of this chapter or was in existence
 prior to 4-13-1972.
 (Ord. passed - -2010)
-BOARD OF ADJUSTMENT
+**** BOARD OF ADJUSTMENT ****
 § 154.175 CREATION.
    The Board of Adjustment, as presently constituted, shall continue in office
 in accordance with the requirements set forth in Iowa Code Chapter 335, as
@@ -7062,7 +7062,7 @@ years or more, the Board may, after seven days’ notice in writing to the
 landowner, initiate action to rescind the conditional use permit granted. This
 can occur only after a public hearing.
 (Ord. passed - -2010)
-ZONING PERMITS AND CERTIFICATES OF ZONING COMPLIANCE
+**** ZONING PERMITS AND CERTIFICATES OF ZONING COMPLIANCE ****
 § 154.200 ZONING PERMIT REQUIRED.
    (A)   It shall be unlawful to do any excavating, grading, erecting,
 constructing, reconstructing, enlarging, altering or moving of any building or
@@ -7161,7 +7161,7 @@ applications, and no other use, arrangement or construction. Use, arrangement
 or construction at variance with that authorized shall be deemed a violation of
 this chapter.
 (Ord. passed - -2010)
-AMENDMENTS
+**** AMENDMENTS ****
 § 154.220 COUNTY BOARD MAY AMEND CHAPTER.
    Whenever the public necessity, convenience, general welfare or good zoning
 practice require, the County Board may, by ordinance, subject to the procedure

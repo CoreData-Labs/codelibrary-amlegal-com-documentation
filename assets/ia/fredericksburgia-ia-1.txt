@@ -773,7 +773,7 @@ City Attorney
 31.081   Attendance at Council meetings
    
 31.082   Prepare documents
-MAYOR
+**** MAYOR ****
 § 31.001 TERM OF OFFICE.
    The Mayor is elected for a term of four years.
 (Prior Code, § 15.01)
@@ -841,7 +841,7 @@ the Council.
 (Prior Code, § 15.05)
 Statutory reference:
    Related provisions, see Iowa Code § 372.4
-MAYOR PRO TEM
+**** MAYOR PRO TEM ****
 § 31.020 VICE PRESIDENT OF COUNCIL.
    The Mayor shall appoint a member of the Council as Mayor Pro Tem, who shall
 serve as vice president of the Council.
@@ -873,7 +873,7 @@ compensation of the Mayor.
 (Prior Code, § 16.04)
 Statutory reference:
    Related provisions, see Iowa Code § 372.13(8)
-CITY CLERK
+**** CITY CLERK ****
 § 31.035 APPOINTMENT AND COMPENSATION.
    At its first meeting in January following the regular city election, the
 Council shall appoint, by majority vote, a City Clerk to serve for a term of
@@ -1005,7 +1005,7 @@ last day on which nomination petitions can be filed.
 (Prior Code, § 18.12)
 Statutory reference:
    Related provisions, see Iowa Code §§ 376.4 and 376.6
-CITY TREASURER
+**** CITY TREASURER ****
 § 31.060 APPOINTMENT.
    The City Clerk is the Treasurer and performs all functions required of the
 position of Treasurer.
@@ -1039,7 +1039,7 @@ resolution or ordinance.
 (Prior Code, § 19.03)
 Statutory reference:
    Related provisions, see Iowa Code § 372.13(4)
-CITY ATTORNEY
+**** CITY ATTORNEY ****
 § 31.075 APPOINTMENT AND COMPENSATION.
    The Council shall appoint by majority vote a City Attorney to serve at the
 discretion of the Council. The City Attorney shall receive such compensation as
@@ -1168,7 +1168,7 @@ Fire Department
 32.65   Calls outside Fire District; mutual aid
    
 32.66   Authority to cite violations
-LIBRARY BOARD OF TRUSTEES
+**** LIBRARY BOARD OF TRUSTEES ****
 § 32.01 PUBLIC LIBRARY.
    The public library for the city is known as the Fredericksburg Public
 Library. It is referred to in this subchapter as “the library.”
@@ -1338,7 +1338,7 @@ detained and searched pursuant to law.
 (Prior Code, § 21.12)
 Statutory reference:
    Related provisions, see Iowa Code §§ 714.5 and 808.12
-TREE BOARD
+**** TREE BOARD ****
 § 32.25 ESTABLISHED.
    There is hereby created and established a City Tree Board, which shall
 consist of five members, citizens and residents of the city, who shall be
@@ -1368,7 +1368,7 @@ regulations, and keep a journal of its proceedings.
    (B)   A majority of the members shall be a quorum for the transaction of
 business.
 (Prior Code, § 23.05)
-PARK AND REC BOARD
+**** PARK AND REC BOARD ****
 § 32.40 BOARD; ORGANIZATION.
    (A)   It is recommended the Board consist of seven members which shall
 include:
@@ -1436,7 +1436,7 @@ for all the parks in the city’s jurisdiction, including the trail system and
 for the application of all grants and follow up documentation if required in
 the completion of the grant requirements.
 (Ord. 242-07-2021, passed 8-2-2021)
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 32.55 ESTABLISHMENT AND PURPOSE.
    A volunteer fire department is hereby established to prevent and extinguish
 fires and to protect lives and property against fires, to promote fire
@@ -1637,7 +1637,7 @@ Hotel/Motel Tax
 33.56   Use of funds
    
 33.57   Effect
-FISCAL MANAGEMENT
+**** FISCAL MANAGEMENT ****
 § 33.01 PURPOSE.
    The purpose of this subchapter is to establish policies and provide for
 rules and regulations governing the management of the financial affairs of the
@@ -1804,7 +1804,7 @@ with the Auditor of State not later than December 1 of each year.
 (Prior Code, § 7.08)
 Statutory reference:
    Related provisions, see Iowa Code §§ 384.22
-INDUSTRIAL PROPERTY TAX EXEMPTIONS
+**** INDUSTRIAL PROPERTY TAX EXEMPTIONS ****
 § 33.20 PURPOSE.
    The purpose of this subchapter is to provide for a partial exemption from
 property taxation of the actual value added to industrial real estate by the
@@ -1915,7 +1915,7 @@ exemption authorized by law.
 (Prior Code, § 8.09)
 Statutory reference:
    Related provisions, see Iowa Code § 427B.6
-ECONOMIC DEVELOPMENT PROPERTY TAX EXEMPTION
+**** ECONOMIC DEVELOPMENT PROPERTY TAX EXEMPTION ****
 § 33.40 PURPOSE.
    The purpose of this subchapter is to provide for a property tax exemption
 for shell buildings constructed by community development organizations for
@@ -1975,7 +1975,7 @@ assessment year.
    An application shall be filed with the local assessor for each project for
 which an exemption is claimed in accordance with Iowa Code § 427B.4.
 (Prior Code, § 9.04)
-HOTEL/MOTEL TAX
+**** HOTEL/MOTEL TAX ****
 § 33.55 IMPOSITION OF TAX.
    A tax of 7% shall be and same is hereby imposed upon the gross receipts from
 the renting of sleeping quarters in a hotel, motel, inn, public lodging house,
@@ -2051,7 +2051,7 @@ Cross-reference:
 131.04
    Refusing to assist officer, see §
 131.03
-ELECTIONS
+**** ELECTIONS ****
 § 34.01 NOMINATING METHOD TO BE USED.
    All candidates for elective municipal offices shall be nominated under the
 provisions of Iowa Code Ch. 45.
@@ -2094,7 +2094,7 @@ the ballot are elected, to the extent necessary to fill the positions open.
 (Prior Code, § 6.06)
 Statutory reference:
    Related provisions, see Iowa Code § 376.8(3)
-OPERATING PROCEDURES
+**** OPERATING PROCEDURES ****
 § 34.20 OATHS.
    The oath of office shall be required and administered in accordance with the
 following.
@@ -2280,7 +2280,7 @@ official, public employee, or candidate.
 (Prior Code, § 5.11)
 Statutory reference:
    Related provisions, see Iowa Code § 68B.22
-LAW ENFORCEMENT
+**** LAW ENFORCEMENT ****
 § 34.45 CONTRACT LAW ENFORCEMENT.
    The Council may contract with the County Sheriff or any other qualified
 lawful entity to provide law enforcement services within the city, and the
@@ -2420,7 +2420,7 @@ Appendix A:   Notice
 Appendix B:   Notice of hearing
    
 Appendix C:   Resolution and order
-SANITARY SEWER SYSTEM
+**** SANITARY SEWER SYSTEM ****
 § 50.001 PURPOSE.
    The purpose of this subchapter is to establish rules and regulations
 governing the treatment and disposal of sanitary sewage within the city in
@@ -2577,7 +2577,7 @@ within said easement. All entry and subsequent work, if any, on said easement,
 shall be done in full accordance with the terms of the duly negotiated easement
 pertaining to the private property involved.
 (Prior Code, § 95.08)
-BUILDING SEWERS AND CONNECTIONS
+**** BUILDING SEWERS AND CONNECTIONS ****
 § 50.020 PERMIT.
    No unauthorized person shall uncover, make any connection with or opening
 into, use, alter, or disturb any public sewer or appurtenance thereof without
@@ -2762,7 +2762,7 @@ manner as general property taxes.
 (Prior Code, § 96.10)
 Statutory reference:
    Related provisions, see Iowa Code § 364.12(3)
-USE OF PUBLIC SEWERS
+**** USE OF PUBLIC SEWERS ****
 § 50.040 STORMWATER.
    No person shall discharge or cause to be discharged any storm water, surface
 water, groundwater, roof run-off, sub-surface drainage, uncontaminated cooling
@@ -2954,7 +2954,7 @@ Normally, but not always, B.O.D. and suspended solids analyses are obtained
 from 24-hour composites of all outfalls whereas pH’s are determined from
 periodic grab samples.
 (Prior Code, § 97.08)
-ON-SITE WASTEWATER SYSTEMS
+**** ON-SITE WASTEWATER SYSTEMS ****
 § 50.060 WHEN PROHIBITED.
    Except as otherwise provided in this chapter, it is unlawful to construct or
 maintain any on-site wastewater treatment and disposal system or other facility
@@ -3015,7 +3015,7 @@ Statutory reference:
 location except an approved disposal site.
 (Prior Code, § 98.08) Penalty, see §
 50.999
-SEWER SERVICE CHARGE
+**** SEWER SERVICE CHARGE ****
 § 50.080 SEWER SERVICE CHARGES REQUIRED.
    Every customer shall pay to the city sewer service fees as hereinafter
 provided.
@@ -3100,7 +3100,7 @@ disposal facilities with a permit and at any time or location not specifically
 provided for herein is prohibited.
 (Prior Code, § 99.08) Penalty, see §
 50.999
-STORMWATER MANAGEMENT
+**** STORMWATER MANAGEMENT ****
 § 50.100 PURPOSE.
    The purpose of this subchapter is to establish a stormwater utility which
 shall be responsible for stormwater management within the corporate boundaries
@@ -3458,7 +3458,7 @@ Water Conservation
 51.074   Reduction in flow of water to any customer
    
 51.075   Exceptions to water conservation
-WATER SERVICE SYSTEM
+**** WATER SERVICE SYSTEM ****
 § 51.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3645,7 +3645,7 @@ shall open or attempt to draw water from any fire hydrant for any purpose
 whatsoever.
 (Prior Code, § 90.19) Penalty, see §
 10.99
-WATER METERS
+**** WATER METERS ****
 § 51.030 PURPOSE.
    The purpose of this subchapter is to encourage the conservation of water and
 facilitate the equitable distribution of charges for water service among
@@ -3692,7 +3692,7 @@ liable for the cost of repairs.
    The Superintendent shall be permitted to enter the premises of any customer
 at any reasonable time to read, remove, or change a meter.
 (Prior Code, § 91.08)
-WATER RATES
+**** WATER RATES ****
 § 51.050 SERVICE CHARGES.
    (A)   Each customer shall pay for water service provided by the city based
 upon use of water as determined by meters provided for in §§
@@ -3819,7 +3819,7 @@ Statutory reference:
 customers with water meters. The fee will go to the water fund to help cover
 maintenance of the water system and replacement cost of water meters.
 (Prior Code, § 92.10) (Ord. 251-6-2024, passed 6-19-2024)
-WATER CONSERVATION
+**** WATER CONSERVATION ****
 § 51.070 WATER SHORTAGES.
    (A)   During and following drought conditions which may occur from time to
 time, the supply of water available to the city may become significantly and
@@ -4128,7 +4128,7 @@ Cross-reference:
 131.06
    Junk and junk vehicles; abandoned vehicles, see
 Ch. 92
-SOLID WASTE CONTROL
+**** SOLID WASTE CONTROL ****
 § 53.01 PURPOSE.
    The purpose of this subchapter is to provide for the sanitary storage,
 collection, and disposal of solid waste and, thereby, to protect the citizens
@@ -4351,7 +4351,7 @@ for collection on any premises, unless such person is an authorized solid waste
 collector.
 (Prior Code, § 105.11) Penalty, see §
 10.99
-COLLECTION OF SOLID WASTE
+**** COLLECTION OF SOLID WASTE ****
 § 53.25 COLLECTION SERVICE.
    The city shall provide for the collection of all solid waste with the city
 limits.
@@ -4553,7 +4553,7 @@ Load and Weight Restrictions
 70.63   Load limits on bridges
    
 70.64   Truck routes
-TRAFFIC RULES AND REGULATIONS
+**** TRAFFIC RULES AND REGULATIONS ****
 § 70.01 VIOLATION OF REGULATIONS.
    (A)   Any person who willfully fails or refuses to comply with any lawful
 order of a peace officer or direction of a Fire Department officer during a
@@ -4952,7 +4952,7 @@ tractors and trucks. A $50 fine will be assessed to any person making or
 causing to be made such prohibited noises.
 (Prior Code, § 62.12) Penalty, see §
 10.99
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.25 TRAFFIC-CONTROL DEVICES, GENERALLY.
    (A)   The Council shall establish, by resolution, and cause to be placed and
 maintained, appropriate traffic-control devices to indicate parking spaces and
@@ -5017,7 +5017,7 @@ Manual of Uniform Traffic-Control Devices for Streets and Highways.
 (Prior Code, § 61.07)
 Statutory reference:
    Related provisions, see Iowa Code § 321.255
-PEDESTRIANS
+**** PEDESTRIANS ****
 § 70.45 WALKING IN STREET.
    Pedestrians shall, at all times, when walking on or along a street, walk on
 the left side of the street.
@@ -5040,7 +5040,7 @@ right-of-way to all vehicles upon the roadway.
 10.99
 Statutory reference:
    Related provisions, see Iowa Code § 321.328
-LOAD AND WEIGHT RESTRICTIONS
+**** LOAD AND WEIGHT RESTRICTIONS ****
 § 70.60 TEMPORARY EMBARGO.
    If the Council declares an embargo when it appears by reason of
 deterioration, rain, snow, or other climatic conditions that certain streets
@@ -5144,7 +5144,7 @@ Enforcement Procedures
 71.23   Presumption in reference to illegal parking
    
 71.24   Impounding vehicles
-ADMINISTRATION OF TRAFFIC CODE
+**** ADMINISTRATION OF TRAFFIC CODE ****
 § 71.01 TITLE.
    This title may be known and cited as the “Fredericksburg Traffic Code.”
 (Prior Code, § 60.01)
@@ -5236,7 +5236,7 @@ control, or regulate traffic.
 10.99
 Statutory reference:
    Related provisions, see Iowa Code § 321.229
-ENFORCEMENT PROCEDURES
+**** ENFORCEMENT PROCEDURES ****
 § 71.20 ARREST OR CITATION.
    Whenever a peace officer has reasonable cause to believe that a person has
 violated any provision of the Traffic Code, such officer may:
@@ -5339,7 +5339,7 @@ Stop or Yield Required
 72.33   Stop when traffic is obstructed
    
 72.34   Yield to pedestrians in crosswalks
-SPEED REGULATIONS
+**** SPEED REGULATIONS ****
 § 72.01 GENERAL.
    Every driver of a motor vehicle on a street shall drive the same at a
 careful and prudent speed not greater than nor less than is reasonable and
@@ -5375,7 +5375,7 @@ speed is necessary for safe operation, or in compliance with law.
 10.99
 Statutory reference:
    Related provisions, see Iowa Code § 321.294
-VEHICLE DIRECTION; TURNING
+**** VEHICLE DIRECTION; TURNING ****
 § 72.15 TURNING AT INTERSECTIONS.
    (A)   The driver of a vehicle intending to turn at an intersection shall do
 so as follows.
@@ -5411,7 +5411,7 @@ in the direction indicated on such signs.
 10.99
 Statutory reference:
    Related provisions, see Iowa Code § 321.236(4)
-STOP OR YIELD REQUIRED
+**** STOP OR YIELD REQUIRED ****
 § 72.30 STOP OR YIELD.
    Every driver of a vehicle shall stop or yield as directed by traffic-control
 devices posted in accordance with §§
@@ -5875,7 +5875,7 @@ Golf Carts and UTVs
  
    
 75.99   Penalty
-ALL-TERRAIN VEHICLES AND SNOWMOBILES
+**** ALL-TERRAIN VEHICLES AND SNOWMOBILES ****
 § 75.01 PURPOSE.
    The purpose of this subchapter is to regulate the operation of all-terrain
 vehicles and snowmobiles within the city.
@@ -6048,7 +6048,7 @@ person operating an all-terrain vehicle within the highway right-of-way under
 this division (D) shall comply with the registration, safety, and age
 requirements under Iowa Code Ch. 321I.
 (Iowa Code § 321.234A)
-GOLF CARTS AND UTVS
+**** GOLF CARTS AND UTVS ****
 § 75.20 PURPOSE AND DEFINITIONS.
    (A)   Purpose. The purpose of this subchapter is to permit the operation of
 golf carts and UTVs to regulate the operation of golf carts and UTVs within and
@@ -6796,7 +6796,7 @@ Nuisance Abatement Procedure
 91.99   Penalty
    
 Appendix A:   Notice to abate nuisance
-HAZARDOUS SUBSTANCE SPILLS
+**** HAZARDOUS SUBSTANCE SPILLS ****
 § 91.01 PURPOSE.
    In order to reduce the danger to the public health, safety, and welfare from
 the leaks and spills of hazardous substances, these regulations are promulgated
@@ -6902,7 +6902,7 @@ or losses resulting from any hazardous condition, unless the city is the
 responsible person, as defined in §
 91.02.
 (Prior Code, § 36.07)
-FIREWORKS
+**** FIREWORKS ****
 § 91.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6997,7 +6997,7 @@ and sold for medicinal or fumigation purposes.
 novelties.
 (Iowa Code § 727.2) Penalty, see §
 91.99
-NUISANCE ABATEMENT PROCEDURE
+**** NUISANCE ABATEMENT PROCEDURE ****
 § 91.35 DEFINITION OF NUISANCE.
    Whatever is injurious to health, indecent, or unreasonably offensive to the
 senses, or an obstruction to the free use of property so as essentially to
@@ -7255,7 +7255,7 @@ Abandoned Vehicles
 92.27   Proceeds from sales
    
 92.28   Duties of demolisher
-JUNK AND JUNK VEHICLES
+**** JUNK AND JUNK VEHICLES ****
 § 92.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7334,7 +7334,7 @@ outlined in §§
 (Prior Code, § 51.05)
 Statutory reference:
    Related provisions, see Iowa Code § 364.12(3a)
-ABANDONED VEHICLES
+**** ABANDONED VEHICLES ****
 § 92.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8190,7 +8190,7 @@ Offenses Against Public Peace
 130.23   Unlawful assembly
    
 130.24   Failure to disperse
-OFFENSES AGAINST PUBLIC AND PRIVATE PROPERTY
+**** OFFENSES AGAINST PUBLIC AND PRIVATE PROPERTY ****
 § 130.01 TRESPASSING.
    (A)   It is unlawful for a person to knowingly trespass upon the property of
 another.
@@ -8266,7 +8266,7 @@ Statutory reference:
 10.99
 Statutory reference:
    Related provisions, see Iowa Code § 714.1
-OFFENSES AGAINST PUBLIC PEACE
+**** OFFENSES AGAINST PUBLIC PEACE ****
 § 130.20 ASSAULT.
    (A)   No person shall, without justification, commit any of the following:
       (1)   Pain or injury. Any act which is intended to cause pain or injury
@@ -8408,7 +8408,7 @@ Minors
 131.40   Cigarettes and tobacco
    
 131.41   Contributing to delinquency
-OFFENSES AGAINST PUBLIC HEALTH AND SAFETY
+**** OFFENSES AGAINST PUBLIC HEALTH AND SAFETY ****
 § 131.01 DISTRIBUTING DANGEROUS SUBSTANCES.
    No person shall distribute samples of any drugs or medicine, or any
 corrosive, caustic, poisonous, or other injurious substance unless the person
@@ -8571,7 +8571,7 @@ manufacture, deliver, sell, or possess drug paraphernalia.
 10.99
 Statutory reference:
    Related provisions, see Iowa Code § 124.414
-ALCOHOL CONSUMPTION AND INTOXICATION
+**** ALCOHOL CONSUMPTION AND INTOXICATION ****
 § 131.25 PERSONS UNDER LEGAL AGE.
    (A)   As used in this section, LEGAL AGE means 21 years of age or more.
    (B)   A person or persons under legal age shall not purchase or attempt to
@@ -8626,7 +8626,7 @@ percentage of alcohol present at the time of arrest.
 10.99
 Statutory reference:
    Related provisions, see Iowa Code § 123.46
-MINORS
+**** MINORS ****
 § 131.40 CIGARETTES AND TOBACCO.
    It is unlawful for any person under 18 years of age to smoke, use, possess,
 purchase, or attempt to purchase any tobacco, tobacco products, or cigarettes.
@@ -8752,7 +8752,7 @@ Development of Municipal Lands
 Appendix A:   Residential building permit application
    
 Appendix B:   Building/land use permit
-GENERAL PROVISIONS; ADMINISTRATION
+**** GENERAL PROVISIONS; ADMINISTRATION ****
 § 150.001 PURPOSE.
    The purpose of this chapter is to provide and establish reasonable rules and
 regulations for the erection, reconstruction, altering and repairing of
@@ -8831,7 +8831,7 @@ Official to issue the building permit to the applicant. Said permit shall be
 issued in triplicate, one copy for the applicant, one copy for the County
 Assessor, and one copy to be retained in the city records.
 (Prior Code, § 155.09)
-BUILDING PERMITS
+**** BUILDING PERMITS ****
 § 150.020 RESTRICTIONS.
    No permit for the erection, alteration, use, or occupancy of a building or
 similar structure shall be granted unless it definitely appears that such
@@ -8889,7 +8889,7 @@ the permit or approval was based.
 underway within one year after the date of issuance of the permit, such permit
 shall be deemed void and of no effect.
 (Prior Code, § 155.14)
-USE REQUIREMENTS
+**** USE REQUIREMENTS ****
 § 150.035 RESTRICTED RESIDENCE DISTRICT MAP.
    The official restricted residence district map is on file in the office of
 the City Clerk and is hereby made a part of this chapter by reference.
@@ -8992,7 +8992,7 @@ put up a fence without a building permit in the city. If no permit is approved,
 a fine of $100 will be charged to the homeowner.
 (Prior Code, § 155.27) Penalty, see §
 150.999
-MANUFACTURED AND MOBILE HOMES
+**** MANUFACTURED AND MOBILE HOMES ****
 § 150.060 DEFINITIONS.
    (A)   For the purpose of this subchapter, the following definitions shall
 apply unless the context clearly indicates or requires a different meaning.
@@ -9053,7 +9053,7 @@ be installed in accordance with the requirements of the State Building Code.
 (Prior Code, § 146.03)
 Statutory reference:
    Related provisions, see Iowa Code §§ 103A.10 and 414.28
-BUILDING NUMBERING
+**** BUILDING NUMBERING ****
 § 150.085 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9080,7 +9080,7 @@ Statutory reference:
    Building numbers shall be assigned in accordance with the building numbering
 plan on file in the office of the City Clerk.
 (Prior Code, § 150.03)
-RENOVATION OR DEMOLITION OF COMMERCIAL BUILDINGS
+**** RENOVATION OR DEMOLITION OF COMMERCIAL BUILDINGS ****
 § 150.100 PURPOSE.
    This subchapter applies to all commercial buildings and residential
 structures containing four or more living units. The term COMMERCIAL BUILDINGS
@@ -9123,7 +9123,7 @@ demolition or renovation being commenced where hazardous material is present.
 Nothing in this chapter excuses the applicant or permittee from compliance with
 these notice requirements.
 (Prior Code, § 156.05)
-DEVELOPMENT OF MUNICIPAL LANDS
+**** DEVELOPMENT OF MUNICIPAL LANDS ****
 § 150.115 WELL SITE CONTROL.
    (A)   Well site description. The city has purchased some real estate which
 includes a well site and the city intends to use this facility as a public
@@ -9976,7 +9976,7 @@ Controlled Access Facilities
 153.114   Unlawful use of controlled access facility
    
 153.115   Permitted access points
-STREET USE AND MAINTENANCE
+**** STREET USE AND MAINTENANCE ****
 § 153.001 REMOVAL OF WARNING DEVICES.
    It is unlawful for a person to willfully remove, throw down, destroy, or
 carry away from any street or alley any lamp, obstruction, guard, or other
@@ -10143,7 +10143,7 @@ repairs, the cost shall be certified to the County Treasurer and specially
 assessed against the property as by law provided.
 (Prior Code, § 135.13) Penalty, see §
 10.99
-SIDEWALK REGULATIONS
+**** SIDEWALK REGULATIONS ****
 § 153.025 PURPOSE.
    The purpose of this subchapter is to enhance safe passage by citizens on
 sidewalks, to place the responsibility for the maintenance, repair,
@@ -10369,7 +10369,7 @@ for the sale of fruit, vegetables, or other substances or commodities on any
 sidewalk without first obtaining a written permit from the Council.
 (Prior Code, § 136.19) Penalty, see §
 10.99
-VACATION AND DISPOSAL OF STREETS
+**** VACATION AND DISPOSAL OF STREETS ****
 § 153.065 POWER TO VACATE.
    When, in the judgment of the Council, it would be in the best interest of
 the city to vacate a street, alley, portion thereof, or any public grounds, the
@@ -10405,7 +10405,7 @@ body for a public purpose.
 (Prior Code, § 137.05)
 Statutory reference:
    Related provisions, see Iowa Code § 364.7(3)
-STREET GRADES
+**** STREET GRADES ****
 § 153.080 ESTABLISHED GRADES.
    The grades of all streets, alleys, and sidewalks, which have been heretofore
 established by ordinance are hereby confirmed, ratified, and established as
@@ -10420,7 +10420,7 @@ Editor’s note:
 repeal, have been adopted establishing street and/or sidewalk grades and remain
 in full force and effect: Ord. 51, passed 5-5-1908; Ord. 83, passed 9-5-1933;
 Ord. 119, passed 5-15-1969; and Ord. 127, passed 6-6-1972.
-NAMING OF STREETS
+**** NAMING OF STREETS ****
 § 153.095 NAMING NEW STREETS.
    New streets shall be assigned names in accordance with the following.
    (A)   Extension of existing street. Streets added to the city that are
@@ -10457,7 +10457,7 @@ Council, the following changes were made in the Official Street Name Map:
 (brief description),” which entry shall be signed by the Mayor and attested by
 the City Clerk.
 (Prior Code, § 139.05)
-CONTROLLED ACCESS FACILITIES
+**** CONTROLLED ACCESS FACILITIES ****
 § 153.110 EXERCISE OF POLICE POWER.
    This subchapter shall be deemed an exercise of the police power of the city
 under Iowa Code Ch. 306A, for the preservation of the public peace, health,
