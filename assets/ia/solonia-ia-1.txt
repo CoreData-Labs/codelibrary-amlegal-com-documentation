@@ -15328,10 +15328,10 @@ units are equal to two units. A development with more than 225 residential
 units shall be required to have three access points in and out of the
 subdivision.
 APPENDIX TO CODE OF ORDINANCES
-USE AND MAINTENANCE OF THE CODE OF ORDINANCES
+**** USE AND MAINTENANCE OF THE CODE OF ORDINANCES ****
 The following information is provided to assist in the use and proper
 maintenance of this Code of Ordinances.
-DISTRIBUTION OF COPIES
+**** DISTRIBUTION OF COPIES ****
    1.   OFFICIAL COPY. The “OFFICIAL COPY” of the Code of Ordinances must be
 kept by the City Clerk and should be identified as the “OFFICIAL COPY.”
    2.   DISTRIBUTION. Other copies of the Code of Ordinances should be made
@@ -15347,7 +15347,7 @@ of Ordinances. Each official, elected or appointed, should return to the City,
 upon leaving office, all documents, records and other materials pertaining to
 the office, including this Code of Ordinances.
 (Code of Iowa, Sec. 372.13[4])
-NUMBERING OF ORDINANCES AMENDING THE CODE OF ORDINANCES
+**** NUMBERING OF ORDINANCES AMENDING THE CODE OF ORDINANCES ****
 It is recommended that a simple numerical sequence be used in assigning
 ordinance numbers to ordinances as they are passed. For example, if the
 ordinance adopting the Code of Ordinances is No. 163, we would suggest that the
@@ -15355,7 +15355,7 @@ first ordinance passed changing, adding to, or deleting from the Code be
 assigned the number 164, the next ordinance be assigned the number 165, and so
 on. We advise against using the Code of Ordinances numbering system for the
 numbering of ordinances.
-RETENTION OF AMENDING ORDINANCES
+**** RETENTION OF AMENDING ORDINANCES ****
 Please note that two books should be maintained: (1) the Code of Ordinances;
 and (2) an ordinance book. We will assist in the maintenance of the Code of
 Ordinances book, per the Supplement Agreement, by revising and returning
@@ -15364,7 +15364,7 @@ ordinances amending the Code. The City Clerk is responsible for maintaining the
 ordinance book and must be sure that an original copy of each ordinance
 adopted, bearing the signatures of the Mayor and Clerk, is inserted in the
 ordinance book and preserved in a safe place.
-SUPPLEMENT RECORD
+**** SUPPLEMENT RECORD ****
 A record of all supplements prepared for the Code of Ordinances is provided in
 the front of the Code. This record will indicate the number and date of the
 ordinances adopting the original Code and of each subsequently adopted
@@ -15373,12 +15373,12 @@ ordinance, the Supplement Record will list the ordinance number, date, topic,
 and chapter or section number of the Code affected by the amending ordinance. A
 periodic review of the Supplement Record and ordinances passed will assure that
 all ordinances amending the Code have been incorporated therein.
-DISTRIBUTION OF SUPPLEMENTS
+**** DISTRIBUTION OF SUPPLEMENTS ****
 Supplements containing revised pages for insertion in each Code will be sent to
 the Clerk. It is the responsibility of the Clerk to see that each person having
 a Code of Ordinances receives each supplement so that each Code may be properly
 updated to reflect action of the Council in amending the Code.
-AMENDING THE CODE OF ORDINANCES
+**** AMENDING THE CODE OF ORDINANCES ****
 The Code of Ordinances contains most of the laws of the City as of the date of
 its adoption and is continually subject to amendment to reflect changing
 policies of the Council, mandates of the State, or decisions of the Courts.
@@ -15387,10 +15387,10 @@ of an ordinance.
 (Code of Iowa, Sec. 380.2)
 The following forms of ordinances are recommended for making amendments to the
 Code of Ordinances:
-ADDITION OF NEW PROVISIONS
+**** ADDITION OF NEW PROVISIONS ****
 New material may require the addition of a new SUBSECTION, SECTION or CHAPTER,
 as shown in the following sample ordinance:
-ORDINANCE NO. ___
+** ORDINANCE NO. ___ **
 AN ORDINANCE AMENDING THE CODE OF ORDINANCES OF THE CITY OF __________, IOWA,
 BY ADDING A NEW SECTION LIMITING PARKING TO 30 MINUTES ON A PORTION OF
 _______________________ STREET
@@ -15428,10 +15428,10 @@ day of ________________, 20___.
  
 ______________________________
 City Clerk
-DELETION OF EXISTING PROVISIONS
+**** DELETION OF EXISTING PROVISIONS ****
 Provisions may be removed from the Code of Ordinances by deleting SUBSECTIONS,
 SECTIONS or CHAPTERS, as shown in the following sample ordinance:
-ORDINANCE NO. ___
+** ORDINANCE NO. ___ **
 AN ORDINANCE AMENDING THE CODE OF ORDINANCES OF THE CITY OF __________, IOWA,
 BY REPEALING SECTION 65.02, SUBSECTION 5, PERTAINING TO THE SPECIAL STOP
 REQUIRED ON ______________________ STREET.
@@ -15462,10 +15462,10 @@ of _________________, 20___.
  
 ______________________________
 City Clerk
-MODIFICATION OR CHANGE OF EXISTING PROVISION
+**** MODIFICATION OR CHANGE OF EXISTING PROVISION ****
 Existing provisions may be added to, partially deleted, or changed, as shown in
 the following sample:
-ORDINANCE NO. ___
+** ORDINANCE NO. ___ **
 AN ORDINANCE AMENDING THE CODE OF ORDINANCES OF THE CITY OF __________, IOWA,
 BY AMENDING PROVISIONS PERTAINING TO SEWER SERVICE CHARGES
 BE IT ENACTED by the City Council of the City of __________, Iowa:
@@ -15498,14 +15498,14 @@ day of ________________, 20___.
  
 ______________________________
 City Clerk
-ORDINANCES NOT CONTAINED IN THE CODE OF ORDINANCES
+**** ORDINANCES NOT CONTAINED IN THE CODE OF ORDINANCES ****
 There are certain types of ordinances which the City will be adopting which do
 not have to be incorporated in the Code of Ordinances. These include
 ordinances: (1) establishing grades of streets or sidewalks; (2) vacating
 streets or alleys; (3) authorizing the issuance of bonds; and (4) amending the
 zoning map.
 (Code of Iowa, Sec. 380.8)
-ORDINANCE NO. ___
+** ORDINANCE NO. ___ **
 AN ORDINANCE VACATING (INSERT LOCATION OR LEGAL DESCRIPTION OF STREET OR ALLEY
 BEING VACATED) TO __________, IOWA
 Be It Enacted by the City Council of the City of __________, Iowa:
@@ -15540,9 +15540,9 @@ ______________________________
 City Clerk
 These ordinances should be numbered in the same numerical sequence as any other
 amending ordinance and placed in their proper sequence in the ordinance book.
-SUGGESTED FORMS
+**** SUGGESTED FORMS ****
  
-FIRST NOTICE – DANGEROUS BUILDING
+**** FIRST NOTICE – DANGEROUS BUILDING ****
 TO:   (Name and address of owner, agent, or occupant of the property on which
 nuisance is located or the person causing or maintaining the nuisance).
 You are hereby notified to abate the nuisance existing at (name location of
@@ -15564,7 +15564,7 @@ City of __________, Iowa
  
 By: ________________________________________
    (enforcement officer)
-NOTICE OF HEARING ON DANGEROUS BUILDING
+**** NOTICE OF HEARING ON DANGEROUS BUILDING ****
  
 TO:   (Name and address of the owner, agent, or occupant of the property on
 which nuisance is located or the person causing or maintaining the nuisance).
@@ -15587,7 +15587,7 @@ City of __________, Iowa
  
 By: _______________________________
    (enforcement officer)
-RESOLUTION AND ORDER REGARDING DANGEROUS BUILDING
+**** RESOLUTION AND ORDER REGARDING DANGEROUS BUILDING ****
  
 BE IT RESOLVED, by the City Council of the City of __________, Iowa:
 WHEREAS, notice has heretofore been served on the ___ day of
@@ -15635,7 +15635,7 @@ instances, for the sake of public safety, the time element could be stricken
 from the resolution and immediate action be taken to abate the nuisance after
 the order is given.
  
-NOTICE TO ABATE NUISANCE
+**** NOTICE TO ABATE NUISANCE ****
 TO:   (Name and address of owner, agent, or occupant of the property on which
 the nuisance is located or the person causing or maintaining the nuisance).
 You are hereby notified to abate the nuisance existing at (name location of
@@ -15654,8 +15654,8 @@ City of __________, Iowa
  
 By: ________________________________
    (designate officer initiating notice)
-NOTICE
-REQUIRED SEWER CONNECTION
+**** NOTICE
+REQUIRED SEWER CONNECTION ****
 TO:   __________________________________
       (Name)
    __________________________________
@@ -15665,7 +15665,7 @@ You are hereby notified that connection to the public sanitary sewer system is
 required at the following described property within ______ (____) days from
 service of this notice or that you must file written request for a hearing
 before the Council with the undersigned office within said time limit.
-Description of Property
+** Description of Property **
 _____________________________________
 _____________________________________
 _____________________________________
@@ -15684,8 +15684,8 @@ City of __________, Iowa
  
 By: ________________________________, _____________________________
    (Name)   (Title)
-NOTICE OF HEARING
-REQUIRED SEWER CONNECTION
+**** NOTICE OF HEARING
+REQUIRED SEWER CONNECTION ****
 TO:   ______________________________
       (Name)
    ______________________________
@@ -15696,7 +15696,7 @@ the ___ day of ________________, 20___, at ______ __m. in the Council Chambers
 of the City Hall for the purpose of considering whether or not connection to
 the public sanitary sewer system shall be required at the following described
 property:
-Description of Property
+** Description of Property **
 _____________________________________
 _____________________________________
 _____________________________________
@@ -15710,8 +15710,8 @@ City of __________, Iowa
  
 By: ______________________________,   _____________________________
    (Name)      (Title)
-RESOLUTION AND ORDER
-REQUIRED SEWER CONNECTION
+**** RESOLUTION AND ORDER
+REQUIRED SEWER CONNECTION ****
 BE IT RESOLVED, by the City Council of the City of __________, Iowa:
 WHEREAS, notice has heretofore been served on the ____ day of __________,
 20___, on _____________________________________,             (Name of Property
