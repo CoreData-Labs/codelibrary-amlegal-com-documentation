@@ -8,7 +8,8 @@ AMERICAN LEGAL PUBLISHING CORPORATION
 Cincinnati, Ohio 45202
 1-800-445-5588  www.amlegal.com
 CHARTER
-FOREWORD: MUNICIPAL HOME RULE AMENDMENTS TO THE CONSTITUTION OF OREGON
+**** FOREWORD: MUNICIPAL HOME RULE AMENDMENTS TO THE CONSTITUTION OF OREGON
+****
    The Legislative Assembly shall not enact, amend of repeal any charter or act
 of incorporation for any municipality, city or town. The legal voters of every
 city and town are hereby granted power to enact and amend their municipal
@@ -24,7 +25,7 @@ legislation. In a city, not more than 15 percent of the qualified voters may be
 required to propose legislation by the initiative, and not more than 10 percent
 of the qualified voters may be required to order a referendum of legislation.
 [Article IV, section 1(5)]
-PREAMBLE
+**** PREAMBLE ****
    We, the people of Monroe, Oregon, in order to avail ourselves of self-
 determination in municipal affairs to the fullest extent now or hereafter
 possible under the constitutions and laws of the United States and the State of
@@ -43,7 +44,7 @@ hereafter are modified pursuant to state law. The custodian of the city’s
 records shall keep an accurate, current description of the boundaries and make
 a copy of it available for public inspection in the city during regular city
 office hours.
-CHAPTER II: POWERS
+**** CHAPTER II: POWERS ****
 SECTION 4. POWERS OF THE CITY.
    The city has all powers that the constitutions, statutes, and common law of
 the United States and of this state now or hereafter expressly or impliedly
@@ -60,7 +61,7 @@ SECTION 6. DISTRIBUTION OF POWERS.
    Except as this charter prescribes otherwise and as the Oregon Constitution
 reserves municipal legislative power to the voters of the city, all powers of
 the city are vested in the Council.
-CHAPTER III: FORM OF GOVERNMENT
+**** CHAPTER III: FORM OF GOVERNMENT ****
 SECTION 7. COUNCIL.
    The Council consists of a Mayor and six Councilors nominated and elected
 from the city at large or, in case of one of more vacancies in the Council, the
@@ -85,7 +86,7 @@ SECTION 11. APPOINTIVE OFFICES.
    (1)   Create, abolish, and combine appointive city offices; and
    (2)   Except as the majority prescribes otherwise, fill such offices by
 appointment and vacate them by removal.
-CHAPTER IV: COUNCIL
+**** CHAPTER IV: COUNCIL ****
 SECTION 12. RULES.
    The Council shall, by ordinance, prescribe rules to govern its meeting and
 proceedings.
@@ -147,7 +148,7 @@ term of the predecessor who has left the office vacant. During a Council
 member’s disability to serve on the Council or during a member’s absence from
 the city, a majority of the other Council members may by appointment fill the
 vacancy pro tem.
-CHAPTER V: POWERS AND DUTIES OF OFFICERS
+**** CHAPTER V: POWERS AND DUTIES OF OFFICERS ****
 SECTION 21. MAYOR.
    The Mayor shall appoint:
    (1)   Members of committees established by Council rules; and
@@ -183,7 +184,7 @@ ordinance.
 judges pro tem for terms of office set by the judge or the Council.
    (7)   Notwithstanding this section, the Council may transfer some or all of
 the functions of the municipal court to appropriate state court.
-CHAPTER VI: PERSONNEL
+**** CHAPTER VI: PERSONNEL ****
 SECTION 23. QUALIFICATIONS.
    (1)   An elective city officer shall be qualified elector under the state
 constitution and shall have resided in the city during the twelve months
@@ -215,14 +216,14 @@ SECTION 26. OATH.
    Before assuming city office, an officer shall take an oath or shall affirm
 that he or she will faithfully perform the duties of the office and support the
 constitution and laws of the United States and of the State of Oregon.
-CHAPTER VII: ELECTIONS
+**** CHAPTER VII: ELECTIONS ****
 SECTION 27. STATE LAW.
    Except as this charter or a city ordinance prescribes to the contrary, a
 city election shall conform to state law applicable to the election.
 SECTION 28. NOMINATIONS.
    A person may be nominated in a manner prescribed by general ordinance to run
 for an elective office of the city.
-CHAPTER VIII: ORDINANCES
+**** CHAPTER VIII: ORDINANCES ****
 SECTION 29. ORDAINING CLAUSE.
    The ordaining clause of an ordinance shall be “The city of Monroe ordains as
 follows:”
@@ -257,7 +258,7 @@ SECTION 31. EFFECTIVE DATE.
    A non-emergency ordinance takes effect on the 30th day after its adoption or
 on a later day the ordinance prescribes. An ordinance adopted to meet an
 emergency may take effect as soon as adopted.
-CHAPTER IX: PUBLIC IMPROVEMENTS
+**** CHAPTER IX: PUBLIC IMPROVEMENTS ****
 SECTION 32. PROCEDURE.
    (1)   The procedure for making, altering, vacating, or abandoning a public
 improvement shall be governed by general ordinance or, to the extent not so
@@ -275,7 +276,7 @@ SECTION 33. SPECIAL ASSESSMENTS.
    The procedure for fixing, levying, and collecting special assessments
 against real property for public improvements or other public services shall be
 governed by general ordinance.
-CHAPTER X: MISCELLANEOUS PROVISIONS
+**** CHAPTER X: MISCELLANEOUS PROVISIONS ****
 SECTION 34. DEBT.
    The city’s indebtedness may not exceed debt limits imposed by state law. A
 city officer or employee who creates or officially approves indebtedness in
@@ -746,7 +747,7 @@ System Development Charges
  
    
 31.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01  INITIATION OF PROCEEDINGS AND REPORT FROM CITY ENGINEER.
    (A)   Whenever the Council shall deem it necessary, upon its own motion or
 upon the written petition of the owners of property upon which more than 33% of
@@ -1014,7 +1015,7 @@ doubt as to the validity of such assessment, deficit assessment, or
 reassessment, or any part thereof, then the Council may make a reassessment in
 the manner provided by the laws of the state.
 (Prior Code, § 31.16)  (Ord. 120, passed 2-1-1971)
-SYSTEM DEVELOPMENT CHARGES
+**** SYSTEM DEVELOPMENT CHARGES ****
 § 31.30  PURPOSE AND CLASSIFICATION; EMERGENCY CLAUSE.
    (A)   Purpose. The purpose of the system development charge is to impose an
 equitable share of the public costs of capital improvements for water, sewers,
@@ -1587,7 +1588,7 @@ No Smoking Regulations
  
    
 32.99   Penalty
-CLAIMS PROCESSING
+**** CLAIMS PROCESSING ****
 § 32.01  PURPOSE.
    The purpose of this subchapter is to establish procedures governing new
 Measure 49 claims filed under O.R.S. 195.305 and 195.310 to 195.336. These
@@ -1777,7 +1778,7 @@ or decision unless the party alleging the error demonstrates prejudice to a
 substantial right. Inadvertent failure to provide notice or complete notice
 shall not be grounds for invalidating a decision.
 (Ord. 08-255, passed 3-4-2008)
-NO SMOKING REGULATIONS
+**** NO SMOKING REGULATIONS ****
 § 32.25  DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1846,7 +1847,7 @@ Planning Commission
 33.07   Amendments to the by-laws
    
 33.08   Parliamentary authority
-PLANNING COMMISSION
+**** PLANNING COMMISSION ****
 § 33.01  PURPOSE AND AUTHORITY.
    The purpose of the Planning Commission is to prepare recommendations for the
 City Council regarding proposed amendments to the county’s land use and
@@ -1957,7 +1958,7 @@ Contracting Rules
 34.25   Personal services contracts
    
 34.26   Adoption of code and rules
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01  AUTHORITY.
    (A)   The rules adopted in this subchapter shall be in effect upon their
 adoption by the Council and until such time as they are amended, added to,
@@ -2083,7 +2084,7 @@ Personal opinions and comments may be expressed only if it includes
 clarification that these statements do not represent the official position of
 the City Council.
 (Ord. 10-261, passed 2-22-2010)
-CONTRACTING RULES
+**** CONTRACTING RULES ****
 § 34.20  CONTRACT REVIEW BOARD.
    The City Council is designated as the local contract review board of the
 city and shall have all of the rights, powers, and authority to carry out the
@@ -2534,7 +2535,7 @@ Administration and Enforcement
 50.999   Penalty
    
 Appendix A:  Utility Service Agreement
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.001  DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2653,7 +2654,7 @@ conduct.
 right-of-way, the Sewer Fund shall pay the Street Fund an in lieu of franchise
 fee in the amount of 5% of the city sewer user receipts.
 (Ord. 2003-002, passed 11-12-2002)
-BUILDING SEWERS AND CONNECTIONS
+**** BUILDING SEWERS AND CONNECTIONS ****
 § 50.020  PERMIT REQUIRED FOR CONNECTIONS.
    No unauthorized person shall uncover, make any connections with or opening
 into, use, alter, or disturb any public sewer or appurtenance thereof without
@@ -2731,7 +2732,7 @@ sidewalks, parkways, and other public property disturbed in the course of the
 work shall be restored in a manner satisfactory to the city.
 (Prior Code, § 50.22)  (Ord. 171, passed 1-4-1982)  Penalty, see §
 50.999
-USE OF PUBLIC SEWERS
+**** USE OF PUBLIC SEWERS ****
 § 50.040  DISCHARGES OF UNPOLLUTED DRAINAGE; DISCHARGES TO NATURAL OUTLETS AND
 STORM SEWERS.
    (A)   No person shall discharge or cause to be discharged any storm water,
@@ -2895,7 +2896,7 @@ concern whereby an industrial waste of unusual strength or character may be
 accepted by the city for treatment, subject to payment therefor, by the
 industrial concern.
 (Prior Code, § 50.42)  (Ord. 171, passed 1-4-1982)
-RATES AND CHARGES
+**** RATES AND CHARGES ****
 § 50.060  DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3075,7 +3076,7 @@ the user shall be recomputed based on the approved revised flow and/or strength
 data and the new charges thus recomputed shall be applicable retroactively up
 to six months, as applicable.
 (Prior Code, § 50.61)  (Ord. 184, passed 4-2-1984)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 50.080  RIGHT OF ENTRY; SAFETY RULES TO BE OBSERVED; INDEMNIFICATION.
    (A)   (1)   The Superintendent and other duly authorized employees of the
 city bearing proper credentials and identification shall be permitted to enter
@@ -3270,7 +3271,7 @@ Cross-Connection Control
  
    
 51.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.001  SHORT TITLE.
    This chapter shall be known as “Rates, Rules, and Regulations for the
 Operation of the Water Department of the City of Monroe, Benton County,
@@ -3317,7 +3318,7 @@ the Water and Fire Departments.
 of-way, the Water Fund shall pay the Street Fund an in lieu of franchise fee in
 the amount of 5% of the city water user receipts.
 (Ord. 2003-001, passed 11-12-2002)
-WATER SERVICE
+**** WATER SERVICE ****
 § 51.020  SERVICE AREA.
    (A)   The area served by the Water Department shall be all that area
 included within the corporate limits of the city and such other contiguous and
@@ -3576,7 +3577,7 @@ the basis of a new connection, and the customer’s application shall be so
 amended. Meters or services moved for the convenience of the customer will be
 relocated only at the customer’s expense.
 (Prior Code, § 51.27)  (Ord. 216, passed 6-3-1991)
-RATES, CHARGES, AND BILLING
+**** RATES, CHARGES, AND BILLING ****
 § 51.045  WATER RATES AND SERVICE CONNECTION CHARGES.
    (A)   Water rates.
       (1)   The water rates to be charged shall be based on three classes of
@@ -3807,7 +3808,7 @@ utility prior to taking such water. Permission to take water in unusual
 quantities will be given only if the Water Department facilities and other
 consumers are not inconvenienced.
 (Prior Code, § 51.53)  (Ord. 216, passed 6-3-1991)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 51.070  ACCESS TO PROPERTY.
    All duly appointed employees of the Water Department, under the direction of
 the Water Superintendent, shall have free access at all reasonable hours of the
@@ -3852,7 +3853,7 @@ life or property or which would place the water system operation in jeopardy.
 of-way on and across his or her property for the installation of water mains
 and the necessary valves and equipment in connection therewith.
 (Prior Code, § 51.68)  (Ord. 216, passed 6-3-1991)
-CROSS-CONNECTION CONTROL
+**** CROSS-CONNECTION CONTROL ****
 § 51.085  RESPONSIBILITY.
    (A)   (1)   The city shall be responsible for the protection of the public
 from pollution due to the backflow or back siphonage of contaminates or
@@ -4110,7 +4111,7 @@ Administration and Enforcement
  
    
 70.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01  SHORT TITLE.
    This title may be cited as “the Monroe, Oregon Traffic Code”.
 (Prior Code, § 70.01)  (Ord. 206, passed 3-19-1990)
@@ -4135,7 +4136,7 @@ freight, property, articles, or things.
    TRAFFIC LANE. The area of the roadway used for a single line of traffic
 movement.
 (Prior Code, § 70.03)  (Ord. 206, passed 3-19-1990)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 70.15  POWERS OF THE GOVERNING BODY.
    (A)   Subject to state laws, the City Council as the governing body shall
 exercise all local traffic authority for the city except those powers expressly
@@ -4774,7 +4775,7 @@ Cross-reference:
 130.02
    Weeds, see
 Ch. 94
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 92.01  DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4807,7 +4808,7 @@ is hereby declared to be a nuisance and may be abated as provided in §§
 92.30 through
 92.35 of this chapter.
 (Prior Code, § 92.02)  (Ord. 95, passed 11-6-1967)
-NUISANCES SPECIFIED
+**** NUISANCES SPECIFIED ****
 § 92.15  ANIMALS.
    (A)   Animals running at large, damaging property.
       (1)   No person shall permit any dog owned or controlled by him or her to
@@ -5066,7 +5067,7 @@ public places, or upon any private property, any placards or advertisements
 whatsoever.
 (Prior Code, § 92.18)  (Ord. 95, passed 11-6-1967)  Penalty, see §
 92.99
-ABATEMENT PROCEDURE
+**** ABATEMENT PROCEDURE ****
 § 92.30  NOTICE.
    (A)   Upon determination by the Council that a nuisance as defined in this
 chapter or any other ordinance of the city exists, the Council shall forthwith
@@ -5212,7 +5213,7 @@ like without permission
  
    
 93.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01  DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5227,7 +5228,7 @@ which has been set aside by the Council for public recreation.
    The rules and regulations contained in this chapter shall apply to the use
 of the city property.
 (Prior Code, § 93.02)  (Ord. 175, passed 7-6-1982)
-REGULATIONS
+**** REGULATIONS ****
 § 93.15  PARK OPERATING HOURS.
    No person shall use the public parks between 10:00 p.m. and 6:00 a.m. except
 for a purpose permitted by the Council.
@@ -5921,7 +5922,7 @@ System Specifications and Terms of Service
 112.073   Remedies
    
 112.074   Compliance with laws
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 112.001  PURPOSE; EMERGENCY CLAUSE.
    (A)   Purpose. The purpose and intent of this chapter is to:
       (1)   Respond to increased use of the public way by telecommunications
@@ -6101,7 +6102,7 @@ maps, and other documents maintained by the grantee with respect to its
 facilities within the public way shall be made available for inspection by the
 city at reasonable times and intervals.
 (Ord. 2021-01, passed 3-10-2021)
-FRANCHISE APPLICATION
+**** FRANCHISE APPLICATION ****
 § 112.020  REGISTRATION AND FRANCHISE REQUIREMENTS.
    (A)   This chapter requires all telecommunications providers to register
 with the city and requires all telecommunications providers who use the public
@@ -6365,7 +6366,7 @@ requirements;
 is relevant to the severity of the violations.
 (Ord. 2021-01, passed 3-10-2021)  Penalty, see §
 10.99
-CONSTRUCTION REGULATIONS
+**** CONSTRUCTION REGULATIONS ****
 § 112.045  GENERAL CONSTRUCTION REQUIREMENTS; CODE.
    (A)   No person shall commence or continue with the construction,
 installation, or operation of telecommunication facilities in a public way,
@@ -6507,7 +6508,7 @@ excavation, grading, filling, or work of any kind in the public way by or on
 behalf of the city, or for any consequential losses resulting directly or
 indirectly therefrom.
 (Ord. 2021-01, passed 3-10-2021)
-SYSTEM SPECIFICATIONS AND TERMS OF SERVICE
+**** SYSTEM SPECIFICATIONS AND TERMS OF SERVICE ****
 § 112.065  LEASED CAPACITY; GENERAL AGREEMENT.
    (A)   Telecommunication providers providing cable service shall be subject
 to the cable franchise requirements in any separate cable franchise ordinances.
