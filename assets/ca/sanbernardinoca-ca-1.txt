@@ -9,7 +9,7 @@ American Legal Publishing
 Cincinnati, Ohio 45202
 1-800-445-5588 www.amlegal.com
 ADOPTING ORDINANCE
-ORDINANCE NO. MC-1653
+**** ORDINANCE NO. MC-1653 ****
 AN ORDINANCE OF THE MAYOR AND CITY COUNCIL OF THE CITY OF SAN BERNARDINO,
 CALIFORNIA, ENACTING A CODE OF ORDINANCES REVISING, AMENDING, RESTATING,
 CODIFYING AND COMPILING CERTAIN EXISTING GENERAL ORDINANCES OF THE CITY DEALING
@@ -618,7 +618,7 @@ Section 1001.   Periodic Review of Charter
 Article XI: Severability
    
 Section 1100.   Severability
-PREAMBLE
+** PREAMBLE **
    We, the people of the City of San Bernardino, in order to secure the
 benefits of home rule and a council-manager form of government, hereby adopt
 this Charter.
@@ -1076,7 +1076,7 @@ SECTION 1001. PERIODIC REVIEW OF CHARTER.
 periodic review of this Charter to identify potential amendments that enhance
 clarity, efficiency, and the principles of the council-manager form of
 government.
-ARTICLE XI: SEVERABILITY
+** ARTICLE XI: SEVERABILITY **
 SECTION 1100. SEVERABILITY.
    If any provision of this Charter is held invalid, the other provisions of
 the Charter shall not be affected. If the application of the Charter or any of
@@ -10147,7 +10147,7 @@ ARTICLE II. SPECIFIC BUSINESSES
 5.82.   OPERATOR PERMIT REGULATIONS
       
 5.84.   ENFORCEMENT - CITING AUTHORITY
-ARTICLE I: GENERAL PROVISIONS
+***** ARTICLE I: GENERAL PROVISIONS *****
 CHAPTER 5.04: GENERAL PROVISIONS AND RATES
 Section
    
@@ -15763,7 +15763,7 @@ Code of Civil Procedure, § 1094.6, any action to review said decision shall be
 commenced not later than the ninetieth day after the date of the written notice
 of decision.
 (Ord. MC-1038, passed 1-12-1999)
-ARTICLE II. SPECIFIC BUSINESSES
+***** ARTICLE II. SPECIFIC BUSINESSES *****
 CHAPTER 5.28: AUTOMOBILE WRECKERS
 Section
    
@@ -26207,8 +26207,8 @@ Article 307. Flood Control Projects
 8.79.760   Flood control projects; general
    
 8.79.770   Flood control projects; applications
-PART I. SCOPE AND ADMINISTRATION
-ARTICLE 101. GENERAL PROVISIONS
+*** PART I. SCOPE AND ADMINISTRATION ***
+** ARTICLE 101. GENERAL PROVISIONS **
 § 8.79.010 TITLE.
    This chapter, in combination with the flood provisions of the California
 Building Standards Code (consisting of Part 2 (building), Part 2.5
@@ -26322,7 +26322,7 @@ of an overlap or conflict between this chapter and any other ordinance, code,
 regulation, easement, covenant or deed restriction, the more restrictive shall
 govern.
 (Ord. MC-1622, passed 1-17-2024)
-ARTICLE 102. APPLICABILITY
+** ARTICLE 102. APPLICABILITY **
 § 8.79.100 GENERAL APPLICABILITY.
    These regulations, in conjunction with the building codes, provide minimum
 requirements for development located in flood hazard areas, including the
@@ -26354,7 +26354,7 @@ be:
    (C)   Deemed neither to limit nor repeal any other powers granted under
 state statutes.
 (Ord. MC-1622, passed 1-17-2024)
-ARTICLE 103. DUTIES AND POWERS OF THE FLOODPLAIN ADMINISTRATOR
+** ARTICLE 103. DUTIES AND POWERS OF THE FLOODPLAIN ADMINISTRATOR **
 § 8.79.130 DESIGNATION.
    The City Engineer is designated the Floodplain Administrator. The Floodplain
 Administrator shall have the authority to delegate the performance of certain
@@ -26478,7 +26478,7 @@ will be maintained; documentation related to variances, including justification
 for issuance or denial; and records of enforcement actions taken pursuant to
 this chapter and the flood resistant provisions of the building codes.
 (Ord. MC-1622, passed 1-17-2024)
-ARTICLE 104. PERMITS FOR FLOODPLAIN DEVELOPMENT
+** ARTICLE 104. PERMITS FOR FLOODPLAIN DEVELOPMENT **
 § 8.79.190 PERMITS REQUIRED.
    Any person, owner or authorized agent who intends to conduct any development
 in a flood hazard area shall first make an application to the Floodplain
@@ -26850,7 +26850,7 @@ directed to perform to remove or remedy a violation or unsafe condition, shall
 be subject to penalties as prescribed by law. Penalties, fines and remediation
 fees will be determined by Public Works Department on a case-by-case basis.
 (Ord. MC-1622, passed 1-17-2024)
-PART II. DEFINITIONS
+*** PART II. DEFINITIONS ***
 ARTICLE 201. DEFINITIONS
 § 8.79.460 GENERAL.
    The following words and terms shall, for the purposes of this chapter, have
@@ -27121,7 +27121,7 @@ the flood provisions of the Building Code, as applicable.
    WATERCOURSE. A river, creek, stream, channel or other topographic feature
 in, on, through or over which water flows at least periodically.
 (Ord. MC-1622, passed 1-17-2024)
-PART III. FLOOD RESISTANT DEVELOPMENT
+*** PART III. FLOOD RESISTANT DEVELOPMENT ***
 ARTICLE 301. BUILDINGS AND STRUCTURES
 § 8.79.480 REQUIREMENTS FOR BUILDINGS AND STRUCTURES IN FLOOD HAZARD AREAS.
    Applications for building and structures within the scope of the Building
@@ -27554,7 +27554,7 @@ Article 8. General Clauses
 8.80.801   Severability
    
 8.80.802   City’s right of revision
-ARTICLE 1. AUTHORITY, PURPOSE AND POLICY; DEFINITIONS
+** ARTICLE 1. AUTHORITY, PURPOSE AND POLICY; DEFINITIONS **
 § 8.80.101 AUTHORITY.
    This chapter is enacted pursuant to authority conferred by an areawide urban
 storm water runoff permit (NPDES Permit No. CAS618036, Order No. R8-2002-0012)
@@ -27788,7 +27788,7 @@ basin inlet filters, grassy swales and sand and oil interceptors.
    VIOLATION. A breech of any provision of this chapter.
    WATERS OF THE STATE. Any surface water or ground water, including saline
 waters, within the boundaries of the state.
-ARTICLE 2. GENERAL CONDITIONS AND PROHIBITIONS
+** ARTICLE 2. GENERAL CONDITIONS AND PROHIBITIONS **
 § 8.80.201 ADMINISTRATION.
    The City Engineer shall administer, implement and enforce the provisions of
 this chapter. Any powers granted to or duties imposed upon the City Engineer
@@ -28081,7 +28081,7 @@ delay, for the purpose of performing his or her authorized duties. For
 facilities which require special clearances to conduct inspections, it shall be
 the responsibility of the discharger to obtain all necessary clearances on
 behalf of the city so that the inspection is not impaired.
-ARTICLE 3. RESIDENTIAL REQUIREMENTS
+** ARTICLE 3. RESIDENTIAL REQUIREMENTS **
 § 8.80.301 PROHIBITED DISCHARGES.
    In addition to the general prohibitions in §
 8.80.206, it is prohibited to discharge any of the following to any street,
@@ -28138,7 +28138,7 @@ season if there is evidence of one or more of the following conditions:
 facility. Private streets shall also be swept and maintained as needed to
 prevent sediment, gardening waste, trash, litter and other contaminants from
 entering the city’s storm drainage system.
-ARTICLE 4. INDUSTRIAL AND COMMERCIAL REQUIREMENTS
+** ARTICLE 4. INDUSTRIAL AND COMMERCIAL REQUIREMENTS **
 § 8.80.401 NON-STORM WATER DISCHARGES.
    All non-storm water discharges associated with industrial and commercial
 activities that discharge into the city’s storm water drainage system are
@@ -28202,7 +28202,7 @@ to the city’s inspector, upon request.
 are not effective in reducing storm water pollutants or non-storm water
 discharges to the maximum extent practicable, the city will require that the
 control device be repaired, rebuilt or replaced.
-ARTICLE 5. CONSTRUCTION REQUIREMENTS
+** ARTICLE 5. CONSTRUCTION REQUIREMENTS **
 § 8.80.501 STORM WATER QUALITY MANAGEMENT PLAN (“SWQMP”).
    (A)   Prior to the issuance of any grading or building permit, all
 qualifying land development/ redevelopment projects shall submit and have
@@ -28326,7 +28326,7 @@ and/or implement appropriate construction and post-construction BMPs, as listed
 in their SWQMP or the “California Storm Water Best Management Practice
 Handbook,” to reduce pollutants to the maximum extent practicable or to the
 extent required by law.
-ARTICLE 6. ADMINISTRATIVE ENFORCEMENT REMEDIES
+** ARTICLE 6. ADMINISTRATIVE ENFORCEMENT REMEDIES **
 § 8.80.601 NOTICE OF CORRECTION.
    Whenever the City Engineer, or his or her designee, finds that any
 discharger has the potential to violate or has already violated any
@@ -28572,7 +28572,7 @@ abatement, remediation and/or restoration shall be borne by the owner, lessee
 or tenant of the property causing the violation. The cost thereof shall be a
 lien upon and against the property and such lien shall continue in existence
 until the same shall be paid.
-ARTICLE 7. JUDICIAL ENFORCEMENT REMEDIES
+** ARTICLE 7. JUDICIAL ENFORCEMENT REMEDIES **
 § 8.80.701 LEGAL ACTION.
    The City Attorney may commence an action for appropriate legal, equitable or
 injunctive relief in the Superior Court of the county against any person who
@@ -28622,7 +28622,7 @@ renders inaccurate any monitoring device or method required under this chapter
 is guilty of a misdemeanor, which, upon conviction, is punishable by a fine of
 not less than $3,000 per day of violation and/or by imprisonment for a period
 of not more than six months.
-ARTICLE 8. GENERAL CLAUSES
+** ARTICLE 8. GENERAL CLAUSES **
 § 8.80.801 SEVERABILITY.
    If any provisions, paragraph, word, section or article of this chapter is
 invalidated by any court of competent jurisdiction, the remaining provisions,
@@ -30891,7 +30891,7 @@ ARTICLE IX. NARCOTICS AND GANGS
       
 9.98.   PSYCHOACTIVE BATH SALTS, PSYCHOACTIVE HERBAL INCENSE AND OTHER
 SYNTHETIC DRUGS
-ARTICLE I. OFFENSES AGAINST PUBLIC OFFICERS AND GOVERNMENT
+***** ARTICLE I. OFFENSES AGAINST PUBLIC OFFICERS AND GOVERNMENT *****
 CHAPTER 9.04: IMPROPER USE OF CITY INSIGNIA
 Section
    
@@ -31061,7 +31061,7 @@ guilty of an infraction, which, upon conviction thereof, is punishable in
 accordance with the provisions of §
 1.12.010.
 (Ord. 2003, passed 11-17-1953; Ord. MC-460, passed 5-15-1985)
-ARTICLE II. OFFENSES AGAINST THE PERSON
+***** ARTICLE II. OFFENSES AGAINST THE PERSON *****
 CHAPTER 9.20: LEG-HOLD TRAPS
 Section
    
@@ -31078,7 +31078,7 @@ spring, holding the leg of an animal, except mouse traps and rat traps.
    It is unlawful for any person, firm or corporation to set or use any leg-
 hold trap within the city limits.
 (Ord. 3896, passed 1-9-1980)
-ARTICLE III. OFFENSES AGAINST PUBLIC DECENCY
+***** ARTICLE III. OFFENSES AGAINST PUBLIC DECENCY *****
 CHAPTER 9.28: OFFENSES AGAINST PUBLIC DECENCY
 Section
    
@@ -31240,7 +31240,7 @@ infraction, which, upon conviction thereof, is punishable in accordance with
 the provisions of §
 1.12.010.
 (Ord. 536, passed 11-4-1913; Ord. MC-460, passed 5-15-1985)
-ARTICLE IV. OFFENSES AGAINST PUBLIC PEACE
+***** ARTICLE IV. OFFENSES AGAINST PUBLIC PEACE *****
 CHAPTER 9.48: SOUND-MAKING OR SOUND-AMPLIFYING DEVICES
 Section
    
@@ -31346,7 +31346,7 @@ time, place and manner.
 shall be deemed guilty of an infraction, and, upon conviction thereof, shall be
 punished by a fine not exceeding the amounts set forth in § 1.12.030(B).
 (Ord. MC-355, passed 3-22-1984)
-ARTICLE V. OFFENSES AGAINST PROPERTY
+***** ARTICLE V. OFFENSES AGAINST PROPERTY *****
 CHAPTER 9.52: TRESPASS
 Section
    
@@ -31544,7 +31544,7 @@ Chapter 9.93 or under both of those chapters.
    The provisions of this chapter are severable, and if any provision is held
 to be invalid, the validity of the remaining provisions shall not be affected.
 (Ord. MC-1314, passed 9-22-2009)
-ARTICLE VI. CONSUMER PROTECTION
+***** ARTICLE VI. CONSUMER PROTECTION *****
 CHAPTER 9.60: PROHIBITION AGAINST CERTAIN FORMS OF AGGRESSIVE SOLICITATION
 Section
    
@@ -31836,7 +31836,7 @@ infraction, which, upon conviction thereof, is punishable in accordance with
 the provisions of §
 1.12.010.
 (Ord. 1492, passed 6-21-1932; Ord. MC-460, passed 5-15-1985)
-ARTICLE VII. OFFENSES BY OR AGAINST MINORS
+***** ARTICLE VII. OFFENSES BY OR AGAINST MINORS *****
 CHAPTER 9.68: CURFEW - MINORS
 Section
    
@@ -32107,7 +32107,7 @@ racks.
 § 9.70.030 VIOLATION.
    Violation of this chapter is a misdemeanor.
 (Ord. MC-643, passed 11-22-1988; Ord. MC-797, passed 7-2-1991)
-ARTICLE VIII. WEAPONS
+***** ARTICLE VIII. WEAPONS *****
 CHAPTER 9.80: CONCEALED WEAPONS
 Section
    
@@ -33375,7 +33375,7 @@ or other part of this chapter should be found to be invalid, such invalidity
 shall not affect the remaining provisions, and the remaining provisions shall
 continue in full force and effect.
 (Ord. MC-1521, passed 9-18-2019)
-ARTICLE IX. NARCOTICS AND GANGS
+***** ARTICLE IX. NARCOTICS AND GANGS *****
 CHAPTER 9.95: NARCOTICS AND GANG-RELATED CRIME EVICTION PROGRAM
 Section
    
@@ -34062,7 +34062,7 @@ ARTICLE II. SPECIFIC REGULATIONS
 10.52.   SPEED LIMITS
       
 10.56.   NOISE LIMITS
-ARTICLE I. GENERAL REGULATIONS
+***** ARTICLE I. GENERAL REGULATIONS *****
 CHAPTER 10.04: DEFINITIONS
 Section
    
@@ -35595,7 +35595,7 @@ charge added to the fine and cost of the citation. The amount of the
 delinquency penalty and Department of Motor Vehicles’ hold charge shall be
 established by resolution of the Mayor and City Council.
 (Ord. MC-423, passed 11-9-1984)
-ARTICLE II. SPECIFIC REGULATIONS
+***** ARTICLE II. SPECIFIC REGULATIONS *****
 CHAPTER 10.48: BICYCLES
 Section
    
@@ -39254,7 +39254,7 @@ Article VI. Procedural Alternative V
 12.84.780   Generally
    
 12.84.790   Issuance of bonds
-ARTICLE I. GENERAL PROVISIONS
+** ARTICLE I. GENERAL PROVISIONS **
 § 12.84.010 CITATION.
    The ordinance codified in this chapter may be cited as the “San Bernardino
 Off-Street Public Parking Improvement and Finance, Procedural Ordinance”
@@ -39605,7 +39605,7 @@ expenses mentioned above. The assessment shall be levied, collected and
 enforced in the same manner, at the same time and with the same penalties and
 interest, as in the case of taxes levied for the city.
 (Ord. 3589, passed 7-6-1976; Ord. 3603, passed 9-20-1976)
-ARTICLE II. PROCEDURAL ALTERNATIVE I
+** ARTICLE II. PROCEDURAL ALTERNATIVE I **
 § 12.84.330 GENERALLY.
    Any part or parts of the city may be created and operated as a district or
 districts for the acquisition, construction, improvement, completion, repair,
@@ -39655,7 +39655,7 @@ case may be, within the district at the rate determined by the Mayor and City
 Council, a special ad valorem tax sufficient to raise the sum of money
 estimated as required to be raised by taxation.
 (Ord. 3589, passed 7-6-1976)
-ARTICLE III. PROCEDURAL ALTERNATIVE II
+** ARTICLE III. PROCEDURAL ALTERNATIVE II **
 § 12.84.380 GENERALLY.
    Any part or parts of the city may be created and operated as a district or
 districts for the acquisition, construction, improvement, completion, repair,
@@ -39806,7 +39806,7 @@ longer has adequate off-street parking.
 addition to the residential use, only the proportionate value thereof
 attributable to the residential use shall be exempt.
 (Ord. 3589, passed 7-6-1976)
-ARTICLE IV. PROCEDURAL ALTERNATIVE III
+** ARTICLE IV. PROCEDURAL ALTERNATIVE III **
 § 12.84.460 GENERALLY.
    Whenever the Mayor and City Council deem it necessary to form an improvement
 district within the city and to issue bonds which shall be special obligations
@@ -40210,7 +40210,7 @@ has adequate off-street parking.
 addition to the residential use, only the proportionate value thereof
 attributable to the residential use shall be exempt.
 (Ord. 3589, passed 7-6-1976)
-ARTICLE V. PROCEDURAL ALTERNATIVE IV
+** ARTICLE V. PROCEDURAL ALTERNATIVE IV **
 § 12.84.750 GENERALLY.
    Whenever the Mayor and City Council deem it necessary to form a parking
 authority (hereinafter referred to as “authority”) to operate within the city,
@@ -40245,7 +40245,7 @@ of 1941.
 (Ord. 3589, passed 7-6-1976)
 Statutory reference:
    Revenue Bond Law of 1941, see Cal. Gov’t Code, §§ 54300 et seq.
-ARTICLE VI. PROCEDURAL ALTERNATIVE V
+** ARTICLE VI. PROCEDURAL ALTERNATIVE V **
 § 12.84.780 GENERALLY.
    Whenever the Mayor and City Council deem it necessary, in order to provide
 public off-street parking places or to otherwise perform the acts set forth in
@@ -41802,7 +41802,7 @@ Article IV. Private Heating Services
 Article V. Enforcement
    
 13.20.440   Enforcement
-ARTICLE I. GENERAL ADMINISTRATIVE PROVISIONS
+** ARTICLE I. GENERAL ADMINISTRATIVE PROVISIONS **
 § 13.20.010 PURPOSE.
    (A)   The purpose of this chapter is to provide comprehensive management of
 the geothermal resources and thermal ground waters within and adjacent to the
@@ -42086,7 +42086,7 @@ testimony and evidence, may sustain, modify or reverse the decision appealed
 from. The Board shall provide a written report of its decision to the affected
 party by certified mail within five days of the Board’s action.
 (Ord. MC-298, passed 8-17-1983)
-ARTICLE II. CITY HEATING SERVICE
+** ARTICLE II. CITY HEATING SERVICE **
 § 13.20.280 ADMINISTRATIVE ORGANIZATIONS AND PRINCIPAL FUNCTIONS.
    (A)   Officials. The Board shall act as the governing body of the heating
 service, and the General Manager shall act as the chief administrative officer
@@ -42288,8 +42288,8 @@ shall operate to suspend the obligations of the user and the Board during the
 period required to remove such cause; provided it is immediately reported in
 writing within 48 hours of specific cause.
 (Ord. MC-298, passed 8-17-1983)
-ARTICLE III. GEOTHERMAL AND GROUND
-WATER RESERVOIR MANAGEMENT
+** ARTICLE III. GEOTHERMAL AND GROUND
+WATER RESERVOIR MANAGEMENT **
 § 13.20.360 RESERVOIR MANAGEMENT POLICY.
    In furtherance of the purposes of this chapter, it shall be the policy of
 the city, in exercise of its powers to provide for the public health, safety
@@ -42468,7 +42468,7 @@ violation of this section is an infraction, which, upon conviction thereof, is
 punishable in accordance with the provisions of §
 1.12.010.
 (Ord. MC-298, passed 8-17-1983; Ord. MC-460, passed 5-15-1985)
-ARTICLE IV. PRIVATE HEATING SERVICES
+** ARTICLE IV. PRIVATE HEATING SERVICES **
 § 13.20.430 ESTABLISHMENT, SERVICES AND CONDITIONS.
    (A)   Authorization for establishment. The Board may, by resolution,
 authorize the establishment and operation of private geothermal heating
@@ -42509,7 +42509,7 @@ construction, installation or operation.
 heating services from requirements which may be imposed upon public utility or
 private heating services by state statutes or rules.
 (Ord. MC-298, passed 8-17-1983)
-ARTICLE V. ENFORCEMENT
+** ARTICLE V. ENFORCEMENT **
 § 13.20.440 ENFORCEMENT.
    (A)   Responsible official. The General Manager, or his or her authorized
 representative, shall be responsible for enforcing this chapter.
@@ -43751,7 +43751,7 @@ Article V. Definitions
 Article VI. Violations; Enforcement
    
 14.08.27   Violations; enforcement
-ARTICLE I. GENERAL PROVISIONS
+** ARTICLE I. GENERAL PROVISIONS **
 § 14.08.01 SHORT TITLE.
    This chapter is known and may be cited as the “Cable, Video and
 Telecommunications Service Providers Ordinance” of the city.
@@ -43765,8 +43765,8 @@ Cross-reference:
 § 14.08.03 DEFINED TERMS AND PHRASES.
    Various terms and phrases used in this chapter are defined in §
 14.08.26.
-ARTICLE II. PROCEDURES FOR GRANTING, RENEWING AND TRANSFERRING FRANCHISES FOR
-CABLE SYSTEMS
+** ARTICLE II. PROCEDURES FOR GRANTING, RENEWING AND TRANSFERRING FRANCHISES
+FOR CABLE SYSTEMS **
 § 14.08.04 FRANCHISE REQUIRED.
    It is unlawful for any person to construct, install, maintain or operate a
 cable television system within any street or public way in the city without
@@ -44152,7 +44152,7 @@ protect the public health, welfare and safety.
 franchise agreement authorized by the Mayor and City Council and provisions of
 this section, the provisions of the franchise agreement will control.
 (Ord. MC-1484, passed 4-18-2018)
-ARTICLE III. OPEN VIDEO SYSTEMS
+** ARTICLE III. OPEN VIDEO SYSTEMS **
 § 14.08.18 APPLICABILITY.
    The provisions of this article apply to an open video system operator that
 intends to deliver video programming to consumers in the city over an open
@@ -44388,7 +44388,7 @@ regulations pertaining to the operation of the open video system; and
 procedures as may be mutually agreed upon by the city and the open video system
 operator and that will, in the judgment of the Mayor and City Council, best
 serve the public interest and protect the public health, welfare and safety.
-ARTICLE IV. OTHER VIDEO AND TELECOMMUNICATIONS SERVICES AND SYSTEMS
+** ARTICLE IV. OTHER VIDEO AND TELECOMMUNICATIONS SERVICES AND SYSTEMS **
 § 14.08.22 OTHER MULTI-CHANNEL VIDEO PROGRAMMING DISTRIBUTORS.
    The term CABLE SYSTEM does not include a facility that serves subscribers
 without using any public rights-of-way. Consequently, the categories of multi-
@@ -44758,7 +44758,7 @@ originator and shall provide the facilities necessary for the interconnection.
 The cost of any interconnection shall be borne by the holder of a state
 franchise requesting the interconnection unless otherwise agreed to by the
 parties.
-ARTICLE V. DEFINITIONS
+** ARTICLE V. DEFINITIONS **
 § 14.08.26 DEFINED TERMS AND PHRASES.
    (A)   For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. When not
@@ -44947,7 +44947,7 @@ video programming, whatever their technology.
 abbreviations not defined in this section will be given their meaning as used
 in 47 U.S.C., as amended, and, if not defined in that Code, their meaning as
 used in 47 C.F.R.
-ARTICLE VI. VIOLATIONS; ENFORCEMENT
+** ARTICLE VI. VIOLATIONS; ENFORCEMENT **
 § 14.08.27 VIOLATIONS; ENFORCEMENT.
    (A)   Any person who willfully violates any provision of this chapter is
 guilty of a misdemeanor and is punishable as provided for in
@@ -48986,7 +48986,7 @@ PARALLEL REFERENCES
 References to California Codes
 References to Ordinances
 REFERENCES TO CALIFORNIA CODES
-Business and Professions Code
+* Business and Professions Code *
 Section Code Section
 Section                                                 Code Section
 5229 et seq.                                            Title 16
@@ -49020,7 +49020,7 @@ Division 10                                             5.10.050;
 26100 et seq.                                           5.10.350
  
  
-Civil Code
+* Civil Code *
 Section Code Section
 Section        Code Section
 51             9.52.070;
@@ -49042,7 +49042,7 @@ Section        Code Section
 2080.2         2.70.020
  
  
-Code of Civil Procedure
+* Code of Civil Procedure *
 Section Code Section
 Section         Code Section
 446             8.39.090
@@ -49077,7 +49077,7 @@ Section         Code Section
 1822.50 et seq. 15.05.040
  
  
-Elections Code
+* Elections Code *
 Section Code Section
 Section       Code Section
 1002          2.56.060;
@@ -49091,34 +49091,34 @@ Section       Code Section
 15651         2.01.010
  
  
-Evidence Code
+* Evidence Code *
  
 Section Code Section
 603     9.32.015
 604     9.32.015
  
  
-Family Code
+* Family Code *
  
 Section Code Section
 6500    5.36.010
 7002    9.68.030
  
  
-Financial Code
+* Financial Code *
  
 Section                           Code Section
 Division 3, commencing with 12000 9.60.030
 21000—21209                     Ch. 5.56
  
  
-Fish and Game Code
+* Fish and Game Code *
  
 Section   Code Section
 1 et seq. 12.76.045
  
  
-Food and Agricultural Code
+* Food and Agricultural Code *
  
 Section                                           Code Section
 16301 et seq.                                     Title 6
@@ -49129,7 +49129,7 @@ Division 17, Chapter 10.5 (commencing with 47000) 5.30.020
 81000                                             5.10.050
  
  
-Government Code
+* Government Code *
 Section Code Section
 Section                                                           Code Section
 Title 1, Division 3.6, Part 3 (900 et seq.)                       3.16.050
@@ -49285,7 +49285,7 @@ Title 4, Division 4, Chapter 1, Article 2, 43090 et seq.          3.40.010
 Title 9, Chapter 7, Article 1 (commencing with 87100)             2.55.010
  
  
-Health and Safety Code
+* Health and Safety Code *
 Section Code Section
 Section                                                      Code Section
 480 et seq.                                                  8.01.010 
@@ -49386,7 +49386,7 @@ Division 10, commencing with 11000                           8.83.010
 121690                                                       6.08.010
  
  
-Labor Code
+* Labor Code *
 Section Code Section
 Section                                                 Code Section
 1720 et seq.                                            12.24.030
@@ -49402,7 +49402,7 @@ Division 5                                              1.20.020
 6404.5                                                  8.97.040
  
  
-Penal Code
+* Penal Code *
 Section Code Section
 Section                                               Code Section
 148.5                                                 9.16.010
@@ -49509,7 +49509,7 @@ Chapter 1, 13525                                      2.36.020
                                                       8.65.040
  
  
-Public Contract Code
+* Public Contract Code *
  
 Section Code Section
 20161   12.20.010;
@@ -49520,7 +49520,7 @@ Section Code Section
 20168   12.20.010
  
  
-Public Resources Code
+* Public Resources Code *
 Section Code Section
 Section                             Code Section
 Division 2, Chapter 7.5             15.04.110
@@ -49540,7 +49540,7 @@ Division 30 (commencing with 40000) 8.24.010
 42885                               8.24.080
  
  
-Public Utilities Code
+* Public Utilities Code *
 Section Code Section
 Section                                  Code Section
 799                                      3.46.170;
@@ -49553,7 +49553,7 @@ Division 2.5, commencing with 5800       14.08.24
 21411                                    3.57.090
  
  
-Revenue and Taxation Code
+* Revenue and Taxation Code *
 Section Code Section
 Section                                              Code Section
 107.6                                                12.05.080
@@ -49632,7 +49632,7 @@ Division 2, Part 6.7 (commencing with 11901)         3.48.010
                                                      Ch. 3.60
  
  
-Streets and Highways Code
+* Streets and Highways Code *
 Section Code Section
 Section                                     Code Section
 Division 1, Chapter 1, Article 5            3.20.010;
@@ -49693,7 +49693,7 @@ Part 2 (commencing with 32500)              12.84.750
                                             12.84.440
  
  
-Vehicle Code
+* Vehicle Code *
 Section Code Section
 Section                                       Code Section
 100 et seq.                                   Ch. 10.04
@@ -49773,7 +49773,7 @@ Division 18, Chapter 2, 42200                 3.24.010;
                                               3.24.020
  
  
-Welfare and Institutions Code
+* Welfare and Institutions Code *
  
 Section      Code Section
 625.5        9.68.060
@@ -49782,7 +49782,7 @@ Section      Code Section
 9400 et seq. 5.52.010
  
  
-Water Code
+* Water Code *
  
 Section    Code Section
 Division 7 8.80.103
