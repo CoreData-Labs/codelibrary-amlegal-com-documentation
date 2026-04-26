@@ -41,7 +41,7 @@ Police Administrator                              Sgt. Ronnie Lemen
 Planning Director                                 Bryan Moore
  
 PRELIMINARY UNIT
-COMPARATIVE SECTION TABLE
+***** COMPARATIVE SECTION TABLE *****
    EDITOR'S NOTE: Source material for the 1983 Codified Ordinances of New
 Carlisle was ordinances or resolutions enacted by Council or new matter
 ordained by the Adopting Ordinance. The absence of an ordinance history at the
@@ -2359,7 +2359,7 @@ Adopting Ordinance                    606.06,
                                        698.05
                                       
  
-TABLES OF SPECIAL ORDINANCES
+***** TABLES OF SPECIAL ORDINANCES *****
    EXPLANATION OF TABLES OF SPECIAL ORDINANCES
    The Codified Ordinances of New Carlisle comprises all ordinances and
 resolutions of a general and permanent nature. The provisions of such general
@@ -4379,7 +4379,7 @@ PART TWO - ADMINISTRATION CODE
          TITLE TEN - Judiciary
             Chap.
 280. Mayor's Court.
-TITLE TWO - General Provisions
+***** TITLE TWO - General Provisions *****
          
 Chap. 202.   Codified Ordinances.
          
@@ -5043,7 +5043,7 @@ the law and to pay the requester attorney's fees and damages.
    The City adopted a records retention schedule in February 2005. All public
 records are maintained and destroyed according to this schedule.
 (Ord. 09-36. Passed 8-3-09.)
-TITLE FOUR - Legislation
+***** TITLE FOUR - Legislation *****
          
 Chap. 210.   Council.
          
@@ -5381,7 +5381,7 @@ established to provide a place for cross references and any future legislation.
 4.05
    Absence, death or resignation of Mayor or Vice Mayor - see CHTR.
 4.06
-TITLE SIX - Administration
+***** TITLE SIX - Administration *****
          
 Chap. 220.   City Manager.
          
@@ -5808,7 +5808,8 @@ to be paid their regular rate of pay for the first two hours of Battalion
 shift. After the first two hours, the employee shall receive an “on-call” pay
 as compensation for remaining in a “ready” state to respond promptly to alarms,
 at a rate of five dollars ($5.00) per hour. If the employee responds to an
-alarm during this “
+alarm during this “on-call” status, they shall be paid their normal paid-per-
+call” rate in lieu of the “on-call” pay.
 (Ord. 04-48. Passed 9-20-04; Ord. 08-17. Passed 4-21-08; Ord. 08-28. Passed 7-
 7-08; Ord. 14-29. Passed 6-2-14; Ord. 14-32. Passed 7-7-14; Ord. 16-20. Passed
 6-20-16; Ord. 19-06. Passed 4-1-19; Ord. 2022-02. Passed 1-18-22; Ord. 2023-09.
@@ -7840,7 +7841,7 @@ General Provisions
 248.15   Investment policy.
 248.16   Federal grant policies.
 248.17   Incentive pay policy.
-IDENTITY THEFT PREVENTION POLICY
+*** IDENTITY THEFT PREVENTION POLICY ***
 248.01 BACKGROUND.
    The risk to the City, its employees and customers from data loss and
 identity theft is of significant concern to the City and can be reduced only
@@ -8112,7 +8113,7 @@ appropriate due diligence, may be considered to be meeting these requirements.
       (3)   Any specific requirements should be specifically addressed in the
 appropriate contract arrangements.
 (Ord. 08-56. Passed 10-20-08.)
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 248.09   USE OF CITY OWNED VEHICLES.
    To perform job functions more efficiently and to provide a greater level of
 service to residents, in some cases, the City extends the use of City-owned
@@ -9018,7 +9019,7 @@ employee's hourly wage.
             2.   The maximum total compensation that can be added to an
 employee's pay rate through this policy is one dollar fifty cents ($1.50).
 (Ord. 2024-48. Passed 9-3-24.)
-TITLE EIGHT - Boards and Commissions
+***** TITLE EIGHT - Boards and Commissions *****
          
 Chap. 260.   Planning Board.
          
@@ -9303,7 +9304,7 @@ CHAPTER 278
 Parks and Recreation Board
    EDITOR’S NOTE: Chapter 278 was repealed in its entirety by Ordinance 2024-
 50, passed October 21, 2024.
-TITLE TEN - Judiciary
+***** TITLE TEN - Judiciary *****
          
 Chap. 280.   Mayor's Court.
 CHAPTER 280
@@ -9588,7 +9589,7 @@ PART FOUR - TRAFFIC CODE
             Chap.
 476.   Snowmobiles, Go-Carts, ATVs, Off-Highway Motorcycles, All-Purpose
 Vehicles, and Any Similar Vehicles.
-TITLE TWO - Administration, Enforcement and Penalties
+***** TITLE TWO - Administration, Enforcement and Penalties *****
          
 Chap. 402.   Definitions.
          
@@ -10708,7 +10709,7 @@ of suspension that is permitted or required to be imposed for the violation of
 the provision of the Revised Code to which the provision of this Traffic Code
 is substantially equivalent.
 (ORC 4510.05)
-TITLE FOUR - Public Ways and Traffic Control Devices
+***** TITLE FOUR - Public Ways and Traffic Control Devices *****
          
 Chap. 412.   Obstruction and Special Uses of Public Ways.
          
@@ -11771,7 +11772,7 @@ with limits of up to $1,000,000 per occurrence and $2,000,000 per aggregate.
    (EDITOR'S NOTE:  See Sections
 408.01 and
 408.02 for general Traffic Code penalty if no specific penalty is provided.)
-TITLE SIX - Operation and Vehicles
+***** TITLE SIX - Operation and Vehicles *****
          
 Chap. 432.   Operation Generally.
          
@@ -18830,7 +18831,7 @@ Sections
 444.05 through
 444.09 were derived, were made felonies, by the General Assembly, by Am. Sub.
 H.B. No. 382, effective March 19, 1987.)
-TITLE EIGHT - Parking
+***** TITLE EIGHT - Parking *****
          
 Chap. 452.   Parking Generally.
          
@@ -19892,7 +19893,7 @@ vehicles, temporary no-parking restrictions to permit construction or
 maintenance operations, and those sections defining the proper positioning of
 parked vehicles within the public right-of-way.
 (Ord. 03-34. Passed 10-20-03.)
-TITLE TEN - Bicycles, Motorcycles and Snowmobiles
+***** TITLE TEN - Bicycles, Motorcycles and Snowmobiles *****
          
 Chap. 474.   Bicycles and Motorcycles Generally.
          
@@ -37672,7 +37673,7 @@ PART EIGHT - BUSINESS REGULATION AND TAXATION CODE
 882. Motor Vehicle License Tax.
             Chap.
 884. Community Reinvestment Areas.
-TITLE TWO - Business Regulation
+***** TITLE TWO - Business Regulation *****
          
 Chap. 810.   Landlords and Tenants.
          
@@ -41658,7 +41659,7 @@ public nuisance subject to abatement pursuant to City ordinance.
 codified in this chapter shall be held invalid, such decision shall not affect
 the validity of the remaining parts of this chapter.
 (Ord. 14-19. Passed 5-5-14.)
-TITLE FOUR - Taxation
+***** TITLE FOUR - Taxation *****
          
 Chap. 880.   Earned Income Tax Effective for Tax Years 2015 and Prior.
          
@@ -45452,7 +45453,7 @@ PART TEN - STREETS, UTILITIES AND PUBLIC SERVICES CODE
 1066. Cemeteries.
             Chap.
 1068. Municipal Programs and Activities.
-TITLE TWO - Street and Sidewalk Areas
+***** TITLE TWO - Street and Sidewalk Areas *****
          
 Chap. 1020.   Streets.
          
@@ -45692,7 +45693,7 @@ chapter is guilty of a misdemeanor of the third degree and shall be fined not
 more than five hundred dollars ($500.00) or imprisoned not more than sixty
 days, or both, for each offense. A separate offense shall be deemed committed
 each day during or on which a violation or noncompliance occurs or continues.
-TITLE FOUR - Utilities
+***** TITLE FOUR - Utilities *****
          
 Chap. 1040.   Water.
          
@@ -47147,7 +47148,7 @@ Ch. 1042
 1288.03(j)(3), (4)
    Utilities in flood hazard areas - see P. & Z.
 1294.16(c)
-IN GENERAL
+*** IN GENERAL ***
 1043.01   PURPOSE.
    (a)   It is the purpose of this chapter to establish guidelines, policies,
 procedures, rates and penalties for the safe, efficient, and sound fiscal
@@ -47644,7 +47645,7 @@ thereof.
 system operating fund to provide a margin of safety for fluctuations of the
 cash flow in the fund.
 (Ord. 95-16. Passed 9-18-95; Ord. 2022-18. Passed 5-16-22.)
-SEWER USE REGULATIONS
+*** SEWER USE REGULATIONS ***
 1043.03   USE OF PUBLIC SEWERS REQUIRED.
    (a)   No person shall place, deposit or permit to be deposited, in any
 unsanitary manner on public or private property within the Authority, or in any
@@ -48151,7 +48152,7 @@ equipment which is part of the sewerage system. Any person violating this
 section shall be subject to immediate arrest under a charge of disorderly
 conduct and shall be required to make restitution for said damages.
 (Ord. 95-16. Passed 9-18-95; Ord. 2022-18. Passed 5-16-22.)
-INDUSTRIAL PRETREATMENT REGULATIONS
+*** INDUSTRIAL PRETREATMENT REGULATIONS ***
  1043.12   POWERS OF THE AUTHORITY.
    The Authority shall make and enforce rules and regulations establishing the
 types and characteristics of sewage, industrial wastes and other matter which
@@ -48452,7 +48453,7 @@ the Authority for inspection or monitoring; or
       (4)   Violates the conditions of its permit application or contract or
 any provision of this chapter.
 (Ord. 95-16. Passed 9-18-95; Ord. 2022-18. Passed 5-16-22.)
-USER CHARGE REGULATIONS
+*** USER CHARGE REGULATIONS ***
 1043.22   DEFICIT PROHIBITED.
     As part of the annual review provided for in Section 1043.28, the Authority
 or other representative shall make an estimate of the revenues and expenses for
@@ -48815,7 +48816,7 @@ Appendix A.
 disconnection or reconnection in order to provide necessary access to
 electrical and plumbing facilities.
 (Ord. 95-16. Passed 9-18-95; Ord. 2022-18. Passed 5-16-22.)
-ENFORCEMENT
+*** ENFORCEMENT ***
 1043.35   INTERPRETATION.
    (a)   The provisions of this chapter shall be interpreted liberally to
 effectuate the broad remedial purpose of protection of the public health,
@@ -48956,7 +48957,7 @@ the U.S. EPA as a result of the inability of the wastewater treatment to treat
 and effectively reduce the pollutant involved.
 (Ord. 95-16. Passed 9-18-95; Ord. 2022-18. Passed 5-16-22.)
 APPENDIX A
-NEW CARLISLE GENERAL SEWER DISTRICT SEWERAGE SYSTEM CHARGES
+** NEW CARLISLE GENERAL SEWER DISTRICT SEWERAGE SYSTEM CHARGES **
    (a)   CONSTRUCTION PERMIT AND CONNECTION CHARGES
 Effective October 1, 1995, a sewer construction permit charge and connection
 charge are established for all new customers of the New Carlisle sewerage
@@ -49102,7 +49103,7 @@ Sewage Surcharges      Varies         Appendix A, Sec. (g) Surcharges
 09; Ord. 13-07. Passed 2-19-13; Ord. 15-04. Passed 2-2-15; Ord. 2020-37. Passed
 10-5-20; Ord. 2022- 18. Passed 5-16-22.)
 APPENDIX B
-NEW CARLISLE GENERAL SEWER DISTRICT USER CATEGORIES AND EDU CRITERIA
+** NEW CARLISLE GENERAL SEWER DISTRICT USER CATEGORIES AND EDU CRITERIA **
 USER CATEGORIES AND EDU CRITERIA1
 Type of User Estimated Sewage EDU2
              Flow (GPD)
@@ -49606,7 +49607,7 @@ Backflow Prevention and Cross-connection Control, third edition, 1987.
 is not specifically provided shall be guilty of violating Ohio R.C. 3709.99 and
 is punishable under that section.
 (Ord. 10-57. Passed 1-3-11.)
-TITLE SIX - Other Public Services
+***** TITLE SIX - Other Public Services *****
          
 Chap. 1060.   Garbage and Rubbish Collection and Disposal.
          
@@ -50434,7 +50435,7 @@ Appendix L.   Final Plat Checklist.
 1294.   Floodplain Regulations.
             Chap.
 1295.   Solar Energy Regulations.
-TITLE TWO - Planning
+***** TITLE TWO - Planning *****
          
 Chap. 1210.   Comprehensive Plan.
 CHAPTER 1210
@@ -50455,7 +50456,7 @@ Ch. 260
 8.04
    Planning Department - see ADM.
 Ch. 230
-TITLE FOUR - Subdivision Regulations
+***** TITLE FOUR - Subdivision Regulations *****
          
 Chap. 1220.   General Provisions and Definitions.
          
@@ -53159,7 +53160,7 @@ Click_here_to_view_appendix_in_PDF
 APPENDIX L
 Note: In order to view the appendix, you must have Adobe Reader.
 Click_here_to_view_appendix_in_PDF
-TITLE SIX - Zoning
+***** TITLE SIX - Zoning *****
          
 Chap. 1240.   General Provisions and Definitions.
          
@@ -61064,7 +61065,7 @@ PART FOURTEEN - BUILDING AND HOUSING CODE
 1452.   Numbering of Buildings.
             Chap.
 1460.   Exterior Property Maintenance Code.
-TITLE TWO - Building Standards
+***** TITLE TWO - Building Standards *****
          
 Chap. 1420.   Clark County Regulations for One, Two and Three- Family
 Dwellings.
@@ -62055,7 +62056,7 @@ for any violation of any of the ordinances of the Health District or for the
 violation of any rules and regulations or for any cause which the Health
 Commissioner may deem just and proper.
 (Ord. 04-66. Passed 12-20-04.)
-TITLE FOUR - Miscellaneous Building Regulations
+***** TITLE FOUR - Miscellaneous Building Regulations *****
          
 Chap. 1446.   Flood Hazard Areas. (Repealed)
          
