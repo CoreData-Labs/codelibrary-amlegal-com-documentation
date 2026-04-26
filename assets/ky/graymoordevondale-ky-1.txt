@@ -431,7 +431,7 @@ Nonelected City Officials
 31.40   Citation Officer
    
 31.41   Safety Director
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 OATH
    Each officer of the city shall, before entering upon the discharge of duties
 of his or her office, take the following oath: “I do solemnly swear (or affirm,
@@ -506,7 +506,7 @@ any point in time during the fiscal year and may be satisfied by a blanket or
 umbrella bond covering all or a group of city officers and employees. The cost
 of the bond shall be paid by the city.
 (KRS 65.067 )
-ELECTED OFFICIALS
+**** ELECTED OFFICIALS ****
 § 31.20 ELECTION PROCEDURE.
    (A)   Election of city officers is governed by general election laws as
 provided in KRS Chapters 116 through 121 unless City Council otherwise
@@ -622,7 +622,7 @@ provisions of §
 § 31.22 COUNCIL MEMBERS.
    For provisions concerning City Council, see
 Chapter 32.
-NONELECTED CITY OFFICIALS
+**** NONELECTED CITY OFFICIALS ****
 § 31.35 ESTABLISHMENT OF NONELECTED CITY OFFICES.
    (A)   All nonelected city offices shall be created by ordinance which shall
 specify:
@@ -850,7 +850,7 @@ Cross-reference:
 31.22
    Election procedure, see §
 31.20
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01 MEMBERS; ELECTION, QUALIFICATIONS, COMPENSATION.
    (A)   Election; term of office. Each Council member shall be elected at-
 large by the voters of the city at a regular election. Terms of office begin on
@@ -913,7 +913,7 @@ unless and until written notice of the Council’s action is given to the Mayor.
 The Mayor may review any statement before submission to the Council and to
 appear personally or through his or her designee on behalf of any department,
 office or agency in the course of any investigation. (KRS 83A.130 (13))
-RULES OF PROCEDURE
+**** RULES OF PROCEDURE ****
 § 32.20 MAYOR AS PRESIDING OFFICER.
    (A)   The Mayor shall preside at meetings of the Council. The Council has
 the authority to establish, by ordinance, the manner in which one of its number
@@ -948,7 +948,7 @@ for maintaining city records as provided under §
    Unless otherwise provided by statute, a majority of the Council constitutes
 a quorum and a vote of a majority of a quorum is sufficient to take action.
 (KRS 83A.060 (6))
-ORDINANCES
+**** ORDINANCES ****
 § 32.35 ONE SUBJECT; TITLE.
    Each ordinance shall embrace only one subject and shall have a title that
 clearly states the subject.
@@ -1141,7 +1141,7 @@ Cross-reference:
 Chapter 150
    Streets and Sidewalks, see
 Chapter 91
-FINANCIAL ADMINISTRATION
+**** FINANCIAL ADMINISTRATION ****
 § 33.01 DEFINITIONS.
    As used in this subchapter, unless context otherwise requires, the following
 definitions shall apply.
@@ -1357,7 +1357,7 @@ the name of the person to whom funds are payable, the purpose of the payment,
 and the fund out of which the funds are payable. Each authorization shall be
 numbered and recorded.
 (KRS 91A.060)
-IMPROVEMENTS
+**** IMPROVEMENTS ****
 § 33.10 DEFINITIONS.
    As used in this subchapter, unless the context otherwise requires, the
 following definitions shall apply.
@@ -1497,7 +1497,7 @@ without compliance with other sections if it does not increase the cost
 apportioned to any other property, or any other change may be made without the
 compliance if all property owners of the improvement consent.
 (KRS 91A.290)
-GRANT APPLICATIONS
+**** GRANT APPLICATIONS ****
 § 33.30 APPLICATION AND APPROVAL.
    (A)   No funding request from any organization may be considered unless and
 until a full, accurate and complete grant funding application is filed with the
@@ -1544,7 +1544,7 @@ business or industry.
    (C)   Any grant request which funds any facility that is not open to the
 general public.
 (Ord. G-D3, Series 2012-2013, passed 7-24-12)
-INVESTMENT POLICY
+**** INVESTMENT POLICY ****
 § 33.45 FISCAL YEAR.
    July 1 to June 30 is hereby established as the fiscal year for the operation
 of the city.
@@ -1892,7 +1892,7 @@ Procedures for Requesting Public Records
 34.16   Public records protected from disclosure
    
 34.17   Notification of the Attorney General
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 DEFINITIONS.
    For purposes of this chapter, the following words and phrases shall have the
 following meanings ascribed to them respectively.
@@ -1969,7 +1969,7 @@ from disclosure or copying by a license agreement between a public agency and
 an outside entity which supplied the material to the agency.
 (KRS 61.870)
 (Am. Ord. 3, Series 2021-2022, passed 8-17-21)
-PROCEDURES FOR REQUESTING PUBLIC RECORDS
+**** PROCEDURES FOR REQUESTING PUBLIC RECORDS ****
 § 34.05 INITIAL REQUEST WITH IMMEDIATE INSPECTION.
    (A)   Any resident of the Commonwealth of Kentucky defined by KRS 61.870(10)
 desiring to inspect or copy the public records of this city shall make a
@@ -3562,7 +3562,7 @@ shall, at his or her discretion, have authority to impose traffic regulations
 as he or she may deem necessary for temporary periods not to exceed two weeks.
 If these temporary regulations are necessary for a period longer than two
 weeks, the City Clerk shall be notified in writing of the extended order.
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.15 SIGNAL LEGENDS.
    Whenever traffic is regulated or controlled exclusively by a traffic-control
 sign or signs exhibiting the words “Go,” “Caution” or “Stop,” or exhibiting
@@ -3662,7 +3662,7 @@ person.
    In an emergency any police officer may, at his or her discretion, disregard
 traffic-control lights or signals or established regulations in order to
 facilitate the movement of traffic.
-SPEED HUMP INSTALLATION POLICY
+**** SPEED HUMP INSTALLATION POLICY ****
 § 70.30 DEFINITIONS.
    The following definitions apply for the purposes of this policy only.
    APPLICATIONS for speed humps include a petition of the affected property
@@ -3850,7 +3850,7 @@ Parades
  
    
 71.99   Penalty
-OPERATION GENERALLY
+**** OPERATION GENERALLY ****
 § 71.01 OBSTRUCTING TRAFFIC.
    (A)   It shall be unlawful to operate any vehicle or permit it to remain
 standing in any street in a manner as to create an obstruction thereof.
@@ -3896,7 +3896,7 @@ of any vehicle intending to cross a sidewalk and turn into an alley from the
 roadway may do so at low speed and with caution.
 Penalty, see §
 71.99
-ACCIDENTS
+**** ACCIDENTS ****
 § 71.15 DUTY OF OPERATOR.
    It shall be the duty of the owner of, operator of or passenger in any motor
 vehicle which is involved in an accident in which any person is injured or
@@ -3913,7 +3913,7 @@ shall immediately report the accident or property damage to the Police
 Department.
 Penalty, see §
 71.99
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 71.25 OPERATOR OF VEHICLE TO DRIVE CAREFULLY.
    (A)   The operator of any vehicle upon a highway shall operate the vehicle
 in a careful manner, with regard for the safety and convenience of pedestrians
@@ -4071,7 +4071,7 @@ necessary permits have been obtained; and
       (14)   Noises relating to the collection of refuse between the hours of
 6:00 a.m. and 10:00 p.m.
 (Ord. G-D4, Series 2005-2006, passed 10-25-05)
-PARADES
+**** PARADES ****
 § 71.40 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4479,7 +4479,7 @@ traffic hazard.
 (Ord. D1, Series 1980-81, passed - -81)
 Penalty, see §
 72.99
-SNOW EMERGENCY
+**** SNOW EMERGENCY ****
 § 72.20 ANNOUNCEMENT OF SNOW EMERGENCY.
    Whenever the Chief of Police or other authorized city official finds that
 falling snow, sleet or freezing rain will create a condition which makes it
@@ -4663,7 +4663,7 @@ Chapter 95
 Chapter 94
    Nuisances, see
 Chapter 92
-EXCAVATIONS AND CONSTRUCTION
+**** EXCAVATIONS AND CONSTRUCTION ****
 § 91.01 OPENING PERMIT REQUIRED.
    It shall be unlawful for any person, other than an authorized city official,
 to make any opening in any street, alley, sidewalk or public way of the city
@@ -4729,7 +4729,7 @@ different parties.
 Statutory reference:
    Sidewalks; construction along public roads; specifications, see KRS 178.290
    Sidewalks; ramps for wheelchairs, see KRS 66.660
-ROAD AND BRIDGE PROJECTS
+**** ROAD AND BRIDGE PROJECTS ****
 § 91.15 PUBLIC HEARING REQUIRED.
    Before the city expends state derived tax revenues on a municipal highway,
 road, street or bridge it shall provide an opportunity to the public to provide
@@ -4766,7 +4766,7 @@ meeting, shall meet the requirements of this subchapter.
 replacement of roads or bridges necessitated by natural or man-caused
 disasters, nor to street cleaning or snow removal operations.
 (KRS 174.100 (5))
-OBSTRUCTIONS
+**** OBSTRUCTIONS ****
 § 91.30 UNLOADING ON STREET OR SIDEWALK.
    No person shall unload any heavy material in the streets of the city by
 throwing or letting the material fall upon the pavement of any street, alley,
@@ -4960,7 +4960,7 @@ Cross-reference:
    Adoption of Kentucky Building Code and Standards of Safety; enforcement
 agents, see §
 150.01
-FIREWORKS
+**** FIREWORKS ****
 § 93.01 DEFINITIONS; LEGALITY OF ITEMS.
    (A)   FIREWORKS means any composition or device for the purpose of producing
 a visible or an audible effect by combustion, deflagration, or detonation, and
@@ -5313,7 +5313,7 @@ division (C)(1) of this section shall be held.
 enacting ordinances that affect the sale or use of fireworks within its
 jurisdiction.
 (KRS 227.750)
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 93.20 BLASTING PERMIT.
    No person shall cause a blast to occur within the city without making
 application in writing beforehand, setting forth the exact nature of the
@@ -5334,7 +5334,7 @@ provided for hazardous materials.
 prevents access to or exit from any premises in case of fire.
 Penalty, see §
 93.99
-FIRE PREVENTION CODE
+**** FIRE PREVENTION CODE ****
 § 93.35 ADOPTION OF THE KENTUCKY STANDARDS OF SAFETY (FIRE PREVENTION CODE).
    The Kentucky Standards of Safety (Fire Prevention Code) as promulgated in
 815 KAR 10:060 (and any further amendments thereto) by the Commissioner of the
@@ -5570,7 +5570,7 @@ Enforcement
 95.90   Liabilities and penalties
    
 95.91   Remedies not exclusive
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 95.01 DECLARATION OF FINDINGS.
    The city hereby declares as a legislative finding that the rights-of-way
 within the city:
@@ -5767,7 +5767,7 @@ of producing, receiving, amplifying or distributing communications services.
    TELECOMMUNICATIONS ACT. The Telecommunications Act of 1996 coded at Title 47
 of the United States Code.
 (Ord. G-D13, Series 2005, passed 4-26-05)
-COMMUNICATIONS SERVICES
+**** COMMUNICATIONS SERVICES ****
 § 95.20 UNLAWFUL TO OPERATE WITHOUT A FRANCHISE.
    It shall be unlawful for any person to erect, install, maintain, operate,
 repair, replace, remove or restore communications facilities or to provide
@@ -6102,7 +6102,7 @@ use and management of the rights-of-way, and such agreements shall be
 enforceable according to their respective terms and notwithstanding any
 provision of this chapter.
 (Ord. G-D13, Series 2005, passed 4-26-05)
-RIGHTS-OF-WAY MANAGEMENT AND FACILITIES REQUIREMENTS
+**** RIGHTS-OF-WAY MANAGEMENT AND FACILITIES REQUIREMENTS ****
 § 95.50 ADDITIONAL FACILITIES REQUIREMENTS; PLANNED INFRASTRUCTURE.
    When a franchisee installs any new underground facilities, the franchisee
 shall, unless waived by the city, simultaneously install conduit provided by
@@ -6347,7 +6347,7 @@ franchisee 24 hours final notice. The cost thereof, including, but not limited
 to, any inspection costs and administrative overhead incurred by the city,
 shall be assessed against franchisee.
 (Ord. G-D13, Series 2005, passed 4-26-05)
-MISCELLANEOUS
+**** MISCELLANEOUS ****
 § 95.70 ADMINISTRATION OF FRANCHISE.
    The city shall be responsible for the continued administration of this
 chapter and any franchises granted hereunder.
@@ -6372,7 +6372,7 @@ independent part of this chapter or the franchise, and, to the extent possible,
 such holding shall not affect the validity and enforceability of all other
 provisions herein or therein.
 (Ord. G-D13, Series 2005, passed 4-26-05)
-PRIVATE COMMUNICATIONS FACILITIES
+**** PRIVATE COMMUNICATIONS FACILITIES ****
 § 95.80 APPLICATION FOR LICENSE.
    A person wishing to erect, install, maintain, operate, repair, replace,
 remove or restore a private communications system in the rights-of-way must
@@ -6394,7 +6394,7 @@ this chapter.
    A private communications system owner shall pay a fee established by the
 city from time to time to reflect the fair market value of the property used.
 (Ord. G-D13, Series 2005, passed 4-26-05)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 95.90 LIABILITIES AND PENALTIES.
    Except as expressly stated in this chapter, the express or implied repeal or
 amendment by this chapter of any other ordinance or part thereof shall not
@@ -7913,7 +7913,7 @@ Chapter 93
    Improvements, see §§
 33.10 through
 33.18
-KENTUCKY BUILDING CODE AND STANDARDS OF SAFETY
+**** KENTUCKY BUILDING CODE AND STANDARDS OF SAFETY ****
 § 150.01 ADOPTION OF KENTUCKY BUILDING CODE AND STANDARDS OF SAFETY;
 ENFORCEMENT AGENTS.
    (A)   (1)   The Kentucky Building Code, as contained in Chapter 7, Title 815
@@ -7942,7 +7942,7 @@ unless and/or until a local board of housing appeals, as set forth in KRS
 Chapter 198B, is established to hear the appeals.
 Statutory reference:
    Appeals procedure, see KRS 198B.070
-EXTERNAL DESIGN AND LOCATION REQUIREMENTS
+**** EXTERNAL DESIGN AND LOCATION REQUIREMENTS ****
 § 150.20 NEW STRUCTURES, FENCES, AND THE LIKE.
    (A)   No building or structure of any type, including fences, shall be
 erected or placed on any lot within the city until building plans,
@@ -8115,7 +8115,7 @@ violation pursuant the provisions of KRS 100.991.
 (Ord. G-D5, Series 1997-1998, passed 8-26-97; Am. Ord. G-D4, Series 2005-2006,
 passed 10-25-05) Penalty, see §
 150.99
-NUISANCES
+**** NUISANCES ****
 § 150.40 PROPERTY MAINTENANCE STANDARDS.
    It is hereby declared to be a public nuisance for any owner or other person
 in control of a property or premises to keep or maintain property, premises or

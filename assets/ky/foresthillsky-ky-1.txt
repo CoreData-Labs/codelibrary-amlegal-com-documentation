@@ -459,7 +459,7 @@ Other City Officials
 31.50   City Attorney
    
 31.51   Police Chief
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01  OATH; BOND.
    (A)   Oath.  Each officer of the city shall, before entering upon the
 discharge of duties of his office, take the following oath:  “I do solemnly
@@ -538,7 +538,7 @@ will dismissal power of the Commission.
 Statutory reference:
    Removal of elected officers, see KRS 83A.040(9)
    Removal of non-elected officers, see KRS 83A.080(2)
-ELECTED OFFICERS
+**** ELECTED OFFICERS ****
 § 31.20  ELECTION PROCEDURE.
    (A)   As of the effective date of this section, the nonpartisan primary
 election for the nomination of candidates to elected city offices is hereby
@@ -622,7 +622,7 @@ above shall apply.
 § 31.22  COMMISSIONERS.
    For provisions concerning the City Commission, see
 Chapter 32.
-NON-ELECTED CITY OFFICIALS
+**** NON-ELECTED CITY OFFICIALS ****
 § 31.35  ESTABLISHMENT OF NON-ELECTED CITY OFFICES.
    (A)   All non-elected city offices shall be created by ordinance which shall
 specify:
@@ -760,7 +760,7 @@ execute bond to the city, with a corporate surety authorized and qualified to
 become surety on bond in this state, in an amount to be established by the City
 Commission.
    (E)   Compensation for this office shall as established by ordinance.
-OTHER CITY OFFICIALS
+**** OTHER CITY OFFICIALS ****
 § 31.50  CITY ATTORNEY.
    (A)   The City Attorney shall be employed by the city on a contractual
 basis, and shall serve as the general law officer and legal counsel of the
@@ -842,7 +842,7 @@ Ordinances
 32.48   Numbering of ordinances
    
 32.49   Numbering and maintenance of municipal orders
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01  MEMBERS; ELECTION, QUALIFICATIONS, COMPENSATION.
    (A)   Election; term of office.  Each Commissioner shall be elected at-large
 by the voters of the city at a regular election.  A candidate for commission
@@ -932,7 +932,7 @@ Code, § 210.1, §§ 1, 3)
 Cross-reference:
    Departments of city government, see §
 36.01
-RULES OF PROCEDURE
+**** RULES OF PROCEDURE ****
 § 32.20  MAYOR AS PRESIDING OFFICER.
    The  Mayor  shall  preside at all  meetings  of  the Commission and may vote
 in all proceedings.
@@ -965,7 +965,7 @@ for maintaining city records as provided under §
 constitutes a quorum and a vote of a majority of a quorum is sufficient to take
 action.
 (KRS 83A.060 (6))
-ORDINANCES
+**** ORDINANCES ****
 § 32.35  ONE SUBJECT; TITLE.
    Each ordinance shall embrace only one subject and shall have a title that
 shall clearly state the subject.
@@ -1167,7 +1167,7 @@ operations; examination of records
 33.34   Submission of budget proposal at public hearing
    
 33.35   Submission of budget proposal to City Commission
-FINANCIAL ADMINISTRATION
+**** FINANCIAL ADMINISTRATION ****
 § 33.01  DEFINITIONS.
    As used in this subchapter, unless the context otherwise requires, the
 following definitions shall apply:
@@ -1365,7 +1365,7 @@ shall be diversified to ensure that the insurance provisions of the Federal
 Deposit Insurance Corporation or similar agencies remain in effect for all of
 the funds invested.
 (Ord. 94-9, passed 12-5-94)
-IMPROVEMENTS
+**** IMPROVEMENTS ****
 § 33.10  DEFINITIONS.
    As used in this subchapter, unless the context otherwise requires, the
 following definitions shall apply:
@@ -1505,7 +1505,7 @@ without compliance with other sections if it does not increase the cost
 apportioned to any other property, or any other change may be made without such
 compliance if all property owners of the improvement consent.
 (KRS 91A.290)
-BUDGET PROCEDURES
+**** BUDGET PROCEDURES ****
 § 33.30  ANNUAL BUDGET ORDINANCE.
    (A)   The city shall operate under an annual budget ordinance adopted and
 administered in accordance with the provisions of this section.  No money shall
@@ -1670,7 +1670,7 @@ Procedures for Requesting Public Records
 34.26   Public records protected from disclosure
    
 34.27   Notification of the Attorney General
-GENERAL
+**** GENERAL ****
 § 34.01  DEFINITIONS.
    For purposes of this chapter the following words and phrases shall have the
 following meanings ascribed to them respectively.
@@ -1732,7 +1732,7 @@ application programs, procedures, routines, and subroutines such as translators
 and utility programs, but does not include that material which is prohibited
 from disclosure or copying by a license agreement between a public agency and
 an outside entity which supplied the material to the agency.
-PROCEDURES FOR REQUESTING PUBLIC RECORDS
+**** PROCEDURES FOR REQUESTING PUBLIC RECORDS ****
 § 34.15  INITIAL REQUEST WITH IMMEDIATE INSPECTION.
    (A)   As defined in §
 34.01, and subject to the limitations set forth in §
@@ -2212,7 +2212,7 @@ Police Department
 36.12   Division of Police
    
 36.13   Designation of place of incarceration for prisoners
-DEPARTMENTS OF CITY GOVERNMENT
+**** DEPARTMENTS OF CITY GOVERNMENT ****
 § 36.01  ESTABLISHMENT.
    The following departments are established and each is responsible for the
 implementation of ordinances, statutes and public policies (including city
@@ -2241,7 +2241,7 @@ accepted governmental accounting practices.
       (2)   Animals and fowl.
       (3)   Weeds.
 ('81 Code, § 210.1, § 2)
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 36.10  SUPERVISION OF POLICE FUNCTION.
    The police function shall be supervised by the Commissioner of the Safety
 Department.
@@ -2295,8 +2295,8 @@ Equal Employment Opportunity
 37.05   Responsibility for implementation
    
 37.06   Evaluation and reports
-AFFIRMATIVE ACTION PLAN FOR
-EQUAL EMPLOYMENT OPPORTUNITY
+**** AFFIRMATIVE ACTION PLAN FOR
+EQUAL EMPLOYMENT OPPORTUNITY ****
 § 37.01  STATEMENT OF POLICY.
    The affirmative action policy of the city is to promote equal employment
 opportunity; to prohibit discrimination in employment on account of race,
@@ -2409,7 +2409,7 @@ Enforcement
 38.68   Conflicting ordinances repealed
    
 38.69   Effective date
-GENERAL PURPOSES
+**** GENERAL PURPOSES ****
 § 38.01  TITLE.
    This section shall be known and may be cited as the “City of Forest Hills
 Code of Ethics.”
@@ -2467,7 +2467,7 @@ unpaid, who is one of the following:
       (7)   A member of the governing body of any city agency who has been
 appointed to the governing body of the agency by the city.
 (Ord. 94-8, passed 12-5-94)
-STANDARDS OF CONDUCT
+**** STANDARDS OF CONDUCT ****
 § 38.15  CONFLICTS OF INTEREST IN GENERAL.
    Every officer and employee of the city and every city agency shall comply
 with the following standards of conduct:
@@ -2617,7 +2617,7 @@ that the expenses were incurred or received on behalf of the city or city
 agency and primarily for the benefit of the city or city agency and not
 primarily for the benefit of the officer or employee or any other person.
 (Ord. 94-8, passed 12-5-94)
-FINANCIAL DISCLOSURE
+**** FINANCIAL DISCLOSURE ****
 § 38.30  WHO MUST FILE.
    The following classes of officers and employees of the city and city
 agencies shall file an annual statement of financial interests with the Board
@@ -2738,7 +2738,7 @@ to pay the penalty within a prescribed period of time.
 which he or she knows to contain false information or intentionally omits
 required information shall be guilty of a Class A misdemeanor.
 (Ord. 94-8, passed 12-5-94)
-NEPOTISM
+**** NEPOTISM ****
 § 38.45  NEPOTISM PROHIBITED.
    (A)   No officer or employee of the city or a city agency shall advocate,
 recommend or cause the:
@@ -2762,7 +2762,7 @@ any similarly situated member of the class or group.
 or situation that would violate the prohibitions but which existed prior to the
 effective date of this chapter.
 (Ord. 94-8, passed 12-5-94)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 38.55  BOARD OF ETHICS CREATED.
    (A)   There is hereby created a Board of Ethics which shall have the
 authorities, duties, and responsibilities as set forth in this chapter to
@@ -3334,7 +3334,7 @@ shall, at his discretion, have authority to impose such traffic regulations as
 he may deem necessary for temporary periods not to exceed two weeks.  If these
 temporary regulations are necessary for a period longer than two weeks, the
 City Clerk/Treasurer shall be notified in writing of the extended order.
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.15  SIGNAL LEGENDS.
    Whenever traffic is regulated or controlled exclusively by a traffic-control
 sign or signs exhibiting the words “Go,” “Caution,” or “Stop,” or exhibiting
@@ -3446,7 +3446,7 @@ person.
    In an emergency any police officer may at his discretion disregard traffic-
 control lights or signals or established regulations in order to facilitate the
 movement of traffic.
-SPEED HUMP INSTALLATION
+**** SPEED HUMP INSTALLATION ****
 § 70.30  DEFINITIONS.
    For the purpose of this subchapter the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3639,7 +3639,7 @@ Parades
  
    
 71.99   Penalty
-OPERATION GENERALLY
+**** OPERATION GENERALLY ****
 § 71.01  OBSTRUCTING TRAFFIC.
    (A)   It shall be unlawful to operate any vehicle or permit it to remain
 standing in any street in such manner as to create an obstruction thereof.
@@ -3708,7 +3708,7 @@ incorporated limits of the city.
 Cross-reference:
    Designation of streets; speed limits, see
 Ch. 75, Schedule I.
-ACCIDENTS
+**** ACCIDENTS ****
 § 71.15  DUTY OF OPERATOR.
    It shall be the duty of the owner of, operator of, or passenger in any motor
 vehicle which is involved in an accident in which any person is injured or
@@ -3725,7 +3725,7 @@ shall immediately report the accident or property damage to the Police
 Department.
 Penalty, see §
 71.99
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 71.25  OPERATOR OF VEHICLE TO DRIVE CAREFULLY.
    (A)   The operator of any vehicle upon a highway shall operate the vehicle
 in a careful manner, with regard for the safety and convenience of pedestrians
@@ -3786,7 +3786,7 @@ emission; or other nuisance in order to protect the rights of other traffic and
 to promote the public safety.
 Penalty, see §
 71.99
-PARADES
+**** PARADES ****
 § 71.40  DEFINITIONS.
    For the purpose of this subchapter the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4002,7 +4002,7 @@ Snow Emergency
 72.99   Penalty
 Statutory reference:
 Revenues from fees, fines, and forfeitures related to parking, see KRS 65.120
-PARKING GENERALLY
+**** PARKING GENERALLY ****
 § 72.01  OBSTRUCTIONAL PARKING; DOUBLE PARKING.
    (A)   It shall be unlawful for any person to leave any vehicle or any other
 thing that may be a nuisance, obstruction, or hindrance in or on any street,
@@ -4275,7 +4275,7 @@ during the time indicated on the sign.  If no time is specified on the sign, it
 shall mean between the hours of 6:00 a.m. and 6:00 p.m.
 ('81 Code, § 540.1, § 6)  Penalty, see §
 72.99
-IMPOUNDING
+**** IMPOUNDING ****
 § 72.20  IMPOUNDMENT OF VEHICLES AUTHORIZED; REDEMPTION.
    (A)   All police officers are empowered to authorize the impoundment of a
 vehicle violating vehicle-related ordinances after a citation has been issued.
@@ -4385,7 +4385,7 @@ a vehicle’s trunk or other locked compartment to which the storage or towing
 company is without access, unless the towing company intentionally opens the
 area without the owner’s consent.
 (KRS 376.275(3) - (6))
-SNOW EMERGENCY
+**** SNOW EMERGENCY ****
 § 72.35  ANNOUNCEMENT OF SNOW EMERGENCY.
    Whenever the City Commission or any authorized city official finds that
 falling snow, sleet, or freezing rain will create a condition which makes it
@@ -4613,7 +4613,7 @@ Dogs and Cats
  
    
 90.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01  DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -4718,7 +4718,7 @@ the animal may be given of any further liability for disposal.
 including, but not limited to, swine, sheep, goats, horses, ponies, chickens,
 poultry or cattle.
 (Ord. 2014-3, passed 9-8-14)
-DOGS AND CATS
+**** DOGS AND CATS ****
 § 90.15  DEFINITIONS.
    For the purpose of this subchapter the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4835,7 +4835,7 @@ Obstructions
  
    
 91.99   Penalty
-EXCAVATIONS AND CONSTRUCTION
+**** EXCAVATIONS AND CONSTRUCTION ****
 § 91.01  OPENING PERMIT REQUIRED; ENCROACHMENT PERMIT REQUIRED.
    (A)   It shall be unlawful for any person, other than an authorized city
 official, to make any opening in any street, alley, sidewalk, or public way of
@@ -4922,7 +4922,7 @@ different parties.
 Statutory reference:
    Sidewalks; construction along public roads; specifications, see KRS 178.290
    Sidewalks; ramps for wheelchairs, see KRS 66.660
-ROAD AND BRIDGE PROJECTS
+**** ROAD AND BRIDGE PROJECTS ****
 § 91.15  PUBLIC HEARING REQUIRED.
    Before the city expends state derived tax revenues on a municipal highway,
 road, street, or bridge it shall hold a hearing in accordance with the
@@ -4966,7 +4966,7 @@ are under construction as of the effective date of this subchapter unless
 construction is suspended after the effective date of this subchapter and the
 city desires to reactivate the project.
 (KRS 174.100 (6),(7))
-OBSTRUCTIONS
+**** OBSTRUCTIONS ****
 § 91.30  UNLOADING ON STREET OR SIDEWALK.
    No person shall unload any heavy material in the streets of the city by
 throwing or letting the material fall upon the pavement of any street, alley,
@@ -5181,7 +5181,7 @@ served personally upon the licensee or at the premises where the nuisance
 exists.
    (C)   Upon application of the licensee, the City Commission may remove the
 suspension upon such terms as it may direct.
-JUNKED MOTOR VEHICLES
+**** JUNKED MOTOR VEHICLES ****
 § 92.15  DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5286,7 +5286,7 @@ Fire Prevention
  
    
 93.99   Penalty
-FIREWORKS
+**** FIREWORKS ****
 § 93.01  DEFINITIONS; LEGALITY OF ITEMS.
    (A)   The term FIREWORKS shall mean any composition or device for the
 purpose of producing a visible or an audible effect by combustion,
@@ -5630,7 +5630,7 @@ division (C)(1) of this section shall be held.
 from enacting ordinances that affect the sale or use of fireworks within their
 jurisdiction.
 (KRS 227.750)
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 93.20  BLASTING PERMIT.
    No person shall cause a blast to occur within the city without making
 application in writing beforehand, setting forth the exact nature of the
@@ -5707,7 +5707,7 @@ Handbills
  
    
 94.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01  DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5873,7 +5873,7 @@ be in accordance with the state statutes.  The Building Official shall be
 responsible for the implementation of this enforcement program.
 (Ord. 83-2, passed 4-4-83)  Penalty, see §
 94.99
-HANDBILLS
+**** HANDBILLS ****
 § 94.25  DISTRIBUTION IN PUBLIC PLACES; PRIVATE PREMISES.
    (A)   Public places.  No person shall deposit or sell any handbill in or
 upon any public place provided, however, that it shall not be unlawful on any
@@ -6344,10 +6344,7 @@ of all persons who have left any property that has been pawned or sold;
 officer of this state when in the discharge of his or her official duty; and
       (4)   Contain a full description of all property purchased by the
 pawnbroker from the general public or received on deposit as collateral or
-security.  When requested by law enforcement and pertaining to an
-investigation, a photograph of the merchandise shall be made available to law
-enforcement if the property is still in the possession of the pawnbroker.  For
-purposes of this division, FULL DESCRIPTION includes, but is not limited to:
+security. FULL DESCRIPTION includes, but is not limited to:
          (a)   Make;
          (b)   Model;
          (c)   Color;
@@ -9089,7 +9086,7 @@ Administration and Enforcement
  
    
 151.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.01  PURPOSE.
    The provisions of this chapter shall govern the appearance, construction,
 alteration, repair and maintenance of all signs together with their appurtenant
@@ -9220,7 +9217,7 @@ on the same or to other premises shall be considered a new sign and a permit
 shall be secured for any work performed in connection therewith when required
 by this chapter.
 (Ord. 91-15, passed 12-27-91)
-PERMITS
+**** PERMITS ****
 § 151.15  PERMIT REQUIRED.
    (A)   New signs.  No signs shall hereafter be erected, constructed, altered
 or maintained except as herein provided and until after a permit has been
@@ -9343,7 +9340,7 @@ and other vehicular purposes.
 property which are not part of an otherwise existing attached or freestanding
 sign.
 (Ord. 91-5, passed 12-27-91)
-RULES AND REGULATIONS
+**** RULES AND REGULATIONS ****
 § 151.30  DESIGN LOADS.
    The effect of special local wind pressures shall be thoroughly considered in
 the design; but in no case shall the wind load be assumed less than 30 pounds
@@ -9446,7 +9443,7 @@ vehicle traffic (parking lots, alleys, drives).  Such wall signs must be safely
 and adequately attached to the building to which they are secured.
 (Ord. 91-5, passed 12-27-91) Penalty, see §
 151.99
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 151.50  MAINTENANCE AND INSPECTION.
    (A)   Maintenance.  All signs for which a permit is required, together with
 all their supports, braces, guys and anchors, shall be kept in repair in
