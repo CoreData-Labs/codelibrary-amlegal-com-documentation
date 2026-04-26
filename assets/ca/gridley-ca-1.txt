@@ -6281,7 +6281,7 @@ II. CARDROOMS, POOLHALLS AND DANCEHALLS
 5.28.070   Permit required for dances.
    
 5.28.080   Violation--penalty.
-I. GENERAL PROVISIONS
+*** I. GENERAL PROVISIONS ***
 5.28.010 Permits--required.
    It is unlawful for any person, firm, corporation, club, school, organization
 or association to hold or conduct any public dance, exhibition, carnival or
@@ -6346,7 +6346,7 @@ material fact in procuring the permit provided for in Section
 shall be punished according to law. Each day's operation without such a permit
 is a separate violation.
 (Ord. 217 § 4, 1968).
-II. CARDROOMS, POOLHALLS AND DANCEHALLS
+*** II. CARDROOMS, POOLHALLS AND DANCEHALLS ***
 5.28.050 Definitions.
    For the purpose of this article, the following words and phrases are
 defined:
@@ -8609,7 +8609,7 @@ litter into streets prohibited.
 8.04.420   Transportation of loose cargo.
    
 8.04.430   Enforcement.
-ARTICLE 1. Introduction and Definitions
+*** ARTICLE 1. Introduction and Definitions ***
 8.04.010 Legislative policy.
    A.   The City Council does hereby find and determine that the storage,
 accumulation, collection and disposal of solid waste is a matter of great
@@ -8729,7 +8729,7 @@ composting.
    DD.   "Waste Generator" means any person whose act or process produced solid
 waste, or whose act first causes solid waste to become subject to regulation.
 (Ord. 771-2007, § 1; Ord. 701-2000, § 1(part)).
-ARTICLE 2. General Regulations
+*** ARTICLE 2. General Regulations ***
 8.04.030 Solid waste collection and disposal.
    A.   Property owners liable for solid waste service (garbage) charges to
 their properties:
@@ -8891,7 +8891,7 @@ by resolution of the City Council due to unusual or extraordinary conditions.
    C.   No person may dump or spread solid or designated waste on the surface
 of the ground for drying, except for home composting.
 (Ord. 701-2000, § 1(part)).
-ARTICLE 3. Franchise Agreements
+*** ARTICLE 3. Franchise Agreements ***
 8.04.100 City Council to issue franchise.
    The City Council may, from time to time, enter into franchise agreements for
 the collection of solid waste, plant materials and recyclable materials from
@@ -9035,7 +9035,7 @@ occupant of the findings and adjudication and adjustment in the matter. The
 decision of the City Administrator may be appealed by any person. Such appeal
 shall be directly to the City Council whose determination shall be final.
 (Ord. 701-2000, § 1(part)).
-ARTICLE 4. Recyclable Material Permit System
+*** ARTICLE 4. Recyclable Material Permit System ***
 8.04.170 Authorization.
    A.   The City Council pursuant to Section 40059 of the California Public
 Resources Codes does hereby determine that collection and processing of
@@ -9235,7 +9235,7 @@ notice of noncompliance pursuant to this section, the City Council, after a
 hearing, may revoke the permit or take such other action as the City Council
 shall determine.
 (Ord. 701-2000 § 1(part)).
-ARTICLE 5. Franchisee's and Permittee's Obligations
+*** ARTICLE 5. Franchisee's and Permittee's Obligations ***
 8.04.300 Properties, facilities and equipment.
    A.   Each franchisee and permittee shall maintain all of its properties,
 facilities, and equipment used in providing service under this chapter in a
@@ -9311,7 +9311,7 @@ cooperate with the city in the performance of waste composition studies.
 assist the city in meeting its obligations under the Integrated Waste
 Management Act of 1989.
 (Ord. 701-2000, § 1(part)).
-ARTICLE 6. Litter
+*** ARTICLE 6. Litter ***
 8.04.350 Depositing litter prohibited when.
    It is unlawful for any person to throw, discard, place or deposit litter in
 any manner or any amount on any public or private property within the city,
@@ -9922,7 +9922,7 @@ generators. A food recovery service or food recovery organization contacted by
 the city shall respond to such request for information within 60 days, unless a
 shorter timeframe is otherwise specified by the city.
 (Ord. 837-2022, § 1, 2022)
-8.05.080 Requirements for haulers and facility operators.
+** 8.05.080 Requirements for haulers and facility operators. **
    A.   Requirements for Haulers.
       1.   Haulers shall meet the following requirements and standards as a
 condition of approval of a permit or other authorization with the city to
@@ -28083,7 +28083,7 @@ Chapter 17.86   Satellite Antennas and Equipment
 Chapter 17.87   Recycling Facilities
 Chapter 17.88   Prohibiting Medical Marijuana Dispensary
 Chapter 17.89   Special Situations
-ARTICLE 1. General Information
+***** ARTICLE 1. General Information *****
    The purpose of Title 17 of the Gridley Municipal Code is to implement the
 City’s General Plan through the adoption and administration of zoning laws,
 ordinances, rules, and regulations, this title.
@@ -30049,7 +30049,7 @@ designee. The applicant must sign the variance permit within thirty days of
 receipt of the permit by certified letter. Any variance permits approved that
 are not signed within the thirty-day period shall expire.
 (Ord. 822-2016 § 9, 2016)
-ARTICLE 2. Zoning Map and Districts
+***** ARTICLE 2. Zoning Map and Districts *****
    A.   Establishment of districts. The city is divided into the following
 zoning districts:
       1.   Agriculture District.
@@ -30114,7 +30114,7 @@ prezoned areas shall be recorded on the zoning map of the city. The procedures
 for initiation, hearings and action shall be as provided for rezoning in
 Chapter 17.06.
 (Ord. 822-2016 § 10, 2016)
-ARTICLE 3. Agriculture District
+***** ARTICLE 3. Agriculture District *****
 Chapter 17.12
 AR-5 AGRICULTURAL RESIDENTIAL DISTRICT
    
@@ -30357,7 +30357,7 @@ the findings made above in subsections A. through C. above, that there would
 not be a financial burden placed on the City to provide services in life
 safety, water, sanitary sewer, and electric.
 (Ord. 823-2016 § 5 (part), 2016)
-ARTICLE 4. Residential District
+***** ARTICLE 4. Residential District *****
 Chapter 17.21
 R-S RESIDENTIAL SUBURBAN DISTRICT
    
@@ -31591,7 +31591,7 @@ of the resale shall be used as the initial market value.
 of appreciation shall be equal to the ratio of the initial subsidy to the fair
 market value of the home at the time of initial sale.
 (Ord. 823-2016 § 11 (part), 2016)
-ARTICLE 5. Commercial District
+***** ARTICLE 5. Commercial District *****
 Chapter 17.32
 C-1 RESTRICTED COMMERCIAL DISTRICT
    
@@ -32076,7 +32076,7 @@ Administrator/designee that such use is similar in nature, impact and intent as
 a listed use, shall be determined permitted, not permitted or conditionally
 permitted by the Planning Commission.
 (Ord. 823-2016 § 13 (part), 2016)
-ARTICLE 6. Industrial, Manufacturing, Research and Development
+***** ARTICLE 6. Industrial, Manufacturing, Research and Development *****
 Chapter 17.42
 M-1 LIMITED INDUSTRIAL DISTRICT
    
@@ -32461,7 +32461,7 @@ part of the site development plan review prior to the issuance of a building
 permit. Trees of sufficient size shall be planted throughout the development in
 all common open areas.
 (Ord. 823-2016 § 16 (part), 2016)
-ARTICLE 7. Combining District
+***** ARTICLE 7. Combining District *****
 Chapter 17.52
 MUCZ MIXED USE COMBINING ZONE
    
@@ -33617,7 +33617,7 @@ Chapter 17.72.
 [https://export.amlegal.com/media/bcaaa70e071fd20c143a2925cd8e2d9055e7cea7/
 IMAGES/0-0-0-4221.jpg]
  
-ARTICLE 8. Public Use District
+***** ARTICLE 8. Public Use District *****
 Chapter 17.62
 PQP P UBLIC AND QUASI -PUBLIC DISTRICT
    
@@ -33698,7 +33698,7 @@ Chapter 17.76 shall apply.
 development review in accordance with
 Chapter 17.07.
 (Ord. 823-2016 § 23 (part), 2016)
-ARTICLE 9. Development Standards
+***** ARTICLE 9. Development Standards *****
 Chapter 17.72
 GENERAL USE REGULATIONS
    
@@ -34735,7 +34735,7 @@ physically disabled.
    Yards required for residential buildings which may be permitted in a non-
 residential district on shall be determined on a case by case basis.
 (Ord. 823-2016 § 27 (part), 2016)
-ARTICLE 10. Miscellaneous and Special Situations
+***** ARTICLE 10. Miscellaneous and Special Situations *****
 Chapter 17.81
 ACCESSORY STRUCTURES
    
