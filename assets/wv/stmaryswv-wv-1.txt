@@ -502,7 +502,7 @@ Sections may be referred to and cited by the designation "Section" followed by
 the number, such as "Section
 101.01".
  
-101.02  GENERAL DEFINITIONS.
+*** 101.02  GENERAL DEFINITIONS. ***
    As used in the Codified Ordinances, unless otherwise expressly provided or
 the context otherwise requires:
    (a)    Council means the legislative authority of the Municipality.
@@ -573,7 +573,7 @@ less number.
 which contains any express provision excluding such construction, or when the
 subject matter or context of such law may be repugnant thereto.
  
-101.04  REPEAL OF REPEALING ACT; EFFECT OF REPEAL.
+*** 101.04  REPEAL OF REPEALING ACT; EFFECT OF REPEAL. ***
    (a)    When a law which has repealed another is itself repealed, the former
 law shall not be revived without express words for that purpose.  (WVaC 2-2-9)
  
@@ -616,7 +616,7 @@ last number or letters in the series are deemed to be included.
 shall be sufficient if it be done by his agent or deputy, unless it be such as
 cannot lawfully be done by deputation.  (WVaC 2-2-5)
  
-101.07  CONFLICTING PROVISIONS.
+*** 101.07  CONFLICTING PROVISIONS. ***
    If the provisions of different codes, articles or sections of the Codified
 Ordinances conflict with or contravene each other, the provisions bearing the
 latest passage date shall prevail. If the conflicting provisions bear the same
