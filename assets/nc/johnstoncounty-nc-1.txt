@@ -1,8 +1,8 @@
 COUNTY OF JOHNSTON, NORTH CAROLINA
 CODE OF ORDINANCES
 Published by Order of the Board of Commissioners
-Current with legislation passed through December 13, 2023
-Supplement No. 32
+Current with legislation passed through 9-2-2025
+Supplement No. 33
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -11,15 +11,15 @@ Cincinnati, Ohio 45202
 ***** OFFICIALS
 of the
 COUNTY OF JOHNSTON, NORTH CAROLINA *****
-R.S. "Butch" Lawter, Jr., Chairman , Chairman
+Patrick E. Harris, Chairman
  
-Patrick E. Harris, Vice Chairman
+R.S. “Butch” Lawter, Jr., Vice Chairman
  
+Bill Stoval
 Ted G. Godwin
-Fred J. Smith, Jr.
-Richard D. Braswell
+Michelle Pace Davis
+Michael Rose
 April Stephens
-Bill Stovall
 Board of Commissioners 
 ____________
  
@@ -32,7 +32,7 @@ Jennifer Slusser
 County Attorney
 ____________
  
-Dana Cuddington
+Paula Woodard
 Clerk to the Board
 ***** PREFACE *****
 This Code constitutes a codification of the general and permanent ordinances of
@@ -164,6 +164,7 @@ Amend. of 7-18-2022    Included         31
 Amend. of 5-1-2023     Included         31
 Amend. of 10-2-2023    Included         32
 Amend. of 12-13-2023   Included         32
+Amend. of 9-2-2025     Included         33
                                       
  
 Chapter 1 - GENERAL PROVISIONS
@@ -6880,7 +6881,7 @@ system consists of a single wind turbine, blades or similar devices, a tower,
 and associated control or conversion electronics.
    System height. The height above average ground height to the top of the wind
 generator, not to include generator blades.
-[https://export.amlegal.com/media/db6778b5e0673d0c2647a50384e5695dd78152dd/
+[https://export.amlegal.com/media/34dfec687b3f6d745cef051e7a36da1ad99647ec/
 IMAGES/0-0-0-1107.jpg]
  
    Wind generator. A mechanical device used to convert wind into electricity.
@@ -11425,40 +11426,71 @@ ch. 24.
    Sec.
 14-385. - Interpretation.
    Sec.
-14-386. - Enforcement.
+14-386. - Administrative Manual.
    Sec.
-14-387. - Drainage system.
+14-387. - Stormwater quantity controls.
    Sec.
-14-388. - Stormwater permit.
+14-388. - Nitrogen loading
    Sec.
-14-389. - Fees.
+14-389. - Stormwater permit.
    Sec.
-14-390. - Stormwater management plans.
+14-390. - Fees.
    Sec.
-14-391. - Stormwater BMP inspection, maintenance and easement requirements.
+14-391. - Stormwater permit application and plans.
    Sec.
-14-392. - Discharges and connections.
+14-392. - Construction and inspection.
    Sec.
-14-393. - Riparian buffer protection (for lands within the Neuse River Basin).
+14-393. - Performance guarantee.
    Sec.
-14-394. - Right to enter.
+14-394. - SCM maintenance and inspections.
    Sec.
-14-395. - Variances.
-   Secs. 14-396—14-420. - Reserved.
+14-395. - Easements.
+   Sec.
+14-396. - Discharges and connections.
+   Sec.
+14-397. - Right to enter.
+   Sec.
+14-398. - Variances.
+   Sec.
+14-399. - Enforcement.
+   Sec.
+14-400. - Appeals.
+   Secs. 14-401—14-420. - Reserved.
 Sec. 14-381. - Purpose.
-   The purpose of this article is to establish minimum criteria to control and
-minimize quantitative and qualitative impacts of stormwater runoff from
-development within the county, a nutrient management program for new
-development in accordance with 15A NCAC 2B .0235 Neuse River Basin - Nutrient
-Sensitive Waters Management Strategy: Basinwide Stormwater Requirements and to
-establish regulations to provide additional protection within the
-environmentally sensitive area district (ES). Further, prudent site planning
-should include special consideration for the purposes of preserving natural
-drainageways, maximizing infiltration, and slowing stormwater runoff from
-individual sites en route to streams and rivers by use of effective runoff
-management, structural and nonstructural best management practices, drainage
-structures, and stormwater facilities.
-(Ord. of 7-10-2000, § 9.1; Ord. of 1-2-2001, § 9.1)
+   The purpose of this article is to protect, maintain and enhance the public
+health, safety, environment and general welfare by establishing minimum
+requirements and procedures to control the adverse effects of development-
+related and post-development stormwater. The specific objectives and means to
+do so include the following:
+   (1)   Establishing design and approval
+   (2)   Decision-making processes for development that protect the integrity
+of watersheds and preserve the health of water resources;
+   (3)   Requiring that development minimizes negative impacts such as
+flooding, streambank erosion, and water quality degradation.
+   (4)   Seeking to maintain the integrity of stream channels and aquatic
+habitats;
+   (5)   Identifying the Johnston County Stormwater and Erosion Control Design
+Manual, also known as the "Administrative Manual," establishing the following:
+      a.   Minimum post-development stormwater management standards and design
+criteria for the regulation and control of stormwater runoff quantity and
+quality from new development;
+      b.   Design and review criteria for the construction, function, and use
+of stormwater control measures that may be used to meet the minimum post-
+development stormwater management standards;
+      c.   Provisions for the long-term responsibility for and maintenance of
+structural and nonstructural stormwater SCMs to ensure that they continue to
+function as designed, are maintained appropriately, and pose no threat to
+public safety;
+      d.   Administrative procedures for the submission, review, approval and
+disapproval of stormwater management plans for new development, for the
+inspection of approved projects, and to assure appropriate long-term
+maintenance.
+   (6)   Encouraging the use of better management and site design practices in
+new development, such as the use of vegetated conveyances for stormwater and
+the preservation of greenspace, riparian buffers and other conservation areas
+to the maximum extent practicable;
+   (7)   Controlling illicit discharges into waters of the state.
+(Ord. of 7-10-2000, § 9.2; Ord. of 1-2-2001, § 9.2; Amend. of 9-2-2025)
 Sec. 14-382. - Applicability.
    The provisions of this article shall apply to all areas within the planning
 jurisdictional limits of the county. The provisions of the environmentally
@@ -11468,113 +11500,133 @@ Carolina."
 (Ord. of 7-10-2000, § 9.2; Ord. of 1-2-2001, § 9.2)
 Sec. 14-383. - Exceptions to applicability.
    The provisions of this article shall not apply to:
-   (1)   Developers/property owners that can demonstrate that they have vested
-rights as of the adoption date of the revised stormwater ordinance from which
-this article is derived shall be exempt from the revised stormwater ordinance.
-   (2)   Exemption from storm attenuation. Developments that meet one of the
-following requirements shall be exempt from storm attenuation:
-      a.   The increase in peak flow between pre- and post-development
-conditions does not exceed ten percent; or
-      b.   The proposed development meets all of the following criteria:
-overall impervious surface is less than 15 percent outside the ES and 12
-percent inside the ES, and the pervious portions of the site are utilized to
-the extent practical to convey and control stormwater runoff.
-   Nutrient management and/or reduction shall still be required.
-(Ord. of 7-10-2000, § 9.2.1; Ord. of 1-2-2001, § 9.2.1)
+   (1)   Vested rights. To the extent that the owner or developer can establish
+vested rights pursuant to G.S. 160D-108 or 160D-108.1 exempting the property
+from any requirement under this article, the period of any such vested rights
+shall be as prescribed in G.S. 160D-108(d).
+   (2)   Single family and duplex residential development that either:
+      a.   Will disturb less than one acre; or
+      b.   Is not part of a larger common plan of development or sale as
+defined in 15A NC Administrative Code 02H .1002, and will not result in greater
+than five percent built upon area on the lot.
+   (3)   Recreational facilities or development that will disturb less than one
+acre.
+   (4)   Commercial, industrial, institutional, multifamily residential, and
+local government land uses or development that will:
+      a.   Disturb less than one-half acre; and
+      b.   Will not replace or expand existing structures on a parcel,
+resulting in a cumulative built-upon area for the development exceeding 24
+percent.
+   (5)   Existing development as defined in section
+14-384;
+   (6)   Redevelopment as defined in section
+14-384;
+   (7)   Activities subject to requirements of the Neuse Agriculture rule, 15A
+NCAC 02B .0712.
+(Ord. of 7-10-2000, § 9.2.1; Ord. of 1-2-2001, § 9.2.1; Amend of 9-2-2025)
 Sec. 14-384. - Definitions.
    The following words, terms and phrases, when used in this article, shall
 have the meanings ascribed to them in this section, except where the context
 clearly indicates a different meaning:
    Applicant means an owner or developer of a site who executes the stormwater
-permit application pursuant to this article and is considered the applicant.
-   Best management practices (BMPs) means a wide range of practices that have
-been demonstrated to effectively manage the quality and/or quantity of
-stormwater runoff and which are compatible with the planned land use. BMPs can
-be structural (detention ponds, wetlands, etc.) or nonstructural (reduced road
-pavement width, cluster development, etc.).
+permit application pursuant to this article.
+   Built upon area (BUA) means impervious surface and partially impervious
+surface to the extent that the partially impervious surface does not allow
+water to infiltrate through the surface and into the subsoil, as defined in
+G.S. 143.214.7. "Built-upon area" does not include:
+   (1)   A slatted deck.
+   (2)   The water area of a swimming pool.
+   (3)   A surface of number 57 stone, as designated by the American Society
+for Testing and Materials, laid at least four inches thick over a geotextile
+fabric.
+   (4)   A trail as defined in G.S. 113A-85 that is either unpaved or paved as
+long as the pavement is porous with a hydraulic conductivity greater than 0.001
+centimeters per second (1.41 inches per hour).
+   (5)   Landscaping material, including, but not limited to, gravel, mulch,
+sand, and vegetation, placed on areas that receive pedestrian or bicycle
+traffic or on portions of driveways and parking areas that will not be
+compacted by the weight of a vehicle, such as the area between sections of
+pavement that support the weight of a vehicle.
+   (6)   Artificial turf, manufactured to allow water to drain through the
+backing of the turf, and installed according to the manufacturer's
+specifications over a pervious surface.
    Channel bank means the location of the upper edge of the active channel
 above which the water spreads into the overbanks on either side of the channel
 or the elevation of the two-year frequency storm. Where the channel bank is not
 well defined, the channel bank shall be considered the edge of the waterline.
    Design storm means the specific frequency and, if necessary, duration of the
 rainfall event to be used in design to meet the criteria established in the
-stormwater design manual.
-   Development means any of the following actions taken by a public or private
-individual or entity:
-   (1)   The division of a lot, tract or parcel of land into two or more lots,
-plots, sites, tracts, parcels or other divisions by plat or deed; or
-   (2)   Any land change, including, without limitation, clearing, tree
-removal, grubbing, stripping, dredging, grading, excavating, transporting and
-filling of land.
+Administrative Manual.
+   Development means, consistent with the definition in G.S. 143-214.7(a1)(1),
+any land-disturbing activity that increases the amount of built-upon area or
+that otherwise decreases the infiltration of precipitation into the subsoil.
+When additional development occurs at a site that has existing development, the
+built-upon areas of the existing development shall not be included in the
+density calculations for additional stormwater control requirements, and
+stormwater control requirements cannot be apply retroactively to existing
+development, unless otherwise required by federal law.
    Drainage structures include swales, channels, storm sewers, curb inlets,
 yard inlets, culverts and other structures designed to convey stormwater.
+   Environmentally sensitive (ES) area district is defined in section
+14-103 of the Land Development Code.
    Existing development means an individual nonresidential site with site plan
 approval by the planning department or a nonresidential or residential
-subdivision with preliminary subdivision approval from the planning board.
+subdivision with preliminary subdivision approval from the planning board prior
+to August 1998.
+   Existing built-upon area means built-upon area previously approved in a
+stormwater management plan or in place prior to August 1998.
    Illegal discharge means any unlawful disposal, placement, emptying, dumping,
 spillage, leakage, pumping, pouring, or other discharge of any substance other
 than stormwater into a stormwater conveyance system, the waters of the state or
 upon the land such that the substance is likely to reach a stormwater
 conveyance system or waters of the state and constitutes an illegal discharge.
-   Impervious surface means a surface composed of any material that impedes or
-prevents natural infiltration of water into the soil. Gravel areas shall be
-considered impervious.
-   Land disturbance means removal of topsoil, grubbing, stump removal and/or
-grading.
+   Impervious surface is no longer the operative term, and has been replaced by
+the term built upon area, which is defined above.
+   Land disturbing activity means any use of the land that results in a change
+in the natural cover or topography that may cause or contribute to
+sedimentation.
    Natural drainageway means an incised channel with a defined channel bed and
 banks that are part of the natural topography. Construction channels such as
 drainage ditches shall not be considered a natural drainageway unless the
 constructed channel was a natural drainageway that has been relocated, widened,
 or otherwise improved.
-   New development means as follows:
-   (1)   Any activity that disturbs more than one acre of land or creates more
-than 17,000 square feet of impervious surfaces for a single-family or duplex
-residential development, recreational facility, or multifamily, institutional,
-commercial or industrial development; and
-   (2)   New development shall not include mining, agricultural or forestry
-activities.
-   Riparian buffer means an area of trees, shrubs, or other forest vegetation,
-that is adjacent to surface waters. For purposes of this article, surface water
-shall be present if the feature is approximately shown on either the most
-recent version of the county soil survey report prepared by the NRCS or the
-most recent version of the 1:24,000 scale (7.5 min.) quadrangle topographic
-maps prepared by the United States Geological Survey. Riparian buffers adjacent
-to surface waters that do not appear on either of the maps shall not be subject
-to this article, except as noted in section
-14-103.
-   Stormwater means flow resulting from and occurring after any form of
-precipitation.
+   Primary stormwater control measure (SCM) means a wet pond, stormwater
+wetland, infiltration system, sand filter, bioretention cell, permeable
+pavement, green roof, rainwater harvesting, or an approved new stormwater
+technology that is designed, constructed and maintained in accordance with the
+North Carolina Department of Environmental Quality's Minimum Design Criteria
+(MDC).
+   Redevelopment means, as defined in G.S. 143-214.7(a1)(2), any land
+disturbing activity that does not result in a net increase in built upon area
+and that provides greater or equal stormwater control to that of the previous
+development.
+   Riparian buffer, see section
+14-105.
+   Stormwater means surface water flow resulting from and occurring after any
+form of precipitation.
    Stormwater administrator means the person designated by the county manager
 to have authority to review and approve stormwater permits and stormwater
-management plans. The stormwater administrator shall also be responsible for
-inspecting development and enforcing the provisions of this article.
+management plans. The stormwater administrator or designee shall also be
+responsible for inspecting development and enforcing the provisions of this
+article.
+   Stormwater control measure (SCM) means a permanent structural device that is
+designed, constructed, and maintained to remove pollutants from stormwater
+runoff by promoting settling or filtration; or to manage the quantity of runoff
+by mimicking the natural hydrologic cycle through infiltration, evapo-
+transpiration, post-filtration discharge, reuse of stormwater, or a combination
+thereof. SCMs include primary devices and secondary devices.
    Stormwater conveyance system or structure means any feature, natural or
 manmade, that collects and transports stormwater, including, but not limited
 to, roadways with collection systems, catch basins, manmade and natural
 channels, streams, pipes and culverts, and any other structure or system
 designed to transport runoff.
-   Stormwater design manual means the manual of design, performance, and review
-criteria adopted by the board of commissioners for the administration of the
-stormwater program.
+   The Administrative Manual means the Johnston County Stormwater Design and
+Sedimentation and Erosion Control Manual.
    Vegetative buffer means an area that has a dense ground cover of herbaceous
 or woody species, which provides for diffusion and infiltration of runoff and
 filtering of pollutants.
-   Vested rights for stormwater shall be based upon the following criteria:
-   (1)   Having an outstanding valid building permit in compliance with G.S.
-160D-108 and 160D-108.1; or
-   (2)   Having an approved site specific or phased development plan in
-compliance with G.S. 160D-108 and 160D-108.1.
-Projects that require a state permit, such as landfills, NPDES wastewater
-discharges, land application or residuals and road construction activities,
-shall be considered to have vested rights if a state permit was issued prior to
-the effective date of the adoption of the revised stormwater ordinance from
-which this article is derived.
-   Water dependent structures means those structures that require the access or
-proximity to, or sitting within surface waters to fulfill its basic purpose,
-such as boat ramps, boathouses, docks, and bulkheads. Ancillary facilities such
-as restaurants, outlets for boat supplies, parking lots, and commercial boat
-storage areas are not considered water-dependent structures.
-(Ord. of 7-10-2000, § 9.3; Ord. of 1-2-2001, § 9.3; Amend. of - - )
+(Ord. of 7-10-2000, § 9.3; Ord. of 1-2-2001, § 9.3; Amend. of - - ; Amend. of
+9-2-2025)
    Cross reference—Definitions generally, §
 1-2.
 Sec. 14-385. - Interpretation.
@@ -11587,183 +11639,269 @@ covenant, or other agreement between parties; provided, however, where this
 article imposes greater restrictions and controls with respect to stormwater
 management, the provisions of this article shall prevail.
 (Ord. of 1-2-2001, § 9.4)
-Sec. 14-386. - Enforcement.
-   (a)   Violations. Whenever, by the provisions of this article, the
-performance of any act is required, or the performance of any act is
-prohibited, or whenever any regulation or limitation is imposed on the use of
-any land, or on the erection, alteration, or the use or change of use of a
-structure, a failure to comply with such provisions shall constitute a
-violation of this article. The owner, tenant, or occupant of any land or
-structure, or part thereof, and any architect, engineer, builder, contractor,
-agent, or other person who participates in, assists, directs, creates, or
-maintains any situation that is contrary to the requirements of this article
-may be held responsible for the violation and be subject to the penalties and
-remedies provided in this section. Failure to follow an approved stormwater
-management plan or permit shall constitute a violation of this article and
-shall be subject to the penalties and remedies provided in this article.
-   (b)   Procedures upon discovery of violations. Procedures upon discovery of
-violations of this article shall be as follows:
-   (1)   Upon determination that any provision of this article is being
-violated, the stormwater administrator shall deliver a written notice by
-personal service or by registered or certified mail, return receipt requested,
-to the person responsible for such violation, indicating the nature of the
-violation, ordering the action necessary to correct it and outlining the
-timeframe for gaining compliance. Additional written notices may be sent at the
-stormwater administrator's discretion.
-   (2)   The final written notice, which may also be the initial notice, shall
-state the enforcement action the county intends to take if the violation is not
-corrected, and shall advise that the stormwater administrator's order may be
-appealed to the board of adjustment as provided in article XI of this chapter.
-   In cases when delay would seriously threaten the effective enforcement of
-this article, or pose a danger to the public health, safety, or general
-welfare, the stormwater administrator may seek enforcement without prior
-written notice by invoking any of the penalties or remedies contained in this
-section.
-   (c)   Penalties and remedies. Penalties and remedies for a violation of this
-article shall be as follows:
-   (1)   Any violation of any provision of any section of this article shall
-constitute a misdemeanor and shall subject the violator to a penalty of $500.00
-and/or imprisonment for not more than 30 days.
-   (2)   Development that begins land disturbing activities prior to obtaining
-a stormwater management permit shall also be subject to a one-time $1,000.00
-penalty.
-   (3)   Illegal discharge. Any designer, engineer, consultant, contractor or
-person that allows, acts in concert, participates, directs or assists directly
-or indirectly in an illegal discharge shall be subject to civil penalties as
-follows:
-      a.   For first time offenders if the quantity of the discharge is equal
-to or less than five gallons and consists of domestic or household products,
-such person shall be assessed a civil penalty not to exceed $100.00 per
-violation or per day for any continuing violation. If the quantity of the
-discharge is greater than five gallons or contains nondomestic substances or if
-the person cannot provide clear and convincing evidence of the volume and
-nature of the substance discharged, such person shall be assessed a civil
-penalty not to exceed $1,000.00 per violation or per day for any continuing
-violation.
-      b.   For repeat offenders, the amount of the penalty shall be double the
-amount assessed for the previous penalty, not to exceed $10,000.00 per
-violation or per day for any continuing violation.
-      c.   The county manager or his designee shall take the following into
-consideration when determining the civil penalty amount:
-         1.   The degree and extent of harm to the environment, public health,
-and property;
-         2.   The cost of remedying the damage;
-         3.   The willfulness of the violation;
-         4.   The duration of the violation;
-         5.   The violator's prior record in complying or failing to comply
-with this article; and
-         6.   The amount of money saved by the violator by noncompliance.
-   If the offender fails to pay the penalty within ten days of receiving final
-written notice of a violation, the county in a civil action may recover the
-penalty. A civil penalty may not be appealed to the board of adjustment if the
-offender received a final written notice of violation and did not appeal to the
-board of adjustment within 30 days. Each day that any violation continues after
-receipt of the final written notice of such violation shall constitute a
-separate violation and a separate offense for purposes of the penalties and
-remedies specified in this section. In addition to the penalties and remedies
-of this section, the county may institute any appropriate action or proceedings
-to prevent, restrain, correct, or abate a violation of this article.
-(Ord. of 1-2-2001, § 9.13)
-Sec. 14-387. - Drainage system.
-   Stormwater shall be conveyed from a development in an adequately designed
-drainage system of natural drainageways, grass swales, storm sewers, culverts,
-inlets, and channels. Drainage systems shall be designed, constructed, and
-maintained to encourage natural infiltration, control velocity, control
-flooding, and extend the time of concentration of stormwater runoff. The post-
-development runoff rate for the one-year storm event shall be attenuated to the
-predevelopment runoff rate for the one-year storm. The nitrogen loading
-contributed by new development shall be restricted to 3.6 pounds of nitrogen
-per acre per year. Methodologies for determining nitrogen loading are outlined
-in the stormwater design manual. A developer has the option of offsetting the
-nitrogen loading from a development by paying into the state wetlands
-restoration program. Procedures for offset payments are outlined in the
-stormwater design manual. When using the offset payment, the total nitrogen
-loading from a development shall not exceed six pounds per acre per year for
-residential development and ten pounds per acre per year for nonresidential
-development.
-(Ord. of 7-10-2000, § 9.5; Ord. of 1-2-2001, § 9.7)
-Sec. 14-388. - Stormwater permit.
-   (a)   Except where provided elsewhere in this chapter, land disturbing
-activities shall not commence without obtaining a stormwater permit pursuant to
-the provisions of this article and the stormwater design manual. The stormwater
-permit application shall be made by, or on behalf of, the owner or developer of
-the site for which the permit is sought. The application shall be filed with
-the county on a form supplied by the county and shall be accompanied with the
-information identified in the stormwater design manual. A stormwater permit
-shall not be issued until the following conditions are met:
+Sec. 14-386. - Administrative Manual.
+   (a)   The stormwater administrator shall compile relevant policies, design
+criteria, and information related to stormwater management that will be
+included in the Administrative Manual, which the administrator shall make
+available to the public. It will include relevant application requirements, a
+copy of this article, technical and design standards, and information on how
+and where to obtain the latest version of the NC Stormwater Design Manual
+published by the North Carolina Department of Environmental Quality. Whenever
+reference is made in this article to "standards," "administrative manual" or
+"manual," it refers to the latest published edition of the Administrative
+Manual.
+   (b)   The stormwater administrator shall use the information included in
+this article and technical standards in the Administrative Manual as the basis
+for decisions about stormwater permits and about the design, implementation and
+performance of SCMs.
+   (c)   The Administrative Manual may be updated and expanded from time to
+time by the stormwater administrator, based on advancements in technology or
+engineering, improved knowledge of local conditions, or local monitoring or
+maintenance experience. Prior to amending or updating the Administrative
+Manual, proposed changes shall be generally publicized and made available for
+review, and an opportunity for comment by interested parties shall be provided.
+   (d)   If the standards, policies, design criteria, or other information in
+the Administrative Manual are amended subsequent to the submittal of an
+application for approval pursuant to this article, but prior to approval, the
+new information shall control and shall be utilized in reviewing the
+application and in implementing this article with regard to the application.
+(Ord. of 9-2-2025)
+Sec. 14-387. - Stormwater quantity controls.
+   (a)   Stormwater generated from development shall generally be conveyed in a
+designed drainage system of natural drainageways, grass swales, storm sewers,
+culverts, inlets, and channels. Drainage systems shall be designed,
+constructed, and maintained to encourage natural infiltration, control
+velocity, control flooding, and extend the time of concentration of stormwater
+runoff, consistent with the requirements of this article and the Administrative
+Manual.
+   (b)   Stormwater attenuation. Unless an exemption set forth in subsection
+(3) below applies, the stormwater attenuation standards shall be as follows:
+   (1)   In the ES area district and in the Middle Creek Watershed, the
+stormwater runoff from development shall be attenuated for the one year through
+the 100 year storm events, such that the post development peak runoff rates are
+the same as or less than the pre-development peak runoff rates.
+   (2)   In all other areas, stormwater runoff from development shall be
+attenuated for the one year through the 25 year storm events, such that the
+post development peak runoff rates are the same as or less than the pre-
+development peak runoff rates.
+   (3)   The attenuation standards in subsections (1) and (2) above do not
+apply for:
+      a.   Single family and duplex residential developments that do not
+include more than 19 lots and have no more than an eight percent increase in
+peak runoff rate between the post-development and pre-development rates, unless
+the stormwater administrator determines this exemption should not apply due to
+the potential of down gradient impacts of the development based on site-
+specific conditions and down gradient land uses.
+      b.   Commercial or industrial development that adds less than 10,000
+square feet of new BUA and does not exceed the permitted BUA threshold of an
+existing stormwater permit.
+(Ord. of 9-2-2025)
+Sec. 14-388. - Nitrogen loading.
+   (a)   The nitrogen loading contributed by new development shall be
+restricted to 3.6 pounds of nitrogen per acre per year. Methodologies for
+determining nitrogen loading are outlined in the Administrative Manual.
+   (b)   A developer may meet nitrogen reduction needs for development through
+the use of permanent nutrient offset credits pursuant to the Nutrient Offset
+Credit Trading Rule, 15A NCAC 02B .0703. Verification of the payment must be
+provided to the county.
+   (c)   Where the BUA for a development exceeds 24 percent, primary SCMs shall
+be used for runoff treatment prior to purchasing nitrogen credits.
+   (d)   Proposed development undertaken by a local government solely as a
+public road expansion or public sidewalk project, or proposed development
+subject to the jurisdiction of the Surface Transportation Board, may meet the
+loading rate target through use of permanent nutrient offset credit pursuant to
+15A NCAC 02B .0295.
+(Ord. of 9-2-2025)
+Sec. 14-389. - Stormwater permit.
+   (a)   Prior to beginning land disturbing activities, a stormwater permit is
+required for all development unless exempt pursuant to this article. A permit
+may only be issued subsequent to a properly submitted, reviewed, and approved
+stormwater management plan, pursuant to this article and the Administrative
+Manual.
+   (b)   A stormwater permit shall govern the design, installation,
+construction, and maintenance of the stormwater management system for
+development, including structural and non-structural controls.
+   (c)   A stormwater permit shall not be issued until the following conditions
+are met:
    (1)   Approval of the stormwater management plan by the stormwater
 administrator.
-   (2)   Submission and approval of any required easements and impervious area
-statements on a map to be recorded.
+   (2)   Submission and approval of any required easements on construction
+drawings. Easements must be clearly shown and labeled on the final plat to be
+recorded.
    (3)   Submission and approval of any required inspection and maintenance
-agreement and/or escrow account or other legal instrument established to ensure
-longterm maintenance of BMPs.
+agreement and/or other legal instrument established to ensure longterm
+maintenance of SCMs. This instrument must be recorded prior to issuance of a
+certificate of occupancy or final plat recordation.
    (4)   Payment of all fees.
-   (b)   If the development requires approval of an erosion and sediment
-control plan, the stormwater permit will be conditional upon the owner
-receiving such erosion and sediment control approval. The stormwater permit
-will be valid for one year from the date of issuance or until significant
-changes in the development are made that change the intent of the permit. The
-stormwater administrator shall determine significant changes. If significant
-changes are made, the original stormwater permit shall not be valid, and a new
-permit shall be required.
-(Ord. of 7-10-2000, § 9.4; Ord. of 1-2-2001, § 9.5)
-Sec. 14-389. - Fees.
-   A list of fees associated with this article is available at the office of
+   (d)   If the development requires approval of an erosion and sediment
+control plan, the stormwater permit will not be issued until the erosion
+control plan approval has been issued.
+   (e)   A stormwater permit shall become null and void if the applicant fails
+to commence land-disturbing activity on the site within one year after the date
+of approval. The stormwater administrator may grant a single, one-year
+extension of this time limit, for good cause shown, upon receiving a written
+request from the applicant before the expiration of the approved plan.
+   (f)   Any material change to the stormwater management plans will require a
+modification to the permit, or a new permit.
+(Ord. of 7-10-2000, § 9.4; Ord. of 1-2-2001, § 9.5; Amend of 9-2-2025)
+Sec. 14-390. - Fees.
+   A list of fees associated with this article, including permit application
+fees, is available on the county public utilities website and at the office of
 the clerk to the board of commissioners in the county courthouse.
-(Ord. of 1-2-2001, § 9.6)
-Sec. 14-390. - Stormwater management plans.
-   Stormwater management plans shall:
+(Ord. of 1-2-2001, § 9.6; Amend. of 9-2-2025)
+Sec. 14-391. - Stormwater permit application and plans.
+   (a)   The stormwater permit application shall be made by, or on behalf of,
+the land owner or developer of the site for which the permit is sought. The
+application shall be filed with the stormwater administrator on a form supplied
+by the county and shall be accompanied with the information identified in the
+Administrative Manual.
+   (b)   Stormwater management plans must be prepared by a qualified registered
+professional engineer, land surveyor or landscape architect.
+   (c)   Stormwater management plans shall:
    (1)   Include drawings, maps, supporting calculations, specifications, and
-summaries as outlined in the stormwater design manual.
+summaries as outlined in the Administrative Manual.
    (2)   Demonstrate through accepted engineering practices described in the
-stormwater design manual the impacts of the proposed development. Impacts of
-the proposed development shall include:
-      a.   Effects on existing upstream and/or downstream drainage systems and
-property;
-      b.   Ability of the natural drainageway to handle additional stormwater
-runoff; and
-      c.   Site-specific criteria supporting the analysis of any impacts noted
-in subsections (2)a. and (2)b. of this section.
+Administrative Manual that the development will not negatively impact existing
+up gradient or down gradient drainage structures, systems, conveyances, streams
+or properties.
    (3)   Demonstrate through accepted engineering practices described in the
-stormwater design manual that stormwater runoff is adequately conveyed through
-the development in a drainage system designed to meet the criteria described in
-the stormwater design manual.
+Administrative Manual that stormwater runoff is adequately conveyed through the
+development in a drainage system designed to meet the criteria described in the
+Administrative Manual.
    (4)   Demonstrate through accepted engineering practices described in the
-stormwater design manual that stormwater facilities required to control the
+Administrative Manual that stormwater facilities required to control the
 impacts of the development are designed to meet the criteria described in the
-stormwater design manual.
+Administrative Manual.
    (5)   Demonstrate that the nitrogen loading from the new development does
 not exceed the limits set forth in section
-14-387.
-(Ord. of 7-10-2000, § 9.5.1; Ord. of 1-2-2001, § 9.7.1)
-Sec. 14-391. - Stormwater BMP inspection, maintenance and easement
-requirements.
-   (a)   Maintenance agreement. A written inspection and maintenance agreement
-in a form acceptable to the county attorney and executed by the applicant and
-the owner of the BMP, if different than the applicant, shall be provided prior
-to receiving a stormwater permit. The agreement shall:
-   (1)   Bind the parties thereto and all subsequent owners, successors, and
-assigns to maintenance and inspection of the system or structure.
-   (2)   State that if the county directs the correction, repair, replacement,
-or maintenance of the system or structure in writing and the actions are not
-satisfactorily performed within a reasonable time (but not greater than 120
-days), the county (or its contractors) may, after reasonable notice, enter the
-land and perform all the necessary work and may assess the owner of the
-facility with the cost of the work performed or the county can seize all or
-part of the escrow or other fund set aside by the applicant for perpetual
-maintenance. The owner served by the facility shall be jointly responsible to
-the county for the maintenance of the facility and liable for any costs
-incurred by the county pursuant to the agreement. All properties are jointly
-subject to the imposition of the liens for such costs.
-   (3)   The inspection and maintenance agreement shall be recorded in the
-register of deeds at the expense of the applicant.
-   (b)   Easements. Easements for stormwater BMPs shall include the area of the
-BMP, area of ponded water, and enough area for access and maintenance. The
-easement shall be recorded in the register of deeds at the expense of the
-applicant and shall be depicted on the final plat or recorded map.
-(Ord. of 7-10-2000, § 9.6; Ord. of 1-2-2001, § 9.8)
-Sec. 14-392. - Discharges and connections.
+14-388.
+   (6)   For individual single family residential lots: lot level stormwater
+management plans shall be required prior to county building permit issuance for
+individual single family residential lots adding BUA in excess of the original
+designed and recorded BUA limit. Treatment is required for the new BUA only.
+   (7)   An offsite SCM that is dedicated to treating an area encompassing the
+area of the development may be utilized, provided the SCM is designed to meet
+all applicable requirements identified in the Administrative Manual.
+   (8)   Proposed easements for SCMs shall include the area of the SCM, area of
+ponded water, and enough area for access and maintenance.
+   (d)   Locations of all easements for the development shall be shown and
+labeled on the development plans and recorded on the final plat.
+   (e)   Development covenants shall be provided and recorded prior to final
+plat. The covenant must provide the maximum BUA for each lot, along with a
+process for the landowners or homeowners' association to manage excess or
+banked BUA.
+(Ord. of 7-10-2000, § 9.5.1; Ord. of 1-2-2001, § 9.7.1; Amend. of 9-2-2025)
+Sec. 14-392. - Construction and inspection.
+   (a)   The permittee or its representative shall notify the stormwater
+administrator before commencing any work to implement the stormwater design
+plan, at key milestones during construction, and upon completion of the work.
+   (b)   Any portion of the construction which does not comply with the
+stormwater design plan shall be promptly corrected by the permittee.
+   (c)   The stormwater administrator will notify the permittee for the
+development activity in writing when violations are observed, describing:
+   (1)   The nature of the violation;
+   (2)   Required corrective actions; and
+   (3)   The time period for corrective action.
+   (d)   Prior to final plat approval or issuance of a certificate of
+occupancy, the permittee shall provide an engineer's certification stating that
+all drainage easements and facilities have been installed as shown on the
+approved plan and permanently stabilized.
+   (e)   Upon completion of the stormwater management facilities included in
+the stormwater management plan, the permittee shall provide record drawings
+signed and sealed by a registered professional to be submitted. The record
+drawings shall be referenced to North Carolina state plane coordinates and
+shall be provided to the stormwater administrator as specified in the
+Administrative Manual. The registered professional shall state on the record
+drawings that:
+   (1)   The system/s has been constructed as shown on the record drawings;
+   (2)   The system/s meets the approved stormwater design plan; and
+   (3)   The record drawings meet all applicable requirements of this article
+and the Administrative Manual.
+   (f)   A final inspection shall be conducted by the stormwater administrator
+or designee upon submittal of the record drawings identified above to verify
+that the completed work is constructed in accordance with the record drawing.
+(Ord. of 9-2-2025)
+Sec. 14-393. - Performance guarantee.
+   (a)   May be required. The stormwater administrator, at their discretion,
+may require the submittal of a performance guarantee or bond with surety, cash
+escrow, letter of credit or other acceptable legal arrangement prior to
+certificate of operation or final plat approval in order to ensure that the
+approved stormwater management system has been installed by the permit holder
+as required by the approved stormwater management plan.
+   (b)   Amount. The amount of a performance guarantee shall be 125 percent of
+the total estimated construction cost of the engineered stormwater controls
+approved under the permit.
+   (c)   Uses of performance security.
+   (1)   Forfeiture provisions. The performance security shall contain
+forfeiture provisions for failure, after proper notice, to complete work within
+the time specified.
+   (2)   Default. Upon default of the permittee or owner to construct any
+engineered stormwater control in accordance with the applicable permit or
+operation and maintenance agreement, the stormwater administrator shall obtain
+and use all or any portion of the security to complete construction of
+engineered stormwater control. Such expenditure of funds shall only be made
+after requesting the owner to comply with the permit or operation and
+maintenance agreement. In the event of a default triggering the use of the
+performance guarantee, the county shall not return any of the unused deposited
+cash funds or other security.
+   (3)   Costs in excess of performance security. If the county takes action
+upon such failure by the applicant or owner, the county may collect from the
+applicant or owner the difference between the amount of the reasonable cost of
+such action and the amount of the security held, in addition to any other
+penalties or damages due.
+   (4)   Release. Upon complete installation of the stormwater plan and
+acceptance of the engineer's final certification, the performance guarantee
+shall be released to the applicant or terminated.
+(Ord. of 9-2-2025)
+Sec. 14-394. - SCM maintenance and inspections.
+   (a)   Maintenance responsibility. The owner of each SCM installed pursuant
+to this article shall maintain and operate it so as to preserve and continue
+its function in controlling stormwater quality and quantity at the degree or
+amount of function for which the SCM was designed.
+   (b)   Operation and maintenance agreement. Prior to final plat approval or
+issuance of a certificate of occupancy, the permit applicant or owner of the
+site must execute an operation and maintenance agreement that shall be binding
+on all current and subsequent owners of the site, portions of the site, and
+lots serviced by the SCM. The agreement shall:
+   (1)   Require the owner or owners to maintain, repair and, if necessary,
+reconstruct the SCMs.
+   (2)   Shall state the terms, conditions and schedule of maintenance for the
+SCMs.
+   (3)   Grant the stormwater administrator or designee a right of entry onto
+the site to inspect SCMs.
+   (4)   State that if the stormwater administrator or designee directs the
+correction, repair, replacement, or maintenance of the SCM in writing and the
+actions are not satisfactorily performed within a reasonable time (but not
+greater than 120 days), the stormwater administrator (or its contractors) may,
+after reasonable notice, enter the land and perform all the necessary work and
+may assess the owner of the site with the cost of the work performed.
+   (5)   Include an operation and maintenance plan.
+   (6)   Reference the deed and book of the recorded property.
+   (7)   Be recorded in the register of deeds at the expense of the applicant.
+   (c)   Annual inspections and reports. The person responsible for maintenance
+of any SCM installed pursuant to this article shall submit to the stormwater
+administrator an annual inspection report from a qualified registered engineer,
+landscape architect or an individual that has passed the stormwater control
+measure construction inspection course issued by NC State University
+Cooperative Extension. The inspection report shall be on a form provided in the
+Administrative Manual and shall contain:
+   (1)   The name and address of the landowner;
+   (2)   Name, contact information and qualification of the inspector;
+   (3)   The recorded book and page number of the lot or parcel for each SCM;
+   (4)   A statement that an inspection was made of all components of the SCM
+to determine compliance with the operation and maintenance agreement;
+   (5)   The date of the inspection;
+   (6)   Photographs of the SCM components clearly showing its condition; and
+   (7)   The findings of the inspection regarding the proper functioning of the
+stormwater system or the maintenance that is needed to provide the proper
+functioning of the stormwater system.
+(Ord. of 9-2-2025)
+Sec. 14-395. - Easements.
+   Any easements for stormwater management system components shall be recorded
+in the register of deeds at the expense of the applicant and shall be depicted
+on the final plat or recorded map.
+(Ord. of 9-2-2025)
+Sec. 14-396. - Discharges and connections.
    (a)   Illegal discharge. No person shall cause or allow the discharge,
 disposal, pouring or pumping directly or indirectly to any stormwater
 conveyance structure, stormwater conveyance system, stream, lake, pond, wetland
@@ -11804,1098 +11942,197 @@ to health and safety, or is likely to result in immediate injury or harm to
 human or animal life, natural resources, to real or personal property, or
 habitat; or
    (2)   Was made in violation of any applicable regulation or ordinance.
-   The stormwater administrator shall outline in a notice of violation, sent by
+The stormwater administrator shall outline in a notice of violation, sent by
 certified mail, the time in which the connection shall be removed. Failure to
 comply with the terms and deadlines set in the notice of violation will
 constitute a violation of this article.
-(Ord. of 1-2-2001, § 9.9)
-Sec. 14-393. - Riparian buffer protection (for lands within the Neuse River
-Basin).
-   This section is adopted pursuant to the authority vested in Johnston County
-by the Session Laws and the General Statutes of North Carolina, particularly
-G.S. 153A-121, 153A-140, ch. 153A, article 18, G.S. 160A-174, 160A-193, ch.
-160A, article 19, and any special legislation enacted by the General Assembly
-for Johnston County.
-   (a)   Purpose and intent. The purposes of Johnston County in adopting the
-following section is to protect and preserve existing riparian buffers
-throughout the Neuse River Watershed within the county's jurisdiction as
-generally described in Rule 15A NCAC 02B .0233 (Neuse River Basin: Nutrient
-Sensitive Waters Management Strategy: Protection and Maintenance of Existing
-Riparian Buffers), in order to maintain their nutrient removal and stream
-protection functions. Additionally this section will help protect the water
-supply uses of the Neuse River and of designated water supplies throughout the
-Neuse River watershed.
-   Buffers adjacent to streams provide multiple environmental protection and
-resource management benefits. Forested buffers enhance and protect the natural
-ecology of stream systems, as well as water quality through bank stabilization,
-shading, and nutrient removal. They also help to minimize flood damage in flood
-prone areas. Well-vegetated streamside riparian areas help to remove nitrogen
-and prevent sediment and sediment-bound pollutants such as phosphorous from
-reaching the streams.
-   (b)   Title. This section shall be known as the Johnston County Riparian
-Buffer Protection Ordinance [for Lands within the Neuse River Watershed].
-   (c)   Jurisdiction. This section shall be applied to all land in the
-planning jurisdiction of Johnston County that is located within the Neuse River
-Watershed.
-   (d)   Applicability. This section applies to all landowners and other
-persons conducting activities in the area described in subsection (c), with the
-exception of activities conducted under the authority of the state, the United
-States, multiple jurisdictions, or local units of government, and forest
-harvesting and agricultural activities. The Environmental Management Commission
-shall administer the requirements of Rule 15A NCAC 02B .0233 and .0242 (Neuse
-River Basin: Nutrient Sensitive Waters Management Strategy: Protection of
-Existing Riparian Buffers and Mitigation Program for Protection and Maintenance
-of Existing Riparian Buffers, respectively) for these activities.
-   (e)    Relation to other ordinances. The requirements of this section shall
-supersede all locally implemented buffer requirements stated in Rules 15A NCAC
-02B .0214 through .0216 as applied to WS-II, WS-III, and WS-IV waters in the
-Neuse River watershed. If the provisions of this section otherwise conflict
-with the provisions of any other validly enforceable ordinance(s) or laws, the
-most stringent provisions shall control. This section is not intended to
-interfere with, abrogate, or annul any other ordinance, rule, regulation, or
-other provision of law.
-   (f)   Riparian area protection within the Neuse River Watershed.
-      (1)   Buffers protected. The following minimum criteria shall be used for
-identifying regulated buffers:
-         i.   This section shall apply to 50-foot wide riparian buffers
-directly adjacent to surface waters in the Neuse River Basin (intermittent
-streams, perennial streams, lakes, ponds, and estuaries), excluding wetlands.
-The riparian buffers protected by this Rule shall be measured pursuant to
-subsection (f)(4) of this Rule. For the purpose of this Rule, a surface water
-shall be present if the feature is approximately shown on either the most
-recent version of the soil survey map prepared by the Natural Resources
-Conservation Service of the United States Department of Agriculture or the most
-recent version of the 1:24,000 scale (7.5 minute) quadrangle topographic maps
-prepared by the United States Geologic Survey (USGS). Riparian buffers adjacent
-to surface waters that do not appear on either of the maps shall not be subject
-to this Rule. Riparian buffers adjacent to surface waters that appear on the
-maps shall be subject to this Rule unless one of the following applies.
-         ii.   Wetlands adjacent to surface waters or within 50 feet of surface
-waters shall be considered as part of the riparian buffer but are regulated
-pursuant to Rules 15A NCAC 2B .0230 and .0231, Rules 15A NCAC 2H .0500, 15A
-NCAC 2H .1300, and Sections 401 and 404 of the Federal Water Pollution Control
-Act.
-         iii.   For the purpose of this section, a surface water shall be
-present if the feature is approximately shown on only one of the following
-types of maps:
-            a.   The most recent version of the soil survey map prepared by the
-Natural Resources Conservation Service of the United States Department of
-Agriculture.
-            b.   The most recent version of the 1:24,000 scale (7.5 minute)
-quadrangle topographic maps prepared by the United States Geologic Survey
-(USGS).
-         iv.   Where the specific origination point of a stream regulated under
-this Item is in question, upon request of the NC Division of Water Resources or
-another party, Johnston County shall make an on-site determination. A Johnston
-County representative who has successfully completed the Division's Surface
-Water Identification Training Certification course, its successor, or other
-equivalent training curriculum approved by the Division, shall establish that
-point using the latest version of the Division publication, Identification
-Methods for the Origins of Intermittent and Perennial Streams, available at
-http://h2o.enr.state.nc.us/ncwetlands/ documents/NC_Stream_ID_Manual.pdf or
-from the NC Division of Water Resources - 401 & Buffer Permitting Unit, or its
-successor. Any disputes over on-site determinations made according to this Item
-shall be referred to the Director of the Division of Water Resources c/o the
-401 & Buffer Permitting Unit, or its successor, in writing. The director's
-determination is subject to review as provided in articles 3 and 4 of G.S. ch.
-150B.
-         v.   Riparian buffers protected by this section shall be measured
-pursuant to subsection (f)(4) of this section.
-         vi.   Parties subject to this section shall abide by all state rules
-and laws regarding waters of the state including but not limited to Rules 15A
-NCAC 2B .0230 and .0231, Rules 15A NCAC 2H .0500, 15A NCAC 2H .1300, and
-Sections 401 and 404 of the Federal Water Pollution Control Act.
-         vii.   No new clearing, grading, or development shall take place nor
-shall any new building permits be issued in violation of this section.
-      (2)   Exemption based on on-site determination. When a landowner or other
-affected party, including the Division, believes that the maps have
-inaccurately depicted surface waters, he or she shall consult the environmental
-and stormwater manager. Upon request, a Johnston County representative who has
-successfully completed the Division’s Surface Water Identification Training
-Certification course, its successor, or other equivalent training curriculum
-approved by the division, shall make an on-site determination. Any disputes
-over on-site determinations shall be referred to the director of the Division
-of Water Resources c/o the 401 & Buffer Permitting Unit, or its successor, in
-writing. A determination of the director as to the accuracy or application of
-the maps is subject to review as provided in articles 3 and 4 of G.S. ch. 150B.
-Surface waters that appear on the maps shall not be subject to these buffer
-requirements if a site evaluation reveals any of the following cases:
-         i.   Man-made ponds and lakes that are not part of a natural drainage
-way that is classified in accordance with 15A NCAC 2B .0100, including ponds
-and lakes created for animal watering, irrigation, or other agricultural uses.
-(A pond or lake is part of a natural drainage way when it is fed by an
-intermittent or perennial stream or when it has a direct discharge point to an
-intermittent or perennial stream.)
-         ii.   Ephemeral streams.
-         iii.   The absence on the ground of a corresponding intermittent or
-perennial stream, lake, reservoir, or pond.
-         iv.   Ditches or other man-made water conveyances, other than modified
-natural streams.
-      (3)   Exemption when existing uses are present and ongoing. This section
-shall not apply to portions of the riparian buffer where a use is existing and
-ongoing according to the following:
-         i.   It existed prior to July 22, 1997, the effective date of the
-Neuse Rule and has continued to exist since that time. Existing uses shall
-include agriculture, buildings, industrial facilities, commercial areas,
-transportation facilities, maintained lawns, utility lines and on-site sanitary
-sewage systems, any of which involve either specific, periodic management of
-vegetation or displacement of vegetation by structures or regular activity.
-Only the portion of the riparian buffer occupied by the footprint of the
-existing use is exempt from this section. Change of ownership through purchase
-or inheritance is not a change of use. Activities necessary to maintain uses
-are allowed provided that the site remains similarly vegetated, no impervious
-surface is added within 50 feet of the surface water where it did not
-previously exist as of July 22, 1997, and existing diffuse flow is maintained.
-Grading and revegetating Zone Two is allowed provided that the health of the
-vegetation in Zone One is not compromised, the ground is stabilized and
-existing diffuse flow is maintained.
-         ii.   At the time an existing use is proposed to be converted to
-another use, this Rule shall apply. An existing use shall be considered to be
-converted to another use if any of the following applies:
-            a.   Impervious surface is added to the riparian buffer in
-locations where it did not exist previously.
-            b.   An agricultural operation within the riparian buffer is
-converted to a non-agricultural use.
-            c.   A lawn within the riparian buffer ceases to be maintained.
-      (4)   Zones of the riparian buffer. The protected riparian buffer shall
-have two zones as follows:
-         i.   Zone One shall consist of a vegetated area that is undisturbed
-except for uses provided for in the Table of Uses, subsection (g)(2) of this
-section. The location of Zone One shall be as follows:
-            a.   For intermittent and perennial streams, Zone One shall begin
-at the most landward limit of the top of bank or the rooted herbaceous
-vegetation and extend landward a distance of 30 feet on all sides of the
-surface water, measured horizontally on a line perpendicular to the surface
-water.
-            b.   For ponds, lakes and reservoirs located within a natural
-drainage way, Zone One shall begin at the most landward limit of the normal
-water level or rooted herbaceous vegetation and extend landward a distance of
-30 feet, measured horizontally on a line perpendicular to a vertical line
-marking the normal water level.
-         ii.   Zone Two shall consist of a stable, vegetated area that is
-undisturbed except for uses provided for in the Table of Uses, subsection 8.(B)
-of this section. Grading and revegetating in Zone Two is allowed provided that
-the health of the vegetation in Zone One is not compromised. Zone Two shall
-begin at the outer edge of Zone One and extend landward 20 feet as measured
-horizontally on a line perpendicular to the surface water. The combined width
-of Zones One and Two shall be 50 feet on all sides of the surface water.
-      (5)   Diffuse flow requirements. Diffuse flow of runoff shall be
-maintained in the riparian buffer by dispersing concentrated flow prior to its
-entry into the buffer and reestablishing vegetation as follows:
-         i.   Concentrated runoff from new ditches or man-made conveyances
-shall be converted to diffuse flow at non-erosive velocities before the runoff
-enters Zone Two of the riparian buffer;
-         ii.   Periodic corrective action to restore diffuse flow shall be
-taken as necessary and shall be designed to impede the formation of erosion
-gullies; and
-         iii.   As set out in subsections (f)(4) and (g)(2) of this section,
-Zones of the riparian buffer and Table of Uses respectively, no new stormwater
-conveyances are allowed through the buffers except for those specified in the
-Table of Uses, subsection (g)(2) of this section, addressing stormwater
-management ponds, drainage ditches, roadside ditches, and stormwater
-conveyances.
-   (g)   Potential uses and associated requirements.
-      (1)   Approval for new development. Johnston County shall issue an
-approval for new development only if the development application proposes to
-avoid impacts to riparian buffers defined in subsection (f)(1) of this section,
-or where the application proposes to impact such buffers, it demonstrates that
-the applicant has done the following, as applicable:
-         i.   Determined the activity is exempt from requirements of this
-section;
-         ii.   Received an Authorization Certificate from Johnston County
-pursuant to subsection (h)(1) of this section;
-         iii.   For uses designated as Allowable with Mitigation in the Table
-of Uses in subsection (g)(2), received approval of mitigation plan pursuant to
-subsection (h)(3) of this section; and
-         iv.   Received a variance pursuant to subsection (h)(2).
-      (2)   Table of Uses. The following chart sets out potential new uses
-within the buffer, or outside the buffer with impacts on the buffer, and
-categorizes them as exempt, allowable, or allowable with mitigation. All uses
-not categorized as exempt, allowable, or allowable with mitigation are
-considered prohibited and may not proceed within the riparian buffer or outside
-the buffer if the use would impact the buffer, unless a variance is granted
-pursuant to subsection (h)(2) of this section, Variances. The requirements for
-each category are given in subsection (g)(3) of this section following the
-Table of Uses.
-Use Exempt* Allowable* Allowable with Mitigation*
-                                                                                                  Allowable
-Use                                                                            Exempt* Allowable* with
-                                                                                                  Mitigation*
-Airport facilities:
-• Airport facilities that impact equal to or less than 150 linear feet or one-       X
-third of an acre of riparian buffer
-• Airport facilities that impact greater than 150 linear feet or one-third of                   X
-an acre of riparian buffer
-Archaeological activities                                                      X
-Bridges                                                                                X
-Dam maintenance activities:
-• Dam maintenance activities that do not cause additional buffer disturbance
-beyond the footprint of the existing dam or those covered under the U.S. Army  X
-Corps of Engineers Nationwide Permit No. 3
-• Dam maintenance activities that do cause additional buffer disturbance
-beyond the footprint of the existing dam or those not covered under the U.S.           X
-Army Corps of Engineers Nationwide Permit No. 3
-Drainage ditches, roadside ditches and stormwater conveyances through riparian
-buffers:
-• New stormwater flows to existing drainage ditches, roadside ditches, and
-stormwater conveyances provided flows do not alter or result in the need to    X
-alter the conveyance and are managed to minimize the sediment, nutrients and
-other pollution that convey to waterbodies.
-• New drainage ditches, roadside ditches and stormwater outfalls provided that
-a stormwater management facility is installed to control nitrogen and                  X
-attenuate flow before the conveyance discharges through the riparian buffer.
-Drainage of a pond in a natural drainage way provided that a new riparian
-buffer that meets the requirements of (f)(4) and (f)(5) of this section is     X
-established adjacent to the new channel
-Driveway crossings of streams and other surface waters subject to this
-section:
-• Driveway crossings on single family residential lots that disturb equal to X
-or less than 25 linear feet or 2,500 square feet of riparian buffer
-• Driveway crossings on single family residential lots that disturb greater          X
-than 25 linear feet or 2,500 square feet of riparian buffer
-• In a subdivision that cumulatively disturb equal to or less than 150 linear        X
-feet or one-third of an acre of riparian buffer
-• In a subdivision that cumulatively disturb greater than 150 linear feet or                    X
-one-third of an acre of riparian buffer
-Fences:
-• Fences provided that disturbance is minimized and installation does not    X
-result in removal of trees as defined in this section
-Forest Harvesting - See Section (4) of this Ordinance
-Fertilizer application: one-time application to establish vegetation           X
-Grading and revegetation in Zone Two provided that diffuse flow and the health
-of existing vegetation in Zone One is not compromised and disturbed areas are  X
-stabilized until they are revegetated.
-Greenway / hiking trails designed, constructed and maintained to maximize
-nutrient removal and erosion protection, minimize adverse effects on aquatic           X
-life and habitat, and protect water quality to the maximum extent practical.
-Historic preservation                                                          X
-Maintenance access on modified natural streams: a grassed travel way on one
-side of the water body when less impacting alternatives are not practical. The
-width and specifications of the travel way shall be only that needed for               X
-equipment access and operation. The travel way shall be located to maximize
-stream shading.
-Mining activities:
-• Mining activities that are covered by the Mining Act provided that new
-riparian buffers that meet the requirements of subsections (f)(4) and (f)(5)           X
-of this section are established adjacent to the relocated channels
-• Mining activities that are not covered by the Mining Act OR where new
-riparian buffers that meet the requirements of subsections (f)(4) and (f)(5)                      X
-of this section are not established adjacent to the relocated channels
-• Wastewater or mining dewatering wells with approved NPDES permit           X
-Playground equipment:
-• Playground equipment on single family lots provided that installation and  X
-use does not result in removal of vegetation
-• Playground equipment installed on lands other than single-family lots or           X
-that requires removal of vegetation
-Ponds created by impounding streams and not used as stormwater BMPs:
-• New ponds provided that a riparian buffer that meets the requirements of
-subsections (f)(4) and (f)(5) of this section is established adjacent to the           X
-pond
-• New ponds where a riparian buffer that meets the requirements of subsections                  X
-(f)(4) and (f)(5) of this section is NOT established adjacent to the pond
-Protection of existing structures, facilities and stream banks when this               X
-requires additional disturbance of the riparian buffer or the stream channel
-Railroad impacts other than crossings of streams and other surface waters                         X
-subject to this section.
-Railroad crossings of streams and other surface waters subject to this
-section:
-• Railroad crossings that impact equal to or less than 40 linear feet of     X
-riparian buffer
-• Railroad crossings that impact greater than 40 linear feet but equal to or         X
-less than 150 linear feet or one-third of an acre of riparian buffer
-• Railroad crossings that impact greater than 150 linear feet or one-third of                   X
-an acre of riparian buffer
-Removal of previous fill or debris provided that diffuse flow is maintained    X
-and vegetation is restored
-Road impacts other than crossings of streams and other surface waters subject                     X
-to this section
-Road crossings of streams and other surface waters subject to this section:
-• Road crossings that impact equal to or less than 40 linear feet of riparianX
-buffer
-• Road crossings that impact greater than 40 linear feet but equal to or less        X
-than 150 linear feet or one-third of an acre of riparian buffer
-• Road crossings that impact greater than 150 linear feet or one-third of an                    X
-acre of riparian buffer
-Stormwater BMPs:
-• Wet detention, bioretention, and constructed wetlands in Zone Two if diffuse       X
-flow of discharge is provided into Zone One
-• Wet detention, bioretention, and constructed wetlands in Zone One                             X
-Scientific studies and stream gauging                                          X
-Streambank or shoreline stabilization                                                  X
-Temporary roads, provided that the disturbed area is restored to pre-
-construction topographic and hydrologic conditions immediately after
-construction is complete and replanted immediately with comparable vegetation,
-except that tree planting may occur during the dormant season. A one-time
-application of fertilizer may be used to establish vegetation: At the end of
-five years the restored buffer shall comply with the restoration criteria in
-subsection (h)(3)(vii) of this section:
-• Less than or equal to 2,500 square feet of buffer disturbance              X
-• Greater than 2,500 square feet of buffer disturbance                               X
-• Associated with culvert installation or bridge construction or replacement.        X
-Temporary sediment and erosion control devices, provided that the disturbed
-area is restored to pre-construction topographic and hydrologic conditions
-immediately after construction is complete and replanted immediately with
-comparable vegetation, except that tree planting may occur during the dormant
-season. A one-time application of fertilizer may be used to establish
-vegetation. At the end of five years the restored buffer shall comply with the
-restoration criteria in subsection (h)(3)(vii) of this section:
-• In Zone Two provided ground cover is established within timeframes required
-by the Sedimentation and Erosion Control Act, vegetation in Zone One is not    X
-compromised, and runoff is released as diffuse flow in accordance with
-subsection (f)(5) of this section.
-• In Zones one and two to control impacts associated with uses approved by
-Johnston County or that have received a variance, provided that sediment and           X
-erosion control for upland areas is addressed, to the maximum extent
-practical, outside the buffer.
-• In-stream temporary erosion and sediment control measures for work within a
-stream channel that is authorized under Sections 401 and 404 of the Federal    X
-Water Pollution Control Act.
-• In-stream temporary erosion and sediment control measures for work within a        X
-stream channel.
-Utility, electric, aerial, perpendicular crossings of streams and other
-surface waters subject to this section2,3,5:
-• Disturb equal to or less than 150 linear feet of riparian buffer           X
-• Disturb greater than 150 linear feet of riparian buffer                            X
-Utility, electric, aerial, other than perpendicular crossings5:
-• Impacts in Zone Two                                                                X
-• Impacts in Zone One2,3                                                                        X
-Utility, electric, underground, perpendicular crossings3,4,5:
-• Disturb less than or equal to 40 linear feet of riparian buffer            X
-• Disturb greater than 40 linear feet of riparian buffer                             X
-Utility, electric, underground, other than perpendicular crossings4:
-• Impacts in Zone Two                                                        X
-• Impacts in Zone One1                                                       X
-Utility, non-electric, perpendicular crossings of streams and other surface
-waters subject to this section3,5:
-• Disturb equal to or less than 40 linear feet of riparian buffer with a     X
-maintenance corridor equal to or less than 10 feet in width
-• Disturb equal to or less than 40 linear feet of riparian buffer with a             X
-maintenance corridor greater than 10 feet in width
-• Disturb greater than 40 linear feet but equal to or less than 150 linear
-feet of riparian buffer with a maintenance corridor equal to or less than 10           X
-feet in width
-• Disturb greater than 40 linear feet but equal to or less than 150 linear
-feet of riparian buffer with a maintenance corridor greater than 10 feet in                       X
-width
-• Disturb greater than 150 linear feet of riparian buffer                                       X
-Utility, non-electric, other than perpendicular crossings4.5:
-• Impacts in Zone Two                                                                X
-• Impacts in Zone One1                                                                          X
-Vegetation management:
-• Emergency fire control measures provided that topography is restored       X
-• Mowing or harvesting of plant products in Zone Two                         X
-• Planting vegetation to enhance the riparian buffer                         X
-• Pruning forest vegetation provided that the health and function of the     X
-forest vegetation is not compromised
-• Removal of individual trees that are in danger of causing damage to        X
-dwellings, other structures or human life
-• Removal of poison ivy                                                      X
-• Removal of invasive exotic vegetation as defined in: Smith, Cherri L. 1998.
-Exotic Plant Guidelines. Dept. of Environment and Natural Resources. Division  X
-of Parks and Recreation. Raleigh, NC. Guideline #30
-• Vehicular access roads leading to water-dependent structures as defined in
-15A NCAC 02B .0202, provided they do not cross the surface water and have              X
-minimum practicable width not exceeding ten feet.
-• Water dependent structures as defined in 15A NCAC 02B .0202 where                  X
-installation and use result in disturbance to riparian buffers.
-Water supply reservoirs:
-• New reservoirs where a riparian buffer that meets the requirements of
-subsections (f)(4) and (f)(5) of this section is established adjacent to the           X
-reservoir
-• New reservoirs where a riparian buffer that meets the requirements of
-subsections (f)(4) and (f)(5) of this section is not established adjacent to                      X
-the reservoir
-Water wells                                                                    X
-Wetland restoration                                                            X
-Wildlife passage structures                                                            X
-1 Provided that:
-•   No heavy equipment is used in Zone One.
-•   Vegetation in undisturbed portions of the buffer is not compromised.
-•   Felled trees are removed by chain.
-•   No permanent felling of trees occurs in protected buffers or streams.
-•   Stumps are removed only by grinding.
-•   At the completion of the project the disturbed area is stabilized with native vegetation.
-•   Zones one and two meet the requirements of subsections (f)(4) and (f)(5)
-2 Provided that, in Zone One, all of the following BMPs for overhead utility lines are used. If all of these
-BMPs are not used, then the overhead utility lines shall require a no practical alternative evaluation by
-Johnston County as defined in subsection (h)(1).
-•   A minimum zone of 10 feet wide immediately adjacent to the water body shall be managed such that only
-vegetation that poses a hazard or has the potential to grow tall enough to interfere with the line is
-removed.
-•   Woody vegetation shall be cleared by hand. No land grubbing or grading is allowed.
-•   Vegetative root systems shall be left intact to maintain the integrity of the soil. Stumps shall remain
-where trees are cut.
-•   Riprap shall not be used unless it is necessary to stabilize a tower.
-•   No fertilizer shall be used other than a one-time application to re-establish vegetation.
-•   Construction activities shall minimize the removal of woody vegetation, the extent of the disturbed area,
-and the time in which areas remain in a disturbed state.
-•   Active measures shall be taken after construction and during routine maintenance to ensure diffuse flow
-of stormwater through the buffer.
-•   In wetlands, mats shall be utilized to minimize soil disturbance.
-3 Provided that poles or aerial infrastructure shall not be installed within 10 feet of a water body unless
-Johnston County completes a no practical alternative evaluation as defined in subsection (h)(1).
-4 Provided that, in Zone One, all of the following BMPs for underground utility lines are used. If all of
-these BMPs are not used, then the underground utility line shall require a no practical alternative
-evaluation by Johnston County, as defined in subsection (h)(1).
-•   Woody vegetation shall be cleared by hand. No land grubbing or grading is allowed.
-•   Vegetative root systems shall be left intact to maintain the integrity of the soil. Stumps shall remain,
-except in the trench where trees are cut.
-•   Underground cables shall be installed by vibratory plow or trenching.
-•   The trench shall be backfilled with the excavated soil material immediately following cable installation.
-•   No fertilizer shall be used other than a one-time application to re-establish vegetation.
-•   Construction activities shall minimize the removal of woody vegetation, the extent of the disturbed area,
-and the time in which areas remain in a disturbed state.
-•   Measures shall be taken upon completion of construction and during routine maintenance to ensure diffuse
-flow of stormwater through the buffer.
-•   In wetlands, mats shall be utilized to minimize soil disturbance.
-5 Perpendicular crossings are those that intersect the surface water at an angle between 75 degrees and 105
-degrees.
- 
-      (3)   Requirements for categories of uses. Uses designated in subsection
-(g)(2) of this section as exempt, allowable, and allowable with mitigation
-within a riparian buffer shall have the following requirements:
-         i.   Exempt. Uses designated as exempt are permissible without
-authorization by Johnston County provided that they adhere to the limitations
-of the activity as defined in subsection (g)(2) of this section, the Table of
-Uses. Exempt uses shall be designed, constructed and maintained to minimize
-soil disturbance and to provide the maximum water quality protection
-practicable, including construction, monitoring, and maintenance activities. In
-addition, exempt uses shall meet the requirements listed in subsection (f)(5)
-of this section.
-         ii.   Allowable. Uses designated as allowable may proceed provided
-that there are no practical alternatives to the requested use pursuant to
-subsection (h)(1) of this section. This includes construction, monitoring, and
-maintenance activities. These uses require written authorization from the
-Johnston County environmental and stormwater manager.
-         iii.   Allowable with mitigation. Uses designated as allowable with
-mitigation may proceed provided that there are no practical alternatives to the
-requested use pursuant to subsection (h)(1) of this section and an appropriate
-mitigation strategy has been approved pursuant to subsection (h)(3). These uses
-require written authorization from the Johnston County environmental and
-stormwater manager.
-         iv.   Uses that are not listed may not proceed within the riparian
-buffer unless a variance is granted pursuant to subsection (h)(2) of this
-section. Mitigation may be required as one condition of a variance approval.
-   (h)    Permits procedures, requirements, and approvals.
-      (1)   Determination of no practical alternatives / request for
-authorization certificate.
-         i.   Persons who wish to undertake uses designated as allowable or
-allowable with mitigation shall submit a request for a "no practical
-alternatives" determination to Johnston County. The applicant shall certify
-that the project meets all the following criteria for finding "no practical
-alternatives":
-            a.   The basic project purpose cannot be practically accomplished
-in a manner that would better minimize disturbance, preserve aquatic life and
-habitat, and protect water quality;
-            b.   The use cannot practically be reduced in size or density,
-reconfigured or redesigned to better minimize disturbance, preserve aquatic
-life and habitat, and protect water quality; and
-            c.   Best management practices shall be used if necessary to
-minimize disturbance, preserve aquatic life and habitat, and protect water
-quality.
-         ii.   The applicant shall also submit at least the following
-information in support of their assertion of "no practical alternatives":
-            a.   The name, address and phone number of the applicant;
-            b.   The nature of the activity to be conducted by the applicant;
-            c.   The location of the activity, including the jurisdiction;
-            d.   A map of sufficient detail to accurately delineate the
-boundaries of the land to be utilized in carrying out the activity, the
-location and dimensions of any disturbance in riparian buffers associated with
-the activity, and the extent of riparian buffers on the land;
-            e.   An explanation of why this plan for the activity cannot be
-practically accomplished, reduced or reconfigured to better minimize
-disturbance to the riparian buffer, preserve aquatic life and habitat and
-protect water quality; and
-            f.   Plans for any best management practices proposed to be used to
-control the impacts associated with the activity.
-         iii.   Within 60 days of a submission that addresses subsection (h)(1)
-(ii), Johnston County shall review the entire project and make a finding of
-fact as to whether the criteria in subsection (h)(1)(i) of this section have
-been met. A finding of "no practical alternatives" shall result in issuance of
-an Authorization Certificate. Failure to act within 60 days shall be construed
-as a finding of "no practical alternatives" and an Authorization Certificate
-shall be issued to the applicant unless one of the following occurs:
-            a.   The applicant agrees, in writing, to a longer period;
-            b.   Johnston County determines that the applicant has failed to
-furnish requested information necessary for the county decision;
-            c.   The final decision is to be made pursuant to a public hearing;
-or
-            d.   The applicant refuses access to its records or premises for
-the purpose of gathering information necessary to Johnston County's decision.
-         iv.   Johnston County may attach conditions to the Authorization
-Certificate that support the purpose, spirit and intent of this section.
-         v.   Any appeals of determinations regarding Authorization
-Certificates shall be referred to the Director of the Division of Water
-Resources, c/o the 401 & Buffer Permitting Unit, or its successor. The
-director's decision is subject to review as provided in G.S. ch. 150B, art. 3
-and 4.
-      (2)   Variances.
-         i.   Requirements for variances. Persons who wish to undertake uses
-not listed in the Table of Uses may pursue a variance. Johnston County may
-grant minor variances. For major variances, Johnston County shall prepare
-preliminary findings and submit them to the Environmental Management Commission
-for approval. The variance request procedure shall be as follows:
-            a.   For any variance request, the Johnston County environmental
-and stormwater manager shall make a finding of fact as to whether there are
-practical difficulties or unnecessary hardships that prevent compliance with
-the riparian buffer protection requirements. A finding of practical
-difficulties or unnecessary hardships shall require that the following
-conditions are met:
-               i.   If the applicant complies with the provisions of this
-section, he/she can secure no reasonable return from, nor make reasonable use
-of, his/her property. Merely proving that the variance would permit a greater
-profit from the property shall not be considered adequate justification for a
-variance. Moreover, the Johnston County environmental and stormwater manager
-shall consider whether the variance is the minimum possible deviation from the
-terms of this section that shall make reasonable use of the property possible;
-               ii.   The hardship results from application of this section to
-the property rather than from other factors such as deed restrictions or other
-hardship;
-               iii.   The hardship is due to the physical nature of the
-applicant's property, such as its size, shape, or topography, such that
-compliance with provisions of this section would not allow reasonable use of
-the property;
-               iv.   The applicant did not cause the hardship by knowingly or
-unknowingly violating this section;
-               v.   The applicant did not purchase the property after the
-effective date of this section, and then request a variance; and
-               vi.   The hardship is rare or unique to the applicant's
-property.
-            b.   The variance is in harmony with the general purpose and intent
-of the state's riparian buffer protection requirements and this section and
-preserves its spirit; and
-            c.   In granting the variance, the public safety and welfare have
-been assured, water quality has been protected, and substantial justice has
-been done.
-         ii.   Minor variances. A minor variance request pertains to activities
-that will impact only Zone Two of the riparian buffer. Minor variance requests
-shall be reviewed and approved based on the criteria in subsection (h)(1)(i)
-through subsection (h)(1)(iii) by the Johnston County environmental and
-stormwater manager pursuant to G.S. ch. 153A, art. 18, or G.S. ch. 160A, art.
-19. Johnston County may attach conditions to the variance approval that support
-the purpose, spirit and intent of the riparian buffer protection program.
-Request for appeals to decisions made by Johnston County shall be made in
-writing to the Director of the Division of Water Resources c/o the 401 & Buffer
-Permitting Unit, or its successor. The director's decision is subject to review
-as provided in G.S. ch. 150B, art. 3 and 4.
-         iii.   Major variances. A major variance request pertains to
-activities that will impact any portion of Zone One or any portion of both
-Zones One and Two of the riparian buffer. If the Johnston County environmental
-and stormwater manager has determined that a major variance request meets the
-requirements in subsection (h)(1)(i) through subsection (h)(1)(iii), then the
-environmental and stormwater manager shall prepare a preliminary finding and
-submit it to the NC Environmental Management Commission for approval. Within 90
-days after receipt from Johnston County, the commission shall review
-preliminary findings on major variance requests and take one of the following
-actions: approve, approve with conditions and stipulations, or deny the
-request. Appeals from a commission decision on a major variance request are
-made on judicial review to the Office of Administrative Hearings under G.S.
-153A-345.
-      (3)   Mitigation.
-         i.   This item shall apply to persons who wish to impact a riparian
-buffer in the Neuse River watershed when one of the following applies:
-            a.   A person has received an Authorization Certificate pursuant to
-subsection (h)(1) of this section for a proposed use that is designated as
-"allowable with mitigation;" or
-            b.   A person has received a variance pursuant to subsection (h)(2)
-of this section and is required to perform mitigation as a condition of a
-variance approval.
-         ii.   Issuance of the mitigation approval. Johnston County shall issue
-a mitigation approval upon determining that a proposal meets the requirements
-set out in this section. The approval shall identify at a minimum the option
-chosen, the required and proposed areas, and either the mitigation location or
-the offset payment amount as applicable.
-         iii.   Options for meeting the mitigation requirement. The mitigation
-requirement may be met through one of the following options:
-            a.   Payment of a compensatory mitigation fee to the Riparian
-Buffer Restoration Fund pursuant to 15A NCAC 02B .0242 (Mitigation Program for
-Protection and Maintenance of Existing Riparian Buffers) contingent upon
-acceptance of payments by the NC Ecosystem Enhancement Program, or to a private
-mitigation bank that complies with banking requirements of the US Army Corps of
-Engineers, currently set out at http://www.saw.usace.army.mil/WETLANDS/
-Mitigation/mitbanks.html or from the US Army Corps of Engineers, P.O. Box 1890,
-Wilmington, NC, 28402-1890, and the applicable trading criteria in Rule 15A
-NCAC 02B .0273;
-            b.   Donation of real property or of an interest in real property
-pursuant to subsection (h)(3)(vi) of this section; or
-            c.   Restoration or enhancement of a non-forested riparian buffer
-pursuant to the requirements of subsection (h)(3)(vii) of this section.
-         iv.   The area of mitigation. Johnston County shall determine the
-required area of mitigation, which shall apply to all mitigation options
-identified in subsection (h)(3)(iii) of this section and as further specified
-in the requirements for each option set out in this section, according to the
-following:
-            a.   The impacts in square feet to each zone of the riparian buffer
-shall be determined by Johnston County by adding the following:
-               i.   The area of the footprint of the use causing the impact to
-the riparian buffer;
-               ii.   The area of the boundary of any clearing and grading
-activities within the riparian buffer necessary to accommodate the use; and
-               iii.   The area of any ongoing maintenance corridors within the
-riparian buffer associated with the use.
-            b.   The required area of mitigation shall be determined by
-applying the following multipliers to the impacts determined in subsection (h)
-(3)(iv)(a) of this section to each zone of the riparian buffer:
-               i.   Impacts to Zone One of the riparian buffer shall be
-multiplied by three;
-               ii.   Impacts to Zone Two of the riparian buffer shall be
-multiplied by one and one-half; and
-               iii.   Impacts to wetlands within Zones One and Two of the
-riparian buffer that are subject to mitigation under 15A NCAC 2H .0506 shall
-comply with the mitigation ratios in 15A NCAC 2H .0506.
-         v.   The location of mitigation. For any option chosen, the mitigation
-effort shall be the same distance from the Neuse River estuary as the proposed
-impact, or closer to the estuary than the impact, and as close to the location
-of the impact as feasible.
-         vi.   Donation of property. Persons who choose to satisfy their
-mitigation determination by donating real property or an interest in real
-property shall meet the following requirements:
-            a.   The donation of real property interests may be used to either
-partially or fully satisfy the payment of a compensatory mitigation fee to the
-Riparian Buffer Restoration Fund pursuant to 15A NCAC 02B .0273. The value of
-the property interest shall be determined by an appraisal performed in
-accordance with subsection (h)(3)(vi)(d)(iv) of this section. The donation
-shall satisfy the mitigation determination if the appraised value of the
-donated property interest is equal to or greater than the required fee. If the
-appraised value of the donated property interest is less than the required fee
-calculated pursuant to 15A NCAC 02B .0273, the applicant shall pay the
-remaining balance due.
-            b.   The donation of conservation easements to satisfy compensatory
-mitigation requirements shall be accepted only if the conservation easement is
-granted in perpetuity.
-            c.   Donation of real property interests to satisfy the mitigation
-determination shall be accepted only if such property meets all of the
-following requirements:
-               i.   In addition to the location requirements of subsection (h)
-(3)(v) of this section, the property shall be located within an area that is
-identified as a priority for restoration in, or is otherwise consistent with
-the goals of, the Basinwide Wetlands and Riparian Restoration Plan developed by
-NC Division of Water Resources pursuant to G.S. 143-214.10; or shall be located
-at a site that is otherwise consistent with the goals outlined in the Basinwide
-Wetlands and Riparian Restoration Plan.
-               ii.   The property shall contain riparian buffers not currently
-protected by the state's riparian buffer protection program that are in need of
-restoration as defined in subsection (h)(3)(vii)(d) of this section;
-               iii.   The restorable riparian buffer on the property shall have
-a minimum length of 1000 linear feet along a surface water and a minimum width
-of 50 feet as measured horizontally on a line perpendicular to the surface
-water;
-               iv.   The size of the restorable riparian buffer on the property
-to be donated shall equal or exceed the area of mitigation responsibility
-determined pursuant to subsection (h)(3)(iv) of this section;
-               v.   Restoration shall not require removal of man-made
-structures or infrastructure;
-               vi.   The property shall be suitable to be successfully
-restored, based on existing hydrology, soils, and vegetation;
-               vii.   The estimated cost of restoring and maintaining the
-property shall not exceed the value of the property minus site identification
-and transaction costs;
-               viii.   The property shall not contain any building, structure,
-object, site, or district that is listed in the National Register of Historic
-Places established pursuant to Public Law 89-665, 16 U.S.C. 470 as amended;
-               ix.   The property shall not contain any hazardous substance or
-solid waste;
-               x.   The property shall not contain structures or materials that
-present health or safety problems to the general public. If wells, septic,
-water or sewer connections exist, they shall be filled, remediated or closed at
-owner's expense in accordance with state and local health and safety
-regulations;
-               xi.   The property and adjacent properties shall not have prior,
-current, and known future land use that would inhibit the function of the
-restoration effort; and
-               xii.   The property shall not have any encumbrances or
-conditions on the transfer of the property interests.
-            d.   At the expense of the applicant or donor, the following
-information shall be submitted to the Johnston County environmental and
-stormwater manager with any proposal for donations or dedications of interest
-in real property:
-               i.   Documentation that the property meets the requirements laid
-out in subsection (h)(3)(vi)(c) of this section;
-               ii.   US Geological Survey 1:24,000 (7.5 minute) scale
-topographic map, county tax map, USDA Natural Resource Conservation Service
-County Soil Survey Map, and county road map showing the location of the
-property to be donated along with information on existing site conditions,
-vegetation types, presence of existing structures and easements;
-               iii.   A current property survey performed in accordance with
-the procedures of the North Carolina Department of Administration, State
-Property Office as identified by the State Board of Registration for
-Professional Engineers and Land Surveyors in "Standards of Practice for Land
-Surveying in North Carolina." Copies may be obtained from the North Carolina
-State Board of Registration for Professional Engineers and Land Surveyors, 3620
-Six Forks Road, Suite 300, Raleigh, North Carolina 27609;
-               iv.   A current appraisal of the value of the property performed
-in accordance with the procedures of the North Carolina Department of
-Administration, State Property Office as identified by the Appraisal Board in
-the "Uniform Standards of Professional North Carolina Appraisal Practice."
-Copies may be obtained from the Appraisal Foundation, Publications Department,
-P.O. Box 96734, Washington, D.C. 20090-6734; and
-               v.   A title certificate.
-         vii.   Riparian buffer restoration or enhancement. Persons who choose
-to meet their mitigation requirement through riparian buffer restoration or
-enhancement shall meet the following requirements:
-            a.   The applicant may restore or enhance a non-forested riparian
-buffer if either of the following applies:
-               i.   The area of riparian buffer restoration is equal to the
-required area of mitigation determined pursuant to subsection (h)(3)(iv) of
-this section; or
-               ii.   The area of riparian buffer enhancement is three times
-larger than the required area of mitigation determined pursuant to subsection
-(h)(3)(iv) of this section;
-            b.   The location of the riparian buffer restoration or enhancement
-shall comply with the requirements in subsection (h)(3)(v) of this section;
-            c.   The riparian buffer restoration or enhancement site shall have
-a minimum width of 50 feet as measured horizontally on a line perpendicular to
-the surface water;
-            d.   The applicant shall first receive an Authorization Certificate
-for the proposed use according to the requirements of subsection (h)(1) of this
-section. After receiving this determination, the applicant shall submit a
-restoration or enhancement plan for approval by Johnston County. The
-restoration or enhancement plan shall contain the following:
-               i.   A map of the proposed restoration or enhancement site;
-               ii.   A vegetation plan. The vegetation plan shall include a
-minimum of at least two native hardwood tree species planted at a density
-sufficient to provide 320 trees per acre at maturity;
-               iii.   A grading plan. The site shall be graded in a manner to
-ensure diffuse flow through the riparian buffer;
-               iv.   A fertilization plan; and
-               v.   A schedule for implementation;
-            e.   Within one year after Johnston County has approved the
-restoration or enhancement plan, the applicant shall present proof to the
-County that the riparian buffer has been restored or enhanced. If proof is not
-presented within this timeframe, then the person shall be in violation of both
-the state's and the county's riparian buffer protection program;
-            f.   The mitigation area shall be placed under a perpetual
-conservation easement that will provide for protection of the property's
-nutrient removal functions; and
-            g.   The applicant shall submit annual reports for a period of five
-years after the restoration or enhancement showing that the trees planted have
-survived and that diffuse flow through the riparian buffer has been maintained.
-The applicant shall replace trees that do not survive and restore diffuse flow
-if needed during that five-year period.
-      (4)   Requirements Specific to Forest Harvesting.  The following
-requirements shall apply for forest harvesting operations and practices.
-         i.   The following measures shall apply in the entire riparian buffer:
-            a.   Logging decks and sawmill sites shall not be placed in the
-riparian buffer.
-            b.   Access roads and skid trails shall be prohibited except for
-temporary and permanent stream crossings established in accordance with 15A
-NCAC 1I .0203. Temporary stream crossings shall be permanently stabilized after
-any site disturbing activity is completed.
-            c.   Timber felling shall be directed away from the stream or water
-body.
-            d.   Skidding shall be directed away from the stream or water body
-and shall be done in a manner that minimizes soil disturbance and prevents the
-creation of channels or ruts.
-            e.   Individual trees may be treated to maintain or improve their
-health, form or vigor.
-            f.   Harvesting of dead or infected trees or application of
-pesticides necessary to prevent or control extensive tree pest and disease
-infestation shall be allowed. These practices must be approved by the Division
-of Forest Resources for a specific site. The Division of Forest Resources must
-notify the Division of all approvals.
-            g.   Removal of individual trees that are in danger of causing
-damage to structures or human life shall be allowed.
-            h.   Natural regeneration of forest vegetation and planting of
-trees, shrubs, or ground cover plants to enhance the riparian buffer shall be
-allowed provided that soil disturbance is minimized. Plantings shall consist
-primarily of native species.
-            i.   High intensity prescribed burns shall not be allowed.
-            j.   Application of fertilizer shall not be allowed except as
-necessary for permanent stabilization. Broadcast application of fertilizer or
-herbicides to the adjacent forest stand shall be conducted so that the
-chemicals are not applied directly to or allowed to drift into the riparian
-buffer.
-         ii.   In Zone 1, forest vegetation shall be protected and maintained.
-Selective harvest as provided for below is allowed on forest lands that have a
-deferment for use value under forestry in accordance with G.S. 105-277.2
-through G.S. 105-277.6 or on forest lands that have a forest management plan
-prepared or approved by a registered professional forester. Copies of either
-the approval of the deferment for use value under forestry or the forest
-management plan shall be produced upon request. For such forest lands,
-selective harvest is allowed in accordance with the following:
-            a.   Tracked or wheeled vehicles are not permitted except at stream
-crossings designed, constructed and maintained in accordance with 15A NCAC 1I
-.0203.
-            b.   Soil disturbing site preparation activities are not allowed.
-            c.   Trees shall be removed with the minimum disturbance to the
-soil and residual vegetation.
-            d.   The following provisions for selective harvesting shall be
-met:
-               i.   The first 10 feet of Zone 1 directly adjacent to the stream
-or waterbody shall be undisturbed except for the removal of individual high
-value trees as defined provided that no trees with exposed primary roots
-visible in the streambank be cut.
-               ii.   In the outer 20 feet of Zone 1, a maximum of 50 percent of
-the trees greater than five inches DBH may be cut and removed. The reentry time
-for harvest shall be no more frequent than every 15 years, except on forest
-plantations where the reentry time shall be no more frequent than every five
-years. In either case, the trees remaining after harvest shall be as evenly
-spaced as possible.
-               iii.   In Zone 2, harvesting and regeneration of the forest
-stand shall be allowed provided that sufficient ground cover is maintained to
-provide for diffusion and infiltration of surface runoff.
-   (i)   Compliance and enforcement.
-      (1)   Site inspections.
-         i.   Agents, officials, or other qualified persons authorized by
-Johnston County may periodically inspect riparian buffers to ensure compliance
-with this section.
-         ii.   Notice of the right to inspect shall be included in the letter
-of approval of each variance and buffer authorization.
-         iii.   Authority to enter property and conduct investigations and
-inspections. Authorized agents, officials or other qualified persons shall have
-the authority, upon presentation of proper credentials, to enter and inspect at
-reasonable times any property, public or private, for the purpose of
-investigating and inspecting the site of any riparian buffer. No person shall
-willfully resist, delay, or obstruct an authorized representative, employee, or
-agent of Johnston County, while that person is inspecting or attempting to
-inspect a riparian buffer nor shall any person obstruct, hamper or interfere
-with any such representative while in the process of carrying out their
-official duties. The county shall have the power to conduct such investigations
-as deemed reasonably necessary to carry out the duties as prescribed in this
-section.
-         iv.   Notice of violation.
-            a.   If it is determined that a person has failed to comply with
-the requirements of this section, or rules, or orders adopted or issued
-pursuant to this section, a notice of violation shall be served upon that
-person. The notice may be served by any means authorized under G.S. 1A-1, rule
-4.
-            b.   The notice shall specify the violation and inform the person
-of the actions that need to be taken to comply with this section, or rules or
-orders adopted pursuant to this section. The notice shall direct the person to
-correct the violation within a specified reasonable time. The notice shall
-inform the person that any person who violates or fails to act in accordance
-with any of the provisions of this section or rules or orders adopted or issued
-pursuant to this section is subject to the civil and criminal penalties and
-other enforcement actions as provided in this section.
-         v.   Power to require statements. Johnston County shall also have the
-power to require written statements, or the filing of reports under oath, with
-respect to pertinent questions relating to land-disturbing activities.
-      (2)   Civil penalties.
-         i.   Assessment of penalties. Any person who violates or fails to act
-in accordance with any of the provisions of this section or rules or orders
-adopted or issued pursuant to this section shall be subject to a civil penalty.
-A civil penalty for a violation may be assessed in an amount not to exceed ten
-thousand dollars ($10,000) per day. If any violation for which a penalty may be
-assessed is continuous, a civil penalty may be assessed for each day of the
-violation in an amount not to exceed twenty-five thousand dollars ($25,000) per
-day for as long as the violation occurs. Each day of a continuing violation
-shall constitute a separate violation under subsection (i)(2)(i).
-         ii.   Notice of civil penalty assessment. The Johnston County
-environmental and stormwater manager shall provide written notice of the civil
-penalty amount and the basis for the assessment to the person assessed. The
-notice of civil penalty assessment shall be served by any means authorized
-under G.S. 1A-1, Rule 4, and shall direct the violator to either pay the
-assessment or contest the assessment, within 30 days after receipt of the
-notice of assessment by written demand for a hearing.
-         iii.   Hearing. A hearing on the civil penalty shall be conducted by
-Johnston County board of adjustment in accordance with the Johnston County Code
-of Ordinance Section
-14-594(b)(c).
-         iv.   Final decision. The planning director shall notify the applicant
-of the board's decision in writing and shall file a copy of it with the
-County's planning department and with the Johnston County environmental and
-stormwater manager.
-         v.   Appeal of final decision. A decision of the board of adjustment
-on an application for appeal may be appealed to the superior court by an
-aggrieved party. Such appeal shall be in the nature of certiorari and must be
-filed within 30 days of the filing of the decision in the office of the
-planning department.
-         vi.   Demand for payment of penalty. An assessment that is not
-contested is due when the violator is served with a notice of assessment. The
-civil penalty must be paid within 30 days of the assessment, if not appealed,
-or within 30 days after the conclusion of the administrative or judicial review
-of the assessment. If payment is not received within 30 days after demand for
-payment is made, Johnston County may institute a civil action to recover the
-amount of the assessment. The civil action may be brought in the Superior Court
-where the violation occurred, or the violator's residence or principal place of
-business is located. Such civil actions must be filed within three years of the
-date the assessment was due.
-         vii.   Use of penalties. Civil penalties collected pursuant to this
-section shall be credited to the general fund of the Johnston County as nontax
-revenue.
-      (3)   Criminal penalties.  
-         i.   Any person who negligently violates any provision of this section
-or rule or order adopted pursuant to this section, shall be guilty of a Class 2
-misdemeanor which may include a fine not to exceed fifteen thousand dollars
-($15,000) per day of violation, provided that such fine shall not exceed a
-cumulative total of two hundred thousand dollars ($200,000) for each period of
-30 days during which such a violation continues.
-         ii.   Any person who knowingly or willingly violates any provision of
-this section or rule or order adopted pursuant to this section, shall be guilty
-of a Class I felony which may include a fine not to exceed one hundred thousand
-dollars ($100,000) per day of violation, provided that this fine shall not
-exceed a cumulative total of five hundred thousand dollars ($500,000) for each
-period of 30 days during which such a violation continues.
-         iii.   Any person who maliciously violates any provision of this
-section or rule or order adopted pursuant to this section, shall be guilty of a
-Class C felony which may include a fine not to exceed two hundred fifty
-thousand dollars ($250,000) per day of violation, provided that this fine shall
-not exceed a cumulative total of one million dollars ($1,000,0000) for each
-period of 30 days during which such a violation continues.
-      (4)   Injunctive relief.
-         i.   Civil action in Superior Court. Whenever the governing body of
-Johnston County has reasonable cause to believe that any person is violating or
-threatening to violate this section or any rule or order adopted or issued
-pursuant to this section, it may, either before or after the institution of any
-other action or proceeding authorized by this section, institute a civil action
-in the name of the County for injunctive relief to restrain the violation or
-threatened violation. The action shall be brought in the Superior Court of
-Johnston County.
-         ii.   Order to cease violation. Upon determination by a court that an
-alleged violation is occurring or is threatened, the court shall enter any
-order or judgment that is necessary to abate the violation, to ensure that
-restoration is performed, or to prevent the threatened violation. The
-institution of an action for injunctive relief under this section shall not
-relieve any party to the proceedings from any civil or criminal penalty
-prescribed for violations of this section.
-      (5)   Compliance with requirements. Any person engaged in new activities
-as defined by this section who fails to meet the requirements of this section
-shall be deemed in violation of this section.
-   (j)   Severability. If any one or more sections or portions of this section
-are held to be invalid or unenforceable, all other sections and portions
-thereof shall nevertheless continue in full force and effect.
-   (k)   Effective date. This section will become effective upon approval by
-the NC Environmental Management Commission and adoption by the Johnston County
-Board of Commissioners.
-   (l)   Revisions to this section. Johnston County shall review any revisions
-to the Model Local Riparian Buffer Protection Ordinance made by the
-environmental management commission and, within 60 days of receipt of the
-recommended revisions, submit draft amendments to the commission for its
-consideration and comments. Within 90 days after receipt of the commissions'
-comments, Johnston County will incorporate amendments into this section.
-   (m)   Definitions. For the purpose of this section, these terms shall be
-defined as follows:
-      Access trails means pedestrian trails constructed of pervious or
-impervious surfaces and related structures to access a surface water, including
-boardwalks, steps, rails, and signage.
-      Airport facilities means all properties, facilities, buildings,
-structures, and activities that satisfy or otherwise fall within the scope of
-one or more of the definitions or uses of the words or phrases 'air navigation
-facility', 'airport', or 'airport protection privileges' under G.S. 63-1; the
-definition of 'aeronautical facilities' in G.S. 63-79(1); the phrase 'airport
-facilities' as used in G.S. 159-48(b)(1); the phrase 'aeronautical facilities'
-as defined in G.S. 159-81 and G.S. 159-97; and the phrase 'airport facilities
-and improvements' as used in Article V, Section 13, of the North Carolina
-Constitution, which shall include, without limitation, any and all of the
-following: airports, airport maintenance facilities, clear zones, drainage
-ditches, fields, hangars, landing lighting, airport and airport-related
-offices, parking facilities, related navigational and signal systems, runways,
-stormwater outfalls, terminals, terminal shops, and all appurtenant areas used
-or suitable for airport buildings or other airport facilities, and all
-appurtenant rights-of-way; restricted landing areas; any structures,
-mechanisms, lights, beacons, marks, communicating systems, or other
-instrumentalities or devices used or useful as an aid, or constituting an
-advantage or convenience to the safe taking off, navigation, and landing of
-aircraft, or the safe and efficient operation or maintenance of an airport or
-restricted landing area; easements through, or interests in, air space over
-land or water, interests in airport hazards outside the boundaries of airports
-or restricted landing areas, and other protection privileges, the acquisition
-or control of which is necessary to ensure safe approaches to the landing areas
-of airports and restricted landing areas, and the safe and efficient operation
-thereof and any combination of any or all of such facilities. Notwithstanding
-the foregoing, the following shall not be included in the definition of
-'airport facilities':
-         i.   Satellite parking facilities;
-         ii.   Retail and commercial development outside of the terminal area,
-such as rental car facilities; and
-         iii.   Other secondary development, such as hotels, industrial
-facilities, free-standing offices and other similar buildings, so long as these
-facilities are not directly associated with the operation of the airport, and
-are not operated by a unit of government or special governmental entity such as
-an airport authority, in which case they are included in the definition of
-'airport facilities'.
-      Channel means a natural water-carrying trough cut vertically into low
-areas of the land surface by erosive action of concentrated flowing water or a
-ditch or canal excavated for the flow of water.
-      DBH means diameter at breast height of a tree measured at 4.5 feet above
-ground surface level.
-      Development means the same as defined in Rule 15A NCAC 2B .0202(23).
-      Ditch or canal means a man-made channel other than a modified natural
-stream constructed for drainage purposes that is typically dug through inter-
-stream divide areas. A ditch or canal may have flows that are perennial,
-intermittent, or ephemeral and may exhibit hydrological and biological
-characteristics similar to perennial or intermittent streams.
-      Environmental and stormwater manager means the personnel within the
-Johnston County public utilities department who has successfully completed the
-Division’s Surface Water Identification Training Certification course, its
-successor, or other equivalent training curriculum approved by the division,
-and whose job responsibility includes the administration and enforcement of the
-Johnston County Riparian Buffer Protection Ordinance.
-      Ephemeral stream means a feature that carries only stormwater in direct
-response to precipitation with water flowing only during and shortly after
-large precipitation events. An ephemeral stream may or may not have a well-
-defined channel, the aquatic bed is always above the water table, and
-stormwater runoff is the primary source of water. An ephemeral stream typically
-lacks the biological, hydrological, and physical characteristics commonly
-associated with the continuous or intermittent conveyance of water.
-      Greenway / hiking trails means pedestrian trails constructed of pervious
-or impervious surfaces and related structures including but not limited to
-boardwalks, steps, rails, and signage, and that generally run parallel to the
-shoreline.
-      High value tree means a tree that meets or exceeds the following
-standards: for pine species, 14-inch DBH or greater or 18-inch or greater stump
-diameter; or for hardwoods and wetland species, 16-inch DBH or greater or 24-
-inch or greater stump diameter.
-      Intermittent stream means a well-defined channel that contains water for
-only part of the year, typically during winter and spring when the aquatic bed
-is below the water table. The flow may be heavily supplemented by stormwater
-runoff. An intermittent stream often lacks the biological and hydrological
-characteristics commonly associated with the continuous conveyance of water.
-      Perennial stream means a well-defined channel that contains water year
-round during a year of normal rainfall with the aquatic bed located below the
-water table for most of the year. Groundwater is the primary source of water
-for a perennial stream, but it also carries stormwater runoff. A perennial
-stream exhibits the typical biological, hydrological, and physical
-characteristics commonly associated with the continuous conveyance of water.
-      Perennial waterbody means a natural or man-made basin, including lakes,
-ponds, and reservoirs, that stores surface water permanently at depths
-sufficient to preclude growth of rooted plants. For the purpose of the state's
-riparian buffer protection program, the waterbody must be part of a natural
-drainage way (i.e., connected by surface flow to a stream).
-      Shoreline stabilization is the in-place stabilization of an eroding
-shoreline. Stabilization techniques which include "soft" methods or natural
-materials (such as root wads, or rock vanes) may be considered as part of a
-restoration design. However, stabilization techniques that consist primarily of
-"hard" engineering, such as concrete lined channels, riprap, or gabions, while
-providing bank stabilization, shall not be considered stream restoration.
-      Stream means a body of concentrated flowing water in a natural low area
-or natural channel on the land surface.
-      Stream restoration is defined as the process of converting an unstable,
-altered or degraded stream corridor, including adjacent riparian zone and
-flood-prone areas to its natural or referenced, stable conditions considering
-recent and future watershed conditions. This process also includes restoring
-the geomorphic dimension, pattern, and profile as well as biological and
-chemical integrity, including transport of water and sediment produced by the
-stream's watershed in order to achieve dynamic equilibrium. Referenced or
-referenced reach means a stable stream that is in dynamic equilibrium with its
-valley and contributing watershed. A reference reach can be used to develop
-natural channel design criteria for stream restoration projects.
-      Stump diameter means the diameter of a tree measured at six inches above
-the ground surface level.
-      Surface waters means all waters of the state as defined in G.S. 143-212
-except underground waters.
-      Temporary road means a road constructed temporarily for equipment access
-to build or replace hydraulic conveyance structures such as bridges, culverts,
-pipes or water dependent structures, or to maintain public traffic during
-construction.
-      Tree means a woody plant with a DBH equal to or exceeding five inches or
-a stump diameter exceeding six inches.
-(Ord. of 7-10-2000, §§ 9.7, 9.8; Ord. of 1-2-2001, § 9.10; Ord. of 5-6-2013;
-Ord. of 1-6-2014)
-Sec. 14-394. - Right to enter.
-   Any county personnel, or contractors for the county, shall be permitted to
-enter upon public or private property for the purposes of inspection, sampling,
-monitoring, testing or otherwise verifying compliance. Should the county
-personnel, or contractor for the county, be denied reasonable access to any
+(Ord. of 1-2-2001, § 9.9; Amend. of 9-2-2025)
+Sec. 14-397. - Right to enter.
+   The stormwater administrator, or their staff or contractors, shall be
+permitted to enter upon public or private property for the purposes of
+inspection, sampling, monitoring, testing or otherwise verifying compliance
+with this article.Should such persons be denied reasonable access to any
 property, the stormwater administrator shall obtain an administrative search
 warrant. No person shall obstruct, hamper or interfere with any such
 representative while carrying out his official duties.
-(Ord. of 1-2-2001, § 9.11)
-Sec. 14-395. - Variances.
-   The board of adjustment shall consider all variance requests as set out in
+(Ord. of 1-2-2001, § 9.11; Amend. of 9-2-2025)
+Sec. 14-398. - Variances.
+   (a)   Any person desiring a variance from any requirements of this article
+may file a petition for the variance with the county clerk. The request shall
+state the specific variance sought and the reasons, with support data. The
+request shall include descriptions, drawings, calculations and any other
+information that is necessary to evaluate the proposed variance.
+   (b)   The stormwater administrator will conduct a review of the request for
+a variance and submit a report to the board of adjustment.
+   (c)   The board of adjustment shall consider all variance requests pursuant
+to
 article XI of this chapter.
-(Ord. of 7-10-2000, § 9.10; Ord. of 1-2-2001, § 9.12)
-** Secs. 14-396—14-420. - Reserved. **
+   (d)    A variance may be granted if:
+   (1)   There are exceptional circumstances applicable to the site such that
+strict adherence to the provisions of this article will result in unnecessary
+hardship and not fulfill the intent of this article. The cost of compliance
+with this article shall not be considered such a hardship; and
+   (2)   The variance is in harmony with the general purpose and intent of this
+article.
+(Ord. of 7-10-2000, § 9.10; Ord. of 1-2-2001, § 9.12; Amend. of 9-2-2025)
+Sec. 14-399. - Enforcement.
+   (a)   General.
+   (1)   Authority to enforce. The provisions of this article shall be enforced
+by the stormwater administrator.
+   (2)   Violation. Any failure to comply with an applicable requirement,
+prohibition, standard, or limitation imposed by this article, or the terms or
+conditions of any permit or other development or redevelopment approval or
+authorization granted pursuant to this article, is unlawful and shall
+constitute a violation of this article.
+   (3)   Each day a separate offense. Each day that a violation continues shall
+constitute a separate and distinct violation or offense.
+   (4)   Responsible persons/entities. Any person who erects, constructs,
+reconstructs, alters (whether actively or passively), or fails to erect,
+construct, reconstruct, alter, repair or maintain any structure, practice, or
+condition in violation of this article shall be subject to the remedies,
+penalties, and/or enforcement actions in accordance with this section. Persons
+subject to the remedies and penalties set forth herein may include any
+architect, engineer, builder, contractor, developer, agency, or any other
+person who participates in, assists, directs, creates, causes, or maintains a
+condition that results in or constitutes a violation of this article, or fails
+to take appropriate action, so that a violation of this article results or
+persists; or an owner, any tenant or occupant, or any other person, who has
+control over, or responsibility for, the use or development of the property on
+which the violation occurs.
+   (b)   Procedures.
+   (1)   Notice of violation and order to correct. When the stormwater
+administrator finds that any building, structure, or land is in violation of
+this article, they shall notify the responsible person/entity in writing of the
+violation. The notification shall indicate the nature of the violation, contain
+the address or other description of the site upon which the violation occurred
+or is occurring, order the necessary action to abate the violation, and give a
+deadline for correcting the violation. The notice shall, if required, specify a
+date by which the responsible person/entity must comply with this article, and
+advise that the responsible person/entity is subject to remedies and/or
+penalties or that failure to correct the violation within the time specified
+will subject the responsible person/entity to remedies and/or penalties as
+described in this section of this article. In determining the measures required
+and the time for achieving compliance, the stormwater administrator shall take
+into consideration the technology and quantity of work required, and shall set
+reasonable and attainable time limits. A copy of the notice of violation shall
+be delivered to the holder of the development approval and to the owner of the
+property involved (if that person is not the holder of the development
+approval) by personal delivery, electronic delivery, or first class mail. The
+person or persons delivering the notice of violation shall certify to the local
+government that the order was delivered and that certificate shall be deemed
+conclusive in the absence of fraud.
+   (2)   Extension of time. A person who receives a notice of violation and
+correction order, or the owner of the land on which the violation occurs, may
+submit to the stormwater administrator a written request for an extension of
+time for correction of the violation within seven days of receipt of the notice
+of violation and corrective order. The stormwater administrator may grant the
+time extension if warranted.
+   (3)   Emergency enforcement. If delay in correcting a violation would
+seriously threaten the effective enforcement of this article or pose an
+immediate danger to the public health, safety, or welfare, the stormwater
+administrator may order the immediate cessation of a violation. Any person so
+ordered shall cease any violation immediately. The stormwater administrator may
+seek immediate enforcement, without prior written notice, through any remedy or
+penalty authorized by this article.
+   (c)   Remedies and penalties. The remedies and penalties provided for
+violations of this article shall be cumulative and in addition to any other
+remedy provided by law, and may be exercised in any order.
+   (1)   Remedies.
+      a.   Withholding of certificate of occupancy. The county manager or other
+authorized agent may refuse to issue a certificate of occupancy for the
+building or other improvements constructed or being constructed on the site and
+served by the stormwater practices in question until the responsible person(s)
+have taken the remedial measures set forth in the notice of violation, or have
+otherwise cured the violations described therein.
+      b.   Disapproval of subsequent permits and development approvals. As long
+as a violation of this article continues and remains uncorrected, the county
+manager or other authorized agent may withhold any request for a permit or
+development approval or authorization provided for by Chapter 14 of the county
+code of ordinances for the land on which the violation occurs.
+      c.   Injunction, abatements, and the like. The stormwater administrator
+may institute an action in a court of competent jurisdiction for a mandatory or
+prohibitory injunction and order of abatement to correct a violation of this
+article. Any person violating this article shall be subject to the full range
+of equitable remedies provided in the general statutes or at common law.
+      d.   Correction as public health nuisance, costs as lien, and the like.
+If the stormwater administrator determines the violation is dangerous or
+prejudicial to the public health or public safety, the stormwater administrator
+may cause the violation to be corrected and the costs to be assessed as a lien
+against the property.
+      e.   Stop work order. The stormwater administrator may issue a stop work
+order to the person(s) violating this article. A copy of the order shall be
+delivered to the holder of the development approval and to the owner of the
+property involved (if that person is not the holder of the development
+approval) by personal delivery, electronic delivery, or first class mail. The
+person or persons delivering the order shall certify to the local government
+that the order was delivered and that certificate shall be deemed conclusive in
+the absence of fraud.
+      f.   The stop work order shall remain in effect until the responsible
+parties have taken the remedial measures set forth in the notice of violation
+or have otherwise cured the violation or violations described therein.
+   (2)   Civil penalties.
+      a.   Violations of article. A violation of any of the provisions of this
+article or rules or other orders adopted or issued pursuant to this article may
+subject the violator to a civil penalty. A civil penalty may be assessed from
+the date the violation occurs. No penalty shall be assessed until the person
+alleged to be in violation has been notified of the violation. Refusal to
+accept the notice or failure to notify the stormwater administrator of a change
+of address shall not relieve the violator's obligation to comply with this
+article or to pay such a penalty.
+      b.   Amount of penalty. The civil penalty for each violation of this
+article may be up to the maximum allowed by law, no more than $25,000.00 per
+day. Each day of continuing violation shall constitute a separate violation. In
+determining the amount of the civil penalty, the stormwater administrator shall
+consider any relevant mitigating and aggravating factors including, but not
+limited to:
+         i.   The effect, if any, of the violation;
+         ii.   The degree and extent of harm caused by the violation;
+         iii.   The cost of rectifying the damage;
+         iv.   Whether the violator saved money through noncompliance;
+         v.   Whether the violator took reasonable measures to comply with this
+article;
+         vi.   Whether the violation was committed willfully;
+         vii.   Whether the violator reported the violation to the county; and
+         viii.   The prior record of the violator in complying or failing to
+comply with this article or any other post construction article or law.
+   The stormwater administrator is authorized to vary the amount of the per
+diem penalty based on these criteria and any relevant mitigating factors. Civil
+penalties collected pursuant to this article shall be credited to the county's
+general fund as nontax revenue, or as otherwise required by law.
+   (d)   Notice of assessment of civil penalty. The stormwater administrator
+shall determine the amount of the civil penalty and shall notify the violator
+of the amount of the penalty and the reason for assessing the penalty. This
+notice of assessment of civil penalty shall be served by any means authorized
+under Rule 4 of the North Carolina Rules of Civil Procedure, and shall direct
+the violator to either pay the assessment or file an appeal within 30 days of
+receipt of the notice.
+   (e)   Failure to pay civil penalty assessment. If a violator does not pay a
+civil penalty assessed by the stormwater administrator by the date it is due,
+the stormwater administrator may initiate a civil action to recover the amount
+of the penalty assessment. The civil action shall be brought in Johnston County
+superior court or in any other court of competent jurisdiction. A civil action
+must be filed within three years of the date the assessment was due. An
+assessment that is appealed is due at the conclusion of the administrative and
+judicial review of the assessment.
+(Ord. of 9-2-2025)
+Sec. 14-400. - Appeals.
+   (a)   The issuance of a notice of violation and corrective order shall
+entitle the aggrieved person to appeal the stormwater administrator's decision
+to the county board of adjustment. Such appeal must be made in writing to the
+county clerk within 15 days of the aggrieved party's receipt of written notice
+of the stormwater administrator's decision.
+   (b)   Any other action or decision taken in administering and enforcing this
+article, including disapproval or required modification of stormwater design
+plans, denial of a stormwater permit, the issuance of civil penalties, or
+withholding of certificates of occupancy, shall entitle the aggrieved party to
+appeal the action to the county board of adjustment. Such appeal must be made
+in writing to the county clerk within 15 days of the aggrieved party's receipt
+of written notice of the action.
+   (c)   In hearing any appeal under this section, the county board of
+adjustment shall conduct a quasi-judicial hearing in accord with North Carolina
+law applicable to such hearings.
+(Ord. of 9-2-2025)
+** Secs. 14-401—14-420. - Reserved. **
 ***** ARTICLE VIII. - FLOOD DAMAGE PREVENTION [14]  *****
    (14) Cross reference—Zoning districts, §
 14-51 et seq.; subdivisions, §
@@ -15183,7 +14420,7 @@ provisions of this article as amended.
 inventory and subsequent notices of nonconformity.
 (Ord. of 7-10-2000, § 12.7; Amend. of 8-3-2020)
 ** Secs. 14-558—14-590. - Reserved. **
-***** ARTICLE XI. - ADMINISTRATION [17]  *****
+ARTICLE XI. - ADMINISTRATION [17] 
    (17) Cross reference—Administration,
 ch. 2.
 *** DIVISION 1. - INTERPRETATIONS, APPEALS AND VARIANCES ***
@@ -16051,8 +15288,7 @@ permanent stabilization of the site has not been completed.
 obtained from other locations.
    Buffer zone means the strip of land adjacent to a lake or natural
 watercourse. In this section of the ordinance, buffer zone does NOT mean the
-same as riparian buffer zone found in Article VII Section
-14-393.
+same as riparian buffer zone.
    Commission means the North Carolina Sedimentation Control Commission.
    Common plan of development means a contiguous area where multiple separate
 and distinct land disturbing activities may be taking place at different times
@@ -22633,6 +21869,8 @@ Date           Section              Section this Code
 (Amend.)                            14-696—
                                     14-701
                             Dltd. 14-695
+9-2-2025                          14-381—
+(Amend.)                            14-400
                                    
  
 STATE LAW REFERENCE TABLE
@@ -22641,8 +21879,7 @@ following the text, of references to the North Carolina General Statutes.
 G.S. Section this Code
 G.S.                         Section this Code
 1-593                        1-2 
-1A-1, rule 4                 14-393
-                            14-698
+1A-1, rule 4                 14-698
                             14-699
 ch. 7A                       14-438
 14-4                         1-6 
@@ -22678,15 +21915,12 @@ ch. 29                       14-6
 62A-3(4)                     22-71 
 62A-3(8)                     22-71 
 62A-5                        22-71 
-63-1                         14-393
-63-79(1)                     14-393
 67-4.1                       4-13 
 67-4.1(c)                    4-13 
 74-46—74-68                20-34 
 ch. 87                       6-33 
 90-620 et seq.               Ch. 6, Art. III
 105-277.2(1, 2, 3)           3-75 
-105-277.2–105-277.6        14-393
 105-277.3                    14-6 
 105-330.9                    14-6 
 106-2 et seq.                14-7 
@@ -22709,6 +21943,7 @@ ch. 113, subch. IV           12-33
 113A-64                      14-698
                             14-699
 113A-64(b)                   14-686
+113A-85                      14-384
 115C-457.2                   14-699
 121-35                       3-75 
 130-184—130-200            4-10 
@@ -22736,11 +21971,12 @@ ch. 143, art. 33C            14-633 
 143-138                       
 143-138.9 et seq.            14-632 
 143-143.15                   14-440
-143-212                      14-393
 143-213(18)                  24-102 
 143-214.1                    20-34 
 143-214.5                    14-105 
-143-214.10                   14-393
+143.214.7                    14-384
+143.214.7(a1)(1)             14-384
+143.214.7(a1)(2)             14-384
 143-215.1                    24-102 
                             24-172 
 143-215.1(b)                 24-172 
@@ -22759,8 +21995,6 @@ ch. 143, art. 33C            14-633 
 143B-165                     10-1 
 143B-290                     20-34 
 ch. 150B                     14-699
-ch. 150B, art. 3             14-393
-ch. 150B, art. 4             14-393
 150B-14(c)                   14-683
 ch. 152A, art. 18            5-32 
 153-123                      24-5 
@@ -22768,15 +22002,13 @@ ch. 153A                     3-26 
                             20-33 
 ch. 153A, art. 6             14-2
 ch. 153A, art. 6, part 121   14-421
-ch. 153A, art. 18            14-393
 153A-45                      16-1 
 153A-60 et seq.              Ch. 2, Art. II
 153A-76 et seq.              Ch. 2 
 153A-81 et seq.              2-1 
 153A-82                      2-2 
 153A-101, 153A-102           Ch. 20, Art. III
-153A-121                     14-393
-                            18-91 
+153A-121                     18-91 
                             Ch. 20, Art. III
 153A-121 et seq.             Ch. 12 
 153A-122                     6-33 
@@ -22794,7 +22026,6 @@ ch. 153A, art. 18            14-393
 153A-134                     Ch. 6 
 153A-136                     Ch. 20, Art. II
 153A-137                     Ch. 22 
-153A-140                     14-393
 153A-145.7                   16-7
 153A-201                     3-189 
 153A-238 et seq.             Ch. 18 
@@ -22808,19 +22039,12 @@ ch. 153A, art. 18            14-393
                              14-12 
                             14-15,
                              14-16 
-153A-345                     14-393
 153A-345(b)                  14-242(b)
 153A-365                     5-31 
-159-48(b)(1)                 14-393
-159-81                       14-393
-159-97                       14-393
-ch. 160A, art. 19            14-393
 160A-1                       1-2 
 160A-79                      1-1 
-160A-174                     14-393
 160A-175                     1-6 
                             24-280 
-160A-193                     14-393
 160A-307                     14-254
 160A-312                     24-101 
 164-7                        1-9 
@@ -22841,13 +22065,14 @@ ch. 160D, art. 11            14-421
                              14-11,
 160D-108                     14-15,
                              14-241,
-                             14-384
-160D-108(d)                  14-133
+                             14-383
+160D-108(d)                  14-133,
+                             14-383
                              14-10–
                              14-12,
 160D-108.1                   14-15,
                              14-241,
-                             14-384 
+                             14-383,
                              14-654
 160D-108.1(f)                14-241
 160D-109                     14-631,
