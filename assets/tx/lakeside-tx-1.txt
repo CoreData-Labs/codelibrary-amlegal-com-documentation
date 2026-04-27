@@ -1230,7 +1230,7 @@ Tarrant County, Texas.
 passage and approval and its recordation in the office of the County Clerk of
 Tarrant County, Texas, and the deed records thereof.
 (Ord. 23, passed 9-5-1961)
-IDENTITY THEFT PREVENTION PROGRAM
+**** IDENTITY THEFT PREVENTION PROGRAM ****
 § 30.100  PROGRAM ADOPTION.
    The Town of Lakeside developed this Identity Theft Prevention Program
 (“program”) pursuant to the Federal Trade Commission’s Red Flags Rule (“Rule”),
@@ -2022,7 +2022,7 @@ herein.
    This subchapter shall be effective from and after passage and publication
 hereof.
 (Ord. 57, passed 9-11-1972; Ord. 57-A, passed 12-1-1988)
-CODE ENFORCEMENT DEPARTMENT
+**** CODE ENFORCEMENT DEPARTMENT ****
 § 31.115  CREATION.
    (A)   There is established the Department of Code Enforcement within the
 administration of the Town of Lakeside. There is established the position of
@@ -2072,7 +2072,7 @@ authorized by this subchapter and other regulations adopted by the town.
 authorized to issue citations for violations of all codes and regulations
 adopted by the town that are within the province and duties of the Department.
 (Ord. 318, passed 11-10-2010)
-TOWN ADMINISTRATOR
+**** TOWN ADMINISTRATOR ****
 § 31.130  OFFICE RATIFIED AND DEFINED.
    The position of Town Administrator, as it has existed in the town, is hereby
 ratified and more formally defined as follows in this subchapter.
@@ -3536,7 +3536,7 @@ supply system of the Town of Lakeside shall be fixed and determined by the City
 Council through means of resolution, and no ordinance shall be required in
 order to fix and determine the rates.
 (Ord. 150, passed 10-8-1992)
-WATER SYSTEM
+**** WATER SYSTEM ****
 § 50.040  CONTRACT FOR WATER SERVICES.
    From and after March 21, 2013, all customers desiring water services from
 the town shall execute a contract for such services, which contract shall
@@ -3660,7 +3660,7 @@ complied with:
    (A)   Payment as provided for in the town fee schedule;
    (B)   Full payment of all accounts due the town.
 (Ord. 345, passed 3-21-2013)
-CONNECTION TO WATER SYSTEM
+**** CONNECTION TO WATER SYSTEM ****
 § 50.065  DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3741,7 +3741,7 @@ whichever is greater.
    It is unlawful for any person, firm or corporation to purchase treated
 potable water from the town and resell it without approval from the town.
 (Ord. 345, passed 3-21-2013)
-PUBLIC WATER SUPPLY WELLS
+**** PUBLIC WATER SUPPLY WELLS ****
 § 50.080  PURPOSE.
    (A)   This subchapter sets forth uniform requirements for the users and the
 construction of facilities in or on land within 150 feet of the wells in order
@@ -3818,7 +3818,7 @@ federal, or other agency, having jurisdiction over the subject matter of this
 subchapter, is in conflict herewith, the stricter requirement shall apply,
 unless mandated otherwise.
 (Ord. 333, passed 3-8-2012)
-CROSS-CONNECTION CONTROL - GENERAL POLICY
+**** CROSS-CONNECTION CONTROL - GENERAL POLICY ****
 § 50.100  PURPOSE; RESPONSIBILITY.
    (A)   Purpose.  The purpose of this subchapter is:
       (1)   To protect the public potable water supply of the town from the
@@ -4721,7 +4721,7 @@ Deposits for Public Services
  
    
 53.999   Penalty
-IN GENERAL
+**** IN GENERAL ****
 § 53.001  DEFINITIONS.
    For the purposes of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5109,7 +5109,7 @@ codified in this chapter is concerned, is independent of every other section
 and every other part of a section is an inducement for the enactment of any
 other section or part of section of this chapter.
 (Ord. 345, passed 3-21-2013)
-SEWER USE REGULATIONS
+**** SEWER USE REGULATIONS ****
 § 53.035  DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5440,7 +5440,7 @@ properly trapped dilution or neutralizing catchbasin which shall function
 automatically.
 (Ord. 345, passed 3-21-2013)  Penalty, see §
 53.999
-COMPUTATION OF CHARGES
+**** COMPUTATION OF CHARGES ****
 § 53.060  DETERMINATION.
    It is determined and declared to be necessary for the due protection of the
 public health, safety and welfare of the town to establish and collect charges
@@ -5613,7 +5613,7 @@ ordinances of the town or the laws of the State of Texas, shall have the same
 force and effect as ordinances of the City Council.
 (Ord. 345, passed 3-21-2013)  Penalty, see §
 53.999
-CONNECTION TO SEWER SYSTEM
+**** CONNECTION TO SEWER SYSTEM ****
 § 53.085  DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5717,7 +5717,7 @@ system conforms to §
 53.006(A) of this code.
 (Ord. 345, passed 3-21-2013)  Penalty, see §
 53.999
-CONNECTIONS TO UTILITIES
+**** CONNECTIONS TO UTILITIES ****
 § 53.100  UNAUTHORIZED CONNECTION PROHIBITED.
    It is unlawful for any person, firm or corporation to serve or connect any
 new building or structure, or any part thereof, for either temporary or
@@ -5731,7 +5731,7 @@ the owner, builder or purchaser of such new building or structure shall present
 to the public utility a building permit issued by the town.
 (Ord. 345, passed 3-21-2013)  Penalty, see §
 53.999
-DEPOSITS FOR PUBLIC SERVICES
+**** DEPOSITS FOR PUBLIC SERVICES ****
 § 53.110  GENERALLY.
    From and after the effective date of this subchapter, the town shall receive
 from each sewer, water and garbage customer an initial deposit as provided for
@@ -6568,13 +6568,13 @@ professional engineer as required for the original SWPPP by division (B)(2).
       (8)   All contractors and subcontractors identified in an SWPPP shall
 sign a copy of the following certification statement before conducting any
 professional service identified in the SWPPP:
-“I certify under penalty of law that I understand the terms and conditions of
+* “I certify under penalty of law that I understand the terms and conditions of
 the National Pollutant Discharge Elimination System (NPDES) permit that
 authorizes the stormwater discharges associated with industrial activity from
 the construction site identified as part of this certification, with the
 Stormwater Ordinance of the Town of Lakeside, and with those provisions of the
 Stormwater Pollution Prevention Plan (SWPPP) for the construction site for
-which I am responsible.”
+which I am responsible.” *
       (9)   The certification must include the name and title of the person
 providing the signature, the name, address, and telephone number of the
 contracting firm, the address (or other identifying description) of the site
@@ -7394,7 +7394,7 @@ Special Exceptions
  
    
 70.99   Penalty
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 70.01  DEFINITIONS.
    The following words, terms and phrases, when used in this chapter, shall
 have the meanings ascribed to them in this section, except where the context
@@ -7740,7 +7740,7 @@ vehicle; and
 law.
 (Ord. 346, passed 2-16-2015)  Penalty, see §
 70.99
-SPECIAL EXCEPTIONS
+**** SPECIAL EXCEPTIONS ****
 § 70.20  SPECIAL EXCEPTION AVAILABLE.
    A person desiring to park a commercial vehicle or trailer on private
 property located within a residential or multi-family zoned district, as
@@ -8308,7 +8308,7 @@ Fees
 Interference with City Agents
    
 90.250   Interference with city agents
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 90.001  DEFINITIONS.
    The following words, terms and phrases, when used in this chapter, shall
 have the meanings ascribed to them in this article, except where the context
@@ -8494,7 +8494,7 @@ objectionable.
 species by the United States Department of Agriculture and administered by a
 veterinarian licensed to practice in the state.
 (Ord. 408, passed 2-14-2019)
-RABIES CONTROL
+**** RABIES CONTROL ****
 § 90.025  VACCINATIONS.
    An owner of a dog, cat, or other animal for which a rabies vaccination is
 commonly given shall keep the animal currently vaccinated against rabies. Any
@@ -8539,7 +8539,7 @@ the ACA within 24-hours, giving any information which may be required. Any
 animal that has been, or is suspected of having been, exposed to rabies shall
 be quarantined in accordance with Tex. Health and Safety Code, Ch. 826.
 (Ord. 408, passed 2-14-2019)
-ANNUAL REGISTRATION
+**** ANNUAL REGISTRATION ****
 § 90.040  ANNUAL REGISTRATION.
    (A)   Required. The owner of a dog or cat that is four months of age or
 older must register each such dog or cat with the city. A registration may be
@@ -8576,7 +8576,7 @@ attack dog and the location and hours of presence of the dog;
 letters not less than two inches high at the location or premises where the
 guard or attack dog is confined.
 (Ord. 408, passed 2-14-2019)
-ANIMAL BITES TO HUMANS
+**** ANIMAL BITES TO HUMANS ****
 § 90.055  REPORTING ANIMAL BITES.
    (A)   A person having knowledge of an animal bite to a human, except bites
 by rodents, rabbits, fowl, or reptiles, shall report the incident to the ACA as
@@ -8592,7 +8592,7 @@ last ten days, shall report such fact to the veterinarian and the ACA within
 quarantine, as prescribed in §
 90.070 below.
 (Ord. 408, passed 2-14-2019)
-PROCEDURES FOR ANIMAL QUARANTINE
+**** PROCEDURES FOR ANIMAL QUARANTINE ****
 § 90.070  DISPOSITION OF BITING ANIMALS.
    The owner of an animal subject to quarantine pursuant to this chapter is
 required to quarantine the animal for a period of not less than ten days
@@ -8661,7 +8661,7 @@ grant, or destroy an animal if the owner or custodian does not take possession
 of the animal before the fourth day following the final day of the quarantine
 period.
 (Ord. 408, passed 2-14-2019)
-ANIMALS IN CITY ATHLETIC FIELDS
+**** ANIMALS IN CITY ATHLETIC FIELDS ****
 § 90.090  GENERAL REGULATIONS.
    (A)   Dogs are prohibited within the spectator and playing field areas at
 city parks. Dogs are permitted in the parking lot, pedestrian trail and other
@@ -8672,7 +8672,7 @@ the animal does not pose a direct threat to the health or safety of others; or
       (2)   The service animal is otherwise permitted in accordance with state
 or Federal law.
 (Ord. 408, passed 2-14-2019)
-MAXIMUM NUMBER OF DOGS AND CATS
+**** MAXIMUM NUMBER OF DOGS AND CATS ****
 § 90.105  NUMBER OF DOGS AND CATS.
    Except as provided by this subchapter, no residence within the city shall
 harbor more than four adult dogs, four adult cats, or four adult dogs and cats
@@ -8738,12 +8738,12 @@ litter of puppies/kittens on the new property; or
 changes and the new owners desire to keep more than four adult dogs/cats or
 more than one litter of puppies/kittens.
 (Ord. 408, passed 2-14-2019)
-KENNEL/PET SHOP REQUIREMENTS
+**** KENNEL/PET SHOP REQUIREMENTS ****
 § 90.120  REQUIREMENTS.
    Kennels and pet shops must be operated, and all animals must be cared for in
 accordance with the Texas Health and Safety Code and this chapter.
 (Ord. 408, passed 2-14-2019)
-PROHIBITED ANIMALS
+**** PROHIBITED ANIMALS ****
 § 90.135  DANGEROUS WILD ANIMALS.
    A person commits an offense if the person keeps a dangerous wild animal
 within the city. It is an affirmative defense to prosecution for this violation
@@ -8799,7 +8799,7 @@ a nuisance and create an adverse impact to neighboring properties. Potential
 negative impacts on adjacent properties include odors, noise, drainage,
 erosion, insects and rodents.
 (Ord. 408, passed 2-14-2019)
-CARE AND HUMANE TREATMENT OF ANIMALS
+**** CARE AND HUMANE TREATMENT OF ANIMALS ****
 § 90.150  CARE AND HUMANE TREATMENT OF ANIMALS.
    (A)   Owner's duty to provide food, shelter, and care. The owner or person
 who has custody or control of any animal shall:
@@ -8977,7 +8977,7 @@ Federal law. Nothing in this section shall be construed to limit any duty
 imposed on an owner by any other provisions of this code or any applicable
 state or Federal law.
 (Ord. 408, passed 2-14-2019)
-ANIMALS AT-LARGE
+**** ANIMALS AT-LARGE ****
 § 90.165  GENERALLY.
    An owner of any animal commits an offense if the animal is at-large. For
 purposes of this section, an offense occurs without regard to any culpable
@@ -9000,7 +9000,7 @@ dog or cat may be impounded.
 § 90.167  IMPOUNDMENT.
    The ACA is authorized to impound any animal at-large.
 (Ord. 408, passed 2-14-2019)
-IMPOUNDMENT
+**** IMPOUNDMENT ****
 § 90.180  IMPOUNDMENT.
    (A)   Reasons for impoundment.
       (1)   Any animal found in violation of this chapter, any other ordinance
@@ -9088,7 +9088,7 @@ exceeding five business days if, in the discretion of the ACA, there is a
 possibility of reuniting the animal with its owner within a reasonable amount
 of time.
 (Ord. 408, passed 2-14-2019)
-NUISANCE
+**** NUISANCE ****
 § 90.195  OFFENSIVE ODORS.
    A person commits an offense if the person keeps any animal in such a manner
 as to endanger the public health, or to annoy a person of ordinary
@@ -9127,7 +9127,7 @@ complaint regarding an animal-related noise nuisance, that person must file a
 complaint with the Municipal Court Clerk. The complainant may be required to
 appear in Municipal Court as a witness on the date specified by the Court.
 (Ord. 408, passed 2-14-2019)
-DANGEROUS ANIMALS
+**** DANGEROUS ANIMALS ****
 § 90.210  DANGEROUS ANIMAL REPORT.
    (A)   The ACO may receive a report concerning a dangerous animal. Such
 report and any supporting statement must be in writing and sworn to.
@@ -9348,7 +9348,7 @@ uses dogs for law enforcement or corrections purposes.
 90.220 that the person is a dog trainer or an employee of a guard dog company
 under Tex. Occupations Code, Ch. 1702.
 (Ord. 408, passed 2-14-2019)
-FEES
+**** FEES ****
 § 90.235  GENERALLY.
    The City Council shall establish fees for all animal-related services
 provided by the city's ACA, including those for adoption, immunization, and
@@ -9375,7 +9375,7 @@ Microchip - resident                           $10
 Microchip - non-resident                       $20
    
 (Ord. 408, passed 2-14-2019)
-INTERFERENCE WITH CITY AGENTS
+**** INTERFERENCE WITH CITY AGENTS ****
 § 90.250  INTERFERENCE WITH CITY AGENTS.
    (A)   A person commits an offence if the person interferes with or hinders
 any agent of the city in the performance of any duty pursuant to this chapter
@@ -11596,7 +11596,7 @@ Licenses
  
    
 115.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 115.01  DEFINITIONS.
    For purposes of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -12216,7 +12216,7 @@ present in the premises.
 he or she knowingly fails to fulfill that duty.
 (Ord. 310, passed 3-11-2010)  Penalty, see §
 115.99
-LICENSES
+**** LICENSES ****
 § 115.20  LICENSE REQUIREMENT.
    (A)   A person commits an offense if he or she operates a sexually oriented
 business without a valid license, issued by the town for the particular type of
@@ -13873,7 +13873,7 @@ suspected to be dangerous buildings within the terms of this subchapter.  The
 reports must be delivered to the Building Inspector within 24 hours of the
 discovery of the buildings by any employee of the Police Department.
 (Ord. 98, passed 5-3-1983)
-SUBSTANDARD BUILDINGS
+**** SUBSTANDARD BUILDINGS ****
 § 150.50  PURPOSE.
    These regulations are enacted pursuant to the authority granted by Tex.
 Local Gov’t Code, Ch. 214, and are intended to establish minimum standards for
@@ -14386,7 +14386,7 @@ within the town.
    This subchapter shall be effective from and after passage and publication
 hereof.
 (Ord. 91, passed 4-8-1980)
-SWIMMING POOLS
+**** SWIMMING POOLS ****
 § 150.80  PURPOSE.
    By this subchapter it is the intention of the City Council to provide
 minimum safety requirements for swimming pools constructed in the town, and to
@@ -14689,7 +14689,7 @@ except in an emergency; or
 authorized representative shall have enforcement responsibility for this
 subchapter.
 (Ord. 313, passed 6-22-2010)
-HOME OCCUPATIONS
+**** HOME OCCUPATIONS ****
 § 150.90  PURPOSE.
    Standards for controlling home occupations are set forth to minimize
 annoyance and inconvenience to neighboring property owners, within residential
@@ -15058,7 +15058,7 @@ Signage
 Cross-reference:
    Fire prevention and protection, see
 Ch. 94
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.001  TITLE.
    This chapter shall be known as and may be cited and referred to as the
 "Zoning Ordinance of the Town of Lakeside," which includes narrative
@@ -15295,7 +15295,7 @@ exempted from the height regulations for new construction after the effective
 date of this chapter that exceeds the regulations provided in the respective
 district applicable to the property on which that structure is located.
 (Ord. 312, passed 6-22-2010)
-PERMITTED USES
+**** PERMITTED USES ****
 § 151.012  PERMITTED USE TABLE.
    (A)   Land Use Table legend.  The following table presents the zoning
 district classifications and the permitted uses within those classifications. 
@@ -15697,7 +15697,7 @@ Commission recommendation regarding the use and take final action to amend
 division (B) Land Use Table of §
 151.012 Permitted Use Table.
 (Ord. 312, passed 6-22-2010; Ord. 340, passed 7-12-2012)
-ZONING DISTRICTS
+**** ZONING DISTRICTS ****
 § 151.015  R1 SINGLE-FAMILY DISTRICT.
    (A)   Purpose of District.  The purpose of the R1 Single-Family District is
 to provide for compatible land, building, and structure uses primarily oriented
@@ -16279,7 +16279,7 @@ does not change the existing use on the site. The administrative official may,
 for any reason, elect to present the development plan or site plan to the Town
 Council for approval.
 (Ord. 312, passed 6-22-2010)
-SUPPLEMENTARY REGULATIONS
+**** SUPPLEMENTARY REGULATIONS ****
 § 151.021  SITE PLAN REQUIREMENTS.
    (A)   Generally.  Whenever a site plan is required by this chapter, such
 site plan must conform to the requirements of this section. Unless otherwise
@@ -18285,7 +18285,7 @@ Principal Building
 over 210,100 sq. ft.              amount upon approval by the Town Council
  
 (Ord. 312, passed 6-22-2010)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 151.033  ADMINISTRATION AND ENFORCEMENT.
    (A)   Administrative official.  An administrative official designated by the
 Town Council shall administer and enforce this chapter. Said person may be
@@ -18709,7 +18709,7 @@ appointed by the Town Council and shall serve one-year terms. They may serve
 two-year terms with no term limits. Members serve at the pleasure of the Town
 Council.
 (Ord. 312, passed 6-22-2010)
-DEFINITIONS
+**** DEFINITIONS ****
 § 151.041  RULES FOR WORDS AND PHRASES.
    (A)   General interpretation.  For the purpose of this chapter, certain
 terms and words are defined and shall have the meanings ascribed in this
@@ -19882,7 +19882,7 @@ construction of common structures such as flagpoles, and camouflaged wireless
 facilities that are constructed to blend into the surrounding environment.
 (Ord. 312, passed 6-22-2010; Ord. 319, passed 12-9-2010; Ord. 341, passed 7-12-
 2012)
-SIGNAGE
+**** SIGNAGE ****
 § 151.050  PURPOSE.
    The intent of this subchapter is to protect value within the Town of
 Lakeside, to enhance the beauty of the town, and to protect the general public
@@ -20547,7 +20547,7 @@ Cross-reference:
    Subdivision flood regulations, see §§
 153.160 through
 153.168
-FINDINGS OF FACT, PURPOSE AND METHODS
+**** FINDINGS OF FACT, PURPOSE AND METHODS ****
 § 152.01  FINDINGS OF FACT.
    (A)   The flood hazard areas of Lakeside are subject to periodic inundation,
 which results in loss of life and property, health and safety hazards,
@@ -20880,7 +20880,7 @@ shall not create liability on the part of the community or any official or
 employee thereof for any flood damages that result from reliance on this
 chapter or any administrative decision lawfully made hereunder.
 (Ord. 302, passed 9-10-2009)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 152.20  DESIGNATION OF FLOODPLAIN ADMINISTRATOR.
    The Town Administrator or designee is hereby appointed the Floodplain
 Administrator to administer and implement the provisions of this chapter and
@@ -21027,7 +21027,7 @@ and
 minimize flood damages during the base flood and create no additional threats
 to public safety.
 (Ord. 302, passed 9-10-2009)
-FLOOD HAZARD REDUCTION
+**** FLOOD HAZARD REDUCTION ****
 § 152.30  GENERAL STANDARDS.
    In all areas of special flood hazards the following provisions are required
 for all new construction and substantial improvements:
@@ -21353,7 +21353,7 @@ Cross-references:
 Ch. 152
    Zoning Code, see
 Ch. 151
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.001  AUTHORITY.
    This chapter is adopted under the authority of the Constitution and laws of
 the State of Texas, including particularly Chapter 212 of the Tex. Local
@@ -21548,7 +21548,7 @@ one of the following manners:
    (B)   Upon a majority vote of the Planning and Zoning Commission.
    (C)   Upon written request from the Town Administrator.
 (Ord. 353, passed 7-10-2013)
-DEFINITIONS
+**** DEFINITIONS ****
 § 153.020  RULES OF INTERPRETATION.
    For the purposes of this chapter, the terms, phrases, words, and their
 derivations set forth in this chapter shall have the meaning ascribed to them
@@ -21784,7 +21784,7 @@ engineering design requirements of this chapter.
 and zoning processes and ordinances requirements, or his or her designee.
    TxDOT. Texas Department of Transportation.
 (Ord. 353, passed 7-10-2013)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 153.030  ADOPTION OF RULES, REGULATIONS, STANDARDS AND SPECIFICATIONS.
    The City Council shall, through adoption of ordinances, promulgate rules,
 regulations, standards and specifications for the construction (as set forth in
@@ -21903,7 +21903,7 @@ final approval of any such plat and/or prior to the issuance of any such
 building permit, all expenses incurred by the town in connection with the
 review of such plans by the engineering consultants of the town.
 (Ord. 353, passed 7-10-2013)
-VACATING PLATS; REPLATS; AMENDING PLATS; MINOR PLATS
+**** VACATING PLATS; REPLATS; AMENDING PLATS; MINOR PLATS ****
 § 153.050  VACATION OF PLAT.
    The proprietors of the tract covered by a plat may vacate the plat at any
 time before any lot in the plat is sold. The plat is vacated when a signed,
@@ -22038,7 +22038,7 @@ within the corporate limits or extraterritorial jurisdiction of the town:
    (B)   A sum equal to the plat recording fee charged by the county or
 counties in which plat will be filed for recordation.
 (Ord. 353, passed 7-10-2013)
-PRELIMINARY PLATS
+**** PRELIMINARY PLATS ****
 § 153.070  PRELIMINARY CONFERENCE.
    Prior to the official filing of a preliminary plat, the developer/owner
 should consult with and provide a plan of subdivision to the Town Planner for
@@ -22171,7 +22171,7 @@ preliminary plat within that time and is filed for record in the appropriate
 county(s). The applicant, owner or developer may submit in writing, a request
 to the Commission for one six-month extension of the preliminary plat.
 (Ord. 353, passed 7-10-2013)
-FINAL PLATS
+**** FINAL PLATS ****
 § 153.090  FORM AND CONTENT.
    (A)   The final plat and accompanying data shall substantially conform to
 the preliminary plat as conditionally approved by the Commission, incorporating
@@ -22325,7 +22325,7 @@ county in which it is filed.
    (H)   The final plat must be accompanied by the owner’s certificate of
 dedication which has been duly signed and notarized.
 (Ord. 353, passed 7-10-2013)
-STANDARDS AND SPECIFICATIONS
+**** STANDARDS AND SPECIFICATIONS ****
 § 153.100  GENERALLY.
    No preliminary or final plat shall be approved by the Commission, and no
 completed improvements shall be accepted by the Town Engineer unless they
@@ -22592,7 +22592,7 @@ for maneuvering so as not to require backing onto the collector street, and
 driveways shall not be closer than 100 feet from center line of driveway to
 center line of driveway.
 (Ord. 353, passed 7-10-2013)
-PERFORMANCE GUARANTEES
+**** PERFORMANCE GUARANTEES ****
 § 153.125  CONSTRUCTION PRIOR TO FILING OF PLAT.
    If under §
 153.091(F) the developer chooses to construct the required improvements prior
@@ -22652,7 +22652,7 @@ improvements in compliance with this chapter. No such extension shall be
 granted unless security as provided in division (A) above has been provided by
 the developer covering the extended period of time.
 (Ord. 353, passed 7-10-2013)
-WATER AND SEWER MAIN EXTENSIONS
+**** WATER AND SEWER MAIN EXTENSIONS ****
 § 153.135  PURPOSE.
    The purpose of this section is to provide a method for individual property
 owners and developers to recover reasonable costs when the installation of a
@@ -22729,7 +22729,7 @@ plan, or issuance of their building permit, whichever is first. The original
 developer shall request payment from the town of any money which has been
 collected pertaining to the project.
 (Ord. 353, passed 7-10-2013)
-INSTALLATION COSTS
+**** INSTALLATION COSTS ****
 § 153.145  GENERALLY.
    After the Commission has approved the final plat, but prior to the town
 filing said plat with the county(s), the developer shall deliver to the Town
@@ -22911,7 +22911,7 @@ correct legal description. A reliable abstract company title certificate and
 title policy setting forth the same information may be accepted in lieu
 thereof.
 (Ord. 353, passed 7-10-2013)
-FLOOD HAZARD AREAS
+**** FLOOD HAZARD AREAS ****
 § 153.160  FLOOD HAZARD AREAS GENERALLY.
    (A)   The flood hazard areas of the town are subject to periodic inundation
 which results in loss of life and property, health and safety hazards,
@@ -23074,7 +23074,7 @@ utilize grading techniques, subdivision design, landscaping, sedimentation
 basins, special vegetation cover, and other measures to reduce erosion and
 sediment.
 (Ord. 353, passed 7-10-2013)
-VARIANCES
+**** VARIANCES ****
 § 153.180  CONDITIONS FOR AUTHORIZING A VARIANCE.
    The Commission may authorize a variance from these regulations when, in its
 opinion undue hardship will result from requiring strict compliance. A variance
@@ -23124,7 +23124,7 @@ anticipated traffic load; and
    (D)   The town finds the drainage plan for the area in question adequate to
 protect the surrounding properties.
 (Ord. 353, passed 7-10-2013)
-ADDITIONAL DEFINITIONS, REGULATIONS AND FEES
+**** ADDITIONAL DEFINITIONS, REGULATIONS AND FEES ****
 § 153.190  ADOPTION OF ADDITIONAL SUBDIVISION DEFINITIONS, REGULATIONS, AND
 FEES.
    The additional subdivision definitions, regulations, and fees set forth in
@@ -23415,7 +23415,7 @@ SECTION 4 - CHECKLISTS AND EXAMPLES
 4.2.8   Flood Hazard Statement
    
 4.2.9   General Notes
-SECTION 1 - GENERAL
+*** SECTION 1 - GENERAL ***
 1.1  General Information
 1.1.1  Opening Statement.
    Any person subdividing or developing land shall be responsible for obtaining
@@ -23798,7 +23798,7 @@ agreed delays to accommodate requested revisions.
 Clerk after formal City approval and acceptance. The County Clerk shall assign
 volume, page and plat cabinet recording information to make the plat legally
 binding.
-SECTION 2 - PLATTING
+*** SECTION 2 - PLATTING ***
 2.1  General Plat Information
 2.1.1  Conformance of Plat Approval Application.
    The application of the Applicant for plat approval shall conform to the
@@ -24339,7 +24339,7 @@ by Texas Local Government Code 212.013. To be vacated, the plat must indicate
 that it is being vacated and be signed and approved by all landowners involved.
 City approval and plat recording shall be the same as the original plat. The
 vacation must include all of the land involved in the original platting.
-SECTION 3 - PUBLIC IMPROVEMENTS (PLANS)
+*** SECTION 3 - PUBLIC IMPROVEMENTS (PLANS) ***
 3.1  General
 3.1.1  General.
    The owner or subdivider of property shall observe the general requirements
@@ -25136,7 +25136,7 @@ less than 3 feet wide, and shall have sloped sides. Such bumps shall be painted
 along the perimeter and crosshatched with yellow traffic marking paint using
 lines that are at least 4" wide. Speed bumps on a single street shall not be
 positioned closer than 200' from each other.
-SECTION 4 - CHECKLISTS AND EXAMPLES
+*** SECTION 4 - CHECKLISTS AND EXAMPLES ***
 4.1  Checklists
 4.1.1  Preliminary Plats.
 Title Block            “PRELIMINARY PLAT” wording
@@ -27579,7 +27579,7 @@ permanently inscribed, shall be welded to the casing and shall be at least four
 inches in diameter with a length of four feet visible above the ground level.
 (Ord. 326, passed 7-14-2011)  Penalty, see §
 154.999
-GAS PIPELINE INSTALLATION
+**** GAS PIPELINE INSTALLATION ****
 § 154.070  PUBLIC RIGHT-OF-WAY USE AGREEMENT REQUIREMENTS.
    A public right-of-way use agreement shall be required prior to any gas
 pipeline construction within the town. The public right-of-way agreement shall
