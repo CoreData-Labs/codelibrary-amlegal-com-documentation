@@ -332,7 +332,7 @@ Ch. 31
 Statutory reference:
    General powers of municipality, see SDCL Chapter 9-12
    Public comment at meetings, see SDCL § 1-25-1
-GENERAL
+**** GENERAL ****
 § 30.001 FORMS OF GOVERNMENT.
    (A)   Each first or second class municipality must be governed by a mayor
 and common council, a mayor and a common council with a city manager, a board
@@ -429,7 +429,7 @@ indemnity approved by a resolution adopted by this municipality’s governing
 body, whichever is greater, may be presented as a claim to the state
 legislature.
 (SDCL § 3-19-2)
-ORGANIZATION; TRUSTEE FORM
+**** ORGANIZATION; TRUSTEE FORM ****
 § 30.015 COMPOSITION AND QUALIFICATION.
    The board of trustees of a third class municipality shall consist of not
 less than three nor more than five members elected at large. Each shall be a
@@ -476,7 +476,7 @@ operation of law, the quorum consists of the majority of all the trustees
 qualified to serve as trustees by election or appointment pursuant to SDCL
 Chapter 9-13.
 (SDCL § 9-7-7)
-ORGANIZATION; ALDERMANIC FORM
+**** ORGANIZATION; ALDERMANIC FORM ****
 § 30.035 MAYOR; QUALIFICATIONS, TERM, POWERS.
    (A)   Executive. The chief executive officer of a municipality under the
 aldermanic form shall be a mayor.
@@ -632,7 +632,7 @@ mayor may vote as the mayor to break a tie vote.
 employees or members of a board, commission, or similar body that the mayor has
 the authority to appoint, with or without the approval of the council.
 (SDCL § 9-8-13)
-ORGANIZATION; COMMISSIONER FORM
+**** ORGANIZATION; COMMISSIONER FORM ****
 § 30.055 COMPOSITION.
    Under the commission form, where a city manager is not employed, the board
 of commissioners shall consist of the mayor and two or four commissioners
@@ -844,7 +844,7 @@ election each year.
 Statutory reference:
    Three-Commissioner municipality, division of responsibilities, see SDCL § 9-
 9-25
-ORGANIZATION; CITY-MANAGER FORM
+**** ORGANIZATION; CITY-MANAGER FORM ****
 § 30.080 GOVERNING BODIES; ELECTIONS AND TERMS OF OFFICE.
    (A)   Aldermanic form. The mayor and aldermen shall be elected in the form
 prescribed by SDCL §§ 9-8-1 et seq.
@@ -988,7 +988,7 @@ municipality and to execute the contract and any other instrument necessary or
 convenient for the performance of the contract, subject to the limitations
 established by the governing body.
 (SDCL § 9-10-19)
-ORDINANCES AND RESOLUTIONS
+**** ORDINANCES AND RESOLUTIONS ****
 § 30.105 STYLE OF ORDINANCES; SUBJECT.
    (A)   Ordinances must be in the following style:
       (1)   An Ordinance                                   (Insert Title);
@@ -1123,7 +1123,7 @@ Cross-reference:
 Ch. 30
 Statutory reference:
    Municipal proceedings and municipal records, see Chapter 9-18
-MUNICIPAL OFFICERS
+**** MUNICIPAL OFFICERS ****
 § 31.01 APPOINTMENT.
    (A)   Such officers as needed and provided for by ordinance shall be
 appointed.
@@ -1293,7 +1293,7 @@ within ten days after the first meeting of the month following the appointment.
 The officer shall hold office until the appointment and qualification of a
 successor.
 (SDCL § 9-14-5)
-REMOVAL FROM OFFICE; VACANCIES
+**** REMOVAL FROM OFFICE; VACANCIES ****
 § 31.15 GROUNDS FOR REMOVAL.
    Any officer may be charged, tried and removed from office for misconduct,
 malfeasance, nonfeasance, crimes in office, drunkenness, gross incompetency,
@@ -1345,7 +1345,7 @@ statute applying to the governing body. The temporary member shall serve until
 the member returns from active duty or until the expiration of the member’s
 term, whichever occurs first.
 (SDCL § 3-4-8)
-EMPLOYEES
+**** EMPLOYEES ****
 § 31.35 CRIMINAL BACKGROUND CHECK.
    Each person over 18 years of age seeking employment with a municipality
 shall submit, subject to the discretion of the municipality, to a state and
@@ -1573,7 +1573,7 @@ Statutory reference:
    Fiscal powers of municipalities, see SDCL § 9-12-2
    Purchasing agency contracts, see SDCL § 5-18A-1 and Chapters 5-18A, 5-18B,
 5-18C and 5-18D
-BUDGET
+**** BUDGET ****
 § 34.01 PREPARATION OF BUDGET.
    (A)   The finance officer shall report to the governing body, on or before
 September 1, an estimate of expenses for the ensuing year and revenue to be
@@ -1642,7 +1642,7 @@ contract exists.
 it be fully itemized and a memorandum of the same entered upon the minutes of
 the meetings of the governing body.
 (SDCL § 9-23-2)
-TAXATION
+**** TAXATION ****
 § 34.20 ANNUAL LEVY.
    Pursuant to SDCL § 9-21-19, the municipality shall include the annual tax
 levy in the annual appropriation.
@@ -1744,7 +1744,7 @@ in the municipal jail for 30 days or both such fine and imprisonment.
       (2)   In addition, all such collection remedies authorized by SDCL
 Chapter 10-45, and acts amendatory thereto, are hereby authorized for the
 collection of these excise taxes by the Department of Revenue.
-BIDS AND CONTRACTS
+**** BIDS AND CONTRACTS ****
 § 34.30 CONTRACTS AUTHORIZED.
    (A)   No contract of a municipality is valid unless the contract has be
 authorized by a vote of the governing body at an official meeting.
@@ -2078,7 +2078,7 @@ noted in the minutes, and retained on file by the governing body. The contract
 may include a procedure for adjusting prices to meet changing market conditions
 not within the control of the vendor.
 (SDCL § 5-18C-6)
-FUNDS AND MONIES RECEIVED
+**** FUNDS AND MONIES RECEIVED ****
 § 34.55 BUSINESS IMPROVEMENT DISTRICTS, USAGE OF FUNDS.
    Any money generated pursuant to SDCL § 9-55-2 may be used for any one or
 more of the following purposes:
@@ -2155,7 +2155,7 @@ uttered or given with the knowledge hereinabove mentioned.
 returned checks as allowed by state law.
 Penalty, see §
 10.99
-BONDS AND NOTES
+**** BONDS AND NOTES ****
 § 34.70 MUNICIPAL BONDS AND NOTES.
    A municipality may borrow money from any source willing to lend the money by
 issuing a promissory note subject to the limitations set in SDCL §§ 9-25-13 to
@@ -2275,7 +2275,7 @@ Cross-reference:
 32.03
    Tax levy, see
 Ch. 34
-GENERAL
+**** GENERAL ****
 § 50.01 MUNICIPAL AUTHORITY.
    The municipality shall construct, establish, operate, and maintain a system
 of waterworks and facilities and may regulate the distribution and use of the
@@ -2355,7 +2355,7 @@ each 22 feet of frontage in the business section of the municipality, except
 when the abutting owner requests in writing the placing of water connections at
 a less number of feet.
 (SDCL § 9-47-18)
-PURCHASE OF PIPES AND MAINS
+**** PURCHASE OF PIPES AND MAINS ****
 § 50.25 ACQUISITION OF WATER MAINS IN NEWLY ANNEXED AREA.
    The municipality shall have the power, within the discretion of the
 governing board of the municipality, to purchase, lease with purchase option,
@@ -2366,7 +2366,7 @@ the corporate limits of the municipality and which subdivision or district
 shall have been, by annexation proceedings or otherwise, annexed to the
 municipality.
 (SDCL § 9-47-17)
-WATER SERVICE
+**** WATER SERVICE ****
 § 50.45 MUNICIPAL ARTESIAN WELLS AUTHORIZED.
    The municipality, if it chooses, may establish and maintain a municipal
 artesian well.
@@ -2446,7 +2446,7 @@ of the first class.
    (C)   Nothing in this section requires any municipality to provide any
 municipal service outside of its municipal boundaries.
 (SDCL § 9-47-28)
-WATER CONSERVATION
+**** WATER CONSERVATION ****
 § 50.65 WATER SHORTAGE DEFINED.
    Whenever the municipality determines that an emergency exists, in that the
 water supply available to the entire municipality for essential functions is in
@@ -2525,7 +2525,7 @@ Assessments
    
 51.65   Assessment of property for proportionate share of sewer previously
 constructed
-GENERAL
+**** GENERAL ****
 § 51.01 MUNICIPAL AUTHORITY.
    (A)   The municipality may establish and construct main, trunk, sanitary,
 storm and service sewers, and septic or sewage treatment plants, drains, and
@@ -2607,7 +2607,7 @@ disposing of private sewage or industrial waste originating within the
 municipality or within ten miles of the corporate limits of the municipality,
 if the plant has the capacity to handle the sewage or industrial waste.
 (SDCL § 9-48-32)
-CONNECTIONS
+**** CONNECTIONS ****
 § 51.20 MINIMUM DISTANCE BETWEEN SEWER CONNECTIONS.
    No more than one sewer connection shall be made for each platted lot, or for
 each 44 feet of frontage of unplatted ground, in the residence section, and for
@@ -2627,7 +2627,7 @@ municipality.
 first class. Nothing in this section requires any municipality to provide any
 municipal service outside of its municipal boundaries.
 (SDCL § 9-48-53)
-PURCHASE OF PRIVATE SEWERS
+**** PURCHASE OF PRIVATE SEWERS ****
 § 51.35 MUNICIPAL PURCHASE OF PRIVATE SEWERS.
    Whenever there has been constructed by any person within any street or alley
 a private sewer or sewers which shall be wholly or partly within any district
@@ -2652,7 +2652,7 @@ sewer described in §
 against such purchase, the governing body shall not have power to purchase the
 same.
 (SDCL § 9-48-18)
-SEWER CHARGES
+**** SEWER CHARGES ****
 § 51.50 SEWER CHARGES OR RENTALS.
    Any municipality which has installed or plans to install sewer utilities for
 public use may by ordinance or resolution establish charges to be paid to the
@@ -2769,7 +2769,7 @@ facility, drain, pumping station, lift station, interceptor, force main,
 manhole, flow equalization structure, and any other equipment, material, and
 facility related thereto.
 (SDCL § 9-48-32.1)
-ASSESSMENTS
+**** ASSESSMENTS ****
 § 51.65 ASSESSMENT OF PROPERTY FOR PROPORTIONATE SHARE OF SEWER PREVIOUSLY
 CONSTRUCTED.
    (A)   Whenever either a main sewer or trunk sewer or service sewer has been
@@ -2997,7 +2997,7 @@ Code; determining liquid level; equipment requirements
 53.08   Application to facilities constructed after July 1, 2016
    
 53.09   Limitations as to tank capacity
-FLAMMABLE AND COMBUSTIBLE LIQUIDS
+**** FLAMMABLE AND COMBUSTIBLE LIQUIDS ****
 § 53.01 COMPLIANCE WITH INTERNATIONAL FIRE CODE.
    Except as otherwise provided in SDCL Chapter 34-38, aboveground storage
 tanks shall comply with the applicable provisions of Chapter 57 of the
@@ -3374,7 +3374,7 @@ Cross-reference:
    General provisions, see
 Ch. 70
    Local provisions, see Title XVII
-GENERAL
+**** GENERAL ****
 § 71.001 DRIVER’S LICENSE REQUIRED.
    No person, except those expressly exempted in SDCL §§ 32-12-22.1 through 32-
 12-28, inclusive, may drive any motor vehicle upon a highway in this state
@@ -3512,7 +3512,7 @@ requirements upon completion of a motorcycle safety course approved pursuant to
 SDCL § 32-20-14.
 (SDCL § 32-20-2) Penalty, see §
 70.99
-OPERATION OF VEHICLES
+**** OPERATION OF VEHICLES ****
 § 71.025 DRIVING ON RIGHT SIDE OF STREET.
    Upon all highways of sufficient width, except upon one-way streets, the
 driver of a vehicle shall drive the same upon the right half of the highway and
@@ -3643,7 +3643,7 @@ the motor vehicle shall maintain that separation until safely past the
 overtaken bicycle.
 (SDCL § 32-26-26.1) Penalty, see §
 70.99
-RIGHT-OF-WAY AND SPECIAL STOPS
+**** RIGHT-OF-WAY AND SPECIAL STOPS ****
 § 71.050 INTERSECTIONS; YIELD RIGHT-OF-WAY.
    (A)   When two vehicles approach or enter an intersection at approximately
 the same time, the driver of the vehicle on the left shall yield the right-of-
@@ -3758,7 +3758,7 @@ changing gears while traversing the crossing and may not shift gears while
 crossing the track or tracks.
 (SDCL § 32-29-5) Penalty, see §
 70.99
-TURNING MOVEMENTS
+**** TURNING MOVEMENTS ****
 § 71.070 RIGHT-TURNING VEHICLE.
    Except as otherwise provided in §
 71.073, the driver of a vehicle intending to turn to the right at an
@@ -3841,7 +3841,7 @@ indicate as follows:
    (C)   Stop or decrease speed: hand and arm extended downward.
 (SDCL § 32-26-24) Penalty, see §
 70.99
-ACCIDENTS
+**** ACCIDENTS ****
 § 71.090 DUTY OF VEHICLE DRIVER TO STOP IN CASE OF ACCIDENT.
    The driver of any vehicle involved in any accident resulting in injury or
 death to any person or damage to property shall immediately stop and give his
@@ -4279,7 +4279,7 @@ action
 Cross-reference:
    Loud and raucous noise, see §
 131.05
-GENERAL
+**** GENERAL ****
 § 90.01 GENERAL AUTHORITY.
    This municipality shall have the power to declare what shall constitute a
 nuisance and prevent, abate, and remove the same pursuant to SDCL § 9-29-13.
@@ -4515,7 +4515,7 @@ nuisance upon, or in the use of, such property, created by a former owner, is
 liable therefor in the same manner as the one who first created it.
 (SDCL § 21-10-8) Penalty, see §
 90.99
-NUISANCE VEGETATION
+**** NUISANCE VEGETATION ****
 § 90.20 CERTAIN WEEDS AND PLANTS DECLARED NUISANCES.
    The following named weeds and plants shall be deemed dangerous and unhealthy
 and are declared to be nuisances: ragweed; pulsey; pigweed; nettle; thistle of
@@ -4532,7 +4532,7 @@ municipal right-of-way, commonly known as the municipal boulevard, free of such
 nuisance vegetation by cutting, spraying, or removal, as may be appropriate.
 Penalty, see §
 90.99
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 90.35 NOTICE TO OWNER OF NUISANCE.
    (A)   If any nuisance, source of filth, cause of sickness, or condition
 which endangers the public health is found on any property, the county health
@@ -4860,7 +4860,7 @@ prohibited
  
    
 93.999   Penalty
-GENERAL
+**** GENERAL ****
 § 93.001 AUTHORITY.
    This municipality shall have the power to regulate or prohibit the running
 at large of dogs, animals, and poultry, to establish pounds, appoint
@@ -5052,7 +5052,7 @@ owner ordered to appear in court to show cause why the animal shall not be
 destroyed. If the owner of the animal fails to deliver the animal as ordered,
 the animal control officer or any police officer shall use such means as
 necessary to impound the animal.
-RABIES CONTROL
+**** RABIES CONTROL ****
 § 93.040 VACCINATION REQUIRED.
    (A)   Any dog, cat, or other animal susceptible to rabies, held as a pet in
 this municipality, that is six months of age or older, is required to be
@@ -5127,7 +5127,7 @@ the animal euthanized immediately.
    If the animal control officer determines that rabies exists in any animal,
 the board may kill such animal and any animal there is reason to believe an
 animal or person has been bitten by any animal affected with rabies.
-LICENSING
+**** LICENSING ****
 § 93.060 LICENSING OF DOGS AND CATS REQUIRED.
    Each owner of a dog or cat that is the age of six months or over, within 30
 days of the acquisition of the animal or within 30 days of the animal turning
@@ -5143,7 +5143,7 @@ issued to the owner of the animal. The certificate shall be in possession of
 the owner and the license shall be affixed to the licensed animal at all times.
 If there is a change of ownership, loss, or death of the animal, the owner
 shall notify animal control of the event within ten days.
-MISCELLANEOUS REGULATIONS
+**** MISCELLANEOUS REGULATIONS ****
 § 93.075 KEEPING OF ANIMALS.
    (A)   The keeping of animals shall not be on such a scale so as to create a
 nuisance. This prohibition includes the domestic fowl of the order Galliformes
@@ -5219,7 +5219,7 @@ and fees associated with any required care, treatment, impounding, or kenneling
 of the animal.
 Penalty, see §
 93.999
-IMPOUNDMENT
+**** IMPOUNDMENT ****
 § 93.095 AUTHORITY TO IMPOUND.
    The animal control officer or police officers have the authority to impound
 any animal in violation of this chapter.
@@ -5245,7 +5245,7 @@ persons only after payment of daily boarding costs, any veterinarian fees, and
 impoundment fees have been paid in full.
    (B)   Boarding costs, veterinarian fees, and impoundment fees are in
 addition to any fines assessed for violation of this chapter.
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 93.115 ENFORCEMENT; AUTHORITY.
    (A)   The provisions of this chapter shall be enforced by the police
 department or the animal control officer.
@@ -5316,7 +5316,7 @@ Sidewalks
 94.39   Encroachments restricted
    
 94.40   Encroachment, removal
-GENERAL
+**** GENERAL ****
 § 94.01 AUTHORITY.
    (A)   Utility openings and lights in streets and alleys. This municipality
 shall have power to regulate openings in streets or alleys for laying of gas or
@@ -5342,7 +5342,7 @@ municipality shall have power to require the owner of abutting property to
 remove snow and ice from sidewalks and weeds from parking, and to provide for
 their removal and for taxing the expense thereof by special assessment against
 the abutting property pursuant to SDCL § 9-30-5.
-STREETS
+**** STREETS ****
 § 94.15 AUTHORITY OVER STREETS; IMPROVEMENTS.
    This municipality may lay out, establish, open, vacate, construct, alter,
 widen, extend, improve, repair, grade, gravel, surface, pave, repave, bridge,
@@ -5365,7 +5365,7 @@ shall be properly drained.
 under, or across, or to construct any sewer, water pipe, or main under or
 through any railroad track, right-of-way, or land of any railroad company
 within the corporate limits pursuant to SDCL § 9-35-7.
-SIDEWALKS
+**** SIDEWALKS ****
 § 94.30 DEFINITION; MUNICIPAL AUTHORITY.
    (A)   For the purposes of this subchapter, the term LOT includes tracts or
 other parcels of land.
@@ -5515,7 +5515,7 @@ Sport Shooting Range
 95.15   Definition
    
 95.16   Operation and use of any sport shooting range
-MUNICIPAL PARK
+**** MUNICIPAL PARK ****
 § 95.01 AUTHORITY.
    This municipality shall have the authority to establish, improve, maintain,
 and otherwise regulate public parks pursuant to SDCL §§ 9-38-1 et seq.
@@ -5537,7 +5537,7 @@ use of the board including tax revenues which may be appropriated for park
 purposes, shall be kept in a special park fund and shall be paid upon
 requisition by the president and secretary of the board and warrant drawn and
 executed as other warrants.
-SPORT SHOOTING RANGE
+**** SPORT SHOOTING RANGE ****
 § 95.15 DEFINITION.
    A SPORT SHOOTING RANGE is an area designed and operated for the use of
 rifles, shotguns, or pistols as a means of silhouette, skeet, trap, black
@@ -5965,7 +5965,7 @@ Miscellaneous Regulations
 110.29   Exhibitions, shows, and amusements
 Statutory reference:
    Family day care homes; regulation and standards of care, see SDCL § 9-29-26
-PEDDLERS AND TRANSIENT MERCHANTS
+**** PEDDLERS AND TRANSIENT MERCHANTS ****
 § 110.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6142,7 +6142,7 @@ Penalty, see §
 Statutory reference:
    Authority to regulate and license transient merchants, peddlers, see SDCL §
 9-34-7
-MISCELLANEOUS REGULATIONS
+**** MISCELLANEOUS REGULATIONS ****
 § 110.25 SOLICITING TELECOMMUNICATION SERVICES; EXEMPTION.
    (A)   It shall be unlawful for hawkers, peddlers, solicitors, pawnbrokers,
 ticket scalpers, and employment agencies to conduct business without out first
@@ -6343,7 +6343,7 @@ Cross-reference:
 31.08
 Statutory reference:
    Licensing policies and procedures, see SDCL §§ 35-2-1 et seq.
-GENERAL
+**** GENERAL ****
 § 113.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6431,7 +6431,7 @@ fruit bases, or honey, with or without adding alcoholic beverages; without
 rectification, except for the purpose of fortification; and contains not less
 than 0.5% and not more than 24% alcohol by volume.
 (SDCL § 35-1-1)
-LICENSING AND SALES
+**** LICENSING AND SALES ****
 § 113.15 PERMANENT LICENSES.
    The following are the fees to be paid for the various classes of licenses:
 SDCL § 35-4-2 DivisionClass of License Fees
@@ -6698,7 +6698,7 @@ fee is located. If the licensee is located outside the corporate limits of a
 municipality, 50% of the fees remain in the county in which the licensee is
 located. The remainder of all license and transfer fees and penalties received
 shall be credited to the state general fund.
-(SDCL § 35-4-2.11)
+*** (SDCL § 35-4-2.11) ***
 § 113.27 OFF-SALE LICENSEES PERMITTED TO PROVIDE FREE SAMPLES; NO ADDITIONAL
 LICENSE REQUIRED; RESTRICTIONS.
    (A)   A licensee holding a license pursuant to SDCL § 35-4-2(3) or (5) may
@@ -6753,7 +6753,7 @@ consumer for the purchase of alcoholic beverages. Any quantity discount or cash
 discount offered by a retailer to a consumer shall comply with the provisions
 of SDCL § 35-4-129.
 (SDCL § 35-4-130)
-MUNICIPAL LIQUOR OPERATIONS
+**** MUNICIPAL LIQUOR OPERATIONS ****
 § 113.45 MUNICIPAL APPLICATION AND RENEWAL.
    (A)   Any applicant for a new retail license, except as set forth in SDCL §
 35-2-1.1, or the transfer of an existing license shall submit an application to
@@ -6853,7 +6853,7 @@ PREPARED FOOD, AND BEVERAGES.
 provide for the service of food, prepared food, and beverages at any
 establishment operating under such license.
 (SDCL § 9-12-20)
-AGE REQUIREMENTS
+**** AGE REQUIREMENTS ****
 § 113.60 SALE TO PROHIBITED PERSONS.
    (A)   No licensee may sell or serve any alcoholic beverage to any person who
 is obviously intoxicated.
@@ -7200,7 +7200,7 @@ Miscellaneous Offenses
 130.99   Penalty
 Cross-reference:
    Local provisions, see Title XVII
-GENERAL
+**** GENERAL ****
 § 130.01 STATE CRIMES ADOPTED.
    The provisions of SDCL Title 22 are herein adopted by reference and shall be
 enforced by the police officers of this municipality. It shall be unlawful to
@@ -7210,7 +7210,7 @@ Penalty, see §
 Cross-reference:
    Police, see
 Ch. 33
-OFFENSES AGAINST THE ADMINISTRATION OF GOVERNMENT
+**** OFFENSES AGAINST THE ADMINISTRATION OF GOVERNMENT ****
 § 130.15 REFUSAL TO AID POLICE.
    It shall be unlawful to fail to promptly aid the police in the discharge of
 their duties when called upon by any police officer to do the same.
@@ -7278,7 +7278,7 @@ officer, employee, firefighter, or person is usually distinguished, and in such
 assumed character does any act where another person is injured or defrauded.
 Penalty, see §
 130.99
-MISCELLANEOUS OFFENSES
+**** MISCELLANEOUS OFFENSES ****
 § 130.35 CRUELTY TO ANIMALS.
    It shall be unlawful to engage in cruelty to animals. Any animal control
 officer finding an animal or fowl mistreated as described in this section shall
@@ -7916,7 +7916,7 @@ Ch. 90
 Statutory reference:
    Authority to adopt codes, see SDCL § 9-33-4.1
    Fire protection and safety regulations, see SDCL Chapter 9-33
-GENERALLY
+**** GENERALLY ****
 § 150.01 AUTHORITY FOR ZONING AND PLANNING.
    (A)   The municipality shall have the power to regulate zoning and planning
 pursuant to SDCL § 11-4-1 and therein for the purpose of promoting health,
@@ -8023,7 +8023,7 @@ said building, structure, or land, or to prevent any illegal act, conduct,
 business, or use in or about such premises.
 (SDCL § 11-4-7) Penalty, see §
 10.99
-CONTRACTORS
+**** CONTRACTORS ****
 § 150.20 REQUIREMENTS OF CONTRACTORS.
    (A)   Contractors doing work in or for the municipality are required to do
 the following prior to starting work.
