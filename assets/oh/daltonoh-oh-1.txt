@@ -10,7 +10,7 @@ Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
 ADOPTING ORDINANCE
-ORDINANCE No. 3-10
+***** ORDINANCE No. 3-10 *****
 AN ORDINANCE ENACTING A CODE OF ORDINANCES FOR THE VILLAGE OF DALTON, OHIO,
 REVISING, AMENDING, RESTATING, CODIFYING AND COMPILING CERTAIN EXISTING GENERAL
 ORDINANCES OF THE POLITICAL SUBDIVISION DEALING WITH SUBJECTS EMBRACED IN SUCH
@@ -143,7 +143,7 @@ ATTEST:
 ATTEST:                     APPROVED:
 /s/           /s/
 Clerk                        Mayor
-ORDINANCE No. 3-13
+***** ORDINANCE No. 3-13 *****
 Passed  February 11, 2013
 AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES FOR
 THE VILLAGE OF DALTON, WAYNE COUNTY, STATE OF OHIO, AND DECLARING AN EMERGENCY.
@@ -182,7 +182,7 @@ Passed in council this 11th day of February, 2013.
 ATTEST:               APPROVED:
 /s/           /s/
 Clerk                  Mayor
-Ordinance No. 9-16
+***** Ordinance No. 9-16 *****
 Passed  July 11, 2016
 AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES FOR
 THE VILLAGE OF DALTON, WAYNE COUNTY, STATE OF OHIO, AND DECLARING AN EMERGENCY.
@@ -221,7 +221,7 @@ Passed in council this 11th day of July, 2016.
 ATTEST:               APPROVED:
                                                               
 Clerk                  Mayor
-Ordinance No. 12-19
+***** Ordinance No. 12-19 *****
 Passed  November 18, 2019
 AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES FOR
 THE VILLAGE OF DALTON, WAYNE COUNTY, STATE OF OHIO, AND DECLARING AN EMERGENCY.
@@ -1432,13 +1432,13 @@ Other Officials
 31.105   Assistant Fiscal Officer
    
 31.106   Administrative Assistant
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.001 EXECUTIVE POWER; WHERE VESTED.
    The executive power and authority of the municipality shall be vested in the
 Mayor, Clerk, Treasurer, Marshal, Street Commissioner and other officers and
 departments as are created by law.
 (R.C. § 733.23) (Prior Code, § 31.01)
-MAYOR
+**** MAYOR ****
 § 31.015 TERM OF MAYOR; POWERS AND DUTIES.
    The Mayor shall be elected for a term of four years commencing on the first
 day of January next after his or her election. He or she shall be an elector of
@@ -1568,7 +1568,7 @@ for violations of R.C. § 4513.263(B), or any substantially equivalent municipal
 ordinance, all of which shall be forwarded to the Treasurer of State as
 provided in R.C. § 4513.263(E).
 (R.C. § 733.40)
-CLERK
+**** CLERK ****
 § 31.040 ELECTION, TERM, QUALIFICATIONS OF THE CLERK.
    (A)   The Clerk shall be elected for a term of four years, commencing on
 April 1 next after his or her election.
@@ -1721,7 +1721,7 @@ election.
 Clerk-Treasurer under the circumstances described in this division shall serve
 a four-year term commencing on the first day of April following that election.
 (R.C. § 733.262)
-TREASURER
+**** TREASURER ****
 § 31.060 ELECTION, TERM, QUALIFICATIONS OF THE TREASURER.
    The Treasurer shall be elected for a term of four years, commencing on
 January 1 next after his or her election. He or she shall be an elector of the
@@ -1801,7 +1801,7 @@ funds when the officer has performed all official duties required of the
 officer with reasonable care, but shall be liable only when a loss of public
 funds results from the officer’s negligence or other wrongful act.
 (R.C. § 733.82)
-STREET COMMISSIONER
+**** STREET COMMISSIONER ****
 § 31.080 QUALIFICATIONS.
    (A)   So long as the municipality has not provided for the appointment of an
 Administrator under R.C. § 735.271 or a substantially equivalent municipal
@@ -1841,7 +1841,7 @@ chief executive officer requires.
 be employed by the Street Commissioner and serve for the time and compensation
 as is fixed by the legislative authority.
 (R.C. § 735.33) (Prior Code, § 31.42)
-OTHER OFFICIALS
+**** OTHER OFFICIALS ****
 § 31.100 LEGAL COUNSEL.
    (A)   Except as provided in division (B) of this section, when it considers
 it necessary, the legislative authority may provide legal counsel for the
@@ -2194,7 +2194,7 @@ petitions; ordinances passed or repealed prior to election
 Statutory reference:
    Village accounting and financial reporting, State Auditor administrative
 regulations, see O.A.C. Ch. 117-9
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.001 MEMBERS OF THE LEGISLATIVE AUTHORITY; ELECTION; TERMS OF OFFICE.
    (A)   Except as otherwise provided in division (B) or (C) of this section,
 the legislative power of each municipality shall be vested in and exercised by,
@@ -2401,7 +2401,7 @@ owned, maintained or established by the municipality. When the legislative
 authority determines to plat any of the streets, it shall provide for the
 platting thereof.
 (R.C. § 735.27)
-CONTRACTS, BIDS AND PROCEEDINGS
+**** CONTRACTS, BIDS AND PROCEEDINGS ****
 § 32.025 CONTRACTS BY THE LEGISLATIVE AUTHORITY OR ADMINISTRATOR.
    (A)   Contracts by the legislative authority.
       (1)   All contracts made by the legislative authority shall be executed
@@ -2573,7 +2573,7 @@ electronic mail address, or any other designation used for self-identification
 or routing in internet communication or posting, provided for the purpose of
 receiving communication.
 (R.C. § 9.312)
-ORDINANCES AND RESOLUTIONS
+**** ORDINANCES AND RESOLUTIONS ****
 § 32.040 ORDINANCES AND RESOLUTIONS AS EVIDENCE.
    Printed copies of the ordinances and resolutions of the municipality,
 published under its authority and transcripts of any resolutions or ordinances
@@ -2771,7 +2771,7 @@ or measures must, upon a yea and nay vote, receive a two-thirds vote of all the
 members elected to the legislative authority and the reasons for the necessity
 shall be set forth in one section of the ordinance or other measure.
 (R.C. § 731.30)
-INITIATIVE AND REFERENDUM
+**** INITIATIVE AND REFERENDUM ****
 § 32.070 INITIATIVE PETITIONS.
    (A)   Ordinances and other measures providing for the exercise of any powers
 of government granted by the Constitution or delegated to the municipality by
@@ -3021,7 +3021,7 @@ Statutory reference:
 effect on certificates of registration and driver's licenses, see R.C. §§
 4503.13 and 4507.091
    Registration and reports of Mayor's Court, see R.C. § 1905.033
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.01 JURISDICTION IN ORDINANCE CASES AND TRAFFIC VIOLATIONS.
    (A)   In all municipalities having a population of more than 200 not being
 the site of a municipal court nor a place where a judge sits pursuant to R.C. §
@@ -3304,7 +3304,7 @@ license was suspended under this section.
 Cross-reference:
    Driving while intoxicated or drugged, see §
 73.01
-CONTEMPT OF COURT
+**** CONTEMPT OF COURT ****
 § 33.20 SUMMARY PUNISHMENT FOR CONTEMPT.
    A court or judge at chambers, may summarily punish a person guilty of
 misbehavior in the presence of or so near the court or judge as to obstruct the
@@ -3552,7 +3552,7 @@ Statutory reference:
    Power of municipality to establish a police department, see R.C. § 715.05
    Purchase of police dogs or horses by law enforcement officers, see R.C. §
 9.62
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 MARSHAL AND POLICE CHIEF SYNONYMOUS.
    The designation "Marshal", wherever used in this code, is defined to include
 the term "Police Chief" and the designation "Police Chief", wherever used in
@@ -4163,7 +4163,7 @@ Cross-reference:
 Ch. 91
 Statutory reference:
    Power of municipality to establish a fire department, see R.C. § 715.05
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 35.01 MUNICIPAL FIRE REGULATIONS; FIRE DEPARTMENT.
    The legislative authority may establish all necessary regulations to guard
 against the occurrence of fires and protect the property and lives of its
@@ -4564,7 +4564,7 @@ walls are made of iron, stone, brick and mortar or of some of them and may
 provide for the removal of any building or additions erected in violation of
 the prohibition.
 (R.C. § 737.28)
-VOLUNTEER FIREFIGHTERS' DEPENDENTS FUND BOARD
+**** VOLUNTEER FIREFIGHTERS' DEPENDENTS FUND BOARD ****
 § 35.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5592,7 +5592,7 @@ Cross-reference:
 Ch. 37
 Statutory reference:
    Municipal income tax, see R.C. Ch. 718
-INCOME TAX
+**** INCOME TAX ****
 § 38.01 PURPOSE.
    To provide funds for the purposes of general municipal operations,
 maintenance, new equipment, extension and enlargement of municipal services and
@@ -6136,7 +6136,7 @@ Personnel Policies
 General Policies
    
 39.30   Process of handling unclaimed or indigent bodies
-NOTIFICATION OF MEETINGS
+**** NOTIFICATION OF MEETINGS ****
 § 39.01 PURPOSE.
    The Village Council has adopted the following rules, pursuant to R.C. §
 121.22(F), for the purposes of establishing a reasonable method for any person
@@ -6316,7 +6316,7 @@ prevent the village from entering into contracts or otherwise agreeing to pay
 contractors for repairs, extensions, maintenance or other construction and
 improvements to the village utilities.
 (Ord. 7-08, passed 9-15-2008)
-PERSONNEL POLICIES
+**** PERSONNEL POLICIES ****
 § 39.20 PERSONNEL POLICIES ADOPTED BY REFERENCE.
    (A)   The village Personnel Policies and all amendments thereto, are hereby
 adopted by reference and incorporated into this code of ordinances as if fully
@@ -6324,7 +6324,7 @@ set forth herein.
    (B)   Copies of the Personnel Policies are available for public inspection
 during normal hours at the office of the Fiscal Officer.
 (Prior Code, § 39.20)
-GENERAL POLICIES
+**** GENERAL POLICIES ****
 § 39.30 PROCESS OF HANDLING UNCLAIMED OR INDIGENT BODIES.
    (A)   When the body of a dead person is found in a township or municipal
 corporation, and such person was not an inmate of a correctional, benevolent,
@@ -10573,7 +10573,7 @@ Annual Motor Vehicle License Tax
 42.03   Payment of tax
    
 42.04   Use of funds
-ANNUAL MOTOR VEHICLE LICENSE TAX
+**** ANNUAL MOTOR VEHICLE LICENSE TAX ****
 § 42.01 LEVY OF TAX.
    There is hereby levied an annual license tax upon the operation of motor
 vehicles on the public roads or highways pursuant to R.C. § 4504.172, for the
@@ -10863,7 +10863,7 @@ Administration
  
    
 52.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -11255,7 +11255,7 @@ subchapter shall have the right to appeal that decision before the full Village
 Council. They shall also have all rights of appeals available to them through
 the court system.
 (Ord. 8-04, passed 9-13-2004)
-DISCHARGE AND PRETREATMENT REGULATIONS
+**** DISCHARGE AND PRETREATMENT REGULATIONS ****
 § 52.20 AUTHORITY.
    This subchapter sets forth uniform requirements for dischargers into the
 village wastewater collection and treatment systems and enables the village to
@@ -12043,7 +12043,7 @@ tampers with or knowingly renders inaccurate any monitoring device or method
 required under this subchapter shall be punished as provided in §
 10.99.
 (Prior Code, § 52.30) (Ord. 5-94, passed 4-11-1994)
-RATES AND CHARGES
+**** RATES AND CHARGES ****
 § 52.50 USER RATES.
    (A)   The rates to be charged the users of the Dalton sewage system and
 sewage disposal plant within the Village of Dalton corporation limits, after
@@ -12281,7 +12281,7 @@ connection to the village sewer system.
    (C)   This section shall apply to residential, commercial and agricultural
 usage of the village sewer system.
 (Ord. 14-09, passed 10-12-2009)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 52.65 SUPERINTENDENT OF WATER AND SEWERAGE.
    (A)   There shall be a Superintendent of Water and Sewerage in and for the
 village. The duties of this position shall include all work in connection with
@@ -12416,7 +12416,7 @@ Water Wells
 Cross-reference:
    Water and Sewerage Superintendent, see §
 52.65
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 53.01 RATES AND CHARGES.
    (A)   The charge for water usage for residents within the Village of Dalton
 shall increase in a two-step process as follows:
@@ -12493,7 +12493,7 @@ poisonous substance upon or under the ground or in any stream or body of water
 within 500 feet of the wells.
 (Prior Code, § 53.04) (Ord. 208, passed 12-12-1955) Penalty, see §
 10.99
-CROSS-CONNECTION CONTROL
+**** CROSS-CONNECTION CONTROL ****
 § 53.15 RESERVED.
 § 53.16 BACKFLOW PREVENTION REQUIREMENTS.
    (A)   If, in the judgment of the Water/Sewer Operations Manager, an approved
@@ -12539,7 +12539,7 @@ contamination of the public water supply distribution mains. Water service to
 such property shall not be restored until such conditions shall have been
 eliminated or corrected in compliance with the provisions of this subchapter.
 (Prior Code, § 53.17) (Ord. 21-06, passed 3-15- 2021)
-WATER WELLS
+**** WATER WELLS ****
 § 53.30 DRILLING OF WATER WELLS.
    For the quantitative and qualitative protection of the water supply of the
 village (to prevent unnecessary waste or water and the pollution thereof and to
@@ -12682,7 +12682,7 @@ Statutory reference:
    Local traffic regulations, scope and authority, see R.C. § 4511.07
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
    Uniform application and precedence of state traffic laws, see R.C. § 4511.06
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    Except as otherwise provided, the definitions set forth in R.C. § 4501.01
 shall apply to this title,
@@ -13443,7 +13443,7 @@ the municipal corporation.
 post a notice at the entrance to the storage facility that states the
 limitation on fees established under division (F) of this section.
 (R.C. § 4513.68)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.30 OBEYING TRAFFIC-CONTROL DEVICES.
    (A)   (1)   No pedestrian or driver of a vehicle shall disobey the
 instructions of any traffic-control device placed in accordance with the
@@ -14097,7 +14097,7 @@ as agents of Registrar of Motor Vehicles; procedures and rules, see R.C. §§
    Suspension and revocation of driver's licenses, see R.C. Ch. 4510
    Suspension of driver's licenses; municipal power to suspend for a period not
 to exceed time permitted or required by state law, see R.C. § 4510.05
-MOTOR VEHICLE LICENSING
+**** MOTOR VEHICLE LICENSING ****
 § 71.01 DISPLAY OF LICENSE PLATES OR VALIDATION STICKERS; REGISTRATION.
    (A)   (1)   No person who is the owner or operator of a motor vehicle shall
 fail to display in plain view on the rear of the motor vehicle a license plate
@@ -14288,7 +14288,7 @@ manufacturer or dealer.
    (B)   Whoever violates division (A) of this section is guilty of illegal
 operation of a manufacturer’s or dealer’s motor vehicle, a minor misdemeanor.
 (R.C. § 4549.10) (Prior Code, § 73.28)
-DRIVER'S LICENSES
+**** DRIVER'S LICENSES ****
 § 71.20 PROHIBITED ACTS.
    (A)   No person shall do any of the following:
       (1)   Display or cause or permit to be displayed or possess any
@@ -15300,7 +15300,7 @@ permit or driver’s or commercial driver’s license or in violation of a
 restriction because of a substantial emergency and because no other person was
 reasonably available to drive in response to the emergency.
 (R.C. § 4510.04)
-COMMERCIAL DRIVER'S LICENSES
+**** COMMERCIAL DRIVER'S LICENSES ****
 § 71.45 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -16031,7 +16031,7 @@ vehicle
 probationary drivers while driving prohibited
 Statutory reference:
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.001 LANES OF TRAVEL UPON ROADWAYS.
    (A)   Upon all roadways of sufficient width, a vehicle shall be driven upon
 the right half of the roadway, except as follows:
@@ -16525,7 +16525,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.40) (Prior Code, § 72.17)
-RIGHT-OF-WAY
+**** RIGHT-OF-WAY ****
 § 72.030 RIGHT-OF-WAY AT INTERSECTIONS.
    (A)   When two vehicles approach or enter an intersection from different
 streets or highways at approximately the same time, the driver of the vehicle
@@ -16900,7 +16900,7 @@ offense, the offender previously has been convicted of two or more predicate
 motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 (R.C. § 4511.48) (Prior Code, § 72.31)
-PEDESTRIANS
+**** PEDESTRIANS ****
 § 72.055 PEDESTRIAN MOVEMENT IN CROSSWALKS.
    (A)   Pedestrians shall move, whenever practicable, upon the right half of
 crosswalks.
@@ -17233,7 +17233,7 @@ commercial general liability insurance related to the operation of the devices,
 with limits of up to $1,000,000 per occurrence and $2,000,000 per aggregate.
 (R.C. § 4511.514) Penalty, see §
 70.99
-GRADE CROSSINGS
+**** GRADE CROSSINGS ****
 § 72.075 STOP SIGNS AT GRADE CROSSINGS.
    (A)   As used in this section, ACTIVE GRADE CROSSING WARNING DEVICE means
 signs, signals, gates, or other protective devices erected or installed at a
@@ -17371,7 +17371,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.64) (Prior Code, § 72.48)
-SCHOOL BUSES
+**** SCHOOL BUSES ****
 § 72.090 REGULATIONS CONCERNING SCHOOL BUSES.
    (A)   The driver of a vehicle, upon meeting or overtaking from either
 direction any school bus stopped for the purpose of receiving or discharging
@@ -17623,7 +17623,7 @@ occupant restraining device, as defined in R.C. § 4513.263, installed for use
 in its operator's seat.
    (B)   Whoever violates this section is guilty of a minor misdemeanor.
 (R.C. § 4511.772) (Prior Code, § 72.89)
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 72.115 OBSTRUCTION AND INTERFERENCE AFFECTING VIEW AND CONTROL OF DRIVER.
    (A)   No person shall drive a vehicle when it is so loaded or when there are
 in the front seat such number of persons, as to obstruct the view of the driver
@@ -17846,7 +17846,10 @@ the offender is subject to the additional fine established under §
 (R.C. §§ 4511.213(D), 4511.72(B))
 (Prior Code, § 72.60)
    (D)   The offense established under division (B) of this section is a strict
-liability offense and R.C. §
+liability offense and R.C. § 2901.20 does not apply. The designation of this
+offense as a strict liability offense shall not be construed to imply that any
+other offense, for which there is no specified degree of culpability, is not a
+strict liability offense.
 (R.C. §§ 4511.213(E))
 § 72.121 DRIVING OVER UNPROTECTED FIRE HOSE.
    (A)   No vehicle shall, without the consent of the fire department official
@@ -18491,7 +18494,7 @@ Stopping After Accident
 73.33   Failure to report accident
 Statutory reference:
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 73.01 DRIVING UNDER THE INFLUENCE OF ALCOHOL OR DRUGS.
    (A)   (1)   No person shall operate any vehicle within this municipality,
 if, at the time of the operation, any of the following apply:
@@ -19962,7 +19965,7 @@ dealer who sells mini-trucks at retail.
 in division (D) of this section.
 (R.C. § 4519.401)
    (H)   This section will take effect on January 1, 2017.
-STOPPING AFTER ACCIDENT
+**** STOPPING AFTER ACCIDENT ****
 § 73.30 FAILURE TO STOP AFTER ACCIDENT.
    (A)   (1)   In the case of a motor vehicle accident or collision with
 persons or property on a public road or highway, the operator of the motor
@@ -20213,7 +20216,7 @@ helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
    Snowmobiles and all-purpose vehicles, equipment, see O.A.C. § 4501-29-01
    Vehicle lighting, see O.A.C. Ch. 4501-15
-EQUIPMENT
+**** EQUIPMENT ****
 § 74.01 UNSAFE VEHICLES, PROHIBITION AGAINST OPERATION.
    (A)   No person shall drive or move or cause or knowingly permit to be
 driven or moved, on any highway any vehicle or combination of vehicles which is
@@ -21334,7 +21337,7 @@ prosecuted under appropriate state law.
 or offer for sale in violation of this section shall constitute a separate and
 distinct violation.
 (R.C. § 4549.20)
-LOADS
+**** LOADS ****
 § 74.50 PERMIT REQUIRED TO EXCEED LOAD LIMITS.
    (A)   (1)   The municipality, with respect to highways under their
 jurisdiction, upon application in writing, shall issue a special regional heavy
@@ -22131,7 +22134,7 @@ Statutory reference:
 (8)
    Protective eye devices required for motorcycle operators and passengers;
 helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 75.01 BICYCLES; APPLICATION OF TITLE VII.
    (A)   The provisions of this title that are applicable to bicycles and
 electric bicycles apply whenever a bicycle or electric bicycle is operated upon
@@ -22436,7 +22439,7 @@ liability offenses shall not be construed to imply that any other offense, for
 which there is no specified degree of culpability, is not a strict liability
 offense.
 (R.C. § 4511.522)
-SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES AND ALL-PURPOSE VEHICLES
+**** SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES AND ALL-PURPOSE VEHICLES ****
 § 75.25 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -23345,7 +23348,7 @@ Statutory reference:
 licensing, see R.C. Chapter 935
    Rabies: report of dog bite, confinement of animal, report of suspected rabid
 animal, see O.A.C. §§ 3701-3-28 et seq.
-ANIMALS RUNNING AT LARGE
+**** ANIMALS RUNNING AT LARGE ****
 § 90.01 DOGS, CATS, AND OTHER ANIMALS RUNNING AT LARGE.
    (A)   Animals, other than dogs, running at large.
       (1)   Definitions. For the purpose of this section, the following
@@ -23581,7 +23584,7 @@ the criminal laws or ordinances that punish cruelty to animals. Nothing in this
 section precludes a law enforcement officer from killing a dog that attacks a
 police dog as defined in R.C. § 2921.321.
 (R.C. § 955.28(A)) (Prior Code, § 90.08)
-OFFENSES RELATING TO ANIMALS
+**** OFFENSES RELATING TO ANIMALS ****
 § 90.20 ABANDONING ANIMALS.
    (A)   No owner or keeper of a dog, cat or other domestic animal shall
 abandon the animal.
@@ -24443,7 +24446,7 @@ Statutory reference:
    Ohio Fire Code, see O.A.C. Ch. 1301:7-7
    Open burning, see O.A.C. Ch. 3745-19
    Power to regulate explosives, see R.C. § 715.60
-FIREWORKS AND EXPLOSIVES
+**** FIREWORKS AND EXPLOSIVES ****
 § 91.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -25004,7 +25007,7 @@ the municipality and all other persons against injury or damages which might
 result from the proposed blasting.
 (Prior Code, § 91.21) Penalty, see §
 91.99
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 91.30 REMOVAL OF FLAMMABLE MATERIALS OR OBSTRUCTIONS.
    Any flammable or combustible materials not arranged or stored in a manner as
 to afford reasonable safety against the danger of fire, or any matter stored or
@@ -25202,7 +25205,7 @@ her under R.C. § 3737.82.
 degree.
 (R.C. § 3701.99(B))
 (Prior Code, § 91.40)
-OPEN BURNING
+**** OPEN BURNING ****
 § 91.55 DEFINITIONS.
    (A)   General definitions. For the purpose of this subchapter, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -27057,7 +27060,7 @@ Statutory reference:
 R.C. § 1533.85
    Ohio Building Code, see O.A.C. Ch. 4101:1
    Power to abate and prevent nuisances, see R.C. § 715.44
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 APPLICATION OF THE CHAPTER.
    The provisions of this chapter shall be enforceable within this municipality
 concurrently with the state and federal laws relative to sanitation and health
@@ -27307,7 +27310,7 @@ real estate.
 93.99
 Statutory reference:
    Power to regulate shade trees, see R.C. § 715.20
-SEPTIC TANKS, CESSPOOLS AND REFUSE
+**** SEPTIC TANKS, CESSPOOLS AND REFUSE ****
 § 93.20 LOCATION OF PRIVY VAULTS, CESSPOOLS AND SEPTIC TANKS.
    No owner, occupant or person in charge of any premises situated as to permit
 connection with any sanitary sewer shall maintain or permit to be maintained on
@@ -27495,7 +27498,7 @@ as directed in relation to the improvement of streets.
    (E)   The officers connected with the Health Department of the municipality
 shall see that this section is strictly and promptly enforced.
 (R.C. § 715.47) (Prior Code, § 93.28)
-WEEDS AND LITTER ON PRIVATE PROPERTY
+**** WEEDS AND LITTER ON PRIVATE PROPERTY ****
 § 93.40 KEEPING DOWN WEEDS.
    (A)   Any person owning or having charge of land within the municipality
 shall keep the property free and clear from all noxious weeds and rank
@@ -27592,7 +27595,7 @@ duplicate and be a lien upon such lands from and after the date of entry and be
 collected as other taxes and returned to the municipality with the General
 Fund.
 (R.C. § 731.54) (Prior Code, § 93.44)
-UNCLEAN HABITATIONS
+**** UNCLEAN HABITATIONS ****
 § 93.60 PERMITTING UNCLEAN HABITATIONS.
    It shall be unlawful for any person to lease, let, permit the occupancy of,
 permit the continuation of the occupancy of, or continue the occupancy of a
@@ -27651,7 +27654,7 @@ the municipality. Proceedings under this section shall not relieve any party
 defendant from criminal prosecution or punishment under this code or any other
 criminal law or ordinance in force within the municipality.
 (Prior Code, § 93.14)
-REGULATION OF PROPERTY USED AS CLANDESTINE DRUG LABORATORIES
+**** REGULATION OF PROPERTY USED AS CLANDESTINE DRUG LABORATORIES ****
 § 93.75 GENERAL PROVISIONS.
    (A)   Purpose and intent. The purpose of this subchapter is to reduce public
 exposure to health risks where trained law enforcement officers have determined
@@ -27908,7 +27911,7 @@ Statutory reference:
    Assessments generally, see R.C. Ch. 727
    Vacation or establishment of streets by court, notice and hearings, see R.C.
 §§ 723.09 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.001 CONDITIONS PRECEDENT TO IMPROVING STREETS.
    No department of this municipality shall accept, lay out, open, improve,
 grade, pave, curb or light any street or other way, unless the street or way
@@ -28075,7 +28078,7 @@ to mark the boundary thereof, or for any other purpose.
    (B)   Whoever violates this section is guilty of a minor misdemeanor.
 (R.C. § 5589.99(B))
 (Prior Code, § 94.14)
-CONSTRUCTION AND REPAIR
+**** CONSTRUCTION AND REPAIR ****
 § 94.025 CONSTRUCTION AND REPAIR MAY BE REQUIRED.
    In addition to the power conferred upon the municipality under R.C. § 727.01
 to construct sidewalks, curbs or gutters and levy an assessment therefor, the
@@ -28211,7 +28214,7 @@ subchapter shall be construed in accordance with the provisions of R.C. §
 (R.C. § 729.10)
 Statutory reference:
    Assessments generally, see R.C. Ch. 727
-CHANGES IN STREETS
+**** CHANGES IN STREETS ****
 § 94.040 CHANGE OF NAME, VACATING OR NARROWING STREETS BY PETITION.
    The legislative authority, on petition by a person owning a lot in the
 municipality requesting that a street or alley in the immediate vicinity of the
@@ -28277,7 +28280,7 @@ alley or highway for the purpose of maintaining, operating, renewing,
 reconstructing and removing the utility facilities and for purposes of access
 to the facilities.
 (R.C. § 723.041) (Prior Code, § 94.45)
-SPECIFICATIONS FOR DRIVEWAYS, SIDEWALKS AND CURBS
+**** SPECIFICATIONS FOR DRIVEWAYS, SIDEWALKS AND CURBS ****
 § 94.060 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -28418,7 +28421,7 @@ of the new driveway. The curb and gutter will then be removed to the subbase
 and replaced with new concrete forming the dropped curb.
 (Prior Code, § 94.64) (Ord. 18-93, passed 11-8-1993) Penalty, see §
 94.999
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 94.080 STREET SUPERINTENDENT.
    (A)   The appointment of the Street Superintendent shall be made by the
 Mayor and confirmed by Council at the first regular meeting of Council of each
@@ -29141,7 +29144,7 @@ Enforcement
 98.36   Remedial efforts
    
 98.37   Costs and assessments
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 98.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -29228,7 +29231,7 @@ shrub and remove the same from his or her property.
    (C)   Trees planted in the tree lawn shall be maintained exclusively by the
 village.
 (Prior Code, § 98.06) (Ord. 23-95, passed 12-11-1995)
-TREE COMMISSION
+**** TREE COMMISSION ****
 § 98.20 ESTABLISHMENT.
    The Tree Commission established by Ord. 3-84 is hereby reconfirmed and
 maintained. The Tree Commission shall be composed of five citizens and
@@ -29260,7 +29263,7 @@ the village and shall have the authority to set forth the rules and regulations
 for the maintenance and removal of trees on private property declared to be a
 public nuisance.
 (Prior Code, § 98.22) (Ord. 23-95, passed 12-11-1995)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 98.35 NOTICE.
    (A)   The Tree Commission shall have the authority to investigate or cause
 to investigate any complaints or reports of trees or shrubs which may
@@ -29648,7 +29651,7 @@ Conditions
  
    
 112.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 112.01 PURPOSE AND FINDINGS.
    (A)   Purpose. It is the purpose of this chapter to regulate adult
 entertainment businesses in order to promote the health, safety, morals and
@@ -30252,7 +30255,7 @@ Court, pursuant to R.C. § 2506 as modified herein. The modification is that the
 village will file the transcript with the Common Pleas Court within ten days of
 filing of the notice of appeal.
 (Ord. 3-06, passed 8-14-2006)
-SPECIFIC BUSINESSES
+**** SPECIFIC BUSINESSES ****
 § 112.25 ADULT MOTELS.
    (A)   Evidence that a sleeping room in a hotel, motel or a similar
 commercial establishment has been rented and vacated two or more times in a
@@ -30363,7 +30366,7 @@ in any room on the premises, except that a sofa may be placed in a reception
 room open to the public.
 (Ord. 3-06, passed 8-14-2006) Penalty, see §
 112.99
-CONDITIONS
+**** CONDITIONS ****
 § 112.40 LOCATION.
    (A)   A person commits a misdemeanor if the person operates or causes to be
 operated an adult entertainment business within 500 feet of:
@@ -44470,7 +44473,7 @@ structures, see R.C. §§ 713.07 et seq.
    Revision of plats, see R.C. §§ 711.28 et seq.
    Vacating plats, see R.C. §§ 711.17 et seq.
    Violation of zoning ordinances, see R.C. § 713.13
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 TITLE.
    The regulations in this chapter shall be known and may be cited and referred
 to as the "Building Regulations of the Village of Dalton, Ohio".
@@ -44519,7 +44522,7 @@ improvements to any real estate located within the village corporate limits
 regardless of size and whether said improvement will be a temporary structure,
 as defined in the chapter, or not.
 (Ord. 11-15, passed 10-19-2015)
-BUILDING CODE
+**** BUILDING CODE ****
 § 150.15 BUILDING CODE ADOPTED.
    (A)   (1)   The Residential Code of Ohio heretofore adopted by the
 Commissioners of the county, together with all amendments thereto now in force
@@ -44542,7 +44545,7 @@ Code in the village shall be paid to the County Commissioners, or their
 officers and appointees, in return for the administration of the Residential
 Code of Ohio and the Ohio Building Code within the village.
 (Ord. 3-08, passed 4-14-2008)
-VILLAGE BUILDING REGULATIONS
+**** VILLAGE BUILDING REGULATIONS ****
 § 150.30 COMPLIANCE WITH REGULATIONS REQUIRED.
    (A)   It shall be unlawful for any person, persons, firm or corporation to
 construct, repair, alter or add to, any building or other structure in the
@@ -45101,7 +45104,7 @@ Administration and Enforcement
 Appendix A:   Fees
    
 Appendix B:   Forms
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.001 TITLE.
    The regulations in this chapter shall be known and may be cited and referred
 to as the "Subdivision Regulations of the Village of Dalton, Ohio", and shall
@@ -45270,7 +45273,7 @@ or registered professional engineer in the state designated by the Planning
 Commission to aid the village in the interpretation, review and inspection of
 the plats and improvements for the proposed subdivision.
 (Ord. 5-06, passed 6-12-2006)
-APPLICATION PROCEDURES AND APPROVAL PROCESS
+**** APPLICATION PROCEDURES AND APPROVAL PROCESS ****
 § 152.020 PRE-APPLICATION CONFERENCE.
    (A)   Prior to the submission of a preliminary plat, the subdivider shall
 seek the assistance of the Planning Commission and municipal officials with
@@ -45453,7 +45456,7 @@ improvements described in §
 to the applicant for recordation with the County Recorder and County Auditor.
 The other copy shall be retained in the records of the Planning Commission.
 (Ord. 5-06, passed 6-12-2006)
-PLAT REQUIREMENTS
+**** PLAT REQUIREMENTS ****
 § 152.040 GENERAL REQUIREMENTS.
    The purpose of this chapter is to set forth the specific information to be
 provided by subdividers in order to permit adequate review, processing and
@@ -45584,7 +45587,7 @@ the installation of all required improvements as provided in §§
 152.075 through
 152.087.
 (Ord. 5-06, passed 6-12-2006)
-DESIGN STANDARDS
+**** DESIGN STANDARDS ****
 § 152.055 GENERAL.
    In addition to the Village Construction and Material Specifications and
 Standard Construction Drawings and such other requirements of the village as
@@ -45722,7 +45725,7 @@ maintenance plan submitted to the village for review and approval.
    (B)   The plan shall set forth the responsibility for maintenance of all
 areas and shall describe the method of financing the maintenance program.
 (Ord. 5-06, passed 6-12-2006)
-MINIMUM REQUIRED IMPROVEMENTS
+**** MINIMUM REQUIRED IMPROVEMENTS ****
 § 152.075 GENERAL.
    Prior to the granting of final plat approval, the subdivider shall have
 designed, furnished and installed or shall have furnished adequate bond or
@@ -45926,7 +45929,7 @@ improvements have been completed to the satisfaction of the Village Council
 shall release the subdivider and surety from any further obligation under the
 terms of the maintenance bond.
 (Ord. 5-06, passed 6-12-2006)
-AGREEMENTS, BONDS AND GUARANTEES
+**** AGREEMENTS, BONDS AND GUARANTEES ****
 § 152.100 PERFORMANCE BONDS.
    (A)   Prior to the endorsement of the plat by village officials, the
 subdivider shall furnish a bond or other security in a form and amount
@@ -45989,7 +45992,7 @@ taxes are paid on any streets or other lands dedicated to public use.
    (B)   The title insurance policy shall show the release by the mortgage
 holder, if any, of all interest in all property dedicated to a public use.
 (Ord. 5-06, passed 6-12-2006)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 152.120 AUTHORITY.
    (A)   The Planning Commission is hereby designated as the platting authority
 and is charged with the duty of providing regulations and making investigations
@@ -46110,7 +46113,7 @@ Village of Dalton • 1 W. Main St. • P. O. Box 493 • Dalton, Ohio 44618
 Please submit 8 copies of this application form with required attachments.
 Name of Proposed Subdivision:                                                                                                                        
 Location of Subdivision:                                                                                                                                  
-Name of Applicant:                                                     
+Name of Applicant:                                                      
 Address:                                                                                                                                                        
 Phone:                                                             Fax:                                                                            
 Proposed Use of Lots:                                                                                                                                     
