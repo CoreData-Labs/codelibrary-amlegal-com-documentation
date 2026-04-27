@@ -2753,7 +2753,7 @@ Substandard Structures
  
    
 93.99   Penalty
-NUISANCES
+**** NUISANCES ****
 § 93.01 NUISANCES GENERALLY; WHAT CONSTITUTES.
    Whatever is dangerous to human life or hearth, or whatever renders the
 ground, the water, the air or food a hazard or injury to human life or health
@@ -2938,7 +2938,7 @@ for a distance of 5,000 feet.
 Statutory reference:
    Authority of city to prohibit nuisances outside city limits for distance of
 5,000 feet, see Tex. Local Gov’t Code § 217.042
-SUBSTANDARD STRUCTURES
+**** SUBSTANDARD STRUCTURES ****
 § 93.25 DEFINITION.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9072,7 +9072,7 @@ PARALLEL REFERENCES
 References to Texas Codes
 References to Ordinances
 REFERENCES TO TEXAS CODES
-REFERENCES TO TEX. ADMINISTRATIVE CODE
+**** REFERENCES TO TEX. ADMINISTRATIVE CODE ****
  
 Reference Code Section
 312.142   52.02
@@ -9080,7 +9080,7 @@ Reference Code Section
 319.11    52.03
           
  
-REFERENCES TO TEX. ALCOHOLIC BEVERAGE CODE
+**** REFERENCES TO TEX. ALCOHOLIC BEVERAGE CODE ****
  
 Reference Code Section
 11.38     114.02
@@ -9089,18 +9089,18 @@ Reference Code Section
 109.33    114.04
           
  
-REFERENCES TO TEX. FAMILY CODE
+**** REFERENCES TO TEX. FAMILY CODE ****
  
 Reference Code Section
 51.03     132.06
 52.01     132.06
  
-REFERENCES TO TEX. GOVERNMENT CODE
+**** REFERENCES TO TEX. GOVERNMENT CODE ****
  
 Reference Code Section
 29.010    30.02
  
-REFERENCES TO TEX. HEALTH AND SAFETY CODE
+**** REFERENCES TO TEX. HEALTH AND SAFETY CODE ****
 Reference Code Section
 Reference       Code Section
 181.002         130.04
@@ -9117,14 +9117,14 @@ Reference       Code Section
 822.0422(b)     90.35
                 
  
-REFERENCES TO TEX. LABOR CODE
+**** REFERENCES TO TEX. LABOR CODE ****
  
 Reference Code Section
 51.0145   111.06
           
  
  
-REFERENCES TO TEX. LOCAL GOV’T CODE
+**** REFERENCES TO TEX. LOCAL GOV’T CODE ****
 Reference Code Section
 Reference   Code Section
 22.073      30.02
@@ -9146,7 +9146,7 @@ Ch. 243     113.01
 401.002     93.01
             
  
-REFERENCES TO TEX. OCCUPATIONS CODE
+**** REFERENCES TO TEX. OCCUPATIONS CODE ****
  
 Reference       Code Section
 120.001 et seq. 153.03;
@@ -9155,7 +9155,7 @@ Reference       Code Section
                 90.36
                 
  
-REFERENCES TO TEX. PENAL CODE
+**** REFERENCES TO TEX. PENAL CODE ****
 Reference Code Section
 Reference          Code Section
 Titles 1 through 3 10.05
@@ -9171,12 +9171,12 @@ Ch. 25             113.05
 Ch. 43             113.05
                    
  
-REFERENCES TO TEX. TRANSPORTATION CODE
+**** REFERENCES TO TEX. TRANSPORTATION CODE ****
  
 Reference  Code Section
 545.301(3) Ch. 72, Sch. I
  
-REFERENCES TO TEX. WATER CODE
+**** REFERENCES TO TEX. WATER CODE ****
  
 Reference      Code Section
 16.311 et seq. 152.01
