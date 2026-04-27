@@ -5,7 +5,7 @@ ____________
  
 Contains 2026 S-63 Supplement,
 with local legislation through Ordinance 2026-FC1, passed 2-17-2026,
-current through 2-17-2026
+current through 3-31-2026
 ____________
  
 Supplemented by American Legal Publishing 
@@ -16,10 +16,10 @@ www.amlegal.com
 Publisher's Introduction 
 Publisher's Note 
    The Pima County Code is updated quarterly. The information presented here
-codifies adopted ordinances through December 31, 2025. This online version
-should be used for reference only. Ordinances amending the Pima County Code
-which may have been adopted after this update can be obtained in the Office of
-the Clerk of the Board.
+codifies adopted ordinances through March 31, 2026. This online version should
+be used for reference only. Ordinances amending the Pima County Code which may
+have been adopted after this update can be obtained in the Office of the Clerk
+of the Board.
     This document is organized by subject matter under an expandable three-
 factor decimal numbering system which is designed to facilitate supplementation
 without disturbing the numbering of existing provisions. Each section number
@@ -3444,7 +3444,7 @@ all provisions, requirements, and obligations of this chapter.
    B.   The license shall become valid immediately upon execution of the
 license agreement.
 (Ord 1997-17 § 3, 1997; Prior code § 19.12.040)
-EXHIBIT A Legal Description of License Areas 
+*** EXHIBIT A Legal Description of License Areas  ***
    Note that the descriptions begin at the northwest corner of the license area
 and proceed in a clockwise direction. All incorporated jurisdictions within the
 areas as described below are also excluded from the license area.
@@ -14711,7 +14711,7 @@ permitted vehicle and load combination shall display warning flags applicable
 to the permittee's vehicle and load configuration as indicated under
 Illustration 1.
 Illustration 1. Warning Flag Configurations 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4355.png]
 (Ord. 2017-47 § 2 (part), 2017)
 10.36.330   Sign requirements.
@@ -14733,7 +14733,7 @@ under Illustration 2 at a minimum.
 transporting an oversize or overweight load, the permittee shall ensure each
 sign is not visible to traffic.
 Illustration 2. "OVERSIZE LOAD" Sign 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4357.png]
 (Ord. 2017-47 § 2 (part), 2017)
 10.36.340   Lighting device requirements.
@@ -14757,7 +14757,7 @@ provided under Illustration 4, and Section
 10.36.370, that most closely correspond to the permittee's or driver's vehicle
 and load configuration.
 Illustration 4. Safety Lighting Configuration 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4359.png]
 (Ord. 2017-47 § 2 (part), 2017)
 10.36.350   Escort vehicles.
@@ -15416,7 +15416,7 @@ weight plus 15%.
    Line B: Eight tires per axle or four 14-inch wide tires. Value is the
 formula weight plus 25%.
 Illustration 3. Overweight Axle Groups 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4361.png]
    The axle group weights shown on the previous tables are maximum weights
 allowed on any combination of axles within the distance between the front and
@@ -19406,9 +19406,9 @@ Chapters: 
    Division II. - Sewers
    Division III. - Industrial Waste
    Division IV. - Solid Waste
-Division I. Water
-(RESERVED)
-Division II. Sewers
+***** Division I. Water
+(RESERVED) *****
+***** Division II. Sewers *****
    
 Chapter 13.12 - RESERVED
    
@@ -21224,7 +21224,7 @@ with the Board of Supervisors' policy, if warranted. Any termination of service
 will only occur after thirty (30) days' written notice, should violations
 continue.
 (Ord. 2019-2 § 1 (part), 2019; Ord. 1985-125 § 4, 1985)
-Division III. Industrial Waste
+***** Division III. Industrial Waste *****
    
 Chapter 13.36 - INDUSTRIAL WASTEWATER
 Chapter 13.36
@@ -22184,7 +22184,7 @@ regulated wastewaters with other regulated or unregulated wastewaters prior to
 pretreatment.
    The alternative concentration limits shall be derived using the formula
 found in 40 CFR § 403.6(e):
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4363.png]
    Where:
    C T = The alternative concentration limit for the combined wastestream.
@@ -23189,7 +23189,7 @@ the United States or storm sewer systems owned or controlled by Pima County.
 of Pima County's permit that have a reasonable likelihood of adversely
 affecting human health or the environment.
 (Ord. 2013-32 (part), 2013)
-Division IV. Solid Waste
+***** Division IV. Solid Waste *****
    
 Chapter 13.40 - SOLID WASTE
    APPENDIX
@@ -23424,7 +23424,7 @@ resident or if the waste is from a community cleanup.
 (Ord. 2013-34 § 1 (part), 2013; Ord. 2007-67 § 1, 2007; Ord. 2001-88 §§ 2—6,
 2001; Res. 1999-166 §§ 1 and 2, 1999; Res. 1996-150, 1996; Ord. 1994-84 § 1(3),
 1994: Ord. 1994-24 § 3 (part), 1994: Ord. 1993-30 § 1, (part), 1993)
-13.40.040—13.04.060 Reserved.
+** 13.40.040—13.04.060 Reserved. **
 Editor's note— Ord. No. 2013-34, § 2, adopted August 6, 2013, repealed §§
 13.40.040—13.04.060, which pertained to use of funds; billing and delinquency
 respectively and derived from Ord. No. 1993-30; Ord. No. 1994-24, 1994; Ord.
@@ -23441,7 +23441,7 @@ solid waste facilities. Any user of a Pima County solid waste facility not
 obeying the facility rules may lose the right to use solid waste facilities.
 (Ord. 2013-34 § 3, 2013; Ord. 1994-84 § 1(5) (part), 1994: Ord. 1994-24 § 3
 (part), 1994: Ord. 1993-30 § 1 (part), 1993)
-APPENDIX
+*** APPENDIX ***
 Ordinances Codified in Title 13
 Ordinance Number Adopted
 Ordinance Number Adopted
@@ -23915,19 +23915,19 @@ Section: 
 14.04.010   REID site maps.
 14.04.010   REID site maps.
 Note: The REID site maps are available in PDF, click HERE
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4365.png]
  
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4367.png]
  
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4369.png]
  
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4371.png]
  
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4373.png]
  
 (Ord. 2014-5, § 1, 2014; Ord. 2013-46, § 1, 2013; Ord. 2012-16 § 1 (part),
@@ -31327,27 +31327,27 @@ be on a consistent basis (wet or dry).
             i.   When measurements are on a wet basis, except where wet
 scrubbers are employed or where moisture is otherwise added to stack gases, the
 following conversion procedure shall be used:
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4382.png]
             ii.   When measurements are on a wet basis and the water vapor
 content of the stack gas is determined at least once every fifteen minutes the
 following conversion procedure shall be used:
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4384.png]
    Note: Use of this equation is contingent upon demonstrating the ability to
 accurately determine B(ws) such that any absolute error in B(ws) will not cause
 an error of more than ±1.5 percent in the term.
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4386.png]
             iii.   When measurements are on a dry basis, the following
 conversion procedure shall be used:
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4388.png]
          b.   When the owner or operator elects under subsection (C)(1)(d) of
 this section to measure carbon dioxide in the flue gases, the measurement of
 the pollutant concentration and the carbon dioxide concentration shall each be
 on a consistent basis (wet or dry) and the following conversion procedure used:
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4390.png]
          c.   The values used in the equations under subsection (F)(1) of this
 section are derived as follows:
@@ -37096,7 +37096,7 @@ that shorter sampling times and smaller sample volumes, when necessitated by
 process variables or other factors, may be approved by the control officer.
       3.   Particulate matter emissions, expressed in g/dscm, shall be
 corrected to twelve percent CO 2 by using the following formula:
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4392.png]
       where:
          C 12 = the concentration of particulate matter corrected to twelve
@@ -38057,7 +38057,7 @@ during similar time periods either 1 or 2 below, is applicable:
       1.   A reduction in the number of violations of the applicable Arizona
 ambient air quality standard within the allowable offset area has occurred and
 the following mathematical expression is satisfied:
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4394.png]
          C = The applicable Arizona ambient air quality standard.
          x i = The concentration level of the violation at the i th receptor
@@ -39988,7 +39988,7 @@ each day the violation continues. In the alternative, this chapter authorizes
 the use of the authority of A.R.S. Section 49-502 to enforce this chapter.
 (Ord. 1993-128 § 8, 1993; Ord. 1988-72 § 1 (part), 1988)
 Exhibit 17.40.030
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4396.png]
 Chapter 17.44
 VOLUNTARY NO-DRIVE DAY ORDINANCE
@@ -41544,17 +41544,17 @@ Figure 18.03-3: Building Height.
 (Ord. 1985-82 (part), 1985)
 Figure 18.03-1 
 Average Finished Grade 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4398.png]
  
 Figure 18.03-2 
 Basement and Story
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4400.png]
  
 Figure 18.03-3
 Building Height
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4402.png]
  
 Chapter 18.05
@@ -42478,7 +42478,7 @@ attached shall comply with the maximum height of the underlying zone allowed
 for the applicable structure (main or accessory) to which the solar device
 structure is attached.
 Figure 18.07-1
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4410.png]
             3)   Solar energy panels co-located on existing utility poles: In
 accordance with the underlying requirements for the existing pole.
@@ -44536,7 +44536,7 @@ supervisors is recorded in the office of the county recorder.
 18.09.060   Lot development option.
    A.   Purpose. The purpose of this option is to:
       1.   Permit the efficient use of land;
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4414.png]
       2.   Encourage originality, flexibility and innovation in site planning
 and architectural design; and
@@ -51753,34 +51753,34 @@ Interpretations).
       2.   Airport Land Use Overlay Zone. (See Fig-ures 18.57.060(A)—(D))
 (Ord. 2008-118 § 6, 2008; Ord. 1992-102 § 2, 1992; Ord. 1986-188 § 1 (part),
 1986)
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4435.png]
  
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4433.png]
  
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4431.png]
  
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4429.png]
  
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4427.png]
  
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4425.png]
 Figure 18.57.060(D)(1) 
 PINAL AIRPARK 
 Airport Height Overlay Zone 
  
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4423.png]
 Figure 18.57.060(D)(2) 
 PINAL AIRPARK 
 Airport Height Overlay Zone 
  
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4416.png]
 Chapter 18.58
 HELIPORTS AND HELISTOPS
@@ -52593,7 +52593,7 @@ mitigation and performance standards set forth in Sections
 18.61.051   Average cross slope calculations.
    A.   Average Cross Slope. A method of determining the cross slope of a
 parcel or project site, by using the following equation:
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4437.png]
    Where:
  
@@ -53277,7 +53277,7 @@ regulations.
    B.   Maps. Index to maps for restricted peaks and ridges (See Index To Maps
 For Restricted Peaks & Ridges and Maps).
 (Ord. 2000-52 § 1 (part), 2000)
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4439.png]
 Chapter 18.63
 HISTORIC ZONE
@@ -54054,7 +54054,7 @@ directed to the board of supervisors.
 Map 18.63.110A.
 (Ord. 2025-4, 2025: Ord. 1985-82 (part), 1985)
 Map 18.63.110A
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4445.png]
 Chapter 18.65
 (RESERVED)
@@ -57430,7 +57430,7 @@ architectural review will periodically spot-inspect landscape installations for
 compliance with this chapter and approved landscape plans.
 (Ord. 2006-97 § 1 (part), 2006; Ord. 1985-171 § 1 (part), 1985)
 Table 18.73-1: BUFFERYARD REQUIREMENTS (Minimum Bufferyard Required) 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4449.png]
 1 - Proposed Mobile Home Park or Subdivision
 2 - Proposed Nonresidential Use
@@ -60176,17 +60176,17 @@ adjustment may be made to the superior court by the owner or affected persons.
 (Ord. 1990-61 § 1 (part), 1990; Ord. 1986-187 § 1 (part), 1986)
 Illustration 18.81-1 
 BUILDING HEIGHT CONTOUR LINE 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4451.png]
  
 Illustration 18.81-2 
 SLOPE DETERMINATION 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4453.png]
  
 Illustration 18.81-3 
 SETBACKS 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4455.png]
  
 Chapter 18.83
@@ -61262,35 +61262,35 @@ Illustration 18.83.110G set out at the end of this chapter.
 (Ord. 2010-26 § 1 (part), 2010; Ord. 1990-10 § 1 (part), 1990; Ord. 1988-2 § 1
 (part), 1988)
 Map 18.83.110A 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4457.png]
  
 Map 18.83.110B 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4459.png]
  
 Map 18.83.110C1 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4461.png]
  
 Map 18.83.110C2 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4463.png]
  
 Map 18.83.110D 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4465.png]
  
 Map 18.83.110E 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4467.png]
  
 Illustration 18.83.110F 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4469.png]
  
 Illustration 18.83.110G 
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4471.png]
  
 Chapter 18.85
@@ -62946,7 +62946,7 @@ procedures.
 (Ord. 2001-103 § 1 (part), 2001; Ord. 1996-91 § 1 (part), 1996; Ord. 1994-114 §
 6 (part), 1994; Ord. 1993-12 § 1 (part), 1993; Ord. 1992-18 § 1 (part), 1992;
 Ord. 1987-74 § 1, 1987; Ord. 1985-141 § 1 (part), 1985)
-[https://export.amlegal.com/media/41e942b3231a47ee6deb119d3d8625072cd4d677/
+[https://export.amlegal.com/media/f9932bf8e89e58b486a55a96ed6922e22c426618/
 IMAGES/0-0-0-4473.png]
  
 Chapter 18.92
