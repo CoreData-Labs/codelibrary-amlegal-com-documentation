@@ -204,8 +204,8 @@ Article XI. Miscellaneous Provisions
 1104.   Validity and Separability
    
 1105.   Revolving Door Prohibition
-ARTICLE I. NAME AND SEAL; FORM OF GOVERNMENT;
-BOUNDARIES; MUNICIPAL AFFAIRS
+***** ARTICLE I. NAME AND SEAL; FORM OF GOVERNMENT;
+BOUNDARIES; MUNICIPAL AFFAIRS *****
 SECTION 100. NAME AND SEAL.
    The municipal corporation now existing, known as the City of Eureka, shall
 remain and continue a body politic and corporate under the name of the City of
@@ -228,7 +228,7 @@ the City is hereby authorized to exercise any and all rights, powers and
 privileges heretofore or hereafter granted or prescribed by general laws of the
 State.
 (Amended by election November 2, 2010)
-ARTICLE II. ELECTIONS
+***** ARTICLE II. ELECTIONS *****
 SECTION 200. KINDS OF ELECTIONS.
    Elections to be held in the City for the purpose of electing officers of
 said City and for all other purposes are of two (2) kinds:
@@ -300,7 +300,7 @@ considered a full term for the purpose of this provision. Nothing in this
 section shall act as a bar to service as Council Member a previously elected or
 appointed Council Member after at least four years absence from office.
 (Amended by election on June 7, 1994; Amended by election November 2, 2010)
-ARTICLE III. CITY COUNCIL
+***** ARTICLE III. CITY COUNCIL *****
 SECTION 300. LEGISLATIVE AUTHORITY.
    The legislative powers of the City of Eureka shall be vested in a Council of
 five (5) members.
@@ -404,7 +404,7 @@ is made pursuant to this subsection (c).
 administer oaths and affirmations relative to any business brought before or
 under consideration by the respective board, commission or committee of which
 he is the chairman.
-ARTICLE IV. MAYOR
+***** ARTICLE IV. MAYOR *****
 SECTION 400. QUALIFICATIONS OF MAYOR.
    The Mayor of the City of Eureka shall be elected as an officer of the City
 separate and apart from the Council. No person shall be eligible for the office
@@ -455,7 +455,7 @@ the performance of official duties.
 SECTION 406. ADMINISTRATION OF OATHS AND AFFIRMATIONS.
    The Mayor shall have the power to administer oaths and affirmations relative
 to any business or affairs of the City.
-ARTICLE V. ORDINANCES
+***** ARTICLE V. ORDINANCES *****
 SECTION 500. ENACTING CLAUSE.
    The enacting clause of all ordinances shall be in these words: “Be it
 Ordained by the Council of the City of Eureka as follows:”.
@@ -518,7 +518,7 @@ codified in accordance with the provisions of state law for codification of
 city ordinances and provide for keeping such city code current and updated, or
 it shall, every three (3) years, cause all the ordinances of the City of Eureka
 to be reviewed, compiled and published in book form.
-ARTICLE VI. ADMINISTRATION
+***** ARTICLE VI. ADMINISTRATION *****
 SECTION 600. CITY MANAGER.
    There shall be a City Manager appointed by the Council, who shall be the
 administrative coordinator of the city government and shall serve at the
@@ -690,7 +690,7 @@ any single peak load, temporary absence, or emergency situation. Temporary help
 furnished by temporary help firms pursuant to contract as authorized by this
 section shall not be deemed to be officers or employees of the city and Article
 VIII of this Charter shall have no application to such temporary help.
-ARTICLE VII. FISCAL ADMINISTRATION
+***** ARTICLE VII. FISCAL ADMINISTRATION *****
 SECTION 700. PROPERTY TAXATION.
    The Council of the City of Eureka shall annually fix the rate of taxation to
 be levied, and levy the taxes upon all property, both real and personal, in the
@@ -848,7 +848,7 @@ SECTION 720. OFF-STREET VEHICULAR PARKING.
 law in any city to provide off-street vehicular parking facilities and to
 provide for the financing thereof in whole or in part from revenues derived
 therefrom.
-ARTICLE VIII. OFFICERS AND EMPLOYEES
+***** ARTICLE VIII. OFFICERS AND EMPLOYEES *****
 SECTION 800. PERSONNEL MERIT SYSTEM.
    There shall be a personnel merit system in the City of Eureka which shall
 include all offices and employees in the city government except:
@@ -958,7 +958,7 @@ physical disability, mental disability, medical condition, sexual orientation,
 family care or medical leave status, veteran status, marital status or any
 other protected status as defined by Federal, State and/or local legislation.
 (Amended by election November 2, 2010)
-ARTICLE IX. FRANCHISES
+***** ARTICLE IX. FRANCHISES *****
 SECTION 900. AWARD OF FRANCHISE; ABANDONMENT.
    All grants of franchises by the Council shall be awarded to the highest
 responsible bidder in accordance with a franchise ordinance adopted by the
@@ -973,13 +973,13 @@ alley shall be put in good repair, and all the materials or obstructions which
 have been placed therein in the exercise of such franchise shall be removed
 therefrom at the expense of the person or company who has held such franchise
 whenever the franchise is abandoned or falls into disuse.
-ARTICLE X. INITIATIVE, REFERENDUM AND RECALL
+***** ARTICLE X. INITIATIVE, REFERENDUM AND RECALL *****
 SECTION 1000. RESERVATION TO PEOPLE OF RIGHT OF INITIATIVE, REFERENDUM AND
 RECALL.
    The people reserve to themselves the right of initiative, referendum and
 recall of the elected officials, and the Council may on its own motion refer
 matters to referendum vote, all in the manner prescribed by general law.
-ARTICLE XI. MISCELLANEOUS PROVISIONS
+***** ARTICLE XI. MISCELLANEOUS PROVISIONS *****
 SECTION 1100. BOOKS OPEN TO PUBLIC INSPECTION.
    All books and records of every office and department shall be open to the
 inspection of any citizen, consistent with California Constitutional
@@ -1157,7 +1157,7 @@ Administrative Hearings
  
    
 10.99   General penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 10.01 TITLE; REFERENCE TO CODE.
    This code shall be known as the “Eureka Municipal Code.” It shall be
 sufficient to refer to this code as the Eureka Municipal Code in any
@@ -1401,7 +1401,7 @@ declares that it would have adopted this code and each section, sentence,
 clause, and phrase hereof irrespective of the fact that any section, sentence,
 clause, or phrase be declared invalid, unconstitutional, or otherwise
 unenforceable.
-ADMINISTRATIVE CITATIONS
+**** ADMINISTRATIVE CITATIONS ****
 § 10.35 PURPOSE.
    (A)   The following policies and procedures are adopted to implement a
 program of enforcement of the city's zoning, building, fire, health and safety,
@@ -1796,7 +1796,7 @@ with a notice of satisfaction of lien for recordation with the office of the
 county recorder. Recordation of the notice of satisfaction shall cancel the
 city's lien.
 (Ord. 638-C.S., passed 2-6-01)
-ADMINISTRATIVE HEARINGS
+**** ADMINISTRATIVE HEARINGS ****
 § 10.70 ADMINISTRATIVE HEARING PROCEDURES.
    (A)   Definitions. For the purpose of this subchapter, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -2529,7 +2529,7 @@ Public Works Department
 Cross-reference:
    Public works, see
 Title V
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.001 DEPARTMENTS.
    There are hereby created the following departments:
    (A)   City Manager Department;
@@ -2542,7 +2542,7 @@ GENERAL PROVISIONS
    (H)   Police Department; and
    (I)   Public Works Department.
 (Ord. 919-C.S., passed 9-7-21)
-CITY MANAGER DEPARTMENT
+**** CITY MANAGER DEPARTMENT ****
 § 32.010 CITY MANAGER DEPARTMENT.
    A City Manager's Department is created, which will be under the direct
 control and management of the City Manager and consist of the City Manager and
@@ -2591,7 +2591,7 @@ directed at improving the business climate in business finance, marketing,
 neighborhood development, small business development, business retention and
 expansion, technology transfer, and real estate redevelopment.
 (Ord. 919-C.S., passed 9-7-21)
-OFFICE OF THE CITY CLERK
+**** OFFICE OF THE CITY CLERK ****
 § 32.020 CITY CLERK OFFICE.
    (A)   The office of the City Clerk is established as provided by City
 Charter, §
@@ -2628,7 +2628,7 @@ official records;
       (9)   Obtain and maintain a Notary Public Commission from the State of
 California.
 (Ord. 919-C.S., passed 9-7-21)
-COMMUNITY SERVICES DEPARTMENT
+**** COMMUNITY SERVICES DEPARTMENT ****
 § 32.030 COMMUNITY SERVICES DEPARTMENT.
    There is established in the administrative organization of the city the
 Community Services Department, which will be headed by the Community Services
@@ -2683,7 +2683,7 @@ policies of the City Council pertaining to the Community Services Department.
 maintenance and upkeep of all city-owned public buildings and city facilities
 not specifically operated by another department of the city.
 (Ord. 919-C.S., passed 9-7-21)
-DEVELOPMENT SERVICES DEPARTMENT
+**** DEVELOPMENT SERVICES DEPARTMENT ****
 § 32.040 DEVELOPMENT SERVICES DEPARTMENT.
    There is established in the administrative organization of the city the
 Development Services Department, which includes planning and building
@@ -2764,7 +2764,7 @@ Development Services Director or in their absence the City Manager and will be
 responsible for the effective administration of the division and all activities
 assigned to it.
 (Ord. 919-C.S., passed 9-7-21)
-FINANCE DEPARTMENT
+**** FINANCE DEPARTMENT ****
 § 32.050 FINANCE DEPARTMENT.
    There is established in the administrative organization of the city the
 Finance Department to be headed by the Finance Director and to consist of such
@@ -2867,7 +2867,7 @@ performance of the duties of his office and to account to the city for all sums
 of money coming into his or her hands or under his or her control during his
 service. The premium on such official bond will be paid by the city.
 (Ord. 919-C.S., passed 9-7-21)
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 32.060 FIRE DEPARTMENT.
    Under the administration of the City Manager, the Fire Department is created
 and established. The Fire Chief, subject to the approval of the City Manager,
@@ -2906,7 +2906,7 @@ powers of the Fire Chief.
 part or portion of the approved uniform or accouterments prescribed for members
 of the Department.
 (Ord. 919-C.S., passed 9-7-21)
-HUMAN RESOURCES DEPARTMENT
+**** HUMAN RESOURCES DEPARTMENT ****
 § 32.070 HUMAN RESOURCES DEPARTMENT.
    There is established the Human Resources Department. This Department
 consists of the Human Resources Director and such other employees as may be
@@ -2941,7 +2941,7 @@ classifications in the competitive service as described in the Personnel Rules
 and Regulations. The plan, and any revisions thereof, become effective upon
 approval by the Council.
 (Ord. 919-C.S., passed 9-7-21)
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 32.080 POLICE DEPARTMENT.
    Under the administrative direction of the City Manager, the Police
 Department is created and established. The Chief of Police, subject to the
@@ -2990,7 +2990,7 @@ desiring such services will pay to the Police Department such sums of money as
 may be necessary to pay for the additional services. The payment will be
 calculated using the annual fee schedule adopted by the City of Eureka.
 (Ord. 919-C.S., passed 9-7-21)
-PUBLIC WORKS DEPARTMENT
+**** PUBLIC WORKS DEPARTMENT ****
 § 32.090 PUBLIC WORKS DEPARTMENT.
    There is established in the administrative organization of the city the
 Public Works Department.
@@ -3169,7 +3169,7 @@ Board of Community Oversight on Police Practices
 33.208   Powers and duties
    
 33.209   Appeal
-BOARDS AND COMMISSIONS CREATED BY COUNCIL
+**** BOARDS AND COMMISSIONS CREATED BY COUNCIL ****
 § 33.001 PURPOSE.
    Except as otherwise provided by the ordinance establishing a board or
 commission, boards and commissions created by the Council pursuant to City
@@ -3307,7 +3307,7 @@ Cal. Gov't Code §§ 1091, 1091.1 and 1091.5, or under the provisions of the
 Political Reform Act of 1974.
 (Ord. 920-C.S., passed 9-7-21)   
 Penalty, see § 10.99
-ART AND CULTURE COMMISSION
+**** ART AND CULTURE COMMISSION ****
 § 33.025 CREATION.
    The Art and Culture Commission is hereby created and consists of either five
 or seven members, at the discretion of the Mayor, with the approval of the City
@@ -3354,7 +3354,7 @@ to support and develop new art and cultural opportunities, and provide the City
 Council with the vision and ideas needed to promote public art concepts and
 projects in the City of Eureka.
 (Ord. 920-C.S., passed 9-7-21)
-FINANCE ADVISORY COMMITTEE
+**** FINANCE ADVISORY COMMITTEE ****
 § 33.035 CREATION; MEMBERSHIP.
    (A)   The Finance Advisory Committee is hereby established and consists of
 five or seven voting members at the discretion of the Mayor, with the approval
@@ -3411,7 +3411,7 @@ staff, nor to interfere or impede departmental operations, nor to interfere
 with the City Manager's relationship with labor organizations or groups of city
 employees or individual employees.
 (Ord. 920-C.S., passed 9-7-21)
-OPEN SPACE, PARKS AND RECREATION COMMISSION
+**** OPEN SPACE, PARKS AND RECREATION COMMISSION ****
 § 33.045 CREATION.
    The Open Space, Parks, and Recreation Commission is hereby created and
 consists of either five or seven members, at the discretion of the Mayor, with
@@ -3449,7 +3449,7 @@ park matters as may be prescribed by the Council.
    (B)   One member of the Commission will be appointed to serve as a liaison
 to the Sequoia Park Zoo Foundation.
 (Ord. 920-C.S., passed 9-7-21; Am. Ord. 953-C.S., passed 4-2-24)
-TRANSPORTATION SAFETY COMMISSION
+**** TRANSPORTATION SAFETY COMMISSION ****
 § 33.055 CREATION.
    (A)   The Transportation Safety Commission is hereby created and consists of
 either five or seven members, at the discretion of the Mayor, with the approval
@@ -3503,7 +3503,7 @@ public.
    (B)   Special meetings may be called at any time by the Chairperson or three
 or more members.
 (Ord. 920-C.S., passed 9-7-21)
-ECONOMIC DEVELOPMENT COMMISSION
+**** ECONOMIC DEVELOPMENT COMMISSION ****
 § 33.075 CREATION.
    (A)   The Economic Development Commission is hereby created and consists of
 either five, seven, or nine members, at the discretion of the Mayor, with the
@@ -3545,7 +3545,7 @@ public.
    (B)   Special meetings may be called at any time by the Chairperson or three
 or more members.
 (Ord. 920-C.S., passed 9-7-21)
-BOARD OF COMMUNITY OVERSIGHT ON POLICE PRACTICES
+**** BOARD OF COMMUNITY OVERSIGHT ON POLICE PRACTICES ****
 § 33.200 CREATION.
    (A)   There is hereby established a Board of Community Oversight on Police
 Practices (COPP or "Board") of not to exceed seven members, whose purpose is to
@@ -3812,7 +3812,7 @@ Compensation and Benefits
 34.43   Severance pay
    
 34.44   Personnel rules and regulations
-PERSONNEL SYSTEM
+**** PERSONNEL SYSTEM ****
 § 34.01 ADOPTION OF SYSTEM.
    Pursuant to the provisions of City Charter, Art. VII and the authority
 therein granted to the Council, and in order to establish an equitable and
@@ -4193,7 +4193,7 @@ writing with the request that the Mayor, all members of the Council, and the
 city’s Employee Relations Officer be provided with copies of the communication.
 (‘63 Code, § 2-5.131) (Ord. 335-C.S., passed 2-17-81; Am. Ord. 950-C.S., passed
 9-5-23)
-COMPENSATION AND BENEFITS
+**** COMPENSATION AND BENEFITS ****
 § 34.30 INITIAL SALARIES.
    The initial compensation to be paid for employment will be as provided in
 the personnel rules and regulations.
@@ -4543,7 +4543,7 @@ Supplemental Transactions and Use Tax
 35.999   Penalty
    
 Appendix: Eureka Business Improvement District
-FEES FROM PERMITS AND CERTIFICATES
+**** FEES FROM PERMITS AND CERTIFICATES ****
 § 35.001 DEFINITION.
    For the purpose of this subchapter, FEE shall mean those charges authorized
 by law and made collectible for services rendered or to be rendered or for the
@@ -4581,7 +4581,7 @@ Chapter 91 of this code;
    (E)   Fees of the Water Department as provided by
 Chapter 53 of this code.
 ('63 Code, § 8-1.05) (Ord. 2146, passed - - ; Am. Ord. 2169, passed - - )
-FUNDS
+**** FUNDS ****
 § 35.015 SEWER SERVICE FUNDS.
    (A)   A sewer service fund is hereby established. It shall consist of
 revenue from sewer service fees and revenues from sewer connection charges.
@@ -4673,7 +4673,7 @@ all the provisions of Cal. Sts. & High. Code Divs. 1 and 3, Art. 5.
 Cross-reference:
    Streets and sidewalks, see
 Ch. 98
-PROPERTY TAXES
+**** PROPERTY TAXES ****
 § 35.030 TRANSFER OF ASSESSMENT AND TAX COLLECTION DUTIES.
    The duties of assessing property for the purpose of taxation and of
 collecting taxes, now performed by the City Assessor and the Director of
@@ -4892,7 +4892,7 @@ the collection under this subchapter, or Cal. Rev. & Tax. Code, Part 1.5 of
 Division 2, of any tax or any amount of tax required to be collected.
 ('63 Code, § 8-4.14) (Ord. 397-C.S., passed 12-20-83)
 Penalty, see § 35.999
-TRANSIENT OCCUPANCY TAX
+**** TRANSIENT OCCUPANCY TAX ****
 § 35.070 SHORT TITLE.
    This subchapter shall be known and cited as the “Transient Occupancy Tax
 Law” of the city.
@@ -5214,7 +5214,7 @@ provisions of this subchapter to be made shall be guilty of a misdemeanor.
 ('63 Code, § 8-5.14) (Ord. 30-C.S., passed 1-30-65; tax operative, passed 3-1-
 65; Am. Ord. 382-C.S., passed 5-17-83; Am. Ord. 766-C.S., passed 3-1-11)
 Penalty, see § 35.999
-REAL PROPERTY TRANSFER TAX
+**** REAL PROPERTY TRANSFER TAX ****
 § 35.095 SHORT TITLE AND AUTHORITY.
    This subchapter shall be known as the “Real Property Transfer Tax of the
 City of Eureka.” It is adopted pursuant to the authority contained in Cal. Rev.
@@ -5250,7 +5250,7 @@ and the provisions of any county ordinance adopted pursuant thereto.
 subchapter shall be governed by the provisions of Cal. Rev. & Tax. Code,
 Chapter 5 (commencing with § 5096) of Part 9 of Division 1.
 ('63 Code, § 8-6.10) (Ord. 98-C.S., passed 1-1-68)
-BUSINESS IMPROVEMENT DISTRICT
+**** BUSINESS IMPROVEMENT DISTRICT ****
 § 35.110 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5527,7 +5527,7 @@ specified in §
 35.114 of this subchapter.
 ('63 Code, § 8-7.12)
 (Ord. 385-C.S., passed 7-21-83)
-TRANSACTIONS AND USE TAX
+**** TRANSACTIONS AND USE TAX ****
 § 35.160 TITLE.
    This subchapter shall be known as the Eureka Transactions and Use Tax
 Ordinance. The city of Eureka hereinafter shall be called “city.” This
@@ -5758,7 +5758,7 @@ or circumstance is held invalid, the remainder of the ordinance and the
 application of such provision to other persons or circumstances shall not be
 affected thereby.
 (Ord. 734-C.S., passed 12-16-08)
-SUPPLEMENTAL TRANSACTIONS AND USE TAX
+**** SUPPLEMENTAL TRANSACTIONS AND USE TAX ****
 § 35.175 TITLE.
    This subchapter shall be known as the "Supplemental Transactions and Use
 Tax". The City of Eureka hereinafter shall be called "city." This subchapter
@@ -6185,7 +6185,7 @@ Bonds
 36.47   Refund outstanding bonds
    
 36.48   Validity
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 36.01 TITLE.
    This chapter may be cited as the “City of Eureka Health Facility Revenue
 Bond Law.”
@@ -6296,7 +6296,7 @@ sentence, clause, phrase and word hereof, irrespective of the fact that any one
 or more of the other chapters, sections, subsections, sentences, causes,
 phrases, or words hereof be declared invalid or unconstitutional.
 ('63 Code, § 2-8.406) (Ord. 318-C.S., passed 2-5-80)
-FINANCING HEALTH FACILITIES
+**** FINANCING HEALTH FACILITIES ****
 § 36.20 LOANS; REFUNDING AND REFINANCING.
    (A)   Loans for acquisition, construction or rehabilitation. The city may
 make, purchase, or otherwise contract for the making of a mortgage or other
@@ -6381,7 +6381,7 @@ status, color, religion, national origin or ancestry.
 city may do all things necessary or convenient to carry out the purposes of
 this chapter.
 ('63 Code, § 2-8.210) (Ord. 318-C.S., passed 2-5-80)
-BONDS
+**** BONDS ****
 § 36.40 ISSUANCE; DETERMINATION OF AMOUNT.
    (A)   Issuance.
       (1)   The city may, from time to time, issue bonds for any of the
@@ -6537,7 +6537,7 @@ Political Campaign Contributions; Reporting
    
 37.53   Limitations on contributions by persons to independent committees that
 support or oppose candidates
-COUNCIL ELECTION WARDS
+**** COUNCIL ELECTION WARDS ****
 § 37.01 PURPOSE.
    For the purpose of electing the five members of the Council as provided by
 the Charter of the city, the city is hereby divided into five wards which shall
@@ -6549,7 +6549,7 @@ set forth in Exhibit A, attached to Ordinance No. 866-C.S., including a map of
 the wards, which is incorporated herein by reference.
 (‘63 Code, § 2-4.102) (Ord. 257-C.S., passed 1-2-76; Am. Ord. 866- C.S., passed
 11-7-17)
-VOTING
+**** VOTING ****
 § 37.20 RANKED CHOICE VOTING.
    (A)   Definitions. For purposes of this subchapter, the following words,
 terms and phrases have these definitions:
@@ -6647,7 +6647,7 @@ the top two candidates in the final round, the candidate who is eliminated will
 be selected by lot (e.g. by a coin flip or other random metric), unless such
 selection is not necessary because a top candidate has already been determined.
 (Ord. 928-C.S., passed 12-7-21; Am. Ord. 955-C.S., passed 7-16-24)
-POLITICAL CAMPAIGN CONTRIBUTIONS; REPORTING
+**** POLITICAL CAMPAIGN CONTRIBUTIONS; REPORTING ****
 § 37.50 RESERVED.
 § 37.51 RESERVED.
 § 37.52 LIMITATIONS ON CONTRIBUTIONS BY PERSONS TO CANDIDATES.
@@ -6901,7 +6901,7 @@ Procurement
 Prevailing Wages
    
 39.51   Prevailing wages
-APPEALS
+**** APPEALS ****
 § 39.01 RIGHT TO APPEAL.
    Except as otherwise specifically provided in this code, any person excepting
 to the denial, suspension, or revocation of a permit applied for or held by him
@@ -6925,7 +6925,7 @@ the action excepted to should not be approved. The Council may continue the
 hearing from time to time, and its findings on the appeal shall be final and
 conclusive in the matter.
 ('63 Code, § 1-4.03)
-CLAIMS AGAINST CITY
+**** CLAIMS AGAINST CITY ****
 § 39.10 STATE PROVISIONS AND APPLICABILITY OF SUBCHAPTER.
    The provisions of this chapter recognize that the general claim procedures
 applicable to the city and all local public agencies are governed by the
@@ -7013,7 +7013,7 @@ on the forty-fifth day unless such time period has been extended, in which case
 it shall be denied on the last day of the period specified in the extension
 agreement.
 (Ord. 325-C.S., passed 6-17-80; Am. Ord. 815-C.S., passed 8-4-15)
-PROCUREMENT
+**** PROCUREMENT ****
 § 39.35 TITLE.
    This subchapter is known and may be cited as the "Purchasing System of the
 City."
@@ -7571,7 +7571,7 @@ for, or trade in the same on, new equipment, materials, and supplies.
 C.S., passed 9-15-86; Am. Ord. 555-C.S., passed 5-20-93; Am. Ord. 822-C.S.,
 passed 11-3-15; Am. Ord. 861-C.S., passed 9-19-17; Am. Ord. 892-C.S., passed
 12-3-19)
-PREVAILING WAGES
+**** PREVAILING WAGES ****
 § 39.51 PREVAILING WAGES.
    Contracts for public works construction projects valued in excess of
 $25,000, and contracts for alteration, demolition, repair or maintenance
@@ -7820,7 +7820,7 @@ costs
 50.211   Failure to repair or replace
    
 50.212   Assistance with sewer repair costs
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.001 PURPOSE AND POLICY.
    (A)   Purpose. This chapter sets forth uniform requirements for users of the
 wastewater collection and Publicly Owned Treatment Works (POTW) for the city.
@@ -8182,7 +8182,7 @@ prevail.
 jurisdiction, the remaining provisions shall not be effected and shall continue
 in full force and effect.
 (Ord. 571-C.S., passed 6-2-94; Am. Ord. 775-C.S., passed 12-20-11)
-GENERAL SEWER USE REGULATIONS
+**** GENERAL SEWER USE REGULATIONS ****
 § 50.020 PROHIBITED DISCHARGE STANDARDS.
    (A)   No person shall discharge any substances directly into a manhole or
 other opening in a community sewer other than through an approved building
@@ -8339,7 +8339,7 @@ limitations is appropriate.
 ('63 Code, § 5-5.206) (Ord. 571-C.S., passed 6-2-94; Am. Ord. 775-C.S., passed
 12-20-11)
 Penalty, see § 50.999
-PRETREATMENT OF WASTEWATERS
+**** PRETREATMENT OF WASTEWATERS ****
 § 50.035 PRETREATMENT FACILITIES.
    Industrial users shall provide necessary wastewater treatment as required to
 comply with this chapter and shall achieve compliance with all categorical
@@ -8579,7 +8579,7 @@ of the grease hauler permit or this chapter.
 nonuse, cessation of operations, or transfer of business ownership. All grease
 hauler permits are void upon the issuance of a new grease hauler permit.
 (Ord. 737-C.S., passed 2-3-09; Am. Ord. 775-C.S., passed 12-20-11)
-WASTEWATER DISCHARGE PERMIT
+**** WASTEWATER DISCHARGE PERMIT ****
 § 50.050 WASTEWATER SURVEY.
    When requested by the City Manager, all industrial users must submit
 information on the nature and characteristics of their wastewater by completing
@@ -8826,7 +8826,7 @@ of operations, or transfer of business ownership. All wastewater discharge
 permits are void upon the issuance of a new wastewater discharge permit.
 (‘63 Code, § 5-5.506) (Ord. 571-C.S., passed 6-2-94; Am. Ord. 775-C.S., passed
 12-20-11)
-REPORTING REQUIREMENTS
+**** REPORTING REQUIREMENTS ****
 § 50.070 BASELINE MONITORING REPORTS.
    (A)   Within either 180 days after the effective date of a categorical
 pretreatment standard, or the final administrative decision on a category
@@ -9110,7 +9110,7 @@ concerning compliance with this chapter, or where the industrial user has been
 specifically notified of a longer retention period by the City Manager.
 (‘63 Code, § 5-5.613) (Ord. 571-C.S., passed 6-2-94; Am. Ord. 775-C.S., passed
 12-20-11)
-CONNECTIONS TO POTW
+**** CONNECTIONS TO POTW ****
 § 50.090 PERMITS REQUIRED.
    (A)   No person shall uncover, make any connections with or opening into,
 use, alter, or disturb any portion of the POTW or appurtenance thereof without
@@ -9233,7 +9233,7 @@ Services (laterals) off the main will be at each parcel owner's expense.
 ('63 Code, § 5-5.1703)
 (Ord. 571-C.S., passed 6-2-94; Am. Ord. 737-C.S., passed 2-3-09; Am. Ord. 775-
 C.S., passed 12-20-11)
-RATES AND CHARGES
+**** RATES AND CHARGES ****
 § 50.105 WASTEWATER VOLUME DETERMINATION.
    (A)   Metered water supply. User charges which are based on wastewater
 volumes shall be applied against the total amount of water used from all
@@ -9361,7 +9361,7 @@ liens or assessments against the property, or use of the State of California
 Franchise Tax Board.
 (‘63 Code, § 5-5.1807) (Ord. 571-C.S., passed 6-2-94; Am. Ord. 775-C.S., passed
 12-20-11; Am. Ord. 892-C.S., passed 12-17-19)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 50.120 DUTIES OF CITY MANAGER.
    Except as otherwise provided in this chapter, the City Manager shall
 administer, implement and enforce the provisions of this chapter. Any powers
@@ -9749,7 +9749,7 @@ its adverse effects, if the POTW determines that it will meet the three
 conditions listed in subsection (4)(a) of division (B).
 ('63 Code, § 5-5.1302)
 (Ord. 571-C.S., passed 6-2-94; Am. Ord. 775-C.S., passed 12-20-11)
-PRIVATE SEWER LATERAL INSPECTION
+**** PRIVATE SEWER LATERAL INSPECTION ****
 § 50.201 PURPOSE.
    This chapter sets forth the methods by which the city may require inspection
 and repair of private sewer laterals (both upper and lower). The city finds
@@ -11649,7 +11649,7 @@ Cross-Connections
 53.63   Special conditions
    
 53.99   Penalty
-WATER SYSTEM
+**** WATER SYSTEM ****
 § 53.01 MANAGEMENT.
    The management, control, and care of the Municipal Water System of the city
 shall be vested in the Director of Community Services under the general
@@ -11913,7 +11913,7 @@ to a customer for nonpayment of bills, service will be reinstated only after
 all bills for service then due have been paid, along with a turn-on charge in
 an amount as adopted by resolution from time to time by the City Council .
 (Am. Ord. 726-C.S., passed 6-3-08)
-WATER SHORTAGE AND WATER WASTE REGULATIONS
+**** WATER SHORTAGE AND WATER WASTE REGULATIONS ****
 § 53.35 PURPOSE.
    (A)   From time to time it may be necessary that Council declare that a
 water shortage emergency condition prevails in the area served by the city.
@@ -12039,7 +12039,7 @@ subchapter. Such service shall be restored only upon the payment of the turn-on
 charge fixed by the Council, as provided in this code.
 ('63 Code, § 5-7.09) (Ord. 274-C.S., passed 5-17-77; Am. Ord. 465-C.S., passed
 12-31-87; Am. Ord. 742-C.S., passed 6-2-09)
-CROSS-CONNECTIONS
+**** CROSS-CONNECTIONS ****
 § 53.55 PURPOSE.
    The provisions of this subchapter set requirements to:
    (A)   Protect the public potable water supply of the city from the
@@ -12712,7 +12712,7 @@ Community Choice Aggregation
 55.02   Participation in Community Choice Aggregation
    
 55.03   Severability
-COMMUNITY CHOICE AGGREGATION
+**** COMMUNITY CHOICE AGGREGATION ****
 § 55.01 FINDINGS AND PURPOSE.
    (A)   The California Public Utilities Code under Chapter 2.3 of Division 1,
 Part 1 allows electric utility customers to aggregate their electric loads as
@@ -12815,7 +12815,7 @@ Street Opening and Pavement Restoration Regulations
 56.36   Repair of excavations in prohibition streets
    
 56.37   Defects
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 56.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12941,7 +12941,7 @@ public right-of-way.
 direct contact with traffic and that resists the resulting abrading, crushing,
 or other disintegrating action.
 (Ord. 887-C.S., passed 8-6-19)
-ENCROACHMENTS OF STREETS AND EASEMENTS
+**** ENCROACHMENTS OF STREETS AND EASEMENTS ****
 § 56.10 PERMITS REQUIRED; APPLICATION.
    (A)   It shall be unlawful for any person to excavate in or to construct,
 install, or maintain any improvement, structure, or encroachment in, on, over,
@@ -13216,7 +13216,7 @@ Manager or his or her designee may be appealed to the City Council in
 accordance with §
 39.01 of this code.
 (Ord. 887-C.S., passed 8-6-19)
-STREET OPENING AND PAVEMENT RESTORATION REGULATIONS
+**** STREET OPENING AND PAVEMENT RESTORATION REGULATIONS ****
 § 56.30 PURPOSE AND POLICY.
    (A)   The public right-of-way is a unique public resource held in trust for
 the benefit of the public. This physically limited resource requires proper
@@ -13433,7 +13433,7 @@ Administration and Enforcement
 70.41   Removal of vehicles from streets
    
 70.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13577,7 +13577,7 @@ while necessarily in use for construction or repair work or to any vehicle
 owned or operated by the United States Post Office Department while in use for
 the collection, transportation, or delivery of United States mail.
 ('63 Code, § 3-6.308) (Ord. 2930, passed 4-17-63)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.15 AUTHORITY TO INSTALL; INSTALLATION.
    (A)   Authority to install.
       (1)   The Traffic Engineer shall have the power and duty to place and
@@ -13666,7 +13666,7 @@ the painting of numbers on a curb surface by any person who has complied with
 the provisions of any resolution or law of the city pertaining thereto.
 ('63 Code, § 3-6.409) (Ord. 2930, passed 4-17-63)
 Penalty, see § 70.99
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 70.35 POLICE ADMINISTRATION.
    The Chief of Police shall be responsible for the enforcement of the street
 traffic regulations of the city and the state vehicle laws applicable to street
@@ -13867,7 +13867,7 @@ Pedestrians
 71.85   Marked crosswalks
    
 71.86   Special pedestrian traffic signals
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 71.01 DRIVING THROUGH FUNERAL PROCESSIONS.
    No operator of any vehicle shall drive between the vehicles comprising a
 funeral procession or a parade provided such vehicles are conspicuously so
@@ -14044,7 +14044,7 @@ at speeds slightly at variance from the speeds otherwise applicable within the
 district or at intersections and shall erect appropriate signs giving notice
 thereof.
 ('63 Code, § 3-6.1403) (Ord. 2930, passed 4-17-63)
-TURNING MOVEMENTS
+**** TURNING MOVEMENTS ****
 § 71.25 TURNING MARKERS AND RESTRICTED TURN SIGNS.
    (A)   Turning markers. The Traffic Engineer is hereby authorized to place
 official traffic-control devices within or adjacent to intersections indicating
@@ -14072,7 +14072,7 @@ against a traffic signal stop indication would seriously interfere with the
 safe and orderly flow of traffic.
 ('63 Code, § 3-6.504) (Ord. 2930, passed 4-17-63)
 Penalty, see § 70.99
-SPECIAL STOPS
+**** SPECIAL STOPS ****
 § 71.40 TRAFFIC ENGINEER TO ERECT STOP SIGNS.
    Whenever any ordinance or resolution of the city designates and describes
 any street, or portion thereof, as a through street, or any intersection at
@@ -14103,7 +14103,7 @@ stop such vehicle immediately prior to driving onto a sidewalk or into the
 sidewalk area extending across any alleyway or driveway.
 ('63 Code, § 3-6.703) (Ord. 2930, passed 4-17-63)
 Penalty, see § 70.99
-OBSTRUCTIONS
+**** OBSTRUCTIONS ****
 § 71.55 HEIGHT OF OBSTRUCTIONS.
    (A)   Corners of intersecting streets. It shall be unlawful for the owner or
 occupant of any corner lot or premises in the city to install, set out,
@@ -14165,7 +14165,7 @@ nuisance shall be a personal obligation against the owner of the premises upon
 which the nuisance was maintained, recoverable by the city in an action before
 any court of competent jurisdiction.
 ('63 Code, § 3-7.05) (Ord. 2822, passed 11-18-59)
-TRUCKS; HEAVY VEHICLES AND EQUIPMENT
+**** TRUCKS; HEAVY VEHICLES AND EQUIPMENT ****
 § 71.70 TRUCK ROUTES AUTHORIZED.
    (A)   Whenever any resolution of the city designates and describes any
 street, or portion thereof, as a street, the use of which is permitted by any
@@ -14226,7 +14226,7 @@ corrugations, a filler block may be placed on each section so that a flat
 bearing surface will be in contact with the pavement at all times.
 ('63 Code, § 3-6.1502) (Ord. 2930, passed 4-17-63)
 Penalty, see § 70.99
-PEDESTRIANS
+**** PEDESTRIANS ****
 § 71.85 MARKED CROSSWALKS.
    (A)   Authority to establish.  
       (1)   The Traffic Engineer is hereby authorized to establish and maintain
@@ -14367,7 +14367,8 @@ Loading and Unloading
 72.103   Bicycle parking zones
    
 72.104   Funeral zones
-STOPPING, STANDING AND PARKING FOR CERTAIN PURPOSES AND IN CERTAIN PLACES
+**** STOPPING, STANDING AND PARKING FOR CERTAIN PURPOSES AND IN CERTAIN PLACES
+****
 § 72.001 APPLICATION OF REGULATIONS.
    (A)   The provisions of this chapter prohibiting the stopping, standing, or
 parking of a vehicle shall apply at all times or at those times specified by
@@ -14517,7 +14518,7 @@ giving notice thereof, no person shall operate, park, or stand any vehicle
 contrary to the directions and provisions of such signs.
 ('63 Code, § 3-6.1013) (Ord. 2930, passed 4-17-63)
 Penalty, see § 70.99
-STOPPING, STANDING, OR PARKING RESTRICTED OR PROHIBITED
+**** STOPPING, STANDING, OR PARKING RESTRICTED OR PROHIBITED ****
 § 72.024 PARKING LOT CLOSURES.
    (A)   When authorized signs have been posted on a city-owned parking lot, no
 operator of any vehicle shall stop, stand or park such vehicles in any posted
@@ -14667,7 +14668,7 @@ specified in §
 ('63 Code, § 3-6.1110) (Ord. 2930, passed 4-17-63; Am. Ord. 532-C.S., passed 9-
 19-91) Penalty, see §
 70.99
-ON-STREET PARKING
+**** ON-STREET PARKING ****
 § 72.050 PARKING METER ZONES DEFINED; INSTALLATION; STREET MARKINGS.
    (A)   Defined.
       (1)   Parking meter zones shall be those streets or portions of streets
@@ -14801,7 +14802,7 @@ be in the same form and subject to the same procedure as set forth in Cal. Veh.
 Code § 40202 and laws of the state applicable to traffic violations within the
 city.
 ('63 Code, § 3-5.14) (Ord. 2867, passed 6-6-61; Am. Ord. 2886, passed 11-21-61)
-OFF-STREET PARKING
+**** OFF-STREET PARKING ****
 § 72.070 [RESERVED]
 § 72.071 OFF-STREET PARKING PROCEEDINGS.
    (A)   General powers of city. The whole or any part of the city may be
@@ -15130,7 +15131,7 @@ Penalty, see § 70.99
    Parking time limit maps, which establish timed parking zones throughout the
 city, will be adopted by resolution of the City Council.
 (Ord. 947-C.S., passed 8-1-23)
-LOADING AND UNLOADING
+**** LOADING AND UNLOADING ****
 § 72.095 ESTABLISHING LOADING ZONES; CURB MARKINGS.
    (A)   Authority to establish loading zones.
       (1)   The Traffic Engineer is hereby authorized to determine and mark
@@ -15620,7 +15621,7 @@ Administration and Enforcement
 90.39   City administrative costs
    
 90.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -15751,7 +15752,7 @@ dismantled or inoperative vehicles. It shall supplement and be in addition to
 other regulatory codes, statutes and ordinances enacted by the city, county,
 state, or other legal entity or agency having jurisdiction.
 ('63 Code, § 3-10.11) (Ord. 542-C.S., passed 4-2-92)
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 90.15 ABANDONMENT PROHIBITED.
    (A)   No person shall abandon a vehicle upon any highway.
 (Cal. Veh. Code, § 22523)
@@ -15877,7 +15878,7 @@ permit,” you will be granted a temporary seven-day permit. You will be notifie
 by either e-mail or phone should additional justification be required, or if
 your application is approved, modified or denied.
 (Ord. 739-C.S., passed 3-17-09)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 90.30 ENFORCEMENT BY CHIEF OF POLICE.
    Except as otherwise provided in this chapter or by law, the provisions of
 this chapter shall be administered and enforced by the Chief of Police or
@@ -16468,7 +16469,7 @@ provisions that can be given effect without the offending provision.
 or handling of any animal that is otherwise prohibited or restricted by law,
 regulation, or permit requirement.
 (Ord. 914-C.S., passed 4-20-21)
-DUTIES OF ANIMAL OWNERSHIP
+**** DUTIES OF ANIMAL OWNERSHIP ****
 § 91.201 ADEQUATE CARE.
    An owner or custodian of an animal must provide that animal with adequate
 feed, water, shelter, exercise, and veterinary care. No owner or custodian of
@@ -16559,7 +16560,7 @@ costs and expenses incurred by the city resulting from the violation,
 including, but not limited to, animal care and medical treatment, impound
 costs, and removal costs.
 (Ord. 914 C.S., passed 4-20-2021)
-IMPOUNDMENT
+**** IMPOUNDMENT ****
 § 91.301 AUTHORIZATION TO IMPOUND.
    An animal may be impounded at the discretion of the Animal Control Officer
 for good cause. Instances warranting impoundment include, but are not limited
@@ -16607,7 +16608,7 @@ for services and impounding animals as established from time to time by
 resolution of the City Council. All such monies will be paid into the city
 treasury to be credited to the general fund.
 (Ord. 914-C.S., passed 4-20-21)
-REQUIREMENTS AND LIMITATIONS OF ANIMAL OWNERSHIP
+**** REQUIREMENTS AND LIMITATIONS OF ANIMAL OWNERSHIP ****
 § 91.401 LIMITATIONS ON OWNERSHIP.
    (A)   Rabbits. No person may keep, harbor, or maintain more than 20 rabbits
 upon any property within the city that is smaller than 5,000 square feet. No
@@ -17007,7 +17008,7 @@ fund.
    (F)   Every dog owner will be required to provide proof of licensing upon
 the request of an Animal Control Officer or any other law enforcement officer.
 (Ord. 914-C.S., passed 4-20-21)
-DAIRIES
+**** DAIRIES ****
 § 91.501 MAINTENANCE.
    The provisions of this subchapter will not be retroactive so as to apply to
 dairies in actual operation on January 1, 1960. No extensions or additions will
@@ -17026,7 +17027,7 @@ the Animal Control Officer.
 the use of the premises for other purposes, will be construed to be an
 abandonment of the premises for such original purpose.
 (Ord. 914-C.S., passed 4-20-21)
-HORSE DRAWN CARRIAGES
+**** HORSE DRAWN CARRIAGES ****
 § 91.601 OPERATIONS.
    (A)   No person may operate a horse-drawn carriage in any manner that
 impedes or blocks the normal or reasonable movement of pedestrian or vehicular
@@ -17118,7 +17119,7 @@ the horse and carriage.
 carriage, except an apprentice, or permit any passenger to ride on the driver's
 seat.
 (Ord. 914-C.S., passed 4-20-21)
-RABIES CONTROL
+**** RABIES CONTROL ****
 § 91.701 RABIES VACCINE FOR DOGS AND CATS.
    It is unlawful for any person to own or harbor any dog or cat over the age
 of three months that has not been vaccinated against rabies by a licensed
@@ -17175,7 +17176,7 @@ Health ("Health Officer"), upon examination, that an animal has rabies, the
 Animal Control Officer or Health Officer may, after a quarantine period as
 provided in this chapter, kill the animal forthwith.
 (Ord. 914-C.S., passed 4-20-21)
-POTENTIALLY DANGEROUS, VICIOUS, AND NUISANCE ANIMALS
+**** POTENTIALLY DANGEROUS, VICIOUS, AND NUISANCE ANIMALS ****
 § 91.801 PROCEDURE.
    (A)   If an Animal Control Officer or other law enforcement officer
 ("officer") has investigated and determined that there exists probable cause to
@@ -17327,7 +17328,7 @@ from time to time.
 punishable as set forth in §
 10.99 of this code of ordinances.
 (Ord. 914-C.S., passed 4-20-21)
-IRRESPONSIBLE OWNER
+**** IRRESPONSIBLE OWNER ****
 § 91.901 DETERMINATION.
    Any owner or keeper of an animal will be determined an irresponsible owner
 ("irresponsible owner") when any of the following occurs:
@@ -17360,7 +17361,7 @@ owner being unable to obtain any city license or permit to own, harbor, or
 maintain any animal within the city for a period of five years; the maximum
 fine will be set by the Fee Schedule as amended from time to time.
 (Ord. 914-C.S., passed 4-20-21)
-HEARINGS
+**** HEARINGS ****
 § 91.1001   PURPOSE.
    This subchapter contains the requirements for all hearings called for in
 this chapter.
@@ -17391,7 +17392,7 @@ date of the determination or 35 days if notice of the determination is mailed.
 hearing officer they may appeal the decision to the Humboldt County Superior
 Court under Cal. Food & Agric. Code, § 31622.
 (Ord. 914-C.S., passed 4-20-21)
-MISCELLANEOUS PROVISIONS
+**** MISCELLANEOUS PROVISIONS ****
 § 91.1101 ANIMALS AS PRIZES, PROMOTIONS, AND NOVELTIES.
    Subject to the exception that organizations with a current Section 501(c)(3)
 tax status may apply to the city for a one-time permit, no person may sell,
@@ -17482,7 +17483,7 @@ Restrictions on Butane Sales
  
    
 92.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 92.01 ADOPTION OF CALIFORNIA FIRE CODE.
    Those certain documents including their appendices, supplements, and errata,
 as adopted by the City of Eureka in the Eureka Municipal Code Title 15, §§
@@ -17764,7 +17765,7 @@ Penalty, see § 92.99
 in §
 92.99 may be charged either as an infraction or as a misdemeanor.
 (Ord. 667-C.S., passed 5-20-03)
-RESTRICTIONS ON BUTANE SALES
+**** RESTRICTIONS ON BUTANE SALES ****
 § 92.10 REGULATION OF THE SALE, PURCHASE, AND POSSESSION OF BUTANE.
    (A)   Findings and purpose.
       (1)   The northern region of our state has experienced a recent increase
@@ -18005,7 +18006,7 @@ Cross-reference:
    Open Space, Parks, and Recreation Commission, see §§
 33.045 and
 33.046
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 RECREATION AND PARKS COMMISSION.
    (A)   The Recreation and Parks Commission is hereby created and shall
 consist of nine members.
@@ -18200,7 +18201,7 @@ any police officer to forbear or discontinue the same shall be guilty of a
 misdemeanor.
 ('63 Code, § 11-5.01) (Ord. 215, passed - - )
 Penalty, see § 10.99
-MUNICIPAL GOLF COURSE
+**** MUNICIPAL GOLF COURSE ****
 § 93.25 ESTABLISHMENT.
    The parcel of land conveyed to the city by Fred H. Lundblade and Patricia N.
 Lundblade, his wife, and C. Robert Barnum and Patricia B. Barnum, his wife, for
@@ -18257,7 +18258,7 @@ exhibition matches and tournaments; and,
    (G)   To provide for the control, regulation, maintenance, and upkeep of the
 course in every other manner and to every extent of the premises.
 ('63 Code, § 11-2.03) (Ord. 2880, passed 9-5-61)
-PARKS AND PLAYGROUNDS
+**** PARKS AND PLAYGROUNDS ****
 § 93.50 CLOSING HOURS.
    The Director of Public Works is hereby authorized to designate the closing
 hours for any park, playground, or other facility, or portion thereof, under
@@ -18380,7 +18381,7 @@ city park or playground and deposit such garbage or trash in any city park or
 playground.
 ('63 Code, § 11-6.11) (Ord. 332-C.S., passed 2-3-81)
 Penalty, see § 10.99
-SKATE BOARD PARK
+**** SKATE BOARD PARK ****
 § 93.70 PURPOSE.
    The purpose of this subchapter is to comply with Cal. Health & Safety Code,
 § 115800 that requires skate board operations to adopt an ordinance requiring
@@ -18516,7 +18517,7 @@ Syringe Exchange Programs and Safe Disposal of Sharps
 94.54   Disposal of sharps
    
 94.55   Enforcement
-NOISE
+**** NOISE ****
 § 94.01 PURPOSE.
    The provisions and prohibitions contained and enacted in this subchapter are
 in pursuance of and for the purposes of securing and promoting the public
@@ -18548,7 +18549,7 @@ the public streets for the purpose of advertising any business or enterprise
 between the hours of 9:00 p.m. and 9:00 a.m.
 ('63 Code, § 4-5.03) (Ord. 2928, passed 12-18-62)
 Penalty, see § 10.99
-WEEDS, RUBBISH AND DEBRIS
+**** WEEDS, RUBBISH AND DEBRIS ****
 § 94.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18742,7 +18743,7 @@ Fire Chief with the enforcement of the Fire Code relating to conditions as
 described in §
 94.17 of this code.
 ('63 Code, § 4-13.15) (Ord. 554-C.S., passed 5-8-93)
-AIR POLLUTION
+**** AIR POLLUTION ****
 § 94.35 AIR POLLUTION REGULATED.
    (A)   It shall be unlawful for any person or corporation, or any officer
 thereof, to own or use any smokestack, chimney, flue, or stovepipe in the city
@@ -18754,14 +18755,14 @@ surrounding property or annoy residents in the neighborhood with soot, smoke,
 sparks, or cinders, after being requested so to do by the Fire Chief or any
 member of the Police Department, shall be deemed guilty of a misdemeanor.
 ('63 Code, § 4-2.01) (Ord. 208, passed - - )
-HAZARDOUS SUBSTANCES
+**** HAZARDOUS SUBSTANCES ****
 § 94.45 UNDERGROUND STORAGE OF HAZARDOUS SUBSTANCES.
    Chapter 4 of Division 8 of Title III of the Humboldt County Code, adopted by
 Ordinance No. 1625, which Chapter 4, prescribes regulations relating to
 underground storage of hazardous substances, is hereby adopted by reference as
 the Underground Storage of Hazardous Substances Code of the city.
 ('63 Code, § 5-8.01) (Ord. 430-C.S., passed 7-4-85)
-SYRINGE EXCHANGE PROGRAMS AND SAFE DISPOSAL OF SHARPS
+**** SYRINGE EXCHANGE PROGRAMS AND SAFE DISPOSAL OF SHARPS ****
 § 94.50 PURPOSE AND INTENT.
    The purpose of this chapter is to protect the health, safety and welfare of
 the public and of the use of the environment by providing regulation of SEPs
@@ -18924,7 +18925,7 @@ Rules and Regulations
 95.36   Illegal activities
    
 95.37   Airport closure
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 95.01 TITLE.
    This chapter may be referred to as the “Eureka Municipal Airport Rules and
 Regulations.”
@@ -19024,7 +19025,7 @@ chapter:
    VFR. Visual flight rules covering meteorological conditions, above those
 requiring flight under IFR conditions.
 ('63 Code, § 11-7.04) (Ord. 312-C.S., passed 6-5-79)
-RULES AND REGULATIONS
+**** RULES AND REGULATIONS ****
 § 95.15 BASED AIRCRAFT.
    Any person desiring to store or base his aircraft at the airport shall
 register his aircraft at the airport office prior to beginning such storage or
@@ -20009,7 +20010,7 @@ Banners
 Cross-reference:
    Riding bicycles on sidewalks, see
 § 73.06
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 98.01 CONCRETE MIXING ON STREETS REGULATED.
    It shall be unlawful for any person to mix any concrete or plaster on any
 paved street in the city unless such mixing shall be done in a box or other
@@ -20059,7 +20060,7 @@ neglects, after five days' notice by the Street Superintendent, to trim such
 tree, he shall be guilty of a misdemeanor.
 ('63 Code, § 7-3.301) (Ord. 207, passed - - )
 Penalty, see § 10.99
-SIDEWALKS, DRIVEWAYS AND CURBS
+**** SIDEWALKS, DRIVEWAYS AND CURBS ****
 § 98.30 LINES AND GRADES.
    (A)   For the purposes of this subchapter, the following definitions shall
 apply unless the context clearly indicates or requires a different meaning.
@@ -20184,7 +20185,7 @@ change the procedure concerning sidewalk repairs set forth in the Improvement
 Act of 1911, but to provide alternative and supplementary procedure.
 ('63 Code, § 7-2.306)
 (Ord. 357-C.S., passed 1-5-82; Am. Ord. 375-C.S., passed 10-19-82)
-SIDEWALK AND CURB IMPROVEMENT PROCEEDINGS
+**** SIDEWALK AND CURB IMPROVEMENT PROCEEDINGS ****
 § 98.45 FINDINGS AND DECLARATIONS.
    The Council finds and declares as follows:
    (A)   That the lack of improved sidewalks in the city in many instances
@@ -20446,7 +20447,7 @@ provisions of this article until the amount of any such lien shall have been
 paid in full.
 ('63 Code, § 7-2.223)
 (Ord. 67-C.S., passed 1-21-66; Am. Ord. 375-C.S., passed 10-19-82)
-STREET PLANTINGS
+**** STREET PLANTINGS ****
 § 98.70 STATEMENT OF POLICY.
    (A)   It is recognized that, generally, provisions for the planting of trees
 and other growth in that portion of the public streets not used for vehicular
@@ -20600,7 +20601,7 @@ accordance with the procedures prescribed by the provisions of §§
 39.03 of this code.
 ('63 Code, § 7-4.09) (Ord. 2908, passed 4-17-62; Am. Ord. 375-C.S., passed 10-
 19-82)
-BANNERS
+**** BANNERS ****
 § 98.90 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -22285,7 +22286,7 @@ houses
 110.99   Penalty
 Cross-reference:
    Business Improvement District, see §§ 35.130 through 35.140
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 110.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. Whenever
@@ -22332,7 +22333,7 @@ pursuant to the provisions of this chapter.
    For the purposes of this chapter, the Director of Finance, his deputies, and
 authorized agents are authorized to administer oaths.
 ('63 Code, § 6-1.302) (Ord. 378-C.S., passed 12-7-82)
-LICENSING PROVISIONS
+**** LICENSING PROVISIONS ****
 § 110.15 LICENSE REQUIRED.
    (A)   There are hereby imposed upon businesses, trades, professions,
 callings, and occupations license taxes as hereinafter prescribed. No person
@@ -22768,7 +22769,7 @@ account, or any other reason.
 one or more remedies by the city shall not bar the use of any other remedy for
 the purpose of enforcing the provisions of this chapter.
 ('63 Code, § 6-1.138) (Ord. 378-C.S., passed 12-7-82)
-FEES
+**** FEES ****
 § 110.50 BASIC BUSINESS LICENSE FEE.
    (A)   Every person conducting, carrying on, or managing a business in the
 city shall pay the business license tax herein listed unless engaged in a
@@ -22934,7 +22935,7 @@ Operating Regulations
 112.35   Ambulance operating regulations
    
 112.36   Rules and regulations of City Manager
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 112.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -22950,7 +22951,7 @@ streets.
    The provisions of this chapter shall be supplemental to the provisions of
 any other pertinent laws of the city.
 ('63 Code, § 6-2.24) (Ord. 2858, passed 2-7-61)
-PERMITS AND LICENSES
+**** PERMITS AND LICENSES ****
 § 112.15 AMBULANCE OPERATOR'S PERMIT REQUIRED.
    It shall be unlawful for any person to engage in the business of operating
 an ambulance service in the city without first securing a permit so to do from
@@ -23214,7 +23215,7 @@ Chief of Police. The other card shall be carried on the person of the permittee
 at all times while driving or serving as an attendant of an ambulance.
 ('63 Code, § 6-2.21)
 (Ord. 2858, passed 2-7-61)
-OPERATING REGULATIONS
+**** OPERATING REGULATIONS ****
 § 112.35 AMBULANCE OPERATING REGULATIONS.
    It shall be unlawful to operate an ambulance in violation of any of the
 following rules or regulations:
@@ -23267,14 +23268,14 @@ Card Rooms
 113.36   Clubs excluded
    
 113.37   State law violations
-SHOOTING GALLERIES
+**** SHOOTING GALLERIES ****
 § 113.01 HOURS OF OPERATION.
    It shall be unlawful for any person to operate, keep open, or permit anyone
 to enter any shooting gallery, room, or establishment except between the hours
 of 8:00 a.m. and 12:00 a.m. of each day.
 ('63 Code, § 4-12.01) (Ord. 2372, passed - - )
 Penalty, see § 10.99
-BINGO GAMES FOR CHARITY
+**** BINGO GAMES FOR CHARITY ****
 § 113.15 BINGO GAMES AUTHORIZED IN ACCORDANCE WITH STATE LAW.
    Bingo games are hereby authorized to be conducted in the city pursuant to
 the provisions of Cal. Penal Code § 326.5, which section is hereby adopted by
@@ -23293,7 +23294,7 @@ games has been approved by the Fire Chief for compliance with state and city
 fire safety regulations.
 ('63 Code, § 6-15.02) (Ord. 271-C.S., passed 4-1-77)
 Penalty, see § 10.99
-CARD ROOMS
+**** CARD ROOMS ****
 § 113.30 DEFINITION.
    For the purpose of this chapter, the following definition shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -23627,8 +23628,8 @@ permit the licensing of any card room for the playing of any game prohibited by
 the laws of the state, including but not limited to those games enumerated in
 Cal. Penal Code § 330, which section includes banking and percentage games.
 ('63 Code, § 6-5.17) (Ord. 2853, passed 12-6-60)
-SHOOTING GALLERIES
-§ 113.50 HOURS OF OPERATION.
+**** SHOOTING GALLERIES ****
+*** § 113.50 HOURS OF OPERATION. ***
    It shall be unlawful for any person to operate, keep open, or permit anyone
 to enter any shooting gallery, room, or establishment except between the hours
 of 8:00 a.m. and 12:00 a.m. of each day.
@@ -23719,7 +23720,7 @@ Open Video Systems
 114.46   Fee in lieu of franchise fee
    
 114.47   Exclusive contracts
-Miscellaneous
+**** Miscellaneous ****
    
 114.50   Captions
    
@@ -23754,7 +23755,7 @@ interconnection, and signal carriage
 114.64   Notices
 Cross-reference:
    Cable television users' tax, see § 35.136
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 114.01 PURPOSE.
    The purpose of this chapter is to:
    (A)   Establish a local policy concerning cable systems, open video systems,
@@ -23969,7 +23970,7 @@ headend or another point on the cable communications system.
 facilities for purposes of producing or transmitting material, as contrasted
 with the receipt thereof in the capacity of a subscriber.
 (Ord. 678-C.S., passed 4-20-04)
-CABLE SYSTEM REQUIREMENTS AND ADMINISTRATION
+**** CABLE SYSTEM REQUIREMENTS AND ADMINISTRATION ****
 § 114.03 FRANCHISE REQUIRED.
    No person may construct or operate a cable communications system in the city
 without first obtaining a grant of a franchise from the city.
@@ -24770,7 +24771,7 @@ operations ceased. The statement shall contain the information and be certified
 as required by §
 114.17(C)(1).
 (Ord. 678-C.S., passed 4-20-04)
-SPECIAL RULES APPLICABLE TO CABLE SYSTEMS
+**** SPECIAL RULES APPLICABLE TO CABLE SYSTEMS ****
 § 114.30 APPLICATIONS GENERALLY.
    (A)   Application required. An application must be filed for an initial and
 renewal cable system franchise, or for approval of a transfer. A request for
@@ -25193,7 +25194,7 @@ no other monetary damages may be assessed. The city will provide notice, and
 impose penalties under this section pursuant to the procedures established by
 Cal. Gov't Code § 53088.2(r).
 (Ord. 678-C.S., passed 4-20-04)
-OPEN VIDEO SYSTEMS
+**** OPEN VIDEO SYSTEMS ****
 § 114.40 ADDITIONAL DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning:
@@ -25470,7 +25471,7 @@ prevent other persons from using the OVS to compete in the delivery of cable
 services with a franchisee or its affiliates.
 (Ord. 678-C.S., passed 4-20-04)
 Penalty, see § 114.15
-MISCELLANEOUS
+**** MISCELLANEOUS ****
 § 114.50 CAPTIONS.
    The captions to sections throughout this chapter are intended solely to
 facilitate reading and reference to the sections and provisions of this
@@ -25571,7 +25572,7 @@ subject to this chapter. A person with a pending application shall have 30 days
 from the effective date of this chapter to submit additional information to
 comply with the requirements of this chapter governing applications.
 (Ord. 678-C.S., passed 4-20-04)
-STATE VIDEO SERVICE FRANCHISES
+**** STATE VIDEO SERVICE FRANCHISES ****
 § 114.57 GENERAL PROVISIONS.
    (A)   Purpose. This section is applicable to video service providers who
 have been awarded a state video franchise under the Cal. Public Utilities Code
@@ -26023,7 +26024,7 @@ Permits, Registrations and Certifications
 117.22   Transfer of permits
    
 117.23   Notices of employees' status
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 7§ 117.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -26054,7 +26055,7 @@ Penalty, see § 10.99
 businesses described in this chapter, whether the activities described in this
 chapter were established before or after June 22, 1973.
 ('63 Code, § 6-14.21) (Ord. 211-C.S., passed 6-22-73)
-PERMITS, REGISTRATIONS AND CERTIFICATIONS
+**** PERMITS, REGISTRATIONS AND CERTIFICATIONS ****
 § 117.15 PERMITS AND REGISTRATION REQUIRED.
    (A)   No person shall establish or maintain a massage establishment without
 first obtaining and maintaining in effect a permit from the Chief of Police,
@@ -26355,7 +26356,7 @@ and roaming sidewalk vendors
  
    
 118.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 118.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -26513,7 +26514,7 @@ access standards under California law. A clear path of 48 inches must be
 maintained.
 (Ord. 881-C.S., passed 12-4-18) Penalty, see §
 118.99
-LICENSING
+**** LICENSING ****
 § 118.15 LICENSE REQUIRED FOR SOLICITORS AND CANVASSERS.
    It is unlawful for any person over 18 years of age to solicit or canvass as
 defined in §
@@ -27525,7 +27526,7 @@ is not required of the operator or onboard safety monitor, so long as neither
 they, nor their employees or agents sell, serve, or furnish any alcoholic
 beverage to any passenger.
 (Ord. 886-C.S., passed 6-4-19)
-CHAPTER 122: FOREIGN-TRADE ZONE
+***** CHAPTER 122: FOREIGN-TRADE ZONE *****
 Section
    
 122.01   Definitions
@@ -27774,7 +27775,7 @@ Abandoned Shopping Carts
  
    
 130.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 130.01 DRINKING INTOXICATING BEVERAGES IN PUBLIC.
    (A)   Except as provided by §
 115.05, and division (B) below, it shall be unlawful for any person to drink or
@@ -29230,7 +29231,7 @@ be subject to the provisions of §
 the City Attorney.
 (Ord. 844-C.S., passed 8-2-16)
 § 130.15 - 130.29 [RESERVED]
-ABANDONED SHOPPING CARTS
+**** ABANDONED SHOPPING CARTS ****
 § 130.30 ABANDONED AND DERELICT SHOPPING CARTS; AUTHORITY.
    (A)   Purpose and findings of fact.
       (1)   The accumulation of abandoned carts, sometimes wrecked and/or
@@ -29440,7 +29441,7 @@ Graffiti Control Regulations
 Private Property
    
 131.30   Trespass on private property prohibited
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 131.01 [RESERVED]
 § 131.02 DROPPING OBJECTS FROM AIRCRAFT; EXCEPTIONS.
    (A)   Dropping objects from aircraft. No person in any aircraft flying
@@ -29455,7 +29456,7 @@ the state.
 ('63 Code, § 4-1.02)
 (Ord. 2866, passed 6-6-61)
 Penalty, see § 10.99
-GRAFFITI CONTROL REGULATIONS
+**** GRAFFITI CONTROL REGULATIONS ****
 § 131.10 PURPOSE.
    (A)   The purpose of this subchapter is to provide a program for removal of
 graffiti from walls and structures on both public and private property and to
@@ -29683,7 +29684,7 @@ paint, ink, or dye from an aerosol container, or with graffiti, the city may
 petition the sentencing court to suspend driving privileges or delay the
 issuance of driving privileges in accordance with Cal. Veh. Code § 13202.6
 (Ord. 639-C.S., passed 2-6-01)
-PRIVATE PROPERTY
+**** PRIVATE PROPERTY ****
 § 131.30 TRESPASS ON PRIVATE PROPERTY PROHIBITED.
    (A)   No person may remain upon any private property or business premises
 after being notified by the owner or lessee or other person in charge thereof
@@ -29738,7 +29739,7 @@ Loitering for Drug-Related Activities at Certain Locations
 132.17   Method of enforcement and probable cause
    
 132.18   Remedies
-LOITERING FOR DRUG-RELATED ACTIVITIES AT CERTAIN LOCATIONS
+**** LOITERING FOR DRUG-RELATED ACTIVITIES AT CERTAIN LOCATIONS ****
 § 132.15 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -30335,7 +30336,7 @@ Post-Disaster Safety Assessment
 150.090   Rehabilitation
    
 150.091   Duration
-Vacant and/or Boarded Buildings
+**** Vacant and/or Boarded Buildings ****
    
 150.095   Findings and purpose
    
@@ -30577,7 +30578,7 @@ Expedited Permit Processing for Electrical Vehicle Charging Stations
  
    
 150.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.001 HOUSING AUTHORITY.
    (A)   Created. A Commission of Housing Authority for the city to supervise,
 direct, control, and do all lawful things under the laws of the state for the
@@ -30656,7 +30657,7 @@ by the Building Inspector, shall be guilty of a misdemeanor. (‘63 Code, § 9-
 Ord. 890-C.S., passed 12-3-19; Am. Ord. 940-C.S., passed 12-6-22) Penalty, see
 §
 150.999
-ADOPTION OF CODES
+**** ADOPTION OF CODES ****
 § 150.015 CONSTRUCTION CODES ADOPTED.
    An ordinance of the City adopting by reference the 2025 editions of the
 California Building Standards Code and related model codes with appendices as
@@ -30940,7 +30941,7 @@ deemed to refer to the pertinent section(s) of current editions of the adopted
 code.
 (Ord. 801-C.S., passed 12-3-13; Am. Ord. 852-C.S., passed 1-17-17; Am. Ord.
 890-C.S., passed 12-3-19)
-EARTHQUAKE HAZARD REDUCTION IN EXISTING BUILDINGS
+**** EARTHQUAKE HAZARD REDUCTION IN EXISTING BUILDINGS ****
 § 150.065 PURPOSE.
    (A)   The purpose of this subchapter is to promote public safety and welfare
 by reducing the risk of death and injury resulting from the effects of
@@ -31321,7 +31322,7 @@ that it would have passed and adopted this subchapter and each of the
 provisions thereof irrespective of the fact that any one or more of the
 provisions be declared invalid and/or unconstitutional.
 (Ord. 651-C.S., passed 2-5-02)
-POST-DISASTER SAFETY ASSESSMENT
+**** POST-DISASTER SAFETY ASSESSMENT ****
 § 150.085 INTENT.
    This subchapter establishes standard placards and procedures to be used to
 indicate the condition of a structure for continued occupancy after any natural
@@ -31412,7 +31413,7 @@ or structure to be classified as hazardous and therefore a nuisance, and abated
 as such.
 (Ord. 586-C.S., passed 2-7-95)
 Penalty, see § 150.999
-VACANT AND/OR BOARDED BUILDINGS
+**** VACANT AND/OR BOARDED BUILDINGS ****
 § 150.095 FINDINGS AND PURPOSE.
    The City Council finds as follows: Vacant buildings are a major cause and
 source of blight in residential and nonresidential neighborhoods, especially
@@ -31637,8 +31638,8 @@ Manager after the hearing described above. The City Clerk will fix the time and
 place for a public hearing before the City Council and promptly notify the
 owner in writing at the address indicated on the notice of appeal.
 (Ord. 956-C.S., passed 9-3-24)
-CONSTRUCTION REGULATIONS FOR THE CONVERSION OF BUILDINGS TO LIVE/WORK
-OCCUPANCIES
+**** CONSTRUCTION REGULATIONS FOR THE CONVERSION OF BUILDINGS TO LIVE/WORK
+OCCUPANCIES ****
 § 150.105 PURPOSE AND SCOPE.
    The purpose of this subchapter is to provide alternative standards to the
 model codes, pursuant to Cal. Health and Safety Code § 17958.11, that will
@@ -31863,7 +31864,7 @@ may be unsafe in the event of a major earthquake.”
    (B)   Retrofitting of unreinforced masonry buildings shall be accomplished
 in the time frames and in the manner set forth in this chapter.
 (Ord. 595-C.S., passed 8-15-95)
-UNSAFE STRUCTURES; ABATEMENT OF NUISANCES
+**** UNSAFE STRUCTURES; ABATEMENT OF NUISANCES ****
 § 150.140 PURPOSE.
    This subchapter is adopted for the purpose of defining those conditions of
 real property in the City which constitute nuisances; and for the further
@@ -33070,7 +33071,7 @@ may order the owner to pay treble the costs of the abatement. This section does
 not apply to court-ordered abatement of dangerous buildings pursuant to Cal.
 Health and Safety Code § 17980.
 (Ord. 904-C.S., passed 10-6-20)
-CONSTRUCTION SITE EROSION CONTROL
+**** CONSTRUCTION SITE EROSION CONTROL ****
 § 150.200 PURPOSE AND INTENT.
    The purpose and intent of this chapter is to protect and enhance the water
 quality of watercourses, water bodies and wetlands pursuant to and consistent
@@ -33321,7 +33322,7 @@ any requirement issued pursuant to this chapter may also be in violation of the
 Clean Water Act and/or the Porter-Cologne Water Quality Control Act and may be
 subject to the sanctions of those acts including civil and criminal penalties.
 (Ord. 724-C.S., passed 5-20-08; Am. Ord. 962-C.S., passed 7-15-25)
-OPERATION OF HOTELS AND MOTELS
+**** OPERATION OF HOTELS AND MOTELS ****
 § 150.300 PURPOSE.
    The purpose of this subchapter is to ensure the continued availability of
 transient lodging within the City of Eureka; and to protect the public
@@ -33971,7 +33972,7 @@ deputies, calculated based on the effective hourly rate of such attorney. Ref.
 Government Code § 38773.5.
 (Ord. 798-C.S., passed 10-1-13) Penalty, see §
 150.999
-EXPEDITED PERMIT PROCESSING FOR ELECTRICAL VEHICLE CHARGING STATIONS
+**** EXPEDITED PERMIT PROCESSING FOR ELECTRICAL VEHICLE CHARGING STATIONS ****
 § 150.401 AUTHORITY.
    This subchapter is adopted pursuant to the authority granted to the City of
 Eureka by Assembly Bill 1236 (Chiu, 2015) of the California Government Code,
@@ -34350,7 +34351,7 @@ Procedures for Naming and Renaming Streets and Other Public Facilities
 152.17   Change of street names; notice and hearing
    
 152.18   Review by Council
-ADMINISTRATIVE BODIES
+**** ADMINISTRATIVE BODIES ****
 § 152.01 PLANNING COMMISSION.
    (A)   Created. The Planning Commission is hereby created and shall consist
 of five members.
@@ -34386,7 +34387,8 @@ the zoning ordinance provides; and
 (‘63 Code, § 10-2.02)
 (Ord. 2878, passed 8-15-61; Am. Ord. 496-C.S., passed 7-20-89; Am. Ord. 791-
 C.S., passed 12-4-12)
-PROCEDURES FOR NAMING AND RENAMING STREETS AND OTHER PUBLIC FACILITIES
+**** PROCEDURES FOR NAMING AND RENAMING STREETS AND OTHER PUBLIC FACILITIES
+****
 § 152.15 SUBMITTAL OF REQUESTS.
    All requests for the naming and renaming of streets, public buildings, parks
 or recreational facilities owned or controlled by the city, except proposals
@@ -34521,7 +34523,7 @@ Substantial Improvement/Damage Determination
 improvement and/or damage determinations
    
 153.028   Improvement costs that may be excluded
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.001 STATUTORY AUTHORIZATION.
    The Legislature of the State of California has in Cal. Gov’t Code §§ 65302,
 65560, and 65800 conferred upon local governments the authority to adopt
@@ -34955,7 +34957,7 @@ unconstitutional or invalid, such decision shall not affect the validity of
 this chapter as a whole, or any portion thereof other than the section so
 declared to be unconstitutional or invalid.
 (Ord. 767-C.S., passed 4-19-11)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 153.013 DESIGNATION OF THE FLOODPLAIN ADMINISTRATOR.
    The City Manager or his or her designee, is hereby appointed to administer,
 implement, and enforce this chapter by granting or denying development permits
@@ -35111,7 +35113,7 @@ relocated as a result of proposed development.
 there is an error in any requirement, decision, or determination made by the
 Floodplain Administrator in the enforcement or administration of this chapter.
 (Ord. 767-C.S., passed 4-19-11)
-PROVISIONS FOR FLOOD HAZARD REDUCTION
+**** PROVISIONS FOR FLOOD HAZARD REDUCTION ****
 § 153.017 STANDARDS OF CONSTRUCTION.
    In all areas of special flood hazards the following standards are required:
    (A)   Anchoring. All new construction and substantial improvements of
@@ -35357,7 +35359,7 @@ lowest horizontal structural member of the lowest floor (excluding pilings or
 columns) of all new and substantially improved structures, and whether such
 structures contain a basement.
 (Ord. 767-C.S., passed 4-19-11)
-VARIANCE PROCEDURES
+**** VARIANCE PROCEDURES ****
 § 153.024 NATURE OF VARIANCES.
    (A)   The issuance of a variance is for floodplain management purposes only.
 Insurance premium rates are determined by statute according to actuarial risk
@@ -35470,7 +35472,7 @@ create a public nuisance.
 attach such conditions to the granting of variances as it deems necessary to
 further the purposes of this chapter.
 (Ord. 767-C.S., passed 4-19-11)
-SUBSTANTIAL IMPROVEMENT/DAMAGE DETERMINATION
+**** SUBSTANTIAL IMPROVEMENT/DAMAGE DETERMINATION ****
 § 153.027 IMPROVEMENT COSTS THAT MUST BE INCLUDED WITHIN SUBSTANTIAL
 IMPROVEMENT AND/OR DAMAGE DETERMINATIONS.
    (A)   All structural elements, including but not limited to:
@@ -35760,7 +35762,7 @@ Administration and Enforcement
 154.207   Certificate of compliance
    
 154.208   Certificate of noncompliance
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.001 CITATION AND AUTHORITY.
    This chapter is adopted to supplement and implement the Subdivision Map Act,
 Cal. Gov't Code §§ 66410 et seq., and may be cited as the Subdivision Ordinance
@@ -36056,7 +36058,7 @@ Chapter 156 of this title.
 ('63 Code, § 10-4.202.8)
 (Ord. 416-C.S., passed 12-6-84; Am. Ord. 652-C.S., passed 2-5-02; Am. Ord. 710-
 C.S., passed 3-20- 07)
-MAPS REQUIRED
+**** MAPS REQUIRED ****
 § 154.020 NECESSITY FOR MAPS.
    The necessity for preliminary, tentative, final, and parcel maps shall be
 governed by the provisions of this chapter.
@@ -36122,7 +36124,7 @@ and/or deposits as provided by the city's resolution establishing fees and
 charges.
 ('63 Code, § 10-4.304) (Ord. 416-C.S., passed 12-6-84)
 Penalty, see § 150.999
-SUBDIVISION MAPS; FIVE OR MORE PARCELS
+**** SUBDIVISION MAPS; FIVE OR MORE PARCELS ****
 § 154.035 PRELIMINARY MAPS.
    (A)   Contents and form; tentative map in lieu of preliminary map.
       (1)   The contents and form and submittal of preliminary maps shall be
@@ -36790,7 +36792,7 @@ required to constitute a logical and orderly development of the whole
 subdivision by units.
 ('63 Code, § 10-4.403.5) (Ord. 416-C.S., passed 12-6-81; Am. Ord. 710-C.S.,
 passed 3-20-07)
-SUBDIVISION MAPS; FOUR OR LESS PARCELS
+**** SUBDIVISION MAPS; FOUR OR LESS PARCELS ****
 § 154.060 PRELIMINARY AND TENTATIVE PARCEL MAPS.
    (A)   Submittal of preliminary map. At the option of the subdivider, a
 preliminary parcel map may be submitted to Department of Community Development
@@ -37121,7 +37123,7 @@ eliminate the requirement of a coastal development permit, as prescribed by
 Chapter 156 of this title for proposed subdivisions in the coastal zone.
 ('63 Code, § 10-4.502.10) (Ord. 416-C.S., passed 12-6-84; Am. Ord. 710-C.S.,
 passed 3-20-07)
-VESTING TENTATIVE MAPS
+**** VESTING TENTATIVE MAPS ****
 § 154.085 AUTHORITY AND PURPOSE.
    (A)   This subchapter is enacted pursuant to the authority granted by
 Chapter 4.5 (commencing with Section 66498.1) of the Subdivision Map Act
@@ -37262,7 +37264,7 @@ which depart from the ordinances, policies, and standards described in §
 these permits to the extent that the departures are authorized under this
 chapter, this code, the general plan and other applicable law.
 ('63 Code, § 10-4.5.509) (Ord. 492-C.S., passed 4-20-89)
-DEDICATIONS AND RESERVATIONS
+**** DEDICATIONS AND RESERVATIONS ****
 § 154.105 DEDICATION OF STREETS, ALLEYS, AND OTHER PUBLIC RIGHTS-OF-WAY OR
 EASEMENTS.
    As a condition of a final map or parcel map, the subdivider shall dedicate
@@ -37427,7 +37429,7 @@ property within the subdivision and abutting thereon.
 provisions and shall be contained in the owners certificate of the final map or
 parcel map.
 ('63 Code, § 10-4.605) (Ord. 416-C.S., passed 12-6-84)
-CONDOMINIUM CONVERSION
+**** CONDOMINIUM CONVERSION ****
 § 154.120 PURPOSE.
    (A)   To establish criteria for the conversion of the existing multiple-
 family rental housing to condominiums, community apartments, stock
@@ -37601,7 +37603,7 @@ his intent to convert, or from the filing date of the final subdivision map or
 parcel map, whichever date is later, to find substitute housing and to
 relocate.
 ('63 Code, § 10-4.702.7) (Ord. 416-C.S., passed 12-6-84)
-SUBDIVISION IMPROVEMENTS
+**** SUBDIVISION IMPROVEMENTS ****
 § 154.140 CONSTRUCTION ACCORDING TO STANDARDS; PREREQUISITE TO SUBMITTAL OF
 MAPS.
    (A)   The subdivider shall construct all required improvements both on and
@@ -38015,7 +38017,7 @@ have been completed satisfactorily and that public improvements have been
 accepted for public use.
 ('63 Code, § 10-4.812) (Ord. 416-C.S., passed 12-6-84; Am. Ord. 710-C.S.,
 passed 3-20-07)
-REVERSION TO ACREAGE
+**** REVERSION TO ACREAGE ****
 § 154.160 CONFORMANCE TO PROVISIONS REQUIRED; COASTAL DEVELOPMENT PERMIT.
    (A)   Subdivided property may be reverted to acreage pursuant to provisions
 of this subchapter and the State Subdivision Map Act. This subchapter shall
@@ -38110,7 +38112,7 @@ not shown on the final map for reversion shall be of no further force and
 effect.
 ('63 Code, § 10-4.906) (Ord. 416-C.S., passed 12-6-84; Am. Ord. 710-C.S.,
 passed 3-20-07)
-CORRECTION AND AMENDMENTS OF MAPS
+**** CORRECTION AND AMENDMENTS OF MAPS ****
 § 154.175 AMENDMENT BY CERTIFICATE OF CORRECTION OR AMENDING MAP; REASONS.
    After a final or parcel map is filed in the office of the County Recorder,
 it may be amended by a certificate of correction or an amending map:
@@ -38163,7 +38165,7 @@ passed 3-20-07)
 by this subchapter shall pay all fees and/or deposits as provided by the city's
 resolution establishing fees and charges.
 ('63 Code, § 10-4.1005) (Ord. 416-C.S., passed 12-6-84)
-PARCEL MERGERS
+**** PARCEL MERGERS ****
 § 154.190 MERGERS NOT REQUIRED.
    Two or more contiguous parcels or units or land which have been subdivided
 under the provisions of this chapter or the State Subdivision Map Act shall not
@@ -38221,7 +38223,7 @@ The reasonableness of such conditions may be appealed within 15 days of written
 notice of the conditions to the City Council in accordance with §
 154.041(A) of this chapter.
 ('63 Code, § 10-4.1204) (Ord. 416-C.S., passed 12-6-84)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 154.205 PROHIBITIONS.
    (A)   No person shall offer to sell or lease, to contract to sell or lease,
 to sell or lease or to finance any parcel or parcels of real property or to
@@ -38862,7 +38864,7 @@ Glossary
 155.508.020   Definitions
       
 155.508.030   [Reserved]
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 155.104 INTRODUCTORY PROVISIONS.
 § 155.104.010 TITLE.
    
@@ -39598,7 +39600,7 @@ Department offices and on the official City of Eureka website.
 be amended in accordance with procedures established in
 Ch. 156 (Coastal Zoning).
 (Ord. 885-C.S., passed 5-21-19)
-ZONING DISTRICT STANDARDS
+**** ZONING DISTRICT STANDARDS ****
 § 155.204 RESIDENTIAL ZONING DISTRICTS.
 § 155.204.010 PURPOSE OF RESIDENTIAL ZONING DISTRICTS.
    (A)   General. The purposes of the residential zoning districts are to:
@@ -41800,7 +41802,7 @@ public interest land trust;
          (e)   Conservation subdivisions pursuant to §
 155.332.040 are permitted, but not required, within the GG Overlay Zone.
 (Ord. 961-C.S., passed 7-15-25)
-CITYWIDE STANDARDS
+**** CITYWIDE STANDARDS ****
 § 155.304 SUPPLEMENTAL USE REGULATIONS.
 § 155.304.010 PURPOSE.
    This §
@@ -46224,7 +46226,7 @@ seq.) or other applicable state law, state law shall supersede this section.
 Any ambiguities in this section shall be interpreted to be consistent with
 State Density Bonus Law.
 (Ord. 951-C.S., passed 10-17-23)
-ADMINISTRATIVE RESPONSIBILITIES
+**** ADMINISTRATIVE RESPONSIBILITIES ****
 § 155.404 ADMINISTRATION.
 § 155.404.010 PURPOSE.
    This §
@@ -48432,7 +48434,7 @@ the proposed amendment would not conform with the General Plan, and the General
 Plan has subsequently been amended in a manner which will allow the proposed
 amendment.
 (Ord. 885-C.S., passed 5-21-19)
-GLOSSARY
+**** GLOSSARY ****
 § 155.504 LAND USE CLASSIFICATIONS.
 § 155.504.010 PURPOSE.
    Land use classifications describe one or more uses of land having similar
@@ -50165,7 +50167,7 @@ passed 8-21-12) Penalty, see § 150.999
 155.180 through 155.187 of this chapter. Conditional uses shall be subject to
 architectural review.
 ('63 Code, § 10-5.907) (Ord. 80-C.S., passed 10-16-66)
-M INDUSTRIAL DISTRICTS
+**** M INDUSTRIAL DISTRICTS ****
 § 155.095 PURPOSES.
    In addition to the objectives prescribed in § 155.002 of this chapter, the M
 Industrial Districts are included in the zoning regulations to achieve the
@@ -50566,25 +50568,25 @@ passed 1-12-69; Am. Ord. 152-C.S., passed 11-20-70; Am. Ord. 153-C.S., passed
 12-4-70; Am. Ord. 489-C.S., passed 3-12-89; Am. Ord. 526-C.S., passed 6-20-91;
 Am. Ord. 593-C.S., passed 8-15-93; Am. Ord. 710-C.S., passed 3-20-07; Am. Ord.
 757-C.S., passed 10-19-10; Am. Ord. 768-C.S., passed 5-3-11)
-§ 155.100 OFF-STREET PARKING.
+*** § 155.100 OFF-STREET PARKING. ***
    Off-street parking facilities shall be provided for each use as prescribed
 in §§ 155.115 through 155.123 of this chapter.
 ('63 Code, § 10-5.1005) (Ord. 80-C.S., passed 10-16-66)
-§ 155.101 OFF-STREET LOADING.
+*** § 155.101 OFF-STREET LOADING. ***
    Off-street loading facilities shall be provided for each use as prescribed
 in §§ 155.135 through 155.141 of this chapter.
 ('63 Code, § 10-5.1006) (Ord. 80-C.S., passed 10-16-66)
-§ 155.102 SIGNS.
+*** § 155.102 SIGNS. ***
    No sign, outdoor advertising structure, or display of any character shall be
 permitted except as prescribed in §§ 155.155 through 155.169 of this chapter.
 ('63 Code, § 10-5.1007) (Ord. 80-C.S., passed 10-16-66; Am. Ord. 786-C.S.,
 passed 8-21-12)
 Penalty, see § 150.999
-§ 155.103 SITE PLAN REVIEW.
+*** § 155.103 SITE PLAN REVIEW. ***
    All uses shall be subject to site plan review as prescribed in §§ 155.180
 through 155.187 of this chapter.
 ('63 Code, § 10-5.1008) (Ord. 80-C.S., passed 10-16-66)
-OFF-STREET PARKING FACILITIES
+**** OFF-STREET PARKING FACILITIES ****
 § 155.115 PURPOSES.
    In order to alleviate progressively or to prevent traffic congestion and
 shortage of curb spaces, off-street parking facilities shall be provided
@@ -50875,7 +50877,7 @@ below the minimum number of spaces required by Code or further reducing an
 already substandard number of parking spaces; and
    (D)   Site plan review has been approved for the revised parking lot layout.
 (Ord. 756-C.S., passed 9-21-10)
-OFF-STREET LOADING FACILITIES
+**** OFF-STREET LOADING FACILITIES ****
 § 155.135 PURPOSES.
    In order to alleviate progressively or to prevent traffic congestion and
 shortage of curb spaces, off-street loading facilities shall be provided
@@ -51028,7 +51030,7 @@ berths prescribed in this subchapter or reduced in area to less than the
 minimum standards prescribed in this subchapter.
 ('63 Code, § 10-5.1607) (Ord. 80-C.S., passed 10-16-66)
 Penalty, see § 150.999
-SIGNS
+**** SIGNS ****
 § 155.155 PURPOSES AND SCOPE.
    In addition to the objectives listed in § 155.002, the specific purposes of
 sign regulations are to:
@@ -51730,7 +51732,7 @@ advertising displays. The city shall commence abatement of illegal or abandoned
 signs within 60 days following the six-month period when inventorying and
 identification is to commence.
 (Ord. 585-C.S., passed 12-20-94; Am. Ord. 786-C.S., passed 8-21-12)
-SITE PLAN REVIEW AND ARCHITECTURAL REVIEW
+**** SITE PLAN REVIEW AND ARCHITECTURAL REVIEW ****
 § 155.180 PURPOSES.
    (A)   Site plan review. In order to preserve the natural beauty of the
 city's site, to prevent the indiscriminate clearing of property and the
@@ -51924,7 +51926,7 @@ in § 155.180 of this subchapter.
 ('63 Code, § 10-5.1809)
 (Ord. 80-C.S., passed 10-16-66; Am. Ord. 493-C.S., passed 4-20-89; Am. Ord.
 691-C.S., passed 6-21-05)
-SECONDARY DWELLING UNITS
+**** SECONDARY DWELLING UNITS ****
 § 155.200 PURPOSES.
    The Council finds and declares that secondary dwelling units are a valuable
 form of housing in California. Secondary dwelling units provide housing for
@@ -51935,8 +51937,8 @@ an increased sense of security.
 (‘63 Code, § 10-5.1851) (Ord. 515-C.S., passed 5-19-90; Am. Ord. 669-C.S.,
 passed 6-3-03; Am. Ord. 732-C.S., passed 12-2-08; Am. Ord. 777-C.S., passed 1-
 17-12; Am. Ord. 778-C.S., passed 1-17-12)
-§ 155.201 SECONDARY DWELLING UNIT PERMIT REQUIRED; APPLICATION REQUIREMENTS;
-FEES.
+*** § 155.201 SECONDARY DWELLING UNIT PERMIT REQUIRED; APPLICATION
+REQUIREMENTS; FEES. ***
    (A)   Permit. An approved secondary dwelling unit permit shall be obtained
 prior to construction, conversion and/or development of a secondary dwelling
 unit. Pursuant to Cal. Government Code § 65852.2, the secondary dwelling unit
@@ -52099,7 +52101,7 @@ proposed under the secondary dwelling unit permit shall be subject to
 architectural review as prescribed in §§ 155.180 through 155.187.
 (Ord. 778-C.S., passed 1-17-12) Penalty, see §
 150.999
-HOME OCCUPATIONS; TEMPORARY SUBDIVISION SALES OFFICES
+**** HOME OCCUPATIONS; TEMPORARY SUBDIVISION SALES OFFICES ****
 § 155.215 HOME OCCUPATIONS; REQUIRED CONDITIONS AND APPLICATIONS.
    (A)   Required conditions. Home occupations in the A, R, and OR Districts
 shall comply with the following regulations:
@@ -52156,7 +52158,7 @@ more than one year shall be approved by the Planning Commission. The Commission
 may approve subsequent renewal requests.
 ('63 Code, § 10-5.2001) (Ord. 80-C.S., passed 10-16-66; Am. Ord. 589-C.S.,
 passed 2-21-95)
-MANUFACTURED HOMES, MOBILEHOME PARKS AND RECREATIONAL VEHICLES
+**** MANUFACTURED HOMES, MOBILEHOME PARKS AND RECREATIONAL VEHICLES ****
 § 155.230 LICENSE REQUIRED FOR OCCUPANCY; COMPLIANCE WITH STANDARDS.
    (A)   No mobilehome or recreational vehicle, as defined in Cal. Health and
 Safety Code § 18200, Chapter 1, Part 2.1, Division 13 of the “Mobile Home Park
@@ -52268,7 +52270,7 @@ as prescribed for required parking facilities in § 155.118 of this chapter.
 ('63 Code, § 10-5.2104) (Ord. 152-C.S., passed 11-20-70; Am. Ord. 526-C.S.,
 passed 6-20-91)
 Penalty, see § 150.999
-NONCONFORMING USES, STRUCTURES AND SIGNS
+**** NONCONFORMING USES, STRUCTURES AND SIGNS ****
 § 155.244 PURPOSES.
    This subchapter is intended to limit the number and extent of nonconforming
 uses by prohibiting their enlargement. While permitting the use and maintenance
@@ -52440,7 +52442,7 @@ development standards, excluding setbacks; and
 effect at the time of application for reconstruction.
 (‘63 Code, § 10-5.2205) (Ord. 80-C.S., passed 10-16-66; Am. Ord. 710-C.S.,
 passed 3-20-07; Am. Ord. 779-C.S., passed 1-17-12)
-DETERMINATION AS TO USES NOT LISTED
+**** DETERMINATION AS TO USES NOT LISTED ****
 § 155.265 PURPOSE AND INITIATION.
    In order to ensure that the zoning regulations will permit all similar uses
 in each district, the Planning Commission, upon its own initiative or upon
@@ -52509,7 +52511,7 @@ Planning Commission or a failure of the Commission to act pursuant to § 155.268
 time period and shall include findings supporting the conclusion.
 ('63 Code, § 10-5.2307)
 (Ord. 80-C.S., passed 10-16-66; Am. Ord. 493-C.S., passed 4-20-89)
-CONDITIONAL USES
+**** CONDITIONAL USES ****
 § 155.280 PURPOSES AND AUTHORIZATION.
    In order to give the district use regulations the flexibility necessary to
 achieve the objectives of this chapter, in certain districts conditional uses
@@ -52794,7 +52796,7 @@ without the necessity of first obtaining a use permit therefor provided the
 Commission by resolution shall first have approved the routes and design
 thereof.
 ('63 Code, § 10-5.2422) (Ord. 80-C.S., passed 10-16-66)
-VARIANCES
+**** VARIANCES ****
 § 155.310 PURPOSES AND AUTHORIZATION.
    (A)   A variance is a waiver or modification of certain requirements
 prescribed in this chapter. The variance process provides for modifications of
@@ -53094,7 +53096,7 @@ for the same or substantially the same variance on the same or substantially
 the same site shall be filed within one year of the date of denial or
 revocation of the variance.
 ('63 Code, § 10-5.2516) (Ord. 503-C.S., passed 12-9-89)
-ZONING PERMITS AND CERTIFICATES OF OCCUPANCY
+**** ZONING PERMITS AND CERTIFICATES OF OCCUPANCY ****
 § 155.335 PURPOSES AND REQUIREMENTS.
    (A)   To ensure that each new or expanded use of a structure or site and
 each new structure or alteration of an existing structure complies with all
@@ -53157,7 +53159,7 @@ issuance of a certificate of occupancy having been met, the Building Official
 shall request the public utility to discontinue service.
 ('63 Code, § 10-5.2604) (Ord. 80-C.S., passed 10-16-66; Am. Ord. 417-C.S.,
 passed 12-6-84; Am. Ord. 589-C.S., passed 2-21-95)
-AMENDMENTS
+**** AMENDMENTS ****
 § 155.350 PURPOSE; INITIATION.
    (A)   Purpose. The zoning map and zoning regulations may be amended by
 changing the boundaries of any district, by combining a district with a Planned
@@ -53489,7 +53491,7 @@ property or the authorized agent of the owner may file an application for a
 change in district as set forth in § 155.350(B) of this subchapter.
 ('63 Code, § 10-5.2715) (Ord. 80-C.S., passed 10-16-66; Am. Ord. 144-C.S.,
 passed 8-12-70)
-GENERAL PLAN AMENDMENTS
+**** GENERAL PLAN AMENDMENTS ****
 § 155.365 PURPOSE; AUTHORIZATION; PETITION.
    (A)   Purpose. The General Plan is the foundational policy document of the
 City of Eureka. It establishes farsighted policy that forms the basis for and
@@ -53650,7 +53652,7 @@ period provided it can be shown that a change in the conditions or
 circumstances under which the Council determined that the proposed General Plan
 amendment was not in the public interest have occurred.
 (Ord. 665-C.S., passed 1-7-03)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 155.375 ADMINISTRATIVE APPEAL PROCEDURE.
    An appeal may be made to the Planning Commission by any interested party
 from any administrative determination or interpretation made by the Director of
@@ -53929,7 +53931,7 @@ do not require a public hearing; permitted uses
 156.115   Amendments to coastal development permits
    
 156.116   Lapse of coastal development permit
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.001 TITLE.
    This chapter shall be known and may be cited as “the Zoning Regulations of
 the City for the Coastal Zone.”
@@ -54718,7 +54720,7 @@ Works.
 the requirements of § 153.10 of this title.
 ('63 Code, § 10-5.2919.3) (Ord. 519-C.S., passed 8-26-90; Am. Ord. 589-C.S.,
 passed 2-21-95)
-REQUIREMENTS AND REGULATIONS
+**** REQUIREMENTS AND REGULATIONS ****
 § 156.030 BASIC REQUIREMENTS FOR ALL DISTRICTS.
    The zoning schedule contained in § 155.025 of this title shall prescribe
 basic site, yard, bulk, useable open space, and screening and landscaping
@@ -55267,7 +55269,7 @@ Industrial Zoning District (ML), and the General Industrial Zoning District
 Emergency shelters located outside of the Coastal Zone shall comply with
 Chapter 155.
 (Ord. 631-C.S., passed 9-7-99)
-COASTAL ZONE DEVELOPMENT STANDARDS
+**** COASTAL ZONE DEVELOPMENT STANDARDS ****
 § 156.050 APPLICATION.
    The following development standards shall apply to all development proposed
 within the coastal zone.
@@ -55894,7 +55896,7 @@ measures are developed.
 ('63 Code, § 10-5.2946) (Ord. 417-C.S., passed 12-6-84; Am. Ord. 519-C.S.,
 passed 8-26-90; Am. Ord. 589-C.S., passed 2-21-95)
 Penalty, see § 150.999
-SPECIFIC DISTRICTS
+**** SPECIFIC DISTRICTS ****
 § 156.065 WC — CONSERVATION WATER DISTRICT.
    (A)   Purpose. In addition to the objective prescribed in §
 156.002 of this chapter, the WC District is included in the zoning regulations
@@ -58723,7 +58725,7 @@ including, but not limited to, draft language of the special qualification to
 the base zone, a discussion why the need of the special qualification, and
 information supporting a finding that the change is not “spot zoning.”
 (Ord. 621-C.S., passed 11-25-97: Am. Ord. 646-C.S., passed 8-21-01)
-COASTAL DEVELOPMENT PERMIT PROCEDURES
+**** COASTAL DEVELOPMENT PERMIT PROCEDURES ****
 § 156.095 PURPOSES.
    This part establishes the permit procedures for developments located in the
 coastal zone as defined in Cal. Pub. Res. Code § 30150. This chapter is based
@@ -59792,7 +59794,7 @@ Commercial Cannabis Licenses
 158.031   Commercial cannabis licenses
    
 158.032   Enforcement and penalties
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 158.001 CHAPTER PURPOSE.
    (A)   This chapter establishes regulations for commercial cannabis uses and
 cannabis cultivation for personal use. These regulations are intended to:
@@ -60012,7 +60014,7 @@ interpreted to give this chapter its most reasonable meaning and application,
 consistent with Medicinal and Adult-Use Cannabis Regulation and Safety Act
 (MAUCRSA) and applicable state and federal law.
 (Ord. 933-C.S., passed 7-19-22)
-PERSONAL USE REGULATIONS
+**** PERSONAL USE REGULATIONS ****
 § 158.010 SUBCHAPTER PURPOSE.
    This subchapter establishes standards for personal use cannabis cultivation.
 (Ord. 933-C.S., passed 7-19-22)
@@ -60080,7 +60082,7 @@ occupation.
          (b)   Distribution of cannabis cultivated for personal use is not
 allowed.
 (Ord. 933-C.S., passed 7-19-22)
-COMMERCIAL CANNABIS REGULATIONS
+**** COMMERCIAL CANNABIS REGULATIONS ****
 § 158.020 SUBCHAPTER PURPOSE.
    This subchapter identifies where commercial cannabis uses are allowed,
 permits required, and standards that apply to these uses.
@@ -60282,7 +60284,7 @@ for any reason, the event applicant or any business owner identified in the
 temporary cannabis event permit application may not apply for a new temporary
 cannabis event permit for 24 months.
 (Ord. 933-C.S., passed 7-19-22)
-COMMERCIAL CANNABIS LICENSES
+**** COMMERCIAL CANNABIS LICENSES ****
 § 158.030 SUBCHAPTER PURPOSE.
    This subchapter describes the process to obtain a commercial cannabis
 license.
@@ -60514,7 +60516,7 @@ Conditional Use Permit - Requirements and Regulations
 159.027   Lapse of permit
    
 159.028   Penalties
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 159.001 PURPOSE.
    The purpose of this chapter is to provide a uniform and comprehensive set of
 standards for the development and operation of wireless telecommunications
@@ -60791,7 +60793,8 @@ private contracts for facility uses in existence at the time of adoption of
 this chapter.
 (Ord. 757-C.S., passed 10-19-10) Penalty, see §
 159.028
-WIRELESS TELECOMMUNICATION FACILITY PERMIT - REQUIREMENTS AND REGULATIONS
+**** WIRELESS TELECOMMUNICATION FACILITY PERMIT - REQUIREMENTS AND REGULATIONS
+****
 § 159.011 APPLICATION REQUIREMENTS; FEES.
    (A)   Except as provided in this chapter, all wireless telecommunication
 facilities shall require a wireless telecommunication facility permit.
@@ -60911,7 +60914,7 @@ telecommunications facilities located within a Local or National Historic
 District or within 100 feet of a Local or National Historic District shall
 require a conditional use permit as prescribed in this chapter.
 (Ord. 757-C.S., passed 10-19-10)
-CONDITIONAL USE PERMIT - REQUIREMENTS AND REGULATIONS
+**** CONDITIONAL USE PERMIT - REQUIREMENTS AND REGULATIONS ****
 § 159.021 APPLICATION REQUIREMENTS; FEES.
    (A)   Where a wireless telecommunication facility requires a conditional use
 permit, the conditional use permit shall also act as the wireless
@@ -62445,14 +62448,14 @@ References to 1963 Code
 References to Ordinances
 References to Resolutions
 REFERENCES TO CALIFORNIA CODES
-Administrative Code
+**** Administrative Code ****
  
 State Cite               Code Section
 Title 14, § 13250(a),(b)156.097
 Title 14, § 13252       156.097
 Title 24, Part 8         150.073
  
-Business and Professions Code
+**** Business and Professions Code ****
 State Cite Code Section
 State Cite              Code Section
 8771                    154.046
@@ -62468,7 +62471,7 @@ Div. 9, Ch. 13, § 25170121.14
 26000 - 26250           158.001
                         
  
-Civil Code
+**** Civil Code ****
 State Cite Code Section
 State Cite    Code Section
 54.1          91.204,
@@ -62492,7 +62495,7 @@ State Cite    Code Section
 4080          150.403
               
  
-Civil Procedures Code
+**** Civil Procedures Code ****
  
 State Cite                                           Code Section
 1013a                                                39.25
@@ -62507,31 +62510,31 @@ Art. 3 (Sec. 415.10 et seq.), Ch. 4, Title 5, Part 2 150.187
 1822.50 - 1822.60                                    150.312 ,
                                                      92.10
  
-Corporations Code
+**** Corporations Code ****
  
 State Cite Code Section
 5003       97.01
 25100(f)   154.006
  
-Elections Code
+**** Elections Code ****
  
 State Cite Code Section
            Charter, §§
 10227      301,
            400
  
-Financial Code
+**** Financial Code ****
  
 State Cite Code Section
 [reserved]  
  
-Food and Agricultural Code
+**** Food and Agricultural Code ****
  
 State Cite    Code Section
 31622         91.1004
 47000 et seq. 118.05
  
-Government Code
+**** Government Code ****
 State Cite Code Section
 State Cite                             Code Section
 815 et seq.                            120.26
@@ -62692,12 +62695,12 @@ Title 5, Div. 1, Part 2, Ch. 2, Art. 2 35.030
 Title 7, Ch. 3, §§ 65100 et seq.     152.01
                                        
  
-Harbors and Navigation Code
+**** Harbors and Navigation Code ****
  
 State Cite Code Section
 500 - 505  100.13
  
-Health and Safety Code
+**** Health and Safety Code ****
 State Cite Code Section
 State Cite                    Code Section
 1500 et seq.                  155.504.030,
@@ -62764,14 +62767,14 @@ Div. 104, Part 9, Ch. 8       51.02
 Div. 104, Part 14             51.02
                               
  
-Labor Code
+**** Labor Code ****
  
 State Cite   Code Section
 1720 et seq. 39.37
 6404.5       97.01,
              97.02
  
-Penal Code
+**** Penal Code ****
 State Cite Code Section
 State Cite               Code Section
 Title 9, Ch. 7.5         155.304.030
@@ -62817,7 +62820,7 @@ Title 9, Ch. 7.5         155.304.030
 30515                    104.02
 Part 2, Title 3, Ch. 4.5 90.01
  
-Public Contract Code
+**** Public Contract Code ****
 State Cite Code Section
 State Cite Code Section
 3400(c)    39.37
@@ -62828,7 +62831,7 @@ State Cite Code Section
 22032(c)   39.38
            
  
-Public Resources Code
+**** Public Resources Code ****
 State Cite Code Section
 State Cite     Code Section
 5024.1         157.001
@@ -62862,7 +62865,7 @@ Ch. 12.8       51.01
 Ch. 12.9       51.01
                
  
-Public Utilities Code
+**** Public Utilities Code ****
 State Cite Code Section
 State Cite                Code Section
 Ch. 2.3 of Div. 1, Part 1 55.01
@@ -62884,7 +62887,7 @@ Ch. 2.3 of Div. 1, Part 1 55.01
 21411                     35.170,
                           35.185
  
-Revenue and Taxation Code
+**** Revenue and Taxation Code ****
 State Cite Code Section
 State Cite            Code Section
 214.15                155.332.030
@@ -62957,7 +62960,7 @@ Div. 2, Part 1.7      35.177,
 Div. 2, Part 6.7      35.095,
                       35.098
  
-Streets and Highways Code
+**** Streets and Highways Code ****
  
 State Cite         Code Section
 2113               35.018
@@ -62967,7 +62970,7 @@ State Cite         Code Section
 Divs. 1, 3, Art. 5 35.018
 Part 6             35.115
  
-Vehicle Code
+**** Vehicle Code ****
 State Cite Code Section
 State Cite                        Code Section
 467.5                             121.13
@@ -63023,7 +63026,7 @@ Division 11                       70.02
 Division 14                       90.01
                                   
  
-Water Code
+**** Water Code ****
  
 State Cite    Code Section
 350 et seq.   53.35,
@@ -63034,7 +63037,7 @@ State Cite    Code Section
               54.022
 71640 et seq. 53.35
  
-Welfare and Institutions Code
+**** Welfare and Institutions Code ****
  
 State Cite   Code Section
 256          130.05
