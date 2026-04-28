@@ -8,7 +8,7 @@ American Legal Publishing
 Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
-PREFACE
+**** PREFACE ****
    The La Mirada Municipal Code, originally published by Book Publishing
 Company in 1969, has been kept current by regular supplementation by its
 successor in interest Matthew Bender & Company, Inc. and American Legal
@@ -4282,12 +4282,12 @@ section, whichever occurs latest.
 performing a massage unless such person holds a valid and current massage
 certificate.
 (Ord. 645, § 2, 2011).
-ARTICLE III. OUT CALL MASSAGE SERVICE
+*** ARTICLE III. OUT CALL MASSAGE SERVICE ***
 4.10.300 Out call massage service--Massage certificate required.
    It is unlawful for any person to provide an out call massage service unless
 such person is a certified massage therapist.
 (Ord. 645, § 2, 2011).
-ARTICLE IV. PROHIBITED CONDUCT, PROCEDURES AND PENALTIES
+*** ARTICLE IV. PROHIBITED CONDUCT, PROCEDURES AND PENALTIES ***
 4.10.400 Prohibited conduct.
    It is unlawful for any certified massage therapist, or for any permittee to
 permit or allow any certified massage therapist, to touch or massage the
@@ -6331,7 +6331,7 @@ II. SOUTHWEST SUBURBAN WATER
    
 4.50.350   Payment of publication and posting expenses by grantee.
 I. CABLE, VIDEO, AND TELECOMMUNICATIONS SERVICE PROVIDERS
-ARTICLE I. GENERAL PROVISIONS
+*** ARTICLE I. GENERAL PROVISIONS ***
 4.50.010 Title.
 This Part I is known and may be cited as the "Cable, Video, and
 Telecommunications Service Providers Ordinance" of the city of La Mirada.
@@ -6388,7 +6388,7 @@ cable, video and telecommunications marketplace.
 Various terms and phrases used in this Part I are defined below in Section
 4.50.170.
 (Ord. 568 § 2 (part), 2001).
-ARTICLE 2. CABLE TELEVISION SYSTEMS
+*** ARTICLE 2. CABLE TELEVISION SYSTEMS ***
 4.50.040 Authority and findings.
    (a)   In accordance with applicable federal and state law, the city is
 authorized to grant one or more non-exclusive franchises to construct,
@@ -6839,7 +6839,7 @@ conclusive upon adoption of the resolution. A copy of the resolution adopted by
 the city council will be served upon the appellant by placement in the United
 States mail, postage prepaid, to the appellant's last known address.
 (Ord. 704 § 1, 2017; Ord. 617 § 1, 2008).
-ARTICLE 3. OPEN VIDEO SYSTEMS
+*** ARTICLE 3. OPEN VIDEO SYSTEMS ***
 4.50.090 Applicability.
 The provisions of this Article 3 apply to an open video system operator, as
 defined below in Section
@@ -7080,7 +7080,7 @@ procedures as may be mutually agreed upon by the city and the open video system
 operator and that will, in the judgment of the city council, best serve the
 public interest and protect the public health, welfare and safety.
 (Ord. 568 § 2 (part), 2001).
-ARTICLE 4. OTHER VIDEO AND TELECOMMUNICATIONS SERVICES AND SYSTEMS
+*** ARTICLE 4. OTHER VIDEO AND TELECOMMUNICATIONS SERVICES AND SYSTEMS ***
 4.50.130 Other multichannel video programming distributors.
 The term "cable system" as defined in federal law and as set forth in Section
 4.50.170 below, does not include a facility that serves subscribers without
@@ -7270,7 +7270,7 @@ such regulatory rights and authority must be consistent with federal and state
 law that is applicable to cable or telecommunications services provided by
 telephone corporations.
 (Ord. 568 § 2 (part), 2001).
-ARTICLE 5. USE OF PUBLIC RIGHTS-OF-WAY
+*** ARTICLE 5. USE OF PUBLIC RIGHTS-OF-WAY ***
 4.50.160 Findings--Policies and procedures.
    (a)   The city council finds and determines that numerous and repetitive
 excavations in the public rights-of-way diminish the useful life of the surface
@@ -7366,7 +7366,7 @@ non-discriminatory manner. To the extent authorized by law, all utility and
 other service providers will be required to comply with those requirements at
 their sole expense.
 (Ord. 568 § 2 (part), 2001).
-ARTICLE 6. DEFINITIONS
+*** ARTICLE 6. DEFINITIONS ***
 4.50.170 Defined terms and phrases.
    (a)   For the purposes of this Part I, the words, terms, phrases and their
 derivations set forth in this Part I have the meanings set forth below. Words
@@ -7520,7 +7520,7 @@ defined in this Part I will be given their meaning as used in Title 47 of the
 United States Code, as amended, and, if not defined in that code, their meaning
 as used in Title 47 of the Code of Federal Regulations.
 (Ord. 568 § 2 (part), 2001).
-ARTICLE 7. VIOLATIONS; SEVERABILITY
+*** ARTICLE 7. VIOLATIONS; SEVERABILITY ***
 4.50.180 Violations--Enforcement.
    (a)   Any person who violates any provision of this Part I is guilty of a
 misdemeanor and is punishable as provided for in Chapter 1.08 of Title 1 of
@@ -9996,7 +9996,7 @@ composting operations.
 6.08.760   Inspections and investigations by the city.
    
 6.08.770   Enforcement.
-ARTICLE I. GENERAL PROVISIONS
+*** ARTICLE I. GENERAL PROVISIONS ***
 6.08.010 Title.
 This chapter is known and may be cited as the solid waste and recyclables
 collection services ordinance of the city of La Mirada.
@@ -10209,7 +10209,7 @@ and any enterprise from incorporating into any agreement for exclusive services
 definitions relating to their respective contractual rights and obligations
 which may differ from or augment those set forth herein.
 (Ord. 531 § 3 (part), 1999).
-ARTICLE II. COLLECTION AGREEMENTS
+*** ARTICLE II. COLLECTION AGREEMENTS ***
 6.08.040 Authorization by city council--Contract requirement.
    The city council may authorize, by contract, one or more solid waste
 enterprises to provide solid waste and recyclables collection services for
@@ -10343,7 +10343,7 @@ hearing, it shall base its action upon the standards delineated in Section
 6.08.110. Notice of such hearing shall be sent to the collector not less than
 fifteen days prior to the hearing.
 (Ord. 531 § 3 (part), 1999).
-ARTICLE III. RATES
+*** ARTICLE III. RATES ***
 6.08.160 Rates, fees and charges.
 The city council may, by resolution or an approved collection agreement, place
 a limit on the rates, fees, and charges (collectively, "fees") collectors may
@@ -10360,7 +10360,7 @@ collector, and the city shall have no liability or responsibility therefor.
 the collector the applicable fees for collection services rendered pursuant to
 this chapter.
 (Ord. 531 § 3 (part), 1999).
-ARTICLE IV. VEHICLES
+*** ARTICLE IV. VEHICLES ***
 6.08.180 Vehicles--Generally.
 No person may operate any vehicle for the collection of solid waste or
 recyclables other than a collector who has a valid business license and a
@@ -10423,7 +10423,7 @@ vehicle shall not again be utilized in the city until it has been inspected and
 approved by the city manager. The collector shall maintain its regular
 collection schedule regardless of the repair of any vehicle.
 (Ord. 531 § 3 (part), 1999).
-ARTICLE V. EXCLUSIONS
+*** ARTICLE V. EXCLUSIONS ***
 6.08.220 Residential householder exclusion.
 No provision of this chapter shall prevent residential householders from
 collecting and disposing of occasional loads of solid waste generated in or on
@@ -10551,7 +10551,7 @@ authorized collector; and
 recyclables collection services offered by the authorized collector, for the
 period of time the property is vacant.
 (Ord. 531 § 3 (part), 1999).
-ARTICLE VI. GENERAL REQUIREMENTS
+*** ARTICLE VI. GENERAL REQUIREMENTS ***
 6.08.290 Mandatory service.
    (a)   All solid waste and recyclables collected from residential or
 commercial/industrial premises for a fee, service charge or other
@@ -10732,7 +10732,8 @@ of this Section
 6.08.460 is hereby declared to be a nuisance, and is subject to abatement
 pursuant to other provisions of the city code.
 (Ord. 531 § 3 (part), 1999).
-ARTICLE VII. RESIDENTIAL SOLID WASTE, RECYCLING, AND GREEN WASTE COLLECTION
+*** ARTICLE VII. RESIDENTIAL SOLID WASTE, RECYCLING, AND GREEN WASTE COLLECTION
+***
 6.08.470 Residential collection--Disposal.
 All solid waste collected by a collector shall be disposed of by the collector
 in accordance with all applicable federal, state and local laws and regulations
@@ -10809,7 +10810,7 @@ manager. Such special collection may include carry-out service, or any other
 service beyond that required by this chapter or the applicable collection
 agreement.
 (Ord. 531 § 3 (part), 1999).
-ARTICLE VIII. COMMERCIAL/INDUSTRIAL COLLECTION
+*** ARTICLE VIII. COMMERCIAL/INDUSTRIAL COLLECTION ***
 6.08.550 Commercial/Industrial--Disposal and status of solid waste.
 The authorized collector shall collect and dispose of all solid waste generated
 and presented for collection at each commercial/industrial premises in
@@ -10877,7 +10878,7 @@ authorize the business owner to use another solid waste enterprise for such
 special service until the collector can provide such service in its normal
 course of business.  
 (Ord. 531 § 3 (part), 1999).
-ARTICLE IX - MANDATORY ORGANIC WASTE DISPOSAL REDUCTION
+*** ARTICLE IX - MANDATORY ORGANIC WASTE DISPOSAL REDUCTION ***
 6.08.650 Definitions.
 For the purposes of this Article, the following words, terms, phrases, and
 their derivations have the meanings given herein. Terms not defined in this
@@ -22932,7 +22933,7 @@ Notes
   For statutory provisions pertaining to zoning rules and regulations, see Gov.
 * Code 65800 et seq. For statutory provisions pertaining to the creation of
   zoning boards, see Gov. Code 65900 et seq.
-ARTICLE I: ZONING CODE ENACTMENT AND APPLICABILITY
+***** ARTICLE I: ZONING CODE ENACTMENT AND APPLICABILITY *****
 Chapter 21.02
 ZONING ENACTMENT
 Sections:
@@ -23113,7 +23114,7 @@ be declared invalid, unconstitutional, or unenforceable.   
 21.08.120 Exemptions - city projects.
 Activities of the city shall be exempt from the requirements of this title.
 (Ord. 612 Exhibit A (part), 2008).
-ARTICLE II: ZONING CODE ADMINISTRATION AND ENFORCEMENT
+***** ARTICLE II: ZONING CODE ADMINISTRATION AND ENFORCEMENT *****
 Chapter 21.10
 ADMINISTRATIVE RESPONSIBILITY
 Sections:
@@ -23828,7 +23829,7 @@ recover the costs of abatement or may permit the lien to be assessed against
 the property, or both. Any determination as to the method of collection shall
 not operate or be construed as an election of remedies.
 (Ord. 624 § 4 (part), 2008).
-ARTICLE III: GENERAL ZONING DISTRICT PROVISIONS
+***** ARTICLE III: GENERAL ZONING DISTRICT PROVISIONS *****
 Chapter 21.16
 ESTABLISHMENT OF ZONING DISTRICTS, ADOPTION OF MAPS
 Sections:
@@ -23962,7 +23963,8 @@ site.
       (4)   Uses or structures that do not conform shall comply with the
 provisions of Article IX of this title. (Ord. 736, § 5 (part), 2025; Ord. 612
 Exhibit A (part), 2008).
-ARTICLE IV: BASE ZONING DISTRICTS AND RELATED USE AND DEVELOPMENT PROVISIONS
+***** ARTICLE IV: BASE ZONING DISTRICTS AND RELATED USE AND DEVELOPMENT
+PROVISIONS *****
 Chapter 21.18
 RESIDENTIAL ZONING DISTRICTS
 Sections:
@@ -25362,7 +25364,7 @@ Figure 21.18.050
 IMAGES/0-0-0-5396.jpg]
  
 (Ord. 736, § 5 (part), 2025; Ord. 612 Exhibit A (part), 2008).
-21.18.110 Additional standards for residential districts.
+* 21.18.110 Additional standards for residential districts. *
    (a) Fences and walls.
       (1)   Where a multi-unit residential development abuts any R-1 zone, a
 minimum six-foot-high decorative masonry wall shall be constructed along the
@@ -26332,7 +26334,7 @@ Chapters 21.102,
 21.108, and
 21.120.
 (Ord. 612 Exhibit A (part), 2008).
-ARTICLE V: OVERLAY DISTRICTS
+***** ARTICLE V: OVERLAY DISTRICTS *****
 Chapter 21.30
 FARM ANIMAL OVERLAY ZONING DISTRICT
 Sections:
@@ -28095,7 +28097,7 @@ right-of-way.
 of lot size, but no greater than a maximum number of 150 beds. Shelters shall
 not serve more persons than they have beds. (Ord. 736, § 5 (part), 2025; Ord.
 661 § 8 (part), 2012).
-ARTICLE VI: SPECIFIC LAND USE PROVISIONS
+***** ARTICLE VI: SPECIFIC LAND USE PROVISIONS *****
 CHAPTER 21.41
 SMALL LOT OWNERSHIP UNITS
 Sections:
@@ -28759,7 +28761,7 @@ proposed to be located on city-owned property or within the public rights-of-
 way; provided, however, that owners of such devices must obtain a right-of-way
 use permit pursuant to the Municipal Code.
 (Ord. 612 Exhibit A (part), 2008).
-DIVISION I. REGULATION OF ANTENNA AND TELECOMMUNICATIONS FACILITIES
+** DIVISION I. REGULATION OF ANTENNA AND TELECOMMUNICATIONS FACILITIES **
 21.46.020 Mandatory compliance with code requirements.
 In addition to complying with all applicable safety-related development
 standards set forth in this chapter, the installation of all antenna and
@@ -29069,7 +29071,7 @@ earth station antennas, which colors are determined to blend with surrounding
 dominant colors, or to camouflage an antenna, and are neither bright,
 reflective, nor metallic.
 (Ord. 612 Exhibit A (part), 2008).
-DIVISION II. REGULATION OF WIRELESS ANTENNA FACILITIES
+** DIVISION II. REGULATION OF WIRELESS ANTENNA FACILITIES **
 21.46.100 Facilities within public rights-of-way.
 All wireless antenna facilities proposed in the public rights-of-way in any
 zoning district must, unless exempt under paramount state or federal law,
@@ -29272,7 +29274,7 @@ antenna facilities may be authorized at such locations, and for such period of
 time, as will afford maximum protection for the public health, welfare, and
 safety.
 (Ord. 612 Exhibit A (part), 2008).
-DIVISION III. REGULATION OF AMATEUR RADIO STATION ANTENNAS
+** DIVISION III. REGULATION OF AMATEUR RADIO STATION ANTENNAS **
 21.46.160 Building permit required.
 Nothing contained in this Division III may be deemed to exempt from the
 requirement of a building permit the installation of an amateur radio station
@@ -29337,7 +29339,7 @@ and
          (B)    Impose the minimum practical restrictions, limitations, and
 conditions in order to achieve the city's legitimate regulatory objectives.
 (Ord. 612 Exhibit A (part), 2008).
-DIVISION IV. GENERAL PROVISIONS
+** DIVISION IV. GENERAL PROVISIONS **
 21.46.180 Nonconforming antennas.
 Any antenna constructed in violation of this chapter, or in violation of any
 prior ordinance or regulation, is subject to immediate abatement.
@@ -31290,7 +31292,7 @@ This chapter shall only remain in effect until January 1, 2027 and on that date
 is repealed, unless the Legislature of the State of California extends Article
 12 of Chapter 3 of Division 1 of Title 7 of the Government Code to a later
 date. (Ord. 736, § 5 (part), 2025).
-ARTICLE VII: SITE PLANNING AND GENERAL DEVELOPMENT PROVISIONS
+***** ARTICLE VII: SITE PLANNING AND GENERAL DEVELOPMENT PROVISIONS *****
 Chapter 21.60
 ACCESSORY STRUCTURES
 Sections:
@@ -34181,7 +34183,8 @@ Notes:
 1.   The combined length of all such features shall not account for more than
 25 percent of the length of the wall surface on which the features are located.
 (Ord. 612 Exhibit A (part), 2008).
-ARTICLE VIII: LAND USE AND DEVELOPMENT PERMIT REQUIREMENTS/PROCEDURES
+***** ARTICLE VIII: LAND USE AND DEVELOPMENT PERMIT REQUIREMENTS/PROCEDURES
+*****
 CHAPTER 21.80
 GENERAL PERMIT PROVISIONS
 Sections:
@@ -36756,7 +36759,7 @@ contrary to state or federal law.
    (e)   Approval of the financial incentives, fee waiver, or waivers to
 dedication requirements would not result in a public benefit. (Ord. 736, § 5
 (part), 2025).
-ARTICLE IX: NONCONFORMITIES
+***** ARTICLE IX: NONCONFORMITIES *****
 CHAPTER 21.130
 GENERAL NONCONFORMING PROVISIONS
 Sections:
@@ -36803,7 +36806,7 @@ approval.
 21.130.180   Modifications and extensions to legal nonconforming uses.
    
 21.130.190   Discontinuance of legal nonconforming use.
-Division V: Abatement/Extension of Nonconforming Uses/Structures
+** Division V: Abatement/Extension of Nonconforming Uses/Structures **
    
 21.130.200   Purpose and intent.
    
@@ -36812,7 +36815,7 @@ Division V: Abatement/Extension of Nonconforming Uses/Structures
 21.130.220   Required findings.
    
 21.130.230   Conditions.
-Division VI: Miscellaneous Nonconforming Provisions
+** Division VI: Miscellaneous Nonconforming Provisions **
    
 21.130.240   Nonconforming environmental effects.
    
@@ -36822,7 +36825,7 @@ conform.
 21.130.260   Nonconformities regarding safety, access, and parking.
    
 21.130.270   Nonconformities regarding fencing materials.
-DIVISION I: GENERAL NONCONFORMING PROVISIONS
+** DIVISION I: GENERAL NONCONFORMING PROVISIONS **
 21.130.010 Intent and purpose.
 Within the zoning districts established by this zoning ordinance or amendments
 that may later be adopted, there exists or will exist lots, structures, and
@@ -36914,7 +36917,7 @@ When any nonconformity is eliminated or brought into conformance with the
 current regulations of this title, the nonconforming rights and privileges with
 respect to that nonconformity are terminated and shall not be restored.
 (Ord. 612 Exhibit A (part), 2008).
-DIVISION II: NONCONFORMING LOTS
+** DIVISION II: NONCONFORMING LOTS **
 21.130.080 Continuation of legal nonconforming lots.
 Any lawfully created lot which becomes nonconforming with regard to lot area,
 street frontage, lot width, lot depth, or accessibility may continue
@@ -36926,7 +36929,7 @@ multi-family dwellings shall be fully conforming as to lot area and lot width.
 Legal nonconforming lots may not be modified in any manner that increases the
 degree of nonconformity.
 (Ord. 612 Exhibit A (part), 2008).
-DIVISION III: NONCONFORMING STRUCTURES
+** DIVISION III: NONCONFORMING STRUCTURES **
 21.130.100 Continuation of legal nonconforming structure.
    (a)   Continuation of Structure. Any legally established nonconforming
 structure that does not conform to the provisions of this title with regard to
@@ -37011,7 +37014,7 @@ When a structure is relocated to another lot, it shall be made conforming in
 all respects with the provisions of this title and all other applicable laws
 and regulations.
 (Ord. 612 Exhibit A (part), 2008).
-DIVISION IV: NONCONFORMING USE
+** DIVISION IV: NONCONFORMING USE **
 21.130.160 Continuation of legal nonconforming use.
 Except as otherwise listed below, a legal nonconforming use may continue
 indefinitely.
@@ -37065,7 +37068,7 @@ use.
 of discontinuance or abandonment is specified under other provisions of this
 title.
 (Ord. 612 Exhibit A (part), 2008).
-DIVISION V: ABATEMENT/EXTENSION OF NONCONFORMING USES/STRUCTURES
+** DIVISION V: ABATEMENT/EXTENSION OF NONCONFORMING USES/STRUCTURES **
 21.130.200 Purpose and intent.
 The abatement/extension of nonconforming uses/structures process is established
 to provide a means by which to establish the period within which a
@@ -37100,7 +37103,7 @@ The planning commission may impose conditions to ensure maintenance of an
 equitable balance of the public interest and the interests of the property
 owner.
 (Ord. 612 Exhibit A (part), 2008).
-DIVISION VI. MISCELLANEOUS NONCONFORMING PROVISIONS
+** DIVISION VI. MISCELLANEOUS NONCONFORMING PROVISIONS **
 21.130.240 Nonconforming environmental effects.
    (a)   Off-site Impacts. Any nonconformity with respect to environmental
 effects upon surrounding property (such as lighting or noise) shall be made
@@ -37144,7 +37147,7 @@ nonconforming chain-link fencing in residential zones shall be subject to
 abatement within ten years of the date that such materials were rendered
 nonconforming.
 (Ord. 612 Exhibit A (part), 2008).
-ARTICLE X: DEFINITIONS
+***** ARTICLE X: DEFINITIONS *****
 CHAPTER 21.200
 DEFINITIONS
 Sections:
@@ -37917,7 +37920,7 @@ the underlying base zone.
 boundaries using the symbols listed in Article III of this title. (Ord. 736, §
 5 (part), 2025; Ord. 612 Exhibit A (part), 2008).
 CROSS REFERENCE TABLES
-1960 CODE
+**** 1960 CODE ****
 1960 Code Herein
 1960 Code     Herein
 1100--1103    (Repealed by 163)
@@ -38198,7 +38201,7 @@ CROSS REFERENCE TABLES
 9650–9658   (Repealed by 612)
               
  
-DISPOSITION OF ORDINANCE TABLES
+**** DISPOSITION OF ORDINANCE TABLES ****
 Ordinance Number
 Ordinance
 Number
