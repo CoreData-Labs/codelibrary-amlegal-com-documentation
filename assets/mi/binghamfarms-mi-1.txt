@@ -198,7 +198,7 @@ Chapter XVII: Submission and Election
    7.   Registration of electors
    8.   Canvassing board
    9.   Charter approved at election; copies; certification; filing
-Preamble
+***** Preamble *****
    We; the residents of Bingham Farms, by virtue of the rights granted us by
 the Constitution and the laws of the State of Michigan, wishing to preserve our
 simple rural way of life and the character of our neighborhood, do hereby
@@ -1764,7 +1764,7 @@ Private Payment of Review Expenses
 30.39   Waiver or deferral
    
 30.40   Appeals
-GENERAL POLICIES
+**** GENERAL POLICIES ****
 § 30.01 AUTHORIZATION TO REQUIRE INDEMNIFICATION.
    In connection with the provision of any outside service to the village and
 in connection with the establishment of any contract or other relationship
@@ -1840,7 +1840,7 @@ distribution. Rules and regulations adopted by any department of the village
 shall be filed with the Village Council at the time of their adoption, repeal
 or amendment.
 (O.C. § 1.12)
-SPECIAL ASSESSMENTS
+**** SPECIAL ASSESSMENTS ****
 § 30.15 POWER TO LEVY SPECIAL ASSESSMENTS.
    The Council shall have the power to determine that the whole or any part of
 the cost of the acquisition, construction or replacement of any improvements or
@@ -1995,7 +1995,7 @@ be declared invalid as to any property if the owner or party in interest
 thereof has actually received notice, has waived notice or has paid any part of
 the assessment.
 (O.C. § 1.45)
-PRIVATE PAYMENT OF REVIEW EXPENSES
+**** PRIVATE PAYMENT OF REVIEW EXPENSES ****
 § 30.35 APPLICATION.
    This chapter shall apply in circumstances in which the village is requested
 for, other otherwise acts upon, an authorization, permission, permit,
@@ -3026,7 +3026,7 @@ Appendix A: National Categorical Pretreatment Standards
 Appendix B: Phenols Limitations
       
 Appendix C: Interim Discharge Limitations
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3214,7 +3214,7 @@ Village with 20 days notice of any change, cancellation or termination in
 accordance with this section, charges for services to any premises shall be a
 lien thereon in the same manner as provided herein.
 (Ord. 190, passed 9-27-04)
-REGULATIONS
+**** REGULATIONS ****
 § 52.20 CONNECTION OF PREMISES.
    (A)   Public sanitary sewer systems are essential to the health, safety and
 welfare of the people of the state and the septic tank disposal systems are
@@ -3370,7 +3370,7 @@ and disposed of in a legal manner. The sludge shall not be disposed of into the
 sanitary sewer system; and
    (B)   The facility shall be filled with sand and its top broken out.
 (O.C. § 2.48)
-STORM WATER DISPOSAL SYSTEM
+**** STORM WATER DISPOSAL SYSTEM ****
 § 52.40 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3874,7 +3874,7 @@ remedies available under any applicable federal, state or local law and it is
 within the discretion of the authorized enforcement agency to seek cumulative
 remedies.
 (Ord. 252, passed 12-16-19; Am. Ord. 267, passed 9-19-22)
-WASTEWATER DISCHARGE
+**** WASTEWATER DISCHARGE ****
 § 52.80 PURPOSE.
    (A)   The purpose of this division is the protection of the environment, and
 of public health and safety by abating and preventing pollution through the
@@ -4473,7 +4473,7 @@ being discharged; or
 biological activity in the POTW treatment plant resulting in interference, but
 in no case wastewater with a temperature at the introduction into a public
 sewer which exceeds 150°F or which will cause the influent at the wastewater
-treatment plant to rise above 104°F (40°C); or
+treatment plant to rise above 104°
          (j)   Any pollutant discharge which constitutes a slug; or
          (k)   Any wastewater containing any radioactive wastes or isotopes of
 such half-life or concentration as may exceed limits established in compliance
@@ -5885,7 +5885,7 @@ Administration and Enforcement
 53.70   Injunctive relief
    
 53.71   Election of remedies
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 53.01 SHORT TITLE.
    This chapter shall be known and may be cited as the “Village of Bingham
 Farms Electric and Gas Supply Franchise Ordinance.”
@@ -5958,7 +5958,7 @@ done without a franchise.
 the grantee’s limited and incidental use of right-of-way to the extent that
 facilities are located within it.
 (Ord. 164, passed 4-17-00)
-FRANCHISE APPLICATION REQUIREMENTS AND PROCESS
+**** FRANCHISE APPLICATION REQUIREMENTS AND PROCESS ****
 § 53.20 APPLICATION INFORMATION.
    Applications for franchises shall be made to the Clerk by providing the
 following written information and documents.
@@ -6021,7 +6021,7 @@ shall apply and be incorporated by reference as part of every supplier’s
 individual franchise ordinance. Any amendments to this ordinance shall be
 automatically included in every franchise.
 (Ord. 164, passed 4-17-00)
-GENERAL FRANCHISE TERMS AND CONDITIONS
+**** GENERAL FRANCHISE TERMS AND CONDITIONS ****
 § 53.35 FRANCHISE RIGHTS.
    Subject to all terms and conditions in this subchapter and the individual
 franchise ordinance, a franchise grants the grantee the right to transact a
@@ -6165,7 +6165,7 @@ ordinance.
 renewal or extension may be applied for and approved as provided in §§ 53.20 et
 seq.
 (Ord. 164, passed 4-17-00)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 53.65 NO WAIVER.
    Nothing in this chapter shall be construed as a waiver of any of the rights,
 remedies and/or authority of the village pursuant to any laws, ordinances,
@@ -7544,7 +7544,7 @@ Impoundment and Confinement
 94.45   Quarantine
    
 94.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 ADOPTION.
    The Township of Southfield Animal Regulations, the text of which is
 contained herein below, are hereby adopted as an ordinance of the Village of
@@ -7784,7 +7784,7 @@ hours as prescribed by the Department of Agriculture.
       (2)   Subdivision (b) shall not apply if the Animal Control Officer is a
 Police Officer or has served at least three years as an Animal Control Officer.
 (Am. Ord. 179, passed 8-26-02)
-LICENSE REQUIREMENTS 
+**** LICENSE REQUIREMENTS  ****
 § 94.25 LICENSE REQUIRED.
    It shall be unlawful for any person to own, possess, or harbor any dog four
 months of age or older in the village unless the dog is licensed as hereinafter
@@ -7858,7 +7858,7 @@ operative for a term beginning the date of the license in the calendar year for
 which the license is issued and terminating on the last day of December of the
 year.
 (Am. Ord. 179, passed 8-26-02)
-IMPOUNDMENT AND CONFINEMENT
+**** IMPOUNDMENT AND CONFINEMENT ****
 § 94.40 IMPOUNDING DOGS; FACILITIES.
    (A)   Dog pound. The village will not establish a dog pound but will use the
 facilities of area veterinarians when and where approved and available.
@@ -7977,7 +7977,7 @@ Noxious Weeds
  
    
 95.99   Penalty
-GENERAL NUISANCES
+**** GENERAL NUISANCES ****
 § 95.01 PLACING HANDBILLS ON VEHICLES.
    No person shall throw or deposit any commercial or noncommercial handbill in
 or upon any vehicle, provided, however, that it shall not be unlawful in any
@@ -8135,7 +8135,7 @@ Franklin-Bingham Police Department, any Ordinance Enforcement Officer for the
 village authorized pursuant to Chapter 32 of this code or other village officer
 or official authorized by the Village Charter.
 (Ord. 195, passed 9-26-05)
-NOISE
+**** NOISE ****
 § 95.20 EXCESSIVE NOISE DECLARED NUISANCE.
    All loud or unusual noises or sounds and annoying vibrations which offend
 the peace and quiet of persons of ordinary sensibilities are declared to be
@@ -8179,7 +8179,7 @@ bridges, streets or highways by or on behalf of the village or the State of
 Michigan during the night when the public safety, welfare and convenience
 renders it impossible to perform such work during the day.
 (O.C. § 6.11)
-NOXIOUS WEEDS
+**** NOXIOUS WEEDS ****
 § 95.35 NOXIOUS WEEDS DEFINED AND PROHIBITED AS NUISANCE.
    (A)   For purposes of this chapter, Commissioner means the Village Clerk,
 who is appointed and shall serve as the village's Commissioner of Noxious
@@ -8379,7 +8379,7 @@ Regulations Governing Work in Road Rights-of-Way
 96.083   Village right-of-way improvements
    
 96.084   Paving disruption deferral
-ROADSIDE DRAINAGE DITCH
+**** ROADSIDE DRAINAGE DITCH ****
 § 96.001 PERMIT REQUIRED.
    It shall be unlawful to proceed with the excavation for or the construction
 of any new building within the village or to move any machinery, equipment or
@@ -8475,7 +8475,7 @@ found responsible for a violation of any of the provisions of this subchapter
 shall be punished as provided by §
 32.03.
 (O.C. § 4.9) (Am. Ord. 157, passed 6-23-97)
-RIGHT-OF-WAY MANAGEMENT
+**** RIGHT-OF-WAY MANAGEMENT ****
 § 96.025 SHORT TITLE.
    This subchapter shall be known and may be cited as the Village of Bingham
 Farms “Right-of-Way Management Ordinance.”
@@ -9366,7 +9366,7 @@ delivered or may be sent by certified mail, return receipt requested, to the
 permittee at the address listed in the permittee’s disruption and/or use permit
 application.
 (Ord. 169, passed 11-27-00)
-SNOW REMOVAL
+**** SNOW REMOVAL ****
 § 96.045 FINDINGS; INTENT AND PURPOSE.
    As part of its maintenance of the public streets, the village contracts for
 snowplowing and related winter maintenance activities to respond to natural
@@ -9414,7 +9414,7 @@ amended.
    This subchapter may be enforced by officers of the Franklin-Bingham Police
 Department and the Village Clerk.
 (Ord. 163, passed 2-28-00)
-STREET MAINTENANCE
+**** STREET MAINTENANCE ****
 § 96.060 INTENT.
    It is the intent of the Village Council of the Village of Bingham Farms to
 allot substantial resources to cause a new surface to be placed on the streets
@@ -9464,7 +9464,7 @@ and reasonable administrative costs estimated or incurred.
    (C)   Each occurrence of a violation and each day a violation exists shall
 constitute a separate violation of this chapter.
 (Ord. 159, passed 8-4-97)
-REGULATIONS GOVERNING WORK IN ROAD RIGHTS-OF-WAY
+**** REGULATIONS GOVERNING WORK IN ROAD RIGHTS-OF-WAY ****
 § 96.075 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -10871,7 +10871,7 @@ Consumer Protection
 113.181   Remedies available
    
 113.182   Appeal process
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 113.001 FRANCHISE NECESSARY.
    No person shall occupy or use the streets, sidewalks or other public rights-
 of-way of the village for the purpose of operating a cable communications
@@ -11073,7 +11073,7 @@ head end.
    USER. A person utilizing a cable communications system channel for purposes
 of production and transmission of materials to subscribers.
 (Ord. passed - -)
-SELECTION OF FRANCHISE
+**** SELECTION OF FRANCHISE ****
 § 113.015 REQUEST FOR PROPOSAL.
    In selecting a franchisee pursuant to this chapter, the Village Council may
 prepare a request for proposal to seek bids for a cable communication system to
@@ -11259,7 +11259,7 @@ provisions of this chapter or any other law. In the case of such conflict or
 ambiguity between any terms or provisions of the franchise agreement and this
 chapter, the words of this chapter shall be deemed to control.
 (Ord. passed - -)
-FRANCHISE TERRITORY
+**** FRANCHISE TERRITORY ****
 § 113.035 SERVICE AREA.
    The franchise territory shall include the entire territorial limits of the
 village and shall include any future area that shall become part of the village
@@ -11277,7 +11277,7 @@ franchise. Service in newly acquired territory, as defined in § 113.035, must
 be available to residents within 12 months of annexation of the territory to
 the village.
 (Ord. passed - -)
-LENGTH, RENEWAL AND TRANSFER OF FRANCHISE
+**** LENGTH, RENEWAL AND TRANSFER OF FRANCHISE ****
 § 113.050 NONEXCLUSIVITY OF FRANCHISE.
    The Village Council may award a nonexclusive franchise to construct, erect,
 operate and maintain in, upon, along, above, over and under the streets,
@@ -11529,7 +11529,7 @@ and the two thus appointed appointing a third.
    (C)   If the village fails to make such an election, any dispute between the
 parties may be resolved by filing of a suit in Oakland County Circuit Court.
 (Ord. passed - -)
-SYSTEM DESIGN AND SPECIFICATIONS
+**** SYSTEM DESIGN AND SPECIFICATIONS ****
 § 113.070 CHANNEL CAPACITY.
    (A)   A franchisee shall construct, and thereafter operate and maintain, a
 cable communications system that shall initially be capable of delivering the
@@ -12071,7 +12071,7 @@ medical emergencies, fires or illegal entry. This section shall be interpreted
 to cover the general plan and scope of activities, not individual service
 hookups.
 (Ord. passed - -)
-FRANCHISE FEE AND RATES
+**** FRANCHISE FEE AND RATES ****
 § 113.105 ESTABLISHMENT OF FRANCHISE FEES.
    (A)   As compensation for the use of the village's streets, public ways and
 places and other facilities and for the right to construct, operate, maintain,
@@ -12205,7 +12205,7 @@ paid for the service in question by the subscriber or programmer. This section
 shall include discontinuance of service for each 24-hour period, as well as
 lack of service after payment for initial hookup.
 (Ord. passed - -)
-ADMINISTRATION AND REGULATION
+**** ADMINISTRATION AND REGULATION ****
 § 113.125 PERFORMANCE REVIEW.
    (A)    In order to monitor a franchisee's performance and adherence to this
 chapter and the franchise agreement, the village, through the Cablecasting
@@ -12597,7 +12597,7 @@ by any person residing at that dwelling unit, unless some person residing
 therein has expressly indicated an interest in subscribing to the cable
 communications system.
 (Ord. passed - -)
-CABLECASTING BOARD
+**** CABLECASTING BOARD ****
 § 113.155 CREATION AND MEMBERSHIP OF BOARD.
    (A)   The City Commission of Birmingham and the Village Councils of Beverly
 Hills, Bingham Farms and Franklin have established a Cablecasting Board. The
@@ -12710,7 +12710,7 @@ franchise, franchise transfer or change of control of a franchisee, franchise
 termination or franchise purchase, appointments to the Cablecasting Board,
 public access guidelines and bond or letter of credit reduction.
 (Ord. passed - -)
-CONSUMER PROTECTION
+**** CONSUMER PROTECTION ****
 § 113.170 CUSTOMER SERVICE.
    (A)   A franchisee shall maintain an office which provides the necessary
 facilities, equipment and personnel to comply with the following customer
@@ -13370,7 +13370,7 @@ License
 116.32   Display
    
 116.33   Revocation and suspension
-GENERALLY
+**** GENERALLY ****
 § 116.01 DEFINITIONS.
    (A)   As used in this chapter, the following words and phrases have the
 meanings indicated.
@@ -13499,7 +13499,7 @@ inspection and shall require compliance with §
 application involving extension or expansion of the building or other place of
 business of the massage establishment.
 (Ord. 255, passed 6-22-20)
-LICENSE
+**** LICENSE ****
 § 116.20 LICENSE REQUIRED.
    No person shall practice or engage in the business of a massagist within the
 village without first having obtained a license pursuant to M.C.L. §§ 333.17951
@@ -13924,7 +13924,7 @@ Recreational Marihuana
 131.23   Possession with intent to deliver
    
 131.24   Consumption while operating; operating under the influence
-GENERALLY
+**** GENERALLY ****
 § 131.01 POSSESSION, SALE AND THE LIKE PROHIBITED GENERALLY.
    It shall be unlawful for any person to possess, sell, offer for sale,
 distribute, administer, dispense, prescribe or give away any controlled
@@ -14042,7 +14042,7 @@ description whatsoever where controlled substances, hypodermic syringes,
 needles or other instruments or implements or empty gelatin capsules are used,
 sold, dispensed, furnished, given away, stored or kept illegally.
 (O.C. § 9.39)
-RECREATIONAL MARIHUANA
+**** RECREATIONAL MARIHUANA ****
 § 131.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions are derived
 from M.C.L. §§ 333.27951 et seq., the Michigan Regulation and Taxation of
@@ -14191,7 +14191,7 @@ Explosives
 132.17   Detonations
    
 132.99   Penalty
-WEAPONS
+**** WEAPONS ****
 § 132.01 HANDGUNS; FLOURISHING.
    No person other than an officer in the discharge of his or her duty or a
 person otherwise authorized by law shall draw, handle or flourish a revolver,
@@ -14207,7 +14207,7 @@ the articles described in this section for the purpose of hunting birds,
 animals or game of any kind shall, if such act is performed within the limits
 of the village, constitute a violation of this code.
 (O.C. § 9.62)
-EXPLOSIVES
+**** EXPLOSIVES ****
 § 132.15 DEFINITION.
    The term EXPLOSIVE when used herein shall mean dynamite, gunpowder,
 nitroglycerine or other combustible materials or compounds which are or can be
@@ -14309,7 +14309,7 @@ Rental Property License
 150.75   Inspections by building official
    
 150.76   Penalties, sanctions and remedies for code violations
-BUILDING CODE
+**** BUILDING CODE ****
 § 150.01 ADMINISTRATION AND ENFORCEMENT.
    The village assumes and shall be responsible for administering and enforcing
 the Single State Construction Code Act, Act No. 230 of the Public Acts of 1972,
@@ -14402,7 +14402,7 @@ building official.
       (4)   All fences or barriers required under this section shall remain
 until a temporary certificate of occupancy is issued.
 (Ord. 258, passed 11-23-20)
-SWIMMING POOLS
+**** SWIMMING POOLS ****
 § 150.20 FINDINGS.
    It is determined that outdoor swimming pools may endanger the public health
 and safety unless carefully regulated and supervised.
@@ -14489,7 +14489,7 @@ maintained in violation of provisions of this chapter shall constitute a
 nuisance, and the village may maintain any proper action for the abatement of
 such nuisance.
 (O.C. § 8.57)
-STREET ADDRESS IDENTIFICATION
+**** STREET ADDRESS IDENTIFICATION ****
 § 150.40 INTENT AND PURPOSE.
    (A)   The intent and purpose of this chapter is to establish the requirement
 that all owners and/or occupiers of nonresidential properties located in the
@@ -14550,7 +14550,7 @@ functional condition.
 along a main thoroughfare within the village are subject to approval by the
 Village Council and are subject to all applicable laws and ordinances.
 (Ord. 168, passed - -)
-PROPERTY MAINTENANCE CODE
+**** PROPERTY MAINTENANCE CODE ****
 § 150.55 ADOPTION.
    The International Property Maintenance Code, 2009 Edition, as published by
 the International Code Council, is hereby adopted by reference as an ordinance
@@ -14623,7 +14623,7 @@ after the date of the meeting at which the decision of the Board of Appeals is
 made. The scope of review on appeal is limited to the record of the Board of
 Appeals and correction of errors of law by the Board of Appeals.
 (Ord. 173, passed 11-26-01; Am. Ord. 215, passed 11-23-09)
-RENTAL PROPERTY LICENSE
+**** RENTAL PROPERTY LICENSE ****
 § 150.70 PURPOSE.
    (A)   The purpose of this subchapter is to protect the public health, safety
 and welfare in buildings intended for human habitation and accessory structures
@@ -14802,7 +14802,7 @@ Demolition Work Standards
 151.51   Restoration of property
    
 151.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.01 SHORT TITLE.
    This chapter shall be known and may be cited as the “Village of Bingham
 Farms Demolition Ordinance.”
@@ -14833,7 +14833,7 @@ voluntary association, organization or other form of legal entity.
 constructed on land so as to be attached to or part of that land.
    VILLAGE. The Village of Bingham Farms.
 (Ord. 165A, passed 7-24-00)
-DEMOLITIONS REQUIRED
+**** DEMOLITIONS REQUIRED ****
 § 151.15 STRUCTURES TO BE DEMOLISHED.
    The following structures shall be demolished:
    (A)   Structures that have been or are built without a required permit under
@@ -14881,7 +14881,7 @@ penalties provided for in §§ 151.45 et seq. and allows the village to cause th
 structure to be demolished and removed with the property restored as provided
 by law.
 (Ord. 165A, passed 7-24-00)
-DEMOLITION PERMITS
+**** DEMOLITION PERMITS ****
 § 151.30 PERMIT REQUIRED.
    No persons shall demolish a structure without first applying for and
 obtaining demolition permit approval by the village and issuance of a Building
@@ -14913,7 +14913,7 @@ months of village approval or the work is started and then abandoned for a
 period of more than one month, the permit approval shall automatically expire
 and cease to be valid for any purpose.
 (Ord. 165A, passed 7-24-00)
-DEMOLITION WORK STANDARDS
+**** DEMOLITION WORK STANDARDS ****
 § 151.45 EXPLOSIVES PROHIBITED.
    The use of explosives for the demolition of structures within the village
 limits is prohibited.
@@ -16489,7 +16489,7 @@ Subdividing Unplatted Lands
 156.27   Final approval, submission by Clerk
    
 156.28   Permits and fees
-SUBDIVIDING PLATTED LOTS
+**** SUBDIVIDING PLATTED LOTS ****
 § 156.01 AUTHORIZATION TO DIVIDE PLATTED PARCELS OF LAND.
    A lot, outlot or other parcel of land in a recorded plat may be further
 partitioned or divided into not more than four parts in accordance with the
@@ -16549,7 +16549,7 @@ The village shall assume no responsibility or liability for the maintenance
 and/or accessibility of any such private way or easement delineated on such
 approved plat.
 (O.C. § 5.423)
-SUBDIVIDING UNPLATTED LANDS
+**** SUBDIVIDING UNPLATTED LANDS ****
 § 156.20 PURPOSE.
    This subchapter is enacted in order to maintain an orderly development of
 the community and provide for the health, safety and welfare of the residents
