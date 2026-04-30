@@ -1012,7 +1012,7 @@ Nonelected City Officials
 34.30    Establishment of nonelected city offices
    
 34.31    City Clerk
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 OATH.
    Each officer of the city shall, before entering upon the discharge of duties
 of his or her office, take the following oath: “I do solemnly swear (or affirm,
@@ -1084,7 +1084,7 @@ during a fiscal year cycle. The cost of the bond shall be paid by the city.
 of their offices covered by a blanket or umbrella bond, shall be deemed to have
 complied with division (A) above.
 (KRS 65.067)
-ELECTED OFFICIALS
+**** ELECTED OFFICIALS ****
 § 34.15 ELECTION PROCEDURE.
    (A)   Election of city officers shall be governed by general election laws
 as provided in KRS Chapters 116 through 121 unless the Commission prescribes by
@@ -1176,7 +1176,7 @@ by a majority vote of the Commission membership, and the provisions of division
 § 34.17 COMMISSIONERS.
    For provisions concerning the City Commission, see
 Chapter 35.
-NONELECTED CITY OFFICIALS
+**** NONELECTED CITY OFFICIALS ****
 § 34.30 ESTABLISHMENT OF NONELECTED CITY OFFICES.
    (A)   All nonelected city offices shall be created by ordinance which shall
 specify:
@@ -1276,7 +1276,7 @@ Ordinances
 35.41    Proved by City Clerk; received in evidence
    
 35.42    Legislative immunity
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 35.01 MEMBERS; ELECTION, QUALIFICATIONS, COMPENSATION.
    (A)   Election; term of office. Each Commissioner shall be elected at large
 by the voters of the city at a regular election. A candidate for Commission
@@ -1359,7 +1359,7 @@ established under this section; however, the Commission may delegate
 responsibility for overall supervision of any or all departments to a City
 Administrative Officer established pursuant to KRS 83A.090.
 (KRS 83A.140(6))
-RULES OF PROCEDURE
+**** RULES OF PROCEDURE ****
 § 35.15 MAYOR AS PRESIDING OFFICER.
    The Mayor shall preside at all meetings of the Commission and may vote in
 all proceedings.
@@ -1385,7 +1385,7 @@ for maintaining city records as provided under KRS 83A.060(8) and §
 constitute a quorum and a vote of a majority of a quorum is sufficient to take
 action.
 (KRS 83A.060(6))
-ORDINANCES
+**** ORDINANCES ****
 § 35.30 ONE SUBJECT; TITLE.
    Each ordinance shall embrace only one subject and shall have a title that
 shall clearly state the subject.
@@ -1528,7 +1528,7 @@ Improvements
  
    
 36.99    Penalty
-FINANCIAL ADMINISTRATION
+**** FINANCIAL ADMINISTRATION ****
 § 36.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1724,7 +1724,7 @@ states the name of the person to whom funds are payable, the purpose of the
 payment and the fund out of which the funds are payable. Each authorization
 shall be numbered and recorded.
 (KRS 91A.060)
-IMPROVEMENTS
+**** IMPROVEMENTS ****
 § 36.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1909,7 +1909,7 @@ Procedures for Requesting Public Records
 37.26    Public records protected from disclosure
    
 37.27    Notification of the Attorney General
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 37.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2007,7 +2007,7 @@ and utility programs, but does not include that material which is prohibited
 from disclosure or copying by a license agreement between a public agency and
 an outside entity which supplied the material to the agency.
 (KRS 61.870(3))
-PROCEDURES FOR REQUESTING PUBLIC RECORDS
+**** PROCEDURES FOR REQUESTING PUBLIC RECORDS ****
 § 37.15 INITIAL REQUEST WITH IMMEDIATE INSPECTION.
    (A)   Any person desiring to inspect or copy the public records of this city
 shall make a request for inspection at the office of the City Clerk during
@@ -2409,7 +2409,7 @@ Traffic-Control Devices
  
    
 70.99   Penalty
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this title, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -2507,7 +2507,7 @@ shall, at his or her discretion, have authority to impose traffic regulations
 as he or she may deem necessary for temporary periods not to exceed two weeks.
 If these temporary regulations are necessary for a period longer than two
 weeks, the City Clerk shall be notified in writing of the extended order.
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.20 SIGNAL LEGENDS.
    Whenever traffic is regulated or controlled exclusively by a traffic-control
 sign or signs exhibiting the words “Go”, “Caution”, or “Stop”, or exhibiting
@@ -2665,7 +2665,7 @@ Parades
  
    
 71.99   Penalty
-OPERATION GENERALLY
+**** OPERATION GENERALLY ****
 § 71.01 OBSTRUCTING TRAFFIC.
    (A)   It shall be unlawful to operate any vehicle or permit it to remain
 standing in any street in such manner as to create an obstruction thereof.
@@ -2711,7 +2711,7 @@ of any vehicle intending to cross a sidewalk and turn into an alley from the
 roadway may do so at low speed and with caution.
 Penalty, see §
 71.99
-ACCIDENTS
+**** ACCIDENTS ****
 § 71.15 DUTY OF OPERATOR.
    It shall be the duty of the owner of, operator of, or passenger in any motor
 vehicle which is involved in an accident, in which any person is injured or
@@ -2730,7 +2730,7 @@ shall immediately report the accident or property damage to the Police
 Department.
 Penalty, see §
 71.99
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 71.30 OPERATOR OF VEHICLE TO DRIVE CAREFULLY.
    (A)   The operator of any vehicle upon a highway shall operate the vehicle
 in a careful manner, with regard for the safety and convenience of pedestrians
@@ -2790,7 +2790,7 @@ noise, smoke, or other nuisance, to protect the rights of other traffic, and to
 promote the public safety.
 (KRS 189.020) Penalty, see §
 71.99
-PARADES
+**** PARADES ****
 § 71.45 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2993,7 +2993,7 @@ Snow Emergency
 Statutory reference:
    Revenues from fees, fines, and forfeitures related to parking, see KRS
 65.120
-PARKING GENERALLY
+**** PARKING GENERALLY ****
 § 72.01 OBSTRUCTIONAL PARKING; DOUBLE PARKING.
    (A)   It shall be unlawful for any person to leave any vehicle or any other
 thing that may be a nuisance, obstruction, or hindrance in or on any street,
@@ -3187,7 +3187,7 @@ hours, nor permit a motor vehicle to be parked in such a manner as to
 constitute a traffic hazard.
 Penalty, see §
 72.99
-IMPOUNDING
+**** IMPOUNDING ****
 § 72.25 IMPOUNDMENT OF VEHICLES AUTHORIZED; REDEMPTION.
    (A)   All police officers are empowered to authorize the impoundment of a
 vehicle violating vehicle-related ordinances after a citation has been issued.
@@ -3269,7 +3269,7 @@ as provided in KRS 186A.190.
 Statutory reference:
    Provisions concerning disposition of contents of motor vehicle, see KRS
 376.275(4)
-SNOW EMERGENCY
+**** SNOW EMERGENCY ****
 § 72.40 ANNOUNCEMENT OF SNOW EMERGENCY.
    Whenever the City Commission or any authorized city official finds that
 falling snow, sleet, or freezing rain will create a condition which makes it
@@ -3789,7 +3789,7 @@ Dogs
  
    
 93.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3946,7 +3946,7 @@ disposal.
    (D)   Abandonment shall constitute the relinquishment of all rights and
 claims by the owner to the animal.
 (KRS 257.100)
-DOGS
+**** DOGS ****
 § 93.20 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4039,7 +4039,7 @@ Fire Prevention
  
    
 94.99   Penalty
-FIREWORKS
+**** FIREWORKS ****
 § 94.01 DEFINITIONS; LEGALITY OF ITEMS.
    (A)   As used in KRS 227.700 to 227.750, FIREWORKS means any composition or
 device for the purpose of producing a visible or an audible effect by
@@ -4430,7 +4430,7 @@ division (C)(1) above shall be held.
 from enacting ordinances that affect the sale or use of fireworks within its
 jurisdiction.
 (KRS 227.750)
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 94.20 BLASTING PERMIT.
    No person shall cause a blast to occur within the city without making
 application in writing beforehand, setting forth the exact nature of the
