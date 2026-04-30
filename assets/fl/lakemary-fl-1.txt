@@ -1072,9 +1072,9 @@ Elder Affairs Commission
 30.92   Meetings
    
 30.93   Duties
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 30.01 (RESERVED).
-PLANNING AND ZONING BOARD
+*** PLANNING AND ZONING BOARD ***
 § 30.15 ESTABLISHMENT.
    (A)   The City Commission shall appoint a Planning and Zoning Board
 consisting of five qualified electors of the city. The members of this Board
@@ -1145,7 +1145,7 @@ any amendment or alteration to it shall be by City Commission approval.
 Cross-reference:
    Comprehensive Plan, see
 Ch. 151
-CODE ENFORCEMENT BOARD
+*** CODE ENFORCEMENT BOARD ***
 § 30.30 ESTABLISHMENT.
    The City Commission does hereby create a Code Enforcement Board pursuant to
 the terms of F.S. Chapter 166 and Chapter 162.
@@ -1567,7 +1567,7 @@ an administrative charge to release a lien foreclosed to recover the city's
 costs associated with the subject lien. A property owner does not need to file
 an application to release a lien recorded in error.
 (Ord. 1628, passed 8-20-20)
-PARKS AND RECREATION ADVISORY BOARD
+*** PARKS AND RECREATION ADVISORY BOARD ***
 § 30.50 ESTABLISHMENT.
    The City Commission shall appoint a Parks and Recreation Advisory Board
 consisting of seven members, all of whom must be qualified electors of the
@@ -1635,7 +1635,7 @@ of the Parks and Recreation Advisory Board. If the position of Recreation
 Administrator is unfunded or vacated, the City Manager shall appoint an interim
 technical advisor.
 (Ord. 411, passed 1-5-89)
-ADVISORY AND/OR ADJUDICATORY BOARDS
+*** ADVISORY AND/OR ADJUDICATORY BOARDS ***
 § 30.60 REMOVAL OF MEMBERS OF ADVISORY AND/OR ADJUDICATORY BOARDS OF THE CITY.
    The removal of members of an advisory and/or adjudicatory board not
 specifically provided for herein shall be as follows:
@@ -1685,7 +1685,7 @@ If an employee is currently serving on an advisory board, he or she may
 continue to serve the remainder of his or her term, at which time he or she
 shall not be reappointed.
 (Ord. 1118, passed 1-22-04)
-CITY TREE BOARD
+*** CITY TREE BOARD ***
 § 30.70 CREATION AND ESTABLISHMENT.
    There is hereby created and established a City Tree Board for the city,
 which shall consist of seven members, citizens and residents of this city, who
@@ -1726,7 +1726,7 @@ decisions of the Parks and Recreation Advisory Board. Any person may appeal
 from any decision of the Parks and Recreation Advisory Board to the City
 Commission who may hear the matter and make the final decision.
 (Ord. 668, passed 10-7-93)
-HISTORICAL COMMISSION
+*** HISTORICAL COMMISSION ***
 § 30.80 ESTABLISHMENT.
    There is hereby created the Lake Mary Historical Commission.
 (Ord. 365, passed 1-3-91)
@@ -1808,7 +1808,7 @@ education of the general public and citizens of the city.
    The city may provide space in the City Hall or other public building for the
 protection and/or display of historical documents and/or artifacts.
 (Ord. 365, passed 1-3-91)
-ELDER AFFAIRS COMMISSION
+*** ELDER AFFAIRS COMMISSION ***
 § 30.90 ESTABLISHMENT.
    The City of Lake Mary’s Elder Affairs Commission is hereby established.
 (Res. 423, passed 4-16-92; Am. Ord. 1259, passed 9-6-07)
@@ -1868,7 +1868,7 @@ EMS Transport Fee
 Electronic Transactions
    
 31.40   Electronic transactions
-PURCHASING
+*** PURCHASING ***
 § 31.01 CITY PURCHASING POLICY.
    (A)   Purpose. The City of Lake Mary recognizes fair and open competition is
 a basic tenet of public procurement. Open competition reduces the appearance
@@ -2024,7 +2024,7 @@ increased or decreased by resolution of the City Commission.
 personal property shall be adopted by resolution.
 (Ord. 489, passed 2-1-90; Am. Ord. 631, passed 2-4-93; Am. Ord. 859, passed 11-
 20-97; Am. Ord. 954, passed 10-21-99; Am. Ord. 1551, passed 10-3-16)
-FUNDS
+*** FUNDS ***
 § 31.10 CAPITAL EXPANSION TRUST FUNDS.
    (A)   Creation. The following capital expansion trust funds are created:
       (1)   Police Protection Capital Expansion Trust Fund.
@@ -2056,7 +2056,7 @@ construction from which the funds were collected.
 maintain a capital expansion plan for each fund. These plans shall be reviewed
 at least annually during the budget review process.
 (Ord. 279, passed 3-19-87)
-TAXATION
+*** TAXATION ***
 § 31.20 PUBLIC SERVICES TAX.
    (A)   Definitions. The following definitions shall apply:
    "ELECTRONIC TRANSFER." The use of the Automated Clearing House (the "ACH"),
@@ -2247,7 +2247,7 @@ based upon the actual costs incurred by the city in collecting the tax or
 information due.
 (Ord. 237, passed l0-3-85; Am. Ord. 320, passed 9-3-87; Am. Ord. 781, passed 2-
 1-96; Am. Ord. 1518, passed 11-6-14)
-LIEN SEARCH
+*** LIEN SEARCH ***
 § 31.30 ADMINISTRATIVE LIEN SEARCH AND REPORT FEE.
    (A)   The City Manager is hereby authorized to administratively establish
 and charge a fee for provision of a lien search and report. This authorization
@@ -2277,7 +2277,7 @@ for each search conducted and report provided. Said fee will be due and payable
 to the city in advance of the provision of the lien search and report to the
 requesting person or entity.
 (Ord. 1629, passed 9-3-20)
-EMS TRANSPORT FEE
+*** EMS TRANSPORT FEE ***
 § 31.35 EMS TRANSPORT FEE.
    The medical transport fee shall be set as per the EMS Transport Rate of
 Seminole County and shall automatically adjust per authorized adjustments by
@@ -2287,7 +2287,7 @@ Seminole County. These fees currently are:
    ALS-2 Emergency          $800.00
    Mileage            $13.00 per mile
 (Res. 1012, passed 10-18-18; Am. Res. 1057, passed 5-18-23)
-ELECTRONIC TRANSACTIONS
+*** ELECTRONIC TRANSACTIONS ***
 § 31.40 ELECTRONIC TRANSACTIONS.
    (A)   The following guidelines are to be followed for credit/debit cards, or
 electronic check transactions:
@@ -2311,7 +2311,7 @@ City Commission
 32.10   Charter provisions
    
 32.11   Terms used in code
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 32.01 COMPENSATION AND EXPENSE ALLOWANCES FOR MEMBERS OF THE COMMISSION.
    (A)   It has become necessary for members of the commission to expend their
 personal funds to discharge their duties for the city. To partially repay these
@@ -2341,7 +2341,7 @@ of the state, the general laws of the state, or as otherwise provided by this
 section.
 (Ord. 41, passed 3-18-76; Am. Ord. 50, passed 12-9-76; Am. Ord. 654, passed 7-
 15-93)
-CITY COMMISSION
+*** CITY COMMISSION ***
 § 32.10 CHARTER PROVISIONS.
    For provisions concerning City Commission, see Charter
 Article IV.
@@ -2976,7 +2976,7 @@ Issuance of Obligations
 Miscellaneous Provisions
    
 38.75   Alternative method
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 38.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3210,7 +3210,7 @@ municipality to impose special assessments; and
 facilities, programs, or local improvements providing special benefit to
 subsequently identified property within the city.
 (Ord. 1166, passed 6-2-05)
-ASSESSMENT AREAS
+*** ASSESSMENT AREAS ***
 § 38.10 DEFINITION OF ASSESSMENT AREAS.
    The City Commission is hereby authorized to define assessment areas in
 accordance with the procedures set forth herein to include property located
@@ -3228,7 +3228,7 @@ established or ratified pursuant to this chapter, the City Commission shall
 retain the authority to create assessment areas without a landowner petition
 non-binding ballot.
 (Ord. 1166, passed 6-2-05)
-LOCAL IMPROVEMENT AND ESSENTIAL SERVICE ASSESSMENTS
+*** LOCAL IMPROVEMENT AND ESSENTIAL SERVICE ASSESSMENTS ***
 § 38.20 AUTHORITY.
    The City Commission is hereby authorized to impose local improvement
 assessments against property located within an assessment area to fund the
@@ -3457,7 +3457,7 @@ Collection Act, any changes, modifications or corrections thereto shall be made
 in accordance with the procedures applicable to errors and insolvencies for ad
 valorem taxes.
 (Ord. 1166, passed 6-2-05)
-COLLECTION OF ASSESSMENTS
+*** COLLECTION OF ASSESSMENTS ***
 § 38.40 METHOD OF COLLECTION.
    Unless directed otherwise by the City Commission, assessments (other than
 assessments imposed against government property) shall be collected pursuant to
@@ -3571,7 +3571,7 @@ government property may be collected on the bill for any utility service
 provided to such government property. The City Commission may contract for such
 billing services with any utility provider.
 (Ord. 1166, passed 6-2-05)
-ISSUANCE OF OBLIGATIONS
+*** ISSUANCE OF OBLIGATIONS ***
 § 38.55 GENERAL AUTHORITY.
    (A)   Upon adoption of the final local improvement assessment resolution or
 final essential service assessment resolution imposing assessments to fund,
@@ -3683,7 +3683,7 @@ and conduct a public hearing in the manner required by §§
 38.20 et seq. or §§
 38.40 et seq.
 (Ord. 1166, passed 6-2-05)
-MISCELLANEOUS PROVISIONS
+*** MISCELLANEOUS PROVISIONS ***
 § 38.75 ALTERNATIVE METHOD.
    (A)   This chapter shall be deemed to provide an additional and alternative
 method for the imposition and collection of assessments and shall be regarded
@@ -3816,7 +3816,7 @@ Sewer Impact Fee
 Cross-reference:
    Wastewater and water system fees and charges, see
 Ch. 53
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 50.001 DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -4026,7 +4026,7 @@ lawful action, including but not limited to resorting to equitable and
 injunctive action as necessary to prevent or remedy any violation of this
 chapter.
 (Ord. 118, passed 10-23-80; Am. Ord. 1518, passed 11-6-14)
-PUBLIC SEWERS
+*** PUBLIC SEWERS ***
 § 50.010 UNLAWFUL DEPOSITS; DISCHARGES.
    It shall be unlawful for any person to
 place, deposit, or permit to be deposited in any unsanitary manner on public or
@@ -4144,7 +4144,7 @@ applicable state and federal regulations.
 concentration limits which may be established by the Public Works Department
 for purposes of meeting the city's sewer permit.
 (Ord. 118, passed 10-23-80; Am. Ord. 1518, passed 11-6-14) Penalty, see § 10.99
-PRIVATE SEWAGE DISPOSAL
+*** PRIVATE SEWAGE DISPOSAL ***
 § 50.025 PRIVATE SYSTEM PERMITTED.
    Where a public sanitary or combined sewer is not available under the
 provisions of §
@@ -4196,7 +4196,7 @@ Department at reasonable times.
 with any additional requirements that may be imposed by the city or other
 applicable authority.
 (Ord. 118, passed 10-23-80; Am. Ord. 1518, passed 11-6-14)
-BUILDING SEWERS AND CONNECTIONS
+*** BUILDING SEWERS AND CONNECTIONS ***
 § 50.035 PERMIT REQUIRED.
    (A)   No unauthorized person shall uncover, make any connections with or
 opening into, use, alter, or disturb any public sewer or appurtenance thereof
@@ -4305,7 +4305,7 @@ drains approved by the city. Industrial cooling water or unpolluted process
 waters may be discharged, on approval of the Department, to a storm drain.
 (Ord. 118, passed 10-23-80; Am. Ord. 1518, passed 11-6-14) Penalty, see §
 10.99
-INDUSTRIAL USERS
+*** INDUSTRIAL USERS ***
 § 50.055 INDUSTRIAL PRETREATMENT.
    Nearly all wastewater generated in the city is conveyed to Seminole County
 for proper treatment and disposal. The City of Lake Mary and Seminole County
@@ -4318,7 +4318,7 @@ directly to the City of Sanford's wastewater system shall follow the industrial
 pretreatment standards of the City of Sanford.
 (Ord. 118, passed 10-23-80; Am. Ord. 1518, passed 11-6-14) Penalty, see §
 10.99
-SEWER SYSTEM EXTENSIONS
+*** SEWER SYSTEM EXTENSIONS ***
 § 50.095 PURPOSE.
    This subchapter establishes procedures to facilitate the orderly expansion
 of the city's sewerage system and drainage systems and provides alternatives
@@ -4414,7 +4414,7 @@ require.
 (Ord. 118, passed 10-23-80; Am. Ord. 638, passed 4-15-93; Am. Ord. 1518, passed
 11-6-14) Penalty, see §
 10.99
-SEWER IMPACT FEE
+*** SEWER IMPACT FEE ***
 § 50.140 SHORT TITLE.
    This subchapter shall be known and may be cited as the "City of Lake Mary
 Sewer Impact Fee Regulations".
@@ -4754,7 +4754,7 @@ notes
 Cross-reference:
    Wastewater and Water System Fees and Charges, see
 Ch. 53
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 51.01 CONNECTION WITH SYSTEM.
    Where the city water system is available, as defined by §
 51.02, the owner of every lot or parcel of land within the city shall connect,
@@ -4887,7 +4887,7 @@ the water fees established in §
 connection shall be separately metered.
 (Ord. 44, passed 5-20-76; Am. Ord. 638, passed 4-15-93; Am. Ord. 1518, passed
 11-6-14)
-WATER CONSERVATION FOR LANDSCAPE IRRIGATION
+*** WATER CONSERVATION FOR LANDSCAPE IRRIGATION ***
 § 51.20 INTENT; PURPOSE.
    It is the intent and purpose of this subchapter to implement procedures that
 promote water conservation through the more efficient use of landscape
@@ -5038,7 +5038,7 @@ enforce the provisions of §§
 51.20 through
 51.27.
 (Ord. 1518, passed 11-6-14)
-WATER SYSTEM IMPACT FEE
+*** WATER SYSTEM IMPACT FEE ***
 § 51.51 SHORT TITLE.
    This subchapter shall be known and may be cited as the Lake Mary Water
 System Impact Regulation.
@@ -5287,7 +5287,7 @@ Cross-reference:
 Ch. 50
    City Water System, see
 Ch. 51
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 53.01 SHORT TITLE.
    This part shall be known and may be cited as the "City Wastewater and Water
 System Fees and Charges."
@@ -5423,7 +5423,7 @@ be entitled to collect reasonable attorneys' fees from the owner for services
 rendered by the city's attorneys in the institution and prosecution of such
 foreclosure proceedings. [Reference F.S. § 159.17]
 (Ord. 1518, passed 11-6-14)
-WASTEWATER SYSTEM FEES AND CHARGES
+*** WASTEWATER SYSTEM FEES AND CHARGES ***
 § 53.20 OBJECTIVE.
    The objective of this system of fees and charges is to generate revenues
 from user charges adequate to pay operational, maintenance, and replacement
@@ -5520,7 +5520,7 @@ after notice of sewer availability, as required by F.S. § 381.00655, as may be
 amended from time to time.
 (Ord. 118, passed 10-23-80; Am. Ord. 638, passed 4-15-93; Am. Ord. 1518, passed
 11-6-14)
-WATER SYSTEM FEES AND CHARGES
+*** WATER SYSTEM FEES AND CHARGES ***
 § 53.30 OBJECTIVE.
    The objective of this system of fees and charges is to generate revenues
 from user charges adequate to pay operational, maintenance, and replacement
@@ -6607,7 +6607,7 @@ officer
  
    
 70.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 70.01 DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -6705,7 +6705,7 @@ the sale of such items.
 (Ord. 232, passed 9-19-85; Am. Ord. 724, passed 11-17-94; Am. Ord. 1271, passed
 11-15-07; Am. Ord. 1329, passed 8-20-09)
 Penalty, see § 70.99
-POWERS AND DUTIES OF CHIEF OF POLICE
+*** POWERS AND DUTIES OF CHIEF OF POLICE ***
 § 70.10 CHIEF OF POLICE TO REGULATE TRAFFIC OPERATIONS AND PARKING.
    The Chief of Police shall have the power and is authorized to regulate the
 operation and parking of vehicles within the corporate boundaries of the city,
@@ -6787,7 +6787,7 @@ lying within city boundaries.
    (D)   Regulating the operation of bicycles.
    (E)   Regulating persons upon skates, coasters, and other toy vehicles.
 (Ord. 221, passed 4-18-85; Am. Ord. 1329, passed 8-20-09)
-TRAFFIC RULES
+*** TRAFFIC RULES ***
 § 70.25 GENERAL PROVISIONS.
    Sections
 70.26 through
@@ -6955,7 +6955,7 @@ rear.
 years of age or older.
 (Ord. 560, passed 9-5-91; Am. Ord. 1329, passed 8-20-09; Am. Ord. 1591, passed
 7-12-18)
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 70.45 IMPOUNDMENT AND REDEMPTION OF ILLEGALLY PARKED VEHICLES.
    (A)   Members of the Police Department shall be vested with the authority
 and it shall be their duty to impound any unoccupied vehicle parked in
@@ -7258,7 +7258,7 @@ Code
  
    
 91.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 91.01 DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -7303,7 +7303,7 @@ released from the inside, without first removing the door, lid, snaplock, or
 other locking device from the icebox, refrigerator or container.
 (Ord. 8, passed 5-13-74) Penalty, see §
 91.99(A)
-NOISE CONTROL
+*** NOISE CONTROL ***
 § 91.15 PURPOSE AND SCOPE.
    (A)   The purpose of this section is to regulate and reduce the ambient
 sound levels originating within the city in order to preserve, protect and
@@ -7796,7 +7796,7 @@ criteria of §
 on streets and roads under the city's jurisdiction shall be regulated pursuant
 to F.S. § 316.293.
 (Ord. 1218, passed 11-2-06)
-SOLID WASTE COLLECTION
+*** SOLID WASTE COLLECTION ***
 § 91.30 STATEMENT OF INTENT.
    (A)   It is the intent of the city to require all persons within the
 corporate boundaries of the city to have their solid waste and recycling
@@ -8227,7 +8227,7 @@ charges have accrued at such time as the accrued charges are equal to or exceed
 the amount of the deposit.
 (Ord. 497, passed 5-3-90; Am. Ord. 1312, passed 2-5-09; Am. Ord. 1523, passed
 2-26-15)
-DISABLED VEHICLES
+*** DISABLED VEHICLES ***
 § 91.65 DEFINITIONS.
    For the purpose of this subchapter the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8264,7 +8264,7 @@ stripped for parts for use on another vehicle.
 property on which the violation occurs shall be jointly and individually
 responsible for compliance with this section.
 (Ord. 368, passed 5-5-88; Am. Ord. 1272, passed 12-20-07)
-LAKE MARY PROPERTY MAINTENANCE CODE
+*** LAKE MARY PROPERTY MAINTENANCE CODE ***
 § 91.70 INTENT, DEFINITIONS, AND ADOPTION OF INTERNATIONAL PROPERTY MAINTENANCE
 CODE.
    (A)   These regulations shall be known as the Property Maintenance Code of
@@ -8794,7 +8794,7 @@ to the maximum extent permitted by law, the federal, state, and local
 government and all employees, officers and agents of the federal, state, and
 local government connected with the rendering of such service.
 (Ord. 1293, passed 7-24-08)
-ROADS, ROADWAYS AND PRIVATE PROPERTY
+*** ROADS, ROADWAYS AND PRIVATE PROPERTY ***
 § 91A.06 EMERGENCY ROAD CLOSURE.
    Nothing herein shall preclude a first response by the city to clear and push
 debris from all roadways (both public and private) including access properties
@@ -8859,7 +8859,7 @@ responsibilities of public
 92.78   Cemetery rates
    
 92.79   Certificate of interment
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 92.01 PARK HOURS.
    It shall be unlawful for any person or persons to be in any public park,
 public playground, or public recreation area before the hour and time of
@@ -8922,7 +8922,7 @@ authorized city employee to leave the premises or to comply with an order of
 suspension is declared to be in violation of this chapter punishable pursuant
 to § 10.99 of the Lake Mary City Code.
 (Ord. 854, passed 10-2-97; Am. Ord. 1658, passed 3-3-22)
-NAMING
+*** NAMING ***
 § 92.20 GUIDELINES FOR NAMING OF CITY PARKS, FACILITIES, STREETS, AND OTHER
 CITY-OWNED PROPERTY.
    There will generally be no consideration for the naming of parks,
@@ -8930,7 +8930,7 @@ facilities, streets, and other city owned property after any individual, entity
 or organization. If an individual, entity or organization is desirous of having
 a property named, a majority vote by the Mayor and Commission is required.
 (Res. 908, passed 11-15-12)
-FEES
+*** FEES ***
 § 92.25 AMENDING PARKS AND RECREATION FEES.
    Fees established in this chapter will be reviewed by staff on an annual
 basis and may be amended by resolution. Fee adjustments will be recommended,
@@ -9061,7 +9061,7 @@ Parks and Recreation Fees.
  
 (Ord. 1658, passed 3-3-22; Am. Res. 1048, passed 3-3-22; Am. Res. 1066, passed
 4-4-24)
-LAKE MARY CEMETERY
+*** LAKE MARY CEMETERY ***
 § 92.70 RULES AND REGULATIONS.
    (A)   It is in the intent of this subchapter to establish uniform rules and
 regulations for the purchase, use and maintenance of cemetery spaces in the
@@ -9781,7 +9781,7 @@ Street Lighting
 93.27   Tentative budget
    
 93.28   Procedures for lighting; assessment; payment
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 93.01 OBSTRUCTING STREETS AND SIDEWALKS.
    (A)   It shall be unlawful for any person or persons to park any motor
 vehicle, or place any obstruction, either temporary or permanent, within any
@@ -9864,7 +9864,7 @@ Board of the City and final approval by the City council.
 fee shall be $5.
 (Ord. 40, passed 2-19-76)
 Penalty, see § 10.99
-CONSTRUCTION AND REPAIR
+*** CONSTRUCTION AND REPAIR ***
 § 93.10 PERMIT AND BOND REQUIRED.
    (A)   It shall be unlawful for any person to do any construction or repair
 work involving the tearing up and re-laying of any street or sidewalk or any
@@ -9922,7 +9922,7 @@ barricades, work or excavations to warn person s of the presence of the
 excavation and work so as to prevent injury to persons or property.
 (Ord. 40, passed 2-19-76)
 Penalty, see § 10.99
-STREET LIGHTING
+*** STREET LIGHTING ***
 § 93.20 CREATION OF DISTRICT; NAME.
    (A)   There is hereby created, pursuant to the authority of F.S. § 189.401
 et seq., including but not necessarily limited to § 189.4031, § 189.4041, §
@@ -14624,7 +14624,7 @@ Criminal Provisions
 115.78   Allowing patrons to engage in sexual acts
    
 115.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 115.01 TITLE.
    This chapter shall be known and may be cited as the adult entertainment
 code.
@@ -15109,7 +15109,7 @@ in full force and effect. No void, unconstitutional, or invalid portion or
 proscribed provision, or application thereof, was an inducement to the
 enactment of this code.
 (Ord. 763, passed 8-24-95)
-LICENSING
+*** LICENSING ***
 § 115.20 LICENSE REQUIRED; CLASSIFICATIONS.
    (A)   Requirement. No adult entertainment establishment shall be permitted
 to operate without having been first granted an adult entertainment license by
@@ -15438,7 +15438,7 @@ days after the date the City Clerk mails the notice of revocation to the
 licensee or on the date the licensee delivers his license to the City Clerk,
 whichever happens first.
 (Ord. 763, passed 8-24-95)
-DISTANCE RESTRICTIONS
+*** DISTANCE RESTRICTIONS ***
 § 115.40 PROHIBITED LOCATIONS.
    (A)   Notwithstanding any other provision of this code, except §
 115.43, or any provision of the city planning, land development, and zoning
@@ -15503,7 +15503,7 @@ the procedures and criteria set forth for other variance requests as set forth
 in §
 154.06.
 (Ord. 763, passed 8-24-95)
-GENERAL OPERATIONAL RULES
+*** GENERAL OPERATIONAL RULES ***
 § 115.50 GENERAL REQUIREMENTS.
    Each adult entertainment establishment is subject to all of the following
 general requirements and shall:
@@ -15669,7 +15669,7 @@ enforcement officer when the establishment is open for business, immediately
 make available for inspection the original records, or the true and exact
 photocopies thereof.
 (Ord. 763, passed 8-24-95)
-CRIMINAL PROVISIONS
+*** CRIMINAL PROVISIONS ***
 § 115.65 OPERATION WITHOUT VALID ADULT ENTERTAINMENT LICENSE.
    It shall be unlawful for any person to be an operator of an adult
 entertainment establishment when:
@@ -15955,7 +15955,7 @@ Slot Machines or Devices
 117.04   Exemption
    
 117.99   Penalty
-SLOT MACHINES OR DEVICES
+*** SLOT MACHINES OR DEVICES ***
 § 117.01 PURPOSE AND INTENT; FINDINGS; JURISDICTION; STATUTORY AUTHORITY.
    The purpose and intent of this subchapter is to regulate and prohibit,
 within the City of Lake Mary, Florida, slot machines or devices and casino-type
@@ -16833,7 +16833,7 @@ fee in accordance with their policies shall be paid to SBCCI PST & ESI by the
 applicant/developer at the time application is made for a building permit.
 These fees will be in addition to the fees contained in these ordinances.
 (Ord. 837, passed 4-17-97; Am. Ord. 1048, passed 3-21-02)
-IMPACT FEES
+*** IMPACT FEES ***
 § 150.15 LEVY AND PURPOSE.
    Impact fees are levied on new construction within the city limits in
 accordance with the schedule of impact fees and other provisions of this
@@ -17259,7 +17259,7 @@ Flood Resistant Development
 152.40   Tanks
    
 152.41   Other development
-ADMINISTRATION
+*** ADMINISTRATION ***
 § 152.01 GENERAL PROVISIONS.
    (A)   Title. These regulations shall be known as the Floodplain Management
 Ordinance of the City of Lake Mary, Florida, hereinafter referred to as "this
@@ -17852,7 +17852,7 @@ violation continues shall be considered a separate offense. Nothing herein
 contained shall prevent the city from taking such other lawful action as is
 necessary to prevent or remedy any violation.
 (Ord. 1465, passed 5-17-12; Am. Ord. 1521, passed 12-4-14)
-DEFINITIONS
+*** DEFINITIONS ***
 § 152.20 DEFINITIONS.
    Unless otherwise expressly stated, the following words and terms shall, for
 the purposes of this chapter have the meanings shown in this section. Where
@@ -18105,7 +18105,7 @@ chapter or the Florida Building Code.
 in, on, through, or over which water flows at least periodically.
 (Ord. 1465, passed 5-17-12; Am. Ord. 1521, passed 12-4-14; Am. Ord. 1584,
 passed 4-5-18)
-FLOOD RESISTANT DEVELOPMENT
+*** FLOOD RESISTANT DEVELOPMENT ***
 § 152.35 BUILDINGS AND STRUCTURES.
    Design and construction of buildings, structures and facilities exempt from
 the Florida Building Code. Pursuant to §
@@ -18834,7 +18834,7 @@ Affordable Housing
  
    
 154.999   Penalty
-GENERAL PROVISIONS: LAND DEVELOPMENT CODE
+*** GENERAL PROVISIONS: LAND DEVELOPMENT CODE ***
 Editor's Note:
    Chapters
 154 through
@@ -19054,7 +19054,7 @@ paid for by the developer.
 Cross-reference:
    General penalty and prerogative of injunctive relief, see §
 154.04
-GENERAL REGULATIONS: ZONING CODE
+*** GENERAL REGULATIONS: ZONING CODE ***
 § 154.09 DEFINITIONS.
    Unless specifically defined below or in the specific section in which they
 appear, words or phrases used in this chapter shall be interpreted to have the
@@ -20523,7 +20523,7 @@ Ord. 874, passed 3-19-98; Am. Ord. 940, passed 8-26-99; Am. Ord. 1120, passed
 15-17; Am. Ord. 1611, passed 9-19-19; Am. Ord. 1616, passed 11-21-19; Am. Ord.
 1618, passed 3-5-20; Am. Ord. 1625, passed 8-20-20; Am. Ord. 1681, passed 4-20-
 23; Am. Ord. 1685, passed 6-29-23; Am. Ord. 1703, passed 6-20-24)
-GENERAL REGULATIONS
+*** GENERAL REGULATIONS ***
 § 154.10 NONCONFORMING USES.
    (A)   Within the districts established by these zoning regulations or
 amendments that may later be adopted, there may exist lots, structures, uses of
@@ -22869,7 +22869,7 @@ notification of the condition by the city.
       (7)   No more than two collection bins shall be allowed on a property,
 and collection bins must be separated by a minimum distance of ten feet.
 (Ord. 1611, passed 9-19-19)
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 154.25 PLANNING AND ZONING BOARD.
    (A)   Establishment. The City Commission shall appoint a board to be
 composed of five qualified electors of the city, to be known as the Planning
@@ -23163,7 +23163,7 @@ afford the subject application fee.
 Cross-reference:
    City Commission may change fees and charges by resolution, see §
 154.03
-ESTABLISHMENT OF DISTRICTS, BOUNDARIES, AND RESTRICTIONS
+*** ESTABLISHMENT OF DISTRICTS, BOUNDARIES, AND RESTRICTIONS ***
 § 154.40 ESTABLISHMENT OF DISTRICTS.
    In order to classify, regulate, and restrict the uses of land, water,
 buildings, and structures; to regulate and restrict the height and bulk of
@@ -23307,7 +23307,7 @@ below the requirements herein stated.
 granted to the Planning and Zoning Board, as outlined in §
 154.25(H).
 (Ord. 241, passed 11-27-85; Am. Ord. 1505, passed 5-1-14)
-DISTRICT REGULATIONS
+*** DISTRICT REGULATIONS ***
 § 154.55 A-1 AGRICULTURE.
    (A)   Description of district. This district is established in order to
 identify and stabilize those areas within the city that are appropriate for
@@ -25779,7 +25779,7 @@ Chapter 157 of this code.
       (3)   School location, regulations and requirements are included in §
 154.68.
 (Ord. 1219, passed 11-2-06)
-CONDITIONAL USE REGULATIONS
+*** CONDITIONAL USE REGULATIONS ***
 § 154.70 DESCRIPTION.
    (A)   A conditional use may not be appropriate generally or without
 restriction throughout a zoning district, but if controlled as to number, area,
@@ -25854,7 +25854,7 @@ applicant where conditions have not changed during the first year. The request
 for the conditional use approval extension must be filed with the city at least
 30 days prior to the expiration of the aforesaid 12 month period.
 (Ord. 241, passed 11-27-85; Am. Ord. 850, passed 9-18-97)
-HOME-BASED BUSINESSES
+*** HOME-BASED BUSINESSES ***
 § 154.80 DEFINITION.
    For the purpose of this subchapter the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -25933,7 +25933,7 @@ conveyance of the property where the home-based business is located. A home-
 based business can only be conducted at the premises for which the business tax
 receipt is issued.
 (Ord. 391, passed 9-15-88; Am. Ord. 1647, passed 10-7-21)
-BIG LAKE MARY OVERLAY ZONING DISTRICT
+*** BIG LAKE MARY OVERLAY ZONING DISTRICT ***
 § 154.90 BIG LAKE MARY OVERLAY ZONING DISTRICT.
    (A)   Geographic area. The Big Lake Mary overlay zoning designation shall
 apply to the area south of Lake Mary Boulevard, north of Big Lake Marv, east of
@@ -26042,7 +26042,7 @@ feet, as measured perpendicular to the side property line.
             3.   School location, regulations and requirements are found in §
 154.68.
 (Ord. 1282, passed 3-6-08; Am. Ord. 1464, passed 5-17-12)
-TRANSFER OF DEVELOPMENT RIGHTS
+*** TRANSFER OF DEVELOPMENT RIGHTS ***
 § 154.101 INTENT.
    (A)   In conformance with the City of Lake Mary Comprehensive Plan, Future
 Land Use Element, Objective 3, Policy 3.4, Objective 9 and Policy 9.3, the city
@@ -26123,7 +26123,7 @@ issued.
    The city shall maintain a current balance of available TDR units via the
 City of Lake Mary TDR Bank.
 (Ord. 1458, passed 4-5-12)
-PAIN MANAGEMENT CLINICS
+*** PAIN MANAGEMENT CLINICS ***
 § 154.120 PILL MILLS.
    Pill mills are strictly prohibited. For purposes of this section, a “PILL
 MILL” is any doctor's office, clinic, or health care facility that routinely
@@ -26148,7 +26148,7 @@ or their “caregivers.” All terms used in this section shall be interpreted i
 accordance with F.S. § 381.986 and Chapter 64-4 of the Florida Administrative
 Code.
 (Ord. 1571, passed 9-7-17)
-OUTDOOR ADVERTISING
+*** OUTDOOR ADVERTISING ***
 § 154.130 RESTRICTIONS.
    (A)   The business of outdoor advertising is a prohibited land use in all
 zoning districts of the city. The "business of outdoor advertising" means the
@@ -26163,7 +26163,7 @@ removed, (b) discontinued, or (c) destroyed within the meaning of F.S. Chapter
 479, or any associated administrative rules defining the term "destroyed" or
 "destruction".
 (Ord. 1499, passed 12-5-13)
-AFFORDABLE HOUSING
+*** AFFORDABLE HOUSING ***
 § 154.140 AFFORDABLE HOUSING UNDER THE LIVE LOCAL ACT.
    (A)   Description and purpose. The purpose of this section is to establish
 procedures and regulations for the development of mixed-use affordable housing
@@ -26825,7 +26825,7 @@ Cross-reference:
 154.01 through 154.06
    Variances, see §
 154.06(A)
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 155.01 PURPOSE AND INTENT OF CHAPTER.
    (A)   The public health, safety, comfort, and welfare require that the
 development of land be conducted in a harmonious, orderly, and progressive
@@ -26912,7 +26912,7 @@ means of a narrow drive or entryway.
 feet each. A plot plan shall designate the front and rear yards as a condition
 for building permit approval for a flag lot.
 (Ord. 428, passed 5-18-89)
-PROCEDURES FOR SECURING APPROVAL OF SUBDIVISION PLANS
+*** PROCEDURES FOR SECURING APPROVAL OF SUBDIVISION PLANS ***
 § 155.10 INTENT.
    It shall be the intent of the city that there be an orderly process for
 approval of all subdivision plats in the city. This process is intended to
@@ -27288,7 +27288,7 @@ the proposed plat or the extended date for final plat submittal, if final plat
 approval is not received.
 (Ord. 241, passed 11-27-85; Am. Ord. 547, passed 6-6-91; Am. Ord. 641, passed
 5-20-93)
-REQUIRED SUBMITTALS
+*** REQUIRED SUBMITTALS ***
 § 155.20 PURPOSE.
    The purpose of this subchapter shall be to outline the required submittals
 for both the preliminary plan and the final plat.
@@ -27560,7 +27560,7 @@ or replaced to correct any defects, damage or deviation from the approved plans
 and specifications to the satisfaction of the city.
 (Ord. 241, passed 11-27-85; Am. Ord. 547, passed 6-6-91; Am. Ord. 641, passed
 5-20-93; Am. Ord. 1642, passed 6-17-21)
-IMPROVEMENTS
+*** IMPROVEMENTS ***
 § 155.30 GENERAL.
    The project engineer shall certify the design and inspection of the
 installation of all required improvements such as streets, drainage structures,
@@ -27681,7 +27681,7 @@ elevation of the following criteria:
 table.
 (Ord. 241, passed 11-27-85; Am. Ord. 641, passed 5-20-93)
 Penalty, see § 155.99
-VACATING OF PLATS, REPLATS, AND CORRECTION OF ERRORS
+*** VACATING OF PLATS, REPLATS, AND CORRECTION OF ERRORS ***
 § 155.40 VACATING OF PLATS.
    (A)   By owner.
       (1)   The owner of any land subdivided into lots may petition the city
@@ -27778,7 +27778,7 @@ year from the date of approval. The Board or its designate may grant a time
 extension upon written request to the city, provided that the plans and plats
 still comply with current regulations.
 (Ord. 241, passed 11-27-85)
-LEGAL STATUS
+*** LEGAL STATUS ***
 § 155.50 INTERPRETATION.
    This section shall not be construed to have the effect of repealing any
 existing ordinance concerning the subject matter of this chapter, but the
@@ -27802,7 +27802,7 @@ subdivision plans or plats which are approved prior to the effective date shall
 not be substantially amended or changed after the effective date, except to
 conform with the regulations established herein.
 (Ord. 241, passed 11-27-85)
-FORMS OF AGREEMENT AND LETTER OF CREDIT
+*** FORMS OF AGREEMENT AND LETTER OF CREDIT ***
 § 155.61 CASH ESCROW AGREEMENT.
    This agreement, entered into this        day of                   , 20   ,
 by                , hereinafter referred to as "Developer", and
@@ -28225,7 +28225,7 @@ Variances and Penalty
 Cross-reference:
    Streets and sidewalks, see
 Chapter 93
-STREETS
+*** STREETS ***
 § 1. GENERAL.
    (A)   The character, width, grade, and location of all streets and bridges
 shall conform to the standards in this appendix, and shall be considered in
@@ -28890,7 +28890,7 @@ equipment shall conform to the latest Florida Department of Transportation's
 Specification for Road and Bridge Construction.
 (Ord. 241, passed 11-27-85; Am. Ord. 640, passed 6-3-93)
 Penalty, see § 23
-DRIVEWAYS AND CURBCUTS
+*** DRIVEWAYS AND CURBCUTS ***
 § 4 GENERAL.
    (A)   Except where specific approval is granted by the city due to unique
 and peculiar circumstances or needs resulting from the size or location of
@@ -29170,7 +29170,7 @@ of five inches for automobile traffic and six inches for other vehicles.
 Department of Transportation specifications.
 (Ord. 241, passed 11-27-85; Am. Ord. 640, passed 6-3-93)
 Penalty, see § 23
-BLOCKS AND CROSSWALKS
+*** BLOCKS AND CROSSWALKS ***
 § 16 GENERAL.
    The lengths, widths, and shapes of blocks shall be determined with due
 regard to:
@@ -29195,7 +29195,7 @@ Penalty, see § 23
 Department of Transportation "Manual on Uniform Traffic Control Devices."
 (Ord. 241, passed 11-27-85; Am. Ord. 640, passed 6-3-93)
 Penalty, see § 23
-LOTS
+*** LOTS ***
 § 19 GENERAL.
    The lot size, width, depth, shape, orientation, and the building setback
 lines shall be appropriate for the location, the type of development, and the
@@ -29230,7 +29230,7 @@ to the lots affected.
 (Ord. 241, passed 11-27-85; Am. Ord. 379, passed 6-2-88; Am. Ord. 640, passed
 6-3-93)
 Penalty, see § 23
-VARIANCES AND PENALTY
+*** VARIANCES AND PENALTY ***
 § 22 VARIANCES.
    (A)   The City Commission may grant variances from the provisions of this
 regulation, which will not be contrary to the public interest where, owing to
@@ -29307,7 +29307,7 @@ Unimproved Reservation of Required Parking Areas
 18.   General requirements
    
 19.   Required conditions for reservation
-OFF-STREET PARKING
+*** OFF-STREET PARKING ***
 § 1 GENERAL PROVISIONS.
    The following shall apply generally:
    (A)   Permanent reservation. Areas reserved for off-street parking or
@@ -29621,7 +29621,7 @@ entrances, ramps, walkways, and elevators. Handicapped access shall be provided
 in accordance with F.S. Ch. 553, Part V.
 (Ord. 241, passed 11-27-85; Am. Ord. 635, passed 3-4-93)
 Penalty, see § 154.04
-OFF-STREET LOADING AND UNLOADING
+*** OFF-STREET LOADING AND UNLOADING ***
 § 8 GENERAL REQUIREMENTS.
    On the same premises with every building, structure, or part thereof erected
 and occupied for manufacturing, storage warehouse, food processing or wholesale
@@ -29705,7 +29705,7 @@ Loading Demand Statement adequately demonstrates that an alternative proposed
 loading/unloading zone(s) will sufficiently service a site.
 (Ord. 241, passed 11-27-85; Am. Ord. 870, passed 2-19-98)
 Penalty, see § 154.04
-REQUIRED IMPROVEMENTS FOR PARKING AND LOADING SURFACES
+*** REQUIRED IMPROVEMENTS FOR PARKING AND LOADING SURFACES ***
 § 11 GENERAL PROVISION.
    All parking lots, loading areas, and vehicular use areas shall have durable
 all-weather surfaces with drainage and surface water control.
@@ -29755,7 +29755,7 @@ parking surfaces are used. Other directional information to assist traffic flow
 shall be provided by either pavement marking or signs.
 (Ord. 241, passed 11-27-85)
 Penalty, see § 154.04
-UNIMPROVED RESERVATION OF REQUIRED PARKING AREAS
+*** UNIMPROVED RESERVATION OF REQUIRED PARKING AREAS ***
 § 18 GENERAL REQUIREMENTS.
    The city may authorize that required off-street parking spaces and vehicular
 use areas remain as unimproved reserve area as follows.
@@ -31052,7 +31052,7 @@ Cross-reference:
    Public utility construction, services, and operations, see §§
 52.060 through
 52.077
-SANITARY SEWAGE; PUBLIC WATER SUPPLY
+*** SANITARY SEWAGE; PUBLIC WATER SUPPLY ***
 § 1 GENERAL.
    It is declared and determined that the intent of §§
 1 through
@@ -31571,7 +31571,7 @@ violation continues shall constitute a separate offense. Each penalty shall be
 a lien on the real or personal property of the public utility, enforceable by
 the City Commission as statutory liens under F.S. Chapter 85.
 (Ord. 241, passed 11-27-85)
-EFFLUENT DISPOSAL POLICY
+*** EFFLUENT DISPOSAL POLICY ***
 § 35 DEFINITIONS.
    For the purpose of §§
 35 through
@@ -31703,7 +31703,7 @@ of the citizens of the city.
 44 of this appendix shall not abrogate or annul any existing contract, rule,
 regulation, statute, or other provision of state or federal law.
 (Ord. 305, passed 8-13-87)
-WATERLINE PROJECT ENGINEERING REQUIREMENTS
+*** WATERLINE PROJECT ENGINEERING REQUIREMENTS ***
 § 55 APPROVAL.
    These design standards are accepted and approved by the Lake Mary City
 Commission.
@@ -34851,7 +34851,7 @@ Cross-reference:
    General provisions applying throughout land development code, see §§
 154.01 through
 154.06
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 156.01 PURPOSE AND INTENT.
    (A)   The public health, safety, comfort, and welfare require that the
 development of land be conducted in a harmonious, orderly, and progressive
@@ -34935,7 +34935,7 @@ govern.
 Editor' s note:
    The definitions contained in §
 154.09 are also applicable to this chapter.
-PROCEDURES FOR SECURING APPROVAL OF SITE PLANS
+*** PROCEDURES FOR SECURING APPROVAL OF SITE PLANS ***
 § 156.11 PRE-APPLICATION CONFERENCE.
    The applicant is encouraged to confer with the city staff and the City
 Engineer prior to formally submitting a request for approval of a site plan.
@@ -35015,7 +35015,7 @@ Appendix C (stormwater management regulations) and
 Appendix I (sign regulations) and
 Chapter 157 (landscape and buffer regulations).
 (Ord. 241, passed 11-27-85; Am. Ord. 413, passed 1-19-89)
-REQUIRED SUBMITTALS
+*** REQUIRED SUBMITTALS ***
 § 156.20 QUALIFICATION OF ENGINEER.
    Site plans or any portion thereof involving engineering shall be certified
 and prepared by, or under the direct supervision of, a professional engineer,
