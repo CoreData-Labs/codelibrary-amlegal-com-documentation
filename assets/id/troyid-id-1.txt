@@ -198,7 +198,7 @@ Section
 General Provisions
    
 30.01   Election poll hours
-Initiative and Referendum
+*** Initiative and Referendum ***
    
 30.15   Creation of right
    
@@ -229,12 +229,12 @@ election
  
    
 30.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 ELECTION POLL HOURS.
    The polls of the city for all general and special city elections shall open
 at 12:00 p.m. and remain open until 8:00 p.m., at which time they shall close.
 (Prior Code, § 1-12-1) (Ord. 333, passed 9-10-1997)
-INITIATIVE AND REFERENDUM
+**** INITIATIVE AND REFERENDUM ****
 § 30.15 CREATION OF RIGHT.
    The people of this city shall have the right to enact ordinances through the
 initiative process, and to repeal ordinances through the referendum process,
@@ -623,7 +623,7 @@ City Superintendent
 32.50   Appointment
    
 32.51   Duties
-OFFICERS
+**** OFFICERS ****
 § 32.01 APPOINTMENTS.
    The Mayor, with the consent of the Council, shall appoint a Clerk, Attorney,
 Treasurer, and such other officers as may be deemed necessary for the efficient
@@ -785,7 +785,7 @@ bonds may be furnished at the expense of the city in lieu of personal bonds:
 shall be paid monthly immediately following the first Council meeting of the
 month.
 (Prior Code, § 1-6-10)
-MAYOR
+**** MAYOR ****
 § 32.25 QUALIFICATIONS.
    Any person shall be eligible to hold the office of Mayor who is a qualified
 elector of the city at the time of his or her election and who remains a
@@ -870,7 +870,7 @@ city.
       (2)   Said appointee shall serve until the next general city election, at
 which election a Mayor shall be elected for the full four-year term.
 (Prior Code, § 1-4-12)
-CITY SUPERINTENDENT
+**** CITY SUPERINTENDENT ****
 § 32.50 APPOINTMENT.
    The Mayor may appoint, with approval of the Council, a City Superintendent,
 who shall hold office for the duration of his or her appointment unless sooner
@@ -982,7 +982,7 @@ Garbage Removal System
  
    
 50.99   Penalty
-SOLID WASTE DISPOSAL
+**** SOLID WASTE DISPOSAL ****
 § 50.01 SHORT TITLE.
    This subchapter shall be known and cited as the “Solid Waste Ordinance of
 the City of Troy, Idaho.”
@@ -1314,7 +1314,7 @@ hazardous material is hereby declared to be a nuisance and is unlawful.
    The City Council is hereby authorized to adopt rates to be charged producers
 and generators by resolution.
 (Prior Code, § 4-5-16) (Ord. 258, passed 1-19-1987)
-GARBAGE REMOVAL SYSTEM
+**** GARBAGE REMOVAL SYSTEM ****
 § 50.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -1529,7 +1529,7 @@ Cross-Connection Control
  
    
 51.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.001 OUTDOOR WATER USE.
    Due to the possibility on an annual basis that the city ground water
 reservoir may run low in the summertime, the City Council hereby authorizes the
@@ -1537,7 +1537,7 @@ Mayor to proclaim an emergency restriction on outdoor water use when deemed
 necessary.
 (Prior Code, § 7-9-1) (Ord. 2005-04, passed 9-12-2005) Penalty, see §
 51.999
-WATER METERS
+**** WATER METERS ****
 § 51.015 WATER AND SEWER BILLINGS; METERS REQUIRED.
    (A)   Meters required. All property owners upon whose premises water is
 consumed by the owner, by tenants, and otherwise, must have a water meter, to
@@ -1692,7 +1692,7 @@ water service shall be discontinued to such premises until the owner, tenant,
 or occupant of the premises has complied with the sewer regulations of the
 city.
 (Prior Code, § 7-5-9)
-SEWER REGULATIONS
+**** SEWER REGULATIONS ****
 § 51.035 SEWER CONNECTIONS REQUIRED.
    (A)   (1)   The Water Commissioner is hereby empowered and it is hereby made
 his or her duty in all cases where there is a public sewer in any street,
@@ -2111,7 +2111,7 @@ provided may be enforced by the property owner beneficially interested in an
 ordinary civil action in any court of competent jurisdiction.
 (Prior Code, § 7-6-35) Penalty, see §
 51.999
-WATER AND SEWER CONNECTION FEES
+**** WATER AND SEWER CONNECTION FEES ****
 § 51.075 PURPOSES AND FINDINGS.
    The City Council finds, determines, and declares that:
    (A)   This subchapter is intended to assist in the improvement and increased
@@ -2359,7 +2359,7 @@ days of billing. Services may be terminated for nonpayment.
 51.086 should be reviewed by the City Council at least once each fiscal year.
 After careful review, amended fees may be adopted by a duly adopted resolution.
 (Prior Code, § 7-6A-13) (Ord. 292, passed 2-15-1993)
-CROSS-CONNECTION CONTROL
+**** CROSS-CONNECTION CONTROL ****
 § 51.100 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -2604,7 +2604,7 @@ Equipment
 70.49   Mirrors
    
 70.50   Windshields must be unobstructed and equipped with wipers
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this title, the following definitions apply unless the
 context clearly indicates or requires a different meaning.
@@ -2808,7 +2808,7 @@ office and shall be grounds for removal therefrom.
 (Prior Code, § 8-14-4)
 Penalty, see §
 10.99
-TRAFFIC CONTROL DEVICES
+**** TRAFFIC CONTROL DEVICES ****
 § 70.15 AUTHORITY TO INSTALL TRAFFIC CONTROL DEVICES.
    At the direction of the City Council, the Chief of Police shall direct and
 coordinate the Maintenance Department to place and maintain traffic control
@@ -2968,7 +2968,7 @@ boundaries of such lane except when lawfully passing another vehicle or
 preparatory to making a lawful turning movement.
 (Prior Code, § 8-3-11) (Ord. 328, passed 3-10-1997) Penalty, see §
 10.99
-EQUIPMENT
+**** EQUIPMENT ****
 § 70.40 WHEN LIGHTED LAMPS ARE REQUIRED.
    Every vehicle upon a highway at any time from one-half hour after sunset to
 one-half hour before sunrise and at any other time when there is not sufficient
@@ -3325,7 +3325,7 @@ Pedestrians
 71.110   Pedestrians on roadways
    
 71.111   Pedestrians soliciting rides or business
-ENFORCEMENT AND OBEDIENCE TO TRAFFIC REGULATIONS
+**** ENFORCEMENT AND OBEDIENCE TO TRAFFIC REGULATIONS ****
 § 71.001 AUTHORITY OF POLICE AND FIRE DEPARTMENT OFFICIALS.
    (A)   It shall be the duty of the officers of the Police Department, or such
 officers as are assigned by the Chief of Police, to enforce all street traffic
@@ -3397,7 +3397,7 @@ emergency vehicle from the duty to drive with due regard for the safety of all
 persons, nor shall such provisions protect the driver from consequences of his
 or her reckless disregard for the safety of others.
 (Prior Code, § 8-2-7)
-RULES OF THE ROAD
+**** RULES OF THE ROAD ****
 § 71.020 DRIVE ON RIGHT SIDE OF ROADWAY.
    (A)   Upon all roadways of sufficient width, a vehicle shall be driven upon
 the right half of the roadway, except as follows:
@@ -3699,7 +3699,7 @@ highway, whether marked with a centerline or unmarked, to park any vehicle or
 to move any parked vehicle.
 (Prior Code, § 8-5-22) (Ord. 215, passed 11-2-1976) Penalty, see §
 10.99
-MISCELLANEOUS DRIVING RULES
+**** MISCELLANEOUS DRIVING RULES ****
 § 71.055 LIMITATIONS ON BACKING.
    It shall be unlawful for any driver of a vehicle to back the same unless
 such movement can be made with reasonable safety and without interfering with
@@ -3931,7 +3931,7 @@ loading zone which is a part of or adjacent to such highway and when
 pedestrians are not permitted to cross the roadway.
 (Prior Code, § 8-7-6) Penalty, see §
 10.99
-SPEED
+**** SPEED ****
 § 71.090 BASIC RULE; SPEED LIMITS.
    (A)   No person shall drive a vehicle on a public thoroughfare at a speed
 greater than is reasonable and prudent under the conditions and having regard
@@ -3953,7 +3953,7 @@ block the normal and reasonable movement of traffic, except when reduced speed
 is necessary for safe operation or in compliance with law.
 (Prior Code, § 8-4-2) Penalty, see §
 10.99
-PEDESTRIANS
+**** PEDESTRIANS ****
 § 71.105 PEDESTRIANS SUBJECT TO TRAFFIC REGULATIONS.
    Pedestrians shall be subject to traffic control signals at intersections as
 provided in §§
@@ -4358,7 +4358,7 @@ Arrests
  
    
 73.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 73.01 NEGLIGENT HOMICIDE.
    When the death of any person ensues within one year as a proximate result of
 injury received by the driving of any vehicle in reckless disregard of the
@@ -4424,7 +4424,7 @@ otherwise directing the driver of any vehicle, to require or knowingly permit
 the operation of such vehicle upon a highway in any manner contrary to law.
 (Prior Code, § 8-12-4) Penalty, see §
 73.99
-ACCIDENTS
+**** ACCIDENTS ****
 § 73.15 ACCIDENT INVOLVING DEATH OR PERSONAL INJURIES.
    (A)   The driver of any vehicle involved in an accident resulting in injury
 to or death of any person shall immediately stop such vehicle at the scene of
@@ -4558,7 +4558,7 @@ accident report has or has not been made to the Police Department, solely to
 prove a compliance, or a failure to comply, with the requirement that such a
 report be made to the Police Department.
 (Prior Code, § 8-11-10)
-REMOVAL OF VEHICLES
+**** REMOVAL OF VEHICLES ****
 § 73.35 REMOVAL OF IMPROPERLY PARKED VEHICLES.
    Any vehicle parked in violation of traffic regulations or any vehicle parked
 so as to obstruct the free movement of traffic or to cause a traffic hazard may
@@ -4625,7 +4625,7 @@ proceeds of the sale, after deductions, shall be paid to the owner.
 assessed by the Police Department shall be in the same manner as provided by
 law.
 (Prior Code, § 8-8-5) (Ord. 328, passed 3-10-1997)
-ARRESTS
+**** ARRESTS ****
 § 73.50 PROCEDURE UPON ARREST FOR FELONY.
    Whenever a person is arrested for any violation of this title declared
 herein to be a felony, he or she shall be dealt with in like manner as upon
@@ -4821,7 +4821,7 @@ Bicycles
 74.20   Riding on sidewalks
    
 74.21   Lamps and other equipment
-BICYCLES
+**** BICYCLES ****
 § 74.01 EFFECT OF REGULATIONS.
    (A)   It shall be unlawful for any person to do any act forbidden or fail to
 perform any act required herein.
@@ -5116,7 +5116,7 @@ Dogs
  
    
 90.99   Penalty
-ANIMALS
+**** ANIMALS ****
 § 90.01 DEFINITIONS.
    (A)   Terms or words used herein shall be interpreted as follows.
       (1)   The present tense includes the past or future tense. The singular
@@ -5378,7 +5378,7 @@ animal on any public street, alley, sidewalk, or in any city park or playground
 or other public place or building, or on the premises of another.
 (Prior Code, § 6-3-21) (Ord. 2000-08, passed 10-9-2000) Penalty, see §
 90.99
-DOGS
+**** DOGS ****
 § 90.35 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -5788,7 +5788,7 @@ Burning Regulations
 92.34   Exceptions
    
 92.35   Open burning
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 92.01 ADOPTION OF FIRE PREVENTION CODE.
    For the purpose of regulating and governing conditions hazardous to life and
 property from fire, the Fire Prevention Code, current edition, as recommended
@@ -5848,7 +5848,7 @@ and containing no picric or gallic acid.
 (Prior Code, § 3-3-3)
 Penalty, see §
 10.99
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 92.15 ESTABLISHMENT.
    Any number of residents of the city, not less than ten in number and not
 more than 20, may form a volunteer fire company for the protection or guarding
@@ -5878,7 +5878,7 @@ year shall forfeit his or her membership in the fire company.
 and bylaws to be approved by the Council before such organization shall be
 recognized as the fire company of the city.
 (Prior Code, § 3-6-5) (Ord. 78, passed 4-9-1912)
-BURNING REGULATIONS
+**** BURNING REGULATIONS ****
 § 92.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -6009,7 +6009,7 @@ Latah Trail
  
    
 93.99   Penalty
-LATAH TRAIL
+**** LATAH TRAIL ****
 § 93.01 HORSES AND UNAUTHORIZED MOTOR VEHICLES PROHIBITED.
    No person shall ride or allow to be ridden horses or drive or allow to be
 driven any unauthorized motor vehicle on the portion of the Latah Trail located
@@ -6086,7 +6086,7 @@ Licenses
 110.27   Posting of license
    
 110.28   Fees
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 110.01 BILLPOSTING AND HANDBILLS.
    (A)   License required. It shall be unlawful for any person to engage in the
 distribution or attaching of any signs, bills, pictures, or advertising matter
@@ -6143,7 +6143,7 @@ is hereby adopted and incorporated as if fully set out at length herein.
    (B)   Permits. Under § 3 of the code adopted in division (A) above, permits
 issued shall be in the sum of $25 per year, payable in advance.
 (Prior Code, § 4-2-2)
-LICENSES
+**** LICENSES ****
 § 110.15 APPLICATION.
    (A)   Applications for all licenses and permits required by this code shall
 be made in writing to the Clerk, unless otherwise specifically provided by law.
@@ -6493,7 +6493,7 @@ Beer
 112.68   Inspection
    
 112.69   Violation
-LIQUOR BY THE DRINK
+**** LIQUOR BY THE DRINK ****
 § 112.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -6698,7 +6698,7 @@ mentioned in division (A)(2) above to be prepared and certified by a certified
 public accountant.
 (Prior Code, § 5-8-15) (Ord. passed 1- -1968) Penalty, see §
 10.99
-WINE
+**** WINE ****
 § 112.30 DEFINITIONS.
    For the purpose of this chapter, the following definitions apply unless the
 context clearly indicates or requires a different meaning.
@@ -6806,7 +6806,7 @@ suspension of the state license by the Commission of Law Enforcement shall be
 deemed prima facie evidence for revocation or suspension of the license issued
 herein.
 (Prior Code, § 5-10-11) (Ord. 199, passed 7-6-1971)
-BEER
+**** BEER ****
 § 112.55 SHORT TITLE.
    This subchapter shall be known and designated as the “Beer Ordinance.”
 (Prior Code, § 5-7-1) (Ord. 162, passed 7-1-1958)
@@ -7079,7 +7079,7 @@ Motels
 113.25   Application to include plan
    
 113.26   Guests required to register
-HOTELS
+**** HOTELS ****
 § 113.01 DEFINED.
    Every building maintained or advertised as a public lodging house or where
 more than six rooms are provided for sleeping accommodations shall be known as
@@ -7112,7 +7112,7 @@ a period of at least one year following registration. The register shall be
 open for inspection to any authorized person.
 (Prior Code, § 5-4-5) Penalty, see §
 10.99
-MOTELS
+**** MOTELS ****
 § 113.20 BUILDING PERMIT REQUIRED.
    Before construction of a motel is started, an application for a permit for
 such construction shall be submitted to the Clerk. The Clerk shall present such
@@ -7182,7 +7182,7 @@ Parades
 114.20   Notice of rejection
    
 114.21   Driving through parades
-POOL, BILLIARD HALLS, AND CARD ROOMS
+**** POOL, BILLIARD HALLS, AND CARD ROOMS ****
 § 114.01 LICENSE REQUIRED.
    (A)   It shall be unlawful for any person to operate, maintain, or conduct a
 billiard, pool, or bagatelle or pigeonhole table open to the public without
@@ -7207,7 +7207,7 @@ such minor to frequent, loiter, or remain within the hall in violation of the
 provisions of this section.
 (Prior Code, § 5-5-3) Penalty, see §
 10.99
-PARADES
+**** PARADES ****
 § 114.15 PERMIT.
    No person shall engage in, participate in, aid, form, or start any parade,
 unless a parade permit shall have been obtained from the Chief of Police.
@@ -7670,7 +7670,7 @@ Air Guns, Firearms
 135.02   Discharge of firearms prohibited
    
 135.03   Exceptions; permits
-AIR GUNS, FIREARMS
+**** AIR GUNS, FIREARMS ****
 § 135.01 DEFINITIONS.
    Wherever the term FIREARMS is used in this subchapter, the term shall mean
 any instrument used in the propulsion of shot, shell, or bullets or other
@@ -7734,7 +7734,7 @@ Curfew
 137.15   Prohibited hours for minors on streets
    
 137.16   Responsibility of parents and guardians
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 137.01 ENCOURAGING DELINQUENCY.
    It shall be unlawful for any person, by any act or neglect, to encourage,
 aid, or cause a child to come within the purview of the juvenile authorities;
@@ -7744,7 +7744,7 @@ operate a motor vehicle during the period that such driver’s license is
 suspended.
 (Prior Code, § 6-1-14) Penalty, see §
 10.99
-CURFEW
+**** CURFEW ****
 § 137.15 PROHIBITED HOURS FOR MINORS ON STREETS.
    It is hereby declared to be a misdemeanor for any boy or girl under 16 years
 of age to visit any public place or be on the streets, alleys, or public
@@ -7812,7 +7812,7 @@ Trees and Shrubbery
  
    
 150.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 MAILBOXES.
    No person shall install or cause to be installed a mailbox on the State
 Highway 8 right-of-way portion of Main Street located within the city limits.
@@ -7828,7 +7828,7 @@ with the City Clerk for public use. Future versions of these standards may be
 adopted by resolution.
 (Prior Code, § 7-8-1) (Ord. 99-1, passed 1-11-1999) Penalty, see §
 150.99
-SIDEWALKS
+**** SIDEWALKS ****
 § 150.15 SPECIFICATIONS.
    The material and method of constructing sidewalks shall conform in all
 respects to the specifications adopted by the Council. These specifications
@@ -7847,7 +7847,7 @@ costs of said work shall be assessed against the property owner for which said
 sidewalk was constructed or repaired, and said cost shall become a lien upon
 the property.
 (Prior Code, § 7-1-3)
-SNOW REMOVAL
+**** SNOW REMOVAL ****
 § 150.30 DUTY OF OWNER OR TENANT.
    It shall be the duty of the owner or tenant of any premises abutting or
 adjoining any public sidewalk to remove all snow and/or ice from such sidewalk.
@@ -7872,7 +7872,7 @@ county official having charge of the making of the assessment roll and such
 charge shall be placed on the assessment roll and collected in the same manner
 as other municipal taxes are collected.
 (Prior Code, § 7-2-3)
-TREES AND SHRUBBERY
+**** TREES AND SHRUBBERY ****
 § 150.45 TREES TO BE TRIMMED.
    Any owner or occupant of any real property shall trim all trees on property
 owned or occupied by him or her, overhanging any public thoroughfare, so that
@@ -8012,7 +8012,7 @@ Manufactured Housing and Mobile Homes
  
    
 151.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.001 ADOPTION OF PLUMBING CODE.
    There is hereby adopted for the purpose of establishing minimum standards of
 design, materials, and workmanship for all plumbing hereafter installed,
@@ -8037,7 +8037,7 @@ Apparatus, as recommended by the National Fire Protection Association, which is
 hereby adopted as the electrical code of this municipality, three copies of the
 above adopted code being on file in the office of the City Clerk.
 (Prior Code, § 2-3-1)
-BUILDING CODES AND REGULATIONS
+**** BUILDING CODES AND REGULATIONS ****
 § 151.015 CODES ADOPTED.
    (A)   The International Building Code, 2015 Edition; the International
 Residential Code, 2012 edition, parts I through VI and IX; the American
@@ -8640,7 +8640,7 @@ City Attorney’s office of completion of any of the above divisions and, when
 the City Attorney has not already taken action, refer the matter to the City
 Attorney’s office for a determination of any further action.
 (Prior Code, § 2-1-6) (Ord. 2019-01, passed 11-14-2018)
-BUILDING RELOCATION
+**** BUILDING RELOCATION ****
 § 151.035 PURPOSE AND SCOPE.
    The purpose of this subchapter is to provide minimum standards and
 provisions for the safe relocation of buildings and structures within or to the
@@ -8831,7 +8831,7 @@ in the work of completing, demolishing, or removing any building or structure
 for which relocation permit has been issued.
 (Prior Code, § 2-7-16) (Ord. 251, passed 11-5-1984) Penalty, see §
 151.999
-TRAILER HOUSES
+**** TRAILER HOUSES ****
 § 151.065 DEFINITION.
    For the purpose of this subchapter, the following definition applies unless
 the context clearly indicates or requires a different meaning.
@@ -8950,7 +8950,7 @@ The Council may refuse to give such recognition if the owner or applicant
 therefor is not equipped with adequate sanitary or other facilities necessary
 to the operation of such tourist park.
 (Prior Code, § 5-9-12)
-MANUFACTURED HOUSING AND MOBILE HOMES
+**** MANUFACTURED HOUSING AND MOBILE HOMES ****
 § 151.090 APPLICATION OF REGULATIONS.
    (A)   This subchapter shall apply to any manufactured home or mobile home
 placed in the city after the effective date hereof.
@@ -9115,7 +9115,7 @@ Flood Hazard Reduction
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 STATUTORY AUTHORIZATION.
    The legislature of the state has, in Idaho Code § 67-6503, delegated the
 responsibility to local governmental units to adopt regulations designed to
@@ -9374,7 +9374,7 @@ thereof, or the federal insurance administration, for any flood damages that
 result from reliance on this chapter or any administrative decision lawfully
 made hereunder.
 (Prior Code, § 9-16C-6) (Ord. 2000-06, passed 8-28-2000)
-ADMINISTRATION AND PERMIT REQUIREMENTS
+**** ADMINISTRATION AND PERMIT REQUIREMENTS ****
 § 152.25 DEVELOPMENT PERMIT.
    (A)   Development permit required. A development permit shall be obtained
 before construction or development begins within any area of special flood
@@ -9539,7 +9539,7 @@ elevation below the base flood elevation and that the cost of flood insurance
 will be commensurate with the increased risk resulting from the reduced lowest
 floor elevation.
 (Prior Code, § 9-16D-4) (Ord. 2000-06, passed 8-28-2000)
-FLOOD HAZARD REDUCTION
+**** FLOOD HAZARD REDUCTION ****
 § 152.40 GENERAL STANDARDS.
    In all areas of special flood hazard, the following standards are required.
    (A)   Anchoring.
@@ -10862,7 +10862,7 @@ Administration and Enforcement
  
    
 154.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.001 SHORT TITLE.
    This chapter shall be known and may be cited as the “Subdivision Ordinance
 of the City of Troy.”
@@ -11173,7 +11173,7 @@ the size of lots.
 in relation to a larger area.
 (Prior Code, § 10-1-6) (Ord. 98-4, passed 10-12-1998; Ord. 2003-04, passed 10-
 27-2003)
-PLATS AND PROCEDURES
+**** PLATS AND PROCEDURES ****
 § 154.020 APPLICATION REQUIRED.
 Any person desiring to create a subdivision, as defined in §
 154.006, shall submit all necessary applications to the Administrator.
@@ -11561,7 +11561,7 @@ not result in either de facto approval of a request or a claim for monetary
 damages; however, the Mayor shall consider disciplinary action for the
 Administrator if good cause does not exist for the delay.
 (Prior Code, § 10-2-8) (Ord. 98-4, passed 10-12-1998)
-DESIGN STANDARDS
+**** DESIGN STANDARDS ****
 § 154.040 MINIMUM STANDARDS REQUIRED.
    All plats submitted pursuant to the provisions of this chapter, and all
 subdivisions, improvements, and facilities done, constructed, or made in
@@ -11731,7 +11731,7 @@ private park or open space facilities of acceptable size and location, and site
 characteristics that may be suitable for the proposed development.
 (Prior Code, § 10-3-11) (Ord. 98-4, passed 10-12-1998) Penalty, see §
 154.999
-IMPROVEMENTS REQUIRED
+**** IMPROVEMENTS REQUIRED ****
 § 154.065 INSTALLATION REQUIRED.
    Every subdivider shall be required to install the following public and other
 improvements in accordance with the conditions and specifications provided in
@@ -12004,7 +12004,7 @@ developer.
    As built plans shall be submitted to the Administrator within 30 days after
 completion of the project and prior to the issuance of building permits.
 (Prior Code, § 10-4-21) (Ord. 98-4, passed 10-12-1998)
-SPECIAL DEVELOPMENT SUBDIVISIONS
+**** SPECIAL DEVELOPMENT SUBDIVISIONS ****
 § 154.100 PURPOSE AND SUMMARY OF PROVISIONS.
    (A)   The purpose of this subchapter is to identify various types of
 developments that normally pose special concerns to the elected officials when
@@ -12273,7 +12273,7 @@ on the environment, including, but not limited to, animal life, plant life,
 social and economic concerns, noise and visual impacts, available farmland, and
 other?
 (Prior Code, § 10-5-18) (Ord. 98-4, passed 10-12-1998)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 154.130 ADMINISTRATION.
    The Council shall appoint an Administrator to carry out the provisions as
 herein specified and to serve at the pleasure of the Council. The Administrator
@@ -12755,7 +12755,7 @@ Landscaping and Fences
 Cross-reference:
    City Superintendent, see Ch. 32
    Sign regulations, see Ch. 153
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 155.001 SHORT TITLE; AUTHORITY; PURPOSE; INTENT; ENACTMENT AND ZONING
 DISTRICTS ESTABLISHED.
    (A)   Short title. This chapter shall be known as the “Troy Zoning
@@ -13228,7 +13228,7 @@ front lot line to the rear yard.
 districts.
 (Prior Code, § 9-2-2) (Ord. 2001-04, passed 8-27-2001; Ord. 2003-04, passed 10-
 27-2003)
-PLANNING AND ZONING COMMISSION
+**** PLANNING AND ZONING COMMISSION ****
 § 155.015 MEMBERSHIP.
    (A)   A Planning and Zoning Commission consisting of five members appointed
 by the Mayor, and confirmed by the City Council, shall be established in the
@@ -13312,7 +13312,7 @@ changes, and variance requests. The Council or Commission may appoint a hearing
 examiner to conduct a public hearing when it determines that it is in the
 public interest to do so.
 (Prior Code, § 9-3-7) (Ord. 2001-03, passed 8-13-2001)
-ADMINISTRATIVE PROCEDURES
+**** ADMINISTRATIVE PROCEDURES ****
 § 155.035 INTENT.
    The intention of this subchapter is to require a permit for all land
 development and building activity in the city, and to establish procedures for
@@ -13673,7 +13673,7 @@ requirements, shall govern.
 used and no structure erected or maintained in violation of any state or
 federal pollution control or environmental protection law or regulation.
 (Prior Code, § 9-4-21) (Ord. 2001-04, passed 8-27-2001)
-SINGLE-FAMILY RESIDENTIAL DISTRICT (R-1)
+**** SINGLE-FAMILY RESIDENTIAL DISTRICT (R-1) ****
 § 155.070 DESCRIPTION AND PURPOSE.
    The purpose of the Single-Family Residential District (R-1) is to develop
 and protect residential areas from overcrowding of land and to encourage the
@@ -13741,7 +13741,7 @@ Chapter 153 of this code.
 155.345.
 (Prior Code, § 9-5A-10) (Ord. 2001-04, passed 8-27-2001) Penalty, see §
 154.999
-TWO-FAMILY RESIDENTIAL DISTRICT (R-2)
+**** TWO-FAMILY RESIDENTIAL DISTRICT (R-2) ****
 § 155.090 DESCRIPTION AND PURPOSE.
    The purpose of the Two-Family Residential District (R-2) is to provide
 medium density development located near to shopping, recreation, cultural, and
@@ -13885,7 +13885,7 @@ Chapter 153 of this code.
 155.340 through
 155.345.
 (Prior Code, § 9-5C-11) (Ord. 2001-04, passed 8-27-2001)
-RESIDENTIAL MANUFACTURED HOME OR MOBILE HOME DISTRICT (R-M)
+**** RESIDENTIAL MANUFACTURED HOME OR MOBILE HOME DISTRICT (R-M) ****
 § 155.126 DESCRIPTION AND PURPOSE.
    The purpose of the Residential Manufactured Home or Mobile Home District (R-
 M) is to provide medium density residential development areas for standard
@@ -13981,7 +13981,7 @@ Commission shall review such plans as outlined in §§
 155.327.
 (Prior Code, § 9-5D-12) (Ord. 2001-04, passed 8-27-2001) Penalty, see §
 155.999
-CENTRAL BUSINESS DISTRICT (C-1)
+**** CENTRAL BUSINESS DISTRICT (C-1) ****
 § 155.150 DESCRIPTION AND PURPOSE.
    The Central Business District (C-1) is intended to preserve and enhance the
 downtown business sector along a turn of the century theme. This district will
@@ -14050,7 +14050,7 @@ Chapter 153 of this code.
 155.340 through
 155.345.
 (Prior Code, § 9-6A-10) (Ord. 2001-04, passed 8-27-2001)
-HIGHWAY COMMERCIAL DISTRICT (C-2)
+**** HIGHWAY COMMERCIAL DISTRICT (C-2) ****
 § 155.170 DESCRIPTION AND PURPOSE.
    The Highway Commercial District (C-2) is intended to provide orderly
 commercial development along major arterials. This district will provide open
@@ -14118,7 +14118,7 @@ loading and unloading facility should be screened so that it is not visible
 from the street.
 (Prior Code, § 9-6B-11) (Ord. 2001-04, passed 8-27-2001) Penalty, see §
 155.999
-INDUSTRIAL DISTRICT (IND)
+**** INDUSTRIAL DISTRICT (IND) ****
 § 155.195 DESCRIPTION AND PURPOSE.
    The Industrial District (IND) is established to provide for and encourage
 the grouping together of industrial uses capable of being operated under such
@@ -14184,7 +14184,7 @@ Chapter 153 of this code.
 155.340 through
 155.345.
 (Prior Code, § 9-7A-10) (Ord. 2001-04, passed 8-27-2001)
-INDUSTRIAL/AGRICULTURAL DISTRICT (INAG)
+**** INDUSTRIAL/AGRICULTURAL DISTRICT (INAG) ****
 § 155.215 DESCRIPTION AND PURPOSE.
    The purpose of the Industrial/Agricultural District (INAG) is to act as a
 buffer zone between property in the impact zone and any other zoning district
@@ -14252,7 +14252,7 @@ Chapter 153 of this code.
 155.340 through
 155.345.
 (Prior Code, § 9-7B-10) (Ord. 2001-04, passed 8-27-2001)
-PLANNED UNIT DEVELOPMENTS
+**** PLANNED UNIT DEVELOPMENTS ****
 § 155.235 DEFINITION AND INTENT.
    PLANNED UNIT DEVELOPMENT (PUD) is a process that provides greater design
 flexibility by allowing deviations from the typical development standards
@@ -14470,7 +14470,7 @@ PUD hearing. Any time extension over nine months shall require a public hearing
 in front of the Planning and Zoning Commission. Notice of hearing shall be
 provided in the same manner as the original PUD hearing.
 (Prior Code, § 9-8-15) (Ord. 2003-06, passed 11-10-2003)
-LAND USE REGULATIONS AND NONCONFORMING USES
+**** LAND USE REGULATIONS AND NONCONFORMING USES ****
 § 155.260 ESTABLISHMENT AND DESIGNATION OF USE DISTRICTS.
    The following use districts are established and shall apply to and govern
 the use, maintenance, or development of any land in the city:
@@ -14862,7 +14862,7 @@ area from one district to another district of a different classification, the
 foregoing provisions of this subchapter shall also apply to any nonconforming
 uses existing therein.
 (Prior Code, § 9-9-8) (Ord. 2001-04, passed 8-27-2001)
-DEVELOPMENT AGREEMENTS AND ZONING ENFORCEMENT
+**** DEVELOPMENT AGREEMENTS AND ZONING ENFORCEMENT ****
 § 155.280 CERTIFICATE OF OCCUPANCY.
    A certificate of occupancy shall be required before any building or use is
 occupied. A certificate of occupancy indicates that an onsite inspection has
@@ -14974,7 +14974,7 @@ matter automatically pursued by the City Attorney;
 criminal actions to bring the building or use into compliance; and/or
       (3)   File a notice of no compliance with the County Recorder.
 (Prior Code, § 9-10-5) (Ord. 2001-04, passed 8-27-2001)
-VARIANCES
+**** VARIANCES ****
 § 155.295 PURPOSES.
    (A)   The Planning and Zoning Commission is empowered to grant variances in
 order to prevent or to lessen such practical difficulties and unnecessary
@@ -15095,7 +15095,7 @@ forth reasons for the action taken. All appeals shall follow the procedures set
 forth in §
 155.049.
 (Prior Code, § 9-11-7) (Ord. 2001-04, passed 8-27-2001)
-CONDITIONAL USE PERMITS (CUP)
+**** CONDITIONAL USE PERMITS (CUP) ****
 § 155.315 INTENT.
    (A)   Certain types of uses require special consideration prior to their
 being permitted in a particular district. The reason for special consideration
@@ -15282,7 +15282,7 @@ make a written determination setting forth the reasons for their decision. All
 appeals shall follow the procedures set forth in §
 155.049.
 (Prior Code, § 9-12-13) (Ord. 2001-04, passed 8-27-2001)
-OFF-STREET PARKING REQUIREMENTS
+**** OFF-STREET PARKING REQUIREMENTS ****
 § 155.340 GENERAL REQUIREMENTS.
    (A)   When the intensity of use of any building, structure, or premises is
 increased through the addition of dwelling units, gross floor seating capacity,
@@ -15565,7 +15565,7 @@ Painting over old lines as maintenance work or nonslurry shall not be construed
 to be RESTRIPING for purposes of this section.
 (Prior Code, § 9-13-6) (Ord. 2001-04, passed 8-27-2001) Penalty, see §
 155.999
-LANDSCAPING AND FENCES
+**** LANDSCAPING AND FENCES ****
 § 155.360 INTENT.
    (A)   The purpose of landscaping is to bring relief from heat, noise, and
 glare through proper placement of green plants and trees, and to encourage
