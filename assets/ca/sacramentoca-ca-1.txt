@@ -8,7 +8,7 @@ American Legal Publishing Corporation
 Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
-PREFACE
+**** PREFACE ****
    The Sacramento City Code is a codification of the general and permanent
 ordinances of Sacramento, California. Originally published by Book Publishing
 Company, the code was prepared under the direction of the offices of the city
@@ -88,7 +88,7 @@ effective date of this Charter amendment shall continue to exist until altered
 as provided in Article XII. The title of the office of each member of the
 council other than the mayor shall bear the number accorded the council
 district of such member. (Amended by Res. 2016-0258, 7/26/16)
-§§ 23-25   Repealed.
+** §§ 23-25   Repealed. **
    (Repealed by Res. 2016-0258, 7/26/16)
 § 26   Terms of office.
    Each member of the city council other than the mayor shall serve for a term
@@ -4820,7 +4820,7 @@ individual contributor may give. Please read
 Chapter 2.13 before making a contribution to my campaign. (Ord. 2025-0009 § 2;
 Ord. 2023-0006 § 2; Ord. 2021-0007 § 3; Ord. 2019-004 § 3; Ord. 2017-0027 § 5;
 Ord. 2015-0009 § 3; Ord. 2013-0005 § 5; Ord. 2012-021 § 4; Ord. 2011-019 § 3;
-Ord. 2009-020 § 2; Ord. 2007-015 § 4; Ord. 2005-072 § 4; Ord. 2000-048 § 1)
+Ord. 2009-020 § 2; Ord. 2007-015 § 4; Ord. 2005-072 § 4; Ord. 2000-048 §
 2.13.070   Transfers of funds or contributions by committees to controlled
 committees of candidates for city elective office.
    A.   Except as provided in subsection B of this section, any transfer of
@@ -10566,8 +10566,7 @@ lieu of all benefits, other than medical benefits, payable to or on account of
 such person under such laws, and shall be in satisfaction and discharge of the
 obligation of the city to pay such benefits. (Prior code § 34.04.406)
 2.124.460   Death benefit upon death in service, etc., when death not
-compensable under Section
-2.124.420.
+compensable under Section 2.124.420.
    If a safety member shall die before retirement, from causes other than
 injury received in or illness caused by the performance of duty, or regardless
 of cause, if no allowance shall be payable under Section
@@ -11115,9 +11114,7 @@ one-half of his or her retirement allowance, as the case may be, shall be
 continued throughout life or until remarriage, to his or her surviving spouse.
 (Prior code § 34.05.526)
 2.124.780   Death benefit upon death in service, etc., when death not
-compensable under Sections
-2.124.760 and
-2.124.770.
+compensable under Sections 2.124.760 and 2.124.770.
    If any member of this plan shall die before retirement and if no allowance
 shall be payable under Sections
 2.124.760 and
@@ -11223,8 +11220,7 @@ allowance exceed the service retirement allowance to which such member would be
 entitled upon attainment by him or her of age fifty (50). (Prior code §
 34.05.536)
 2.124.880   Continuation of benefits after death of member retired under
-Section
-2.124.850.
+Section 2.124.850.
    Upon the death of a member who has retained membership in this plan under
 Section
 2.124.850 of this chapter, after qualification for voluntary service
@@ -11238,8 +11234,7 @@ remarriage, to his or her surviving spouse. The provisions of Section
 2.124.820 and
 2.124.830 of this chapter shall be applicable to the allocation or reallocation
 of such benefits. (Prior code § 34.05.537)
-2.124.890   Death benefits when death not compensable under Section
-2.124.880.
+2.124.890   Death benefits when death not compensable under Section 2.124.880.
    If any member of this plan shall die before retirement and if no allowance
 shall be payable under Section
 2.124.880 of this chapter, a death benefit shall be paid to the member's
@@ -12005,10 +12000,7 @@ time of death or one-half of his or her retirement allowance, as the case may
 be, shall be continued throughout life, or until remarriage, to his or her
 surviving spouse. (Prior code § 34.06.628)
 2.124.1260   Death benefit upon death in service, etc., when death not
-compensable under Sections
-2.124.1240,
-2.124.1250 and
-2.124.1280.
+compensable under Sections 2.124.1240, 2.124.1250 and 2.124.1280.
    If any member of this plan shall die before retirement, and, if no allowance
 is payable under Sections
 2.124.1240,
@@ -12186,8 +12178,7 @@ the allowance provided in this section shall be cancelled. The rights of the
 member thereafter shall be those provided under Section
 2.124.1230 of this chapter. (Prior code § 34.06.638)
 2.124.1360   Continuation of benefits after death of member retired under
-Section
-2.124.1330.
+Section 2.124.1330.
    Upon the death of a member who has retained membership in this plan under
 Section
 2.124.1330 of this chapter, after qualification for voluntary service
@@ -12532,9 +12523,7 @@ contained that it is to the economic benefit of the city and the city
 employees' retirement system to enact the provisions of this section. (Prior
 code § 34.07.709)
 2.124.1520   Members transferred to the county prior to July 1, 1970-
-Applicability of Sections
-2.124.1530 to
-2.124.1580.
+Applicability of Sections 2.124.1530 to 2.124.1580.
    This section and Sections
 2.124.1530 to and including
 2.124.1580 of this chapter shall be applicable only to those transferred
@@ -15597,8 +15586,7 @@ determines that the claimant is entitled to the refund; or
    B.   Within one year of the date of the overpayment, the director, in their
 sole discretion, determines that the payer is entitled to a refund. (Ord. 2018-
 0048 § 2; Ord. 2010-036 § 4; prior code § 41.09.143)
-3.16.180   Credit for tax paid pursuant to Section
-3.12.020.
+3.16.180   Credit for tax paid pursuant to Section 3.12.020.
    A credit against the tax imposed pursuant to Section
 3.16.020 of this chapter shall be allowed for any tax paid pursuant to Section
 3.12.020 of this title. (Prior code § 41.09.144)
@@ -19641,8 +19629,8 @@ Sections:
 3.74.200   Joint powers agreement.
 3.74.210   Amendment of franchise ordinance.
 3.74.220   Issuance of franchise without bids.
-Article I
-General Provisions
+*** Article I
+General Provisions ***
 3.74.010   Generally.
    No person, firm or corporation shall exercise any franchise mentioned in
 this chapter in the city except insofar as such person, firm, or corporation
@@ -21621,8 +21609,8 @@ Sections:
 3.116.280   Full authority.
 3.116.290   Additional authority.
 3.116.300   Chapter controlling.
-Article I
-General Provisions and Definitions
+*** Article I
+General Provisions and Definitions ***
 3.116.010   Title.
    This chapter may be cited as the city of Sacramento nonprofit public benefit
 corporation facilities financing law. (Prior code § 80.01.001)
@@ -22673,7 +22661,7 @@ Sections:
 3.124.270   Contest of validity.
 3.124.280   Work of maintenance.
 3.124.290   Consolidation of procedures.
-Article I General
+*** Article I General ***
 3.124.010   Authority for enactment.
    This chapter is enacted by the city council pursuant to its powers as a
 chartered city under Article XI of the California Constitution. (Ord. 98-017 §
@@ -28245,8 +28233,7 @@ of adult-entertainment business.
 business to permit to enter, or remain within, the adult-entertainment
 business, any person who is under the age of eighteen (18) years. (Ord. 2001-
 040 § 2)
-5.06.300   Violation of Section
-5.06.270 not a crime.
+5.06.300   Violation of Section 5.06.270 not a crime.
    Notwithstanding the provisions of Title I of this code, no criminal penalty
 shall be imposed on any person or entity for violating the provisions of
 Section
@@ -54052,8 +54039,8 @@ holidays are the holidays specified in Government_Code Sections 6700 and 6701,
 as those sections may be amended from time to time. (Ord. 2023-0007 § 4; Prior
 code § 66.02.211)
 8.68.170   Deviation from the sound limits, time limits and place of sound
-measurement requirements of Section
-8.68.160-Planning and design commission approval.
+measurement requirements of Section 8.68.160-Planning and design commission
+approval.
    In addition to the special condition permits authorized by section
 8.68.250 and the variances authorized by section
 8.68.260 of this chapter, the operator of any outdoor activity may seek
@@ -57318,9 +57305,7 @@ used for such buildings shall have not more than seventy-five (75) percent of
 the lot occupied space. Where housing units are on a floor above the first
 floor, roof area at or below the floor level of the housing units need not be
 considered as occupied space. (Prior code § 49.05.502)
-8.100.260   Scope of Sections
-8.100.270 to
-8.100.290.
+8.100.260   Scope of Sections 8.100.270 to 8.100.290.
    Sections
 8.100.270 to
 8.100.290 of this chapter, inclusive, shall apply to yards and courts having
@@ -58936,8 +58921,8 @@ Sections:
 8.108.050   Responsibility of owner.
 8.108.060   Enforcement.
 8.108.070   Violation-Penalty.
-Article I
-In General
+*** Article I
+In General ***
 8.108.010   Toilet facilities for construction workers.
    Every person engaged in doing construction or remodeling work of any kind
 within the city, who employs people to do his or her work for him or her, and
@@ -58961,8 +58946,8 @@ favor of the city, with two good and sufficient sureties, that they will
 faithfully observe the provisions of the preceding section. Such bond shall be
 approved by the health department and filed with the secretary of the health
 department. (Prior code § 21.01.003)
-Article II
-Property Maintenance
+*** Article II
+Property Maintenance ***
 8.108.040   Responsibility of occupant.
    An occupant of a dwelling unit shall not willfully:
    A.   Allow that part of the dwelling unit which he or she occupies and
@@ -67408,8 +67393,7 @@ audibility;
 police or fire departments are conducting emergency operations nor shall any
 broadcast be made which interferes with, or hinders, the operations of such
 departments. (Prior code § 25.01.025)
-10.60.070   Unlawful to broadcast in violation of Section
-10.60.060.
+10.60.070   Unlawful to broadcast in violation of Section 10.60.060.
    It is unlawful and a public nuisance for any person, including, but not
 limited to, the licensee, to broadcast any sound from a broadcasting vehicle in
 violation of the regulations set forth in Section
@@ -74649,19 +74633,14 @@ helicopter operation in the minimum amount of three hundred fifty thousand
 dollars ($350,000.00) single limit bodily injury liability and property damage.
    The airport manager will evaluate all such requests for exceptions to insure
 that safety provisions are met. (Prior code § 4.01.007)
-12.84.080   Exceptions to Sections
-12.84.030,
-12.84.040 and
-12.84.070.
+12.84.080   Exceptions to Sections 12.84.030, 12.84.040 and 12.84.070.
    The city council upon application, may allow flights of aircraft in
 exception to the provisions of Sections
 12.84.030,
 12.84.040 and
 12.84.070 of this chapter subject to such terms and conditions as it may
 prescribe. (Prior code § 4.01.007-1)
-12.84.090   Evidence of violation of Sections
-12.84.030 to
-12.84.070.
+12.84.090   Evidence of violation of Sections 12.84.030 to 12.84.070.
    If the operator of any aircraft is declared to be in violation of Sections
 12.84.030 to
 12.84.070 of this chapter by the airport manager or his or her designated
@@ -97165,8 +97144,8 @@ Administration of General Plan and Planning and Development Code
 17.908   Transit Village Plans
 17.912   General Plan Consistency Reviews
 17.916   Planning and Development Code Amendments
-Division I
-GENERAL PROVISIONS
+***** Division I
+GENERAL PROVISIONS *****
 Chapter 17.100
 TITLE, PURPOSE, AND AUTHORITY
 Sections:
@@ -99256,8 +99235,8 @@ the real property is contrary to the public health or the public safety.
 violation of the Subdivision Map Act or this title, the director of public
 works shall file the notices required by California Government_Code section
 66499.36 and follow the procedures in that section. (Ord. 2017-0009 § 9)
-Division II
-ZONING DISTRICTS AND LAND USE REGULATIONS
+***** Division II
+ZONING DISTRICTS AND LAND USE REGULATIONS *****
 Chapter 17.200
 AGRICULTURE AND OPEN SPACE
 Sections:
@@ -114016,8 +113995,8 @@ as derived from the proposed nonconforming use outweigh the public benefits
 that would result from the action that would be required for the use to be
 brought into, or remain in, conformance. (Ord. 2013-0020 § 1; Ord. 2013-0007 §
 1)
-Division III
-OVERLAY ZONES
+***** Division III
+OVERLAY ZONES *****
 Chapter 17.300
 OVERLAY ZONES GENERALLY
 Section:
@@ -115319,8 +115298,8 @@ acre. The maximum density is established in the General Plan.
 Nonresidential uses may occupy a maximum of 50% of the gross square footage of
 each new building in the RMX-TO zone. (Ord. 2024-0017 § 52; Ord. 2021-0024 §
 29; Ord. 2017-0061 § 70; Ord. 2013-0020 § 1; Ord. 2013-0007 § 1)
-Division IV
-SPECIAL PLANNING DISTRICTS AND PLANNED UNIT DEVELOPMENTS
+***** Division IV
+SPECIAL PLANNING DISTRICTS AND PLANNED UNIT DEVELOPMENTS *****
 Chapter 17.400
 SPECIAL PLANNING DISTRICTS GENERALLY
 Sections:
@@ -118009,8 +117988,8 @@ requirements in section
 design commission, or by request by the owner of any parcel of property within
 the planned unit development. (Ord. 2019-0006 § 9; Ord. 2013-0020 § 1; Ord.
 2013-0007 § 1)
-Division V
-INFRASTRUCTURE DESIGN AND IMPROVEMENT STANDARDS
+***** Division V
+INFRASTRUCTURE DESIGN AND IMPROVEMENT STANDARDS *****
 Chapter 17.500
 DESIGN STANDARDS FOR SUBDIVISIONS
 Sections:
@@ -118415,8 +118394,7 @@ dedications for future street construction shall be made.
    D.   No building or structure shall be erected on any such lot after the
 effective date within the area of dedication required by this chapter. (Ord.
 2017-0009 § 11)
-17.502.040   Exceptions to provisions of section
-17.502.020.
+17.502.040   Exceptions to provisions of section 17.502.020.
 The provisions of section
 17.502.020 do not apply to the following:
    A.   The creation of an off-street parking area in connection with the
@@ -119605,9 +119583,9 @@ construction of the bridge or improvement of a major thoroughfare, and
 reimburse the subdivider or land developer for the cost of constructing the
 facility from the fees collected from the benefitting district. (Ord. 2017-0009
 § 15)
-Division VI
+***** Division VI
 ARCHITECTURAL DESIGN AND SITE DEVELOPMENT STANDARDS, DESIGN REVIEW DISTRICTS,
-HISTORIC PRESERVATION, AND REGISTERED HOUSE PLANS
+HISTORIC PRESERVATION, AND REGISTERED HOUSE PLANS *****
 Chapter 17.600
 ARCHITECTURAL DESIGN AND SITE DEVELOPMENT STANDARDS, DESIGN REVIEW DISTRICTS,
 AND REGISTERED HOUSE PLANS
@@ -122521,8 +122499,8 @@ and complies with all noise standards and ordinances. Mechanical equipment is
 not counted in lot coverage computations.
 (Ord. 2024-0051 § 29; Ord. 2019-0006 § 17; Ord. 2013-0020 § 1; Ord. 2013-0007 §
 1)
-Division VII
-CITY-WIDE PROGRAMS
+***** Division VII
+CITY-WIDE PROGRAMS *****
 Chapter 17.700
 TRANSPORTATION SYSTEMS MANAGEMENT PROGRAM
 Sections:
@@ -125002,8 +124980,8 @@ amended to authorize contracts after that date. Any contract entered into
 pursuant to the Urban Agriculture Incentive Zones Act and this chapter on or
 before January 1, 2019, will be valid and enforceable for the duration of the
 contract. (Ord. 2024-0017 § 66; Ord. 2015-0024 § 1)
-Division VIII
-ADMINISTRATIVE MATTERS
+***** Division VIII
+ADMINISTRATIVE MATTERS *****
 Chapter 17.800
 APPLICATIONS AND FEES
 Sections:
@@ -128480,8 +128458,8 @@ Pursuant to California Government_Code sections 66499.7 and 66499.9, the
 release of improvement security as set forth above shall not apply to any
 costs, reasonable expenses or fees, including reasonable attorneys' fees. (Ord.
 2017-0009 § 29)
-Chapter 17.856
-REVERSION TO ACREAGE
+**** Chapter 17.856
+REVERSION TO ACREAGE ****
 Sections:
 17.856.010   General.
 17.856.020   Initiation of reversion proceedings.
@@ -129308,8 +129286,8 @@ following timeframes:
 more than 50 units.
    B.   If the city fails to act within these timeframes, the application will
 be deemed approved. (Ord. 2026-0001 § 37; Ord. 2024-0054 § 39 (part))
-Division IX
-ADMINISTRATION OF GENERAL PLAN AND PLANNING AND DEVELOPMENT CODE
+***** Division IX
+ADMINISTRATION OF GENERAL PLAN AND PLANNING AND DEVELOPMENT CODE *****
 Chapter 17.900
 GENERAL PLAN ADOPTION AND AMENDMENT
 Sections:
@@ -134817,13 +134795,13 @@ appeal the city manager's decision as set forth in section
 provision of this chapter, the provision of this article governs. (Ord. 2022-
 0016 § 1)
 TABLES
-STATUTORY REFERENCES FOR CALIFORNIA CITIES
+**** STATUTORY REFERENCES FOR CALIFORNIA CITIES ****
 These references direct the code user to those portions of the state statutes
 relevant to California cities. This reference list is current through August
 2022.
 *   Applicable solely lo chartered cities.
 **   May not be applicable lo chartered cities.
-General Provisions
+** General Provisions **
 Administrative fines and penalties
 Gov't Code § 53069.4
 Alternative forms of government
@@ -134863,7 +134841,7 @@ Police power
 Cal. Const. Art. XI § 7
 Procedures for enacting, amending, or repealing city charters
 Gov't Code§ 34450 et seq.*
-Administration and Personnel
+** Administration and Personnel **
 Chief of police
 Gov't Code §§ -41601--41612**
 City assessor
@@ -134904,7 +134882,7 @@ Personnel system
 Gov't Code § -45000 et seq.
 Retirement systems
 Gov't Code §§ -45300-45345 & 53060.1
-Revenue and Finance
+** Revenue and Finance **
 Bradley-Burns Bill of Rights
 Rev. & Tax. Code §§ 7221-7226
 Bradley-Burns Uniform Local Sales and Use Tax Law
@@ -134946,7 +134924,7 @@ Unclaimed property
 Civil Code §§ 2081-2081.6
 Uniform Public Construction Cost Accounting Act (Bidding on public contracts)
 Pub. Cont. Code §§ 22000-22045
-Business Licenses, Taxes and Regulations
+** Business Licenses, Taxes and Regulations **
 Alcoholic beverages-Local authority
 Bus. & Prof Code §§ 23790-23791
 Automatic checkout system regulation
@@ -134973,7 +134951,7 @@ Bus. & Prof Code §§ 7512-7573.5
 Taxicabs. vehicles for hire, and ridesharing
 Vehicle Code §§ 16500 et seq., 21100(b), & 21112
 Gov't Code §§ 53075-53075.5
-Animals
+** Animals **
 Animals generally
 Food & Agric. Code §§ 16301-19700
 Cruelty to animals
@@ -134985,7 +134963,7 @@ Food & Agric. Code § 30501 et seq.
 Gov't Code § 38792
 Rabies control
 Health & Safety Code §§ 121575-121710
-Health and Safety
+** Health and Safety **
 Delinquent garbage fees
 Gov't Code § 38790.1 (see also Gov't Code § 25831)
 Fires and fire protection
@@ -135016,7 +134994,7 @@ Medical cannabis ordinances
 Health & Safety Code § 11362.83
 Single user restrooms
 Health & Safety Code § 118600
-Public Peace, Morals and Welfare
+** Public Peace, Morals and Welfare **
 Crimes against property
 Penal Code §§ 450-593g
 Crimes against public health and safety
@@ -135036,7 +135014,7 @@ Penal Code § 858(b)
 Welf. and Inst. Code §§ 100--1459
 Weapons
 Penal Code §§ 12001 et seq, 17500--19405, & § 19910 et seq.
-Vehicles and Traffic
+** Vehicles and Traffic **
 Bicycle ordinances
 Vehicle Code §§ 21100-21118, 21200-21213 & 39000-3901
 Curb markings
@@ -135065,7 +135043,7 @@ Violations
 Vehicle Code §§ 40000.1--40008
 Vehicle weight limit ordinances
 Vehicle Code §§ 35700--35722
-Streets, Sidewalks and Public Places
+** Streets, Sidewalks and Public Places **
 Advertising displays
 Bus. & Prof Code §§ 5230--5231 & 5440 et seq.
 Constructions of sidewalks and curbs
@@ -135083,7 +135061,7 @@ Str. & Hwys. Code §§ 22000--22202
 Underground utility lines
 Gov't Code § 38793
 Str. & Hwys. Code §§ 5896.1--5896.17
-Public Services
+** Public Services **
 Connection fees (sewer and water)
 Gov't Code § 66013
 Municipal sewers
@@ -135095,7 +135073,7 @@ Water wells
 Water Code §§ 13700--13806
 Inventory of known lead user service line
 Health & Safety Code § 116885
-Buildings and Construction
+** Buildings and Construction **
 Adoption of construction codes
 Health & Safety Code §§ 17922, 17958, & 17958.5
 Authority to regulate buildings and construction
@@ -135109,10 +135087,10 @@ Gov't Code §§ 38774 and 65850(b)
 Bus. & Prof Code § 5200 et seq.
 State Housing Law
 Health & Safety Code §§ 17910--17998.3
-Subdivisions
+** Subdivisions **
 Subdivision Map Act
 Gov't Code §§ 66410--66499.40
-Zoning
+** Zoning **
 Family day care homes
 Health & Safety Code §§ 1597.30--1597.622
 Local authority to regulate land use
@@ -135125,7 +135103,7 @@ Open-space zoning
 Gov't Code §§ 65910--65912
 Zoning fees and charges
 Gov't Code § 66014
-Environmental Protection
+** Environmental Protection **
 The California Environmental Quality Act
 Pub. Res. Code §§ 21000--21189.70.10
 The California Noise Control Act of 1973
@@ -135138,8 +135116,8 @@ Wildfire mitigation (public electric utilities)
 Pub. Util. Code § 8387
 *   Applicable solely to chartered cities.
 **   May not be applicable to chartered cities.
-SPECIAL CODE ENFORCEMENT VERSION
-PRIOR CODE CROSS-REFERENCE TABLE
+**** SPECIAL CODE ENFORCEMENT VERSION
+PRIOR CODE CROSS-REFERENCE TABLE ****
    This table provides users with the current disposition of certain sections
 in the Sacramento City Code of interest to code enforcement personnel. (For the
 current disposition of all code sections, and their ordinance history, see the
@@ -136594,7 +136572,7 @@ ZONING ORDINANCE       
 7-10-G                Not codified
                       
  
-PRIOR CODE CROSS-REFERENCE TABLE
+**** PRIOR CODE CROSS-REFERENCE TABLE ****
    This table provides users with the current disposition of the sections of
 the Sacramento City Code and Zoning Ordinance.
    Thus, prior code Section
@@ -144242,7 +144220,7 @@ ZONING ORDINANCE
 7-10-G            Not codified
  
  
-ORDINANCE LIST AND DISPOSITION TABLE
+**** ORDINANCE LIST AND DISPOSITION TABLE ****
  
 Ord.  Disposition
 No.
