@@ -49,7 +49,7 @@ Edward Hren                City Engineer
 James Decker               Chief Building Official
  
 PRELIMINARY UNIT
-COMPARATIVE SECTION TABLE
+***** COMPARATIVE SECTION TABLE *****
    EDITOR'S NOTE; Source material for the 1989 Codified Ordinances of Maple
 Heights comprised ordinances and resolutions enacted by Council or new matter
 ordained by the Adopting Ordinance. Sections and subsections of the 1989
@@ -2914,7 +2914,7 @@ Adopting Ordinance                        416.11, 624.02
 Repeals
                                           
  
-TABLES OF SPECIAL ORDINANCES
+***** TABLES OF SPECIAL ORDINANCES *****
 EDITOR'S NOTE: The Codified Ordinances of Maple Heights comprises all
 ordinances and resolutions of a general and permanent nature. The provisions of
 such general and permanent ordinances and resolutions are set forth in full in
@@ -7258,7 +7258,7 @@ TITLE EIGHT - Boards, Commissions and Committees
 TITLE TEN - Judiciary
          Chap.
 298.   Mayor's Court.
-TITLE TWO - General Provisions
+***** TITLE TWO - General Provisions *****
          Chap.
 202.   Codified Ordinances.
          Chap.
@@ -7909,7 +7909,7 @@ jurisdiction, then Sections
 212.03 of this chapter shall not apply to any public improvement project which
 includes State funds appropriated for the purposes of that public improvement.
 (Ord. 2003-016. Passed 4-2-03.)
-TITLE FOUR - Legislation
+***** TITLE FOUR - Legislation *****
          Chap.
 220.   Council.
          Chap.
@@ -8493,7 +8493,7 @@ been posted according to law.
 resolutions, shall designate the original sponsor of the legislation and
 include any additional sponsors on a separate line as co-sponsors.
 (Ord. 2000-055. Passed 5-3-00.)
-TITLE SIX - Administration
+***** TITLE SIX - Administration *****
          Chap.
 230.   Mayor.
          Chap.
@@ -10181,7 +10181,7 @@ administer pre-employment testing for new or rehired employees, return to work
 employees, reasonable suspicion of any employee, and post accident incidents
 for any part-time or full-time employee.
 (Ord. 2005-158. Passed 11-16-05; Ord. 2008-31. Passed 3-19-08.)
-TITLE EIGHT - Boards, Commissions and Committees
+***** TITLE EIGHT - Boards, Commissions and Committees *****
          Chap.
 270.   Planning and Zoning Commission.
          Chap.
@@ -10554,7 +10554,7 @@ recreation.
    The Recreation Advisory Board shall elect its own Chairperson and shall
 establish bylaws for the conduct of its business.
 (Ord. 1989-28. Passed 5-2-90.)
-TITLE TEN - Judiciary
+***** TITLE TEN - Judiciary *****
          Chap.
 298.   Mayor's Court.
 CHAPTER 298
@@ -10700,7 +10700,7 @@ TITLE TEN - Bicycles, Motorcycles and Snowmobiles
 474.   Bicycles and Motorcycles Generally.
          Chap.
 476.   Snowmobiles, Off-Highway Motorcycles and All-Purpose Vehicles.
-TITLE TWO - Administration, Enforcement and Penalties
+***** TITLE TWO - Administration, Enforcement and Penalties *****
          Chap.
 402.   Definitions.
          Chap.
@@ -10807,7 +10807,7 @@ engine.
 402.93   Vehicle.
 402.94   Waste collection vehicle.
 402.95   Wildlife officer.
-CROSS REFERENCES
+*** CROSS REFERENCES ***
    See section histories for similar State law
    Blind person defined - see TRAF.
 416.02
@@ -11484,7 +11484,7 @@ any device that is moved by human power.
    “Waste collection vehicle.” A vehicle used in the collection of garbage,
 refuse, trash, or recyclable materials.
 (R.C. § 4511.01(RRR))
-402.95 WILDLIFE OFFICER.
+** 402.95 WILDLIFE OFFICER. **
    “Wildlife officer.” An officer designated pursuant to R.C. § 1531.13.
 (R.C. § 4511.01(YYY))
 CHAPTER 404
@@ -11987,7 +11987,7 @@ of suspension that is permitted or required to be imposed for the violation of
 the provision of the Revised Code to which the provision of this Traffic Code
 is substantially equivalent.
 (ORC 4510.05)
-TITLE FOUR - Public Ways and Traffic Control Devices
+***** TITLE FOUR - Public Ways and Traffic Control Devices *****
          Chap.
 412.   Obstruction and Special Uses of Public Ways.
          Chap.
@@ -13479,7 +13479,7 @@ rental service or low-speed micromobility device sharing program to maintain
 commercial general liability insurance related to the operation of the devices,
 with limits of up to $1,000,000 per occurrence and $2,000,000 per aggregate.
 (R.C. § 4511.514)
-TITLE SIX - Operation and Vehicles
+***** TITLE SIX - Operation and Vehicles *****
          Chap.
 432.   Operation Generally.
          Chap.
@@ -20258,7 +20258,7 @@ misdemeanor of the first degree and shall be subject to the penalty provided in
 Section
 408.01.
 (Ord. 1978-141. Passed 12-6-78.)
-TITLE EIGHT - Parking
+***** TITLE EIGHT - Parking *****
          Chap.
 452.   Parking Generally.
 CHAPTER 452
@@ -21256,7 +21256,7 @@ and regulations of the Police Department and shall be in a form approved by the
 Director of Law.
 (Ord. 2003-060. Passed 8-13-03; Ord. 2015-04, passed 1-21-15; Ord. 2022-36.
 Passed 4-20-22.)
-TITLE TEN - Bicycles, Motorcycles and Snowmobiles
+***** TITLE TEN - Bicycles, Motorcycles and Snowmobiles *****
          Chap.
 474.   Bicycles and Motorcycles Generally.
          Chap.
@@ -24031,21 +24031,18 @@ facilities or other specified governmental facilities.
 612.16   Sales of low-alcohol beverages to underage persons; prohibitions and
 misrepresentations.
 612.17   Alcohol vaporizing devices prohibited.
-   CROSS REFERENCES
-   See section histories for similar State law
-   Liquor Control Law - see Ohio R.C. Ch. 4301
-   Suspension of beer and liquor sales by Ohio Director of Liquor Control
-during emergency - see Ohio R.C. 4301.251
-   Liquor permits - see Ohio R.C. Ch. 4303
-   Local option - see R.C. § 4303.32 et seq.
-   Driving or physical control while intoxicated - see TRAF.
-434.01
-   Definitions generally - see GEN. OFF.
-606.01
-   Disorderly conduct while voluntarily intoxicated - see GEN. OFF.
-648.04
-   Using weapons while intoxicated - see GEN. OFF.
-672.03
+**    CROSS REFERENCES **
+**    See section histories for similar State law **
+**    Liquor Control Law - see Ohio R.C. Ch. 4301 **
+**    Suspension of beer and liquor sales by Ohio Director of Liquor Control
+during emergency - see Ohio R.C. 4301.251 **
+**    Liquor permits - see Ohio R.C. Ch. 4303 **
+**    Local option - see R.C. § 4303.32 et seq. **
+**    Driving or physical control while intoxicated - see TRAF. 434.01 **
+**    Definitions generally - see GEN. OFF. 606.01 **
+**    Disorderly conduct while voluntarily intoxicated - see GEN. OFF. 648.04
+**
+**    Using weapons while intoxicated - see GEN. OFF. 672.03 **
 612.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -25030,18 +25027,15 @@ tags; hindering capture of unregistered dogs.
 618.14   Animals in business establishments.
 618.15   Hunting.
 618.16   Maximum number of dogs and cats permitted.
-   CROSS REFERENCES
-   See section histories for similar State law
-   Power to restrain and impound animals - see Ohio R.C. 715.23
-   Driving animals upon roadway - see TRAF.
-404.05,
-412.05
-   Definitions generally - see GEN. OFF.
-606.01
-   Assaulting police dog or horse or assistance dog - see GEN. OFF.
-642.08
-   Offensive odors from places where animals are kept or fed - see GEN. OFF.
-660.04
+**    CROSS REFERENCES **
+**    See section histories for similar State law **
+**    Power to restrain and impound animals - see Ohio R.C. 715.23 **
+**    Driving animals upon roadway - see TRAF. 404.05, 412.05 **
+**    Definitions generally - see GEN. OFF. 606.01 **
+**    Assaulting police dog or horse or assistance dog - see GEN. OFF. 642.08
+**
+**    Offensive odors from places where animals are kept or fed - see GEN. OFF.
+660.04 **
 618.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply,
 unless the context shall indicate another or different meaning or intent:
@@ -40669,7 +40663,7 @@ TITLE FOUR - Taxation
 896.   Motor Vehicle License Tax.
          Chap.
 898.   Community Reinvestment Areas.
-TITLE TWO - Business Regulation
+***** TITLE TWO - Business Regulation *****
          Chap.
 802.   Businesses in General.
          Chap.
@@ -48406,7 +48400,7 @@ more than five hundred dollars ($500.00) or imprisoned not more than sixty
 days, or both, for each offense. A separate offense shall be deemed committed
 each day during or on which a violation or noncompliance occurs or Continues.
 (Ord. 1986-116. Passed 1-7-87.)
-TITLE FOUR - Taxation
+***** TITLE FOUR - Taxation *****
          Chap.
 890.   Earned Income Tax.
          Chap.
@@ -53274,7 +53268,7 @@ TITLE SIX - Other Public Services
 1070.   Ambulance Emergency Squad Service.
          Chap.
 1072.   Senior Citizens Program.
-TITLE TWO - Street and Sidewalk Areas
+***** TITLE TWO - Street and Sidewalk Areas *****
          Chap.
 1020.   Street Paving.
          Chap.
@@ -54164,7 +54158,7 @@ more than one thousand dollars ($1,000), or imprisoned not more than six
 months, or both, for each offense. A separate offense shall be deemed committed
 each day during or on which a violation or noncompliance occurs or continues.
 (Ord. 1964-150. Passed 6-16-65.)
-TITLE FOUR - Utilities
+***** TITLE FOUR - Utilities *****
          Chap.
 1030.   Use of Public Ways for Small Cell Wireless Facilities and Wireless
 Support Structures.
@@ -55406,9 +55400,9 @@ each day during or on which a violation or noncompliance occurs or continues.
 (Ord. 1968-270. Passed 11-6-68.)
 CHAPTER 1044
 Water
-1044.01   Specifications for water lines and appurtenances.
- 
-1044.99   Penalty.
+** 1044.01   Specifications for water lines and appurtenances. **
+**   **
+** 1044.99   Penalty. **
    CROSS REFERENCES
    Power to provide and regulate water system - see Ohio R.C. 715.08, 717.01,
 743.01
@@ -55506,7 +55500,7 @@ B.R. & T.
    Utility right-of-way permits - see B. & H. Ch.
 1481
    Electrical facilities in dwellings - see B. & H. 1496.13
-TITLE SIX - Other Public Services
+***** TITLE SIX - Other Public Services *****
          Chap.
 1060.   Garbage and Rubbish Collection and Disposal.
          Chap.
@@ -56249,7 +56243,7 @@ TITLE SIX - Zoning Code
 1298.   Supplementary Regulations.
          Chap.
 1299.   Violations, Fees and Penalties.
-TITLE TWO - Planning
+***** TITLE TWO - Planning *****
          Chap.
 1220.   Planning Commission. (Repealed)
          Chap.
@@ -58417,7 +58411,7 @@ all properties acquired under the land reutilization program, establish and
 maintain records and accounts reflecting all transactions, expenditures and
 revenues relating to the land reutilization program.
 (Ord. 2022-17. Passed 2-16-22.)
-TITLE FOUR - Subdivision Regulations
+***** TITLE FOUR - Subdivision Regulations *****
          Chap.
 1240.   General Provisions.
          Chap.
@@ -58816,7 +58810,7 @@ RECORDING.
 improvements. Improvements may not be commenced by any person until the
 approved plat, easement or deed has been filed with the County Recorder.
 (Ord. 1964-150. Passed 6-16-65.)
-TITLE SIX - Zoning Code
+***** TITLE SIX - Zoning Code *****
          Chap.
 1260.   General Provisions.
          Chap.
@@ -66279,10 +66273,10 @@ three (3) feet.
 (Ord. 2000-128. Passed 12-6-00; Ord. 2010-09. Passed 2-3-10.)
 CHAPTER 1299
 Violations, Fees and Penalties
-1299.01   Violations.
-1299.02   Notice of violation.
-1299.03   Remedies.
-1299.04   Fees.
+** 1299.01   Violations. **
+** 1299.02   Notice of violation. **
+** 1299.03   Remedies. **
+** 1299.04   Fees. **
    CROSS REFERENCES
    Division of Municipal corporation into zones - see Ohio R.C. 713.06
    Restrictions on location, bulk and height of buildings and structures - see
@@ -66486,7 +66480,7 @@ TITLE EIGHT - Property Maintenance Code
 1494.    Certificates of Occupancy.
          Chap.
 1496.   Basic Standards for Occupancy. (Repealed)
-TITLE TWO - Building Standards
+***** TITLE TWO - Building Standards *****
          Chap.
 1420.   Regional Building Code. (Repealed)
          Chap.
@@ -66687,7 +66681,7 @@ provided.)
 necessary to prevent or remedy any violation, including the enforced removal of
 prohibited conditions.
 (Ord. 2002-028. Passed 5-15-02.)
-TITLE FOUR - Building and Housing Administration
+***** TITLE FOUR - Building and Housing Administration *****
          Chap.
 1440.   General Provisions; Administration, Enforcement and Penalty.
          Chap.
@@ -66702,35 +66696,36 @@ CHAPTER 1440
 General Provisions; Administration, Enforcement and Penalty
    EDITOR'S NOTE: Chapter 1440, previously titled "Appeals and Penalty," was
 re-enacted in its entirety by Ordinance 1995-75, passed September 20, 1995.
-1440.01   Purpose.
-1440.02   Scope.
-1440.03   Definitions.
-1440.04   Workmanship.
-1440.05   Authority of Building Commissioner.
-1440.06   Conflicts of interest; qualifications of Building Commissioner.
-1440.07   Alternative materials and methods.
-1440.08   Existing installations.
-1440.09   Prefabricated construction.
-1440.10   Permit required.
-1440.11   Permit fees.
-1440.12   Permit expiration.
-1440.13   Scope of permit.
-1440.14   Filing of construction and plot plans; quality of materials; waiver.
-1440.15   Plans on job required.
-1440.16   Right of entry; credentials.
-1440.17   Inspection records.
+** 1440.01   Purpose. **
+** 1440.02   Scope. **
+** 1440.03   Definitions. **
+** 1440.04   Workmanship. **
+** 1440.05   Authority of Building Commissioner. **
+** 1440.06   Conflicts of interest; qualifications of Building Commissioner. **
+** 1440.07   Alternative materials and methods. **
+** 1440.08   Existing installations. **
+** 1440.09   Prefabricated construction. **
+** 1440.10   Permit required. **
+** 1440.11   Permit fees. **
+** 1440.12   Permit expiration. **
+** 1440.13   Scope of permit. **
+** 1440.14   Filing of construction and plot plans; quality of materials;
+waiver. **
+** 1440.15   Plans on job required. **
+** 1440.16   Right of entry; credentials. **
+** 1440.17   Inspection records. **
 1440.18   Inspections during construction.
 1440.19   Mandatory inspections.
-1440.20   Inspection reports.
-1440.21   Nonliability of Building Department.
-1440.22   Nonliability of City.
+** 1440.20   Inspection reports. **
+** 1440.21   Nonliability of Building Department. **
+** 1440.22   Nonliability of City. **
 1440.23   Stop work orders.
 1440.24   Building and Housing Code Appeals.
 1440.25   Certificates of use and occupancy.
-1440.26   Conflicts of laws.
-1440.27   Unsafe structures; declaration of emergency.
-1440.28   Expenses and costs incurred by City in correcting violations or in
-demolitions; collection.
+** 1440.26   Conflicts of laws. **
+** 1440.27   Unsafe structures; declaration of emergency. **
+** 1440.28   Expenses and costs incurred by City in correcting violations or in
+demolitions; collection. **
 1440.29   Certain applications to be submitted to Council by Building
 Department.
  
@@ -68222,7 +68217,7 @@ payment of all Municipal income and personal property taxes which are due the
 City or other collection agencies as a result of the work performed in the
 City.
 (Ord. 1988-179. Passed 3-15-89.)
-TITLE SIX - Miscellaneous Building Regulations
+***** TITLE SIX - Miscellaneous Building Regulations *****
          Chap.
 1458.   Alarm Systems.
          Chap.
@@ -71673,7 +71668,7 @@ have adopted this Chapter and each provision thereof irrespective of whether
 any one or more provisions are found invalid, unconstitutional or otherwise
 unenforceable.
 (Ord. 2021-25. Passed 8-4-21.)
-TITLE EIGHT - Property Maintenance Code
+***** TITLE EIGHT - Property Maintenance Code *****
          Chap.
 1490.   International Property Maintenance Code.
          Chap.
@@ -72448,7 +72443,7 @@ TITLE FOUR - Local Provisions
 1662.    Smoke Detectors.
          Chap.
 1664.   Carbon Monoxide Detectors.
-TITLE TWO - Standards
+***** TITLE TWO - Standards *****
          Chap.
 1620.   Ohio Fire Code.
          Chap.
@@ -72618,7 +72613,7 @@ CHAPTER 1622
 NFPA 101 Life Safety Code (Repealed)
 EDITOR'S NOTE: Chapter 1622 was repealed by Ordinance 2009-24, passed March 18,
 2009.
-TITLE FOUR - Local Provisions
+***** TITLE FOUR - Local Provisions *****
          Chap.
 1644.   Elevators.
          Chap.

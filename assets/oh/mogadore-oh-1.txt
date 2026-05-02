@@ -204,13 +204,13 @@ INITIATIVE, REFERENDUM AND RECALL
 19.02   Referendum
    
 19.03   Recall
-PREAMBLE
+**** PREAMBLE ****
    We, the people of the Municipality of Mogadore, Ohio, in order to secure for
 ourselves the benefits of Municipal Home Rule and to exercise all the powers of
 local self-government under the constitution and laws of the State of Ohio, do
 hereby adopt this Charter for our Municipality.
-ARTICLE I
-NAME AND BOUNDARIES
+**** ARTICLE I
+NAME AND BOUNDARIES ****
 SECTION 1.01 NAME AND BOUNDARIES.
    The present Municipality, known as the Village of Mogadore, Ohio, shall
 continue to be a body politic and corporate, under the name of the Village of
@@ -218,8 +218,8 @@ Mogadore, or the City of Mogadore, as the Constitution of Ohio requires, and
 with the same boundaries, with powers and authority to change its boundaries
 and annex other territory contiguous thereto in the manner authorized by the
 General Laws of Ohio.
-ARTICLE II
-FORM OF GOVERNMENT AND POWERS
+**** ARTICLE II
+FORM OF GOVERNMENT AND POWERS ****
 SECTION 2.01 FORM OF GOVERNMENT.
    The form of government established by this Charter shall be known as "Mayor-
 Council." This shall consist of the Council and Mayor elected by the voters of
@@ -241,8 +241,8 @@ SECTION 2.03 GENDER NEUTRAL STATEMENT.
    Whenever the male gender is used in this Charter, it shall include the
 female gender.
 (Amendment passed by electorate 7-5-00)
-ARTICLE III
-THE COUNCIL
+**** ARTICLE III
+THE COUNCIL ****
 SECTION 3.01 COMPOSITION AND TERM.
    Council shall consist of seven (7) members, all of whom shall be elected at
 large. The members of Council shall serve for a term of four (4) years
@@ -533,8 +533,8 @@ existing sections that refer to such offices, officers, or agencies by deleting
 therefrom, as the case may be, the name of the office created or the title of
 the officer of agency then having such powers or duties.
 (Amendment passed by electorate 11-4-14)
-ARTICLE IV
-THE MAYOR
+**** ARTICLE IV
+THE MAYOR ****
 SECTION 4.01 ELECTION AND TERM.
    The Mayor shall be elected at the regular municipal election held in the
 year 1995, and every fourth year thereafter, for four (4) years or until his
@@ -676,8 +676,8 @@ effective as of the time provided in Section
 SECTION 4.06 JUDICIAL POWERS.
    The Mayor shall have all judicial powers granted from time to time by the
 general laws of the State of Ohio to mayors of municipalities.
-ARTICLE V
-CLERK-TREASURER
+**** ARTICLE V
+CLERK-TREASURER ****
 SECTION 5.01 ELECTION AND TERM.
    The Clerk-Treasurer shall be appointed by the Mayor, with the affirmative
 vote of five (5) members of Council.
@@ -749,8 +749,8 @@ expenditures and balances of various appropriated funds.
 F.   In general, and without limitation as to particularity the Clerk-Treasurer
 shall discharge the duties and functions of the Clerk-Treasurer of a
 Municipality except as otherwise provided in this Charter.
-ARTICLE VI
-DEPARTMENT OF PUBLIC SERVICE
+**** ARTICLE VI
+DEPARTMENT OF PUBLIC SERVICE ****
 SECTION 6.01 DIRECTOR OF PUBLIC SERVICE.
    The Director of Public Service shall be the head of the Department of Public
 Service. The Mayor, in addition to his other duties, shall be, and shall
@@ -782,8 +782,8 @@ an affirmative vote of five (5) members of Council, a Municipal Engineer for a
 term not to exceed two (2) years. Such appointee shall be a registered civil
 engineer and shall perform such duties as are from time to time required of him
 by the Director of Public Service.
-ARTICLE VII
-DEPARTMENT OF PUBLIC SAFETY
+**** ARTICLE VII
+DEPARTMENT OF PUBLIC SAFETY ****
 SECTION 7.01 DIRECTOR OF PUBLIC SAFETY.
    The Director of Public Safety shall be the head of the Department of Public
 Safety. The Mayor, in addition to his other duties, shall be, and shall perform
@@ -837,8 +837,8 @@ SECTION 7.05 RULES FOR GOVERNMENT OF POLICE AND FIRE DEPARTMENTS.
 Council, after consulting with Chiefs of the Police and Fire Departments,
 written rules for the Government of the Police and Fire Departments and the
 conduct and discipline of members thereof.
-ARTICLE VIII
-DEPARTMENT OF LAW
+**** ARTICLE VIII
+DEPARTMENT OF LAW ****
 SECTION 8.01 DIRECTOR OF LAW.
    The Law Director shall be head of the Department of Law and shall be
 appointed by the Mayor, with the affirmative vote of five (5) members of
@@ -850,8 +850,8 @@ SECTION 8.03 DUTIES IN GENERAL.
    The Law Director shall be the legal advisor and attorney for the
 Municipality in all of its affairs and shall perform such duties as are
 consistent therewith and as may be required by Council or the Mayor.
-ARTICLE IX
-PLANNING AND ZONING COMMISSION
+**** ARTICLE IX
+PLANNING AND ZONING COMMISSION ****
 SECTION 9.01 COMPOSITION AND TERM.
    The Planning and Zoning Commission shall consist of five (5) members. One
 member shall be a Councilman selected by the Council to serve during his term
@@ -875,8 +875,8 @@ by the laws of Ohio unless otherwise provided by Council, as well as the powers
 and duties granted and imposed by this Charter and by ordinances not
 inconsistent herewith. The adoption of this Charter shall not change the status
 of presently zoned property in the Municipality.
-ARTICLE X
-BOARD OF ZONING APPEALS
+**** ARTICLE X
+BOARD OF ZONING APPEALS ****
 SECTION 10.01 COMPOSITION AND TERM.
    The Board of Zoning Appeals shall consists of seven (7) members who are
 electors of the Municipality. All members of this Board shall have been
@@ -901,8 +901,8 @@ application of zoning ordinance in any particular case in accordance with
 standards therefor established by the Council but such action shall be
 effective only on the affirmative vote of at least four (4) members.
 (Amendment passed by electorate 11-7-06)
-ARTICLE XI
-CEMETERY, PARK AND RECREATION BOARD
+**** ARTICLE XI
+CEMETERY, PARK AND RECREATION BOARD ****
 SECTION 11.01 CEMETERY BOARD.
 A.   Composition and Term.
    The Cemetery Board shall be composed of not less than three (3) members nor
@@ -964,8 +964,8 @@ D.   Meetings and Procedures.
 copy of its minutes, to report its activities, shall be filed with the Clerk-
 Treasurer for review by Council.
 (Amended by electorate 11-7-06)
-ARTICLE XII
-CIVIL SERVICE COMMISSION AND CIVIL SERVICE SYSTEM
+**** ARTICLE XII
+CIVIL SERVICE COMMISSION AND CIVIL SERVICE SYSTEM ****
 SECTION 12.01 ESTABLISHMENT.
    At such time as the Municipality shall become a City, the Council shall by
 ordinance provide for and establish a Civil Service Commission and Civil
@@ -998,8 +998,8 @@ SECTION 12.03 PROCEDURES.
 one copy shall be filed with the Municipality's Clerk-Treasurer. The Commission
 shall have the power to adopt such rules and regulations as are proper to carry
 out the provisions of this Article XII and the ordinances adopted thereunder.
-ARTICLE XIII
-FRANCHISES
+**** ARTICLE XIII
+FRANCHISES ****
 SECTION 13.01 FUNCTION.
    The Council may, by legislation approved by five (5) members, grant a non-
 exclusive franchise to any person, firm, or corporation to construct, operate
@@ -1020,8 +1020,8 @@ and within annexed territory shall be made subject to the continuing right of
 Council to enact and enforce reasonable regulations as may be necessary to
 protect the interest or safety of the public.
 (Amendment passed by electorate 4-20-20)
-ARTICLE XIV
-FINANCE
+**** ARTICLE XIV
+FINANCE ****
 SECTION 14.01 LIMITATION ON RATE OF TAXATION.
    The Power of Council to levy taxes shall be limited to any tax or tax rate
 imposed by said Council prior to January 1, 1971. Any additional tax or tax
@@ -1057,8 +1057,8 @@ affecting the public health, safety or welfare and specifying the nature
 thereof in its minutes.
 (Amendment passed by electorate 11-8-05; Amendment passed by electorate 11-2-
 10)
-ARTICLE XV
-NOMINATIONS AND ELECTIONS
+**** ARTICLE XV
+NOMINATIONS AND ELECTIONS ****
 SECTION 15.01 REGULAR MUNICIPAL ELECTION.
    The regular Municipal election shall be non-partisan and held on the first
 Tuesday after the first Monday in November of odd numbered years. All ballots
@@ -1082,8 +1082,8 @@ the purpose and date of which shall be set forth in the resolution.
 SECTION 15.06 GENERAL PROVISIONS.
    Except as otherwise provided in this Charter, the laws of Ohio applicable to
 elections shall govern.
-ARTICLE XVI
-GENERAL PROVISIONS
+**** ARTICLE XVI
+GENERAL PROVISIONS ****
 SECTION 16.01 TERMS OF PRESENT OFFICERS.
    The terms of all elective officers shall terminate with the adoption of this
 Charter. Those holding offices in Council and the Mayor at the tune of the
@@ -1153,15 +1153,15 @@ SECTION 16.08 ORGANIZATION OF BOARDS AND COMMISSIONS.
 their officers from the appointed members and shall determine their own rules
 of procedure, except as otherwise provided in this Charter or by ordinances
 enacted pursuant thereto.
-ARTICLE XVII
-AMENDMENTS TO CHARTER
+**** ARTICLE XVII
+AMENDMENTS TO CHARTER ****
 SECTION 17.01 SUBMISSION TO ELECTORS.
    Any provision of this Charter may be amended as provided in Article XVIII
 Section 9 of the Ohio Constitution, by submission of a proposed amendment to
 the voters of the Municipality and approval by a majority of those voting on
 the question of its adoption.
-ARTICLE XVIII
-CHARTER REVIEW COMMISSION
+**** ARTICLE XVIII
+CHARTER REVIEW COMMISSION ****
 SECTION 18.01 COMPOSITION, TERM AND DATES.
    Commencing in January of 2006 and every four (4) years thereafter an eight
 (8) member panel shall be appointed to review this Charter, to be known as the
@@ -1192,8 +1192,8 @@ alterations, revisions or amendments, unless rejected by a three-fourths (3/4)
 vote of the members of Council for each proposed amendment.
 (Amendment passed by electorate 7-5-00; Amendment passed by electorate 11-8-05;
 Amendment passed by electorate 11-4-14)
-ARTICLE XIX
-INITIATIVE, REFERENDUM AND RECALL
+**** ARTICLE XIX
+INITIATIVE, REFERENDUM AND RECALL ****
 SECTION 19.01 INITIATIVE.
    The electors of this Municipality shall have the power to propose ordinances
 and other measures by initiative petition in accordance with the provisions of
@@ -1695,7 +1695,7 @@ Cross-reference:
 38.02
 Statutory reference:
    Ordinances and resolutions, R.C. § § 731.17 through 731.27
-RULES OF COUNCIL
+**** RULES OF COUNCIL ****
 § 32.01 MEETINGS.
    Regular meetings of the Village Council shall be on the first and third
 Wednesdays of each month in the Council Chambers of the Mogadore Municipal
@@ -2198,7 +2198,7 @@ Editor's note:
    For additional provisions concerning the Fire Department, see Charter §§
 7.04 and
 7.05
-EMERGENCY MEDICAL SERVICE
+**** EMERGENCY MEDICAL SERVICE ****
 § 35.01 VILLAGE TO PROVIDE EMERGENCY MEDICAL SERVICE.
    To the extent that adequate manpower and equipment is available, the village
 shall provide emergency medical service in response to a call for such service
@@ -7575,7 +7575,7 @@ Statutory reference:
    Traffic law photo-monitoring devices, state regulations, see R.C. § 4511.092
 et seq.
    Uniform application and precedence of state traffic laws, see R.C. § 4511.06
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    Except as otherwise provided, the definitions set forth in R.C. § 4501.01
 shall apply to this title,
@@ -8325,7 +8325,7 @@ the municipal corporation.
 post a notice at the entrance to the storage facility that states the
 limitation on fees established under division (F) of this section.
 (R.C. § 4513.68)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.20 OBEYING TRAFFIC-CONTROL DEVICES.
    (A)   (1)   No pedestrian or driver of a vehicle shall disobey the
 instructions of any traffic-control device placed in accordance with the
@@ -8979,7 +8979,7 @@ as agents of Registrar of Motor Vehicles; procedures and rules, see R.C. §§
    Suspension and revocation of driver’s licenses, see R.C. Chapter 4510
    Suspension of driver’s licenses; municipal power to suspend for a period not
 to exceed time permitted or required by state law, see R.C. § 4510.05
-MOTOR VEHICLE LICENSING
+**** MOTOR VEHICLE LICENSING ****
 § 71.01 DISPLAY OF LICENSE PLATES OR VALIDATION STICKERS; REGISTRATION.
    (A)   (1)   No person who is the owner or operator of a motor vehicle shall
 fail to display in plain view on the rear of the motor vehicle a license plate
@@ -9171,7 +9171,7 @@ manufacturer or dealer.
    (B)   Whoever violates division (A) of this section is guilty of illegal
 operation of a manufacturer’s or dealer’s motor vehicle, a minor misdemeanor.
 (R.C. § 4549.10(B))
-DRIVER’S LICENSES
+**** DRIVER’S LICENSES ****
 § 71.20 PROHIBITED ACTS.
    (A)   No person shall do any of the following:
       (1)   Display or cause or permit to be displayed, or possess any
@@ -10235,7 +10235,7 @@ School Buses
 72.109   Occupant restraining device for operator
 Statutory reference:
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.001 LANES OF TRAVEL UPON ROADWAYS.
    (A)   Upon all roadways of sufficient width, a vehicle shall be driven upon
 the right half of the roadway, except as follows:
@@ -10735,7 +10735,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.40)
-RIGHT-OF-WAY
+**** RIGHT-OF-WAY ****
 § 72.030 RIGHT-OF-WAY AT INTERSECTIONS.
    (A)   When two vehicles approach or enter an intersection from different
 streets or highways at approximately the same time, the driver of the vehicle
@@ -11108,7 +11108,7 @@ offense, the offender previously has been convicted of two or more predicate
 motor vehicle or traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 (R.C. § 4511.48)
-PEDESTRIANS
+**** PEDESTRIANS ****
 § 72.050 PEDESTRIAN MOVEMENT IN CROSSWALKS.
    (A)   Pedestrians shall move, whenever practicable, upon the right half of
 crosswalks.
@@ -11495,7 +11495,7 @@ offense, the offender previously has been convicted of two or more predicate
 motor vehicle traffic offenses, whoever violates this section is guilty of a
 misdemeanor of the third degree.
 (Ord. 2022-73, passed 11-16-22)
-GRADE CROSSINGS
+**** GRADE CROSSINGS ****
 § 72.065 STOP SIGNS AT GRADE CROSSINGS.
    (A)   As used in this section, ACTIVE GRADE CROSSING WARNING DEVICE means
 signs, signals, gates, or other protective devices erected or installed at a
@@ -11656,7 +11656,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.64)
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 72.075 OBSTRUCTION AND INTERFERENCE AFFECTING VIEW AND CONTROL OF DRIVER.
    (A)   No person shall drive a vehicle when it is so loaded, or when there
 are in the front seat such number of persons, as to obstruct the view of the
@@ -12522,7 +12522,7 @@ the offense, the offender previously has been convicted of two or more
 predicate motor vehicle or traffic offenses, whoever violates this section is
 guilty of a misdemeanor of the first degree.
 (Ord. 2022-74, passed 11-16-22)
-SCHOOL BUSES
+**** SCHOOL BUSES ****
 § 72.100 REGULATIONS CONCERNING SCHOOL BUSES.
    (A)   The driver of a vehicle, upon meeting or overtaking from either
 direction any school bus stopped for the purpose of receiving or discharging
@@ -12825,7 +12825,7 @@ Stopping After Accident
 73.63   Failure to report accident
 Statutory reference:
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 73.01 DRIVING UNDER THE INFLUENCE OF ALCOHOL OR DRUGS.
    (A)   (1)   No person shall operate any vehicle within this municipality,
 if, at the time of the operation, any of the following apply:
@@ -13801,7 +13801,7 @@ dealer who sells mini- trucks at retail.
       (4)   Whoever violates this division (H) shall be penalized as provided
 in division (D) of this section.
 (R.C. § 4519.401)
-RECKLESS OPERATION
+**** RECKLESS OPERATION ****
 § 73.15 RECKLESS OPERATION OF VEHICLES.
    (A)   No person shall operate a vehicle on any street or highway in willful
 or wanton disregard of the safety of persons or property.
@@ -13845,7 +13845,7 @@ agricultural tractor, or unit of farm machinery.
    (B)   Whoever violates this section is guilty of operating a motor vehicle
 or agricultural tractor without being in control of it, a minor misdemeanor.
 (R.C. § 4511.202)
-SPEED REGULATIONS
+**** SPEED REGULATIONS ****
 § 73.30 SPEED LIMITS.
    (A)   No person shall operate a motor vehicle at a speed greater or less
 than is reasonable or proper, having due regard for the traffic, surface, and
@@ -14296,7 +14296,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.23)
-RESISTING OFFICER
+**** RESISTING OFFICER ****
 § 73.45 PROHIBITION AGAINST RESISTING OFFICER.
    (A)   No person shall resist, hinder, obstruct, or abuse any sheriff,
 constable, or other official while that official is attempting to arrest
@@ -14316,7 +14316,7 @@ complaint.
    (B)   Whoever violates this section is guilty of a misdemeanor of the first
 degree.
 (R.C. § 4513.361)
-STOPPING AFTER ACCIDENT
+**** STOPPING AFTER ACCIDENT ****
 § 73.60 FAILURE TO STOP AFTER ACCIDENT.
    (A)   (1)   In the case of a motor vehicle accident or collision with
 persons or property on a public road or highway, the operator of the motor
@@ -14556,7 +14556,7 @@ helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
 Cross-reference:
    Municipal motor vehicle license fee, §
 38.12
-EQUIPMENT
+**** EQUIPMENT ****
 § 74.01 UNSAFE VEHICLES, PROHIBITION AGAINST OPERATION.
    (A)   No person shall drive or move, or cause or knowingly permit to be
 driven or moved, on any highway any vehicle or combination of vehicles which is
@@ -15698,7 +15698,7 @@ prosecuted under appropriate state law.
 or offer for sale in violation of this section shall constitute a separate and
 distinct violation.
 (R.C. § 4549.20)
-LOADS
+**** LOADS ****
 § 74.50 PERMIT REQUIRED TO EXCEED LOAD LIMITS.
    (A)   (1)   The municipality, with respect to highways under their
 jurisdiction, upon application in writing, shall issue a special regional heavy
@@ -16087,7 +16087,7 @@ Statutory reference:
 (8)
    Protective eye devices required for motorcycle operators and passengers;
 helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 75.01 BICYCLES; APPLICATION OF TITLE VII.
    (A)   The provisions of this title that are applicable to bicycles and
 electric bicycles apply whenever a bicycle or electric bicycle is operated upon
@@ -17109,7 +17109,7 @@ Statutory reference:
 licensing, see R.C. Chapter 935
    Rabies: report of dog bite, confinement of animal, report of suspected rabid
 animal, see O.A.C. §§ 3701-3-28 et seq.
-ANIMALS RUNNING AT LARGE
+**** ANIMALS RUNNING AT LARGE ****
 § 90.01 DOGS OR OTHER ANIMALS RUNNING AT LARGE; NUISANCE, DANGEROUS OR VICIOUS
 DOGS; HEARINGS.
    (A)   Animals running at large.
@@ -17528,7 +17528,7 @@ the criminal laws or ordinances that punish cruelty to animals. Nothing in this
 section precludes a law enforcement officer from killing a dog that attacks a
 police dog as defined in R.C. § 2921.321.
 (R.C. § 955.28(A))
-OFFENSES RELATING TO ANIMALS
+**** OFFENSES RELATING TO ANIMALS ****
 § 90.20 ABANDONING ANIMALS.
    (A)   No owner or keeper of a dog, cat, or other domestic animal shall
 abandon the animal.
@@ -18278,7 +18278,7 @@ Statutory reference:
    Ohio Fire Code, see O.A.C. Chapter 1301:7-7
    Open burning, see O.A.C. Chapter 3745-19
    Power to regulate explosives, see R.C. § 715.60
-FIREWORKS
+**** FIREWORKS ****
 § 91.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18727,7 +18727,7 @@ violation of this subchapter.
 sale, purchase, possession, or discharge of fireworks shall be distributed as
 set forth in R.C. § 3743.68(D).
 (R.C. § 3743.68)
-EXPLOSIVES
+**** EXPLOSIVES ****
 § 91.20 STORAGE OF EXPLOSIVES.
    It shall be unlawful to store at any time within the municipality a quantity
 of gunpowder or other similar explosive weighing in excess of 100 pounds.
@@ -18844,7 +18844,7 @@ regulation is in conflict with the Ohio Basic Building Code, except that the
 rules adopted and orders issued by the Fire Marshal pursuant to R.C. Chapter
 3743 prevail in the event of a conflict.
 (Ord. 2012-77, passed 11-20-12)
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 91.30 REMOVAL OF FLAMMABLE MATERIALS OR OBSTRUCTIONS.
    Any flammable or combustible materials not arranged or stored in such a
 manner as to afford reasonable safety against the danger of fire, or any matter
@@ -18884,7 +18884,7 @@ portion of any building of any kind. Proper fireproof receptacles shall be
 provided for such hazardous materials.
 Penalty, see §
 91.99
-OPEN BURNING
+**** OPEN BURNING ****
 § 91.50 OPEN BURNING.
    (A)   Definitions. As used in this section:
       OHIO ENVIRONMENTAL PROTECTION AGENCY. The Ohio Environmental Protection
@@ -19341,7 +19341,7 @@ Statutory reference:
 R.C. § 1533.85
    Ohio Building Code, see O.A.C. Chapter 4101:1
    Power to abate and prevent nuisances, see R.C. § 715.44
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 APPLICATION OF THE CHAPTER.
    The provisions of this chapter shall be enforceable within the village
 concurrently with the state and federal laws relative to sanitation and health
@@ -19569,7 +19569,7 @@ abating nuisance, see R.C. § 715.261
    Appropriation of property and rehabilitation of building or structure, see
 R.C. § 719.012
    Adoption of technical ordinances and codes by reference, see R.C. § 731.231
-UNCLEAN HABITATIONS
+**** UNCLEAN HABITATIONS ****
 § 93.20 PERMITTING UNCLEAN HABITATIONS.
    It shall be unlawful for any person to lease, let, permit the occupancy of,
 permit the continuation of the occupancy of, or continue the occupancy of a
@@ -19724,7 +19724,7 @@ penalties contained within §
 passed 9-3-14; Am. Ord. 2018-80, passed 11-20-18; Am. Ord. 2023-23, passed 3-1-
 23) Penalty, see §
 93.99
-SEPTIC TANKS, CESSPOOLS, AND REFUSE
+**** SEPTIC TANKS, CESSPOOLS, AND REFUSE ****
 § 93.30 LOCATION OF PRIVY VAULTS, CESSPOOLS, AND SEPTIC TANKS.
    No owner, occupant, or person in charge of any premises situated as to
 permit connection with any sanitary sewer shall maintain or permit to be
@@ -19916,7 +19916,7 @@ a lesser vault filled with sand and fine gravel, built under the inspection of
 the local board of health.
 (Ord. 2018-80, passed 11-20-18) Penalty, see §
 93.99
-WEEDS AND LITTER ON PRIVATE PROPERTY
+**** WEEDS AND LITTER ON PRIVATE PROPERTY ****
 § 93.50 KEEPING DOWN WEEDS.
    (A)   Any person owning or having charge of land within the village shall
 keep such property free and clear from all noxious weeds and rank vegetation
@@ -20129,7 +20129,7 @@ neighboring residential premises or upon public streets.
 misdemeanor. Each day the violation persists shall be deemed a separate
 violation.
 (Ord. 2023-47, passed 7-19-23)
-MISCELLANEOUS
+**** MISCELLANEOUS ****
 § 93.60 TRIMMING OF TREES AND SHRUBBERY TO PREVENT OBSTRUCTION.
    (A)   It shall be unlawful for any person to plant, grow, or maintain any
 shade tree or trees or shrubbery which will obstruct the proper distribution of
@@ -20578,14 +20578,14 @@ Communicable Diseases
 94.99   Penalty
 Cross-reference:
    Willfully leaving vehicles on private or public property, see § 76.041
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 APPLICATION OF THE CHAPTER.
    The provisions of this chapter shall be enforceable within this municipality
 concurrently with the state and federal laws relative to sanitation and health
 and to the sale of pure foods and drugs, and the ordinances or orders of the
 local health district, and shall not be construed as modifying, repealing,
 limiting or affecting in any manner such laws, ordinances or orders.
-FOOD AND FOOD HANDLERS
+**** FOOD AND FOOD HANDLERS ****
 § 94.10 DEFINITIONS
    For purposes of this chapter the following words and phrases shall have the
 following meanings ascribed to them respectively.
@@ -20653,7 +20653,7 @@ operations and providing uniform sanitation standards are adopted and declared
 to be the standards of purity intended and required by this chapter.
 Penalty, see §
 94.99
-COMMUNICABLE DISEASES
+**** COMMUNICABLE DISEASES ****
 § 94.25 ATTENDING SCHOOLS AND OTHER PUBLIC PLACES WHEN INFECTED.
    It shall be unlawful for any person infected with or exposed to infection of
 influenza, infantile paralysis, cerebrospinal meningitis, measles, chicken pox,
@@ -39597,7 +39597,7 @@ prevention/access revisions
  
    
 150.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 COUNTY OF SUMMIT BUILDING CODE TO APPLY; ENFORCEMENT BY COUNTY OF
 SUMMIT.
    (A)   Any and all construction, alteration, movement, enlargement,
@@ -42047,7 +42047,7 @@ Appendix F:   Typical Plat Subdivision Map
 Appendix G:   Examples of Certifications and Statements
    
 Appendix I:   Typical Planting Plan
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.001 TITLE.
    These regulations shall be known and may be cited and referred to as the
 "Subdivision Regulations of the Village of Mogadore, Ohio," and shall
@@ -42198,7 +42198,7 @@ specified in the appropriate sections of the Ohio Revised Code.
 § 151.007 INTERPRETATION.
    The provision of this chapter shall be construed to be minimum requirements.
 (Ord. 57-1981, passed 10-21-81; Am. Ord. 2018-80, passed 11-20-18)
-PROCEDURES
+**** PROCEDURES ****
 § 151.020 PURPOSE.
    The purpose of this chapter is to specify the procedures that shall be
 followed to subdivide land.
@@ -42400,7 +42400,7 @@ of said plat shall be paid by the subdivider. Upon recording of the plat, the
 tracing of said plat shall be permanently retained by the Planning Commission
 and filed with the Village Engineer.
 (Ord. 57-1981, passed 10-21-81; Am. Ord. 2018-80, passed 11-20-18)
-PLAN AND PLAT SPECIFICATIONS
+**** PLAN AND PLAT SPECIFICATIONS ****
 § 151.040 PURPOSE.
    The purpose of this subchapter is to inform the subdivider of the specific
 information he must provide to permit adequate review, approval, and recording
@@ -42596,7 +42596,7 @@ must also sign plat and release dower or courtesy interest in public places.
       (16)   Release by the mortgage holder, if any, of all interest in all
 property dedicated to a public use. This may be a separate document.
 (Ord. 57-1981, passed 10-21-81; Am. Ord. 2018-80, passed 11-20-18)
-DESIGN STANDARDS
+**** DESIGN STANDARDS ****
 § 151.055 PHYSICAL CONSIDERATIONS.
    (A)   Natural land use. Subdivisions should be planned to take advantage of
 the topography of the land to economize the construction of drainage
@@ -42745,7 +42745,7 @@ collector street shown on the adopted Land Use and Thoroughfare Plan, such part
 of the proposed public way shall be platted by the subdivider in the location
 and of the width indicate on the adopted Land Use and Thoroughfare Plan.
 (Ord. 57-1981, passed 10-21-81; Am. Ord. 2018-80, passed 11-20-18)
-IMPROVEMENT REQUIREMENTS AND SPECIFICATIONS
+**** IMPROVEMENT REQUIREMENTS AND SPECIFICATIONS ****
 § 151.075 REQUIRED IMPROVEMENTS.
    The improvements which are hereby required shall be designed, furnished, and
 installed by the subdivider in accordance with the provisions of this chapter
@@ -43262,7 +43262,7 @@ holder, if any, of all interest in all property dedicated to a public use.
       (3)   These conditions must be complied with before final effective
 approval of the subdivision.
 (Ord. 57-1981, passed 10-21-81; Am. Ord. 2018-80, passed 11-20-18)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 151.095 ADMINISTRATION.
    The Village Engineer shall administer this chapter under the general
 supervision and direction of the Village Planning and Zoning Commission except
@@ -43543,7 +43543,7 @@ Administration and Enforcement
 152.999   Penalty
    
 Appendix B:   Diagrams
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.001 TITLE.
    This chapter shall be known as the Zoning Ordinance of Mogadore Village,
 Summit-Portage Counties Ohio.
@@ -43924,7 +43924,7 @@ land, buildings or structures than is imposed or required by such existing
 provisions of law, ordinance, contract or deed, the provisions of this chapter
 shall control.
 (Ord. passed 12-11-90)
-GENERAL DISTRICT REGULATIONS
+**** GENERAL DISTRICT REGULATIONS ****
 § 152.015 PURPOSES OF DISTRICTS.
    The purposes of districts are as follows:
    (A)   To divide the entire village into the types of districts deemed best
@@ -44962,7 +44962,7 @@ right-of-ways.
 §
 150.218 of these Codified Ordinances.
 (Ord. 2023-48, passed 7-19-23)
-DISTRICT REGULATIONS
+**** DISTRICT REGULATIONS ****
 § 152.045 R-1 RESIDENTIAL DISTRICT.
    (A)   Uses permitted. Except as otherwise provided in this chapter, no
 building or premises in the R-1 Residential District shall hereafter be
@@ -46146,7 +46146,7 @@ structure, at least 25 feet from an adjacent lot and no closer than two feet
 from a lot line. No metal or plastic sheds. Sheds shall be painted to match the
 primary structure.
 (Ord. 2018-80, passed 11-20-18)
-DRILLING WELLS
+**** DRILLING WELLS ****
 § 152.090 PURPOSE.
    This conditional use is established to permit the drilling of wells for oil,
 gas, and other hydrocarbons in the village subject to the requirements set
@@ -46431,7 +46431,7 @@ as possible in the final restoration and landscaping.
 months of the date drilling was initiated, conforming with approved plans and
 prior to the release of performance bonds.
 (Ord. 2018-80, passed 11-20-18)
-CONDITIONAL ZONING CERTIFICATES
+**** CONDITIONAL ZONING CERTIFICATES ****
 § 152.110 PURPOSE.
    (A)   Until recently, regulation of land uses and structures through zoning
 was accomplished by assigning each use to one or more "use districts." However,
@@ -46735,7 +46735,7 @@ requirements that it deems necessary to fulfill the purposes and intent of this
 chapter, including guarantees that any conditions will be fulfilled, a
 contractual money defaults, deposits and bonds.
 (Ord. passed 12-11-90; Am. Ord. 2018-80, passed 11-20-18)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 152.125 BOARD OF ZONING APPEALS.
    (A)   Authority. The Board of Zoning Appeals is hereby created and
 authorized to act as the administrative board as provided in R.C. § 713.11,
@@ -47736,7 +47736,7 @@ Enforcement
  
    
 154.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.01 STATUTORY AUTHORIZATION.
    Article XVIII, Section 3, of the Ohio Constitution grants municipalities the
 legal authority to adopt land use and control measures for promoting the
@@ -48096,7 +48096,7 @@ consistent with the variance conditions herein.
    VIOLATION. The failure of a structure or other development to be fully
 compliant with these regulations.
 (Ord. 2009-40, passed 6-17-09)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 154.20 DESIGNATION OF THE FLOODPLAIN ADMINISTRATOR.
    The Village Engineer is hereby appointed to administer and implement these
 regulations and is referred to herein as the Floodplain Administrator.
@@ -48372,7 +48372,7 @@ information related to the proper repair of damaged structures in special flood
 hazard areas; and assist owners of substantially damaged structures with
 increased cost of compliance insurance claims.
 (Ord. 2009-40, passed 6-17-09)
-USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION
+**** USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION ****
 § 154.40 APPLICATION OF STANDARDS.
    The following use and development standards apply to development wholly
 within, partially within, or in contact with any special flood hazard area as
@@ -48606,7 +48606,7 @@ or elimination of the special flood hazard area, including the placement of
 culverts.
 (Ord. 2009-40, passed 6-17-09) Penalty, see §
 154.99
-APPEALS AND VARIANCES
+**** APPEALS AND VARIANCES ****
 § 154.60 APPEALS BOARD ESTABLISHED.
    (A)   The Board of Zoning Appeals is hereby appointed to serve as the
 Appeals Board for these regulations as established by Village Code.
@@ -48750,7 +48750,7 @@ time after the hearing.
 decision to the Summit County Court of Common Pleas, as provided in R.C.
 Chapter 2506.
 (Ord. 2009-40, passed 6-17-09)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 154.80 COMPLIANCE REQUIRED.
    (A)   No structure or land shall hereafter be located, erected, constructed,
 reconstructed, repaired, extended, converted, enlarged or altered without full
@@ -48799,7 +48799,7 @@ other lawful action as is necessary to prevent or remedy any violation. The
 village shall prosecute any violation of these regulations in accordance with
 the penalties stated herein.
 (Ord. 2009-40, passed 6-17-09)
-REFERENCES TO '75 GENERAL OFFENSES CODE
+***** REFERENCES TO '75 GENERAL OFFENSES CODE *****
 TABLE OF SPECIAL ORDINANCES
    Table
       
