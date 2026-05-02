@@ -4682,8 +4682,8 @@ Fire Department
 Cross-reference:
    Gift ban, see §
 35.23
-POLICE DEPARTMENT
-I. In General
+**** POLICE DEPARTMENT ****
+*** I. In General ***
 § 36.01 POLICE DEPARTMENT RECONSTITUTED.
    There is hereby reconstituted a Police Department (the “Department”) for the
 village. The Department shall consist of a Chief of Police and such other
@@ -5052,7 +5052,7 @@ involved in the decision. They include both criminal and civil legal aspects
 plus moral and ethical considerations. The officer can best be prepared to make
 the decision by a thorough knowledge and understanding of the factors involved.
 (Ord. 389, passed 2-4-1985)
-II. Non-Sworn Employees
+*** II. Non-Sworn Employees ***
 § 36.20 APPOINTMENT.
    The Village President, with the advice and consent of the Board of Trustees
 may employ such non-sworn employees as they may from time to time deem
@@ -5063,7 +5063,7 @@ secretaries and persons of similar positions.
    The duties of non-sworn employees shall be as prescribed from time to time
 by the Chief of Police.
 (Ord. 952, passed 11-18-2009)
-III. General Administrative Provisions
+*** III. General Administrative Provisions ***
 § 36.30 CUSTODY OF SEIZED OR FOUND PROPERTY.
    (A)   It shall be the duty of any police officer of the village to deliver
 to the Chief of Police or his or her designated officer all property seized or
@@ -5097,7 +5097,7 @@ authorities.
 Cross-reference:
    Gift ban, see §
 35.23
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 36.40 FIRE DEPARTMENT.
    (A)   There shall be and is hereby created and established a Fire Department
 consisting of one Fire Chief, one Secretary, one Treasurer and other officers,
@@ -5239,7 +5239,7 @@ Water Meter Fees
 Cross-reference:
    See also Water and Sewer Tap-on Fees,
 160.09
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 50.01 INCORPORATION.
    (A)   The Village of Elwood (sometimes hereinafter “Elwood” or the
 “Village”) is a home rule municipal corporation pursuant to Section 6 of
@@ -5517,7 +5517,7 @@ due plus attorney's fees.
 such property occupant or user, that judgment shall act as a lien for the
 amount due.
 (Ord. 714, passed 3-3-2003)
-WATER METER FEES
+**** WATER METER FEES ****
 50.25 WATER METER SCHEDULE.
  T-10 ProCoder Gal. Meter    T/F Cmpd. ProCoder Gal. Meter HP Turbine
  5/8" x 3/4" 3/4" 1" 1.5" 2" 2" 3" 4"                      2" 3" 4"
@@ -6999,7 +6999,7 @@ Truck Size, Weight, and Load Regulations
 Cross-reference:
    Trucks, see also off-street parking and loading, §§
 162.150 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.001 TITLE.
    This chapter may be known and cited as the Elwood Traffic Ordinance.
 (Ord. 306, passed 12-7-1970)
@@ -7265,7 +7265,7 @@ the village shall be in the name of the village, shall refer to the numbered
 sections in the Illinois Vehicle Code, and shall be referred to as an ordinance
 violation in the traffic ticket or complaint.
 (Ord. 414, passed 4-2-1990; Am. Ord. 978, passed 2-16-2011)
-ENFORCEMENT; POLICE AND FIRE ROAD REGULATIONS
+**** ENFORCEMENT; POLICE AND FIRE ROAD REGULATIONS ****
 § 70.030 AUTHORITY OF POLICE AND FIRE DEPARTMENT OFFICIALS.
    (A)   It shall be the duty of the officers of the Police Department or such
 officers’s are assigned by the Chief of Police to enforce all street traffic
@@ -7333,7 +7333,7 @@ emergency vehicle from the duty of driving with due regard for the safety of
 all persons, nor do such provisions protect the driver from the consequences of
 his reckless disregard for the safety of others.
 (Ord. 306, passed 12-7-1970)
-LICENSES
+**** LICENSES ****
 § 70.050 LICENSE REQUIRED.
    No person or firm residing within the corporate limits of the Village of
 Elwood or any corporation having its principal office or place of business in
@@ -7388,7 +7388,7 @@ measure of such size. Nor shall the issuance of licenses under such other
 ordinances be deemed to excuse or be in lieu of the vehicle licenses
 hereinabove required.
 (Ord. 306, passed 12-7-1970)
-CONDITION AND EQUIPMENT OF VEHICLES
+**** CONDITION AND EQUIPMENT OF VEHICLES ****
 § 70.070 EFFECT OF EQUIPMENT REQUIREMENTS.
    It is unlawful for any person to drive or move, or for the owner to cense or
 knowingly permit to be driven or moved on any highway any vehicle which, is in
@@ -7610,7 +7610,7 @@ division (other than a motorcycle) that is titled or licensed by the Secretary
 of State of the State of Illinois unless the front seat of such motor vehicle
 is equipped with two sets of seat safety belts.
 (Ord. 306, passed 12-7-1970)
-TRUCK SIZE, WEIGHT, AND LOAD REGULATIONS
+**** TRUCK SIZE, WEIGHT, AND LOAD REGULATIONS ****
 § 70.095 INCORPORATION.
    That the preambles of this subchapter be, and the same hereby are,
 incorporated herein by this reference as if set out in full at this place. The
@@ -7938,7 +7938,7 @@ Act 5, § 15-102.
    (G)   Any vehicle which requires a special permit shall either apply for a
 single day, weekly (seven days) or a monthly-30 day permit.
 (Ord. 1004, passed 6-20-2012)
-§ 70.999 PENALTIES.
+** § 70.999 PENALTIES. **
    (A)   It is unlawful and a misdemeanor for a person to do any act forbidden
 or fail to perform any act required in this chapter.
    (B)   Every person convicted of a misdemeanor for a violation of any
@@ -8067,7 +8067,7 @@ Accidents
 71.094   Accident reports confidential
    
 71.095   Furnishing copies; fees
-TRAFFIC SIGNS, SIGNALS AND MARKINGS
+**** TRAFFIC SIGNS, SIGNALS AND MARKINGS ****
 § 71.001 AUTHORITY TO INSTALL TRAFFIC CONTROL DEVICES.
    (A)   The corporate authority shall place and maintain official traffic
 control devices when and as required under the traffic ordinance of this
@@ -8270,7 +8270,7 @@ and maintained at a place other than an intersection, provisions of this
 section shall be applicable, except as to provisions which by their nature can
 have no application.
 (Ord. 306, passed 12-7-1970)
-INTERSECTIONS AND ALLEYS
+**** INTERSECTIONS AND ALLEYS ****
 § 71.025 THROUGH STREETS.
    (A)   Signs required. Whenever any subchapter of this village designates and
 describes a through street it shall be the duty of the corporate authorities to
@@ -8318,7 +8318,7 @@ corporate authorities may erect signs temporarily designating lanes to be used
 by traffic moving in a particular direction, regardless of the center line of
 the roadway.
 (Ord. 306, passed 12-7-1970)
-OPERATION OF VEHICLES
+**** OPERATION OF VEHICLES ****
 § 71.040 DRIVING WHILE INTOXICATED.
    No person who is under the influence of intoxicating liquor may drive or be
 in actual physical control of any vehicle within this village.
@@ -9080,7 +9080,7 @@ or inanimate, shall obey all traffic signals and signs and shall be under the
 rider's or driver's control at all times and shall be ridden or driven in a
 reasonable and proper manner.
 (Ord. 306, passed 12-7-1970)
-PEDESTRIANS
+**** PEDESTRIANS ****
 § 71.080 PEDESTRIANS SUBJECT TO TRAFFIC CONTROL SIGNALS.
    Pedestrians shall he subject to traffic control signals at intersections as
 heretofore declared in this subchapter, but at all other places pedestrians
@@ -9167,7 +9167,7 @@ carry such a cane or walking stick or to be guided by a guide dog when walking
 on streets, highways or sidewalks shall not be considered evidence of
 contributory negligence.
 (Ord. 306, passed 12-7-1970)
-ACCIDENTS
+**** ACCIDENTS ****
 § 71.090 DUTY TO GIVE INFORMATION AND RENDER AID.
    (A)   The driver of a vehicle involved in an accident, resulting in injury
 to or death of any person or death of any vehicle which is driven or attended
@@ -9312,7 +9312,7 @@ Snow Removal
 Cross-reference:
    See also off-street parking and loading, §§
 162.150 et seq.
-PARKING, STANDING AND STOPPING
+**** PARKING, STANDING AND STOPPING ****
 § 72.01 STREET PROHIBITION.
    No vehicle shall be parked on a street, highway or parkway (which consists
 of the areas between the curb of the street and the innermost edge of the
@@ -9501,7 +9501,7 @@ meter.
    (E)   A person convicted of violating this section shall be fined not less
 than $25 nor more than $500.
 (Ord. 306, passed 12-7-1970)
-SNOW REMOVAL
+**** SNOW REMOVAL ****
 § 72.30 SNOW REMOVAL OPERATIONS.
    (A)   Incorporation. That the preambles to this subchapter be and the same
 are hereby incorporated herein by this reference as if set out in full at this
@@ -9747,7 +9747,7 @@ Towing Regulations
  
    
 75.99   Penalty
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 75.01 DEFINITIONS.
    The following definitions shall apply in tho interpretation and enforcement
 of this chapter:
@@ -9827,7 +9827,7 @@ amended.
 Ordinance No. 290, the Zoning Ordinance of the Village of Elwood, Illinois, or
 any ordinance amendatory thereof.
 (Ord. 306, passed 12-7-1970)
-TOWING REGULATIONS
+**** TOWING REGULATIONS ****
 § 75.20 DEFINITIONS.
    For purposes of this subchapter, the following words shall have the
 respective meanings ascribed to them:
@@ -11547,7 +11547,7 @@ Park Rental and Usage Guide
 94.14   Building use guidelines
    
 94.15   Baseball/softball fields
-PARK RENTAL AND USAGE GUIDE
+**** PARK RENTAL AND USAGE GUIDE ****
 § 94.01 GENERAL.
    (A)   Individuals and organizations interested in using village parks and
 facilities are encouraged to review the attached requirements prior to planning
@@ -13594,7 +13594,7 @@ Specific Regulations
 112.39   Offenses by other than licensee
    
 112.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 112.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14034,7 +14034,7 @@ Appeals shall be based solely upon the official record of proceeding before the
 Commissioner. All proceedings shall be transcribed by a certified court
 reporter.
 (Ord. 1096, passed 7-11-2018)
-SPECIFIC REGULATIONS
+**** SPECIFIC REGULATIONS ****
 § 112.25 HOURS OF OPERATION.
    Subject to the provisions of §
 112.06 above, no licensee shall keep open or allow his or her place of business
@@ -14466,7 +14466,7 @@ peddlers
 113.70   Revocation; grounds; notice; hearing
    
 113.71   Appeal from denial or revocation of license
-SOLICITATION OF BUSINESS AND CONTRIBUTIONS ON HIGHWAYS AND STREETS
+**** SOLICITATION OF BUSINESS AND CONTRIBUTIONS ON HIGHWAYS AND STREETS ****
 § 113.01 SOLICITATION OF BUSINESS PROHIBITED.
    No person shall stand on a highway or street for the purpose of selling
 merchandise to or soliciting business or employment from the occupant of any
@@ -14514,7 +14514,7 @@ ordinance, which shall control in the event of a conflict with this section.
    No person shall stand on a highway or street for the purpose of handing out
 pamphlets and distributing literature to the occupant of any vehicle.
 (Ord. 1017, passed 10-23-2013)
-NOT-FOR-PROFIT SOLICITATIONS
+**** NOT-FOR-PROFIT SOLICITATIONS ****
 § 113.10 SCOPE.
    (A)   Except as stated below, this subchapter encompasses all not-for-profit
 solicitations of presents, gifts of money or promises upon any public street or
@@ -14599,7 +14599,7 @@ shall present with the statement proof of publication of intent to solicit as
 required by §
 113.17.
 (Ord. 1017, passed 10-23-2013)
-CANVASSERS AND FOR-PROFIT SOLICITORS
+**** CANVASSERS AND FOR-PROFIT SOLICITORS ****
 § 113.30 DEFINED.
    A CANVASSER or SOLICITOR is hereby defined as any individual, whether a
 resident of the village or not, traveling either by foot, wagon, automobile,
@@ -14739,7 +14739,7 @@ the appellant in writing five days before the date set for hearing. The
 decision and order of the Village Board on the appeal shall be final and
 conclusive.
 (Ord. 1017, passed 10-23-2013)
-PEDDLERS AND ITINERANT MERCHANTS
+**** PEDDLERS AND ITINERANT MERCHANTS ****
 § 113.55 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -16716,7 +16716,13 @@ as specified herein. It has been determined that the “fair market value” of 
 improved land in and surrounding the village is $83,000 per acre and that
 figure shall be used in making any calculation herein unless the developer or
 subdivider files a written objection thereto. In the event of any such
-objection, the developer or subdivider shall submit an appraisal showing the “
+objection, the developer or subdivider shall submit an appraisal showing the
+“fair market value” of the improved land in the area of his or her development
+or other evidence thereof and final determination of the “fair market value”
+per acre of the improved land shall be made by the Village Board based upon the
+information submitted by the developer or subdivider and from other sources
+which may be submitted to the Village Board by the Fire Protection District or
+others.
       (2)   NFPA Standard 1710 (Standard for the Organization and Deployment of
 Fire Suppression Operation, Emergency Medical and Special Operations to the
 Public by Career Fire Departments”, 2001 edition). The National Fire Protection
