@@ -712,7 +712,7 @@ Site Inspector
 31.65   Appointment; term
    
 31.66   Duties
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 SALARIES.
    (A)   The salaries of the Mayor and Council members of the town are hereby
 declared as follows:
@@ -743,7 +743,7 @@ full, before the 40 years.
    The Council has extended the Thanksgiving holiday to include the fourth
 Thursday and Friday of November.
 (Res. 11-14-16-5, passed 11-14-2016)
-MAYOR
+**** MAYOR ****
 § 31.15 NOMINATED; ELECTION; TERM.
    (A)   The Mayor shall be nominated and elected at large by the qualified
 electors of the town.
@@ -821,7 +821,7 @@ plus one of the whole numbers of the Council;
 present the same to the Council for adoption; and
       (4)   Exercise control and supervision of all departments and boards.
 (Prior Code, § 2-2-8) (Ord. passed 5-22-2006)
-TOWN CLERK
+**** TOWN CLERK ****
 § 31.35 APPOINTMENT; TERM.
    The Town Clerk may be appointed by the Mayor for a term concurrent with the
 term of the Mayor.
@@ -895,7 +895,7 @@ Reserve Training Annual Financial Report; and
    (X)   To perform all other duties imposed upon the Clerk by law, ordinance,
 or by the Mayor.
 (Prior Code, § 2-3-2)
-TOWN ATTORNEY
+**** TOWN ATTORNEY ****
 § 31.50 APPOINTMENT; TERM.
    (A)   It is a duty of the Mayor to appoint a qualified person to the
 position of Town Attorney.
@@ -935,7 +935,7 @@ binding upon the town; and
    (J)   Perform such additional duties imposed by law, ordinance, or by the
 Mayor.
 (Prior Code, § 2-4-3) (Ord. passed 5-22-2006)
-SITE INSPECTOR
+**** SITE INSPECTOR ****
 § 31.65 APPOINTMENT; TERM.
    The Mayor shall appoint a suitable person as Site Inspector for the town.
 Such person shall serve as Site Inspector for a term concurrent with the term
@@ -963,7 +963,7 @@ Department of Street, Water, and Sewer
 32.16   Superintendent of Street, Water, and Sewer
    
 32.17   Duties of Superintendent of Street, Water, and Sewer
-BOARD OF ADJUSTMENT
+**** BOARD OF ADJUSTMENT ****
 § 32.01 ESTABLISHED.
    The Board of Adjustment is hereby established, as provided in MCA § 76-2-
 321.
@@ -990,7 +990,7 @@ variation in such ordinance.
    The powers and duties of the Board of Adjustment shall be as defined in MCA
 § 76-2-323.
 (Prior Code, § 4-4-4)
-DEPARTMENT OF STREET, WATER, AND SEWER
+**** DEPARTMENT OF STREET, WATER, AND SEWER ****
 § 32.15 CREATION.
    There is hereby created the Street, Water, and Sewer Department for the
 purposes of maintaining and operating the streets, alleys, water, and sewer
@@ -1069,7 +1069,7 @@ Cross-reference:
 Ch. 31
    Town Court, see
 Ch. 35
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 33.01 COMPOSITION.
    The Police Department shall consist of a Chief of Police and such other
 members as be determined necessary by the Town Council.
@@ -1170,7 +1170,7 @@ subsequent amendments thereto.
    The Chief Law Enforcement Administrator shall be the town’s Chief of Police,
 unless the position is otherwise filled and provided for by the Town Council.
 (Prior Code, § 4-1-15) (Ord. passed 6-8-1993)
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 33.25 CREATION; PURPOSE.
    A volunteer fire department, hereafter referred to as the Town Volunteer
 Fire Department, is hereby created to prevent and extinguish fires, and to
@@ -1343,7 +1343,7 @@ Equal Employment Opportunity (EEO) Policy
 Alcohol and Controlled Substance Policy
    
 34.80   Alcohol and controlled substance policy adopted by reference
-TRAVEL EXPENSES
+**** TRAVEL EXPENSES ****
 § 34.01 PROCEDURES.
    The Mayor is hereby given the duty of establishing procedures for the
 authorization of travel, and the reimbursement of travel related expenditures.
@@ -1373,7 +1373,7 @@ business.
    The actual cost of other reasonable and necessary business expenses approved
 by the Mayor and/or Town Council.
 (Prior Code, § 3-1-5) (Ord. passed 8-28-2006)
-RETIREMENT FUNDS
+**** RETIREMENT FUNDS ****
 § 34.20 CREATION OF FUND.
    The town is a contracting employer of the Montana State Public Employees’
 Retirement System as authorized by MCA § 19-3-201, and the Public Employees’
@@ -1385,7 +1385,7 @@ revenue sources, the Town Council shall annually budget, levy, and collect a
 special tax to meet obligations to fund the obligations of the Public
 Employees’ Retirement System.
 (Prior Code, § 3-3-2) (Ord. passed 8-28-2006)
-VACATION TIME
+**** VACATION TIME ****
 § 34.35 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1434,7 +1434,7 @@ determined by agreement between the employee and his or her immediate
 supervisor, and subject to the consent of the Mayor, with regard to the best
 interest of the town, as well as the best interest of the employee.
 (Prior Code, § 2-8-7)
-SICK LEAVE
+**** SICK LEAVE ****
 § 34.55 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1488,7 +1488,7 @@ the employee’s immediate family requiring the employee’s personal attendance
 payments provided for in this subchapter. ABUSE is defined as a violation of
 any ordinance or employee policy.
 (Prior Code, § 2-9-9)
-EQUAL EMPLOYMENT OPPORTUNITY (EEO) POLICY
+**** EQUAL EMPLOYMENT OPPORTUNITY (EEO) POLICY ****
 § 34.70 PURPOSE.
    To provide equal employment opportunity in direct employment with the town.
 (Res. 08-10-20-06, passed 8-10-2020)
@@ -1599,7 +1599,7 @@ responsibilities with respect to equal employment opportunity; and
       (14)   Inform all employees of the town’s commitment to equal employment
 opportunity and of their rights and remedies under the law.
 (Res. 08-10-20-06, passed 8-10-2020)
-ALCOHOL AND CONTROLLED SUBSTANCE POLICY
+**** ALCOHOL AND CONTROLLED SUBSTANCE POLICY ****
 § 34.80 ALCOHOL AND CONTROLLED SUBSTANCE POLICY ADOPTED BY REFERENCE.
    The Town Council has reviewed and adopted the Alcohol and Controlled
 Substance Policy attached to Res. 05-11-20-05. A copy of this Policy is
@@ -2688,7 +2688,7 @@ Snowmobiles
  
    
 71.99   Penalty
-SNOWMOBILES
+**** SNOWMOBILES ****
 § 71.01 DEFINITION.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3000,7 +3000,7 @@ Cross-reference:
    Public Safety, see
 Ch. 33
    Traffic Code, see Title VII
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 EXPECTORATING.
    To expectorate in or upon any food establishment, restaurant, hotel, motor
 inn, cocktail lounge, or tavern, or other such public place is prohibited.
@@ -3139,7 +3139,7 @@ other articles of food, or to sell, or offer for sale, the flesh of any animal
 that was diseased is prohibited.
 (Prior Code, § 7-1-11) Penalty, see §
 10.99
-NUISANCES
+**** NUISANCES ****
 § 90.25 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3256,7 +3256,7 @@ abatement of the nuisance is necessary for the protection of the public health
 and safety.
 (Prior Code, § 7-2-6) (Ord. passed 4-13-1993) Penalty, see §
 10.99
-OUTDOOR VEHICLE STORAGE
+**** OUTDOOR VEHICLE STORAGE ****
 § 90.40 NUISANCE DECLARED.
    The presence of a dismantled, partially dismantled, or inoperable vehicle or
 motor vehicle, or parts thereof, or any abandoned vehicle or motor vehicle, on
@@ -3356,7 +3356,7 @@ Chickens
 91.42   Offensive animal waste
    
 91.43   Animal waste
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3450,7 +3450,7 @@ town limits, any horses, mules, sheep, swine, cattle, goats, chickens, turkeys,
 ducks, geese, peacocks or any wild or undomesticated animals or fowl.
 Penalty, see §
 10.99
-DOGS
+**** DOGS ****
 § 91.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3647,7 +3647,7 @@ the discharge of his or her official duties under §§
 91.43.
 (Prior Code, § 8-2-12) (Ord. 03-13-23-03, passed 4-10-2023) Penalty, see §  
 10.99
-CHICKENS
+**** CHICKENS ****
 § 91.40 CHICKENS (FEMALE GALLUS GALLUS DOMESTICUS).
    (A)   Up to six chicken hens (female Gallus gallus domesticus) may be kept
 on a premise subject to the following requirements and subject to all other
@@ -4759,7 +4759,7 @@ House Numbering
 151.27   New construction; subdivision
    
 151.28   Effective date
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.01 BUILDING CODE ADOPTED.
    The Uniform Building Code of the International Conference of Building
 Officials is hereby adopted by reference as the Building Code of the town, and
@@ -4910,7 +4910,7 @@ two copies shall be and remain on file with the Town Clerk, and from the
 effective date of this section, the provisions thereof shall be controlling
 within the town limits.
 (Prior Code, § 14-4-1)
-HOUSE NUMBERING
+**** HOUSE NUMBERING ****
 § 151.20 PURPOSE.
    (A)   The purpose of this subchapter is to enhance the easy and rapid
 location of properties by law enforcement, fire, rescue, and emergency medical
@@ -5106,7 +5106,7 @@ Vacating Streets and Alleys
  
    
 152.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.001 MAINTENANCE.
    It shall be the duty of all owners of property in the town upon which
 sidewalks have been laid, to keep his or her sidewalks in good repair, and to
@@ -5145,7 +5145,7 @@ barricades, guards, or barriers surrounding the closed portion of the street or
 alley.
 (Prior Code, § 12-1-5) Penalty, see §
 152.999
-SIDEWALK CONSTRUCTION AND REPAIR.
+**** SIDEWALK CONSTRUCTION AND REPAIR. ****
 § 152.015 REQUIREMENTS.
    No person, corporation, or other association of any kind within the town
 limits shall construct, repair, or alter any sidewalk, except as provided for
@@ -5212,7 +5212,7 @@ any liability which may arise as a result of the work to be done. The
 Superintendent must inspect and approve all work performed on property before
 the deposit is refunded.
 (Prior Code, § 12-5-3) (Ord. passed 5-14-2007)
-EXCAVATIONS
+**** EXCAVATIONS ****
 § 152.035 PERMIT REQUIRED.
    (A)   It shall be unlawful for any person to dig up, break, excavate,
 tunnel, undermine, or in any manner breakup any street, or make or cause to be
@@ -5303,7 +5303,7 @@ not proceed with permanent repairs without first obtaining an excavation
 permit.
 (Prior Code, § 12-3-8) Penalty, see §
 152.999
-ENCROACHMENTS
+**** ENCROACHMENTS ****
 § 152.055 PURPOSE.
    The purpose of this subchapter is to provide minimum standards to safeguard
 life, health, property, and public welfare by regulating and controlling
@@ -5336,7 +5336,7 @@ at least ten feet above the top of the curb line, sidewalk, or roadway shoulder
 elevation, as the case may be.
 (Prior Code, § 12-4-5) Penalty, see §
 152.999
-VACATING STREETS AND ALLEYS
+**** VACATING STREETS AND ALLEYS ****
 § 152.070 COUNCIL AUTHORIZED.
    The Town Council shall have the authority to order the discontinuance or
 vacation of streets and alleys within the corporate limits of the town, if it
@@ -5525,7 +5525,7 @@ Administrative Appeals
  
    
 153.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.001 FLOODPLAIN HAZARD MANAGEMENT REGULATIONS.
    These regulations are known, and may be cited, as the Floodplain Hazard
 Management Regulations, hereinafter referred to as “these regulations”.
@@ -6114,7 +6114,7 @@ to § 1316 of the National Flood Insurance Act of 1968, as amended.
 Federal reference:
    Declaration to the Federal Flood Insurance Administrator, see 44 C.F.R. §
 73.3
-FLOOD HAZARD AREA
+**** FLOOD HAZARD AREA ****
 § 153.035 REGULATED FLOOD HAZARD AREA.
    The regulated flood hazard areas are the 100-year floodplains illustrated
 and referenced in the following specific studies and reports described as
@@ -6352,7 +6352,7 @@ Federal reference:
 Statutory reference:
    Artificial obstructions prohibited, see MCA § 76-5-404(3), ARM § 36-15-703
 (1), ARM § 36-15-703(2)
-FLOODPLAIN PERMITS
+**** FLOODPLAIN PERMITS ****
 § 153.055 PERMIT APPLICATION.
    (A)   A floodplain permit is required for a person to establish, alter, or
 substantially improve an artificial obstruction, nonconforming use, or
@@ -6548,7 +6548,7 @@ Federal reference:
 65.3
 Statutory reference:
    Conditions for floodplain permit, see ARM § 36.15.204(2)(g)
-DEVELOPMENT REQUIREMENTS; FLOODWAY
+**** DEVELOPMENT REQUIREMENTS; FLOODWAY ****
 § 153.075 USES REQUIRING PERMITS.
    Artificial obstructions, including alterations and substantial improvements
 specifically listed in §§
@@ -6877,7 +6877,7 @@ the requirements of §
 Statutory reference:
    Existing residential and non-residential buildings in the floodway, see MCA
 § 76-5-404(3)(b)
-DEVELOPMENT REQUIREMENTS; FLOOD FRINGE
+**** DEVELOPMENT REQUIREMENTS; FLOOD FRINGE ****
 § 153.100 USES REQUIRING PERMITS.
    (A)   All uses allowed by permit in the floodway shall also be allowed by
 permit within the flood fringe or regulated flood hazard area with no floodway.
@@ -7133,7 +7133,7 @@ C.F.R. § 60.3(c)(3)(ii),    44 C.F.R. § 60.3(c)(3)(4)
 Statutory reference:
    Exceptions and additional requirements for non-residential buildings, see
 ARM § 36.15.602(9), ARM    § 36.15.701(3)(e), ARM § 36.15.702(2)
-VARIANCES
+**** VARIANCES ****
 § 153.115 GENERAL.
    A variance from the minimum development standards of these regulations may
 be allowed. An approved variance would permit construction in a manner
@@ -7243,7 +7243,7 @@ Statutory reference:
    Any person or persons aggrieved by the floodplain permit and variance
 decision may appeal such decision in a court of competent jurisdiction.
 (Prior Code, § 11-2(12.6))
-ADMINISTRATIVE APPEALS
+**** ADMINISTRATIVE APPEALS ****
 § 153.130 GENERAL.
    An administrative appeal may be brought before the Town Council for review
 of the Floodplain Administrator’s order, decision to grant, condition, or deny
@@ -7375,7 +7375,7 @@ regulations
  
    
 154.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9204,7 +9204,7 @@ surveyed is owned by the federal government.
 Statutory reference:
    Uniform standards for certificate of survey, see MCA §§ 76-3-101 through 76-
 3-625
-ADMINISTRATION AND ENFORCEMENT.
+**** ADMINISTRATION AND ENFORCEMENT. ****
 § 154.25 VARIANCES.
    (A)   The Town Council may grant variances from §
 154.08 of these regulations when, due to the characteristics of land proposed
@@ -9744,7 +9744,7 @@ the decision.
 subdivider agrees to suspension of the 60-working day review period provided in
 division (E)(1) above.
 (Prior Code, § 11-4-18)
-MAJOR AND MINOR SUBDIVISIONS; CONDOMINIUMS
+**** MAJOR AND MINOR SUBDIVISIONS; CONDOMINIUMS ****
 § 154.45 MAJOR SUBDIVISIONS.
    (A)   Review and approval procedures for major subdivisions. Subdivisions
 that qualify for major subdivision review are those divisions of land
@@ -10149,7 +10149,7 @@ standards contained in §
    (C)   Unit ownership act. Condominium developments must comply with all
 provisions of the Unit Ownership Act, MCA §§ 70-23-101 through 70-23-1105.
 (Prior Code, § 11-4-31)
-EXEMPTIONS.
+**** EXEMPTIONS. ****
 § 154.60 DIVISIONS OF LAND EXEMPT FROM SUBDIVISION REVIEW.
    (A)   Purpose. The MSPA provides that certain divisions of land, which would
 otherwise constitute subdivisions, are exempt from local subdivision review and
@@ -10614,7 +10614,7 @@ Cross-reference:
 Ch. 33
    Subdivision Regulations, see
 Ch. 154
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 155.01 PURPOSE.
    (A)   The purpose of this chapter is to promote the health, safety, and
 general welfare of the town; to regulate and restrict the height, number of
@@ -11045,7 +11045,7 @@ one for enforcement purposes of this section and §§
 151.04.
 (Prior Code, § 11-1-22) (Ord. passed 12-12-2005) Penalty, see §
 155.99
-DISTRICTS
+**** DISTRICTS ****
 § 155.25 ESTABLISHMENT OF DISTRICTS.
    For the purpose of regulating, classifying, and restricting the location of
 trades, industries, and enterprises, and the location of buildings designed,
