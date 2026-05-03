@@ -120,8 +120,8 @@ Jul-25    48.04; 48.05            005-2025 3-10-25  Facility and Park Rental
           47.13                   007-2025 5-29-25  Park Regulations
           41.15(3)                008-2025 7-22-25  Fireworks
  
-CHAPTER 1
-CODE OF ORDINANCES
+**** CHAPTER 1
+CODE OF ORDINANCES ****
  
 1.01 Title                  1.08 Amendments
 1.02 Definitions            1.09 Catchlines and Notes
@@ -1186,7 +1186,7 @@ duties, compensation and term of office:
 The salary of each Council member is $4,000 per year of service payable once a
 quarter, plus reimbursement for actual expenses incurred while in the
 performance of City Council duties.
-(Ord. 11-2023 – Dec. 23 Supp.)
+* (Ord. 11-2023 – Dec. 23 Supp.) *
  
 CHAPTER 18
 CITY CLERK
@@ -1402,7 +1402,7 @@ payments of interest and principal.
 resolution or ordinance.
    10.   Reconciliation with Clerk. Reconcile the Treasurer’s books with the
 Clerk’s every month.
-19.04 DEPUTY TREASURER.
+** 19.04 DEPUTY TREASURER. **
 As described in
 18.14, a full time City Administrator may appoint a Deputy Treasurer and
 combine those duties with the position of Deputy Clerk so as to have a Deputy
@@ -1594,8 +1594,8 @@ for all three positions. The Administrator may delegate parts of the day to day
 Clerk-Treasurer responsibilities to the Deputy Clerk Treasurer.
 (Section 22.04 – Ord. 2020-01 – Apr. 22 Supp.)
 (Ch. 22 – Ord. 2017-203 – Mar. 18 Supp.)
-CHAPTER 25
-PARK COMMITTEE
+**** CHAPTER 25
+PARK COMMITTEE ****
  
 25.01 Establishment    25.04 Compensation
 25.02 Responsibilities 25.05 Term of Office
@@ -1640,8 +1640,8 @@ committee shall meet at such times and places as may be fixed by the committee,
 but no less than once per year. The committee shall abide by the provisions of
 the State’s regulations on open meetings.
 (Chapter 25 – Ord. 15-2024 – Feb. 25 Supp.)
-CHAPTER 27
-LOW-TO-MODERATE INCOME PROGRAM REVIEW COMMITTEE
+**** CHAPTER 27
+LOW-TO-MODERATE INCOME PROGRAM REVIEW COMMITTEE ****
  
 27.01 Establishment    27.04 Compensation
 27.02 Responsibilities 27.05 Term of Office
@@ -2664,8 +2664,8 @@ or cause to be placed advertising material on or in any structure, playground,
 pole, or other location within a City park without the express permission of
 the City.
 (Ch. 47 – Ord. 03-2023 – Jun. 23 Supp.)
-CHAPTER 48
-FACILITY AND PARK RENTAL PROCEDURES AND FEES
+**** CHAPTER 48
+FACILITY AND PARK RENTAL PROCEDURES AND FEES ****
  
 48.01 Purpose               48.05 Deposit
 48.02 Rules and Regulations 48.06 Conduct of Guests
@@ -2736,8 +2736,8 @@ loss, damage, injury, or costs caused by renter’s acts or omissions,
 negligence, or otherwise, including any costs and attorney fees incurred
 thereby.
 (Ch. 48 – Ord. 01-2022 – May 22 Supp.)
-CHAPTER 49
-MOWING OF PROPERTIES
+**** CHAPTER 49
+MOWING OF PROPERTIES ****
  
 49.01 Purpose                        49.05 Mowing in the Street
 49.02 Uniform Height Specifications  49.06 Procedures and Requirements
@@ -3975,7 +3975,7 @@ hazardous material.
    157.   Section 321.463 – Maximum gross weight.
    158.   Section 321.465 – Weighing vehicles and removal of excess.
    159.   Section 321.466 – Increased loading capacity; reregistration.
-(Section 62.01 – Ord. 20-2023 – Dec. 23 Supp.)
+* (Section 62.01 – Ord. 20-2023 – Dec. 23 Supp.) *
 62.02 PLAY STREETS DESIGNATED.
 The Mayor or Council shall have authority to declare any street or part thereof
 a play street and cause to be placed appropriate signs or devices in the
@@ -4590,8 +4590,8 @@ driver of any vehicle impounded for the violation of any of the provisions of
 this chapter shall be required to pay the reasonable cost of towing and
 storage.
 (Code of Iowa, Sec. 321.236[1])
-CHAPTER 72
-GOLF CARTS
+**** CHAPTER 72
+GOLF CARTS ****
  
 72.01 Purpose            72.08 Public Streets Designated
 72.02 Definitions        72.09 Prohibited Locations
@@ -4957,8 +4957,8 @@ WATER SERVICE
 EDITOR’S NOTE
    Water service for the City is provided pursuant to a service agreement with
 Iowa American Water Company.
-CHAPTER 91
-WATER SERVICE LINES
+**** CHAPTER 91
+WATER SERVICE LINES ****
  
 91.01 Introduction              91.04 Service Connection and Maintenance by
                                 Iowa-American
@@ -5093,7 +5093,7 @@ Compliance
                                                    Discharge/Reinstatement
                                                   95.365 Additional Remedies
  
-I. GENERAL PROVISIONS
+*** I. GENERAL PROVISIONS ***
 95.010 GENERAL ADOPTION.
 The provisions of this chapter are enacted to aid in the enforcement of the
 pretreatment regulations set forth herein and may be placed in a separate
@@ -5500,8 +5500,8 @@ within, flow through or border upon the State of Iowa or any portion thereof.
    79.   “Water Pollution Control Plant Manager” means the Water Pollution
 Control Plant Manager of the Davenport Wastewater Facilities or his or her
 authorized deputy, agent, or representative.
-II. WASTEWATER TREATMENT
-AND PRETREATMENT REGULATIONS
+*** II. WASTEWATER TREATMENT
+AND PRETREATMENT REGULATIONS ***
 95.070 USER REQUIREMENTS.
 The following requirements shall apply to all Users of the POTW:
    1.   All Users shall promptly notify the POTW in advance of any substantial
@@ -6132,8 +6132,8 @@ sewer user charges is not a defense to the collection of the charges.
    2.   The City Council of Riverdale may order suspension of service to those
 premises for which the comprehensive sewer user charge is delinquent.
 95.150 FEES. [Reserved.]
-III. WASTEWATER DISCHARGE PERMITS
-AND REPORTING REQUIREMENTS
+*** III. WASTEWATER DISCHARGE PERMITS
+AND REPORTING REQUIREMENTS ***
 95.155 CLASS OF PERMIT. [Reserved.]
 95.160 PERMIT REQUIREMENTS.
    1.   All new Industrial Users shall notify the Water Pollution Control Plant
@@ -6523,7 +6523,7 @@ the public but such information shall be available to the USEPA or IDNR.
 561-2 of the Iowa Administrative Code shall prevail.
    3.   Effluent data and City of Riverdale enforcement actions will not be
 considered confidential records or information.
-IV. BUILDING SEWERS AND CONNECTIONS
+*** IV. BUILDING SEWERS AND CONNECTIONS ***
 95.235 PERMIT REQUIRED.
 No unauthorized person, city or community shall uncover, make any connection
 with or opening into, use, alter or disturb any public sewer or appurtenance
@@ -6671,7 +6671,7 @@ in consequences of any such permits being revoked or annulled.
    2.   At no time shall a person connect a building lateral into a manhole, or
 interceptor sewer, unless a special permit is obtained from the Director,
 stating how work shall be done, if granted.
-V. SEWER CONNECTION FEES
+*** V. SEWER CONNECTION FEES ***
 95.295 SEWER CONNECTION FEES.
 Pursuant to the authority granted by the Code of Iowa, the City of Riverdale
 establishes the following schedule of sewer connection fees to be paid to the
@@ -6721,7 +6721,7 @@ used, the connection fee shall be the difference between the old usage fee and
 the fee required for the new construction; provided, however, no sewer
 connection was fined at the same time as the wrecking permit or house moving
 permit.
-(Section 95.295 – Ord. 15-2023 – Dec. 23 Supp.)
+* (Section 95.295 – Ord. 15-2023 – Dec. 23 Supp.) *
 95.300 PAYMENT OF SEWER CONNECTION FEES; DISPOSITION OF FUNDS.
 Sewer connection fees shall be remitted to the City Treasurer at the office of
 the Clerk of the City of Riverdale, and the funds so collected shall be kept in
@@ -6731,7 +6731,7 @@ authorized by the Code of Iowa.
 95.305 CONNECTION FEE; PRIVATE SANITARY SEWER.
 Connection fees shall be required when connection is made to a private sanitary
 sewer, and said connection shall conform to all requirements of this chapter.
-VI. ENFORCEMENT PROCEDURES
+*** VI. ENFORCEMENT PROCEDURES ***
 95.310 PUBLIC NOTIFICATION OF SIGNIFICANT NONCOMPLIANCE.
 The POTW shall at a minimum annually publish, in the largest daily newspaper
 published in the JCSC community, a list of Users which at any time during the
@@ -6981,8 +6981,8 @@ may initiate an action, either in law or in equity, to obtain an injunction
 against further violations of this chapter, and for judgment for all costs
 incurred by the POTW occasioned by the User’s violation of any requirements of
 this chapter.
-CHAPTER 96
-SEWER/UTILITES REVIEW COMMITTEE
+**** CHAPTER 96
+SEWER/UTILITES REVIEW COMMITTEE ****
  
 96.01 Sewer Utilities Review Committee  96.04  Vacancies
 96.02 Frequency and Purpose of Meetings 96.05 Compensation
@@ -8510,7 +8510,7 @@ includes but is not limited to empty beverage containers, cigarette butts, food
 waste packaging, other food or candy wrappers, handbills, empty cartons, or
 boxes.
 (Code of Iowa, Sec. 455B.361[2])
-(Ord. 2016-200 – Mar. 18 Supp.)
+* (Ord. 2016-200 – Mar. 18 Supp.) *
    7.   “Owner” means, in addition to the record titleholder, any person
 residing in, renting, leasing, occupying, operating or transacting business in
 any premises, and as between such parties the duties, responsibilities,
@@ -9085,7 +9085,7 @@ license, shall endorse its approval or disapproval on the application, and
 shall forward the application with the necessary fee and bond, if required, to
 the Iowa Department of Revenue.
 (Code of Iowa, Sec. 123.32[2])
-(Ord. 12-2023 – Dec. 23 Supp.)
+* (Ord. 12-2023 – Dec. 23 Supp.) *
 120.05 PROHIBITED SALES AND ACTS.
 A person holding a retail alcohol license and the person’s agents or employees
 shall not do any of the following:
@@ -9180,7 +9180,7 @@ as allowed by State law.
 vaporize an alcoholic beverage for the purpose of being consumed in a vaporized
 form.
 (Code of Iowa, Sec. 123.49[2k])
-(Section 120.05 – Ord. 12-2023 – Dec. 23 Supp.)
+* (Section 120.05 – Ord. 12-2023 – Dec. 23 Supp.) *
 120.06 AMUSEMENT DEVICES.
 The following provisions pertain to electrical or mechanical amusement devices
 possessed and used in accordance with Chapter 99B of the Code of Iowa. (Said
@@ -9202,7 +9202,7 @@ electrical or mechanical amusement device.
    4.   It is unlawful for any person to knowingly participate in the operation
 of a registered electrical or mechanical amusement device with a person under
 the age of 21.
-(Ord. 2015-198 – Oct. 15 Supp.)
+* (Ord. 2015-198 – Oct. 15 Supp.) *
 CHAPTER 121
 CIGARETTE AND TOBACCO PERMITS
  
@@ -9308,7 +9308,7 @@ issued. Each permit issued shall describe clearly the place of business for
 which it is issued and shall be nonassignable. All permits expire on June 30 of
 each year. The Clerk shall submit a duplicate of any application for a permit
 to the Iowa Department of Revenue within 30 days of issuance of a permit.   
-(Ord. 12-2023 – Dec. 23 Supp.)
+* (Ord. 12-2023 – Dec. 23 Supp.) *
 121.06 REFUNDS.
 A retailer may surrender an unrevoked permit and receive a refund from the
 City, except during April, May, or June, in accordance with the schedule of
@@ -10094,8 +10094,8 @@ to the County Treasurer for collection in the manner provided for other taxes.
 In addition, the City may take any other action deemed appropriate to recover
 costs incurred.
 (Code of Iowa, Sec. 364.12[3h])
-CHAPTER 146
-ABANDONED VEHICLES
+**** CHAPTER 146
+ABANDONED VEHICLES ****
 146.01   ADOPTION OF IOWA CODE CHAPTER 657A.
 Chapter 657A of the Iowa Code is hereby adopted by the City of Riverdale, Iowa,
 and said chapter, including but not limited to Section 657A.1A through 657A.10,
@@ -10522,7 +10522,7 @@ ordinance or any administrative decision lawfully made there under. 
    7.   Severability. If any section, clause, provision or portion of this
 ordinance is adjudged unconstitutional or invalid by a court of competent
 jurisdiction, the remainder of this ordinance shall not be affected thereby.
-(Section 160.03 – Ord. 17-2023 – Dec. 23 Supp.)
+* (Section 160.03 – Ord. 17-2023 – Dec. 23 Supp.) *
 160.04   ADMINISTRATION.
    1.   Appointment, Duties and Responsibilities of Local Official.
       A.   The Scott County Director of Planning and Development is hereby
@@ -10869,7 +10869,7 @@ beneficial purpose and shall be limited to the minimum amount necessary.
       I.   Pipeline river or stream crossings shall be buried in the streambed
 and banks or otherwise sufficiently protected to prevent rupture due to channel
 degradation and meandering or due to the action of flood flows.
-(Section 160.05 – Ord. 17-2023 – Dec. 23 Supp.)
+* (Section 160.05 – Ord. 17-2023 – Dec. 23 Supp.) *
 160.06   VARIANCE PROCEDURES.
    1.   The City Council may authorize upon request in specific cases such
 variances from the terms of this ordinances that will not be contrary to the
@@ -10981,8 +10981,8 @@ be amended, supplemented, changed, or repealed. No amendment, supplement,
 change, or modification shall be undertaken without prior approval of the
 Department of Natural Resources.
 (Chapter 160 – Ord. 01-2021 – Apr. 22 Supp.)
-CHAPTER 165
-ZONING REGULATIONS
+**** CHAPTER 165
+ZONING REGULATIONS ****
 EDITOR'S NOTE
 The “Zoning Ordinance of the City of Riverdale, Iowa,” adopted by Ordinance No.
 2014-190 on December 2, 2014, and amendments thereto, contained in a separate
@@ -11000,8 +11000,8 @@ ORDINANCE ADOPTED  ORDINANCE ADOPTED
 002-2025  2-3-25
 006-2025  5-29-25
  
-ARTICLE I
-SHORT TITLE AND PURPOSE
+**** ARTICLE I
+SHORT TITLE AND PURPOSE ****
  
 Section 10 Title Section 11 Purpose
  
@@ -11015,8 +11015,8 @@ requiring permits for building, structures, and the use thereof.
 For the purpose of promoting the public health, safety, morals, comfort and
 general welfare, conserving the value of property throughout the City and
 lessening and voiding congestion in the public streets.
-ARTICLE II
-DEFINITIONS
+**** ARTICLE II
+DEFINITIONS ****
 SECTION 20.   DEFINITIONS
 For the purpose of this ordinance, certain terms and words are hereby defined.
 Words used in the present tense shall include the future; the singular number
@@ -11308,10 +11308,10 @@ G.   FEES.
 Before the site plan is considered by the planning and zoning commission, the
 building permit applicant shall pay the fees as determined by Scott County and
 the City of Riverdale.
-ARTICLE III|
-DISTRICT BOUNDARIES AND GENERAL REGULATIONS
+**** ARTICLE III|
+DISTRICT BOUNDARIES AND GENERAL REGULATIONS ****
  
-SECTION 30.   DISTRICTS
+** SECTION 30.   DISTRICTS **
 In order to classify, regulate and restrict the locations of trades, industries
 and the location of buildings designed for specific uses, to regulate and limit
 the height and bulk of buildings hereafter erected or structurally altered, to
@@ -11420,8 +11420,8 @@ to exceed six (6) feet.
 35.05.   Permits Required. A zoning permit must be obtained from the City of
 Riverdale Zoning Inspector before any fence may be constructed or erected on
 any property.
-ARTICLE III-A
-HCOD HIGHWAY CORRIDOR OVERLAY DISTRICT
+**** ARTICLE III-A
+HCOD HIGHWAY CORRIDOR OVERLAY DISTRICT ****
  
 Section 36 Title and Intent Section 39 Height, Yard, Lot Width and Area
                             Regulations
@@ -11701,8 +11701,8 @@ g) The use of tinsel and pennants or other attention-getting devices other than
 approved signage are prohibited in the "HCOD" highway corridor overlay district
 other than for a thirty-day period immediately following the granting of an
 occupancy permit for a new business.
-ARTICLE IV
-R-1 SINGLE-FAMILY RESIDENTIAL DISTRICT REGULATIONS
+**** ARTICLE IV
+R-1 SINGLE-FAMILY RESIDENTIAL DISTRICT REGULATIONS ****
  
 Section 40 Title           Section 42 Height Regulations
 Section 41 Use Regulations Section 43 Area Regulations
@@ -11771,8 +11771,8 @@ d.   A satellite receiver may be erected or placed in any corner lot provided
 it is located only in the yard that is opposite the yard used for the street
 address of the residence.
 (Section 43 - Ord. 002-2025)
-ARTICLE V
-R-2 MULTI-FAMILY RESIDENTIAL DISTRICT
+**** ARTICLE V
+R-2 MULTI-FAMILY RESIDENTIAL DISTRICT ****
  
 Section 50 Title           Section 52 Height Regulations
 Section 51 Use Regulations Section 53 Area Regulations
@@ -11828,8 +11828,8 @@ erected upon or affixed to any building.
 d.   A satellite receiver may be erected or placed in any corner lot provided
 it is located only in the yard that is opposite the yard used for the street
 address of the residence.
-ARTICLE VI
-C COMMERCIAL DISTRICT
+**** ARTICLE VI
+C COMMERCIAL DISTRICT ****
 SECTION 60.   TITLE.
 (Repealed by Ordinance No. 06-2024)
 SECTION 61.   USE REGULATIONS.
@@ -11838,8 +11838,8 @@ SECTION 62.   HEIGHT REGULATIONS.
 (Repealed by Ordinance No. 06-2024)
 SECTION 63.   AREA REGULATIONS.
 (Repealed by Ordinance No. 06-2024)
-ARTICLE VI-A
-C-1 and C-2 COMMERCIAL DISTRICTS
+**** ARTICLE VI-A
+C-1 and C-2 COMMERCIAL DISTRICTS ****
 SECTION 60A.   PURPOSE AND APPLICABILTY.
 60A.1 Purpose.
 The commercial district regulations of this Article are intended to govern the
@@ -13165,8 +13165,8 @@ development.
 3.   Approved Plans Superseded by Approved Revised Plans. All approved
 landscape plans superseded by an approved revised landscape plan shall be
 considered to be null and void at the time of approval of the revised plan.
-ARTICLE VII
-M-1 LIGHT INDUSTRIAL DISTRICT
+**** ARTICLE VII
+M-1 LIGHT INDUSTRIAL DISTRICT ****
  
 Section 70 Title           Section 72 Height Regulations
 Section 71 Use Regulations Section 73 Area Regulations
@@ -13213,8 +13213,8 @@ less than sixty (60) feet, except that if a lot or tract has less area or width
 than herein required and was legally platted and was on record at the time of
 the passage of the 1977 Ordinance, such lot or tract may be used for any of the
 uses permitted by this Article.
-ARTICLE VIII
-M-2 HEAVY INDUSTRIAL DISTRICT
+**** ARTICLE VIII
+M-2 HEAVY INDUSTRIAL DISTRICT ****
  
 Section 80 Title           Section 82 Height Regulations
 Section 81 Use Regulations Section 83 Use Regulations
@@ -13243,8 +13243,8 @@ intensity of use for a use permitted in the "M-2" Heavy Industrial District
 shall be established by the City Council at the time that the special use
 permit is approved. Such restrictions shall be considered after a
 recommendation of the Planning Commission.
-ARTICLE IX
-SPECIAL USE PERMITS
+**** ARTICLE IX
+SPECIAL USE PERMITS ****
  
 Section 90 Special Use Permit     Section 92 Proecedures for A Special Use
 Regulations                       Permit
@@ -13285,8 +13285,8 @@ of the following buildings or uses, or an increase in height, in any district
 from which they are prohibited or limited by this Ordinance.
 SECTION 92   PROCEDURES FOR A SPECIAL USE PERMIT.
 Repealed in May 17, 2016
-ARTICLE X
-NON-CONFORMING USES
+**** ARTICLE X
+NON-CONFORMING USES ****
  
 Section 100 Continuation of Non-       Section 102 Restoriation After Damage
 Conforming Uses
@@ -13297,7 +13297,7 @@ The lawful use of a building existing at the time of the adoption of this
 Ordinance may be continued, although such use does not conform to the provision
 hereof. A non-conforming use of a building may not be changed to another non-
 conforming use.
-SECTION 101   DISCONTINUATION OF CERTAIN NON-CONFORMING USES.
+** SECTION 101   DISCONTINUATION OF CERTAIN NON-CONFORMING USES. **
 The lawful use of land for storage purposes (where such use is not an adjunct
 of any building) and for advertising signs and billboards which does not
 conform to the provisions of this Ordinance shall be discontinued within five
@@ -13318,8 +13318,8 @@ In the event that a non-conforming use of any building or premises is
 discontinued or its normal operation stopped for a period of one (1) year, the
 use of the same shall thereafter conform to the regulations of the
 district in which it is located.
-ARTICLE XI
-EXCEPTIONS AND VARIATIONS T OTHE USE HEIGHT AND AREA REGULATIONS
+**** ARTICLE XI
+EXCEPTIONS AND VARIATIONS T OTHE USE HEIGHT AND AREA REGULATIONS ****
  
 Section 110 Exceptions and Variations Section 115 REasonable Accommodation
                                       Variance
@@ -13480,8 +13480,8 @@ the structure (other than to the use of the structure), shall expire when:
 damaged or is destroyed and
 2)   occupancy of the lot by the activity, use, or individual/entity qualifying
 for the variance under state or federal law has ceased.
-ARTICLE XII
-BOARD OF ADJUSTMENT
+**** ARTICLE XII
+BOARD OF ADJUSTMENT ****
  
 Section 120 Creation and Membership Section 124 Notification
 Section 121 Meetings                Section 125 Relief
@@ -13519,7 +13519,7 @@ action appealed from was taken.
 The Board shall render a decision on the appeal without unreasonable delay. Any
 person may appear and testify at the hearing, either in person or by duly
 authorized agent or attorney.
-SECTION 123   JURISDICTION.
+** SECTION 123   JURISDICTION. **
 123.01.   The Board of Adjustment shall hear and decide appeals from any order,
 requirement, decision or determination made by the County Building Inspector on
 all matters pertaining to zoning.
@@ -13670,8 +13670,8 @@ for a new permit when a new permit is required shall be treated as a separate,
 additional infraction.
 All permit fees that are required under this ordinance and the provisions of
 the subsection shall be paid in full before any occupancy permit is granted.
-ARTICLE XIII
-OCCUPANCY PERMITS
+**** ARTICLE XIII
+OCCUPANCY PERMITS ****
  
 Section 130 Applicability Section 131 Record Requirements
 SECTION 130   APPLICABILITY.
@@ -13690,8 +13690,8 @@ A record of all applications, provisional permits and certificates of occupancy
 shall be kept on file in the office of the Building Inspector, and copies shall
 be furnished on request to any person having a proprietary or tenancy interest
 in land or in a building affected by such certificate of occupancy.
-ARTICLE XIV
-PLATS
+**** ARTICLE XIV
+PLATS ****
 SECTION 140   REQUIREMENTS.
 Each application for an occupancy certificate shall be accompanied by a plat in
 duplicate, or duplicate prints thereof, drawn to scale, showing the actual
@@ -13700,8 +13700,8 @@ building to be erected, the size, shape and location of any existing buildings,
 and such other information as may be necessary for the enforcement of this
 Ordinance. A record of applicants and plats shall be kept in the office of the
 Building Inspector.
-ARTICLE XV
-BOUNDARIES OF DISTRICTS
+**** ARTICLE XV
+BOUNDARIES OF DISTRICTS ****
 SECTION 150   RULES WHERE UNCERTAINTY MAY ARISE.
 Where uncertainty exists with respect to the boundaries of the various
 districts as shown on the map accompanying and made a part of this Ordinance,
@@ -13720,15 +13720,15 @@ otherwise indicated on the map.
 150.03.   In unsubdivided property the district boundary lines on the District
 Zoning Map accompanying and made a part of this Ordinance shall be determined
 by use of the scale appearing on the map.
-ARTICLE XVI
-ENFORCEMENT
+**** ARTICLE XVI
+ENFORCEMENT ****
 SECTION 160   ZONING INSPECTOR.
 It shall be the duty of all officers and employees of the City to assist the
 Zoning Inspector by reporting to him upon new construction, reconstruction, or
 land uses, or upon seeing violations. Appeal from the decision of the Zoning
 Inspector may be made to the Board of Adjustment as provided in Article XII.
-ARTICLE XVII
-INTERPRETATION, PURPOSE AND CONFLICT
+**** ARTICLE XVII
+INTERPRETATION, PURPOSE AND CONFLICT ****
 SECTION 170   INTERPRETATION, PURPOSE AND CONFLICT.
 In interpreting and applying the provisions of this Ordinance, they shall be
 held to the minimum requirements for the promotion of the public safety,
@@ -13744,8 +13744,8 @@ imposes a greater restriction upon the use of buildings or premises or upon
 height of buildings or requires larger open spaces than are imposed or required
 by such ordinances or agreements, the provisions of this Ordinance shall
 control.
-ARTICLE XVIII
-AMENDMENTS AND CHANGES
+**** ARTICLE XVIII
+AMENDMENTS AND CHANGES ****
  
 Section 180 Authority Section 181 Procedure
 SECTION 180   AUTHORITY.
@@ -13785,8 +13785,8 @@ exiting at the time of passage of such amendment in such transferred area.
 It shall be the duty of the City Council to act upon such proposed amendment,
 supplement, change, modification or repeal within thirty (30) days after
 receiving the report from the Planning and Zoning Commission.
-ARTICLE XIX
-VIOLATION AND PENALTY
+**** ARTICLE XIX
+VIOLATION AND PENALTY ****
  
 Section 190 Fines for Violations Section 191 Violations
 SECTION 190   FINES FOR VIOLATIONS.
@@ -13805,25 +13805,25 @@ prevent such unlawful erection, construction, reconstruction, alteration,
 repair, conversion, maintenance, or use, to restrain, correct or abate such
 violations, to prevent the occupancy of said building, structure or land, or to
 prevent any illegal act, conduct, business or use in or about said premises.
-ARTICLE XX
-VALIDITY/SEVERABILITY
+**** ARTICLE XX
+VALIDITY/SEVERABILITY ****
 SECTION 200   VALIDITY.
 Should any section or provisions of this Ordinance be declared by a court of
 competent jurisdiction to be invalid, such decision shall not affect the
 validity of the Ordinance as a whole or any part thereof other than the part so
 declared to be invalid.
-ARTICLE XXI
-REPEAL OF CONFLICTING ORDINANCES
+**** ARTICLE XXI
+REPEAL OF CONFLICTING ORDINANCES ****
 SECTION 210   REPEAL OF CONFLICTING ORDINANCES.
 All ordinances or parts of ordinances in conflict herewith are hereby repealed.
-ARTICLE XXII
-DATE OF EFFECT
+**** ARTICLE XXII
+DATE OF EFFECT ****
 SECTION 220   DATE OF EFFECT.
 This Ordinance shall be in full force and effect from and after publication and
 recording as provided by law.
 PASSED and APPROVED this 17 day of May, 2016.
-CHAPTER 170
-SUBDIVISION ORDINANCE
+**** CHAPTER 170
+SUBDIVISION ORDINANCE ****
  
 ARTICLE 1
 TITLE, JURISDICITIONS, AND DEFINITIONS
@@ -13973,8 +13973,8 @@ traffic.
 TURNAROUND   "Turnaround" means a radial, circular, or loop drive at the
 termination end of a cul-de-sac permitting a vehicle to reverse its direction
 while continuing its forward movement.
-ARTICLE II
-SUBDIVISION CLASSIFICATION AND PROCEDURES FOR REVlEW OF SUBDIVISIONS
+**** ARTICLE II
+SUBDIVISION CLASSIFICATION AND PROCEDURES FOR REVlEW OF SUBDIVISIONS ****
  
 Section 20 Subdivision Classification    Section 24 Preliminary Plat Submittal
                                          (Major Plat)
@@ -14499,8 +14499,8 @@ existing fence is in need of repair, the cost will be assigned to the
 appropriate land owner.
 30.16.   Protecting Integrity of Drainage Tile. Subdivision will be designed
 and constructed to protect the integrity of existing drainage tile.
-ARTICLE IV
-BONDING AND ASSESSMENT WAIVERS
+**** ARTICLE IV
+BONDING AND ASSESSMENT WAIVERS ****
  
 Section 40 Bonding and Assesment Waivers
 SECTION 40   BONDING AND ASSESMENT WAIVERS.
@@ -14539,8 +14539,8 @@ severally liable by any difference between the cost of the improvements and the
 amount which can be legally assessed by the City against the subdivided area.
 Any assessment by the City under the terms of an Assessment Waiver shall be
 payable in lump sum upon demand of the City.
-ARTICLE V
-REQUIRED IMPROVEMENTS
+**** ARTICLE V
+REQUIRED IMPROVEMENTS ****
  
 Section 50 General Information      Section 54 Water Main and Lines
 Section 51 Roadway Requirements     Section 55 Signs
@@ -14635,8 +14635,8 @@ warranty shall be by bond; shall be subject to review by the City Attorney;
 shall assure the expedient repair or replacement of defective improvements
 under warranty; and shall indemnify the City from all costs or losses resulting
 from or contributed to such defective Improvements.
-ARTICLE VI
-ADMINISTRATION AND LEGAL DATA
+**** ARTICLE VI
+ADMINISTRATION AND LEGAL DATA ****
  
 Section 60 Conditional Approval Section 64 Fees
 Section 61 Amendments           Section 65 Repealer
