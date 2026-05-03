@@ -9,8 +9,8 @@ Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
 CHARTER
-CHAPTER I
-NAME, BOUNDARIES, POWERS AND GENERAL PROVISIONS
+***** CHAPTER I
+NAME, BOUNDARIES, POWERS AND GENERAL PROVISIONS *****
 SECTION 1.01. NAME AND BOUNDARIES.
    The City of West Saint Paul, in the County of Dakota and the State of
 Minnesota, shall, upon the taking effect of this Charter, continue to be a
@@ -77,8 +77,8 @@ SECTION 1.06. CHARTER COMMISSION MEMBERSHIP.
    The Commission shall be composed of eleven (11) qualified voters of the City
 who have been appointed as provided by law.
 (Ord. 04-08, passed 7-12-2004; Ord. 12-14, passed 7-23-2012)
-CHAPTER II
-FORM OF GOVERNMENT
+***** CHAPTER II
+FORM OF GOVERNMENT *****
 SECTION 2.01. FORM OF GOVERNMENT.
    The form of government established by this Charter is the "Council-Manager
 Plan". The Council shall exercise the legislative power of the City and
@@ -228,8 +228,8 @@ official who has been adjudicated of violating the provisions of this Charter
 may be subject to removal or termination of their public office or position by
 the District Court.
 (Ord. 98-01, passed 1-26-1998)
-CHAPTER III
-PROCEDURE OF COUNCIL
+***** CHAPTER III
+PROCEDURE OF COUNCIL *****
 SECTION 3.01. COUNCIL MEETINGS.
    All meetings of the Council are public meetings, except as otherwise
 permitted by law. Any person may inspect the minutes and records of the Council
@@ -352,8 +352,8 @@ schedule.
 SECTION 3.12. CODE OF ETHICS.
    Within ninety (90) days after taking office, each newly elected City Council
 shall adopt a Code of Ethics.
-CHAPTER IV
-NOMINATIONS AND ELECTIONS
+***** CHAPTER IV
+NOMINATIONS AND ELECTIONS *****
 SECTION 4.01. PRIMARY AND GENERAL ELECTIONS.
    The Municipal Election Day in the City of West Saint Paul is the first
 Tuesday after the first Monday in November in even numbered years and municipal
@@ -450,8 +450,8 @@ shall conform as nearly as possible to that prescribed for other municipal
 elections. The purpose of such Special Election shall be clearly stated in such
 resolution, and no other matter shall be submitted thereat.
 (Ord. 23-008, passed 7-24-2023)
-CHAPTER V
-INITIATIVE AND REFERENDUM
+***** CHAPTER V
+INITIATIVE AND REFERENDUM *****
 SECTION 5.01. POWERS RESERVED BY THE PEOPLE.
    The people of West Saint Paul reserve to themselves the power, in accordance
 with the provisions of this Charter, to initiate and adopt any ordinance,
@@ -706,8 +706,8 @@ successor in office.
 such recall proceedings, compliance with the provisions of this section may be
 enforced by proceedings in the district court of Dakota County at the suit of
 any citizen of this City.
-CHAPTER VI
-ADMINISTRATION OF CITY AFFAIRS
+***** CHAPTER VI
+ADMINISTRATION OF CITY AFFAIRS *****
 SECTION 6.01. THE CITY MANAGER.
    The City Manager shall be the chief administrative officer of the City. The
 Manager shall be chosen by the Council solely on the basis of experience and
@@ -837,8 +837,8 @@ SECTION 6.07. LABOR CONTRACTS.
    The City Manager is responsible for negotiating contracts with the City
 officers and employees or their bargaining agents to extend for an appropriate
 term and shall submit the final agreement to the City Council for approval.
-CHAPTER VII
-TAXATION AND FINANCES
+***** CHAPTER VII
+TAXATION AND FINANCES *****
 SECTION 7.01. COUNCIL TO CONTROL FINANCES.
    The Council shall have full authority over the financial affairs of the
 City, and shall provide for the collection of all revenues and other assets,
@@ -1007,8 +1007,8 @@ benefits; employee recognition; and funding for conference attendance. The
 council may also provide specific authorization regarding any other
 expenditure.
 (Ord. 23-017, passed 11-13-2023)
-CHAPTER VIII
-PUBLIC IMPROVEMENTS AND SPECIAL ASSESSMENTS
+***** CHAPTER VIII
+PUBLIC IMPROVEMENTS AND SPECIAL ASSESSMENTS *****
 SECTION 8.01. POWER TO MAKE IMPROVEMENTS AND LEVY ASSESSMENTS.
    The City may make any type of public improvement not prohibited by law and
 may levy special assessments to pay all or part of the costs that are of local
@@ -1025,8 +1025,8 @@ SECTION 8.03. LOCAL IMPROVEMENT REGULATIONS.
 SECTION 8.04. PUBLIC WORKS: HOW PERFORMED.
    Repealed.
 (Ord. 12-19, passed 7-23-2012)
-CHAPTER IX
-EMINENT DOMAIN (CONDEMNATION PROCEEDINGS)
+***** CHAPTER IX
+EMINENT DOMAIN (CONDEMNATION PROCEEDINGS) *****
 SECTION 9.01. POWER TO ACQUIRE PROPERTY.
    The City may acquire, by purchase, gift, devise, or condemnation, any
 property, within or without its corporate boundaries that may be needed by the
@@ -1037,8 +1037,8 @@ federal law.
 SECTION 9.02. PROCEEDINGS IN ACQUIRING PROPERTY.
    Repealed.
 (Ord. 12-20, passed 7-23-2012)
-CHAPTER X
-FRANCHISES
+***** CHAPTER X
+FRANCHISES *****
 SECTION 10.01. FRANCHISE REQUIRED.
    Except as otherwise provided by law, no person, firm or corporation shall
 place or maintain any permanent or semi-permanent fixtures in, over, upon, or
@@ -1071,8 +1071,8 @@ SECTION 10.05. RENEWALS OR EXTENSION.
    Every extension, renewal or modification of any existing franchise or of any
 franchise granted hereafter shall be subject to the same limitations and shall
 be granted in the same manner as a new franchise.
-CHAPTER XI
-PUBLIC OWNERSHIP AND OPERATION OF UTILITIES
+***** CHAPTER XI
+PUBLIC OWNERSHIP AND OPERATION OF UTILITIES *****
 SECTION 11.01. ACQUISITION AND OPERATION OF UTILITIES.
    The City may own and operate or contract for any gas, water, heat, power,
 light, telephone or other public utility service for supplying its own needs
@@ -1110,8 +1110,8 @@ an ordinance approved by a unanimous vote by all members of the Council. In
 case of a water works or light plant, any sale, lease or abandonment shall be
 subject, in addition, to the requirements of state law.
 (Ord. 00-34, passed 8-14-2000)
-CHAPTER XII
-MISCELLANEOUS AND TRANSITORY PROVISIONS 
+***** CHAPTER XII
+MISCELLANEOUS AND TRANSITORY PROVISIONS  *****
 SECTION 12.01. OFFICIAL PUBLICATIONS.
    The Council shall biennially designate a legal newspaper of general
 circulation in the City as its official newspaper in which shall be published
@@ -6527,7 +6527,7 @@ Weeds
 94.37   Definitions; exclusions
    
 94.38   Owners responsible for trimming, removal and the like
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 ASSESSABLE CURRENT SERVICES.
    (A)   Definition. For the purpose of this section, the following definition
 shall apply unless the context clearly indicates or requires a different
@@ -6625,7 +6625,7 @@ Minn. Stat. § 429.101, as it may be amended from time to time, and other
 pertinent statutes for certification to the County Auditor and collection along
 with current taxes the following year or in annual installments, not exceeding
 ten, as the City Council may determine in each case.
-NUISANCES
+**** NUISANCES ****
 § 94.15 PUBLIC NUISANCE.
    (A)   Definitions. For purposes of this section, the terms defined have the
 following meanings.
@@ -7019,7 +7019,7 @@ city within two consecutive calendar years concerning real property owned by
 the same person. The civil penalty will be imposed without regard to whether
 the nuisances abated by the city involved the same real property or are of the
 same character.
-WEEDS
+**** WEEDS ****
 § 94.35 SHORT TITLE.
    This subchapter shall be cited as the “Weed Ordinance.”
 § 94.36 JURISDICTION.
@@ -12463,7 +12463,7 @@ one of the above-mentioned violations, the City Council shall impose a liquor
 license civil penalty pursuant to the guidelines set forth in City Council
 Resolution 09-85.
 (Ord. 15-11, passed 11-9-2015)
-3.2% MALT LIQUOR
+**** 3.2% MALT LIQUOR ****
 § 112.20 DEFINITIONS.
    (A)   Definitions. For the purpose of this subchapter, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -16302,7 +16302,7 @@ order of the City Council and upon payment in an amount established by City
 Council resolution.
 (2001 Code § 415.13) (Ord. 14-01A, passed 1-13-2014; Ord. 23-009, passed 6-26-
 2023)
-TEMPORARY FAMILY HEALTH CARE DWELLINGS
+**** TEMPORARY FAMILY HEALTH CARE DWELLINGS ****
 § 150.125 OPT-OUT FOR TEMPORARY FAMILY HEALTHCARE DWELLING REGULATIONS.
    Pursuant to authority granted by Minn. Stat. § 462.3593, Subd. 9, the City
 of West St. Paul opts out of the requirements of Minn. Stat. § 462.3593, which
@@ -18778,7 +18778,7 @@ be returned to the applicant following final action by the city in the matter.
 wherein the applicant agrees to pay all reasonable fees and expenses incurred
 by the city from the city’s consultants’ investigation, report and
 recommendation, concerning the land use matter.
-R-1A ONE-FAMILY RESIDENTIAL DISTRICT
+**** R-1A ONE-FAMILY RESIDENTIAL DISTRICT ****
 § 153.050 PERMITTED USES.
    Within any “R-1A” One-Family Residential District, no structure or land
 shall be used except for one or more of the following uses:
@@ -19057,7 +19057,7 @@ Services; and
 state and local licenses and permits required prior to occupancy of the interim
 use.
 (Ord. 18-16, passed 10-8-2018)
-R-1B ONE-FAMILY RESIDENTIAL DISTRICT
+**** R-1B ONE-FAMILY RESIDENTIAL DISTRICT ****
 § 153.065 PERMITTED USES.
    Within the R-1B One-Family Residential District, no land or structure shall
 be used except for one or more of the following uses: any permitted use
@@ -19171,7 +19171,7 @@ uses:
 the conditions outlined in §
 153.054(A).
 (Ord. 18-16, passed 10-8-2018)
-R-1C ONE-FAMILY RESIDENTIAL DISTRICT
+**** R-1C ONE-FAMILY RESIDENTIAL DISTRICT ****
 § 153.080 PERMITTED USES.
    Within the R-1C One-Family Residential District, no land or structure shall
 be used except for one or more of the following uses: any permitted use
@@ -19284,7 +19284,7 @@ uses:
 the conditions outlined in §
 153.054(A).
 (Ord. 18-16, passed 10-8-2018)
-R-2 TWO-FAMILY RESIDENTIAL DISTRICT
+**** R-2 TWO-FAMILY RESIDENTIAL DISTRICT ****
 § 153.095 PERMITTED USES.
    Within the R-2 Two-Family Residential District, no structure or land shall
 be used, except for one or more of the following uses:
@@ -19326,7 +19326,7 @@ glass or other comparable material as approved by the Zoning Administrator.
 Prohibited materials include, but are not limited to, cloth, fabric, canvas,
 plastic sheets, tarps, tarpaper, insulation, sheet metal and corrugated metal.
 (Ord. 09-19, passed - -; Ord. passed 10-11-1963; Ord. 16-12, passed 11-14-2016)
-R-3 TOWNHOUSE, 3-8 UNIT RESIDENTIAL DISTRICT
+**** R-3 TOWNHOUSE, 3-8 UNIT RESIDENTIAL DISTRICT ****
 § 153.110 PERMITTED USES.
    Within any R-3, Townhouse Residential District, no structure or land shall
 be used except for of the following uses:
@@ -19382,7 +19382,7 @@ Prohibited materials include, but are not limited to, cloth, fabric, canvas,
 plastic sheets, tarps, tarpaper, insulation, sheet metal and corrugated metal.
 (Ord. 09-19, passed - -; Ord. passed 10-11-1963; Ord. 16-12, passed 11-14-2016;
 Ord. 20-019, passed 10- 12-2020)
-R-4 MULTIPLE-FAMILY 3-16 UNIT RESIDENTIAL DISTRICT
+**** R-4 MULTIPLE-FAMILY 3-16 UNIT RESIDENTIAL DISTRICT ****
 § 153.125 PERMITTED USES.
    Within the R-4 Multiple-Family District, no structure or land shall be used
 except for the following use:
@@ -19462,7 +19462,7 @@ fabric, canvas, plastic sheets, tarps, tarpaper, insulation, sheet metal and
 corrugated metal.
 (Ord. 09-19, passed - -; Ord. passed 10-11-1963; Ord. 16-12, passed 11-14-2016;
 Ord. 20-019, passed 10- 12-2020)
-B-1 LIMITED BUSINESS DISTRICT
+**** B-1 LIMITED BUSINESS DISTRICT ****
 § 153.140 PERMITTED USES.
    Within the B-1 Limited Business District, no structure or land shall be
 used, except for one or more of the following uses, or uses deemed similar by
@@ -19556,7 +19556,7 @@ R District.
    Within the B-1, Limited Business District, the following uses are
 prohibited: State-licensed residential care facilities.
 (Ord. 21-011, passed 8-23-2021)
-B-2 NEIGHBORHOOD BUSINESS DISTRICT
+**** B-2 NEIGHBORHOOD BUSINESS DISTRICT ****
 § 153.155 PERMITTED USES.
    Within the B-2 Neighborhood Business District, no structure or land shall be
 used except for one or more of the following uses, or uses deemed similar by
@@ -19718,7 +19718,7 @@ from an R use, screening must comply with §
    Within the B-2, Neighborhood Business District, the following uses are
 prohibited: State-licensed residential care facilities.
 (Ord. 21-011, passed 8-23-2021)
-B-3 GENERAL BUSINESS DISTRICT
+**** B-3 GENERAL BUSINESS DISTRICT ****
 § 153.170 PERMITTED USES.
    Within the B-3 General Business District, no structure or land shall be
 used, except for one or more of the following uses, or uses deemed similar by
@@ -19881,7 +19881,7 @@ an R use, screening must comply with §
    Within the B-3, General Business District, the following uses are
 prohibited: State-licensed residential care facilities.
 (Ord. 21-011, passed 8-23-2021)
-B-4 SHOPPING CENTER DISTRICT
+**** B-4 SHOPPING CENTER DISTRICT ****
 § 153.185 PURPOSE.
    (A)   The purpose of this district is to establish provisions for the
 designating of a district where a multiple building retail sales and service
@@ -19998,7 +19998,7 @@ from an R use, screening must comply with §
    Within the B-4 Shopping Center District, the following uses are prohibited:
 State-licensed residential care facilities.
 (Ord. 21-011, passed 8-23-2021)
-B-5 GATEWAY NORTH MIXED USE DISTRICT
+**** B-5 GATEWAY NORTH MIXED USE DISTRICT ****
 § 153.205 PERMITTED USES.
    (A)   The following provisions shall apply.
    (B)   Within the B-5 Gateway North Mixed Use District, no structure or land
@@ -20128,7 +20128,7 @@ Family Districts, in §
 residential use, screening must comply with §
 153.031(C)(4).
 (Ord. passed 10-11-1963)
-B-6 TOWN CENTER MIXED USE DISTRICT
+**** B-6 TOWN CENTER MIXED USE DISTRICT ****
 § 153.220 PERMITTED USES.
    Within the B-6 Town Center Mixed Use District, no structure or land shall be
 used, except for one or more of the following uses, or uses deemed similar by
@@ -20165,7 +20165,7 @@ screening must comply with §
    Within the B-6, Town Center Mixed Use District, the following uses are
 prohibited: State-licensed residential care facilities.
 (Ord. 21-011, passed 8-23-2021)
-I-1 LIGHT INDUSTRIAL DISTRICT
+**** I-1 LIGHT INDUSTRIAL DISTRICT ****
 § 153.235 PERMITTED USES.
    Within the I-1 Light Industrial District, no structure or land shall be
 used, except for one or more of the following uses, or uses deemed similar by
@@ -20388,7 +20388,7 @@ yards and/or rear yard depth shall be a minimum of 50 feet.
    Within the I-1, Light Industrial District, the following uses are
 prohibited: State-licensed residential care facilities.
 (Ord. 21-011, passed 8-23-2021)
-I-2 GENERAL INDUSTRIAL DISTRICT
+**** I-2 GENERAL INDUSTRIAL DISTRICT ****
 § 153.250 PERMITTED USES.
    Within the I-2 General Industrial District, no structure or land shall be
 used except for one or more of the following uses, or uses deemed similar by
@@ -20725,7 +20725,7 @@ by the Comprehensive Plan.
    Uses specified by the approved final plan for the property, including
 residential, commercial and industrial uses.
 (Ord. passed 10-11-1963)
-SMITH/DODD OVERLAY DISTRICT
+**** SMITH/DODD OVERLAY DISTRICT ****
 § 153.315 SMITH/DODD OVERLAY DISTRICT.
    (A)   General provisions.
       (1)   Establishment of the overlay district; intent. There is hereby
