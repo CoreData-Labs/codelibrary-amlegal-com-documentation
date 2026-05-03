@@ -594,7 +594,7 @@ Fire Department
 Other Departments
    
 31.50   Other departments
-CITY MANAGER
+**** CITY MANAGER ****
 § 31.01 GENERALLY.
    The Manager shall have the powers and duties set forth in this chapter. The
 City of North St. Paul is a plan B city, City Manager form of government,
@@ -660,7 +660,7 @@ force and effect as if taken by the Manager.
    The Manager shall perform the duties of the City Clerk and may appoint a
 Deputy Clerk.
 (Ord. 761, passed 2-21-2017)
-CITY FINANCE DIRECTOR
+**** CITY FINANCE DIRECTOR ****
 § 31.25 POSITION CREATED.
    There is created within the city the position of the City Finance Director.
 (`89 Code, § 13.010)
@@ -683,7 +683,7 @@ amount as the Council shall direct, which shall be paid for by the city.
    The City Finance Director shall have such other duties and responsibilities
 as the City Manager may assign to such position.
 (`89 Code, § 13.051)
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 31.40 GENERALLY.
    (A)   Department established. There is hereby established an executive
 department of the City of North Saint Paul to be known as the Fire Department.
@@ -736,7 +736,7 @@ incident.
 effects of disasters on persons and providing for the emergency repair of
 damage to public facilities resulting from enemy attack, fire, flood, tornado,
 earthquake, or other natural causes.
-OTHER DEPARTMENTS
+**** OTHER DEPARTMENTS ****
 § 31.50 OTHER DEPARTMENTS.
    There shall be established in the city the following positions and
 departments as deemed necessary by the City Manager with the consent of the
@@ -826,7 +826,7 @@ Arts and Culture Commission
 32.77   Composition
    
 32.78   Powers and duties
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01 GENERALLY.
    The city shall create and support organizations that enhance community
 engagement in the city's decision-making process. All boards and commissions
@@ -1007,7 +1007,7 @@ attend the board or commission meeting, the selected alternate shall take their
 place. This alternate shall be a City Council member and selected by the Mayor
 with the approval of the City Council.
 (Ord. 737, passed 6-16-2015)
-PLANNING COMMISSION
+**** PLANNING COMMISSION ****
 § 32.25 ESTABLISHMENT OF THE PLANNING COMMISSION.
    A Planning Commission for the city is hereby established. The Planning
 Commission shall be the city planning agency authorized by M.S. § 462.354,
@@ -1134,7 +1134,7 @@ concerning the amendments and their relation to the city’s Comprehensive Plan
 and other land use controls. The Planning Commission shall report its
 recommendations to the City Council for action.
 (Ord. 737, passed 6-16-2015; Am. Ord. 808, passed 10-4-2022)
-ENVIRONMENTAL ADVISORY COMMISSION
+**** ENVIRONMENTAL ADVISORY COMMISSION ****
 § 32.45 ESTABLISHMENT OF THE ENVIRONMENTAL ADVISORY COMMISSION.
    An Environmental Advisory Commission for the city is hereby established. The
 City Council hereby declares as a matter of public policy that the
@@ -1192,7 +1192,7 @@ educational elements of the SWPPP minimum control measures.
       (2)   Education. Promote public awareness of the environment,
 sustainability, and natural resource management.
 (Ord. 737, passed 6-16-2015)
-PARK AND RECREATION COMMISSION
+**** PARK AND RECREATION COMMISSION ****
 § 32.55 ESTABLISHMENT OF THE PARK AND RECREATION COMMISSION.
    A Parks and Recreation Commission for the city is hereby established. The
 City Council hereby declares as a matter of public policy that parks, open
@@ -1238,7 +1238,7 @@ Improvement Plan, the Commission shall annually review the plan, and if
 necessary, update the plan. The Commission shall report its recommendations to
 the City Council for incorporation into the Capital Improvement Plan.
 (Ord. 737, passed 6-16-2015; Am. Ord. 808, passed 10-4-2022)
-BOARD OF APPEALS AND ADJUSTMENT
+**** BOARD OF APPEALS AND ADJUSTMENT ****
 § 32.65 ESTABLISHMENT OF THE BOARD OF APPEALS AND ADJUSTMENT.
    A Board of Appeals and Adjustment for the city is hereby established. The
 Planning Commission shall serve as the Board of Appeals and Adjustment. Except
@@ -1277,7 +1277,7 @@ recommend issuance of the permit to the City Council. The City Council’s
 decision shall be final except to the extent the aggrieved party may have a
 right to appeal questions of law and fact to the Ramsey County District Court.
 (Ord. 737, passed 6-16-2015; Am. Ord. 808, passed 10-4-2022)
-ARTS AND CULTURE COMMISSION
+**** ARTS AND CULTURE COMMISSION ****
 § 32.75 ESTABLISHMENT OF THE ARTS AND CULTURE COMMISSION.
    An Arts and Culture Commission for the city is hereby established. The City
 Council hereby declares as a matter of public policy it is critical for the
@@ -1358,7 +1358,7 @@ Abandoned Vehicles
 33.24   Disposal authority
    
 33.25   Contracts; reimbursement by MPCA
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.01 DISPOSITION OF ABANDONED PROPERTY.
    (A)   Procedure. Except for abandoned and junked vehicles, all property
 lawfully coming into possession of the city shall be disposed of as provided in
@@ -1390,7 +1390,7 @@ other costs of the sale.
 within six months, the city could sell the same at public or private sale and
 account for the monies as stated above.
 (`89 Code, § 11.070)
-ABANDONED VEHICLES
+**** ABANDONED VEHICLES ****
 § 33.15 FINDINGS AND PURPOSE.
    M.S. Chapter 168B, and Minn. Rules Chapter 7035, as they may be amended from
 time to time, are hereby adopted by reference. Sections
@@ -2115,7 +2115,7 @@ Police Department
 53.21   Personnel
    
 53.22   Issuing citations for violations of law
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 53.01 ESTABLISHMENT.
    A Fire Department is established in and for the city to be known as the
 North St. Paul Fire Department.
@@ -2158,7 +2158,7 @@ action the city may take, the city shall also have the authority to seek
 injunctive relief to abate the violations.
 (`89 Code, § 8.080)
 Penalty, see § 10.99
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 53.20 POLICE CIVIL SERVICE COMMISSION.
    There is established in and for the city a Police Civil Service Commission.
 The provisions of M.S. §§ 419.01 through 419.181, as it may be amended from
@@ -2217,7 +2217,7 @@ Backyard Composting
 55.24   Nuisance
    
 55.25   Violations
-GARBAGE AND RECYCLABLES COLLECTION
+**** GARBAGE AND RECYCLABLES COLLECTION ****
 § 55.01 CONTRACT FOR GARBAGE AND RECYCLABLES COLLECTION.
    The City of North St. Paul, exercising its municipal power under Minnesota
 Statutes as they may be amended from time to time, shall provide organized
@@ -2516,7 +2516,7 @@ not be allowed to stand in any street or public place longer than is necessary
 to collect materials. The equipment shall not leak fuel, oil, or hydraulic
 fluid while in normal operation in the city.
 (Ord. 738, passed 8-18-2015)
-BACKYARD COMPOSTING
+**** BACKYARD COMPOSTING ****
 § 55.20 PURPOSE.
    This ordinance is adopted for the following purposes:
    (A)   To protect the public health, safety, comfort, convenience, and the
@@ -2652,7 +2652,7 @@ Individual Sanitary and Storm Sewer Systems
 56.53   Maintenance
    
 56.54   Enforcement
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 56.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2770,7 +2770,7 @@ premises as part of the utility bill for water services may be thereafter
 collected in a civil action brought against the occupant or the owner of said
 premises, or both.
 (`89 Code, § 160.030)
-PERMITS
+**** PERMITS ****
 § 56.15 PERMIT REQUIRED TO CONNECT SEWERS OR DRAINS.
    No person shall build, repair or extend any sanitary or storm sewer or drain
 or connect any sanitary sewer or storm sewer or drain to any public sanitary or
@@ -2802,7 +2802,7 @@ satisfactory to the Manager, the Manager shall issue a permit.
    Permit fees issued under this chapter shall be as established by Council
 ordinance.
 (`89 Code, § 160.080)
-REQUIREMENTS
+**** REQUIREMENTS ****
 § 56.30 CONSTRUCTION REQUIREMENTS.
    All connections with the public sanitary or storm sewer shall be made with
 such materials as are satisfactory to the State Code. No sanitary or storm
@@ -3055,7 +3055,7 @@ served for collection as other taxes are collected; provided, however, that
 such certification shall not preclude the city from recovery of such delinquent
 sewer strength charge and interest thereon under any other available remedy.
 (`89 Code, § 160.150) (Am. Ord. 657, passed 12-20-2005)
-INDIVIDUAL SANITARY AND STORM SEWER SYSTEM
+**** INDIVIDUAL SANITARY AND STORM SEWER SYSTEM ****
 § 56.50 OBJECTIVES.
    The main objective of the city is to eliminate all individual sewer systems
 as soon as possible. The objectives of this chapter are to provide adequate and
@@ -3263,7 +3263,7 @@ Individual Water Systems
 57.51   Plumbing Code adopted by reference
    
 57.52   Permit required; application
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 57.01 SUPERVISION OF SYSTEM.
    The Superintendent of the Public Works Department shall have general
 supervision and control of all public water mains and connections thereto, and
@@ -3315,7 +3315,7 @@ pipe or tubing approved by the Council.
 are owned by the property owners and they are responsible for all repairs and
 maintenance except for the operation of the curbstop.
 (`89 Code, § 161.050)
-REGULATIONS; REQUIREMENTS
+**** REGULATIONS; REQUIREMENTS ****
 § 57.20 TAMPERING WITH STOP COCKS.
    No person shall tamper or interfere with the stop cocks at the main and
 sidewalk or with the box and cover.
@@ -3484,7 +3484,7 @@ aqueduct, pipe, conduit, machinery or other property used or required for
 procuring or distributing the water.
 (`89 Code, § 161.230)
 Penalty, see § 10.99
-INDIVIDUAL WATER SYSTEMS
+**** INDIVIDUAL WATER SYSTEMS ****
 § 57.50 OBJECTIVE.
    The main objective of the city is to eliminate all individual water systems
 as soon as possible.
@@ -3724,7 +3724,7 @@ Weight Restrictions
 71.28   Special road restrictions
    
 71.29   Liability for damage
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 71.01 LOCKING IGNITION.
    Every person parking a motor vehicle on a public street, alley or parking
 lot within the city shall lock the ignition, remove the key and take the same
@@ -3830,7 +3830,7 @@ the purpose of this section shall specifically include automobiles, trucks and
 motorcycles.
 (`89 Code, § 120.100)
 Penalty, see § 10.99
-WEIGHT RESTRICTIONS
+**** WEIGHT RESTRICTIONS ****
 § 71.25 WEIGHT LIMITATIONS.
    No vehicle or combination of vehicles equipped with pneumatic tires shall be
 operated upon the highways in the city:
@@ -4197,7 +4197,7 @@ Nonresident Emergency Fire Services Involving Motor Vehicles
 91.43   Billing and collection
    
 91.44   Hardship waiver of fees
-MINNESOTA STATE FIRE CODE
+**** MINNESOTA STATE FIRE CODE ****
 § 91.01 ADOPTION OF MINNESOTA STATE FIRE CODE.
    Pursuant to M.S. § 299F.011, as it may be amended from time to time, the
 Minnesota State Fire Code, one copy of which has been marked as the official
@@ -4338,7 +4338,7 @@ permanently mounted and wired or plumbed to the building’s gas supply or
 electrical system and that maintain a minimum clearance of 18 inches (457 mm)
 on all sides, unless listed for lesser clearances, may be installed on
 balconies and patios when approved by the Fire Chief.
-FIRE REGULATIONS
+**** FIRE REGULATIONS ****
 § 91.25 FIRE CERTIFICATE OF COMPLIANCE.
    (A)   Use and occupancy. No building in Group A (Assembly), B (Business), E
 (Education), F (Factory), I (Institutional), H (Hazardous), M (Mercantile), or
@@ -4451,7 +4451,7 @@ expenses of the Department.
 time as approval or permit has been issued by the Minnesota Pollution Control
 Agency.
 (`89 Code, § 137.060)
-NONRESIDENT EMERGENCY FIRE SERVICES INVOLVING MOTOR VEHICLES
+**** NONRESIDENT EMERGENCY FIRE SERVICES INVOLVING MOTOR VEHICLES ****
 § 91.40 PURPOSE AND INTENT.
    Sections
 91.40 through
@@ -4740,7 +4740,7 @@ Boulevard Trees
 93.05   Ownership
    
 93.06   Removal or destruction prohibited
-BOULEVARD TREES
+**** BOULEVARD TREES ****
 § 93.01 COMPLIANCE.
    Any person who desires to plant trees on any boulevard which is part of the
 public street right-of- way shall comply with the provisions of this
@@ -4856,7 +4856,7 @@ Right-of-Way Management
 94.59   Franchise holders
    
 94.60   Miscellaneous items in the right-of- way
-STREETS
+**** STREETS ****
 § 94.01 BORDERLINE STREETS.
    (A)   This section shall provide standards, establish uniform practices and
 implement cooperative administration between the Cities of Maplewood and North
@@ -4939,7 +4939,7 @@ carrying material to the nearest drainage system or waterway.
 reduce exposure (e.g., sweeping, diversions, and/or containment) when
 transferring salt or other deicing material.
 (Ord. 829, passed 7-16-2024)
-SIDEWALKS
+**** SIDEWALKS ****
 § 94.20 ESTABLISHMENT OF SIDEWALK GRADE.
    Whenever the Council shall order a sidewalk to be built upon any street or
 portion thereof, the engineer shall first establish the line and grade thereof,
@@ -5126,7 +5126,7 @@ decision by the City Council affirming the denial or revocation will be in
 writing and supported by written findings establishing the reasonableness of
 the decision.
 (Ord. 814, passed 2-7-2023)
-RIGHT-OF-WAY MANAGEMENT
+**** RIGHT-OF-WAY MANAGEMENT ****
 § 94.30 PURPOSE AND INTENT.
    (A)   To provide for the health, safety and welfare of its citizens, and to
 ensure the integrity of its streets and the appropriate use of the rights-of-
@@ -6208,7 +6208,7 @@ Administration and Enforcement
 95.44   Manager authorized to contract for pounding services
    
 95.45   Lien for pounding and transportation costs and notices
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 95.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6286,7 +6286,7 @@ employed for the control of nuisance animals as long as such traps are tended
 to each 12 hours.
 (`89 Code, § 173.230) (Am. Ord. 788, passed 12-17-2019)
 Penalty, see § 10.99
-REGULATIONS
+**** REGULATIONS ****
 § 95.15 RUNNING AT LARGE.
    (A)   The running at large of any animal in the city is declared to be a
 nuisance and is prohibited. A person who owns, harbors, or keeps a domestic
@@ -6758,7 +6758,7 @@ caretaker’s premises.
    (D)   Any person violating any provision of this section is guilty of a
 petty misdemeanor.
 (`89 Code, § 173.090) (Am. Ord. 828, passed 7-16-2024)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 95.40 IMPOUNDING.
    The Animal Warden may, when necessary, apprehend any domestic animal found
 running at large and impound or cause a notice of violation of this order to be
@@ -6834,8 +6834,8 @@ Application of Lawn Fertilizer and Other Chemicals
 96.17   Conditions of license
    
 96.18   General regulations
-RESPONSIBILITY FOR CLEANUP OF HAZARDOUS, INFLAMMABLE OR TOXIC MATERIALS OF
-LIQUIDS
+**** RESPONSIBILITY FOR CLEANUP OF HAZARDOUS, INFLAMMABLE OR TOXIC MATERIALS OF
+LIQUIDS ****
 § 96.01 IMPROPER STORAGE, SPILLING OR DUMPING.
    (A)   No person, firm or corporation shall cause or allow any hazardous,
 inflammable or toxic material or liquid to be improperly stored, spilled or
@@ -6867,7 +6867,7 @@ and identify the proper methods of disposal to be used to the city in an annual
 hazardous materials report. Inflammable materials or liquids in containers of
 less than ten gallon size shall be exempt from this reporting requirement.
 (`89 Code, § 139.050)
-APPLICATION OF LAWN FERTILIZER AND OTHER CHEMICALS
+**** APPLICATION OF LAWN FERTILIZER AND OTHER CHEMICALS ****
 § 96.15 LICENSE REQUIRED.
    No person, firm, corporation or franchise shall engage in the business of
 commercial lawn fertilizer or chemical applicators within the city unless a
@@ -7140,7 +7140,7 @@ Open Burning
 Cross-reference:
    User charge for excessive services, see
 Chapter 100
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 98.01 ASSESSABLE CURRENT SERVICES.
    (A)   Definition. For the purpose of this section, the following definition
 shall apply unless the context clearly indicates or requires a different
@@ -7356,7 +7356,7 @@ or shrubs for hire must be registered with the Minnesota Commissioner of
 Agriculture under M. S. § 18G.07.
 (Am. Ord. 718, passed 10-2-12)
 Penalty, see § 10.99
-NUISANCES
+**** NUISANCES ****
 § 98.15 PUBLIC NUISANCE.
    Whoever by his or her act or failure to perform a legal duty intentionally
 does any of the following is guilty of maintaining a public nuisance, which is
@@ -7648,7 +7648,7 @@ pertinent statutes for certification to the County Auditor and collection along
 with current taxes the following year or in annual installments, not exceeding
 ten, as the City Council may determine in each case.
 (Ord. 661, passed 9-5-2006)
-WEEDS
+**** WEEDS ****
 § 98.35 SHORT TITLE.
    This subchapter shall be cited as the “Weed Ordinance.”
 § 98.36 JURISDICTION.
@@ -7815,7 +7815,7 @@ misdemeanor and the violator shall be fined or penalized not more than the
 maximum levels established by the State of Minnesota for misdemeanor offenses.
 Each day on which the violation continues is a separate offense.
 (Am. Ord. 695, passed 7-20-2010)
-OPEN BURNING
+**** OPEN BURNING ****
 § 98.60 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8306,7 +8306,7 @@ General Regulations
 110.29   State contractor’s license required
    
 110.30   Administrative fees for tax exempt bonds
-GENERAL LICENSING PROVISIONS
+**** GENERAL LICENSING PROVISIONS ****
 § 110.01 LICENSES AND PERMITS.
    (A)   General rule. Except as otherwise provided in this code, all licenses
 and permits granted by the city except liquor licenses shall be governed by the
@@ -8428,7 +8428,7 @@ ordinance. All appeals shall be heard within 30 days.
    In addition to criminal sanctions, the Council by resolution may establish
 civil sanctions for violations of the licensing sections of this code.
 (`89 Code, § 85.100)
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 110.25 RESERVED.
 § 110.26 THERAPEUTIC MASSAGE.
    (A)   Definitions. For the purposes of this section, the following words and
@@ -9094,7 +9094,7 @@ Selling Setups
 Penalties
    
 117.600   Civil penalties; all liquor licenses
-INTOXICATING LIQUOR
+**** INTOXICATING LIQUOR ****
 § 117.010 ADOPTION OF STATE LAW BY REFERENCE.
    The provisions of M.S. Ch. § 340A, as they may be amended from time to time,
 with reference to the definition of terms, conditions of operation,
@@ -9846,7 +9846,7 @@ any event at which 5,000 or more people are expected to attend the function or
 event.
 (Ord. 707, passed 6-21-2011; Am. Ord. 710, passed 11-15-2011) Penalty, see §
 117.600
-3.2% MALT LIQUOR
+**** 3.2% MALT LIQUOR ****
 § 117.300 PROVISIONS OF STATE LAW ADOPTED.
    The provisions of M.S. Chapter 340A, as it may be amended from time to time,
 with reference to the definition of terms, applications for license, granting
@@ -9882,7 +9882,7 @@ M.S. § 340A.408(5), as it may be amended from time to time.
 liquor.
 (Ord. 707, passed 6-21-2011; Am. Ord. 710, passed 11-15-2011) Penalty, see §
 117.600
-SELLING SETUPS
+**** SELLING SETUPS ****
 § 117.400 PERMIT REQUIRED.
    No private club or public place, directly or indirectly or upon any pretense
 or by any device, shall allow the consumption or display of intoxicating liquor
@@ -13960,7 +13960,7 @@ Swimming Pools
 150.103   Operation and maintenance
    
 150.104   Inspections
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.001 STATE BUILDING CODE ADOPTED.
    The Minnesota State Building Code, as adopted by the State pursuant to M.S.
 Chapter 326B, including all of the amendments, rules and regulations
@@ -14230,7 +14230,7 @@ analysis of the structural soundness, signed by a registered professional
 engineer or architect and which affords the city sufficient information to
 properly evaluate the building’s structural soundness.
 (`89 Code, § 20.140)
-HEATING INSPECTORS AND PERMITS
+**** HEATING INSPECTORS AND PERMITS ****
 § 150.025 DEFINITIONS.
    For the purpose of this chapter, excepting §§
 150.100 et seq., and Chapters
@@ -14408,7 +14408,7 @@ fairness be implied, the permittee shall perform such work and furnish such
 materials and appliances that the work will be complete according to good
 practice and in the best interest of the public.
 (`89 Code, § 22.120)
-ELECTRICAL CODE
+**** ELECTRICAL CODE ****
 § 150.050 ELECTRICAL INSPECTOR.
    The Manager shall appoint an Electrical Inspector. The Electrical Inspector
 shall meet the following qualifications: be of good moral character; be
@@ -14476,7 +14476,7 @@ required under the provisions of this Code without having first received the
 necessary permit therefore shall, when subsequently receiving such permit, be
 required to pay double the fees provided in this Code.
 (`89 Code, § 23.050)
-PLUMBING CODE
+**** PLUMBING CODE ****
 § 150.070 MINNESOTA PLUMBING CODE ADOPTED.
    The Minnesota Plumbing Code, as filed with the Secretary of State and the
 Department of Administration, as amended, is adopted and shall be in full force
@@ -14525,7 +14525,7 @@ such work and charge the cost thereof to the person installing the same. No
 person shall cover any plumbing work until it has been inspected.
    (B)   No person shall refuse to make corrections required by the city.
 (`89 Code, § 24.060)
-ENVIRONMENTAL POLICY
+**** ENVIRONMENTAL POLICY ****
 § 150.085 ENVIRONMENTAL REVIEW PROGRAM.
    This city will follow the environmental review operating procedures in
 implementing the provisions of M.S. Chapter 116D, as it may be amended from
@@ -14611,7 +14611,7 @@ separate offense.
 which environmental documents are required shall cease until the environmental
 review procedures established by this subchapter are fully complied with.
 (`89 Code, § 28.050)
-SWIMMING POOLS
+**** SWIMMING POOLS ****
 § 150.100 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14916,7 +14916,7 @@ Administration and Enforcement
 152.68   Execution of compliance orders by special assessments
    
 152.69   Alternative sanctions
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 PURPOSE.
    (A)   The purpose of this Code is to protect the public health, safety,
 comfort, morals and the general welfare of the people of the city. These
@@ -15055,7 +15055,7 @@ the same are clean, sanitary and fit for human use and which complies with all
 applicable legal requirements of the State of Minnesota and the City of North
 St. Paul, including all ordinances thereof.
 (`89 Code, § 27.040)
-REGULATIONS
+**** REGULATIONS ****
 § 152.15 MAINTENANCE OF SHARED OR PUBLIC AREAS.
    Every owner of a structure containing two or more occupants shall maintain
 in a clean and sanitary condition the shared or public areas of the structure
@@ -15141,7 +15141,7 @@ maintaining in reasonably good condition yards consisting of weeds, grass lawn,
 trees, shrubs and other vegetation free and clear of all garbage, refuse, piles
 of dirt or evacuations for which grading permit has not been taken out.
 (`89 Code, § 27.200)
-MINIMUM STANDARDS; REQUIREMENTS
+**** MINIMUM STANDARDS; REQUIREMENTS ****
 § 152.35 MINIMUM HEATING CAPABILITY AND MAINTENANCE.
    In every dwelling unit or rooming unit when the control of the supplied heat
 is the responsibility of a person other than the occupant, a temperature of at
@@ -15459,7 +15459,7 @@ days; provided, upon application to the city showing good cause for an
 extension, the city may extend the time limit to a specific date beyond the 30
 days.
 (Ord. 672, passed 9-2-08)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 152.60 ENFORCEMENT AND INSPECTION AUTHORITY.
    The City Manager and designated agents shall be the Compliance Official who
 shall administer and enforce the provisions of this chapter and who are
@@ -15708,7 +15708,7 @@ Enforcement
  
    
 153.999   Penalty
-TITLE AND APPLICATION
+**** TITLE AND APPLICATION ****
 § 153.001 TITLE.
    This chapter shall be known, cited, and referred to as the "North Saint Paul
 Subdivision Regulations," and will be referred to as "this chapter."
@@ -15778,7 +15778,7 @@ applied.
    This chapter shall be administered by the Zoning Administrator who is
 appointed by the City Manager.
 (Ord. 847, passed 9-16-2025)
-RULES AND DEFINITIONS
+**** RULES AND DEFINITIONS ****
 § 153.020 APPLICATION OF RULES.
    The language contained in this chapter shall be interpreted in accordance
 with the following rules of construction as applicable:
@@ -16115,7 +16115,7 @@ vegetation. Any wetland as defined in M.S. § 103G.005, Subd. 19.
    ZONING CODE. The North Saint Paul Zoning Regulations (Chapter 154 of the
 City Code), as may be amended, controlling the use of land within the city.
 (Ord. 847, passed 9-16-2025)
-GENERAL PROVISIONS AND ADMINISTRATION
+**** GENERAL PROVISIONS AND ADMINISTRATION ****
 § 153.030 PREMATURE SUBDIVISION PROHIBITED.
    (A)   Any proposed subdivision deemed premature for development shall be
 denied by the City Council.
@@ -16367,7 +16367,7 @@ in the subdivision until the city has received evidence of the document(s)
 being recorded by the County Recorder and all conditions of approval have been
 met.
 (Ord. 847, passed 9-16-2025)
-PRELIMINARY PLAT
+**** PRELIMINARY PLAT ****
 § 153.050 PURPOSE.
    (A)   An application for a preliminary plat shall be filed with the city.
 The preliminary plat is a plan of how property will be subdivided and
@@ -16732,7 +16732,7 @@ other areas of the city;
       8.   The applicant has failed to provide all documents required by the
 city in order to adequately evaluate the application.
 (Ord. 847, passed 9-16-2025)
-FINAL PLAT
+**** FINAL PLAT ****
 § 153.070 PURPOSE.
    After the City Council has approved a preliminary plat, the applicant or
 developer shall submit the proposed final plat to the city for review as set
@@ -17318,7 +17318,7 @@ approved by the City Engineer. The design engineer shall submit three full size
 printed copies and an electronic copy of the record plans to the city after
 final approval by the City Engineer.
 (Ord. 847, passed 9-16-2025)
-PARK LAND DEDICATION REQUIREMENTS
+**** PARK LAND DEDICATION REQUIREMENTS ****
 § 153.090 LAND DEDICATION OR CASH CONTRIBUTION.
    (A)   Authority.
       1.   Pursuant to M.S. § 462.358, Subd. 2(b), the city has authority to
@@ -17455,7 +17455,7 @@ Failure to object before the final dedication amount is set in the final plat
 approval or development agreement shall waive the applicant's ability to
 challenge nexus or proportionality thereafter.
 (Ord. 847, passed 9-16-2025)
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 154.110 LOT SPLITS FOR TWO FAMILY DWELLINGS.
    (A)   If the conditions of this section are met, a lot or lots occupied by a
 two-family, side-by-side dwelling, or such a dwelling is to be constructed, may
@@ -17513,7 +17513,7 @@ zoning districts.
    (G)   Sidewalks. Sidewalks and/or trails are required on both sides of
 streets or roads.
 (Ord. 847, passed 9-16-2025)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 153.120 VIOLATIONS.
    (A)   Sale of lots from unrecorded plats. It shall be a misdemeanor to sell,
 trade, or otherwise convey any lot or parcel of land as part of, or in
