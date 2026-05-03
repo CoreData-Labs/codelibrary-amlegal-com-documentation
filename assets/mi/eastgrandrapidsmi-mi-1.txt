@@ -1487,7 +1487,7 @@ Article IX. Reserved
 Article X. Department of Law
    
 1.121   Responsibilities of City Attorney
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 § 1.31 DIVISION OF ADMINISTRATIVE SERVICE.
    The administrative service of the city shall be under the supervision and
 direction of the City Manager, except as otherwise provided by the City
@@ -1503,7 +1503,7 @@ Department of Law                             City Attorney
  
 (Prior Code, § 1.31) (Ord. effective 11-16-1990; Ord. effective 5-29-1992; Ord.
 effective 4-1-1994)
-ARTICLE II. CITY CLERK
+**** ARTICLE II. CITY CLERK ****
 § 1.32 OFFICE OF CLERK.
    (A)   This office shall be headed by the City Clerk, who shall serve as set
 forth in the City Charter. The Clerk shall act as Clerk of the City Commission
@@ -1525,8 +1525,8 @@ provided; be the custodian of the official seal; and notify the appointing
 authority of any board or commission 30 days prior to the expiration of the
 term of office of any member thereof.
 (Ord. effective 7-28-2017)
-§§ 1.35 - 1.40 RESERVED.
-ARTICLE III. ASSESSOR
+*** §§ 1.35 - 1.40 RESERVED. ***
+**** ARTICLE III. ASSESSOR ****
 § 1.41 OFFICE OF ASSESSOR.
    This office shall be headed by the City Assessor who shall serve as set
 forth in the City Charter. The Assessor shall perform all work in connection
@@ -1547,7 +1547,7 @@ Charter reference:
 11.6
 Statutory reference:
    Related provisions, see M.C.L.A. § 211.14
-ARTICLE IV. DEPARTMENT OF FINANCE/TREASURY
+**** ARTICLE IV. DEPARTMENT OF FINANCE/TREASURY ****
 § 1.65 OFFICE OF FINANCE DIRECTOR/ TREASURER.
    This office shall be headed by the City Finance Director/Treasurer, who
 shall serve as set forth in the City Charter and, whose duty it shall be to:
@@ -1581,7 +1581,7 @@ Department, including the office of Treasurer, Assessor, Human Resources, and
 Information Technology.
 (Ord. effective 7-28-2017)
 § 1.67 - 1.69 RESERVED.
-ARTICLE V. POLICE DEPARTMENT
+**** ARTICLE V. POLICE DEPARTMENT ****
 § 1.70 POLICE CHIEF.
    The Department of Police shall be headed by the Police Chief who shall
 direct the police work of the city.
@@ -1623,8 +1623,8 @@ inability from any cause of both the Police Chief and the Deputy, the City
 Manager shall designate and appoint some other member of the Police Department
 to act as Chief during such absence or disability.
 (Prior Code, § 1.73)
-§§ 1.74 - 1.90 RESERVED.
-ARTICLE VI. FIRE DEPARTMENT
+*** §§ 1.74 - 1.90 RESERVED. ***
+**** ARTICLE VI. FIRE DEPARTMENT ****
 § 1.91 FIRE CHIEF.
    The Department of Fire shall be headed by the Fire Chief and shall be
 charged with the prevention and extinguishment of fires, the protection of life
@@ -1676,7 +1676,7 @@ and educational institutions as required by law.
 (Prior Code, § 1.95)
 Statutory reference:
    Related provisions, see M.C.L.A. § 29.19
-ARTICLE VII. DEPARTMENT OF PUBLIC SAFETY
+**** ARTICLE VII. DEPARTMENT OF PUBLIC SAFETY ****
 § 1.96 DIRECTOR; ASSIGNMENT AND DUTIES OF OFFICERS.
    The city shall appoint a Director of Public Safety, he or she shall have the
 powers and duties herein specified for the Chief of Police and the Fire Chief.
@@ -1764,7 +1764,7 @@ Public Safety Director and the captains, the City Manager shall designate and
 appoint some other member of the Public Safety Department to act as Director
 during such absence or disability.
 (Ord. effective 10-14-2016)
-ARTICLE VIII. DEPARTMENT OF CITY SERVICES
+**** ARTICLE VIII. DEPARTMENT OF CITY SERVICES ****
 § 1.102 DIRECTOR.
    The Department of City Services shall be headed by the Director of City
 Services. The Director shall be responsible for all matters relating to the
@@ -1810,9 +1810,9 @@ tickets with regard to violations of Chapters
 96 and
 97 of this code.
 (Prior Code, § 1.103) (Ord. effective 11-16-1990; Ord. effective 5-29-1992)
-§§ 1.105 - 1.110 RESERVED.
-ARTICLE IX. RESERVED
-ARTICLE X. DEPARTMENT OF LAW
+*** §§ 1.105 - 1.110 RESERVED. ***
+**** ARTICLE IX. RESERVED ****
+**** ARTICLE X. DEPARTMENT OF LAW ****
 § 1.121 RESPONSIBILITIES OF CITY ATTORNEY.
    This Department shall be headed by the City Attorney, who shall serve as set
 forth in the City Charter. The City Attorney shall be the Director of the
@@ -7108,7 +7108,7 @@ the rules and regulations promulgated hereunder, shall have committed a civil
 infraction and may be ordered to pay a civil fine of not more than $500.
 (Prior Code, § 3.6) (Ord. effective 1-31-1992; Ord. effective 9-14-1996; Ord.
 effective 1-14-2017)
-ARTICLE I. PROMULGATED PARK RULES
+**** ARTICLE I. PROMULGATED PARK RULES ****
 § 3.10 RULES AND REGULATIONS FOR PUBLIC PARKS.
    The rules and regulations for public parks is hereby adopted by reference. A
 full copy of the rules and regulations can be found at: https://www.eastgr.org/
@@ -7452,7 +7452,7 @@ Article I. Police Regulations
 Article II. Aquatic Weed Treatment and Control
    
 3.80   Treatment or eradication of aquatic weeds
-ARTICLE I. POLICE REGULATIONS
+**** ARTICLE I. POLICE REGULATIONS ****
 § 3.61 SEAPLANES AND THE LIKE.
    No person shall operate or navigate any seaplane, hydroplane, amphibious
 aircraft or other aircraft on any waterway or on the ice covering the waters of
@@ -7572,7 +7572,7 @@ person on water skis or similar contrivance unless there is in such boat, in
 addition to the operator, at least one competent person in a position to
 observe the person being towed.
 (Prior Code, § 3.113)
-ARTICLE II. AQUATIC WEED TREATMENT AND CONTROL
+**** ARTICLE II. AQUATIC WEED TREATMENT AND CONTROL ****
 § 3.80 TREATMENT OR ERADICATION OF AQUATIC WEEDS.
    The city, through the City Commission, shall have the authority to harvest,
 control or eradicate aquatic weeds within Reeds Lake (portion within city
@@ -7980,7 +7980,7 @@ Article VI. Additional Regulations
 4.32   Vacating streets
    
 4.33   Sanctions and penalties
-ARTICLE I. GENERAL STREET AND SIDEWALK PROVISIONS
+**** ARTICLE I. GENERAL STREET AND SIDEWALK PROVISIONS ****
 § 4.1 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8135,7 +8135,7 @@ reasonably establish.
 (Ord. effective 11-16-2018)
 § 4.16 RESERVED.
 § 4.17 RESERVED.
-ARTICLE II. CURB CUTS
+**** ARTICLE II. CURB CUTS ****
 § 4.18 PERMIT REQUIRED; CONDITIONS.
    (A)   No opening in or through any curb or any street shall be made without
 first obtaining a written permit from the Director.
@@ -8158,7 +8158,7 @@ installations shall be accomplished without cost to the city.
 specifications approved by the Director.
 (Ord. effective 11-16-2018)
 § 4.19 RESERVED.
-ARTICLE III. STREET OR SIDEWALK OBSTRUCTIONS
+**** ARTICLE III. STREET OR SIDEWALK OBSTRUCTIONS ****
 § 4.20 PERMIT TO OBSTRUCT; INSURANCE.
    No person shall occupy any street or sidewalk with any materials or
 machinery incidental to the construction, demolition or repair of any building
@@ -8176,7 +8176,7 @@ accordance with Chapter 80 of this code, shall be provided around such
 construction.
 (Ord. effective 11-16-2018)
 § 4.22 RESERVED
-ARTICLE IV. SAFETY REQUIREMENTS
+**** ARTICLE IV. SAFETY REQUIREMENTS ****
 § 4.23 SAFEGUARDS.
    All openings, excavations and obstructions shall be substantially barricaded
 and railed off, and at night shall be provided with prescribed warning lights.
@@ -8213,7 +8213,7 @@ prescribed by resolution of the city.
 Cross-reference:
    Building removal, see
 Chapter 85
-ARTICLE VI. ADDITIONAL REGULATIONS
+**** ARTICLE VI. ADDITIONAL REGULATIONS ****
 § 4.27 AUTHORITY OF CITY MANAGER TO MAKE ADDITIONAL REGULATIONS.
    The City Manager may make such additional regulations pertaining to openings
 and excavations in the streets, curb cuts, street obstructions, and house
@@ -8676,7 +8676,7 @@ Article XVI. Enactment Provisions
 5.124   Severability
    
 5.125   Enactment and effective date
-ARTICLE I. PURPOSE AND TITLE
+**** ARTICLE I. PURPOSE AND TITLE ****
 § 5.1 SHORT TITLE.
    This chapter shall be known, and may be cited, as “the Zoning Ordinance of
 the City of East Grand Rapids”.
@@ -8711,7 +8711,7 @@ or modification hereof as may be necessary to the preservation or protection of
 public health, safety and welfare.
 (Ord. effective 11-29-2013)
 § 5.5 RESERVED.
-ARTICLE II. DEFINITIONS
+**** ARTICLE II. DEFINITIONS ****
 § 5.6 CONSTRUCTION OF LANGUAGE.
    (A)   The following words, terms and phrases, when used in this chapter,
 shall have the meanings assigned to them in this chapter, except where the
@@ -9476,7 +9476,7 @@ Appeals.
 land or buildings are permitted and within which certain regulations and
 requirements apply under the provisions of this chapter.
 (Ord. effective 11-29-2013; Ord. effective 3-15-2019)
-ARTICLE III. ZONING DISTRICTS AND MAP
+**** ARTICLE III. ZONING DISTRICTS AND MAP ****
 § 5.19 DISTRICTS ESTABLISHED.
    The following zoning districts are established:
    (A)   Residential districts:
@@ -9547,7 +9547,7 @@ into the appropriate district.
 (Ord. effective 11-29-2013)
 § 5.24 RESERVED.
 § 5.25 RESERVED.
-ARTICLE IV. RESIDENTIAL DISTRICTS
+**** ARTICLE IV. RESIDENTIAL DISTRICTS ****
 § 5.26 INTENT.
    (A)   Single-family districts. The single-family dwelling districts are
 established to encourage a suitable environment for the development of single-
@@ -10023,7 +10023,7 @@ which is granted.
 (Ord. effective 9-16-2023)
 § 5.33 RESERVED.
 § 5.34 RESERVED.
-ARTICLE V. C-1, COMMERCIAL DISTRICT
+**** ARTICLE V. C-1, COMMERCIAL DISTRICT ****
 § 5.35 INTENT.
    The C-1 Commercial District is designed primarily to provide services to the
 adjacent residential area and to provide shopping and entertainment that
@@ -10188,7 +10188,7 @@ an accessory use to a permitted principal use;
 may be used for production, fabrication or processing.
 (Ord. effective 11-29-2013)
 § 5.40 RESERVED.
-ARTICLE VI. PLANNED UNIT DEVELOPMENT (PUD)
+**** ARTICLE VI. PLANNED UNIT DEVELOPMENT (PUD) ****
 § 5.41 INTENT.
    (A)   The intent of this article is to offer an alternative to conventional
 development by permitting flexibility in the regulations for development. The
@@ -10630,7 +10630,7 @@ or would increase the residential density of the project.
 § 5.53 RESERVED.
 § 5.54 RESERVED.
 § 5.55 RESERVED.
-ARTICLE VII. GENERAL PROVISIONS
+**** ARTICLE VII. GENERAL PROVISIONS ****
 § 5.56 COMPLIANCE WITH PROVISIONS.
    Except as specified in this chapter, no building, structure or premises
 shall be used or occupied, and no building or part of any building or other
@@ -10928,7 +10928,7 @@ accent lighting directly on a building facade, shall be direct cut-off
 fixtures, designed to prevent light spill or trespass beyond the boundaries of
 the property where the fixture is located.
 (Ord. effective 11-29-2013)
-ARTICLE VIII. ADDITIONAL USE REQUIREMENTS
+**** ARTICLE VIII. ADDITIONAL USE REQUIREMENTS ****
 § 5.70 ACCESSORY BUILDINGS, STRUCTURES AND USES.
    (A)   Accessory buildings and structures.
       (1)   An accessory building or structure attached to a principal building
@@ -11935,7 +11935,7 @@ the site. If the wireless provider fails to commence the construction of the
 approved structure or facilities within the time required the zoning approval
 is void.
 (Ord. effective 11-29-2013; Ord. effective 11-15-2019)
-ARTICLE IX. OFF-STREET PARKING REQUIREMENTS
+**** ARTICLE IX. OFF-STREET PARKING REQUIREMENTS ****
 § 5.76 OFF-STREET PARKING, LOADING, ACCESS AND CIRCULATION REQUIREMENTS.
    (A)   Except as may be exempted below, there shall be provided in all
 districts, at the time of erection or enlargement of any main building or
@@ -12309,7 +12309,7 @@ or building. This shall not prevent the temporary location of any such vehicle
 on property while engaged in a delivery, pickup or service run to the property
 where located.
 (Ord. effective 11-29-2013)
-ARTICLE X. SITE PLAN REVIEW
+**** ARTICLE X. SITE PLAN REVIEW ****
 § 5.83 INTENT.
    The purpose of this article is to establish a uniform set of requirements
 for the planning and design of developments within the city in order to achieve
@@ -12593,7 +12593,7 @@ regulatory agencies in order to conform with other laws or regulations.
 shall require resubmittal in accordance with §
 5.85 for Planning Commission review, as required for the original approval.
 (Ord. effective 11-29-2013; Ord. effective 1-28-2023)
-ARTICLE XI. SPECIAL LAND USES
+**** ARTICLE XI. SPECIAL LAND USES ****
 § 5.91 INTENT.
    Special uses are generally consistent with the purpose of the zoning
 district in which they are permitted but, due to unique operational
@@ -12772,7 +12772,7 @@ the Zoning Board of Appeals.
 one year from the date of denial, except when new evidence or information found
 sufficient by the Director of Public Works justifies an earlier re-application.
 (Ord. effective 11-29-2013)
-ARTICLE XII. ZONING BOARD OF APPEALS
+**** ARTICLE XII. ZONING BOARD OF APPEALS ****
 § 5.100 CREATION AND MEMBERSHIP.
    (A)    A Zoning Board of Appeals is hereby established having the powers,
 duties, and membership which are set forth in Act 110 of Michigan Public Acts
@@ -12968,7 +12968,7 @@ by the Board ceases or is otherwise discontinued for a period of 12 consecutive
 months or more; or the use to which the property is put is a use allowed by the
 existing zoning district.
 (Ord. effective 11-29-2013)
-ARTICLE XIII. AMENDMENTS AND REZONING
+**** ARTICLE XIII. AMENDMENTS AND REZONING ****
 § 5.106 INITIATION OF REZONING AND TEXT AMENDMENTS.
    Amendments to this chapter may be initiated by the City Commission on its
 own motion or, in the manner and pursuant to the procedure herein set forth,
@@ -13045,7 +13045,7 @@ Zoning Enabling Act (M.C.L.A. § 125.3405), by which an owner seeking a rezoning
 may voluntarily offer conditions regarding the use and/or development of land
 as part of the rezoning request.
 (Ord. effective 11-29-2013)
-ARTICLE XIV. NONCONFORMITIES
+**** ARTICLE XIV. NONCONFORMITIES ****
 § 5.111 INTENT.
    Within the districts established by this chapter or any subsequent
 amendments, there exist lots, structures and uses of land and structures which
@@ -13200,7 +13200,7 @@ private property by purchase condemnation or otherwise for removal of
 nonconforming lots, nonconforming uses, and nonconforming structures; provided,
 the property shall not be used for public housing.
 (Ord. effective 11-29-2013; Ord. effective 7-29-22)
-ARTICLE XV. ADMINISTRATION AND ENFORCEMENT
+**** ARTICLE XV. ADMINISTRATION AND ENFORCEMENT ****
 § 5.117 ENFORCEMENT.
    (A)   Any building erected, altered or converted, or any use carried out in
 violation of any provision of this chapter, is hereby declared to be a nuisance
@@ -13365,7 +13365,7 @@ approved.
    (C)   A record of authorized performance guarantees shall be maintained by
 the Director of Public Works.
 (Ord. effective 11-29-2013)
-ARTICLE XVI. ENACTMENT PROVISIONS
+**** ARTICLE XVI. ENACTMENT PROVISIONS ****
 § 5.123 REPEAL OF ORDINANCES.
    
 Chapter 50, Title V of the code of ordinances, known as the “City of East Grand
@@ -15573,7 +15573,7 @@ Article III. Circuses, Shows and Exhibitions
 7.82   Animal shows and exhibitions
    
 7.83   Theaters
-ARTICLE I. POOLROOMS AND BOWLING
+**** ARTICLE I. POOLROOMS AND BOWLING ****
 § 7.71 DEFINITIONS.
    For the purpose of this article, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -15605,7 +15605,7 @@ remain in any licensed poolroom.
    This chapter shall not be applicable to bowling alleys or poolrooms operated
 and owned by the city or a public school.
 (Ord. effective 11-18-2016)
-ARTICLE II. DANCE HALLS OR STUDIOS
+**** ARTICLE II. DANCE HALLS OR STUDIOS ****
 § 7.76 PUBLIC DANCE DEFINED.
    For the purpose of this article, the following definition shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -15653,7 +15653,7 @@ Ch. 80
    No public dance hall shall remain open between the hours of 2:00 a.m. and 2:
 00 p.m.
 (Prior Code, § 7.80)
-ARTICLE III. CIRCUSES, SHOWS AND EXHIBITIONS
+**** ARTICLE III. CIRCUSES, SHOWS AND EXHIBITIONS ****
 § 7.81 SHOW LICENSE.
    No person shall conduct a circus or show, except in a theater licensed under
 the provisions of this chapter, without first obtaining a license therefor
@@ -18340,7 +18340,7 @@ Appendix A: Fence illustrations
 Cross-reference:
    Satellite antennas, see
 Chapter 52
-ARTICLE I. GENERAL FENCES
+**** ARTICLE I. GENERAL FENCES ****
    The intent of this chapter is to create openness and clear vision within the
 city’s neighborhoods so that pedestrians and vehicles can safely proceed on
 sidewalks and streets without views of other pedestrians and vehicles being
@@ -18537,7 +18537,7 @@ not limited to, changes to fence height, location, material, or opaqueness; or
 written explanation of the reasons for the decision and any conditions to an
 approval.
 (Ord. effective 11-1-2019; Ord. effective 1-1-2022)
-ARTICLE II. TOWER AND ANTENNA FENCES
+**** ARTICLE II. TOWER AND ANTENNA FENCES ****
 § 8.63 FENCING OF TOWERS REQUIRED.
    It shall be unlawful for any person to construct or maintain upon property
 within the city a radio or television tower or antenna which is directly
@@ -18903,7 +18903,7 @@ Article V. Bill Posting
 9.21   Reserved
    
 9.22   Reserved
-ARTICLE I. DEFINITION; ABATEMENT PROCEDURES
+**** ARTICLE I. DEFINITION; ABATEMENT PROCEDURES ****
 § 9.1 NUISANCE DEFINED AND PROHIBITED.
    Whatever annoys, injures or endangers the safety, health, comfort or repose
 of the public; offends public decency; interferes with, obstructs or renders
@@ -18971,7 +18971,7 @@ or make such order or decisions with regard to said appeal as is determined
 necessary and shall have all the power of the officer from whom the appeal was
 taken.
 (Prior Code, § 9.4-1)
-ARTICLE II. LITTER
+**** ARTICLE II. LITTER ****
 § 9.5 DEFINITIONS.
    For the purpose of this article, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -19187,7 +19187,7 @@ airtight container of any kind which has a snap latch or other locking device
 thereon, without first removing the snap latch or other locking device, or the
 doors, from such ice box, refrigerator or other similar container.
 (Prior Code, § 9.17)
-ARTICLE V. BILL POSTING
+**** ARTICLE V. BILL POSTING ****
 § 9.18 BILL POSTING IN STREETS OR PARKS.
    No person shall attach, place, paint, write, stamp or paste any sign,
 advertisement or any other matter upon any post, pole, tree, fire hydrant or on
@@ -20464,7 +20464,7 @@ Article III. Installation Permits and Certificate of Operation
 9.216   Reserved
    
 9.217   Rules for air pollution control
-ARTICLE I. PURPOSE AND DEFINITIONS
+**** ARTICLE I. PURPOSE AND DEFINITIONS ****
 § 9.201 LEGISLATIVE FINDING; INTENT AND PURPOSE.
    (A)   The City Commission hereby finds and determines that the excessive
 emission of air pollution contaminants within the corporate limits of the city
@@ -20539,7 +20539,7 @@ fuel burning equipment to determine the density and color of smoke and/or the
 ingredients of smoke, noxious fumes, acids, oxides, industrial dusts, or other
 air contaminants being expelled into the atmosphere.
 (Prior Code, § 9.202) (Ord. effective 5-31-1991; Ord. effective 8-14-1992)
-ARTICLE II. UNLAWFUL EMISSION OF AIR POLLUTION CONTAMINANTS
+**** ARTICLE II. UNLAWFUL EMISSION OF AIR POLLUTION CONTAMINANTS ****
 § 9.203 AIR CONTAMINANT OR WATER VAPOR PROHIBITED.
    No person shall cause or permit the emission of an air contaminant or water
 vapor, including an air contaminant whose emission is not otherwise prohibited
@@ -20598,7 +20598,7 @@ within the time limit specified herein, the Director shall issue an order in
 writing requiring the owner or operator of such equipment to cease operating
 the same until such time as a certificate of operation has been issued.
 (Prior Code, § 9.207)
-ARTICLE III. INSTALLATION PERMITS AND CERTIFICATE OF OPERATION
+**** ARTICLE III. INSTALLATION PERMITS AND CERTIFICATE OF OPERATION ****
 § 9.208 INSTALLATION PERMIT REQUIRED; PLANS AND SPECIFICATIONS.
    (A)   Except as herein provided, no person shall construct, install,
 reconstruct or alter any process, fuel burning, refuse burning or control
@@ -21710,7 +21710,7 @@ curb line and the lot line nearest the street, said area being commonly known
 as the lawn extension, whether or not any sidewalk or curb is actually in place
 on such street.
 (Ord. effective 12-16-2016)
-§§ 10.15 – 10.25 RESERVED.
+*** §§ 10.15 – 10.25 RESERVED. ***
 CHAPTER 102: BICYCLISTS
 Section
    
