@@ -468,7 +468,7 @@ electronic means
 30.37   Rules governing public comment at public meetings
    
 30.38   Approval of minutes
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 PRESIDENT.
    (A)   Board of Trustees President. The President shall be President of the
 Board of Trustees as provided by statute. The President may also be referred to
@@ -1368,7 +1368,7 @@ Letterhead is prohibited.
    (C)   Violations of this section are punishable by a fine of up to $750,
 with each day that a violation continues being a separate offense.
 (Ord. CO-2016-17, passed 8-16-2016)
-BOARD OF TRUSTEES
+**** BOARD OF TRUSTEES ****
 § 30.25 GOVERNMENT OF VILLAGE.
    The Village shall be governed by a Board of Trustees which shall consist of
 a President and 6 Trustees and shall operate under the managerial form of
@@ -1742,7 +1742,7 @@ Ch. 33
 Ch. 158
    Police Department, see
 Ch. 32
-VILLAGE DEPARTMENTS
+**** VILLAGE DEPARTMENTS ****
 § 31.01 DEPARTMENT OF FINANCE.
    There is established an executive department of the Village which shall be
 known as the Department of Finance and which shall embrace the office of
@@ -1957,7 +1957,7 @@ Chapter 32 (Police Department) of this Code.
    See
 Chapter 33 (Fire Department) of this Code.
 (Ord. CO-2021-19, passed 8-17-2021)
-APPOINTED VILLAGE BOARDS AND COMMISSIONS
+**** APPOINTED VILLAGE BOARDS AND COMMISSIONS ****
 § 31.20 BOARD OF LOCAL IMPROVEMENTS.
    (A)   Establishment; composition; term of office. There is established a
 Board of Local Improvements for the Village, which shall consist of 7 members.
@@ -2261,7 +2261,7 @@ Pension Fund in accordance with the provisions of 40 ILCS 5/3-101 set seq. See
    See
 Chapter 158 of this Code.
 (Ord. CO-2021-19, passed 8-17-2021)
-VILLAGE COMMISSIONS
+**** VILLAGE COMMISSIONS ****
 § 31.35 [RESERVED].
  
 § 31.36 [RESERVED].
@@ -3012,7 +3012,7 @@ Regulations
 Cross-reference:
    Police and fire lateral hiring program, see §
 35.02
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.01 DEPARTMENT ESTABLISHED.
    There is created and established a Fire Department consisting of a Chief of
 the Fire Department, 3 Captains, 3 Lieutenants, 36 firefighters, who shall all
@@ -3630,7 +3630,7 @@ and administration of the incident.
          (b)   Truck billed at $500 per hour.
          (c)   Miscellaneous equipment billed at $300.
 (Ord. CO-2013-35, passed 6-4-2013)
-REGULATIONS
+**** REGULATIONS ****
 § 33.30 BYSTANDER DUTIES.
    (A)   Every person who shall be present at a fire shall be subject and
 obedient to the orders of the Chief of the Fire Department and other officers
@@ -4310,7 +4310,7 @@ Cross reference:
 Ch. 38
    Alcoholic beverages, see
 Ch. 117
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 36.01 FISCAL AND MUNICIPAL YEAR.
    (A)   The fiscal year of the Village shall commence on the first day of May
 and end on the thirtieth day of April.
@@ -5512,7 +5512,7 @@ the TIF Interested Parties Registry for each Village TIF District, and the
 availability of registration forms for the TIF Interested Parties Registry,
 shall be published in accordance with the TIF Act.
 (Ord. CO-2020-45, passed 12-29-2020)
-MAYWOOD LIQUOR TAX
+**** MAYWOOD LIQUOR TAX ****
 § 36.20 TITLE.
    This subchapter shall be known and cited as the “Maywood Liquor Tax
 Ordinance,” and the tax herein imposed shall be known and cited as the “Maywood
@@ -5676,7 +5676,7 @@ and penalties, shall be deposited in the Village's Corporate Fund.
    All revenues received by the Village pursuant to the fees imposed hereunder
 shall be revenues of the Corporate Fund.
 (1997 Code, § 51.15)
-SIMPLIFIED MUNICIPAL TELECOMMUNICATIONS TAX
+**** SIMPLIFIED MUNICIPAL TELECOMMUNICATIONS TAX ****
 § 36.45 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a separate meaning.
@@ -5887,7 +5887,7 @@ active resale number from the Department and furnishes that number to the
 retailer in connection with certifying to the retailer that any sale to such
 person is non-taxable because of being a sale for resale.
 (Ord. C0-02-28, passed 9-23-2002)
-MUNICIPAL GAS UTILITY TAX
+**** MUNICIPAL GAS UTILITY TAX ****
 § 36.50 DEFINITIONS.
    For the purpose of this subchapter the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5968,7 +5968,8 @@ prior to the filing of a claim therefor shall be so credited.
 subchapter shall be commenced more than 3 years after the due date of such
 amount.
 (Ord. CO-2012-39, passed 10-16-2012)
-MUNICIPAL RETAILERS' OCCUPATION TAX AND MUNICIPAL SERVICE OCCUPATION TAX
+**** MUNICIPAL RETAILERS' OCCUPATION TAX AND MUNICIPAL SERVICE OCCUPATION TAX
+****
 § 36.65 TAX IMPOSED.
    (A)   A tax is hereby imposed upon all persons engaged in the Village of
 Maywood in the business of selling tangible personal property, other than those
@@ -5991,7 +5992,7 @@ of the State of Illinois in accordance with the provisions of 65 ILCS 5/8-11-
 1 and 5/8-11-5. The Department of Revenue shall have full power to administer
 and enforce the provisions of this subchapter.
 (Ord. CO-2010-16, passed 9-20-2010)
-ELECTRICITY UTILITY TAX
+**** ELECTRICITY UTILITY TAX ****
 § 36.75 DEFINITIONS.
    For the purposes of this subchapter the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6148,7 +6149,7 @@ credit for, a tax imposed under this subchapter, unless the person files a
 claim for refund or credit within one year after the date on which the tax was
 paid or remitted.
 (Ord. CO-2010-27, passed 9-29-2010)
-MUNICIPAL GAS USE TAX
+**** MUNICIPAL GAS USE TAX ****
 § 36.90 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6238,8 +6239,8 @@ that gave rise, or may have given rise, to any tax liability or exemption under
 this subchapter. All such books and records shall, at all times during business
 hours, be subject to and available for inspection by the Village.
 (Ord. CO-2012-38, passed 10-16-2012; Am. Ord. CO-2012-52, passed 12-18-2012)
-LOCALLY IMPOSED AND ADMINISTERED
-TAX RIGHTS AND RESPONSIBILITIES
+**** LOCALLY IMPOSED AND ADMINISTERED
+TAX RIGHTS AND RESPONSIBILITIES ****
 § 36.100 TITLE.
    This subchapter shall be known as, and may be cited as, the "Locally Imposed
 and Administered Tax Rights and Responsibility Ordinance."
@@ -6574,8 +6575,8 @@ hours, be subject to and available for inspection by the village.
 section is a violation of this code, and may be subject to the penalties
 hereunder.
 (Ord. CO-2019-37, passed 12-17-2019)
-MUNICIPAL GROCERY RETAILERS’ OCCUPATION TAX AND MUNICIPAL GROCERY SERVICE
-OCCUPATION TAX
+**** MUNICIPAL GROCERY RETAILERS’ OCCUPATION TAX AND MUNICIPAL GROCERY SERVICE
+OCCUPATION TAX ****
 § 36.140 TAX IMPOSED.
    (A)   A tax is hereby imposed upon all persons engaged in the business of
 selling groceries at retail in the Village at the rate of 1% of the gross
@@ -6629,7 +6630,7 @@ Section
 37.06   Emergency succession
    
 37.07   Emergency powers and spending authority
-§ 37.01 DEFINITIONS.
+*** § 37.01 DEFINITIONS. ***
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly or indicates a separate meaning.
    CIVIL EMERGENCY.
@@ -7070,7 +7071,7 @@ violation issuance and removal
  
    
 39.99   Penalty
-VIOLATIONS OF VILLAGE CODE
+**** VIOLATIONS OF VILLAGE CODE ****
 § 39.01 PURPOSE.
    The stated purpose of this subchapter is to provide for the fair and
 efficient enforcement of Village ordinances as allowed by law, through
@@ -7547,7 +7548,7 @@ et seq.) or by the Uniform Commercial Code (810 ILCS 5/1-101 et seq.)
 seeking to enforce any order of a Hearing Officer in any manner which is in
 accordance with applicable law.
 (Ord. CO-03-11, passed 4-21-2003)
-PARKING VIOLATIONS
+**** PARKING VIOLATIONS ****
 § 39.30 PURPOSE; SCOPE; ADOPTION OF RULES AND REGULATIONS.
    (A)   The purpose of this section is to provide for the administrative
 adjudication of violations regulating vehicular standing, parking, compliance,
@@ -8303,7 +8304,7 @@ Regulations
 50.45   Commercial type incinerators
    
 50.46   Transporting wastes over streets
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 DEFINITIONS.
    The following definitions shall apply unless the context clearly indicates
 or requires a separate meaning.
@@ -8406,7 +8407,7 @@ garbage removal service for less than 30 days.
 2012; Am. Ord. CO-2013-23, passed 3-19-2013; Am. Ord. CO-2014-07, passed 1-21-
 2014; Am. Ord. CO-2015-32, passed 12-15-2015; Am. Ord. CO-2021-21, passed 8-17-
 2021)
-CONTAINERS AND COLLECTION
+**** CONTAINERS AND COLLECTION ****
 § 50.20 COLLECTION FREQUENCY.
    For the purpose of fulfilling the requirements of this chapter, the Village
 Manager shall cause all waste to be collected regularly and systematically at
@@ -8464,7 +8465,7 @@ Department.
 be on file at the Village Hall and shall require the approval of the Village
 Manager based upon the provisions of this chapter before becoming effective.
 (1997 Code, § 15.12)
-REGULATIONS
+**** REGULATIONS ****
 § 50.40 PICKING THROUGH REFUSE.
    No unauthorized person shall collect or remove from any street, alley or
 other public places in the Village any garbage, refuse, ashes, manure or
@@ -8697,7 +8698,7 @@ prohibited
 51.75   Water conservation plumbing products (Watersense products)
    
 51.98   Violations
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.01 APPLICATION FOR WATER OR SEWER SERVICE.
    (A)   Any householder, property owner or other person desiring water or
 sewer service from the Village shall make an application therefor to the Water
@@ -9141,7 +9142,7 @@ Water Administrator regarding a proposed resolution of the customer’s concern.
 information and advisory recommendations regarding water and sewer service
 matters referred to the Commission by the President and Board of Trustees.
 (Am. Ord. —, passed - -2000)
-METERS
+**** METERS ****
 § 51.30 REQUIRED.
    (A)   All water consumers supplied by the Village shall be supplied through
 meters only, except as provided in § 51.60, and shall pay for the water at the
@@ -9275,7 +9276,7 @@ the meter shall be billed at the rates established in § 51.02. The refundable
 deposit will be offset by the amount of water billed and the balance will be
 refunded within 7 business days of return of the meter.
 (Ord. C0-00-37, passed 12-4-2000)
-REQUIREMENTS AND REGULATIONS
+**** REQUIREMENTS AND REGULATIONS ****
 § 51.50 SUPPLYING 2 OR MORE PREMISES.
    No service pipe shall be laid or used to supply water to 2 or more distinct
 premises or buildings.
@@ -10421,7 +10422,7 @@ Vehicles Licenses
 70.23   Expiration of license
    
 70.24   Decalcomanias and plates
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 STATE TRAFFIC LAWS ADOPTED.
    (A)   The Illinois Vehicle Code, 625 ILCS 5/1-100 et seq., is hereby adopted
 and made a part of this chapter by reference and shall be applicable in the
@@ -10645,7 +10646,7 @@ hearings on Compliance “C” tickets shall be conducted in accordance with §�
 (1997 Code, § 41.37) (Ord. 83-25, passed 11-11-1983; Am. Ord. CO-95-02, passed
 3-9-1995; Am. Ord. CO-96-04, passed 6-13-1996; Am. Ord. CO-00-31, passed 12-4-
 2000; Am. Ord. CO-2014-16, passed 4-15-2014)
-VEHICLE LICENSES
+**** VEHICLE LICENSES ****
 § 70.20 LICENSE REQUIRED.
    It shall be unlawful for the owner of any vehicle registered with the
 Illinois Secretary of State to any residential, commercial or other address
@@ -11512,7 +11513,7 @@ Regulations
 72.36   Parking of abandoned or inoperable vehicles
    
 72.37   Parking in electric vehicle charging station space
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.01 PERMITS RELATIVE TO LOADING AND UNLOADING.
    (A)   The Chief of Police may issue to any owner of a vehicle used to
 transport merchandise or materials a special permit, renewable annually, and
@@ -11707,7 +11708,7 @@ property or a property manager or a landlord of such real property. The legal
 owner or beneficial owner of real property, the property manager and/or the
 landlord are joint and severally liable for violations of this provision.
 (Ord. CO-2021-14, passed 7-13-2021)
-REGULATIONS
+**** REGULATIONS ****
 § 72.20 TRUCK STOPPING AND PARKING.
    (A)   No truck or commercial vehicle bearing a Class D or heavier State of
 Illinois "license plate," as such classes are defined in Section 3-815 of the
@@ -13118,7 +13119,7 @@ Regulations
  
    
 90.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 SHORT TITLE.
    This chapter shall be known as the Fair Housing Code.
 (1997 Code, § 43.01) (Ord. 78-3, passed 2-9-1978; Am. Ord. CO-09-10, passed 5-
@@ -13484,7 +13485,7 @@ pursuant to the provisions of this chapter, the Village Attorney or a member of
 his or her staff shall be the attorney for the Village Manager.
 (1997 Code, § 43.23) (Ord. 78-3, passed 2-9-1978; Am. Ord. 83-17, passed 6-23-
 1983; Am. Ord. CO-09-10, passed 5-5-2009)
-REGULATIONS
+**** REGULATIONS ****
 § 90.25 DISCRIMINATORY TERMS.
    It shall be an unlawful real estate practice for any real estate broker,
 salesperson, agent, owner or other person to discriminate against any person in
@@ -14054,7 +14055,7 @@ Nuisances
 Cross-reference:
    Chronic public nuisances, see §
 150.036
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 92.01 BOARD OF HEALTH.
    (A)   Establishment; members. There is established a Board of Health in and
 for the Village, which shall be known as the Maywood Board of Health and which
@@ -14189,7 +14190,7 @@ violation.
 Department of Public Health; and
          (b)   One-half of the fine shall be distributed to the Village.
 (Ord. C0-08-02, passed 1-15-2008)
-NUISANCES
+**** NUISANCES ****
 § 92.20 PUBLIC NUISANCES PROHIBITED.
    No person shall erect, contrive, cause, continue, maintain or permit to
 exist any public nuisance within the Village or within the police jurisdiction
@@ -15085,7 +15086,7 @@ Regulations
 93.30   Pit Bulls; additional restrictions
    
 93.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 SHORT TITLE.
    This chapter shall be known as the Animal Control Ordinance.
 (1997 Code, § 13.01) (Ord. 75-4, passed 6-26-1975)
@@ -15314,7 +15315,7 @@ exhibitions, educational institutions, veterinary hospitals or animal shelters
 are excepted from this provision. Dogs and cats are allowed subject to the
 permitting and other requirements of this chapter and the code.
 (Ord. C0-05-49, passed 12-6-2005)
-REGULATIONS
+**** REGULATIONS ****
 § 93.20 ANIMAL NUISANCES.
    (A)   No owner shall permit an animal:
       (1)   To be at large, or be a nuisance as defined in § 93.03;
@@ -26066,7 +26067,7 @@ of the accommodations, advantages, facilities and privileges of any premises in
 which alcoholic liquor is authorized to be sold subject only to the conditions
 and limitations established by law and applicable alike to all citizens.
 (1997 Code, § 35.32) (Ord. 78-10, passed 5-25- 1978)
-LICENSE REQUIREMENTS
+**** LICENSE REQUIREMENTS ****
 § 117.20 LICENSE REQUIRED.
    It shall be unlawful to sell or offer for sale at retail in the Village any
 alcoholic liquor without having a retail liquor dealer’s license, or in
@@ -27449,7 +27450,7 @@ Local Liquor Control Commissioner with the Committee, at or before the
 Committee's March meeting.
 (Am. Ord. CO-03-01, passed 1-6-2003; Am. Ord. CO-08-08, passed 3-18-2008; Am.
 Ord. CO-2010-25, passed 12-21-2010)
-REGULATIONS
+**** REGULATIONS ****
 § 117.40 VIOLATION OF RETAILERS’ OCCUPATION TAX ACT.
    In addition to other grounds specified in this chapter, the Local Liquor
 Control Commissioner may refuse the issuance or renewal of a retail license, or
@@ -31184,7 +31185,7 @@ Drug-Related Offenses
 Cross-reference:
    Aggravated fleeing and eluding a peace officer; impoundment, see §
 99.26
-OFFENSES PERTAINING TO PROPERTY
+**** OFFENSES PERTAINING TO PROPERTY ****
 § 130.01 BARBED WIRE FENCES.
    No person shall maintain any fence containing barbed wire along or near any
 public sidewalk.
@@ -31494,7 +31495,7 @@ by a teacher or other school official.
 subject to the general penalty provision at § 10.99 (General Penalty) of this
 Code of Ordinances.
 (Ord. CO-2024-37, passed 9-10-2024)
-OFFENSES AGAINST PUBLIC ORDER
+**** OFFENSES AGAINST PUBLIC ORDER ****
 § 130.20 DISORDERLY CONDUCT.
    (A)   No person shall engage in disorderly conduct in the Village. Any of
 the following acts constitute disorderly conduct:
@@ -32025,7 +32026,7 @@ a sign prohibiting soliciting.
 for any person to panhandle from any operator or occupant of a motor vehicle in
 a lane of traffic on a public street within the Village.
 (Ord. C0-07-40, passed 10-16-2007)
-OFFENSES AGAINST PUBLIC JUSTICE AND ADMINISTRATION
+**** OFFENSES AGAINST PUBLIC JUSTICE AND ADMINISTRATION ****
 § 130.35 IMPERSONATING OR INTERFERING WITH VILLAGE OFFICERS.
    (A)   No person shall falsely represent himself to be an officer of the
 Village or shall, without being duly authorized, exercise or attempt to
@@ -32050,7 +32051,7 @@ with any implement or means of escape while in prison or in the legal custody
 of any officer of the Village.
 (1997 Code, § 42.18)
 Penalty, see § 10.99
-OFFENSES AGAINST PUBLIC MORALS
+**** OFFENSES AGAINST PUBLIC MORALS ****
 § 130.50 GAMBLING.
    (A)   Maintaining house. No person shall set up, keep or maintain, or permit
 to be set up, kept or maintained, in any house or place within the Village,
@@ -32193,7 +32194,7 @@ section is deemed to constitute a public nuisance and shall result in a penalty
 of not less than $3,000 for a first offense and for each subsequent offense.
 Each day a violation occurs shall constitute a separate offense.
 (Ord. CO-2021-18, passed 8-17-2021)
-OFFENSES AGAINST PUBLIC HEALTH AND SAFETY
+**** OFFENSES AGAINST PUBLIC HEALTH AND SAFETY ****
 § 130.65 FIREWORKS.
    (A)   Definitions. For the purpose of this section, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -32376,7 +32377,7 @@ public place, or any place within 30 feet of any building or structure.
    No person shall pollute the air or any water course by excessive discharge
 of waste products or foreign matter.
 (1997 Code, § 42.10)
-WEAPONS
+**** WEAPONS ****
 § 130.80 FIREARMS.
    (A)   Definitions. For the purposes set forth in this §
 130.80 (Firearms), §
@@ -32680,7 +32681,7 @@ fined no less than $50 or more than $1,000 for such offense. Any person
 violating this section more than 1 time shall be fined not less than $100 nor
 more than $1,000.
 (Ord. C0-06-45, passed 12-19-2006)
-DRUG-RELATED OFFENSES
+**** DRUG-RELATED OFFENSES ****
 § 130.90 DRUG PARAPHERNALIA.
    (A)   Sale or delivery. It shall be unlawful for any person to keep for
 safe, offer for sale, sell, deliver, furnish, or transfer, or to possess with
@@ -33542,7 +33543,7 @@ Elevation Inspection Program and Standards
 Cross-reference:
    Village policies, see
 Ch. 38
-BUILDING CODE
+**** BUILDING CODE ****
 § 150.001 2018 INTERNATIONAL BUILDING CODE AND OTHER ADOPTED CODES.
    (A)   The 2018 International Building Code Series, as published by the
 International Code Council, shall be and is adopted by reference as the
@@ -35288,7 +35289,7 @@ of Maywood and all required permits required by Cook County.
 shall notify the Building and Code Enforcement Department on a form provided by
 the Building and Code Enforcement Department for such purpose.
 (Ord. CO-2012-08, passed 2-21-2012; Am. Ord. CO-2021-21, passed 8-17-2021)
-NUISANCES
+**** NUISANCES ****
 § 150.036 CHRONIC PUBLIC NUISANCES.
    (A)   Declaration of purpose.  It is the purpose of this section to
 encourage property owners and persons in charge of real property to eliminate
@@ -35678,7 +35679,7 @@ addendum/provision shall govern.
 criminal activity shall mean a violation of the Maywood Village Code or other
 violation of local, state, or federal law.
 (Ord. CO-2012-03, passed 1-17-2012; Am. Ord. CO-2021-21, passed 8-17-2021)
-RESIDENTIAL CODE
+**** RESIDENTIAL CODE ****
 § 150.039 AMENDMENTS AND CHANGES TO THE 2018 INTERNATIONAL RESIDENTIAL CODE.
    The 2018 International Residential Code adopted by reference pursuant to §
 150.001 is amended as it applies within the Village as follows:
@@ -35708,7 +35709,7 @@ protected by a minimum of 1/2" drywall or equivalent.
 and crawl spaces have smoke detectors hard wired connectivity and building
 supplies power with a battery backup and compliant with R314.”
 (Ord. CO-2023-45, passed 11-7-2023)
-ELECTRICAL CODE
+**** ELECTRICAL CODE ****
 § 150.040 NATIONAL ELECTRICAL CODE.
    (A)   The National Electrical Code, 2017 Edition, is adopted by reference,
 provided that in the event any of the provisions of the National Electrical
@@ -35927,7 +35928,7 @@ surrendered within 1 business day);
 trailers.
 (1997 Code, § 24.11) (Ord. CO-09-95, passed 10-12-1995; Am. Ord. C0-03-29,
 passed 12-29- 2003; Am. Ord. CO-2023-45, passed 11-7-2023)
-PLUMBING CODE
+**** PLUMBING CODE ****
 § 150.065 ILLINOIS PLUMBING CODE ADOPTED.
    (A)   The Village does adopt as the Plumbing Code of the Village the
 language and terms of the Illinois Plumbing Code/2004, 77 Ill. Admin. Code 890,
@@ -35970,7 +35971,7 @@ Village Clerk as required by §
 (1997 Code, § 25.04) (Ord. CO-09-95, passed 10-12-1995; Am. Ord. CO-09-27,
 passed 10-6- 2009; Am. Ord. CO-2021-21, passed 8-17-2021; Am. Ord. CO-2023-54,
 passed 12-5-2023)
-ENERGY CONSERVATION CODE
+**** ENERGY CONSERVATION CODE ****
 § 150.080 ADOPTION OF ENERGY CONSERVATION CODE.
    The most recent publication of the Illinois Energy Conservation Code as
 published by the International Code Council and amended by the Illinois Capital
@@ -35982,7 +35983,7 @@ public.
 passed 10-6- 2009; Am. Ord. CO-2021-21, passed 8-17-2021; Am. Ord. CO-2023-45,
 passed 11-7-2023)
 § 150.081 RESERVED.
-HOUSING AND EXISTING STRUCTURES CODE
+**** HOUSING AND EXISTING STRUCTURES CODE ****
 § 150.095 ADOPTION INTERNATIONAL PROPERTY MAINTENANCE CODE.
    The International Property Maintenance Code, 2018 edition (“Property
 Maintenance Code”), as published by the International Code Council, shall be
@@ -36820,7 +36821,7 @@ insure the safety of occupants.
       (4)   A certificate of occupancy shall be applied for coincidentally with
 the application for a zoning permit.
 (Ord. CO-2010-006, passed 4-15-2010; Am. Ord. CO-2021-21, passed 8-17-2021)
-ELEVATION INSPECTION PROGRAM AND STANDARDS
+**** ELEVATION INSPECTION PROGRAM AND STANDARDS ****
 § 150.120 ELEVATION INSPECTION PROGRAM AND STANDARDS.
    (A)   The Village hereby adopts and provides for a program of elevator
 inspections (the "Program") to be operated and administered in compliance with
@@ -39151,7 +39152,7 @@ Amendments:
    CO-2024-24: 06/04/2024
    CO-2024-28: 07/18/2024
    CO-2025-03: 01/07/2025
-TABLE OF CONTENTS
+*** TABLE OF CONTENTS ***
 Section 1. Title, Purpose and Applicability
    
 1.1   Title
@@ -48751,7 +48752,7 @@ designations
  
    
 158.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 158.01 PURPOSE; POLICY.
    The purpose of this chapter is to promote the protection, enhancement,
 perpetuation, and use of improvements of special character or historical
