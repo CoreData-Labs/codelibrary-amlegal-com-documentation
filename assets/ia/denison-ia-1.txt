@@ -18,7 +18,7 @@ P. O. Box 141
 610 Buddy Holly Place
 Clear Lake, Iowa 50428
 Adopted August 17, 2009, by Ordinance No. 1362
-TABLE OF CONTENTS
+***** TABLE OF CONTENTS *****
 GENERAL CODE PROVISIONS
 CHAPTER 1 - CODE OF ORDINANCES
 CHAPTER 2 - CHARTER
@@ -4791,14 +4791,14 @@ violation of this chapter. Said Code of Iowa sections listed herein are adopted
 by reference.
 62.02 SECTION 321.17   Operating non-registered vehicle.
 62.03 SECTION 321.20B   Driving without liability coverage.
-62.04 SECTION 321.25   Improper Use of Registration Card.
+*** 62.04 SECTION 321.25   Improper Use of Registration Card. ***
 (Ord. 1382 - Nov. 10 Supp.)
 62.05 SECTION 321.32   Failure to carry registration card.
 62.06 SECTION 321.34   Registration violation.
 62.07 SECTION 321.37   Failure to display registration plates.
 62.08 SECTION 321.38   Failure to maintain registration plates.
 62.09 SECTION 321.41   Failure to give notice of address or name change.
-62.10 SECTION 321.45   Failure to Transfer Title.
+*** 62.10 SECTION 321.45   Failure to Transfer Title. ***
 (Ord. 1382 - Nov. 10 Supp.)
 62.11 SECTION 321.46   Violation of new title and registration upon transfer to
 new owner.
@@ -4808,9 +4808,9 @@ new owner.
 dismantled, wrecked, or salvaged vehicles.
 62.15 SECTION 321.54   Registration required – certain nonresident carriers.
 62.16 SECTION 321.55   Registration required – other nonresident carriers.
-62.17 SECTION 321.57   Violation of Special Plates Requirement.
+*** 62.17 SECTION 321.57   Violation of Special Plates Requirement. ***
 (Ord. 1382 - Nov. 10 Supp.)
-62.18 SECTION 321.62   Special Plates, Records Violation.
+*** 62.18 SECTION 321.62   Special Plates, Records Violation. ***
 (Ord. 1382 - Nov. 10 Supp.)
 62.19 SECTION 321.67   Failure to deliver or acquire certificate of title upon
 sale of vehicle.
@@ -5017,7 +5017,7 @@ to any vehicle upon a roadway.
 substance at or against a person riding a bicycle.
 62.177 SECTION 321.449B. Texting or using a mobile telephone while operating a
 commercial motor vehicle.
-(Ord. 1493 - Sep. 18 Supp.)
+*** (Ord. 1493 - Sep. 18 Supp.) ***
 62.190 OBSTRUCTING VIEW AT INTERSECTIONS.
    It is unlawful to allow any tree, hedge, billboard, or other object to
 obstruct the view of an intersection by preventing persons from having a clear
@@ -23558,7 +23558,7 @@ of Civil Penalties and Fees in the Appendix to this Code of Ordinances.
    The restrictions of Section 354.8 of the Code of Iowa are hereby adopted by
 the City.
 APPENDIX
-USE AND MAINTENANCE OF THE CODE OF ORDINANCES
+***** USE AND MAINTENANCE OF THE CODE OF ORDINANCES *****
    The following information is provided to assist in the use and proper
 maintenance of this Code of Ordinances.
    DISTRIBUTION OF COPIES
@@ -23776,8 +23776,8 @@ _________________________________
    These ordinances should be numbered in the same numerical sequence as any
 other amending ordinance and placed in their proper sequence in the ordinance
 book.
-SUGGESTED FORM:
-NOTICE TO ABATE NUISANCE
+***** SUGGESTED FORM:
+NOTICE TO ABATE NUISANCE *****
    TO:   (Name and address of owner, agent, or occupant of the property on
 which the nuisance is located or the person causing or maintaining the
 nuisance).
@@ -23794,7 +23794,7 @@ by law.
    City of ____________________________, Iowa
    By: ___________________________________
    (designate officer initiating notice)
-SCHEDULE OF CIVIL PENALTIES AND FEES
+***** SCHEDULE OF CIVIL PENALTIES AND FEES *****
 Unlisted Equipment Disclosure Statement: Any equipment not mentioned within
 this Fee Schedule shall use the most current and most recent available “FEMA
 Schedule of Equipment Rates” to the listed equipment or more closely related
@@ -23802,7 +23802,7 @@ below listed item. Then added to that rate a 3% annual increase for each year
 after the FEMA publication date. Items listed below or in the FEMA list, will
 only be rented if it is in the best interest of the City and/or emergency
 situations.
-Planning and Zoning
+**** Planning and Zoning ****
 Building and Sign Permit Fees
 Section
 155.05:
@@ -23966,7 +23966,7 @@ Certificate of Occupancy (Section
 174.19  [3]):
    Residential                           $50.00
    Commercial                           $75.00
-Administrative Fees and Staff Hourly Rates
+**** Administrative Fees and Staff Hourly Rates ****
 This amount shall be reflected on the City’s RESOLUTION SETTING WAGES FOR
 APPOINTED OFFICERS AND EMPLOYEES FOR THE CITY OF DENISON, IOWA FOR EACH FISCAL
 YEAR, which is adopted before July 1 annually and effective through June 30 of
@@ -23974,7 +23974,7 @@ the following year. These wages are what the City may charge during that Fiscal
 Year for staff, plus their actual benefit costs, and a $125.00 administrative
 recoupment fee. This excludes the staff amount indicated under Police
 Department or City Hall Reproduction Fees, which shall follow Iowa State Law.
-Animal Protection and Control
+**** Animal Protection and Control ****
 Annual Dog or Cat License:
       Spayed or Neutered Animals, per license         $15.00
       Not Spayed or Neutered Animals, per license         $30.00
@@ -23992,13 +23992,13 @@ Unlicensed Dog or Cat:
 Unlicensed Dog or Cat, in addition to the Licensed Dog or Cat Impound
 Fee   $10.00
 Room and Board Fee, per day, plus impoundment fee               $10.00
-City Hall Reproduction Fees
+**** City Hall Reproduction Fees ****
 Copies (black and white), each page                  $0.25
 Copies (color), each page                        $1.00
 Copies of Audio Tapes, each tape                  $5.00
 Copies of DVD, CD-ROM, Audio, each                  $10.00
 Research for Request for Public Information, each      Employee’s Hourly Rate
-Fire Department HAZ-MAT Equipment Fees
+**** Fire Department HAZ-MAT Equipment Fees ****
 Section 156.03[10]:
 Engine - Initial Response and Up to 1 Hour               $250.00
 Engine - Each Additional Hour After 1st Hour               $150.00
@@ -24018,7 +24018,7 @@ Costs and replacement costs of expendable materials, equipment and supplies
 utilized in incident mitigation, including but not limited to HAZ-MAT suits and
 consumable items such as water and Gatorade necessary for the well-being of the
 responders         AS INVOICED
-License and Permit Fees
+**** License and Permit Fees ****
 Solid Waste Collectors (Section 106.02[3])               $50.00
 Peddlers, Solicitors, Vendors and Transient Merchants (Section
 122.05):
@@ -24030,13 +24030,13 @@ Peddlers, Solicitors, Vendors and Transient Merchants (Section
 Pawnbrokers (Section 125.02)                     $150.00
 Special Event Permit Fee (Section 126.05 [5])               $100.00
 Special Event Refundable Deposit (Section 125.05 [6])         $250.00
-Miscellaneous Fees
+**** Miscellaneous Fees ****
 Surcharge Fee for Dishonored Payment, per item            $30.00
-Mowing Fees
+**** Mowing Fees ****
 As referred to in Section 57.07, fees for cutting, mowing and maintaining all
 grass, weeds and brush shall have an equipment fee, labor and administrative
 fee as indicated for the appropriate Public Works equipment used.
-Municipal Infractions
+**** Municipal Infractions ****
 The penalties for violations of ordinances pursuant to Section 4.02(1) of this
 Code of Ordinances are as follows:
 First Offense, not to exceed                     $250.00
@@ -24047,18 +24047,18 @@ The penalties for violation of chapters of this Code of Ordinances pursuant to
 Section 4.02(2) are as follows:
 First Offense, not to exceed                     $750.00
 Second and Subsequent Offenses, not to exceed          $1,000.00
-Nuisance Abatement Fees
+**** Nuisance Abatement Fees ****
 As referred to in Section
 50.10, fees for the failure or refusal to abate a nuisance shall have an
 equipment fee, labor and administrative fee as indicated for the appropriate
 Public Works equipment used.
-Parks & Recreation Fees
+**** Parks & Recreation Fees ****
 Morningside Park Shelter – Deposit                  $125.00
    Daily Rent                           $25.00
 Union Park Enclosed Shelter – Deposit                  $50.00
    Daily Rent                           $20.00
 Open Air Shelter Optional Reservation Fee               $20.00
-Police Department Reproduction Fees
+**** Police Department Reproduction Fees ****
 Minimum Research Fee                        $5.00
 Single Form                              $5.00
 Copy of Officer’s Written Report (No other supporting documentation)   $10.00
@@ -24137,7 +24137,7 @@ UTV Turning and Signaling, plus surcharge and court costs (Section 75.06
 [5])         $50.00
 UTV Violation of Stop Signal, plus surcharge and court costs (Section 75.06
 [6])         $100.00
-Public Works Department Equipment Fees
+**** Public Works Department Equipment Fees ****
 Equipment (for one hour and any fraction thereof – plus any material
 costs)      Hourly Fee
 Pay Loader with Operator (Bucket/Forks)                     $150.00
@@ -24165,7 +24165,7 @@ Lawn Mower with One Operator - Each Additional Hour After the 1st
 Hour         $50.00
 Employee Hourly Rate      See Administrative Fees and Staff Hourly Rates
 Section
-Snow Removal Fees
+**** Snow Removal Fees ****
 As referred to in Section
 136.03, fees for the removal of snow, ice, and accumulations from sidewalks
 shall have an equipment fee, labor and administrative fee as indicated for the
