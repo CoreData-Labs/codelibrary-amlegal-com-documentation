@@ -666,13 +666,13 @@ books, papers, or other evidence as ordered under the provisions of this
 section shall constitute a misdemeanor.
 (Adopted by electorate, May 11, 2013)
 ARTICLE IV. CITY ADMINISTRATION
-DIVISION 1 - DEPARTMENTS
+*** DIVISION 1 - DEPARTMENTS ***
 Section 4.1 ADMINISTRATIVE DEPARTMENTS.
    There are hereby created the following administrative departments: Finance,
 Police, Fire, Public Works and such other departments as may be established by
 the City Manager.
 (Adopted by electorate, May 11, 2013)
-DIVISION 2 - CITY MANAGER
+*** DIVISION 2 - CITY MANAGER ***
 Section 4.2 QUALIFICATIONS.
    The City Manager shall be chosen by the Council solely on the basis of his
 executive and administrative qualifications with special reference to the
@@ -739,7 +739,7 @@ such amount as the Council may demand, payable to the City of Cleburne, and
 conditioned for the faithful performance of the duties of his office, the
 premium of such bond to be paid by the City.
 (Adopted by electorate, May 11, 2013)
-DIVISION 3 - CITY SECRETARY
+*** DIVISION 3 - CITY SECRETARY ***
 Section 4.8 CITY SECRETARY.
    The Council shall designate an officer of the City who shall be recommended
 by the City Manager to serve as City Secretary. The City Secretary shall give
@@ -749,7 +749,7 @@ kept and indexed for the resolutions, and shall perform such other duties as
 the City Manager shall assign to the Secretary and those elsewhere provided for
 in the Charter.
 (Adopted by electorate, May 11, 2013)
-DIVISION 4 - MUNICIPAL COURT
+*** DIVISION 4 - MUNICIPAL COURT ***
 Section 4.9 MUNICIPAL COURT.
    There is hereby created a Municipal Court for the City of Cleburne which
 shall possess jurisdiction authorized by laws of the State of Texas relative to
@@ -784,7 +784,7 @@ when a vacancy occurs shall only be for the remainder of that unexpired term. A
 special judge shall receive such compensation as may be fixed by the City
 Council.
 (Adopted by electorate, May 11, 2013)
-DIVISION 5 - CITY ATTORNEY
+*** DIVISION 5 - CITY ATTORNEY ***
 Section 4.11 CITY ATTORNEY.
    (A)   The City Council shall appoint a competent and duly licensed attorney
 licensed to practice law in the State of Texas for at least five (5) years who
@@ -803,7 +803,7 @@ compensation as may be fixed by the Council; and more than one assistant if
 deemed necessary by the Council, such assistant or assistants to hold office at
 the will of the City Attorney, so long as he remains City Attorney.
 (Adopted by electorate, May 11, 2013)
-DIVISION 6 - GENERAL ADMINISTRATION
+*** DIVISION 6 - GENERAL ADMINISTRATION ***
 Section 4.12 PUBLICITY OF RECORD.
    All records and accounts of every office, department or every office,
 department, or agency of the City shall be open to inspection, in accordance
@@ -1888,7 +1888,7 @@ Art. III
 Art. IX
    Water and Sewer Department, see Charter §
 10.6
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 FISCAL YEAR.
    The fiscal year of the city shall begin on October 1 of each year and end on
 September 30 of the following year.
@@ -1985,7 +1985,7 @@ incorporated into this code by reference.
 2021-50, passed 9-14-21; Am. Ord. 02-2022-21, passed 2-22-22; Am. Res. 04-2021-
 54, passed 4-27-21; Am. Ord. 12-2022-84, passed 12-13-22; Am. Res. 01-2024-21,
 passed 1-23-24)
-COURT
+**** COURT ****
 § 30.15 COURT ESTABLISHED; JURISDICTION.
    (A)   The City Council hereby establishes the Cleburne Municipal Court as a
 municipal court of record in order to provide a more efficient disposition of
@@ -2198,7 +2198,7 @@ neglects, or refuses to comply with or who resists the enforcement of any of
 the provisions of this section shall be fined not more than $2,000 for each
 offense.
 (Ord. 10-2015-70, passed 10-13-15)
-ELECTIONS
+**** ELECTIONS ****
 § 30.30 WARD BOUNDARIES.
    Nothing in this code or the ordinance adopting this code shall be deemed to
 affect the validity of any ordinance dividing the city into wards and fixing
@@ -2292,7 +2292,7 @@ Editor's note:
    The provisions for the city Animal Shelter Advisory Board have not been
 included in this Code of Ordinances; however, this board remains in operation
 within the city.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 APPLICATION OF PROVISIONS.
    The provisions of this subchapter shall apply to all boards or commissions
 of the city heretofore created and which may be created in the future with the
@@ -2364,7 +2364,7 @@ boards and commissions. The Council will then make appointments in writing on
 forms providing biographical data and qualifications at the first regular
 meeting following the notification of a vacancy or expiration of term.
 ('68 Code, § 2-52) (Ord. passed 6-23-66)
-MAIN STREET ADVISORY BOARD
+**** MAIN STREET ADVISORY BOARD ****
 § 31.25 BOARD ESTABLISHED.
    There is established the Main Street Advisory Board, which may consist of 9
 to 15 members appointed by the City Council to two-year terms, with the
@@ -2427,11 +2427,11 @@ program.
 Cleburne is designated as a Main Street project city by the Texas Historical
 Commission.
 ('68 Code, § 2-140) (Ord. 3-1992-7, passed 3-26-92)
-DEPARTMENT OF ECONOMIC DEVELOPMENT
+**** DEPARTMENT OF ECONOMIC DEVELOPMENT ****
 § 31.50 CREATION.
    The Department of Economic Development is hereby created.
 (Ord. 04-2003-16, passed 4-22-03)
-HISTORIC PRESERVATION COMMISSION
+**** HISTORIC PRESERVATION COMMISSION ****
 § 31.61 PURPOSE.
    It is recognized that the city represents the unique confluence of time,
 land, and place that shaped the identity of generations of citizens,
@@ -2945,7 +2945,7 @@ General Provisions
 35.11   Electronic payment processing fee
 Statutory reference:
    Taxation generally, see Tex. Tax Code §§ 302.001 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 35.01 TAXES — WHEN DUE; PENALTY AND INTEREST ON DELINQUENT PAYMENT.
    (A)   All taxes due the city shall become due and payable on October 1 of
 the year for which they are levied and assessed, and shall be paid before
@@ -4004,7 +4004,7 @@ Ch. 150
 150.040 et seq.
    Water and sewer requirements for subdivisions, see §§
 154.100 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.001 CITY TO INSTALL HOUSE SERVICE LINES; TAPPING FEES; MAINTENANCE OF
 SERVICE LINES.
    [Section deleted by Ord. 07-1996-41]
@@ -4072,7 +4072,7 @@ available, as determined by the Water Utilities Superintendent, within 660 feet
 section shall be fined not more than $2,000. Each day that a violation is
 permitted to exist shall constitute a separate offense.
 (Ord. 4-2002-23, passed 4-9-02)
-RATES, CHARGES AND COLLECTIONS
+**** RATES, CHARGES AND COLLECTIONS ****
 § 51.015 APPLICATION FOR SERVICE, TRANSFER OR FINAL; CONTENTS OF APPLICATION.
    (A)   Application required.  A person shall not use a service without first
 making the proper application for the service with the Water Utilities
@@ -4973,7 +4973,7 @@ rate structures thereof;
 or enhancement of existing services or inflation; or
       (3)   For the addition of permanent personnel or equipment.
 (Ord. 8-2002-53, passed 8-13-02)
-EXTENSION OF MAINS
+**** EXTENSION OF MAINS ****
 § 51.050 PURPOSE; WHERE FRONT FOOT RULE INEQUITABLE; NO VESTED RIGHTS. 
    (A)   The intent and purpose of this subchapter is to provide an equitable
 charge for water and sewer mains as a proportionate distribution of the cost of
@@ -5136,7 +5136,7 @@ ordinance in the manner prescribed by law.
 charge, at the rates set out in this subchapter, shall be credited to the water
 and sewer system fund of the city.
 ('68 Code, § 29-40) (Ord. passed 4-13-71)
-INDUSTRIAL WASTES
+**** INDUSTRIAL WASTES ****
 § 51.070 PURPOSE AND POLICY.
    (A)   This subchapter sets forth uniform requirements for users of the
 wastewater collection and Publicly Owned Treatment Works (POTW) for the city
@@ -7079,7 +7079,7 @@ or laboratory to send invoices directly to the industrial users for services
 requested and approved by the city.
 (Ord. 12-1994-59, passed 12-13-94; Am. Ord. 08-2003, passed 4-26-03; Am. Ord.
 02-2006-16, passed 2-28-06; Am. Ord. 04-2020-24, passed 4-14-20)
-WASTE HAULERS
+**** WASTE HAULERS ****
 § 51.100 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7277,7 +7277,7 @@ considered in the hearing. A written report of the hearing decision shall be
 furnished to the applicant or permit holder by the Regulatory Committee within
 ten days after the date of hearing.
 (Ord. 3-1995-7, passed 3-28-95; Am. Ord. 04-2020-24, passed 4-14-20)
-ON-SITE SEWAGE FACILITIES
+**** ON-SITE SEWAGE FACILITIES ****
 § 51.120 ADOPTING PROVISIONS OF TEXAS HEALTH AND SAFETY CODE.
    The city clearly understands the technical criteria, legal requirements and
 administrative procedures and duties associated with regulating on-site sewage
@@ -7639,7 +7639,7 @@ Charges Levied and Imposed
  
    
 52.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.001 FINDINGS.
    The City Council has found and hereby finds that:
    (A)   The city will establish a schedule of drainage charges against all
@@ -7671,7 +7671,7 @@ pursuant to Tex. Local Gov't Code § 402.044(8).
 flooding or erosion, and does not create additional duties on the part of the
 city. This chapter does not waive the city's immunity under any law.
 (Ord. 01-2004-02, passed 1-13-04)
-CHARGES LEVIED AND IMPOSED
+**** CHARGES LEVIED AND IMPOSED ****
 § 52.020 FINDINGS.
    The City Council has found and hereby finds that:
    (A)   The amount of impervious cover on a benefitted property is directly
@@ -7881,7 +7881,7 @@ Ch. 117
 Ch. 119
 Statutory reference:
    Uniform Traffic Act, see Tex. Rev. Civ. Stat., Art. 6701d
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this title, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -8221,7 +8221,7 @@ storing the vehicle.
    The storage, auction, proceeds from auction and use of abandoned vehicles
 shall comply with Tex. Trans. Code §§ 683.013, 683.014, 683.015, and 683.016.
 (Ord. 11-2018-96, passed 11-27-18)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.15 CONFORMITY WITH STATE HIGHWAY DEPARTMENT.
    All traffic-control signs, signals and devices shall conform to the manual
 and specifications approved by the State Highway Department. All signs and
@@ -8396,7 +8396,7 @@ designed to be utilized for cemetery use only.
 driveways, and other paths designed for use by vehicular or pedestrian traffic.
 (Ord. 1-2008-03, passed 1-8-08)
 Penalty, see § 70.99
-MOTORCYCLES, BICYCLES AND TOY VEHICLES
+**** MOTORCYCLES, BICYCLES AND TOY VEHICLES ****
 § 70.35 ROLLER SKATES, COASTERS, AND THE LIKE ON ROADWAY.
    No person upon roller skates, or riding in or by means of any coaster, skate
 board, toy vehicle or similar device shall go upon any roadway, except while
@@ -8430,7 +8430,7 @@ thereof and a reflector on the back and the same shall be in working order and
 turned on when ridden at night.
 ('68 Code, § 27-11) (Ord. passed 12-12-67)
 Penalty, see § 70.99
-PEDESTRIANS
+**** PEDESTRIANS ****
 § 70.50 APPLICATION OF TITLE.
    Pedestrians shall be subject to traffic-control signals as provided in this
 chapter, but at all other places pedestrians shall be granted those rights and
@@ -8500,7 +8500,7 @@ incapacitated person upon a roadway.
 Penalty, see § 70.99
 Statutory reference:
    Similar provisions, see Tex. Rev. Civ. Stat., Art. 6701d, § 79
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 70.65 REGULATIONS OF CHIEF OF POLICE AND CITY MANAGER.
    The Chief of Police and the City Manager are empowered to make and enforce
 regulations necessary to make effective the provisions of this title and to
@@ -8699,7 +8699,7 @@ Speed Regulations
 71.45   Exemptions from speed regulations
    
 71.46   Construction zones on state-maintained highways
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 71.01 DUTY TO DRIVE ON RIGHT HALF OF ROADWAY.
    The driver of a vehicle shall drive on the right half of the roadway, except
 when overtaking and passing a vehicle proceeding in the same direction under
@@ -9137,7 +9137,7 @@ of Transportation, at each school zone in order for the city to enforce this
 section, as authorized by state law.
 (Ord. 09-2009-57, passed 9-22-09) Penalty, see §
 70.99
-SPEED REGULATIONS
+**** SPEED REGULATIONS ****
 § 71.40 MAXIMUM LIMITS.
    (A)   No person shall operate or drive any vehicle on any street within the
 city at a greater speed than 30 miles per hour, unless signs are erected
@@ -9357,7 +9357,7 @@ Cross-reference:
 Statutory reference:
    Authority of city to regulate standing and parking of vehicles, see Tex.
 Rev. Civ. Stat., Art. 6701d, § 27(a)(1)
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.01 UNATTENDED VEHICLES.
    No person having control or charge of any motor vehicle shall allow such
 vehicle to stand on any street unattended without first setting the brakes
@@ -9617,7 +9617,7 @@ or by a qualified employee duly appointed by the City Manager.
 ('68 Code, § 27-18(c)) (Ord. 3-1978-12, passed 3-14-78; Am. Ord. 7-1991-21,
 passed 7-25-91; Am. Ord. 04-2023-30, passed 4-25-23) Penalty, see §
 70.99
-LOADING ZONES
+**** LOADING ZONES ****
 § 72.25 LOADING AND UNLOADING — GENERAL PROVISIONS.
    It shall be unlawful for any operator of a vehicle to stop or park the same
 in a parking space for the purpose of loading or unloading merchandise,
@@ -9697,7 +9697,7 @@ impounded until payment of such towing expense and any cost of storage has been
 made.
 ('68 Code, § 27-122(a)) (Ord. 12-1983-47, passed 12-13-83; Am. Ord. 7-1991-21,
 passed 7-25-91)
-FIRE LANES
+**** FIRE LANES ****
 § 72.75 FIRE LANES ESTABLISHED; PARKING PROHIBITED.
    The locations below are hereby designated as fire lanes for the use of fire
 trucks and firefighting apparatus. Hereafter it shall be unlawful for any
@@ -10086,7 +10086,7 @@ Cross-reference:
 Statutory reference:
    Aeronautics generally, Tex. Rev. Civ. Stat., Art. 46c, 46d, and 46f through
 46i Municipal Airports Act, Tex. Rev. Civ. Stat., Art. 46d
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -10351,7 +10351,7 @@ controlled by any other person and stored or otherwise left at the airport
 without the consent of the owner or operator thereof.
 ('68 Code, § 3-35) (Ord. passed 1-12-60)
 Penalty, see § 90.999
-USE AND PRIVILEGE FEES
+**** USE AND PRIVILEGE FEES ****
 § 90.035 FEES LEVIED AND IMPOSED.
    There are levied and imposed upon the owners and operators of all aircraft,
 and upon all persons performing services or furnishing goods, wares or
@@ -10480,7 +10480,7 @@ other proper agency of the government of the United States and the State of
 Texas.
 ('68 Code, § 3-59) (Ord. passed 1-12-60)
 Penalty, see § 90.999
-PERMIT FOR COMMERCIAL ACTIVITIES
+**** PERMIT FOR COMMERCIAL ACTIVITIES ****
 § 90.050 PERMIT REQUIRED.
    It shall be unlawful for any aircraft service operator, gasoline service
 operator, concessionaire or motor carrier to engage, or offer to engage, in any
@@ -10644,7 +10644,7 @@ thereunder shall cease and come to an end at the expiration of such ten days as
 if that were the day originally fixed for the termination thereof.
 ('68 Code, § 3-69) (Ord. passed 1-12-60)
 Penalty, see § 90.999
-CONTRACT OR LEASE FOR USE OR OCCUPANCY OF FACILITIES
+**** CONTRACT OR LEASE FOR USE OR OCCUPANCY OF FACILITIES ****
 § 90.065 CONTRACT OR LEASE — WHEN REQUIRED.
    The use or occupancy for any purpose of any hangar, shop, warehouse, office,
 building or any portion of the grounds of the airport, except the use of the
@@ -10880,7 +10880,7 @@ of that reasonably necessary for the conduct and operation of the business,
 trade or profession of the lessee.
 ('68 Code, § 3-82) (Ord. passed 1-12-60)
 Penalty, see § 90.999
-AIRPORT ZONING
+**** AIRPORT ZONING ****
 § 90.080 SHORT TITLE.
    This subchapter shall be known and may be cited as “Cleburne Regional
 Airport Hazard Zoning Regulations.”
@@ -11294,7 +11294,7 @@ or abate any violation of these regulations or of any order or ruling made in
 connection with their administration or enforcement including, but not limited
 to, an action for injunctive relief.
 (Ord. 06-2023-39, passed 6-13-23)
-AIRPORT COMMISSION
+**** AIRPORT COMMISSION ****
 § 90.105 CREATED; COMPOSITION; APPOINTMENT; TERMS OF MEMBERS.
    There is hereby created and established an airport commission in and for the
 city. It shall be comprised of five members who shall be appointed by the City
@@ -11462,7 +11462,7 @@ Ch. 96
 70.08
 Statutory reference:
    Rabies Control Act, see Tex. Health and Safety Code §§ 826.001 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12512,7 +12512,7 @@ this section.
    (E)   Animals directly involved in law enforcement activities or training
 are exempt from these provisions.
 (Ord. 07-2021-32, passed 7-13-21)
-RABIES CONTROL; ANIMAL BITES
+**** RABIES CONTROL; ANIMAL BITES ****
 § 91.025 RABIES CONTROL.
    (A)   Control authority.  In the city the rabies control authority shall be
 the City Police Department or the animal services division.
@@ -12608,7 +12608,7 @@ for laboratory examination for rabies.
 ('68 Code, § 5-3(f) (Ord. 3-1989-10, passed 3-21-89; Am. Ord. 09-2016-47,
 passed 9-27-16 ; Am. Ord. 07-2021-32, passed 7-13-21 ) Penalty, see §
 91.999
-IMPOUNDMENT; ANIMAL SHELTER
+**** IMPOUNDMENT; ANIMAL SHELTER ****
 § 91.035 ANIMAL SHELTER ADVISORY BOARD.
    (A)   There is hereby created and established an Animal Shelter Advisory
 Board for the city. It shall be composed of at least one licensed veterinarian,
@@ -12783,7 +12783,7 @@ not constitute a warranty, expressed or implied of the health, certainty of
 breed, age, or temperament of the animal.
 ('68 Code, § 5-36) (Ord. 3-1989-10, passed 3-21-89; Am. Ord. 09-2016-47, passed
 9-27-16; Am. Ord. 07-2021-32, passed 7-13-21)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 91.065 EXIGENT CIRCUMSTANCES.
    If upon investigation, an animal services officer believes that exigent
 circumstances exist and the animal services officer cannot locate the owner on
@@ -13820,7 +13820,7 @@ Ch. 113
 71.45
    Traffic regulations, application to Fire Department vehicles, see §
 70.07
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 FIRE DEPARTMENT ESTABLISHED.
    A Fire Department is hereby established for the city, charged with the
 responsibility of providing protection for lives and property of the public.
@@ -14032,7 +14032,7 @@ available for sale as consumer products to members of the general public.
 owned or transported by the city, the state (including its political
 subdivisions) or the federal government.
 (Ord. 07-2004-41, passed 7-27-04)
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 93.11 OFFICE OF FIRE MARSHAL.
    (A)   The office of Fire Marshal is hereby established. The position of Fire
 Marshal is a duty assignment appointed by the Fire Chief. This assignment may
@@ -15027,7 +15027,7 @@ Nuisance Personal Property
  
    
 96.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 96.01 DEFINITIONS.
    The following words, terms, and phrases, when used in this chapter, shall
 have the meanings ascribed to them in this section, except where the context
@@ -15399,7 +15399,7 @@ public grounds within the jurisdiction of the city without having the same
 covered and protected from public view and screened from insects, germs, and
 dust.
 (Ord. 11-2018-96, passed 11-27-18)
-PROHIBITED CONDITIONS ON PRIVATE PREMISES
+**** PROHIBITED CONDITIONS ON PRIVATE PREMISES ****
 § 96.30 CONDITIONS PROHIBITED.
    It shall be unlawful for a person, firm, or corporation owning, occupying,
 or having control of property within the jurisdiction of the city, whether
@@ -15607,7 +15607,7 @@ of the city; or
       (3)   Allow the vegetation around the perimeter of the property, which is
 not a part of the growing crop, to grow to a height greater than eight inches.
 (Ord. 11-2018-96, passed 11-27-18)
-JUNKED VEHICLES
+**** JUNKED VEHICLES ****
 § 96.45 JUNKED VEHICLES.
    A junked vehicle, including any part of a junked vehicle, is detrimental to
 the safety and welfare of the public and is declared a public nuisance and it
@@ -15784,7 +15784,7 @@ fine as set forth in §
    (C)   The court shall order abatement and removal of the nuisance upon
 conviction for an offense under this section.
 (Ord. 11-2018-96, passed 11-27-18)
-RESIDENTIAL PROPERTY STANDARDS
+**** RESIDENTIAL PROPERTY STANDARDS ****
 § 96.65 OUTSIDE STORAGE PROHIBITED.
    (A)   It shall be unlawful for a person to openly store any item prohibited
 in division (B) in an area within the front yard or side yard that is visible a
@@ -15865,7 +15865,7 @@ International Building Code and International Fire Code. Permanent accessory
 structures shall comply with
 Ch. 155 of this code.
 (Ord. 04-2023-30, passed 4-25-23)
-NUISANCE PERSONAL PROPERTY
+**** NUISANCE PERSONAL PROPERTY ****
 § 96.75 CERTAIN PERSONAL PROPERTY DECLARED A NUISANCE.
    (A)   Any personal property left unattended in or upon any public street,
 alley, sidewalk, park, or other public property within the jurisdiction of the
@@ -16015,7 +16015,7 @@ Library Board
 97.21   Powers and duties
    
 97.22   No authority to make expenditures or hire or fire library employees
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 97.01 FINES AND CHARGES.
    (A)   Overdue materials.
       (1)   Library fines for each day, or part of each day, that the
@@ -16092,7 +16092,7 @@ evidence of the transaction records of the library.
 ('68 Code, § 17½-22) (Ord. 5-1983-14, passed 5-10-83; Am. Ord. 02- 2009-07,
 passed 2-10-09; Am. Ord. 08-2018-60, passed 8-28-18) Penalty, see §
 10.99
-LIBRARY BOARD
+**** LIBRARY BOARD ****
 § 97.15 CREATED; COMPOSITION; APPOINTMENT AND TERMS OF MEMBERS.
    There is created and established a Library Board in and for the city. It
 shall be composed of nine members, five of whom must reside in the city and
@@ -16373,7 +16373,7 @@ Don Moore Park and Carver Park
  
    
 98.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 98.001 MANAGEMENT AND CONTROL OF PARKS.
    The public parks of the city and all the facilities located therein shall be
 under the management and control of the City Manager or his duly appointed
@@ -16428,7 +16428,7 @@ Cross-reference:
    Possession or consumption of alcoholic beverages on city property and
 certain areas adjacent to parks prohibited, see §
 130.20
-PARK AND RECREATION BOARD
+**** PARK AND RECREATION BOARD ****
 § 98.015 CREATED; COMPOSITION; APPOINTMENT OF MEMBERS.
    (A)   There is created a Park and Recreation Board for the city. The Board
 shall be composed of seven members who shall be appointed by the City Council.
@@ -16459,7 +16459,7 @@ adoption of such plans and recommendations in every way possible.
    The Park and Recreation Board shall have no authority to make expenditure of
 city funds, nor to order any work done on its own authority.
 ('68 Code, § 20-16) (Ord. passed 6-23-66)
-SWIMMING POOLS
+**** SWIMMING POOLS ****
 § 98.025 SPLASH STATION GENERAL RULES.
    Splash Station general rules are hereby established and rules for the safe
 use of the Splash Station shall be determined prior to its opening to the
@@ -16545,7 +16545,7 @@ specified.
 2008-20, passed 3-25-08; Am. Ord. 04-2011-19, passed 4-28-11; Am. Ord. 02-2014-
 13, passed 2-25-14; Am. Ord. 09-2014-75, passed 9-9-14; Am. Ord. 02-2022-16,
 passed 2-22-2022)
-CAMPING
+**** CAMPING ****
 § 98.030 OVERNIGHT CAMPING.
    No overnight camping is allowed at any Cleburne Parks and Recreation
 Department facility.
@@ -16562,8 +16562,8 @@ any restriction of this subchapter for a special event or situation.
 Director shall have the authority to enforce the provisions in this subchapter.
 (‘68 Code, § 20-24) (Ord. 12-1977-53, passed 12-13-77; Am. Ord. 10- 2015-72,
 passed 10-27-15)
-LAKE PAT CLEBURNE
-Part 1: GENERAL PROVISIONS
+**** LAKE PAT CLEBURNE ****
+** Part 1: GENERAL PROVISIONS **
 § 98.045 NAMED.
    The water reservoir located on the Nolan's River in Johnson County, Texas,
 owned by the City, is named and shall be known and referred to as “Lake Pat
@@ -16820,7 +16820,7 @@ such ordinances same shall not be affected by this section but may be
 prosecuted until final disposition by the courts.
 (Ord. 06-2009-35, passed 6-23-09) Penalty, see §
 98.999
-Part 2: BOATS
+** Part 2: BOATS **
 § 98.080 BOATS — INSPECTION AND APPROVAL OR DISAPPROVAL.
    It shall be the duty of the City Manager or his authorized representatives
 to inspect all boats and other craft before the same are permitted to be placed
@@ -17277,7 +17277,7 @@ done at the owner's risk, and without any liability whatsoever on the part of
 the city.
 ('68 Code, § 17-68) (Ord. passed 8-11-64)
 Penalty, see § 98.999
-Part 3: FISHING
+** Part 3: FISHING **
 § 98.115 FISHING — APPLICABILITY OF STATE LAW.
    The general laws of the state, as the same are now or as they may hereafter
 be amended, save and except as specifically provided through proper ordinances
@@ -17331,7 +17331,7 @@ buy, or take or possess, for commercial purposes, fish from the waters of Lake
 Pat Cleburne.
 ('68 Code, § 17-84) (Ord. passed 8-11-64)
 Penalty, see § 98.999
-Part 4: PIERS AND BOATHOUSES
+** Part 4: PIERS AND BOATHOUSES **
 § 98.125 APPLICATION OF BUILDING CODE.
    Piers, docks, and boathouses at the lake are “structures,” as that term is
 used in the city’s building code set forth in
@@ -17421,7 +17421,7 @@ property which was served by such removed structure, until the city has been
 reimbursed for such removal expense.
 (‘68 Code, § 17-117) (Ord. passed 8-11-64; Am. Ord. 11-2021-65, passed 11-9-21)
 Penalty, see § 98.999
-GOLF COURSE
+**** GOLF COURSE ****
 § 98.200 GENERAL RULES.
    General rules shall be determined prior to the golf course opening to the
 public.
@@ -17466,7 +17466,7 @@ specified.
 2014-72, passed 8-26-14; Am. Ord. 10-2014-86, passed 10-14-14; Am. Ord. 12-
 2019-76, passed 12-10- 19; Am. Ord. 01-2023-01, passed 1-10-23) Penalty, see §
 98.999
-BOOKER T. WASHINGTON COMMUNITY AND RECREATION CENTER
+**** BOOKER T. WASHINGTON COMMUNITY AND RECREATION CENTER ****
 § 98.300 GENERAL RULES.
    General rules shall be established prior to the Center opening to the
 public.
@@ -17516,7 +17516,7 @@ chairs
 groups and special events and to set other fees that are yet to be determined.
 (Ord. 03-2009-18, passed 3-10-09; Am. Ord. 12-2014-99, passed 12-9-14; Am. Ord.
 03-2017-23, passed 3-28-17)
-WINSTON PATRICK McGREGOR PARK
+**** WINSTON PATRICK McGREGOR PARK ****
 § 98.400 GENERAL RULES.
    General rules shall be determined prior to the Park opening to the public.
 (Ord. 04-2009-28, passed 4-28-09)
@@ -17562,7 +17562,7 @@ organizations.
    (D)   The City Manager shall be authorized to set or negotiate rates for
 groups and special events and to set other fees that are yet to be determined.
 (Ord. 04-2009-28, passed 4-28-09)
-CLEBURNE SPORTS COMPLEX
+**** CLEBURNE SPORTS COMPLEX ****
 § 98.500 GENERAL RULES.
    General rules shall be established prior to the Complex opening to the
 public.
@@ -17611,7 +17611,7 @@ without notice.
 that are yet to be determined.
 (Ord. 03-2010-12, passed 3-9-10; Am. Ord. 02-2014-14, passed 2-25-14; Am. Ord.
 12-2014-102, passed 12-18-14; Am. Ord. 10-2015-73, passed 10-27-15)
-DON MOORE PARK AND CARVER PARK
+**** DON MOORE PARK AND CARVER PARK ****
 § 98.600 GENERAL RULES.
    General rules shall be determined prior to Don Moore Park and Carver Park
 opening to the public.
@@ -17768,7 +17768,7 @@ Ch. 73
 154.080 et seq.
    Traffic Code, see
 Title VII
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 99.01 CERTAIN ORDINANCES RELATING TO STREETS SAVED FROM REPEAL.
    Nothing in this code or the ordinance adopting this code shall be deemed to
 affect the validity of any ordinance dedicating, naming, establishing,
@@ -17945,7 +17945,7 @@ prescribed for them as contained and set forth in Tex. Rev. Civ. Stat., Art.
 70.01 of this code of ordinances.]
 ('68 Code, § 25-10) (Ord. 12-1974-47, passed 12-10-74)
 Penalty, see § 99.99
-CONSTRUCTION AND REPAIR OF SIDEWALKS, DRIVEWAYS AND THE LIKE
+**** CONSTRUCTION AND REPAIR OF SIDEWALKS, DRIVEWAYS AND THE LIKE ****
 § 99.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18074,7 +18074,7 @@ the City Council to remove such driveway and replace it with a standard curb
 and gutter and, where necessary, a sidewalk, all at his own expense.
 ('68 Code, § 25-33) (Ord. passed 4-12-55)
 Penalty, see § 99.99
-STREET EXCAVATIONS
+**** STREET EXCAVATIONS ****
 § 99.40 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18582,7 +18582,7 @@ Fee Schedule
  
    
 101.999     Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 101.001 DEFINITIONS.
    For the purpose of this chapter, the following terms, phrases, words and
 their derivations shall have the meaning given herein:
@@ -18686,7 +18686,7 @@ the use of the Cleburne Conference Center and the senior citizens center.
 firearm of any kind in the facilities or on the grounds of the Cleburne
 Conference Center and the senior citizens center.
 (Ord. 10-1999-108, passed 10-12-99; Am. Ord. 04-2012-13, passed 4-10-12)
-CLEBURNE CONFERENCE CENTER; SENIOR CITIZENS CENTER PROPERTIES
+**** CLEBURNE CONFERENCE CENTER; SENIOR CITIZENS CENTER PROPERTIES ****
 § 101.030 BUILDINGS AND OTHER PROPERTY.
    No person shall do, or cause to be done, any of the following, inside or
 outside of the Cleburne Conference Center or the senior citizens center,
@@ -18718,7 +18718,7 @@ or group occupying any area or room or participating in any lawful activity
 permitted within the Cleburne Conference Center and the senior citizens center
 or on surrounding public property of these facilities.
 (Ord. 10-1999-108, passed 10-12-99; Am. Ord. 04-2012-13, passed 4-10-12)
-RESERVATION PROCEDURES
+**** RESERVATION PROCEDURES ****
 § 101.040 RESERVATIONS REQUIRED.
    In addition to any other provision of this chapter that requires the
 obtaining of a reservation prior to engaging in a given activity, no person
@@ -18854,7 +18854,7 @@ activities, and to exempt reserving parties of these facilities from certain
 requirements of this chapter if he deems it in the best interest of the city.
 (Ord. 10-1999-108, passed 10-12-99; Am. Ord. 04-2012-13, passed 4-10-12; Am.
 Ord. 03-2018-24, passed 3-27-18)
-FEE PAYMENT
+**** FEE PAYMENT ****
 § 101.050 RENTAL FEE PAYMENTS.
    Rental fees and deposits must be paid at least 14 days prior to the date of
 the event to avoid cancellation.
@@ -18864,7 +18864,7 @@ the event to avoid cancellation.
 any time prior to 14 days before the date of the event, a full refund shall be
 made. No refunds will be made for cancellations after fourteen (14) days.
 (Ord. 10-1999-108, passed 10-12-99; Am. Ord. 04-2012-13, passed 4-10-12)
-FEE SCHEDULE
+**** FEE SCHEDULE ****
 § 101.055 CLEBURNE CONFERENCE CENTER RENTAL FEE SCHEDULE.
    (A)   Conference Center Room Rates Table.
 Conference Center Room Rates
@@ -19226,7 +19226,7 @@ Fee Schedule
 Facility Maintenance
    
 102.070     Maintenance of buildings, equipment and facilities
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 102.001 TERM DEFINITIONS.
    For the purpose of this section, the following terms, phrases, words and
 their derivations shall have the meaning given herein:
@@ -19297,7 +19297,7 @@ facilities of the city unless specifically exempted by this chapter.
    Compliance with rules and regulations of this chapter is a condition of the
 use of museum facilities of the city.
 (Ord. 10-1999-109, passed 10-12-99)
-MUSEUM ADVISORY BOARD
+**** MUSEUM ADVISORY BOARD ****
 § 102.015 BOARD CREATED; MEMBERSHIP, TERM AND VACANCIES.
    (A)    There is hereby created and established a Museum Advisory Board for
 the City of Cleburne, Texas.
@@ -19420,7 +19420,7 @@ statement.
 any regular meeting of the Board when a quorum is present by a unanimous vote,
 providing the amendment is listed in the agenda of the meeting.
 (Ord. 10-1999-109, passed 10-12-99)
-MUSEUM OPERATIONS AND OBLIGATIONS; PERMANENT COLLECTION
+**** MUSEUM OPERATIONS AND OBLIGATIONS; PERMANENT COLLECTION ****
    The Museum's permanent collection and exhibit materials represent the
 cultural common wealth of the region. As steward of that wealth, the Museum is
 compelled to collect, preserve,exhibit, and educate with materials owned or
@@ -19502,7 +19502,7 @@ the Museum.
    (E)    A complete record of all deaccessions will be maintained by the
 curator.
 (Ord. 10-1999-109, passed 10-12-99)
-EXHIBITS AND PROGRAMS
+**** EXHIBITS AND PROGRAMS ****
    The Museum shall serve the community by advancing knowledge of the cultural
 commonwealth through exhibits, research, scholarship, publications, and
 educational programs.
@@ -19531,7 +19531,7 @@ presentation.
 audience.
    (D)    Programs shall respect pluralistic values, traditions, and concerns.
 (Ord. 10-1999-109, passed 10-12-99)
-FACILITY USE RULES AND REGULATIONS
+**** FACILITY USE RULES AND REGULATIONS ****
    The primary purpose of the Museum complex of historic structures shall be to
 provide exhibit and storage space for the city-owned artifact collection. These
 spaces shall be reserved for city functions, departmental meetings, educational
@@ -19610,7 +19610,7 @@ operation of the street train.
    (M)    Reservations unable to come and not cancelling at least 48 hours in
 advance of use will be billed the full reservation amount.
 (Ord. 10-1999-109, passed 10-12-99)
-PHOTOGRAPHIC COLLECTION
+**** PHOTOGRAPHIC COLLECTION ****
 § 102.060 PHOTOGRAPHIC COLLECTION RULES AND REGULATIONS.
    (A)    Copies of historic photographs that are in the Museum's collection
 and that are in stable condition may be purchased by individuals according to
@@ -19648,7 +19648,7 @@ from the preparation of these reproductions or their use in any way will be
 assumed by the applicant and the applicant will hold harmless the city, its
 officers and its employees.
 (Ord. 10-1999-109, passed 10-12-99)
-FEE SCHEDULE
+**** FEE SCHEDULE ****
 § 102.065 SCHEDULE OF FEES.
    (A)    There shall be a fee or charge for the use of museum facilities.
  
@@ -19672,7 +19672,7 @@ Museum Boardroom  15x20             $50     $100     $50     $100
 individual basis.
 (Ord. 10-1999-109, passed 10-12-99; Am. Ord. 11-2006-90, passed 11-28-06; Am.
 Ord. 12-2011-68, passed 12-13-11)
-FACILITY MAINTENANCE
+**** FACILITY MAINTENANCE ****
 § 102.070 MAINTENANCE OF BUILDINGS, EQUIPMENT AND FACILITIES.
    (A)    The appropriate city departments shall perform regular maintenance on
 all Museum buildings, grounds, facilities, equipment and vehicles. The Museum
@@ -21051,7 +21051,7 @@ Title VII
 70.07,
 71.15,
 71.45
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 110.001 CREATION.
    The City of Cleburne Fire Department-based ambulance service is hereby
 created.
@@ -21159,7 +21159,7 @@ adopted by the City Council pursuant to the Tex. Health and Safety Code §
 773.051 which provides that municipalities may establish standards for
 ambulances.
 (Am. Ord. 09-2003-48, passed 9-23-03)
-EMERGENCY SERVICE
+**** EMERGENCY SERVICE ****
 § 110.015 AUTHORITY AT EMERGENCY INCIDENTS.
    The Cleburne Fire Department, utilizing the incident management system,
 shall direct such operations as are necessary to extinguish or control any
@@ -21289,7 +21289,7 @@ bariatric specialty ambulances.
 of critically ill or injured infants and children, meeting pediatric critical
 care transport standards.
 (Ord. OR11-2025-46, passed 11-18-25)
-PERMIT
+**** PERMIT ****
 § 110.030 REQUIRED.
    No person shall operate or cause to be operated in the city any ambulance or
 other emergency medical service vehicle used or equipped for the transportation
@@ -21489,7 +21489,7 @@ Cross-reference:
    Special use permits for commercial amusement and recreation facilities, see
 §
 155.31
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 111.01 CARNIVALS, CIRCUSES AND SIMILAR SHOWS.
    (A)   Definitions. For the purpose of this section, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -21526,7 +21526,7 @@ any of such shows violating any of the provisions of this section shall be
 deemed guilty of a misdemeanor.
 ('68 Code, § 23-1)
 Penalty, see § 111.99
-DANCES AND DANCE HALLS
+**** DANCES AND DANCE HALLS ****
 § 111.30 PERMIT REQUIRED.
    (A)   It shall be unlawful for any person to hold or conduct any public
 dance within the limits of the city unless a permit shall have been first
@@ -21622,9 +21622,9 @@ writing is filed with the City Council within ten days, and after such appeal
 is filed the City Council shall conduct a hearing on such cancellation and may
 cancel such permit for any of the causes shown, which action shall be final.
 ('68 Code, § 23-43)
-POOL HALLS, RECREATION OR FAMILY CENTERS AND BUSINESS ESTABLISHMENTS WITH
-RECREATION AND AMUSEMENT MACHINES
-Part 1: GENERAL PROVISIONS
+**** POOL HALLS, RECREATION OR FAMILY CENTERS AND BUSINESS ESTABLISHMENTS WITH
+RECREATION AND AMUSEMENT MACHINES ****
+** Part 1: GENERAL PROVISIONS **
 § 111.50 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -21749,7 +21749,7 @@ and other sanitary facilities and compliance with the health, plumbing,
 sanitary and other applicable code provisions and any other ordinance of the
 city.
 ('68 Code, § 23-61) (Ord. passed 11-10-64)
-Part 2: LICENSE
+** Part 2: LICENSE **
 § 111.65 LICENSE REQUIRED.
    It shall be unlawful for any person or business entity that owns an
 amusement center, save and except religious, charitable or educational
@@ -21991,7 +21991,7 @@ Editor's note:
 in the codification of this chapter; however, relevant ordinances concerning
 these franchise agreements shall remain on file in the office of the City
 Clerk.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 112.001 TITLE.
    This chapter may be known and cited as the Multi-Channel Service Providers
 Regulatory Ordinance for the City of Cleburne, Texas.
@@ -22992,7 +22992,7 @@ and eliminate the unauthorized reception of certain cable services within the
 city.
 (Ord. 4-1994-20, passed 4-12-94)
 Penalty, see § 112.999 
-NOTIFICATION OF SERVICES; BILLING
+**** NOTIFICATION OF SERVICES; BILLING ****
 § 112.045 NOTIFICATION OF RIGHTS AND RESPONSIBILITIES; POLICY.
    (A)   The Council/franchising authority recognizes that it is critical that
 a customer of an MCS provider fully understands and realizes the rights and
@@ -23356,7 +23356,7 @@ remedies afforded by the subscriber complaint/inquiry resolution process
 outlined in this chapter.
 (Ord. 4-1994-20, passed 4-12-94)
 Penalty, see § 112.999
-CUSTOMER SERVICES; EQUIPMENT
+**** CUSTOMER SERVICES; EQUIPMENT ****
 § 112.070 CUSTOMER SERVICE HOURS; CAPABILITIES OF CUSTOMER SERVICE OFFICE;
 TELEPHONE.
    (A)   In order to facilitate the needs of the local customers, and MCS
@@ -23782,7 +23782,7 @@ both ensure the continuity of service, and minimize the financial loss incurred
 by the MCS provider if the abandonment, cessation, or withdrawal is caused by
 bankruptcy, or insolvency.
 (Ord. 4-1994-20, passed 4-12-94)
-CONSTRUCTION; INSTALLATION; MAINTENANCE
+**** CONSTRUCTION; INSTALLATION; MAINTENANCE ****
 § 112.095 CONSTRUCTION SCHEDULE AND RELATED REQUIREMENTS.
    In order to establish a minimum uniform standards, the Council/franchising
 authority requires any MCS provider to adopt the following minimal construction
@@ -24125,7 +24125,7 @@ greater than the 5% cap.
    (H)   An affected MCS provider shall pay 25% of the alternative user charge
 at the end of every three months.
 (Ord. 4-1994-20, passed 4-12-94)
-FRANCHISES
+**** FRANCHISES ****
 § 112.120 FRANCHISE REQUIRED; EXCEPTION.
    (A)   Except as provided in divisions (B), (C), and (D) of this section, no
 person or MCS provider shall be permitted to construct, operate or maintain a
@@ -24536,7 +24536,7 @@ channel service is performed. Such performance evaluations may be conducted
 biannually during the franchise term, and may be done as part of any required
 survey.
 (Ord. 4-1994-20, passed 4-12-94)
-CABLE OPERATORS
+**** CABLE OPERATORS ****
 § 112.145 REGULATORY PROVISIONS FOR CABLE OPERATORS.
    (A)   Notification of proposed rate increase.
       (1)   A cable operator shall provide written notice to a subscriber of
@@ -25283,7 +25283,7 @@ Hotel Occupancy Tax
 Cross-reference:
    Taxation and finance, see
 Ch. 35
-HOTEL OCCUPANCY TAX
+**** HOTEL OCCUPANCY TAX ****
 § 114.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -25550,7 +25550,7 @@ Registration for Solicitation
  
    
 116.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 116.01 PURPOSE.
    (A)   The purpose of this chapter is to provide for the general health,
 public safety and welfare, comfort, convenience and protection of the city and
@@ -25707,7 +25707,7 @@ the city in a manner that blocks or impedes access to or from any alley, street
 or driveway, or impedes the flow of traffic on any public street or highway.
 ('68 Code, §§ 21-1, 21-2) (Ord. 09-2021-51, passed 9-14-21) Penalty, see §
 116.99
-REGISTRATION FOR SOLICITATION
+**** REGISTRATION FOR SOLICITATION ****
 § 116.15 REGISTRATION REQUIRED FOR SOLICITATION; FEES.
    (A)   A person commits an offense if the person engages in solicitation
 activities in the city without a valid registration certificate issued by the
@@ -25974,7 +25974,7 @@ Charter §
 3.10(J)
    Traffic Code, see
 Title VII
-TAXICABS
+**** TAXICABS ****
 § 117.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -26284,7 +26284,7 @@ city, state or federal laws shall subject the owner and/or employee to
 revocation of the permit.
 ('68 Code, § 28-22) (Ord. 4-1974-16, passed 4-9-74)
 Penalty, see § 117.99
-BUSES
+**** BUSES ****
 § 117.35 PERMIT.
    No person shall operate any motor bus over a designated route or on a fixed
 schedule within the city without first obtaining a permit so to do from the
@@ -27625,7 +27625,7 @@ Cross-reference:
 70.10
    Traffic Code, see
 Title VII
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 119.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -27767,7 +27767,7 @@ holidays), unless exempted by regulations promulgated by the Chief of Police.
 ('68 Code, § 29½-8) (Ord. 8-1987-47, passed 8-11-87; Am. Ord. 07-2019-39,
 passed 7-9-19) Penalty, see §
 119.99
-PROCEDURES FOR POLICE-DISPATCHED WRECKER SERVICE
+**** PROCEDURES FOR POLICE-DISPATCHED WRECKER SERVICE ****
 § 119.15 (RESERVED).
 § 119.16 DISPATCH PROCEDURES.
    When a police officer investigating a crash or disablement in the city
@@ -27847,7 +27847,7 @@ called to arrive at the scene.
 ('68 Code, § 29½-11) (Ord. 8-1987-47, passed 8-11-87; Am. Ord. 07-2019-39,
 passed 7-9-19) Penalty, see §
 119.99
-POLICE WRECKER ROTATION LIST
+**** POLICE WRECKER ROTATION LIST ****
 § 119.30 POLICE WRECKER ROTATION LIST; PROCEDURES.
    (A)   In order to expedite wrecker service, the Chief of Police is empowered
 and directed to establish a police wrecker rotation list, to assign wrecker
@@ -28476,7 +28476,7 @@ Cross-reference:
 112.028
    Vandalism in cemeteries, see §
 92.16
-OFFENSES GENERALLY
+**** OFFENSES GENERALLY ****
 § 130.01 VISITING OR TALKING TO PRISONERS WITHOUT PERMISSION.
    It shall be unlawful for any person to visit and talk with prisoners
 incarcerated in the city jail, without first having obtained permission from
@@ -29171,7 +29171,7 @@ other person retained by the city to seek collection of the face value of the
 dishonored payment device may charge the drawer or endorser a processing fee of
 $25.
 (Ord. 04-2016-16, passed 4-12-16)
-PARKING ON PRIVATE PROPERTY
+**** PARKING ON PRIVATE PROPERTY ****
 § 130.60 DEFINITIONS.
    The words, terms, and phrases, when used in this chapter, shall have the
 meanings ascribed to them in §
@@ -29674,7 +29674,7 @@ Ch. 154
 Ch. 51
    Zoning, see
 Ch. 155
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.001 BUILDING LINES FOR BUSINESS STRUCTURES ON CERTAIN STREETS.
    It shall be unlawful for any person to build, construct or place any
 building or structure designed or intended to be used for business purposes of
@@ -29736,7 +29736,7 @@ exclude the portion of driveways located on private property in R-1 and R-
 150.016.
 (Ord. 2-1994-12, passed 2-24-94; Am. Ord. 12-2002-87, passed 12-10-02)
 Penalty, see § 150.999(C)
-BUILDING CODES
+**** BUILDING CODES ****
 § 150.015 BUILDING CODES ADOPTED.
    (A)   The city hereby adopts the 2021 edition of the International Building
 Code. Copies of the code and the amendments thereto, as referenced in this
@@ -29859,7 +29859,7 @@ Backflow Tester Registration                     100.00
 Ord. 9-2002-65, passed 9-10-02; Am. Ord. 12-2002-86, passed 12-10-02; Am. Ord.
 06-2006-47, passed 6-13-06; Am. Ord. 06-2022-50, passed 6-28-22)
 Penalty, see § 150.999(E)
-MECHANICAL CODE
+**** MECHANICAL CODE ****
 § 150.030 ADOPTED.
    The city hereby adopts the 2021 edition of International Mechanical Code.
 Copies of the code and the amendments thereto, as referenced in this section,
@@ -29950,7 +29950,7 @@ Inspection cancellations must be called in to the hotline before 8:00 a.m. A
 re-inspection fee will be charged for all failed inspections, or inspections
 not ready by the third request.
 (Ord. 3-2002-18, passed 3-26-02; Am. Ord. 10-2013-64, passed 10-8-13)
-FUEL GAS CODE
+**** FUEL GAS CODE ****
 § 150.035   ADOPTED.
    The city hereby adopts the 2021 edition of International Fuel Gas Code.
 Copies of the code and the amendments thereto, as referenced in this section,
@@ -29967,7 +29967,7 @@ Gas Code, as adopted herein and as amended.
 Am. Ord. 10-2013-63, passed 10-8-13; Am. Ord. 09-2017-59, passed 9-26-17; Am.
 Ord. 10-2022-75, passed 10-25-22) Penalty, see §
 150.999
-PLUMBING CODE
+**** PLUMBING CODE ****
 § 150.040 SHORT TITLE.
    This subchapter shall be known and may be cited as the “Cleburne Plumbing
 Code.”
@@ -31409,7 +31409,7 @@ this section; and
 (Ord. 11-2008-79, passed 11-25-08)
 § 150.048 [RESERVED].
 § 150.049 [RESERVED].
-INTERNATIONAL SWIMMING POOL AND SPA CODE
+**** INTERNATIONAL SWIMMING POOL AND SPA CODE ****
 § 150.050 ADOPTED.
    The city hereby adopts the 2021 edition of the International Swimming Pool
 and Spa Code. Copies of the code and the amendments thereto, as referenced in
@@ -31423,7 +31423,7 @@ the City Secretary. The chief building official, or his authorized
 representative, is hereby authorized and directed to enforce all provisions of
 International Swimming Pool and Spa Code, as adopted herein and as amended.
 (Ord. 10-2022-75, passed 10-25-22)
-ELECTRICAL CODE
+**** ELECTRICAL CODE ****
 § 150.055 SHORT TITLE.
    This subchapter shall be known and may be cited as the “Cleburne Electrical
 Code.”
@@ -31909,7 +31909,7 @@ report to the City Council showing all permits issued and [permit] fees
 collected by him under the provisions of this subchapter for the preceding
 month, and all such fees shall be paid into the city treasury.
 ('68 Code, § 11-74) (Ord. passed 12-13-51)
-INDUSTRIALIZED HOUSING AND BUILDINGS
+**** INDUSTRIALIZED HOUSING AND BUILDINGS ****
 § 150.082 APPLICABILITY.
    This subchapter applies to all industrialized housing or buildings erected
 or installed in the city.
@@ -32110,7 +32110,7 @@ development of single-family or duplex dwelling units in the city.
 historic properties or historic districts; or
       (2)   Affect deed restrictions.
 (Ord. 11-2005-75, passed 11-8-05)
-MOVING OF STRUCTURES
+**** MOVING OF STRUCTURES ****
 § 150.090 MOVING STRUCTURES INTO AND WITHIN THE CITY PROHIBITED.
    (A)   Moving existing structures into, or from one location within the city
 to another location within the city, is prohibited. However, the City Council
@@ -32325,7 +32325,7 @@ inspection report shall be signed by the inspection authority and the signature
 must be notarized and submitted to the City Building Official prior to issuing
 the permit.
 (Ord. 01-2005-12, passed 1-25-05; Am. Ord. 10-2017-65, passed 10-10-17)
-RENTAL HOUSING
+**** RENTAL HOUSING ****
 § 150.115 PURPOSE.
    The purpose of this subchapter is to establish minimum standards for the
 initial and continued occupancy of leased dwellings used for human habitation
@@ -32613,7 +32613,7 @@ not attached to the ground, to another structure, or to any utility system on
 the same premises for more than 30 consecutive days or more than 45 cumulative
 days in any calendar year.
 (Ord. OR11-2025-44, passed 11-18-25)
-PROPERTY MAINTENANCE
+**** PROPERTY MAINTENANCE ****
 § 150.140 PROPERTY MAINTENANCE CODE.
    (A)   The city hereby adopts the 2021 edition of the International Property
 Maintenance Code as the city’s official property maintenance code. This
@@ -32634,7 +32634,7 @@ portion amended. Amendments to the 2021 International Property Maintenance
 Code, consisting of the addition of new articles, sections, subsections,
 errata, tables or other portions shall constitute supplements to such code.
 (Ord. OR11-2025-44, passed 11-18-25)
-DANGEROUS AND SUBSTANDARD STRUCTURES
+**** DANGEROUS AND SUBSTANDARD STRUCTURES ****
 § 150.150 DANGEROUS AND SUBSTANDARD STRUCTURES.
    (A)   Purpose and scope.
       (1)   Purpose. It is the purpose of this section to provide a just,
@@ -33256,7 +33256,7 @@ apparent that the immediate demolition of such building or structure is
 necessary to the protection of life, property or general welfare of the people
 in the city.
 (Ord. OR11-2025-44, passed 11-18-2025)
-BUILDING AND STANDARDS COMMISSION
+**** BUILDING AND STANDARDS COMMISSION ****
 § 150.160 BUILDING AND STANDARDS COMMISSION.
    (A)   Establishment of Commission. There is established a commission of the
 City of Cleburne to be called the Building and Standards Commission (“the
@@ -34198,7 +34198,7 @@ Trailer Park License
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -34328,7 +34328,7 @@ park, and it shall be unlawful for anyone' to empty, pour, drop, spill, throw
 or drain waste water, excreta, or other garbage or refuse on, over or upon the
 surface of any trailer park.
 ('68 Code, § 27½-12) (Ord. passed 4-8-69)
-TRAILER PARK LICENSE
+**** TRAILER PARK LICENSE ****
 § 152.15 REQUIRED; FEE; DISPLAY.
    (A)   Required, duration. It shall be unlawful for any person to establish,
 maintain, conduct or operate any present or future trailer park within the city
@@ -34731,7 +34731,7 @@ Ch. 99
 Ch. 155
 Statutory reference:
    Subdivision regulations, Tex. Loc. Gov't Code §§ 212.001 et seq.
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.001 SHORT TITLE.
    This chapter shall be known and may be cited as the “Subdivision and
 Development Standards Ordinance of Cleburne, Texas.”
@@ -35182,7 +35182,7 @@ improvements, shall appeal in writing to the City Council within 30 days from
 the date of such finding or action and not thereafter. Appeals of other actions
 by the Commission shall be to courts of appropriate jurisdiction.
 ('68 Code, App. B, § 8.03) (Ord. 8-1989-34, passed 8-8-89)
-PLATTING PROCEDURES
+**** PLATTING PROCEDURES ****
 § 154.020 GENERAL PROCEDURES.
    (A)   Intent. A preliminary plat is intended to show how the owner/developer
 plans to lay out lots, streets, easements, and open space, and to gain
@@ -35867,7 +35867,7 @@ required to refer any plat which he refuses to approve to the Planning and
 Zoning Commission or City Council, or both, so that final approval can be
 considered within 30 days after the plat is filed.
 (Ord. 08-2019-47, passed 8-27-19)
-§ 154.030 CONVEYANCE PLATS.
+* § 154.030 CONVEYANCE PLATS. *
    (A)   Purpose.
       (1)   A conveyance plat is used solely for the purpose of subdividing
 property and creating a recording instrument of that subdivision, or recording
@@ -35999,7 +35999,7 @@ within the time specified herein shall be void and approval of a new conveyance
 plat shall be required subject to the standards in place at the time the new
 application is made."
 (Ord. 01-2023-03, passed 1-24-23)
-MINIMUM PLATTING DESIGN STANDARDS
+**** MINIMUM PLATTING DESIGN STANDARDS ****
 § 154.040 CONFORMITY REQUIRED.
    The physical design of the proposed subdivision shall conform to the
 planning policies of the city and the following minimum standards set forth in
@@ -36355,7 +36355,7 @@ shall be made in accordance with the city’s Parks, Recreation, Trails & Open
 Space Master Plan and shall be approved by the City Council after a formal
 recommendation of the Park Board.
 (Ord. 11-2021-64, passed 11-9-21)
-GENERAL REQUIREMENTS
+**** GENERAL REQUIREMENTS ****
 § 154.060 CONSTRUCTION AUTHORIZATION.
    The developer shall not commence construction of any community facilities
 until a written construction authorization has been received from the City
@@ -36591,7 +36591,7 @@ System.
 Wastewater, and Roadway Impact Fee Study is hereby adopted and incorporated
 herein by reference.
 (Ord. 10-2017-67, passed 10-24-17)
-STREET AND RIGHT-OF-WAY REQUIREMENTS
+**** STREET AND RIGHT-OF-WAY REQUIREMENTS ****
 § 154.080 STREET AND RIGHT-OF-WAY DESIGN CRITERIA.
    The following shall govern the design of all street improvements within the
 city:
@@ -37567,7 +37567,7 @@ that arise from the strict enforcement of this section and the waiver or
 modification will not be detrimental to the public safety, health, or welfare
 or injurious to other real property.
 (Ord. 04-2024-25, passed 4-23-24)
-WATER AND SANITARY SEWER REQUIREMENTS
+**** WATER AND SANITARY SEWER REQUIREMENTS ****
 § 154.100 WATER AND SANITARY SEWER DESIGN CRITERIA.
    All water and sewer systems installed for any development shall be
 constructed in conformance to the city standard utility specifications set
@@ -37985,7 +37985,7 @@ in the property owner.
 title is vested in the city.
 (Ord. 08-2021-43, passed 8-24-21)
 § 154.107 (RESERVED).
-DRAINAGE STANDARDS
+**** DRAINAGE STANDARDS ****
 § 154.120 PURPOSE.
    (A)   The purpose of this subchapter shall be to establish policies
 governing storm drainage facilities within the city limits and the
@@ -38513,13 +38513,13 @@ landmarks
 155.99   Penalty
    
 Appendix A:   Zoning Ordinance
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 155.01 ADOPTION BY REFERENCE.
    The zoning ordinance for the City of Cleburne is hereby adopted by reference
 and is set forth in full as
 Appendix A to this chapter.
 (Ord. 04-2022-34, passed 4-12-22)
-SUPPLEMENTARY ZONING PROVISIONS
+**** SUPPLEMENTARY ZONING PROVISIONS ****
 § 155.15 LOCATION OF SEXUALLY ORIENTED BUSINESSES.
    (A)   A person commits an offense if he operates or causes to be operated a
 sexually oriented business within 1,000 feet of any of the following:
@@ -38572,7 +38572,7 @@ license is submitted after a license has expired or has been revoked.
 (Ord. 8-1997-56, passed 8-12-97; Am. Ord. 4-2001-28, passed 4-10-01) Penalty,
 see §
 155.99
-HISTORIC LANDMARKS
+**** HISTORIC LANDMARKS ****
 § 155.80 PURPOSE.
    It is recognized that the city represents the unique confluence of time,
 land, and place that shaped the identity of generations of citizens,
@@ -47772,7 +47772,7 @@ Definitions
  
    
 156.99   Penalties
-LEGAL PROVISIONS
+**** LEGAL PROVISIONS ****
  § 156.01 TITLE.
    This chapter shall be known as the Cleburne Sign Code and referenced as
 "this chapter" or as "Sign Code."
@@ -47902,7 +47902,7 @@ recommendation of the City Manager or designated Director. Public hearings or
 notices shall be provided at the City Council's discretion, unless otherwise
 required by law.
 (Ord. 06-2025-20, passed 6-10-25)
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.20 EXEMPT SIGNS.
    (A)   Generally. Changing the face of a sign does not require a sign permit,
 provided that the change is made to an existing sign face, without changing the
@@ -48340,7 +48340,7 @@ portions of a sign.
 mounted directly on a wall surface, mounted on a panel, or contained in open
 channel letters.
 (Ord. 06-2025-20, passed 6-10-25)
-SIGN STANDARDS
+**** SIGN STANDARDS ****
 § 156.35 SIGN DISTRICTS AND SIGN ALLOCATIONS.
    (A)   Sign Districts. This chapter regulates signs by location. The city’s
 zoning ordinance regulates use, setbacks, building size, site design, and land
@@ -49777,7 +49777,7 @@ location is agreed upon by the City Council, the demolition permit delay shall
 continue for a reasonable period to allow implementation of the alternative. In
 no case shall the total demolition delay exceed 120 days.
 (Ord. 06-2025-20, passed 6-10-25)
-PROCEDURES
+**** PROCEDURES ****
 § 156.55 SIGN PERMIT.
    (A)   Applicability.
       (1)   A person shall not erect, construct, alter, repair, or relocate any
@@ -50096,7 +50096,7 @@ the appeal.
 agenda. In hearing the appeal, the City Council shall review the Director's
 decision, and then act on the appeal. The City Council's decision is final.
 (Ord. 06-2025-20, passed 6-10-25)
-NONCONFORMITIES AND ENFORCEMENT
+**** NONCONFORMITIES AND ENFORCEMENT ****
 § 156.70 NONCONFORMING AND ABANDONED SIGNS.
    (A)   Generally.
       (1)   No sign shall be erected, reconstructed, or repaired after the
@@ -50214,7 +50214,7 @@ constructed and does not comply with the requirements of this chapter; or
       (5)   Issue a notice of fine if the violation continues or is not
 remedied within 14 calendar days of the receipt of a notice of violation.
 (Ord. 06-2025-20, passed 6-10-25)
-DEFINITIONS
+**** DEFINITIONS ****
 § 156.80 GENERALLY.
    (A)   Usage and interpretation rules. For the purpose of this chapter,
 certain terms or words are interpreted or defined as follows:
@@ -51872,7 +51872,7 @@ Appendix F   Wastewater Capital Improvement Plan
 Appendix G   Roadway Service Areas
    
 Appendix H   Roadway Capital Improvements Plan
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 158.001 PURPOSE AND POLICY.
    This chapter is intended to assure the provision of adequate public
 facilities for water, wastewater and roadway facilities to serve new
@@ -52575,13 +52575,13 @@ as affordable housing or later ceases to qualify, the city shall assess and
 collect applicable impact fees based on the rates in effect at the time of
 building permit or water meter issuance.
 (Ord. 05-2025-19, passed 5-27-25)
-LAND USE ASSUMPTIONS
+**** LAND USE ASSUMPTIONS ****
 § 158.035 LAND USE ASSUMPTIONS.
    The land use assumptions may be amended and updated from time to time, or
 new land use assumptions may be adopted, pursuant to the procedures in §
 158.016.
 (Ord. 05-2018-36, passed 5-8-18)
-WATER FACILITIES IMPACT FEES
+**** WATER FACILITIES IMPACT FEES ****
 § 158.050 WATER SERVICE AREA.
    (A)   There is hereby established a water service area, as depicted on
 Appendix C.
@@ -52613,7 +52613,7 @@ reference.
 and updated from time to time, pursuant to the procedures in §
 158.016.
 (Ord. 05-2018-36, passed 5-8-18)
-WASTEWATER FACILITIES IMPACT FEES
+**** WASTEWATER FACILITIES IMPACT FEES ****
 § 158.065 WASTEWATER SERVICE AREA.
    (A)   There is hereby established a wastewater service area, as depicted on
 Appendix E above referenced.
@@ -52646,7 +52646,7 @@ reference.
 amended and updated from time to time, pursuant to the procedures in §
 158.016.
 (Ord. 05-2018-36, passed 5-8-18)
-ROADWAY FACILITIES IMPACT FEES
+**** ROADWAY FACILITIES IMPACT FEES ****
 § 158.080 ROADWAY SERVICE AREA.
    (A)   There is hereby established nine roadway service areas, as depicted on
 Appendix G.
