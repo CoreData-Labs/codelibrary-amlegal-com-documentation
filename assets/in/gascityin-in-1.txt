@@ -11,7 +11,7 @@ Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
 ADOPTING ORDINANCE
-ORDINANCE 04-2024
+***** ORDINANCE 04-2024 *****
 AN ORDINANCE ENACTING A CODE OF ORDINANCES FOR THE CITY OF GAS CITY, INDIANA,
 REVISING, AMENDING, RESTATING, CODIFYING AND COMPILING CERTAIN EXISTING GENERAL
 ORDINANCES OF THE POLITICAL SUBDIVISION DEALING WITH SUBJECTS EMBRACED IN SUCH
@@ -779,7 +779,7 @@ Drug and Alcohol Policy for City Drivers
 32.68   Training
    
 32.69   Forms
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01 REIMBURSEMENT OF TRAVEL EXPENSES AND RELATED ALLOWANCES.
    (A)   The mileage reimbursement is set at the standard IRS reimbursement
 rate per mile. Upon completion of an official business trip, when a city
@@ -823,7 +823,7 @@ not be limited to, the following:
 Statutory reference:
    Local commissions authorized; powers; exclusivity of remedy; appeal, see
 I.C. 22-9-1-12.1
-EMPLOYEE’S WORK POLICY
+**** EMPLOYEE’S WORK POLICY ****
 § 32.15 HOURS OF WORK.
    (A)   The normal workweek is Sunday through Saturday beginning and ending at
 midnight on Saturday, and consisting of 40 hours. The normal workday will
@@ -1004,7 +1004,7 @@ of review, the Board may extend or terminate the 100% coverage.
       (3)   The city will continue to pay all employees, uninterrupted, after
 employee signs agreement to sign over all compensation checks to the city.
 (Ord. 6-2002, passed 8-6-2002)
-ALCOHOL AND CONTROLLED SUBSTANCES
+**** ALCOHOL AND CONTROLLED SUBSTANCES ****
 § 32.35 PROHIBITED CONDUCT.
    The following shall be considered prohibited conduct by the employees of the
 city.
@@ -1121,7 +1121,7 @@ which acknowledgment will be in the form as prescribed on the attachment to the
 ordinance from which this subchapter is derived, which shall be kept on file in
 the personnel record of the employee.
 (Ord. 1, 1996, passed 3-19-1996)
-DRUG AND ALCOHOL POLICY FOR CITY DRIVERS
+**** DRUG AND ALCOHOL POLICY FOR CITY DRIVERS ****
 § 32.55 PURPOSE.
    It is the policy of the city that its drivers be free of substance abuse and
 alcohol abuse. Consequently, the use of illegal drugs by drivers is prohibited.
@@ -1470,7 +1470,7 @@ Internal Control Policy
 34.31   Monitoring activities
    
 34.32   Remediation of deficiencies
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 INTERNAL CONTROL POLICY ADOPTED.
    The city hereby adopts the internal control policy incorporated herein as §§
 34.15 through
@@ -1485,7 +1485,7 @@ June 30, 2016.
    The city hereby adopts a materiality threshold of $500 for purposes of the
 internal control procedures adopted and approved herein.
 (Ord. 12-2016, passed 12-20-2016)
-INTERNAL CONTROL POLICY
+**** INTERNAL CONTROL POLICY ****
 § 34.15 PURPOSE.
    The purpose of this policy is to communicate the City Council’s internal
 control objectives to all employees and elected officials of the city and to
@@ -1943,7 +1943,7 @@ Responsible Bidding Practices for Construction on Public Works Projects
 50.20   Certified payroll
    
 50.21   Public records
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 GOVERNING OF THE WATER AND ELECTRIC UTILITIES.
    The operation and administration of the water and electric utilities of the
 city now presently owned and/or operated by the city, be governed by and under
@@ -1965,7 +1965,8 @@ certification forms or other instruments as are now or may hereafter be
 required by the FCC rate regulations in order to enable the city to regulate
 basic service rates and charges.
 (Ord. 14, 1993, passed 10-17-1993)
-RESPONSIBLE BIDDING PRACTICES FOR CONSTRUCTION ON PUBLIC WORKS PROJECTS
+**** RESPONSIBLE BIDDING PRACTICES FOR CONSTRUCTION ON PUBLIC WORKS PROJECTS
+****
 § 50.15 BID SUBMISSION REQUIREMENTS.
    (A)   Contractors proposing to submit bids on any city project estimated to
 be at least $150,000 or more must, prior to the opening of bids, submit a
@@ -2159,7 +2160,7 @@ Rates
 51.31   Collection and deferred payment charges
    
 51.32   Payment in lieu of taxes
-BACKFLOW PREVENTION
+**** BACKFLOW PREVENTION ****
 § 51.01 DEFINITION.
    For the purpose of this subchapter, the following definition applies unless
 the context clearly indicates or requires a different meaning.
@@ -2246,7 +2247,7 @@ by the Superintendent of Water and shall have inspections and tests made of
 such approved devices as required by the Superintendent of Water and in
 accordance with the IDEM Rule 327 I.A.C. 8-10.
 (Ord. 9-2015, passed 1-5-2016)
-RATES
+**** RATES ****
 § 51.20 APPLICABILITY OF RATES.
    There shall be and there are hereby established for the use of and the
 service by the waterworks utility of the city the following rates and charges
@@ -2578,7 +2579,7 @@ Emergency Curtailment and Load Reduction Plan
 53.99   Penalty
 Statutory reference:
    Utility service to the public, see I.C. 36-9-2-15
-RENEWABLE ENERGY GENERATION FACILITIES INTERCONNECTION STANDARDS
+**** RENEWABLE ENERGY GENERATION FACILITIES INTERCONNECTION STANDARDS ****
 § 53.01 FINDINGS AND DETERMINATIONS.
    (A)   The findings and determinations set forth in the preambles of the
 ordinance from which this subchapter is derived are hereby made findings and
@@ -2718,7 +2719,7 @@ the terms of a separate power purchase agreement between the customer and IMPA.
 The utility shall own any meter used to measure output of energy from the
 customer’s renewable generation facility.
 (Ord. 18-2020, passed 11-17-2020)
-RATES
+**** RATES ****
 § 53.20 BILLED MONTHLY.
    For the purpose of billing and collecting the charges for electric use, the
 meters shall be read monthly, and the use shall be billed monthly.
@@ -2817,7 +2818,7 @@ Notes to table:
 state legislature in March 2022
  
 (Ord. 2022-03, passed 6-21-2022)
-EMERGENCY CURTAILMENT AND LOAD REDUCTION PLAN
+**** EMERGENCY CURTAILMENT AND LOAD REDUCTION PLAN ****
 § 53.35 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -3149,7 +3150,7 @@ other than city waterworks
 54.999   Penalty
 Statutory reference:
    Municipal utilities, see I.C. 36-9-23-1
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 54.001 DEFINITIONS.
    (A)   Unless otherwise defined herein, terms shall be defined as in the
 Standard Methods of the Examination of Water and Wastewater, as amended,
@@ -3413,7 +3414,7 @@ concentrations of pollutants.
 (Prior Code, § 36-9-23-1-1.6) (Ord. 2-1981, passed 2-24-1981; Ord. 3-1982,
 passed 7-6-1982) Penalty, see §
 54.999
-CONNECTION TO SEWERAGE SYSTEM
+**** CONNECTION TO SEWERAGE SYSTEM ****
 § 54.020 PRIVIES, SEPTIC TANKS, CESSPOOLS, AND THE LIKE.
    Except as otherwise provided by the Council; the city, or the state or any
 of its agencies, a person shall not construct or maintain a privy, septic tank,
@@ -3535,7 +3536,7 @@ the owner or his or her agent.
 (Prior Code, § 36-9-23-1-3) (Ord. 2-1981, passed 2-24-1981; Ord. 3-1982, passed
 7-6-1982) Penalty, see §
 54.999
-WASTEWATER ADMISSIBILITY
+**** WASTEWATER ADMISSIBILITY ****
 § 54.040 MAJOR CONTRIBUTOR PERMITS.
    (A)   Generally.
       (1)   Any industrial user or any other user shall provide the city with
@@ -3767,7 +3768,7 @@ of the waste when the strength or character of the waste is such that it could
 cause damage to or interfere with the operation of the sewerage system.
 (Prior Code, § 36-9-23-1-4.15) (Ord. 2-1981, passed 2-24-1981; Ord. 3-1982,
 passed 7-6-1982)
-SEWER CHARGES, SURCHARGES, AND SERVICE FEES
+**** SEWER CHARGES, SURCHARGES, AND SERVICE FEES ****
 § 54.060 GENERAL PROVISIONS.
    (A)   Persons subject to fees and sewer charges. For the use and service
 rendered by the sewerage works, sewer charges shall be collected from the
@@ -4979,7 +4980,7 @@ Abandoned and Junk Vehicles
  
    
 91.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 DONATION DROP BOXES PROHIBITED.
    (A)   I.C. 36-1-3 et seq. authorizes a local government to exercise such
 powers as necessary and desirable to conduct its affairs granted by statute or
@@ -5046,7 +5047,7 @@ estate.
 1949; Ord. 1968-13, passed 11-6-1968)
 Statutory reference:
    Removal of vegetation, see I.C. 36-7-10.1
-NOISE CONTROL
+**** NOISE CONTROL ****
 § 91.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning. All terminology
@@ -5224,7 +5225,7 @@ be considered in determining whether to issue a permit.
 of any of the provisions of this subchapter shall be paid into the City
 Treasury, as required by law.
 (Ord. 9, 1993, passed 5-18-1993)
-ABANDONED AND JUNK VEHICLES
+**** ABANDONED AND JUNK VEHICLES ****
 § 91.35 PURPOSE.
    The City Council, recognizing the existence of abandoned and junk vehicles
 in the yards of residences within the city, and in open lots and those
@@ -5763,7 +5764,7 @@ Fireworks
  
    
 93.99   Penalty
-SMOKE DETECTORS
+**** SMOKE DETECTORS ****
 § 93.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -5870,7 +5871,7 @@ of occupancy of all such private dwelling units.
 terms of this subchapter, subject to standards and procedures separately
 promulgated by the city for enforcement of ordinances.
 (Ord. 7, 1990, passed 12-4-1990)
-OPEN BURNING
+**** OPEN BURNING ****
 § 93.20 SHORT TITLE.
    This subchapter shall be known as “Ordinance for the Control and Prohibition
 of Open Fires.”
@@ -5955,7 +5956,7 @@ reported to him or her by another party or parties.
    The Fire Chief, and police officers, shall be and are hereby designated as
 officers in full charge of the enforcement of this subchapter.
 (Ord. 1-1987, passed 6-16-1987)
-FIREWORKS
+**** FIREWORKS ****
 § 93.40 CONSUMER FIREWORKS.
    (A)   Except as herein provided, the use or discharge of consumer fireworks
 within the city shall be prohibited, and it shall be a violation of this
@@ -6464,7 +6465,7 @@ Designated Outdoor Refreshment Areas
  
    
 111.99   Penalty
-ALCOHOL
+**** ALCOHOL ****
 § 111.01 LIQUOR RETAILER’S PERMITS.
    The Council hereby authorizes the issuance of liquor retailer’s permits for
 premises in the city pursuant to I.C. 7.1-3-9-4 and 905 I.A.C. 1-1-1 et seq.,
@@ -6511,7 +6512,7 @@ intended to give the appearance of or simulate the genitals, pubic area,
 buttocks, anus, or anal cleft or cleavage.
 (Ord. 6, 1994, passed 7-19-1994) Penalty, see §
 111.99
-TOBACCO AND NICOTINE PRODUCTS
+**** TOBACCO AND NICOTINE PRODUCTS ****
 § 111.15 PROHIBITIONS.
    (A)   Smoking, as defined in I.C. 7.1-5-12-3, and the use of electronic
 cigarettes (e-cigarettes, e-cigs, and electronic water pipes), vaporizers, and
@@ -6634,7 +6635,7 @@ e-liquid.
 intended for inhalation through an electronic cigarette or an electric water
 pipe.
 (Ord. 01-2023, passed 2-7-2023)
-DESIGNATED OUTDOOR REFRESHMENT AREAS
+**** DESIGNATED OUTDOOR REFRESHMENT AREAS ****
 § 111.30 DOWNTOWN DORA AREA.
    (A)   All definitions in I.C. 7.1-3-31 et seq. shall apply to this section.
    (B)   The Council hereby adopts the map of the city Downtown DORA Area
@@ -7243,7 +7244,7 @@ Firearms
 130.18   Exemptions
    
 130.99   Penalty
-CURFEW
+**** CURFEW ****
 § 130.01 CURFEW FOR MINORS.
    Except as provided in §
 130.03:
@@ -7314,7 +7315,7 @@ complaint shall be directed to the juvenile’s parents, guardian, or custodian,
 provided such parent, guardian, or custodian is known or can be identified by
 reasonable inquiry.
 (Ord. 5-2008, passed 8-5-2008)
-FIREARMS
+**** FIREARMS ****
 § 130.15 PROHIBITION; GENERAL.
    It shall be unlawful for any person to point, aim, fire, discharge, or to
 suffer, permit, or allow to be pointed, aimed, fired, or discharged, any
@@ -7499,7 +7500,7 @@ Specifications for Documents
  
    
 150.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.001 TITLE.
    These regulations shall hereafter be known and cited as the “Subdivision
 Regulations of the City of Gas City, Indiana.”
@@ -8193,7 +8194,7 @@ sky except where encroachments and accessory buildings are expressly permitted.
 controlling use of land in the incorporated area of the city. The ordinance
 referred to as the city zoning ordinance.
 (Ord. 5-1992, passed 7-21-1992)
-APPLICATION AND APPROVAL PROCEDURES
+**** APPLICATION AND APPROVAL PROCEDURES ****
 § 150.025 GENERAL PROCEDURES.
    (A)   Discussion of requirements; predesign conference. Prior to submitting
 any of the materials required by this chapter, the applicant or his or her
@@ -8741,7 +8742,7 @@ more eligible to pursue the full Exempt II division process as per this
 section. The land involved, for purposes of land division, is restored to its
 pre-exempt division status.
 (Ord. 5-1992, passed 7-21-1992)
-REQUIREMENTS FOR IMPROVEMENTS, RESERVATIONS, AND DESIGN
+**** REQUIREMENTS FOR IMPROVEMENTS, RESERVATIONS, AND DESIGN ****
 § 150.040 GENERAL IMPROVEMENTS.
    (A)   Conformance to applicable rules and regulations. In addition to the
 requirements established herein, all subdivision plats shall comply with the
@@ -9377,7 +9378,7 @@ buffer strip where necessary.
 shall not normally be extended to the boundaries of adjacent existing or
 potential residential areas.
 (Ord. 5-1992, passed 7-21-1992)
-STREETS
+**** STREETS ****
 § 150.060 GENERAL.
    (A)   Frontage on improved streets. No subdivision shall be approved unless
 the area to be subdivided shall have frontage on and access from an existing
@@ -9690,7 +9691,7 @@ width required by these subdivision regulations. Land reserved for any street
 purposes may not be counted in satisfying the yard or area requirements of the
 zoning ordinance.
 (Ord. 5-1992, passed 7-21-1992)
-ASSURANCE FOR COMPLETION OF IMPROVEMENTS
+**** ASSURANCE FOR COMPLETION OF IMPROVEMENTS ****
 § 150.075 IMPROVEMENTS AND PERFORMANCE BOND.
    (A)   Completion of improvements. Before the plan is signed by the
 designated officials, all applicants shall be required to complete, in
@@ -9836,7 +9837,7 @@ two lots of a subdivision or section thereof, until all public improvements
 required by the Commission for the plat with the exception of sidewalks have
 been fully completed and accepted for maintenance by the city.
 (Ord. 5-1992, passed 7-21-1992)
-SPECIFICATIONS FOR DOCUMENTS
+**** SPECIFICATIONS FOR DOCUMENTS ****
 § 150.090 SKETCH PLAN.
    Sketch plans submitted to the Commission, prepared in pen or pencil, shall
 be drawn to a convenient scale of not more than 100 feet to an inch and shall
@@ -10198,7 +10199,7 @@ Commercial Solar Energy Systems
 151.999   Penalty
 Statutory reference:
    Local zoning ordinances, see I.C. 36-7-4-600
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.001 COMPREHENSIVE PLAN ADOPTED BY REFERENCE.
    The City Comprehensive Plan is hereby adopted and incorporated by reference
 into this section. Two copies of the Comprehensive Plan are on file in the
@@ -10430,7 +10431,7 @@ Over $100,000          $25
 Ord. 1977-12, passed 11-1-1977; Ord. 1978-18, passed 12-5-1978; Ord. 1980-8,
 passed 9-16-1980; Ord. 1980-11, passed 11-4-1980; Ord. 1982-1, passed 6-1-1982;
 Ord. 1985–5, passed 11-19-1985)
-DISTRICT REGULATIONS
+**** DISTRICT REGULATIONS ****
 § 151.020 ZONE MAP.
    A map entitled “Gas City Zone Map” is hereby adopted as part of this
 chapter. The zone map shall be kept on file and available for examination in
@@ -10825,7 +10826,7 @@ Officer of the city.
 9-16-1980; Ord. 1980-11, passed 11-4-1980; Ord. 1982-1, passed 6-1-1982; Ord.
 1985–5, passed 11-19-1985) Penalty, see §
 151.999
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 151.045 NONCONFORMING USES.
    The following provisions shall apply to all nonconforming uses.
    (A)   A nonconforming use may be continued but may not be extended,
@@ -11637,7 +11638,7 @@ violation and impose penalties against the owner/owner’s agent or the lender/
 mortgagee/responsible party for the violation.
 (Ord. 13 2020, passed 8-18-2020) Penalty, see §
 151.999
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 151.070 ADMINISTRATIVE OFFICER.
    (A)   The Administrative Officer, who shall be appointed by the Advisory
 Plan Commission upon recommendation of the Mayor, shall:
@@ -11720,7 +11721,7 @@ review by the Circuit or Superior Court of the county.
 Ord. 1977-12, passed 11-1-1977; Ord. 1978-18, passed 12-5-1978; Ord. 1980-8,
 passed 9-16-1980; Ord. 1980-11, passed 11-4-1980; Ord. 1982-1, passed 6-1-1982;
 Ord. 1985–5, passed 11-19-1985)
-ADVISORY BOARD OF ZONING APPEALS
+**** ADVISORY BOARD OF ZONING APPEALS ****
 § 151.085 GENERAL.
    In accordance with state law, the Mayor, the City Council, and the Advisory
 Plan Commission shall appoint and organize an Advisory Board of Zoning Appeals,
@@ -11898,7 +11899,7 @@ rules.
 Ord. 1977-12, passed 11-1-1977; Ord. 1978-18, passed 12-5-1978; Ord. 1980-8,
 passed 9-16-1980; Ord. 1980-11, passed 11-4-1980; Ord. 1982-1, passed 6-1-1982;
 Ord. 1985–5, passed 11-19-1985)
-AMENDMENTS
+**** AMENDMENTS ****
 § 151.105 GENERAL.
    The City Council may introduce and consider amendments to this chapter and
 to the zone map, as proposed by the Advisory Plan Commission or by petition by
@@ -11942,7 +11943,7 @@ proceed to take action on the proposed amendment as prescribed by law.
 Ord. 1977-12, passed 11-1-1977; Ord. 1978-18, passed 12-5-1978; Ord. 1980-8,
 passed 9-16-1980; Ord. 1980-11, passed 11-4-1980; Ord. 1982-1, passed 6-1-1982;
 Ord. 1985–5, passed 11-19-1985)
-COMMERCIAL SOLAR ENERGY SYSTEMS
+**** COMMERCIAL SOLAR ENERGY SYSTEMS ****
 § 151.120 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -12264,7 +12265,7 @@ and Location of Buildings and Structures
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 CITY BUILDING CODE ADOPTED BY REFERENCE.
    (A)   The city hereby adopts all of I.C. 36-7-9-1 et seq., as amended, as
 the City Building Code.
@@ -12391,7 +12392,7 @@ statutes.
    (D)   The City Plan Commission shall be entitled to charge a fee of $50 for
 each application for the residential investment incentives.
 (Ord. 7, 2001, passed 9-18-2001)
-PRESERVATION AND DESIGN REVIEW REGULATIONS
+**** PRESERVATION AND DESIGN REVIEW REGULATIONS ****
 § 152.20 DESIGN REVIEW BOARD.
    (A)   Establishment. In recognition of the need for the establishment of a
 public body with the authority to advise upon changes to structures and objects
@@ -12579,8 +12580,8 @@ subchapter.
    A certificate of appropriateness shall not be required of the owner of a
 property, structure, or sign less than 50 years old.
 (Ord. 8, 1996, passed 12-17-1996)
-CONSTRUCTION, ALTERATION, EQUIPMENT, USE, OCCUPANCY, AND LOCATION OF
-BUILDINGS AND STRUCTURES
+**** CONSTRUCTION, ALTERATION, EQUIPMENT, USE, OCCUPANCY, AND LOCATION OF
+BUILDINGS AND STRUCTURES ****
 § 152.45 GENERAL REQUIREMENTS.
    (A)   Title. This subchapter and all material included herein by reference
 shall be known as the "Building Code of Gas City, Indiana."
@@ -12954,7 +12955,7 @@ Excavation and Restoration
  
    
 153.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.01 STREET EXCAVATION AND MOVING PERMITS.
    (A)   No person shall injure, disturb, excavate, or break the surface of any
 street, road, alley, sidewalk, curb, or other city-owned property or the
@@ -13002,7 +13003,7 @@ division (D) above to remain stationary in or upon any public way for more than
 Statutory reference:
    Public ways; regulation of use; school corporation property, see I.C. 36-9-
 2-7
-EXCAVATION AND RESTORATION
+**** EXCAVATION AND RESTORATION ****
 § 153.15 GENERAL REQUIREMENTS.
    (A)   No person shall make any excavation into, under, or across any
 pavements (paved or unpaved), gutters, or curbs within the public rights-of-way
@@ -13273,7 +13274,7 @@ Variance Procedures
  
    
 154.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.01 STATUTORY AUTHORIZATION.
    The state legislature has, in I.C. 36-7-4, granted the power to local
 government units to control land use within their jurisdictions. Therefore, the
@@ -13813,7 +13814,7 @@ Department of Natural Resources, or the state, for any flood damage that
 results from reliance on this chapter or any administrative decision made
 lawfully thereunder.
 (Ord. 12-2014, passed 12-8-2014)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 154.25 DESIGNATION OF ADMINISTRATOR.
    The City Council hereby appoints the Zoning Administrator to administer and
 implement the provisions of this chapter and is herein referred to as the
@@ -13944,7 +13945,7 @@ alteration, repair, moving, demolition, installation, or replacement of the
 structure for which the permit was issued is in violation of, or not in
 conformity with, the provisions of this chapter.
 (Ord. 12-2014, passed 12-8-2014)
-FLOOD HAZARD REDUCTION
+**** FLOOD HAZARD REDUCTION ****
 § 154.40 GENERAL STANDARDS.
    In all SFHAs and known flood prone areas, the following provisions are
 required.
@@ -14247,7 +14248,7 @@ required per §§
 154.40 through
 154.47.
 (Ord. 12-2014, passed 12-8-2014)
-VARIANCE PROCEDURES
+**** VARIANCE PROCEDURES ****
 § 154.60 VARIANCE AND APPEALS BOARD.
    (A)   The Board of Zoning Appeals shall hear and decide appeals and requests
 for variances from requirements of this chapter.
@@ -14502,7 +14503,7 @@ the use of best management practices
 155.158   Violations deemed a public nuisance
    
 155.159   Civil penalty
-GENERAL INFORMATION
+**** GENERAL INFORMATION ****
 § 155.001 AUTHORITY AND TITLE.
    (A)   This chapter is adopted in accordance with statutory authority granted
 to the city, under "Home Rule" and further is required by Phase 11 of the
@@ -15263,7 +15264,7 @@ responsibility of the developer, applicant, and/or the property owner. The city
 and its officials and representatives shall not be responsible for maintenance
 nor liability for any accidents.
 (Ord. 01-2024, passed 3-19-2024)
-PROHIBITED DISCHARGES AND CONNECTIONS
+**** PROHIBITED DISCHARGES AND CONNECTIONS ****
 § 155.020 APPLICABILITY AND EXEMPTIONS.
    (A)   This section shall apply to all discharges, including illegal dumping,
 entering the storm drain system under the control of the city, regardless of
@@ -15395,7 +15396,7 @@ authority to inspect new development and re-development sites to verify that
 all on-site stormwater conveyances and connections to the storm drainage system
 are in compliance with this section.
 (Ord. 01-2024, passed 3-19-2024)
-STORMWATER QUANTITY MANAGEMENT
+**** STORMWATER QUANTITY MANAGEMENT ****
 § 155.040 APPLICABILITY AND EXEMPTIONS.
    The storage and controlled release of excess stormwater runoff shall be
 required for all new business, institutional developments, commercial and
@@ -15501,7 +15502,7 @@ unit of government designated by the city, for ownership and permanent
 maintenance providing the city Board of Public Works and Safety formally
 accepts responsibility of the facilities.
 (Ord. 01-2024, passed 3-19-2024)
-STORMWATER POLLUTION PREVENTION FOR CONSTRUCTION SITES
+**** STORMWATER POLLUTION PREVENTION FOR CONSTRUCTION SITES ****
 § 155.060 APPLICABILITY AND EXEMPTIONS.
    (A)   The city will require a stormwater pollution prevention plan (SWPPP),
 which includes erosion and sediment control measures and materials handling
@@ -15644,7 +15645,7 @@ operations of the construction activities. Details regarding requirements
 related to the project management log are contained in the city Stormwater
 Technical Standards Manual.
 (Ord. 01-2024, passed 3-19-2024)
-STORMWATER QUALITY MANAGEMENT FOR POST-CONSTRUCTION
+**** STORMWATER QUALITY MANAGEMENT FOR POST-CONSTRUCTION ****
 § 155.080 APPLICABILITY AND EXEMPTIONS.
    (A)   In addition to the requirements of §§
 155.060 through
@@ -15796,7 +15797,7 @@ quality storage capacity and the operational condition of key facility
 elements. Noted deficiencies and recommended corrective action will be included
 in an inspection report.
 (Ord. 01-2024, passed 3-19-2024)
-PERMIT REQUIREMENTS AND PROCEDURES
+**** PERMIT REQUIREMENTS AND PROCEDURES ****
 § 155.100 CONCEPTUAL DRAINAGE PLAN REVIEW.
    In order to gain an understanding of the drainage requirements for a
 specific project, a developer may submit conceptual drainage plans and
@@ -16259,7 +16260,7 @@ discussed in §§
 155.080 through
 155.084.
 (Ord. 01-2024, passed 3-19-2024)
-COMPLIANCE AND ENFORCEMENT
+**** COMPLIANCE AND ENFORCEMENT ****
 § 155.120 COMPLIANCE WITH THIS CHAPTER.
    To secure compliance with the requirements of this chapter, violations
 thereof shall be subject to the enforcement provisions set forth under §
@@ -16507,7 +16508,7 @@ and/or restore the property, including the commencing of a court action under
 I.C. 34-28-5-1(b), to enforce the order of the Board of Public Works and
 Safety.
 (Ord. 01-2024, passed 3-19-2024)
-ILLICIT DISCHARGE DETECTION AND ELIMINATION
+**** ILLICIT DISCHARGE DETECTION AND ELIMINATION ****
 § 155.140 PURPOSE/INTENT.
    The purpose of this subchapter is to provide for the health, safety, and
 general welfare of the citizens of the city through the regulation of non-
