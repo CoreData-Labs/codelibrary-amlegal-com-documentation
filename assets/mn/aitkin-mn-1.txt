@@ -1,7 +1,7 @@
 AITKIN, MINNESOTA
 CODE OF ORDINANCES
 2025 S-6 Supplement contains:
-Local legislation current through Ord. 419, passed 1-5-2026
+Local legislation current through Ord. 420, passed 4-20-2026
 Published by:
 American Legal Publishing
 525 Vine Street Suite 310 Cincinnati, Ohio 45202
@@ -11759,7 +11759,7 @@ feet above the ordinary high water mark averages 30% or greater; and
                d.   The slope must drain towards the water body.
             2.   An area with an average slope of less than 18% over a distance
 for 50 feet or more shall not be considered part of the bluff.
-[https://export.amlegal.com/media/b90eed57deda6c6fa9790dd46eb953d6fae57538/
+[https://export.amlegal.com/media/890ac9159d64af3c43a654cce85c41b11247dab9/
 IMAGES/0-0-0-1077.jpg]
  
          BLUFF IMPACT ZONE. A bluff and the land located within 30 feet inland
@@ -11815,7 +11815,7 @@ ground level at the building or ten feet above the lowest ground level,
 whichever is lower, and the highest point of a flat roof or average height
 between the eaves and the highest ridge of gable, hip or gambrel roofs or ten
 feet below the peak, whichever is greater.
-[https://export.amlegal.com/media/b90eed57deda6c6fa9790dd46eb953d6fae57538/
+[https://export.amlegal.com/media/890ac9159d64af3c43a654cce85c41b11247dab9/
 IMAGES/0-0-0-1079.jpg]
  
          BUILDING LINE. A line parallel to a lot line or the ordinary high
@@ -11869,6 +11869,10 @@ CLEAN FILL does not consist of metal, drywall, asphalt, or any substance
 containing petroleum, heavy metals, chemicals, or any substance with potential
 to be soluble in water, migrate in water, and contaminate water.
          CLEAR CUTTING. See VEGETATION REMOVAL, CLEAR CUTTING.
+         CLINIC. A building or portion thereof, other than a hospital, used by
+a group of licensed physicians, dentists, chiropractors, or other allied
+healthcare professionals for the purpose of providing treatment and improvement
+for physical and mental health of individuals, on an outpatient basis.
          COMMERCIAL SPEECH. Speech advertising a business, profession,
 commodity, service or entertainment.
          COMMERCIAL USE. The principal use of land or buildings for the sale,
@@ -12244,7 +12248,7 @@ way, street or ally that results in one parcel.
          LOT, CORNER. A lot situated at the junction of and abutting on two or
 more intersecting streets or a lot at the point of deflection in alignment of
 one street with the internal angle less than 135 degrees.
-[https://export.amlegal.com/media/b90eed57deda6c6fa9790dd46eb953d6fae57538/
+[https://export.amlegal.com/media/890ac9159d64af3c43a654cce85c41b11247dab9/
 IMAGES/0-0-0-1081.jpg]
  
          LOT, FRONT. The boundary of a lot which abuts on a public right-of-
@@ -12381,6 +12385,9 @@ wire, fence, stockpile, refuse, fill, structure, or matter in, along, across,
 or projecting into any channel, watercourse, or regulatory flood plain which
 may impede, retard, or change direction of the flow of water, either in itself
 or by catching or collecting debris carried by such water.
+         OFFICE, PROFESSIONAL. A building, or portion thereof, used by trained
+or licensed professionals to provide administrative, advisory, or other
+specialized services in a low intensity setting.
          OFFICIAL MISSISSIPPI HEADWATERS CORRIDOR MAP. The MHB corridor map
 established in the Mississippi headwaters comprehensive plan.
          OFF-STREET PARKING. A designated space or area of land with a paved or
@@ -12934,7 +12941,7 @@ division (B)(1) above, as provided for within §
 (Ord. 332, passed 5-19-2008; Ord. 337, passed 12-21-2009; Ord. 347, passed 7-6-
 2010; Ord. 354, passed 11-1-2010; Ord. 359, passed 8-6-2012; Ord. 372, passed
 12-15-2014; Ord. 394, passed 8-5-2019; Ord. 405, passed 4-4-2022; Ord. 406,
-passed 4-4-2022; Ord. 418, passed 10-20-2025)
+passed 4-4-2022; Ord. 418, passed 10-20-2025; Ord. 420, passed 4-20-2026)
 § 152.004 APPLICATION OF CHAPTER.
    (A)   The provisions of this chapter shall be held to be the minimum
 requirements for the maintaining of the public health, safety and welfare.
@@ -13726,165 +13733,166 @@ allowable, permitted, accessory, conditional and excluded uses within the city.
 chapter, even if they are not listed specifically under excluded uses.
    (C)   All accessory uses require a permit, and include a principal use on
 the parcel, unless otherwise indicated or allowed by the city.
+ 
 Land Use Matrix
 A - Denotes “Allowed without a Permit”
 PAC - Denotes “Accessory Use (Permit Required)”
 P - Denotes “Allowed use with Permit”
 E - Denotes “Excluded Use”
 C - Denotes “Conditional Use”
+C* - Denotes “a conditional use that shall not exceed 50% of the total gross
+floor area of any principal building that does not directly correlate to the
+principal use within the Industrial District, or a total max of 4,000 square
+feet, whichever is less”
 I - Denotes “Interim Use Permit”
+ 
 Use District
-    OS P&R RR TR UR DMU LI-C T C I
-Land Use Matrix
-A - Denotes “Allowed without a Permit”
-PAC - Denotes “Accessory Use (Permit Required)”
-P - Denotes “Allowed use with Permit”
-E - Denotes “Excluded Use”
-C - Denotes “Conditional Use”
-I - Denotes “Interim Use Permit”
+    OS P&R RR TR UR DMU LI-CT C I
                                               District
-Use                                           OS P&R RR  TR  UR  DMU LI- C  I
-                                                                     C T
-Abandoned building                            E  E   E   E   E   E   E   E  E
-Abandoned motor vehicle                       E  E   E   E   E   E   E   E  E
-Accessory structure                           P  PAC PAC PAC PAC PAC PAC PA PA
-                                                                         C  C
-Adult use                                     E  E   E   E   E   E   E   E  C
-Agricultural use                              A  C   C   E   E   E   E   E  E
-Airport                                       E  C   E   E   E   E   E   E  C
-Animals, domestic                             E  C   A   A   A   A   A   A  A
-Animals, farm                                 A  C   A   P   AP  E   E   E  E
-Animals, specialty                            E  C   A   A   A   A   A   A  A
-Animals, wild                                 A  A   E   E   E   E   E   E  E
-Animal boarding facility                      E  E   C   E   E   C   E   C  C
-Animal grooming establishment                 E  E   C   C   C   A   A   A  A
-Animal husbandry                              E  E   C   P   P   E   E   E  E
-Artist’s studio                             E  E   C   C   C   A   A   A  A
-Auctions (more than one in a calendar year)   E  C   C   E   E   A   A   A  A
-Auto repair facility                          E  E   E   E   E   C   C   C  C
-Auto sales                                    E  E   E   E   E   C   C   C  C
-Bed and breakfast (in definition state that   E  E   C   C   C   E   E   E  E
+Use                                           OS P&R RR  TR  UR  DMU LI- C   I
+                                                                     CT
+Abandoned building                            E  E   E   E   E   E   E   E   E
+Abandoned motor vehicle                       E  E   E   E   E   E   E   E   E
+Accessory structure                           P  PAC PAC PAC PAC PAC PAC PAC PAC
+Adult use                                     E  E   E   E   E   E   E   E   C
+Agricultural use                              A  C   C   E   E   E   E   E   E
+Airport                                       E  C   E   E   E   E   E   E   C
+Animals, domestic                             E  C   A   A   A   A   A   A   A
+Animals, farm                                 A  C   A   P   AP  E   E   E   E
+Animals, specialty                            E  C   A   A   A   A   A   A   A
+Animals, wild                                 A  A   E   E   E   E   E   E   E
+Animal boarding facility                      E  E   C   E   E   C   E   C   C
+Animal grooming establishment                 E  E   C   C   C   A   A   A   A
+Animal husbandry                              E  E   C   P   P   E   E   E   E
+Artist’s studio                             E  E   C   C   C   A   A   A   A
+Auctions (more than one in a calendar year)   E  C   C   E   E   A   A   A   A
+Auto repair facility                          E  E   E   E   E   C   C   C   C
+Auto sales                                    E  E   E   E   E   C   C   C   C
+Bed and breakfast (in definition state that   E  E   C   C   C   E   E   E   E
 this is an accessory use)
-Billboards                                    E  E   E   E   E   E   E   P  P
-Brew on-premises store (6)                    E  E   E   E   E   P   P   P  E
-Brew pub (6)                                  E  E   E   E   E   P   P   P  E
-Brewery, large distributor (6)                E  E   E   E   E   E   E   E  C
-Brewery, small distributor (6)                E  E   E   E   E   P   P   P  C
-Campground                                    E  C   C   C   E   E   E   C  E
+Billboards                                    E  E   E   E   E   E   E   P   P
+Brew on-premises store (6)                    E  E   E   E   E   P   P   P   E
+Brew pub (6)                                  E  E   E   E   E   P   P   P   E
+Brewery, large distributor (6)                E  E   E   E   E   E   E   E   C
+Brewery, small distributor (6)                E  E   E   E   E   P   P   P   C
+Campground                                    E  C   C   C   E   E   E   C   E
 Cannabis business (7)
-   Cannabis cultivation (7)                E  E   E   E   E   E   E   E  I
-   Cannabis delivery service (7)           E  E   I   I   I   I   I   I  I
-   Cannabis manufacturer (7)               E  E   E   E   E   E   E   E  I
-   Cannabis retailer (7)                   E  E   E   E   E   I   I   I  E
-   Cannabis transporter (7)                E  E   E   E   E   E   I   I  I
-   Cannabis wholesaler (7)                 E  E   E   E   E   E   E   I  I
-   Lower-potency hemp edible manufacturer (E) E   E   E   E   E   E   E  I
-   Lower-potency hemp edible retailer (7)  E  E   E   E   E   A   A   A  E
-   Temporary cannabis event (7)            E  E   E   E   E   P   E   P  E
-Cemetery                                      C  C   C   C   E   E   E   E  E
-Child care center                             E  E   E   E   C   C   C   C  E
-Child care, family home (definition will      E  E   A   A   A   E   E   E  E
+   Cannabis cultivation (7)                E  E   E   E   E   E   E   E   I
+   Cannabis delivery service (7)           E  E   I   I   I   I   I   I   I
+   Cannabis manufacturer (7)               E  E   E   E   E   E   E   E   I
+   Cannabis retailer (7)                   E  E   E   E   E   I   I   I   E
+   Cannabis transporter (7)                E  E   E   E   E   E   I   I   I
+   Cannabis wholesaler (7)                 E  E   E   E   E   E   E   I   I
+   Lower-potency hemp edible manufacturer (E) E   E   E   E   E   E   E   I
+   Lower-potency hemp edible retailer (7)  E  E   E   E   E   A   A   A   E
+   Temporary cannabis event (7)            E  E   E   E   E   P   E   P   E
+Cemetery                                      C  C   C   C   E   E   E   E   E
+Child care center                             E  E   E   E   C   C   C   C   E
+Child care, family home (definition will      E  E   A   A   A   E   E   E   E
 state that this is accessory use)
-Church                                        E  E   C   C   C   C   C   P  C
-Clinic                                        E  E   C   C   C   P   P   P  P
-Community park                                A  A   A   A   A   A   A   A  A
-Deck                                          P  P   P   P   P   P   P   P  P
-Distillery (6)                                E  E   E   E   E   E   E   E  C
-Dwelling, multi-family, 2-4 units             E  E   E   C   P   P   E   E  E
-Dwelling, multi-family, 5 units or more       E  E   E   C   C   C   E   C  E
-Dwelling, single-family                       E  E   P   P   P   P   E   E  E
-Exterior storage                              E  E   E   E   E   E   C   C  E
-Feedlot                                       E  E   E   E   E   E   E   E  E
-Fence                                         P  P   P   P   P   P   P   P  P
-Forest land conversion                        E  E   A   A   A   A   A   A  A
-Garage, detached                              E  P   PAC PAC PAC PAC PAC PA PA
-                                                                         C  C
-                                                 A/P A/P A/P A/P A/P A/P A/ A/P
-Grading                                       C  (   (   (   (   (   (   P  (
-                                                 3)  3)  3)  3)  3)  3)  (  3)
-                                                                         3)
-Group care facilities                         E  E   A   A   A   E   E   E  E
-Hen chickens                                  E  E   P   P   P   E   E   E  C
-Home occupation, Type I                       E  E   A   A   A   A   E   A  E
-Home occupation, Type II                      E  E   A   A   A   A   E   A  E
-Home occupation, Type III                     E  E   C   C   C   A   E   E  E
-Home occupation, Type IV                      E  E   C   C   C   P   E   E  E
-Hospital                                      E  E   E   E   E   E   E   P  P
-Hotel                                         E  E   E   E   E   P   E   P  E
-Industrial use                                E  E   E   E   E   E   P   E  P
-Junk yard                                     E  E   E   E   E   E   E   E  E
-Landfill                                      E  E   E   E   E   E   E   E  E
-Manufactured home park                        E  E   C   E   C   E   E   E  E
-Medical marijuana cultivation facility        E  E   E   E   E   E   E   E  C
-Medical marijuana dispensary                  E  E   E   E   E   E   E   E  C
-Microdistillery (6)                           E  E   E   E   E   P   P   P  C
-Motel                                         E  E   E   E   E   P   E   P  E
-Nursery                                       E  E   C   C   E   E   A   A  E
-Nursing home                                  E  E   C   C   C   E   E   P  E
-Off-street parking                            A  A   A   A   A   A   A   A  A
-Office, professional                          E  E   C   C   C   A   A   A  PA
-                                                                            C
-Patio                                         E  P   PAC PAC PAC PAC PAC PA PA
-                                                                         C  C
-Pawn shop                                     E  E   E   E   E   P   P   P  E
-Planned unit development, commercial          E  E   E   E   E   C   C   C  E
-Planned unit development, residential         E  E   C   C   C   C   E   C  E
-Porch                                         P  P   PAC PAC PAC PAC PAC PA PA
-                                                                         C  C
-Resort                                        E  E   C   E   E   E   E   C  E
-Restaurant                                    E  E   E   E   E   A   E   P  E
-Retail use                                    E  E   E   E   E   A   A   A  E
-Salvage yard                                  E  E   E   E   E   E   E   E  C
-                                                                            (1)
-Sign, balloon                                 E  E   E   E   E   P   P   P  P
-Sign, banner                                  E  E   E   E   E   A   A   A  A
-Sign, canopy                                  E  E   E   E   E   P   P   P  P
-Sign, digital display                         E  E   E   E   E   P   P   P  P
-Sign, directory                               E  C   C   C   C   A   A   A  A
-Sign, awning                                  E  E   E   E   E   P   P   P  P
-Sign, flashing                                E  E   E   E   E   P   P   P  P
-Sign, marquee                                 E  E   E   E   E   P   P   P  P
-Sign, neon                                    E  E   E   E   E   P   P   P  P
-Sign, off-premises                            E  E   E   E   E   E   E   E  E
-Sign, on-premises                             E  P   P   P   P   P   P   P  P
-Sign, portable                                E  E   E   E   E   P   P   P  E
-Sign, projecting                              E  E   E   E   E   P   E   E  E
-Sign, pylon                                   E  E   E   E   E   C   P   P  P
-Sign, scrolling                               E  E   E   E   E   P   P   P  P
-Sign, shimmering                              E  E   E   E   E   P   P   P  P
-Slaughter of animals                          E  E   E   E   E   E   E   C  C
-Storage pods                                  E  E   E   E   E   C   P   P  P
-Swimming pool, public                         E  C   E   E   E   C   C   C  E
-Swimming pool, private (4)                    E  E   P   P   P   E   E   E  E
-Taproom (6)                                   E  E   E   E   E   P   P   P  C
-Tattoo parlor/body piercing                   E  E   E   E   E   A   A   A  E
-Telecommunications tower (5)                  E  E   E   E   E   E   E   E  C
-Temporary structure                           E  A   A   A   A   A   A   A  A
-Tow yard                                      E  E   E   E   E   C   E   E  C
-Transition subdivision                        E  E   C   C   E   E   E   E  E
-Utility substation                            C  C   C   C   C   C   C   C  C
-Water oriented accessory structure or         E  PAC PAC PAC PAC E   E   E  E
+Church                                        E  E   C   C   C   C   C   P   C
+Clinic                                        E  E   C   C   C   P   P   P   P
+Community park                                A  A   A   A   A   A   A   A   A
+Deck                                          P  P   P   P   P   P   P   P   P
+Distillery (6)                                E  E   E   E   E   E   E   E   C
+Dwelling, multi-family, 2-4 units             E  E   E   C   P   P   E   E   E
+Dwelling, multi-family, 5 units or more       E  E   E   C   C   C   E   C   E
+Dwelling, single-family                       E  E   P   P   P   P   E   E   E
+Exterior storage                              E  E   E   E   E   E   C   C   E
+Feedlot                                       E  E   E   E   E   E   E   E   E
+Fence                                         P  P   P   P   P   P   P   P   P
+Forest land conversion                        E  E   A   A   A   A   A   A   A
+Garage, detached                              E  P   PAC PAC PAC PAC PAC PAC PAC
+                                                 A/P A/P A/P A/P A/P A/P A/P A/P
+Grading                                       C  (   (   (   (   (   (   (   (
+                                                 3)  3)  3)  3)  3)  3)  3)  3)
+Group care facilities                         E  E   A   A   A   E   E   E   E
+Hen chickens                                  E  E   P   P   P   E   E   E   C
+Home occupation, Type I                       E  E   A   A   A   A   E   A   E
+Home occupation, Type II                      E  E   A   A   A   A   E   A   E
+Home occupation, Type III                     E  E   C   C   C   A   E   E   E
+Home occupation, Type IV                      E  E   C   C   C   P   E   E   E
+Hospital                                      E  E   E   E   E   E   E   P   P
+Hotel                                         E  E   E   E   E   P   E   P   E
+Industrial use                                E  E   E   E   E   E   P   E   P
+Junk yard                                     E  E   E   E   E   E   E   E   E
+Landfill                                      E  E   E   E   E   E   E   E   E
+Manufactured home park                        E  E   C   E   C   E   E   E   E
+Medical marijuana cultivation facility        E  E   E   E   E   E   E   E   C
+Medical marijuana dispensary                  E  E   E   E   E   E   E   E   C
+Microdistillery (6)                           E  E   E   E   E   P   P   P   C
+Motel                                         E  E   E   E   E   P   E   P   E
+Nursery                                       E  E   C   C   E   E   A   A   E
+Nursing home                                  E  E   C   C   C   E   E   P   E
+Off-street parking                            A  A   A   A   A   A   A   A   A
+Office, professional                          E  E   C   C   C   A   A   A   C*
+Patio                                         E  P   PAC PAC PAC PAC PAC PAC PAC
+Pawn shop                                     E  E   E   E   E   P   P   P   E
+Planned unit development, commercial          E  E   E   E   E   C   C   C   E
+Planned unit development, residential         E  E   C   C   C   C   E   C   E
+Porch                                         P  P   PAC PAC PAC PAC PAC PAC PAC
+Resort                                        E  E   C   E   E   E   E   C   E
+Restaurant                                    E  E   E   E   E   A   E   P   E
+Retail use                                    E  E   E   E   E   A   A   A   E
+Salvage yard                                  E  E   E   E   E   E   E   E   C
+                                                                             (1)
+Sign, balloon                                 E  E   E   E   E   P   P   P   P
+Sign, banner                                  E  E   E   E   E   A   A   A   A
+Sign, canopy                                  E  E   E   E   E   P   P   P   P
+Sign, digital display                         E  E   E   E   E   P   P   P   P
+Sign, directory                               E  C   C   C   C   A   A   A   A
+Sign, awning                                  E  E   E   E   E   P   P   P   P
+Sign, flashing                                E  E   E   E   E   P   P   P   P
+Sign, marquee                                 E  E   E   E   E   P   P   P   P
+Sign, neon                                    E  E   E   E   E   P   P   P   P
+Sign, off-premises                            E  E   E   E   E   E   E   E   E
+Sign, on-premises                             E  P   P   P   P   P   P   P   P
+Sign, portable                                E  E   E   E   E   P   P   P   E
+Sign, projecting                              E  E   E   E   E   P   E   E   E
+Sign, pylon                                   E  E   E   E   E   C   P   P   P
+Sign, scrolling                               E  E   E   E   E   P   P   P   P
+Sign, shimmering                              E  E   E   E   E   P   P   P   P
+Slaughter of animals                          E  E   E   E   E   E   E   C   C
+Storage pods                                  E  E   E   E   E   C   P   P   P
+Swimming pool, public                         E  C   E   E   E   C   C   C   E
+Swimming pool, private (4)                    E  E   P   P   P   E   E   E   E
+Taproom (6)                                   E  E   E   E   E   P   P   P   C
+Tattoo parlor/body piercing                   E  E   E   E   E   A   A   A   E
+Telecommunications tower (5)                  E  E   E   E   E   E   E   E   C
+Temporary structure                           E  A   A   A   A   A   A   A   A
+Tow yard                                      E  E   E   E   E   C   E   E   C
+Transition subdivision                        E  E   C   C   E   E   E   E   E
+Utility substation                            C  C   C   C   C   C   C   C   C
+Water oriented accessory structure or         E  PAC PAC PAC PAC E   E   E   E
 facility
-Warehousing                                   E  E   E   E   E   E   P   P  P
-Warehousing, commercial                       E  E   E   E   E   E   P   P  P
-Winemaking on-premises store (6)              E  E   E   E   E   P   P   P  E
-Winery, farm (6)                              E  E   P   C   E   E   E   E  E
-Winery (6)                                    E  E   E   E   E   C   C   C  C
+Warehousing                                   E  E   E   E   E   E   P   P   P
+Warehousing, commercial                       E  E   E   E   E   E   P   P   P
+Winemaking on-premises store (6)              E  E   E   E   E   P   P   P   E
+Winery, farm (6)                              E  E   P   C   E   E   E   E   E
+Winery (6)                                    E  E   E   E   E   C   C   C   C
 NOTES TO TABLE:
-(1) Screening standards as provided for in § 152.093 of this chapter.
-(2) For storage standards, see § 152.092 of this chapter.
-(3) For grading standards, see § 152.098 of this chapter.
-(4) For pool permit requirements, see § 152.100 of this chapter.
-(5) For tower standards, see §§ 152.140 through 152.155. Also, see § 152.059 of
-this chapter.
-(6) For liquor ordinance standards, see Ch. 110 of this code of ordinances.
-(7) For specific cannabis business standards, see Ch. 114 of this code of
-ordinances.
+(1) Screening standards as provided for in §
+152.093 of this chapter.
+(2) For storage standards, see §
+152.092 of this chapter.
+(3) For grading standards, see §
+152.098 of this chapter.
+(4) For pool permit requirements, see §
+152.100 of this chapter.
+(5) For tower standards, see §§
+152.140 through
+152.155. Also, see §
+152.059 of this chapter.
+(6) For liquor ordinance standards, see
+Ch. 110 of this code of ordinances.
+(7) For specific cannabis business standards, see
+Ch. 114 of this code of ordinances.
  
 (Ord. 332, passed 5-19-2008; Ord. 369, passed 10-20-2014; Ord. 372, passed 12-
 15-2014; Ord. 393, passed 6-3-2019; Ord. 403, passed 12-6-2021; Ord. 404,
 passed 12-6-2021; Ord. 405, passed 4-4-2022; Ord. 406, passed 4-4-2022; Ord.
-407, passed 4-4-2022; Ord. 413, passed 12-2-2024; Ord. 418, passed 10-20-2025)
+407, passed 4-4-2022; Ord. 413, passed 12-2-2024; Ord. 418, passed 10-20-2025;
+Ord. 420, passed 4-20-2026)
 OVERLAY DISTRICTS
 § 152.055 GENERAL.
    (A)   Purpose and intent. To establish and maintain districts that overlay
@@ -15407,7 +15415,7 @@ the airport which is specifically designated and used or planned to be used for
 the landing and/or taking off of aircraft.
          SLOPE. An incline from the horizontal expressed in an arithmetic ratio
 of horizontal magnitude to vertical magnitude.
-[https://export.amlegal.com/media/b90eed57deda6c6fa9790dd46eb953d6fae57538/
+[https://export.amlegal.com/media/890ac9159d64af3c43a654cce85c41b11247dab9/
 IMAGES/0-0-0-1085.jpg]
  
          STRUCTURE. An object constructed or installed by humans, including,
@@ -16742,7 +16750,7 @@ the extension of the existing curblines or pavement edges of the two alleys and
 extending a distance of ten feet along the edge of each alley. This defines two
 sides of the triangle. The third side is a line connecting the end points of
 the two sides described above.
-[https://export.amlegal.com/media/b90eed57deda6c6fa9790dd46eb953d6fae57538/
+[https://export.amlegal.com/media/890ac9159d64af3c43a654cce85c41b11247dab9/
 IMAGES/0-0-0-1375.jpg]
    (D)   The traffic visibility ordinance shall apply to properties in all
 residential zoning districts as well as properties in other zoning use
@@ -19853,23 +19861,23 @@ time to time, and other applicable law.
 (Ord. 332, passed 5-19-2008; Ord. 337, passed 12-21-2009; Ord. passed 3-15-
 2018)
 APPENDIX A: ZONING MAP
-[https://export.amlegal.com/media/b90eed57deda6c6fa9790dd46eb953d6fae57538/
+[https://export.amlegal.com/media/890ac9159d64af3c43a654cce85c41b11247dab9/
 IMAGES/0-0-0-1117.jpg]
  
 APPENDIX B: AFFECTED SECTIONS OF LAND; MAPS
-[https://export.amlegal.com/media/b90eed57deda6c6fa9790dd46eb953d6fae57538/
+[https://export.amlegal.com/media/890ac9159d64af3c43a654cce85c41b11247dab9/
 IMAGES/0-0-0-1119.jpg]
  
-[https://export.amlegal.com/media/b90eed57deda6c6fa9790dd46eb953d6fae57538/
+[https://export.amlegal.com/media/890ac9159d64af3c43a654cce85c41b11247dab9/
 IMAGES/0-0-0-1121.jpg]
  
-[https://export.amlegal.com/media/b90eed57deda6c6fa9790dd46eb953d6fae57538/
+[https://export.amlegal.com/media/890ac9159d64af3c43a654cce85c41b11247dab9/
 IMAGES/0-0-0-1123.jpg]
  
-[https://export.amlegal.com/media/b90eed57deda6c6fa9790dd46eb953d6fae57538/
+[https://export.amlegal.com/media/890ac9159d64af3c43a654cce85c41b11247dab9/
 IMAGES/0-0-0-1125.jpg]
  
-[https://export.amlegal.com/media/b90eed57deda6c6fa9790dd46eb953d6fae57538/
+[https://export.amlegal.com/media/890ac9159d64af3c43a654cce85c41b11247dab9/
 IMAGES/0-0-0-1127.jpg]
  
 TABLE OF SPECIAL ORDINANCES
@@ -20544,5 +20552,7 @@ Ord. No. Date Passed Code Section
                      152.271,
                      152.274
 419      1-5-2026    33.01
+420   4-20-2026   152.003,
+                     152.040
                     
  
