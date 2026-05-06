@@ -448,7 +448,7 @@ Public Hearings
 30.47   Hearing
    
 30.48   Record
-BILLING AND COLLECTION
+**** BILLING AND COLLECTION ****
 § 30.01 DUTIES OF CITY MANAGER.
    The City Manager or designee will compute, give notice of, and collect all
 charges and bills owing to the city.
@@ -465,7 +465,7 @@ days prior to the due date.
 to terminate any service rendered by it or revoke any license issued by it when
 any charge or bill for the service or license becomes delinquent.
 (Prior Code, § 30.03)
-ELECTIONS
+**** ELECTIONS ****
 § 30.15 BIENNIAL ELECTIONS AND TERMS.
    The city will hold regular city elections biennially on the first Tuesday
 after the first Monday in November of every odd-numbered year. Two City
@@ -484,7 +484,7 @@ unless the person is a resident and is registered as provided by state law.
 incorporate M.S. § 203B.121, as it may be amended from time to time, in its
 entirety.
 (Prior Code, § 30.17) (Ord. 2012-05, passed 6-12-2012)
-UNCLAIMED PROPERTY
+**** UNCLAIMED PROPERTY ****
 § 30.30 CUSTODY OF PROPERTY.
    The City Manager or designee may provide for the storage of private property
 other than motor vehicles impounded under this section or which come into the
@@ -525,7 +525,7 @@ possession which the City Manager or designee determines to be dangerous or
 perishable. The City Manager or designee will maintain a record of the
 pertinent facts with respect to the receipt and disposal of any such property.
 (Prior Code, § 30.34)
-PUBLIC HEARINGS
+**** PUBLIC HEARINGS ****
 § 30.45 GENERALLY.
    Unless otherwise provided in this code or by state law, every public hearing
 required by law, ordinance, or resolution to be held on any legislative or
@@ -809,7 +809,7 @@ Public Safety
 32.49   Fire Department
    
 32.50   Employee background checks
-PLANNING COMMISSION
+**** PLANNING COMMISSION ****
 § 32.01 CHARACTER.
    The Planning Commission of the city is the planning agency within the
 meaning of M.S. §§ 462.351 through 462.365, as they may be amended from time to
@@ -960,7 +960,7 @@ recommendation. If a matter not required to be referred to the Planning
 Commission is referred to the Planning Commission, the City Council may at any
 time take action without the recommendation of the Planning Commission.
 (Prior Code, § 32.08)
-PARKS AND ENVIRONMENTAL COMMISSION
+**** PARKS AND ENVIRONMENTAL COMMISSION ****
 § 32.20 PURPOSE.
    The city does now operate and maintain public parks for the benefit and
 pleasure of its residents. A City Parks and Environmental Commission is hereby
@@ -1203,7 +1203,7 @@ of liability insurance for bodily injury and property damage indemnifying the
 city or any person injured or damaged resulting from the pursuit of such
 endeavors as herein described.
 (Prior Code, § 32.39) (Ord. 2016-02, passed 5-24-2016)
-PUBLIC SAFETY
+**** PUBLIC SAFETY ****
 § 32.45 POLICIES.
    The City Council has the authority and duty to provide for the government
 and good order of the city, the suppression of vice and immorality, the
@@ -1393,7 +1393,7 @@ Assessments for Unpaid Charges
 33.106   Special assessments
    
 33.107   Procedure for assessment
-FEES, RATES, AND CHARGES ESTABLISHED
+**** FEES, RATES, AND CHARGES ESTABLISHED ****
 § 33.001 FEES.
    The city’s fees, rates, and charges for licenses, permits, and municipal
 services are the amounts set forth in this chapter. Actions taken without first
@@ -1420,7 +1420,7 @@ be delivered to the City Council for adoption on or before the second Tuesday
 of October of each year. Assessment will not preclude any other legal action to
 collect delinquent accounts.
 (Prior Code, § 33.002) (Ord. 2012-10, passed 11-27-2012)
-SEWER
+**** SEWER ****
 § 33.015 CHARGES TO OWNER.
    The owner of any property connected with the city sanitary sewer system must
 pay, as basic rental, charges for the use of the system the charges set forth
@@ -1484,7 +1484,7 @@ fully describe the specific sewer charges included in the appeal, a description
 of the premises involved, and other relevant facts relating to the sewer
 charges included in the appeal.
 (Prior Code, § 33.022)
-WATER
+**** WATER ****
 § 33.035 CHARGES TO OWNER.
    The owner of property connected with the municipal water system must pay the
 water service charges set forth in this subchapter.
@@ -1576,7 +1576,7 @@ significantly exceeding either of these criterias are considered at-risk and
 are subject to early certification or water shut-off at the city’s directions.
 (Prior Code, § 33.044) (Ord. 2012-10, passed 11-27-2012; Ord. 2022-03, passed
 5-24-2022)
-LICENSE AND PERMIT FEES
+**** LICENSE AND PERMIT FEES ****
 § 33.055 FEES.
    Fees for licenses and permits referred to in this subchapter must be paid in
 the amounts set forth in this subchapter.
@@ -1976,7 +1976,7 @@ without limitation, special assessment searches, accident reports, copying,
 ordinances, maps, minutes of City Council and various commission meetings,
 printed forms, and certified copies.
 (Prior Code, § 33.062)
-CHARGES AND ASSESSMENTS FOR SPECIAL STREET LIGHTS
+**** CHARGES AND ASSESSMENTS FOR SPECIAL STREET LIGHTS ****
 § 33.075 CITY MANAGER MAY ORDER CERTAIN WORK DONE.
    The City Manager or designee may from time to time order the installation
 and operation of lighting systems for public streets and sidewalks pursuant to
@@ -2033,7 +2033,7 @@ rate allowed by law.
 any other methods or remedies available to the city by state statute or city
 ordinance.
 (Prior Code, § 33.079)
-STORM WATER FACILITIES
+**** STORM WATER FACILITIES ****
 § 33.090 CHARGES FOR STORM WATER FACILITIES.
  
 Classification                                             Quarterly Charge
@@ -2047,7 +2047,7 @@ railroads, and vacant land
  
 (Prior Code, § 33.090) (Ord. 2022-08, passed 12-13-2022; Ord. 2023-10, passed
 12-12-2023; Ord. 2024-07, passed 12-10-2024; Ord. 2025-07, passed 12-9-2025)
-ASSESSMENTS FOR UNPAID CHARGES
+**** ASSESSMENTS FOR UNPAID CHARGES ****
 § 33.105 OWNER’S OBLIGATION.
    Property owners are responsible for all city charges levied for city
 services and for work performed by the city because the owner has failed to
@@ -2161,7 +2161,7 @@ the use of best management practices
  
    
 50.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 CITY MANAGER TO CONTROL.
    The City Manager or designee, under the direction of the City Council, will
 have control of the storm water and sanitary sewer systems, repair, and
@@ -2579,7 +2579,7 @@ to connect the violation and certify the costs of connection as an assessment
 against the property on which the connection was made.
 (Prior Code, § 50.16) (Ord. 2022-09, passed 1-24-2023) Penalty, see §
 50.99
-ILLICIT DISCHARGE AND CONNECTION
+**** ILLICIT DISCHARGE AND CONNECTION ****
 § 50.30 PURPOSE AND INTENT.
    (A)   The purpose of this subchapter is to provide for the health, safety,
 and general welfare of the citizens of the city through the regulation of non-
@@ -3336,7 +3336,7 @@ Chapter 95
    Towing services, see §§
 115.025 through
 115.036
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this title, the following definitions apply unless the
 context clearly indicates or requires a different meaning.
@@ -3417,7 +3417,7 @@ the vehicle, or both.
 any motor vehicle is declared to be a public nuisance and is prohibited.
 (Prior Code, § 70.10) Penalty, see §
 10.99
-RESTRICTIONS ON USE
+**** RESTRICTIONS ON USE ****
 § 70.25 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3466,7 +3466,7 @@ Council.
 carts while operated on golf courses.
 (Prior Code, § 70.29) Penalty, see §
 10.99
-RESTRICTIONS ON VEHICLE SALES
+**** RESTRICTIONS ON VEHICLE SALES ****
 § 70.40 RESIDENTIAL DISTRICTS.
    (A)   Motor vehicles and recreational vehicles which are permitted within
 the respective residential district may be advertised for sale and sold,
@@ -3509,7 +3509,7 @@ Removal of Abandoned Vehicles and Illegally Parked Vehicles
 71.36   Parking during snow removal
    
 71.37   Parking in excess of 24 hours
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 71.01 CERTAIN STOPPING AND PARKING PROHIBITED.
    (A)   Rights-of-way. No person may drive upon or across, stop, leave
 standing, or park a vehicle, whether attended or unattended, upon any boulevard
@@ -3533,7 +3533,7 @@ evidence of the posting constitutes prima facie evidence of the order of the
 police and notice of same.
 (Prior Code, § 72.01) Penalty, see §
 10.99
-PRIVATE PARKING LOTS
+**** PRIVATE PARKING LOTS ****
 § 71.15 REGULATIONS.
    No person may operate a motor vehicle on semi-public property in violation
 of any official sign, or operate at a speed greater than is safe and reasonable
@@ -3547,7 +3547,7 @@ for entrance or exit, and the driver of any vehicle entering or leaving the
 semi-public property must comply with any one-way sign so posted.
 (Prior Code, § 72.15) Penalty, see §
 10.99
-REMOVAL OF ABANDONED VEHICLES AND ILLEGALLY PARKED VEHICLES
+**** REMOVAL OF ABANDONED VEHICLES AND ILLEGALLY PARKED VEHICLES ****
 § 71.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3809,7 +3809,7 @@ Snowmobiles
 73.24   Leaving snowmobile unattended
    
 73.25   Leasing
-BICYCLE OPERATION
+**** BICYCLE OPERATION ****
 § 73.01 GENERALLY.
    All bicycle operators and riders are subject to the following rules.
    (A)   Every person riding a bicycle upon a roadway is granted all of the
@@ -3841,7 +3841,7 @@ dry, level, and clean pavement.
 permit the child to violate any provision of this subchapter.
 (Prior Code, § 71.03) Penalty, see §
 10.99
-SNOWMOBILES
+**** SNOWMOBILES ****
 § 73.15 INTERPRETATION.
    Provisions of this subchapter are supplementary to those in M.S. Chapter 84,
 as it may be amended from time to time, which relate to snowmobiles. This
@@ -4038,7 +4038,7 @@ structure
 90.48   Indemnification and defense of city
    
 90.49   Fees and costs
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 CITY COUNCIL FINDINGS.
    The Communications Act of 1934, as amended by the Telecommunication Act of
 1996, being 47 U.S.C. §§ 201 et seq., grants the Federal Communications
@@ -4047,7 +4047,7 @@ city’s regulation of towers and WTFs in the city will not have the effect of
 prohibiting any person from providing wireless telecommunications services in
 violation of the Act.
 (Prior Code, § 90.01)
-WIRELESS TELECOMMUNICATIONS TOWERS
+**** WIRELESS TELECOMMUNICATIONS TOWERS ****
 § 90.15 PURPOSE.
    (A)   The general purpose of this chapter is to regulate the placement,
 construction, and modification of towers and WTFs in order to protect the
@@ -4551,7 +4551,7 @@ antenna is mounted to the roof or the ground elevation to the highest point of
 the dish antenna.
 (Prior Code, § 90.10) Penalty, see §
 10.99
-SMALL WIRELESS FACILITIES
+**** SMALL WIRELESS FACILITIES ****
 § 90.35 PURPOSE.
    (A)   The purpose of this subchapter is to establish specific requirements
 for obtaining a small wireless facility permit for the installation, mounting,
@@ -5331,7 +5331,7 @@ Animals Prohibited as Nuisances
 91.57   Feeding of certain animals
    
 91.58   Interference with city personnel
-DOGS; GENERALLY
+**** DOGS; GENERALLY ****
 § 91.01 IMMUNIZATION FOR RABIES.
    (A)   All dogs in the city over the age of six months shall be vaccinated
 for rabies and shall be re-vaccinated according to standard veterinary
@@ -5369,7 +5369,7 @@ the preceding year. In the event of such a denial, the applicant may, within
 ten days of being advised of the denial, request, in writing, a hearing before
 the City Council on the denial.
 (Prior Code, § 91.05)
-KENNELS
+**** KENNELS ****
 § 91.15 LICENSE REQUIRED.
    No person may keep or harbor in any place within the city, except in a
 licensed kennel, more than two dogs over the age of six months. Any premises
@@ -5387,7 +5387,7 @@ reasonable times. No kennel will be maintained within the boundaries of a
 residential district.
 (Prior Code, § 91.21) Penalty, see §
 10.99
-ANIMAL CONTROL
+**** ANIMAL CONTROL ****
 § 91.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions apply unless
 the context clearly indicates or requires a different meaning.
@@ -7900,7 +7900,7 @@ Cross-reference:
 130.02
    Obstruction of public access, see § §
 130.03
-LOAD REGULATIONS AND RESTRICTIONS
+**** LOAD REGULATIONS AND RESTRICTIONS ****
 § 95.01 RESTRICTION ON LOADS.
    The City Manager or designee will, by written order pursuant to M.S. §
 169.87, as it may be amended from time to time, prohibit the operation of
@@ -7914,7 +7914,7 @@ city street or highway contrary to the prohibition or restriction set forth in
 the order and notice.
 (Prior Code, § 94.01) Penalty, see §
 10.99
-OBSTRUCTIONS IN PUBLIC WAYS
+**** OBSTRUCTIONS IN PUBLIC WAYS ****
 § 95.15 OBSTRUCTIONS PROHIBITED.
    No person, except under a proper permit issued by the City Manager or
 designee or otherwise permitted in this code, shall obstruct or encumber any
@@ -7937,7 +7937,7 @@ may be removed by the city. The person responsible for the obstruction shall
 reimburse the city for the cost of removal within ten days after receiving an
 invoice from the city.
 (Prior Code, § 94.16)
-SIDEWALKS AND WEED CONTROL
+**** SIDEWALKS AND WEED CONTROL ****
 § 95.30 SNOW, ICE, DIRT, AND RUBBISH REMOVAL.
    The owner and the occupant of property adjacent to a public sidewalk must
 use due diligence to keep the walk safe for pedestrians. No owner or occupant
@@ -7995,7 +7995,7 @@ special assessment under M.S. § 429.101, as it may be amended from time to
 time, and other pertinent statutes for certification to the County Auditor and
 collection the following year along with current taxes.
 (Prior Code, § 94.35)
-TREES AND SHRUBS ON THE PUBLIC RIGHT-OF-WAY
+**** TREES AND SHRUBS ON THE PUBLIC RIGHT-OF-WAY ****
 § 95.50 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8104,7 +8104,7 @@ Open Burning
  
    
 97.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 97.01 DEFINITIONS.
    For the purpose of this subchapter and the Fire Code hereby established, the
 following definitions shall apply unless the context clearly indicates or
@@ -8345,7 +8345,7 @@ monitored fire alarm and sprinkler systems and communicators.
 key or hub valves in the roadway boxes provided by the city.
 (Prior Code, § 97.14) (Ord. 08-001, passed 4-8-2008) Penalty, see §
 97.99
-OPEN BURNING
+**** OPEN BURNING ****
 § 97.25 PROHIBITED.
    Except as otherwise permitted by this subchapter, all open burning is
 prohibited in the city.
@@ -8946,7 +8946,7 @@ Contractors
  
    
 112.99   Penalty
-LICENSING OF MULTIPLE DWELLINGS
+**** LICENSING OF MULTIPLE DWELLINGS ****
 § 112.01 PURPOSE.
    It is the purpose of this subchapter to protect the health, safety, and
 welfare of citizens of the city who have as their place of abode a living unit
@@ -9119,7 +9119,7 @@ must notify the licensee of all violations, if any, by written notice. The
 notice will direct compliance in not less than 15 days, unless extended by the
 City Manager or designee for good cause.
 (Prior Code, § 111.202) (Ord. 2025-02, passed 4-22-2025)
-SECURITY ALARMS
+**** SECURITY ALARMS ****
 § 112.30 PURPOSE AND SCOPE.
    This subchapter is intended to protect the public safety and to avoid misuse
 and careless or negligent operation of certain security alarms.
@@ -9248,7 +9248,7 @@ this subchapter is confidential and exempt from discovery.
 Manager or a designated representative may develop, maintain, and publish
 statistics pertaining to this subchapter.
 (Prior Code, § 111.157)
-CONTRACTORS
+**** CONTRACTORS ****
 § 112.50 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9411,7 +9411,7 @@ Pawnbrokers
  
    
 113.99   Penalty
-SECONDHAND DEALERS
+**** SECONDHAND DEALERS ****
 § 113.01 FINDINGS AND PURPOSE STATEMENT.
    The City Council finds that secondhand dealers may knowingly or unknowingly
 be a conduit for the sale or purchase of stolen property; secondhand dealers
@@ -10078,7 +10078,7 @@ be served upon the secondhand dealer personally or by United States mail
 addressed to the most recent address of the business in the license
 application.
 (Prior Code, § 111.272)
-PAWNBROKERS
+**** PAWNBROKERS ****
 § 113.35 FINDINGS AND PURPOSE STATEMENT.
    (A)   Findings. The City Council makes the following findings regarding the
 need to regulate pawnbrokers operating within the city.
@@ -10965,7 +10965,7 @@ Fireworks Dealers
  
    
 114.999   Penalty
-AMUSEMENT DEVICES
+**** AMUSEMENT DEVICES ****
 § 114.001 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11011,7 +11011,7 @@ six months, the license shall expire and shall be available for issuance to
 other licensees. No portion of the license fee will be refunded after it is
 paid, even if the license is not in effect for its full term.
 (Prior Code, § 111.030)
-PHYSICAL CULTURE AND HEALTH SERVICES AND CLUBS
+**** PHYSICAL CULTURE AND HEALTH SERVICES AND CLUBS ****
 § 114.020 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11373,7 +11373,7 @@ give, massages, other than are customarily given in the shops and salons for
 the purpose of facial beautification only shall not be subject to the
 provisions of this subchapter.
 (Prior Code, § 111.356)
-RECREATIONAL ESTABLISHMENTS
+**** RECREATIONAL ESTABLISHMENTS ****
 § 114.050 PURPOSE AND SCOPE.
    This subchapter is intended to preserve and protect the common welfare and
 to promote the public peace, health, and order by regulating the hours of
@@ -11398,7 +11398,7 @@ for consumption on the premises.
 public between the hours of 1:00 a.m. and 5:00 a.m.
 (Prior Code, § 111.172) Penalty, see §
 114.999
-FIREWORKS DEALERS
+**** FIREWORKS DEALERS ****
 § 114.065 PURPOSE AND FINDINGS.
    (A)   The purpose of this subchapter is to regulate the sale of consumer
 fireworks in order to protect the health, safety, and welfare of the general
@@ -11803,7 +11803,7 @@ Peddlers and Solicitors
  
    
 115.999   Penalty
-TOBACCO
+**** TOBACCO ****
 § 115.001 PURPOSE.
    (A)   This subchapter is intended to regulate the sale of commercial
 tobacco, tobacco-related devices, electronic delivery devices, and nicotine or
@@ -12220,7 +12220,7 @@ employment; or in public transportation.
 (Prior Code, § 111.059) (Ord. 2011-01, passed 4-26-2011; Ord. 2012-01, passed
 1-24-2012; Ord. 2014-02, passed 9-3-2014; Ord. 2019-09, passed 10-8-2019; Ord.
 2023-06, passed 11-28-2023; Ord. 2025-01, passed 4-8-2025)
-TOWING SERVICES
+**** TOWING SERVICES ****
 § 115.025 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12333,7 +12333,7 @@ less than $100,000 for injury or death to one person, $300,000 for each
 occurrence, and $25,000 property damage.
 (Prior Code, § 111.121) Penalty, see §
 115.999
-HAULERS OF RECYCLABLES, RUBBISH, AND YARD WASTE
+**** HAULERS OF RECYCLABLES, RUBBISH, AND YARD WASTE ****
 § 115.050 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12457,7 +12457,7 @@ number of households signed up to participate in the curbside program, and the
 number of households actually recycling each week.
 (Prior Code, § 111.219) Penalty, see §
 115.999
-PEDDLERS AND SOLICITORS
+**** PEDDLERS AND SOLICITORS ****
 § 115.065 DEFINITIONS.
    Except as may otherwise be provided or clearly implied by context, all terms
 shall be given their commonly accepted definitions. For the purpose of this
@@ -12735,7 +12735,7 @@ Municipal Liquor
 116.34   Hours of operation
    
 116.35   Operation and restrictions
-REGULATIONS
+**** REGULATIONS ****
 § 116.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13386,7 +13386,7 @@ reference and made a part of this subchapter, including all regulations of the
 Department of Public Safety which relate to the incorporated provisions of M.S.
 Chapter 340A, as it may be amended from time to time.
 (Prior Code, § 112.16)
-MUNICIPAL LIQUOR
+**** MUNICIPAL LIQUOR ****
 § 116.30 DEFINITIONS.
    The words used in this subchapter will have the meanings given them in M.S.
 § 340A.101, as it may be amended from time to time, and the term LIQUOR, as
@@ -13878,7 +13878,7 @@ Commercial Fireworks
 130.65   Prohibited acts
    
 130.66   Permitted acts; limitations
-GENERAL OFFENSES
+**** GENERAL OFFENSES ****
 § 130.01 DISORDERLY CONDUCT.
    The following are deemed disorderly conduct and are prohibited:
    (A)   Exposure. Willfully and lewdly exposing his or her person, or
@@ -14025,7 +14025,7 @@ premises of the establishment during curfew hours and refused to leave.
 minor has an affirmative defense before making an arrest.
 (Prior Code, § 130.04) Penalty, see §
 10.99
-WEAPONS
+**** WEAPONS ****
 § 130.15 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14096,7 +14096,7 @@ school’s faculty, or in a community-wide supervised class or event specificall
 authorized by the Chief of Police.
 (Prior Code, § 130.21) Penalty, see §
 10.99
-OBSCENITY
+**** OBSCENITY ****
 § 130.35 OBSCENE MATERIALS PROHIBITED.
    It is unlawful for any person, knowing or with reason to know its content
 and character, to manufacture, issue, sell, offer to sell, give away, provide,
@@ -14134,7 +14134,7 @@ distribute obscene works or participate in conduct otherwise proscribed by this
 subchapter when the possession, participation, distribution, or conduct occurs
 in the course of law enforcement activities.
 (Prior Code, § 130.39)
-GARBAGE AND SOLID WASTE OFFENSES
+**** GARBAGE AND SOLID WASTE OFFENSES ****
 § 130.50 DISPOSAL REQUIREMENTS.
    One of the following provisions must be made for each property in the city
 for the disposal of garbage and other solid waste:
@@ -14157,7 +14157,7 @@ materials, at which time the ownership and responsibility shall pass to the
 hauler.
 (Prior Code, § 130.51) Penalty, see §
 10.99
-COMMERCIAL FIREWORKS
+**** COMMERCIAL FIREWORKS ****
 § 130.65 PROHIBITED ACTS.
    The use, display, possession, discharge, or sale of any fireworks not
 expressly permitted by M.S. § 624.20, Subd. 1(c), as it may be amended from
@@ -14237,7 +14237,7 @@ Clandestine Drug Lab Sites
  
    
 131.99   Penalty
-CONTROLLED SUBSTANCES
+**** CONTROLLED SUBSTANCES ****
 § 131.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14303,7 +14303,7 @@ delivered until used in accordance with the prescription, and may not remove
 the pharmacist’s original label identifying the prescription.
 (Prior Code, § 131.06) Penalty, see §
 131.99
-MARIJUANA AND DRUG PARAPHERNALIA
+**** MARIJUANA AND DRUG PARAPHERNALIA ****
 § 131.20 POSSESSION OF SMALL AMOUNT OF MARIJUANA.
    (A)   Prohibited act. Except as otherwise provided in division (B) below, it
 is unlawful for any person to possess a small amount of marijuana, as defined
@@ -14465,7 +14465,7 @@ or intended or designed to be used in manufacturing, producing, processing,
 preparing, testing, or analyzing a controlled substance.
 (Prior Code, § 131.21) (Ord. 2014-03, passed 9-3-2014) Penalty, see §
 131.99
-CLANDESTINE DRUG LAB SITES
+**** CLANDESTINE DRUG LAB SITES ****
 § 131.35 PURPOSE AND INTENT.
    The purpose of this subchapter is to reduce public exposure to health risks
 associated with hazardous chemicals or residue from a clandestine drug lab
@@ -14913,7 +14913,7 @@ Fences
  
    
 150.999   Penalty
-BUILDING MOVERS
+**** BUILDING MOVERS ****
 § 150.001 BOND.
    Any person applying for a permit to move a building into the city or
 relocating a building on a lot or tract of land may be required by the City
@@ -14933,7 +14933,7 @@ either directly or indirectly from the moving or relocation of the building.
    At the time of filing an application for a permit to move a building, the
 applicant must pay the fee for the permit as set forth in Chapter 33.
 (Prior Code, § 150.003)
-STATE BUILDING CODE
+**** STATE BUILDING CODE ****
 § 150.015 CODES ADOPTED BY REFERENCE.
    The State Building Code, as adopted by the Commissioner of Labor and
 Industry pursuant to M.S. §§ 326B.101 to 326B.16, as they may be amended from
@@ -14995,7 +14995,7 @@ the State Building Code.
 edition of the State Building Code are hereby adopted and incorporated as part
 of the building code for the city: IBC Appendix Chapter J.
 (Prior Code, § 150.019) (Ord. 2023-02, passed 7-11-2023)
-ELECTRICAL REQUIREMENTS
+**** ELECTRICAL REQUIREMENTS ****
 § 150.030 APPLICATION OF CHAPTER.
    The provisions of this subchapter shall apply to all electrical
 installations in any construction, remodeling, replacement, or repair within or
@@ -15038,7 +15038,7 @@ therein, substitute the words “apply for electrical permit, “ and wherever t
 words “the Board” referring to the State Board of Electricity, are used
 therein, substitute the words “the City.”
 (Prior Code, § 150.024)
-EXCAVATION
+**** EXCAVATION ****
 § 150.045 EXCAVATION PERMIT REQUIRED.
    It is unlawful for any person to excavate, tunnel, undermine, or in any
 manner cause to be made any excavation in or under the surface of any street,
@@ -15103,7 +15103,7 @@ operating gas, electric, or telephone facilities within the city.
 subchapter or of any permit, the City Manager or designee may refuse to issue
 further permits to the person.
 (Prior Code, § 150.037)
-SWIMMING POOLS
+**** SWIMMING POOLS ****
 § 150.065 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -15267,7 +15267,7 @@ drain system any pool, hot tub, or spa water unless dechlorinated to less than
 one ppm of chlorine.
 (Prior Code, § 150.058) Penalty, see §
 150.999
-FENCES
+**** FENCES ****
 § 150.085 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -17139,7 +17139,7 @@ Administration
 154.244   Board of Adjustments and Appeals
    
 154.245   Variances
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.001 TITLE.
    This chapter will be known as the city’s “Zoning Code.”
 (Prior Code, § 152.001)
@@ -17741,7 +17741,7 @@ the lot.
 - -; Ord. 2015-04, passed - -; Ord. 2016-01, passed - -; Ord. 2019-11, passed
 11-15-2019; Ord. 2023-01, passed 7-11-2023; Ord. 2025-02, passed 4-22-2025;
 Ord. 2025-05, passed 10-28-2025)
-DISTRICTS
+**** DISTRICTS ****
 § 154.020 DIVISION OF CITY INTO DISTRICTS.
    The city is divided into the following zoning districts:
    (A)   Residential:
@@ -17894,7 +17894,7 @@ file in the City Hall.
 centerlines of streets, alleys, or railroad rights-of-way or property lines, or
 the lines extended.
 (Prior Code, § 152.022)
-R-1 SINGLE-FAMILY DISTRICT
+**** R-1 SINGLE-FAMILY DISTRICT ****
 § 154.035 PURPOSE.
    The purpose of the R-1 District is to create and maintain areas which due to
 the natural amenities of the land, low traffic volumes, and historical
@@ -18016,7 +18016,7 @@ the provisions of §§
 154.186.
 (Prior Code, § 152.039) (Ord. 2012-11, passed - -) Penalty, see §
 10.99
-R-1A SINGLE-FAMILY LAKESHORE DISTRICT
+**** R-1A SINGLE-FAMILY LAKESHORE DISTRICT ****
 § 154.050 PURPOSE.
    The purpose of the R-1A District is to create and maintain lakeshore areas
 for single-family detached residences which, due to the natural amenity of the
@@ -18127,7 +18127,7 @@ the provisions of §§
 154.186.
 (Prior Code, § 152.054) Penalty, see §
 10.99
-R-2 TWO-FAMILY DISTRICT
+**** R-2 TWO-FAMILY DISTRICT ****
 § 154.065 PURPOSE.
    The purpose of the R-2 District is to provide areas which are best suited
 for a higher density than single-family dwellings, and which may serve as a
@@ -18209,7 +18209,7 @@ of different types and colors, and the right (but not the obligation) of the
 city to enforce the provisions of the declaration.
 (Prior Code, § 152.070) Penalty, see §
 10.99
-R-3 TOWNHOUSE DISTRICT
+**** R-3 TOWNHOUSE DISTRICT ****
 § 154.085 PURPOSE.
    The purpose of the R-3 District is to provide areas where the natural
 amenities such as trees, hills, and bodies of water are preserved by
@@ -18277,7 +18277,7 @@ the provisions of §§
 154.186.
 (Prior Code, § 152.089) Penalty, see §
 10.99
-R-4 MULTIPLE-FAMILY DISTRICT
+**** R-4 MULTIPLE-FAMILY DISTRICT ****
 § 154.100 PURPOSE.
    The purpose of the R-4 District is to provide areas for multiple-family
 housing consistent with the City’s Comprehensive Plan goals and objectives,
@@ -18434,7 +18434,7 @@ wind, and other measures. The city encourages a creative and affirmative
 approach to sustainability consistent with its Comprehensive Plan and related
 policies.
 (Prior Code, § 152.05) (Ord. 2021-03, passed 8-13-2021)
-C GENERAL COMMERCIAL DISTRICT
+**** C GENERAL COMMERCIAL DISTRICT ****
 § 154.120 PURPOSE.
    The C District is intended to provide areas for retail sales and services
 located and regulated so as to minimize adverse effects on neighboring
@@ -18630,7 +18630,7 @@ parking
 154.175 through
 154.186.
 (Prior Code, § 152.125) (Ord. 2022-01, passed 4-26-2022)
-LI LIGHT INDUSTRIAL DISTRICT
+**** LI LIGHT INDUSTRIAL DISTRICT ****
 § 154.140 PURPOSE.
    (A)   The purpose of the LI District is to designate areas for, and regulate
 the development of, light industry. Areas are designated as light industrial
@@ -18717,7 +18717,7 @@ least 20 feet from any property in a residential district, within which setback
 area parking, storage, and/or loading facilities are excluded.
 (Prior Code, § 152.144) (Ord. 2022-02, passed 4-26-2022) Penalty, see §
 10.99
-R/O RECREATIONAL/OPEN SPACE DISTRICT
+**** R/O RECREATIONAL/OPEN SPACE DISTRICT ****
 § 154.155 PURPOSE.
    The purpose of the R/O District is to regulate development in those areas
 which have significant natural amenities such as trees, terrain, and water
@@ -18787,7 +18787,7 @@ compatible with the natural environment as determined by the Planning
 Commission and City Council, and must conform with all applicable laws.
 (Prior Code, § 152.160) Penalty, see §
 10.99
-GENERAL REQUIREMENTS
+**** GENERAL REQUIREMENTS ****
 § 154.175 LOT REQUIREMENTS.
    (A)   Lot size. Adjoining lots which were in common ownership on or after
 August 18, 1976, according to the real estate records of Hennepin or Ramsey
@@ -19958,7 +19958,7 @@ meet all applicable Fire Codes and parking lot setback requirements. Enclosed
 structures 200 square feet or more in size and/or open-sided canopies 400
 square feet or more require a review and inspection by the Fire Marshal.
 (Ord. 2023-01, passed 7-11-2023)
-PLANNED UNIT DEVELOPMENT
+**** PLANNED UNIT DEVELOPMENT ****
 § 154.205 PURPOSE.
    The purpose of this subchapter is to provide for planned unit developments
 within the city.
@@ -20340,7 +20340,7 @@ districts, Department of Natural Resources, Soil Conservation Service, or any
 other agency with review authority clearly illustrating erosion control
 measures to be used during construction and as permanent measures.
 (Prior Code, § 152.209)
-NONCONFORMING USES, STRUCTURES, AND LOTS
+**** NONCONFORMING USES, STRUCTURES, AND LOTS ****
 § 154.225 INTENT FOR NONCONFORMING USES AND STRUCTURES.
    It is the intent of this subchapter to permit and recognize the existence of
 nonconforming uses and structures which were lawful when established but which
@@ -20389,7 +20389,7 @@ of the code. Any deviation from the requirements of the code may not be done
 without first obtaining a variance pursuant to §
 154.245.
 (Prior Code, § 152.227) (Ord. 2014-01, passed 4-8-2014)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 154.240 ZONING OFFICER.
    (A)   The City Manager or designee may act as, or may appoint, the City
 Zoning Officer.
@@ -21088,7 +21088,7 @@ Requirements and Regulations
 157.29   Enforcement
    
 157.30   Temporary signs
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 157.01 TITLE.
    This chapter shall be known as the “sign ordinance.”
 (Prior Code, § 155.01)
@@ -21385,7 +21385,7 @@ service, that is placed inside a window or upon the window panes or glass and
 is visible from the exterior of the window.
 (Prior Code, § 155.03) (Ord. 08-002, passed 4-22-2008; Ord. 2014-07, passed 12-
 9-2014; Ord. 2019-08, passed 9-18-2019; Ord. 2023-01, passed 7-11-2023)
-REQUIREMENTS AND REGULATIONS
+**** REQUIREMENTS AND REGULATIONS ****
 § 157.15 APPLICATION OF CHAPTER.
    (A)   Conformity. No sign may be erected, placed, altered, or moved unless
 in conformity with this chapter.
