@@ -6722,7 +6722,7 @@ TITLE XV: LAND USAGE
       
 154.   FLOOD HAZARD DAMAGE PREVENTION
       
-155.   STORMWATER
+155.   STORMWATER UTILITY
 CHAPTER 150: BUILDING REGULATIONS
 Section
 General Provisions
@@ -8958,13 +8958,1191 @@ Section
 § 154.01 ADOPTION BY REFERENCE.
    The town’s Flood Hazard Damage Prevention Ordinance can be found in the
 Flood Development Ordinance.
-CHAPTER 155: STORMWATER
+CHAPTER 155: STORMWATER UTILITY
 Section
+General Provisions
    
-155.01   Adoption by reference
-§ 155.01 ADOPTION BY REFERENCE.
-   The town’s Stormwater Ordinance in enforced through an interlocal agreement
-with the county.
+155.01   Findings
+   
+155.02   Definitions
+Establishment of Stormwater Service Charges and Credits
+   
+155.20   Activities of the Stormwater Services Deparment
+   
+155.21   Stormwater service charges
+Management of Post-Development Stormwater Runoff
+   
+155.30   Definitions
+   
+155.31   General provisions
+   
+155.32   Stormwater Commission
+   
+155.33   Stormwater Administrator
+   
+155.34   Application and permits
+   
+155.35   Preapproval concept plan and consultation meeting
+   
+155.36   As-built plans and final approval
+   
+155.37   Appeals
+   
+155.38   Standards
+   
+155.39   On-site wastewater
+   
+155.40   General standards for maintenance of BMPs
+   
+155.41   Operation and maintenance agreement
+   
+155.42   Performance security for installation and/or maintenance
+   
+155.43   Deed recordation and indications on plat
+   
+155.44   Records of installation and maintenance activities
+   
+155.45   Nuisance
+   
+155.46   Violation of chapter
+   
+155.47   Penalties and remedies
+   
+155.48   Procedures
+Stormwater Pollution
+   
+155.60   Purpose
+   
+155.61   Definitions
+   
+155.62   Illicit discharges
+   
+155.63   Illicit connections
+   
+155.64   Spills
+   
+155.65   Improper storage, handling, or processing of materials
+   
+155.66   Industrial or construction activity discharges
+   
+155.67   Right of entry
+   
+155.68   Enforcement and penalties
+   
+155.69   Appeals
+   
+155.70   Severability
+**** GENERAL PROVISIONS ****
+§ 155.01 FINDINGS.
+   (A)   Stormwater poses a threat to the public health, safety, and welfare
+because it floods properties, erodes watercourses, and channels, and pollutes
+streams and rivers.
+   (B)   By mapping, planning, constructing, operating, cleaning, regulating,
+and maintaining natural and constructed stormwater management facilities, it is
+possible to reduce the adverse effects of stormwater and improves the quality
+of groundwater, streams, rivers, and lakes in and around the town.
+   (C)   Providing a stable source of funding for the activities heretofore
+described can best be accomplished through the creation of a stormwater utility
+fund. Such a utility fund will benefit owners and occupants of developed land
+in the town.
+   (D)   The amount of impervious surface on a property is the single most
+important factor affecting the peak rate of runoff, the total volume
+discharged, and pollutant loadings of stormwater that flows from property. It
+is most equitable to fund a stormwater utility through a system in which
+service charges are based on the amount of impervious surface on developed
+land.
+   (E)   The Water Quality Act adopted by the U.S. Congress in 1987 directed
+the Environmental Protection Agency to establish regulations requiring any town
+with a population of less than 100,000 (Phase II municipalities) to obtain a
+National Pollutant Discharge Elimination System (NPDES) permit in order to
+discharge stormwater from their municipal storm sewer systems into the nation's
+waters. See WQA § 405, Pub.L. No. 100-4, 101 Stat. 69 (1994) (codified at 33
+U.S.C. § 1342(p)(6)). Pursuant to the Phase II regulations issued by the EPA on
+December 8, 1999, the Town of Cramerton was specifically enumerated in Appendix
+6 of the Preamble to the EPA's Final Rule on NPDES Phase II permits as a
+governmental entity located fully or partially within an urbanized area
+required to adopt a Phase II stormwater program on or before March 2003 (64 FR
+68722, 68822). The EPA's Final Rule on NPDES Phase II permits has been codified
+at 40 CFR Parts 9, 122, 123 and 124.
+   (F)   When Congress enacted the NPDES permitting program, it did not provide
+the states with funding to support the federally required stormwater management
+programs. The General Assembly of North Carolina has ratified statutes which
+allow for the operation of a stormwater management programs as a public
+enterprise by a municipality. See G.S. 160A-311 through 160A-312. The General
+Assembly has further accorded municipalities the right to fix and enforce rates
+and fees for the operation of a stormwater management program (G.S. 160A-314).
+This chapter is adopted pursuant to the aforementioned grants of authority.
+(Ord. passed 7--2025)
+§ 155.02 DEFINITIONS.
+   All definitions found elsewhere in G.S. Chapter 14 apply in this chapter, in
+addition to the ones below, unless the context of the chapter language clearly
+indicates otherwise. The Stormwater Administrator is authorized to interpret
+and apply these definitions. If a property could be interpreted to fall into
+more than one category, the Town Engineer shall determine the applicable
+category.
+   CUSTOMER or CONSUMER. The person or entity to which a bill for stormwater
+service charges is sent. This may include the owner, occupant, or tenant of
+property, a homeowner's association with responsibility for property or for
+common areas associated with property, or a person or entity who has requested
+in writing to be billed for stormwater service charges for a property.
+   DEVELOPED LAND. Property that contains impervious surface and includes
+improved land without structures and land on which improvements are under
+construction through a valid building permit.
+   EQUIVALENT RESIDENTIAL UNIT (ERU). Two thousand five hundred square feet of
+impervious surface, which is the average amount of impervious surface on a
+single-family property in the town.
+   IMPERVIOUS SURFACE. A surface which, because of its composition or compacted
+nature, impedes or prevents natural infiltration of water into the soil,
+including, but not limited to, roofs, solid decks, driveways, patios,
+sidewalks, parking areas, tennis courts, concrete or asphalt streets, or
+compacted gravel surfaces. Wooden slatted decks and the water area of swimming
+pools are considered pervious.
+   OTHER RESIDENTIAL AND NONRESIDENTIAL LAND. Any developed land not fitting
+the definition of a residential unit. It includes but is not limited to land
+upon which there are located parking lots and streets and land containing
+improvements under construction or impervious surfaces that are not structures.
+   PROPERTY OWNER or OWNER. The owner of a parcel of land as shown on the
+Gaston County tax records.
+   RESIDENTIAL UNIT. Any structure or portion of a structure that is used as an
+individual residence, including, but not limited to, a single family house, a
+manufactured home, a townhome, a condominium, or an apartment, provided that
+such structure or portion thereof has a separate utility account for service
+provided thereto. A utility account shall include any account with any water,
+sewer or electric service provider.
+   STORMWATER. The runoff from precipitation that travels over natural or
+developed surfaces to the nearest stream, other conduit, or impoundment and
+appears in lakes, rivers, ponds, or other bodies of water.
+   STORMWATER INFRASTRUCTURE SERVICES. Town activities related to the mapping,
+planning, review, construction, operation, cleaning, maintenance, inspection,
+and regulation of the stormwater system.
+   STORMWATER ADMINISTRATOR. The person designated by the town to manage
+stormwater services and who is charged with certain duties and responsibilities
+by this chapter, or that person's duly authorized representative.
+   STORMWATER SYSTEM or STORM SEWER SYSTEM. The system of natural and
+constructed devices for collecting and transporting stormwater. It includes,
+but is not limited to, lakes, ponds, rivers, creeks, open ditches, curbs,
+gutters, catch basins, pipes, sewers, drains, culverts, and other stormwater
+management facilities.
+   STORMWATER UTILITY FUNDS. The stormwater service charges and the interest
+generated by those charges.
+   TOWN. The Town of Cramerton, North Carolina, a municipal corporation
+chartered by the General Assembly of the State of North Carolina, and
+geographically located in Gaston County, North Carolina.
+(Ord. passed 7--2025)
+**** ESTABLISHMENT OF STORMWATER SERVICE CHARGES AND CREDITS ****
+§ 155.20 ACTIVITIES OF THE STORMWATER SERVICES DEPARTMENT.
+   The Stormwater Services Department is responsible for the operation of
+stormwater management services. Stormwater service charges and interest
+generated by such charges shall be placed in a separate town account and shall
+be used by the Stormwater Services Department solely for the operational costs,
+indirect costs, debt principal and debt service, stormwater program management,
+and establishment of a reserve fund for stormwater management services. The
+Stormwater Services Department may use funds that do not consist of stormwater
+service charges or interest from such charges to provide other necessary
+stormwater services including, but not limited to, pollution control activities
+not related to infrastructure.
+(Ord. passed 7--2025)
+§ 155.21 STORMWATER SERVICE CHARGES.
+   All developed land in the town, whether public or private, shall be subject
+to a stormwater service charge. Exemptions shall not be allowed based on age,
+tax exemption, or other status of an individual or organization. The stormwater
+service charges shall be established by the Town Board of Commissioners.
+(Ord. passed 7--2025)
+**** MANAGEMENT OF POST-DEVELOPMENT STORMWATER RUNOFF ****
+§ 155.30 DEFINITIONS.
+   For the purposes of this subchapter, the following definitions shall apply
+unless the context clearly indicates or requires a different meaning.
+   BEST MANAGEMENT PRACTICE (BMP). A physical device designed to trap, settle
+out, or filter pollutants from stormwater runoff; to alter or reduce stormwater
+runoff velocity, amount, timing, or other characteristics; to approximate the
+predevelopment hydrology on a developed site; or to achieve any combination of
+these goals. Structural BMP includes physical practices such as constructed
+wetlands, vegetative practices, filter strips, grassed swales, and other
+methods installed or created on real property. "BMP" is synonymous with
+"structural practice", "stormwater control facility," "stormwater control
+practice," "stormwater treatment practice," "stormwater management practice,"
+"stormwater control measures," "structural stormwater treatment systems," and
+similar terms used in this subchapter.
+   BUILT-UPON AREA (BUA). That portion of a development project that is covered
+by impervious or partially impervious surface including, but not limited to,
+buildings; pavement and gravel areas such as roads, parking lots, and paths;
+and recreation facilities such as tennis courts. BUILT-UPON AREA does not
+include a wooden slatted deck, the water area of a swimming pool, or pervious
+or partially pervious paving material to the extent that the paving material
+absorbs water or allows water to infiltrate through the paving material.
+   DEPARTMENT. The North Carolina Department of Environment and Natural
+Resources, more specifically the Department of Water Quality.
+   DESIGN MANUAL. The latest published edition or revision of the manual
+developed by the town to provide technical guidance in the execution of this
+chapter.
+   DEVELOPMENT. Any land disturbing activity which adds to or changes the
+amount of impervious or partially pervious cover on a land area or which
+otherwise decreases the infiltration of precipitation into the soil.
+DEVELOPMENT is synonymous with "project".
+   HIGH-DENSITY PROJECT. Any project that exceeds the low density threshold for
+dwelling units per acre or built-upon area or impervious surface.
+   LARGER COMMON PLAN OF DEVELOPMENT OR SALE. Any area where multiple separate
+and distinct construction or land disturbing activities will occur under one
+plan. A plan is any announcement or piece of documentation (including but not
+limited to a sign, public notice or hearing, sales pitch, advertisement, loan
+application, drawing, permit application, zoning request, or computer design)
+or physical demarcation (including but not limited to boundary signs, lot
+stakes, or surveyor markings) indicating that construction activities may occur
+on a specific plot.
+   LOW-DENSITY PROJECT. A project that has no more than one dwelling units per
+acre or 24% BUA for all residential and nonresidential development or 20,000
+square feet of new impervious surface.
+   ONE-YEAR, 24-HOUR STORM. A rainfall event of an intensity expected to be
+equaled or exceeded, on average, once in 12 months and with a duration of 24
+hours.
+   OWNER. The legal or beneficial owner of land, including but not limited to a
+mortgagee or vendee in possession, receiver, executor, trustee, or long-term or
+commercial lessee, or any other person or entity holding proprietary rights in
+the property or having legal power of management and control of the property.
+OWNER shall include long-term commercial tenants; management entities, such as
+those charged with or engaged in the management of properties for profit; and
+every person or entity having joint ownership of the property.
+   PEAK STORM. A rainfall event for a given return frequency that is of a rate
+and duration to create the maximum expected runoff for a site and return
+frequency.
+   PROJECT. The same as development.
+   REDEVELOPMENT. Any development on previously-developed land other than a
+rebuilding activity that results in no net increase in built-upon area and
+provides equal or greater stormwater control than the previous development.
+   SUBSTANTIAL PROGRESS. That one or more of the following construction
+activities toward the completion of a site or subdepartment plan has occurred:
+obtaining a grading permit and conducting grading activity on a continuous
+basis and not discontinued for more than 30 days; installation and approval of
+on-site infrastructure; or obtaining a building permit for the construction and
+approval of a building foundation.
+   TREATMENT SUM. The total sum of treatment efficiency of a series of BMPs
+acting on a stream of runoff. Each BMP applies its efficiency to the residual
+TSS of the preceding BMP.
+   TREATMENT TRAIN. The linking in series of two or more approved BMPs to
+aggregate the total suspended solids removal effects of those BMPs.
+   TREATMENT VOLUME. The volume generally equal to the accumulation of the
+runoff from a developed site, less the calculated runoff from the site prior to
+development, for one inch of rain.
+(Ord. passed 7--2025)
+§ 155.31 GENERAL PROVISIONS.
+   (A)   Authority. This subchapter is adopted pursuant to North Carolina law,
+including but not limited to Article 14, Section 5 of the Constitution of North
+Carolina; G.S. 143-214.7 and rules promulgated by the Environmental Management
+Commission thereunder; Session Law 2004-163; G.S. 160A-174 and 160A-185; as
+well as G.S. Ch. 113A, Art. 4 (Sedimentation Pollution Control); G.S. Ch. 143,
+Art. 21, part 6 (Floodway Regulation); and G.S. Ch. 160A, Art. 19 (Planning and
+Regulation of Development).
+   (B)   Purpose. The purpose of this subchapter is to protect, maintain and
+enhance the public health, safety, environment and general welfare by
+establishing minimum requirements and procedures to control the possible
+effects of increased post-development stormwater runoff and nonpoint and point
+source pollution associated with new development.
+   (C)   Applicability. Beginning with and subsequent to its effective date,
+this subchapter shall be applicable to all development, including, but not
+limited to, site plan applications, subdepartment applications, and grading
+applications, unless exempt pursuant to division (D) below.
+No development for which a permit is required pursuant to this subchapter shall
+occur except in compliance with the provisions, conditions, and limitations of
+the permit.
+   (D)   Exemptions. The following activities shall be exempt from the
+requirements of this subchapter.
+      (1)   Low-density projects; and
+      (2)   Activities that are exempt from permit requirements of § 404 of the
+Federal Clean Water Act, as specified in 40 CFR 232 (primarily, ongoing farming
+and forestry activities) are exempt from the provisions of this subchapter.
+   (E)   Map. The provisions of this subchapter shall apply within the areas
+designated on the map titled "Phase II Stormwater Map of the Town of Cramerton,
+North Carolina" ("the stormwater map"), which is adopted simultaneously
+herewith. The stormwater map and all explanatory matter contained thereon
+accompanies and is hereby made a part of this subchapter. The stormwater map
+shall be kept on file by the Stormwater Administrator and shall be regularly
+updated to take into account changes in the land area covered by this
+subchapter and the geographic location of all structural BMPs permitted under
+this subchapter. In the event of a dispute, the applicability of this
+subchapter to a particular area of land or BMP shall be determined by reference
+to the North Carolina Statutes, the North Carolina Administrative Code, and
+local zoning and jurisdictional boundary ordinances.
+   (F)   Interpretation.
+      (1)   In the event of a conflict or inconsistency between the text of
+this subchapter and any heading, caption, figure, illustration, table, or map,
+the text shall control.
+      (2)   The Stormwater Administrator has authority to determine the
+interpretation of this subchapter. Any person may request an interpretation by
+submitting a written request to the Stormwater Administrator who shall respond
+in writing within 30 days. The Stormwater Administrator shall keep on file a
+record of all written interpretations of this subchapter.
+      (3)   Any act authorized by this subchapter to be carried out by the
+Stormwater Administrator of the town may be carried out by his or her designee.
+   (G)   Design manual.
+      (1)   The Stormwater Administrator shall use the policy, criteria, and
+information, including technical specifications and standards, in the design
+manual as the basis for decisions about stormwater permits and about the
+design, implementation and performance of structural and nonstructural
+stormwater BMPs. The design manual includes a list of acceptable stormwater
+treatment practices, including the specific design criteria for each stormwater
+practice. Stormwater treatment practices that are designed, constructed, and
+maintained in accordance with these design and sizing criteria will be presumed
+to meet the minimum water quality performance standards of the Phase II laws.
+      (2)   If the specifications or guidelines of the design manual are more
+restrictive or apply a higher standard than other laws or regulations, that
+fact shall not prevent application of the specifications or guidelines in the
+design manual.
+      (3)   If the standards, specifications, guidelines, policies, criteria,
+or other information in the design manual are amended subsequent to the
+submittal of an application for approval pursuant to this subchapter but prior
+to approval, the new information shall control and shall be utilized in
+reviewing the application and in implementing this subchapter with regard to
+the application.
+   (H)   Relationship to other laws, rules and regulations.
+      (1)   This subchapter is not intended to modify or repeal any other
+ordinance, rule, regulation or other provision of law. The requirements of this
+subchapter are in addition to the requirements of any other ordinance, rule,
+regulation or other provision of law, and where any provision of this
+subchapter imposes restrictions different from those imposed by any other
+ordinance, rule, regulation or other provision of law, whichever provision is
+more restrictive or imposes higher protective standards for human or
+environmental health, safety, and welfare, shall control.
+      (2)   This subchapter is not intended to revoke or repeal any easement,
+covenant, or other private agreement. Nothing in this subchapter shall modify
+or repeal any private covenant or deed restriction, but such covenant or
+restriction shall not legitimize any failure to comply with this subchapter. In
+no case shall the town be obligated to enforce the provisions of any easements,
+covenants, or agreements between private parties.
+   (I)   Effective date and transitional provisions.
+      (1)   Plans that are approved for construction on or before the date this
+subchapter takes effect, or plans that have vested rights under the Town of
+Cramerton Code of Ordinances, are exempt from the provisions and requirements
+of this subchapter dealing with the control and/or management of post-
+construction runoff, but shall be required to comply with all other applicable
+provisions.
+      (2)   Any violation of provisions existing on the effective date of this
+subchapter shall continue to be a violation under this subchapter and be
+subject to penalties and enforcement under this subchapter unless the use,
+development, construction, or other activity complies with the provisions of
+this subchapter.
+(Ord. passed 7--2025)
+§ 155.32 STORMWATER COMMISSION.
+   (A)   The Stormwater Commission shall provide advice to the Mayor, Town
+Board of Commissioners and staff on matters relating to the various aspects of
+stormwater management in the town. The Commission shall be empowered to hear
+and make findings on appeals to the actions of the Stormwater Administrator,
+relative to this subchapter and other programs.
+   (B)   The town's Planning and Zoning Board shall act as the Stormwater
+Commission and shall operate under the existing Planning and Zoning Board's
+rules of procedure and membership rules.
+(Ord. passed 7--2025)
+§ 155.33 STORMWATER ADMINISTRATOR.
+   (A)   A Stormwater Administrator shall be designated by the Town Manager to
+administer and enforce this subchapter.
+   (B)   In addition to the powers and duties that may be conferred by other
+provisions of the Town of Cramerton Code of Ordinances and other laws, the
+Stormwater Administrator shall have the following powers and duties under this
+subchapter:
+      (1)   To review and approve, approve with conditions, or disapprove
+applications for approval of plans pursuant to this subchapter;
+      (2)   To make determinations and render interpretations of this
+subchapter;
+      (3)   To establish application requirements and schedules for submittal
+and review of applications and appeals; to review and make recommendations to
+the town on applications for development or redevelopment approvals;
+      (4)   To enforce the provisions of this subchapter in accordance with its
+enforcement provisions;
+      (5)   To maintain records, maps, and official materials as they relate to
+the adoption, amendment, enforcement, or administration of this subchapter;
+      (6)   To provide expertise and technical assistance to the Town Board of
+Commissioners and the Stormwater Commission, upon request; and
+      (7)   To take any other action necessary to administer the provisions of
+this subchapter.
+(Ord. passed 7--2025)
+§ 155.34 APPLICATIONS AND PERMITS.
+   (A)   A stormwater permit is required for all development unless exempt
+pursuant to this subchapter. A permit may only be issued subsequent to a
+properly submitted and reviewed permit application.
+   (B)   A stormwater permit shall govern the design, installation, and
+construction of stormwater management and control practices on the site,
+including structural BMPs and/or other elements of site design for stormwater
+management. The permit is intended to provide a mechanism for the review,
+approval, and inspection of the approach to be used for the management and
+control of stormwater. The permit does not continue in existence indefinitely
+after the completion of the project; rather, compliance after project
+construction is assured by the maintenance provisions of this subchapter.
+   (C)   All applications for permits required pursuant to this subchapter
+shall be submitted to the Stormwater Administrator by the landowner or the
+landowner's duly authorized agent.
+   (D)   Applications shall be submitted to the Stormwater Administrator
+pursuant to the application submittal schedule and in the form established by
+the Stormwater Administrator, along with the appropriate fee established
+pursuant to the town's fee schedule. An application shall be considered as
+timely submitted only when it contains all elements of a complete application
+pursuant to this subchapter. If the Stormwater Administrator finds that an
+application is incomplete, the applicant shall be notified of the deficient
+elements and shall be provided with an opportunity to submit a complete
+application. However, the submittal of an incomplete application shall not
+suffice to meet a deadline contained in the submission schedule established
+above.
+   (E)   Review of application. The Stormwater Administrator shall review the
+application and determine whether the applications complies with the standards
+of this subchapter.
+      (1)   If the application complies with the standards of this subchapter,
+the Stormwater Administrator shall approve the application and issue the
+stormwater permit. The Stormwater Administrator may impose conditions of
+approval as needed to ensure compliance with this subchapter. The conditions
+shall be included as part of the approval.
+         (a)   Approval authorizes the applicant to go forward with only the
+specific plans and activity authorized in the permit. The approval shall not be
+construed to exempt the applicant from obtaining other applicable approvals
+from local, state, and federal authorities.
+         (b)   An approved plan and permit shall become null and void if the
+applicant has failed to make substantial progress on the site in accordance
+with the permit within one year after the date of approval. The Stormwater
+Administrator may grant a single, one-year extension of this time limit, for
+good cause shown, upon receiving a written request from the applicant before
+the expiration of the approved plan. In granting an extension, the Stormwater
+Administrator may require compliance with standards adopted since the original
+application was submitted unless there has been substantial reliance on the
+original permit and the change in standards would infringe the applicant's
+vested rights.
+      (2)   If the Stormwater Administrator finds that the application fails to
+comply with the standards of this subchapter, the Stormwater Administrator
+shall notify the applicant and shall indicate how the application fails to
+comply. The applicant shall have an opportunity to submit a revised
+application.
+      (3)   A complete revised application shall be reviewed by the Stormwater
+Administrator after its resubmittal and shall be approved, approved with
+conditions, or disapproved. If a revised application is not resubmitted within
+60 calendar days from the date the applicant was notified, the application
+shall be considered withdrawn, and a new submittal for the same or
+substantially the same project shall be required along with the appropriate
+fee. One resubmittal of a revised application may be submitted without payment
+of an additional permit review fee. Any resubmittal after the first resubmittal
+shall be accompanied by a permit review fee.
+   (F)   The stormwater management permit application shall detail how post-
+development stormwater runoff will be controlled and managed and how the
+proposed project will meet the requirements of this subchapter. All plans
+included in the application shall be prepared by a qualified registered North
+Carolina professional engineer, surveyor, soil scientist or landscape
+architect. The submittal shall include all of the information required in the
+submittal checklist established by the Stormwater Administrator.
+(Ord. passed 7--2025)
+§ 155.35 PREAPPROVAL CONCEPT PLAN AND CONSULTATION MEETING.
+   At any time before a completed stormwater management permit application is
+submitted, the Stormwater Administrator or developer may request a consultation
+on a concept plan for the post-construction stormwater management system to be
+utilized, as well as to discuss and assess constraints, opportunities and
+potential approaches to stormwater management designs before formal site design
+engineering is commenced. To accomplish this goal the following information
+should be included in the concept plan, which should be submitted in advance of
+the meeting:
+   (A)   Existing conditions/proposed site plans. Existing conditions and
+proposed site layout sketch plans, which illustrate at a minimum: existing and
+proposed topography; perennial and intermittent streams and wetlands;
+boundaries of existing predominant vegetation and proposed limits of clearing
+and grading; and location of existing and proposed roads, buildings, parking
+areas and other impervious surfaces.
+   (B)   Natural resources inventory. A written or graphic inventory of the
+natural resources at the site and surrounding area, as it exists prior to the
+commencement of the project including soil conditions, forest cover, geologic
+features, and native vegetative areas on the site, as well as the location and
+boundaries of other natural feature protection and conservation areas such as
+lakes, ponds, floodplains, stream buffers and other setbacks (e.g., drinking
+water well setbacks, septic setbacks, and the like). Particular attention
+should be paid to environmentally sensitive features that provide particular
+opportunities or constraints for development.
+   (C)   Stormwater management system concept plan. A written or graphic
+concept plan of the proposed post-development stormwater management system
+including: preliminary selection and location of proposed structural stormwater
+controls; low impact design elements; location of existing and proposed
+conveyance systems such as grass channels, swales, and storm drains; flow
+paths; location of floodplain limits; relationship of site to upstream and
+downstream properties and drainages; and preliminary location of proposed
+stream channel modifications, such as bridge or culvert crossings.
+(Ord. passed 7--2025)
+§ 155.36 AS-BUILT PLANS AND FINAL APPROVAL.
+   (A)   Upon completion of a project, the applicant shall certify that the
+completed project is in accordance with the approved stormwater management
+plans and designs, and shall submit actual as-built plans for all stormwater
+management facilities or practices. The plans shall show the final design
+specifications for all stormwater management facilities and practices and the
+field location, size, depth, and planted vegetation of all measures, controls,
+and devices, as installed. The as-built drawings shall be accompanied by
+guidelines for the proper care and maintenance of each structural SCM. The
+designer of the stormwater management measures and plans shall certify, under
+seal, that the as-built stormwater measures, controls, and devices are in
+compliance with the approved stormwater management plans. A final inspection
+and approval by the Stormwater Administrator shall occur before the release of
+any performance securities.
+   (B)   No certificate of compliance or occupancy shall be issued by the town
+without final as-built plans and a final inspection and approval by the
+Stormwater Administrator. Where multiple units are served by the stormwater
+practice or facilities, the town may elect to withhold a percentage of permits
+or certificates of occupancy until as-built plans are submitted and final
+inspection and approval has occurred.
+(Ord. passed 7--2025)
+§ 155.37 APPEALS.
+   (A)   Any aggrieved person affected by any decision, order, requirement, or
+determination relating to the interpretation or application of this subchapter
+and made by the Stormwater Administrator may file an appeal to the Stormwater
+Commission within 30 days of the decision, order, requirement, or
+determination.
+   (B)   Appeals shall be taken within the specified time period by filing a
+notice of appeal and specifying the grounds for appeal on forms provided by
+town. The Stormwater Administrator shall forthwith transmit to the Stormwater
+Commission all documents constituting the record on which the
+decision appealed from was taken. The hearing conducted by the Stormwater
+Commission shall be conducted in the nature of a quasi-judicial proceeding with
+all findings of fact supported by competent, material evidence.
+   (C)   Every decision of the Stormwater Commission shall be subject to
+superior court review by proceedings in the nature of certiorari. Petition for
+review by the superior court shall be filed with the clerk of superior court
+within 30 days after the latter of the following:
+      (1)   The decision of the Stormwater Commission is filed; or
+      (2)   A written copy thereof is delivered to every aggrieved party who
+has filed a written request for such copy with the Stormwater Commission chair
+at the time of its hearing of the case.
+(Ord. passed 7--2025)
+§ 155.38 STANDARDS.
+   (A)   General standards.
+      (1)   All development to which this subchapter applies shall be at a
+minimum 100 feet landward of all perennial and intermittent surface waters. A
+perennial or intermittent surface water shall be present if the feature is
+approximately shown on either the most recent version of the soil survey map
+prepared by the Natural Resources Conservation Service of the United States
+Department of Agriculture or the most recent version of the 1:24,000 scale (7.5
+minute) quadrangle topographic maps prepared by the United States Geologic
+Survey (USGS). An exception to this requirement may be allowed when surface
+waters are not present in accordance with the provisions of 15A NCAC 2B .0233
+(3)(a) or similar site-specific determination made using Department-approved
+methodology.
+      (2)   The location and design of flood control and stormwater detention
+structures and devices shall be shown on the site plan. The structures,
+devices, and methods used shall be planned, designed, constructed, and
+maintained so as to provide effective protection from the peak runoff rates as
+defined herein.
+   (B)   Development standards for low-density projects. Low-density projects
+shall comply with each of the following standards:
+      (1)   Stormwater runoff from the development shall be transported from
+the development by vegetated conveyances to the maximum extent practicable.
+      (2)   The approval of the stormwater permit shall require an enforceable
+restriction on property usage that runs with the land, such as a recorded deed
+restriction or protective covenants, to ensure that future development
+maintains the site consistent with the approved project plans.
+   (C)   Development standards for high-density projects. High-density projects
+shall implement stormwater control measures that comply with the following
+standards:
+      (1)   Water quality standard. The measures shall control and treat the
+difference in stormwater runoff volume leaving the project site between the
+predevelopment and post-development conditions for, at a minimum, the first
+inch of rain.
+         (a)   Treatment volume drawdown time shall be a minimum of 48 hours,
+but not more than 96 hours.
+         (b)   The measures shall discharge the treatment volume at a rate
+equal to or less than the predevelopment discharge rate for the one-year, 24-
+hour storm.
+         (c)   All structural stormwater treatment systems used to meet the
+requirements of the program shall be designed to have a minimum of 85% average
+annual removal for total suspended solids (TSS) from the treatment volume; any
+system designed in compliance with the design manual shall be considered to
+have the TSS removal efficiency indicated in that manual. Treatment "trains"
+shall be considered to have removal efficiencies equal to the treatment sum of
+the various components of the "train".
+         (d)   General engineering design criteria for all projects shall be in
+accordance with 15A NCAC 2H .1008(c), as explained in the design manual.
+         (e)   The approval of the stormwater permit shall require an
+enforceable restriction on property usage that runs with the land, such as
+recorded deed restrictions or protective covenants, to ensure that future
+development maintains the site consistent with the approved project plans.
+         (f)   High-density projects shall control peak runoff for the ten-year
+and two-year storms, except in cases where the SCM is located within 1,000 feet
+of the waters of the United States, including any perennial or intermittent
+stream, river, or lake, in which case the SCM shall control peak runoff for the
+25-year and two-year storms. The impoundment of stormwater runoff may be
+incorporated in the design of open spaces, parking lots, loading areas,
+playgrounds, and building structures, provided the health, safety, and welfare
+of the public is not endangered.
+         (g)   Development located within the municipal services district as
+shown on the records of the tax collector for Gaston County shall not be
+subject to the requirements of this division (C). In the event the municipal
+services district is abolished, this exemption shall apply to the municipal
+services district as it existed as of the date on which it was abolished.
+   (D)   Development standards for stormwater control measures. Stormwater
+treatment practices that are designed, and constructed, and maintained in
+accordance with the criteria and specifications in the design manual will be
+presumed to meet the minimum water quality and quantity performance standards
+of this subchapter. Whenever an applicant proposes to utilize other practices,
+the applicant shall have the burden of demonstrating that the practice(s) will
+satisfy the minimum water quality and quantity performance standards of this
+subchapter.
+   (E)   Variances. Any person may petition the town for a variance, through
+the Stormwater Commission, granting permission to use the person's land in a
+manner otherwise prohibited by this subchapter. The town may impose reasonable
+and appropriate conditions and safeguards upon any variance it grants. To
+qualify for a variance, the petitioner must show all of the following:
+      (1)   Unnecessary hardships would result from strict application of this
+subchapter;
+      (2)   The hardships result from conditions that are peculiar to the
+property, such as the location, size, or topography of the property;
+      (3)   The hardships did not result from actions taken by the petitioner;
+and
+      (4)   The requested variance is consistent with the spirit, purpose, and
+intent of this subchapter; will secure public safety and welfare; and will
+preserve substantial justice.
+(Ord. passed 7--2025)
+§ 155.39 ON-SITE WASTEWATER.
+   New and replaced on-site systems for domestic wastewater installed after the
+effective date of this subchapter shall comply with all rules, regulations, and
+design and operation criteria indicated by the Gaston County Health Department.
+Any violation of those standards shall also be a violation of any stormwater
+permit or operation and maintenance agreement with the town.
+(Ord. passed 7--2025)
+§ 155.40 GENERAL STANDARDS FOR MAINTENANCE OF BMPS.
+   (A)   The owner of each structural BMP installed pursuant to this subchapter
+shall maintain and operate it so as to preserve and continue its function in
+controlling stormwater quality and quantity at the degree or amount of function
+for which the structural BMP was designed.
+   (B)   Annually, not more than 30 days before the anniversary of the
+operation and maintenance agreement, the owner and/or the person responsible
+for maintenance of any structural BMP installed pursuant to this subchapter
+shall submit to the Stormwater Administrator an inspection report from a person
+licensed or otherwise qualified to provide such a report. This shall include
+engineers, surveyors, or landscape architects licensed in the State of North
+Carolina or persons certified by the North Carolina State University Biological
+and Agricultural Engineering Department. The inspection report shall contain
+the following:
+      (1)   The name and address of the landowner;
+      (2)   The name and address of the person(s) responsible for the
+maintenance if different from the owner;
+      (3)   The town site plan number for the site of each structural BMP;
+      (4)   A statement that an inspection was made of all structural BMPs;
+      (5)   The date the inspection was made;
+      (6)   A statement that all inspected structural BMPs are performing
+properly and are in compliance with the terms and conditions of the approved
+maintenance agreement required by this subchapter; and
+      (7)   The original signature and seal of the engineer, surveyor,
+landscape architect, or certified inspector. All inspection reports shall be on
+forms supplied by the Stormwater Administrator.
+   (C)   Inspection program. Inspection programs by the town may be conducted
+or established on any reasonable basis, including but not limited to routine
+inspections; random inspections; inspections based upon complaints or other
+notice of possible violations; and joint inspections with other agencies
+inspecting under environmental or safety laws. Inspections may include, but are
+not limited to, reviewing maintenance and repair records and evaluating the
+condition of BMPs. If the owner or occupant of any property refuses to permit
+such inspection, the Stormwater Administrator shall proceed to obtain an
+administrative search warrant pursuant to G.S. 15-27.2 or its successor. No
+person shall obstruct, hamper or interfere with the Stormwater Administrator
+while carrying out his or her official duties.
+   (D)   Every structural BMP installed pursuant to this subchapter shall be
+made accessible for adequate maintenance and repair by a maintenance easement.
+The easement shall be recorded and its terms shall specify who may make use of
+the easement and for what purposes.
+(Ord. passed 7--2025)
+§ 155.41 OPERATION AND MAINTENANCE AGREEMENT.
+   (A)   In general. Prior to the issuance of a certificate of occupancy for
+any lot or building site to be served by a structural BMP pursuant to this
+subchapter, the applicant or owner of the site must execute an operation and
+maintenance agreement that shall be binding on all subsequent owners of the
+site, portions of the site, and lots or parcels served by the structural BMP.
+The operation and maintenance agreement shall require the owner or owners to
+maintain, repair and, if necessary, reconstruct the structural BMP. In
+addition, it shall grant to the town a right of entry in the event that the
+Stormwater Administrator has reason to believe it has become necessary to
+inspect or monitor the structural BMP; however, in no case shall the right of
+entry, of itself, confer an obligation on the town to assume responsibility for
+the structural BMP. The operation and maintenance agreement must be approved by
+the Stormwater Administrator prior to plan approval, and it shall be referenced
+on the final plat.
+   (B)   Special requirement for homeowners' and other associations. For all
+structural BMPs required pursuant to this subchapter and that are to be or are
+owned and maintained by a homeowners' association, property owners'
+association, or similar entity, the required operation and maintenance
+agreement shall include all of the following provisions:
+      (1)   Acknowledgment that the association shall continuously operate and
+maintain the stormwater control and management facilities.
+      (2)   Establishment of an escrow account, which can be spent solely for
+sediment removal, structural, biological or vegetative replacement, repair, or
+reconstruction of the structural BMPs. If structural BMPs are not performing
+adequately or as intended or are not properly maintained, the town, in its sole
+discretion, may remedy the situation, and in such instances the town shall be
+fully reimbursed from the escrow account. Escrowed funds may be spent by the
+association provided that the town shall first consent to the expenditure.
+      (3)   A statement granting to the town a right of entry to inspect and
+monitor structural BMPs.
+      (4)   A statement that this agreement shall not obligate the town to
+maintain or repair any structural BMPs, and the town shall not be liable to any
+person for the condition or operation of structural BMPs.
+      (5)   A statement that this agreement shall not in any way diminish,
+limit, or restrict the right of the town to enforce any of its ordinances as
+authorized by law.
+      (6)   A provision indemnifying and holding harmless the town for any
+costs and injuries arising from or related to the structural BMP.
+(Ord. passed 7--2025)
+§ 155.42 PERFORMANCE SECURITY FOR INSTALLATION AND/OR MAINTENANCE.
+   (A)   Performance security. The town may, at its discretion, require the
+submittal of a performance security or bond with surety, cash escrow, letter of
+credit or other acceptable legal arrangement prior to issuance of a permit in
+order to ensure that the structural BMPs are installed by the permit holder and
+subsequently maintained as required by the approved stormwater management plan.
+   (B)   Amount.
+      (1)   Installation. The amount of an installation performance security
+shall be the total estimated construction cost of the BMPs approved under the
+permit, plus 25%.
+      (2)   Maintenance. The amount of a maintenance performance security shall
+be the present value of an annuity of perpetual duration based on a reasonable
+estimate of the annual cost of inspection, operation and maintenance of the
+BMPs approved under the permit, at a discount rate that reflects the
+jurisdiction's cost of borrowing minus a reasonable estimate of long-term
+inflation.
+   (C)   Uses of performance security. Upon default of the owner to construct,
+maintain, repair and, if necessary, reconstruct any structural BMP in
+accordance with the applicable permit or operation and maintenance agreement,
+the Stormwater Administrator shall obtain and use all or any portion of the
+security to make necessary improvements based on an engineering estimate. Such
+expenditure of funds shall only be made after requesting that the owner comply
+with the permit or maintenance agreement. In the event of a default triggering
+the use of installation performance security, the town shall not return any of
+the unused deposited cash funds or other security, which shall be retained for
+maintenance.
+   (D)   Reasonable cost. If the town takes action upon such failure by the
+applicant or owner, the town may collect from the applicant or owner for the
+difference should the amount of the reasonable cost of such action exceed the
+amount of the security held.
+   (E)   Refunds. Within 60 days of the final approval, the installation
+performance security shall be refunded to the applicant or terminated, with the
+exception of any amount attributable to the cost (plus 25%) of landscaping
+installation.
+(Ord. passed 7--2025)
+§ 155.43 DEED RECORDATION AND INDICATIONS ON PLAT.
+   The applicable operations and maintenance agreement, pertaining to every
+structural BMP, shall be referenced on the final plat and shall be recorded
+with the County Register of Deeds upon final plat approval. If no subdepartment
+plat is recorded for the site, then the operations and maintenance agreement
+shall be recorded with the County Register of Deeds so as to appear in the
+chain of title of all subsequent purchasers under generally accepted searching
+principles.
+(Ord. passed 7--2025)
+§ 155.44 RECORDS OF INSTALLATION AND MAINTENANCE ACTIVITIES.
+   The owner of each structural BMP shall keep records of inspections,
+maintenance, and repairs for at least five years from the date of creation of
+the record and shall submit the same upon reasonable request to the Stormwater
+Administrator.
+(Ord. passed 7--2025)
+§ 155.45 NUISANCE.
+   The owner of each stormwater BMP shall maintain it so as not to create or
+result in a nuisance condition.
+(Ord. passed 7--2025)
+§ 155.46 VIOLATION OF CHAPTER.
+   (A)   The provisions of this subchapter shall be enforced by the Stormwater
+Administrator, his or her designee, or any other authorized agent of the town.
+Whenever this subchapter refers to the Stormwater Administrator, it includes
+his or her designee as well as any authorized agent of the town.
+   (B)   Any failure to comply with an applicable requirement, prohibition,
+standard, or limitation imposed by this subchapter, or the terms or conditions
+of any permit or other development approval or authorization granted pursuant
+to this subchapter, is unlawful and shall constitute a violation of this
+subchapter.
+   (C)   Each day that a violation continues shall constitute a separate and
+distinct violation or offense.
+   (D)   Any person who erects, constructs, reconstructs, alters (whether
+actively or passively), or fails to erect, construct, reconstruct, alter,
+repair or maintain any structure, BMP, practice, or condition in violation of
+this subchapter shall be subject to the remedies, penalties, and/or enforcement
+actions. For the purposes of this chapter, responsible person(s) shall include
+but not be limited to:
+      (1)   An architect, engineer, builder, contractor, developer, agency, or
+any other person who participates in, assists, directs, creates, causes, or
+maintains a condition that constitutes a violation of this subchapter, or fails
+to take appropriate action, so that a violation of this subchapter results or
+persists.
+      (2)   The owner of the land on which the violation occurs, any tenant or
+occupant of the property, any person, entity, agency, or association who is
+responsible for stormwater controls or practices pursuant to a private
+agreement or public document, or any person, who has control over, or
+responsibility for, the use, development of the property.
+(Ord. passed 7--2025)
+§ 155.47 PENALTIES AND REMEDIES.
+   (A)   Provisions. The remedies and penalties provided for violations of this
+subchapter, whether civil or criminal, shall be cumulative and in addition to
+any other remedy provided by law, and may be exercised in any order.
+   (B)   Remedies.
+      (1)   The Stormwater Administrator or other authorized agent may refuse
+to issue a certificate of occupancy for the building or other improvements
+constructed or being constructed on the site and served by the stormwater
+practices in question until the applicant or other responsible person has taken
+the remedial measures set forth in the notice of violation or has otherwise
+cured the violations described therein.
+      (2)   As long as a violation of this subchapter continues and remains
+uncorrected, the town may deny any request for permit or development approval
+or authorization provided for by this subchapter or the zoning ordinance for
+the land on which the violation occurs.
+      (3)   The Stormwater Administrator, with the written authorization of the
+Town Manager, may institute an action in a court of competent jurisdiction for
+a mandatory or prohibitory injunction and order of abatement to correct a
+violation of this subchapter. Any person violating this subchapter shall be
+subject to the full range of equitable remedies provided in the General
+Statutes or at common law.
+      (4)   If the violation is deemed dangerous or prejudicial to the public
+health or public safety and is within the geographic limits prescribed by G.S.
+160A-193, the Stormwater Administrator, with the written authorization of the
+Town Manager, may cause the violation to be corrected and the costs to be
+assessed as a lien against the property.
+      (5)   The Stormwater Administrator may issue a stop work order to the
+person(s) violating this subchapter. The stop work order shall remain in effect
+until the person has taken the remedial measures set forth in the notice of
+violation or has otherwise cured the violation or violations described therein.
+The stop work order may be withdrawn or modified to enable the person to take
+the necessary remedial measures to cure such violation or violations.
+   (C)   Civil penalties. Violation of this subchapter may subject the violator
+to a civil penalty to be recovered in a civil action in the nature of a debt if
+the violator does not pay the penalty within 30 days after notice of the
+violation is issued by the Stormwater Administrator. Civil penalties may be
+assessed up to the full amount of penalty to which the town is subject for
+violations of its Phase II stormwater permit.
+(Ord. passed 7--2025)
+§ 155.48 PROCEDURES.
+   (A)   Initiation/complaint. Whenever a violation of this chapter occurs, or
+is alleged to have occurred, any person may file a written complaint. Such
+complaint shall state fully the alleged violation and the basis therof, and
+shall be filed with the Stormwater Administrator, who shall record the
+complaint. The complaint shall be investigated promptly by the Stormwater
+Administrator.
+   (B)   Inspection. The Stormwater Administrator shall have authority, upon
+presentation of proper credentials, to enter and inspect any land, building,
+structure, or premises to ensure compliance with this chapter.
+   (C)   Notice of violation and order to correct. When the Stormwater
+Administrator finds that any building, structure, or land is in violation of
+this subchapter, the Stormwater Administrator shall notify, in writing, the
+property owner or other person violating this subchapter. The notification
+shall indicate the nature of the violation, contain the address or other
+description of the site upon which the violation is occurring, order the
+necessary action to abate the violation, and give a deadline for correcting the
+violation. If civil penalties are to be assessed, the notice of violation shall
+also contain a statement of the civil penalties to be assessed, the time of
+their accrual, and the time within which they must be paid or be subject to
+collection as a debt. The Stormwater Administrator may deliver the notice of
+violation and correction order personally, by officers of the town Police
+Department, or officers of the Code Enforcement Department, by certified or
+registered mail, return receipt requested, or by any means authorized for the
+service of documents by Rule 4 of the North Carolina Rules of Civil Procedure.
+If a violation is not corrected within a reasonable period of time, as provided
+in the notification, the Stormwater Administrator may take appropriate action
+under this subchapter to correct and abate the violation and to ensure
+compliance with this subchapter.
+   (D)   Extension of time. A person who receives a notice of violation and
+correction order, or the owner of the land on which the violation occurs, may
+submit to the Stormwater Administrator a written request for an extension of
+time for correction of the violation. On determining that the request includes
+enough information to show that the violation cannot be corrected within the
+specified time limit for reasons beyond the control of the person requesting
+the extension, the Stormwater Administrator may extend the time limit as is
+reasonably necessary to allow timely correction of the violation, up to, but
+not exceeding 90 days. The Stormwater Administrator may grant extensions of up
+to 30 days in addition to the foregoing extension if the violation cannot be
+corrected within the permitted time due to circumstances beyond the control of
+the person violating this subchapter. The Stormwater Administrator may grant an
+extension only by written notice of extension. The notice of extension shall
+state the date prior to which correction must be made, after which the violator
+will be subject to the penalties described in the notice of violation and
+correction order.
+   (E)   Enforcement after time to correct. After the time has expired to
+correct a violation, including any extension(s) if authorized by the Stormwater
+Administrator, the Stormwater Administrator shall determine if the violation is
+corrected. If the violation is not corrected, the Stormwater Administrator may
+act to impose one or more of the remedies and penalties authorized by this
+chapter.
+   (F)   Emergency enforcement. If a delay in correcting a violation would
+seriously threaten the effective enforcement of this subchapter or pose an
+immediate danger to the public health, safety, or welfare, then the Stormwater
+Administrator may order the immediate cessation of a violation. Any person so
+ordered shall cease any violation immediately. The Stormwater Administrator may
+seek immediate enforcement, without prior written notice, through any remedy or
+penalty authorized by this chapter.
+(Ord. passed 7--2025)
+**** STORMWATER POLLUTION ****
+§ 155.60 PURPOSE.
+   The purpose of this subchapter is to provide for the health, safety, and
+general welfare of the citizens of the town through the regulation of non-
+stormwater discharges to the storm drainage system to the maximum extent
+practicable as required by federal and state law. This subchapter establishes
+methods for controlling the introduction of pollutants into the municipal
+separate storm sewer system in order to comply with requirements of the
+National Pollutant Discharge Elimination System (NPDES) permit process. The
+objectives of this subchapter are:
+   (A)   To regulate the contribution of pollutants to the municipal separate
+storm sewer system by stormwater discharges by any user;
+   (B)   To prohibit illicit connections and discharges to the municipal
+separate storm sewer system; and
+   (C)   To establish legal authority to carry out all inspection and
+monitoring procedures necessary to ensure compliance with this subchapter.
+(Ord. passed 7--2025)
+§ 155.61 DEFINITIONS.
+   For the purposes of this subchapter, the following definitions shall apply
+unless the context clearly indicates or requires a different meaning.
+   CHARITY VEHICLE WASHING. Vehicle washing performed to raise money to be used
+for purposes other than making a profit.
+   DISCHARGE or DISCHARGED. The addition, release, or disposal of non-
+stormwater or any pollutant, whether in solid, liquid, or gaseous form, either
+directly or indirectly to the stormwater system or the waters of the state.
+   ILLICIT CONNECTION. Any physical connection, actual or potential flow
+discharge, or other condition that could allow non-stormwater or a pollutant to
+enter the stormwater system or the waters of the state. Examples of illicit
+connection include, but are not limited to: wastewater lines such as those from
+washing machines or sanitary sewers; and pipes, drains, hoses, ditches,
+troughs, and the like. Carrying wastewater, washwater or any other non-
+stormwater or pollutant from a facility, dwelling, building, vehicle,
+operation, or property, except as allowed pursuant to §
+155.62(A).
+   ILLICIT DISCHARGE. Any discharge not composed entirely of stormwater that
+may directly or indirectly enter the stormwater system or the waters of the
+state, except as allowed pursuant to §
+155.62(A). Examples of illicit discharge include, but are not limited to: oil;
+grease; household and industrial chemical waste; sanitary sewage; wastewater;
+paint; paint washwater; garbage; yard waste; animal waste; food waste; cooking
+oil/grease; swimming pool/hot tub/spa water containing pollutants; concrete;
+concrete equipment washwater; commercial vehicle washwater; heated water;
+soaps/detergents; sediment/silt or any other discarded or abandoned substances
+or waste materials.
+   INCIDENTAL. Occurring by chance or without intention or calculation; also,
+occasional, minor, casual or subordinate in significance or nature.
+   NON-STORMWATER. Any flow that is not from a form of natural precipitation.
+   PERSON(S). Any individual, partnership, firm, association, agency, joint
+venture, company, trust, estate, corporation, board, cooperative, interstate
+body, commission, institution, utility, governmental entity, NPDES permittee,
+or other legal entity or their legal representatives, agents or assigns.
+   POLLUTANT. Any substance that alters the chemical, physical, biological,
+thermal and/or radiological integrity of water.
+   UNCONTAMINATED. Not containing any pollutants.
+   WASHWATER. A subset of wastewater and means any water or liquid discharged
+after and as a result of conducting washing or cleaning activity.
+   WASTEWATER. Any water or other liquid, other than uncontaminated stormwater
+or uncontaminated potable water, discharged after use. Examples of wastewater
+include but are not limited to: water discharged after use generally for
+industrial or manufacturing process; sewage treatment; or water used for
+washing, flushing, or cleaning.
+   WATERS OF THE STATE. As defined in G.S. 143-212(6) as may be amended from
+time to time in compliance with federal and state law.
+(Ord. passed 7--2025)
+§ 155.62 ILLICIT DISCHARGES.
+   (A)   No person shall cause or allow the discharge, emission, disposal,
+pouring, or pumping directly or indirectly to any stormwater conveyance, waters
+of the state, or upon the land in manner and amount that the substance is
+likely to reach a stormwater conveyance or the waters of the state, any liquid,
+solid, gas, or other substance other than stormwater; provided that non-
+stormwater discharges associated with the following activities are allowed and
+provided that they do not significantly impact water quality:
+      (1)   Water line and fire hydrant flushing;
+      (2)   Landscape irrigation;
+      (3)   Diverted stream flows;
+      (4)   Rising ground waters;
+      (5)   Uncontaminated ground water infiltration (as defined at 40 CFR
+35.2005(20));
+      (6)   Uncontaminated pumped ground water;
+      (7)   Discharges from potable water sources;
+      (8)   Foundation drains;
+      (9)   Air conditioning condensation;
+      (10)   Irrigation water;
+      (11)   Springs;
+      (12)   Water from crawl space pumps;
+      (13)   Footing drains;
+      (14)   Lawn watering;
+      (15)   Residential and charity car washing;
+      (16)   Flows from riparian habitats and wetlands;
+      (17)   Dechlorinated swimming pool discharges;
+      (18)   Street wash water;
+      (19)   Flows from firefighting activities; and
+      (20)   Other non-stormwater discharges for which a valid NPDES discharge
+permit has been approved and issued by the state of North Carolina, and
+provided that any such discharges to the municipal separate storm sewer system
+shall be authorized by the town.
+   (B)   Prohibited substances include but are not limited to: oil, anti-
+freeze, chemical, animal waste, paints, garbage, and litter.
+(Ord. passed 7--2025)
+§ 155.63 ILLICIT CONNECTIONS.
+   (A)   Connections to a stormwater conveyance or stormwater conveyance system
+that allow the discharge of non-stormwater, other than the exclusions described
+in §
+155.62(A), are unlawful. Prohibited connections include, but are not limited
+to: floor drains, wastewater from washing machines or sanitary sewers, wash
+water from commercial vehicle washing or steam cleaning, and wastewater from
+septic systems.
+   (B)   Where such connections exist in violation of this section and said
+connections were made prior to the adoption of this provision or any other
+ordinance prohibiting such connections, the property owner or person using said
+connection shall remove the connection within one year following the effective
+date of this chapter. However, the one-year grace period shall not apply to
+connections which may result in the discharge of hazardous material or other
+discharges which pose an immediate threat to health and safety, or are likely
+to result in immediate injury and harm to real or personal property, natural
+resources, wildlife, or habitat.
+   (C)   (1)   Where it is determined that said connection is any of the
+following, the non-stormwater connection shall be removed:
+         (a)   May result in the discharge of hazardous materials or may pose
+an immediate threat to health and safety, or is likely to result in immediate
+injury and harm to real or personal property, natural resources, wildlife, or
+habitat; or
+         (b)   Was made in violation of any applicable regulations or
+ordinance, other than this section.
+      (2)   In setting the time limit for compliance, the Stormwater
+Administrator shall take into consideration:
+         (a)   The quantity and complexity of the work;
+         (b)   The consequences of delay;
+         (c)   The potential harm to the environment, to public health, and to
+public and private property; and
+         (d)   The cost of remedying the damage.
+(Ord. passed 7--2025)
+§ 155.64 SPILLS.
+   (A)   Spills. Spills or leaks of polluting substances released, discharged
+to, or having the potential to be released or discharged to a stormwater
+conveyance system, shall be contained, controlled, collected, and properly
+disposed. All affected areas shall be restored to preexisting conditions.
+   (B)   Persons in control of the polluting substances and persons owning the
+property on which the substances were released or discharged shall immediately
+notify the Cramerton Fire Department of the release or discharge, as well as
+making any required notifications under state and federal law. Notification
+shall not relieve any person of any expenses related to restoration, loss,
+damage, or any other liability which may be incurred as a result of said spill
+or leak, nor shall such notification relieve any person from other liability
+which may be imposed by state or other law.
+(Ord. passed 7--2025)
+§ 155.65 IMPROPER STORAGE, HANDLING, OR PROCESSING OF MATERIALS.
+   No person shall store, handle, or process any material upon the land in any
+manner or method that would allow the material to deposit a pollutant upon the
+land which may become intermixed with stormwater entering the stormwater system
+or the waters of the state.
+(Ord. passed 7--2025)
+§ 155.66 INDUSTRIAL OR CONSTRUCTION ACTIVITY DISCHARGES.
+   Any person subject to an industrial or construction activity NPDES
+stormwater discharge permit shall comply with all provisions of such permit.
+Proof of compliance with said permit may be required in a form acceptable to
+the town prior to the allowing of discharges to the stormwater system.
+(Ord. passed 7--2025)
+§ 155.67 RIGHT OF ENTRY.
+   (A)   Authority to inspect. Whenever necessary to make an inspection to
+enforce any provision of this subchapter, or whenever the Town of Cramerton
+Stormwater Department has cause to believe that there exists, or potentially
+exists, in or upon any premises any condition which constitutes a violation of
+this subchapter, the Town of Cramerton Stormwater Department may enter such
+premises at all reasonable times to inspect the same and to inspect and copy
+records related to stormwater compliance. In the event the owner or occupant
+refuses entry after a request to enter and inspect has been made, the town is
+hereby empowered to seek assistance from any court of competent jurisdiction in
+obtaining such entry.
+   (B)   Authority to sample, establish sampling devices and test. During any
+inspection as provided herein, the Town of Cramerton Stormwater Department may
+take any samples and perform any testing deemed necessary to aid in the pursuit
+of the inquiry or to record site activities.
+(Ord. passed 7--2025)
+§ 155.68 ENFORCEMENT AND PENALTIES.
+   (A)   Remedies not limited. The remedies provided herein are not exclusive;
+may be exercised singly, simultaneously, or cumulatively; may be combined with
+any other remedies authorized under the law; and may be exercised in any order.
+   (B)   Notice of violation.
+      (1)   Whenever the Town of Cramerton Stormwater Department finds that a
+person has violated a prohibition or failed to meet a requirement of this
+subchapter, the Town of Cramerton Stormwater Department may order compliance by
+written notice of violation to the responsible person. Such notice may require
+without limitation:
+         (a)   The performance of monitoring, analyses, and reporting;
+         (b)   The elimination of illicit connections or discharges;
+         (c)   That violating discharges, practices, or operations shall cease
+and desist;
+         (d)   The abatement or remediation of stormwater pollution or
+contamination hazards and the restoration of any affected property;
+         (e)   Payment of fines set forth in division (C) below; and/or
+         (f)   The implementation of source control or treatment BMPs.
+      (2)   If abatement of a violation and/or restoration of affected property
+is required, the notice shall set forth a deadline within which such
+remediation or restoration must be completed. Said notice shall further advise
+that, should the violator fail to remediate or restore within the established
+deadline, the work will be done by the town or a contractor designated by the
+Town of Cramerton Stormwater Department and the expense thereof shall be
+charged to the violator.
+      (3)   Service. The notice may be served by United States Postal Service
+certified mail, United States Postal Service regular mail, special service
+delivery, hand delivery, or by any means authorized under G.S. 1A-1, Rule 4 of
+the North Carolina Rules of Civil Procedure. Refusal to accept the notice shall
+not relieve the violator's obligation to comply with this subchapter.
+   (C)   Penalties.
+      (1)    Any person who conducts an act or action, allows directly or
+indirectly, acts in concert with, participates, directs, or assists directly or
+indirectly in the creation of a violation of this subchapter is subject to a
+civil penalty. A civil penalty may be assessed for the time period from the
+date the violation first occurs until the date that the violation ceases, as
+verified by the Stormwater Administrator.
+      (2)   The maximum civil penalty for each violation of this subchapter is
+$10,000 per day. Each day of violation shall constitute a separate violation.
+      (3)   Except in emergencies, as described in division (D) below, no
+penalty shall be assessed until the person alleged to be in violation has been
+served written notice of the violation as described in division (B) above.
+Refusal to accept the notice shall not relieve the violator of the obligation
+to pay such penalty.
+      (4)   Penalties may be assessed concurrently with a notice of violation
+for any of the following:
+         (a)   Obstructing, hampering or interfering with the Stormwater
+Administrator who is in the process of carrying out official duties under this
+subchapter;
+         (b)   A repeated or continuing violation for which a notice of
+violation was previously served to the person responsible for the violation; or
+         (c)   Willful or intentional violation of this subchapter.
+      (5)   In determining the amount of a civil penalty, the Stormwater
+Administrator shall consider any relevant aggravating and mitigating factors
+including, but not limited to the following:
+         (a)   Degree and extent of harm caused by the violation;
+         (b)   Whether money was or could have been saved by non-compliance;
+         (c)   Whether the violation was committed willfully or intentionally;
+         (d)   Prior record of the violator in complying or failing to comply
+with this subchapter or any other water pollution control ordinance or
+regulation;
+         (e)   Cost of rectifying the damage;
+         (f)   Whether the violator took reasonable measures to comply with
+this subchapter;
+         (g)   Knowledge of the requirements by the violator and/or reasonable
+opportunity or obligation to obtain such knowledge;
+         (h)   Whether the violator voluntarily took reasonable measures to
+restore any areas damaged by the violation;
+         (i)   Whether the violator reported the violation to the Stormwater
+Administrator or other appropriate authority; and
+         (j)   Technical and economic reasonableness of reducing or eliminating
+the violation.
+      (6)   The Stormwater Administrator shall determine the amount of the
+civil penalty, including town administration costs, to be assessed under this
+section and shall make written demand for payment upon the person in violation
+and shall set forth a description of the violation for which the penalty was
+imposed. Notice of said civil penalty assessment shall be issued pursuant to
+division (B)(3) above. If a violator does not pay a civil penalty assessed by
+the Stormwater Administrator within 30 days after it is due, or does not
+request a hearing as provided pursuant to §
+155.69, the Stormwater Administrator may request the Town Attorney to institute
+a civil action to recover the amount of the civil penalty. The civil action
+shall be brought in Gaston County Superior Court or in any other court of
+competent jurisdiction. Such civil actions must be filed within three years of
+the date the notice of civil penalty assessment was served on the violator.
+      (7)   A civil penalty assessment that is not contested is due within 30
+days from when the violator is served with a notice of civil penalty
+assessment. A civil penalty assessment that is contested is due at the
+conclusion of the administrative and judicial review of the civil penalty
+assessment.
+      (8)    In no case shall the maximum civil penalty per day exceed the
+amount as specified in division (C)(2) above.
+      (9)   A violation of this subchapter shall not constitute a misdemeanor
+or infraction punishable under G.S. 14-4, but instead shall be subject to the
+civil penalties fixed by this section.
+   (D)   Emergency enforcement. If delay in correcting a violation would
+seriously threaten the effective enforcement of this subchapter or pose an
+immediate danger to the public health, safety, or welfare, then the Stormwater
+Administrator may order the immediate cessation of a violation. Any person so
+ordered shall cease any violation immediately. The Stormwater Administrator may
+seek immediate enforcement, without prior written notice, through any remedy or
+penalty authorized by this chapter.
+(Ord. passed 7--2025)
+§ 155.69 APPEALS.
+   See §
+155.37 for appeal procedures.
+(Ord. passed 7--2025)
+§ 155.70 SEVERABILITY.
+   If any section(s) or division(s) of this subchapter is/are held to be
+invalid or unenforceable, all other sections and divisions shall nevertheless
+continue in full force and effect.
+(Ord. passed 7--2025)
 PARALLEL REFERENCES
 References to North Carolina General Statutes
 References to 1987 Code
@@ -8973,6 +10151,8 @@ REFERENCES TO NORTH CAROLINA GENERAL STATUTES
 G.S. Cites Code Section
 G.S. Cites               Code Section
 1-117                    152.11
+1A-1, Rule 4             155.68
+Ch. 14                155.02
 14-3.1                   92.076
                          34.99,
                          92.076,
@@ -8980,21 +10160,23 @@ G.S. Cites               Code Section
                          93.99,
                          95.99,
                          112.99,
-14-4                     114.50,
-                         115.99,
+                         114.50,
+14-4                     115.99,
                          116.99,
                          130.99,
                          131.15,
                          151.043,
                          151.999,
-                         152.13
+                         152.13,
+                         155.68
 14-4(a)                  10.99
 Ch. 14, Art. 27A         131.02
 14-286                   93.01
 14-288.13                34.02
 14-399                   92.016
 14-409.32(2)             34.06
-15-27.2                  152.05
+15-27.2                  152.05 ,
+                         155.40
 Ch. 20                   131.12
 20-4.01(27)j             70.01
 20-37.6                  72.15
@@ -9025,10 +10207,14 @@ Ch. 65, Art. 9           91.02
 105-350                  Charter §
                          5.4
 106-700                  90.07
+Ch. 113A, Art. 4         155.31
 Ch. 130A                 151.006
+Ch. 143, Art. 21, part 6 155.31
 Ch. 143, Art. 33C        30.27
 143-138(e)               150.15
 143-145(7)               151.006
+143-212(6)               155.61
+143.214.7                155.31
                          30.15,
 143-318.12               30.16,
                          30.17
@@ -9042,7 +10228,8 @@ Ch. 160A, Art. 7, part 2 5.1, §
                          5.5
 Ch. 160A, Art. 10        151.042,
                          152.12
-Ch. 160A, Art. 19        150.01
+Ch. 160A, Art. 19        150.01 ,
+                         155.31
 160A-58.1(b)(5)          Charter §
                          6
 160A-63                  34.02
@@ -9057,8 +10244,9 @@ Ch. 160A, Art. 19        150.01
 160A-76                  30.26
 160A-81                  30.28
 160A-148                 31.15
-160A-174                 114.01,
-                         116.01
+                         114.01,
+160A-174                 116.01 ,
+                         155.31
                          10.99,
                          93.99,
 160A-175                 95.99,  
@@ -9066,13 +10254,17 @@ Ch. 160A, Art. 19        150.01
                          130.99
 160A-175(d) and (e)      151.999
 160A-175(b)              92.076
-160A-193                 92.075,
-                         94.21
+160A-185                 155.31
+                         92.075,
+160A-193                 94.21 ,
+                         155.47
 160A-194                 114.01,
                          116.01
 160A-296                 130.06
 160A-300                 130.06
 160A-311                 110.01
+160D-1119 (b), (c)       151.056
+160D-1119 - 160D-1122    151.056
 160D-1119 (b), (c)       151.056
 160D-1119 - 160D-1122    151.056
 Ch. 160D, Article 12     151.001
@@ -9179,6 +10371,14 @@ Res. 2018-04 5-17-18     92.039,
                          116.99,
                          130.99
 2025-02      4-15-2025   95.04
+                         155.01,
+                         155.02,
+                         155.20,
+- -          7- -2025    155.21,
+                         155.30 -
+                         155.48,
+                         155.60 -
+                         155.70
                          92.072,
 - -          - -         92.075 -
                          92.077
