@@ -1,12 +1,12 @@
 CITY OF BEREA, KENTUCKY
 CODE OF ORDINANCES
-* 2025 S-31 Supplement contains:
-Local legislation current through Ord. 24-2024, passed 12-17-2024
-State legislation current through KRS Pamphlet 2024 *
-* Published by:
+2026 S-32 Supplement contains:
+Local legislation current through Ord. 17-2025, passed 12-16-2025
+State legislation current through KRS Pamphlet 2025
+Published by:
 AMERICAN LEGAL PUBLISHING
 525 Vine Street * Suite 310 * Cincinnati, Ohio 45202
-1-800-445-5588 www.amlegal.com *
+1-800-445-5588 www.amlegal.com
 CITY OFFICIALS
 Mayor                           Bruce Fraley
 City Council
@@ -18,10 +18,10 @@ Teresa Scenters
 Katie Startzman
 Ronnie Terrill
 Cora Jane Wilson
-Interim City Administrator      Shawn Sandlin
+City Administrator              Shawn Sandlin
 City Clerk                      Robin Adams
 Finance Director                Susan Helton
-Fire Chief                      Shawn Sandlin
+Fire Chief                      Charles Russell
 Police Chief                    Jason Hays
 Corporation Counsel             Coy, Gilbert, Shepherd and Wilson
 Public Works Director           Roy Curtis
@@ -29,7 +29,7 @@ Codes Administrator             Amanda Haney
 Parks and Recreation Director   Priscilla Bloom
 Utilities General Manager       Kevin Howard
 Business Development Director   Donna Angel
-Interim Tourism Director        Dani Gift
+Tourism Director                Nancy Conley
 Information Technology Director Daniel Brindley
  
 ADOPTING ORDINANCE
@@ -1991,7 +1991,43 @@ Clerk of the City Council
 PREPARED BY:
 /s/ Jerry W. Gilbert   
 Corporation Council
- 
+***** ADOPTING ORDINANCE 11-2024 *****
+   AN ORDINANCE OF THE CITY OF BEREA, KENTUCKY, ADOPTING A SUPPLEMENT
+   TO THE CODE OF ORDINANCES OF THE CITY OF BEREA, KENTUCKY.
+   WHEREAS, American Legal Publishing Corporation, Cincinnati, Ohio, has
+completed the 2025 S-31 Supplement to the Code of Ordinances of the City of
+Berea, which supplement contains all ordinances of a general nature enacted or
+amended since the adoption of the last supplement to the Code of Ordinances of
+this municipality; and
+   WHEREAS, said American Legal Publishing corporation has recommended the
+revision or addition of certain sections of the code of Ordinances which are
+based on or make references to sections of the Kentucky Revised Statutes; and
+   WHEREAS, it is the intent of the City Council to accept these updated
+sections in accordance with the changes of the law of the Commonwealth of
+Kentucky;
+   NOW, THEREFORE, the City Council of the City of Berea, Kentucky, does ordain
+as follows:
+   SECTION I
+That the 2025 S-31 Supplement to the Code of Ordinances of the City of Berea,
+as submitted by American Legal Publishing Corporation, and as attached hereto,
+be and the same are hereby adopted by reference as if set out in their
+entirety.
+   SECTION II
+All ordinance or parts of ordinances in conflict with this ordinance are hereby
+repealed.
+   FIRST READING:            April 1, 2025.
+   SECOND READING & ENACTMENT:   April 15, 2025.
+                        APPROVED:                   
+                         /s/ Bruce Fraley
+                        Bruce Fraley, Mayor
+CITY OF BEREA, KENTUCKY
+ATTEST:
+/s/ Robin Adams       
+Clerk of the City Council
+Published this  16th  day of  April , 2025.
+PREPARED BY:
+/s/ Jerry W. Gilbert   
+Corporation Council
 TITLE 1: GENERAL PROVISIONS
 CHAPTER 10   GENERAL PROVISIONS
 CHAPTER 10: GENERAL PROVISIONS
@@ -5227,6 +5263,8 @@ ARTICLE I. GENERAL PROVISIONS
 31.021   Maintenance of system by consumer required
    
 31.022   Meters
+   
+31.023   Advanced metering infrastructure
 ARTICLE II. RATES AND CHARGES
    
 31.100   Deposits required
@@ -5243,7 +5281,7 @@ ARTICLE II. RATES AND CHARGES
    
 31.106   Disconnection for nonpayment
    
-31.107   Reserved
+31.107   Enhanced 911 service fee
    
 31.108   Voluntary discontinuance of service
 ARTICLE III. RESERVED
@@ -5280,11 +5318,13 @@ Division 4. Building Sewers and Connections
    
 31.331   Prohibited connections
    
-31.332   Design and Installations
+31.332   Design and installations
    
 31.333   Inspection
    
-31.334   Duty of architects, contractors, etc
+31.334   Duty of architects, contractors, etc.
+   
+31.335   Low pressure force mains
 Division 5. Pollutant Discharge Limits
    
 31.340   General conditions
@@ -5509,6 +5549,57 @@ in connection with the utility service.
    Meters for the measurement of utility services furnished by the city shall
 be furnished and installed by, and shall remain the property of, the city.
 (1976 Code) (Ord. No. 02-05, § 1, 2-15-05)
+§ 31.023 ADVANCED METERING INFRASTRUCTURE
+   (A)   Definitions. For purposes of this section:
+      “ADVANCED METERING INFRASTRUCTURE (AMI) METER.” A metering device that
+records utility consumption data electronically and communicated such data to
+Berea Municipal Utilities through a secure network for purposes of billing,
+monitoring, and system management.
+      “CUSTOMER.” Any person, business, or entity that receives electric,
+water, wastewater, or other utility service from Berea Municipal Utilities.
+      “UTILITY SERVICE.” Any service provided by BMU, including but not limited
+to electric, water, and wastewater service.
+   (B)   Terms of service requirement.
+      (1)   The installation, operation, and maintenance of an AMI meter at
+each service location shall be a condition of receiving and continuing utility
+service from Berea Municipal Utilities.
+      (2)   All new service connections shall be equipped with AMI meters prior
+to the initiation of service.
+      (3)   Existing customers shall permit the installation, replacement, and
+maintenance of AMI meters by BMU personnel or authorized contractors as part of
+standard utility operations.
+      (4)   Refusal by a customer to allow the installation or operation of an
+AMI meter shall constitute a violation of BMU’s Terms of Service and may result
+in denial, disconnection, or discontinuation of service in accordance with BMU
+policies and applicable law.
+   (C)   Ownership and access.
+      (1)   All AMI meters and related communication equipment are and shall
+remain the sole property of Berea Municipal Utilities.
+      (2)   BMU and its authorized agents shall have reasonable access to all
+metering equipment for purposes of installation, inspection, maintenance, and
+reading.
+      (3)   Customers shall not tamper with, alter, or obstruct access to any
+AMI meter or associated equipment.
+   (D)   Privacy and data security.
+      (1)   BMU shall maintain customer usage data collected through AMI meters
+in accordance with applicable privacy, cybersecurity, and open records laws of
+the Commonwealth of Kentucky.
+      (2)   Data obtained through AMI meters shall be used solely for
+legitimate utility business purposes, including billing, operations, system
+planning, and regulatory reporting.
+      (3)   BMU shall not disclose individual customer data except as required
+by law or to contractors or agents performing work on behalf of BMU under
+confidentiality obligations.
+   (E)   Customer information. BMU shall make information available to
+customers regarding:
+      (1)   The purpose and function of AMI meters;
+      (2)   Customer access to usage data; and
+      (3)   Procedures for addressing meter-related concerns or disputes.
+   (F)   Enforcement. Failure to comply with this section or any implementing
+policy adopted by BMU shall constitute a violation of the BMU Terms of Service.
+BMU may take enforcement actions, including suspension or termination of
+service, consistent with established rules and due process requirements.
+(Ord. No. 16-2025, § I, 12-16-25)
 **** ARTICLE II. RATES AND CHARGES ****
 § 31.100 DEPOSITS REQUIRED
    Along with the application for utility service, the applicant shall pay a
@@ -5644,7 +5735,86 @@ the determination shall be final and non- appealable.
 shall have the right to disconnect and discontinue all utility services
 provided to the consumer in arrears.
 (1976 Code) (Ord. No. 02-05, § 1, 2-15-05)
-§ 31.107 RESERVED
+§ 31.107 ENHANCED 911 SERVICE FEE
+   (A)   Definitions. For purposes of this section:
+      “911 SERVICE.” The emergency telephone answering service provided by
+Madison County that enables a caller to reach a public safety answering point
+(PSAP).
+      “COMMERCIAL CLASSIFICATION.” Any account that is required to pay Kentucky
+sales tax to the utility district and has a water meter that is less than or
+equal to one inch (1") in size.
+      “COST OF LIVING ADJUSTMENT/CPI ADJUSTMENT.” The annual percentage
+increase published and submitted by the Kentucky Department of Local Government
+each January.
+      “INCORPORATED AREAS.” All areas of the City of Berea lying within the
+corporate limits of the city.
+      “INDUSTRIAL/LARGE COMMERCIAL CLASSIFICATION.” Any account that is
+required to pay Kentucky sales tax to the utility district and has a water
+meter greater than one inch (1") in size.
+      “NON-COMMERCIAL CLASSIFICATION.” Any account that is not required to pay
+Kentucky sales tax to the utility district, and these accounts shall pay the
+fee imposed herein based on each non-commercial unit, and not by meter.
+      “NON-COMMERCIAL UNIT.” A single or multi family residential structure
+owned either by the occupier or which is a single or multi-family residential
+rental property whose occupants are required by the Kentucky Department of
+Revenue to fill out a declaration of domicile form.
+      “WATER METER.” A device used to measure water consumption, installed and
+maintained by a water district, water association, or other water utility
+provider operating within the incorporated areas of the City of Berea.
+   (B)   Establishment of 911 fee.
+      (1)   Effective for water bills due on and after January 10, 2026, there
+is hereby imposed a monthly 911 service fee on each active water meter located
+in the incorporated area of the City of Berea.
+      (2)   The fee shall be assessed according to the following schedule:
+ 
+Classification Definition (for billing purposes)                                             Monthly
+                                                                                             Fee
+Non-Commercial Every active account that is not required to pay Kentucky sales tax to the    $3.50
+               utility district, calculated per unit
+               Every active account that is required to pay Kentucky sales tax to the
+Commercial     utility district with a meter size (less than or equal to 1" (one inch),      $41.67
+               calculated per meter)
+Industrial/    Every active account that is required to pay Kentucky sales tax to the
+Large          utility district with a meter size (greater than) >1” (one inch)(calculated $125.00
+Commercial     per meter)
+ 
+   (C)   Automatic CPI adjustment.
+      (1)   Beginning July 1, 2027, and on July 1 of each year thereafter, the
+monthly fees established under division (B) above shall automatically increase
+by the percentage change in the Cost of Living/CPI Adjustment as determined by
+the Kentucky Department of Local Government each January for the calendar year.
+In the event the COLA/CPI does not increase, the monthly fees shall remain the
+same as the previous year.
+      (2)   The City of Berea Finance Director shall share the COLA/CPI
+adjustment annually with the Mayor and City Council based on the information
+provided by the Kentucky Department of Local Government, along with the
+budgeting process, by March 31 of each year.
+      (3)   The City Council may decline to implement the COLA/CPI increase for
+the upcoming year in the budget ordinance.
+   (D)   Collection of fees.
+      (1)   Each water district, water association, or other water utility
+operating within the incorporated areas of the City of Berea shall be
+responsible for collecting the 911 fee from its customers.
+      (2)   The collected fees shall be remitted monthly to the City of Berea
+Finance Director to be deposited into a special revenue fund designated solely
+for the operation, maintenance, and improvement of the Madison County Emergency
+Communications Center/911 system.
+      (3)   The water utilities may retain an administrative fee that is fair
+and reasonable compensation of the total amount collected each month, to offset
+reasonable costs of collection and outlined in a Memorandum of Understanding.
+In the event that a water utility fails to agree to a proposed MOU, the city
+shall impose the amount of the administrative fee by unilateral action.
+   (E)   Use of funds. All funds collected under this section shall be used
+exclusively for the provision, operation, maintenance, and improvement of the
+Madison County 911 emergency communications system as outlined in KRS 65.760,
+and shall be remitted to the Madison County Fiscal Court pursuant to Section IV
+(A)(3) of the Amended Madison County Emergency Communications Center Interlocal
+Agreement of September 2025.
+   (F)   Enforcement. Failure of a water utility to collect or remit the fees
+as required by this section shall subject the utility to penalties as provided
+by Kentucky law and as may be enforced by the City of Berea, including but not
+limited to a legal action to recover the fees provided in division (B) above.
+(Ord. No. 13-2025, §§ 1-6, 11-12-25)
 § 31.108 VOLUNTARY DISCONTINUANCE OF SERVICE
    Consumers wishing to discontinue the use of any utility service shall give
 written notice at the city hall. Failure to do so shall render them liable for
@@ -6381,6 +6551,89 @@ municipal sewer system, satisfactory evidence that a means has been or will be
 provided for connecting the sanitary sewerage drain pipes from the building
 with the sewer line.
 (Ord. No. 9.61, § 2, 5-24-61)
+§ 31.335 LOW PRESSURE FORCE MAINS
+   (A)   Definitions. For purposes of this section:
+      “GRINDER PUMP UNIT.” A a sewage pump equipped with a grinder or macerator
+device designed to receive and grind domestic wastewater from a structure and
+discharge it under pressure into an LPFM system.
+      “LOW-PRESSURE FORCE MAIN (LPFM) SYSTEM.” A wastewater collection system
+in which small groups of users discharge sewage through privately owned and
+maintained grinder pumps or ejector pumps into a pressurized force main owned
+and maintained by BMU.
+      “PUBLIC FORCE MAIN.” The pressurized sewer piping system owned and
+maintained by BMU that receives discharge from one or more service connections.
+      “SERVICE CONNECTION.” The privately owned piping, pump, and appurtenances
+extending from a building’s plumbing system to the public LPFM force main.
+   (B)   Authorization.
+      (1)   BMU hereby authorizes the use of LPFM systems as an approved means
+of wastewater collection within designated service areas, subject to compliance
+with the design and operational requirements set forth in this section.
+      (2)   The BMU Director (or equivalent official) shall determine where
+LPFM systems are appropriate and may approve such systems where:
+         (a)   The area’s topography prevents gravity flow.
+         (b)   Extension of gravity sewer is economically infeasible.
+         (c)   Installation of LPFM system is advantageous to promote
+development within the BMU sanitary sewer service area, benefits the customer
+in providing public sewer access, and is economically beneficial to the
+developer.
+         (d)   BMU determines that an LPFM system provides equal or superior
+environmental protection.
+   (C)   Design and construction standards.
+      (1)   All LPFM systems shall be designed in accordance with the Kentucky
+Energy and Environment Cabinet’s Division of Water—Minimum Design Criteria for
+Sanitary Sewer Systems (latest edition), the Kentucky Plumbing Code (815 KAR
+20:025), and BMU design standards for pressure sewer systems.
+      (2)   All materials, workmanship, pipe sizes, and appurtenances shall
+conform to standards approved by the BMU Director.
+      (3)   Grinder pump units shall be approved by BMU prior to installation
+and shall include check valves, isolation valves, and electrical controls
+meeting local electrical code requirements.
+      (4)   Grinder pump units shall be installed per the manufacturer’s
+recommendations.
+      (5)   Force main design shall include adequate provisions for flushing,
+air release, and maintenance access.
+      (6)   No connection to a public LPFM system shall be made without prior
+written approval and inspection by BMU authorizing officials.
+   (D)   Ownership and maintenance.
+      (1)   Private components. Grinder pumps, service laterals, and all
+components upstream of the connection to the public force main shall be owned,
+operated, and maintained by the property owner.
+      (2)   Ownership and maintenance responsibilities shail be included as a
+note on the recorded final plat and submitted on deed restrictions.
+      (3)   Public components. The public LPFM force main and all appurtenances
+downstream of the service connection shall be owned, operated, and maintained
+by BMU.
+      (4)   Property owners shall be responsible for ensuring continuous
+operation of grinder pump units and for repairs or replacements as necessary to
+maintain service.
+      (5)   BMU shall have the right to enter upon private property, at
+reasonable times, to inspect LPFM installations for compliance and to address
+public health or operational concerns.
+   (E)   Prohibitions and requirements.
+      (1)   No person shall connect to or discharge into an LPFM system without
+authorization from BMU.
+      (2)   Roof drains, foundation drains, sump pumps, or any other inflow or
+infiltration sources are strictly prohibited from being connected to any LPFM
+or sanitary sewer system.
+      (3)   The discharge of industrial wastewater, grease, oils, or any non-
+domestic pollutants into an LPFM system is prohibited unless specifically
+authorized in writing by BMU under a separate permit or pretreatment agreement.
+      (4)   No person shall bypass, alter, or modify a grinder pump system
+without BMU approval.
+   (F)   Fees and assessments. BMU may establish connection fees, inspection
+fees, and maintenance charges for LPFM systems by separate resolution or
+ordinance.
+   (G)   Enforcement and penalties.
+      (1)   Any violation of this section shall constitute a violation of the
+Berea Sewer Use Ordinance and be subject to enforcement actions, disconnection,
+penalties, or legal remedies as provided in the Berea Code of Ordinances.
+      (2)   BMU may disconnect or suspend sewer service to any property found
+to be in violation until compliance is achieved.
+   (H)   The provisions of §§
+31.383 and
+32.103 herein will apply to BMU’s customers in the month after the AMI water
+meters are installed on the respective customer’s premises.
+(Ord. No. 17-2025, § III, 12-16-25)
 *** Division 5. Pollutant Discharge Limits ***
 § 31.340 GENERAL CONDITIONS
    The following described substances, materials, waters or wastes shall be
@@ -7213,8 +7466,12 @@ connected with the municipal sewer system, the following rates for user charges
 and rates for debt service charges based upon the water meter readings or
 estimated water consumption as follows:
       (1)   Commodity charge:
-         First 200 cubic feet (minimum bill)      $6.9000/monthly
-         Over 200 cubic feet            $2.63/100 cubic feet
+         (a)   Berea Municipal Utility customers:
+            1.   First 1,496 gallons (minimum bill) - $10.50/monthly
+            2.   Over 1,496 gallons - $0.006296/gallon
+         (b)   Souther Madison Water Utility customers:
+            1.   First 1,496 gallons (minimum bill) - $10.50/monthly
+            2.   Over 1,496 gallons - $0.006296/gallon
       (2)   Late payment charge: 10% will be added if bill is not paid by the
 10th day after billing date.
       (3)   Reconnect charges: $20.00 for customers of Berea Water Utility;
@@ -7283,7 +7540,8 @@ method of determining flows. The city reserves the right to require the
 installation of additional water meters and/or wastewater flow meters for the
 purpose of determining actual monthly wastewater flows.
 (Ord. No. 17-91, 6-25-91; Amd. Ord. No. 18-95, 9-19-95; Amd. Ord. 20-97, 9-16-
-97; Amd. Ord. No. 10-08, 9-16-08; Amd. Ord. No. 17-09, 8-18-09 )
+97; Amd. Ord. No. 10-08, 9-16-08; Amd. Ord. No. 17-09, 8-18-09; Am. Ord. No.
+17-2025, § 2, 12-16-25 )
 § 31.384 SURCHARGE RATE SCHEDULE
    (A)   A sewer user may be permitted to discharge wastes to the sewage works
 having an average biochemical oxygen demand (BOD) concentration in excess of
@@ -7723,36 +7981,25 @@ landfill facilities and operations.
 § 32.103 WATER RATES
    The following rates and tariffs be and the same are hereby adopted by the
 city for the operation of the water utility.
-   (A)   Class A Residential
-      First 200 cubic feet (minimum bill)            $10.00/monthly
-      Cubic feet over first 200               $3.76/100 cubic feet
-   (B)   Class 2 Commercial
-      First 200 cubic feet (minimum bill)            $10.45/monthly
-      Next 1,800 cubic feet               $3.86/100 cubic feet
-      Next 3,000 cubic feet               $3.51/100 cubic feet
-      Next 5,000 cubic feet               $3.11/100 cubic feet
-      Next 5,000 cubic feet               $2.56/100 cubic feet
-      Over 15,000 cubic feet               $2.26/100 cubic feet
-   (C)   Class 3 Industrial
-      First 200 cubic feet (minimum bill)            $10.45/monthly
-      Next 1,800 cubic feet               $3.86/100 cubic feet
-      Next 3,000 cubic feet               $3.51/100 cubic feet
-      Next 5,000 cubic feet               $3.11/100 cubic feet
-      Next 5,000 cubic feet               $2.56/100 cubic feet
-      Over 15,000 cubic feet               $2.26/100 cubic feet
-   (D)   Class 6 Wholesale Service - This class of service is also subject to
-the applicable rules and regulations adopted from time to time for the Berea
-Municipal Water Utility by the City Council.
-      Garrard County Water Association
-         Per cubic foot for all water used         $0.0162490
-      Southern Madison Water District
-         Per gallon for all water used         $0.0021720
-   (E)   Class 7 Fire Protection
-      6 inch sprinkler line                  $41.00/monthly
-      8 inch sprinkler line                  $57.00/monthly
-      10 inch sprinkler line               $74.00/monthly
-      12 inch sprinkler line               $90.00/monthly
-   (F)   All Classes
+   (A)   Residential rate:
+      First 1,496 gallons            $12.00 plat fee per month
+      Over 1,496 gallons            $0.006885 per gallon
+   (B)   Commercial rate:
+      First 1,496 gallons            $13.00 plat fee per month
+      Next 13,464 gallons            $0.006123 per gallon
+      Next 22,400 gallons            $0.005655 per gallon
+      Next 37,400 gallons            $0.005120 per gallon
+      Next 37,400 gallons            $0.004385 per gallon
+      Over 112,200 gallons         $0.004144 per gallon
+   (C)   Fire protection rate:
+      6" sprinkler line            $47.25 per month
+      8" sprinkler line            $65.75 per month
+      10" sprinkler line            $85.25 per month
+      12" sprinkler line            $103.75 per month
+   (D)   Wholesale rate:
+      Garrard County Water Association      $0.020777 per gallon
+      Southern Madison Water District      $0.02777 per gallon
+   (E)   All classes.
       (1)   Late payment charge: 10% will be added if bill is not paid by the
 10th day after billing date; provided that the one-time waiver of delinquent
 utility bills specified in § 31.105 shall also apply to water bill
@@ -7793,31 +8040,47 @@ and BMU shall not provide service to the customer until the full amount of the
 customer’s account, including any penalty fee and overdue service payment, is
 paid and satisfied in full.
 (Ord. No. 07-08, 5-19-08; Am. Ord. No. 08-08, 9-16-08; Am. Ord. No. 13-18, § 1,
-9-4-18; Am. Ord. No. 25-2021, § 2, 10-19-21)
+9-4-18; Am. Ord. No. 25-2021, § 2, 10-19-21; Am. Ord. No. 17-2025, § II, 12-16-
+25)
 § 32.104 ELECTRIC RATES
    The following rates and tariffs be and the same are hereby adopted by the
-city for the operation of the electric utility.
-   (A)   Class 1 Residential
-      Service charge (minimum bill)         $12.00/monthly
-      Energy charge (each kwh)            $0.0559
-   (B)   Class 2 Commercial
-      Service charge (minimum bill)         $15.00/monthly
-      Energy charge (each kwh)            $0.0595
-   (C)   Class 3 Large Commercial
-      Minimum charge               $18.75/monthly
-      Demand charge (each kwh)         $3.90
-      Energy charge (each kwh)            $0.0485
-   (D)   Class 4 Industrial and Large Commercial
-      Minimum charge               $939.00/monthly
-      Demand charge (each kwh)         $8.10
-      Energy charge (each kwh)            $0.0485
-   (E)   Class 5 Primary Metering Customer Owned/Leased Transformers
-      Minimum charge               $900.00/monthly
-      Demand charge (each kwh)         $7.85
-      Energy charge (each kwh)            $0.0359
-   (F)   Class 6 Primary Metering Non-Owned/Leased Transformers
-      Demand charge (each kwh)         $7.15
-      Energy charge (each kwh)            $0.0369
+city for the operation of the electric utility, effective July 8, 2025.
+   (A)   Residential Rate - Single Phase Service
+      Service charge               $22.00
+      Energy charge               $0.0887
+   (B)   Small General Service - No Demand - Single Phase
+      Service charge               $26.00
+      Energy charge               $0.0907
+   (C)   Small General Service - No Demand - Three Phase
+      Service charge               $32.00
+      Energy charge               $0.0907
+   (D)   Small General Service - Demand- Single Phase
+      Historic Annual Peak 25kW - 100kW
+      Service charge               $37.00
+      Energy charge:               
+         First 9,125 kWh            $0.0877
+         All additional KWh            $0.0713
+      Demand charge:
+         First 25 kW               $3.50
+         All additional kW            $9.50
+   (E)   Small General Service - Demand - Three Phase
+      Historic Annual Peak 25kW - 100kW
+      Service charge               $43.00
+      Energy charge:               
+         First 9,125 kWh            $0.0877
+         All additional KWh            $0.0713
+      Demand charge:
+         First 25 kW               $3.50
+         All additional kW            $9.50
+   (F)   Medium General Service - Demand - Single Phase
+      Historic Annual Peak 100kW - 500kW
+      Service charge               $125.00
+      Energy charge:               
+         First 9,125 kWh            $0.0877
+         All additional KWh            $0.0713
+      Demand charge:
+         First 25 kW               $3.50
+         All additional kW            $9.50
    (G)   Class 8 Private Outdoor Lighting Service
       Mercury vapor
          175 watt standard overhead      $7.05/monthly
@@ -8014,7 +8277,8 @@ and BMU shall not provide service to the customer until the full amount of the
 customer’s account, including any penalty fee and overdue service payment, is
 paid and satisfied in full.
 (Ord. No. 09-08, 9-16-08; Am. Ord. No. 11-09, 6-16-09; Am. Ord. 07-17, 4-18-17;
-Am. Ord. No. 13-18, § 2, 9-4-18; Am. Ord. No. 25-2021, § 3, 10-19-21)
+Am. Ord. No. 13-18, § 2, 9-4-18; Am. Ord. No. 25-2021, § 3, 10-19-21; Am. Ord.
+10-2025, § I, passed 6-17-2025)
 **** ARTICLE III. ELECTRIC AND WATER UTILITIES FOR BEREA COLLEGE ****
 § 32.200 ADOPTING THE BEREA COLLEGE ELECTRIC AND WATER UTILITIES
    The current rates and tariffs of the Berea College Electric and Water
@@ -13479,7 +13743,7 @@ beverages shall require all their employees who are engaged in the selling or
 serving of alcoholic beverages or the managing of premises on which such sales
 are offered are to complete a responsible beverage service training class
 approved by the city. This shall not apply to any manufacturer of alcoholic
-beverages as defined in KRS 241.010(40) or any other person, corporation,
+beverages as defined in KRS 241.010(43) or any other person, corporation,
 association, business or other entity licensed for the wholesale of alcoholic
 beverages.
    (B)   For purposes of this section, “SERVER” shall mean any person employed
@@ -20422,11 +20686,12 @@ ARTICLE II. “BIG BOX” DEVELOPMENT
 land use regulations, development regulations, and subdivision regulations by
 reference. A copy of this ordinance, as attached to Ordinance 18-04 (passed 9-
 7-04), shall be available in the office of the City Clerk.
-(Ord. No. 18-04,§ 1, 9-7-04; Ord. No. 05-05, 4-5-05; Ord. No. 11-05, 5-17-05;
+(Ord. No. 18-04, § 1, 9-7-04; Ord. No. 05-05, 4-5-05; Ord. No. 11-05, 5-17-05;
 Ord. No. 13-06, 9-5-06; Ord. No. 14-06, 9-19-06; Ord. No. 16-07, 9-4-07; Ord.
-No. 19-08, 11-18-08; Ord. No. 11-10, 12-7-10; Ord. No. 9-12, 7-3-12; Ord. No.
+No. 19-08, 11-18-08; Ord. No. 11- 10, 12-7-10; Ord. No. 9-12, 7-3-12; Ord. No.
 22-13, 12-17-13; Ord. No. 19-14, 10-7-14; Ord. No. 22-14, 10-21-14; Ord. No.
-01-2018, 2-20-18; Am. Ord. No. 15-2024, 8-6-24)
+01-2018, 2-20-18; Am. Ord. No. 15-2024, 8-6-24; Am. Ord. 06-2025, § I, passed
+4-15-25)
 https://bereaky.gov/wp-content/uploads/2019/09/2018-Land-Management-and-
 Development-Ordinance-adopted-Feb-2018.pdf
 **** ARTICLE II. “BIG BOX” DEVELOPMENT ****
@@ -21740,6 +22005,12 @@ None 5-4- Gas
            
 20-  10-  Awarding a franchise for the collection and disposal of solid waste within
 2024 1-24 the city to Waste Connections of KY, Inc.
+01-  2-   Granting a franchise to CMN-RUS, LLC (“Metronet”) for ten years for the
+2025 18-  operation and maintenance of a communications services system
+     25
+07-  6-3- Amending Ord. 20-2024, correcting the franchise fee amount for the franchise
+2025 25   awarded to Waste Connections of Kentucky, Inc. for the collection and
+          disposal of solid waste
          
  
 TABLE 5: MISCELLANEOUS
@@ -22185,6 +22456,12 @@ A-7  6-3-52   Specific appropriation
 2024
 17-  8-20-24  Declaring certain property to be surplus and authorizing it to be
 2024          sold
+02-  3-4-25   Amending the FY 2024-2025 budget
+2025
+08-  6-17-25  Adopting the FY 2025-2026 budget
+2025
+15-  12-2-25  Declaring certain property to be surplus and authorizing it to be
+2025          sold
              
  
 TABLE 6: PERSONNEL POLICIES AND PROCEDURES
@@ -22283,6 +22560,12 @@ No.
 2024          and deleting certain positions.
 14-  6-18-24  Revising the authorized positions’ assigned pay grade and pay scale.
 2024
+04-  04-2025  Revising the authorized positions’ assigned pay grade and pay scale due to the
+2025          separation of the Business Development and Tourism Departments.
+09-  6-17-25  Revising the authorized positions’ assigned pay grade and pay scale to include
+2025          a 4% COLA and by adding certain position.
+14-  12-2-25  Revising the pay scale grade for the Public Works Crew Superintendent.
+2025
              
  
 TABLE 7: SEWERS
@@ -22485,7 +22768,9 @@ A-25     7-7-53   Maintenance agreement with state
 06-2024  2-20-24  Vacating and closing a certain platted right-of-way, known as
                   Oak Street Alley.
 07-2024  2-20-24  Vacating and closing a certain platted thirty-foot (30')
-                  right-of-way.
+                  right-of-way
+11-2025  9-2-2025 Discontinuing city maintenance for Sycamore Street from its
+                  beginning at the end of Phillips Street to its termination
                  
  
 TABLE 9: TAXATION
@@ -22598,6 +22883,7 @@ none     2-1-55
 12-2022  8-16-22
 08-2023  8-15-23
 18-2024  8-20-24
+12-2025  9-2-25
          
  
 1Exemption from ad valorem tax
@@ -22774,6 +23060,7 @@ Ord. No. Date
 16-2024  8-6-24
 22-2024  11-6-24
 24-2024  12-17-24
+03-2025  3-4-25
          
  
 TABLE 11: BENEFIT AREAS
@@ -24472,8 +24759,8 @@ Res.  2-15-72  24.103,    
 2023
 09-   3-19-24  56.006    Alcohol management for organized civic or community sponsored
 2023                     events.
-10-   4-16-24  56.006    Providing for a prohibition of alcohol sales on city-owned
-2024                     property. Tabled.
+10-                    Tabled.
+2024
 11-   4-16-24  Adopting  Adopting the S-30 Supplement to the Code of Ordinances.
 2024           Ordinance
 12-   5-21-24  Table 5   Amending the FY 2023-2024 budget.
@@ -24494,8 +24781,8 @@ Res.  2-15-72  24.103,    
 2024                     from the Department of Tourism.
 20-   10-1-24  Table 4   Awarding a solid waste franchise.
 2024
-21-   10-15-24 41.600 -  Providing for the operation of golf carts on certain city streets.
-2024           41.604    Tabled.
+21-                    Tabled.
+2024
 22-   11-6-24  Table 10  Changing the zoning classification of a certain property.
 2024
 23-                      Prohibiting nudity and adult entertainment activities on licensed
@@ -24503,6 +24790,41 @@ Res.  2-15-72  24.103,    
                          controlled property.
 24-   12-17-24 Table 10  Changing the zoning classification of a certain property.
 2024
+01-   2-18-25  Table 4   Awarding communications services system franchise.
+2025
+02-   3-4-25   Table 5   Amending the FY 2024-2025 budget.
+2025
+03-   3-4-25   Table 10  Changing the zoning classification of a certain property.
+2025
+04-   4-1-25   Table 6   Revising the authorized positions’ assigned pay grade and pay
+2025                     scale.
+05-   4-15-25  Adopting  Adopting the S-31 Supplement to the Code of Ordinances.
+2025           Ordinance
+06-   4-15-25  81.001    Amending the land development ordinance.
+2025
+07-   6-3-25   Table 4   Correcting franchise fee amount for Ord. 20-2024 grant of solid
+2025                     waste collection franchise.
+08-   6-17-25  Table 5   Adopting the FY 2025-2026 budget.
+2025
+09-   6-17-25  Table 6   Revising the authorized positions’ assigned pay grade and pay
+2025                     scale.
+10-   6-17-25  32.104    Amending electric and connection rate schedule for electric
+2025                     service.
+11-   9-2-25   Table 8   Removing Sycamore Street from city maintenance.
+2025
+12-   9-2-25   Table 9   Providing for the levy of ad valorem taxes.
+2025
+13-   11-12-25 31.107    Adding enhanced 911 service water meter fee.
+2025
+14-   12-2-25  Table 6   Revising the pay scale grade for Public Works Crew Superintendent.
+2025
+15-   12-2-25  Table 5   Declaring certain property surplus and authorizing sale.
+2025
+16-   12-16-25 31.023    Adding advanced metering infrastructure provisions.
+2025
+17-            31.334,
+2025  12-16-25 31.383,   Amending water and sewer provisions.
+               32.103
                        
  
 PARALLEL REFERENCES
@@ -24527,6 +24849,7 @@ Title XVI             40.001
 61.880                26.011
 61.884                27.049
 65.003                27.002
+65.760                31.107
 65.8801 et seq.       22.601
 65.8801-65.8838       22.607
 65.8801-65.8839       22.600,
@@ -24605,7 +24928,7 @@ Ch. 227               54.604,
 227.706               54.600
 227.710               54.600
 Ch. 241               56.099
-241.010(40)           56.020
+241.010(43)           56.020
 241.030               56.002
 242.042               56.001,
                       56.002
