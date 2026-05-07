@@ -16491,9 +16491,7 @@ chest or box to remain there in such condition, is guilty of a misdemeanor.
 This section does not prohibit or cover any act prohibited by Section 402b of
 the Penal Code of the State of California or by any other state statute.
 (Prior code § 9.36.060 (Ord. 388 Art. 2, § 3, 1954))
-8.32.050   Exemptions from Sections
-8.32.020 and
-8.32.040.
+8.32.050   Exemptions from Sections 8.32.020 and 8.32.040.
    Neither Section
 8.32.020 nor
 8.32.040 applies to the following:
@@ -23758,8 +23756,7 @@ Avenue and Temple Avenue, or on Cherry Avenue between 21st Street and 25th
 Street in the city.
 (Ord. 77-8-772 § 1 (part): Ord. 75-2-736 § 1: Ord. 69-4-641 § 1 (part): prior
 code § 11.52.010)
-10.52.030   Penalty for violation of Section
-10.52.020.
+10.52.030   Penalty for violation of Section 10.52.020.
    The penalty for the violation of Section
 10.52.020 shall be as described in
 Chapter 1.16.
@@ -31729,7 +31726,7 @@ ARTICLE X. MISCELLANEOUS SECTIONS
 13.12.300   No impairments of contract.
    
 13.12.305   Force majeure--Grantee's inability to perform.
-ARTICLE I. GENERAL PROVISIONS
+**** ARTICLE I. GENERAL PROVISIONS ****
 13.12.000   Short title.
    This chapter shall be known as the cable system ordinance.
 (Ord. 85-07-950 § 1 (part))
@@ -31903,7 +31900,7 @@ herein shall be construed to prevent the city from granting any identical or
 similar franchise to any other person, firm, or corporation, within all or any
 portion of the city.
 (Ord. 85-07-950 § 1 (part))
-ARTICLE II. PROVISIONS FOR AWARD OF FRANCHISE
+**** ARTICLE II. PROVISIONS FOR AWARD OF FRANCHISE ****
 13.12.060   Application for franchise.
    Each application for a franchise to construct, operate, or maintain any
 cable television system(s) in the city shall be filed with the city clerk and
@@ -32053,7 +32050,7 @@ other city costs related to CATV installation and construction.
    E.   All reasonable city administrative costs associated with the award,
 transfer, renewal, or implementation of the franchise.
 (Ord. 85-07-950 § 1 (part))
-ARTICLE III. CONSTRUCTION OF SYSTEM
+**** ARTICLE III. CONSTRUCTION OF SYSTEM ****
 13.12.080   Installation of system.
    A.   Within sixty days of the award of any franchise, as defined in Section
 13.12.200, the grantee shall proceed with due diligence to obtain all necessary
@@ -32262,7 +32259,7 @@ standards and specifications.
    4.   Grantee shall be responsible for repairing or relocating CATV cable in
 conduit which may be needed as a result of any street reconstruction.
 (Ord. 85-07-950 § 1 (part))
-ARTICLE IV. BONDS, INSURANCE, AND HOLD HARMLESS PROVISIONS
+**** ARTICLE IV. BONDS, INSURANCE, AND HOLD HARMLESS PROVISIONS ****
 13.12.090   Faithful performance bond.
    A.   The grantee, concurrently with the filing of an acceptance of award of
 any franchise granted under this chapter, shall file with the city clerk, and
@@ -32380,7 +32377,7 @@ any loss, cost, expense and damages resulting therefrom, including reasonable
 attorney's fees, arising out of the exercise or enjoyment of its franchise,
 irrespective of the amount of insurance required hereunder.
 (Ord. 85-07-950 § 1 (part))
-ARTICLE V. SYSTEM PERFORMANCE
+**** ARTICLE V. SYSTEM PERFORMANCE ****
 13.12.110   Minimum cable television system services.
    Any and all cable television systems for the city shall be designed and
 installed to meet all of the standards expressly set forth in this chapter. In
@@ -32614,7 +32611,7 @@ reasonable period of time, if justified by such factors as demand, cost, impact
 on existing subscriber rates, and the availability of sufficient programming
 and other services.
 (Ord. 85-07-950 § 1 (part))
-ARTICLE VI. PROTECTION OF SUBSCRIBERS
+**** ARTICLE VI. PROTECTION OF SUBSCRIBERS ****
 13.12.160   Rates.
    A.   Grantee agrees to be bound by subscriber rates as guaranteed by any
 letter of agreement or contract which specifically addresses system operation
@@ -32695,7 +32692,7 @@ be so operated that complaints and requests for repairs or adjustments may be
 received by phone at any time, day or night, seven days a week. All complaints
 shall be acknowledged and responded to within forty-eight hours of receipt.
 (Ord. 85-07-950 § 1 (part))
-ARTICLE VII. ACCEPTANCE, TERM, RENEWAL AND TRANSFER OF FRANCHISE
+**** ARTICLE VII. ACCEPTANCE, TERM, RENEWAL AND TRANSFER OF FRANCHISE ****
 13.12.200   Acceptance of and effective date of franchise.
    A.   All franchises awarded hereunder shall be awarded by ordinance or
 resolution of the city council. Any reference herein to the date of award of a
@@ -32801,7 +32798,7 @@ provisions of this section may result in termination of this franchise in
 accordance with Section
 13.12.240.
 (Ord. 85-10-961 § 1: Ord. 85-07-950 § 1 (part))
-ARTICLE VIII. MODIFICATION, REMOVAL AND ABANDONMENT OF FACILITIES
+**** ARTICLE VIII. MODIFICATION, REMOVAL AND ABANDONMENT OF FACILITIES ****
 13.12.220   Removal and abandonment of property of grantee.
    A.   In the event that the use of any part of the CATV system is
 discontinued for any reason for a continuous period of twelve months, or in the
@@ -32850,7 +32847,7 @@ traffic conditions, public safety, street vacation, or any other public project
 or purpose of city or any other governmental entity. The decision of the city
 engineer under this section shall be final and binding upon grantee.
 (Ord. 85-07-950 § 1 (part))
-ARTICLE IX. VIOLATIONS, REMEDIES AND PENALTIES
+**** ARTICLE IX. VIOLATIONS, REMEDIES AND PENALTIES ****
 13.12.240   Procedure to establish violation.
    A.   In the event of the failure, refusal, or neglect by grantee to do or
 comply with any material requirement or limitation contained in this chapter or
@@ -32969,7 +32966,7 @@ shall constitute a misdemeanor and be punishable by imprisonment in the county
 jail not exceeding six months, and/or by a fine not exceeding five hundred
 dollars for each and every offense.
 (Ord. 85-07-950 § 1 (part))
-ARTICLE X. MISCELLANEOUS SECTIONS
+**** ARTICLE X. MISCELLANEOUS SECTIONS ****
 13.12.260   Inspection of property and records.
    A.   At all reasonable times, and with reasonable notice, the grantee shall
 permit any duly authorized representative of the city to examine all property
@@ -50863,7 +50860,7 @@ Los Angeles County Sanitation District requirements.
    B.   Undergrounding. All new utility lines serving the site, including
 natural gas, electrical, water, wastewater, and communication lines shall be
 placed underground by the developer. (Ord. 2021-05-1519 § 5 (part))
-Area One
+**** Area One ****
 20.32.160   Purpose.
    A.   Areas One through Four. The Gateway Center North commercial center will
 be developed in phases, and each new development will undergo a separate SPDR
@@ -50967,7 +50964,7 @@ each phased SPDR pursuant to SHMC Chapter
 signs will become part of the comprehensive project sign program. New signs of
 similar size and location will be approved administratively. (Ord. 2021-05-1519
 § 5 (part))
-Area Two
+**** Area Two ****
 20.32.240   Purpose.
    A.   Areas One through Four. The Gateway Center North commercial center will
 be developed in phases, and each new development will undergo a separate SPDR
@@ -51070,7 +51067,7 @@ from view from the public street or screened with landscaping or a low wall.
    Individual tenant signs will be administratively approved as tenants are
 secured and shall conform to SHMC
 Chapter 20.58, Signs. (Ord. 2021-05-1519 § 5 (part))
-Area Three
+**** Area Three ****
 20.32.320   Purpose.
    A.   Areas One through Four. The Gateway Center North commercial center will
 be developed in phases, and each new development will undergo a separate SPDR
@@ -51165,7 +51162,7 @@ from view from the public street or screened with landscaping or a low wall.
    Individual tenant signs will be administratively approved as tenants are
 secured and shall conform to SHMC
 Chapter 20.58, Signs. (Ord. 2021-05-1519 § 5 (part))
-Area Four
+**** Area Four ****
 20.32.400   Purpose.
    A.   Areas One through Four. The Gateway Center North commercial center will
 be developed in phases, and each new development will undergo a separate SPDR
@@ -51328,7 +51325,7 @@ Plan.
 20.33.310   Mechanical equipment.
    
 20.33.320   Utilities, public facilities and services.
-Area One
+**** Area One ****
 20.33.010   Purpose.
    A.   Application of the Specific Plan Concept.
    1.   A specific plan and its function may be described by comparison with
@@ -51560,7 +51557,7 @@ underground by the developer.
 provided in
 Chapter 20.82 of the Signal Hill Municipal Code.
 (Ord. 2004-04-1328 (part))
-Area Two
+**** Area Two ****
 20.33.180   Purpose.
    A.   Application of the Specific Plan Concept.
    1.   A specific plan and its function may be described by comparison with
@@ -54138,7 +54135,7 @@ VIII. Area Eight (Orange Bluff)
 20.41.1180   Mechanical equipment.
    
 20.41.1185   Utilities, public facilities and services.
-I. Area One
+**** I. Area One ****
 20.41.010   Purpose.
    A.   Application of the Specific Plan Concept. A specific plan and its
 function may be described by comparison with the general plan. The general plan
@@ -54409,7 +54406,7 @@ also be consistent with Los Angeles County sanitation district requirements.
 electrical, water, wastewater and communications lines shall be placed
 underground by the developer.
 (Ord. 94-10-1186 § 1 (part))
-II. Area Two
+**** II. Area Two ****
 20.41.170   Purpose.
    A.   Application of the Specific Plan Concept. A specific plan and its
 function may be described by comparison with the general plan. The general plan
@@ -54629,8 +54626,8 @@ approval for proposed operations plans as deemed necessary to protect the
 health and safety of the general public and of residents and occupants of
 structures likely to be affected by model home operations.
 (Ord. 98-08-1240 (part))
-III.  Reserved
-IV. Area Four
+**** III.  Reserved ****
+**** IV. Area Four ****
 20.41.560   Purpose.
    A.   Application of the Specific Plan Concept. A specific plan and its
 function may be described by comparison with the general plan. The general plan
@@ -54867,7 +54864,7 @@ District requirements.
    B.   Undergrounding of existing overhead utilities shall not be required in
 area four.
 (Ord. 2001-11- 1299 § 1)
-V. Area Five
+**** V. Area Five ****
 20.41.800   Purpose.
    A.   Application of the Specific Plan Concept. A specific plan and its
 function may be described by comparison with the general plan. The general plan
@@ -55073,7 +55070,7 @@ District requirements.
    B.   Undergrounding of existing overhead utilities shall not be required in
 Area 5.
 (Ord. 2005-01-1343 (part))
-VI. Area Six
+**** VI. Area Six ****
 20.41.925   Purpose.
    A.   Application of the Specific Plan Concept. A Specific Plan and its
 function may be described by comparison with the General Plan. The General Plan
@@ -55275,7 +55272,7 @@ accordance with Los Angeles County Flood Control District Standards. Sewage
 facilities must also be consistent with the Los Angels County Sanitation
 District requirements.
 (Ord. 2008-08-1385 (part))
-VII. Area Seven (Walnut Bluff)
+**** VII. Area Seven (Walnut Bluff) ****
 20.41.1000   Purpose.
    A.   Application of the Specific Plan Concept. A specific plan and its
 function may be described by comparison with the general plan. The general plan
@@ -55631,7 +55628,7 @@ Los Angeles County Sanitation District requirements.
    B.   Undergrounding. All new utility lines serving the site, including
 natural gas, electrical, water, wastewater, and communication lines shall be
 placed underground by the developer. (Ord. 2022-07-1359 § 4 (Exh. D (part)))
-VIII. Area Eight (Orange Bluff)
+**** VIII. Area Eight (Orange Bluff) ****
 20.41.1100   Purpose.
    A.   Application of the Specific Plan Concept. A specific plan and its
 function may be described by comparison with the general plan. The general plan
