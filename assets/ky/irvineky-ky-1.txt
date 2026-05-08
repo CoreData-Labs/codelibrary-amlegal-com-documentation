@@ -547,7 +547,7 @@ Cross-reference:
 Chapter 32
    Mayor-Council Plan, see
 Chapter 30
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.001 OATH.
    Each officer of the city shall, before entering upon the discharge of duties
 of his or her office, take the following oath: “I do solemnly swear (or affirm,
@@ -626,7 +626,7 @@ during a fiscal year cycle. The city shall pay the cost of the bond.
 of their offices covered by a blanket or umbrella bond, shall be deemed to have
 complied with division (B) above.
 (KRS 65.067) (Prior Code, § 31.04)
-ELECTED OFFICIALS
+**** ELECTED OFFICIALS ****
 § 31.015 ELECTION PROCEDURE.
    (A)   Election of city officers is governed by general election laws as
 provided in KRS Chapters 116 through 121 unless City Council otherwise
@@ -773,7 +773,7 @@ Tempore as set forth in KRS 83A.130.
 office of Mayor by reason of absence or disability, then the duties of the
 office of Mayor shall be assumed temporarily by a member of the City Council.
 (Prior Code, § 31.19) (Ord. 03-10, passed 10-27-2003)
-NON-ELECTED CITY OFFICIALS
+**** NON-ELECTED CITY OFFICIALS ****
 § 31.030 ESTABLISHMENT OF NON-ELECTED CITY OFFICES.
    (A)   All non-elected city offices shall be created by ordinance which shall
 specify:
@@ -899,7 +899,7 @@ County Industrial Board;
       (11)   Recruitment and coordination of volunteers for Main Street
 projects.
 (Prior Code, § 31.33) (Ord. 04-10, passed 9-13-2004)
-CITY UTILITY COMMISSION
+**** CITY UTILITY COMMISSION ****
 § 31.045 ESTABLISHED.
    (A)   The city has by ordinance previously acquired the waterworks and water
 distribution system of K-T Electric and Water Company through the establishment
@@ -1049,7 +1049,7 @@ any member or any employee thereof, shall be entitled to maintain an action on
 the bond of the person or persons responsible for that injury.
 (Prior Code, § 31.45) (Ord. passed 7-12-1962; Ord. passed 4-13-1964; Ord.
 passed 12-11-1967; Ord. 24-04, passed 2-12-2024)
-PLANNING COMMISSION
+**** PLANNING COMMISSION ****
 § 31.060 OBJECTIVE AND PURPOSE.
    The objectives and purposes of the Planning Commission are those set forth
 in KRS Chapter 100 and amendments and supplements thereto and those powers and
@@ -1213,7 +1213,7 @@ of his or her financial interest in a question called to vote, shall have his
 or her voting qualifications judged by the Commission as to his or her amount
 of interest in the questions and his or her right to vote on it.
 (Ord. 24-02, passed - -2023)
-BOARD OF ADJUSTMENTS
+**** BOARD OF ADJUSTMENTS ****
 § 31.080 MEMBERS.
    The Board of Adjustments (Board) shall consist of a total of five members
 with all of the members being citizen members. All members shall be appointed
@@ -1373,7 +1373,7 @@ Cross-reference:
 Chapter 31
    Mayor-Council Plan, see
 Chapter 30
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01 MEMBERS; ELECTION, QUALIFICATIONS, COMPENSATION.
    (A)   Election; term of office. Each Council member shall be elected at
 large by the voters of the city at a regular election. A candidate for Council
@@ -1442,7 +1442,7 @@ and to appear personally or through his or her designee on behalf of any
 department, office or agency in the course of any investigation.
 (KRS 83A.130(13))
 (Prior Code, § 32.03)
-RULES OF PROCEDURE
+**** RULES OF PROCEDURE ****
 § 32.15 MAYOR AS PRESIDING OFFICER.
    (A)   The Mayor shall preside at meetings of the Council. The Council may
 set, by ordinance, the manner in which one of its number may be selected to
@@ -1476,7 +1476,7 @@ Statutory reference:
    Unless otherwise provided by statute, a majority of the Council constitutes
 a quorum and a vote of a majority of a quorum is sufficient to take action.
 (KRS 83A.060(6)) (Prior Code, § 32.17)
-ORDINANCES
+**** ORDINANCES ****
 § 32.30 ONE SUBJECT; TITLE.
    Each ordinance shall embrace only one subject and shall have a title that
 clearly states the subject.
@@ -1637,7 +1637,7 @@ Improvements
  
    
 33.99   Penalty
-FINANCIAL ADMINISTRATION
+**** FINANCIAL ADMINISTRATION ****
 § 33.01 DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -1830,7 +1830,7 @@ rates, the approximate date of issue, the maturity dates, the trustee or paying
 agent, if any, and shall include a copy of the certificate of the governmental
 agency as to taxes or revenues to be collected during the term of the notes.
 (Prior Code, § 33.06) (Ord. passed 6-12-2006)
-IMPROVEMENTS
+**** IMPROVEMENTS ****
 § 33.20 DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2019,7 +2019,7 @@ Procedures for Requesting Public Records
 34.26   Public records protected from disclosure
    
 34.27   Notification of the Attorney General
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 DEFINITIONS.
    For the purposes of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2122,7 +2122,7 @@ and utility programs, but does not include that material which is prohibited
 from disclosure or copying by a license agreement between a public agency and
 an outside entity which supplied the material to the agency.
 (KRS 61.870(3)) (Prior Code, § 34.01)
-PROCEDURES FOR REQUESTING PUBLIC RECORDS
+**** PROCEDURES FOR REQUESTING PUBLIC RECORDS ****
 § 34.15 INITIAL REQUEST WITH IMMEDIATE INSPECTION.
    (A)   Any person desiring to inspect or copy the public records of this city
 shall make a request for inspection at the office of the City Clerk/Treasurer
@@ -7094,7 +7094,7 @@ REPORT TO THE KENTUCKY LABOR CABINET, DIVISION OF OSH COMPLIANCE AT
 1.800.321.0SHA (6742).
 NOTE: The employer must speak to someone. Messages or faxes are not acceptable
 to meet the reporting requirement.
-HR FORM 01 – HANDBOOK ACKNOWLEDGMENT
+*** HR FORM 01 – HANDBOOK ACKNOWLEDGMENT ***
  
 I certify that I have received a copy of the City of Irvine Employee Handbook and have read and fully understand its contents. I have had an opportunity to ask my
 supervisor or the management personnel any questions that I have about the policies contained in the handbook. I understand that failure to comply with the city’s
@@ -7122,7 +7122,7 @@ Employee Signature
                                                                                    
 Date
  
-HR FORM 02 – JOB DESCRIPTION REVIEW AND ACKNOWLEDGMENT
+*** HR FORM 02 – JOB DESCRIPTION REVIEW AND ACKNOWLEDGMENT ***
  
 SupervisorEmployee
 Discussed essential job functions.
@@ -7151,7 +7151,7 @@ Supervisor Name
                                                                                                              
 Supervisor SignatureDate
  
-HR FORM 03 – BACKGROUND CHECK RELEASE
+*** HR FORM 03 – BACKGROUND CHECK RELEASE ***
  
 (1)I, , give the City of Irvine my permission to conduct a criminal background and/or credit check using my name and personal information.
  
@@ -7176,7 +7176,7 @@ Driver’s License Number Issuing State
                                                                                                                                           
 Applicant SignatureDate
  
-HR FORM 04 – DRIVER’S LICENSE BACKGROUND CHECK RELEASE
+*** HR FORM 04 – DRIVER’S LICENSE BACKGROUND CHECK RELEASE ***
  
 CONFIDENTIAL
  
@@ -7200,7 +7200,7 @@ Driver’s License Number Issuing State
                                                                                                                                           
 Applicant SignatureDate
  
-HR FORM 05 – DRUG- AND ALCOHOL-FREE WORKPLACE ACKNOWLEDGMENT
+*** HR FORM 05 – DRUG- AND ALCOHOL-FREE WORKPLACE ACKNOWLEDGMENT ***
  
 (1)The unlawful manufacture, distribution, dispensation, possession, or use of a
 controlled substance is prohibited within the workplace of the City of Irvine.
@@ -7247,7 +7247,7 @@ Parent/Guardian Signature
 Date
  
  
-HR FORM 06 – ABSENTEE REQUEST
+*** HR FORM 06 – ABSENTEE REQUEST ***
  
 Date
  
@@ -7275,7 +7275,7 @@ Date and TimeDate and Time
 Signed Approved
  
  
-HR FORM 07 – VOLUNTEER TIME OFF/BLOOD DONATION REQUEST
+*** HR FORM 07 – VOLUNTEER TIME OFF/BLOOD DONATION REQUEST ***
  
 Date of Request
  
@@ -7315,7 +7315,7 @@ Supervisor Signature Date Received
  
 SUBMIT COMPLETED AND APPROVED FORM TO THE HUMAN RESOURCES OFFICER.
  
-HR FORM 08 – JURY DUTY ATTENDANCE
+*** HR FORM 08 – JURY DUTY ATTENDANCE ***
  
 Employee Name
  
@@ -7337,7 +7337,7 @@ week listed above.
 Employee Signature
  
  
-HR FORM 09 – TRAVEL, MEETING AND TRAINING REQUEST
+*** HR FORM 09 – TRAVEL, MEETING AND TRAINING REQUEST ***
  
 This form is to be filled out prior to the event.
 Name
@@ -7382,7 +7382,7 @@ From (city/time) To (city/time)
  
 Car Rental Yes (Must have mayor approval on file.) No
  
-HR FORM 10 – COMPLAINT FORM
+*** HR FORM 10 – COMPLAINT FORM ***
  
 Employee Information
  
@@ -7429,7 +7429,7 @@ City Clerk SignatureDate Received
 Mayor SignatureDate Received
  
  
-HR FORM 11 – EXPENSE REPORT
+*** HR FORM 11 – EXPENSE REPORT ***
 Name
  
 Department
@@ -7476,7 +7476,7 @@ Employee Signature Date
 Employee Supervisor Date
  
  
-HR FORM 12 – MISSING RECEIPT AFFIDAVIT
+*** HR FORM 12 – MISSING RECEIPT AFFIDAVIT ***
  
 Use with purchasing card for purchases and travel expense transactions.
  
@@ -7494,7 +7494,7 @@ Detailed Explanation
  
                                                                                                                                                                      
  
-                                                                
+                                                                 
  
                                                                                                                                                                      
  
@@ -7514,7 +7514,7 @@ Approving Official SignatureDate
 Approving Official Printed Name
  
  
-HR FORM 13 – CHANGE IN PERSONAL INFORMATION
+*** HR FORM 13 – CHANGE IN PERSONAL INFORMATION ***
  
 Employee Name
  
@@ -7542,7 +7542,7 @@ New Information
 Employee Signature Date
  
  
-HR FORM 14 – DISCIPLINARY FORM
+*** HR FORM 14 – DISCIPLINARY FORM ***
  
 Employee Date
  
@@ -7559,7 +7559,7 @@ Problem
  
                                                                                                                                                                      
  
-                                                                                                                                                          
+                                                                                                                                                           
  
 Recommended action to correct problem.
  
@@ -7587,7 +7587,7 @@ Mayor SignatureDate
 Failure to correct this behavior will result in further progressive discipline up to and including termination of your employment.
  
  
-HR FORM 15 – CONTINUOUS FEEDBACK
+*** HR FORM 15 – CONTINUOUS FEEDBACK ***
  
 Employee
  
@@ -7626,7 +7626,7 @@ DateDiscussion Notes
                                                                                                                                               
  
  
-HR FORM 16 – OUTSIDE EMPLOYMENT REQUEST
+*** HR FORM 16 – OUTSIDE EMPLOYMENT REQUEST ***
  
 Please be advised of my intention to engage in work outside the City of Irvine. The employer, type of work I will be doing, and the work hours are as follows:
  
@@ -7684,7 +7684,7 @@ Mayor Date
  
                                                   
  
-HR FORM 17 – OUTSIDE EMPLOYMENT REQUEST FOR POLICE OFFICERS
+*** HR FORM 17 – OUTSIDE EMPLOYMENT REQUEST FOR POLICE OFFICERS ***
  
 Officer’s Name
  
@@ -7764,7 +7764,7 @@ Mayor Date
  
                                                   
  
-HR FORM 18 – ACTIVE-DUTY MILITARY LEAVE NOTIFICATION
+*** HR FORM 18 – ACTIVE-DUTY MILITARY LEAVE NOTIFICATION ***
  
 Name Date
  
@@ -7933,7 +7933,7 @@ Cross-reference:
 36.128
    Safety officer, see §
 36.127
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 37.01 ESTABLISHMENT; MEMBERSHIP.
    (A)   There is hereby established a city government department or
 subdivision to be commonly known as the “Police Department for the City of
@@ -7974,7 +7974,7 @@ law enforcement shall be established utilizing the facilities and incentive
 program of a nationally recognized law enforcement school to qualify each
 present member and any future member of the Police Department.
 (Prior Code, § 37.02) (Ord. passed 4-8-1984; Ord. 24-06, passed 2-12-2024)
-CODE OF CONDUCT FOR POLICE OFFICERS
+**** CODE OF CONDUCT FOR POLICE OFFICERS ****
 § 37.15 POLICE ETHICS.
    (A)   (1)   It is hereby declared that law enforcement is an honorable
 calling. Service in this field demands a professional and vocational, rather
@@ -8451,7 +8451,7 @@ Enforcement
  
    
 38.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 38.001 TITLE.
    This chapter shall be known and may be cited as the “City of Irvine Code of
 Ethics.”
@@ -8523,7 +8523,7 @@ unpaid, who is one of the following:
       (7)   A member of the governing body of any city agency who has been
 appointed to the governing body of the agency by the city.
 (Prior Code, § 38.004) (Ord. 1994-6, passed 12-12-1994)
-STANDARDS OF CONDUCT
+**** STANDARDS OF CONDUCT ****
 § 38.015 CONFLICTS OF INTEREST IN GENERAL.
    Every officer and employee of the city and every city agency shall comply
 with the following standards of conduct.
@@ -8672,7 +8672,7 @@ that the expenses were incurred or received on behalf of the city or city
 agency and primarily for the benefit of the city or city agency and not
 primarily for the benefit of the officer or employee or any other person.
 (Prior Code, § 38.022) (Ord. 1994-6, passed 12-12-1994)
-FINANCIAL DISCLOSURE
+**** FINANCIAL DISCLOSURE ****
 § 38.035 WHO MUST FILE.
    The following classes of officers and employees of the city and city
 agencies shall file an annual statement of financial interests with the Board
@@ -8782,7 +8782,7 @@ pay the penalty within a prescribed period of time.
 which he or she knows to contain false information or intentionally omits
 required information shall be guilty of a Class A misdemeanor.
 (Prior Code, § 38.040) (Ord. 1994-6, passed 12-12-1994)
-NEPOTISM
+**** NEPOTISM ****
 § 38.055 NEPOTISM PROHIBITED.
    (A)   No officer or employee of the city or a city agency shall advocate,
 recommend or cause the:
@@ -8805,7 +8805,7 @@ any other similarly situated member of the class or group.
 relationship or situation that would violate the prohibition, but which existed
 prior to December 31, 1994.
 (Prior Code, § 38.055) (Ord. 1994-6, passed 12-12-1994)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 38.070 BOARD OF ETHICS CREATED.
    (A)   There is hereby created a Board of Ethics which shall have the
 authorities, duties and responsibilities set forth in this chapter to enforce
@@ -9115,13 +9115,13 @@ and all applicable laws of the Commonwealth.
 (Prior Code, § 38.999) (Ord. 1994-6, passed 12-12-1994)
 CHAPTER 39: CITY POLICIES
 Section
-Smoke-Free Policy
+*** Smoke-Free Policy ***
    
 39.01   Smoke-free policy
 National Incident Management System
    
 39.15   Established
-SMOKE-FREE POLICY
+**** SMOKE-FREE POLICY ****
 § 39.01 SMOKE-FREE POLICY.
    The real property improvements known as City Hall located at 101 Chestnut
 St., Irvine, Estill County, Kentucky, comprising the city’s administrative
@@ -9131,7 +9131,7 @@ by any employee shall be cause for employee discipline. Violation of this
 section by any member of the public shall be cause for eviction from the
 premises.
 (Prior Code, § 39.01) (Res. 1997-05-1, passed 5-12-1997)
-NATIONAL INCIDENT MANAGEMENT SYSTEM
+**** NATIONAL INCIDENT MANAGEMENT SYSTEM ****
 § 39.15 ESTABLISHED.
    (A)   The President, in Homeland Security Directive (HSPD)-5, directed the
 Secretary of the Department of Homeland Security to develop and administer a
@@ -9269,7 +9269,7 @@ Administration and Enforcement
  
    
 50.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.001 DEFINITIONS.
    For the purposes of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9369,7 +9369,7 @@ immediate arrest under charge of criminal mischief.
 50.999
 Statutory reference:
    Criminal mischief, see KRS 512.020 through 512.040
-BUILDING SEWERS AND CONNECTIONS
+**** BUILDING SEWERS AND CONNECTIONS ****
 § 50.020 WRITTEN PERMIT REQUIRED FOR USE OF PUBLIC SEWER.
    No person shall uncover, make any connections with or opening into, use,
 alter or disturb any public sewer or appurtenance thereof without first
@@ -9427,7 +9427,7 @@ parkways and other public property disturbed in the course of the work shall be
 restored in a manner satisfactory to the city.
 (Prior Code, § 50.027) (Ord. 6-24-82, passed 6-14-1982) Penalty, see §
 50.999
-USE OF PUBLIC SEWERS
+**** USE OF PUBLIC SEWERS ****
 § 50.040 DISCHARGE OF UNPOLLUTED WATERS INTO SEWER.
    (A)   No person shall discharge or cause to be discharged any storm water,
 surface water, groundwater, roof runoff or subsurface drainage to any sanitary
@@ -9552,7 +9552,7 @@ accepted by the city for treatment, subject to payment therefore, by the
 industrial concern.
 (Prior Code, § 50.045) (Ord. 6-24-82, passed 6-14-1982) Penalty, see §
 50.999
-INDUSTRIAL WASTEWATER
+**** INDUSTRIAL WASTEWATER ****
 § 50.060 PERMIT FOR INDUSTRIAL WASTEWATER DISCHARGE REQUIRED.
    (A)   No person shall discharge or cause to be discharged any industrial
 wastewater, or water containing the substances or possessing the
@@ -9699,7 +9699,7 @@ this chapter and may have his or her permit revoked by the Irvine Municipal
 Utility.
 (Prior Code, § 50.068) (Ord. 6-24-82, passed 6-14-1982) Penalty, see §
 50.999
-FEES AND CHARGES
+**** FEES AND CHARGES ****
 § 50.080 TAP-IN FEE; ADDITIONAL COST FOR INDUSTRIAL WASTEWATER DISCHARGE
 PERMIT.
    For each connection to the public sewer a tap in fee of $150 shall be paid
@@ -9724,7 +9724,7 @@ accordance with the rates set forth in §
 Cross-reference:
    Monthly sewer service rates, see §
 51.03
-POWER AND AUTHORITY OF INSPECTORS
+**** POWER AND AUTHORITY OF INSPECTORS ****
 § 50.095 RIGHT TO ENTER PREMISES.
    The Irvine Municipal Utility and other duly authorized employees of the city
 bearing proper credentials and identification shall be permitted to enter all
@@ -9758,7 +9758,7 @@ within the easement. All entry and subsequent work, if any, on the easement
 shall be done in full accordance with the terms of the duly negotiated easement
 pertaining to the private property involved.
 (Prior Code, § 50.097) (Ord. 6-24-82, passed 6-14-1982)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 50.110 HEARING BOARD.
    The City Council shall act as needed to arbitrate differences between the
 Irvine Municipal Utility and sewer users on matters concerning interpretation
@@ -10342,7 +10342,7 @@ Wastewater User Charge System
 Cross-reference:
    Wastewater pretreatment, see
 Chapter 56
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 54.01 PURPOSE.
    It is determined and declared to be necessary and conducive to the
 protection of the public health, safety, welfare and convenience of the city to
@@ -10510,7 +10510,7 @@ each delinquent bill. If delinquent bills are not paid by the twenty-fifth of
 the month, then notice will be sent that the water service will be disconnected
 on or after the seventh day of the following month, until such bill is paid.
 (Prior Code, § 54.06) (Ord. 96-04, passed 7-22-1996)
-WASTEWATER USER CHARGE SYSTEM
+**** WASTEWATER USER CHARGE SYSTEM ****
 § 54.20 WASTEWATER USER CHARGE SYSTEM.
    (A)   All municipalities are required to adopt an approved wastewater user
 charge system prior to receiving an SRF loan for the construction of wastewater
@@ -11111,7 +11111,7 @@ Miscellaneous Provisions
  
    
 56.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 56.001 PURPOSE AND POLICY.
    (A)   This chapter sets forth uniform requirements for users of the publicly
 owned treatment works for the city and enable the Irvine Municipal Utilities
@@ -11782,7 +11782,7 @@ necessary by the Operational Manager; and
 of the intermunicipal or interjurisdictional agreement.
 (Prior Code, § 56.048) (Ord. 2011-52-02, passed 1-12-2015; Ord. 2014-01, passed
 1-12-2015)
-REPORTING REQUIREMENTS
+**** REPORTING REQUIREMENTS ****
 § 56.080 BASELINE MONITORING REPORTS.
    (A)   Within either 180 days after the effective date of a categorical
 pretreatment standard, or the final administrative decision on a category
@@ -12129,7 +12129,7 @@ from the District Court of the county.
 (Prior Code, § 56.076) (Ord. 2011-52-02, passed 1-12-2015; Ord. 2014-01, passed
 1-12-2015) Penalty, see §
 56.999
-CONFIDENTIAL INFORMATION
+**** CONFIDENTIAL INFORMATION ****
 § 56.120 CONFIDENTIAL INFORMATION.
    Information and data on a user obtained from reports, surveys, wastewater
 discharge permit applications, individual wastewater discharge permits and
@@ -12492,7 +12492,7 @@ will meet the three conditions listed in division (D)(1) above.
 (Prior Code, § 56.117) (Ord. 2011-52-02, passed 1-12-2015; Ord. 2014-01, passed
 1-12-2015) Penalty, see §
 56.999
-MISCELLANEOUS PROVISIONS
+**** MISCELLANEOUS PROVISIONS ****
 § 56.200 PRETREATMENT CHARGES AND FEES.
    IMU may adopt reasonable fees for reimbursement of costs of setting up and
 operating IMU’s pretreatment program, which may include:
@@ -12613,7 +12613,7 @@ Traffic-Control Devices
  
    
 70.99   General penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this title, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -12715,7 +12715,7 @@ If these temporary regulations are necessary for a period longer than two
 weeks, the City Clerk/Treasurer shall be notified in writing of the extended
 order.
 (Prior Code, § 70.05)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.20 SIGNAL LEGENDS.
    Whenever traffic is regulated or controlled exclusively by a traffic-control
 sign or signs exhibiting the words “Go,” “Caution” or “Stop,” or exhibiting
@@ -12896,7 +12896,7 @@ Operation of Golf Carts on Public Roadways
  
    
 71.999   Penalty
-OPERATION GENERALLY
+**** OPERATION GENERALLY ****
 § 71.001 OBSTRUCTING TRAFFIC.
    (A)   It shall be unlawful to operate any vehicle or permit it to remain
 standing in any street in a manner as to create an obstruction thereof.
@@ -12945,7 +12945,7 @@ roadway.
 into an alley from the roadway may do so at low speed and with caution.
 (Prior Code, § 71.004) Penalty, see §
 71.999
-ACCIDENTS
+**** ACCIDENTS ****
 § 71.015 DUTY OF OPERATOR.
    It shall be the duty of the owner of, operator of or passenger in any motor
 vehicle which is involved in an accident, in which any person is injured or
@@ -12962,7 +12962,7 @@ shall immediately report the accident or property damage to the Police
 Department.
 (Prior Code, § 71.016) Penalty, see §
 71.999
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 71.030 OPERATOR OF VEHICLE TO DRIVE CAREFULLY.
    (A)   The operator of any vehicle upon a highway shall operate the vehicle
 in a careful manner, with regard for the safety and convenience of pedestrians
@@ -13022,7 +13022,7 @@ noise, smoke or other nuisance, to protect the rights of other traffic, and to
 promote the public safety.
 (KRS 189.020) (Prior Code, § 71.032) Penalty, see §
 71.999
-PARADES
+**** PARADES ****
 § 71.045 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13176,7 +13176,7 @@ Cross-reference:
    The city shall have the authority to revoke a parade permit issued hereunder
 on application of the standards for issuance as herein set forth.
 (Prior Code, § 71.056)
-OPERATION OF GOLF CARTS ON PUBLIC ROADWAYS
+**** OPERATION OF GOLF CARTS ON PUBLIC ROADWAYS ****
 § 71.070 DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13384,7 +13384,7 @@ Snow Emergency
 72.999   Penalty
 Statutory reference:
    Revenues from fees, fines and forfeitures related to parking, see KRS 65.120
-PARKING GENERALLY
+**** PARKING GENERALLY ****
 § 72.001 OBSTRUCTIONAL PARKING; DOUBLE PARKING.
    (A)   It shall be unlawful for any person to leave any vehicle or any other
 thing that may be a nuisance, obstruction or hindrance in or on any street,
@@ -13626,7 +13626,7 @@ business is marked by a sign stating: “No parking from a designated time until
 a designated time.”
 (Prior Code, § 72.016) (Ord. 7-79-2, passed 9-10-1979) Penalty, see §
 72.999
-DESIGNATED PARKING AREAS
+**** DESIGNATED PARKING AREAS ****
 § 72.030 DESIGNATION OF PARKING AREAS.
    (A)   Parking areas on the city streets and other ways within the city shall
 be designated by appropriate resolution of the City Council, which areas shall
@@ -13727,7 +13727,7 @@ of §§
 72.041, and place a parking or traffic violation card or ticket in or upon the
 vehicle.
 (Prior Code, § 72.041) (Ord. 7-79-1, passed 9-10-1979)
-IMPOUNDING
+**** IMPOUNDING ****
 § 72.055 IMPOUNDMENT OF VEHICLES AUTHORIZED; REDEMPTION.
    (A)   All police officers are empowered to authorize the impoundment of a
 vehicle violating vehicle-related ordinances after a citation has been issued.
@@ -13847,7 +13847,7 @@ area without the owner’s consent.
 to be towed pursuant to KRS 82.605 to 82.640 or if state government causes a
 vehicle to be towed.
 (KRS 376.275) (Prior Code, § 72.057)
-SNOW EMERGENCY
+**** SNOW EMERGENCY ****
 § 72.070 ANNOUNCEMENT OF SNOW EMERGENCY.
    (A)   Whenever the Chief of Police or other authorized city official finds
 that falling snow, sleet or freezing rain will create a condition which makes
@@ -14193,7 +14193,7 @@ Non-Domestic Animals
 90.64   Chicken and other fowl
    
 90.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14339,7 +14339,7 @@ disposal.
 claims by the owner to the animal.
 (KRS 257.100(4))
 (Prior Code, § 90.07)
-DOGS
+**** DOGS ****
 § 90.20 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14396,7 +14396,7 @@ dog impounded in the appropriate place.
    The owner of any dog so impounded may reclaim the dog upon the payment of
 all appropriate fees and after fulfilling any and all other requirements.
 (Prior Code, § 90.27)
-VICIOUS DOGS
+**** VICIOUS DOGS ****
 § 90.40 DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14451,7 +14451,7 @@ or train, torment, badger, bait or use any dog for the purpose of causing or
 encouraging the dog to attack human beings or domestic animals.
 (Prior Code, § 90.45) (Ord. 00-06, passed 7-10-2000) Penalty, see §
 90.99
-NON-DOMESTIC ANIMALS
+**** NON-DOMESTIC ANIMALS ****
 § 90.60 PROHIBITIONS.
    (A)   No person shall keep or possess within the city limits, excepting any
 part of the city having been designated as an agricultural zone, any non-
@@ -14642,7 +14642,7 @@ Sidewalks
  
    
 91.99   Penalty
-EXCAVATIONS AND CONSTRUCTION
+**** EXCAVATIONS AND CONSTRUCTION ****
 § 91.01 OPENING PERMIT REQUIRED.
    It shall be unlawful for any person, other than an authorized city official,
 to make any opening in any street, alley, sidewalk or public way of the city
@@ -14710,7 +14710,7 @@ the different kinds of work with different parties.
 Statutory references:
    Sidewalks; construction along public roads; specifications, see KRS 178.290
    Sidewalks; ramps for wheelchairs, see KRS 66.660
-ROAD AND BRIDGE PROJECTS
+**** ROAD AND BRIDGE PROJECTS ****
 § 91.20 PUBLIC HEARING REQUIRED.
    Before the city expends state-derived tax revenues on a municipal highway,
 road, street or bridge, it shall provide an opportunity to the public to
@@ -14752,7 +14752,7 @@ construction is suspended after that date and the city desires to reactivate
 the project.
 (KRS 174.100(7))
 (Prior Code, § 91.25)
-OBSTRUCTIONS
+**** OBSTRUCTIONS ****
 § 91.40 UNLOADING ON STREET OR SIDEWALK.
    No person shall unload any heavy material in the streets of the city by
 throwing or letting the material fall upon the pavement of any street, alley,
@@ -14796,7 +14796,7 @@ slowing of vehicular traffic, shall hereafter be placed upon any city street.
    (B)   This prohibition shall not apply to alley ways.
 (Prior Code, § 91.44) (Ord. 1996-05, passed 8-12-1996) Penalty, see §
 91.99
-SIDEWALKS
+**** SIDEWALKS ****
 § 91.55 CONSTRUCTION.
    (A)   Any person, firm or corporation that desires or is ordered to
 construct a sidewalk or entrance pavement in, upon or adjacent to any public
@@ -14977,7 +14977,7 @@ Administration and Enforcement
  
    
 92.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 92.01 WEEDS.
    (A)   Any weeds such as jimson, burdock, ragweed, thistle, cocklebur, poison
 ivy, poison oak or other weeds of a like kind found growing in any lot or tract
@@ -15076,7 +15076,7 @@ building, telegraph or telephone pole, electric light or gas pole, tree or
 fence, within the limits of the city without the consent of the owner.
 (Prior Code, § 92.06) (Ord. 10-79, passed 10-22-1979) Penalty, see §
 92.99
-LITTERING
+**** LITTERING ****
 § 92.20 LITTER REGULATIONS.
    (A)   Depositing of litter prohibited.
       (1)   It shall be unlawful for any person, in person or by his or her
@@ -15107,7 +15107,7 @@ and similar waste material if the matter is securely lashed to the vehicle to
 prevent spilling or dropping as aforesaid.
 (Prior Code, § 92.20) (Ord. 94-4, passed 10-10-1994) Penalty, see §
 92.99
-NOISE
+**** NOISE ****
 § 92.35 NOISE DISTURBANCES; GENERALLY.
    In addition to the specific prohibitions, no person shall make, continue or
 cause to be made, continued or permitted any noise disturbances on or across a
@@ -15235,7 +15235,7 @@ like applications for initial special variances.
 defining the procedures to be followed in applying for a special variance and
 the criteria to be considered in deciding whether to grant a special variance.
 (Prior Code, § 92.40) (Ord. 94-4, passed 10-10-1994)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 92.55 ABATEMENT OF NUISANCE.
    (A)   Notice to abate. It shall be the duty of the Mayor and/or by the
 Mayor, citation officers or others authorized to serve or cause to be served a
@@ -15391,7 +15391,7 @@ Fire Prevention
 Cross-reference:
    Fire Prevention Code adopted by reference, see §
 150.04
-FIRE LIMITS; FIRE WARNINGS
+**** FIRE LIMITS; FIRE WARNINGS ****
 § 93.01 FIRE LIMITS.
    The boundaries subject to fire limits are hereby prescribed, as follows:
 “Beginning on the west side of Main Street at the Kentucky River Bridge; thence
@@ -15444,7 +15444,7 @@ answer only those calls within its jurisdiction as are properly reported in
 accordance with the terms of this section.
 (Prior Code, § 93.02) (Ord. passed 4-13-1964) Penalty, see §
 93.99
-FIREWORKS
+**** FIREWORKS ****
 § 93.15 DEFINITIONS; LEGALITY OF ITEMS.
    (A)   As used in this subchapter, FIREWORKS means any composition or device
 for the purpose of producing a visible or an audible effect by combustion,
@@ -15844,7 +15844,7 @@ division (C)(1) above shall be held.
 enacting ordinances that affect the sale or use of fireworks within its
 jurisdiction.
 (KRS 227.750) (Prior Code, § 93.20)
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 93.35 BLASTING PERMIT.
    No person shall cause a blast to occur within the city without making
 application in writing beforehand, setting forth the exact nature of the
@@ -17132,7 +17132,7 @@ prohibited
 Cross-reference:
    Motor vehicle recyclers, see
 Chapter 117
-PAWNBROKERS AND PRECIOUS METAL DEALERS
+**** PAWNBROKERS AND PRECIOUS METAL DEALERS ****
 § 112.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -17284,7 +17284,7 @@ reporting in accordance with §
    Each incident which results in a violation of this subchapter shall
 constitute a separate offense.
 (Prior Code, § 112.13) (Ord. 11-01, passed 11-14-2011)
-RECYCLERS
+**** RECYCLERS ****
 § 112.25 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18180,7 +18180,7 @@ Board’s order, in which case the final order is the order entered by the Board
 upon direction from the reviewing court of last resort in the final order of
 said reviewing court.
 (Prior Code, § 118.11) (Ord. 2013-12, passed 12-2-2013)
-LICENSES
+**** LICENSES ****
 § 118.030 CLASSIFICATION OF LICENSES; FEE SCHEDULE.
    (A)   For the privilege of causing, permitting and engaging in the actions,
 business and transactions authorized thereby in regard to traffic in alcoholic
@@ -18671,7 +18671,7 @@ Hall at least seven days in advance of conducting a sampling event; and
 hours between 12:00 noon and 8:00 p.m.
 (Prior Code, § 118.38) (Ord. 2013-12, passed 12-2-2013) Penalty, see §
 118.999
-SALE OF ALCOHOLIC BEVERAGES
+**** SALE OF ALCOHOLIC BEVERAGES ****
 § 118.060 HOURS OF SALE.
    (A)   Except as provided in division (D) below and a license holder under §
 118.030, no premises for which there has been granted a license for the sale of
@@ -18979,7 +18979,7 @@ Kentucky Department of Alcoholic Beverage Control not less than once every
 three years thereafter.
 (Prior Code, § 118.70) (Ord. 2013-12, passed 12-2-2013) Penalty, see §
 118.999
-SIGNS AND ADVERTISING
+**** SIGNS AND ADVERTISING ****
 § 118.120 SIGNS AND ADVERTISING.
    (A)   No flashing lights shall be used to illuminate the exterior of any
 premises licensed under this chapter.
@@ -18997,7 +18997,7 @@ terms such as “high test”, “high proof” or “extra strong”) or depict
 activities that tend to encourage excessive consumption.
 (Prior Code, § 118.80) (Ord. 2013-12, passed 12-2-2013) Penalty, see §
 118.999
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 118.135 ALCOHOLIC BEVERAGE CONTROL VESTED IN THE CHIEF OF POLICE.
    The powers of alcohol beverage control shall be vested in the Chief of
 Police pursuant to KRS 241.160.
@@ -19659,7 +19659,7 @@ Permits
  
    
 150.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 ADOPTION OF KENTUCKY BUILDING CODE; ENFORCEMENT AGENT.
    (A)   The Kentucky Building Code, as contained in Title 815, Chapter 7 of
 the Kentucky Administrative Regulations; the Kentucky Residential Code, as
@@ -19759,7 +19759,7 @@ application fees that relates to the building permits and zoning permits as may
 be generated through the city and such other allocations as may be approved by
 the Board of Council.
 (Ord. 21-09, passed 1-11-2022)
-PERMITS
+**** PERMITS ****
 § 150.20 REVIEW OF APPLICATIONS.
    (A)   The Building Inspector shall review all building permit applications
 for new construction or substantial improvements to determine whether proposed
@@ -20038,7 +20038,7 @@ Administration
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 STATUTORY AUTHORIZATION.
    (A)   The Legislature of the Commonwealth has in KRS Chapter 100 delegated
 to local government units the authority to adopt regulations designed to
@@ -20782,7 +20782,7 @@ activities in the special flood hazard areas (SFHA). See §
    (B)   Application for a development permit shall be made on forms furnished
 by the Floodplain Administrator.
 (Prior Code, § 152.13) (Ord. 154, passed 1-24-2011)
-FLOOD HAZARD REDUCTION
+**** FLOOD HAZARD REDUCTION ****
 § 152.25 GENERAL CONSTRUCTION STANDARDS.
    In all special flood hazard areas, the following provisions are required.
    (A)   All new construction and substantial improvements shall be adequately
@@ -21075,7 +21075,7 @@ ensure that toxic substances will not be displaced by or released into
 floodwaters. Access routes elevated to or above the level of the base flood
 elevation shall be provided to all critical facilities to the extent possible.
 (Prior Code, § 152.46) (Ord. 154, passed 1-24-2011)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 152.45 DESIGNATION OF FLOODPLAIN ADMINISTRATOR.
    The City Council hereby appoints the Mayor or designee to administer,
 implement and enforce the provisions of this chapter by granting or denying
