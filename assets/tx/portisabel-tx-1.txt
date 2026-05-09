@@ -217,8 +217,8 @@ Section
 12.18   Rearrangement of Articles and Sections
 Section
 12.19   Submission of Charter to Voters
-HOME RULE CHARTER OF THE CITY OF PORT ISABEL, TEXAS
-PREAMBLE
+***** HOME RULE CHARTER OF THE CITY OF PORT ISABEL, TEXAS
+PREAMBLE *****
 We, the citizens of Port Isabel, Texas, in order to establish a home rule
 municipal government, provide for the future progress of our City and obtain
 more fully the benefits of local self-government, do hereby adopt this Home
@@ -1686,7 +1686,7 @@ Article IV, §
    The Official Ballot, see Charter,
 Article IV, §
 4.04
-ELECTIONS
+**** ELECTIONS ****
 § 30.01 ELECTIONS GENERALLY.
    All elections pertaining to municipal affairs shall be governed by the
 election laws of the state. In all city elections, the Mayor, City Secretary
@@ -1846,12 +1846,12 @@ Article II, §
    Vacancies of Mayor and Commissioners, see Charter,
 Article II, §
 2.03
-CITY COMMISSION
+**** CITY COMMISSION ****
 § 31.01 CITY COMMISSION MEETINGS.
    The City Commission meetings shall hereafter be held on the second and
 fourth Tuesday of each and every month at 7:00 p.m. in the City Hall.
 (Ord. 431, passed 7-9-1984)
-CITY SECRETARY
+**** CITY SECRETARY ****
 § 31.15 CITY SECRETARY; DUTIES.
    (A)   It shall be the duty of the Secretary of the city to maintain minutes
 of any regular or special Commission meeting by recording, as a minimum:
@@ -1927,7 +1927,7 @@ Charter reference:
    Planning Commission, see Charter,
 Article VII, §
 7.02
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.001 COMPOSITION.
    All city boards, commissions and committees, including the Park Board, the
 Library Board and any other boards, commissions or committees now existing or
@@ -1961,7 +1961,7 @@ by recommendation, with the approval of the City Commission.
 Commissioners and the Mayor more conscientious in the selection of their
 recommendations,
 (Ord. 450, passed 7-23-1985)
-PLANNING AND ZONING BOARD
+**** PLANNING AND ZONING BOARD ****
 § 32.015 CREATION.
    That there shall be and is hereby created a City Planning and Zoning
 Commission for and in the city.
@@ -2130,7 +2130,7 @@ violation of §§
 32.015 through
 32.024.
 (Ord. 141D, passed 4-9-1984)
-PARKS AND RECREATION BOARD
+**** PARKS AND RECREATION BOARD ****
 § 32.040 TITLE.
    This subchapter shall be commonly known and cited as the Parks and
 Recreation Board subchapter.
@@ -2255,7 +2255,7 @@ Meeting statute (Tex. Rev. Civ. Stat. Article 6252-17).
 shall be decided by a simple majority of those voting members present. Only
 those voting members present can vote.
 (Ord. 449, passed 6-25-1985)
-ECONOMIC DEVELOPMENT CORPORATION
+**** ECONOMIC DEVELOPMENT CORPORATION ****
 § 32.055 CREATION.
    The Articles of Incorporation of the Corporation attached hereto to
 Ordinance 556 as Exhibit A and incorporated herein by reference as a part
@@ -2276,7 +2276,7 @@ subchapter and imposed by § 4B of the Act is January 1, 1995, which is the
 first day the tax may be imposed after complying with the requirements of the
 Act and the Tax Code.
 (Ord. 556, passed 1-10-1995)
-COMMUNITY DEVELOPMENT COUNCIL
+**** COMMUNITY DEVELOPMENT COUNCIL ****
 § 32.070 CREATION.
    (A)   There is hereby created a Community Development Council for the
 purpose of advising the City Commission whenever requested to do so by the City
@@ -2370,7 +2370,7 @@ Charter reference:
    Department of Police, see Charter,
 Article III, §
 3.02
-POLICE OFFICERS
+**** POLICE OFFICERS ****
 § 33.01 APPOINTMENT.
    The Chief of Police is hereby authorized to appoint not more than six police
 officers.
@@ -2390,7 +2390,7 @@ appearance and testimony in court relative to an arrest made by the officer.
 The fee shall be taxed as costs against any defendant convicted of a
 misdemeanor, as provided in ordinance styled.
 (Ord. 128A, passed 3-24-1953)
-POLICE RESERVE UNIT
+**** POLICE RESERVE UNIT ****
 § 33.15 CREATED.
    There is hereby created a Police Reserve Unit under the conditions, rules
 and regulations hereinafter set out.
@@ -2567,7 +2567,7 @@ insurance coverage of the member, the adequacy of the coverage to be determined
 by the City Commission and further that the member has met any and all bonding
 requirements as determined by the City Commission.
 (Ord. 318A, passed 6-11-1985)
-DISABLED PARKING ENFORCEMENT
+**** DISABLED PARKING ENFORCEMENT ****
 § 33.45 CHIEF OF POLICE TO APPOINT.
    The Chief of Police or his or her designee shall have the authority to
 appoint any adult person who is a citizen of the United States, is a resident
@@ -2622,7 +2622,7 @@ parking space or area for persons with disabilities on private property that is
 designated and in compliance with the identification requirements of Tex.
 Transportation Code § 681.009(b).
 (Ord. 583, passed 12-9-1997)
-AMBULANCE SERVICE
+**** AMBULANCE SERVICE ****
 § 33.60 LAGUNA MADRE COMMUNITY AMBULANCE SERVICE.
    (A)   The Laguna Madre Community Ambulance Service has contacted the City
 Commission requesting that the city take over the ambulance service, all of its
@@ -2663,7 +2663,7 @@ Charter reference:
    Fire Marshal, see Charter,
 Article III, §
 3.08
-FIRE MARSHAL
+**** FIRE MARSHAL ****
 § 34.01 POSITION CREATED.
    The office of Fire Marshal is hereby created. The office shall be
 independent of other city departments, the Fire Marshal reporting directly to
@@ -2806,7 +2806,7 @@ plus Municipal Court costs, if any.
          (c)   Failure to notify the Fire Department of an alarm activation
 (each) - $150 minimum.
 (Ord. 68-B, passed 12-12-2017)
-FIRE HYDRANTS
+**** FIRE HYDRANTS ****
 § 34.20 FIRE HYDRANT RENTAL.
    (A)   A charge be made against the city for services rendered thereto by the
 water works system of the city on account of fire hydrants comprising a part of
@@ -2994,7 +2994,7 @@ Situations
  
    
 36.99   Penalty
-COMPREHENSIVE EMERGENCY MANAGEMENT PLAN
+**** COMPREHENSIVE EMERGENCY MANAGEMENT PLAN ****
 § 36.01 ORGANIZATION.
    There exists the office of Emergency Management Director of the city, which
 shall be held by the Mayor in accordance with state law.
@@ -3134,7 +3134,7 @@ authority to do so has been granted to such person by the proper officials.
    This subchapter shall not be construed so as to conflict with any state or
 federal statute or with any military or naval order, rule, or regulation.
 (Ord. 629, passed 7-8-2003)
-NATIONAL INCIDENT MANAGEMENT SYSTEM
+**** NATIONAL INCIDENT MANAGEMENT SYSTEM ****
 § 36.20 ADOPTED.
    (A)   On February 28, 2003, the President issued Homeland Security
 Presidential Directive (HSPD)-5 that directed the Department of Homeland
@@ -3153,8 +3153,8 @@ and hazard situations.
    (E)   The City Commission hereby adopts the National Incident Management
 System dated March 1, 2004.
 (Ord. 667, passed 9-13-2005)
-ACTS TO BE PERFORMED BY CITY EMPLOYEES, OFFICERS OR AGENTS IN EMERGENCY
-SITUATIONS
+**** ACTS TO BE PERFORMED BY CITY EMPLOYEES, OFFICERS OR AGENTS IN EMERGENCY
+SITUATIONS ****
 § 36.30 TO ACT AS REASONABLY NECESSARY.
    Every officer, employee or agent of the city responding to an emergency call
 or reacting to an emergency situation is hereby authorized to act in a manner
@@ -3182,7 +3182,7 @@ Texas Municipal Retirement System
 Social Security
    
 37.30   Social Security
-POLICIES AND PROCEDURES APPLICABLE TO CITY EMPLOYEES
+**** POLICIES AND PROCEDURES APPLICABLE TO CITY EMPLOYEES ****
 § 37.01 ADOPTED BY REFERENCE.
    "Personnel Policies and Procedures", copies of which are attached hereto by
 reference and maintained by the City Secretary, for all purposes is hereby
@@ -3192,7 +3192,7 @@ of the ordinances contained in this code of ordinances and any of the
 shall govern and prevail.
 (Ord. 420, passed 9-26-1983; Ord. 420A, passed 8-26-2008; Res. 01-12-2016-1,
 passed 1-12-2016)
-TEXAS MUNICIPAL RETIREMENT SYSTEM
+**** TEXAS MUNICIPAL RETIREMENT SYSTEM ****
 § 37.15 ADOPTED BY REFERENCE.
    (A)   Election to participate in the TMRS. On behalf of the city, the City
 Commission hereby exercises its option and elects to have the city and all of
@@ -3215,7 +3215,7 @@ Clerk.
 (Ord. 438, passed 8-28-1984; Ord 498, passed 10-27-1987; Ord. 500, passed 11-
 24-1987; Ord. 535, passed 11-25-1991; Ord. 536, passed 11-25-1991; Ord. 693,
 passed 6-1-2017)
-SOCIAL SECURITY
+**** SOCIAL SECURITY ****
 § 37.30 SOCIAL SECURITY.
    (A)   Execution of agreements.
       (1)   The City Commission, acting for and on behalf of the city, shall
@@ -3284,7 +3284,7 @@ under schedule
 Charter reference:
    Municipal Finance, see Charter,
 Article VIII
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 38.01 CITY'S LIABILITY FOR ATTORNEY FEES INCURRED BY CITY COMMISSIONERS.
    The city shall assume liability for reasonable attorney's fees incurred by
 City Commissioners who have been sued in their individual capacities for action
@@ -3338,7 +3338,7 @@ the Program.
 Program shall be implemented as outlined in the Exhibit A, attached to
 Ordinance 675, on file in the office of the City Clerk.
 (Ord. 675, passed 4-21-2009)
-FINANCIAL POLICIES
+**** FINANCIAL POLICIES ****
 § 38.15 DELINQUENT ACCOUNTS.
    (A)   Definitions. For the purpose of this section, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -3487,7 +3487,7 @@ after its delivery to the person shall cause and render all city action taken
 to be null, void and held for naught. In that event, no amount previously
 deposited or paid shall be refunded to any person.
 (Ord. 609, passed 11-14-2000)
-RECORDS MANAGEMENT PROGRAM
+**** RECORDS MANAGEMENT PROGRAM ****
 § 38.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3763,7 +3763,7 @@ Article VII, §
    Taxes: When Due and Payable, see Charter,
 Article VII, §
 8.04
-TELECOMMUNICATION SERVICES
+**** TELECOMMUNICATION SERVICES ****
 § 39.01 TAXATION OF TELECOMMUNICATION SERVICES.
    (A)   A tax is hereby authorized on all telecommunications services sold
 within the city. For purposes of this section, the sale of telecommunications
@@ -3778,7 +3778,7 @@ thereof.
 imposed by the city for all other local sales and use taxes as authorized by
 the legislature of the state.
 (Ord. 503, passed 12-29-1987)
-LOCAL HOTEL-MOTEL OCCUPANCY TAX
+**** LOCAL HOTEL-MOTEL OCCUPANCY TAX ****
 § 39.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -3844,7 +3844,7 @@ subchapter and the amount of taxes due under its provisions.
 purposes authorized by law.
 (Ord. 392, passed 9-22-1980; Ord. 392A, passed 4-14-1992; Ord. 392B, passed 10-
 14-1997)
-PROPERTY TAX
+**** PROPERTY TAX ****
 § 39.30 ADOPTING SECTION 33.48(a) OF THE TEXAS PROPERTY TAX CODE.
    (A)   Section 33.48(a) of the Tex. Property Tax Code provides that
 attorney's fees approved by the court and not exceeding 15% of the total amount
@@ -3873,7 +3873,7 @@ delinquent after January 1, 1982, not prior years, and that it will eliminate
 the taxing unit the expense of paying the attorney for collecting the
 delinquent taxes.
 (Ord. 401, passed 4-26-1982)
-LOCAL SALES AND USE TAX
+**** LOCAL SALES AND USE TAX ****
 § 39.45 RETAINING TAXES IMPOSED.
    The city, by majority vote of its governing body, hereby votes to retain the
 taxes authorized by the Local Sales and Use Tax Act (Vernon's Texas Civil
@@ -3882,7 +3882,7 @@ distribution, lease or rental of, and the use, storage or other consumption of
 gas and electricity for residential use, as authorized by House Bill No. 1,
 Acts 1978, 65th Legislature, Second called Session, § 6.
 (Ord. 382, passed 3-12-1979)
-HOMESTEAD TAX
+**** HOMESTEAD TAX ****
 § 39.60 TAX EXEMPTION FOR PROPERTY OWNERS AGE 65 AND OVER.
    (A)   All property owners residing within the city limits, who have reached
 their sixty-fifth birthday and who have declared their exemption by proper
@@ -3977,7 +3977,7 @@ Brush and Bulky Items for Collection
  
    
 50.99   Penalty
-GARBAGE COLLECTION SERVICE
+**** GARBAGE COLLECTION SERVICE ****
 § 50.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4298,13 +4298,13 @@ Article III, §
    Department of Health and Sanitation, see Charter
 Article III, §
 3.06
-LANDFILL
+**** LANDFILL ****
 § 50.35 SANITARY LANDFILL.
    It shall be unlawful for any person to dispose of garbage or other waste
 material in any area not designated by ordinance as a sanitary landfill.
 (Ord. 521, passed 1-9-1990) Penalty, see §
 50.99
-BRUSH AND BULKY ITEMS FOR COLLECTION
+**** BRUSH AND BULKY ITEMS FOR COLLECTION ****
 § 50.50 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -4380,7 +4380,7 @@ Sprinkling, Watering or Irrigating
  
    
 51.99   Penalty
-CITY WATER WORKS
+**** CITY WATER WORKS ****
 § 51.01 SUPERINTENDENT OF WATER WORKS.
    (A)   There shall be appointed by the City Commission, a Superintendent of
 the Water Works, who shall be the administrative officer of the water works
@@ -4573,7 +4573,7 @@ Asphalt paving         $10
 Gravel or shell paving $5
  
 (Ord. 104, passed 7-19-1946)
-SPRINKLING, WATERING OR IRRIGATING
+**** SPRINKLING, WATERING OR IRRIGATING ****
 § 51.25 PROHIBITION.
    From and after the taking effect of this subchapter it shall be unlawful for
 any person, firm or corporation to use water supplied by the city for the
@@ -4895,7 +4895,7 @@ Speed Zones
  
    
 71.99   Penalty
-TRAFFIC CONTROL DEVICES
+**** TRAFFIC CONTROL DEVICES ****
 § 71.01 CITY MANAGER RESPONSIBILITY.
    The City Manager or his or her designee shall have the responsibility for
 installing official traffic control devices within the city and they shall
@@ -4934,7 +4934,7 @@ registered owner of the vehicle, shall constitute prima facie evidence that the
 registered owner of the vehicle was the person who parked the vehicle at the
 point where and for the time during which the violation occurred.
 (Ord. 597, passed 7-27-1999)
-SPEED ZONES
+**** SPEED ZONES ****
 § 71.20 SPEED ZONE REGULATIONS.
    (A)   It shall be unlawful to drive any motor vehicle on any street of the
 city not under the jurisdiction of the state or the county, in an urban
@@ -4985,7 +4985,7 @@ Parking of Vehicles and Watercraft
  
    
 72.99   Penalty
-PARKING OF VEHICLES AND WATERCRAFT
+**** PARKING OF VEHICLES AND WATERCRAFT ****
 § 72.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5560,7 +5560,7 @@ Permits and Procedures
  
    
 90.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 SHORT TITLE.
    This shall be known as the Burglary and Robbery and Related Emergency Alarm
 Ordinance of the city.
@@ -5627,7 +5627,7 @@ directly or through an intermediary.
 application as provided for in §
 90.15.
 (Ord. 460, passed 2-11-1986)
-PERMITS AND PROCEDURES
+**** PERMITS AND PROCEDURES ****
 § 90.15 PERMIT REQUIRED; APPLICATION; TRANSFERABILITY; FALSE STATEMENTS.
    (A)   A person commits an offense if he or she operates or causes to be
 operated an alarm system without an alarm permit or does not comply with the
@@ -5992,7 +5992,7 @@ Spaying and Neutering of Pets
  
    
 91.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6057,7 +6057,7 @@ granting of animal license.
 state and are usually not domesticated.
 (Ord. 483, passed 1-27-1987; Ord. 483A, passed 3-23-1993; Ord. 483B, passed 1-
 9-1996; Ord. 483D, passed 8-27-1996)
-RABIES CONTROL
+**** RABIES CONTROL ****
 § 91.015 VACCINATIONS.
    Every owner of an animal three months of age or older shall have the animal
 vaccinated (if applicable) against rabies. All animals vaccinated at three
@@ -6127,7 +6127,8 @@ unvaccinated animals.
 (Ord. 483, passed 1-27-1987; Ord. 483A, passed 3-23-1993; Ord. 483D, passed 8-
 27-1996) Penalty, see §
 91.999
-REPORTING BITES FROM ANIMALS SUSCEPTIBLE TO RABIES; RELATED PROCEDURES
+**** REPORTING BITES FROM ANIMALS SUSCEPTIBLE TO RABIES; RELATED PROCEDURES
+****
 § 91.035 DUTY TO REPORT.
    Any person having knowledge that an animal has bitten a human shall
 immediately report the incident to the City Health Officer or Animal Control
@@ -6184,7 +6185,7 @@ with the proclamation.
    (B)   The proclamation shall be published and broadcast for public
 information.
 (Ord. 483A, passed 3-23-1993; Ord. 483D, passed 8-27-1996)
-ANIMAL IDENTIFICATION
+**** ANIMAL IDENTIFICATION ****
 § 91.055 IDENTIFICATION TAGS.
    (A)   (1)   All animals required to wear a rabies tag shall also be required
 to wear a tag identifying the owner and the owner's address. The purpose of the
@@ -6219,7 +6220,7 @@ before the animal will be released.
 must be implanted with microchip identification, and the implant fee paid must
 be before the animal will be released to the adoptive owner.
 (Ord. 483-F, passed 9-11-2012)
-PUBLIC NUISANCE
+**** PUBLIC NUISANCE ****
 § 91.070 ANIMALS RUNNING AT LARGE.
    (A)   It shall be unlawful for the owner of any animal to permit the animals
 to run at large within the city. The animal may be allowed beyond the premises
@@ -6288,7 +6289,7 @@ all expenses of the treatment and/or the impoundment.
 virtue of the number and/or types of animals maintained; and
    (E)   Attacks other domestic animals;
 (Ord. 483A, passed 3-23-1993; Ord. 483D, passed 8-27-1996)
-DANGEROUS ANIMALS
+**** DANGEROUS ANIMALS ****
 § 91.090 POSSESSION OF DANGEROUS ANIMALS.
    No person shall own or harbor a dangerous animal within the city. Such an
 animal shall be impounded as a public nuisance. If impoundment of the animal
@@ -6309,7 +6310,7 @@ inches high in both English and Spanish.
 (Ord. 483, passed 1-27-1987; Ord. 483A, passed 3-23-1993; Ord. 483D, passed 8-
 27-1996) Penalty, see §
 91.999
-IMPOUNDED ANIMALS
+**** IMPOUNDED ANIMALS ****
 § 91.105 IMPOUNDMENT.
    (A)   Animals owned or harbored in violation of this chapter or any other
 ordinance or law of the state shall be taken into custody by the Animal Control
@@ -6381,7 +6382,7 @@ court, nor to any fees and fines which may result from a violation of this
 chapter.
 (Ord. 483, passed 1-27-1987; Ord. 483A, passed 3-23-1993; Ord. 483D, passed 8-
 27-1996)
-INHUMANE TREATMENT OF ANIMALS
+**** INHUMANE TREATMENT OF ANIMALS ****
 § 91.125 INHUMANE TREATMENT OF ANIMALS.
    (A)   No owner shall fail to provide his or her animals with sufficient
 wholesome and nutritious food, water in sufficient quantities, proper air,
@@ -6432,7 +6433,7 @@ reimburse the city all veterinary fees associated with the medical treatment
 provided to the animal while it was in custody.
 (Ord. 483A, passed 3-23-1993; Ord. 483D, passed 8-27-1996) Penalty, see §
 91.999
-KENNELING OF ANIMALS
+**** KENNELING OF ANIMALS ****
 § 91.140 GENERAL.
    (A)    Kennels must meet all city and zoning requirements.
    (B)   The keeping of any animal within the city, or in territory outside the
@@ -6493,7 +6494,7 @@ inches in height; and
 months of age per residence.
 (Ord. 483D, passed 8-27-1996) Penalty, see §
 91.999
-PERMITS
+**** PERMITS ****
 § 91.155 PERMIT REQUIREMENTS AND FEES.
    (A)   No person, partnership or corporation shall operate a kennel or pet
 shop without first obtaining a permit in compliance with this section.
@@ -6563,7 +6564,7 @@ a permit or license to operate a commercial animal establishment.
 a period of 30 days. Each re-application shall be accompanied by a $10 fee.
 (Ord. 483A, passed 3-23-1993; Ord. 483D, passed 8-27-1996) Penalty, see §
 91.999
-SAFETY PROVISION
+**** SAFETY PROVISION ****
 § 91.170 INTERFERENCE WITH THE ANIMAL CONTROL SUPERVISOR OR AUTHORIZED
 REPRESENTATIVES.
    It shall be unlawful for any person to interfere with, molest, hinder or
@@ -6587,7 +6588,7 @@ organization.
 27-1996)
 Statutory reference:
    For similar provisions, see Vernon Ann. Civ. St. 823.005
-SPAYING AND NEUTERING OF PETS
+**** SPAYING AND NEUTERING OF PETS ****
 § 91.180 GENERAL.
    (A)   Requirement. No person may harbor a dog or cat six months of age or
 older within the city limits that has not been spayed or neutered unless such
@@ -9129,7 +9130,7 @@ Fire Zones
 Cross-reference:
    Fire inspection fees, see §
 150.06
-FIRE PREVENTION CODE
+**** FIRE PREVENTION CODE ****
 § 96.01 ADOPTION OF FIRE PREVENTION CODE.
    There is hereby adopted for the purpose of establishing rules and
 regulations for a standard fire prevention code known as the Standard Fire
@@ -9227,7 +9228,7 @@ of the Fire Marshal to the governing body of this city within 30 days from the
 date of the decision of the Fire Marshal to the governing body of this city
 within 30 days from the date of the decision appealed.
 (Ord. 273, passed 9-13-1965)
-FIREWORKS
+**** FIREWORKS ****
 § 96.20 POSSESSION AND DISCHARGE.
    No person, firm, company, corporation or association shall cast, throw or
 fire any squib, rocket, cracker, torpedo, grenade, gun, revolver, pistol, cap
@@ -9259,7 +9260,7 @@ demonstration or display shall be of a character, and so located, discharged or
 fired, as in the opinion of the City Commission, after proper inspection, shall
 not be hazardous to property or endanger any person or persons.
 (Ord. 173A, passed 6-18-1956; Ord. 173B, passed 6-24-1958)
-FIRE ZONES
+**** FIRE ZONES ****
 § 96.35 FIRE ZONE LIMITS.
    (A)   Fire zone limits for Fire Zone Number One. The following shall be and
 are hereby declared to be the limits of Fire Zone Number One:
@@ -9894,7 +9895,7 @@ Abandoned Refrigerators
  
    
 99.99   Penalty
-ABANDONED MOTOR VEHICLES
+**** ABANDONED MOTOR VEHICLES ****
 § 99.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -10035,7 +10036,7 @@ necessary to enforce the subchapter.
 removal of a vehicle, watercraft and outboard motor left on public property
 which constitutes an obstruction to traffic.
 (Ord. 156A, passed 7-24-1972; Ord. 156B, passed 7-14-2009)
-NOISE
+**** NOISE ****
 § 99.20 PROHIBITION.
    (A)    It shall be unlawful for any person to use or operate or cause to be
 used or operated, any mechanical or electrical device, machine, apparatus or
@@ -10095,7 +10096,7 @@ enforce the provisions of this section and allow no person to use a sound
 amplification device on public property in the vicinity of Washington Park or
 Arturo Galvan Coastal Park in violation of this section.
 (Ord. 689, passed 8-2-2016)
-OPEN BURNING
+**** OPEN BURNING ****
 § 99.35 PROHIBITION.
    From and after the effective date of this subchapter, it shall be unlawful
 for any person, firm or corporation to burn or cause to be burned any trash,
@@ -10103,7 +10104,7 @@ shavings, straw or other combustible substance within the city limits except at
 and within the confines of the city dump.
 (Ord. 197, passed 9-3-1958) Penalty, see §
 99.99
-ABANDONED REFRIGERATORS
+**** ABANDONED REFRIGERATORS ****
 § 99.50 PROHIBITION.
    From and after the effective date of this subchapter, it shall be unlawful
 for any person, firm or corporation within the corporate limits of the city to
@@ -10199,7 +10200,7 @@ Cross-reference:
 72.01 et seq.
    Parks and Recreation Board, see §§
 32.040 et seq.
-USE OF CITY PARKS
+**** USE OF CITY PARKS ****
 § 100.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -10318,7 +10319,7 @@ sponsored events at public parks as defined herein. All other uses of public
 parks shall continue to be governed by §
 100.02.
 (Ord. 615, passed 5-10-2001)
-CITY PARK REGULATIONS
+**** CITY PARK REGULATIONS ****
 § 100.20 HOURS.
    All city parks except for the city dock will be closed from the hours of 11:
 00 p.m. until 6:00 a.m. on Sundays through Thursdays and from 12:00 a.m. until
@@ -10362,7 +10363,7 @@ located within the limits of Galvan, Pompano and Washington Parks.
 recreational purposes shall be permitted, provided such drilling has been
 approved by the Texas Parks and Wildlife Department.
 (Ord. 03-10-2015-01, passed 3-24-2015; Am. Ord. 690, passed 12-13-2016)
-CITY DOCK REGULATIONS
+**** CITY DOCK REGULATIONS ****
 § 100.35 FEES.
    The following rates shall be paid to the city by boat owners or boat
 operators docking pleasure boats at the city dock.
@@ -10407,7 +10408,7 @@ exceeding ten days.
    (B)   An extension of time shall be permitted when boat owner or operator
 can show good cause for an extension.
 (Ord. 374, passed 6-12-1978)
-BASEBALL PARK
+**** BASEBALL PARK ****
 § 100.50 FEES.
    (A)   A fee of $7 per game per day shall be charged for the use of the city
 baseball park by the Port Isabel Adult Softball League for all league games.
@@ -10502,7 +10503,7 @@ Emergency Situations
  
    
 101.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 101.01 GENERAL.
    (A)   Any person who undertakes to perform any work upon, in, under, above
 or about any public street, highway, roadway, alley or sidewalk, hereafter
@@ -10577,7 +10578,7 @@ street on the major street plan.
 abutting residential properties which are intended to serve traffic within a
 limited residential district.
 (Ord. 111A, passed - -)
-PROCEDURE AND PERMIT REQUIREMENTS
+**** PROCEDURE AND PERMIT REQUIREMENTS ****
 § 101.15 PERMIT REQUIRED.
    When a permit is required, the permit application shall, unless otherwise
 authorized by the responsible person for good cause shown, be filed with the
@@ -10683,7 +10684,7 @@ effect running from the holder of the permit to the city, conditioned upon
 compliance with the ordinances of the city in the performance of the work.
 (Ord. 111A, passed - -) Penalty, see §
 101.99
-PERSONS REQUIRING PERMITS
+**** PERSONS REQUIRING PERMITS ****
 § 101.30 CONTRACTOR REQUIREMENTS.
    (A)   Any contractor undertaking any work whether of his or her own, or
 under contract for any other person, and the work is within a city street and
@@ -10739,7 +10740,7 @@ shall not be performed during the peak hour congestion periods of 7:00 a.m. to
 9:00 a.m. and 4:00 p.m. to 6:00 p.m., unless approved by the responsible
 person.
 (Ord. 111A, passed - -)
-EMERGENCY SITUATIONS
+**** EMERGENCY SITUATIONS ****
 § 101.45 EMERGENCY SITUATIONS.
    The requirements as mentioned above are to be used for all planned
 construction projects. In the event of an emergency type situation,
@@ -11927,7 +11928,7 @@ Retail Food Stores and Food Service Establishments
  
    
 112.99   Penalty
-MOBILE FOOD UNIT OPERATIONS
+**** MOBILE FOOD UNIT OPERATIONS ****
 § 112.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11962,7 +11963,7 @@ enforcement is sought and against whom civil remedies are granted, shall be
 jointly and severally liable for all damages, court costs, attorney's fees and
 all costs and expenses reasonably related to the civil enforcement action.
 (Ord. 592A, passed 3-26-2002)
-RETAIL FOOD STORES AND FOOD SERVICE ESTABLISHMENTS
+**** RETAIL FOOD STORES AND FOOD SERVICE ESTABLISHMENTS ****
 § 112.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13856,7 +13857,7 @@ Oil and Gas Exploration
  
    
 119.99   Penalty
-NATURAL GAS PIPING
+**** NATURAL GAS PIPING ****
 § 119.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14151,7 +14152,7 @@ the gas company may restore the service.
 or supplying gas through the service shall at any time turn on any valve or
 cock on any gas service or open or make connection to any gas service or main.
 (Ord. 183, passed 9-9-1957)
-OIL AND GAS EXPLORATION
+**** OIL AND GAS EXPLORATION ****
 § 119.30 OIL AND GAS EXPLORATION PROHIBITED.
    It shall be unlawful for any person, corporation or other legal entity, to
 conduct any type of drilling operations within the city for the exploration
@@ -14572,7 +14573,7 @@ Property Damage Caused by Children
  
    
 131.99   Penalty
-CURFEW
+**** CURFEW ****
 § 131.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14656,7 +14657,7 @@ educational entity; or
 or ending in the city. This defense does not apply to vehicular travel merely
 in or about the city.
 (Ord. 630, passed 9-23-2003; Ord. 630-A, passed 8-15-2017)
-PROPERTY DAMAGE CAUSED BY CHILDREN
+**** PROPERTY DAMAGE CAUSED BY CHILDREN ****
 § 131.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -14703,7 +14704,7 @@ Concealed Handguns
  
    
 132.99   Penalty
-FIREARMS
+**** FIREARMS ****
 § 132.01 PROHIBITION AGAINST DISCHARGING OR FIRING.
    It shall be unlawful for any person to discharge or fire any revolver,
 pistol, rifle, shotgun or other firearm of any kind within the corporate
@@ -14716,7 +14717,7 @@ of any firearms occurring at the G.W. Gross Pistol Range, provided that the
 occurrence therein conforms with the rules and regulations of the G.W. Gross
 Pistol Range.
 (Ord. 493, passed 7-28-1987)
-CONCEALED HANDGUNS
+**** CONCEALED HANDGUNS ****
 § 132.15 CONCEALED HANDGUNS PROHIBITED.
    The carrying of any concealed handgun by any person, unless the person is a
 licensed peace officer under the laws of the state and is carrying a concealed
@@ -15187,7 +15188,7 @@ Charter reference:
    Building Construction, see Charter,
 Article XII, Section
 12.04
-ADOPTION OF CODES
+**** ADOPTION OF CODES ****
 § 150.01 INTERNATIONAL BUILDING CODE, INTERNATIONAL RESIDENTIAL CODE,
 INTERNATIONAL FIRE PREVENTION CODE, INTERNATIONAL PLUMBING CODE, INTERNATIONAL
 MECHANICAL CODE, INTERNATIONAL FUEL GAS CODE, INTERNATIONAL EXISTING BUILDING
@@ -15431,7 +15432,7 @@ damages, court costs, attorney’s fees and all costs and expenses reasonably
 related to the civil enforcement action.
 (Ord. 624, passed 9-3-2002; Ord. 673, passed 2-12-2008; Ord. 673-B, passed 12-
 12-2017; Ord. 673-D, passed 6-13-2023)
-DANGEROUS BUILDINGS AND STRUCTURES
+**** DANGEROUS BUILDINGS AND STRUCTURES ****
 § 150.20 FINDINGS OF FACT.
    (A)   The City Commission recognizes the need to regulate and control
 unsafe, dangerous, dilapidated and substandard buildings within the city in
@@ -15964,7 +15965,7 @@ Provision for Flood Hazard Reduction
  
    
 152.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 152.01 STATUTORY AUTHORIZATION.
    The Legislature of the State has in Tex. Water Code § 16.315 delegated the
 responsibility of local governmental units to adopt regulations designed to
@@ -16316,7 +16317,7 @@ or any official or employee thereof for any flood damages that result from
 reliance on this chapter or any administrative decision lawfully made
 thereunder.
 (Ord. 593, passed 4-27-1999)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 152.25 DESIGNATION OF THE FLOODPLAIN ADMINISTRATOR.
    The Building Official of the city is hereby appointed the Floodplain
 Administrator to administer and implement the provisions of this chapter and
@@ -16472,7 +16473,7 @@ and
 minimize flood damages during the base flood and create no additional threats
 to public safety.
 (Ord. 593, passed 4-27-1999)
-PROVISION FOR FLOOD HAZARD REDUCTION
+**** PROVISION FOR FLOOD HAZARD REDUCTION ****
 § 152.40 GENERAL STANDARDS.
    In all areas of special flood hazards the following provisions are required
 for all new construction and substantial improvements.
@@ -16995,7 +16996,7 @@ Moving of Buildings
  
    
 154.99   Penalty
-STREET NUMBERING
+**** STREET NUMBERING ****
 § 154.01 LOTS NUMBERED.
    All building and houses in the city limits abutting on any street or avenue
 shall be numbered.
@@ -17066,7 +17067,7 @@ or lessee shall comply with the notice within ten days from the date of service
 by placing or replacing the number on his or her building or house.
 (Ord. 426, passed 4-9-1984) Penalty, see §
 154.99
-MOVING OF BUILDINGS
+**** MOVING OF BUILDINGS ****
 § 154.20 PROHIBITION.
    (A)   Generally. No person shall move any structure within the city limits
 without first obtaining a permit from the Building Department.
@@ -17164,7 +17165,7 @@ Streets, Thoroughfares and Pedestrian Accessways
 155.59   Parking
    
 155.60   General provisions
-OBJECTIVES
+**** OBJECTIVES ****
 § 155.01 PURPOSE.
    (A)   The Master Plan has been developed over the past two-year period by
 the City Planning Commission for adoption by the City Commission to serve as a
@@ -17229,7 +17230,7 @@ Water District, Navigation District, and so forth, by means of:
       (1)   Support of the plan; and
       (2)   Close coordination of their programs with those of the city.
 (Ord. 218, passed 6-13-1960)
-CHARACTERISTICS
+**** CHARACTERISTICS ****
 § 155.15 GEOGRAPHIC.
    (A)   The city is located in Cameron County, State of Texas, approximately
 ten miles north of the mouth of the Rio Grande River and on the inland side of
@@ -17646,7 +17647,7 @@ the approaches to the city.
 established at the west and multi-family use adjacent to the Brownsville Road
 and future shopping center.
 (Ord. 218, passed 6-13-1960)
-FUTURE LAND USE
+**** FUTURE LAND USE ****
 § 155.35 GENERAL.
    (A)   The land use plan was designed to be an interim guide and control
 until the time as the city obtains sufficient growth and has a more diversified
@@ -17736,7 +17737,7 @@ separate truck route.
    (B)   Light industrial is proposed in the area north of South Shore Drive
 and south of the major thoroughfare.
 (Ord. 218, passed 6-13-1960)
-STREETS, THOROUGHFARES AND PEDESTRIAN ACCESSWAYS
+**** STREETS, THOROUGHFARES AND PEDESTRIAN ACCESSWAYS ****
 § 155.55 PURPOSE.
    The street and thoroughfare planning solutions were derived to accomplish
 the following:
@@ -17875,7 +17876,7 @@ Other Requirements
 156.999   Penalty
    
 Appendix A:   Plates and images
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 156.001 GENERALLY.
    These regulations shall govern every person, firm, association or
 corporation owning any tract of land within the city limits, who may hereafter
@@ -17991,7 +17992,7 @@ their designee is hereby delegated the authority and ability to approve
 amendment of a plat of property as described in § 212.016.
 (Ord. 459, passed 12-17-1985; Ord. 459-C, passed 4-13-2015) Penalty, see §
 156.999
-PROCEDURES
+**** PROCEDURES ****
 § 156.015 PRE-APPLICATION CONFERENCE.
    Prior to the filing of a preliminary plat, the subdivider shall consult with
 the City Manager or his or her duly authorized representative concerning the
@@ -18292,7 +18293,7 @@ the County Clerk within ten days from and after the date of final acceptance by
 the City Commission.
 (Ord. 459, passed 12-17-1985) Penalty, see §
 156.999
-GENERAL PLAT REQUIREMENTS
+**** GENERAL PLAT REQUIREMENTS ****
 § 156.030 STREETS.
    (A)   The arrangement, character, extent, width, grade and location of all
 proposed streets shall conform to the general plan of the community, and their
@@ -18496,7 +18497,7 @@ of this chapter shall be deposited in the Park Fund of the city and the funds
 shall be used only for purposes of providing park and recreational facilities
 to the citizens of the city.
 (Ord. 459, passed 12-17-1985)
-IMPROVEMENTS
+**** IMPROVEMENTS ****
 § 156.050 STANDARD SPECIFICATIONS AND CONSTRUCTION DETAILS.
    All improvements within the city shall be in accordance with the standard
 specifications and construction details of the city.
@@ -18967,7 +18968,7 @@ bearing the signature of the Engineer and the date. In addition, one
 reproducible drawing of the utility plan sheets, containing the as-built
 information shall be submitted.
 (Ord. 459, passed 12-17-1985)
-FEES, CHARGES AND BOND
+**** FEES, CHARGES AND BOND ****
 § 156.070 FILING FEES AND CHARGES.
    (A)   The following schedule of fees and charges shall be paid to the city
 when any plat is tendered to the Planning and Zoning Commission or any other
@@ -19008,7 +19009,7 @@ of one year from the date of final acceptance of the entire project. Final
 acceptance will be withheld until the maintenance bond is furnished to the
 city.
 (Ord. 459, passed 12-17-1985)
-OTHER REQUIREMENTS
+**** OTHER REQUIREMENTS ****
 § 156.085 CHANGES AND VARIATIONS.
    These rules and regulations are the standard requirements of the city. A
 suspension of any of these rules and regulations may be granted by the City
@@ -19114,7 +19115,7 @@ Administration and Enforcement
  
    
 157.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 157.001 SCOPE.
    The following sign regulations are hereby adopted for the city and to the
 extent allowed by law are applicable to the entire extraterritorial
@@ -19237,7 +19238,7 @@ which is intended to be seen from the exterior. WINDOW SIGNS are allowed only
 for commercial uses.
 (Ord. 455, passed 12-17-1985; Ord. 455C, passed 1-6-1998; Ord. 455D, passed 2-
 13-2001; Ord. 455E, passed 1-28-2003; Ord. 455-F, passed - -2004)
-SIGN STANDARDS BY ZONING DISTRICTS
+**** SIGN STANDARDS BY ZONING DISTRICTS ****
 § 157.015 REQUIRED SIGNS.
    Every building or group of buildings within the city limits shall be
 identified by a street number (street address) as set forth in §§
@@ -19362,7 +19363,7 @@ all times.
    (F)   Portable signs. Portable signs are prohibited in any location
 (Ord. 455, passed 12-17-1985; Ord. 455A, passed 9-22-1987; Ord. 455B, passed 2-
 13-1996)
-PERMITTED TEMPORARY SIGNS
+**** PERMITTED TEMPORARY SIGNS ****
 § 157.035 GENERAL.
    (A)   Permits for temporary signs exceeding 16 square feet shall be issued
 by the Building Inspector only when the sign is specifically allowed by this
@@ -19570,7 +19571,7 @@ the area of an overhanging roof.
    (E)   Maximum size of a shingle sign shall not exceed three square feet.
 (Ord. 455, passed 12-17-1985) Penalty, see §
 157.999
-PROHIBITED SIGNS
+**** PROHIBITED SIGNS ****
 § 157.060 PROHIBITED SIGNS; GENERALLY.
    It shall be unlawful to erect or maintain any sign which is not included as
 a type of sign herein above permitted. Prohibited signs include, but are not
@@ -19624,7 +19625,7 @@ conformity with the provisions of this chapter or remove the sign. If the order
 is not complied with within ten days, the City Inspector shall remove the sign
 at the expense of the owner or lessee thereof.
 (Ord. 455, passed 12-17-1985)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 157.075 REQUIREMENT OF CONFORMITY.
    (A) Any sign existing lawfully prior to shall be a nonconforming sign and
 may be continued in use providing:
@@ -19759,7 +19760,7 @@ General Regulations
  
    
 159.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 159.01 PURPOSE.
    The City Commission hereby declares that as a matter of public policy the
 protection, enhancement, preservation and perpetuation of landmarks and
@@ -19896,7 +19897,7 @@ this chapter operates in addition to the zoning regulations already applicable
 to properties within the District under
 Chapter 160.
 (Ord. 619, passed 8-28-2001)
-DESIGNATION OF DISTRICTS AND LANDMARKS
+**** DESIGNATION OF DISTRICTS AND LANDMARKS ****
 § 159.20 DESIGNATION OF HISTORIC DISTRICTS.
    (A)   These provisions pertaining to the designation of historic districts
 constitute a part of the comprehensive zoning plan of the city.
@@ -19972,7 +19973,7 @@ of construction;
    (E)   Represents the work of a master designer, builder or craftsman; and
    (F)   Represents an established and familiar feature of the city.
 (Ord. 618, passed 8-28-2001)
-CERTIFICATE OF APPROPRIATENESS
+**** CERTIFICATE OF APPROPRIATENESS ****
 § 159.35 CERTIFICATE OF APPROPRIATENESS FOR NEW CONSTRUCTION IN HISTORIC
 DISTRICTS AND ALTERATION OF HISTORIC LANDMARKS.
    (A)   No person shall carry out new construction within an historic district
@@ -20146,7 +20147,7 @@ regulations of the city. In the event the City Commission does not act on the
 appeal within 30 days after receipt of the appeal, the certificate shall be
 deemed granted.
 (Ord. 618, passed 8-28-2001)
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 159.50 ENFORCEMENT.
    All work performed pursuant to a certificate of appropriateness issued under
 this chapter shall conform to any requirements included therein. It shall be
@@ -20371,7 +20372,7 @@ Placement of Elevated Structures
  
    
 160.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 160.001 PURPOSE.
    The zoning regulations and districts as herein established are made in
 accordance with the Comprehensive Plan for the purpose of promoting the health,
@@ -20594,7 +20595,7 @@ or requires larger open spaces or larger lot areas than are imposed or required
 by ordinances, agreements or covenants, the provisions of this chapter shall
 control.
 (Ord. 605, passed 1-25-2000)
-DISTRICT DESCRIPTIONS AND GENERAL REGULATIONS
+**** DISTRICT DESCRIPTIONS AND GENERAL REGULATIONS ****
 § 160.015 DISTRICTS.
    (A)   For the purpose of this chapter, the city is divided into ten zoning
 districts to be known as follows:
@@ -20791,7 +20792,7 @@ aluminum or vinyl specially designed for skirting; or a manufactured treated
 wood lattice; or concrete or masonry blocks.
 (Ord. 605, passed 1-25-2000; Ord. 605B, passed 11-14-2000; Ord. 605D, passed
 11-26-2002; Ord. 605E, passed 5-12-2009; Ord. 605-H, passed 3-12-2013)
-R-1 SINGLE-FAMILY DWELLING DISTRICT REGULATIONS
+**** R-1 SINGLE-FAMILY DWELLING DISTRICT REGULATIONS ****
 § 160.030 USE REGULATIONS.
    (A)   Single-family dwellings;
    (B)   Public schools and churches, provided the site includes a corner lot;
@@ -20855,7 +20856,7 @@ of any garage, carport or any garage structure shall be located within the
 required front yard depth. Dwelling units which contain more than one kitchen
 area shall provide two parking spaces for each kitchen area.
 (Ord. 605, passed 1-25-2000; Ord. 605C, passed 10-23-2001)
-R-1-A MODERN VENICE, EAST AND WEST ADDITION DISTRICT REGULATIONS
+**** R-1-A MODERN VENICE, EAST AND WEST ADDITION DISTRICT REGULATIONS ****
 § 160.045 USE REGULATIONS.
    (A)   Single-family dwellings.
    (B)   Mobile homes and HUD-Code manufactured homes are prohibited in the
@@ -20905,7 +20906,7 @@ accessible from the street by means of a paved driveway. Dwelling units which
 contain more than one kitchen area shall provide two parking spaces for each
 kitchen area.
 (Ord. 605, passed 1-25-2000; Ord. 605C, passed 10-23-2001)
-R-2 TWO-FAMILY DWELLING DISTRICT REGULATIONS
+**** R-2 TWO-FAMILY DWELLING DISTRICT REGULATIONS ****
 § 160.060 USE REGULATIONS.
    (A)   Any use permitted in the R-1 Residential District;
    (B)   Duplex dwelling with separate plumbing and electrical facilities for
@@ -20934,7 +20935,7 @@ two motor cars for each dwelling unit. However, no supporting member of any
 garage, carport or any garage structure, shall be located within the setback
 area required for the front yard.
 (Ord. 605, passed 1-25-2000)
-A-1 HOTEL, MOTEL, MULTI-FAMILY DISTRICT REGULATIONS
+**** A-1 HOTEL, MOTEL, MULTI-FAMILY DISTRICT REGULATIONS ****
 § 160.075 USE REGULATIONS.
    (A)   Any use permitted in the R-2 District;
    (B)   Townhouses;
@@ -21043,7 +21044,7 @@ dwelling.
    Any R-1 or R-2 use in A-1 Districts shall conform to all the area and
 parking regulations of R-1 or R-2 Districts.
 (Ord. 605D, passed 11-26-2002)
-A-2 MOBILE HOME AND RECREATIONAL VEHICLE PARK DISTRICT
+**** A-2 MOBILE HOME AND RECREATIONAL VEHICLE PARK DISTRICT ****
 § 160.095 USE REGULATIONS.
    (A)   Mobile home parks. Mobile homes and HUD-Code manufactured homes. Any
 use permitted in the B-1 Business District is permitted provided the use fronts
@@ -21117,7 +21118,7 @@ serve the needs of travelers patronizing a recreational vehicle park is
 permitted provided the area of the store and contiguous parking area do not
 exceed 5% of the total area of a recreational vehicle park.
 (Ord. 605, passed 1-25-2000; Am. Ord. 605-G, passed 3-8-2011)
-B-1 BUSINESS DISTRICT FIRE ZONE
+**** B-1 BUSINESS DISTRICT FIRE ZONE ****
 § 160.110 USE REGULATIONS.
    (A)   No dwelling units shall be allowed;
    (B)   Banks and offices;
@@ -21182,7 +21183,7 @@ which, because of the building’s proximity to city rights-of-way cannot provid
 the required parking, shall not be required to meet the parking regulation
 requirements of divisions (A) through (D) of this section.
 (Ord. 605, passed 1-25-2000)
-B-1 BUSINESS DISTRICT OUTSIDE FIRE ZONE
+**** B-1 BUSINESS DISTRICT OUTSIDE FIRE ZONE ****
 § 160.125 USE REGULATIONS.
    Any use permitted in B-1 Fire Zone and any use permitted in R-1, R-2 and A-
 1.
@@ -21194,7 +21195,7 @@ B-1 BUSINESS DISTRICT OUTSIDE FIRE ZONE
    All other regulations of B-1 Fire Zone shall apply, except when used as R-1,
 R-2 or A-1 the regulations for those districts shall apply.
 (Ord. 605, passed 1-25-2000)
-B-2 BUSINESS DISTRICT
+**** B-2 BUSINESS DISTRICT ****
 § 160.140 USE REGULATIONS.
    (A)   Any use permitted in the B-1 Business District Fire Zone and B-
 1 Business District Outside Fire Zone with special permission;
@@ -21236,7 +21237,7 @@ or screening fence shall be provided to visually separate both uses.
    Any A-2 use in the B-2 District shall conform to all the area and parking
 requirements of the A-2 District.
 (Ord. 605, passed 1-25-2000)
-H-1 INDUSTRIAL DISTRICT REGULATIONS
+**** H-1 INDUSTRIAL DISTRICT REGULATIONS ****
 § 160.155 USE REGULATIONS.
    (A)   Any use permitted in the B-2 District.
    (B)   (1)   Any use not in conflict with the laws of the state, or any
@@ -21274,7 +21275,7 @@ service multiple customers from any one location in the city, outside of the H-
 1 District. Propane storage whether stationary or mobile, shall be a minimum of
 500 feet from any residential lot line.
 (Ord. 605, passed 1-25-2000)
-PDD PLANNED DEVELOPMENT DISTRICT REGULATIONS
+**** PDD PLANNED DEVELOPMENT DISTRICT REGULATIONS ****
 § 160.170 PLANNED DEVELOPMENT DISTRICT.
    The City Commission, after public hearing and proper notice to all parties
 affected and after recommendation from the City Planning and Zoning Commission,
@@ -21317,7 +21318,7 @@ residential development with neighborhood services or Mobile Home/Recreational
 Vehicle Planned Development within one overall planned development district,
 but not both.
 (Ord. 605, passed 1-25-2000)
-NONCONFORMING USES AND SPECIAL PERMITS
+**** NONCONFORMING USES AND SPECIAL PERMITS ****
 § 160.185 NONCONFORMING USES.
    (A)   The lawful use of a building existing prior to August 23, 1982 may be
 continued even though the use does not conform with the provisions herein. Use
@@ -21372,7 +21373,7 @@ steeples; and
 to the uses permitted in the district in which the use is located by special
 permit.
 (Ord. 605, passed 1-25-2000)
-BOARD OF ADJUSTMENT
+**** BOARD OF ADJUSTMENT ****
 § 160.200 CREATION.
    There is hereby created a Board of Adjustment consisting of five members,
 and two alternate members, each to be appointed by the City Commission for a
@@ -21477,7 +21478,7 @@ Board and not thereafter. Proceedings in the court shall be as provided in the
 State Local Government Code.
 (Ord. 605, passed 1-25-2000; Ord. 605D, passed 11-26-2002; Am. Ord. 605-F,
 passed 1-11-2011)
-GENERAL REGULATIONS
+**** GENERAL REGULATIONS ****
 § 160.220 OCCUPANCY PERMITS.
    No change in the use or occupancy of land, nor any change of use occupancy
 in an existing building, except solely for single-family dwelling purposes,
@@ -21518,7 +21519,7 @@ map; and
 district map accompanying and made a part of this chapter shall be determined
 by use of the scale appearing on the map.
 (Ord. 605, passed 1-25-2000)
-ENFORCEMENT, CHANGES AND AMENDMENTS
+**** ENFORCEMENT, CHANGES AND AMENDMENTS ****
 § 160.235 ENFORCEMENT.
    It shall be the duty of the Enforcement Officer to enforce this chapter.
 Appeal from the decision of the Enforcement Officer may be made to the Board of
@@ -21558,7 +21559,7 @@ recommends against the proposed request, the request may be approved and passed
 by the City Commission only upon a two-thirds vote in favor of the proposed
 request.
 (Ord. 605, passed 1-25-2000)
-PLACEMENT OF ELEVATED STRUCTURES
+**** PLACEMENT OF ELEVATED STRUCTURES ****
 § 160.240 DEFINITIONS.
    The following words, terms and phrases, when used in this subchapter, shall
 have the meanings ascribed to them in this section, except where the context
@@ -21691,7 +21692,7 @@ Provisions for Flood Hazard Reduction
  
    
 161.99   Penalties for non-compliance
-STATUTORY AUTHORIZATION, FINDINGS OF FACT, PURPOSE AND METHODS
+**** STATUTORY AUTHORIZATION, FINDINGS OF FACT, PURPOSE AND METHODS ****
 § 161.01 STATUTORY AUTHORIZATION.
    The Legislature of the State of Texas has in the Flood Control Insurance
 Act, Texas Water Code, § 16.315 delegated the responsibility of local
@@ -21749,7 +21750,7 @@ increase flood damage; and
 unnaturally divert flood waters or which may increase flood hazards to other
 lands.
 (Ord. 593-A, passed 1-17-2018)
-DEFINITIONS
+**** DEFINITIONS ****
 § 161.10 DEFINITIONS.
    Unless specifically defined below, words or phrases used in this chapter
 shall be interpreted to give them the meaning they have in common usage and to
@@ -21994,7 +21995,7 @@ Vertical Datum (NGVD) of 1929 (or other datum, where specified), of floods of
 various magnitudes and frequencies in the floodplains of coastal or riverine
 areas.
 (Ord. 593-A, passed 1-17-2018)
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 161.15 LANDS TO WHICH THIS CHAPTER APPLIES.
    This chapter shall apply to all areas of special flood hazard within the
 jurisdiction of the city.
@@ -22042,7 +22043,7 @@ shall not create liability on the part of the community or any official or
 employee thereof for any flood damages that result from reliance on this
 chapter or any administrative decision lawfully made hereunder.
 (Ord. 593-A, passed 1-17-2018)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 161.30 DESIGNATION OF THE FLOODPLAIN ADMINISTRATOR.
    The Building Official of the city is hereby appointed the Floodplain
 Administrator to administer and implement the provisions of this chapter and
@@ -22199,7 +22200,7 @@ are met; and
 minimize flood damages during the base flood and create no additional threats
 to public safety.
 (Ord. 593-A, passed 1-17-2018)
-PROVISIONS FOR FLOOD HAZARD REDUCTION
+**** PROVISIONS FOR FLOOD HAZARD REDUCTION ****
 § 161.40 GENERAL STANDARDS.
    In all areas of special flood hazards the following provisions are required
 for all new construction and substantial improvements:
