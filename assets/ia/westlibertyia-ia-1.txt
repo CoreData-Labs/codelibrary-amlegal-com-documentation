@@ -4375,22 +4375,29 @@ Code)
 7-1-10: WATER RATES:
    A.   Measurement; Sale By Truckload: All water sold by the City shall be
 measured by meters furnished by the City, except water that is sold by the
-truckload with permission of the City Manager or Council. (1975 Code § 7-1-10)
+truckload with permission of the City Manager or Council.
    B.   User Charge:
-      1.   Areas within the West Liberty City limits:
-         $8.67 per 1,000 gallons, from the effective date of July 1, 2018;
-         $9.10 per 1,000 gallons, from the effective date of July 1, 2019;
-         $9.56 per 1,000 gallons, from the effective date of July 1, 2020 and
-beyond.
-      2.   Areas served outside of the West Liberty City limits:
-         $13.44 per 1,000 gallons, from the effective date of July 1, 2018;
-         $14.11 per 1,000 gallons, from the effective date of July 1, 2019;
-         $14.82 per 1,000 gallons, from the effective date of July 1, 2020 and
-beyond. (Ord. 20170815-39, 10-3-2017)
-   C.   Funds For Repair And Improvement Of System: One dollar sixty five cents
-($1.65) per one thousand (1,000) gallons billed shall be set aside for use in
-repairing and/or improving the City water system. (Ord. 7-85, 11-4-1985, eff.
-1-15-1986)
+      1.   Areas within the City limits:
+ 
+           Effective Date
+           Current July 15, July 15, July 15, 2027 July 15, 2028 July 15, 2029
+                   2025     2026
+Rate Per
+1,000      $9.56   $11.95   $14.94   $17.18        $19.75        $22.72
+Gallons of
+Water Used
+ 
+      2.   Areas served outside of the City limits:
+ 
+           Effective Date
+           Current July 15, July 15, July 15, 2027 July 15, 2028 July 15, 2029
+                   2025     2026
+Rate Per
+1,000      $14.82  $17.04   $19.60   $22.54        $25.92        $29.81
+Gallons of
+Water Used
+ 
+(Section 7-1-10 - Ord. 20250715-12 - Aug. 25 Supp.)
 7-1-11: RATE WHEN METER OUT OF ORDER:
 Should a water meter need repair or fail to register properly, the consumer
 will be charged with the average monthly consumption as shown by the meter when
@@ -5072,25 +5079,43 @@ approving authority.
       1.   Each nonindustrial or industrial user of the sewerage system shall
 be subject to wastewater service charges based on the volume of wastewater,
 BOD, and suspended solids content of the wastewater. (Ord. 12-80, 12-16-1980)
-      2.   a.    Within The West Liberty City Limits: For each user, the
-wastewater service charge for a monthly period will be as follows for normal
-strength wastewater.
-         $20.26 per monthly bill from the effective date hereof through July 1,
-2018 plus
-         $22.18 per monthly bill effective July 1, 2018, plus
-         $5.22 per 1,000 gallons, from the effective date hereof through July
-1, 2018;
-         $5.72 per 1,000 gallons, from July 1, 2018 and beyond.
-         b.   Outside Of The West Liberty City Limits: For each user, the rate
-structure for the sewer will be as follows outside of the City limits for
-residential customers:
-         $29.38 per monthly bill, from the effective date hereof through July
-1, 2018, plus
-         $32.17 per monthly bill, effective July 1, 2018, plus
-         $5.90 per 1,000 gallons, from the effective date hereof through July
-1, 2018;
-         $6.49 per 1,000 gallons, from July 1, 2018 and beyond. (Ord. 20170815-
-40, 10-3-2017)
+      2.   
+         a.   Within the City limits, for each user wastewater serive charge
+for a monthly period will be as follows for normal strength wastewater:
+ 
+             Effective Date
+             Curretn July 15, July 15, July 15, July 15, 2028 July 15, 2029
+                     2025     2026     2027
+Monthly User $22.18  $23.29   $24.45   $25.68   $26.96        $28.31
+Fee
+Monthly
+Volume Rate
+per 1,000    $5.72   $6.01    $6.31    $6.62    $6.95         $7.30
+Gallons of
+Water Used
+ 
+         b.   Outside of the City limits, for each user, the wastewater
+services charge for monthly period shall be as follows for residential
+customers:
+ 
+             Effecitve Date
+             Current July 15, July 15, July 15, July 15, 2028 July 15, 2029
+                     2025     2026     2027
+Monthly User $32.17  $33.78   $35.47   $37.25   $39.10        $41.06
+Fee
+Monthly
+Volume Rate
+per 1,000    $6.49   $6.81    $7.16    $7.51    $7.89         $8.25
+Gallons of
+Water Used
+         c.   The monthly wastewater service charge for monthly period for West
+Liberty Foods shall be as follows:
+   i.   User Fee   $23.29
+   ii.   Flow   $2.67 per 1,000 gallons
+   iii.   Total Suspended Solids   $0.84 per pound
+   iv.   Biological Oxygen Demand   $0.78 per pound
+   v.    Total Kjeldahl Nitrogen (TKN)   $1.76 per pound
+(Subsection 2 - Ord. 20250715-13 - Aug. 25 Supp.)
       3.   The approving authority or its representative shall have the right
 to waive the requirement of required wastewater test data from each user.
 However, if it is suspected that the user is contributing a waste with a toxic
@@ -5099,17 +5124,21 @@ pollutant in toxic amounts, or prohibited wastes as described in section
 approving authority shall have the right to require the user to provide
 laboratory test data as directed by the approving authority. (Ord. 12-80, 12-
 16-1980)
-      4.   The wastewater service charge for normal strength wastewater shall
-be calculated as follows:
+      4.   For wasteawter with waste constitutents higher than those specified
+above, the user charges shall be computed according to the following formula:
+   WSC = UF + V(G) + B(A) + D(C) + F(E)
+Where WSC, and V, are defined above
+ UF = A fixed user fee, per billing period
+ A  = Unit charge for DOB, in dollars per pound BOD
+ B  = Pounds of BOD discharged per billing period
+ C  = Unit charge for suspended solids, dollars per pound SS
+ D  = The pounds of TSS Discharged/billing period
+ E  = Unit charge for total Kiehldal nitrogen (TKN), dollars per pound.
+ F  = The pounds of TKN Discharged per billing period
+ G  = Unit charge for wastewaer volume, dollars per 1,000 gallons
  
-       WSC = MC + V(UC)
-Where:
- WSC   = Amount of wastewater service charge ($) per billing period
- MC    = Minimum charge per customer per billing period
- V     = Wastewater volume in thousand gallons per billing period
- UC    = Unit charge for wastewater volume
- 
-(Ord. 10-93, 12-7-1993)
+         The charges shall apply as stated in 7-2-7(D)(2)(3).
+(Subsection 4 - Ord. 20250715-13 - Aug. 25 Supp.)
       5.   For wastewater with waste constituents higher than those specified
 above, the user charges shall be computed according to the following formula:
     WSC = UF + V(G) + B(A) + D(C) + F(E)
