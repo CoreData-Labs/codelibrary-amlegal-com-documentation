@@ -1576,8 +1576,8 @@ resolution. (Prior code § 2.12.060)
 appoint one or more deputy directors of finance. Each deputy director shall
 perform the duties prescribed by the director and the city administrator.
 (Prior code § 2.12.070)
-Chapter 2.18 QUALIFICATIONS FOR ADVISORY BODY SERVICE
-2.18.010 Automatic disqualification.
+**** Chapter 2.18 QUALIFICATIONS FOR ADVISORY BODY SERVICE ****
+** 2.18.010 Automatic disqualification. **
    Any person convicted of a felony shall be ineligible to serve on any board
 or commission of the city. In the event that a member of a board or commission
 is convicted of a felony, or such prior conviction is discovered, during the
@@ -1585,7 +1585,7 @@ member's term of office, the conviction shall serve to terminate the member's
 appointment to the board or commission and the vacancy may be filled either
 immediately or during the next routine recruitment for the position, at the
 council's discretion. (Ord. O-2025-002 § 6 (part), 2025)
-2.18.020 Additional qualifications.
+** 2.18.020 Additional qualifications. **
    In addition to required qualifications for City Planning Commissioners set
 forth in Section 2.20.020 of this Code, qualifications for service on the
 Planning Commission and other appointed City advisory bodies shall be as
@@ -2115,7 +2115,7 @@ county officials. (Prior code § 3.24.010)
 performed by the assessor and tax collector of the city, shall be performed by
 the county assessor and county tax collector. (Prior code § 3.24.020)
 Chapter 3.06 CLAIMS AGAINST CITY
-3.06.005 Electronic submittal of claims.
+** 3.06.005 Electronic submittal of claims. **
    Pursuant to Section 915(a)(3) of the California Government Code, a claim,
 any amendment thereto, or an application for leave to present a late claim, may
 be submitted electronically. Such claim may be submitted via an electronic form
@@ -2170,7 +2170,7 @@ be. (Ord. 96-01 § 1 (part), 1996)
 penalty of perjury by every member of that class. Notwithstanding the
 foregoing, class actions shall not be allowed in any case challenging a city
 tax. (Ord. O-2012-007 § 1, 2012)
-3.06.035 (Reserved).
+** 3.06.035 (Reserved). **
 This section, regarding class actions, was repealed by Ord. O-2025-002, § 9,
 2025. (Ord. O-2012-007 § 1, 2012)
 3.06.040 Notice of insufficiency.
@@ -2614,7 +2614,7 @@ fine of not more than five hundred dollars or by imprisonment for a period of
 not more than six months, or by both such fine and imprisonment. (Prior code §
 3.12.170)
 Chapter 3.14 GENERAL FUND COMMITTED FUNDS
-General Fund Reserve Policy
+*** General Fund Reserve Policy ***
 3.14.010 Purpose.
    The purpose of this policy is to establish general guidelines for the
 establishment, maintenance and use of a general fund reserve. This reserve will
@@ -2666,7 +2666,7 @@ replenished as soon as possible. Up to 50% of available general fund unassigned
 fund balance may be allocated to the general fund reserve annually until the
 reserve is restored to 25% of adopted budget operating appropriations. (Ord. O-
 2015-003, § 1, 2015)
-City Facility Reserve Policy
+*** City Facility Reserve Policy ***
 3.14.050 Purpose.
    The purpose of this policy is to establish general guidelines for the
 establishment, maintenance and use of a city facility reserve. This reserve
@@ -2695,7 +2695,7 @@ replenished as soon as possible. Up to five hundred thousand dollars of
 available general fund unassigned fund balance may be allocated to the city
 facility reserve annually until the reserve is restored to the five hundred
 thousand dollar reserve level. (Ord. O-2015-003, § 1, 2015)
-Risk Management Reserve Policy
+*** Risk Management Reserve Policy ***
 3.14.090 Purpose.
    The purpose of this policy is to establish general guidelines for the
 establishment, maintenance and use of a risk management reserve. This reserve
@@ -4811,7 +4811,7 @@ offense for each and every day during any portion of which any violation or any
 provision of this chapter is committed, continued or permitted by such person
 or organization and shall be punishable accordingly. (Prior code § 5.18.070)
 Chapter 5.10 ADULT-ORIENTED BUSINESSES
-Article I. General Provisions
+*** Article I. General Provisions ***
 5.10.010 Legislative purpose.
    It is the purpose of this chapter to regulate adult-oriented businesses in
 order to promote the health, safety and general welfare of the citizens of the
@@ -4886,7 +4886,7 @@ herein required. (Adult-oriented business performer permit)
    C.   The city's designee shall be the city manager or any other officer or
 employee designated by the city manager to deal with the provisions of this
 chapter. (Ord. 05-03 § 1 (part), 2005)
-Article II. Application and Permits
+*** Article II. Application and Permits ***
 5.10.040 Adult-oriented business regulatory permit required.
    A.   Every person who proposes to maintain, operate or conduct an adult-
 oriented business in the city of Pismo Beach shall file an application with the
@@ -5116,7 +5116,7 @@ through the city council, under the provisions of the Pismo Beach Municipal
 Code and may appeal any decision of the city council to the superior court
 pursuant to California Code of Civil Procedure 1094.8. (Ord. 05-03 § 1 (part),
 2005)
-Article III. Operating and Development Standards
+*** Article III. Operating and Development Standards ***
 5.10.120 Adult-oriented business development and operating standards.
    A.   Operating standards are a legitimate and reasonable means of ensuring
 that adult businesses are conducted in a manner so as to minimize their adverse
@@ -5334,7 +5334,7 @@ requires such permit, to any person who is not at least eighteen years of age.
 any adult-oriented business to knowingly permit to enter or remain within the
 adult-oriented business, any person who is not at least eighteen years of age.
 (Ord. 05-03 § 1 (part), 2005)
-Article IV. Miscellaneous Provisions
+*** Article IV. Miscellaneous Provisions ***
 5.10.160 Inspection.
    An applicant or permittee shall permit representatives of the police
 department, health department, fire department, planning division or other city
@@ -5385,7 +5385,7 @@ to Section 7 of Article XI of the Constitution of the State of California.
    B.   The permit requirements and operational restrictions imposed by this
 chapter are reasonably necessary to protect the health, safety, and welfare of
 the citizens of the city of Pismo Beach. (Ord. O-2019-012 § 2 (part), 2019)
-Article I. Massage Establishments
+*** Article I. Massage Establishments ***
 5.11.020 Purpose and intent—massage establishments.
    A.   In enacting this article regarding massage establishments, the city
 council recognizes that commercial massage therapy is a professional pursuit
@@ -6143,7 +6143,7 @@ a criminal action, to commence proceedings for the abatement, removal, and
 enjoinment of that business in any manner provided by law.
 (Ord. O-2025-006 § 2 (part), 2025: Ord. O-2021-006 § 2 (part), 2021: Ord. O-
 2019-012 § 2 (part), 2019)
-Article II. Tattoo Establishments
+*** Article II. Tattoo Establishments ***
 5.11.140 Definitions.
    For the purposes of this article, unless the particular provision or the
 context otherwise clearly requires, the definitions in this section shall
@@ -6299,7 +6299,7 @@ police department, community development department, and fire department may
 charge a nonrefundable fee for any safety inspections. Such fee shall be
 established by resolution of the city council. (Ord. O-2019-012 § 2 (part),
 2019)
-Article III. Other Personal Services Businesses
+*** Article III. Other Personal Services Businesses ***
 5.11.170 Definitions.
    A.   "Check-cashing establishment." Any establishment whose primary purpose
 is to provide check cashing, pay day loans, car title loans, signature loans,
@@ -6339,7 +6339,7 @@ along the boundaries of the parcel upon which the existing personal services
 business is located and the parcel upon which the additional personal services
 business is proposed, respectively, as determined by the community development
 director or designee. (Ord. O-2019- 012 § 2 (part), 2019)
-Article IV. Violations
+*** Article IV. Violations ***
 5.11.190 Violations.
    A.   Violations. Every person, except those persons who are specifically
 exempted by this chapter, whether acting as an individual, owner, employee of
@@ -6371,7 +6371,7 @@ in this chapter.
 4.04.120.001--4.04.120.003, 4.04.130.001--4.04.130.005, 4.04.130.007,
 4.04.130.009-4.04.130.014, 4.04.140.001--4.04.140.008, 4.04.150.001,
 4.04.150.002
-Article I. General
+*** Article I. General ***
 5.12.010 Authority.
    The city pursuant to applicable federal and state law, is authorized to
 grant one or more non-exclusive franchises to construct, operate, maintain and
@@ -6501,7 +6501,7 @@ sidewalks, easements, rights-of-way and similar public property.
 elects to subscribe to, for any purpose, cable service provided by the grantee
 by means of or in connection with the cable system, and who pays the charges
 therefor. (Ord. 01-01 § 3 (part), 2001)
-Article II. Franchise Terms and Conditions
+*** Article II. Franchise Terms and Conditions ***
 5.12.030 Franchise purposes.
    A franchise granted by the city under the provisions of this chapter shall
 encompass the following purposes:
@@ -6662,7 +6662,7 @@ or trust of franchise. Such costs may include the costs incurred for hiring
 consultants to assist in evaluating the request. Such costs shall be paid by
 the grantee prior to final consideration of the request by the grantor. (Ord.
 01-01 § 3 (part), 2001)
-Article III. Franchise Applications and Renewal.
+*** Article III. Franchise Applications and Renewal. ***
 5.12.130 Filing of applications.
    Any person desiring an initial franchise for a cable system shall file an
 application with the city. A reasonable nonrefundable initial application fee
@@ -6711,7 +6711,7 @@ franchises, or may decline to grant any franchise. (Ord. 01-01 § 3 (part),
    Franchise renewals shall be in accordance with applicable law. Grantor and
 grantee, by mutual consent, may enter into renewal negotiations at any time
 during the term of the franchise. (Ord. 01-01 § 3 (part), 2001)
-Article IV. Minimum Consumer Protection and Service Standards
+*** Article IV. Minimum Consumer Protection and Service Standards ***
 5.12.170 Operational standards.
    A.   Except as otherwise provided in the franchise agreement, grantee shall
 maintain the necessary facilities, equipment and personnel to comply with the
@@ -6936,7 +6936,7 @@ be deemed a material breach of the franchise, provided that grantee shall
 receive due process, including prior written notification and a reasonable
 opportunity to cure, prior to any sanction being imposed. (Ord. 01-01 § 3
 (part), 2001)
-Article V. Franchise Fee and Financial Requirement
+*** Article V. Franchise Fee and Financial Requirement ***
 5.12.230 Franchise fee.
    A.   Following the issuance and acceptance of the franchise, the grantee
 shall pay to the grantor a franchise fee on gross annual cable service revenues
@@ -6995,7 +6995,7 @@ than thirty days after receiving written confirmation from the bank where such
 security fund is deposited that grantor has made a draw against the security
 fund. Failure to replenish the security fund shall be deemed a material breach
 of the franchise. (Ord. 01-01 § 3 (part), 2001)
-Article VI. Construction Requirement
+*** Article VI. Construction Requirement ***
 5.12.260 System Construction.
    A.   Grantee shall not construct any cable system facilities until grantee
 has secured the necessary permits from grantor, or other responsible public
@@ -7127,7 +7127,7 @@ to inspections, make ready, and construction of an additional cable system in
 the franchise area; and the initial grantee shall be designated a third party
 beneficiary of such conditions as are incorporated into the authorization(s)
 granted to such new entrant cable system. (Ord. 01-01 § 3 (part), 2001)
-Article VII. Technical Standards
+*** Article VII. Technical Standards ***
 5.12.280 Applicable technical standards.
    A.   The grantee shall construct, install, operate and maintain its cable
 system in a manner consistent with all applicable laws, ordinances,
@@ -7150,7 +7150,7 @@ independent verification of technical compliance with applicable technical
 standards. The grantee shall be obligated to pay for such technical review not
 more frequently than once per any thirty-six month period. (Ord. 01-01 § 3
 (part), 2001)
-Article VIII. Indemnification and Insurance Requirements
+*** Article VIII. Indemnification and Insurance Requirements ***
 5.12.300 Hold harmless.
    Grantee shall indemnify, defend and hold grantor, its officers, agents and
 employees harmless from any liability, claims, damages, costs or expenses, to
@@ -7211,7 +7211,7 @@ franchise agreement. Such order may be made by grantor after conducting a duly
 noticed public hearing. Increases in insurance coverage shall be based upon
 current prudent business practices of like enterprises involving the same or
 similar risks. (Ord. 01-01 § 3 (part), 2001)
-Article IX. Records and Reports
+*** Article IX. Records and Reports ***
 5.12.320 Records required.
    A.   Grantee shall at all times maintain:
    1.   A written or computer-stored record of all service calls and
@@ -7324,7 +7324,7 @@ quality of service, which may be transmitted to subscribers in grantee's
 invoice for cable services. The results of such survey shall be provided to the
 grantor on a timely basis. The cost of such survey shall be borne by the
 grantee. (Ord. 01-01 § 3 (part), 2001)
-Article X. Review of System Performance
+*** Article X. Review of System Performance ***
 5.12.350 Biannual review.
    A.   Every two years throughout the term of the franchise, if reasonably
 requested by prior written notice from the grantor, grantor and grantee shall
@@ -7373,7 +7373,7 @@ what system component was tested, the equipment used and procedures employed in
 said testing, the results of such tests, and the method by which such
 complaints were resolved. Any other information pertinent to the special test
 shall be recorded. Ord. 01-01 § 3 (part), 2001)
-Article XI. Franchise Violations
+*** Article XI. Franchise Violations ***
 5.12.370 Remedies for violations.
    If grantee fails to perform in a timely manner any material obligation
 required by this chapter or a franchise granted hereunder, following reasonable
@@ -7498,7 +7498,7 @@ secure supplies, services or equipment necessary for the installation,
 operation, maintenance or repair of the cable system where the grantee has
 failed to exercise reasonable diligence to secure such supplies, services or
 equipment. (Ord. 01-01 § 3 (part), 2001)
-Article XII. Abandonment or Removal of Franchise Property
+*** Article XII. Abandonment or Removal of Franchise Property ***
 5.12.410 Abandonment or removal.
    A.   If the grantee discontinues the use of any of its property within the
 public rights-of-way for a continuous period of twelve months, such property
@@ -7594,7 +7594,7 @@ manner provided by law; and
    3.   The successful bidder shall have covenanted and agreed with Grantor to
 assume and be bound by all terms and conditions of the franchise. (Ord. 01-01 §
 3 (part), 2001)
-Article XIII. Grantor and Subscriber Rights
+*** Article XIII. Grantor and Subscriber Rights ***
 5.12.450 Reservation of grantor rights.
    In addition to any rights specifically reserved to the grantor by this
 chapter, the grantor reserves to itself every right and power which is required
@@ -7655,7 +7655,7 @@ list; and
 without the prior written consent of such subscribers. This does not prohibit
 the grantee from providing composite ratings of subscriber viewing to any
 party. (Ord. 01-01 § 3 (part), 2001)
-Article XIV. State Video Franchises
+*** Article XIV. State Video Franchises ***
 5.12.500 Special provisions applicable to holders of state video franchises.
    A.   Franchise fees. A state video franchise holder operating in the city
 shall pay to the city a franchise fee that is equal to five percent of the
@@ -8664,7 +8664,7 @@ adopted in Section
 used upon any premises for the purpose of transient lodging which consists of
 four or fewer separate transient rental units.
 (Ord. O-2023-006 § 3 (part), 2023: Ord. O-2010- 002 § 1, 2010)
-Article I. Vacation Rental Regulation
+*** Article I. Vacation Rental Regulation ***
 5.22.020   Vacation rental license required.
    No owner or owners of a vacation rental shall rent, offer to rent, or
 advertise for rent the vacation rental to another person without a license
@@ -8756,7 +8756,7 @@ provide the non-emergency telephone number of the City Police Department.
 rental license number provided by the city.
 (Ord. O-2025-002 § 20, 2025; Ord. O-2023-006 § 3 (part), 2023: Ord. O-2010-002
 § 1, 2010)
-5.22.060   Violations and enforcement.
+** 5.22.060   Violations and enforcement. **
    A.   It shall be unlawful and a misdemeanor for any person to construct for
 vacation rental use, to convert to vacation rental use, to offer to another for
 vacation rental use, or to occupy as a vacation rental use any portion of any
@@ -8803,7 +8803,7 @@ decision within thirty days of the hearing and the decision shall be final.
 to impose additional conditions on any license in the event of any violation of
 the conditions of the license or the provisions of this chapter.
 (Ord. O-2023-006 § 3 (part), 2023: Ord. O-2010-002 § 1, 2010)
-Article II. Short-Term Rental Regulation
+*** Article II. Short-Term Rental Regulation ***
 5.22.100 Short-term rental license required.
    No owner or owners of a property shall rent, offer to rent, or advertise for
 rent the property as a short-term rental or homestay to another person without
@@ -8891,7 +8891,7 @@ operated as a short-term rental or homestay, the license shall be deemed void
 without further action by the city.
 (Ord. O-2023-0006 § 3 (part), 2023: Ord. O- 2020-007 § 4, 2020: Ord. O-2018-013
 § 4 (part), 2018)
-5.22.120   Short-term rental standards.
+** 5.22.120   Short-term rental standards. **
    A.   The STR or homestay shall be operated consistent with the standards and
 regulations contained within the zoning codes of the Pismo Beach Municipal
 Code, including but not limited to Chapters
@@ -10153,7 +10153,7 @@ designee.
 council in the manner described in Chapter 1.20 of this code. (Ord. 89-20 § 1
 (part), 1989: prior code § 8.44.170)
        Title 6 ANIMALS
-Chapter 6.02 COUNTY ANIMAL CONTROL REGULATIONS
+**** Chapter 6.02 COUNTY ANIMAL CONTROL REGULATIONS ****
 6.02.020 County animal control regulations adopted by reference.
    A.   Title 9: Animals of the San Luis Obispo County Code is hereby adopted
 into the Municipal Code of the City of Pismo Beach by reference and
@@ -10365,7 +10365,7 @@ other bird to remain on the ground after dispersing or dropping the same.
    B.   The provisions of this section shall not apply to any public officer or
 public employee in the performance of the officer's duties. (Ord. O-2025-001 §
 2 (part), 2025)
-Chapter 6.06 CONFLICTS AND PENALTIES
+**** Chapter 6.06 CONFLICTS AND PENALTIES ****
 6.06.020 Conflicts.
    In the event the locally reserved animal control regulations set forth in
 Chapter 6.04 are found to conflict with provisions of the San Luis Obispo
@@ -12633,7 +12633,7 @@ owner or his agent or with any representative of the city when engaged in
 performing any act reasonably necessary for the execution of the order of
 abatement. (Prior code § 8.16.180)
 Chapter 8.24 RADIOACTIVE MATERIALS
-Article I. Transportation of Radioactive Waste
+*** Article I. Transportation of Radioactive Waste ***
 8.24.010 Prohibitions.
    No person shall transport into or through the city any quantity of
 radioactive material specified as follows:
@@ -12665,7 +12665,7 @@ defined in the Atomic Energy Act of 1954 and the Energy Reorganization Act of
 8.24.030 Violation—Penalty.
    Any person who violates any provision of this article shall be fined not
 more than five hundred dollars for each violation. (Prior code § 8.32.030)
-Article II. Storage of Radioactive Waste
+*** Article II. Storage of Radioactive Waste ***
 8.24.040 Purpose.
    The city council finds that it is necessary for the protection of the public
 health, safety, and welfare of the residents of the city and of visitors to the
@@ -13153,7 +13153,7 @@ the work is done at the expense of the city. (Ord. 96-05 § 2 (part), 1996)
    The fire chief shall determine the appropriate manner in which the public
 nuisances must be abated. (Ord. 96-05 § 2 (part), 1996)
 Chapter 8.36 BARBECUES
-8.36.010 Definitions.
+** 8.36.010 Definitions. **
    For purpose of this chapter the words defined in this section mean as
 follows:
    "Barbecue" means food prepared on an open fire or bed of coals by an
@@ -15331,9 +15331,7 @@ legible characters the word "Stop." (Prior code § 10.04.030)
 city upon which cars shall be parked parallel with the curb and also streets
 upon which cars shall be parked at an angle to the curb. (Prior code §
 10.04.040)
-10.04.050 Compliance with Sections
-10.04.020 through
-10.04.040 required.
+10.04.050 Compliance with Sections 10.04.020 through 10.04.040 required.
    It is unlawful for any person to park or permit to stand any vehicle within
 any zone established or marked pursuant to Section
 10.04.020, and it is unlawful for any person to drive or permit to be moved or
@@ -15646,8 +15644,7 @@ prohibitions established by the city, including daily prohibitions necessary
 for traffic control, construction and street maintenance.
    H.   Fines for violation of this subsection shall be as set out in Vehicle
 Code Section 42001(A). (Ord. 90-19 § 2(M), 1990; prior code § 10.08.055)
-10.08.090 Enforcement of Section
-10.08.070.
+10.08.090 Enforcement of Section 10.08.070.
    Pursuant to California Vehicle Code Section 22507, the provisions of Section
 10.08.070 shall not be effective until signs or markings giving adequate notice
 of the parking prohibition have been placed within the city as prescribed by
@@ -15853,7 +15850,7 @@ other authorized payment method, or deface, injure, tamper with, open or
 willfully break, destroy or impair the usefulness of any parking meter. Any
 person violating this section shall be deemed guilty of a misdemeanor. (Ord.
 07-03 § 1 (part), 2007)
-10.10.090 Interference with enforcement unlawful.
+** 10.10.090 Interference with enforcement unlawful. **
    No person shall interfere with, or obstruct in any way, any police officer,
 traffic enforcement officer, or other officer or employee of this city in their
 enforcement of the provisions of this chapter. The removal, obliteration,
@@ -16665,7 +16662,7 @@ five hundred dollars or by imprisonment in the county jail for a period not to
 exceed six months or by both such fine and imprisonment. (Prior code §
 12.04.050)
 Chapter 12.06 IN-LIEU FEE FOR UNDERGROUNDING OF UTILITY TRANSMISSION FACILITIES
-Article I. Purpose and Definitions
+*** Article I. Purpose and Definitions ***
 12.06.000 Purpose of chapter.
    The purpose of the utility undergrounding fee program established in this
 chapter is to implement the urban design policies of the general plan for the
@@ -16729,7 +16726,7 @@ support structures of whatever description used to maintain wires above the
 ground. Facilities used for the transmission of electric energy at nominal
 voltages of thirty-four thousand five hundred volts or more shall be exempt
 from the provisions of the chapter. (Ord. 08-04 § 1 (part), 2008)
-Article II. Fee Program
+*** Article II. Fee Program ***
 12.06.100 Fee required.
    Unless otherwise exempt under the provisions of this chapter, approval of
 any development project in the city shall be subject to a condition for the
@@ -16979,7 +16976,7 @@ imprisonment in the county jail for not to exceed six months or by both such
 fine and imprisonment. (Prior code § 12.12.050)
 Chapter 12.10
 NEWSRACKS
-12.10.010 Purpose.
+** 12.10.010 Purpose. **
    This chapter establishes a permitting process, and sets standards to
 regulate design, placement, installation, or maintenance of newsracks in the
 city. This chapter sets regulations to ensure enforcement of these standards,
@@ -19417,7 +19414,7 @@ chief of police is authorized, without further notice, to disconnect, sever, or
 otherwise terminate said illegal service connection, or to deny access to city
 streets for any such vehicle. (Ord. 97-06 § 2,1997: prior code § 3.03.010)
 Chapter 13.08 WATER SERVICE SYSTEM
-Article I. Cross-connections
+*** Article I. Cross-connections ***
 13.08.010 Purpose.
    The purpose of this article is:
    A.   To protect the public water supply against actual or potential cross-
@@ -19739,7 +19736,7 @@ shall be guilty of a separate offense for each and every day during any portion
 of which any violation of any provision of this article is committed,
 continued, or permitted by such person and shall be punishable accordingly.
 (Prior code § 13.08.120)
-Article II. Water Rates
+*** Article II. Water Rates ***
 13.08.130 Necessity.
    The city owns and operates a city water system as a proprietary function and
 for public and private purposes, from which it provides the service and
@@ -19849,7 +19846,7 @@ person violating any provision of this article is guilty of a misdemeanor, and
 upon conviction thereof shall be punished by a fine of not more than one
 hundred dollars, or imprisonment of not more than ten days, or by both such
 fine or imprisonment. (Prior code § 13.04.100)
-Article III. Water Service Tax
+*** Article III. Water Service Tax ***
 13.08.300 Authority and levy of special tax.
    Pursuant to the authority of Article XI, Section 7 of the California
 Constitution, Government Code Sections 37100.5 and 53722, and Section 2(c) of
@@ -20269,8 +20266,8 @@ Code, or make findings as required by that section to retain the fees.
 possession of the city and need not be made with respect to any bonds, letters
 of credit or other items given to secure payment at a future date. (Ord. 93-03
 § 1 (part), 1993)
-Chapter 13.12
-PRETREATMENT ORDINANCE
+**** Chapter 13.12
+PRETREATMENT ORDINANCE ****
 13.12.010   Purpose and policy.
    This chapter sets forth uniform requirements for users of the publicly owned
 treatment works for the City of Pismo Beach (the city) and enables the city to
@@ -20838,7 +20835,7 @@ rate.
    The director may develop BMPs in wastewater discharge permits to implement
 the requirements of this chapter.
 (Ord. O-2023-005 § 3 (part), 2023)
-13.12.090   City's right of revision.
+** 13.12.090   City's right of revision. **
    The city reserves the right to establish, by ordinance or in wastewater
 discharge permits, more stringent standards or requirements on discharges to
 the POTW consistent with the purpose of this chapter.
@@ -20852,7 +20849,7 @@ may impose mass limitations on users who are using dilution to meet applicable
 pretreatment standards or requirements, or in other cases when the imposition
 of mass limitations is appropriate.
 (Ord. O-2023-005 § 3 (part), 2023)
-13.12.110   Pretreatment of wastewater.
+** 13.12.110   Pretreatment of wastewater. **
    A.   Pretreatment facilities. Users shall provide wastewater treatment as
 necessary to comply with this chapter and shall achieve compliance with all
 categorical pretreatment standards, effluent limits, and the prohibitions set
@@ -25373,7 +25370,8 @@ policies that relate to the provision of water and/or sewer services to new
 developments of all land uses. These policies shall be considered an extension
 of this title. (Ord. 89-21 § 1 (part), 1989: prior code § 15.48.060)
 Chapter 15.44 FLOOD HAZARD AREA USE CONTROL
-  Article I. Statutory Authorization, Findings of Fact, Purpose and Methods
+***   Article I. Statutory Authorization, Findings of Fact, Purpose and Methods
+***
 15.44.010   Statutory authorization.
    The Legislature of the State of California has in California Government Code
 Sections 65302, 65560, and 65800 conferred upon local governments the authority
@@ -25432,7 +25430,7 @@ increase flood damage;
 unnaturally divert flood waters or which may increase flood hazards in other
 areas.
 (Ord. O-2008-006, § 1 (part), 2008)
-Article II. Definitions
+*** Article II. Definitions ***
 15.44.050   Definitions.
    Unless specifically defined below, words or phrases used in this chapter
 shall be interpreted so as to give them the meaning they have in common usage
@@ -25757,7 +25755,7 @@ other topographic feature on or over which waters flow at least periodically.
 “Watercourse” includes specifically designated areas in which substantial flood
 damage may occur.
 (Ord. O-2008-006, § 1 (part), 2008)
-Article III. General Provisions
+*** Article III. General Provisions ***
 15.44.060   Lands to which this chapter applies.
    This chapter shall apply to all areas of special flood hazards within the
 jurisdiction of the city.
@@ -25817,7 +25815,7 @@ unconstitutional or invalid, such decision shall not affect the validity of the
 chapter as a whole, or any portion thereof other than the section so declared
 to be unconstitutional or invalid.
 (Ord. O-2008-006, § 1 (part), 2008)
-Article IV. Administration
+*** Article IV. Administration ***
 15.44.130   Designation of the floodplain administrator.
    The community development director in cooperation with the city engineer is
 hereby appointed to administer, implement, and enforce this chapter by granting
@@ -25958,7 +25956,7 @@ floodplain administrator in the enforcement or administration of this chapter.
 Appeals shall be filed and processed in accordance with the procedures set
 forth in Chapter 17.54.
 (Ord. O-2008-006, § 1 (part), 2008)
-Article V. Provisions for Flood Hazard Reduction
+*** Article V. Provisions for Flood Hazard Reduction ***
 15.44.170   Standards of construction.
    In all areas of special flood hazards the following standards are required:
    A.   Anchoring. All new construction and substantial improvements of
@@ -26256,7 +26254,7 @@ lowest horizontal structural member of the lowest floor, excluding pilings or
 columns, of all new and substantially improved structures, and whether such
 structures contain a basement.
 (Ord. O-2008-006, § 1 (part), 2008)
-Article VI. Variance Procedure
+*** Article VI. Variance Procedure ***
 15.44.240   Nature of variances.
    A.   The issuance of a variance is for floodplain management purposes only.
 Insurance premium rates are determined by statute according to actuarial risk
@@ -29114,7 +29112,7 @@ for hotel or residential facilities irrevocably committed to a time-share use
 by documents recorded prior to the adoption of Urgency Ordinance 86-3. (Ord.
 86-17 § 2 (part), 1986)
 Title 17 ZONING ORDINANCE (1983 CODE)*
-Note:
+** Note: **
    * Effective date: December 1983.
 Chapter 17.003 GENERAL
 17.003.010 Objectives of the zoning ordinance.
@@ -29885,7 +29883,7 @@ the front lot line.
    The lot line opposite and most distant front the font lot line.
 17.006.0710 Lot line, side.
    Any lot boundary which is not a front lot line or a rear lot line.
-17.006.0715 Lot merger.
+** 17.006.0715 Lot merger. **
    The combining of two or more contiguous lots in common ownership into one or
 more legal parcels.
 17.006.0720 Lot, nonconforming.
@@ -30169,7 +30167,7 @@ respect to lot lines, streets or alleys.
    Primarily retail commercial and/or mixed use sites with eight or more
 separate businesses sharing common private pedestrian and parking areas. (Ord.
 05-02 § 1 (Att. A (part)), 2005: Ord. 04-010 § 1 (Att. A (part)), 2004)
-17.006.0902 Short-term rental.
+** 17.006.0902 Short-term rental. **
    See
 Chapter 17.113. (Ord. O-2018-006 § 2 (part), 2018)
 17.006.0903 Shortage of public services for new development.
@@ -32238,7 +32236,7 @@ view.
 IMAGES/0-0-0-5877.jpg]
  
  
-Chapter 17.084 NOISE PROBLEMS (N) OVERLAY ZONE
+**** Chapter 17.084 NOISE PROBLEMS (N) OVERLAY ZONE ****
 17.084.010 Purpose of zone.
    The noise problems (N) overlay zone is intended to protect noise sensitive
 areas from excessive noise levels.
@@ -32484,7 +32482,7 @@ land use plan.
 IMAGES/0-0-0-5879.jpg]
 Note: This image is available in a printer-friendly, PDF version. Click HERE to
 view.
-Chapter 17.096 VIEW CONSIDERATIONS (V) OVERLAY ZONE
+**** Chapter 17.096 VIEW CONSIDERATIONS (V) OVERLAY ZONE ****
 17.096.010 Purpose of zone.
    The view considerations (V) overlay zone is established to preserve, protect
 and maintain views of scenic land and water areas, and other areas which are of
@@ -34253,7 +34251,7 @@ IMAGES/0-0-0-5909.jpg]
 IMAGES/0-0-0-5911.jpg]
  
  
-Chapter 17.111 SIGN REGULATIONS
+**** Chapter 17.111 SIGN REGULATIONS ****
 17.111.010 Purpose of chapter.
    This chapter establishes uniform sign regulations that are intended to
 create a more attractive and economically viable business atmosphere for Pismo
@@ -35137,7 +35135,7 @@ residence on a yearly basis. The property owner(s) shall be required to be
 individual owner(s) or trustee(s), and not a corporation, limited liability
 company, partnership, or other business or commercial entity. (Ord. O- 2018-006
 § 1 (part), 2018)
-17.113.070 Short-term rental and homestay standards.
+** 17.113.070 Short-term rental and homestay standards. **
    A.   Initial inspection. Prior to issuance of an STR or homestay license,
 the city shall conduct an inspection of subject property to confirm bedroom
 count, on-site parking, and applicable safety standards. If complaints are
@@ -35491,7 +35489,7 @@ Safety Standards Act of 1974, placed on permanent foundations.
    R.   "Tandem parking" means that two (2) or more automobiles are parked on a
 driveway or in any other location on a lot, lined up one (1) behind the other.
 (Ord. O-2021-001 § 1 (part), 2021)
-17.117.040 Applicability.
+** 17.117.040 Applicability. **
    A.   Application. Where this chapter does not contain a particular standard
 or procedure, conventional zoning standards and procedures shall apply.
    B.   Areas Where ADUs are Allowed. ADUs and JADUs are permitted on lots
@@ -36484,7 +36482,7 @@ such appeal, the public services department shall set the matter for public
 hearing and notice thereof to be given as provided in Section
 17.121.210. The written appeal shall include a description of the nature and
 reasons for the appeal.
-17.121.250 Appeals of Planning Commission decisions.
+** 17.121.250 Appeals of Planning Commission decisions. **
    In case the applicant or any other person is not satisfied with the action
 of the Planning Commission on any Permit or Variance application, he may,
 within ten (10) business days appeal in writing to the City Council. Upon
@@ -37227,7 +37225,7 @@ erected, constructed, enlarged, altered, moved or used in any district shown on
 said zoning map, except in accordance with the regulations established by this
 Title.
 Title 17 1998 ZONING CODE
-Article I ZONING CODE ENACTMENT AND APPLICABILITY
+***** Article I ZONING CODE ENACTMENT AND APPLICABILITY *****
 Chapter 17.01 PURPOSE AND EFFECT OF ZONING CODE
 17.01.010 Title.
    Title 17 of the Pismo Beach Municipal Code is and may be cited as the Pismo
@@ -37818,7 +37816,8 @@ development project application, wherein the appeal shall be considered by the
 city council. All such appeals shall be heard and processed as set forth in
 Chapter 17.54 of the Pismo Beach Municipal Code. (Ord. O-2013-002 § 1 (part),
 2013)
-Article II ZONING DISTRICTS, ALLOWABLE LAND USES, AND ZONE-SPECIFIC STANDARDS
+***** Article II ZONING DISTRICTS, ALLOWABLE LAND USES, AND ZONE-SPECIFIC
+STANDARDS *****
 Chapter 17.06 ESTABLISHMENT OF ZONING DISTRICTS, ADOPTION OF ZONING MAP
 17.06.010 Purpose of chapter.
    This chapter establishes the zoning districts applied to property within the
@@ -40838,7 +40837,7 @@ RETAINING WALLS IN FRONT SETBACK
 [https://export.amlegal.com/media/37a4c80e58dcce27210d433a9c51f92b79c29e31/
 IMAGES/0-0-0-5765.jpg]
  
-Article III SITE PLANNING AND PROJECT DESIGN STANDARDS
+***** Article III SITE PLANNING AND PROJECT DESIGN STANDARDS *****
 Chapter 17.24 GENERAL PROPERTY DEVELOPMENT AND USE STANDARDS
 17.24.010 Purpose and applicability.
    A.   Purpose of Chapter. The provisions of this chapter expand the standards
@@ -45948,7 +45947,7 @@ specially designated areas to accommodate customer pickup, and pedestrian walks
 from parking areas to the structure.
    3.   Site Location. The use shall be located only on streets determined by
 the director to have adequate traffic capacity.
-Article IV LAND USE AND DEVELOPMENT PERMIT PROCEDURES
+***** Article IV LAND USE AND DEVELOPMENT PERMIT PROCEDURES *****
 Chapter 17.40 APPLICATIONS--FILING AND PROCESSING
 17.40.010 Purpose of article.
    This Article provides procedures and requirements for the preparation,
@@ -46909,7 +46908,7 @@ general plan.
 extended, any development that occurs after the original expiration date shall
 be consistent with the provisions of the general plan as of the adoption date
 of the amended development agreement.
-Article V ZONING CODE ADMINISTRATION
+***** Article V ZONING CODE ADMINISTRATION *****
 Chapter 17.50 ADMINISTRATIVE RESPONSIBILITY
 17.50.010 Purpose of chapter.
    This chapter describes the authority and responsibilities of city staff and
@@ -47255,8 +47254,8 @@ chapter and the Coastal Act.
 notify the city when appealing to the Coastal Commission by providing the city
 a copy of the information required in California Code of Regulations Section
 13111.
-Chapter 17.56 GENERAL PLAN, ZONING CODE/MAP, AND LOCAL COASTAL PROGRAM
-AMENDMENTS
+**** Chapter 17.56 GENERAL PLAN, ZONING CODE/MAP, AND LOCAL COASTAL PROGRAM
+AMENDMENTS ****
 17.56.010 Purpose of chapter.
    The following provisions allow for the amendment of the general plan, this
 Zoning Code, the official zoning map, or the local coastal program, whenever
@@ -47791,7 +47790,7 @@ consistent with the objectives, goals and policies of the general plan, or that
 the continuation of said use is essential or desirable to the public
 convenience or welfare, this section shall not apply to an application
 submitted pursuant to this title. (Ord. O-2016-007 § 1 (part), 2016)
-Article VI ZONING CODE DEFINITIONS
+***** Article VI ZONING CODE DEFINITIONS *****
 Chapter 17.62 DEFINITIONS
 17.62.010 Purpose of chapter.
    This chapter provides definitions of terms and phrases used in this Zoning
@@ -49304,9 +49303,9 @@ Ord. 05-02 § 1 (Att. A (part)), 2005; Ord. 04-10 § 1 (Att. A (part)), 2004;
 Ord. 03-04 § 2 (Exh. B (part)), 2003; Ord. 03-03 § 2 (Exh. B (part)), 2003)
 Tables
 Files listed below require Adobe Acrobat Reader 3.0 or later.
-STATUTORY REFERENCES
+***** STATUTORY REFERENCES *****
 Statutory_References
-PRIOR CODE CROSS-REFERENCE TABLE
+***** PRIOR CODE CROSS-REFERENCE TABLE *****
    This table provides users with the legislative history and the current
 disposition of the sections in the prior Pismo Beach municipal code.
    Thus, prior code Section 1.01.010 was derived from Ords. 338 and 201, and
@@ -50768,7 +50767,7 @@ Ord. 140 § 8, 1970   8.12.100
 18.20.040   Ord. 311 § 1 (part), 1983   Not codified
 19.04.010   Referendum Ordinance No. 82-1; Ord. No. 198, 1982   Not codified
  
-ORDINANCE LIST AND DISPOSITION TABLE
+***** ORDINANCE LIST AND DISPOSITION TABLE *****
 Ordinance
 Number
 184   Park and Recreation Land Requirements (Repealed by 94-02)
