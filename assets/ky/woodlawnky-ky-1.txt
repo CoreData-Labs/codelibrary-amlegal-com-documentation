@@ -459,7 +459,7 @@ Nonelected City Officials
 31.31   City Clerk/Treasurer
    
 31.32   City Attorney
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 OATH; BOND.
    (A)   Oath. Each officer of the city shall, before entering upon the
 discharge of duties of his or her office, take the following oath: “I do
@@ -537,7 +537,7 @@ Commission at will, unless otherwise provided by state law or ordinance.
 Statutory reference:
    Removal of elected officers, see KRS 83A.040(9)
    Removal of nonelected officers, see KRS 83A.080(3)
-ELECTED OFFICIALS
+**** ELECTED OFFICIALS ****
 § 31.15 ELECTION PROCEDURE.
    (A)   Election of city officers is governed by general election laws as
 provided in KRS Chapters 116 through 121 unless the Commission prescribes by
@@ -634,7 +634,7 @@ by a majority vote of the Commission membership, and the provisions of division
    For provisions concerning the City Commission, see
 Chapter 32 .
 (Prior Code, § 31.22)
-NONELECTED CITY OFFICIALS
+**** NONELECTED CITY OFFICIALS ****
 § 31.30 ESTABLISHMENT OF NONELECTED CITY OFFICES.
    (A)   All nonelected city offices shall be created by ordinance which shall
 specify:
@@ -757,7 +757,7 @@ Ordinances
 32.41   Proved by City Clerk/Treasurer; received in evidence
    
 32.42   Legislative immunity
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.01 MEMBERS; ELECTION, QUALIFICATIONS, COMPENSATION.
    (A)   Election; term of office.
       (1)   Each Commissioner shall be elected at-large by the voters of the
@@ -846,7 +846,7 @@ established under this section; however, the Commission may delegate
 responsibility for overall supervision of any or all departments to a City
 Administrative Officer established pursuant to KRS 83A.090.
 (KRS 83A.140(6)) (Prior Code, § 32.04)
-RULES OF PROCEDURE
+**** RULES OF PROCEDURE ****
 § 32.15 MAYOR AS PRESIDING OFFICER.
    The Mayor shall preside at all meetings of the Commission and may vote in
 all proceedings.
@@ -876,7 +876,7 @@ Statutory reference:
 constitutes a quorum and a vote of a majority of a quorum is sufficient to take
 action.
 (KRS 83A.060(6)) (Prior Code, § 32.22)
-ORDINANCES
+**** ORDINANCES ****
 § 32.30 ONE SUBJECT; TITLE.
    Each ordinance shall embrace only one subject and shall have a title that
 shall clearly state the subject.
@@ -1017,7 +1017,7 @@ Improvements
 33.27   When city may proceed; assessment constitutes lien
    
 33.28   Effect of additional property or change in financing
-FINANCIAL ADMINISTRATION
+**** FINANCIAL ADMINISTRATION ****
 § 33.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates, or requires, a different meaning.
@@ -1206,7 +1206,7 @@ by the Commission which states the name of the person to whom funds are
 payable, the purpose of the payment, and the fund out of which the funds are
 payable. Each authorization shall be numbered and recorded.
 (KRS 91A.060) (Prior Code, § 33.05)
-IMPROVEMENTS
+**** IMPROVEMENTS ****
 § 33.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates, or requires, a different meaning.
@@ -1380,7 +1380,7 @@ Procedures for Requesting Public Records
 34.26   Public records protected from disclosure
    
 34.27   Notification of the Attorney General
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates, or requires, a different meaning.
@@ -1440,7 +1440,7 @@ and utility programs, but does not include that material which is prohibited
 from disclosure or copying by a license agreement between a public agency and
 an outside entity which supplied the material to the agency.
 (KRS 61.870) (Prior Code, § 34.01)
-PROCEDURES FOR REQUESTING PUBLIC RECORDS
+**** PROCEDURES FOR REQUESTING PUBLIC RECORDS ****
 § 34.15 INITIAL REQUEST WITH IMMEDIATE INSPECTION.
    (A)   Any person desiring to inspect or copy the public records of the city
 shall make a request for inspection at the office of the City Clerk/Treasurer
@@ -1857,7 +1857,7 @@ Enforcement
  
    
 36.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 36.001 TITLE.
    This chapter shall be known and may be cited as the “City of Woodlawn Code
 of Ethics.”
@@ -1929,7 +1929,7 @@ unpaid, who is one of the following:
       (7)   A member of the governing body of any city agency who has been
 appointed to the governing body of the agency by the city.
 (Prior Code, § 36.04) (Ord. 10-1-08, passed 10-8-2008)
-STANDARDS OF CONDUCT
+**** STANDARDS OF CONDUCT ****
 § 36.015 CONFLICTS OF INTEREST IN GENERAL.
    Every officer and employee of the city and every city agency shall comply
 with the following standards of conduct.
@@ -2084,7 +2084,7 @@ agency and not primarily for the benefit of the officer or employee or any
 other person.
 (Prior Code, § 36.17) (Ord. 10-1-08, passed 10-8-2008) Penalty, see §
 36.999
-FINANCIAL DISCLOSURE
+**** FINANCIAL DISCLOSURE ****
 § 36.035 WHO MUST FILE.
    The following classes of officers and employees of the city and city
 agencies shall file an annual statement of financial interests with the Board
@@ -2195,7 +2195,7 @@ Board. The notice shall specify the type of failure or delinquency, shall
 establish a date by which the failure or delinquency shall be remedied, and
 shall advise the person of the penalties for a violation.
 (Prior Code, § 36.25) (Ord. 10-1-08, passed 10-8-2008)
-NEPOTISM
+**** NEPOTISM ****
 § 36.055 NEPOTISM PROHIBITED.
    (A)   No officer or employee of the city or a city agency shall advocate,
 recommend, or cause any of the following when a family member is placed at or
@@ -2219,7 +2219,7 @@ or situation that would violate the prohibition, but which existed prior to
 September 1, 2008.
 (Prior Code, § 36.30) (Ord. 10-1-08, passed 10-8-2008) Penalty, see §
 36.999
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 36.070 INTERLOCAL COOPERATION AGREEMENT.
    (A)   Attached hereto and incorporated herein by reference is an interlocal
 cooperation agreement authorized by KRS 65.210 et seq., which the Mayor of the
@@ -2299,7 +2299,7 @@ Police Department
 Fire Department
    
 37.15   Acceptance of Volunteer Fire Department and Chief
-POLICE DEPARTMENT
+**** POLICE DEPARTMENT ****
 § 37.01 PERMISSION TO CARRY CONCEALED WEAPONS.
    (A)   All duly elected and appointed law officers of the city, including
 those providing services to the city through any interlocal agreement, may
@@ -2313,7 +2313,7 @@ other purpose.
 Cross-reference:
    Discharge of firearms prohibited, see §
 130.01
-FIRE DEPARTMENT
+**** FIRE DEPARTMENT ****
 § 37.15 ACCEPTANCE OF VOLUNTEER FIRE DEPARTMENT AND CHIEF.
    (A)   The city hereby accepts the Volunteer Fire Department as the duly
 constituted and official firefighting organization for the city.
@@ -2851,7 +2851,7 @@ Traffic-Control Devices
  
    
 70.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    For the purpose of this title, the following definitions shall apply unless
 the context clearly indicates, or requires, a different meaning.
@@ -2954,7 +2954,7 @@ two weeks.
 two weeks, the City Clerk/Treasurer shall be notified in writing of the
 extended order.
 (Prior Code, § 70.05)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.20 SIGNAL LEGENDS.
    Whenever traffic is regulated or controlled exclusively by a traffic-control
 sign or signs exhibiting the words “Go,” “Caution,” or “Stop,” or exhibiting
@@ -3128,7 +3128,7 @@ Parades
 Cross-reference:
 Parking of semi-tractor-trailer trucks; entering city at night, see §
 72.13
-OPERATION GENERALLY
+**** OPERATION GENERALLY ****
 § 71.01 OBSTRUCTING TRAFFIC.
    (A)   It shall be unlawful to operate any vehicle or permit it to remain
 standing in any street in such manner as to create an obstruction thereof.
@@ -3177,7 +3177,7 @@ roadway.
 into an alley from the roadway may do so at low speed and with caution.
 (Prior Code, § 71.04) Penalty, see §
 71.99
-ACCIDENTS
+**** ACCIDENTS ****
 § 71.20 DUTY OF OPERATOR.
    It shall be the duty of the owner of, operator of, or passenger in any motor
 vehicle which is involved in an accident in which any person is injured or
@@ -3194,7 +3194,7 @@ shall immediately report the accident or property damage to the Police
 Department.
 (Prior Code, § 71.16) Penalty, see §
 71.99
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 71.35 OPERATOR OF VEHICLE TO DRIVE CAREFULLY.
    (A)   The operator of any vehicle upon a highway shall operate the vehicle
 in a careful manner, with regard for the safety and convenience of pedestrians
@@ -3256,7 +3256,7 @@ promote the public safety.
 71.99
 Cross-reference:
    Nuisances, see Ch. 92
-PARADES
+**** PARADES ****
 § 71.50 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates, or requires, a different meaning.
@@ -3465,7 +3465,7 @@ Snow Emergency
 Statutory reference:
    Revenues from fees, fines, and forfeitures related to parking, see KRS
 65.120
-PARKING GENERALLY
+**** PARKING GENERALLY ****
 § 72.01 OBSTRUCTIONAL PARKING; DOUBLE PARKING.
    (A)   It shall be unlawful for any person to leave any vehicle or any other
 thing that may be a nuisance, obstruction, or hindrance in or on any street,
@@ -3684,7 +3684,7 @@ overall width or both.
 (Prior Code, § 72.13) (Ord. 5-1-74, passed 5-6-1974; Ord. 7-2-02, passed 7-3-
 2002) Penalty, see §
 72.99
-SNOW EMERGENCY
+**** SNOW EMERGENCY ****
 § 72.25 ANNOUNCEMENT OF SNOW EMERGENCY.
    (A)   (1)   Whenever the City Commission or any authorized city official
 finds that falling snow, sleet, or freezing rain will create a condition which
@@ -3910,7 +3910,7 @@ Dangerous Animals
  
    
 90.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates, or requires, a different meaning.
@@ -4049,7 +4049,7 @@ animals under KRS 525.125 or 525.130.
 Statutory reference:
    Torture of dogs and cats, second and subsequent offenses, a Class D felony,
 see KRS 525.135
-DOGS
+**** DOGS ****
 § 90.20 DEFINITIONS.
    For the purpose of §§
 90.20 through
@@ -4124,7 +4124,7 @@ bitten by other rabid or mad animals.
    Any person may kill a dog which he or she sees attack a human being,
 regardless of whether or not the dog is licensed.
 (Prior Code, § 90.21) (Ord. 5-2-85, passed 5-1-1985)
-IMPOUNDMENT PROCEDURES
+**** IMPOUNDMENT PROCEDURES ****
 § 90.40 DUTY TO IMPOUND ANIMALS IN VIOLATION.
    It shall be the duty of the Police Department or dog warden to seize and
 impound, subject to the provisions of §§
@@ -4198,7 +4198,7 @@ thereafter.
    All monies received and collected under the provisions of this subchapter
 shall be deposited in the General Fund of the city.
 (Prior Code, § 90.42) (Ord. 5-2-85, passed 5-1-1985)
-DANGEROUS ANIMALS
+**** DANGEROUS ANIMALS ****
 § 90.60 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates, or requires, a different meaning.
@@ -4446,7 +4446,7 @@ Obstructions
 Cross-reference:
 Construction of private driveways, see §
 150.03
-EXCAVATIONS AND CONSTRUCTION
+**** EXCAVATIONS AND CONSTRUCTION ****
 § 91.01 OPENING PERMIT REQUIRED.
    It shall be unlawful for any person, other than an authorized city official,
 to make any opening in any street, alley, sidewalk, or public way of the city
@@ -4541,7 +4541,7 @@ Inspector as soon as practical after the work is undertaken regarding the
 nature and extent of the repair work undertaken.
 (Prior Code, § 91.07) (Ord. 9-1-02, passed 9-11-2002) Penalty, see §
 91.99
-ROAD AND BRIDGE PROJECTS
+**** ROAD AND BRIDGE PROJECTS ****
 § 91.20 PUBLIC HEARING REQUIRED.
    Before the city expends state derived tax revenues on a municipal highway,
 road, street, or bridge it shall hold a hearing in accordance with the
@@ -4587,7 +4587,7 @@ are under construction as of the effective date of this subchapter unless
 construction is suspended after the effective date of this subchapter and the
 city desires to reactivate the project.
 (KRS 174.100(6), (7)) (Prior Code, § 91.20)
-OBSTRUCTIONS
+**** OBSTRUCTIONS ****
 § 91.40 UNLOADING ON STREET OR SIDEWALK.
    No person shall unload any heavy material in the streets of the city by
 throwing or letting the material fall upon the pavement of any street, alley,
@@ -4741,7 +4741,7 @@ Smoke Detectors
  
    
 93.99   Penalty
-FIREWORKS
+**** FIREWORKS ****
 § 93.01 DEFINITIONS; LEGALITY OF ITEMS.
    (A)   As used in KRS 227.700 through 227.750, FIREWORKS means any
 composition or device for the purpose of producing a visible or an audible
@@ -5090,7 +5090,7 @@ be held.
 government from enacting ordinances that affect the sale or use of fireworks
 within its jurisdiction.
 (KRS 227.750) (Prior Code, § 93.06)
-FIRE PREVENTION
+**** FIRE PREVENTION ****
 § 93.20 BLASTING PERMIT.
    (A)   No person shall cause a blast to occur within the city without making
 application in writing beforehand, setting forth the exact nature of the
@@ -5113,7 +5113,7 @@ be provided for such hazardous materials.
 prevents access to or exit from any premises in case of fire.
 (Prior Code, § 93.22) Penalty, see §
 93.99
-SMOKE DETECTORS
+**** SMOKE DETECTORS ****
 § 93.35 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates, or requires, a different meaning.
@@ -5135,7 +5135,8 @@ possession; or
       (2)   Shall have charge, care, or control of any dwelling or dwelling
 unit as owner, or as executor, administrator, trustee, guardian of the estate,
 or duly authorized agent of the owner. Any such person thus representing the
-actual owner shall be bound to comply with the owner’
+actual owner shall be bound to comply with the owner’s obligations under this
+section.
    ROOMING UNIT. Any room which is designed or used for sleeping purposes. A
 ROOMING UNIT may include a room in a rooming house, a hotel, a motel, a tourist
 home, a school dormitory, or an apartment building which may, or may not, have
@@ -5393,7 +5394,7 @@ Tree Commission
  
    
 96.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 96.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates, or requires, a different meaning.
@@ -5415,7 +5416,7 @@ permission of the Tree Commission shall also be guilty of such an offense
 subject to the same penalties.
 (Prior Code, § 96.02) (Ord. 1994-4-1, passed - -1994) Penalty, see §
 96.99
-TREE COMMISSION
+**** TREE COMMISSION ****
 § 96.15 ESTABLISHMENT.
    A Tree Commission is hereby established, to be known as the “City of
 Woodlawn Tree Commission” or “Tree Commission.” The Tree Commission shall
@@ -6097,7 +6098,7 @@ Curfew for Minors
  
    
 130.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 130.01 DISCHARGE OF FIREARMS PROHIBITED.
    (A)   It is specifically prohibited for any person to discharge in the city
 any firearm, air rifle, or other weapon capable of discharging any projectible,
@@ -6118,7 +6119,7 @@ officer;
 Cross-reference:
    Police Department; permission to carry concealed weapons, see §
 37.01
-CURFEW FOR MINORS
+**** CURFEW FOR MINORS ****
 § 130.15 SHORT TITLE.
    This subchapter shall be known and shall be cited as the “Woodlawn Curfew
 Ordinance” or “this subchapter.”
@@ -6283,7 +6284,7 @@ Cross-reference:
 Smoke detectors, see §§
 93.35 through
 93.40
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 NOTICE OF IMPROVEMENTS TO REAL PROPERTY REQUIRED.
    (A)   When any building or structure shall hereafter be built, enlarged,
 improved, or altered within the city, the owner of the premises on which such
@@ -6435,7 +6436,7 @@ Residential         $100
 applied for are set forth specifically in prior ordinances setting forth the
 circumstances in which building permits are required.
 (Prior Code, § 150.06) (Ord. 1997-7-2, passed 7-2-1997)
-STANDARD CODES
+**** STANDARD CODES ****
 § 150.20 ADOPTION OF STATE BUILDING CODE AND RESIDENTIAL CODE; ENFORCEMENT
 AGENTS.
    (A)   Adoption of the State Building Code.
@@ -6481,7 +6482,7 @@ established to hear such appeals.
 (Prior Code, § 150.17)
 Statutory reference:
    Appeals procedure, see KRS 198B.070
-FLOOD DAMAGE PREVENTION
+**** FLOOD DAMAGE PREVENTION ****
 § 150.35 FLOOD DAMAGE PREVENTION REGULATIONS; ADOPTED BY REFERENCE.
    The Flood Damage Prevention Ordinance for the city, along with any
 amendments or revisions, is hereby adopted by reference as if fully set forth
