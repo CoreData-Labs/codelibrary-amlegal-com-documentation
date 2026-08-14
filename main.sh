@@ -13,7 +13,7 @@ function main() { # Define the main function that contains all script logic
 
 	CHECK_INTERVAL_SECONDS=60     # Wait 60 seconds between each repository check
 	MIN_WAIT_SECONDS=1800         # Force push at least every 1800 seconds (30 min)
-	MIN_FILE_CHANGE_THRESHOLD=10  # Push early if 10+ files have changed
+	MIN_FILE_CHANGE_THRESHOLD=500 # Push early if 500+ files have changed
 
 	last_push_epoch=$(date +%s) # Store current time in seconds since Unix epoch
 
@@ -23,8 +23,6 @@ function main() { # Define the main function that contains all script logic
 
 		current_epoch=$(date +%s)                            # Get current time in epoch seconds
 		elapsed_seconds=$((current_epoch - last_push_epoch)) # Time since last push
-
-		find PDFs/ -type f -iname '*.pdf' -size +100M -delete # Remove all the files larger than 100 MB
 
 		changed_files_count=$(git status --porcelain -uall | wc -l)
 		# Get list of changed files from git and count them
