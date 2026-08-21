@@ -1,14 +1,13 @@
 LAWRENCEBURG, KENTUCKY
 CODE OF ORDINANCES
 2026 S-34 Supplement contains:
-Local legislation current through Ord. 2026-002, passed 2-2-26
-State legislation current through KRS Pamphlet 2025
+Local legislation current through Ord. 2026-004, passed 6-1-26
+State legislation current through KRS Pamphlet 2026
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
 Cincinnati, Ohio 45202
 Tel: (800) 445-5588
-Internet: www.amlegal.com
 CITY OFFICIALS
 OF
 LAWRENCEBURG, KENTUCKY
@@ -2398,10 +2397,13 @@ Standards Board.
 § 33.02 ACCOUNTING RECORDS AND FINANCIAL REPORTS.
    (A)   The city shall keep its accounting records and render financial
 reports in such a way as to:
-      (1)   Determine compliance with statutory provisions; and
+      (1)   Determine compliance with statutory provisions;
       (2)   Determine fairly and with full disclosure the financial operations
-of constituent funds and account groups of the city in conformity with
-generally accepted governmental accounting principles.
+of constituent funds and account groups of the city; and
+      (3)   Conform with generally accepted governmental accounting principles,
+except cities receiving and expending, from all sources and for all purposes,
+less than fifteen million dollars ($15,000,000) may choose to conform with the
+cash or the modified cash basis of accounting.
    (B)   The municipal accounting system shall be organized and operated on a
 fund basis.
 (KRS 91A.020)
@@ -2481,25 +2483,24 @@ available electronic copies of the audit reports and financial statements
 received by it under division (A) of this section to the Legislative Research
 Commission to be used for the purposes of KRS 6.955 to 6.975 or to the Auditor
 of Public Accounts.
-   (D)   The city, because it is required by this section to conduct an annual
-audit, shall enter into a written contract with an auditor, who shall be a
-certified public accountant or the Auditor of Public Accounts. The contract
-shall set forth all terms and conditions of the agreement which shall include
-but not be limited to requirements that:
+   (D)   The city, because it is required by this section to conduct an audit,
+shall enter into a written contract with an auditor, who shall be a certified
+public accountant or the Auditor of Public Accounts. The contract shall set
+forth all terms and conditions of the agreement which shall include but not be
+limited to requirements that:
       (1)   The auditor be employed to examine the basic financial statements,
-which shall include the government-wide and fund financial statements;
-      (2)   The auditor shall include in the annual or biennial city audit
-report an examination of local government economic assistance funds granted to
-the city under KRS 42.450 to 42.495. The auditor shall include a certification
-with the annual or biennial audit report that the funds were expended for the
-purpose intended;
+which shall include the financial statements prepared in accordance with the
+basis of accounting used by the city;
+      (2)   The auditor shall include in the city audit report an examination
+of local government economic assistance funds granted to the city under KRS
+42.450 to 42.495. The auditor shall include a certification with the audit
+report that the funds were expended for the purpose intended;
       (3)   All audit information be prepared in accordance with generally
 accepted governmental auditing standards which include tests of the accounting
 records and auditing procedures considered necessary in the circumstances.
 Where the audit is to cover the use of state or federal funds, appropriate
 state or Federal guidelines shall be utilized;
-      (4)   The auditor shall prepare a typewritten or printed report
-embodying:
+      (4)   The auditor shall prepare a printed report embodying:
          (a)   The basic financial statements and accompanying supplemental and
 required supplemental information;
          (b)   The auditor's opinion on the basic financial statements or
@@ -2508,10 +2509,8 @@ reasons why an opinion cannot be expressed; and
       (5)   The completed audit and all accompanying documentation shall be
 presented to the city legislative body at a regular or special meeting; and
       (6)   Any contract with a certified public accountant for an audit shall
-require the accountant to forward a copy of the audit report and management
-letters to the Auditor of Public Accounts upon request of the city or the
-Auditor of Public Accounts, and the Auditor of Public Accounts shall have the
-right to review the certified public accountant's work papers upon request.
+provide that the Auditor of Public Accounts shall have the right to review the
+certified public accountant's work papers upon request.
    (E)   A copy of an audit report which meets the requirements of this section
 shall be considered satisfactory and final in meeting any official request to a
 city for financial data, except for statutory or judicial requirements, or
@@ -2521,21 +2520,16 @@ purposes of KRS 6.955 to 6.975.
 audit to the city legislative body, publish an advertisement in accordance with
 KRS Chapter 424 containing:
       (1)   The auditor's opinion letter;
-      (2)   The “Budgetary Comparison Schedules-Major Funds,” which shall
-include the general fund and all major funds;
+      (2)   A budget-to-actual comparison schedule for the general fund;
       (3)   A statement that a copy of the complete audit report, including
 financial statements and supplemental information, is on file at city hall and
 is available for public inspection during normal business hours;
       (4)   A statement that any citizen may obtain from city hall a copy of
 the complete audit report, including financial statements and supplemental
-information, for his personal use;
-      (5) A statement which notifies citizens requesting a personal copy of the
-city audit report that they will be charged for duplication costs at a rate
-that shall not exceed twenty-five cents ($0.25) per page; and
-      (6)   A statement that copies of the financial statement prepared in
-accordance with KRS 424.220, when a financial statement is required by KRS
-424.220, are available to the public at no cost at the business address of the
-officer responsible for preparation of the statement.
+information, for his personal use; and
+      (5)   A statement which notifies citizens requesting a personal copy of
+the city audit report that they will be charged for duplication costs at a rate
+that shall not exceed twenty-five cents ($0.25) per page.
    (G)   Any resident of the city or owner of real property within the city may
 bring an action in the Circuit Court to enforce the provisions of this section.
 Any person who violates any provision of this section shall be fined not less
@@ -2588,8 +2582,10 @@ expense shall include the hours of work performed on the audit or examination
 as well as reasonable associated costs, including but not limited to travel
 costs. The bill submitted to the city shall include a statement of the hourly
 rate, total hours, and total costs for the entire audit or examination.
-(KRS 91A.040(1), (4) - (12))
-   (K)   In lieu of the auditing requirements set forth in KRS 91A.040, if the
+   (K)   The city shall provide a copy of any audit report completed pursuant
+to this section to the Auditor of Public Accounts upon request.
+(KRS 91A.040(1), (4) - (13))
+   (L)   In lieu of the auditing requirements set forth in KRS 91A.040, if the
 city for the fiscal year in question receives and expends, from all sources,
 and for all purposes, less than seventy-five thousand dollars ($75,000), and
 has no long-term debt, whether general obligation or revenue debt, the city may
@@ -4442,7 +4438,7 @@ each "public agency" is defined in this section.
    "VIDEO TELECONFERENCE." One (1) meeting, occurring in two (2) or more
 locations, where individuals can see and hear each other by means of video and
 audio equipment.
-(KRS 61.805(5))
+(KRS 61.805(2))
 **** PUBLIC MEETING REQUIREMENTS ****
 § 38.05 MEETINGS OPEN TO THE PUBLIC.
    (A)   All meetings of a quorum of the members of any public agency at which
@@ -8255,26 +8251,26 @@ Show Cause             enforcement action against it. The meeting may also
                        recommended depending on the severity of the case.
  
 ENFORCEMENT RESPONSE GUIDE
-[https://export.amlegal.com/media/0f98c1241bde5a213de3921159625a232ac17a79/
+[https://export.amlegal.com/media/80f27dfbfe363db490959b508f402726f24baccf/
 IMAGES/0-0-0-1538.jpg]
  
 DISCHARGE LIMIT VIOLATION
-[https://export.amlegal.com/media/0f98c1241bde5a213de3921159625a232ac17a79/
+[https://export.amlegal.com/media/80f27dfbfe363db490959b508f402726f24baccf/
 IMAGES/0-0-0-1514.jpg]
  
 MONITORING AND REPORTING VIOLATIONS
-[https://export.amlegal.com/media/0f98c1241bde5a213de3921159625a232ac17a79/
+[https://export.amlegal.com/media/80f27dfbfe363db490959b508f402726f24baccf/
 IMAGES/0-0-0-1517.jpg]
  
-[https://export.amlegal.com/media/0f98c1241bde5a213de3921159625a232ac17a79/
+[https://export.amlegal.com/media/80f27dfbfe363db490959b508f402726f24baccf/
 IMAGES/0-0-0-1520.jpg]
  
 OTHER PERMIT VIOLATIONS
-[https://export.amlegal.com/media/0f98c1241bde5a213de3921159625a232ac17a79/
+[https://export.amlegal.com/media/80f27dfbfe363db490959b508f402726f24baccf/
 IMAGES/0-0-0-1523.jpg]
  
 VIOLATIONS DETECTED DURING SITE VISITS
-[https://export.amlegal.com/media/0f98c1241bde5a213de3921159625a232ac17a79/
+[https://export.amlegal.com/media/80f27dfbfe363db490959b508f402726f24baccf/
 IMAGES/0-0-0-1526.jpg]
  
 TIME FRAME FOR RESPONSES
@@ -15697,7 +15693,7 @@ Section
    
 118.99   Penalty
 § 118.01 GENERAL PROVISIONS.
-   Pursuant to KRS 190.030(7), motor vehicle dealers as defined therein, may
+   Pursuant to KRS 190.030(8), motor vehicle dealers as defined therein, may
 conduct temporary "off-site" motor vehicle sales events provided all licensing
 or permitting requirements contained herein and those required by state
 regulation are met.
@@ -21220,7 +21216,7 @@ Ch. 61                            31.31
 61.805(2)                         38.01
 61.805(3)                         38.01
 61.805(4)                         38.01
-61.805(5)                         38.01 
+61.805(6)                         38.01 
 61.810                            36.43,
                                   38.05
 61.815                            38.06
@@ -21312,7 +21308,7 @@ Ch. 65                            30.17
 83A.040(3)                        30.14,
                                   30.15
 83A.040(4)                        30.15
-83A.040(5)                        30.14
+83A.040(5)                        30.15
 83A.040(6)                        30.14,
                                   30.15
                                   30.14,
@@ -21374,7 +21370,7 @@ Ch. 83A                           30.10
                                   33.01
 91A.020                           33.02
 91A.030                           33.03
-91A.040(1), (4) - (12)            33.04,
+91A.040(1), (4) - (13)            33.04,
                                   117.15
 91A.041                           33.04 (I)
 91A.060                           33.05
@@ -21435,7 +21431,7 @@ Ch. 189                           Ch. 70,
 189.820                           100.03
 189.910                           71.30
 189.920                           71.30
-190.030(7)                        118.01
+190.030(8)                        118.01
 196.099                           37.01
 198B.060(8)                       150.02
 211.180                           Ch. 95
@@ -22961,6 +22957,8 @@ Ord. No. Date     Description                       Code Section
                   definition
 2025-009 1-5-26   Zoning map amendment              T.S.O. VI
 2026-002 2-2-26   Use of fireworks                  93.06
+2026-003 4-16-26  Compensation plan                 Not Included
+2026-004 6-1-26   Annual budget                     Not Included
                                                   
  
  
