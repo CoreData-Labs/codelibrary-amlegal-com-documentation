@@ -27,8 +27,8 @@ const CODE_VERSION_API_ENDPOINT_PREFIX = "/api/code-versions/"; // Endpoint pref
 const AUTH_FINGERPRINT_COOKIE_NAME = "_alp_fp"; // The name of the essential cookie required for authentication/authorization
 
 // Timing and Polling Configuration
-const MAX_EXPORT_WAIT_MINUTES = 60; // Maximum time (minutes) to wait for an export job to complete
-const EXPORT_POLL_INTERVAL_MS = 30000; // Interval (milliseconds) between status checks (30 seconds)
+const MAX_EXPORT_WAIT_MINUTES = 15; // Maximum time (minutes) to wait for an export job to complete
+const EXPORT_POLL_INTERVAL_MS = 15000; // Interval (milliseconds) between status checks (15 seconds)
 
 // Control flags
 // const REGION_START_PERCENT = generateRandomNumber(); // Generates a random number between 0 and 100 to determine where to start in the list.
