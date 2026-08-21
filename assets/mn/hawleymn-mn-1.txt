@@ -3,7 +3,7 @@ of
 HAWLEY, MINNESOTA
 1996
 Code current through:
-Ord. 300, passed June 2, 2025
+Ord. 302, passed February 2, 2026
  
 Published by:
 American Legal Publishing
@@ -13,8 +13,8 @@ Tel: (800) 445-5588
 Internet: http://www.amlegal.com
 ***** PREFACE *****
          This code of the City of Hawley, as supplemented, contains ordinances
-up to and including ordinance 300, passed June 2, 2025. Ordinances of the City
-adopted after said ordinance supersede the provisions of this code to the
+up to and including ordinance 302, passed February 2, 2026. Ordinances of the
+City adopted after said ordinance supersede the provisions of this code to the
 extent that they are in conflict or inconsistent therewith. Consult the City
 office in order to ascertain whether any particular provision of the code has
 been amended, superseded or repealed.
@@ -66,7 +66,7 @@ to the extent of such conflict, hereby repealed.
 force and effect from and after its passage and approval in accordance with
 law, as printed and published in book form by order of the Mayor and City
 Council.
-[https://export.amlegal.com/media/5d8b6c812b54ecf4bde8462623e61d88d4e5afe7/
+[https://export.amlegal.com/media/3e1146f0a0e79b7effa9a27137db9c7f69b28a75/
 IMAGES/0-0-0-876.png]
 TITLE 1
 ADMINISTRATION
@@ -8211,7 +8211,7 @@ frontage on more than one street other than an alley.
       4.    Reversed Frontage Lot: A lot in which the frontage is at right
 angles, or approximately right angles, to the general pattern in the area
 involved. A reversed frontage lot may be a corner lot or an interior lot.
-[https://export.amlegal.com/media/5d8b6c812b54ecf4bde8462623e61d88d4e5afe7/
+[https://export.amlegal.com/media/3e1146f0a0e79b7effa9a27137db9c7f69b28a75/
 IMAGES/0-0-0-864.gif]
 LOT WIDTH: The distance between the side lot lines, measured along the setback
 line as established by this title, or if no setback line is established, the
@@ -8638,7 +8638,7 @@ property lines of the two (2) streets.
 more, the front yard is the direction the main house entrance faces. The other
 side may be treated as a side yard setback. (Traffic visibility must be
 maintained with no extensions allowed into the side yard, i.e., deck, steps.)
-[https://export.amlegal.com/media/5d8b6c812b54ecf4bde8462623e61d88d4e5afe7/
+[https://export.amlegal.com/media/3e1146f0a0e79b7effa9a27137db9c7f69b28a75/
 IMAGES/0-0-0-866.gif]
 ZERO LOT LINE: The reduction of side yard setback requirements to zero,
 permitting the placement of a structure near or adjacent to the side yard lot
@@ -8774,7 +8774,7 @@ conditional use permit shall be a violation of this title. Each day such
 violation continues or occurs constitutes a separate offense and may be
 prosecuted as such.
 Zoning Permit Process
-[https://export.amlegal.com/media/5d8b6c812b54ecf4bde8462623e61d88d4e5afe7/
+[https://export.amlegal.com/media/3e1146f0a0e79b7effa9a27137db9c7f69b28a75/
 IMAGES/0-0-0-868.gif]
 (Ord. 230, 5-6-2002)
 10-3-2: NONCONFORMING LOTS, USES AND STRUCTURES:
@@ -9024,7 +9024,7 @@ of record of such decision in the manner provided by the laws of the state of
 Minnesota, and particularly Minnesota statutes, chapter 462 as such statute may
 be from time to time amended, supplemented, or replaced.
 Chart 2: Conditional Use Process
-[https://export.amlegal.com/media/5d8b6c812b54ecf4bde8462623e61d88d4e5afe7/
+[https://export.amlegal.com/media/3e1146f0a0e79b7effa9a27137db9c7f69b28a75/
 IMAGES/0-0-0-870.gif]
 (Ord. 230, 5-6-2002)
 10-3-4: AMENDMENTS:
@@ -9137,7 +9137,7 @@ of record of such decision in the manner provided by the laws of the state of
 Minnesota, and particularly Minnesota statutes, chapter 462 as such statute may
 be from time to time amended, supplemented, or replaced.
 Chart 3: Zoning Amendment Process
-[https://export.amlegal.com/media/5d8b6c812b54ecf4bde8462623e61d88d4e5afe7/
+[https://export.amlegal.com/media/3e1146f0a0e79b7effa9a27137db9c7f69b28a75/
 IMAGES/0-0-0-870.gif]
 (Ord. 230, 5-6-2002)
 10-3-5: VARIANCES:
@@ -9282,7 +9282,7 @@ of a one family dwelling as a two family dwelling. The board or governing body
 as the case may be may impose conditions in the granting of variances to insure
 compliance and to protect adjacent properties."
 Chart 4: Variance Process
-[https://export.amlegal.com/media/5d8b6c812b54ecf4bde8462623e61d88d4e5afe7/
+[https://export.amlegal.com/media/3e1146f0a0e79b7effa9a27137db9c7f69b28a75/
 IMAGES/0-0-0-872.gif]
 (Ord. 230, 5-6-2002)
 10-3-6: BOARD OF ADJUSTMENT; APPEALS:
@@ -9478,6 +9478,7 @@ SECTION:
 10-4-5: R-4 Manufactured Housing Residential
 10-4-6: C-1 Central Commercial
 10-4-7: C-2 Highway Commercial
+10-4-7-1: C-2a Highway Downtown
 10-4-8: C-3 Agriculture Commercial
 10-4-9: I-1 Light Industrial
 10-4-10: I-2 Heavy Industrial
@@ -11130,6 +11131,545 @@ enforced under chapter 5 of this title (i.e., parking lot, loading space,
 signs, fences and screening, drainage, traffic visibility, and grading). (Ord.
 230, 5-6-2002; amd. Ord. 264, 4-7-2014; Ord. 282, 9-14-2020; Ord. 298, 5-19-
 2025)
+10-4-7-1: C-2a HIGHWAY DOWNTOWN:
+   A.   Purpose: It is the purpose of the C-2a Highway Downtown commercial
+district to provide for the careful and attractive development of highway
+oriented businesses which depend on nonlocal traffic for a substantial portion
+of their business and which create substantial negative impacts to city
+infrastructure if located in areas not adjacent to state and federal highways:
+   B.   Permitted Uses: The following are permitted uses in a C-2a district:
+      1.   Appliance sales and service stores.
+      2.   Art galleries, museums, art and school supply stores.
+      3.   Bakery goods and baking goods for retail sales on the premises and
+bakery outlet stores.
+      4.   Bank, savings and loan, savings credit union and other financial
+institutions.
+      5.   Barber and beauty school, business colleges, modeling school, trade
+and vocational schools.
+      6.   Barber and beauty shops to include tanning facilities.
+      7.   Bicycle sales and repair stores.
+      8.   Bookstores.
+      9.   Bowling alleys, billiard parlors, rollerskating, dance halls and
+similar indoor recreational uses.
+      10.   Business and professional offices.
+      11.   Cable television distributors.
+      12.   Camera and photographic supply stores
+      13.   Candy, ice cream, popcorn, nuts, frozen desserts and soft drinks
+stores.
+      14.   Cannabis and low potency hemp edible retail.
+      15.   Carpenter and cabinet shops.
+      16.   Carpet, rugs and tile stores.
+      17.   Churches, synagogues and temples.
+      18.   Civic centers, conference centers, city, county, state and federal
+offices, libraries, parks and playgrounds, police and fire stations.
+      19.   Clinics (dental, medical and chiropractic).
+      20.   Coffee and cappuccino shops.
+      21.   Coin and stamp stores.
+      22.   Commercial and professional offices.
+      23.   Commercial car washes (drive-through, mechanical and self service).
+      24.   Commercial film developing and processing stores.
+      25.   Confectioneries.
+      26.   Convenience store with or without gasoline.
+      27.   Copy service shops.
+      28.   Costume and clothing rental stores.
+      29.   Dairy products store.
+      30.   Dance Studio.
+      31.   Daycare Facilities.
+      32.   Delicatessen.
+      33.   Department and Discount Stores.
+      34.   Drapery stores.
+      35.   Drugstores.
+      36.   Dry cleaning and laundry include plant accessories, pressing and
+repair.
+      37.   Dry cleaning pick up and laundry pick up stations incidental repair
+and assembly but not including processing.
+      38.   Dry goods store.
+      39.   Electrical or gas appliance stores including incidental repair and
+assembly hereto.
+      40.   Employment agencies.
+      41.   Entertainment: Amusement parks; drive in theaters with a minimum of
+six foot (6') sight obscuring fence; go cart tracks provided that all of the
+boundary lines of the lot containing such use are located at least three
+hundred feet (300') from any existing residential district; health clubs.
+      42.   Essential services.
+      43.   Fabric stores.
+      44.   Finance companies.
+      45.   Florist.
+      46.   Furniture and home furnishing stores.
+      47.   Furniture refinishing.
+      48.   Furriers when conducted only for retail trade on the premises.
+      49.   Garage storage and ministorage warehouses.
+      50.   General contractors (office only).
+      51.   General merchandise stores.
+      52.   Gift or novelty store.
+      53.   Golf driving ranges, miniature golf courses and public golf
+courses.
+      54.   Grocery, fruit, or vegetable stores, but not including sales from
+movable, motorized vehicles.
+      55.   Grocery, supermarket.
+      56.   Haberdasheries and ladies ready to wear stores.
+      57.   Hardware stores.
+      58.   Health Clubs-including tennis, handball, racquetball, basketball,
+dance, bodybuilding and toning and weight and diet related facilities.
+      59.   Health food stores.
+      60.   Hobby shops.
+      61.   Hospitals.
+      62.   Insurance sales, claims and branch offices.
+      63.   Interior decorating.
+      64.   Jewelry stores.
+      65.   Leather goods and luggage stores.
+      66.   Liquor stores, including on and off sale establishments.
+      67.   Locksmiths.
+      68.   Mail order houses.
+      69.   Meat market, but not including processing for a locker plant.
+      70.   Medical and dental offices and clinics.
+      71.   Mortuaries and funeral homes.
+      72.   Motels and hotels.
+      73.   Motor fuel stations, auto repair-minor and tire sales and service.
+      74.   Museums, art galleries, and community learning resource centers.
+      75.   Music stores.
+      76.   Nurseries, landscape and gardening centers.
+      77.   Nursing homes and memory care facilities.
+      78.   Office equipment and supply stores.
+      79.   Optical centers.
+      80.   Paint and wallpaper stores.
+      81.   Parking lots and ramps.
+      82.   Printing shops.
+      83.   Private club or lodges serving food and beverages.
+      84.   Radio and television broadcasting studios and offices.
+      85.   Real estate sales.
+      86.   Record/music stores.
+      87.   Recreation facilities including wellness and community centers.
+      88.   Recreational Vehicle & Marine Sales.
+      89.   Residential uses; provided that it be incorporated into the
+commercial structure, not to be located on ground level facing onto a public
+street (mixed use).
+      90.   Restaurants: drive ins; drive through; truck stops; provided, that
+the parking area containing such use shall be located at least one hundred
+fifty feet (150') from any existing residential district.
+      91.   Restaurants, cafes, on and off sale liquor.
+      92.   Senior/assisted living facilities.
+      93.   Sewing machine sales and service.
+      94.   Shoe and footwear stores.
+      95.   Shoe repair shops.
+      96.   Softball/baseball complex including concessions area.
+      97.   Sporting goods stores.
+      98.   Tailor shops.
+      99.   Tattoo parlors.
+      100.   Theaters
+      101.   Tobacco shops
+      102.   Toy stores.
+      103.   Travel bureaus or agencies, transportation ticket offices.
+      104.   Variety stores, 5 and 10 cent stores, and stores of similar
+nature.
+      105.   Watch and clock repair and sales.
+      106.   Wearing apparel stores.
+   C.   Accessory Uses: The Following are permitted accessory uses in a C-2a
+area:
+      1.   Commercial or business buildings and structures for a use accessory
+to the principal use but such use shall not exceed thirty percent (30%) of the
+gross floor space of the principal use.
+      2.   Off street parking as regulated by section
+10-5-1 of this title, but not including semitrailer trucks.
+      3.   Off street parking as regulated by section
+10-5-1 of this title.
+      4.   Dwelling units for guards and custodians but such dwelling units
+shall not occupy the front portion of the ground floor and shall not contain
+more than one bedroom.
+      5.   Outdoor storage, sales, rental and service subject to section
+10-5-10 of this title.
+      6.   The stockpiling of black dirt and landscaping rock and materials
+accessory to nurseries and garden centers.
+   D.   Conditional Uses: The following are conditional uses in a C-2a district
+and require a conditional use permit based upon procedures set forth in and
+regulated by section
+10-3-3 of this title:
+      1.   Public regulated utility buildings, structures necessary for the
+health, safety and general welfare of the community; provided that:
+         a.   Compatibility with the surrounding neighborhood is maintained and
+required setbacks and side yard requirements are met.
+         b.   Equipment is completely enclosed in a permanent structure with no
+outside storage.
+         c.   Adequate screening from neighboring uses and landscaping is
+provided in compliance with division J of this section.
+         d.   The provisions of section
+10-3-3 of this title are considered and satisfactorily met.
+      2.   Multiple-family dwelling structures up to thirty six (36) units;
+provided that:
+         a.   There is adequate off street parking in compliance with section
+10-5-1 of this title.
+         b.   One off street loading space in compliance with section
+10-5-1 of this title.
+         c.   Parking areas are screened and landscaped from view of
+surrounding and abutting residential districts in compliance with division J of
+this section.
+         d.   All signing and informal or visual communication devices hall be
+in compliance with the applicable provisions of this code.
+         e.   The principal use structure is in compliance with the state
+uniform building code.
+         f.   Usable open space is equal to twenty percent (20% of the gross
+lot area.
+         g.   The provisions of section
+10-3-3 of this title are considered and satisfactorily met.
+         h.   Vehicular entrances to parking or service areas shall create a
+minimum of conflict with through traffic movement.
+      3.   Single-family residential provided that:
+         a.   They are in compliance with all provisions of R-2 district.
+         b.   Vehicular entrances to parking or service areas shall create
+minimum of conflict with through traffic movement.
+         c.   The provisions of section
+10-3-3 of this title are satisfactorily met.
+      4.   High density multiple-family apartment dwellings with multiple
+principal structures on one lot; provided that:
+         a.   There is adequate off-street parking with minimum as follows: 1
+1/2 spaces per efficiency unit; 2 spaces for 1 and 2 bedroom units; and 2 1/
+2 spaces for 3 or more bedroom units. Spaces required are in excess of those
+accessible parking stalls required by state or federal law. No off-street
+parking space may be used to meet the parking space requirements of this title
+if a separate fee is charged to the tenant for the use of the space over and
+above the basic rent for the dwelling unit.
+         b.   Lot Side Requirements: The following minimum requirements shall
+be observed.
+            (1)   Lot area one thousand five hundred (1,500) square feet per
+dwelling unit.
+            (2)   Lot width one hundred fee (100').
+            (3)   Lot depth one hundred thirty feet (130').
+         c.   Setbacks: Setbacks shall be of sufficient width to accommodate
+required buffering, screening and landscaping, required by division J of this
+section.
+            (1)   Front Yard: Not less than twenty-five feet (25').
+            (2)   Side Yard: Forty feet (40') along any principal or minor
+arterial. Thirty feet (30') along any other street. Twenty feet (20') for any
+other side yard setback.
+               (A)   Accessory building, structure and uses: A minimum of five
+feet (5') from a lot line, except a minimum of twelve feet (12') from a lot
+line when abutting a street right-of-way.
+            (3)   Rear Yard: Principal buildings: Twenty-five feet (25').
+               (B)   Accessory building, structures and uses: A minimum of five
+feet (5') from a lot line, except a minimum of twelve feet (12') from a lot
+line when abutting a street right-of-way.
+         d.   Maximum Building Height:
+            (1)   Dwelling units or principal buildings: Forty-five feet (45').
+            (2)   Accessory buildings: Twenty feet (20').
+         e.   Maximum Building Coverage: No structure or combination of
+structures shall occupy more than seventy percent (70%) of the lot area.
+         f.   Vehicular Entrances To Lot: Minimum requirements: Two (2)
+entrances to the property with at least a clear twenty-five feet (25') driving
+lane for emergency vehicles to travel with access to one (1) side of each
+principal building (long side). Entrances shall create a minimum of conflict
+with trough traffic movement.
+         g.   All signing and informal or visual communication devices shall be
+in compliance with the applicable provisions of this code.
+         h.   Fire Protections: The city may require the applicant to provide a
+utility easement and pay for the extension of a fire hydrant if the buildings
+are placed in such a way as to exceed the recommended distance from an existing
+fire hydrant.
+         i.   The provisions of
+10-3-3 of this title are considered and satisfactorily met.
+   E.   Minimum Lot Requirements and Setbacks: The following minimum
+requirements shall be observed in a C-2a district subject to additional
+requirements, exceptions and modifications set forth in this title:
+      1.   Lot Area:
+         a.   Lot area: Five Thousand (5,000) square feet.
+         b.   Multi-family dwelling units: require a minimum seven thousand
+(7,000) square feet (plus 2,500 square feet for each additional dwelling unit
+on lot).
+      2.   Maximum Lot Coverage: Eighty five percent (85%).
+      3.   Setbacks: All setbacks are from property lines. The street right of
+way and boulevard are not part of the setback area.
+         a.   Front Yard: Twenty feet (20')
+         b.   Side Yard: Ten feet (10')
+            (1)   Side yard may be zero feet (0') for connected buildings.
+         c.   Rear Yard: Ten feet (10').
+      4.   Corner Lot: Only one front yard is required on the side that faces
+the main public street and may have the main building entrance. The remaining
+side may use side lot setbacks provided no structure or visual impediment is
+constructed within a distance of thirty five feet (35') from the intersection
+of the property lines of the two (2) streets.
+   F.   Maximum Building Height: The following maximum building height will
+apply in the C-2a district subject to additional requirements, exceptions, and
+modifications set forth in this title:
+      1.   Principal building: Seventy feet (70').
+      2.   Accessory building: As governed by section
+10-5-9 of this title.
+   G.   Supplemental Standards: The supplemental standards for Off Street
+Parking and General Yard, Lot Area, and Building Requirements are listed and
+enforced under chapter 5 of this title (
+10-5-1 &
+10-5-8).
+   H.   Street Widths:
+      1.   Widths: Street right of way widths will be as determined in the
+comprehensive plan, on the official street map, and where applicable, must
+conform to the county and state standards for trunk highways and functionally
+classed roadways. All road widths shall follow Chapter
+12-5-7 with exception of roads within this zoning district with On Street 60°
+angle parking which may have a 26' drive lane with an 80' right of way as shown
+in the typical sections for the Improvement District.
+      2.   All other street widths and designs shall follow Chapter
+12-5-7.
+   I.   Signs:
+      1.   Purpose: The Purpose and intent of this sign ordinance regulating
+signs of all types is to:
+         a.   Preserve and protect the public health, safety and welfare within
+the city of Hawley.
+         b.   Encourage development of private property in harmony with the
+desired character of the city while providing due regard for the public and
+private interests involved.
+         c.   Promote the effectiveness of signs by preventing their over
+concentration, improper placement, deterioration, and excessive size and
+number.
+         d.   Enhance the flow of traffic and the convenience, ease and
+enjoyment of travel within the city of Hawley.
+         e.   Protect Travelers in the city of Hawley from injury or damage as
+a result of distraction or obstruction of vision attributable to signs.
+         f.   Reduce advertising distractions which may contribute to traffic
+accidents.
+         g.   Assure that public benefits derived from expenditures of public
+funds for the improvement and beautification of streets and other public
+structures and spaces shall be protected by exercising reasonable control over
+the character and design of sign structures.
+         h.   Provide an improved visual environment for the citizens of and
+visitors to the city of Hawley.
+         i.   Require that signs are properly maintained for safety and visual
+appearance.
+      2.   Maintenance Provision: All exterior signs are required to be
+maintained in sound structural condition and nonweathered appearance. This is
+essential to protect the public’s safety and to retain good property values for
+all property owners in the city limits.
+      3.   Exempt Signs: The following signs are exempt from the application of
+the regulations herein, provided that any exempt sign, if illuminated, be
+internally illuminated or lit so that the light source is directed away from
+adjoining residences, streets, or sidewalks:
+         a.   Signs not exceeding two (2) square feet in area and bearing only
+property numbers, post box numbers and names of occupants of premises.
+         b.   A sign not exceeding two (2) square feet in area which is
+nonilluminated and mounted flat against the wall of the principal building is
+allowed for home occupations.
+         c.   Flags and insignias of any government except when displayed in
+connection with a commercial promotion.
+         d.   An advertising sign in connection with a lawfully maintained
+nonconforming use or conditional use, which complies with the conditions of
+approval, if any, and subsection 4 of this section.
+         e.   Legal notices, identification, informational or directional signs
+erected or required by governmental bodies.
+         f.   A sign advertising only the sale, rental or lease of the building
+or premises, which may not exceed sixteen (16) square feet in area and five
+feet (5') in height.
+         g.   A sign not to exceed thirty two (32) square feet in area is
+permitted for each entrance to a subdivision or tract identifying the
+subdivision or tract name.
+         h.   Temporary signs measuring not more than thirty two (32) square
+feet in area connected with political elections.
+      4.   On Premises Signs: On premises signs do not include signs erected by
+the outdoor advertising industry in the conduct of the outdoor advertising
+business. On premises signs include only signs directing attention to a
+business, profession, product, service, activity or entertainment conducted,
+sold or offered on the same premises upon which the sign is located are
+permitted provided:
+         a.   A sign permit must be obtained prior to installation of any
+signs, with the exception of signs mounted flat against a building or listed
+uses under exempt signs.
+         b.   The on premises sign is located within this zoning district.
+         c.   On premise signs shall not exceed eighty (80) square feet per
+tenant.
+         d.   On premises signs not exceeding sixteen (16) square feet and not
+lighted for approved home occupations are permitted.
+         e.   The foundation base and posts of all signs may not be located
+upon city property or rights of way unless approved by the city council.
+         f.   No part of any sign or projection may protrude over the public
+right of way within six feet (6') of the actual or proposed curb line. Signs,
+marquees, awnings and similar projections may project over the right of way a
+maximum of six feet (6') provided no part is within six feet (6') of the curb
+line and that it is over eight feet (8') above the sidewalk or the average
+grade at property line when no sidewalk is in place. If the street is widened,
+the sign would have to be moved back at the owner’s expense to maintain the six
+foot (6') distance of the curb regulation.
+         g.   No part of any sign or projection may be located within twenty
+five feet (25') of the intersecting curb line of an intersection if it shall
+impede vision between a height of thirty inches (30") and eight (8') (measured
+at a 45 degree angle).
+         h.   All sources of artificial light other than streetlights shall be
+fixed directed or designed so as neither to measurably increase the amount of
+light to any abutting lot nor to confuse, distract, or be a hazard to vehicular
+traffic.
+         i.   All sign installations shall also conform to Minnesota department
+of transportation and federal aviation authorities wherever applicable. Please
+note: the city has additional restrictive criteria to determine billboard
+placement. See subsection 5 “Off Premises Signs” of this section.
+         j.   It is the obligation of the installer to call Gopher State One
+Call according to state law and to properly work around all underground
+utilities or services.
+         k.   All signs must adhere to the maintenance/enforcement provisions
+of this title.
+      5.   Off Premises Signs: Off premises signs are only permitted when in
+compliance with the following provisions:
+         a.   A sign permit must be obtained prior to installation of any off
+premises signs.
+         b.   The foundation base and posts of all signs may not be located
+upon city property or rights of way unless approved by the city council.
+         c.   The off premises sign is located in this zoning district.
+         d.   No part of any sign or projection may be located within twenty
+five feet (25') of the intersecting curb line of an intersection if it shall
+impede vision between a height of thirty inches (30") and eight feet (8')
+(measured at a 45 degree angle).
+         e.   All sources of artificial light other than streetlights shall be
+fixed, directed or designed so as not to measurable increase the amount of
+light to any abutting lot, street or sidewalk, nor to confuse, distract, or be
+a hazard to vehicular traffic.
+         f.   Off premises signs must be set back from residential zoning
+district boundaries a distance of one hundred feet (100'). Setback dimensions
+will be a straight line measured from the residential district boundary to the
+centerline of the sign standard.
+         g.   The maximum area of the sign face shall not exceed 750 square
+feet including border and trim, but excluding base and apron supports and other
+structural members.
+         h.   The maximum size limitations shall apply to each side of the sign
+structure.
+         i.   Not more that two (2) displays to each side of the sign structure
+shall be allowed.
+         j.   The height of any off premises sign, including support structure
+measured from the highest centerline grade of any adjacent street, may not
+exceed thirty five feet (35') when located closer than one hundred feet (100')
+from a property line and not more than fifty feet (50') when located more than
+one hundred feet (100') from a property line. Height measurement will be taken
+from the highest centerline grade of any adjacent street.
+         k.   All sign installations shall also conform to Minnesota department
+of transportation and federal aviation authorities wherever applicable. Please
+note: The city has additional restrictive criteria to determine billboard
+placement.
+         l.   All off premises signs shall be located a minimum of five hundred
+feet (500') from an intersection, measured from the radius of the roadway.
+         m.   All off premise signs must be a minimum distance of five hundred
+feet (500') apart.
+         n.   It is the obligation of the installer to call Gopher State One
+Call according to state law and to properly work around all underground
+utilities or services.
+         o.   All signs must adhere to the maintenance/enforcement provisions
+of this section.
+      6.   Portable Signs: Portable signs are permitted provided:
+         a.   Annual Permit: An annual permit is required for any portable sign
+to verify location, safety, and visibility.
+         b.   Location: The off premises sign is located in this zoning
+district.
+         c.   Placement On City Property; Approval: The foundation base and
+posts of all signs may not be located upon city property or rights of way
+unless approved in writing by the city council.
+         d.   Projection Angle: No part of any sign or projection may be
+located within twenty five feet (25') of the intersecting curb line of any
+intersection if it shall impede vision between a height of thirty inches (30')
+and eight feet (8') (measured at a 45 degree angle).
+         e.   Lights: No portable sign may have blinking, flashing or
+fluttering lights or other illuminating devises which have a changing
+intensity, brightness or color.
+         f.   Location Apart: No two (2) off premises portable signs may be
+located closer than three hundred feet (300') apart.
+         g.   Number Limit: That only one on premises portable sign may be
+placed upon a parcel at any given time, except in the case of strip malls,
+office condos, and multiple business structures, where two (2) portable signs
+will be allowed on the parcel at any given time.
+         h.   Other Provisions: All signs must adhere to the maintenance/
+enforcement provisions of this title.
+         i.   Commercial/Highway Frontage Area: Advertising devices in a
+commercial/highway frontage area whether located on or off premises, shall
+comply with MnDOT requirements in addition to city requirements.
+      7.   Enforcement:
+         a.   The sign owner will have sixty (60) days after an official
+written notification from the city of Hawley to repair a deficient sign. The
+sign will be removed from the premises if it is an immediate danger to the
+public. Any costs the city incurs to enforce maintenance of a sign will be
+charged back to the proper sign owner.
+         b.   Every person violating any of the provisions of this chapter
+shall be penalized in accordance with the schedule of fines established by the
+city council.
+         c.   Nothing contained in this penalty provision shall prevent the
+city from obtaining a proper injunction or restraining order directed against
+any person violating any of the provisions of this chapter from the district
+court for Clay County, Minnesota, in addition to such other penalties as
+allowed by this chapter.
+         d.   Nothing in this chapter shall preclude city employees from
+seeking voluntary compliance with the provisions of this chapter, or from
+enforcing this chapter through notices of violation, warnings or through other
+informal devices designed to achieve compliance in the most efficient and
+effective manner under the circumstances.
+   J.   Fences and Screening.
+      1.   Location: AIL fences shall be located entirely within the private
+property of the person, firm or corporation constructing or causing the
+construction of such fence.
+      2.   Construction and Maintenance: Every fence shall be constructed in a
+substantial workmanlike manner and of substantial material reasonably suitable
+for the purpose for which the fence is proposed to be used. Every fence shall
+be maintained in a condition of reasonable repair and shall not be allowed to
+become or remain in a condition of disrepair or danger, or constitute a
+nuisance, public or private. Any such fence which is, or has become dangerous
+to the public safety, health or welfare, is a public nuisance, and the zoning
+official is hereby authorized to commence proper proceedings for the abatement
+thereof.
+      3.   Restrictions: Barbed wire or electric fences shall not be permitted,
+used or constructed in this district.
+      4.   Business and Industrial District Fences:
+         a.   Business and Industrial fences may be erected up to eight feet
+(8') in height. Fences in excess if eight feet (8') shall require a conditional
+use permit.
+         b.   Fences which are primarily erected as a security measure may have
+arms projecting away from or towards the applicant’s property on which barbed
+wire can be fastened commencing at a point at least seven feet (7') above the
+ground and not to extend over the applicant’s property line.
+         c.   The screening provisions for business and industrial districts
+shall supersede, where applicable, the provisions of this section.
+      5.   Special Purpose Fences: Fences for special purposes and fences
+differing in construction, height, or length may be permitted by the zoning
+official in any district in the city provided that the reasons submitted by the
+applicant demonstrate the purpose is necessary to protect, buffer or improve
+the premises for which such fence is intended. The zoning official may
+stipulate the height, Location, construction and type of special fence thereby
+permitted.
+      6.   Required Fencing and Screening:
+         a.   Fencing and Screening-Business/lndustrial, MultiFamily: Where any
+business, industrial use or multi- family building of five (5) or more units
+(i.e., structure, parking or storage) abut property zoned for residential use,
+that business, industry or multi-family building shall provide screening along
+the boundary line of the residential property. Screening is not required when a
+business/commercial use is across the street from a residential zone. Provided,
+however, that the provisions of this section will not apply where a multi-
+family building abuts property also zoned for multi-family use. All fencing and
+screening specifically required by this title shall be subject to section 7 of
+this section and shall consist of either a fence or a greenbelt planting strip
+as provided for below:
+            1.   A greenbelt planting strip shall consist of evergreen trees
+and/or deciduous trees and plants and shall be sufficient width and density to
+provide an effective visual screen. This planting strip shall be designed to
+provide substantial visual screening to a minimum height of six feet (6').
+Earth mounding or berms may be used but shall not be used to achieve more than
+three feet (3') of the required screen. The planting plan and type of planting
+shall require approval of the city.
+            2.   A required screening fence shall be constructed of masonry,
+brick, wood, metal, vinyl or plastic. Such fence shall provide a solid
+screening effect five feet (5') in height for multi-family uses and at least
+five feet (5') for business and industrial uses. The design and materials used
+in constructing a required screening fence shall be subject to the approval of
+the city. Fences in excess of eight feet (8') in height shall require a
+conditional use permit.
+      7.   Traffic Visibility:
+         a.   Visibility At Intersections in Residential Districts: On a corner
+lot, nothing shall be erected, placed, planted or allowed to grow in such a
+manner as to impede vision between a height of two feet (2') and eight feet
+(8') and within thirty feet (30') from the intersecting curb lines, or within
+twenty feet (20') from the intersecting property lines if there is no curb.
+         b.   Fences, walls, and hedges: No fence, wall or hedge shall be
+erected, placed, planted or allowed to grow in such a manner as to impede
+vision between a height of two feet (2') and eight feet (8') where it will
+interfere with traffic or pedestrian visibility from a driveway or alley to a
+public way. In required front yards, fences, walls, hedges or structures shall
+be a least seventy five percent (75%) open space for passage of air and light.
+No fence exceeding twenty four inches (24") in height may be erected within ten
+feet (1 O’) of a driveway in a required side yard abutting a street corner lot
+unless such fence is at least seventy five percent (75%) open
+      8.   Parking Lots and Driveways Abutting Residential Districts: Whenever
+a parking lot or a driveway to parking lot is established in other than a
+residential district so as to abut the side or rear line of a lot in a
+residential district, a sight obscuring fence of at least five feet (5') in
+height shall be constructed and maintained along said side or rear lot line.
+(Ord. 302, 2-2-2026)
 10-4-8: C-3 AGRICULTURE COMMERCIAL:
    A.    Purpose: The C-3 agriculture commercial district is established to
 provide for agricultural service businesses and other types of commercial
@@ -12359,7 +12899,7 @@ council to protect the character of the residential district.
 specifically provided for, the board of adjustment shall determine the
 necessary parking spaces after considering all the parking demands generated by
 the use.
-[https://export.amlegal.com/media/5d8b6c812b54ecf4bde8462623e61d88d4e5afe7/
+[https://export.amlegal.com/media/3e1146f0a0e79b7effa9a27137db9c7f69b28a75/
 IMAGES/0-0-0-874.gif]
 (Ord. 230, 5-6-2002)
 10-5-2: WIND ENERGY CONVERSION SYSTEMS (WECS):
@@ -13522,19 +14062,19 @@ a building and must comply with the requirements of section
 ***** CHAPTER 6
 PLANNED UNIT DEVELOPMENTS *****
 SECTION:
-***** 10-6- 1: Authority *****
-***** 10-6- 2: Purpose *****
-***** 10-6- 3: Public Benefit *****
-***** 10-6- 4: General Provisions *****
-***** 10-6- 5: Site Design *****
-***** 10-6- 6: Minimum Area *****
-***** 10-6- 7: Application Procedure *****
-***** 10-6- 8: Standards *****
-***** 10-6- 9: Time Limit On Approved Planned Unit Development *****
-***** 10-6-10: Effect Of Approval Of A Planned Unit Development *****
-***** 10-6-11: Regulations During And Following Completion Of Development *****
-***** 10-6-12: Adjustments To The Development Site Plan *****
-***** 10-6-13: Fee *****
+10-6-1: Authority
+10-6-2: Purpose
+10-6-3: Public Benefit
+10-6-4: General Provisions
+10-6-5: Site Design
+10-6-6: Minimum Area
+10-6-7: Application Procedure
+10-6-8: Standards
+10-6-9: Time Limit On Approved Planned Unit Development
+10-6-10: Effect Of Approval Of A Planned Unit Development
+10-6-11: Regulations During And Following Completion Of Development
+10-6-12: Adjustments To The Development Site Plan
+10-6-13: Fee
 10-6-1: AUTHORITY:
 The City Council may, in accordance with the procedures and standards set forth
 in this chapter, and other standards and regulations applicable to the district
