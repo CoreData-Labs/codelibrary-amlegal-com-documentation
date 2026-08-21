@@ -1,8 +1,8 @@
 CITY OF HILLVIEW, KENTUCKY
 CODE OF ORDINANCES
-2024 S-23 Supplement contains:
-Local legislation current through Ord. 2023-14, passed 12-4-23; and
-State legislation current through 2023
+2026 S-24 Supplement contains:
+Local legislation current through Ord. 2025-13, passed 1-5-26; and
+State legislation current through 2026
  
 Published by:
 American Legal Publishing
@@ -241,7 +241,7 @@ by the Transportation Cabinet to collect titling and registration information
 on vehicles and boat and information on holders of motor vehicle operator’s
 licenses and personal identification cards. (KRS 446.010(55))
    BUSINESS TRUST. Includes, except when utilized in KRS Chapter 386, a
-“statutory trust” as organized under KRS Chapter 386(A). KRS 446.010(6))
+“statutory trust” as organized under KRS Chapter 386A. KRS 446.010(6))
    CERTIFIED MAIL. Any method of governmental, commercial, or electronic
 delivery that allows a document or package to have proof of:
       (1)   Sending the document or package;
@@ -763,18 +763,19 @@ years and until his or her successor qualifies. If a person is elected or
 appointed as Mayor in response to a vacancy and serves less than four (4)
 calendar years, then that period of service shall not be considered for
 purposes of re-election a term of office.
-(KRS 83A.040(1))   
+(KRS 83A.040(1))
    (B)   Qualifications.  The Mayor shall be at least twenty-one (21) years of
 age, shall be a qualified voter in the city, and shall reside in the city
 throughout his or her term of office.
 (KRS 83A.040(1))
-   (C)   Compensation.  For provisions concerning Compensation, see § 31.02.
+   (C)   Compensation.  For provisions concerning Compensation, see §
+31.02.
    (D)   Vacancy.  If a vacancy occurs in the office of Mayor, Council shall
 fill the vacancy within thirty (30) days. If for any reason, any vacancy in the
 office of Mayor is not filled within 30 days after it occurs, the Governor
 shall promptly fill the vacancy by appointment of a qualified person who shall
 serve for the same period as if otherwise appointed.
-(KRS 83A.040(5), (6))
+(KRS 83A.040(5)(a), (6))
       (1)   When voting to fill a vacancy in the office of Mayor, a member of
 the City Council shall not vote for himself or herself.
 (KRS 83A.040(2)(c))
@@ -1153,9 +1154,12 @@ there is a vacancy in the office of Mayor, see
 § 31.21.
 § 32.21 MEETINGS.
    (A)   The regular meeting date, time and location of the City Council of the
-city shall be on the third Monday night of each month at 6:30 p.m. at 299
-Crestwood Lane, Hillview, Bullitt County, Kentucky.
-(Ord. 82-1, passed 1-4-82; Am. Ord. 2010-09, passed 6-28-10)
+city shall be on the first Monday night of each calendar month at 7:00 p.m.
+eastern prevailing time, and on the third Monday of each calendar month at 7:00
+p.m. eastern prevailing time, at 299 Crestwood Lane, Hillview, Bullitt County,
+Kentucky.
+(Ord. 82-1, passed 1-4-82; Am. Ord. 2010-09, passed 6-28-10; Am. Ord. 2024-06,
+passed 8-5-24)
    (B)   Special meetings of the Council may be called by the Mayor or upon
 written request of a majority of the Council. In the call, the Mayor or Council
 shall designate the purpose, time, and place of the special meeting with
@@ -1164,8 +1168,8 @@ KRS Chapter 61.
    (C)   At a special meeting no business may be considered other than that set
 forth in the designation of purpose.
    (D)   The minutes of every meeting shall be signed by the person responsible
-for maintaining city records as provided under
-§ 31.36 and by the officer presiding at the meeting.
+for maintaining city records as provided under §
+31.36 and by the officer presiding at the meeting.
 (KRS 83A.130 (11))
    (E)   Two (2) business meetings of the City Council shall be held each month
 on the first and third Monday at 6:30 p.m. at the Hillview Government Center.
@@ -1357,10 +1361,11 @@ Standards Board.
 reports in such a way as to:
       (1)   Determine compliance with statutory provisions;
       (2)   Determine fairly and with full disclosure the financial operations
-of constituent funds and account groups of the city in conformity with
-generally accepted governmental accounting principles; and
-      (3)   Readily provide such financial data as may be required by the
-federal revenue sharing program.
+of constituent funds and account groups of the city; and
+      (3)   Conform with generally accepted governmental accounting principles,
+except if the receives and expends, from all sources and for all purposes, less
+than fifteen million dollars ($15,000,000), the city may choose to conform with
+the cash or the modified cash basis of accounting.
    (B)   The municipal accounting system shall be organized and operated on a
 fund basis.
 (KRS 91A.020)
@@ -1437,23 +1442,23 @@ received by it under division (A) of this section to the Legislative Research
 Commission to be used for the purposes of KRS 6.955 to 6.975 or to the Auditor
 of Public Accounts.
    (D)   Each city required by this section to conduct an annual or biennial
-audit shall enter into a written contract with the selected auditor. The
-contract shall set forth all terms and conditions of the agreement which shall
-include but not be limited to requirements that:
+audit shall enter into a written contract with an auditor, who shall be a
+certified public accountant or the Auditor of Public Accounts. The contract
+shall set forth all terms and conditions of the agreement which shall include
+but not be limited to requirements that:
       (1)   The auditor be employed to examine the basic financial statements,
-which shall include the government-wide and fund financial statements;
-      (2)   The auditor shall include in the annual or biennial city audit
-report an examination of local government economic assistance funds granted to
-the city under KRS 42.450 to 42.495. The auditor shall include a certification
-with the annual or biennial audit report that the funds were expended for the
-purpose intended;
+which shall include the financial statements prepared in accordance with the
+basis of accounting used by the city;
+      (2)   The auditor shall include in the city audit report an examination
+of local government economic assistance funds granted to the city under KRS
+42.450 to 42.495. The auditor shall include a certification with the audit
+report that the funds were expended for the purpose intended;
       (3)   All audit information be prepared in accordance with generally
 accepted governmental auditing standards which include tests of the accounting
 records and auditing procedures considered necessary in the circumstances.
 Where the audit is to cover the use of state or Federal funds, appropriate
 state or Federal guidelines shall be utilized;
-      (4)   The auditor shall prepare a typewritten or printed report
-embodying:
+      (4)   The auditor shall prepare a printed report embodying:
          (a)   The basic financial statements and accompanying supplemental and
 required supplemental information;
          (b)   The auditor's opinion on the basic financial statements or
@@ -1462,10 +1467,8 @@ reasons why an opinion cannot be expressed; and
       (5)   The completed audit and all accompanying documentation shall be
 presented to the city legislative body at a regular or special meeting; and
       (6)   Any contract with a certified public accountant for an audit shall
-require the accountant to forward a copy of the audit report and management
-letters to the Auditor of Public Accounts upon request of the city or the
-Auditor of Public Accounts, and the Auditor of Public Accounts shall have the
-right to review the certified public accountant's work papers upon request.
+provide that the Auditor of Public Accounts shall have the right to review the
+certified public accountant's work papers upon request.
    (E)   A copy of an audit report which meets the requirements of this section
 shall be considered satisfactory and final in meeting any official request to a
 city for financial data, except for statutory or judicial requirements, or
@@ -1475,21 +1478,16 @@ purposes of KRS 6.955 to 6.975.
 the city legislative body, publish an advertisement in accordance with KRS
 Chapter 424 containing:
       (1)   The auditor's opinion letter;
-      (2)   The “Budgetary Comparison Schedules-Major Funds,” which shall
-include the general fund and all major funds;
+      (2)   A budget-to-actual comparison schedule for the general fund;
       (3)   A statement that a copy of the complete audit report, including
 financial statements and supplemental information, is on file at city hall and
 is available for public inspection during normal business hours;
       (4)   A statement that any citizen may obtain from city hall a copy of
 the complete audit report, including financial statements and supplemental
-information, for his or her personal use;
+information, for his or her personal use; and
       (5)   A statement which notifies citizens requesting a personal copy of
 the city audit report that they will be charged for duplication costs at a rate
-that shall not exceed $0.25 per page; and
-      (6) A statement that copies of the financial statement prepared in
-accordance with KRS 424.220, when a financial statement is required by KRS
-424.220, are available to the public at no cost at the business address of the
-officer responsible for preparation of the statement.
+that shall not exceed $0.25 per page.
    (G)   Any resident of the city or owner of real property within the city may
 bring an action in the Circuit Court to enforce the provisions of this section.
 Any person who violates any provision of this section shall be fined not less
@@ -1507,15 +1505,18 @@ completing and submitting a required audit or financial statement in compliance
 with the applicable deadlines in division (A) of this section, the city may
 submit a written request for an extension of time to the Department for Local
 Government on a form prescribed by the Department for Local Government. The
-Department for Local Government shall approve the request if it is submitted on
-or before the applicable deadline, and in the judgment of the Department for
-Local Government the request is warranted by extenuating circumstances beyond
-the control of the city. Extensions granted under this division shall not
-exceed nine (9) months from the original due date of the audit or financial
-statement. If the Department for Local Government approves an extension for a
-city and the city fails to complete and submit the required audit or financial
-statement in compliance with that extended deadline, then the provisions of
-division (I) of this section shall apply.
+Department for Local Government shall approve the request if, and in the
+judgment of the Department for Local Government the request is warranted by
+extenuating circumstances beyond the control of the city or other factors that
+justify the city’s noncompliance with the required deadlines. The Department
+for Local Government may consider any evidence it deems appropriate, including
+but not limited to proof of the city’s progress towards compliance. Extensions
+granted under this division shall not exceed eighteen (18) months from the
+original due date of the audit or financial statement. If the Department for
+Local Government approves an extension for a city and the city fails to
+complete and submit the required audit or financial statement in compliance
+with that extended deadline, then the provisions of division (I) of this
+section shall apply.
    (I)   If a city fails to complete an audit or financial statement and submit
 it to the Department for Local Government as required in division (A) and
 division (H) of this section, the Department for Local Government shall notify
@@ -1528,7 +1529,10 @@ complies with the requirements of division (A) and division (H) of this section
 for all prior fiscal years it has failed to comply with the audit requirements
 of this section, and the Finance and Administration Cabinet shall direct the
 reinstatement of payments to the city, including any funds that were withheld
-due to the non-compliance.
+due to the non-compliance. This division (I) shall not be interpreted or
+construed to permit the state to withhold any nondiscretionary payments to a
+city that are due the city for the provision of services by the city to the
+state or any of its agencies, including for the use of city utilities.
    (J)   Within a reasonable time after the completion of a special audit or
 examination conducted pursuant to KRS 43.050, the Auditor shall bill the city
 for the actual expense of the audit or examination conducted. The actual
@@ -1536,6 +1540,8 @@ expense shall include the hours of work performed on the audit or examination
 as well as reasonable associated costs, including but not limited to travel
 costs. The bill submitted to the city shall include a statement of the hourly
 rate, total hours, and total costs for the entire audit or examination.
+   (K)   The city shall provide a copy of any audit report completed pursuant
+to this section to the Auditor of Public Accounts upon request.
 (KRS 91A.040)
 Statutory reference:
    Department for Local Government to provide assistance, see KRS 91A.050.
@@ -1713,18 +1719,21 @@ Procedures for Requesting Public Records
 34.11   Access to records relating to particular individual
    
 34.12   Public records protected from disclosure
-**** GENERAL ****
+* GENERAL *
 § 34.01 DEFINITIONS.
    For purposes of this chapter the following words and phrases shall have the
 following meanings ascribed to them respectively.
    CITY.  The city government of this city.
-   COMMERCIAL PURPOSE.  The direct or indirect use of any public record or
-records, in any form, for sale, resale, solicitation, rent, or lease of a
-service, or any use by which the user expects a profit either through
-commission, salary, or fee. COMMERCIAL PURPOSE shall not include publication or
-related use of a public record by a newspaper or periodical; use of a public
-record by a radio or television station in its news or other informational
-programs; or use of a public record in the preparation for prosecution or
+   COMMERCIAL PURPOSE.
+      (1)   The direct or indirect use of any public record or records, in any
+form, for sale, resale, solicitation, rent, or lease of a service, or any use
+by which the user expects a profit either through commission, salary, or fee.
+      (2)   COMMERCIAL PURPOSE shall not include:
+         (a)   Publication or related use of a public record by a newspaper or
+periodical;
+         (b)   Use of a public record by a radio or television station in its
+news or other informational programs; or
+         (c)   Use of a public record in the preparation for prosecution or
 defense of litigation, or claims settlement by the parties to such action, or
 the attorneys representing the parties.
    CUSTODIAN. The official custodian or any authorized person having personal
@@ -1738,36 +1747,51 @@ represented, and which may include, but is not limited to paper, microform,
 disks, diskettes, optical disks, magnetic tapes, and cards.
    OFFICIAL CUSTODIAN. The chief administrative officer or any other officer or
 employee of a public agency who is responsible for the maintenance, care, and
-keeping of public records, regardless of whether the records are in his actual
-personal custody and control. The OFFICIAL CUSTODIAN of this city shall be the
-Mayor.
+keeping of public records, regardless of whether the records are in his or her
+actual personal custody and control. The OFFICIAL CUSTODIAN of this city shall
+be the Mayor.
    PERSON.  A human being who makes a request for inspection of public records.
-   PUBLIC AGENCY.  Every city government board, commission, and authority;
-every city council and council board, commission and committee; every school
-district board, special district board, and municipal corporation; every city
-government agency, including the policy-making board of an institution of
-education created by or pursuant to state or local statute, executive order,
-ordinance, resolution, or other legislative act; any body created by or
-pursuant to state or local statute, executive order, ordinance, resolution, or
-other legislative act in the legislative or executive branch of government; any
-entity when the majority of its governing body is appointed by a "public
-agency", as defined by this section; a member or employee of a "public agency",
-a state or local officer, or any combination thereof; any board, commission,
-committee, subcommittee, ad hoc committee, advisory committee, council or
-agency, except for a committee of a hospital medical staff or a committee
-formed for the purpose of evaluating the qualifications of public agency
-employees, established, created, or controlled by a "public agency" as defined
-in this section; an interagency body of two (2) or more public agencies where
-each "public agency" is defined in this section.
-(KRS 61.870)
+   PUBLIC AGENCY.
+      (1)   Every state or local court or judicial agency;
+      (2)   Every state or local government department, division, bureau,
+board, commission, and authority;
+      (3)   Every state or local legislative board, commission, committee, and
+officer;
+      (4)   Every county and city governing body, council, school district
+board, special district board, and municipal corporation;
+      (5)   Every state or local court or judicial agency;
+      (6)   Every state or local government agency, including the policy-making
+board of an institution of education, created by or pursuant to state or local
+statute, executive order, ordinance, resolution, or other legislative act;
+      (7)   Any body created by state or local authority in any branch of
+government;
+      (8)   Any body which, within any fiscal year, derives at least twenty-
+five percent (25%) of its funds expended by it in the Commonwealth of Kentucky
+from state or local authority funds. However, any funds derived from a state or
+local authority in compensation for goods or services that are provided by a
+contract obtained through a public competitive procurement process shall not be
+included in the determination of whether a body is a public agency under this
+division (8);
+      (9)   Any entity where the majority of its governing body is appointed by
+a public agency as defined in paragraph (1), (2), (3), (4), (5), (6), (7), (8),
+(10), or (11) of this definition; by a member or employee of such a public
+agency; or by any combination thereof;
+      (10)   Any board, commission, committee, subcommittee, ad hoc committee,
+advisory committee, council, or agency, except for a committee of a hospital
+medical staff, established, created, and controlled by a public agency as
+defined in paragraph (1), (2), (3), (4), (5), (6), (7), (8), (9), or (11) of
+this definition; and
+      (11)   Any interagency body of two (2) or more public agencies where each
+public agency is defined in paragraph (1), (2), (3), (4), (5), (6), (7), (8),
+(9), or (10) of this definition.
    PUBLIC RECORDS.  All books, papers, maps, photographs, cards, tapes, discs,
 diskettes, recordings, software, or other documentation regardless of physical
 form or characteristics, which are prepared, owned, used, in the possession of,
 or retained by a public agency. PUBLIC RECORDS shall not include any records
-owned or maintained by or for a body referred to in subsection (1) (h) of KRS
+owned or maintained by or for a body referred to in subsection (1)(h) of KRS
 61.870 that are not related to functions, activities, programs, or operations
-funded by state or local authority nor any records that may be excluded by
-§ 34.12.
+funded by state or local authority.
+(KRS 81.270(1), (2), (4) - (8))
    REASONABLE FEE or FEE. The fair payment required by a public agency for
 making copies of non exempt public records requested for noncommercial purposes
 which shall not exceed the actual cost of reproduction, including the costs of
@@ -1784,13 +1808,15 @@ not include that portion of the program code which contains public records
 exempted from inspection as provided by KRS 61.878 or specific addresses of
 files, passwords, access codes, user identifications, or any other mechanism
 for controlling the security or restricting access to public records in the
-public agency's computer system. SOFTWARE consists of the operating system,
+public agency’s computer system. SOFTWARE consists of the operating system,
 application programs, procedures, routines, and subroutines such as translators
 and utility programs, but does not include that material which is prohibited
 from disclosure or copying by a license agreement between a public agency and
 an outside entity which supplied the material to the agency.
-(KRS 61.870)
-**** PROCEDURES FOR REQUESTING PUBLIC RECORDS ****
+(KRS 61.870(3))
+Statutory reference:
+   For similar definitions under state law, see KRS 61.870
+* PROCEDURES FOR REQUESTING PUBLIC RECORDS *
 § 34.05 INITIAL REQUEST WITH IMMEDIATE INSPECTION.
    (A)   (1)   Any resident of the Commonwealth shall have the right to inspect
 public records. The official custodian may require a written application,
@@ -1798,7 +1824,7 @@ signed by the applicant and with his or her name printed legibly on the
 application, describing the records to be inspected. The official custodian may
 require the applicant to provide a statement in the written application of the
 manner in which the applicant is a resident of the Commonwealth under KRS
-61.870(10)(a) to (f).
+61.870(10)(a) to (g).
       (2)   The written application shall be:
          (a)   Hand delivered;
          (b)   Mailed;
@@ -1998,7 +2024,8 @@ examination before the exam is given or if it is to be given again.
       (8)   Records of law enforcement agencies or agencies involved in
 administrative adjudication that were compiled in the process of detecting and
 investigating statutory or regulatory violations, if the disclosure of the
-information would harm the agency by revealing the identity of informants not
+information could pose an articulable risk of harm to the agency or its
+investigation by revealing the identity of informants or witnesses not
 otherwise known or by premature release of information to be used in a
 prospective law enforcement action or administrative adjudication. Unless
 exempted by other provisions of this chapter, public records exempted under
@@ -2014,7 +2041,7 @@ terrorist act and limited to:
             2.   Vulnerability assessments;
             3.   Antiterrorism protective measures and plans;
             4.   Counterterrorism measures and plans;
-            5.   Security and response needs assessments;
+             5.   Security and response needs assessments;
             6.   Infrastructure records that expose a vulnerability referred to
 in this division through the disclosure of the location, configuration, or
 security of critical systems, including public utility critical systems. These
@@ -2029,7 +2056,7 @@ leased, or maintained by a public agency; and
             8.   Records when their disclosure will expose a vulnerability
 referred to in this division and that describe the exact physical location of
 hazardous chemical, radiological, or biological materials.
-         (b)   As used in this division, "terrorist act" means a criminal act
+         (b)   As used in this division, “terrorist act” means a criminal act
 intended to:
             1.   Intimidate or coerce a public agency or all or part of the
 civilian population;
@@ -2152,15 +2179,12 @@ the following meanings ascribed to them respectively.
    ACTION TAKEN.  A collective decision, a commitment or promise to make a
 positive or negative decision, or an actual vote by a majority of the members
 of the governmental body.
-(KRS 61.805 (3))
    MEETING. All gatherings of every kind, including video teleconferences,
 regardless of where the meeting is held, and whether regular or special and
 informational or casual gatherings held in anticipation of or in conjunction
 with a regular or special meeting.
-(KRS 61.805 (1))
    MEMBER.  A member of the governing body of a public agency. Member does not
 include employees or licensees of the agency.
-(KRS 61.805 (4))
    PUBLIC AGENCY.  Every city government board, commission, and authority;
 every city council and council board, commission and committee; every school
 district board, special district board, and municipal corporation; every city
@@ -2169,20 +2193,21 @@ education created by or pursuant to state or local statute, executive order,
 ordinance, resolution, or other legislative act; any body created by or
 pursuant to state or local statute, executive order, ordinance, resolution, or
 other legislative act in the legislative or executive branch of government; any
-entity when the majority of its governing body is appointed by a "public
-agency", as defined by this section; a member or employee of a "public agency",
+entity when the majority of its governing body is appointed by a “public
+agency”, as defined by this section; a member or employee of a “public agency”,
 a state or local officer, or any combination thereof; any board, commission,
-committee, subcommittee, ad hoc committee, advisory committee, council or
+committee, subcommittee, ad hoc committee, advisory committee,  council or
 agency, except for a committee of a hospital medical staff or a committee
 formed for the purpose of evaluating the qualifications of public agency
-employees, established, created, or controlled by a "public agency" as defined
+employees, established, created, or controlled by a “public agency” as defined
 in this section; an interagency body of two (2) or more public agencies where
-each "public agency" is defined in this section.
-(KRS 61.805 (2))
+each “public agency” is defined in this section.
+   TIME. The time of day, stated both in eastern standard time and central
+standard time.
    VIDEO TELECONFERENCE.  One (1) meeting, occurring in two (2) or more
 locations, where individuals can see and hear each other by means of video and
 audio equipment.
-(KRS 61.805 (5))
+(KRS 61.805)
 **** PUBLIC MEETING REQUIREMENTS ****
 § 34A.05 MEETINGS OPEN TO THE PUBLIC.
    (A)   All meetings of a quorum of the members of any public agency at which
@@ -3687,7 +3712,8 @@ Ord. 2011-05, passed 9-19-11; Am. Ord. 2012-07, passed 9-17-12; Am. Ord. 2013-
 9-28-15; Am. Ord. 2016-22, passed 9-21-16; Am. Ord. 2017-13, passed 9-18-17;
 Am. Ord. 2018-12, passed 9-17-18; Am. Ord. 2019-07, passed 9-16-19; Am. Ord.
 2020-07, passed 10-5-20; Am. Ord. 2021-08, passed 8-16-21; Am. Ord. 2022-06,
-passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23)
+passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23; Am. Ord. 2024-08, passed 9-
+16-24; Am. Ord. 2025-04, passed 9-15-25)
  § 38.02 PURPOSE.
    The levy is made for the purpose of raising revenue to pay salaries of
 officers and employees; for the repair and maintenance of streets, public ways,
@@ -3705,7 +3731,8 @@ Ord. 2008-10, passed 9-15-08; Am. Ord. 2009-09, passed 9-8-09; Am. Ord. 2010-
 Am. Ord. 2015-07, passed 9-28-15; Am. Ord. 2016-22, passed 9-21-16; Am. Ord.
 2017-13, passed 9-18-17; Am. Ord. 2018-12, passed 9-17-18; Am. Ord. 2019-07,
 passed 9-16-19; Am. Ord. 2020-07, passed 10-5-20; Am. Ord. 2021-08, passed 8-
-16-21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23)
+16-21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23; Am.
+Ord. 2024-08, passed 9-16-24; Am. Ord. 2025-04, passed 9-15-25)
  § 38.03 COUNTY ASSESSMENT ADOPTED.
    The assessment made by the Bullitt County Property Valuation Administrator
 for state and county purposes shall be and is hereby adopted as the assessment
@@ -3724,13 +3751,14 @@ Ord. 2008-10, passed 9-15-08; Am. Ord. 2009-09, passed 9-8-09; Am. Ord. 2010-
 Am. Ord. 2015-07, passed 9-28-15; Am. Ord. 2016-22, passed 9-21-16; Am. Ord.
 2017-13, passed 9-18-17; Am. Ord. 2018-12, passed 9-17-18; Am. Ord. 2019-07,
 passed 9-16-19; Am. Ord. 2020-07, passed 10-5-20; Am. Ord. 2021-08, passed 8-
-16-21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23)
+16-21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23; Am.
+Ord. 2024-08, passed 9-16-24; Am. Ord. 2025-04, passed 9-15-25)
  § 38.04 LIST OF PERSONS SUBJECT TO TAXATION.
    The City Clerk shall take the list of all persons subject to city taxation
 who are not shown on the County Property Valuation Administrator’s books and
 shall add to the city tax rolls all property a portion of which is in the city
 where the value of the portion of the city is not shown on the County Property
-Valuation Administrator’s books.
+Valuation Administrator’s book.
 (Ord. 88-11, passed 9-19-88; Am. Ord. 89-13, passed 9-18-89; Am. Ord. 96-13,
 passed 9-16-96; Am. Ord. 97-11, passed 9-15-97; Am. Ord 98-10, passed 9-21-98;
 Am. Ord. 99-12, passed 9-21-99; Am. Ord. 2000-09, passed 9-12-00; Am. Ord.
@@ -3743,7 +3771,8 @@ Ord. 2008-10, passed 9-15-08; Am. Ord. 2009-09, passed 9-8-09; Am. Ord. 2010-
 Am. Ord. 2015-07, passed 9-28-15; Am. Ord. 2016-22, passed 9-21-16; Am. Ord.
 2017-13, passed 9-18-17; Am. Ord. 2018-12, passed 9-17-18; Am. Ord. 2019-07,
 passed 9-16-19; Am. Ord. 2020-07, passed 10-5-20; Am. Ord. 2021-08, passed 8-
-16-21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23)
+16-21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23; Am.
+Ord. 2024-08, passed 9-16-24; Am. Ord. 2025-04, passed 9-15-25)
 § 38.05 BILLS; REQUIRED NOTIFICATIONS.
    The City Clerk shall prepare tax bills for all persons and organizations in
 the city against whom taxes have been levied, and shall notify such persons and
@@ -3766,7 +3795,8 @@ Ord. 2008-10, passed 9-15-08; Am. Ord. 2009-09, passed 9-8-09; Am. Ord. 2010-
 Am. Ord. 2015-07, passed 9-28-15; Am. Ord. 2016-22, passed 9-21-16; Am. Ord.
 2017-13, passed 9-18-17; Am. Ord. 2018-12, passed 9-17-18; Am. Ord. 2019-07,
 passed 9-16-19; Am. Ord. 2020-7, passed 10-5-20; Am. Ord. 2021-08, passed 8-16-
-21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23)
+21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23; Am.
+Ord. 2024-08, passed 9-16-24; Am. Ord. 2025-04, passed 9-15-25)
 § 38.06 PAYMENTS.
    All payments of taxes provided for herein shall be made to the City Clerk/
 Treasurer at the business office of the city.
@@ -3782,7 +3812,8 @@ Ord. 2008-10, passed 9-15-08; Am. Ord. 2009-09, passed 9-8-09; Am. Ord. 2010-
 Am. Ord. 2015-07, passed 9-28-15; Am. Ord. 2016-22, passed 9-21-16; Am. Ord.
 2017-13, passed 9-18-17; Am. Ord. 2018-12, passed 9-17-18; Am. Ord. 2019-07,
 passed 9-16-19; Am. Ord. 2020-7, passed 10-5-20; Am. Ord. 2021-08, passed 8-16-
-21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23)
+21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23; Am.
+Ord. 2024-08, passed 9-16-24; Am. Ord. 2025-04, passed 9-15-25)
 § 38.07 DELINQUENCY.
    After January 1 following its due date, the City Clerk will mark all unpaid
 tax bills in red ink “DELINQUENT” and add a penalty of ten percent (10%), as
@@ -3803,7 +3834,8 @@ Ord. 2008-10, passed 9-15-08; Am. Ord. 2009-09, passed 9-8-09; Am. Ord. 2010-
 Am. Ord. 2015-07, passed 9-28-15; Am. Ord. 2016-22, passed 9-21-16; Am. Ord.
 2017-13, passed 9-18-17; Am. Ord. 2018-12, passed 9-17-18; Am. Ord. 2019-07,
 passed 9-16-19; Am. Ord. 2020-7, passed 10-5-20; Am. Ord. 2021-08, passed 8-16-
-21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23)
+21; Am. Ord. 2022-06, passed 8-29-22; Am. Ord. 2023-09, passed 9-25-23; Am.
+Ord. 2024-08, passed 9-16-24; Am. Ord. 2025-04, passed 9-15-25)
 **** PERSONAL PROPERTY ****
 § 38.15 AD VALOREM TAX LEVIED.
    A personal property ad valorem tax in the amount as established by ordinance
@@ -3834,7 +3866,9 @@ passed 9-17-18; Am. Ord. 2018-14, passed 9-17-18; Am. Ord. 2019-08, passed 9-
 16-19; Am. Ord. 2019-09, passed 9-16-19; Am. Ord. 2020-08, passed 10-5-20; Am.
 Ord. 2020-09, passed 10-5-20; Am. Ord. 2021-09, passed 8-16-21; Am. Ord. 2021-
 10, passed 8-16-21; Am. Ord. 2022-07, passed 8-29-22; Am. Ord. 2022-08, passed
-8-29-22; Am. Ord. 2023-10, passed 9-25-23; Am. Ord. 2023-11, passed 9-25-23)
+8-29-22; Am. Ord. 2023-10, passed 9-25-23; Am. Ord. 2023-11, passed 9-25-23;
+Am. Ord. 2024-09, passed 9-16-24; Am. Ord. 2024-10, passed 9-16-24; Am. Ord.
+2025-05, passed 9-15-25; Am. Ord. 2025-06, passed 9-15-25)
 § 38.16 PURPOSE.
    The levy is made for the purpose of raising revenue to pay salaries of
 officers and employees; for the repair and maintenance of streets, public ways,
@@ -3861,7 +3895,8 @@ Ord. 2018-13, passed 9-17-18; Am. Ord. 2018-14, passed 9-17-18; Am. Ord. 2019-
 10-5-20; Am. Ord. 2020-09, passed 10-5-20; Am. Ord. 2021-09, passed 8-16-21;
 Am. Ord. 2021-10, passed 8-16-21; Am. Ord. 2022-07, passed 8-29-22; Am. Ord.
 2022-08, passed 8-29-22; Am. Ord. 2023-10, passed 9-25-23; Am. Ord. 2023-11,
-passed 9-25-23)
+passed 9-25-23; Am. Ord. 2024-09, passed 9-16-24; Am. Ord. 2024-10, passed 9-
+16-24; Am. Ord. 2025-05, passed 9-15-25; Am. Ord. 2025-06, passed 9-15-25)
 § 38.17 COUNTY ASSESSMENT ADOPTED.
    The assessment made by the Bullitt County Property Valuation Administrator
 for state and county purposes shall be and is hereby adopted as the assessment
@@ -3888,7 +3923,9 @@ Ord. 2018-14, passed 9-17-18; Am. Ord. 2019-08, passed 9-16-19; Am. Ord. 2019-
 09, passed 9-16-19; Am. Ord. 2020-08, passed 10-5-20; Am. Ord. 2020-09, passed
 10-5-20; Am. Ord. 2021-09, passed 8-16-21; Am. Ord. 2021-10, passed 8-16-21;
 Am. Ord. 2022-07, passed 8-29-22; Am. Ord. 2022-08, passed 8-29-22; Am. Ord.
-2023-10, passed 9-25-23; Am. Ord. 2023-11, passed 9-25-23)
+2023-10, passed 9-25-23; Am. Ord. 2023-11, passed 9-25-23; Am. Ord. 2024-09,
+passed 9-16-24; Am. Ord. 2024-10, passed 9-16-24; Am. Ord. 2025-05, passed 9-
+15-25; Am. Ord. 2025-06, passed 9-15-25)
 § 38.18 MOTOR VEHICLE TAX RATE CERTIFICATION.
    The City Clerk shall forward to the Department of Property Valuation a Motor
 Vehicle Tax Rate Certification for the year.
@@ -3905,7 +3942,8 @@ Am. Ord. 2015-09, passed 9-21-15; Am. Ord. 2016-24, passed 9-21-16; Am. Ord.
 2017-14, passed 9-18-17; Am. Ord. 2017-15, passed 9-18-17; Am. Ord. 2018-13,
 passed 9-17-18; Am. Ord. 2018-14, passed 9-17-18; Am. Ord. 2019-09, passed 9-
 16-19; Am. Ord. 2020-09, passed 10-5-20; Am. Ord. 2021-10, passed 8-16-21; Am.
-Ord. 2022-08, passed 8-29-22; Am. Ord. 2023-11, passed 9-25-23)
+Ord. 2022-08, passed 8-29-22; Am. Ord. 2023-11, passed 9-25-23; Am. Ord. 2024-
+10, passed 9-16-24; Am. Ord. 2025-06, passed 9-15-25)
 § 38.19 PAYMENT.
    All payments of taxes provided for herein shall be received by the City
 Clerk/Treasurer at the business office of the city.
@@ -3929,7 +3967,9 @@ Ord. 2018-14, passed 9-17-18; Am. Ord. 2019-08, passed 9-16-19; Am. Ord. 2019-
 09, passed 9-16-19; Am. Ord. 2020-08, passed 10-5-20; Am. Ord. 2020-09, passed
 10-5-20; Am. Ord. 2021-09, passed 8-16-21; Am. Ord. 2021-10, passed 8-16-21;
 Am. Ord. 2022-07, passed 8-29-22; Am. Ord. 2022-08, passed 8-29-22; Am. Ord.
-2023-10, passed 9-25-23; Am. Ord. 2023-11, passed 9-25-23)
+2023-10, passed 9-25-23; Am. Ord. 2023-11, passed 9-25-23; Am. Ord. 2024-09,
+passed 9-16-24; Am. Ord. 2024-10, passed 9-16-24; Am. Ord. 2025-05, passed 9-
+15-25; Am. Ord. 2025-06, passed 9-15-25)
 **** PUBLIC SERVICE COMPANIES ****
 § 38.30 AD VALOREM TAX LEVIED.
    An ad valorem tax in the amount as established by ordinance of City Council
@@ -3949,7 +3989,8 @@ Ord. 2014-11, passed 8-25-14; Am. Ord. 2015-10, passed 9-21-15; Am. Ord. 2016-
 25, passed 9-21-16; Am. Ord. 2017-16, passed 9-18-17; Am. Ord. 2018-15, passed
 9-17-18; Am. Ord. 2019-10, passed 9-16-19; Am. Ord. 2020-10, passed 10-5-20;
 Am. Ord. 2021-11, passed 8-16-21; Am. Ord. 2022-09, passed 8-29-22; Am. Ord.
-2023-12, passed 9-25-23)
+2023-12, passed 9-25-23; Am. Ord. 2024-11, passed 9-16-24; Am. Ord. 2025-07,
+passed 9-15-25)
 § 38.31 PURPOSE.
    The levy is made for the purpose of raising revenue to pay salaries of
 officers and employees; for repair and maintenance of streets, public ways, and
@@ -3967,7 +4008,8 @@ Ord. 2009-12, passed 9-8-09; Am. Ord. 2010-15, passed 9-20-10; Am. Ord. 2011-
 Am. Ord. 2016-25, passed 9-21-16; Am. Ord. 2017-16, passed 9-18-17; Am. Ord.
 2018-15, passed 9-17-18; Am. Ord. 2019-10, passed 9-16-19; Am. Ord. 2020-10,
 passed 10-5-20; Am. Ord. 2021-11, passed 8-16-21; Am. Ord. 2022-09, passed 8-
-29-22; Am. Ord. 2023-12, passed 9-25-23)
+29-22; Am. Ord. 2023-12, passed 9-25-23; Am. Ord. 2024-11, passed 9-16-24; Am.
+Ord. 2025-07, passed 9-15-25)
 § 38.32 COLLECTION AND ENFORCEMENT.
    Provisions of §§
 38.15 through
@@ -3986,7 +4028,8 @@ Ord. 2009-12, passed 9-8-09; Am. Ord. 2010-15, passed 9-20-10; Am. Ord. 2011-
 Am. Ord. 2016-25, passed 9-21-16; Am. Ord. 2017-16, passed 9-18-17; Am. Ord.
 2018-15, passed 9-17-18; Am. Ord. 2019-10, passed 9-16-19; Am. Ord. 2020-10,
 passed 10-5-20; Am. Ord. 2021-11, passed 8-16-21; Am. Ord. 2022-09, passed 8-
-29-22; Am. Ord. 2023-12, passed 9-25-23)
+29-22; Am. Ord. 2023-12, passed 9-25-23; Am. Ord. 2024-11, passed 9-16-24; Am.
+Ord. 2025-07, passed 9-15-25)
 § 38.33 PAYMENT.
    All payments of taxes provided for herein shall be received by the City
 Clerk/Treasurer at the business office of the city.
@@ -4002,7 +4045,8 @@ Ord. 2009-12, passed 9-8-09; Am. Ord. 2010-15, passed 9-20-10; Am. Ord. 2011-
 Am. Ord. 2016-25, passed 9-21-16; Am. Ord. 2017-16, passed 9-18-17; Am. Ord.
 2018-15, passed 9-17-18; Am. Ord. 2019-10, passed 9-16-19; Am. Ord. 2020-10,
 passed 10-5-20; Am. Ord. 2021-11, passed 8-16-21; Am. Ord. 2022-09, passed 8-
-29-22; Am. Ord. 2023-12, passed 9-25-23) k
+29-22; Am. Ord. 2023-12, passed 9-25-23; Am. Ord. 2024-11, passed 9-16-24; Am.
+Ord. 2025-07, passed 9-15-25)
 CHAPTER 39: PERSONNEL POLICY
 Section
 General Provisions
@@ -8924,36 +8968,68 @@ Penalty, see
    (A)   The operator of any vehicle upon a highway shall operate the vehicle
 in a careful manner, with regard for the safety and convenience of pedestrians
 and other vehicles upon the highway.
-   (B)   No person shall willfully operate any vehicle on any highway in such a
-manner as to injure the highway.
-(KRS 189.290) Penalty, see
-§ 71.99
+   (B)   A person shall not willfully operate any vehicle on any highway in
+such a manner as to injure the highway.
+   (C)   A person shall not willfully operate any vehicle on any highway in
+such a manner as to injure vehicles or equipment located in or near a highway
+work zone.
+   (D)   A person shall not operate any vehicle in a reckless or negligent
+manner as to endanger persons or property in or near a highway, or in or near a
+highway work zone.
+   (E)   In addition to any other penalty, an operator who violates divisions
+(C) or (D) shall be subject to revocation of his or her operator’s license
+under KRS 186.560.
+(KRS 189.290) Penalty, see §
+71.99
 § 71.26 RIGHT-OF-WAY OF EMERGENCY VEHICLES; FOLLOWING EMERGENCY VEHICLES;
 DRIVING OVER FIRE HOSE.
    (A)   Upon the approach of an emergency vehicle equipped with, and
 operating, one or more flashing, rotating, or oscillating red or blue lights
 visible under normal conditions from a distance of five hundred (500) feet to
-the front of such vehicle; or when the driver is giving audible signal by
-siren, exhaust whistle, or bell, the driver of every other vehicle shall yield
-the right-of-way, immediately drive to a position parallel to, and as close as
-possible to, the edge or curb of the highway clear of any intersection, and
-stop and remain in such position until the emergency vehicle has passed, except
-when otherwise directed by a police officer or firefighter.
+the front of the emergency vehicle; or when the driver is giving audible signal
+by siren, exhaust whistle, or bell, the driver of every other vehicle shall
+yield the right-of-way, immediately drive to a position parallel to, and as
+close as possible to, the edge or curb of the highway clear of any
+intersection, and stop and remain stopped until the emergency vehicle has
+passed, except when otherwise directed by a police officer or firefighter.
    (B)   Upon the approach of any emergency vehicle operated in conformity with
 the provisions of division (A) above, the operator of every vehicle shall
-immediately stop clear of any intersection and shall keep such position until
-the emergency vehicle has passed, unless directed otherwise by a police officer
-or firefighter.
-   (C)   No operator of any vehicle, unless he is on official business, shall
-follow any emergency vehicle being operated in conformity with the provisions
-of division (A) above closer than five hundred (500) feet, nor shall he drive
-into, park the vehicle into, or park the vehicle within the block where the
-vehicle has stopped in answer to an emergency call or alarm, unless he is
-directed otherwise by a police officer or firefighter.
+immediately stop clear of any intersection and remain stopped until the
+emergency vehicle has passed, unless directed otherwise by a police officer or
+firefighter.
+   (C)   No operator of any vehicle, unless he or she is on official business,
+shall follow any emergency vehicle being operated in conformity with the
+provisions of division (A) above closer than five hundred (500) feet, nor shall
+he or she drive into, park the vehicle into, or park the vehicle within the
+block where the vehicle has stopped in answer to an emergency call or alarm,
+unless he or she is directed otherwise by a police officer or firefighter.
    (D)   No vehicle, train, or other equipment shall be driven over any
 unprotected hose of a fire department when the hose is laid down on any street,
 private driveway, or track for use at any fire or fire alarm unless the fire
 department official in command consents that the hose be driven over.
+   (E)   The provisions of division (F) of this section shall apply to any
+driver upon approaching a stationary:
+      (1)    Emergency vehicle or public safety vehicle, when the emergency
+vehicle or public safety vehicle is giving a signal by displaying alternately
+flashing yellow, red, red and white, red and blue, or blue lights; or
+      (2)   Disabled vehicle, when the disabled vehicle is displaying some type
+of warning signal, such as emergency flashers, flares, or retroreflective
+signals.
+   (F)   The driver of a vehicle that is approaching a vehicle described in
+division (E) of this section shall, while proceeding with due caution:
+      (1)   Yield the right-of-way by moving to a lane not adjacent to that of
+the vehicle, if:
+         (a)   The person is driving on a highway having at least four (4)
+lanes, with at least two (2) lanes proceeding in the same direction as the
+approaching vehicle; and
+         (b)   It is possible to make the lane change with due regard to safety
+and traffic conditions; or
+      (2)   Reduce the speed of the vehicle, maintaining a safe speed to road
+conditions, if the road has less than four (4) lanes or if changing lanes would
+be impossible or unsafe.
+   (G)   This section does not operate to relieve the person who drives an
+emergency vehicle from the duty to operate the vehicle with due regard for the
+safety of all persons using the highway.
 (KRS 189.930) Penalty, see
 § 71.99
 § 71.27 SMOKE EMISSION OR OTHER NUISANCE.
@@ -10959,8 +11035,8 @@ standards and in possession of a current city business license.
 or other similar scrap or salvage materials located on the business premises of
 a:
             1.   Licensed automotive recycling dealer as described in KRS
-190.010(8);
-            2.   Used motor vehicle dealer as defined in KRS 190.010(6); or
+190.010(8), before its repeal;
+            2.   Used motor vehicle dealer as defined in KRS 190.010(36); or
             3.   Motor vehicle auction dealer as defined in KRS 190.010(11);
          (d)   Junked, wrecked, or inoperative motor vehicles, including parts
 cars, stored on private premises by automobile collectors, whether as a hobby
@@ -15506,17 +15582,6 @@ approved target range.
 rifle, shotgun, pistol or revolver upon the premises owned or occupied as
 aforesaid, even though such use and discharge is prohibited in subsection (C)
 of this section.
-         (d)   Notwithstanding the provisions of subsection (B) of this
-section, an adult owner or adult occupant of any land within the city may,
-while on their own property and subject to all applicable state restrictions
-and regulations, discharge an air rifle or shotgun:
-            1.   For the sole purpose of controlling rodents that are not
-protected species; or
-            2.   For the purpose of controlling skunks, opossum and/or raccoons
-that:
-               a.   Are causing damage; or
-               b.   Are about to cause damage; or
-               c.   May constitute a health hazard or other nuisance.
       (2)   No shotgun may be discharged by any person under this section while
 loaded with any slug or with any shot with a larger diameter than #6. The adult
 owner or adult occupant shall be responsible to ensure that the discharge from
@@ -15532,7 +15597,7 @@ parent or guardian may be held responsible for such violation in the same
 manner as if such parent or guardian had violated this section, and ignorance
 of such violation shall not be a defense; prosecution of such parent or
 guardian shall not be a bar to prosecution of such minor.
-(Ord. 2015-01, passed 3-16-15) Penalty, see §
+(Ord. 2015-01, passed 3-16-15; Am. Ord. 2024-15, passed 12-2-24) Penalty, see §
 130.99
 Cross-reference:
    Hunting prohibited on property owned by the city, see §
@@ -17468,24 +17533,20 @@ assure safe living conditions; or
 alteration will not preclude the structure's continued designation as a
 "historic structure".
    SUBSTANTIAL IMPROVEMENT.  
-      (1)   Means any combination of reconstruction, alteration, or improvement
-to a building, taking place during a five (5) year period (during the life of
-the building), in which the cumulative percentage of improvement equals or
-exceeds fifty percent (50%) of the current market value of the building. For
-the purposes of this definition, an improvement occurs when the first
-alteration of any wall, ceiling, floor, or other structural part of the
-building commences, whether or not that alteration affects the external
-dimensions of the building.
-      (2)   The term does not apply to:
-         (a)   Any project for improvement of a building required to comply
-with existing health, sanitary, or safety code specifications which have been
-identified by the Code Enforcement Official and which are solely necessary to
-assure safe living conditions; or
-         (b)   Any alteration of a "historic structure" provided that the
-alteration will not preclude the structure's continued designation as a
-"historic structure"; or
-         (c)   Any building that has been damaged from any source or is
-categorized as repetitive loss.
+      (1)   Any reconstruction, rehabilitation, addition, or other improvement
+of a structure, taking place during a five (5) year period in which the
+cumulative percentage of improvements equals or exceeds fifty percent (50%) of
+the market value of the structure before the “start of construction” of the
+improvement. This term includes structures which have incurred “substantial
+damage,” regardless of the actual repair work performed. The term does not,
+however, include either:
+         (a)   Any project for improvement of a structure to correct existing
+violations of state or local health, sanitary, or safety code specifications
+which have been identified by the local Code Enforcement Official and which are
+the minimum necessary to assure safe living conditions; or
+         (b)   Any alteration of a “historic structure” provided that the
+alteration will not preclude the structure’s continued designation as a
+“historic structure.”
    SUBSTANTIALLY IMPROVED EXISTING MANUFACTURED HOME PARKS OR SUBDIVISIONS.
 Repair, reconstruction, rehabilitation, or improvement of the streets,
 utilities, and pads equaling or exceeding fifty percent (50%) of the value of
@@ -17521,7 +17582,7 @@ Unshaded X zones (C zones on older FIRMs) designate areas where the annual
 exceedance probability of flooding is less than two-tenths percent (0.2%).
    ZONE. A geographical area shown on a Flood Hazard Boundary Map or a Flood
 Insurance Rate Map that reflects the severity or type of flooding in the area.
-(Ord. 2005-17, passed 11-21-05)
+(Ord. 2005-17, passed 11-21-05; Am. Ord. 2025-08, passed 10-6-25)
 § 153.06 LANDS TO WHICH THIS CHAPTER APPLIES.
    This chapter shall apply to all special flood hazard areas (SFHA) and, as
 determined by the Floodplain Administrator or other delegated, designated, or
@@ -18812,6 +18873,10 @@ No.   Passed
 03             adjoining the city.
 2023- 8-21-23  Finally annexing approximately 52.94 acres of unincorporated territory
 07             adjoining the city.0
+2025- 10-6-25  Proposing the annexation of 65.06 acres of unincorporated territory as
+09             described in Exhibit A of Ord. 2025-09.
+2025- 12-15-25 Finally annexing approximately 65.06 acres of unincorporated territory
+11             adjoining the city.
               
  
 TABLE II: CONTRACTS AND AGREEMENTS
@@ -18841,7 +18906,7 @@ Ord. No. Date Passed Description
                      Communications, Inc.
 80-5     3-17-80     Amending the cable television franchise awarded to Bullitt
                      County Communications, Inc.
-5-17-83              Creating a franchise for radio, television and other cable
+5-17-83             Creating a franchise for radio, television and other cable
                      communication services.
 87-15    8-31-87     Transferring cable television franchise from Matrix Vision
                      of Bullitt County, Inc. to 1st Cablevision, Inc.
@@ -18857,6 +18922,7 @@ Ord. No. Date Passed Description
                      of the franchise within the city.
 2004-03  1-26-04     Amending franchise for the collection and disposal of
                      garbage and trash.
+                    
  
 TABLE IV: ZONING CHANGES
 Ord. No. Date Passed Description
@@ -19105,6 +19171,14 @@ No.   Passed
 13    23     1 to EP.
 2023- 12-4-  Rezoning Parcel # 044-000-00-002D, 40.028 acres located on Ferguson Lane, from
 14    23     I-L and B-1 to I-L.
+2024- 2-19-  Rezoning Parcel # 052-SW0-05-052, 0.7 acres located on 1224 Old Preston
+01    24     Highway, from B-1 to R-1.
+2024- 6-3-24 Rezoning Parcel # 044-NE0-23-059, 1.572 acres located on Bells Mill Road, Lot
+02           84, from B-2 to B-1.
+2024- 6-3-24 Rezoning Parcel # 043-NW0-04-001, 1.7 acres located on East Blue Lick Road and
+03           Jeffie Lane, from R-3 to B-1.
+2025- 1-5-26 Rezoning Parcel # 052-000-00-007A, 1.063 acres located on Mayflower Road, from
+13           R-2 to B-2.
             
  
 TABLE V: STREET NAMING
@@ -19136,429 +19210,424 @@ References to Kentucky Revised Statutes
 References to Ordinances
 REFERENCES TO KENTUCKY REVISED STATUTES
 KRS Section Code Section
-KRS Section             Code Section
-Section 43, Ky. Const.  32.48
-Section 165, Ky. Const. 40.17
-                        31.01(A),
-Section 228, Ky. Const. 31.36(E),
-                        31.37,
-                        35.14
-Section 246, Ky. Const. 31.02(A)
-6.050                   32.48
-6.955 - 6.975           33.04
-Ch. 13A                 93.02
-Ch. 13B                 93.05
-15.409                  34.12
-15.410 - 15.510         35.04
-Ch. 31                  34.12
-Chs. 39A - 39F          36.02
-Ch. 45A                 34.12,
-                        34A.05
-Ch. 56               34.12,
-                        34A.05
-Ch. 61                  32.21
-61.080                  40.17
-61.090                  40.17
-61.168                  34.12
-61.169                  34.12
-61.252                  40.16
-61.805 - 61.850         34A.10
-61.805(1)               34A.01
-61.805(2)               34A.01
-61.805(3)               34A.01
-61.805(4)               34A.01
-61.805(5)               34A.01
-                        34A.05,
-61.810                  40.18,
-                        40.78
-61.815                  34A.06,
-                        40.18
-61.820                  34A.07
-61.823                  34A.08
-61.823(2)               91.15
-61.823(3)               91.15
-61.823(4)               34A.09,
-                        91.15
-61.826                  34A.09
-61.840                  34A.09
-61.846                  34A.10
-61.848                  34A.10
-61.850                  34A.10
-61.870 - 61.882         31.36
-61.870 - 61.884         34.05,
-                        40.82
-61.870                  34.01
-61.870(10)(a) - (f)     34.05
-61.872(1)               34.05(B)
-61.872(2)               34.05(A)
-61.872(3)               34.05(C)
-61.872(4)               34.06
-61.872(5)               34.07
-61.872(6)               34.08
-61.874(1)               34.05(C)
-61.874(2)(b)            34.05
-61.874(4)               34.05
-61.874(5)               34.05
-61.874(6)               34.05
-61.876                  34.05
-61.876(4)               34.05
-61.878                  34.01,
-                        34.12
-61.880                  34.09
-61.882                  34.09
-61.884                  34.11
-62.020                  31.01
-62.060                  31.01(B)
-65.003                  40.03
-65.120                  72.01
-                        37.50,
-65.8801 - 65.8839       37.51,
-                        37.62
-65.8815(5)              37.54
-82.082                  40.03,
-                        153.01
-Ch. 83A                 31.20
-83A.010(5)              10.02
-83A.010(6)              10.02
-83A.010(7)              10.02
-83A.010(8)              10.02
-83A.010(9)              10.02
-83A.010(10)             10.02
-83A.010(11)             10.02
-83A.030(1)              30.02
-83A.040(1)              31.21
-83A.040(2)(c)           31.21
-83A.040(3)              31.21
-83A.040(4)              32.01
-83A.040(5)              31.21
-83A.040(6)              31.21,
-                        32.02
-83A.040(7)              31.21,
-                        32.02
-83A.040(8)              31.21,
-                        32.02
-83A.040(9)              31.03
-83A.050                 31.20,
-                        32.01
-83A.060(1)              32.35
-83A.060(2)              32.36
-83A.060(3)              32.37
-83A.060(4)              32.38
-83A.060(5)              Adopting Ordinances,
-                        32.40
-83A.060(6)              32.22
-83A.060(7)              32.38
-83A.060(8)              32.41,
-                        32.42
-83A.060(9)              32.43
-83A.060(10)             32.44
-83A.060(11)             32.45
-83A.060(12)             32.46
-83A.060(13)             32.46
-83A.060(14)             32.47
-83A.060(15)             32.48
-83A.065                 10.02
-83A.070                 31.02
-83A.075                 31.02
-                        31.37,
-83A.080                 39.08,
-                        40.04
-83A.080(1)              31.35
-83A.080(2)              31.03,
-                        31.35
-83A.080(3)              31.20
-83A.080(4)              31.20
-83A.085                 31.36,
-                        39.64
-83A.130                 31.21,
-                        39.03
-83A.130(1)              30.01
-83A.130(2)              30.02(A)
-83A.130(3)              31.21
-83A.130(4)              31.21,
-                        35.10
-83A.130(5)              32.20
-83A.130(6)              32.39
-83A.130(7)              31.21
-83A.130(8)              31.21
-83A.130(9)              31.21,
-                        39.08
-83A.130(10)             31.21
-83A.130(11)             32.03(A),
-                        32.21
-83A.130(12)             31.37,
-                        32.03(B), (C)
-83A.130(13)             32.03(D)
-83A.165                 31.20
-83A.175                 32.02
-83A.175(1)              31.20
-83A.175(2)              31.20
-83A.175(3)              31.20
-83A.175(4)              31.20
-83A.175(5)              31.20
-83A.175(6)              31.20
-90.310                  37.01
-90.310 - 90.410         37.01,
-                        37.02
-90.310(2)               37.02
-90.310(3)               37.02
-90.310(4)               37.02
-90.320                  37.03
-90.330                  37.04
-90.340                  37.05
-90.350                  37.06
-90.360                  37.07
-90.370                  37.08
-90.380                  37.09
-90.390                  37.10
-91A.010                 33.01
-91A.010(6)              33.01
-91A.010(7)              33.01
-91A.010(8)              10.02
-91A.020                 33.02
-91A.030(7)              33.03
-91A.040                 33.04
-91A.050                 33.04
-91A.060                 33.05
-91A.200                 33.11 (A)
-91A.210                 33.10
-91A.220                 33.11
-91A.230                 33.12
-91A.240                 33.13
-91A.250                 33.14
-91A.260                 33.15
-91A.270                 33.16
-91A.280                 33.17
-91A.290                 33.18
-92.310                  110.04
-95.445                  35.01
-95.700                  35.01
-95.955                  35.20
-99.700 - 99.730         37.40,
-                        37.41
-99.705                  37.41
-99.720 (repealed)       37.41
-                        37.30,
-Ch. 100                 37.41,
-                        151.01
-100 et seq.             153.01
-100.365                 90.01
-Chs. 116-121            31.20 (A)
-Ch. 118                 31.20
-118.035                 39.32
-118.305(7)              31.21,
-                        32.02
-                        110.10,
-131.010(6)              113.99,
-                        120.03
-131.183                 110.10,
-                        120.03
-132.487 et seq.         38.17
-Ch. 136                 116.01
-136.120                 110.22
-136.575(1)              116.01
-Ch. 151                 153.05
-151.250                 153.05
-151.280                 153.05
-151.310                 153.05
-151.320                 153.05
-174.100                 91.15
-174.100(1)              91.16,
-                        91.17
-174.100(2)              91.17
-174.100(3)              91.18
-174.100(4)              91.19
-174.100(5)              91.19
-186A.145                72.22
-186A.190                72.22
-189.010(19)             70.01
-189.020                 71.27
-189.290                 71.25
-189.330(8)              71.02
-189.338                 70.15
-189.378                 71.35,
-                        71.99
-189.378(1)              70.01
-189.394                 71.29
-189.450(5)              72.03
-189.450(6)              72.03
-189.580                 71.15
-189.700                 117.01
-189.910                 71.35
-189.920                 71.35
-189.920(3)              71.05
-189.930                 71.26
-189.990(1)              72.99
-189.993(8)              71.99(B)
-190.010(6)              92.31
-190.010(8)              92.31
-190.010(11)             92.31
-Ch. 198B                150.02
-198B.060(1)             150.01
-198B.070                150.02
-198B.990(1)             150.99 (A)(1)
-226.010                 112.01
-226.020                 112.02
-226.030                 112.07
-226.040                 112.03(A)
-226.050                 112.04
-226.060                 112.08
-226.080                 112.05
-226.090                 112.06
-226.100                 112.08
-226.990(1)              112.99
-227.550                 92.31
-227.700 - 227.750       93.01
-227.700                 93.01
-                        93.01,
-227.702                 93.02,
-                        93.06
-227.704                 93.01
-227.706                 93.01
-227.708                 93.01
-227.710                 93.02
-227.715                 93.02
-227.720                 93.03
-227.730                 93.04
-227.740                 93.04
-227.750                 93.05
-227.990(1)              150.99(A)(2)
-227.990(4)              93.99(A)
-Chs. 241 - 244          113.31
-241.010                 113.30
-241.100                 31.38
-241.160                 113.60
-Ch. 243                 110.22
-243.020 - 243.670       113.99
-243.020(1)              113.99
-243.020(3)              113.99
-243.033                 113.32
-243.034                 113.32
-243.035                 113.32
-243.036                 113.32
-243.039                 113.32
-243.042                 113.32
-243.050                 113.32,
-                        113.99
-243.070                 113.10,
-                        113.32
-243.082                 113.32,
-                        113.99
-243.084                 113.32
-243.086                 113.32
-243.088                 113.32
-243.089                 113.32
-243.120                 113.32
-243.130                 113.32
-243.150                 113.32
-243.157                 113.32
-243.160                 113.32
-243.170                 113.32
-243.180                 113.32
-243.240                 113.32
-243.250                 113.32
-243.260                 113.32
-243.280                 113.32,
-                        113.38
-243.390                 113.34
-243.440                 113.33
-243.450                 113.36
-243.480                 113.62
-243.480 - 243.590       113.62
-243.500                 113.62
-243.502(1)              113.99
-243.620                 113.99
-243.710 - 243.720       113.99
-243.710 - 243.850       113.99
-243.720                 113.99
-243.730                 113.99
-243.897                 113.99
-244.080                 113.45
-244.083                 113.43
-244.085                 113.45
-244.290                 113.32,
-                        113.40
-244.290(3)(b)           113.30
-244.480                 113.40
-Ch. 272                 10.02
-Ch. 281                 72.21
-281.010                 92.31
-281.655                 117.24
-281.920 - 281.936       72.22
-281.926                 72.22
-281.928                 72.22
-281.928(1)              72.22
-281.932                 72.22
-318.990                 150.99(A)(3)
-Ch. 337                 39.11
-344.230                 37.21
-344.330                 37.21
-344.340                 37.22
-Ch. 350                 153.05
-359.230                 72.22
-376.275(1)              72.22
-376.275(2)              72.22
-Ch. 386                 10.02
-Ch. 386(A)              10.02
-Ch. 404                 117.24
-                        32.43(A),
-                        33.04,
-Ch. 424                 33.15,
-                        35.03,
-                        37.03,
-                        37.09
-424.190(2)              33.04
-424.220                 33.04
-436.600                 90.04,
-                        90.99(C)
-446.010(1)              10.02
-446.010(2)              10.02
-446.010(6)              10.02
-446.010(8)              10.02
-446.010(9)              10.02
-446.010(10)             10.02
-446.010(11)             10.02
-446.010(13)             10.02
-446.010(14)             10.02
-446.010(15)             10.02
-446.010(16)             10.02
-446.010(18)             10.02
-446.010(19)             10.02
-446.010(24)             10.02
-446.010(26)             10.02
-446.010(27)             10.02
-446.010(28)             10.02
-446.010(30)             10.02
-446.010(31)             10.02
-446.010(33)             10.02
-446.010(36)             10.02
-446.010(37)             10.02
-446.010(39)             10.02
-446.010(43)             10.02
-446.010(46)             10.02
-446.010(47)             10.02
-446.010(49)             10.02
-446.010(55)             10.02
-446.010(56)             10.02
-446.020(1)              10.03(A)
-446.020(2)              10.03(B)
-446.030                 10.04
-446.050                 10.05
-446.060                 10.06
-446.080(1)              10.03(C)
-446.080(3)              10.03(D)
-446.080(4)              10.03(E)
-446.090                 10.07
-446.100                 10.08
-446.110                 10.09
-446.140 - 527.020       130.17
-532.090(1)              10.02
-534.040(2)(a)           10.02
-630.030                 130.01
-                        
+KRS Section               Code Section
+Section 43, Ky. Const.    32.48
+Section 165, Ky. Const.   40.17
+                          31.01(A),
+Section 228, Ky. Const.   31.36(E),
+                          31.37,
+                          35.14
+Section 246, Ky. Const.   31.02(A)
+6.050                     32.48
+6.955 - 6.975             33.04
+Ch. 13A                   93.02
+Ch. 13B                   93.05
+15.409                    34.12
+15.410 - 15.510           35.04
+Ch. 31                    34.12
+Chs. 39A - 39F            36.02
+Ch. 45A                   34.12,
+                          34A.05
+Ch. 56                 34.12,
+                          34A.05
+Ch. 61                    32.21
+61.080                    40.17
+61.090                    40.17
+61.168                    34.12
+61.169                    34.12
+61.252                    40.16
+61.805 - 61.850           34A.10
+61.805                    34A.01
+                          34A.05,
+61.810                    40.18,
+                          40.78
+61.815                    34A.06,
+                          40.18
+61.820                    34A.07
+61.823                    34A.08
+61.823(2)                 91.15
+61.823(3)                 91.15
+61.823(4)                 34A.09,
+                          91.15
+61.826                    34A.09
+61.840                    34A.09
+61.846                    34A.10
+61.848                    34A.10
+61.850                    34A.10
+61.870 - 61.882           31.36
+61.870 - 61.884           34.05,
+                          40.82
+61.870                    34.01
+61.870(1), (2), (4) - (8) 34.01
+61.870(3)                 34.01
+61.870(10)(a) - (g)       34.05
+61.872(1)                 34.05(B)
+61.872(2)                 34.05(A)
+61.872(3)                 34.05(C)
+61.872(4)                 34.06
+61.872(5)                 34.07
+61.872(6)                 34.08
+61.874(1)                 34.05(C)
+61.874(2)(b)              34.05
+61.874(4)                 34.05
+61.874(5)                 34.05
+61.874(6)                 34.05
+61.876                    34.05
+61.876(4)                 34.05
+61.878                    34.01,
+                          34.12
+61.880                    34.09
+61.882                    34.09
+61.884                    34.11
+62.020                    31.01
+62.060                    31.01(B)
+65.003                    40.03
+65.120                    72.01
+                          37.50,
+65.8801 - 65.8839         37.51,
+                          37.62
+65.8815(5)                37.54
+82.082                    40.03,
+                          153.01
+Ch. 83A                   31.20
+83A.010(5)                10.02
+83A.010(6)                10.02
+83A.010(7)                10.02
+83A.010(8)                10.02
+83A.010(9)                10.02
+83A.010(10)               10.02
+83A.010(11)               10.02
+83A.030(1)                30.02
+83A.040(1)                31.21
+83A.040(2)(c)             31.21
+83A.040(3)                31.21
+83A.040(4)                32.01
+83A.040(5)(a)             31.21
+83A.040(6)                31.21,
+                          32.02
+83A.040(7)                31.21,
+                          32.02
+83A.040(8)                31.21,
+                          32.02
+83A.040(9)                31.03
+83A.050                   31.20,
+                          32.01
+83A.060(1)                32.35
+83A.060(2)                32.36
+83A.060(3)                32.37
+83A.060(4)                32.38
+83A.060(5)                Adopting Ordinances,
+                          32.40
+83A.060(6)                32.22
+83A.060(7)                32.38
+83A.060(8)                32.41,
+                          32.42
+83A.060(9)                32.43
+83A.060(10)               32.44
+83A.060(11)               32.45
+83A.060(12)               32.46
+83A.060(13)               32.46
+83A.060(14)               32.47
+83A.060(15)               32.48
+83A.065                   10.02
+83A.070                   31.02
+83A.075                   31.02
+                          31.37,
+83A.080                   39.08,
+                          40.04
+83A.080(1)                31.35
+83A.080(2)                31.03,
+                          31.35
+83A.080(3)                31.20
+83A.080(4)                31.20
+83A.085                   31.36,
+                          39.64
+83A.130                   31.21,
+                          39.03
+83A.130(1)                30.01
+83A.130(2)                30.02(A)
+83A.130(3)                31.21
+83A.130(4)                31.21,
+                          35.10
+83A.130(5)                32.20
+83A.130(6)                32.39
+83A.130(7)                31.21
+83A.130(8)                31.21
+83A.130(9)                31.21,
+                          39.08
+83A.130(10)               31.21
+83A.130(11)               32.03(A),
+                          32.21
+83A.130(12)               31.37,
+                          32.03(B), (C)
+83A.130(13)               32.03(D)
+83A.165                   31.20
+83A.175                   32.02
+83A.175(1)                31.20
+83A.175(2)                31.20
+83A.175(3)                31.20
+83A.175(4)                31.20
+83A.175(5)                31.20
+83A.175(6)                31.20
+90.310                    37.01
+90.310 - 90.410           37.01,
+                          37.02
+90.310(2)                 37.02
+90.310(3)                 37.02
+90.310(4)                 37.02
+90.320                    37.03
+90.330                    37.04
+90.340                    37.05
+90.350                    37.06
+90.360                    37.07
+90.370                    37.08
+90.380                    37.09
+90.390                    37.10
+91A.010                   33.01
+91A.010(6)                33.01
+91A.010(7)                33.01
+91A.010(8)                10.02
+91A.020                   33.02
+91A.030(7)                33.03
+91A.040                   33.04
+91A.050                   33.04
+91A.060                   33.05
+91A.200                   33.11 (A)
+91A.210                   33.10
+91A.220                   33.11
+91A.230                   33.12
+91A.240                   33.13
+91A.250                   33.14
+91A.260                   33.15
+91A.270                   33.16
+91A.280                   33.17
+91A.290                   33.18
+92.310                    110.04
+95.445                    35.01
+95.700                    35.01
+95.955                    35.20
+99.700 - 99.730           37.40,
+                          37.41
+99.705                    37.41
+99.720 (repealed)         37.41
+                          37.30,
+Ch. 100                   37.41,
+                          151.01
+100 et seq.               153.01
+100.365                   90.01
+Chs. 116-121              31.20 (A)
+Ch. 118                   31.20
+118.035                   39.32
+118.305(7)                31.21,
+                          32.02
+                          110.10,
+131.010(6)                113.99,
+                          120.03
+131.183                   110.10,
+                          120.03
+132.487 et seq.           38.17
+Ch. 136                   116.01
+136.120                   110.22
+136.575(1)                116.01
+Ch. 151                   153.05
+151.250                   153.05
+151.280                   153.05
+151.310                   153.05
+151.320                   153.05
+174.100                   91.15
+174.100(1)                91.16,
+                          91.17
+174.100(2)                91.17
+174.100(3)                91.18
+174.100(4)                91.19
+174.100(5)                91.19
+186.560                   71.25
+186A.145                  72.22
+186A.190                  72.22
+189.010(19)               70.01
+189.020                   71.27
+189.290                   71.25
+189.330(8)                71.02
+189.338                   70.15
+189.378                   71.35,
+                          71.99
+189.378(1)                70.01
+189.394                   71.29
+189.450(5)                72.03
+189.450(6)                72.03
+189.580                   71.15
+189.700                   117.01
+189.910                   71.35
+189.920                   71.35
+189.920(3)                71.05
+189.930                   71.26
+189.990(1)                72.99
+189.993(8)                71.99(B)
+190.010(8) (repealed)     92.31
+190.010(20)               92.31
+190.010(36)               92.31
+Ch. 198B                  150.02
+198B.060(1)               150.01
+198B.070                  150.02
+198B.990(1)               150.99 (A)(1)
+226.010                   112.01
+226.020                   112.02
+226.030                   112.07
+226.040                   112.03(A)
+226.050                   112.04
+226.060                   112.08
+226.080                   112.05
+226.090                   112.06
+226.100                   112.08
+226.990(1)                112.99
+227.550                   92.31
+227.700 - 227.750         93.01
+227.700                   93.01
+                          93.01,
+227.702                   93.02,
+                          93.06
+227.704                   93.01
+227.706                   93.01
+227.708                   93.01
+227.710                   93.02
+227.715                   93.02
+227.720                   93.03
+227.730                   93.04
+227.740                   93.04
+227.750                   93.05
+227.990(1)                150.99(A)(2)
+227.990(4)                93.99(A)
+Chs. 241 - 244            113.31
+241.010                   113.30
+241.100                   31.38
+241.160                   113.60
+Ch. 243                   110.22
+243.020 - 243.670         113.99
+243.020(1)                113.99
+243.020(3)                113.99
+243.033                   113.32
+243.034                   113.32
+243.035                   113.32
+243.036                   113.32
+243.039                   113.32
+243.042                   113.32
+243.050                   113.32,
+                          113.99
+243.070                   113.10,
+                          113.32
+243.082                   113.32,
+                          113.99
+243.084                   113.32
+243.086                   113.32
+243.088                   113.32
+243.089                   113.32
+243.120                   113.32
+243.130                   113.32
+243.150                   113.32
+243.157                   113.32
+243.160                   113.32
+243.170                   113.32
+243.180                   113.32
+243.240                   113.32
+243.250                   113.32
+243.260                   113.32
+243.280                   113.32,
+                          113.38
+243.390                   113.34
+243.440                   113.33
+243.450                   113.36
+243.480                   113.62
+243.480 - 243.590         113.62
+243.500                   113.62
+243.502(1)                113.99
+243.620                   113.99
+243.710 - 243.720         113.99
+243.710 - 243.850         113.99
+243.720                   113.99
+243.730                   113.99
+243.897                   113.99
+244.080                   113.45
+244.083                   113.43
+244.085                   113.45
+244.290                   113.32,
+                          113.40
+244.480                   113.40
+Ch. 272                   10.02
+Ch. 281                   72.21
+281.010                   92.31
+281.655                   117.24
+281.920 - 281.936         72.22
+281.926                   72.22
+281.928                   72.22
+281.928(1)                72.22
+281.932                   72.22
+318.990                   150.99(A)(3)
+Ch. 337                   39.11
+344.230                   37.21
+344.330                   37.21
+344.340                   37.22
+Ch. 350                   153.05
+359.230                   72.22
+376.275(2)                72.22
+Ch. 386                   10.02
+Ch. 386A                  10.02
+Ch. 404                   117.24
+                          32.43(A),
+                          33.04,
+Ch. 424                   33.15,
+                          35.03,
+                          37.03,
+                          37.09
+424.190(2)                33.04
+436.600                   90.04,
+                          90.99(C)
+446.010(1)                10.02
+446.010(2)                10.02
+446.010(6)                10.02
+446.010(8)                10.02
+446.010(9)                10.02
+446.010(10)               10.02
+446.010(11)               10.02
+446.010(13)               10.02
+446.010(14)               10.02
+446.010(15)               10.02
+446.010(16)               10.02
+446.010(18)               10.02
+446.010(19)               10.02
+446.010(24)               10.02
+446.010(26)               10.02
+446.010(27)               10.02
+446.010(28)               10.02
+446.010(30)               10.02
+446.010(31)               10.02
+446.010(33)               10.02
+446.010(36)               10.02
+446.010(37)               10.02
+446.010(39)               10.02
+446.010(43)               10.02
+446.010(46)               10.02
+446.010(47)               10.02
+446.010(49)               10.02
+446.010(55)               10.02
+446.010(56)               10.02
+446.020(1)                10.03(A)
+446.020(2)                10.03(B)
+446.030                   10.04
+446.050                   10.05
+446.060                   10.06
+446.080(1)                10.03(C)
+446.080(3)                10.03(D)
+446.080(4)                10.03(E)
+446.090                   10.07
+446.100                   10.08
+446.110                   10.09
+446.140 - 527.020         130.17
+532.090(1)                10.02
+534.040(2)(a)             10.02
+630.030                   130.01
+                          
  
 REFERENCES TO ORDINANCES
- 
 Ord. No. Date Passed Description
 Ord. No. Date Passed Description
 74-2     6-17-74     Repealed
@@ -19679,1104 +19748,1034 @@ Ord. No. Date Passed Description
 92-17    6-25-92     T.S.O. I
  
 Ord. No. Date Passed Description Code Section
-Ord.  Date   Description                         Code Section
+Ord.  Date     Description                                           Code Section
 No.   Passed
-92-22 07-28- Rezoning certain property from R-   T.S.O. IV
-      92     1 to IL
-92-23 09-09- Rezoning certain property from B-   T.S.O. IV
-      92     1 to B-2
-92-24 10-19- Adopting the uniform state building 150.01
-      92     code
-93-01 02-15- Setting compensation of mayor and   33.02
-      93     council
-93-02 03-15- Intent to annex territory lying     T.S.O. I
-      93     near I-65
-93-03 06-02- Annexing territory near I-65        T.S.O. I
-      93
-93-04 06-02- Rezoning certain property from B-   T.S.O. IV
-      93     1 to R-3
-93-06 06-02- Authorizing participation in KLEFPF 35.04
-      93
-      08-16-                                     131.01–
-93-07 93     Prohibiting noise pollution         131.05,
-                                                 131.99
-93-08 09-20- Ad valorem taxation real property   Temporary –Not Included
-      93
-93-11 09-20- Intent to annex territory along     T.S.O. I
-      93     Blue Lick Road
-93-12 10-18- Annexation (Blue Lick Road)         T.S.O. I
-      93
-94-01 03-21- Amending annual budget              Temporary – Not Included
-      94
-94-02 05-16- Swimming pool regulations           Ch. 97
-      94
-94-03 05-16- Vehicle weight limits               71.28,
-      94                                         71.99
-94-05 05-02- Annexation                          T.S.O. I
-      94
-94-06 06-20- Annual budget                       Temporary – Not Included
-      94
-94-07 06-20- Street closing                      Not Included
-      94
-94-08 08-18- Annexation                          T.S.O. I
-      94
-94-09 07-18- Compensation of employees           39.68
-      94
-94-10 07-01- Annexation                          T.S.O. I
-      94
-94-11 08-04- Rezoning                            T.S.O. IV
-      94
-94-12 08-04- Annexation                          T.S.O. I
-      94
-94-13 08-04- Annexation                          T.S.O. I
-      94
-94-14 08-03- Annexation                          T.S.O. I
-      94
-94-15 08-04- Annexation                          T.S.O. I
-      94
-94-16 08-03- Annexation                          T.S.O. I
-      94
-94-17 08-16- Ad valorem taxes – real property  38.01
-      94
-94-18 09-19- Ad valorem taxes – personal       38.15
-      94     property
-94-19 09-19- Ad valorem taxes – public service 38.30
-      94     companies
-94-20 08-04- Annexation                          T.S.O. I
-      94
-94-21 10-26- Code of Ethics                      Ch. 40
-      94
-94-22 10-26- Annexation                          T.S.O. I
-      94
-94-23 10-26- Annexation                          Repealed
-      94
-94-24 10-26- Zoning                              150.20,
-      94                                         150.24
-94-25 10-26- Zoning regulations                  Not Included
-      94
-94-26 10-26- Zoning regulations                  Not Included
-      94
-94-27 10-26- Annexation                          T.S.O. I
-      94
-94-28 11-21- Annexation                          T.S.O. I
-      94
-94-29 11-21- Rezoning                            T.S.O. IV
-      94
-94-30 12-19- Annexation                          T.S.O. I
-      94
-94-31 01-16- Rezoning                            T.S.O. IV
-      95
-95-01 02-20- Annexation                          T.S.O. I
-      95
-95-03 04-17- Rezoning                            T.S.O. IV
-      95
-95-04 04-17- Rezoning                            T.S.O. IV
-      95
-95-05 05-15- Annexation                          T.S.O. I
-      95
-95-06 05-10- Rezoning                            T.S.O. IV
-      95
-95-07 06-19- Annexation                          T.S.O. I
-      95
-95-09 06-09- Franchise for cable television      T.S.O. III
-      95     services to TCI cablevision
-95-11 07-21- Annexation                          T.S.O. I
-      95
-95-12 10-16- Annexation                          T.S.O. I
-      95
-95-13 09-18- Rezoning                            T.S.O. IV
-      95
-95-14 09-18- Regulations of open fires           93.22,
-      95                                         93.99
-95-15 09-25- Ad valorem taxes – real property  38.01
-      95
-95-16 09-25- Ad valorem taxes – personal       38.15
-      95     property
-95-17 09-26- Ad valorem taxes – public service 38.30
-      95     companies
-95-18 11-20- Annexation                          T.S.O. I
-      95
-95-19 12-18- Annexation                          T.S.O. I
-      95
-95-20 01-15- Annexation                          T.S.O. I
-      96
-96-01 03-04- Rezoning certain property           T.S.O. IV
-      96
-96-02 03-18- Annexing unincorporated territory   T.S.O. I
-      96
-96-03 04-15- Rezoning certain property           T.S.O. IV
-      96
-96-04 - -    Held for Hamilton annexation        Not Included
-96-05 04-25- Annexing unincorporated territory   T.S.O. I
-      96
-96-06 04-25- Proposing annexation of             T.S.O. I
-      96     unincorporated territory
-96-07 04-25- Rezoning certain property           T.S.O. IV
-      96
-96-08 05-25- Rezoning certain property           T.S.O. IV
-      96
-96-09 06-17- Rezoning certain property           T.S.O. IV
-      96
-96-10 06-17- Adopting annual budget for FY 96-97 Not Included
-      96
-      08-19- Establishing fees and requirements  113.10-
-96-11 96     for the issuance of a liquor by the 113.13
-             drink license
-96-12 08-19- Annexing unincorporated territory   T.S.O. I
-      96
-96-13 09-16- Levying real property ad valorem    38.01-
-      96     taxes for 1996                      38.07
-96-14 09-16- Levying personal property ad        38.15-
-      96     valorem taxes for 1996              38.19
-96-15 09-06- Levying ad valorem taxes on public  38.30-
-      96     service companies for 1996          38.33
-96-16 09-16- Rezoning certain property           T.S.O. IV
-      96
-96-19 12-16- Authorizing participation in the    T.S.O. II
-      96     county employees' retirement system
-96-20 12-16- Prohibiting the carrying of         130.15-
-      96     concealed weapons in city buildings 130.19
-96-21 12-16- Imposing a local deposit franchise  Ch. 116
-      96     tax
-97-01 02-17- Amending zoning regulations         Not Included
-      97
-97-02 - -    Annexing unincorporated territory   T.S.O. I
-97-03 03-17- Amending ordinance 85-8, Civil      37.06 I
-      97     Service Ordinance
-97-04 03-17- Amending ordinance 90-19, Personnel 39.04(A) (1)
-      97     Policies
-97-05 05-19- Proposing annexation of             T.S.O. I
-      97     unincorporated territory
-97-06 05-19- Rezoning certain property           T.S.O. IV
-      97
-97-07 06-16- Establishing a penalty for illegal  Ch. 98
-      97     use of city dumpster
-97-10 06-16- Establishing rate of compensation   39.69
-      97     for city employees
-97-11 09-15- Levying real property ad valorem    38.01-
-      97     taxes for 1997                      38.07
-97-12 09-15- Levying personal property ad        38.15-
-      97     valorem taxes for 1997              38.19
-97-13 09-15- Levying ad valorem taxes on public  38.30-
-      97     service companies for 1997          38.33
-97-14 09-15- Establishing sign regulations       150.99 (C)
-      97
-97-15 09-15- Annexing unincorporated territory   T.S.O. I
-      97
-97-18 11-17- Establishing regulations for        Ch. 117
-      97     operating a taxicab within the city
-97-19 10-21- Annexing unincorporated territory   T.S.O. I
-      97
-97-20 01-19- Rezoning certain property           T.S.O. IV
-      98
-98-01 02-16- Amending zoning code                Not Included
-      98
-98-02 04-20- Rezoning certain property           T.S.O. IV
-      98
-98-04 05-18- Annexing unincorporated territory   T.S.O. I
-      98
-98-05 06-15- Adopting annual budget for FY 98-99 Not Included
-      98
-98-06 06-15- Proposing to annex unincorporated   T.S.O. I
-      98     territory
-98-07 07-20- Rezoning certain property           T.S.O. IV
-      98
-98-08 07-22- Annexing unincorporated territory   T.S.O. I
-      98
-98-10 09-21- Levying ad valorem taxes on real    38.01-
-      98     property                            38.07
-98-11 09-21- Levying ad valorem taxes on         38.15-
-      98     personal property                   38.19
-98-12 09-21- Levying ad valorem taxes on public  38.30-
-      98     service companies                   38.33
-98-13 10-19- Rezoning certain property           T.S.O. IV
-      98
-98-14 10-19- Annexing unincorporated territory   T.S.O. I
-      98
-98-15 10-19- Annexing unincorporated territory   T.S.O. I
-      98
-98-16 05-17- Amending zoning code                Not Included
-      99
-98-18 12-7-  Rezoning certain property           T.S.O. IV
-      98
-98-19 12-7-  Rezoning certain property           T.S.O. IV
-      98
-98-20 12-17- Establishing non-elected office of  31.37
-      98     City Attorney
-99-01 05-17- Rezoning certain property           T.S.O. IV
-      99
-99-02 05-17- Rezoning certain property           T.S.O. IV
-      99
-99-05 06-21- Amending annual budget FY 98-99     Not Included
-      99
-99-06 06-21- Adopting annual budget FY 99-00     Not Included
-      99
-99-07 07-19- Establishing environmental nuisance Repealed
-      99     regulations
-      07-26- Repealing provisions of Ord. 98-20
-99-08 99     regarding the non-elected office of 31.37
-             City Attorney
-99-09 09-20- Amending annual budget FY 99-00     Not Included
-      99
-99-10 08-31- Rezoning certain property           T.S.O. IV
-      99
-                                                 39.04,
-                                                 39.08,
-                                                 39.10,
-                                                 39.11,
-                                                 39.15,
-                                                 39.16,
-                                                 39.19,
-                                                 39.23-
-                                                 39.26,
-99-11 09-21- Amending personnel policies         39.29,
-      99                                         39.30,
-                                                 39.32,
-                                                 39.33,
-                                                 39.37,
-                                                 39.40,
-                                                 39.45,
-                                                 39.60-
-                                                 39.66,
-                                                 39.68,
-                                                 39.69
-99-12 09-21- Levying ad valorem taxes on real    38.01-
-      99     property                            38.07
-99-13 09-21- Levying ad valorem taxes on         38.15-
-      99     personal property                   38.19
-99-14 09-21- Levying ad valorem taxes on public  38.30-
-      99     service companies                   38.33
-99-16 11-17- Rezoning certain property           T.S.O. IV
-      99
-99-17 01-12- Annexing certain property           T.S.O. I
-      00
-00-01 04-17- Rezoning certain property           T.S.O. IV
-      00
-00-02 03-20- Annexing certain property           T.S.O. I
-      00
-00-03 04-17- Proposing annexation of certain     T.S.O. I
-      00     property
-00-04 05-15- Annexing certain property           T.S.O. I
-      00
-00-05 05-15- Annexing certain property           T.S.O. I
-      00
-2000- 06-19- Amending annual budget              Not Included
-06    00
-2000- 06-19- Adopting annual budget              Not Included
-07    00
-00-08 08-21- Adopting 2000 S-6 Supplement        Adopting Ordinance
-      00
-2000- 09-12- Ad valorem taxes - real property    38.01 -
-09    00                                         38.07
-2000- 09-12- Ad valorem taxes - personal         38.15 -
-10    00     property                            38.19
-2000- 09-12- Ad valorem taxes - public service   38.30 -
-11    00     companies                           38.33
-00-12 11-20- Changing date of observance of      39.22
-      00     Martin Luther King, Jr. birthday
-00-13 12-18- Rezoning certain property           T.S.O. IV
-      00
-01-01 01-15- Repealing Ord. 98-20 regarding the  31.37
-      01     non-elected office of City Attorney
-01-02 01-15- Amending Ord. 90-97 regarding       110.23
-      01     occupational license tax
-             Repealing Chapter 39 and adopting   39.01 -
-01-03 01-15- new Chapter 39 regarding the city   39.44,
-      01     personnel policy                    39.60 -
-                                                 39.69
-01-04 01-22- Authorizing issuance of general     Not Included
-      01     obligation bonds
-01-05 04-16- Rezoning certain property           T.S.O. IV
-      01
-2001- 05-21- Rezoning certain property           T.S.O. IV
-06    01
-2001- 06-18- Amending annual budget              Not Included
-07    01
-2001- 06-18- Adopting annual budget              Not Included
-08    01
-2001- 07-16- Proposing annexation of certain     T.S.O. I
-09    01     property
-2001- 09-04- Ad valorem taxes - real property    38.01 -
-10    01                                         38.07
-2001- 09-04- Ad valorem taxes - personal         38.15 -
-11    01     property                            38.19
-2001- 09-04- Ad valorem taxes - public service   38.30 -
-12    01     companies                           38.33
-2001- 10-15- Annexing certain property           T.S.O. I
-13    01
-2001- 11-19- Annexing certain property           T.S.O. I
-14    01
-2001- 12-17- Annexing certain property           T.S.O. I
-15    01
-2002- 04-15- Renaming street                     T.S.O. V
-02    02
-2002- 06-17- Amending annual budget              Not Included
-03    02
-2002- 06-17- Adopting annual budget              Not Included
-04    02
-2002- 07-15- Amending zoning code                Not Included
-05    02
-2002- 09-23- Ad valorem taxes - real property    38.01 -
-06    02                                         38.07
-2002- 09-23- Ad valorem taxes - personal         38.15 -
-07    02     property                            38.19
-2002- 09-23- Ad valorem taxes - public service   38.30 -
-08    02     companies                           38.33
-2003- 02-17- Proposing annexation of certain     T.S.O. I
-01    03     property
-2003- 02-17- Annexing certain property           T.S.O. I
-02    03
-2003- 05-01- Establishing new sewer connection   Not Included
-03    03     charges
-2003- 05-01- Establishing wastewater user        Not Included
-04    03     charges
-2003- 05-01- Annexing certain property           T.S.O. I
-05    03
-2003- 05-01- Amending Ord. 2003-02 regarding     T.S.O. I
-06    03     annexing certain property
-2003- 05-01- Annexing certain property           T.S.O. I
-07    03
-                                                 50.001 -
-                                                 50.003,
-                                                 50.015 -
-                                                 50.019,
-                                                 50.030,
-                                                 50.031,
-                                                 50.045 -
-                                                 50.048,
-2003- 06-21-                                     50.060 -
-08    04     Adopting Chapter 50, Sewers         50.067,
-                                                 50.080 -
-                                                 50.096,
-                                                 50.110,
-                                                 50.111,
-                                                 50.120 -
-                                                 50.123,
-                                                 50.135 -
-                                                 50.139,
-                                                 50.999
-2003- 06-16- Rezoning                            T.S.O. IV
-09    03
-2003- 06-16- Repealing provisions of Ord. 95-14  93.22,
-10    03     regarding open fires                93.99
-2003- 06-16- Amending annual budget              Not Included
-11    03
-2003- 06-16- Adopting annual budget              Not Included
-12    03
-2003- 06-16- Annexing certain property           T.S.O. I
-13    03
-2003- 07-31- Proposing annexation of certain     T.S.O. I
-14    03     property
-2003- 10-20- Proposing annexation of certain     T.S.O. I
-15    03     property
-2003- 10-20- Ad valorem taxes - real property    38.01 -
-16    03                                         38.07
-2003- 09-15- Ad valorem taxes - personal         38.15 -
-17    03     property                            38.19
-2003- 09-15- Ad valorem taxes - public service   38.30 -
-18    03     companies                           38.33
-2003- 09-15- Establishing non-elected office of  31.38
-19    03     Citation Officer
-2003- 10-20- Rezoning                            T.S.O. IV
-20    03
-2003- 10-20- Rezoning                            T.S.O. IV
-21    03
-2003- 10-28- Annexing certain property           T.S.O. I
-22    03
-2003- 11-17- Creating franchise for collection   T.S.O. III
-24    03     and disposal of garbage
-2003- 11-17- Mandatory garbage pickup            52.01
-24A   03
-2003- 11-17- Adopting Chapter 118 regarding      118.01
-25    03     motor vehicle dealers
-2003- 11-18- Approving lease for three police    T.S.O. VI
-26    03     cars
-2004- 1-26-  Rezoning                            T.S.O. IV
-01    04
-2004- 1-26-  Annexing certain property           T.S.O. I
-02    04
-2004- 1-26-  Establishing additional
-03    04     requirements for collection and     T.S.O. III
-             disposal franchise
-2004- 2-16-  New employee partial fringe benefit 39.31
-04    04     start date
-2004- 5-18-  Rezoning                            T.S.O. IV
-05    04
-2004- 6-21-  Amending annual budget              Not Included
-06    04
-2004- 6-21-  Amending annual budget              Not Included
-07    04
-2004- 6-21-  Amending job classification and     39.69
-08    04     wage scale
-2004- 8-16-  Creating a Code Enforcement Board   Repealed
-09    04
-2004- 10-4-  Ad valorem taxes - real property    38.01 -
-10    04                                         38.07
-2004- 9-27-  Ad valorem taxes - personal         38.15 -
-11    04     property                            38.17,
-                                                 38.19
-2004- 9-27-  Ad valorem taxes - personal         38.15 -
-12    04     property                            38.19
-2004- 9-20-  Ad valorem taxes - public service   38.30 -
-13    04     companies                           38.33
-2004- 11-15- New penalty for nuisance violations Repealed
-14    04
-2004- 11-15- Establishing new penalty for animal Repealed
-15    04     code violations
-2004- 11-15- Establishing new penalty for        72.99
-16    04     parking violations
-2004- 11-15- Establishing storm drainage         51.0 -
-17    04     guidelines                          51.24
-2004- 12-20- Rezoning                            T.S.O. IV
-18    04
-2005- 2-21-  Fees for alcoholic beverage         110.10
-01    05     businesses
-2005- 3-21-  Annexing certain property           T.S.O. I
-02    05
-2005- 3-21-  Rezoning                            T.S.O. IV
-03    05
-2005- 4-18-  Fees for alcoholic beverage         111.10
-04    05     businesses
-2005- 5-16-  Rezoning                            T.S.O. IV
-05    05
-2005- 5-16-  Yard sale permit requirements and   115.01 -
-06    05     regulations                         115.05,
-                                                 115.99
-2005- 6-20-  Amending annual budget              Not Included
-07    05
-2005- 6-20-  Amending annual budget              Not Included
-08    05
-2005- 6-20-  Street encroachment permit          91.01 -
-09    05     requirements                        91.05
-2005- 6-20-  Construction/reconstruction minimum 91.10 -
-10    05     requirements                        91.12
-2005- 6-20-  Rezoning                            T.S.O. IV
-11    05
-2005- 7-18-  Street vending business             119.01,
-12    05     requirements                        119.02,
-                                                 119.99
-2005- 9-19-  Ad valorem taxes - real property    38.01 -
-13    05                                         38.07
-2005- 9-19-  Ad valorem taxes - personal         38.15 -
-14    05     property                            38.17,
-                                                 38.19
-2005- 9-19-  Ad valorem taxes - personal         38.15 -
-15    05     property                            38.19
-2005- 8-15-  Ad valorem taxes - public service   38.30 -
-16    05     companies                           38.33
-                                                 153.01 -
-                                                 153.13,
-2005- 11-21- Establishing flood damage           153.20 -
-17    05     prevention regulations              153.22,
-                                                 153.30 -
-                                                 153.36,
-                                                 153.40
-2005- 11-22- Rezoning                            T.S.O. IV
-18    05
-2006- 2-20-                                      131.01 -
-01    06     Prohibition against noise pollution 131.05,
-                                                 131.99
-2006- 2-20-  Providing for the continuity of     36.02
-02    06     municipal government
-2006- 2-20-  Amending annual budget              Not Included
-03    06
-2006- 2-20-  Amending annual budget              Not Included
-03    06
-2006- 6-19-  Annexing certain territory          T.S.O. I
-04    06
-2006- 6-19-  Annexing certain territory          T.S.O. I
-05    06
-2006- 6-19-  Amending annual budget              Not Included
-06    06
-2006- 6-20-  Amending annual budget              Not Included
-07    06
-2006- 7-18-  Speed limit for certain roadways    71.29
-08    06
-2006- 8-21-  Amending flood damage prevention    153.07
-09    06     regulations
-2006- 9-18-  Annexing certain property           T.S.O. I
-10    06
-2006- 9-18-  Ad valorem taxes - real property    38.01 -
-11    06                                         38.07
-2006- 9-18-  Ad valorem taxes - personal         38.15 -
-12    06     property                            38.17,
-                                                 38.19
-2006- 9-18-  Ad valorem taxes - personal         38.15 -
-13    06     property                            38.19
-2006- 9-18-  Ad valorem taxes - public services  38.30 -
-14    06     companies                           38.33
-2006- 11-20- Annexing certain property           T.S.O. I
-15    06
-2006- 11-20- Vacation leave policy               39.23
-16    06
-2006- 12-4-  Rezoning                            T.S.O. IV
-18    06
-2007- 2-19-  Rezoning                            T.S.O. IV
-01    07
-2007- 2-19-  Amending zoning regulations         Not Included
-02    07
-2007- 2-19-  Vacation leave policy               39.23
-03    07
-2007- 3-19-  Repealing Ord. 90-07 and Ord. 01-02 110.20 -
-04    07     regarding occupational license      110.32,
-             requirement                         110.99
-             Closing/abandoning a portion of
-2007- 5-21-  Willabrook Court, Brook Court, and  Not Included
-05    07     Willabrook Drive as a public way
-             maintained by the city
-2007- 7-16-  Annexing certain property           T.S.O. I
-06    07
-2007- 6-18-  Amending annual budget              Not Included
-07    07
-2007- 6-18-  Amending annual budget              Not Included
-08    07
-2007- 7-16-  Proposing annexation of property    T.S.O. I
-09    07
-2007- 8-20-  Establishing a job classification
-10    07     and wage scale for various          Not Included
-             employees of the city
-2007- 9-24-  Ad valorem taxes - real property    38.01 -
-11    07                                         38.07
-2007- 9-17-  Ad valorem taxes - personal         38.15 -
-12    07     property                            38.17,
-                                                 38.19
-2007- 9-17-  Ad valorem taxes - personal         38.15 -
-13    07     property                            38.19
-2007- 9-17-  Ad valorem taxes - public services  38.30 -
-14    07     companies                           38.33
-2007- 10-15- Annexing certain property           T.S.O. I
-15    07
-2007- 11-19- Annexing certain property           T.S.O. I
-16    07
-2007- 11-19- Flashing lights mounted in/on       71.05
-17    07     police vehicles
-2007- 12-17- Rezoning                            T.S.O. IV
-18    07
-2008- 2-18-  Proposing annexation of property    T.S.O. I
-01    08
-2008- 3-17-  Rezoning                            T.S.O. IV
-02    08
-2008- 2-27-  Rezoning                            T.S.O. IV
-03    08
-2008- 4-23-  Annexing certain property           T.S.O. I
-05    08
-2008- 6-16-  Amending annual budget              Not Included
-06    08
-2008- 6-16-  Amending annual budget              Not Included
-07    08
-2008- 6-16-  Annexing certain property           T.S.O. I
-08    08
-2008- 7-21-  Rezoning                            T.S.O. IV
-09    08
-2008- 9-15-  Ad valorem taxes - real property    38.01 -
-10    08                                         38.07
-2008- 9-15-  Ad valorem taxes - personal         38.15 -
-11    08     property                            38.17,
-                                                 38.19
-2008- 9-15-  Ad valorem taxes - personal         38.15 -
-12    08     property                            38.19
-2008- 9-15-  Ad valorem taxes - public service   38.30 -
-13    08     companies                           38.33
-2008- 10-20- Annexing certain property           T.S.O. I
-14    08
-2008- 12-15- Speed limit for dead end streets    71.29
-15    08
-2009- 2-16-  Annexing certain property           T.S.O. I
-01    09
-2009- 2-15-  Repealing Ord. 00-12 changing date
-02    09     of Martin Luther King, Jr. birthday 39.22
-             holiday
-2009- 3-16-  Rezoning                            T.S.O. IV
-03    09
-2009- 5-18-  Annexing certain property           T.S.O. I
-04    09
-2009- 6-15-  Probationary period for police      39.04
-05    09     officers
-2009- 6-15-  Amending annual budget              Not Included
-06    09
-2009- 6-15-  Adopting annual budget              Not Included
-07    09
-2009- 7-20-  Alcoholic Beverage Control          Repealed
-08    09     Administrator position established
-2009- 9-8-09 Ad valorem taxes - real property    38.01 -
-09                                               38.07
-2009- 9-8-09 Ad valorem taxes - personal         38.15 - 37.17,
-10           property                            38.19
-2009- 9-8-09 Ad valorem taxes - personal         38.15 -
-11           property                            38.19
-2009- 9-8-09 Ad valorem taxes - public service   38.30 -
-12           companies                           38.33
-2009- 9-21-  Annexing certain property           T.S.O. I
-13    09
-2009- 12-21-                                     111.01 -
-14    09     Guidelines for solicitors           111.09,
-                                                 111.99
-2009- 1-18-  Regulations regarding alcoholic     Repealed
-15    10     beverages
-2010- 4-19-  Rezoning                            T.S.O. IV
-01    10
-2010- 4-19-  Annexing certain property           T.S.O. I
-02    10
-2010- 3-29-  Wastewater user charges             Not Included
-03    10
-2003- 4-19-  Mandatory pick up of garbage        52.01
-24A   10
-2010- 5-11-  Approving a lease                   T.S.O. VI
-04    10
-2010- 5-11-  Approving a lease                   T.S.O. VI
-05    10
-2010- 6-21-  Amending annual budget for FY 2009  Not Included
-06    10     - 2010
-2010- 6-21-  Adopting annual budget for the FY   Not Included
-07    10     2010 - 2011
-2010- 6-28-  Authorizing the issuance of bonds   Not Included
-08    10
-2010- 6-28-  Fixing the time and place of City   32.21
-09    10     Council meetings
-2010- 6-28-  Limiting the application of civil   Not Included (Editor’s Note Ch.
-10    10     service                             37)
-2010- 8-16-  Annexing certain property           T.S.O. I
-11    10
-2010- 9-20-  Ad valorem taxes - real property    38.01 -
-12    10                                         38.07
-2010- 9-20-  Ad valorem taxes - personal         38.15 -
-13    10     property                            38.17,
-                                                 38.19
-2010- 9-20-  Ad valorem taxes on motor vehicles  38.18
-14    10
-2010- 9-20-  Ad valorem taxes - public service   38.30 -
-15    10     companies                           38.33
-2010- 10-18-                                     115.01 -
-16    10     Amending yard sale regulations      115.05,
-                                                 115.99
-2010- 9-20-  Annexing certain property           T.S.O. I
-17    10
-2010- 9-20-  Adopting a modern and accurate
-18    10     legal description of previously     T.S.O. I
-             annexed ordinances
-2010- 10-18- Rezoning certain property           T.S.O. IV
-19    10
-2010- 10-18- Rezoning certain property           T.S.O. IV
-20    10
-2011- 6-20-  Amending annual budget for FY 2010  Not Included
-01    11     - 2011
-2011- 6-20-  Adopting annual budget for the FY   Not Included
-02    11     2011 - 2012
-2011- 7-18-  Annexing certain property           T.S.O. I
-03    11
-2011- 7-18-  Annexing certain property           T.S.O. I
-04    11
-2011- 9-19-  Ad valorem taxes - real property    38.01 -
-05    11                                         38.07
-2011- 9-19-  Ad valorem taxes - personal         38.15 -
-06    11     property                            38.17,
-                                                 38.19
-2011- 9-19-  Ad valorem taxes - personal         38.15 -
-07    11     property and motor vehicles         38.19
-2011- 9-19-  Ad valorem taxes - public service   38.30 -
-08    11     companies                           38.33
-2011- 10-17- Rezoning certain property           T.S.O. IV
-09    11
-2011- 10-17- Adopting the 2011 S-11 Supplement   Front
-10    11     to the Code of Ordinances
-2011- 11-21- Annexing certain property           T.S.O. I
-11    11
-2011- 11-21- Annexing certain property           T.S.O. I
-12    11
-2011- 11-21- Annexing certain property           T.S.O. I
-13    11
-2012- 2-20-  Amending license fee schedule       110.10
-01    12
-2012- 6-18-  Amending annual budget for FY 2011  Not Included
-02    12     - 2012
-2012- 6-18-  Adopting annual budget for FY 2012  Not Included
-03    12     - 2013
-2012- 6-18-  Annexing certain property           T.S.O. I
-04    12
-2012- 8-20-  Rezoning                            T.S.O. IV
-06    12
-2012- 9-17-  Ad valorem taxes - real property    38.01 -
-07    12                                         38.07
-2012- 9-17-  Ad valorem taxes - personal         38.15 -
-08    12     property                            38.17,
-                                                 38.19
-2012- 9-17-  Ad valorem taxes - personal         38.15 -
-09    12     property and motor vehicles         38.19
-2012- 9-17-  Ad valorem taxes - public service   38.30 -
-10    12     companies                           38.33
-2012- 10-15- Annexing certain property           T.S.O. I
-11    12
-2012- 10-15- Annexing certain property           T.S.O. I
-12    12
-2012- 12-17- Rezoning                            T.S.O. IV
-14    12
-2012- 12-17- Election procedure for city         31.20
-15    12     officials
-2012- 1-21-  Curfew for minors                   130.01
-16    12
-2013- 3-18-  Proposing an annexation             Not Included
-01    13
-2013- 3-18-  Proposing an annexation             Not Included
-02    13
-2013- 4-15-  Zoning regulations                  Not Included
-03    13
-2013- 6-17-  Amending annual budget for FY 2012  Not Included
-04    13     - 2013
-2013- 6-17-  Adopting annual budget for FY 2013  Not Included
-05    13     - 2014
-2013- 7-15-  Annexing certain property           T.S.O. I
-06    13
-2013- 7-15-  Annexing certain property           T.S.O. I
-07    13
-                                                 113.30 -
-2013- 8-19-                                      113.46,
-08    13     Alcoholic beverages regulations     113.60 -
-                                                 113.62,
-                                                 113.99
-2013- 8-19-  Amending license fee schedule
-09    13     regarding insurance premiums        110.10
-             surcharge
-2013- 9-16-  Ad valorem taxes - real property    38.01 -
-10    13                                         38.07
-2013- 9-16-  Ad valorem taxes - personal         38.15 -
-11    13     property                            38.17,
-                                                 38.19
-2013- 9-16-  Ad valorem taxes - personal         38.15 -
-12    13     property and motor vehicles         38.19
-2013- 9-16-  Ad valorem taxes - public service   38.30 -
-13    13     companies                           38.33
-2014- 2-17-  Joint Erosion Prevention and        154.01
-01    14     Sediment Control Ordinance
-2014- 2-17-  Joint Post-Construction Stormwater  155.01
-02    14     Runoff Ordinance
-2014- 3-17-  Adopting 2013 S-13 Supplement       Adopting Ordinance
-03    14
-2014- 4-21-  Setting compensation for mayor      31.02
-04    14
-2014- 4-21-  Setting compensation for council    31.02
-05    14
-2014- 6-16-  Amending annual budget for FY 2013  Not Included
-06    14     - 2014
-2014- 6-16-  Adopting annual budget for FY 2014  Not Included
-07    14     - 2015
-2014- 8-25-  Ad valorem taxes - real property    38.01 -
-08    14                                         38.07
-2014- 8-25-  Ad valorem taxes - tangible         38.15 -
-09    14     personal property                   38.16,
-                                                 38.19
-2014- 8-25-  Ad valorem taxes - personal         38.15 -
-10    14     property and motor vehicles         38.19
-2014- 8-25-  Ad valorem taxes - public service   38.30 -
-11    14     companies                           38.33
-2014- 9-15-                                      113.31,
-12    14     Alcoholic beverages regulations     113.40 -
-                                                 113.42
-2015- 3-16-  Limited use of firearms; hunting on 130.03,
-01    15     city property prohibited            130.05,
-                                                 130.99
-2015- 6-15-  Amending annual budget for FY 2014  Not Included
-02    15     - 2015
-2015- 6-15-  Adopting annual budget for FY 2015  Not Included
-03    15     - 2016
-2015- 7-20-  Zoning change                       TSO IV
-04    15
-2015- 7-20-  Releasing a drainage easement       Not Included
-05    15
-2015- 9-28-  Ad valorem taxes - real property    38.01 -
-07    15                                         38.07
-2015- 9-21-  Ad valorem taxes - tangible         38.15 -
-08    15     personal property                   38.17,
-                                                 38.19
-2015- 9-21-  Ad valorem taxes - personal         38.15 -
-09    15     property and motor vehicles         38.19
-2015- 9-21-  Ad valorem taxes - public service   38.30 -
-10    15     companies                           38.33
-2015- 12-21- Monthly public caucus meeting       36.03
-11    15
-2016- 2-15-  Permit for Fencing, Driveways       150.25
-01    16
-2016- 2-15-  Rezoning                            TSO IV
-02    16
-2016- 3-21-  Monthly business meetings           32.21
-03    16
-2016- 4-18-  Temporary fireworks sales           93.06
-04    16
-2016- 3-21-  License fee on insurance companies  120.01-
-05    16                                         120.06
-2016- 3-21-  Rezoning                            TSO IV
-06    16
-2016- 4-1-16 Flood damage prevention             153.07
+92-22 07-28-92 Rezoning certain property from R-1 to IL              T.S.O. IV
+92-23 09-09-92 Rezoning certain property from B-1 to B-2             T.S.O. IV
+92-24 10-19-92 Adopting the uniform state building code              150.01
+93-01 02-15-93 Setting compensation of mayor and council             33.02
+93-02 03-15-93 Intent to annex territory lying near I-65             T.S.O. I
+93-03 06-02-93 Annexing territory near I-65                          T.S.O. I
+93-04 06-02-93 Rezoning certain property from B-1 to R-3             T.S.O. IV
+93-06 06-02-93 Authorizing participation in KLEFPF                   35.04
+                                                                     131.01–
+93-07 08-16-93 Prohibiting noise pollution                           131.05,
+                                                                     131.99
+93-08 09-20-93 Ad valorem taxation real property                     Temporary –Not Included
+93-11 09-20-93 Intent to annex territory along Blue Lick Road        T.S.O. I
+93-12 10-18-93 Annexation (Blue Lick Road)                           T.S.O. I
+94-01 03-21-94 Amending annual budget                                Temporary – Not Included
+94-02 05-16-94 Swimming pool regulations                             Ch. 97
+94-03 05-16-94 Vehicle weight limits                                 71.28,
+                                                                     71.99
+94-05 05-02-94 Annexation                                            T.S.O. I
+94-06 06-20-94 Annual budget                                         Temporary – Not Included
+94-07 06-20-94 Street closing                                        Not Included
+94-08 08-18-94 Annexation                                            T.S.O. I
+94-09 07-18-94 Compensation of employees                             39.68
+94-10 07-01-94 Annexation                                            T.S.O. I
+94-11 08-04-94 Rezoning                                              T.S.O. IV
+94-12 08-04-94 Annexation                                            T.S.O. I
+94-13 08-04-94 Annexation                                            T.S.O. I
+94-14 08-03-94 Annexation                                            T.S.O. I
+94-15 08-04-94 Annexation                                            T.S.O. I
+94-16 08-03-94 Annexation                                            T.S.O. I
+94-17 08-16-94 Ad valorem taxes – real property                    38.01
+94-18 09-19-94 Ad valorem taxes – personal property                38.15
+94-19 09-19-94 Ad valorem taxes – public service companies         38.30
+94-20 08-04-94 Annexation                                            T.S.O. I
+94-21 10-26-94 Code of Ethics                                        Ch. 40
+94-22 10-26-94 Annexation                                            T.S.O. I
+94-23 10-26-94 Annexation                                            Repealed
+94-24 10-26-94 Zoning                                                150.20,
+                                                                     150.24
+94-25 10-26-94 Zoning regulations                                    Not Included
+94-26 10-26-94 Zoning regulations                                    Not Included
+94-27 10-26-94 Annexation                                            T.S.O. I
+94-28 11-21-94 Annexation                                            T.S.O. I
+94-29 11-21-94 Rezoning                                              T.S.O. IV
+94-30 12-19-94 Annexation                                            T.S.O. I
+94-31 01-16-95 Rezoning                                              T.S.O. IV
+95-01 02-20-95 Annexation                                            T.S.O. I
+95-03 04-17-95 Rezoning                                              T.S.O. IV
+95-04 04-17-95 Rezoning                                              T.S.O. IV
+95-05 05-15-95 Annexation                                            T.S.O. I
+95-06 05-10-95 Rezoning                                              T.S.O. IV
+95-07 06-19-95 Annexation                                            T.S.O. I
+95-09 06-09-95 Franchise for cable television services to TCI        T.S.O. III
+               cablevision
+95-11 07-21-95 Annexation                                            T.S.O. I
+95-12 10-16-95 Annexation                                            T.S.O. I
+95-13 09-18-95 Rezoning                                              T.S.O. IV
+95-14 09-18-95 Regulations of open fires                             93.22,
+                                                                     93.99
+95-15 09-25-95 Ad valorem taxes – real property                    38.01
+95-16 09-25-95 Ad valorem taxes – personal property                38.15
+95-17 09-26-95 Ad valorem taxes – public service companies         38.30
+95-18 11-20-95 Annexation                                            T.S.O. I
+95-19 12-18-95 Annexation                                            T.S.O. I
+95-20 01-15-96 Annexation                                            T.S.O. I
+96-01 03-04-96 Rezoning certain property                             T.S.O. IV
+96-02 03-18-96 Annexing unincorporated territory                     T.S.O. I
+96-03 04-15-96 Rezoning certain property                             T.S.O. IV
+96-04 - -      Held for Hamilton annexation                          Not Included
+96-05 04-25-96 Annexing unincorporated territory                     T.S.O. I
+96-06 04-25-96 Proposing annexation of unincorporated territory      T.S.O. I
+96-07 04-25-96 Rezoning certain property                             T.S.O. IV
+96-08 05-25-96 Rezoning certain property                             T.S.O. IV
+96-09 06-17-96 Rezoning certain property                             T.S.O. IV
+96-10 06-17-96 Adopting annual budget for FY 96-97                   Not Included
+96-11 08-19-96 Establishing fees and requirements for the issuance   113.10-
+               of a liquor by the drink license                      113.13
+96-12 08-19-96 Annexing unincorporated territory                     T.S.O. I
+96-13 09-16-96 Levying real property ad valorem taxes for 1996       38.01-
+                                                                     38.07
+96-14 09-16-96 Levying personal property ad valorem taxes for 1996   38.15-
+                                                                     38.19
+96-15 09-06-96 Levying ad valorem taxes on public service companies  38.30-
+               for 1996                                              38.33
+96-16 09-16-96 Rezoning certain property                             T.S.O. IV
+96-19 12-16-96 Authorizing participation in the county employees'    T.S.O. II
+               retirement system
+96-20 12-16-96 Prohibiting the carrying of concealed weapons in city 130.15-
+               buildings                                             130.19
+96-21 12-16-96 Imposing a local deposit franchise tax                Ch. 116
+97-01 02-17-97 Amending zoning regulations                           Not Included
+97-02 - -      Annexing unincorporated territory                     T.S.O. I
+97-03 03-17-97 Amending ordinance 85-8, Civil Service Ordinance      37.06 I
+97-04 03-17-97 Amending ordinance 90-19, Personnel Policies          39.04(A) (1)
+97-05 05-19-97 Proposing annexation of unincorporated territory      T.S.O. I
+97-06 05-19-97 Rezoning certain property                             T.S.O. IV
+97-07 06-16-97 Establishing a penalty for illegal use of city        Ch. 98
+               dumpster
+97-10 06-16-97 Establishing rate of compensation for city employees  39.69
+97-11 09-15-97 Levying real property ad valorem taxes for 1997       38.01-
+                                                                     38.07
+97-12 09-15-97 Levying personal property ad valorem taxes for 1997   38.15-
+                                                                     38.19
+97-13 09-15-97 Levying ad valorem taxes on public service companies  38.30-
+               for 1997                                              38.33
+97-14 09-15-97 Establishing sign regulations                         150.99 (C)
+97-15 09-15-97 Annexing unincorporated territory                     T.S.O. I
+97-18 11-17-97 Establishing regulations for operating a taxicab      Ch. 117
+               within the city
+97-19 10-21-97 Annexing unincorporated territory                     T.S.O. I
+97-20 01-19-98 Rezoning certain property                             T.S.O. IV
+98-01 02-16-98 Amending zoning code                                  Not Included
+98-02 04-20-98 Rezoning certain property                             T.S.O. IV
+98-04 05-18-98 Annexing unincorporated territory                     T.S.O. I
+98-05 06-15-98 Adopting annual budget for FY 98-99                   Not Included
+98-06 06-15-98 Proposing to annex unincorporated territory           T.S.O. I
+98-07 07-20-98 Rezoning certain property                             T.S.O. IV
+98-08 07-22-98 Annexing unincorporated territory                     T.S.O. I
+98-10 09-21-98 Levying ad valorem taxes on real property             38.01-
+                                                                     38.07
+98-11 09-21-98 Levying ad valorem taxes on personal property         38.15-
+                                                                     38.19
+98-12 09-21-98 Levying ad valorem taxes on public service companies  38.30-
+                                                                     38.33
+98-13 10-19-98 Rezoning certain property                             T.S.O. IV
+98-14 10-19-98 Annexing unincorporated territory                     T.S.O. I
+98-15 10-19-98 Annexing unincorporated territory                     T.S.O. I
+98-16 05-17-99 Amending zoning code                                  Not Included
+98-18 12-7-98  Rezoning certain property                             T.S.O. IV
+98-19 12-7-98  Rezoning certain property                             T.S.O. IV
+98-20 12-17-98 Establishing non-elected office of City Attorney      31.37
+99-01 05-17-99 Rezoning certain property                             T.S.O. IV
+99-02 05-17-99 Rezoning certain property                             T.S.O. IV
+99-05 06-21-99 Amending annual budget FY 98-99                       Not Included
+99-06 06-21-99 Adopting annual budget FY 99-00                       Not Included
+99-07 07-19-99 Establishing environmental nuisance regulations       Repealed
+99-08 07-26-99 Repealing provisions of Ord. 98-20 regarding the non- 31.37
+               elected office of City Attorney
+99-09 09-20-99 Amending annual budget FY 99-00                       Not Included
+99-10 08-31-99 Rezoning certain property                             T.S.O. IV
+                                                                     39.04,
+                                                                     39.08,
+                                                                     39.10,
+                                                                     39.11,
+                                                                     39.15,
+                                                                     39.16,
+                                                                     39.19,
+                                                                     39.23-
+                                                                     39.26,
+99-11 09-21-99 Amending personnel policies                           39.29,
+                                                                     39.30,
+                                                                     39.32,
+                                                                     39.33,
+                                                                     39.37,
+                                                                     39.40,
+                                                                     39.45,
+                                                                     39.60-
+                                                                     39.66,
+                                                                     39.68,
+                                                                     39.69
+99-12 09-21-99 Levying ad valorem taxes on real property             38.01-
+                                                                     38.07
+99-13 09-21-99 Levying ad valorem taxes on personal property         38.15-
+                                                                     38.19
+99-14 09-21-99 Levying ad valorem taxes on public service companies  38.30-
+                                                                     38.33
+99-16 11-17-99 Rezoning certain property                             T.S.O. IV
+99-17 01-12-00 Annexing certain property                             T.S.O. I
+00-01 04-17-00 Rezoning certain property                             T.S.O. IV
+00-02 03-20-00 Annexing certain property                             T.S.O. I
+00-03 04-17-00 Proposing annexation of certain property              T.S.O. I
+00-04 05-15-00 Annexing certain property                             T.S.O. I
+00-05 05-15-00 Annexing certain property                             T.S.O. I
+2000- 06-19-00 Amending annual budget                                Not Included
+06
+2000- 06-19-00 Adopting annual budget                                Not Included
 07
-2016- 4-4-16 Planning and zoning schedule of     Not Included
-08           fees
-2016-                                            90.01-
-09    4-4-16 Animal control                      90.08,
-                                                 90.99
-16-10 4-18-  Bonds                               Not Included
-      16
-2016- 5-2-16 Occupational license tax            110.22
-11
-2016- 5-2-16 Annexation                          TSO I
-12
-2016- 6-20-  Budget                              Not Included
-13    16
-2016- 6-20-  Budget                              Not Included
-14    16
-2016- 7-18-  Rezoning                            TSO IV
-15    16
-2016- 8-15-  Annexation                          TSO I
-16    16
-2016- 8-1-16 Code Enforcement Board              Repealed
-17
-16-17 8-1-16 Summary of 2016-17                  Not Included
-2016- 8-15-  Nuisances                           Repealed
-18    16
-2016- 8-15-                                      131.02,
-19    16     Noise pollution                     131.05,
-                                                 131.99
-2016- 10-17- Annexation                          TSO I
-21    16
-2016- 9-21-  Ad valorem taxes- real property     38.01-
-22    16                                         38.07
-2016- 9-21-  Ad valorem taxes- personal property 38.15-
-23    16                                         38.17
-2016- 9-21-  Ad valorem taxes- motor vehicles    38.15-
-24    16                                         38.19
-2016- 9-21-  Ad valorem taxes- public service    38.30-
-25    16     companies                           38.33
-2016- 10-17- Annexation                          TSO I
-26    16
-2016- 11-7-  Prohibiting operation of businesses 110.50,
-27    16     in residential zones                110.51,
-                                                 110.99
-2016- 1-16-  Annexation                          TSO I
-28    17
-2016- 1-4-17 Rezoning                            TSO IV
-29
-2017- 2-6-17 Annexation                          TSO I
-01
-2017- 2-6-17 Annexation                          TSO I
-02
-2017- 3-6-17 Annexation                          TSO I
-03
-2017- 3-20-  Zoning map change                   TSO IV
-04    17
-2017- 5-15-  Annexation                          TSO I
-05    17
-2017- 5-15-  Annexation                          TSO I
-06    17
-2017- 6-5-17 Annexation                          TSO I
+00-08 08-21-00 Adopting 2000 S-6 Supplement                          Adopting Ordinance
+2000- 09-12-00 Ad valorem taxes - real property                      38.01 -
+09                                                                   38.07
+2000- 09-12-00 Ad valorem taxes - personal property                  38.15 -
+10                                                                   38.19
+2000- 09-12-00 Ad valorem taxes - public service companies           38.30 -
+11                                                                   38.33
+00-12 11-20-00 Changing date of observance of Martin Luther King,    39.22
+               Jr. birthday
+00-13 12-18-00 Rezoning certain property                             T.S.O. IV
+01-01 01-15-01 Repealing Ord. 98-20 regarding the non-elected office 31.37
+               of City Attorney
+01-02 01-15-01 Amending Ord. 90-97 regarding occupational license    110.23
+               tax
+                                                                     39.01 -
+01-03 01-15-01 Repealing Chapter 39 and adopting new Chapter 39      39.44,
+               regarding the city personnel policy                   39.60 -
+                                                                     39.69
+01-04 01-22-01 Authorizing issuance of general obligation bonds      Not Included
+01-05 04-16-01 Rezoning certain property                             T.S.O. IV
+2001- 05-21-01 Rezoning certain property                             T.S.O. IV
+06
+2001- 06-18-01 Amending annual budget                                Not Included
 07
-2017- 6-5-17 Energy project assessment           Not included
+2001- 06-18-01 Adopting annual budget                                Not Included
 08
-2017- 6-21-  Budget                              Not included
-09    17
-2017- 6-21-  Budget                              Not included
-10    17
-2017- 7-17-  Annexation                          TSO I
-11    17
-2017- 9-18-  Ad valorem taxes                    38.01-
-13    17                                         38.07
-2017- 9-18-  Ad valorem taxes                    38.15-
-14    17                                         38.19
-2017- 9-18-  Ad valorem taxes                    38.15-
-15    17                                         38.19
-2017- 9-18-  Ad valorem taxes                    38.30-
-16    17                                         38.33
-2017- 10-16- Sale of distilled spirits           113.30,
-17    17                                         113.32
-2017- 11-6-  Sign regulations                    150.30-
-18    17                                         150.43
-2017- 10-2-  Annexation                          TSO I
-19    17
-2017- 10-16- Annexation                          TSO I
-20    17
-2018- 2-5-18 Zoning map change                   TSO IV
-01
-2018- 2-19-  Speed limit regulations             71.29
-02    18
-2018- 3-5-18 Annexation                          TSO I
-03
-2018- 3-19-  Zoning map change                   TSO IV
-04    18
-2018- 3-19-  Zoning map change                   TSO IV
-05    18
-2018- 6-18-  Budget                              Not included
-07    18
-2018- 6-18-  Budget                              Not included
-08    18
-2018-        Establishing a job classification
-09    8-6-18 and wage scale for various          Not Included
-             employees of the city
-2018- 8-20-  Nuisances                           Repealed
-10    18
-2018- 9-17-  Street construction                 71.29
-11    18
-2018- 9-17-  Ad valorem taxes - real property    38.01-
-12    18                                         38.07
-2018- 9-17-  Ad valorem taxes - personal         38.15-
-13    18     property                            38.19
-2018- 9-17-  Ad valorem taxes - personal         38.15-
-14    18     property                            38.19
-2018- 9-17-  Ad valorem taxes - public service   38.30-
-15    18     companies                           38.33
-2018- 10-15- Approving a lease                   TSO IV
-16    18
-2018- 1-7-19 Business meeting                    32.21
-17
-                                                 92.01-
-                                                 92.12,
-                                                 92.20,
-                                                 92.21,
-2019- 7-15-  Repealing Ord. 2016-18 and Ord.     92.30-
-01    19     2018-10, replacing with new Chapter 92.38,
-             92, Property Maintenance            92.50-
-                                                 92.53,
-                                                 92.65-
-                                                 92.69,
-                                                 92.80
-2019- 3-18-  Repealing and replacing Ord. 16-17, 37.50-
-02    19     Code Enforcement Board              37.65
-2019- 6-17-  Budget                              Not included
-03    19
-2019- 6-17-  Budget                              Not included
-04    19
-2019- 7-15-  Annexation                          TSO I
-06    19
-2019- 9-16-  Ad valorem taxes - real property    38.01-
-07    19                                         38.07
-2019- 9-16-  Ad valorem taxes - tangible         38.15-
-08    19     personal property                   38.17,
-                                                 38.19
-2019- 9-16-  Ad valorem taxes - personal         38.15-
-09    19     property                            38.19
-2019- 9-16-  Ad valorem taxes - public service   38.30-
-10    19     companies                           38.33
-2019- 9-16-  Rezoning                            TSO IV
-11    19
-2019- 12-16- Rezoning                            TSO IV
-12    19
-2020- 2-3-20 Encroachment application permit     91.09,
-01                                               91.99
-2020-        Providing for the parking of motor  72.13-
-02    2-3-20 vehicles and personal property      72.16,
-                                                 72.99
-2020- 3-16-                                      131.01-
-03    20     Prohibition against noise pollution 131.05,
-                                                 131.99
-2020- 6-15-  Budget                              Not included
-04    20
-2020- 6-15-  Budget                              Not included
-05    20
-2020- 6-15-  Approving a least for the financing TSO VI
-06    20     of a project
-2020- 10-5-  Ad valorem taxes - real property    38.01-
-07    20                                         38.07
-2020- 10-5-  Ad valorem taxes - tangible         38.15-
-08    20     personal property                   38.17,
-                                                 38.19
-2020- 10-5-  Ad valorem taxes - personal         38.15-
-09    20     property                            38.19
-2020- 11-6-  Ad valorem taxes - public service   38.30-
-10    20     companies                           38.33
-2020- 11-16- Annexation                          TSO I
-11    20
-2021- 3-15-  Rezoning                            TSO IV
-01    21
-2021- 5-17-  Annexation                          TSO I
-02    21
-2021- 5-17-  Alcohol licenses - hours of sale    113.40
-03    21     for golf courses
-2021- 6-21-  Rezoning                            TSO IV
-04    21
-2021- 6-21-  Budget                              Not included
-05    21
-2021- 6-21-  Budget                              Not included
-06    21
-2021- 8-16-  Annexation                          TSO I
-07    21
-2021- 8-16-  Ad valorem taxes - real property    38.01-
-08    21                                         38.07
-2021- 8-16-  Ad valorem taxes - tangible         38.15-
-09    21     personal property                   38.17,
-                                                 38.19
-2021- 8-16-  Ad valorem taxes - personal         38.15-
-10    21     property                            38.19
-2021- 8-16-  Ad valorem taxes - public service   38.30-
-11    21     companies                           38.33
-2021- 9-20-  Annexation                          TSO I
-12    21
-2021- 11-15- Annexation                          TSO I
-13    21
-2021- 1-3-22 Rezoning                            TSO IV
+2001- 07-16-01 Proposing annexation of certain property              T.S.O. I
+09
+2001- 09-04-01 Ad valorem taxes - real property                      38.01 -
+10                                                                   38.07
+2001- 09-04-01 Ad valorem taxes - personal property                  38.15 -
+11                                                                   38.19
+2001- 09-04-01 Ad valorem taxes - public service companies           38.30 -
+12                                                                   38.33
+2001- 10-15-01 Annexing certain property                             T.S.O. I
+13
+2001- 11-19-01 Annexing certain property                             T.S.O. I
 14
-             Adopting the state model
-2022- 3-7-22 procurement code for the            Repealed
-01           expenditure of American Rescue Plan
-             funds
-2022- 6-6-22 Regulation of alcoholic beverages   113.30,
-02                                               113.40
-2022- 6-20-  Budget                              Not included
-03    22
-2022- 6-20-  Budget                              Not included
-04    22
-2022- 8-15-  Keeping of poultry and livestock    90.01,
-05    22     prohibited                          90.09,
-                                                 90.99
-2022- 8-29-  Ad valorem taxes - real property    38.01-
-06    22                                         38.07
-2022- 8-29-  Ad valorem taxes - tangible         38.15-
-07    22     personal property                   38.17,
-                                                 38.19
-2022- 8-29-  Ad valorem taxes - personal         38.15-
-08    22     property                            38.19
-2022- 8-29-  Ad valorem taxes - public service   38.30-
-09    22     companies                           38.33
-2022- 10-3-  Annexation                          TSO I
-10    22
-                                                 40.01-
-                                                 40.04,
-                                                 40.15-
-2022- 10-17- Repealing and replacing Ord. 94-21, 40.34,
-11    22     Code of ethics                      40.50-
-                                                 40.55,
-                                                 40.70-
-                                                 40.82,
-                                                 40.99
-2022- 12-19- Rezoning                            TSO IV
-12    22
-2022- 12-19- Rezoning                            TSO IV
-13    22
-2022- 12-19- Rezoning                            TSO IV
-14    22
-             Repealing Ord. 2022-01 because the
-2022- 12-19- state model procurement code is no  Not included
-15    22     longer required for the expenditure
-             of American Rescue Plan funds
-2023- 7-17-  Annexation and rezoning             TSO I,
-01    23                                         IV
-2023- 6-19-  Budget                              Not included
-04    23
-2023- 6-19-  Budget                              Not included
-05    23
-2023- 8-7-23 Amending the hours for the sale of  113.40
-06           alcohol beverages at golf courses
-2023- 8-21-  Annexation                          TSO I
-07    23
-2023- 9-18-  Rezoning                            TSO IV
-08    23
-2023- 9-25-  Ad valorem taxes - real property    38.01-
-09    23                                         38.07
-2023- 9-25-  Ad valorem taxes - tangible         38.15-
-10    23     personal property                   38.17,
-                                                 38.19
-2023- 9-25-  Ad valorem taxes - personal         38.15-
-11    23     property                            38.19
-2023- 9-25-  Ad valorem taxes - public service   38.30-
-12    23     companies                           38.33
-2023- 11-20- Rezoning                            TSO IV
-13    23
-2023- 12-4-  Rezoning                            TSO IV
-14    23
-                                               
+2001- 12-17-01 Annexing certain property                             T.S.O. I
+15
+2002- 04-15-02 Renaming street                                       T.S.O. V
+02
+2002- 06-17-02 Amending annual budget                                Not Included
+03
+2002- 06-17-02 Adopting annual budget                                Not Included
+04
+2002- 07-15-02 Amending zoning code                                  Not Included
+05
+2002- 09-23-02 Ad valorem taxes - real property                      38.01 -
+06                                                                   38.07
+2002- 09-23-02 Ad valorem taxes - personal property                  38.15 -
+07                                                                   38.19
+2002- 09-23-02 Ad valorem taxes - public service companies           38.30 -
+08                                                                   38.33
+2003- 02-17-03 Proposing annexation of certain property              T.S.O. I
+01
+2003- 02-17-03 Annexing certain property                             T.S.O. I
+02
+2003- 05-01-03 Establishing new sewer connection charges             Not Included
+03
+2003- 05-01-03 Establishing wastewater user charges                  Not Included
+04
+2003- 05-01-03 Annexing certain property                             T.S.O. I
+05
+2003- 05-01-03 Amending Ord. 2003-02 regarding annexing certain      T.S.O. I
+06             property
+2003- 05-01-03 Annexing certain property                             T.S.O. I
+07
+                                                                     50.001 -
+                                                                     50.003,
+                                                                     50.015 -
+                                                                     50.019,
+                                                                     50.030,
+                                                                     50.031,
+                                                                     50.045 -
+                                                                     50.048,
+2003-                                                                50.060 -
+08    06-21-04 Adopting Chapter 50, Sewers                           50.067,
+                                                                     50.080 -
+                                                                     50.096,
+                                                                     50.110,
+                                                                     50.111,
+                                                                     50.120 -
+                                                                     50.123,
+                                                                     50.135 -
+                                                                     50.139,
+                                                                     50.999
+2003- 06-16-03 Rezoning                                              T.S.O. IV
+09
+2003- 06-16-03 Repealing provisions of Ord. 95-14 regarding open     93.22,
+10             fires                                                 93.99
+2003- 06-16-03 Amending annual budget                                Not Included
+11
+2003- 06-16-03 Adopting annual budget                                Not Included
+12
+2003- 06-16-03 Annexing certain property                             T.S.O. I
+13
+2003- 07-31-03 Proposing annexation of certain property              T.S.O. I
+14
+2003- 10-20-03 Proposing annexation of certain property              T.S.O. I
+15
+2003- 10-20-03 Ad valorem taxes - real property                      38.01 -
+16                                                                   38.07
+2003- 09-15-03 Ad valorem taxes - personal property                  38.15 -
+17                                                                   38.19
+2003- 09-15-03 Ad valorem taxes - public service companies           38.30 -
+18                                                                   38.33
+2003- 09-15-03 Establishing non-elected office of Citation Officer   31.38
+19
+2003- 10-20-03 Rezoning                                              T.S.O. IV
+20
+2003- 10-20-03 Rezoning                                              T.S.O. IV
+21
+2003- 10-28-03 Annexing certain property                             T.S.O. I
+22
+2003- 11-17-03 Creating franchise for collection and disposal of     T.S.O. III
+24             garbage
+2003- 11-17-03 Mandatory garbage pickup                              52.01
+24A
+2003- 11-17-03 Adopting Chapter 118 regarding motor vehicle dealers  118.01
+25
+2003- 11-18-03 Approving lease for three police cars                 T.S.O. VI
+26
+2004- 1-26-04  Rezoning                                              T.S.O. IV
+01
+2004- 1-26-04  Annexing certain property                             T.S.O. I
+02
+2004- 1-26-04  Establishing additional requirements for collection   T.S.O. III
+03             and disposal franchise
+2004- 2-16-04  New employee partial fringe benefit start date        39.31
+04
+2004- 5-18-04  Rezoning                                              T.S.O. IV
+05
+2004- 6-21-04  Amending annual budget                                Not Included
+06
+2004- 6-21-04  Amending annual budget                                Not Included
+07
+2004- 6-21-04  Amending job classification and wage scale            39.69
+08
+2004- 8-16-04  Creating a Code Enforcement Board                     Repealed
+09
+2004- 10-4-04  Ad valorem taxes - real property                      38.01 -
+10                                                                   38.07
+2004-                                                                38.15 -
+11    9-27-04  Ad valorem taxes - personal property                  38.17,
+                                                                     38.19
+2004- 9-27-04  Ad valorem taxes - personal property                  38.15 -
+12                                                                   38.19
+2004- 9-20-04  Ad valorem taxes - public service companies           38.30 -
+13                                                                   38.33
+2004- 11-15-04 New penalty for nuisance violations                   Repealed
+14
+2004- 11-15-04 Establishing new penalty for animal code violations   Repealed
+15
+2004- 11-15-04 Establishing new penalty for parking violations       72.99
+16
+2004- 11-15-04 Establishing storm drainage guidelines                51.0 -
+17                                                                   51.24
+2004- 12-20-04 Rezoning                                              T.S.O. IV
+18
+2005- 2-21-05  Fees for alcoholic beverage businesses                110.10
+01
+2005- 3-21-05  Annexing certain property                             T.S.O. I
+02
+2005- 3-21-05  Rezoning                                              T.S.O. IV
+03
+2005- 4-18-05  Fees for alcoholic beverage businesses                111.10
+04
+2005- 5-16-05  Rezoning                                              T.S.O. IV
+05
+2005-                                                                115.01 -
+06    5-16-05  Yard sale permit requirements and regulations         115.05,
+                                                                     115.99
+2005- 6-20-05  Amending annual budget                                Not Included
+07
+2005- 6-20-05  Amending annual budget                                Not Included
+08
+2005- 6-20-05  Street encroachment permit requirements               91.01 -
+09                                                                   91.05
+2005- 6-20-05  Construction/reconstruction minimum requirements      91.10 -
+10                                                                   91.12
+2005- 6-20-05  Rezoning                                              T.S.O. IV
+11
+2005-                                                                119.01,
+12    7-18-05  Street vending business requirements                  119.02,
+                                                                     119.99
+2005- 9-19-05  Ad valorem taxes - real property                      38.01 -
+13                                                                   38.07
+2005-                                                                38.15 -
+14    9-19-05  Ad valorem taxes - personal property                  38.17,
+                                                                     38.19
+2005- 9-19-05  Ad valorem taxes - personal property                  38.15 -
+15                                                                   38.19
+2005- 8-15-05  Ad valorem taxes - public service companies           38.30 -
+16                                                                   38.33
+                                                                     153.01 -
+                                                                     153.13,
+2005-                                                                153.20 -
+17    11-21-05 Establishing flood damage prevention regulations      153.22,
+                                                                     153.30 -
+                                                                     153.36,
+                                                                     153.40
+2005- 11-22-05 Rezoning                                              T.S.O. IV
+18
+2006-                                                                131.01 -
+01    2-20-06  Prohibition against noise pollution                   131.05,
+                                                                     131.99
+2006- 2-20-06  Providing for the continuity of municipal government  36.02
+02
+2006- 2-20-06  Amending annual budget                                Not Included
+03
+2006- 2-20-06  Amending annual budget                                Not Included
+03
+2006- 6-19-06  Annexing certain territory                            T.S.O. I
+04
+2006- 6-19-06  Annexing certain territory                            T.S.O. I
+05
+2006- 6-19-06  Amending annual budget                                Not Included
+06
+2006- 6-20-06  Amending annual budget                                Not Included
+07
+2006- 7-18-06  Speed limit for certain roadways                      71.29
+08
+2006- 8-21-06  Amending flood damage prevention regulations          153.07
+09
+2006- 9-18-06  Annexing certain property                             T.S.O. I
+10
+2006- 9-18-06  Ad valorem taxes - real property                      38.01 -
+11                                                                   38.07
+2006-                                                                38.15 -
+12    9-18-06  Ad valorem taxes - personal property                  38.17,
+                                                                     38.19
+2006- 9-18-06  Ad valorem taxes - personal property                  38.15 -
+13                                                                   38.19
+2006- 9-18-06  Ad valorem taxes - public services companies          38.30 -
+14                                                                   38.33
+2006- 11-20-06 Annexing certain property                             T.S.O. I
+15
+2006- 11-20-06 Vacation leave policy                                 39.23
+16
+2006- 12-4-06  Rezoning                                              T.S.O. IV
+18
+2007- 2-19-07  Rezoning                                              T.S.O. IV
+01
+2007- 2-19-07  Amending zoning regulations                           Not Included
+02
+2007- 2-19-07  Vacation leave policy                                 39.23
+03
+2007-          Repealing Ord. 90-07 and Ord. 01-02 regarding         110.20 -
+04    3-19-07  occupational license requirement                      110.32,
+                                                                     110.99
+2007-          Closing/abandoning a portion of Willabrook Court,
+05    5-21-07  Brook Court, and Willabrook Drive as a public way     Not Included
+               maintained by the city
+2007- 7-16-07  Annexing certain property                             T.S.O. I
+06
+2007- 6-18-07  Amending annual budget                                Not Included
+07
+2007- 6-18-07  Amending annual budget                                Not Included
+08
+2007- 7-16-07  Proposing annexation of property                      T.S.O. I
+09
+2007- 8-20-07  Establishing a job classification and wage scale for  Not Included
+10             various employees of the city
+2007- 9-24-07  Ad valorem taxes - real property                      38.01 -
+11                                                                   38.07
+2007-                                                                38.15 -
+12    9-17-07  Ad valorem taxes - personal property                  38.17,
+                                                                     38.19
+2007- 9-17-07  Ad valorem taxes - personal property                  38.15 -
+13                                                                   38.19
+2007- 9-17-07  Ad valorem taxes - public services companies          38.30 -
+14                                                                   38.33
+2007- 10-15-07 Annexing certain property                             T.S.O. I
+15
+2007- 11-19-07 Annexing certain property                             T.S.O. I
+16
+2007- 11-19-07 Flashing lights mounted in/on police vehicles         71.05
+17
+2007- 12-17-07 Rezoning                                              T.S.O. IV
+18
+2008- 2-18-08  Proposing annexation of property                      T.S.O. I
+01
+2008- 3-17-08  Rezoning                                              T.S.O. IV
+02
+2008- 2-27-08  Rezoning                                              T.S.O. IV
+03
+2008- 4-23-08  Annexing certain property                             T.S.O. I
+05
+2008- 6-16-08  Amending annual budget                                Not Included
+06
+2008- 6-16-08  Amending annual budget                                Not Included
+07
+2008- 6-16-08  Annexing certain property                             T.S.O. I
+08
+2008- 7-21-08  Rezoning                                              T.S.O. IV
+09
+2008- 9-15-08  Ad valorem taxes - real property                      38.01 -
+10                                                                   38.07
+2008-                                                                38.15 -
+11    9-15-08  Ad valorem taxes - personal property                  38.17,
+                                                                     38.19
+2008- 9-15-08  Ad valorem taxes - personal property                  38.15 -
+12                                                                   38.19
+2008- 9-15-08  Ad valorem taxes - public service companies           38.30 -
+13                                                                   38.33
+2008- 10-20-08 Annexing certain property                             T.S.O. I
+14
+2008- 12-15-08 Speed limit for dead end streets                      71.29
+15
+2009- 2-16-09  Annexing certain property                             T.S.O. I
+01
+2009- 2-15-09  Repealing Ord. 00-12 changing date of Martin Luther   39.22
+02             King, Jr. birthday holiday
+2009- 3-16-09  Rezoning                                              T.S.O. IV
+03
+2009- 5-18-09  Annexing certain property                             T.S.O. I
+04
+2009- 6-15-09  Probationary period for police officers               39.04
+05
+2009- 6-15-09  Amending annual budget                                Not Included
+06
+2009- 6-15-09  Adopting annual budget                                Not Included
+07
+2009- 7-20-09  Alcoholic Beverage Control Administrator position     Repealed
+08             established
+2009- 9-8-09   Ad valorem taxes - real property                      38.01 -
+09                                                                   38.07
+2009- 9-8-09   Ad valorem taxes - personal property                  38.15 - 37.17,
+10                                                                   38.19
+2009- 9-8-09   Ad valorem taxes - personal property                  38.15 -
+11                                                                   38.19
+2009- 9-8-09   Ad valorem taxes - public service companies           38.30 -
+12                                                                   38.33
+2009- 9-21-09  Annexing certain property                             T.S.O. I
+13
+2009-                                                                111.01 -
+14    12-21-09 Guidelines for solicitors                             111.09,
+                                                                     111.99
+2009- 1-18-10  Regulations regarding alcoholic beverages             Repealed
+15
+2010- 4-19-10  Rezoning                                              T.S.O. IV
+01
+2010- 4-19-10  Annexing certain property                             T.S.O. I
+02
+2010- 3-29-10  Wastewater user charges                               Not Included
+03
+2003- 4-19-10  Mandatory pick up of garbage                          52.01
+24A
+2010- 5-11-10  Approving a lease                                     T.S.O. VI
+04
+2010- 5-11-10  Approving a lease                                     T.S.O. VI
+05
+2010- 6-21-10  Amending annual budget for FY 2009 - 2010             Not Included
+06
+2010- 6-21-10  Adopting annual budget for the FY 2010 - 2011         Not Included
+07
+2010- 6-28-10  Authorizing the issuance of bonds                     Not Included
+08
+2010- 6-28-10  Fixing the time and place of City Council meetings    32.21
+09
+2010- 6-28-10  Limiting the application of civil service             Not Included (Editor’s Note Ch.
+10                                                                   37)
+2010- 8-16-10  Annexing certain property                             T.S.O. I
+11
+2010- 9-20-10  Ad valorem taxes - real property                      38.01 -
+12                                                                   38.07
+2010-                                                                38.15 -
+13    9-20-10  Ad valorem taxes - personal property                  38.17,
+                                                                     38.19
+2010- 9-20-10  Ad valorem taxes on motor vehicles                    38.18
+14
+2010- 9-20-10  Ad valorem taxes - public service companies           38.30 -
+15                                                                   38.33
+2010-                                                                115.01 -
+16    10-18-10 Amending yard sale regulations                        115.05,
+                                                                     115.99
+2010- 9-20-10  Annexing certain property                             T.S.O. I
+17
+2010- 9-20-10  Adopting a modern and accurate legal description of   T.S.O. I
+18             previously annexed ordinances
+2010- 10-18-10 Rezoning certain property                             T.S.O. IV
+19
+2010- 10-18-10 Rezoning certain property                             T.S.O. IV
+20
+2011- 6-20-11  Amending annual budget for FY 2010 - 2011             Not Included
+01
+2011- 6-20-11  Adopting annual budget for the FY 2011 - 2012         Not Included
+02
+2011- 7-18-11  Annexing certain property                             T.S.O. I
+03
+2011- 7-18-11  Annexing certain property                             T.S.O. I
+04
+2011- 9-19-11  Ad valorem taxes - real property                      38.01 -
+05                                                                   38.07
+2011-                                                                38.15 -
+06    9-19-11  Ad valorem taxes - personal property                  38.17,
+                                                                     38.19
+2011- 9-19-11  Ad valorem taxes - personal property and motor        38.15 -
+07             vehicles                                              38.19
+2011- 9-19-11  Ad valorem taxes - public service companies           38.30 -
+08                                                                   38.33
+2011- 10-17-11 Rezoning certain property                             T.S.O. IV
+09
+2011- 10-17-11 Adopting the 2011 S-11 Supplement to the Code of      Front
+10             Ordinances
+2011- 11-21-11 Annexing certain property                             T.S.O. I
+11
+2011- 11-21-11 Annexing certain property                             T.S.O. I
+12
+2011- 11-21-11 Annexing certain property                             T.S.O. I
+13
+2012- 2-20-12  Amending license fee schedule                         110.10
+01
+2012- 6-18-12  Amending annual budget for FY 2011 - 2012             Not Included
+02
+2012- 6-18-12  Adopting annual budget for FY 2012 - 2013             Not Included
+03
+2012- 6-18-12  Annexing certain property                             T.S.O. I
+04
+2012- 8-20-12  Rezoning                                              T.S.O. IV
+06
+2012- 9-17-12  Ad valorem taxes - real property                      38.01 -
+07                                                                   38.07
+2012-                                                                38.15 -
+08    9-17-12  Ad valorem taxes - personal property                  38.17,
+                                                                     38.19
+2012- 9-17-12  Ad valorem taxes - personal property and motor        38.15 -
+09             vehicles                                              38.19
+2012- 9-17-12  Ad valorem taxes - public service companies           38.30 -
+10                                                                   38.33
+2012- 10-15-12 Annexing certain property                             T.S.O. I
+11
+2012- 10-15-12 Annexing certain property                             T.S.O. I
+12
+2012- 12-17-12 Rezoning                                              T.S.O. IV
+14
+2012- 12-17-12 Election procedure for city officials                 31.20
+15
+2012- 1-21-12  Curfew for minors                                     130.01
+16
+2013- 3-18-13  Proposing an annexation                               Not Included
+01
+2013- 3-18-13  Proposing an annexation                               Not Included
+02
+2013- 4-15-13  Zoning regulations                                    Not Included
+03
+2013- 6-17-13  Amending annual budget for FY 2012 - 2013             Not Included
+04
+2013- 6-17-13  Adopting annual budget for FY 2013 - 2014             Not Included
+05
+2013- 7-15-13  Annexing certain property                             T.S.O. I
+06
+2013- 7-15-13  Annexing certain property                             T.S.O. I
+07
+                                                                     113.30 -
+2013-                                                                113.46,
+08    8-19-13  Alcoholic beverages regulations                       113.60 -
+                                                                     113.62,
+                                                                     113.99
+2013- 8-19-13  Amending license fee schedule regarding insurance     110.10
+09             premiums surcharge
+2013- 9-16-13  Ad valorem taxes - real property                      38.01 -
+10                                                                   38.07
+2013-                                                                38.15 -
+11    9-16-13  Ad valorem taxes - personal property                  38.17,
+                                                                     38.19
+2013- 9-16-13  Ad valorem taxes - personal property and motor        38.15 -
+12             vehicles                                              38.19
+2013- 9-16-13  Ad valorem taxes - public service companies           38.30 -
+13                                                                   38.33
+2014- 2-17-14  Joint Erosion Prevention and Sediment Control         154.01
+01             Ordinance
+2014- 2-17-14  Joint Post-Construction Stormwater Runoff Ordinance   155.01
+02
+2014- 3-17-14  Adopting 2013 S-13 Supplement                         Adopting Ordinance
+03
+2014- 4-21-14  Setting compensation for mayor                        31.02
+04
+2014- 4-21-14  Setting compensation for council                      31.02
+05
+2014- 6-16-14  Amending annual budget for FY 2013 - 2014             Not Included
+06
+2014- 6-16-14  Adopting annual budget for FY 2014 - 2015             Not Included
+07
+2014- 8-25-14  Ad valorem taxes - real property                      38.01 -
+08                                                                   38.07
+2014-                                                                38.15 -
+09    8-25-14  Ad valorem taxes - tangible personal property         38.16,
+                                                                     38.19
+2014- 8-25-14  Ad valorem taxes - personal property and motor        38.15 -
+10             vehicles                                              38.19
+2014- 8-25-14  Ad valorem taxes - public service companies           38.30 -
+11                                                                   38.33
+2014-                                                                113.31,
+12    9-15-14  Alcoholic beverages regulations                       113.40 -
+                                                                     113.42
+2015-          Limited use of firearms; hunting on city property     130.03,
+01    3-16-15  prohibited                                            130.05,
+                                                                     130.99
+2015- 6-15-15  Amending annual budget for FY 2014 - 2015             Not Included
+02
+2015- 6-15-15  Adopting annual budget for FY 2015 - 2016             Not Included
+03
+2015- 7-20-15  Zoning change                                         TSO IV
+04
+2015- 7-20-15  Releasing a drainage easement                         Not Included
+05
+2015- 9-28-15  Ad valorem taxes - real property                      38.01 -
+07                                                                   38.07
+2015-                                                                38.15 -
+08    9-21-15  Ad valorem taxes - tangible personal property         38.17,
+                                                                     38.19
+2015- 9-21-15  Ad valorem taxes - personal property and motor        38.15 -
+09             vehicles                                              38.19
+2015- 9-21-15  Ad valorem taxes - public service companies           38.30 -
+10                                                                   38.33
+2015- 12-21-15 Monthly public caucus meeting                         36.03
+11
+2016- 2-15-16  Permit for Fencing, Driveways                         150.25
+01
+2016- 2-15-16  Rezoning                                              TSO IV
+02
+2016- 3-21-16  Monthly business meetings                             32.21
+03
+2016- 4-18-16  Temporary fireworks sales                             93.06
+04
+2016- 3-21-16  License fee on insurance companies                    120.01-
+05                                                                   120.06
+2016- 3-21-16  Rezoning                                              TSO IV
+06
+2016- 4-1-16   Flood damage prevention                               153.07
+07
+2016- 4-4-16   Planning and zoning schedule of fees                  Not Included
+08
+2016-                                                                90.01-
+09    4-4-16   Animal control                                        90.08,
+                                                                     90.99
+16-10 4-18-16  Bonds                                                 Not Included
+2016- 5-2-16   Occupational license tax                              110.22
+11
+2016- 5-2-16   Annexation                                            TSO I
+12
+2016- 6-20-16  Budget                                                Not Included
+13
+2016- 6-20-16  Budget                                                Not Included
+14
+2016- 7-18-16  Rezoning                                              TSO IV
+15
+2016- 8-15-16  Annexation                                            TSO I
+16
+2016- 8-1-16   Code Enforcement Board                                Repealed
+17
+16-17 8-1-16   Summary of 2016-17                                    Not Included
+2016- 8-15-16  Nuisances                                             Repealed
+18
+2016-                                                                131.02,
+19    8-15-16  Noise pollution                                       131.05,
+                                                                     131.99
+2016- 10-17-16 Annexation                                            TSO I
+21
+2016- 9-21-16  Ad valorem taxes- real property                       38.01-
+22                                                                   38.07
+2016- 9-21-16  Ad valorem taxes- personal property                   38.15-
+23                                                                   38.17
+2016- 9-21-16  Ad valorem taxes- motor vehicles                      38.15-
+24                                                                   38.19
+2016- 9-21-16  Ad valorem taxes- public service companies            38.30-
+25                                                                   38.33
+2016- 10-17-16 Annexation                                            TSO I
+26
+2016-          Prohibiting operation of businesses in residential    110.50,
+27    11-7-16  zones                                                 110.51,
+                                                                     110.99
+2016- 1-16-17  Annexation                                            TSO I
+28
+2016- 1-4-17   Rezoning                                              TSO IV
+29
+2017- 2-6-17   Annexation                                            TSO I
+01
+2017- 2-6-17   Annexation                                            TSO I
+02
+2017- 3-6-17   Annexation                                            TSO I
+03
+2017- 3-20-17  Zoning map change                                     TSO IV
+04
+2017- 5-15-17  Annexation                                            TSO I
+05
+2017- 5-15-17  Annexation                                            TSO I
+06
+2017- 6-5-17   Annexation                                            TSO I
+07
+2017- 6-5-17   Energy project assessment                             Not included
+08
+2017- 6-21-17  Budget                                                Not included
+09
+2017- 6-21-17  Budget                                                Not included
+10
+2017- 7-17-17  Annexation                                            TSO I
+11
+2017- 9-18-17  Ad valorem taxes                                      38.01-
+13                                                                   38.07
+2017- 9-18-17  Ad valorem taxes                                      38.15-
+14                                                                   38.19
+2017- 9-18-17  Ad valorem taxes                                      38.15-
+15                                                                   38.19
+2017- 9-18-17  Ad valorem taxes                                      38.30-
+16                                                                   38.33
+2017- 10-16-17 Sale of distilled spirits                             113.30,
+17                                                                   113.32
+2017- 11-6-17  Sign regulations                                      150.30-
+18                                                                   150.43
+2017- 10-2-17  Annexation                                            TSO I
+19
+2017- 10-16-17 Annexation                                            TSO I
+20
+2018- 2-5-18   Zoning map change                                     TSO IV
+01
+2018- 2-19-18  Speed limit regulations                               71.29
+02
+2018- 3-5-18   Annexation                                            TSO I
+03
+2018- 3-19-18  Zoning map change                                     TSO IV
+04
+2018- 3-19-18  Zoning map change                                     TSO IV
+05
+2018- 6-18-18  Budget                                                Not included
+07
+2018- 6-18-18  Budget                                                Not included
+08
+2018- 8-6-18   Establishing a job classification and wage scale for  Repealed
+09             various employees of the city
+2018- 8-20-18  Nuisances                                             Repealed
+10
+2018- 9-17-18  Street construction                                   71.29
+11
+2018- 9-17-18  Ad valorem taxes - real property                      38.01-
+12                                                                   38.07
+2018- 9-17-18  Ad valorem taxes - personal property                  38.15-
+13                                                                   38.19
+2018- 9-17-18  Ad valorem taxes - personal property                  38.15-
+14                                                                   38.19
+2018- 9-17-18  Ad valorem taxes - public service companies           38.30-
+15                                                                   38.33
+2018- 10-15-18 Approving a lease                                     TSO IV
+16
+2018- 1-7-19   Business meeting                                      32.21
+17
+                                                                     92.01-
+                                                                     92.12,
+                                                                     92.20,
+                                                                     92.21,
+2019-          Repealing Ord. 2016-18 and Ord. 2018-10, replacing    92.30-
+01    7-15-19  with new Chapter 92, Property Maintenance             92.38,
+                                                                     92.50-
+                                                                     92.53,
+                                                                     92.65-
+                                                                     92.69,
+                                                                     92.80
+2019- 3-18-19  Repealing and replacing Ord. 16-17, Code Enforcement  37.50-
+02             Board                                                 37.65
+2019- 6-17-19  Budget                                                Not included
+03
+2019- 6-17-19  Budget                                                Not included
+04
+2019- 7-15-19  Annexation                                            TSO I
+06
+2019- 9-16-19  Ad valorem taxes - real property                      38.01-
+07                                                                   38.07
+2019-                                                                38.15-
+08    9-16-19  Ad valorem taxes - tangible personal property         38.17,
+                                                                     38.19
+2019- 9-16-19  Ad valorem taxes - personal property                  38.15-
+09                                                                   38.19
+2019- 9-16-19  Ad valorem taxes - public service companies           38.30-
+10                                                                   38.33
+2019- 9-16-19  Rezoning                                              TSO IV
+11
+2019- 12-16-19 Rezoning                                              TSO IV
+12
+2020- 2-3-20   Encroachment application permit                       91.09,
+01                                                                   91.99
+2020-          Providing for the parking of motor vehicles and       72.13-
+02    2-3-20   personal property                                     72.16,
+                                                                     72.99
+2020-                                                                131.01-
+03    3-16-20  Prohibition against noise pollution                   131.05,
+                                                                     131.99
+2020- 6-15-20  Budget                                                Not included
+04
+2020- 6-15-20  Budget                                                Not included
+05
+2020- 6-15-20  Approving a least for the financing of a project      TSO VI
+06
+2020- 10-5-20  Ad valorem taxes - real property                      38.01-
+07                                                                   38.07
+2020-                                                                38.15-
+08    10-5-20  Ad valorem taxes - tangible personal property         38.17,
+                                                                     38.19
+2020- 10-5-20  Ad valorem taxes - personal property                  38.15-
+09                                                                   38.19
+2020- 11-6-20  Ad valorem taxes - public service companies           38.30-
+10                                                                   38.33
+2020- 11-16-20 Annexation                                            TSO I
+11
+2021- 3-15-21  Rezoning                                              TSO IV
+01
+2021- 5-17-21  Annexation                                            TSO I
+02
+2021- 5-17-21  Alcohol licenses - hours of sale for golf courses     113.40
+03
+2021- 6-21-21  Rezoning                                              TSO IV
+04
+2021- 6-21-21  Budget                                                Not included
+05
+2021- 6-21-21  Budget                                                Not included
+06
+2021- 8-16-21  Annexation                                            TSO I
+07
+2021- 8-16-21  Ad valorem taxes - real property                      38.01-
+08                                                                   38.07
+2021-                                                                38.15-
+09    8-16-21  Ad valorem taxes - tangible personal property         38.17,
+                                                                     38.19
+2021- 8-16-21  Ad valorem taxes - personal property                  38.15-
+10                                                                   38.19
+2021- 8-16-21  Ad valorem taxes - public service companies           38.30-
+11                                                                   38.33
+2021- 9-20-21  Annexation                                            TSO I
+12
+2021- 11-15-21 Annexation                                            TSO I
+13
+2021- 1-3-22   Rezoning                                              TSO IV
+14
+2022- 3-7-22   Adopting the state model procurement code for the     Repealed
+01             expenditure of American Rescue Plan funds
+2022- 6-6-22   Regulation of alcoholic beverages                     113.30,
+02                                                                   113.40
+2022- 6-20-22  Budget                                                Not included
+03
+2022- 6-20-22  Budget                                                Not included
+04
+2022-                                                                90.01,
+05    8-15-22  Keeping of poultry and livestock prohibited           90.09,
+                                                                     90.99
+2022- 8-29-22  Ad valorem taxes - real property                      38.01-
+06                                                                   38.07
+2022-                                                                38.15-
+07    8-29-22  Ad valorem taxes - tangible personal property         38.17,
+                                                                     38.19
+2022- 8-29-22  Ad valorem taxes - personal property                  38.15-
+08                                                                   38.19
+2022- 8-29-22  Ad valorem taxes - public service companies           38.30-
+09                                                                   38.33
+2022- 10-3-22  Annexation                                            TSO I
+10
+                                                                     40.01-
+                                                                     40.04,
+                                                                     40.15-
+2022-                                                                40.34,
+11    10-17-22 Repealing and replacing Ord. 94-21, Code of ethics    40.50-
+                                                                     40.55,
+                                                                     40.70-
+                                                                     40.82,
+                                                                     40.99
+2022- 12-19-22 Rezoning                                              TSO IV
+12
+2022- 12-19-22 Rezoning                                              TSO IV
+13
+2022- 12-19-22 Rezoning                                              TSO IV
+14
+2022-          Repealing Ord. 2022-01 because the state model
+15    12-19-22 procurement code is no longer required for the        Not included
+               expenditure of American Rescue Plan funds
+2023- 7-17-23  Annexation and rezoning                               TSO I,
+01                                                                   IV
+2023- 6-19-23  Budget                                                Not included
+04
+2023- 6-19-23  Budget                                                Not included
+05
+2023- 8-7-23   Amending the hours for the sale of alcohol beverages  113.40
+06             at golf courses
+2023- 8-21-23  Annexation                                            TSO I
+07
+2023- 9-18-23  Rezoning                                              TSO IV
+08
+2023- 9-25-23  Ad valorem taxes - real property                      38.01-
+09                                                                   38.07
+2023-                                                                38.15-
+10    9-25-23  Ad valorem taxes - tangible personal property         38.17,
+                                                                     38.19
+2023- 9-25-23  Ad valorem taxes - personal property                  38.15-
+11                                                                   38.19
+2023- 9-25-23  Ad valorem taxes - public service companies           38.30-
+12                                                                   38.33
+2023- 11-20-23 Rezoning                                              TSO IV
+13
+2023- 12-4-23  Rezoning                                              TSO IV
+14
+2024- 2-19-24  Rezoning                                              TSO IV
+01
+2024- 6-3-24   Rezoning                                              TSO IV
+02
+2024- 6-3-24   Rezoning                                              TSO IV
+03
+2024- 6-10-24  Budget                                                Not included
+04
+2024- 6-10-24  Budget                                                Not included
+05
+2024- 8-5-     Amending date and time of City Council meetings       32.21
+06    24   
+2024- 9-16-24  Ad valorem taxes - real property                      38.01–
+08                                                                   38.07
+2024-                                                                38.15–
+09    9-16-24  Ad valorem taxes - tangible personal property         38.17,
+                                                                     38.19
+2024- 9-16-24  Ad valorem taxes - personal property                  38.15–
+10                                                                   38.19
+2024- 9-16-24  Ad valorem taxes - public service companies           38.30–
+11                                                                   38.33
+2024- 12-2-24  Use of firearms exemptions                            130.03
+15
+2025- 6-16-25  Budget                                                Not included
+01
+2025- 6-16-25  Budget                                                Not included
+02
+2025- 6-30-25  Amending the job classification and wage scale for    Not included
+03             various employees of the city
+2025- 9-15-25  Ad valorem taxes - real property                      38.01–
+04                                                                   38.07
+2025-                                                                38.15–
+05    9-15-25  Ad valorem taxes - tangible personal property         38.17,
+                                                                     38.19
+2025- 9-15-25  Ad valorem taxes - personal property                  38.15–
+06                                                                   38.19
+2025- 9-15-25  Ad valorem taxes - public service companies           38.30–
+07                                                                   38.33
+2025- 10-6-25  Flood damage prevention - definitions                 153.05
+08
+2025- 10-6-25  Annexation                                            TSO I
+09
+2025- 12-1-25  Adopting Bullitt County Joint Planning Commission’s Not included
+10             recommendation
+2025- 12-15-25 Annexation                                            TSO I
+11
+2025- 1-5-26   Adopting Bullitt County Joint Planning Commission’s Not included
+12             recommendation
+2025- 1-5-26   Rezoning                                              TSO IV
+13
+                                                                   
+ 
  
