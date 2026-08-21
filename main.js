@@ -31,8 +31,8 @@ const MAX_EXPORT_WAIT_MINUTES = 60; // Maximum time (minutes) to wait for an exp
 const EXPORT_POLL_INTERVAL_MS = 30000; // Interval (milliseconds) between status checks (30 seconds)
 
 // Control flags
-const REGION_START_PERCENT = generateRandomNumber(); // Generates a random number between 0 and 100 to determine where to start in the list.
-// const REGION_START_PERCENT = 0; // Choose a starting percentage between 0 and 99.
+// const REGION_START_PERCENT = generateRandomNumber(); // Generates a random number between 0 and 100 to determine where to start in the list.
+const REGION_START_PERCENT = 0; // Choose a starting percentage between 0 and 99.
 
 // Main function to orchestrate the entire code export process
 async function executeCodeExportProcess() { // Define an async function for this workflow step.
