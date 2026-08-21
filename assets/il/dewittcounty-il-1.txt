@@ -1,9 +1,9 @@
 DEWITT COUNTY, ILLINOIS
 CODE OF ORDINANCES
-2025 S-11 Supplement contains:
-Local legislation current through Ordinance passed 10-24-2024
-and Resolution passed 11-21-2024; and
-State legislation current through 2024 Illinois Legislative Service Pamphlet #5
+2026 S-12 Supplement contains:
+Local legislation current through Ordinance passed 5-22-2025
+and Resolution passed 3-19-2026; and
+State legislation current through 2025 Illinois Legislative Service Pamphlet #5
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -487,11 +487,10 @@ shall satisfy the requirements of this section.
    (B)   This section does not extend to audio of closed or executive sessions
 or any sessions where such publication would be prohibited by law. Such audio
 file(s) shall be excluded from publication.
-   (C)   The Executive Administrative Assistant to the DeWitt County Board
-shall have the authority to implement the directives of division (A) above,
-including communications and consultations with the "webmaster" or "host" of
-the DeWitt County website.
-(Ord. passed 2-20-2014)
+   (C)   The County Administrator shall have the authority to implement the
+directives of division (A) above, including communications and consultations
+with the "webmaster" or "host" of the DeWitt County website.
+(Ord. passed 2-20-2014; Res. 25-11, passed 12-18-2025)
 RULES OF PROCEDURE
 § 30.15 RULES ON MEETING PROCEDURE.
    The meetings of the County Board shall be conducted as follows.
@@ -527,13 +526,13 @@ day’s notice being given of the motion thereof.
 Clerk, it shall be deemed to be in possession of the Board, but it may be
 withdrawn by the mover at any time before the decision.
    (L)   Executive session minutes shall be reviewed twice a year by the
-State’s Attorney, Administrative Assistant to the County Board, County Clerk
-and the Vice Chairperson of the County Board.
+State’s Attorney, County Administrator, County Clerk and the Vice Chairperson
+of the County Board.
    (M)   All correspondence representing the County Board shall be prepared by
 the Administrative Assistant and signed by the County Board Chairperson or Vice
 Chairperson.
 (Prior Code, § 30.20) (Motion carried 12-17-1984; Res. passed 3-12-1998; Res.
-passed 10-15-1998; Res. passed 2-15-2001)
+passed 10-15-1998; Res. passed 2-15-2001; Res. 25-11, passed 12-18-2025)
 § 30.16 ORDER OF BUSINESS.
    The order of business shall be as follows:
    (A)   Call meeting to order;
@@ -2429,13 +2428,19 @@ developed and available to the county.
 director, superintendent, manager, supervisor or individual otherwise holding
 primary executive and administrative authority for the county, or that person's
 duly authorized designee.
+   JUNK MAIL.
+      (1)   Any unsolicited commercial mail sent to the county and not
+responded to by an official, employee, or agent of the county; or
+      (2)   Any unsolicited commercial electronic communication sent to the
+county and not responded to by an official, employee, or agent of the county.
    NEWS MEDIA. A newspaper or other periodical issued at regular intervals
 whether in print or electronic format, a news service whether in print or
 electronic format, a radio station, a television station, a television network,
 a community antenna television service, or a person or corporation engaged in
 making news reels or other motion picture news for public showing.
-   PERSON. Any individual, corporation, partnership, firm, organization or
-association, acting individually or as a group.
+   PERSON. Any individualor any individual acting as an agent of a corporation,
+partnership, firm, organization or association, acting individually or as a
+group.
    PRIVATE INFORMATION. Unique identifiers, including a person1s social
 security number, driver's license number, employee identification number,
 biometric identifiers, personal financial information, passwords or other
@@ -2474,7 +2479,8 @@ electronic data processing records, electronic communications, recorded
 information and all other documentary materials pertaining to the transaction
 of public business, regardless of physical form or characteristics, having been
 prepared by or for, or having been or being used by, received by, in the
-possession of, or under the control of the county.
+possession of, or under the control of the county. PUBLIC RECORDS do not
+include junk mail.
    RECURRENT REQUESTER.
       (1)   As used in §
 36.09, means a person that, in the 12 months immediately preceding the request,
@@ -2592,13 +2598,21 @@ a copy of any public record required to be disclosed by division (A) above and
 shall certify the copy if so requested.
    (C)   Requests for inspection or copies shall be made in writing and
 directed to the county. Written requests may be submitted to the county via
-personal delivery, mail, telefax, or other means available to the county. The
-county may honor oral requests for inspection or copying. The county may not
-require that a request be submitted on a standard form or require the requester
-to specify the purpose for a request, except to determine whether the records
-are requested for a commercial purpose or whether to grant a request for a fee
-waiver. All requests for inspection and copying received by the county shall
-immediately be forwarded to its Freedom of Information Officer or designee.
+personal delivery, mail, telefax, or other means available to the county.
+Electronic requests under this section must appear in their entirety within the
+body of the electronic submission. As a cybersecurity measure, the county shall
+not be required to open electronically attached files or hyperlinks to view or
+access details of a request. If the county receives a request that would
+require the county to open hyperlinks or attached filles, it shall, within five
+business days, notify the requester of the requirement that the entirety of an
+electronic request must appear within the body of the electronic submission.
+The county may honor oral requests for inspection or copying. The county may
+not require that a request be submitted on a standard form or require the
+requester to specify the purpose for a request, except to determine whether the
+records are requested for a commercial purpose or whether to grant a request
+for a fee waiver. All requests for inspection and copying received by the
+county shall immediately be forwarded to its Freedom of Information Officer or
+designee.
    (D)   The county shall, promptly, either comply with or deny a request for
 public records within five business days after its receipt of the request,
 unless the time for response is properly extended under division (E) below.
@@ -2753,9 +2767,9 @@ provided shall be a prerequisite to continue serving as a Freedom of
 Information Officer.
 (ILCS Ch. 5, Act 140, § 3.5)
 § 36.12 ITEMS TO BE DISPLAYED.
-   (A)   The county shall prominently display at each of its administrative or
-regional offices, make available for inspection and copying, and send through
-the mail if requested, each of the following:
+   (A)   The county shall prominently display on its website, make available
+for inspection and copying, and send through the mail if requested, each of the
+following:
       (1)   A brief description of itself, which will include, but not be
 limited to, a short summary of its purpose, a block diagram giving its
 functional subdivisions, the total amount of its operating budget, the number
@@ -2768,10 +2782,9 @@ answerable for its operations; and
       (2)   A brief description of the methods whereby the public may request
 information and public records, a directory designating the freedom of
 information officer or officers, the address where requests for public records
-should be directed, and any fees allowable under §
-36.14.
-   (B)   If the county maintains a website, it shall also post this information
-on its website.
+should be directed, and any fees allowable under § 36.14.
+   (B)   If the county does not maintain a website, it shall also post this
+information at each of its administrative or regional offices.
 (ILCS Ch. 5, Act 140, § 4)
 § 36.13 CURRENT LIST OF TYPES OR CATEGORIES OF RECORDS.
    As to public records prepared or received after the effective date of the
@@ -3146,9 +3159,9 @@ Illinois Health and Hazardous Substances Registry Act.
 reports, surveys, schedules, lists, data, or information compiled, collected,
 or prepared by or for the Department of Transportation under §§ 2705-300 and
 2705-616 of the Department of Transportation Law of the Civil Administrative
-Code of Illinois, the Regional Transportation Authority under § 2.11 of the
-Regional Transportation Authority Act, or the St. Clair County Transit District
-under the Bi-State Transit Safety Act.
+Code of Illinois, the Northern Illinois Transit Authority under § 2.11 of the
+Northern Illinois Transit Authority Act, or the St. Clair County Transit
+District under the Bi-State Transit Safety Act.
    (Q)   Information prohibited from being disclosed by the Personnel Record
 Review Act.
    (R)   Information prohibited from being disclosed by the Illinois School
@@ -3249,8 +3262,11 @@ Address Confidentiality for Victims of Domestic Violence, Sexual Assault, Human
 Trafficking, or Stalking Act.
    (EEE)   Information prohibited from being disclosed under subsection (b) of
 § 75 of the Domestic Violence Fatality Review Act.
-   (FFF)   Images from cameras under the Expressway Camera Act. This division
-(FFF) is inoperative on and after July 1, 2025.
+   (FFF)   Images from cameras under the Expressway Camera Act and all
+automated license plate reader (ALPR) information used and collection by the
+Illinois State Police. ALPR INFORMATION means information gathered by an ALPR
+or created from the analysis of data generated by an ALPR. This division (FFF)
+is inoperative on and after July 1, 2028.
    (GGG)   Information prohibited from disclosure under paragraph (3) of
 subsection (a) of § 14 of the Nurse Agency Licensing Act.
    (HHH)   Information submitted to the Illinois State Police in an affidavit
@@ -3279,7 +3295,13 @@ the Illinois Human Rights Act.
    (RRR)   Information prohibited from being disclosed under Section 4-2 of the
 Uniform Money Transmission Modernization Act.
    (SSS)   Information exempt from disclosure under Section 40 of the Student-
-Athlete Endorsement Rights Act. 1-1-25
+Athlete Endorsement Rights Act. 1-1-25.
+   (TTT)   Audio recordings made under Section 30 of the Illinois State Police
+Act, except to the extent authorized under that Section.
+   (UUU)   Information prohibited from being disclosed under Section 30-5 of
+the Digital Assets Regulation Act.
+   (VVV)   Information exempt from disclosure under Section 70 of the End-of-
+Life Operations for Terminally Ill Patients Act.
 (ILCS Ch. 5, Act 140, § 7.5)
 § 36.17 WHEN REQUEST DENIED.
    (A)   The county when denying a request for public records shall notify the
@@ -3380,9 +3402,10 @@ administrative review under §
 36.20. If the opinion concludes that no violation of the Act has occurred, the
 requester may initiate administrative review under §
 36.20.
-      (4)   The county that discloses records in accordance with an opinion of
-the Attorney General is immune from all liabilities by reason thereof and shall
-not be liable for penalties under this chapter.
+      (4)   The county and any officer or employee of the county that discloses
+records in accordance with an opinion of the Attorney General is immune from
+all liabilities by reason thereof and shall not be liable for penalties under
+this chapter.
    (G)   If the requester files suit under §
 36.19 with respect to the same denial that is the subject of a pending request
 for review, the requester shall notify the Public Access Counselor, and the
@@ -3616,20 +3639,19 @@ the Property Committee is obtained.
    (B)   Storage will only be considered for emergency situations with a
 detailed inventory list including the item name, location, insurance waiver and
 approximate length of time for storage is presented and kept on file with the
-Administrative Assistant.
-(Prior Code, § 38.05) (Motion carried 5-11-1995)
+County Administrator.
+(Prior Code, § 38.05) (Motion carried 5-11-1995; Res. 25-11, passed 12-18-25)
 § 37.06 PRESS RELEASES.
    It shall be the policy of the County Board that all press releases
 concerning county agencies or county business shall be issued by the agency
-head, or the Chairperson of the County Board, or by the Board’s Administrative
-Assistant, at the direction of the Board Chairperson.
-(Prior Code, § 38.06) (Motion passed 7-12-1995)
+head, or the Chairperson of the County Board, or by the County Administrator,
+at the direction of the Board Chairperson.
+(Prior Code, § 38.06) (Motion passed 7-12-1995; Res. 25-11, passed 12-18-25)
 § 37.07 DISPOSAL OF EXCESS EQUIPMENT/ PROPERTY.
-   The Maintenance Supervisor and/or Administrative Assistant shall be
-contacted regarding any disposal of county-owned equipment/property. Final
-disposal of county-owned equipment/property shall be approved by the Property
-Committee.
-(Prior Code, § 38.07) (Motion passed 7-12-2001)
+   The Maintenance Supervisor and/or County Administrator shall be contacted
+regarding any disposal of county-owned equipment/property. Final disposal of
+county-owned equipment/property shall be approved by the Property Committee.
+(Prior Code, § 38.07) (Motion passed 7-12-2001; Res. 25-11, passed 12-18-25)
 CHAPTER 38: PERSONNEL POLICIES
 Section
 General Provisions
@@ -5638,14 +5660,14 @@ other classification protected under federal or state law. Sexual misconduct is
 also prohibited. The County of DeWitt will neither tolerate nor condone
 discrimination, harassment or sexual misconduct by employees, managers,
 supervisors, elected officials, appointed officials, co-workers, or non-
-employees with whom County of DeWitt has a business, service, or professional
+employees whom County of DeWitt has a business, service, or professional
 relationship. “Employee,” for purposes of this policy only, includes any
 individual performing work for County of DeWitt, an apprentice, an applicant
-for apprenticeship, or an unpaid intern. County of DeWitt has appointed Mike
-Trummel as its ethics officer to receive and oversee investigations of
-complaints made pursuant to this policy and he is referred to in this policy as
-County of DeWitt's "Ethics Officer." He can be contacted by email at
-mtrummel@dewittcountyill.com. County of DeWitt reserves the right to change the
+for apprenticeship, or an unpaid intern. County of DeWitt has appointed Jon
+Butts as its ethics officer to receive and oversee investigations of complaints
+made pursuant to this policy and he is referred to in this policy as County of
+DeWitt's "Ethics Officer." He can be contacted by e-mail at
+jbutts@dewittcountyil.gov. County of DeWitt reserves the right to change the
 Ethics Officer from time to time.
    (B)   Retaliation against an employee who complains about or reports any act
 of discrimination, harassment or misconduct in violation of this policy is
@@ -5662,7 +5684,7 @@ nature when:
       (1)   Submission to or rejection of this conduct explicitly or implicitly
 affects a term or condition of individual's employment;
       (2)   Submission to or rejection of the conduct is used as the basis for
-an employment decision affecting the harassed employee or;
+an employment decision affecting the harassed employee; or
       (3)   The harassment has the purpose or effect of unreasonably
 interfering with the employee's work performance or creating an intimidating,
 hostile or offensive work environment because of the persistent, severe or
@@ -5705,7 +5727,7 @@ but not limited to, sexual abuse, sexual exploitation, sexual intimidation,
 rape, sexual assault, or ANY sexual contact or sexual communications with a
 minor (including, but not limited to, conduct or communications which are
 written, electronic, verbal, visual, virtual or physical).
-(Res. 2019-05, passed 12-19-2019)
+(Res. 2019-05, passed 12-19-2019; Res. 2025-07, passed 6-18-2025)
 § 38.346 RESPONSIBILITIES.
    (A)   Supervisors. Each supervisor shall be responsible for ensuring
 compliance with this policy, including the following:
@@ -5713,15 +5735,15 @@ compliance with this policy, including the following:
 harassment or sexual misconduct;
       (2)   Immediately notifying law enforcement where there is reasonable
 belief that the observed or complained of conduct violates the criminal laws of
-the State of Illinois.
+the State of Illinois;
       (3)   Immediately notifying the Department of Children and Family
 Services (DCFS) Hotline (1-800-25-ABUSE or 1-800-252-2873) if the observed or
-complained of conduct involves the abuse of a minor.
+complained of conduct involves the abuse of a minor;
       (4)   Immediately stopping any observed acts of discrimination,
 harassment or sexual misconduct and taking appropriate steps to intervene,
 whether or not the involved employees are within his/her line of supervision;
       (5)   Immediately reporting any complaint of harassment, discrimination
-or sexual misconduct to the State's Attorney or to the Ethics Officer, and:
+or sexual misconduct to the State's Attorney or to the Ethics Officer; and
       (6)   Taking immediate action to limit the work contact between the
 individuals when there has been a complaint of discrimination, harassment or
 sexual misconduct, pending investigation.
@@ -5736,12 +5758,12 @@ appropriate under the circumstances) and/or DCFS (if appropriate under the
 circumstances); Employees are obligated to report violations of this policy as
 soon as they occur. An employee should not wait until the conduct becomes
 unbearable before reporting the prohibited conduct. All employees are obligated
-to report instances of prohibited conduct even if the conduct is merely
-observed and directed toward another individual and even if the other person
-does not appear to be bothered or offended by the conduct. All employees are
-obligated to report instances of prohibited conduct regardless of the identity
-of the alleged offender (e.g. man, woman, supervisor, elected official, co-
-worker, volunteer, vendor, member of public).
+to report instances of prohibited conduct even if the
+conduct is merely observed and directed toward another individual and even if
+the other person does not appear to be bothered or offended by the conduct. All
+employees are obligated to report instances of prohibited conduct regardless of
+the identity of the alleged offender (e.g. man, woman, supervisor, elected
+official, co-worker, volunteer, vendor, member of public).
          (c)   Encouraging any employee who confides that he/she is the victim
 of conduct in violation of this policy to report these acts to a supervisor.
       (2)   Failure to take action to stop known discrimination, harassment or
@@ -6146,7 +6168,7 @@ click HERE.
 § 1. WRITTEN WARNING FORM.
  
 DeWITT COUNTY BOARD
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/IMAGES/0-0-0-1241.jpg]
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/IMAGES/0-0-0-1241.jpg]
 Courthouse • Clinton, IL 61727
 WRITTEN WARNING
  
@@ -6172,7 +6194,7 @@ Ref. 10.1.2
 § 2. ORDER OF SUSPENSION FORM.
  
 DeWITT COUNTY BOARD
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/IMAGES/0-0-0-1241.jpg]
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/IMAGES/0-0-0-1241.jpg]
 Courthouse • Clinton, IL 61727
 ORDER OF SUSPENSION
  
@@ -6204,17 +6226,17 @@ Ref. 10.1.3
  
  
 § 3. PHYSICAL EXAMINATION RECORD.
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1245.jpg]
  
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1247.jpg]
  
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1251.jpg]
  
 § 4. PRE-EMPLOYMENT PHYSICAL EXAMINATION RECORD.
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1249.jpg]
  
 § 5. RECEIPT FOR FMLA FORMS.
@@ -6232,51 +6254,51 @@ timely manner.
  
  
 § 6. FMLA MANDATORY EMPLOYEE NOTICE.
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1253.jpg]
  
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1255.jpg]
  
 § 7. EMPLOYEE FMLA LEAVE REQUEST.
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1257.jpg]
  
 § 8. FMLA MEDICAL CERTIFICATION (EMPLOYEE).
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1259.jpg]
  
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1261.jpg]
  
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1263.jpg]
  
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1265.jpg]
  
 § 9. FMLA MEDICAL CERTIFICATION (FAMILY MEMBER).
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1269.jpg]
  
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1271.jpg]
  
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1273.jpg]
  
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1275.jpg]
  
 § 10. COMPANY RESPONSE (ELIGIBILITY).
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1267.jpg]
  
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1279.jpg]
  
 § 11. COMPANY RESPONSE (DESIGNATION).
-[https://export.amlegal.com/media/b9b9d11161c5f1e66906616396b37cc86e1dd3af/
+[https://export.amlegal.com/media/9d0b267a1c975ce52e56e2aef774b9d75e702853/
 IMAGES/0-0-0-1281.jpg]
  
 § 12. EMPLOYEE ACKNOWLEDGMENT FORM REGARDING COMMUNICATIONS SYSTEMS.
@@ -7856,21 +7878,21 @@ registration certificate and the fees collected, as specified in §
 (Prior Code, § 90.18) (Ord. passed 1-17-1991)
 § 90.019 FEES.
    The veterinarian shall collect from the owner or person in possession and
-control of the animal at the time of vaccination the sum of $7 for a one-year
-vaccination registration for an altered dog or cat or $17 for an intact dog or
-cat and the sum of $18 for a three-year vaccination registration for altered
-dog or cat or $48 for an intact dog or cat. Notwithstanding the foregoing, any
-failure to register or vaccinate a subject animal within 15 days from the date
-that the registration vaccination is due shall result in a fee being assessed
-at $15 for one- and/or three-year registration vaccination fees; or, if not
-paid within 45 days, a fee of $30 for a one- and/or three-year vaccination
-registration. The veterinarian is authorized to retain the sum of $1 for a one-
-year vaccination registration and the sum of $2 for a three-year vaccination
-registration for collection and bookkeeping services, and shall transmit the
-balance to the administration, as provided in §
+control of the animal at the time of vaccination the sum of $15 for a one-year
+vaccination registration for an altered dog or cat or $25 for an intact dog or
+cat and the sum of $38 for a three-year vaccination for altered dog or cat or
+$65 for an intact dog or cat. Notwithstanding the foregoing, any failure to
+register or vaccinate a subject animal within 15 days from the date that the
+registration vaccination is due shall result in a fee being assessed at $15 for
+one- and/or three-year vaccination registration fees; or, if not paid within 45
+days, a fee of $30 for a one- and/or three-year vaccination registration. The
+veterinarian is authorized to retain the sum of $1 for a one-year vaccination
+registration and the sum of $2 for a three-year vaccination registration for
+collection and bookkeeping services, and shall transmit the balance to the
+administration, as provided in §
 90.018.
 (Prior Code, § 90.19) (Ord. passed 1-17-1991; Ord. passed 11-13-1997; Ord.
-passed 6-21-2007)
+passed 6-21-2007; Res. 2025-06, passed 6-18-2025)
 § 90.020 EXPIRATION; RENEWAL.
    The dog or cat shall be re-vaccinated and re-registered on or before the
 expiration date shown on the certificate, within 12 months or 36 months after
@@ -8646,9 +8668,12 @@ GENERAL PROVISIONS
 § 110.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
-   ALCOHOLIC BEVERAGES. Spirit, wine, beer, ale, whiskey, gin, brandy, rum or
-any distilled or fermented liquid containing more than 0.5% alcohol by volume,
-fit for human consumption.
+   ALCOHOLIC BEVERAGES. Spirit, whiskey, gin, brandy, rum or any distilled or
+fermented liquid containing more than 0.5% alcohol by volume, fit for human
+consumption.
+   APPLICANT. A person, partnership, corporation, limited liability company,
+other like business entity, or any individual member(s) or agent(s) of such
+business entity applying for a permit under this section.
    BEER. A beverage obtained by the alcoholic fermentation of an infusion or
 concoction of barley, or other grain, malt and hops in water, and includes,
 among other things, beer, ale, stout, lager beer, porter and the like.
@@ -8662,7 +8687,7 @@ public for the purpose of selling or keeping with the intent to sell.
    WINE. Any alcoholic beverage obtained by the fermentation of the natural
 contents of fruits or vegetables, containing sugar, including beverages when
 fortified by the addition of alcohol or spirits, as defined in this section.
-(Prior Code, § 110.01) (Ord. passed 9-14-1989)
+(Prior Code, § 110.01) (Ord. passed 9-14-1989; Ord. 2025-03, passed 3-20-2025)
 LICENSING REGULATIONS
 § 110.15 LICENSE REQUIRED.
    It shall be unlawful to sell or offer for retail sale in the territory in
@@ -8681,13 +8706,10 @@ license as provided in §
 110.99
 § 110.17 APPLICATION FOR LICENSE; FEE; CONTENTS.
    (A)   Applications for the license shall be made in writing by the
-application to the County Clerk, accompanied by the required Clerk’s fee and
-filing fee in cash, check or money order. The County Clerk shall then refer the
-applications to the Liquor Control Commission and shall transfer the license
-fee in the same manner as all license fees received in his or her office. The
-County Clerk’s fee for accepting the license application shall be $5 per
-license and shall be submitted in cash, check or money order with the
-application.
+application to the County Clerk, accompanied by the filing fee in cash, check
+or money order. The County Clerk shall then refer the applications to the
+Liquor Control Commission and shall transfer the license fee in the same manner
+as all license fees received in his or her office.
    (B)   Applications for any license under the terms of this chapter shall be
 signed by the applicant, if any individual; by all of the partners if a
 partnership; or by a duly authorized agent of the corporation, if a
@@ -8737,68 +8759,50 @@ can attest to the applicant’s character and reputation;
       (14)   The names of the person or persons who will manage the business or
 be the agent of the applicant in supervising the business operation; and
       (15)   The names of any public office held by the applicant; any partner,
-if a partnership; any shareholder, director or member, if a corporation; if
-either type, profit or not-for-profit.
-(Prior Code, § 110.17) (Ord. passed 9-14-1989)
+if a partnership; any shareholder, director or member, if a corporation or
+other business entity; if either type, profit or not-for-profit.
+(Prior Code, § 110.17) (Ord. passed 9-14-1989; Ord. 2025-03, passed 3-20-2025)
 § 110.18 RESTRICTIONS ON ISSUANCE OF LICENSE.
    No license under the terms of this chapter shall be issued to any applicant
 if:
-   (A)   The applicant is a person who does not reside in the county;
-   (B)   The applicant is a person who is not a citizen of the United States;
-   (C)   The applicant is a person who has been convicted of a felony under the
-laws of the state;
-   (D)   The applicant is a person who is keeping a house of ill-fame or who
-has been convicted of being a keeper of a house of ill-fame;
-   (E)   The applicant is a person who has been convicted of pandering or any
-other crime or misdemeanor involving moral turpitude under the laws of the
-state or any other state, or under any federal statute;
-   (F)   The applicant is a person whose license to sell alcoholic beverages in
-the county has been suspended or revoked for cause;
-   (G)   The applicant is a person who, at the time of application for renewal
-of a license issued under the terms of this chapter would be ineligible for a
-license upon an initial application;
-   (H)   The applicant is a person who has been convicted of a violation of any
-state or federal law regarding the manufacture, sale or possession of alcoholic
-beverages, or who has forfeited his or her bond to appear in court to answer
-alleging violations of the state or federal laws;
-   (I)   The applicant is a person who is not of good character and reputation
-in the community in which he or she resides;
-   (J)   The applicant is a partnership and any of the members of the
-partnership would be prohibited from being issued a license under any provision
-of this section;
-   (K)   The applicant is a corporation and any corporation officer, manager or
-director, or any owner or holder of a substantial interest in the stock or
-other securities of the corporation, would be prohibited from being issued a
-license under divisions (C) through (O) hereof;
-   (L)   The applicant is a person, partnership or corporation whose place of
-business is conducted by a manager or agent where the manager or agent would be
-prohibited from being issued a license under any provision of this section;
-   (M)   The applicant is a person, partnership or corporation who does not own
-the premises for which a license is sought or who does not have a valid lease
-on the premises for the full period of time for which the license is to be
-issued;
-   (N)   (1)   The applicant is a person, partnership or corporation where the
-applicant or any partner, shareholder, officer or director is a law enforcement
-officer, mayor, alderman or member of any city council or commission, president
-or member of any village board, chairperson or member of the county board; and
-      (2)   However, any official herein enumerated may be a member of a not-
-for-profit corporation, as defined in this chapter; provided that, any official
-is a member only of the not-for-profit corporation; and, provided further that,
-no part of the proceeds of the not-for-profit corporation inures to the benefit
-of any member thereof.
-   (O)   The applicant is a person, partnership or corporation which is
-ineligible for a retail liquor dealer’s license issued by the state.
-(Prior Code, § 110.18) (Ord. passed 9-14-1989)
+   (A)   The applicant is not a citizen of the United States;
+   (B)   The applicant has been convicted of any felony, or misdemeanor
+involving moral turpitude, under the laws of the State of Illinois, any other
+state, or under any federal statute;
+   (C)   The applicant's license to sell alcoholic beverages in the county has
+been suspended or revoked for cause;
+   (D)   The applicant at the time of application for renewal of a license
+issued under the terms of this chapter would be ineligible for a license upon
+an initial application;
+   (E)   The applicant has been convicted of a violation of any state or
+federal law regarding the manufacture, sale or possession of alcoholic
+beverages;
+   (F)   The applicant does not own the premises for which a license is sought
+or who does not have a valid lease on the premises for the full period of time
+for which the license is to be issued;
+   (G)   (1)   The applicant is a law enforcement officer, mayor, alderman or
+member of any city council or commission, president or member of any village
+board, chairperson or member of the county board; and
+      (2)   However, any official referenced in division (G)(1) of this section
+may be a member of a not-for-profit corporation, provided that, any official is
+a member only of the not-for-profit corporation; and, provided further that, no
+part of the proceeds of the not-for-profit corporation inures to the benefit of
+any member thereof;
+   (H)   The applicant is ineligible for a retail liquor dealer's license
+issued by the state.
+(Prior Code, § 110.18) (Ord. passed 9-14-1989; Ord. 2025-03, passed 3-20-2025)
 § 110.19 EXPIRATION OF LICENSE; RENEWAL.
-   (A)   Each license shall expire at midnight on June 30, next following its
-issuance. The fee to be paid shall be reduced in proportion to the full
-calendar months which have expired in the year prior to the issuance of the
-license.
+   (A)   Class A, B, C and D licenses shall expire at midnight on June 30, next
+following its issuance. The fee to be paid shall be reduced in proportion to
+the full calendar months which have expired in the year prior to the issuance
+of the license. Class E licenses shall expire 24 to 72 hours after issuance
+subject to §
+110.22(B)(5).
    (B)   Any licensee may renew his or her license at the expiration thereof;
 provided, he or she is then qualified to receive a license and the premises for
 which the renewal license is sought are suitable for the purposes, in the same
 manner as required of any new applicant.
-(Prior Code, § 110.19) (Ord. passed 9-14-1989)
+(Prior Code, § 110.19) (Ord. passed 9-14-1989; Ord. 2025-03, passed 3-20-2025)
 § 110.20 BOND REQUIRED; FILING; CONDITIONS.
    (A)   Each applicant for a license hereunder shall execute a penal bond to
 the county and state in the sum of $2,000 with two sureties thereon who are
@@ -8822,8 +8826,8 @@ for a renewal of any license under the terms of this chapter.
 (Prior Code, § 110.20) (Ord. passed 9-14-1989)
 § 110.21 REFUND OF FEES.
    (A)   In the event that an application for a license under this chapter is
-denied, the application fee accompanying the application shall be returned to
-the applicant.
+denied, the fee accompanying the application shall be returned to the
+applicant.
    (B)   In the event that any holder of a license issued under this chapter
 joins the Armed Forces of the United States, whether by voluntary enlistment,
 draft, conscription or otherwise, the holder of a license shall be entitled to
@@ -8834,7 +8838,7 @@ the annual fee for whatever class of license is involved. No holder of a
 license shall be entitled to a refund under this section until he or she
 provides proper proof to the Commission that he or she has in fact, become a
 member of the Armed Forces of the United States.
-(Prior Code, § 110.21) (Ord. passed 9-14-1989)
+(Prior Code, § 110.21) (Ord. passed 9-14-1989; Ord. 2025-03, passed 3-20-2025)
 § 110.22 LICENSE CLASSIFICATIONS.
    (A)   For the purpose of this section, PREMISES SPECIFIED shall mean the
 premises described in the application and license, and is limited thereto.
@@ -8857,39 +8861,36 @@ but not for consumption on the premises where the retail sales are made. The
 annual fee for the license shall be $750.
       (4)   Class D license. A class D license shall authorize the sale of
 alcoholic liquor at retail on the premises specified for a not-for-profit
-corporation, as defined herein, of alcoholic beverages for consumption on the
-premises. The annual fee for the license shall be $375.
+corporation, of alcoholic beverages for consumption on the premises. The annual
+fee for the license shall be $375.
       (5)   Class E license. A class E license shall authorize the sale of beer
 or wine at retail on the premises specified for consumption on the premises in
-connection with a one-day special event held by a not-for-profit corporation.
-The licenses will be limited to three consecutive days. The fee for the license
-shall be $75 per day. The licenses shall be issued only to not-for-profit
-corporations.
-(Prior Code, § 110.22) (Ord. passed 9-14-1989)
+connection with a one-day special event. The licenses will be limited to three
+consecutive days. The fee for the license shall be $75 per day for not- for-
+profit corporations and $150 per day for all others.
+(Prior Code, § 110.22) (Ord. passed 9-14-1989; Ord. 2025-03, passed 3-20-2025)
 § 110.23 DISPLAY OF LICENSE.
    Every licensee shall cause his or her license to be framed and hung in plain
 view in a conspicuous place on the licensed premises.
 (Prior Code, § 110.23) (Ord. passed 9-14-1989)
 § 110.24 TRANSFER OF LICENSE.
-   No license shall be transferable. Any license issued under the terms hereof
-shall license only the applicant or, if a corporation, only the applying
-corporation. If there shall be any change from those named in the application,
-the license shall immediately become null and void. Any license granted shall
-not be subject to attachment, garnishment or execution, nor shall it be
-alienable or transferable, voluntarily or involuntarily or subject to being
-encumbered or the subject matter of any lien. The license shall not descend by
-will or the laws of intestate succession, but shall terminate upon the death of
-any licensee. The trustees of any insolvent or bankrupt licensee, when the
-estate consists in part of alcoholic beverage, may continue the business of the
-sale or manufacture of alcoholic liquor under order of the appropriate court,
-and may exercise the privileges of deceased or insolvent or bankrupt license
-after the death of the decedent, or the solvency or bankruptcy until the
-expiration of the license, but not longer than six months after the death,
-bankruptcy or insolvency of the licensee. A refund shall be made of that
-portion of the license fees paid for any period in which the licensee shall be
-prevented from operating under the license in accordance with the provisions of
-this section.
-(Prior Code, § 110.24) (Ord. passed 9-14-1989)
+   No license shall be transferable. If there shall be any change from those
+named in the application, the license shall immediately become null and void.
+Any license granted shall not be subject to attachment, garnishment or
+execution, nor shall it be alienable or transferable, voluntarily or
+involuntarily, or subject to being encumbered or the subject matter of any
+lien. The license shall not descend by will or the laws of intestate
+succession, but shall terminate upon the death of any licensee. The trustees of
+any insolvent or bankrupt licensee, when the estate consists in part of
+alcoholic beverage, may continue the business of the sale or manufacture of
+alcoholic liquor under order of the appropriate court, and may exercise the
+privileges of deceased or insolvent or bankrupt license after the death of the
+decedent, or the solvency or bankruptcy until the expiration of the license,
+but not longer than six months after the death, bankruptcy or insolvency of the
+licensee. A refund shall be made of that portion of the license fees paid for
+any period in which the licensee shall be prevented from operating under the
+license in accordance with the provisions of this section.
+(Prior Code, § 110.24) (Ord. passed 9-14-1989; Ord. 2025-03, passed 3-20-2025)
 § 110.25 SEPARATE LICENSE FOR EACH LOCATION.
    Separate license for each separate location is required. Only one location
 shall be described in each license issued.
@@ -8903,10 +8904,12 @@ proposed new location is a proper one for the retail sale of alcoholic liquor
 under the law of this state and the terms and provisions of this chapter.
 (Prior Code, § 110.26) (Ord. passed 9-14-1989)
 § 110.27 PEDDLING PROHIBITED.
-   It shall be unlawful for any person, firm, partnership or corporation to
-peddle alcoholic liquor in the county outside the corporate limits of any city,
-town or village.
-(Prior Code, § 110.27) (Ord. passed 9-14-1989) Penalty, see §
+   It shall be unlawful for any person, partnership, corporation, limited
+liability company, other like business entity, or any individual member(s) or
+agent(s) of such business entity to peddle alcoholic liquor in the county
+outside the corporate limits of any city, town or village.
+(Prior Code, § 110.27) (Ord. passed 9-14-1989; Ord. 2025-03, passed 3-20-2025)
+Penalty, see §
 110.99
 § 110.28 REVOCATION OR SUSPENSION OF LICENSE.
    (A)   When any license shall have been revoked for any cause, no license
@@ -8952,7 +8955,7 @@ secure the licensee’s faithful compliance with the terms of this chapter shall
 be forfeited, and it shall thereafter be unlawful and shall constitute a
 further violation of this chapter for the licensee to continue to operate under
 the license.
-   (G)   Whenever any officer, director, manager or other employee in a
+   (G)   Whenever any officer, director, manager, agent, or other employee in a
 position of authority of any licensee under this chapter shall be convicted of
 any violation of this chapter while engaged in the course of his or her
 employment or while upon the premises described by the license, and the license
@@ -8960,7 +8963,8 @@ shall be suspended or revoked and the fees paid thereon forfeited, and the bond
 given by the licensee to secure the faithful compliance with the terms of this
 chapter shall be forfeited in like manner as if the licensee has himself or
 herself been convicted.
-(Prior Code, § 110.28) (Ord. passed 9-14-1989) Penalty, see §
+(Prior Code, § 110.28) (Ord. passed 9-14-1989; Ord. 2025-03, passed 3-20-2025)
+Penalty, see §
 110.99
 STANDARDS OF OPERATION
 § 110.40 HOURS OF OPERATION.
@@ -8978,17 +8982,17 @@ prohibits the sale of alcoholic beverages.
 110.99
 § 110.42 SERVING RESTRICTIONS.
    No licensee shall sell, give or deliver alcoholic beverage to any minor, or
-to any intoxicated person, or to any person known to him or her to be a
-habitual drunkard, spendthrift or insane, mental or deficient person.
-(Prior Code, § 110.42) Penalty, see §
+to any intoxicated person.
+(Prior Code, § 110.42) (Ord. 2025-03, passed 3-20-2025) Penalty, see §
 110.99
 § 110.43 SANITARY CONDITIONS OF PREMISES.
    All premises used for the retail sale of alcoholic beverages or for the
 storage of the beverages for the sale shall be kept in a clean and sanitary
 condition, and shall be kept in full compliance with the laws of the state and
-the ordinance or resolution of the county regulating the condition of premises
+any ordinance or resolution of the county regulating the condition of premises
 used for the storage or sale of food for human consumption.
-(Prior Code, § 110.43) (Ord. passed 9-14-1989) Penalty, see §
+(Prior Code, § 110.43) (Ord. passed 9-14-1989; Ord. 2025-03, passed 3-20-2025)
+Penalty, see §
 110.99
 § 110.44 RESTRICTION ON LOCATION.
    No license shall be issued for the sale at retail of any alcoholic beverage
@@ -8997,43 +9001,44 @@ person or for veterans, their wives or children, or any military station.
 (Prior Code, § 110.44) (Ord. passed 9-14-1989) Penalty, see §
 110.99
 § 110.45 LIQUOR CONTROL COMMISSIONER AND COMMISSION.
-   (A)   The Chairperson of the County Board shall be the Liquor Control
-Commissioner and shall head the Liquor Control Commission appointed in accord
-with the terms of this chapter.
+   (A)   The Chairperson of the County Board shall appoint a Liquor Control
+Commissioner, who shall head the Liquor Control Commission appointed in
+accordance with the terms of this chapter. The Chairperson of the County Board
+may serve as Liquor Control Commissioner but is not required to do so.
    (B)   The Chairperson of the County Board may appoint a Liquor Control
-Commission, hereinafter referred to as the Commission, from the members of the
-Board to assist him or her in the exercise of the powers and the performance of
-the duties provided in this chapter or under the State Liquor Control Act,
-being ILCS Ch. 255, Act 5, for the Liquor Control Commissioner. The number so
-appointed shall not be less than three, nor more than five, members, not
-including the Chairperson of the Board. Attendance at a meeting by more than
-one-half of the appointed members shall permit the convening of the Commission.
-If the Chairperson of the Board is absent or is unable to perform the duties of
-the Chairperson of the Commission for any reason, he or she may appoint a
-member of the Commission to act in his or her place. Any person so appointed
-shall perform all of the functions and duties which the Chairperson of the
-Commission would normally perform.
+Commission, hereafter referred to as the Commission, from the members of the
+Board to assist the Liquor Control Commissioner in the exercise of the powers
+and the performance of the duties provided in this chapter or under the Liquor
+Control Act of 1934 (ILCS Ch. 235, Act 5, §§ 1 et seq.) for the Liquor Control
+Commissioner. The number so appointed shall not be less than three, nor more
+than five, members, not including the Liquor Control Commissioner. Attendance
+at a meeting by more than one-half of the appointed members shall permit the
+convening of the Commission. If the Liquor Control Commissioner is absent or is
+unable to perform the duties of the office for any reason, he or she may
+appoint a member of the Commission to act in his or her place. Any person so
+appointed shall perform all functions and duties which the Liquor Control
+Commissioner would normally perform.
    (C)   The Commission by majority vote at a convened meeting may issue, or
-revoke or suspend any retail dealer’s license in accordance with the provisions
-of this chapter or on the basis of provisions by any law of the state
-pertaining to the sale of alcoholic beverages.
+revoke or suspend any dealer's license in accordance with the provisions of
+this chapter or on the basis of provisions by any law of the state pertaining
+to the sale of alcoholic beverages.
    (D)   In case of a tie vote of the Commission members at a convened meeting,
-the Chairperson of the Commission shall vote to break the tie.
+the Liquor Control Commissioner shall vote to break the tie.
    (E)   The Commission shall keep or cause to be kept a complete record of all
 licenses issued by the Commission, and shall furnish the County Treasurer,
-State’s Attorney and Sheriff each with a copy thereof; upon the issuance of any
-license or revocation of any license the Liquor Control Commissioner or
+State's Attorney and Sheriff each with a copy thereof. Upon the issuance of any
+license or revocation of any license, the Liquor Control Commissioner or
 Commission shall give notice of the action by the Liquor Control Commissioner
 or Commission to each of these officers within 48 hours of the action.
-(Prior Code, § 110.55) (Ord. passed 9-14-1989)
+(Prior Code, § 110.55) (Ord. passed 9-14-1989; Res. 25-10, passed 12-18-2025)
 § 110.99 PENALTY.
-   Any person, firm or corporation violating any provisions of this chapter
-shall be fined not less than $100, nor more than $500, for each offense and for
-the second or subsequent offense fined not less than $1,000 or by imprisonment
-in the county jail not more than six months, or by both fine and imprisonment,
-and a separate offense shall be deemed committed each day during or on which
-the violation occurs or continues.
-(Prior Code, § 110.99) (Ord. passed 9-14-1989)
+   Any person, partnership, corporation, limited liability company, other like
+business entity, or any individual member(s) or agent(s) of such business
+entity who violate any provisions of this chapter shall be fined not less than
+$100, nor more than $500, for each offense and for the second or subsequent
+offense fined not less than $1,000, and a separate offense shall be deemed
+committed each day during or on which the violation occurs or continues.
+(Prior Code, § 110.99) (Ord. passed 9-14-1989; Ord. 2025-03, passed 3-20-2025)
 CHAPTER 111: FOOD SERVICE SANITATION
 Section
 General Provisions
@@ -11590,12 +11595,14 @@ General Provisions
    
 153.09   Indemnification
    
-153.10   Fees charged for building permit
+153.10   Building permit requirements
    
 153.11   Proposals for erected structures
    
 153.12   Effective date
-   Special Use Regulations
+   
+153.13   Fees
+Siting Permit Regulations
    
 153.25   Siting approval application
    
@@ -11608,49 +11615,53 @@ General Provisions
 153.29   Insurance
    
 153.30   Decommissioning plan
+   
+153.31   Variances
 GENERAL PROVISIONS
 § 153.01 TITLE.
-   This chapter shall be known as, referred to or cited as the “DeWitt County
-Commercial Wind Energy Conversion Ordinance of DeWitt County, Illinois”.
-(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023)
+   This chapter shall be known as, referred to or cited as the "DeWitt County
+Commercial Wind Energy Conversion Ordinance of DeWitt County, Illinois.”
+(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025)
 § 153.02 STATUTORY AUTHORIZATION.
    These regulations are adopted under the authority of state statutes. The
 County Board does hereby ordain this chapter.
-(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023)
+(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025)
 § 153.03 PURPOSE.
    This chapter is adopted for the following purposes:
-   (A)   To promote the use of renewable energy sources if cost effective and
+   (A)   To enable the use of renewable energy sources if cost effective and
 technically feasible; and
    (B)   It is in the best interests of the citizens of the county that zoning
 and other regulations be promulgated so as to implement restrictions on the
 placement and operation of wind energy conversion systems within the county,
-which preserve and/or protect the public health and/or safety of all citizens
-residing in the county.
-(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023)
+which preserve and protect the public health, safety and property of all
+citizens residing in the county.
+(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025)
 § 153.04 INTENT.
    The intent of this chapter is to provide a means to regulate and restrict
 the locations within the county where wind energy systems and facilities can be
 constructed.
-(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023)
+(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025)
 § 153.05 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
-   APPLICANT. A person or entity applying for a special use permit to construct
-a wind energy conversion system or facility in the county.
+   APPLICANT. A person or entity, and its successors and/or assigns, applying
+for a siting permit to construct a wind energy conversion system or facility in
+the county.
    COMMERCIAL WIND ENERGY FACILITY. A wind energy conversion facility of equal
 or greater than 500 kilowatts in total nameplate generating capacity.
 COMMERCIAL WIND ENERGY FACILITY includes wind energy conversion facility
 seeking an extension or a permit to construct granted by a county or
 municipality before the effective date of this amendatory Act of the 102nd
 General Assembly.
-   FACILITY OWNER. (i) A person with a direct ownership interest in a
-commercial wind energy facility, regardless of whether the person is involved
-in acquiring the necessary rights, permits, and approvals or otherwise planning
-for the construction and operation of the facility, and (ii) at the time the
-facility is being developed, a person who is acting as a developer of the
-facility by acquiring the necessary rights, permits, and approvals or by
-planning for the construction and operation of the facility, regardless of
-whether the person will own or operate the facility.
+   FACILITY OWNER.
+      (1)   A person with a direct ownership interest in a commercial wind
+energy facility, regardless of whether the person is involved in acquiring the
+necessary rights, permits, and approvals or otherwise planning for the
+construction and operation of the facility; and
+      (2)   At the time the facility is being developed, a person who is acting
+as a developer of the facility by acquiring the necessary rights, permits, and
+approvals or by planning for the construction and operation of the facility,
+regardless of whether the person will own or operate the facility.
    GOOD UTILITY PRACTICE. Any of the practices, methods and acts engaged in or
 approved by a significant portion of the electric utility industry during the
 relevant time period, or any of the practices, methods and acts which, in the
@@ -11659,7 +11670,7 @@ decision was made, could have been expected to accomplish the desired result at
 a reasonable cost consistent with good business practices, reliability, safety
 and expedition. GOOD UTILITY PRACTICE is not intended to be limited to the
 optimum practice, method, or act to the exclusion of all others, but rather to
-be acceptable practices, methods or acts generally accepted in the region,
+be acceptable practices, method or acts generally accepted in the region,
 including those practices required by Federal Power Act § 215(a)(4), being 18
 C.F.R. § 215.
    NON-PARTICIPATING PROPERTY. Real property that is not a participating
@@ -11683,17 +11694,25 @@ wind energy facility or supporting facilities.
 property and that is existing and occupied on the date that an application for
 a permit to develop the commercial wind energy facility is filed with the
 county.
-   PROTECTED LANDS. Real property that is: (i) subject to a permanent
-conservation right consistent with the Real Property Conservation Rights Act;
-or (ii) registered or designated as a nature preserve, buffer, or land and
+   PROTECTED LANDS. Real property that is:
+      (1)   Subject to a permanent conservation right consistent with the Real
+Property Conservation Rights Act; or
+      (2)   Registered or designated as a nature preserve, buffer, or land and
 water reserve under the Illinois Natural Areas Preservation Act.
+   SHADOW FLICKER. An intermittent change in the intensity of light in a given
+area resulting from the operation of a wind turbine due to its interaction with
+the sunlight.
+   SUPPORTING FACILITIES. The transmission lines, substations, access roads,
+meteorological towers, storage containers, and equipment associated with the
+generation and storage of electricity by the commercial wind energy facility.
+SUPPORTING FACILITIES includes energy storage systems capable of absorbing
+energy and storing it for use at a later time, including, but not limited to,
+batteries and other electrochemical and electromechanical technologies or
+systems.
    TOWER HEIGHT. The distance from the tip of the rotor blade at its highest
 point to the top surface of the WECS foundation. For the purposes of this
 chapter, TOTAL TOWER HEIGHT and TOTAL HEIGHT shall be considered the same
 dimension as TOWER HEIGHT.
-   SUPPORTING FACILITIES. The transmission lines, substations, access roads,
-meteorological towers, storage containers, and equipment associated with the
-generation and storage of electricity by the commercial wind energy facility.
    WIND ENERGY CONVERSION SYSTEMS (WECS). Equipment that converts and then
 stores or transfers energy from the wind into usable forms of energy.
    WIND ENERGY SYSTEM FACILITY (WESF). All land and equipment used by the wind
@@ -11704,26 +11723,27 @@ systems.
    WIND TURBINE. A mechanical device, which captures kinetic energy of the wind
 and converts it into electricity. The primary components of a WIND TURBINE are
 the blade assembly, electrical generator and tower.
-(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023)
+(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025;
+Res. 2026-03 passed 3-19-2026)
 § 153.06 INTERPRETATION.
    The provisions of this chapter shall be interpreted and applied as minimum
 requirements; shall be liberally construed in favor of the county; and shall
 not be deemed a limitation or repeal of any other power granted by state
 statutes.
-(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023)
+(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025)
 § 153.07 JURISDICTION.
    The jurisdiction of this chapter shall include all lands and waters within
 the county and within those municipalities not having in force their own wind
 energy conversion ordinance.
-(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023)
+(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025)
 § 153.08 ABROGATION AND GREATER RESTRICTIONS.
    It is not intended by this chapter to repeal, abrogate, annul or interfere
 with any existing easements, covenants, deed restrictions, agreements,
 ordinances, rules, regulations or permits previously adopted or issued pursuant
 to law. However, wherever this chapter imposes greater restrictions, the
-provisions of this chapter shall govern that are not in conflict with state
-statutes.
-(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023)
+provisions of this chapter shall govern those that are not in conflict with
+state statutes.
+(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025)
 § 153.09 INDEMNIFICATION.
    (A)   The applicant shall defend, indemnify and hold harmless the county and
 its officials, employees and agents from and against any and all claims,
@@ -11748,178 +11768,218 @@ project, application, action, permit, or work undertaken or performed by the
 county shall be paid by the applicant, owner or operator, including, but not
 limited to, the cost of experts and attorney's fees.
 (Ord. passed 4-23-2009; Res. 2021-05, passed 1-21-2021; Res. 23-9, passed 5-18-
-2023)
-§ 153.10 FEES CHARGED FOR BUILDING PERMIT.
-   (A)   A special use permit is required prior to obtaining a building permit.
-   (B)   A building permit is required for the installment of each tower
-located within the unincorporated lands within the boundaries of DeWitt county.
-The building permit must be submitted to the county Zoning Administrator on the
+2023; Ord. passed 5-22-2025)
+§ 153.10 BUILDING PERMIT REQUIREMENTS.
+   (A)   A siting permit is required prior to obtaining a building permit.
+   (B)   A building permit is required for the installation of each tower
+located within the unincorporated lands within the boundaries of the county.
+The building permit must be submitted to the County Zoning Administrator on the
 approved application form.
    (C)   All WECS building/construction plans shall include a certification by
 an Illinois Licensed Structural Engineer that the foundation and tower design
 on the WECS is within accepted professional standards, given local soil and
 climate conditions.
-   (D)   Site plan with all of the following items to the extent that items
-mentioned below are identifiable by landowner of ALTA survey:
-      (1)   Electrical cabling from the WECS Tower to the substation;
-      (2)   Ancillary equipment;
-      (3)   Third party transmission lines;
-      (4)   Wells;
-      (5)   Septic fields;
-      (6)   Field tile location;
-      (7)   Existing easements;
-      (8)   Floodplain location and elevation, if applicable; and
-      (9)   Wetland location, if any.
-   (E)   Letter from the FAA stating the project is in compliance with FAA
+   (D)   A letter from the FAA stating the WESF is in compliance with FAA
 height and lighting requirements.
-   (F)   A building permit fee is required as stated in §
-155.126(C)(i) - Structures other than buildings.
-   (G)   The owner or operator of the WECS must submit, on a yearly basis, a
-summary of:
-      (1)   The operation and maintenance reports;
-      (2)   Any physical modifications to the WECS; and
-      (3)   Complaints pertaining to setbacks, noise, appearance, safety,
-lighting, use of roads, shadow flickers, etc.
-(Ord. passed 4-23-2009; Ord. passed 4-20-2017; Res. 23-9, passed 5-18-2023)
+   (E)   A determination of "no hazard" for each wind turbine must be obtained
+from the FAA and must be based on each structure's final location, as a
+condition precedent for the issuance of a building permit for each turbine.
+   (F)   Roadway permits. The applicant shall, prior to the initiation of
+construction and use of public roads for hauling materials and equipment,
+consult with the County Engineer, the Highway Authority (Township Road
+Commissioner), the State Police and the County Sheriff's Office for load paths
+and restrictions on their respective impacted roads or bridges. The applicant
+shall obtain, at the applicant's expense, all necessary permits from all
+applicable highway authorities and from the County Engineer.
+(Ord. passed 4-23-2009; Ord. passed 4-20-2017; Res. 23-9, passed 5-18-2023;
+Ord. passed 5-22-2025)
 § 153.11 PROPOSALS FOR ERECTED STRUCTURES.
    Any wind tower or electric-generating wind device proposed to be erected
-within 1.5 miles of the corporate limits of an incorporated village or
-municipality shall be subject to the approval of said incorporated village or
-municipality before a special use permit shall be granted for said proposed
-wind tower or electric-generating device.
-(Res. 2018-02, passed 4-19-2018; Res. 23-9, passed 5-18-2023)
+within one and one-half miles of the corporate limits of an incorporated
+village or municipality shall be subject to the approval of said incorporated
+village or municipality before a siting permit shall be granted for said
+proposed wind tower or electric-generating device.
+(Res. 2018-02, passed 4-19-2018; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-
+2025)
 § 153.12 EFFECTIVE DATE.
    This chapter shall immediately take effect upon passage as provided by law.
-(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023)
-SPECIAL USE REGULATIONS
+(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025)
+§ 153.13 FEES.
+   (A)   Siting permit fees.
+      (1)   A siting permit is required for towers constructed or erected as
+part of the WESF with a siting permit application fee based on the
+participating properties, as follows: shall not exceed $5,000 per each megawatt
+of nameplate capacity of the energy facility, and the maximum fee is $125,000.
+      (2)   This fee shall be used to cover the county's costs incurred during
+the siting application review process, public hearings, and board approval of
+the WESF including, but not limited to, internal expenses, hiring external
+technical experts, attorneys, or other professionals to assist with the review,
+meeting venues for public hearings, and all other expenses incurred by the
+county to ensure the application meets the requirements of this chapter. Should
+the actual costs to the county exceed the fee amount, the applicant shall be
+responsible for those costs and shall remit additional funds within 15 days'
+written notice from the county.
+   (B)   Building permit fees.
+      (1)   A building permit fee is required and shall not exceed $5,000 per
+each megawatt of nameplate capacity of the energy facility, and the maximum fee
+is $75,000.
+      (2)   The county shall retain, at the applicant's expense, the services
+of an independent engineering consultant to assist with permitting. The
+consultant shall be an Illinois state Licensed Professional Engineer. The
+consultant shall submit invoices for services to the applicant and the County
+Zoning Administrator bi-monthly. The applicant shall process and submit payment
+directly to the consultant within 15 business days of receipt of invoice.
+(Ord. passed 5-22-2025; Ord. passed 5-22-2025; Res. 2026-03, passed 3-19-2026)
+SITING PERMIT REGULATIONS
 § 153.25 SITING APPROVAL APPLICATION.
    Wind energy system facilities and parts thereof shall meet the following
-requirements:
-   (A)   Comply with application procedures required by
-Chapter 155 of this code of ordinances;
-   (B)   Provide properly executed agreements:
-      (1)   "Road upgrade and maintenance agreement" with each highway
-authority having jurisdiction over potentially impacted highways, roads and
-streets by the development of the WESF.
-   (C)   (1)   Submit a site plan for the installation of WESFs showing:
-         (a)   Boundaries of the project;
-         (b)   Location of each WECS tower, guy lines and anchor bases (if
-any);
-         (c)   All WECS structures including, but not limited to, the project
-substations; interconnect substation; location and voltage of any buried and
-overhead transmission lines;
-         (d)   Property lines (including identification of adjoining properties
-and owners);
-         (e)   Setback lines;
-         (f)   Public access roads and turnout locations;
-         (g)   Location of all existing structures with principal residential
-structures identified; and
-         (h)   Land use, zoning, public roads and structures indicating the
-required setbacks for the WECS site.
-      (2)   The site plan shall include a legal description and plat of the
-WESF to be prepared by a licensed surveyor. The plat of survey to be furnished
-shall be a certified copy in recordable form.
-   (D)   Submit all required federal, state and local regulatory agencies’
-studies, reports, certifications and approvals demonstrating compliance with
-the provisions of this chapter and other county ordinances;
-   (E)   (1)   Wind energy system facilities shall comply with all Federal
-Aviation Administration (FAA) and Federal Communication Commission (FCC)
-requirements. In addition, the WESF shall be required to use an FAA approved
-Aircraft Lighting Mitigation System to reduce the impacts of nighttime lighting
-on county residents and wildlife. The location of WESF components shall be
-modified or adjusted as necessary for an application to be accepted by FAA.
-      (2)   If approved by the FAA the most effective system approved shall be
-utilized. In determining which system is more effective, sole discretion shall
-be vested with the DeWitt County Board, and shall be decided by majority vote.
-The County Board may grant a grace period in its discretion for the
-installation of lighting mitigation equipment by majority vote not to exceed a
-year upon the structure being constructed. No extensions may be granted beyond
-one year for any reason.
-      (3)   If other multi-level structures excluding structures built and
-intended for family occupancy are built within 2,000 feet of existing WECS
-towers, a study shall be conducted as a pre-requisite to the issuing of a
-permit. Said study must show that there shall be no interference with existing
-lighting mitigation on currently standing WECS towers. If a study concludes
-that interference exists, then the builder of the structure must present proof
-that the interference is rectified prior to the issuance of a permit. Said
-study shall be conducted by an entity approved by the County Board of DeWitt
-County by majority vote, and the costs of said study shall be paid by the
-builder and/or owner of the proposed structure. The above requirements shall be
-a condition of any permit granted.
-      (4)   The applicant shall prepare a shadow flicker study including the
-potential effects of each proposed WECS on all principal residential
-structures. The results will identify the locations and expected duration of
+requirements at the applicant's expense:
+   (A)   Provide properly executed agreements with other public entities to
+mitigate the effects of the design, construction, maintenance and
+decommissioning of the WESF on their infrastructure:
+      (1)   Road upgrade and maintenance agreement with each highway authority
+having jurisdiction over potentially impacted highways, roads and streets by
+the development of the WESF;
+      (2)   Agricultural impact mitigation agreement with the Department of
+Agriculture;
+      (3)   All incorporated municipalities within one and one-half miles of
+the proposed WESF;
+      (4)   Any other public entity or division of local government whose
+facilities or infrastructure may be affected by the WESF;
+   (B)   Submit a site plan for the installation of WESFs showing:
+      (1)   Boundaries of the project;
+      (2)   Location of each WESF tower, guy lines and anchor bases (if any);
+      (3)   All WES structures including, but not limited to:
+         (a)   Project substations;
+         (b)   Interconnect substation;
+         (c)   Location and voltage of all buried and overhead transmission
+lines;
+         (d)   All proposed temporary structures;
+         (e)   Concrete batch plants;
+         (f)   Aggregate and material storage laydown locations;
+         (g)   Asphalt paving plants, pug mills and related equipment
+locations;
+         (h)   ADLS equipment locations;
+         (i)   MET tower locations;
+         (j)   Switchyard locations;
+      (4)   Property lines including:
+         (a)   Identification of adjoining properties;
+         (b)   Identification of all property owners within and adjacent to the
+boundary;
+         (c)   Identification of all participating and non-participating
+properties;
+         (d)   Setback lines;
+      (5)   Access roads including turnout locations, pull-offs, staging, and
+parking areas;
+      (6)   Location of all existing structures with all residential structures
+identified;
+      (7)   Land use, zoning, public roads and structures indicating the
+required setbacks for the WESF site;
+      (8)   Through research of public records, landowners' coordination,
+coordination with appropriate public entities, visual observation and planned
+improvements:
+         (a)   Wells (existing and proposed);
+         (b)   All closed drains and open drains;
+         (c)   Septic fields within the WESF setback requirements;
+      (9)   Existing and proposed easements;
+      (10)   Floodplain boundaries showing 100-year flood elevations.
+   (C)   The site plan shall include a legal description and plat of the WESF
+prepared by an Illinois Licensed Land Surveyor.
+   (D)   Regulatory agencies.
+      (1)   Submit all required federal, state and local regulatory agencies'
+studies, reports, and certifications including, but not limited to the
+following agencies;
+         (a)   Illinois Department of Natural Resources (IDNR);
+         (b)   Illinois Department of Agriculture (IDOA);
+         (c)   Illinois Environmental Protection Agency (IEPA);
+         (d)   Illinois Historic Preservation Agency (IHPA);
+         (e)   United States Fish and Wildlife Service (USFWS);
+         (f)   Federal Communications Commission (FCC);
+         (g)   Federal Aviation Authority (FAA);
+         (h)   National Weather Service (NWS);
+         (i)   National Telecommunications and Information Administration
+(NTIA);
+         (j)   Department of Defense (DOD);
+      (2)   Proof of application to FAA for Aircraft Detection Lighting System
+(ADLS) and approval;
+      (3)   Provide all permits, approvals and letters demonstrating compliance
+with the provisions of this chapter, all other county ordinances, and state and
+federal regulations as appropriate for the design stage of the WESF;
+      (4)   Shadow flicker. The applicant shall prepare a shadow flicker study
+including the potential effects of each proposed WECS on all non-participating
+properties. The results will identify the locations and expected duration of
 shadow flicker over the course of a calendar year. This study shall be
-submitted as part of the special use permit application. Under no circumstances
-shall a WECS or testing facility produce shadow flicker or strobe effect on a
-non- participating residence in excess of 30 hours per calendar year. Non-
+submitted as part of the siting application. Under no circumstances shall a
+WECS or testing facility produce shadow flicker or strobe effect on non-
+participating residence in excess of 30 hours per calendar year. Non-
 participating property owners may waive these requirements in writing.
-   (F)   WESFs are permitted only in the Agricultural (A), Industrial (I) and
-Rural Development-1 (RD-1) Zoning Districts by special use permit;
-   (G)   (1)   A special use permit is required for towers constructed or
-erected as part of the WESF with a special use application fee of:
-         (a)   Two hundred dollars if two acres or less;
-         (b)   Two hundred and fifty dollars if greater than two acres, but
-less than ten acres;
-         (c)   Three hundred dollars if ten acres or greater, but less than 26
-acres; and
-         (d)   Twenty-six acres and over $100 plus $10 per acre.
-      (2)   A single special use application may be submitted for multiple
-towers.
-      (3)   This fee calculation shall supersede any other fee calculation for
-special use permits.
-   (H)   All work on the approved WESF must be completed within three years of
-the date work begins on the first tower foundation of the permitted phase; and
-   (I)   The Zoning Administrator and other agents, as designated by the County
-Board, shall have access to the WESF at all times during construction and
-maintenance to conduct inspections of the work being performed.
+   (E)   WESFs are permitted only in the Agricultural (A) and Industrial (I)
+Zoning Districts by siting permit.
+   (F)   The applicant shall file a minimum of 16 copies of the siting
+application along with the required application fee.
+   (G)   The applicant shall notify all county landowners within one and one-
+half miles of a participating property about the proposed project within ten
+business days of submitting the siting application. Notification shall be made
+by U.S. Mail and shall include the following information at a minimum:
+      (1)   Proposed WES boundary;
+      (2)   Proposed number of wind turbines;
+      (3)   Proposed wind tower heights;
+      (4)   Proposed generating capacity;
+      (5)   Name and contact information of applicant's representative.
+   (H)   A siting approval shall not be subject to any time deadline to start
+construction or obtain a building permit of less than five years from the date
+of siting approval. A county shall allow an applicant to request an extension
+of the deadline based upon reasonable cause for the extension request. The
+exemption shall not be unreasonably withheld, conditioned, or denied.
+   (I)   The County Zoning Administrator and other agents, as designated by the
+County Board, shall have access to the WESF at all times during construction
+and maintenance to conduct inspections of the work being performed.
 (Ord. passed 4-23-2009; Ord. passed 4-20-2017; Res. 2018-08, passed 8-22-2018;
 Res. 2021-01, passed 1-21-2021; Res. 2021-04, passed 1-21-2021; Res. 2021-06,
-passed 1-21-2021; Res. 23-9, passed 5-18-2023)
+passed 1-21-2021; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025; Res.
+2026-03, passed 3-19-2026)
 Cross reference:
    For road upgrade and maintenance agreement adopted pursuant to §
 153.25, see
 T.S.O. I
 § 153.26 STANDARDS.
    (A)   Construction standards. WESF shall be constructed in compliance with
-good utility practice for WESF. The applicant shall provide, as part of the
-building permit application, engineering drawings of the proposed foundation
-and tower design sealed by a licensed professional structural engineer.
-   (B)   Construction observation. The applicant shall retain, at the
-applicant’s expense, the services of an independent engineering consultant to
-observe construction of the WESF. The consultant shall be approved by the
-County Board prior to beginning any work on the WESF. The consultant shall be a
-state licensed professional engineering firm pre-qualified with the State
-Department of Transportation in the following categories: structures (typical),
-highways (roads and streets), special services (land survey) and construction
-inspection. The consultant shall visit the site at intervals appropriate to the
-stage of construction, or as otherwise directed by the county, in order to
-observe the progress and quality of work completed by the contractor. The
-consultant shall prepare reports for each visit to the site detailing
-observations of the work performed and forward those reports to the Zoning
-Administrator within three business days following the date of the site visit.
-   (C)   Compliance. If the county concludes that any part of the WESF was not
-constructed in compliance with the details of the permit application, good
-utility practice or constitutes a danger to persons or property, then upon
-notice being provided by the County Board, the applicant shall have 90 days to
-bring the non-compliant WESF(s) into compliance with the standards specified
-herein. If 90 days is insufficient time to cure the non-compliance, the
-applicant shall present a plan to the county describing the reason for the
-delay and the time frame for the cure to be put in place. Failure to bring the
-non-compliant WESF(s) into compliance or failure to provide a plan for
-compliance within 90 days shall constitute grounds for the county to demand
-removal of the WESF(s) at the applicant’s expense and all construction work on
-the WESF(s) shall cease until the non-compliances are resolved to the
-satisfaction of the County Board. The following minimum safety standards shall
-apply to the construction of the WESF.
-      (1)   All wiring between the wind turbines shall be underground.
-      (2)   The outside of the WECS shall not be climbable.
-      (3)   All access doors to the turbines and electrical equipment shall be
-locked.
-   (D)   Performance standards. Any wind energy conversion system or wind
+good utility practice for WESF with the conditions of the siting permit, the
+applicable provisions of this code and all other applicable local, state, and
+federal requirements. The applicant shall provide, as part of the building
+permit application, engineering drawings and engineering analysis of the
+proposed foundation and tower design sealed by a licensed Illinois Professional
+Structural Engineer. All wiring between the wind turbines shall be underground
+and GPS located as it is installed. All location data shall be provided to the
+County Zoning Administrator.
+   (B)   Construction observation.
+      (1)   The county shall retain, at the applicant's expense, the services
+of an independent engineering consultant to observe construction of the WESF.
+The consultant shall meet the approval of the County Board prior to beginning
+any work on the WESF. The consultant shall be an Illinois state licensed
+professional engineering firm pre-qualified with the State Department of
+Transportation in the following categories: structures (typical), highways
+(roads and streets), special services (land survey) and construction
+inspection. The consultant shall have sufficient knowledge and experience to
+perceive WESF construction issues and understand the design problems involved.
+      (2)   The consultant shall visit the site at intervals appropriate to the
+stage of construction, or as otherwise directed by the County Zoning
+Administrator, in order to observe the progress and quality of work completed
+by the contractor.
+      (3)   The consultant shall prepare reports for each visit to the site
+detailing observations of the work performed and forward those reports to the
+County Zoning Administrator within three business days following the date of
+the site visit.
+      (4)   If the consultant discovers any inconsistencies, omissions or
+ambiguities in the field with accepted construction standards, issued for
+construction documents, or change orders, they shall promptly notify the County
+Zoning Administrator in writing.
+   (C)   Performance standards. Any wind energy conversion system or wind
 energy system facility shall be operated and maintained consistent with good
-utility practice for comparable facilities.
-   (E)   State and federal standards. Construction of WESF(s) shall meet or
+utility practice for comparable facilities, with the conditions of the siting
+permit, the applicable provisions of the County Code of Ordinances and all
+other applicable local, state and federal requirements.
+   (D)   State and federal standards. Construction of WESF(s) shall meet or
 exceed current standards and regulations, if any, of any other agency of the
 state or federal government with the authority to regulate wind powered
 generators. If the standards and regulations are changed and retroactive
@@ -11927,17 +11987,118 @@ application is required for the change, then the applicant shall bring the WESF
 (s) into compliance with the applicable revised standards and regulations
 within six months of the effective date of the standards and regulations,
 unless a different compliance schedule is permitted by the controlling state or
-federal agency or approved by the county. A determination of “no hazard” for
-each wind turbine must be obtained from the FAA as a condition precedent for
-the installation of each turbine.
-(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023)
+federal agency or approved by the County Board. A determination of "no hazard"
+for each wind turbine must be obtained from the FAA and must be based on each
+structure's final location, as a condition precedent for the issuance of a
+building permit for each turbine.
+   (E)   Safety standards.
+      (1)   Manufacturer safety standards. Applicant shall provide WECS
+manufacturer safety manuals with OSHA worker clearance zones for emergency
+situations. Manuals will be provided with the siting application for all
+turbines being considered for the project. Recommended minimum safety standards
+shall be incorporated in the project design and shall be followed during the
+construction and operation of turbines.
+      (2)   Fire protection. The applicant shall prepare a plan in consultation
+with the local fire department as part of the permitting process. The plan
+shall address all activities at the WESF from the start of construction through
+the end of power generation and the final removal and restoration of the site
+and shall describe a response plan to address all identified potential fire,
+rescue and hazardous materials scenarios. The owner/operator shall ensure that
+the WESF complies with the following control and prevention measures and
+assumes responsibility for all associated incremental costs:
+         (a)   Use of fireproof or fire-resistant building materials and
+buffers or fire-retardant landscaping around WECS, as appropriate.
+         (b)   Incorporation of a self-contained fire suppression system to
+address the nacelle.
+         (c)   Maintenance of firebreak areas, as appropriate, cleared of
+vegetation maintained as a fire/fuel break as long as the WESF is in operation.
+         (d)   Provision for any additional firefighting or rescue personnel,
+services, training, materials, or vehicles as may be required to address any
+emergency related to the WESF development that is beyond the current
+capabilities and duties of the affected fire districts.
+         (e)   Emergency vehicle access plan to maintain response times
+acceptable to the impacted fire districts.
+         (f)   Nothing in this section shall alleviate the need to comply with
+all other applicable fire laws and regulations.
+      (3)   Curtailment during severe weather events. The applicant must
+demonstrate the ability to curtail WECS during severe weather events to
+minimize the impact on the National Weather Service's (NWS) ability to protect
+life and property.
+         (a)   The applicant shall submit a curtailment plan with the siting
+application that outlines the procedures that will be followed and proposed
+time required for each step to curtail the WECS.
+         (b)   Prior to the issuance of building permits, the applicant must
+provide the following executed agreements:
+            1.   Interconnect agreement with the grid operator that provides
+evidence of the applicant's authority to unilaterally curtail operations and
+withdraw capacity during severe weather.
+            2.   Curtailment agreement with the NWS that provides for the
+voluntary curtailment of turbines at the request of the NWS.
+         (c)   In addition to the voluntary curtailment at the request of the
+NWS, the curtailment plan shall also commit to an automatic curtailment of
+turbines to be initiated immediately upon the National Weather Service issuance
+of a severe thunderstorm warning for DeWitt County, a tornado watch or warning
+for DeWitt County, or a tornado warning for a county immediately adjacent to
+DeWitt County where DeWitt County is in the projected path of the storm.
+         (d)   Curtailment shall continue for the duration of the watch/warning
+and consist of feathering the wind turbine blades to minimize rotation.
+         (e)   Within 15 days following a severe weather event where
+curtailment was requested or required, the owner or operator of the WESF shall
+submit a report to the DeWitt County Zoning Administrator that details the
+timeline of the weather
+event, when each step of the plan was initiated, and when it was completed. The
+timeline shall begin with the NWS request or the issuance of the NWS watch/
+warning and conclude with the expiration of the watch/warning or NWS request.
+         (f)   Curtailment of WESF during severe weather events shall be
+required for the life of the project, unless advances in technology, science or
+weather prediction methods allow for a discontinuation of the curtailment
+strategy. Discontinuation of the curtailment strategy will require approval by
+the DeWitt County Board upon receipt of written recommendation from the NWS to
+discontinue the curtailment strategy.
+         (g)   Failure to curtail one or more turbines within the timeframe
+allowed per the approved curtailment plan shall cause the owners of the WESF to
+pay a fine in an amount of $100 per megawatt (MW) of name plate capacity for
+any turbine that is not curtailed within the allowed timeframe. Every five
+minute period that the violation continues shall constitute a separate offense.
+Any violation shall result in a fine not less than $5,000.
+      (4)   Public property and private property.
+         (a)   Turnouts shall be used for oversized loads only and shall be
+closed off to regular traffic.
+         (b)   Staging and parking shall only be allowed in the designated
+areas and not on private property unless authorized by the owner in writing.
+         (c)   Parking near intersections shall not impact sight distances for
+the traveling public.
+      (5)   The outside of the WECS, ADLS towers and MET towers shall not be
+climbable.
+      (6)   All access doors to the turbines and electrical equipment shall be
+locked.
+   (F)   Materials handling, storage and disposal.
+      (1)   All solid wastes related to the construction, operation and
+maintenance of the WESF shall be removed from the site promptly and disposed of
+in accordance with all federal, state and local laws.
+      (2)   A list of hazardous materials that may be used on site shall be
+provided with the siting application. The list shall be kept up to date by the
+owner/operator of the WESF for the life of the project.
+      (3)   All hazardous materials related to the construction, operation and
+maintenance of the WESF shall be handled, stored, transported and disposed of
+in accordance with all applicable local, state and federal laws.
+   (G)   Wildlife standards. The WESF shall be located, designed, constructed,
+and operated so as to avoid and, if necessary, mitigate the impacts to wildlife
+to a sustainable level of mortality including the following:
+      (1)   Avoid locating WECS in known bird and bat migration pathways and
+daily movement flyways and known hibernacula and flight paths between bat
+colonies and bat feeding areas.
+      (2)   Site WECS and design mitigation measures in a manner that will
+achieve a level of mortality to birds and bats that will protect sustainability
+of local populations.
+(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025)
 § 153.27 TECHNICAL REQUIREMENTS.
    (A)   Height. There shall be no restriction on the height of any WESF,
 provided all other requirements of this chapter are met.
    (B)   Setback. A wind tower of a commercial wind energy facility shall have
 the following minimum setback distances measured from the center of the base of
 the wind tower. These setback requirements may be waived subject to the written
-consent of the owner of each affected nonparticipating property.
+consent of the owner of each affected non-participating property.
       (1)   Wind towers shall be setback 2.1 times the maximum blade tip height
 of the wind tower to the nearest point on the outside wall of the structure
 from occupied community buildings.
@@ -11946,12 +12107,12 @@ of the wind tower to the nearest point on the outside wall of the structure
 from participating residences.
       (3)   Wind towers shall be setback 2.1 times the maximum blade tip height
 of the wind tower to the nearest point on the outside wall of the structure
-from nonparticipating residences.
+from non-participating residences.
       (4)   There are no wind tower setback requirements regarding the boundary
 lines of participating property.
       (5)   Wind towers shall be setback 1.1 times the maximum blade tip height
-of the wind tower to the nearest point on the property line of the
-nonparticipating property.
+of the wind tower to the nearest point on the property line of the non-
+participating property.
       (6)   Wind towers shall be setback 1.1 times the maximum blade tip height
 of the wind tower to the center point of a public road right-of- way.
       (7)   Wind towers shall be setback 1.1 times the maximum blade tip height
@@ -11963,40 +12124,99 @@ utility service lines to individual houses or outbuildings.
       (9)   Wind towers shall be setback 2.1 times the maximum blade tip height
 of the wind tower to the nearest point on the property line of a fish and
 wildlife area or protected land.
-   (C)   Noise. The WESF shall comply with State Pollution Control Board noise
+   (C)   Lighting.
+      (1)   Wind energy system facilities shall comply with all Federal
+Aviation Administration (FAA) and Federal Communications Commission (FCC)
+requirements.
+      (2)   An Aircraft Detection Lighting System (ADLS) to mitigate the
+impacts of nighttime lighting on county residents and wildlife shall be
+required for all WESF projects if approved by the FAA.
+      (3)   The most effective ADLS system approved by the FAA shall be
+utilized.
+      (4)   The location of WESF and its components shall be modified or
+adjusted as necessary for an application to be approved by the FAA.
+      (5)   The applicant shall provide a letter of acceptance from the FAA
+with the siting application.
+   (D)   Light pollution. Any lighting of the WESF shall be established to
+protect the non-participating properties and the night sky from light
+pollution. Any lighting not required by the FAA shall be inward facing and not
+higher than 25 feet. The filament or light source shall be shielded with opaque
+material in such a way that they will not be visible at ground level or above
+from adjacent properties.
+   (E)   Noise.
+      (1)   The WESF shall comply with State Pollution Control Board noise
 regulations at all times.
-   (D)   Color. Excerpt as may be required by the FAA, the coloration of the
+      (2)   Within 12 months following the notice of commercial sale, the
+applicant, owner or operator shall, at their expense, submit a post
+construction noise profile study conducted by an expert sound consultant
+mutually agreed upon with the County Board. The study shall determine if the
+WESF is likely to comply with the noise requirements of this Chapter 153. The
+post construction sound measurements shall:
+         (a)   Be based upon good engineering practices and industry recognized
+international standards for measurements of WECS noise emissions.
+         (b)   Include measurements taken at not less than six locations chosen
+by the expert sound consultant on properties spread throughout the area to
+verify compliance. The locations chosen shall be selected to indicate probable
+maximum noise levels on non-participating properties. When permission is grated
+by non-participating property owners, those locations will be given priority;
+otherwise, participating properties will be used as close as reasonable to non-
+participating properties. The duration of monitoring will be for one calendar
+year to allow for changing seasons and ground cover conditions.
+         (c)   Any ground truthed noise study that indicates any violation of
+the limits set by the Illinois Pollution Control Board shall be immediately
+mitigated.
+         (d)   If the expert sound consultant determines that the WESF is
+likely to exceed the noise limits set by the Illinois Pollution Control Board,
+the applicant, owner or operator shall develop a mitigation strategy that meets
+the approval of the County Board.
+   (F)   Controls and brakes. All WECS shall be equipped with a redundant
+braking system. This includes both aerodynamic overspeed controls (including
+variable pitch, tip, and other similar systems) and mechanical brakes.
+Mechanical brakes shall be operated in a fail-safe mode. Stall regulation shall
+not be considered a sufficient braking system for
+overspeed protection.
+   (G)   Junction boxes. Above ground cable junction boxes utilized as part of
+the underground power collection system shall be located adjacent to wind
+turbines, private gravel access drives or within a reasonable distance to the
+public road right-of-way pursuant to terms of the road use agreement.
+   (H)   Color. Except as may be required by the FAA, the coloration of the
 exterior components and each wind turbine tower shall be off-white, light gray
 or other neutral color, including the blades. The finish shall be flat or
 matte. The applicant shall maintain the required coloration and finish
 throughout the term of this permit.
-   (E)   Signage.
-      (1)   The applicant shall provide reasonable signage at the WESF,
-identifying the premises as being part of the WESF and providing appropriate
-safety notices and warnings against trespassing. The no trespassing signs shall
-be posted around the entire premises at an appropriate distance for posting,
-but no less than two conspicuous places for every 40 acres within the facility.
-      (2)   No advertising material or signage other than warning, equipment
+   (I)   Warnings/signage.
+      (1)   A visible warning sign concerning voltage must be placed at the
+base of all padmounted transformers and substations.
+      (2)   Visible, reflective, colored objects, such as flags, reflectors, or
+tape shall be placed on the anchor points of guy wires and along the guy wires
+up to a height of 15 feet from the ground.
+      (3)   Upon completion of the construction of an approved WESF project, a
+visible sign, to warn people not to approach a turbine while operating must be
+placed at the entrance of each access road.
+      (4)   Upon completion of the construction of an approved WESF project, a
+sign that provides emergency contact information shall be posted on or near the
+operations and maintenance building.
+      (5)   The signs in divisions (I)(1)(3) and (4) above shall be made with
+letters and numbers at least three inches in height and shall include the 911
+address and an emergency phone number of the operator which shall be answered
+24 hours a day by a live operator. A non-emergency phone number for the
+operator shall also be displayed. These phone numbers shall remain active with
+all calls being voice recorded for verification purposes and with comments and
+complaints logged and reported to the County Zoning Administrator on a monthly
+basis. The recorded calls shall be maintained for at least 12 months.
+      (6)   No advertising material or signage other than warning, equipment
 information or indicia of ownership shall be allowed on the wind turbines. This
 prohibition shall include the attachment of any flag, decorative sign,
 streamers, pennants, ribbons, spinners or waving, fluttering or revolving
 devices, but not including weather devices.
-   (F)   Public records. The applicant shall, prior to the initiation of
-construction and use of public roads for hauling materials and equipment,
-consult with the County Engineer, the Highway Authority (Township Road
-Commissioner), the State Police and the County Sheriff’s Office for load paths
-and restrictions on their respective impacted roads or bridges. The applicant
-shall obtain, at the applicant’s expense, all necessary permits including the
-“road maintenance and upgrade agreement” from all applicable highway
-authorities and from the County Engineer.
-   (G)   Reporting and complaint resolution. The applicant shall report to the
+   (J)   Reporting and complaint resolution. The applicant shall report to the
 county as follows.
       (1)   Extraordinary events. Within 24 hours of any extraordinary event,
-Applicant shall notify the County Sheriff’s Office. EXTRAORDINARY EVENTS shall
+applicant shall notify the County Sheriff's Office. EXTRAORDINARY EVENTS shall
 include tower collapse, catastrophic turbine failure, unauthorized entry to the
-tower base, thrown blade or hub, or other event that, in the applicant’s
+tower base, thrown blade or hub, or other event that, in the applicant's
 opinion, reasonably impacts the public health and safety of the county.
-      (2)   Complaints. The applicant of the WESF shall, at the applicant’s
+      (2)   Complaints. The applicant of the WESF shall, at the applicant's
 expense and in coordination with the county, develop a system for logging and
 investigating all complaints related to the operational standards set forth in
 this chapter. If the county determines it is reasonable and necessary, it may
@@ -12008,7 +12228,7 @@ energy system facility. After the investigation, if the County Board reasonably
 concludes the operation violations are shown to be caused by the wind energy
 system facility, the applicant shall use reasonable efforts to mitigate the
 problems on a case by case basis.
-   (H)   Proximity to existing power transmission lines. The WESF shall be
+   (K)   Proximity to existing power transmission lines. The WESF shall be
 sited near existing power transmission lines capable of accepting the power
 generated by the facility. The applicant shall provide the following:
       (1)   A report detailing the excess capacity available in the power
@@ -12018,36 +12238,43 @@ transmissions lines relative to the proposed WESF site, the proposed route of
 connection to the existing power transmission lines and all affected
 landowners.
 (Ord. passed 4-23-2009; Ord. passed 4-20-2017; Res. 2018-03A, passed 4-19-2018;
-Res. 2021-02, passed 1-21-2021; Res. 23-9, passed 5-18-2023)
+Res. 2021-02, passed 1-21-2021; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-
+2025)
 § 153.28 OPERATION.
    (A)   Startup. The applicant shall not begin producing energy for commercial
-sale prior to receiving written approval to start operation by the Zoning
-Administrator. The applicant shall make the request to the Zoning Administrator
-in writing. The applicant shall certify the WESF has been constructed in
-accordance with this chapter.
+sale until after it has provided written notice ("notice of commercial sale")
+to the County Zoning Administrator certifying that the project has been
+constructed in accordance with this code, except the applicant may produce
+energy required for test, commissioning and pre-commercial generation and sale
+of electricity sufficient to ensure the WESF is operating in a safe and
+efficient manner, in accordance with this code, and to meet the contractual and
+regulatory obligations.
    (B)   Electromagnetic interference. Applicant shall not operate the facility
 so as to cause microwave, television, radio, radar systems or navigation
-interference. Any complaints received by the county shall be handled in
-accordance with §
-153.27(G)(2).
+interference. Any complaints received by the County Zoning Administrator shall
+be handled in accordance with §
+153.27(J)(2).
    (C)   Modification. Any modification that alters the mechanical load,
-mechanical load path or major electrical components shall require it to be re-
-permitted under the terms and conditions of this chapter. Prior to making any
-physical modification (other than like-kind replacement), the owner or operator
-of the WESF shall hire an independent licensed professional civil, mechanical
-or electrical engineer to determine whether the physical modification requires
-re-permitting. Like-kind replacements shall not require re-permitting.
+mechanical load path or major electrical components shall require permitting
+under the terms and conditions of this chapter. Prior to making any physical
+modification, the owner or operator of the WESF shall hire, with the approval
+of the County Zoning Administrator, an independent licensed professional civil,
+mechanical or electrical engineer to determine whether the physical
+modification requires re-permitting. Like kind replacements shall not require
+re-permitting. Repowering, whether with like kind or with a change in turbine
+MW output, will require applying for a new siting permit.
    (D)   Damages. Between initial construction and decommissioning, the WESF
 owner shall, at his, her or their expense, repair or replace, all soil
 compaction, drainage tile, utilities, public and private property damaged as
 part of on-going maintenance or other activities related to operation of the
-WESF.
+WESF. All damages shall be completed to the satisfaction of the public or
+private property owners.
 (Ord. passed 4-23-2009; Res. 2021-03, passed 1-21-2021; Res. 23-9, passed 5-18-
-2023)
+2023; Ord. passed 5-22-2025)
 § 153.29 INSURANCE.
    All applicants shall maintain the following insurance coverages commencing
 upon construction of the facility.
-   (A)   The dollar amounts listed herein are based on 2008 dollars. These sums
+   (A)   The dollar amounts listed herein are based on 2023 dollars. These sums
 shall be adjusted by the County Board for inflation in accordance with the
 Consumer Price Index as published by the United States Department of Labor,
 Bureau of Labor Statistics, to reflect the present value at the time of
@@ -12056,37 +12283,37 @@ three years thereafter.
    (B)   The applicant shall, at its expense, maintain a current broad form
 comprehensive general liability coverage insurance policy insuring the
 applicant and participating landowners against loss or liability caused by the
-applicant’s occupation and use of the property under the lease, in an amount
+applicant's occupation and use of the property under the lease, in an amount
 not less than $10,000,000 of combined single-limit liability coverage per
-occurrence, accident or incident. All policies other than workers’ compensation
+occurrence, accident or incident. All policies other than workers' compensation
 shall be written on an occurrence and not a claim-made basis. The county and
 participating landowners shall be named as an additional insured on the policy
 on a primary and non-contributory form.
-   (C)   Workers’ compensation coverage in an amount required by state law. The
+   (C)   Workers' compensation coverage in an amount required by state law. The
 applicant shall require subcontractors and others not protected under its
-insurance to obtain and maintain workers’ compensation and employer’s liability
+insurance to obtain and maintain workers' compensation and employer's liability
 insurance at $1,000,000/$1,000,000/$1,000,000 limits. The policy shall contain
-“waiver of subrogation” in favor of the county and participating landowners.
+"waiver of subrogation" in favor of the county and participating landowners.
    (D)   Certificates of insurance evidencing compliance with these
 requirements shall be provided upon request of the county. The insurer will
 provide notice to the county in the event there is a lapse in coverage
-exceeding 30 days. All policies other than workers’ compensation shall be
+exceeding 30 days. All policies other than workers' compensation shall be
 written on an occurrence and not on a claim made basis. The WESF owner shall
 provide certificates of insurance to the Zoning Administrator on an annual
 basis.
-   (E)   The applicant shall maintain “environmental - pollution liability”
+   (E)   The applicant shall maintain "environmental - pollution liability"
 coverage with a limit of not less than $5,000,000.
-(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023)
+(Ord. passed 4-23-2009; Res. 23-9, passed 5-18-2023; Ord. passed 5-22-2025)
 § 153.30 DECOMMISSIONING PLAN.
    (A)   The application for a WESF project must contain a decommissioning plan
 to ensure the WESF will be properly decommissioned upon the end of the project
 life or facility abandonment.
    (B)   The decommissioning plan shall include:
       (1)   Removal of all structures (including transmission equipment and
-fencing) and debris to depths as required by the signed Agricultural Impact
-Mitigation Agreement;
+fencing) and debris depths as required by the signed agricultural impact
+mitigation agreement;
       (2)   Restoration of the soil and restoration of vegetation as required
-by the signed Agricultural Impact Mitigation Agreement;
+by the signed agricultural impact mitigation agreement;
       (3)   An estimated cost of decommissioning provided by a mutually agreed
 upon licensed professional engineer (at the expense of the applicant);
       (4)   The financial resources to be used to accomplish decommissioning;
@@ -12098,7 +12325,7 @@ an escrow account with an escrow agent acceptable to the Zoning Enforcement
 Officer. Final approval on the form of the financial resource shall rest solely
 with the County Board or its designee. The financial resource shall be
 deposited with the chosen financial agent at the intervals and in the amounts
-as outlined in the AIMA Agreement.
+as outlined in the AIMA Agreement;
          (b)   A written financial agreement will be prepared establishing upon
 what conditions the funds will be disbursed;
          (c)   The county shall have access to the financial account funds for
@@ -12108,16 +12335,24 @@ facility abandonment;
          (d)   The county is granted the right of entry onto the site, pursuant
 to reasonable notice, to effect or complete decommissioning; and
          (e)   The county is granted the right to seek injunctive relief to
-effect or complete decommissioning, as well as the county’s right to seek
-reimbursement from the applicant or applicant’s successor for decommissioning
+effect or complete decommissioning, as well as the county's right to seek
+reimbursement from the applicant or applicant's successor for decommissioning
 costs in excess of the amount deposited in financial account and to file a lien
-against any real estate owned by the applicant or applicant’s successor, or in
+against any real estate owned by the applicant or applicant's successor, or in
 which they have an interest, for the amount of the excess, and to take all
 steps allowed by law to enforce the lien.
       (7)   Financial provisions shall not be so onerous as to make wind power
 projects unfeasible.
 (Ord. passed 4-23-2009; Am. Res. 2018-04, passed 4-19-2018; Res. 23-9, passed
-5-18-2023)
+5-18-2023; Ord. passed 5-22-2025)
+§ 153.31 VARIANCES.
+   When permitted by law, the County Zoning Board of Appeals may consider and
+grant variances to one or more of the regulations contained in this subchapter
+as outlined in §
+155.129. Variances will not be considered when requested as part of a siting
+application. Any requested variances that are included in a siting application,
+whether explicit or implied, shall be considered automatically denied.
+(Ord. passed 5-22-2025)
 CHAPTER 154: SUBDIVISIONS
 Section
 General Provisions
@@ -14123,7 +14358,7 @@ Residential Uses Agr. RD-1 RD-2 RD-3 R-1 R-2 R-3 R-4 B-1 B-2 B-3 I FP
 Residential Uses                                                        Agr. RD- RD- RD- R- R- R- R- B- B- B- I FP
                                                                              1   2   3   1  2  3  4  1  2  3
 Apartment as accessory use to a principal use in the same building      s    x   s             x     s  x  s  s
-Bed and breakfast, vacation home rental, board or lodging house         s    s   s   s         x     x  x  x
+Bed and breakfast, vacation home rental, board or lodging house         s    s   s   s         x     x  x  x  s
 Dwelling, multi-family, moderate density                                     s   s   s         x     x  x  x
 Dwelling, single-family                                                 x    x   x   x   x  x  x  x  x  x  x  s
 Dwelling, two-family                                                    x    s   s   s         x     x  x  x
@@ -14742,8 +14977,9 @@ and scrap yards
  
 (Prior Code, § 152.053) (Ord. passed 3-9-1976; Ord. passed 5-11-1982; Ord.
 passed 9-14-1989: Ord. passed 7-12-1990; Ord. passed 6-11-1992; Ord. passed 7-
-13-1995; Ord. passed 8-30-2012; Ord. passed 7- 10-2014; Ord. passed 4-21-2022;
-Ord. passed 8-24-2023; Ord. passed 6-20-2024; Ord. passed 10-24-2024)
+13-1995; Ord. passed 8-30-2012; Ord. passed 7-10-2014; Ord. passed 4-21-2022;
+Ord. passed 8-24-2023; Ord. passed 6-20-2024; Ord. passed 10-24-2024; Ord.
+passed 3-20-2025)
 AREA REGULATIONS
 § 155.065 DISTRICT LOT REGULATIONS.
    It shall be unlawful to erect or alter any structure within the county or
@@ -16941,8 +17177,12 @@ electric power generated by a Community Solar Garden.
    SUPPORTING FACILITIES. The transmission lines, substations, access roads,
 meteorological towers, storage containers, and equipment associated with the
 generation and storage of electricity by the commercial solar energy facility.
+SUPPORTING FACILITIES includes energy storage systems capable of absorbing
+energy and storing it for use at a later time, including, but not limited to,
+batteries and other electrochemical and electromechanical technologies or
+systems.
 (Res. 2019-01, passed 3-21-2019; Ord. passed 4-21-2022; Res. 23-10, passed 5-
-18-2023; Ord. passed 11-28-2023)
+18-2023; Ord. passed 11-28-2023; Res. 2026-02, passed 3-19-2026)
 § 157.06 GROUND MOUNT AND ROOF MOUNT.
    Ground mount and roof mount (SES) shall be permitted for private use in all
 zoning districts where there is a structure. The system shall not be designed
@@ -17065,11 +17305,12 @@ erected on any lot of five acres or less in size.
 in height when ground mounted. Excluded from this height requirement, however,
 are electric transmission lines and utility poles.
       (6)   Setbacks. Ground mounted solar energy systems as part of a solar
-facility shall have a setback for all equipment excluding fences a minimum of
-50 feet from all non-participating property lines and public road rights-of-
-way, and a minimum of 150 feet from all occupied community buildings and
-dwellings on non-participating properties. These setback requirements may be
-waived in writing by the affected non-participating property owner.
+facility shall have a setback for any above-ground component excluding fences a
+minimum of 50 feet from all non- participating property lines and public road
+rights-of- way, and a minimum of 150 feet from the nearest point on the outside
+wall of the structure of all occupied community buildings and dwellings on non-
+participating properties. These setback requirements may be waived in writing
+by the affected non- participating property owner.
       (7)   Fencing.
          (a)   Unless otherwise provided in this section, security fencing
 having a minimum height of six feet and a maximum of 25 feet shall be
@@ -17133,15 +17374,19 @@ Illinois registered landscape architect.
 in accordance with §
 157.08 of the DeWitt County Code.
             4.   All vegetative landscaping shall be planted at a minimum of
-three feet tall with an expected minimum height of eight feet.
+three feet tall. Vegetative screening requirements shall be commercially
+reasonable and limited in height at full maturity to avoid reduction of the
+productive energy output of the commercial solar energy facility. A county may
+not require vegetative screening to exceed five feet in height when first
+installed or prior to commercial operation date. The screening requirements
+shall take into account the size and location of the facility, visibility from
+non-participating residences, compatibility of native plant species, cost and
+feasability of installation and maintenance, and industry standards and best
+practices for commercial solar energy facilities.
             5.   All visual screens that are installed by the applicant shall
 be maintained in good condition by the applicant at all times.
             6.   The visual screen shall be installed as early as possible in
 construction phase of the SES.
-            7.   An alternative buffer may also be considered. Earth berms
-other topographical features and existing wooded areas may be accepted by a
-nonparticipating land owner in lieu or in combination of the above
-requirements, if they conceal the use from public view and are maintained.
       (9)   Lighting. If lighting is provided at the site, lighting shall be
 inward facing and not higher than 25 feet. When adjacent to residential areas,
 the filament or light source shall be shielded with opaque material in such a
@@ -17207,7 +17452,11 @@ requirements may be waived in writing by affected property owner.
       (16)   Any commercial solar energy system (SES) proposed within one and
 one-half miles of the corporate limits of an incorporated village or
 municipality shall be subject to the approval of said incorporated village or
-municipality before a siting permit shall be granted for said proposed SES.
+municipality before a siting permit shall be granted for said proposed SES. A
+county may also regulate the siting of commercial solar energy facilities with
+standards that are not more restrictive than the requirements specified in this
+section in unincorporated areas of the county that are outside of the zoning
+jurisdiction of a municipality.
    (B)   The following information shall be submitted as part of the siting
 permit application.
       (1)   A site plan with existing conditions showing the following:
@@ -17431,14 +17680,14 @@ strictly prohibited on Sundays and on federal or state recognized holidays.
       (3)   Exterior illumination of the construction site through the use of
 flood lights and/or similar lighting devices higher than 25 feet is strictly
 prohibited between the hours of 8:00 p.m. and 7:00 a.m. on any day of the week.
-   (I)   Where a siting permit has been issued pursuant to the provisions of
-this chapter, the permit may become null and void by action of the County Board
-unless work thereon commences within one year of the date of granting the site
-permit. A siting permit shall be deemed to authorize only one particular use
-and may be cancelled by the County Board if that use ceases for more than 12
-consecutive months.
+   (I)   A siting approval shall not be subject to any time deadline to start
+construction or obtain a building permit of less than five years from the date
+of siting approval. A county shall allow an applicant to request an extension
+of the deadline based upon reasonable cause for the extension request. The
+exemption shall not be unreasonably withheld, conditioned, or denied.
 (Res. 2019-01, passed 3-21-2019; Ord. passed 4-21-2022; Res. 23-10, passed 5-
-18-2023; Ord. passed 11-28-2023; Ord. passed 2-22-2024)
+18-2023; Ord. passed 11-28-2023; Ord. passed 2-22-2024; Res. 2026-02, passed 3-
+19-2026)
 § 157.09 COMPLIANCE WITH BUILDING PERMITS.
    The county shall retain, at the applicant's expense, the services of an
 independent engineering consultant to assist with permitting application and
@@ -17498,7 +17747,8 @@ APPLICATION.
    (A)   Siting permit fees. These fees shall apply only to SES projects and
 shall supersede any other fee calculation for siting permits.
       (1)   Community solar energy system is $5,000 per application.
-      (2)   Commercial solar energy facility is $5,000 plus $35 per acre.
+      (2)   Commercial solar energy facility is $5,000 per each megawatt of
+nameplate capacity of the energy facility, and the maximum fee is $125,000.
       (3)   This fee shall be used to cover DeWitt County's costs incurred
 during the siting permit application review process, public hearings, and Board
 approval of the SES including, but not limited to, internal expenses, hiring
@@ -17520,10 +17770,10 @@ days written notice from the county.
 1001-2000 kilowatts (kW-dc) $5,000
  
       (2)   The building permit fee for commercial solar energy facility is
-$5,000 for the first two megawatts (MW) and $1,000 for each additional megawatt
-(MW).
+$5,000 per each megawatt of nameplate capacity of the energy facility, and the
+maximum fee is $75,000.
 (Res. 2019-01, passed 3-21-2019; Ord. passed 4-21-2022; Res. 23-10, passed 5-
-18-2023; Ord. passed 11-28-2023)
+18-2023; Ord. passed 11-28-2023; Res. 2026-02, passed 3-19-2026)
 § 157.13 HEARING FACTORS.
    The County Board may approve a siting permit application if it finds the
 evidence complies with state, federal, and local law and regulations, and with
@@ -17697,11 +17947,11 @@ Ch. 110, Act 26                    36.15
 Ch. 210, Act 115                   35.05
 Ch. 210, Act 120                   155.095
 Ch. 220, Act 5                     36.15
-Ch. 225, Act 5                     110.45
 Ch. 225, Act 41                    36.15
 Ch. 225, Act 159                   36.15
 Ch. 225 Act 345, § 1              53.24
 Ch. 225, Act 465                   35.04
+Ch. 235, Act 5, §§ 1 et seq.     110.45
 Ch. 305, Act 5                     36.15
 Ch. 410, Act 130, §§ 1 et seq.   155.081
 Ch. 410, Act 620                   111.001
@@ -18192,6 +18442,19 @@ Res. No.   Date Passed Code Section
 24-7       8-22-2024   38.040
 24-9       11-21-2024  30.16,
                        31.01
+2025-06    6-18-2025   90.019
+2025-07    6-18-2025   38.345
+25-10      12-18-2025  110.45
+                       30.06;
+25-11      12-18-2025  30.15;
+                       37.05—
+                       37.07
+                       157.05;
+2026-02    3-19-2026   157.08;
+                       157.12
+                       153.05;
+2026-03    3-19-2026   153.13;
+                       153.25
                       
  
  
@@ -18493,6 +18756,22 @@ Ord. No. Date Passed Code Section
 -        11-28-2023  157.01—
                      157.16
 -        2-22-2024   157.08
+                     110.01;
+                     110.17—
+                     110.19;
+                     110.21;
+                     110.22;
+2025-03  3-20-2025   110.24;
+                     110.27;
+                     110.28;
+                     110.42;
+                     110.43;
+                     110.99
+-        3-20-2025   155.053
+                     153.01—
+-        5-22-2025   153.13;
+                     153.25—
+                     153.31
                     
  
  
