@@ -512,7 +512,7 @@ Standing Committees
 30.62   Standing committees
    
 30.63   Special committees
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 COMPOSITION.
    The Board of Trustees shall consist of the President and Trustees.
 (65 ILCS 5/3.1-45-5) (2000 Code, § 30.01)
@@ -583,7 +583,7 @@ or for other expenses incurred by the Trustee in the course of performing
 official duties, as approved by the Board of Trustees.
 (2000 Code, § 30.04) (Ord. 1837, passed 3-18-2002; Ord. 2004, passed 10-4-2004;
 Ord. 4062, passed 8-2-2010)
-RULES OF ORDER AND PROCEDURE
+**** RULES OF ORDER AND PROCEDURE ****
 § 30.15 MEETINGS.
    (A)   Regular meetings of the Board of Trustees shall be held at Village
 Hall, unless otherwise specified, on the third Monday of each month. The
@@ -788,7 +788,7 @@ officer is sustained, otherwise it is overruled.
    These rules may be amended or new rules adopted by an affirmative vote of
 five members of the Village Board.
 (Ord. 4047, passed 6-21-2010)
-ORDINANCES
+**** ORDINANCES ****
 § 30.40 ORDINANCES AND RULES TO EXECUTE POWERS.
    (A)   The Board of Trustees may pass all ordinances and make all rules and
 regulations proper or necessary, to carry into effect the powers granted to
@@ -973,7 +973,7 @@ standards are available in any public record of the state.
 Statutory reference:
    Incorporation by reference of technical codes and public records, see 50
 ILCS 220/1 through 7
-STANDING COMMITTEES
+**** STANDING COMMITTEES ****
 § 30.60 AUTHORITY TO ESTABLISH.
    (A)   The Board of Trustees may have one or more standing committees with
 the powers, functions and duties established by ordinance.
@@ -1146,7 +1146,7 @@ Other Officials
 31.127   Certificate of appointment
    
 31.128   Duty to successor
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.001 QUALIFICATIONS.
    (A)   A person is not eligible for an elective village office unless that
 person is a qualified elector of the village and has resided in the village at
@@ -1337,7 +1337,7 @@ proceeding, had reasonable cause to believe that the conduct was unlawful.
 other rights to which such official may otherwise be entitled as a matter of
 law.
 (Ord. 4048, passed 6-21-2010)
-PRESIDENT
+**** PRESIDENT ****
 § 31.020 ELECTION; TERM; VACANCY.
    (A)   As set forth in 65 ILCS 5/3.1-15-5, the President shall be elected by
 the electors of the village at a general village election held therein.
@@ -1408,7 +1408,7 @@ per fiscal year or such sum as is appropriate for any partial year served, paid
 on a bi-weekly basis.
 (2000 Code, § 31.22) (Ord. 1837, passed 3-18-2002; Ord. 2004, passed 10-4-2004;
 Ord. 4062, passed 8-2-2010)
-CLERK
+**** CLERK ****
 § 31.035 ELECTION; TERM; VACANCY.
    At every other election for Trustees, a Clerk shall also be elected who
 shall hold office for a four-year term. Whenever a vacancy in the office of a
@@ -1460,7 +1460,7 @@ fiscal year or such sum as is appropriate for any partial year served, paid on
 a bi-weekly basis.
 (2000 Code, § 31.37) (Ord. 1837, passed 3-18-2002; Ord. 2004, passed 10-4-2004;
 Ord. 4062, passed 8-2-2010)
-TREASURER
+**** TREASURER ****
 § 31.050 APPOINTMENT AND TERM.
    There is hereby created the office of Village Treasurer, who shall be
 appointed by the Village President with the advice and consent of the Board of
@@ -1480,7 +1480,7 @@ depositories as may be selected from time to time as provided by law.
 and paid by him or her showing the source from which it is received and the
 purpose for which it is paid, and showing the financial status of the village.
 (2000 Code, § 31.41) (Ord. 4148, passed 3-12-2012)
-VILLAGE ADMINISTRATOR
+**** VILLAGE ADMINISTRATOR ****
 § 31.065 CREATION OF OFFICE; TENURE.
    (A)   There is hereby created the office of Village Administrator, an
 administrative office of the village.
@@ -1592,7 +1592,7 @@ official duties.
 the Board of Trustees, consistent with the village ordinances or state law.
 (2000 Code, § 31.54) (Ord. 1132, passed 3-15-1982; Ord. 4000, passed 5-11-2009;
 Ord. 4149, passed 3-12-2012)
-DEPUTY VILLAGE ADMINISTRATOR
+**** DEPUTY VILLAGE ADMINISTRATOR ****
 § 31.080 CREATION OF OFFICE; TENURE.
    (A)   There is hereby created the office of Deputy Village Administrator, an
 administrative office of the village.
@@ -1620,7 +1620,7 @@ unless excused therefrom by the Village Administrator or the Board of Trustees.
 of all matters coming before the Board of Trustees, and shall be entitled to
 notice of all meetings, regular and special, of the Board of Trustees.
 (2000 Code, § 31.66) (Ord. 1476, passed 8-19-1991; Ord. 4001, passed 5-11-2009)
-DIRECTOR OF COMMUNITY DEVELOPMENT
+**** DIRECTOR OF COMMUNITY DEVELOPMENT ****
 § 31.095 OFFICE CREATED; APPOINTMENT.
    The office of Director of Community Development is established in the
 municipality. This office shall be filled by appointment by the President with
@@ -1664,7 +1664,7 @@ two hours.
 the Village Engineer prior to the commencement of any construction of public
 improvements.
 (Ord. 4085, passed 12-13-2010; Ord. 4086, passed 1-3-2011)
-ECONOMIC DEVELOPMENT DIRECTOR
+**** ECONOMIC DEVELOPMENT DIRECTOR ****
 § 31.110 OFFICE CREATED.
    There shall be established with the municipality the office of Economic
 Development Director, which position shall be filled by an appointee of the
@@ -1678,7 +1678,7 @@ implementation of economic development projects and programs, private sector
 investments, public sector inducements and grants, serves as a liaison between
 the village and business community.
 (2000 Code, § 31.81) (Ord. 4289, passed 10-5-2015)
-OTHER OFFICIALS
+**** OTHER OFFICIALS ****
 § 31.125 APPOINTMENT OF OTHER VILLAGE OFFICIALS.
    The President, with the advice and consent of the Board of Trustees, shall
 appoint such other officers and commissioners as are set forth by ordinance, as
@@ -1810,7 +1810,7 @@ Veterans Commission
 32.152   Goals and objectives
    
 32.153   Periodic reports
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 32.001 REPLACEMENT OF COMMISSION MEMBERS.
    Whenever a member of any commission designated in this chapter shall either
 resign, cease to be a legal voter in the village, neglect to perform required
@@ -1828,7 +1828,7 @@ partial year serve, paid on a bi-weekly basis.
 (2000 Code, § 32.002) (Ord. 820, passed 4-16-1973; Ord. 1089, passed 2-17-1981;
 Ord. 1458, passed 1-28-1991; Ord. 1837, passed 3-18-2002; Ord. 2004, passed 10-
 4-2004; Ord. 4062, passed 8-2-2010)
-BOARD OF FIRE AND POLICE COMMISSIONERS
+**** BOARD OF FIRE AND POLICE COMMISSIONERS ****
 § 32.030 CREATED; COMPOSITION.
    There is created a Board of Fire and Police Commissioners consisting of
 three members, as provided by statute.
@@ -1869,7 +1869,7 @@ President and Board of Trustees in the annual budget ordinance, or such sum as
 is appropriate for any partial year served, paid on a semi-annual basis at the
 end of the months of April and October.
 (2000 Code, § 32.044) (Ord. 533, passed 5-1-1961; Ord. 1710, passed 10-19-1998)
-ZONING BOARD OF APPEALS
+**** ZONING BOARD OF APPEALS ****
 § 32.045 CREATED; MEMBERS.
    There is hereby created a Zoning Board of Appeals for the village that shall
 consist of seven appointed citizen members appointed by the President and Board
@@ -1891,7 +1891,7 @@ and the Secretary of the Zoning Board of Appeals may receive such compensation
 as may be fixed from time to time by the Board of Trustees and provided for in
 the annual budget ordinance.
 (2000 Code, § 32.081) (Ord. 422, passed 4-5-1954; Ord. 4099, passed 5-2-2011)
-PARKS AND RECREATION COMMISSION
+**** PARKS AND RECREATION COMMISSION ****
 § 32.060 PURPOSE.
    The purpose of this Commission shall be to act as a liaison between the
 citizens of the village and the Parks and Recreation Department, in order to
@@ -1981,7 +1981,7 @@ personnel);
       (2)   Call for special meetings as determined by the Chairperson or Vice-
 Chairperson.
 (2000 Code, § 32.123) (Ord. 1287, passed 3-17-1986)
-ECONOMIC DEVELOPMENT COMMISSION
+**** ECONOMIC DEVELOPMENT COMMISSION ****
 § 32.075 ESTABLISHMENT.
    There is established a citizens’ commission that shall be known as the
 village’s Economic Development Commission for the purpose of structuring sound
@@ -2005,7 +2005,7 @@ office:
          (a)   Three Commissioners shall serve for a two-year term; and
          (b)   Two Commissioners shall serve for a one-year term.
 (Ord. 4281, passed 9-8-2015; Ord. 4312, passed 4-28-2016)
-PLAN COMMISSION
+**** PLAN COMMISSION ****
 § 32.090 PURPOSE.
    In order that adequate provisions be made for the preparation of a
 comprehensive municipal plan for the guidance, direction and control of the
@@ -2085,7 +2085,7 @@ public funds. If the Plan Commission shall deem it advisable to secure
 technical advice or services, it may be done on authority from the Board of
 Trustees and appropriations by the Board of Trustees therefor.
 (2000 Code, § 32.142) (Ord. 484, passed 12-17-1958; Ord. 502, passed 3-7-1960)
-EMERGENCY SERVICES AND DISASTER AGENCY
+**** EMERGENCY SERVICES AND DISASTER AGENCY ****
 § 32.110 ESTABLISHMENT.
    There is created the village ESDA to prevent, minimize, repair and alleviate
 injury or damage resulting from disaster caused by enemy attack, sabotage or
@@ -2278,7 +2278,7 @@ addition to all other taxes, as provided by the State ESDA Act, being 20 ILCS
 3305. However, the amount collectible under such levy shall in no event exceed
 $0.25 per capita.
 (2000 Code, § 32.168)
-EDUCATION COMMISSION
+**** EDUCATION COMMISSION ****
 § 32.135 ESTABLISHMENT; APPOINTMENT AND TERM.
    (A)   The Board of Trustees hereby establishes an Education Commission that
 shall consist of seven regular members appointed by the Village President with
@@ -2358,7 +2358,7 @@ shall at its discretion submit reports to the President and Board of Trustees
 throughout the year on matters of particular interest or importance to the
 village.
 (Ord. 4118, passed 9-18-2011)
-VETERANS COMMISSION
+**** VETERANS COMMISSION ****
 § 32.150 ESTABLISHMENT, APPOINTMENT AND TERM.
    (A)   The Board of Trustees hereby establishes a Veterans Commission that
 shall consist of seven regular members appointed by the Village President with
@@ -2487,7 +2487,7 @@ Foreign Fire Insurance Board
 33.45   Budget
    
 33.46   Annual audit
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 33.01 CREATION; COMPOSITION.
    There is created a Municipal Fire Department for the village which shall
 consist of a Fire Chief, classified service personnel and such other personnel
@@ -2654,7 +2654,7 @@ years or more, and personally wishes to retire, he or she may do so at a
 regular meeting in writing. He or she will then be eligible to receive one free
 vehicle sticker per year.
 (2000 Code, § 33.11) (Ord. 1413, passed 11-20-1989)
-PENSION FUND
+**** PENSION FUND ****
 § 33.25 ESTABLISHMENT.
    There is established a Firemen’s Pension Fund in and for the municipality,
 as provided by state law.
@@ -2680,7 +2680,7 @@ from the salary of each firefighter covered under the fund.
    The Board of Trustees of the Fund shall have all of the powers, duties and
 obligations conferred and imposed on it by applicable state law.
 (2000 Code, § 33.23) (Ord. 1413, passed 11-20-1989)
-FOREIGN FIRE INSURANCE BOARD
+**** FOREIGN FIRE INSURANCE BOARD ****
 § 33.40 CREATION.
    There is hereby created a five member Foreign Fire Insurance Board for the
 village, comprised of officers elected as set forth below, whose purpose is to
@@ -2859,7 +2859,7 @@ Pension Fund
 34.42   Sources of Fund
    
 34.43   Powers and duties of Board of Trustees of Fund
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 CREATION.
    There is created for the municipality a Department of Police.
 (2000 Code, § 34.01) (Ord. 671, passed 7-1-1968)
@@ -2963,7 +2963,7 @@ Fingerprinting of residents                       $15
 Report by accident reconstruction officer or team $20
  
 (2000 Code, § 34.08) (Ord. 4147, passed 2-21-2012)
-AUXILIARY POLICE OFFICERS
+**** AUXILIARY POLICE OFFICERS ****
 § 34.20 APPOINTMENT.
    (A)   The President of the municipality is authorized to appoint ten
 auxiliary police officers as employees, subject to the advice and consent of
@@ -3028,7 +3028,7 @@ said course with the Village Clerk.
 the President and Board of Trustees for each hour of service performed,
 provided such service is performed at the direction of the Chief of Police.
 (2000 Code, § 34.25)
-PENSION FUND
+**** PENSION FUND ****
 § 34.40 ESTABLISHMENT.
    There is established a Police Officer’s Pension Fund in and for the
 municipality, as provided by state law.
@@ -3175,7 +3175,7 @@ Tax Increment Financing
 36.20   Action of Village Clerk
    
 36.21   Rules for registry
-BUDGET MANAGEMENT SYSTEM
+**** BUDGET MANAGEMENT SYSTEM ****
 § 36.01 PASSAGE OF ANNUAL BUDGET EFFECT.
    The annual municipal budget shall be adopted by the corporate authorities
 before the beginning of the fiscal year to which it applies. Passage of the
@@ -3285,7 +3285,7 @@ this hearing shall be given by publication in a newspaper having a general
 circulation in the municipality at least one week prior to the time of the
 hearing.
 (65 ILCS 5/8-2-9.9) (2000 Code, § 36.08) (Ord. 1344, passed 3-7-1988)
-TAX INCREMENT FINANCING
+**** TAX INCREMENT FINANCING ****
 § 36.20 ACTION OF VILLAGE CLERK.
    The Village Clerk or his or her designee is hereby authorized and directed
 to create an “Interested Parties” Registry in accordance with 65 ILCS 5/11-
@@ -3478,7 +3478,7 @@ Amusement Tax
  
    
 37.999   Penalty
-AUTOMOBILE RENTING OCCUPATION TAX
+**** AUTOMOBILE RENTING OCCUPATION TAX ****
 § 37.001 IMPOSITION; RATE.
    A tax is imposed on all persons engaged in the business of renting
 automobiles in this village at the rate of 1% of the gross receipts from the
@@ -3495,7 +3495,7 @@ ILCS 120/3.
 of Revenue the amount of tax imposed on account of the renting of automobiles
 during the preceding month.
 (2000 Code, § 37.003) (Ord. 1126, passed 1-4-1982)
-AUTOMOBILE RENTING USE TAX
+**** AUTOMOBILE RENTING USE TAX ****
 § 37.015 TAX IMPOSED; RATE.
    A tax is imposed on the privilege of using in this village an automobile
 which is rented from a renter outside the state and which is titled or
@@ -3508,7 +3508,7 @@ effect in accordance with the provisions of 65 ILCS 5/8-11-8.
 or registration purposes is given as being in this village and shall be paid to
 the State Department of Revenue.
 (2000 Code, § 37.016) (Ord. 1125, passed 1-4-1982)
-MUNICIPAL HOTEL TAX
+**** MUNICIPAL HOTEL TAX ****
 § 37.030 TAX REQUIRED; AMOUNT.
    There is hereby levied and imposed upon the use and privilege of engaging in
 the business of leasing, renting, making, facilitating, or servicing the
@@ -3609,7 +3609,7 @@ from the tax collected pursuant to this subchapter shall be used for any lawful
 purposes of the fund. No such funds shall be used to advertise for or otherwise
 promote new competition in the hotel business.
 (Ord. 4394, passed 8-20-2018; Ord. 4526, passed 8-15-2022)
-MUNICIPAL RETAILERS’ OCCUPATION TAX
+**** MUNICIPAL RETAILERS’ OCCUPATION TAX ****
 § 37.050 TAX IMPOSED; RATE.
    (A)   A tax is hereby imposed upon all persons engaged in the business of
 selling tangible personal property, other than an item of tangible personal
@@ -3632,7 +3632,7 @@ incident thereto, shall be collected and enforced by the Department of Revenue
 of the State of Illinois. The Department of Revenue shall have full power to
 administer and enforce the provisions set forth herein.
 (2000 Code, § 37.046) (Ord. 708, passed 9-2-1969; Ord. 4523, passed 8-15-2022)
-MUNICIPAL SERVICE OCCUPATION TAX
+**** MUNICIPAL SERVICE OCCUPATION TAX ****
 § 37.065 TAX IMPOSED; RATE.
    (A)   A tax is hereby imposed upon all persons engaged in this municipality
 in the business of making sales of service, at the rate of 1% of the selling
@@ -3654,7 +3654,7 @@ incident thereto, shall be collected and enforced by the Department of Revenue
 of the State of Illinois. The Department of Revenue shall have full power to
 administer and enforce the provisions set forth herein.
 (2000 Code, § 37.061) (Ord. 709, passed 9-2-1969; Ord. 4523, passed 8-15-2022)
-MUNICIPAL USE TAX
+**** MUNICIPAL USE TAX ****
 § 37.080 TAX IMPOSED; RATE.
    (A)   A tax is imposed in accordance with the provisions of 65 ILCS 5/8-11-
 6 on the privilege of using in the municipality any item of tangible personal
@@ -3668,7 +3668,7 @@ property, with SELLING PRICE to have the meaning as defined in 35 ILCS 105/2.
 municipalities imposing the tax, and shall be paid before the title or
 certificate of registration for the personal property is issued.
 (2000 Code, § 37.076) (Ord. 860, passed 11-18-1974)
-EMERGENCY 911 TELEPHONE SYSTEM SURCHARGE
+**** EMERGENCY 911 TELEPHONE SYSTEM SURCHARGE ****
 § 37.095 SURCHARGE IMPOSED.
    A surcharge is imposed upon all telecommunication carriers engaged in the
 business of transmitting messages by means of electricity originating within
@@ -3736,7 +3736,8 @@ telecommunication carrier who made the erroneous payments; provided that no
 amounts erroneously paid more than three years prior to the filing of a claim
 therefor shall be so credited.
 (2000 Code, § 37.092) (Ord. 1375, passed 1-17-1989)
-LOCALLY IMPOSED AND ADMINISTERED TAX RIGHTS AND RESPONSIBILITY PROCEDURES
+**** LOCALLY IMPOSED AND ADMINISTERED TAX RIGHTS AND RESPONSIBILITY PROCEDURES
+****
 § 37.115 TITLE.
    This subchapter shall be known as and may be cited as the “Locally Imposed
 and Administered Tax Rights and Responsibility Subchapter”.
@@ -4036,7 +4037,7 @@ all of the village’s tax ordinances. To the extent that any tax ordinance is i
 conflict with or inconsistent with this subchapter, this subchapter shall be
 controlling.
 (2000 Code, § 37.122) (Ord. 1787-A, passed 1-2-2001)
-MUNICIPAL UTILITY TAX ON GAS
+**** MUNICIPAL UTILITY TAX ON GAS ****
 § 37.145 TAX IMPOSED; RATE.
    A tax is imposed on all persons engaged in the business of distributing,
 supplying, furnishing or selling gas for use or consumption within the
@@ -4131,7 +4132,7 @@ misdemeanor.
    The Village Clerk is hereby directed to send a certified copy of this
 subchapter to each utility company affected by this subchapter.
 (2000 Code, § 37.134) (Ord. 1907, passed 4-28-2003)
-MUNICIPAL UTILITY TAX ON ELECTRICITY
+**** MUNICIPAL UTILITY TAX ON ELECTRICITY ****
 § 37.165 DEFINITIONS.
    For purposes of this subchapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -4295,7 +4296,7 @@ Ord. 1919, passed 6-16-2003) Penalty, see §
 subchapter to each utility company affected by this subchapter.
 (2000 Code, § 37.144) (Ord. 1908, passed 4-28-2003; Ord. 1917, passed 6-2-2003;
 Ord. 1919, passed 6-16-2003)
-MUNICIPAL TELECOMMUNICATIONS TAX
+**** MUNICIPAL TELECOMMUNICATIONS TAX ****
 § 37.185 SIMPLIFIED MUNICIPAL TELECOMMUNICATIONS TAX.
    (A)   A simplified municipal telecommunications tax is hereby imposed upon
 the act or privilege of originating in the municipality or receiving in the
@@ -4315,7 +4316,7 @@ billed by telecommunications retailers on and after July 1, 2004.
 this subchapter with the State Department of Revenue prior to March 31, 2004.
 (2000 Code, § 37.145) (Ord. 1909, passed 4-28-2003; Ord. 1967, passed 3-22-
 2004)
-MUNICIPAL CANNABIS RETAILERS' OCCUPATION TAX
+**** MUNICIPAL CANNABIS RETAILERS' OCCUPATION TAX ****
 § 37.220 TAX IMPOSED.
    (A)   A tax is hereby imposed in accordance with the provisions of the
 Illinois Municipal Code upon all persons engaged in the business of selling
@@ -4351,7 +4352,7 @@ commissioner or his or her designee, or the Mayor if the position of cannabis
 commissioner is not established, until said tax is made current. No adult-use
 cannabis may be sold from said premises until the tax has been paid.
 (Ord. 4399, passed 10-21-2019)
-MUNICIPAL MOTOR FUEL TAX
+**** MUNICIPAL MOTOR FUEL TAX ****
 § 37.235 TAX IMPOSED.
    (A)   A tax is hereby imposed upon all persons engaged in the Village of
 Matteson in the business of selling motor fuel, as defined in the Motor Fuel
@@ -4374,7 +4375,7 @@ administer and enforce the provisions of this subchapter.
 subchapter with the Illinois Department of Revenue on or before October 1,
 2020.
 (Ord. 4425, passed 9-21-2020)
-AMUSEMENT TAX
+**** AMUSEMENT TAX ****
 § 37.400 AMUSEMENT TAX BASED ON ADMISSIONS.
    A tax is imposed on every operator of an entertainment or amusement of 4% of
 every admission charge. The amusement tax is in addition to all other taxes
@@ -5117,7 +5118,7 @@ Anti-Nepotism Policy
  
    
 Appendix A:   Policy Prohibiting Sexual Harassment
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 39.01 PREVAILING WAGE RATES.
    (A)   To the extent and as required by “An Act regulating wages of laborers,
 mechanics and other workmen employed in any public works by the state, county,
@@ -5171,7 +5172,7 @@ same may be amended from time to time. However, in no event shall the village,
 as an employer, provide less than one day of paid leave per year to any village
 employee.
 (Ord. 4586, passed 12-18-2023)
-EMPLOYEE RESIDENCY REQUIREMENTS
+**** EMPLOYEE RESIDENCY REQUIREMENTS ****
 § 39.15 TITLE.
    This subchapter shall be known as the “Matteson Employee Residency
 Ordinance”.
@@ -5230,12 +5231,12 @@ Administrator may be appealed in writing by the dismissed employee to the
 President and Board of Trustees, and they shall render a decision within 30
 days after receipt of the appeal.
 (2000 Code, § 39.20) (Ord. 1553, passed 4-18-1994)
-SEXUAL HARASSMENT POLICY
+**** SEXUAL HARASSMENT POLICY ****
 § 39.30 SEXUAL HARASSMENT POLICY ADOPTED.
    The policy prohibiting sexual harassment in Appendix A at the end of this
 chapter is adopted.
 (Ord. 4354, passed 1-8-2018)
-ANTI-NEPOTISM POLICY
+**** ANTI-NEPOTISM POLICY ****
 § 39.40 ANTI-NEPOTISM POLICY.
    (A)   The employment of immediate family can cause various problems,
 including charges of favoritism, conflicts of interest, family discord, and
@@ -5271,7 +5272,7 @@ as the employee's spouse, civil union spouse/partner, dependent child
 in-law), sister, brother, grandparent or grandchild.
 (Ord. 4385, passed 4-1-2019)
 APPENDIX A: POLICY PROHIBITING SEXUAL HARASSMENT
-I.   PROHIBITION ON SEXUAL HARASSMENT
+*** I.   PROHIBITION ON SEXUAL HARASSMENT ***
 It is unlawful to harass a person because of that person's sex. The courts have
 determined that sexual harassment is a form of discrimination under Title VII
 of the U.S. Civil Rights Act of 1964, as amended in 1991. All persons have a
@@ -5283,7 +5284,7 @@ employee or municipal agency or office on the basis of sex or gender. All
 municipal officials, municipal agents, municipal employees and municipal
 agencies or offices are prohibited from sexually harassing any person,
 regardless of any employment relationship or lack thereof.
-II.   DEFINITION OF SEXUAL HARASSMENT
+*** II.   DEFINITION OF SEXUAL HARASSMENT ***
 This policy adopts the definition of sexual harassment as stated in the
 Illinois Human Rights Act, which currently defines sexual harassment as:
 Any unwelcome sexual advances or requests for sexual favors or any conduct of a
@@ -5317,7 +5318,7 @@ On the other end of the spectrum, some sexual harassment is more subtle and
 depends, to some extent, on individual perception, and interpretation. The
 courts will assess sexual harassment by a standard of what would offend a
 “reasonable person.”
-III.   PROCEDURE FOR REPORTING AN ALLEGATION OF SEXUAL HARASSMENT
+*** III.   PROCEDURE FOR REPORTING AN ALLEGATION OF SEXUAL HARASSMENT ***
 An employee who either observes sexual harassment or believes herself/himself
 to be the object of sexual harassment should deal with the incident(s) as
 directly and firmly as possible by clearly communicating her/his position to
@@ -5358,7 +5359,8 @@ However, because of the serious implications of sexual harassment charges and
 the difficulties associated with their investigation and the questions of
 credibility involved, the claimant's willing cooperation is a vital component
 of an effective inquiry and an appropriate outcome.
-IV.   PROHIBITION ON RETALIATION FOR REPORTING SEXUAL HARASSMENT ALLEGATIONS
+*** IV.   PROHIBITION ON RETALIATION FOR REPORTING SEXUAL HARASSMENT
+ALLEGATIONS ***
 No municipal official, municipal agency, municipal employee or municipal agency
 or office Shall take any retaliatory action against any municipal employee due
 to a municipal employee's:
@@ -5410,12 +5412,13 @@ An employee who is suddenly transferred to a lower paying job or passed over
 for a promotion after filing a complaint with IDHR or EEOC may file a
 retaliation charge — due within 180 days (IDHR) or 300 days (EEOC) of the
 alleged retaliation.
-V.   CONSEQUENCES OF A VIOLATION OF THE PROHIBITION ON SEXUAL HARASSMENT
+*** V.   CONSEQUENCES OF A VIOLATION OF THE PROHIBITION ON SEXUAL HARASSMENT
+***
 Any person who violates this policy will be subject to any and all other
 discipline that may be applicable pursuant to municipal policies, employment
 agreements, procedures, employee handbooks and/or collective bargaining
 agreement. Each violation may constitute a separate offense.
-VI.   CONSEQUENCES FOR KNOWINGLY MAKING A FALSE REPORT
+*** VI.   CONSEQUENCES FOR KNOWINGLY MAKING A FALSE REPORT ***
 A false report is a report of sexual harassment made by an accuser using the
 sexual harassment report to accomplish some end other than stopping sexual
 harassment or retaliation for reporting sexual harassment. A false report is
@@ -5669,7 +5672,7 @@ Yard Waste Composting
  
    
 50.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5689,7 +5692,7 @@ articles and litter of any kind.
 shrubbery trimmings, wood chips, lawn rakings, dead plants, sod and garden
 waste.
 (2000 Code, § 50.01) (Ord. 1431, passed 6-4-1990; Ord. 4120, passed 10-17-2011)
-GARBAGE, RUBBISH AND YARD WASTE DISPOSAL
+**** GARBAGE, RUBBISH AND YARD WASTE DISPOSAL ****
 § 50.015 EXCLUSIVE HOUSEHOLD REFUSE CONTRACTOR.
    Subject to the provisions of this chapter, and except as otherwise provided
 for by ordinance, the village shall provide a means for the collection and
@@ -5817,7 +5820,7 @@ cleanable construction, shall be cleaned at sufficient frequency to prevent
 nuisance or insect-breeding, and shall be maintained in good repair.
 (2000 Code, § 50.22) (Ord. 1431, passed 6-4-1990) Penalty, see §
 50.999
-UNLAWFUL DISPOSAL OF GARBAGE, REFUSE AND YARD WASTE
+**** UNLAWFUL DISPOSAL OF GARBAGE, REFUSE AND YARD WASTE ****
 § 50.035 UNLAWFUL DISPOSAL.
    It shall be unlawful for any person, firm or corporation to dispose of any
 garbage, refuse or yard waste in any public property, or on any privately owned
@@ -5844,7 +5847,7 @@ accumulation of refuse or yard waste from any building or lot, or from any
 public or private sidewalk or driveway.
 (2000 Code, § 50.37) (Ord. 1431, passed 6-4-1990) Penalty, see §
 50.999
-RECYCLING PROGRAM
+**** RECYCLING PROGRAM ****
 § 50.050 PROGRAM ESTABLISHED.
    There is hereby established the village recycling program for the voluntary
 separation of recyclables from household garbage and rubbish by participating
@@ -5892,7 +5895,7 @@ profit or not for profit provided, however, that the time, location and manner
 of collecting said recyclables in no way conflicts with the village recycling
 program.
 (2000 Code, § 50.55) (Ord. 1431, passed 6-4-1990)
-YARD WASTE COLLECTION
+**** YARD WASTE COLLECTION ****
 § 50.070 YARD WASTE COLLECTION.
    (A)   Yard waste shall not be placed for collection unless contained in a
 “Kraft” type paper bag or durable metal or plastic container, with handles, of
@@ -5907,7 +5910,7 @@ contractor.
 (Ord. 4120, passed 10-17-2011; Ord. 4255, passed 3-2-2015; Ord. 4502, passed 5-
 16–2022) Penalty, see §
 50.999
-YARD WASTE COMPOSTING
+**** YARD WASTE COMPOSTING ****
 § 50.085 COMPOSTING BY PROPERTY OWNERS.
    Property owners desiring to compost yard waste originating exclusively on
 their own property may be permitted to do so subject to the regulations
@@ -6114,7 +6117,7 @@ Powers and Authority of Inspectors
    
 51.172   Entry on private property
    Appendix A:   Application Forms
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6359,7 +6362,7 @@ subject to immediate arrest under charge of disorderly conduct.
 shall be as determined by the President and Board of Trustees and effective on
 the bill rendered for the next succeeding month following that date.
 (Ord. 4107, passed 6-20-2011)
-SUPERINTENDENT
+**** SUPERINTENDENT ****
 § 51.020 OFFICE CREATED.
    There is created the office of Superintendent of Public Works. Said
 Superintendent shall hold his or her office for the term of one year and until
@@ -6388,7 +6391,7 @@ the Water Billing Clerk at such time as may be provided by this chapter. He or
 she shall also inspect and test defective meters on complaint of property
 owners.
 (Ord. 4107, passed 6-20-2011)
-CONNECTIONS
+**** CONNECTIONS ****
 § 51.035 APPLICATION FOR PERMIT.
    Any person, firm or corporation desiring to make a sanitary sewerage
 connection with any of the laterals or mains of the village shall make a
@@ -6459,7 +6462,7 @@ Governors Highway East to Main Street, and Main Street from 216th Street North
 to Lincoln Highway (U.S. Route 30), in the village.
 (Ord. 4107, passed 6-20-2011) Penalty, see §
 10.99
-BUILDING CONNECTIONS
+**** BUILDING CONNECTIONS ****
 § 51.055 UNAUTHORIZED CONNECTION TO, INTERFERENCE WITH PUBLIC SEWER PROHIBITED.
    No unauthorized person shall: uncover; make any connections with or opening
 into; use; alter; or disturb any public sewer or appurtenance thereof without
@@ -6555,7 +6558,7 @@ discharge of stormwaters or the discharge of sanitary sewage. The point of
 discharge of any new or existing sump pump shall not be less than five feet
 from any lot line.
 (Ord. 4107, passed 6-20-2011)
-SEWAGE SYSTEMS
+**** SEWAGE SYSTEMS ****
 § 51.075 INSTALLATION OF SEWAGE SYSTEM.
    A sanitary sewage system, including service pipes to each lot and
 appurtenances, shall be installed to serve each development.
@@ -6602,7 +6605,7 @@ permits for the improvements; and a copy of the document approved by the
 cognizant agency must be furnished to the municipality and the Village
 Engineer.
 (Ord. 4107, passed 6-20-2011)
-CONNECTION TO PUBLIC SEWER REQUIRED
+**** CONNECTION TO PUBLIC SEWER REQUIRED ****
 § 51.090 PROHIBITED DEPOSITS.
    It shall be unlawful for any person to place, deposit or permit to be
 deposited in any unsanitary manner on public or private property within the
@@ -6718,7 +6721,7 @@ requirements.
 approved by the Director of Community Development or his or her designee before
 installation.
 (Ord. 4107, passed 6-20-2011)
-USE OF PUBLIC SEWERS
+**** USE OF PUBLIC SEWERS ****
 § 51.115 DISCHARGES INTO SANITARY SEWERS.
    No person shall discharge, or cause to be discharged, any stormwater,
 surface water, groundwater roof runoff, subsurface drainage, uncontaminated
@@ -6895,7 +6898,7 @@ Normally, but not always, BOD and suspended solids analyses are obtained from
 24-hour composites of all outfalls, whereas pHs are determined from periodic
 grab samples.
 (Ord. 4107, passed 6-20-2011)
-WASTEWATER SERVICE CHARGES
+**** WASTEWATER SERVICE CHARGES ****
 § 51.135 BASIS FOR WASTEWATER SERVICE CHARGES.
    The wastewater service charge for the use of and for the service supplied by
 the wastewater facilities of the village shall consist of a basic user charge
@@ -6963,7 +6966,7 @@ the village to be in excess of 3,000 c.f. per quarter, the village may require
 such flat rate user to install metering devices on the water supply or sewer
 main to measure the amount of service supplied.
 (Ord. 4107, passed 6-20-2011)
-BILLING AND ADMINISTRATION PROCEDURES
+**** BILLING AND ADMINISTRATION PROCEDURES ****
 § 51.155 BILLING PROCEDURES.
    (A)   Rates or charges for service shall be payable bi-monthly depending on
 the classification of service for which bills are rendered. The owner of the
@@ -7024,7 +7027,7 @@ shall run with the land.
 liens.
 (Ord. 4107, passed 6-20-2011; Ord. 4202, passed 9-23-2013; Ord. 4461, passed 7-
 19-2021)
-POWERS AND AUTHORITY OF INSPECTORS
+**** POWERS AND AUTHORITY OF INSPECTORS ****
 § 51.170 INSPECTION.
    The Community Development Director or his or her designee and other duly
 authorized employees of the village, the Illinois Environmental Protection
@@ -7057,7 +7060,7 @@ negotiated easement pertaining to the private property involved.
 (Ord. 4107, passed 6-20-2011)
 APPENDIX A: APPLICATION FORMS
 Section
-§ 1 RESIDENTIAL BUILDING SEWER APPLICATION.
+*** § 1 RESIDENTIAL BUILDING SEWER APPLICATION. ***
    The Village of Matteson:
    A.   THE UNDERSIGNED, being the  (Owner, Owner’s Agent)  property located at
 (Address)  DOES HEREBY REQUEST a permit to install and connect a building to
@@ -7095,8 +7098,8 @@ Application approved and permit issued:
 DATE:                    SIGNED:                             
                       Approving Authority
 (Ord. 4107, passed 6-20-2011)
-§ 2 COMMERCIAL, INSTITUTIONAL/GOVERNMENTAL AND INDUSTRIAL SEWER CONNECTION
-APPLICATION.
+*** § 2 COMMERCIAL, INSTITUTIONAL/GOVERNMENTAL AND INDUSTRIAL SEWER CONNECTION
+APPLICATION. ***
    To the Village of Matteson:
    A.   THE UNDERSIGNED, being the  (Owner, Lessee, Tenant, etc.)  of the
 property located at  (Address)  DOES HEREBY REQUEST a permit to (install, use)
@@ -7228,7 +7231,7 @@ Powers and Authority of Inspectors
 52.086   Liability
    
 52.087   Entry onto private property
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 52.001 WATER MAIN SPECIFICATIONS.
    (A)   Water main pipe and fittings.
       (1)   All water mains shall be ductile iron pipe, Class 2, cement lined.
@@ -7286,7 +7289,7 @@ Division, and to file with the Village Engineer the completely executed
 affidavit.
 (Ord. 4107, passed 6-20-2011) Penalty, see §
 10.99
-CONSUMER REGULATIONS
+**** CONSUMER REGULATIONS ****
 § 52.015 RULES AND REGULATIONS FOR CONNECTIONS.
    The following rules and regulations shall govern all connections with the
 municipal mains for the purpose of conveying water to any building or premises
@@ -7480,7 +7483,7 @@ the village to communicate information of public concern to the residents and
 public.
 (Ord. 4107, passed 6-20-2011) Penalty, see §
 10.99
-RATES AND CHARGES
+**** RATES AND CHARGES ****
 § 52.030 CONSUMERS OF WATER.
    All consumers of water in the municipality shall be required to receive and
 pay for the same through a meter installed on the service pipe of such
@@ -7627,7 +7630,7 @@ village system of user charges for the purpose of making audits, examinations,
 excerpts and transcriptions thereof to ensure compliance with the terms of the
 special and general conditions to any state grant.
 (Ord. 4107, passed 6-20-2011)
-CROSS-CONNECTION CONTROL DEVICES AND TESTING
+**** CROSS-CONNECTION CONTROL DEVICES AND TESTING ****
 § 52.055 PURPOSE.
    The purpose of these rules and regulations is:
    (A)   To protect the village public water supply system from contamination
@@ -8128,7 +8131,7 @@ with these regulations and to the satisfaction of the Public Works Director,
 Village Engineer or Community Development Director of the village, and the
 required reconnection fee is paid.
 (Ord. 4169, passed 10-15-2012)
-POWERS AND AUTHORITY OF INSPECTORS
+**** POWERS AND AUTHORITY OF INSPECTORS ****
 § 52.085 RIGHT OF ENTRY.
    The Community Development Director or his or her designee and other duly
 authorized employees of the village, the State Environmental Protection Agency
@@ -8180,7 +8183,7 @@ Local Emergency Energy Plan
  
    
 53.99   Penalty
-LOCAL EMERGENCY ENERGY PLAN
+**** LOCAL EMERGENCY ENERGY PLAN ****
 § 53.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -8586,7 +8589,7 @@ Unscheduled Intercity Buses and Discharge of Passengers
  
    
 70.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.001 DEFINITIONS.
    For the purpose of this title, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -9065,7 +9068,7 @@ vehicles of the Second Division.
    The Illinois Vehicle Code (625 ILCS 5/1-100 et seq.) is hereby adopted as if
 fully restated in this section.
 (2000 Code, § 70.02) (Ord. 4015, passed 9-21-2009)
-OBEDIENCE TO AND EFFECT OF TRAFFIC LAWS
+**** OBEDIENCE TO AND EFFECT OF TRAFFIC LAWS ****
 § 70.015 OBEDIENCE TO POLICE OFFICERS.
    No person shall wilfully fail or refuse to comply with any lawful order or
 direction of any police officer, fireman, person authorized by a local
@@ -9130,7 +9133,7 @@ if driving a vehicle, the vehicle shall be marked showing it to be an official
 police vehicle.
 (2000 Code, § 70.13) Penalty, see §
 70.999
-TRAFFIC SIGNS, SIGNALS AND MARKINGS
+**** TRAFFIC SIGNS, SIGNALS AND MARKINGS ****
 § 70.030 OBEDIENCE TO TRAFFIC-CONTROL DEVICES.
    (A)   The driver of any vehicle shall obey the instructions of any official
 traffic-control accordance with this chapter, unless otherwise directed by a
@@ -9397,7 +9400,7 @@ line, but if none, then at the point nearest the intersecting roadway where the
 driver has a view of approaching traffic on the intersecting roadway.
 (625 ILCS 5/11-1204) (2000 Code, § 70.41) Penalty, see §
 70.999
-LICENSING
+**** LICENSING ****
 § 70.055 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9492,7 +9495,7 @@ collected and in an amount not to exceed 35% of such fees may be used also for
 payment of salaries and wages of police officers engaged in the duty of
 regulating traffic.
 (Ord. 4228, passed 4-21-2014)
-AUTOMATED TRAFFIC LAW ENFORCEMENT SYSTEM
+**** AUTOMATED TRAFFIC LAW ENFORCEMENT SYSTEM ****
 § 70.075 PURPOSE.
    (A)   This subchapter provides for an automated traffic law enforcement
 system, which detects motor vehicles which fail to abide by traffic-control
@@ -9719,7 +9722,7 @@ they may submit any and all documentary evidence no later than the hearing date
 referenced in the notice of liability, together with a written statement
 reflecting that they are nonresidents of the village.
 (Ord. 4248, passed 12-15-2014)
-UNSCHEDULED INTERCITY BUSES AND DISCHARGE OF PASSENGERS
+**** UNSCHEDULED INTERCITY BUSES AND DISCHARGE OF PASSENGERS ****
 § 70.100 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. The
@@ -9835,7 +9838,7 @@ Controlled Substances
  
    
 71.99   Penalty
-CONTROLLED SUBSTANCES
+**** CONTROLLED SUBSTANCES ****
 § 71.01 PERSONS UNDER THE INFLUENCE OF INTOXICATING LIQUOR OR NARCOTIC DRUGS.
    (A)   A person shall not drive or be in actual physical control of any
 vehicle within this state while:
@@ -10070,7 +10073,7 @@ Seizure and Impoundment of Motor Vehicles
  
    
 72.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.01 AUTHORITY TO POST SIGNS.
    Unless otherwise directed by the Board of Trustees, the Police Department is
 authorized and directed to mark the area within which parking is prohibited
@@ -10235,7 +10238,7 @@ down or otherwise inoperative and immovable; and
       (10)   For the purposes of performing any other necessary work or service
 to or on the property.
 (Ord. 4328, passed 2-21-2017)
-TOWING OF ABANDONED AND HAZARDOUS VEHICLES
+**** TOWING OF ABANDONED AND HAZARDOUS VEHICLES ****
 § 72.25 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. Any term
@@ -10689,7 +10692,7 @@ DATED:             , 20       
                                                                          
                                           Owner of Vehicle
 (2000 Code, § 72.34) (Ord. 1253, passed 6-3-1985)
-SEIZURE AND IMPOUNDMENT OF MOTOR VEHICLES
+**** SEIZURE AND IMPOUNDMENT OF MOTOR VEHICLES ****
 § 72.45 CONDUCT PROHIBITED.
    (A)   Motor vehicle operated with permission, express or implied.
       (1)   A motor vehicle operated with the permission, express or implied,
@@ -11100,7 +11103,7 @@ Motorized Scooters
  
    
 73.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 73.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11231,7 +11234,7 @@ vehicle manufacturer; provided that equipment equivalent to that originally
 installed may be substituted when parts are replaced.
 (2000 Code, § 73.11) (Ord. 817, passed 3-5-1973) Penalty, see §
 73.999
-MOTORCYCLE LEASING AND RENTING
+**** MOTORCYCLE LEASING AND RENTING ****
 § 73.025 LICENSE REQUIRED.
    It shall be unlawful for any person to engage in the business of renting,
 leasing or lending motorcycles or motor-driven cycles without obtaining a
@@ -11335,7 +11338,7 @@ vehicle. The date and hour of each rental and the time of its return to the
 possession of the licensee shall also be recorded.
 (2000 Code, § 73.32) (Ord. 817, passed 3-5-1973) Penalty, see §
 73.999
-BICYCLES
+**** BICYCLES ****
 § 73.050 BICYCLES SUBJECT TO APPLICABLE TRAFFIC LAWS.
    Bicycles and persons riding them shall be subject to all applicable traffic
 laws of the municipality and the state, including particularly the following:
@@ -11388,7 +11391,7 @@ except that a bicycle shall not be equipped with nor shall any person use on a
 bicycle any siren or whistle.
 (2000 Code, § 73.50) (Ord. 817, passed 3-5-1973) Penalty, see §
 73.999
-SKATEBOARDS, ROLLERSKATES, STREET SKATES AND SLEDS
+**** SKATEBOARDS, ROLLERSKATES, STREET SKATES AND SLEDS ****
 § 73.070 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11405,7 +11408,7 @@ any sidewalk or parking lots located on private property where the owner or
 manager has posted signs prohibiting such activity.
 (2000 Code, § 73.61) (Ord. 1426, passed 4-2-1990) Penalty, see §
 73.999
-MOTORIZED SCOOTERS
+**** MOTORIZED SCOOTERS ****
 § 73.085 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -11678,7 +11681,7 @@ Weight Limits, Permits, Applications
  
    
 75.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 75.01 AUTHORITY OF COMMISSIONER OF STREETS AND PUBLIC IMPROVEMENTS TO
 RESTRICT RIGHT TO USE STREETS.
    The Commissioner of Streets and Public Improvements, with respect to all
@@ -11889,7 +11892,7 @@ violation of this section while such motor vehicle is being operated on any
 roadway within this jurisdiction.
 (2000 Code, § 75.13) (Ord. 1717, passed 12-7-1998) Penalty, see §
 75.99
-WEIGHT LIMITS, PERMITS, APPLICATIONS
+**** WEIGHT LIMITS, PERMITS, APPLICATIONS ****
 § 75.25 WEIGHT LIMITS, DIMENSIONS, ROUTES, PERMITS AND APPLICATIONS
    (A)   Application for overweight and overdimension permits. Applications for
 all overweight and overdimension permits shall be submitted in the method and
@@ -12446,14 +12449,14 @@ prohibition; nuisance; exceptions
  
    
 90.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 STATE REGULATIONS ADOPTED.
    Illinois Vehicle Code, 625 ILCS 5/4-101, 625 ILCS 5/4-201 through 5/4-207,
 625 ILCS 5/4-208(B), 625 ILCS 5/4-209 through 5/4-211, 625 ILCS 5/4-213 and 625
 ILCS 5/4-214 regarding abandoned vehicles are hereby adopted by reference as if
 set out in full herein.
 (2000 Code, § 90.01) (Ord. 1550, passed 2-22-1994)
-ABANDONED, WRECKED VEHICLES
+**** ABANDONED, WRECKED VEHICLES ****
 § 90.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning. The word
@@ -13940,7 +13943,7 @@ Administration and Enforcement
  
    
 94.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 DECLARATION OF POLICY.
    (A)   It is declared to be the policy of the village to provide, within
 constitutional limitations, for fair housing throughout the village, to assure
@@ -14206,7 +14209,7 @@ owner.
    This chapter shall not be construed in any manner to limit any applicable
 federal or state affirmative marketing requirements.
 (2000 Code, § 94.12) (Ord. 1207, passed 4-2-1984)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 94.25 COMMISSION ON HOUSING AND HUMAN RELATIONS.
    (A)   Term of office; qualifications for membership. There is hereby created
 a Commission on Housing and Human Relations consisting of nine members, of
@@ -14805,7 +14808,7 @@ Smoking Restrictions in Public and Other Places
  
    
 96.99   Penalty
-SMOKE EMISSION
+**** SMOKE EMISSION ****
 § 96.01 EMISSION OF DENSE SMOKE.
    The emission of dense smoke within the municipality from the smoke stack of
 any locomotive, steam roller, steam derrick, tar kettle or any similar machine
@@ -14826,7 +14829,7 @@ or interfere with the health or comfort of any family or neighborhood, shall be
 deemed and is declared a public nuisance and unlawful.
 (2000 Code, § 96.02) (Ord. 202, passed 8-14-1923) Penalty, see §
 96.99
-SMOKING RESTRICTIONS IN PUBLIC AND OTHER PLACES
+**** SMOKING RESTRICTIONS IN PUBLIC AND OTHER PLACES ****
 § 96.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -15379,7 +15382,7 @@ House Numbering
  
    
 98.99   Penalty
-CONSTRUCTION
+**** CONSTRUCTION ****
 § 98.01 PERMIT REQUIRED.
    The construction of concrete curbs or sidewalks on municipal property by
 persons or groups other than the municipality shall be expressly prohibited
@@ -15531,7 +15534,7 @@ thicknesses stated in §
 98.11.
 (2000 Code, § 98.12) Penalty, see §
 98.99
-MAINTENANCE
+**** MAINTENANCE ****
 § 98.25 OWNER’S RESPONSIBILITY.
    All property owners shall be held responsible for the maintenance of such
 conditions as to prevent the destruction of municipal installations in front of
@@ -15552,7 +15555,7 @@ a sidewalk, conforming in appearance to the remainder of the sidewalk in the
 area.
 (2000 Code, § 98.26) (Ord. 427, passed 10-4-1954) Penalty, see §
 98.99
-ADDITIONAL REGULATIONS
+**** ADDITIONAL REGULATIONS ****
 § 98.40 UNLAWFUL FOR VEHICLE, FIVE TONS OR OVER, TO CROSS GUTTERS.
    No vehicle with the gross weight of five tons or more will be allowed to use
 such driveways or otherwise cross over gutters or sidewalks.
@@ -15628,7 +15631,7 @@ Penalty, see §
 98.99
 Statutory reference:
    Authority to prevent and remove encroachments, see 65 ILCS 5/11-80-3
-HOUSE NUMBERING
+**** HOUSE NUMBERING ****
 § 98.55 LOTS AND HOUSES RUNNING NORTH AND SOUTH.
    All lots or houses located on north and south streets or on streets running
 in a northerly and southerly direction shall be numbered from 211th Street,
@@ -15698,7 +15701,7 @@ Weeds
 99.17   Owner to destroy weeds
    
 99.18   Failure to comply
-INFECTED TREES
+**** INFECTED TREES ****
 § 99.01 LABORATORY ANALYSIS OF TREE IN QUESTION.
    Whenever any tree within the municipality appears to be, or is suspected of
 being, infected with Dutch elm disease, and that fact is brought to the
@@ -15728,7 +15731,7 @@ direct that the tree or trees be destroyed.
 (2000 Code, § 99.03)
 Statutory reference:
    Authority to remove infected trees, see 65 ILCS 5/11-20-12
-WEEDS
+**** WEEDS ****
 § 99.15 WEEDS DECLARED A NUISANCE.
    For the purpose of this chapter, Canadian thistle and all its varieties,
 perennial sow thistles, European bind weed, leafy spurge, Russian knap weed,
@@ -17903,7 +17906,7 @@ Cross-reference:
    Municipal service occupation tax, see §§
 37.065 through
 37.068
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 110.01 GENERAL BUSINESS LICENSES.
    (A)   It shall be necessary to obtain a license from the village in order to
 engage in any general business or service in the village, provided, however,
@@ -18133,7 +18136,7 @@ conducting business within the village, except those required by federal and/or
 state laws and regulations, as such laws and regulations may exist from time to
 time.
 (Ord. 4346, passed 6-26-2017)
-CONTRACTORS
+**** CONTRACTORS ****
 § 110.30 CONTRACTOR LICENSING.
    (A)   CONTRACTOR shall mean any person, firm or corporation that has agreed
 to perform work that is regulated by the building, plumbing, electrical,
@@ -18258,7 +18261,7 @@ License Classifications
 111.49   Class "J-V" license
    
 111.50   Automatic reduction of license classification
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 111.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18883,7 +18886,7 @@ under the same ownership and management as the licensee for the premises for
 which the license has been issued.
 (2000 Code, § 111.34) (Ord. 1585, passed 2-21-1995; Ord. 4431, passed 11-16-
 2020)
-LICENSE CLASSIFICATIONS
+**** LICENSE CLASSIFICATIONS ****
 § 111.35 LICENSES TO BE DIVIDED INTO GROUPS.
    Licenses are divided into 12 classes.
 (2000 Code, § 111.25) (Ord. 596, passed 2-3-1964; Ord. 698, passed 4-14-1969;
@@ -19202,7 +19205,7 @@ Charitable Games
 112.20   Charitable games permitted
    
 112.21   State Department of Revenue license required
-AMUSEMENTS
+**** AMUSEMENTS ****
 § 112.01 APPLICABILITY.
    The provisions of this subchapter, except as to licensing and fees, shall
 apply to all public shows, theatricals, circuses and other amusements in the
@@ -19253,7 +19256,7 @@ $125.
 (2000 Code, § 112.06) (Ord. 956, passed 12-19-1977; Ord. 1659, passed 2-18-
 1997) Penalty, see §
 10.99
-CHARITABLE GAMES
+**** CHARITABLE GAMES ****
 § 112.20 CHARITABLE GAMES PERMITTED.
    Charitable games as described in 230 ILCS 30/1 et seq., entitled “Charitable
 Games Act”, be and the same are hereby allowed and permitted within the village
@@ -19412,7 +19415,7 @@ Cross-reference:
    Emergency 911 telephone system surcharge, see §§
 37.095 through
 37.102
-CABLE COMMUNICATIONS
+**** CABLE COMMUNICATIONS ****
 § 113.001 SHORT TITLE.
    This chapter shall be known and may be cited as the “Matteson Cable
 Television Franchise Ordinance”, hereinafter “franchise” or “ordinance.”
@@ -20879,7 +20882,7 @@ authorized by law or equity, and no action, proceeding or exercise of a right
 with respect to penalties shall affect any other right the village may have.
 (2000 Code, § 113.47) (Ord. 1678, passed 7-21-1997) Penalty, see §
 113.999
-MUNICIPAL TELECOMMUNICATIONS INFRASTRUCTURE MAINTENANCE FEE
+**** MUNICIPAL TELECOMMUNICATIONS INFRASTRUCTURE MAINTENANCE FEE ****
 § 113.060 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -21151,7 +21154,7 @@ refuses to comply with any of the provisions of this subchapter shall be
 subject to fine in accordance with the general penalty provisions of this code.
 (2000 Code, § 113.62) (Ord. 1692, passed 11-17-1997) Penalty, see §
 113.999
-CABLE/VIDEO SERVICE PROVIDER FEE AND PEG ACCESS SUPPORT FEE
+**** CABLE/VIDEO SERVICE PROVIDER FEE AND PEG ACCESS SUPPORT FEE ****
 § 113.080 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -21346,7 +21349,7 @@ paid within 30 days after the village’s submission of an invoice for the sum.
 adopted by this village pursuant to the Local Government Taxpayers’ Bill of
 Rights Act, 50 ILCS 45/1 et seq.
 (2000 Code, § 113.76) (Ord. 3041, passed 2-19-2008)
-CABLE AND VIDEO CUSTOMER PROTECTION LAW
+**** CABLE AND VIDEO CUSTOMER PROTECTION LAW ****
 § 113.100 CUSTOMER SERVICE AND PRIVACY PROTECTION LAW.
    (A)   Adoption. The regulations of 220 ILCS 5/22-501 et seq. are hereby
 adopted by reference and made applicable to the cable or video providers
@@ -21471,7 +21474,7 @@ Public Garages
 114.56   License required
    
 114.57   License fee
-FILLING STATIONS
+**** FILLING STATIONS ****
 § 114.01 LICENSE REQUIRED.
    It shall be unlawful to establish, maintain or operate gasoline filling
 stations in the village without obtaining a license.
@@ -21491,7 +21494,7 @@ with the statutes of the state and the regulations of the State Fire Marshal
 and Fire Inspector of the village.
 (2000 Code, § 114.22) (Ord. 381, passed 8-1-1949) Penalty, see §
 10.99
-MOTELS AND HOTELS
+**** MOTELS AND HOTELS ****
 § 114.15 SCOPE.
    This subchapter shall be known as the “Motel and Hotel Operating
 Subchapter”. Its purpose is to establish minimum standards for the operation of
@@ -21591,7 +21594,7 @@ Commissioner or his or her designee who is authorized to make all inspections
 and orders deemed necessary to assure compliance with the provisions hereof.
 (2000 Code, § 114.38) (Ord. 401, passed 10-1-1951; Ord. 1024, passed 10-1-1979;
 Ord. 1680, passed 8-18-1997)
-MOTOR VEHICLE REPAIR SHOPS
+**** MOTOR VEHICLE REPAIR SHOPS ****
 § 114.35 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -21620,7 +21623,7 @@ of any building used as a hospital, church or public or parochial school, or
 the grounds thereof.
 (2000 Code, § 114.49) (Ord. 381, passed 8-1-1949) Penalty, see §
 10.99
-PUBLIC GARAGES
+**** PUBLIC GARAGES ****
 § 114.55 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -21683,11 +21686,11 @@ Scavengers
  
    
 115.99   Penalty
-SECONDHAND AND PRECIOUS METAL DEALERS
+**** SECONDHAND AND PRECIOUS METAL DEALERS ****
 § 115.01 STATUTE ADOPTED BY REFERENCE.
    The village adopts by reference, the Resale Dealers Act, 815 ILCS 398, which
 addresses secondhand dealers and precious metals dealers.
-SOLICITORS
+**** SOLICITORS ****
 § 115.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -21847,7 +21850,7 @@ or more and shall be wearing a high visibility vest.
 highway intersection at which solicitations are being sought.
 (2000 Code, § 115.35) (Ord. 1411, passed 10-16-1989) Penalty, see §
 115.99
-SCAVENGERS
+**** SCAVENGERS ****
 § 115.45 LICENSE REQUIRED.
    It shall be unlawful for any person to engage in the business of scavenger,
 for the collection or disposal of animal, human or vegetable refuse or offal,
@@ -23364,7 +23367,7 @@ Business Regulations
  
    
 122.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 122.01 PURPOSE AND APPLICABILITY.
    It is the intent and purpose of this chapter to identify and provide
 regulations regarding the dispensing of recreational cannabis occurring within
@@ -23606,7 +23609,7 @@ written order within 14 days.
 whose cannabis business license was declined to be renewed, suspended or
 revoked has the right to appeal to the Village Board.
 (Ord. 4412, passed 3-16-2020)
-BUSINESS REGULATIONS
+**** BUSINESS REGULATIONS ****
 § 122.20 CANNABIS BUSINESS REGULATIONS.
    (A)   Compliance with law. All cannabis businesses must comply with all
 state and local laws, including the Cannabis Regulation and Tax Act, 410 ILCS
@@ -23816,7 +23819,7 @@ Criminal Code Adopted
  
    
 130.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 130.01 DEFINITIONS.
    For the purpose of this title, the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -23902,7 +23905,7 @@ handbill in or on any private premises which are temporarily or continuously
 uninhabited or vacant.
 (2000 Code, § 130.07) (Ord. 1431, passed 6-4-1990) Penalty, see §
 130.99
-CRIMINAL CODE ADOPTED
+**** CRIMINAL CODE ADOPTED ****
 § 130.20 ADOPTION OF SECTIONS OF THE ILLINOIS CRIMINAL CODE.
    (A)   The following sections of the Criminal Code of 1961, as amended, (720
 ILCS 5/1-1 et seq.) are hereby adopted by reference as ordinance violations of
@@ -25017,7 +25020,7 @@ Fireworks
  
    
 136.99   Penalty
-LITTER
+**** LITTER ****
 § 136.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -25132,7 +25135,7 @@ offense occurred, as provided in § 50 of the Illinois Adopt-A-Highway Act, 605
 ILCS 120/50.
 (415 ILCS 105/8) (2000 Code, § 136.07) Penalty, see §
 136.99
-POSSESSION OF DRUGS AND DRUG PARAPHERNALIA
+**** POSSESSION OF DRUGS AND DRUG PARAPHERNALIA ****
 § 136.20 PARAPHERNALIA USED WITH CANNABIS.
    (A)   It shall be unlawful for any person to sell or deliver, or possess
 with intent to sell or deliver, or possess with intent to sell or deliver, any
@@ -25321,7 +25324,7 @@ Law Enforcement to possess and deliver substances containing cannabis; or
 cannabis.
 (2000 Code, § 136.22) (Ord. 1242, passed 1-7-1985) Penalty, see §
 136.99
-FIREWORKS
+**** FIREWORKS ****
 § 136.35 POSSESSION OF FIREWORKS.
    (A)   Definition. For the purpose of this section, the following definition
 shall apply unless the context clearly indicates or requires a different
@@ -25517,7 +25520,7 @@ Air Rifles
 Statutory reference:
    Boarding aircraft with weapons, 720 ILCS 545/0.01 through 7
    Firearms and ammunition registration, 430 ILCS 65/0.01 through 16.3
-DEADLY WEAPONS
+**** DEADLY WEAPONS ****
 § 137.01 UNLAWFUL POSSESSION OF WEAPONS.
    (A)   No person shall knowingly:
       (1)   Sell, manufacture, purchase, possess or carry any bludgeon, black-
@@ -25810,7 +25813,7 @@ Wildlife Code, 520 ILCS 5, or the Fish and Aquatic Life Code, 515 ILCS 5.
 offender, any weapon seized may be confiscated by the trial court for further
 disposition consistent with state law.
 (720 ILCS 5/24-6) (2000 Code, § 137.04)
-AIR RIFLES
+**** AIR RIFLES ****
 § 137.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -26513,7 +26516,7 @@ Swimming Pool and Spa Code
  
    
 150.999   Penalty
-BUILDING CODE
+**** BUILDING CODE ****
 § 150.001 ADOPTION OF BUILDING CODE.
    A certain document, three copies of each which are on file in the office of
 the Village Clerk, being marked and designated as the International Building
@@ -26797,7 +26800,7 @@ passed 4-1-2013; Ord. 4476, passed 10-18-2021)
 shall control the design and construction of facilities for accessibility for
 individuals with disabilities.
 (Ord. 4476, passed 10-18-2021)
-EXISTING BUILDING CODE
+**** EXISTING BUILDING CODE ****
 § 150.010 ADOPTION OF EXISTING BUILDING CODE.
    A certain document, three copies of which are on file in the office of the
 Village Clerk, being marked and designated as the International Existing
@@ -26820,7 +26823,7 @@ deletions and changes, if any, prescribed in § 150.006.
 buildings shall be sprinklered in accordance with the International Building
 Code.
 (Ord. 4476, passed 10-18-2021)
-PROPERTY MAINTENANCE CODE
+**** PROPERTY MAINTENANCE CODE ****
 § 150.015 ADOPTION OF THE INTERNATIONAL PROPERTY MAINTENANCE CODE.
    A certain document, three copies of which are on file in the office of the
 Village Clerk, being marked and designated as the International Property
@@ -26981,7 +26984,7 @@ day before collection and must be off the curb by 7 am the following day.
 (2000 Code, § 150.016) (Ord. 1645, passed 12-2-1996; Ord. 1804, passed 5-7-
 2001; Ord. 1930, passed 10-6-2003; Ord. 4476, passed 10-18-2021; Ord. 4560,
 passed 5-15-2023)
-PLUMBING CODE
+**** PLUMBING CODE ****
 § 150.030 ADOPTION OF PLUMBING CODE.
    (A)   A certain document, three copies of which are on file in the office of
 the Village Clerk, being marked and designated as the Illinois Plumbing Code,
@@ -27039,7 +27042,7 @@ approved by the Village of Matteson Plumbing Inspector.
 (2000 Code, § 150.027) (Ord. 1650, passed 1-6-1997; Ord. 1931, passed 10-6-
 2003; Ord. 2023, passed 4-18-2005; Ord. 4296, passed 2-1-2016; Ord. 4476,
 passed 10-18-2021)
-ELECTRICAL CODE
+**** ELECTRICAL CODE ****
 § 150.045 ADOPTION OF ELECTRICAL CODE.
    A certain document, three copies of which are on file in the office of the
 Village Clerk, being marked and designated as the National Electrical Code,
@@ -27091,7 +27094,7 @@ required to complete any of or all inspections, the contractor listed on the
 permit application shall be responsible for the cost of the contractor.
 (2000 Code, § 150.041) (Ord. 1644, passed 12-2-1996; Ord. 1929, passed 10-6-
 2003; Ord. 4186, passed 4-1-2013; Ord. 4476, passed 10-18-2021)
-ELEVATOR SAFETY CODE
+**** ELEVATOR SAFETY CODE ****
 § 150.060 ADOPTION OF AN ELEVATOR SAFETY CODE.
    The documents listed in the ordinance description of Ord. 3022, passed July
 16, 2007, three copies of which are on file in the office of the Village Clerk,
@@ -27104,7 +27107,7 @@ out in this section, with the additions, insertions, deletions and changes, if
 any, prescribed by the village.
 (2000 Code, § 150.050) (Ord. 3022, passed 7-16-2007; Ord. 4476, passed 10-18-
 2021)
-MECHANICAL CODE
+**** MECHANICAL CODE ****
 § 150.075 ADOPTION OF MECHANICAL CODE.
    A certain document, three copies of which are on file in the office of the
 Village Clerk, being marked and designated as the International Mechanical
@@ -27135,7 +27138,7 @@ appliances shall be provided with a ducted range hood.
    (H)   Section 505.3 Exhaust Discharge. Delete exception number 1.
 (2000 Code, § 150.091) (Ord. 1928, passed 10-6-2003; Ord. 4476, passed 10-18-
 2021)
-FUEL GAS CODE
+**** FUEL GAS CODE ****
 § 150.090 ADOPTION OF FUEL GAS CODE.
    A certain document, three copies of which are on file in the office of the
 Village Clerk, being marked and designated as the International Fuel Gas Code,
@@ -27160,7 +27163,7 @@ of Trustees shall serve as the board of appeals. Add subsection 109.2.1 Appeals
 Process. Appeals shall be made to the Building Official then to the Plan
 Commission then to the Village Board of Trustees.
 (Ord. 4186, passed 4-1-2013; Ord. 4476, passed 10-18-2021)
-ENERGY CONSERVATION CODE
+**** ENERGY CONSERVATION CODE ****
 § 150.105 ADOPTION OF ENERGY CONSERVATION CODE.
    The village acknowledges and affirms that the Illinois energy efficient
 building act, 20 ILCS 3125/1 et seq., and the Illinois Energy Conservation Code
@@ -27168,7 +27171,7 @@ adopted thereunder, 71 Ill. Admin. Code 600.100 et seq., apply within the
 village. The Illinois Energy Conservation Code is hereby adopted and
 incorporated as if fully set forth herein.
 (Ord. 4476, passed 10-18-2021)
-SWIMMING POOL AND SPA CODE
+**** SWIMMING POOL AND SPA CODE ****
 § 150.120 ADOPTION OF SWIMMING POOL AND SPA CODE.
    A certain document, three copies of which are on file in the office of the
 Village Clerk, being marked and designated as the International Swimming Pool
@@ -27386,7 +27389,7 @@ Enforcement
  
    
 153.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.01 FINDINGS AND PURPOSE.
    (A)   Findings. The President and Board of Trustees of the village hereby
 find the following:
@@ -27502,7 +27505,7 @@ resultant velocities of discharges will not create additional erosion.
       (8)   Permanent vegetation and structures should be installed as soon as
 practical during development.
 (2000 Code, § 154.03) (Ord. 1141, passed 5-17-1982)
-PERMITS
+**** PERMITS ****
 § 153.15 SITE DEVELOPMENT PERMIT REQUIRED.
    Except as otherwise provided in this chapter, no person shall commence or
 perform any grading, stripping, excavating or filling of land without having
@@ -27676,7 +27679,7 @@ that unusual difficulties have prevented work being commenced or completed
 within the specified time limits, grant a reasonable extension of time if
 written application is made before the expiration date of the permit.
 (2000 Code, § 154.23) (Ord. 1141, passed 5-17-1982)
-STANDARDS AND REQUIREMENTS
+**** STANDARDS AND REQUIREMENTS ****
 § 153.35 OPERATION STANDARDS AND REQUIREMENTS; APPLICABILITY.
    All grading, stripping, excavating and filling which is subject to the
 permit requirements of this chapter, and any grading, stripping, excavating and
@@ -27764,7 +27767,7 @@ original plans. Field modifications of a minor nature may be authorized by the
 Director of Community Development, or the Village Engineer, by written
 authorization to the permittee.
 (2000 Code, § 154.40) (Ord. 1141, passed 5-17-1982)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 153.55 EXCEPTIONS TO REQUIREMENTS.
    The Village President and Village Board of Trustees may authorize exceptions
 to any of the requirements and regulations set forth in this chapter in
@@ -27952,7 +27955,7 @@ Modifications
  
    
 154.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.001 TITLE.
    This chapter shall be known and cited as the “Matteson Subdivision
 Regulations”.
@@ -28325,7 +28328,7 @@ required herein shall be made prior to the issuance of each building permit by
 the village.
 (2000 Code, § 155.007) (Ord. 1669, passed 5-19-1997; Ord. 1956, passed 2-2-
 2004)
-PROCEDURE FOR REVIEW OF PLATS
+**** PROCEDURE FOR REVIEW OF PLATS ****
 § 154.020 DUTIES OF SUBDIVIDER AND PLAN COMMISSION.
    The prospective subdivider is urged to consult informally with the Plan
 Commission and, where pertinent, county officials, state agencies and public
@@ -28676,7 +28679,7 @@ and
       (3)   Village of Matteson Contract Purchaser Survey.
 (2000 Code, § 155.020) (Ord. 3020, passed 6-18-2007) Penalty, see §
 154.999
-SPECIFICATIONS FOR PLANS AND PLATS
+**** SPECIFICATIONS FOR PLANS AND PLATS ****
 § 154.040 SKETCH PLAN.
    (A)   The subdivider shall meet with the Plan Commission in a preliminary
 conference which shall be scheduled by appointment.
@@ -28905,7 +28908,7 @@ be signed by the President and attested to by the Secretary, corporate seal to
 be affixed. All signatures shall be attested to by a notary public and notarial
 seal affixed.
 (2000 Code, § 155.033) (Ord. 876, passed 8-4-1975)
-DESIGN STANDARDS
+**** DESIGN STANDARDS ****
 § 154.055 GENERAL.
    (A)   Conformity to plans. All subdivisions shall conform to the official
 plan, or adopted segments thereof; to the zoning code and subdivision code; and
@@ -29065,7 +29068,7 @@ easement shall be of sufficient width to allow future construction of a storm
 sewer main adequate to carry the ultimate runoff of the watershed.
 (2000 Code, § 155.049) (Ord. 876, passed 8-4-1975) Penalty, see §
 154.999
-IMPROVEMENTS
+**** IMPROVEMENTS ****
 § 154.070 PURPOSE.
    It is deemed necessary and essential to require and control the provision
 and installation of improvements when property is subdivided and developed, in
@@ -29389,7 +29392,7 @@ cognizant agency must be furnished to the village and the Village Engineer.
 (2000 Code, § 155.071) (Ord. 876, passed 8-4-1975; Ord. 891, passed 1-19-1976)
 Penalty, see §
 154.999
-ENGINEERING SPECIFICATIONS
+**** ENGINEERING SPECIFICATIONS ****
 § 154.095 COMPLIANCE REQUIRED.
    The construction of all improvements required by this chapter shall be in
 compliance with the specifications set forth herein. Unforeseen construction or
@@ -29570,7 +29573,7 @@ commonly known as a “mission band coupling”.
 between the trunk line and the building.
 (2000 Code, § 155.084) (Ord. 876, passed 8-4-1975) Penalty, see §
 154.999
-DEDICATIONS, EASEMENTS AND RESERVATIONS
+**** DEDICATIONS, EASEMENTS AND RESERVATIONS ****
 § 154.110 DEDICATIONS.
    (A)   Areas required to be dedicated.
       (1)   All new streets created by a subdivision and shown on plats
@@ -29657,7 +29660,7 @@ shall be subject to approval, and the Plan Commission shall ascertain that the
 proposed sites are suitable for the proposed uses. The public retains the right
 to refuse any and all dedications.
 (2000 Code, § 155.098) (Ord. 876, passed 8-4-1975)
-MODIFICATIONS
+**** MODIFICATIONS ****
 § 154.125 HARDSHIP.
    When the Plan Commission, in interpreting this chapter, finds that
 extraordinary hardship or injustice will result from strict compliance with
@@ -29884,7 +29887,7 @@ or entity has been entered.
    (C)   Continued violations of this chapter are subject to an injunction to
 enforce this chapter.
 (Ord. 4443, passed 2-16-2021)
-CHAPTER 161: FORECLOSURE, VACANT AND RENTAL PROPERTY
+***** CHAPTER 161: FORECLOSURE, VACANT AND RENTAL PROPERTY *****
 Section
    
 161.01   Purpose and intent
