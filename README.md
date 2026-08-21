@@ -46,15 +46,61 @@ This is more than just a dataset—this is a movement to **democratize legal kno
 
 ---
 
+## 🧑‍💻 How to Use This Repo via Git
+
+You can also grab the project directly with Git:
+
+```bash
+# Clone the repository
+git clone https://github.com/CoreData-Labs/codelibrary-amlegal-com-documentation.git
+
+# Move into the project directory
+cd codelibrary-amlegal-com-documentation
+
+# Stay up to date with the latest changes
+git pull origin main
+```
+
+### Running the scraper
+
+The project uses a headless Chrome instance driven by `main.js`, so you'll need Chrome and a virtual display installed:
+
+```bash
+# Install a virtual framebuffer and Google Chrome
+sudo apt-get install -y xvfb google-chrome-stable
+
+# Install Node dependencies
+npm install
+
+# Run the scraper under a virtual display
+xvfb-run -a node main.js
+```
+
+If you'd like to contribute back:
+
+```bash
+# Create a new branch for your changes
+git checkout -b my-contribution
+
+# Stage and commit your changes
+git add .
+git commit -m "Describe your changes here"
+
+# Push your branch and open a Pull Request
+git push origin my-contribution
+```
+
+---
+
 ## ⚙️ Data Structure and Region Processing
 
 ### 🧭 How `REGION_START_PERCENT` Works
 
-If your script processes a list of **42 regions (U.S. states)**, each one equals about **2.38%** of the total list.
-That means every **2.4% jump** in your percentage moves you roughly one state forward.
+If your script processes a list of **43 regions**, each one is spaced about **2.38%** apart across the full 0–100% range.
+That means every **~2.4% jump** in your percentage moves you roughly one state forward, ending at Wyoming (100%).
 
 You can use this table to decide **where to start** your script.
-_(Example: `REGION_START_PERCENT = 60` starts at New York.)_
+_(Example: `REGION_START_PERCENT = 62` starts at New York.)_
 
 ---
 
@@ -76,53 +122,46 @@ _(Example: `REGION_START_PERCENT = 60` starts at New York.)_
 | **26%**    | Iowa           | ia   |
 | **29%**    | Kansas         | ks   |
 | **31%**    | Kentucky       | ky   |
-| **33%**    | Maryland       | md   |
-| **36%**    | Massachusetts  | ma   |
-| **38%**    | Michigan       | mi   |
-| **40%**    | Minnesota      | mn   |
-| **43%**    | Missouri       | mo   |
-| **45%**    | Montana        | mt   |
-| **48%**    | Nebraska       | ne   |
-| **50%**    | Nevada         | nv   |
-| **52%**    | New Hampshire  | nh   |
-| **55%**    | New Jersey     | nj   |
-| **57%**    | New Mexico     | nm   |
-| **60%**    | New York       | ny   |
-| **62%**    | North Carolina | nc   |
-| **64%**    | Ohio           | oh   |
-| **67%**    | Oklahoma       | ok   |
-| **69%**    | Oregon         | or   |
-| **71%**    | Pennsylvania   | pa   |
-| **74%**    | Rhode Island   | ri   |
-| **76%**    | South Carolina | sc   |
-| **79%**    | South Dakota   | sd   |
-| **81%**    | Tennessee      | tn   |
-| **83%**    | Texas          | tx   |
-| **86%**    | Utah           | ut   |
-| **88%**    | Virginia       | va   |
-| **90%**    | Washington     | wa   |
-| **93%**    | West Virginia  | wv   |
-| **95%**    | Wisconsin      | wi   |
-| **98%**    | Wyoming        | wy   |
-| **100%**   | Alaska         | ak   |
+| **33%**    | Louisiana      | la   |
+| **36%**    | Maryland       | md   |
+| **38%**    | Massachusetts  | ma   |
+| **40%**    | Michigan       | mi   |
+| **43%**    | Minnesota      | mn   |
+| **45%**    | Missouri       | mo   |
+| **48%**    | Montana        | mt   |
+| **50%**    | Nebraska       | ne   |
+| **52%**    | Nevada         | nv   |
+| **55%**    | New Hampshire  | nh   |
+| **57%**    | New Jersey     | nj   |
+| **60%**    | New Mexico     | nm   |
+| **62%**    | New York       | ny   |
+| **64%**    | North Carolina | nc   |
+| **67%**    | Ohio           | oh   |
+| **69%**    | Oklahoma       | ok   |
+| **71%**    | Oregon         | or   |
+| **74%**    | Pennsylvania   | pa   |
+| **76%**    | Rhode Island   | ri   |
+| **79%**    | South Carolina | sc   |
+| **81%**    | South Dakota   | sd   |
+| **83%**    | Tennessee      | tn   |
+| **86%**    | Texas          | tx   |
+| **88%**    | Utah           | ut   |
+| **90%**    | Virginia       | va   |
+| **93%**    | Washington     | wa   |
+| **95%**    | West Virginia  | wv   |
+| **98%**    | Wisconsin      | wi   |
+| **100%**   | Wyoming        | wy   |
+
 ---
 
 ### ⚙️ Example in Code
 
 ```js
-const REGION_START_PERCENT = 60; // Start from New York
+const REGION_START_PERCENT = 62; // Start from New York
 ```
 
-This tells the script to **skip the first 60%** of the list,
-start from **New York**, and **wrap back around** to Alaska after finishing.
-
----
-
-### 💡 TL;DR
-
-> Each **2.4% ≈ 1 state**
-> Multiply the **state’s index (0–41)** × **2.4** to get your `REGION_START_PERCENT`.
-> Example: Index 25 → `25 × 2.4 = 60%` → Start at **New York** 🗽
+This tells the script to **skip the first 62%** of the list
+and start from **New York**, continuing through to Wyoming (100%).
 
 ---
 
