@@ -1,7 +1,7 @@
 JAMES ISLAND, SOUTH CAROLINA
 CODE OF ORDINANCES
 2026 S-16 Supplement contains:
-Local legislation current through Ord. 2026-04, passed 4-30-2026
+Local legislation current through Ord. 2026-11, passed 7-16-2026
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -345,7 +345,7 @@ Section
    
 11.01   Certificate of incorporation
 § 11.01 Certificate of incorporation
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-868.png]
  
 TITLE III: ADMINISTRATION
@@ -1495,10 +1495,12 @@ Section
    
 50.01   Electric meters; number restricted
 § 50.01 ELECTRIC METERS; NUMBER RESTRICTED.
-   Only one electric meter will be allowed in single- family residential
-districts. Any exceptions to this policy will require a variance from the Board
-of Zoning Appeals (BZA).
-(Ord. 2012-11, passed 11-15-2012)
+   Only one electric meter per parcel will be allowed in single- family
+residential districts, unless the additional electric meter is to be installed
+on a structure that has an approved residential zoning permit for an additional
+dwelling unit and additional electric meter. Any exceptions to this policy will
+require a variance from the Board of Zoning Appeals (BZA).
+(Ord. 2012-11, passed 11-15-2012; Ord. 2026-11, passed 7-16-2026)
 CHAPTER 51: STORMWATER MANAGEMENT
 Section
 Stormwater Management Utility
@@ -5148,7 +5150,7 @@ TITLE XV: LAND USAGE
       
 150.   TOWN BUILDING REGULATIONS
       
-151.   FLOOD DAMAGE PREVENTION AND PROTECTION
+151.   TOWN REGULATIONS CONCERNING FLOOD DAMAGE PREVENTION
       
 152.   COMPREHENSIVE PLAN
       
@@ -5258,10 +5260,22 @@ Code as adopted by the State of South Carolina shall apply to all matters
 governing the design and construction of buildings for energy efficiency.
       (8)   Unsafe buildings and equipment. (See §
 150.13).
-   (F)   Definitions. References throughout this chapter are defined as
+   (F)   Also, mandatory and shall be enforced are the following: The latest
+edition of ICC/ANSI A117.1, Accessibility and Useable Buildings Facilities,
+which is adopted by the Accessibility Act. All plan reviews and inspections
+conducted by the Building Official shall be based on ICC/ANSI A117.1; however,
+there are other accessibility documents which are law and must be considered.
+   (G)   Permissive codes. The latest edition of the following permissive codes
+as approved by the S.C. Building Codes Council may be used as needed by the
+town pursuant to S.C. Code § 6-9-50. The permissive codes are as follows:
+      (1)   International Property Maintenance Code to include Chapter 1;
+      (2)   Existing Building Code, including Chapter 1;
+      (3)   International Performance Code for Buildings and Facilities,
+including Chapter 1.
+   (H)   Definitions. References throughout this chapter are defined as
 follows:
       CODE OFFICIAL. Shall mean “Building Official.”
-(Ord. 2016-14, passed 1-19-2017)
+(Ord. 2016-14, passed 1-19-2017; Ord. 2026-10, passed 6-18-2026)
 § 150.02 APPLICABILITY.
    (A)   Area of applicability. This chapter shall affect all incorporated
 areas of the town, excluding any parcels of land owned by the state or the
@@ -6717,15 +6731,1284 @@ or any such ordinance, shall be subject to the maximum penalties authorized for
 the Magistrates' Courts of the State of South Carolina, as from time to time
 provided in S.C. Code, § 22-3-55, as amended, or successor legislation.
 (Ord. 2016-14, passed 1-19-2017)
-CHAPTER 151: FLOOD DAMAGE PREVENTION AND PROTECTION
+CHAPTER 151: TOWN REGULATIONS CONCERNING FLOOD DAMAGE PREVENTION
 Section
+General Provisions
    
-151.01   County ordinance adopted by reference
-§ 151.01 COUNTY ORDINANCE ADOPTED BY REFERENCE.
-   Charleston County Ord. 2306, adopted August 13, 2024, regarding flood damage
-prevention, is adopted by reference by the town and is declared to be as full a
-part of this chapter.
-(Ord. 2024-08, passed 10-17-2024; Ord. 2026-04, passed 4-30-2026)
+151.01   Statutory authorization
+   
+151.02   Findings of fact
+   
+151.03   Statement of purpose
+   
+151.04   Objectives
+   
+151.05   Definitions
+   
+151.06   Lands to which this chapter applies
+   
+151.07   Basis for establishing areas of special flood hazard
+   
+151.08   Warning; disclaimer of liability
+   
+151.09   Provisions cumulative
+   
+151.10   Abrogation and greater restrictions
+   
+151.11   Effective date; application
+Administration
+   
+151.25   Designation of Building Official
+   
+151.26   Duties and responsibilities of the Building Official
+   
+151.27   Duties and responsibilities of the Planning and Zoning Official
+   
+151.28   Duties and responsibilities of the Public Works Official
+Provisions for Flood Hazard Reduction
+   
+151.40   General standards
+   
+151.41   Specific standards in addition to general standards for unnumbered A
+Zones, AE Zones
+   
+151.42   Standards for regulatory floodways
+   
+151.43   Standards for subdivision proposals and other development
+Appeals and Variances
+   
+151.55   Appeal and variance procedure
+Compliance for Proposed Real Estate Transactions
+   
+151.70   Provision for inspections
+Nuisances
+   
+151.85   Nuisances within a special flood hazard area
+ 
+   
+151.99   Penalty
+**** GENERAL PROVISIONS ****
+§ 151.01 STATUTORY AUTHORIZATION.
+   S.C. Code §§ 5-7-30 and 4-9-30(5) delegated the responsibility to local
+governmental units to adopt regulations designed to promote the public health,
+safety, and general welfare of its citizenry. Therefore, the town, does ordain
+these flood damage prevention and protection regulations.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.02 FINDINGS OF FACT.
+   (A)   The flood hazard areas of the town are subject to periodic inundation
+which results in loss of life and property, health and safety hazards,
+disruption of commerce and governmental services, extraordinary public
+expenditures for flood protection and relief, and impairment of the tax base,
+all of which adversely affect the public health, safety and general welfare.
+   (B)   These flood losses are caused by the cumulative effect of obstructions
+in floodplains, causing increases in flood heights and velocities, and by the
+occupancy in flood hazard areas by uses vulnerable to floods or hazardous to
+other lands which are inadequately elevated, floodproofed, or otherwise
+unprotected from flood damage.
+   (C)   In order for owners of property located within the town which is
+subject to periodic inundation to obtain flood damage insurance through the
+National Flood Insurance Program, the United States government, by statute and
+through regulations promulgated by the Federal Emergency Management Agency
+(FEMA), requires that the town enact floodplain regulations designed to reduce
+the amount of potential flood losses.
+   (D)   The town has previously adopted various ordinances establishing
+regulations related to the prevention of flood damage.
+   (E)   Based on the findings set forth above, the town finds it is in the
+public interest and a benefit to the general health, safety, and welfare of the
+residents of the town, to adopt an ordinance revising and amending the town’s
+flood damage prevention regulations.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.03 STATEMENT OF PURPOSE.
+   It is the purpose of this chapter to promote the public health, safety, and
+general welfare and to minimize public and private losses due to flood
+conditions in specific areas by provisions designed to:
+   (A)   Restrict or prohibit uses which are dangerous to health, safety, and
+property due to water or erosion hazards, or which result in damaging increases
+in erosion or in flood heights or velocities;
+   (B)   Require that structures vulnerable to floods, including appurtenant
+structures, be protected against flood damage.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.04 OBJECTIVES.
+   The objectives of this chapter are:
+   (A)   To protect human life and health;
+   (B)   To minimize expenditure of public money for costly flood control
+projects;
+   (C)   To minimize the need for rescue and relief efforts associated with
+flooding and generally undertaken at the expense of the general public;
+   (D)   To minimize prolonged business interruptions;
+   (E)   To minimize damage to public facilities and utilities such as water
+and gas mains, electric, telephone and sewer lines, street and bridges located
+in floodplains;
+   (F)   To help maintain a stable tax base by providing for the sound use and
+development of flood-prone areas in such a manner as to minimize flood blight
+areas;
+   (G)   To insure that potential homebuyers are notified that property is in a
+flood area;
+   (H)   To provide protection to assets and infrastructure against sea level
+rise;
+   (I)   To build resilience throughout the community to better respond to
+recurrent burdens and sudden disasters;
+   (J)   To increase property protection for all structures during flooding
+events due to hurricane and rainwater flooding; and
+   (K)   To protect the natural floodplain functions and capacity for flooding
+within the community.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.05 DEFINITIONS.
+   For the purpose of this chapter, the following definitions shall apply
+unless the context clearly indicates or requires a different meaning. Unless
+specifically defined below, words or phrases used in this chapter shall be
+interpreted so as to give them the meaning they have in common usage and to
+give this chapter its most reasonable application in light of its stated
+objectives. Where it states “means” is the literal definition.
+   A-ZONE. Areas subject to inundation by the 1% annual chance flood event.
+Because detailed hydraulic analyses have not been performed, no base flood
+elevations (BFEs) or flood depths are shown.
+   ACCESSORY RESIDENTIAL STRUCTURE. A structure on the same parcel of property
+as the principal structure, used for parking of vehicles or typical residential
+equipment, or for limited storage. A SMALL ACCESSORY STRUCTURE is defined as
+one that has a footprint of less than 120 square feet, and a LOW VALUE
+ACCESSORY STRUCTURE as one that has a value of less than $1,000.
+   ADDITION (TO AN EXISTING BUILDING). An extension or increase in the floor
+area or height of a building or structure. Additions to existing buildings
+shall comply with the requirements for new construction regardless as to
+whether the addition is a substantial improvement or not. Where a firewall or
+load-bearing wall is provided between the addition and the existing building,
+the addition(s) shall be considered a separate building and must comply with
+the standards for new construction.
+   AE ZONE. Areas subject to inundation by the 1% annual chance flood event
+determined by detailed methods. BFEs are shown within these zones.
+   APPEAL. A request for a review of the Building Official’s interpretation of
+any provision of the chapter to the Board of Zoning Appeals.
+   APPURTENANT STRUCTURE. A structure which is on the same parcel of property
+as the principal structure, the use of which is incidental to the use of the
+principal structure in light of its stated objectives.
+   AREA OF SPECIAL FLOOD HAZARD. The land in the floodplain within a community,
+subject to a 1% or greater chance of flooding in any given year. For purposes
+of these regulations, the term SPECIAL FLOOD HAZARD AREA (SFHA) is synonymous
+in meaning with the phrase AREA OF SPECIAL FLOOD HAZARD.
+   BASE FLOOD OR 100 YEAR FLOOD. The flood having a 1% chance of being equaled
+or exceeded in any given year.
+   BASEMENT. Area of a building having its floor subgrade (below ground level)
+on all sides.
+   BREAKAWAY WALL. A wall that is not part of the structural support of a
+building that is intended through its design and construction to collapse under
+specific lateral loading forces without causing damage to the elevated portion
+of the building or the supporting foundation system.
+   BUILDING. See STRUCTURE.
+   BUILDING OFFICIAL. The individual charged with administration and
+enforcement of the building codes and floodplain regulations for the town.
+   BUILDING PERMIT. Includes mechanical, electrical, plumbing, and any other
+permits issued by the Building Official.
+   COASTAL AE ZONE. Areas subject to inundation by at least 1% annual chance
+flood event as determined by detailed methods, and where wave action is
+expected with wave heights between one and one-half and three feet. COASTAL AE
+ZONES are landward of the VE Zone up to the Limit of Moderate Wave Action
+(LIMWA) line. This area may also be referred to as a Coastal “A” Zone.
+   COASTAL HIGH HAZARD AREA. An area of special flood hazard extending from
+offshore to the inland limit of a primary frontal dune along an open coast and
+any other area subject to flooding and high velocity waters caused by, but not
+limited to, hurricane wave wash. This includes Zones V and VE.
+   CONDITIONAL LETTER OF MAP REVISION (CLOMR). A formal review and comment as
+to whether a proposed flood protection project or other project complies with
+the minimum National Flood Insurance Program (NFIP) requirements for such
+projects with respect to delineation of special flood hazard areas. A CLOMR
+does not revise the effective Flood Insurance Rate Map (FIRM) or Flood
+Insurance Study (FIS). Upon submission and approval of certified as-built
+documentation, a letter of map revision (LOMR) may be issued by FEMA to revise
+the effective FIRM. Building permits and/or flood development permits cannot be
+issued based on a CLOMR, because a CLOMR does not change the NFIP map.
+   CRITICAL FACILITY. A structure or facility that:
+      (1)   Produces, uses, or stores highly volatile, flammable, explosive,
+toxic and/or water-reactive materials; or
+      (2)   Is a hospital, nursing home, or housing likely to contain occupants
+who may not be sufficiently mobile to avoid death or injury during a flood; or
+      (3)   Is a police station, fire station, vehicle and equipment storage
+facility or emergency operations center that is needed for flood response
+activities before, during, or after a flood; or
+      (4)   Is a public or private utility facility that is vital to
+maintaining or restoring normal services to flooded areas before, during or
+after a flood.
+   CRITICAL FEATURE. An integral and readily identifiable part of a flood
+protection system, without which the flood protection provided by the entire
+system would be compromised.
+   CURVILINEAR LINE. The border on either a FHBM or FIRM that delineates the
+special flood, mudslide (i.e., mudflow), and/or flood-related erosion hazard
+areas and consists of a curved or contour line that follows the topography.
+   DATUM. The National Geodetic Vertical Datum of 1929 (NGVD 29) on FIRMs dated
+November 17, 2004 or before and North American Vertical Datum of 1988 (NAVD 88)
+on FIRMs dated after November 17, 2004.
+   DESIGN FLOOD ELEVATION (DFE). Base Flood Elevation (BFE) plus freeboard.
+   DEVELOPED AREA. An area of a community that is:
+      (1)   A primarily urbanized, built- up area that is a minimum of 20
+contiguous acres, has basic urban infrastructure including roads, utilities,
+communications, and public facilities, to sustain industrial, residential, and
+commercial activities; and
+         (a)   Within which 75% or more of the parcels, tracts, or lots contain
+commercial, industrial, or residential structures or uses; or
+         (b)   A single parcel, tract, or lot in which 75% of the area contains
+existing commercial or industrial structures or uses; or
+         (c)   A subdivision developed at a density of at least two residential
+structures per acre within which 75% or more of the lots contain existing
+residential structures at the time the designation is adopted.
+      (2)   Undeveloped parcel, tract, or lot, the combination of which is less
+than 20 acres and is contiguous on at least three sides to areas meeting the
+criteria of division (1)(a) above at the time the designation is adopted.
+      (3)   A subdivision that is a minimum of 20 contiguous acres that has
+obtained all necessary government approvals, provided that the actual START OF
+CONSTRUCTION of structures has occurred on at least 10% of the lots or
+remaining lots of a subdivision of 10% of the maximum building coverage or
+remaining building coverage allowed for a single lot subdivision at the time
+the designation is adopted and construction of structures is underway.
+Residential subdivisions must meet the density criteria in division (1)(c)
+above of this definition.
+   DEVELOPMENT. Any manmade change to improved or unimproved real estate
+including, but not limited to, buildings or other structures, mining, dredging,
+filling, grading, paving, excavating, drilling operations, or storage of
+equipment or materials or comparable activity of operation; any material change
+in the use or appearance of any structure or in the land itself; the division
+of land into parcels; any change in the intensity of use of land (such as an
+increase in the number of dwelling units in a structure); and change from one
+use of another use; and any activity that alters a river, stream, lake, pond,
+canal, woodland, wetland, endangered species habitat, or other natural resource
+area. DEVELOPMENT does include agriculture and forestry operations.
+   DIRECTOR OF PUBLIC WORKS. The Director of the Department of Public Works.
+   ELEVATED BUILDING. A non-basement building which has its lowest elevated
+floor raised above the ground level by means of fill, solid foundation
+perimeter walls, pilings, columns, piers, or shear walls.
+   EXISTING CONSTRUCTION. For the purposes of determining rates, any structures
+for which the start of construction commenced before November 15, 1973.
+EXISTING CONSTRUCTION may also be referred to as EXISTING STRUCTURES or PRE-
+FIRM STRUCTURE.
+   EXISTING MANUFACTURED HOME PARK OR SUBDIVISION. A manufactured home park or
+subdivision for which the construction of facilities for servicing the lots on
+which the manufactured homes are to be affixed (including, at a minimum, the
+installation of utilities, the construction of streets, and either final site
+grading or the pouring of concrete pads) was completed before November 15,1973.
+   EXPANSION TO AN EXISTING MANUFACTURED HOME PARK OR SUBDIVISION. The
+preparation of additional sites by the construction of facilities for servicing
+the lots on which the manufactured homes are to be affixed (including the
+installation of utilities, the construction of streets, and either final site
+grading or the pouring of concrete pads).
+   FARM STRUCTURE. A structure which is constructed on a farm, other than a
+residence or a structure attached to it, for use on the farm including, but not
+limited to, barns, sheds and poultry houses, but not including public livestock
+areas.
+   FEMA. The Federal Emergency Management Agency.
+   FLOOD OR FLOODING. A general and temporary condition of partial or complete
+inundation of normally dry land areas from:
+      (1)   The overflow of inland or tidal waters; and/or
+      (2)   The unusual and rapid accumulation or runoff of surface waters from
+any source.
+      (3)   Note: A flood inundates a floodplain. Most floods fall into three
+major categories: riverine flooding, coastal flooding, and shallow flooding.
+Structures could fall in the floodplain.
+   FLOOD ELEVATION STUDY. An examination, evaluation and determination of flood
+hazards and, if appropriate, corresponding water surface elevations, or an
+examination, evaluation and determination of mudslide (i.e., mudflow) and/or
+flood-related erosion hazards.
+   FLOOD HAZARD BOUNDARY MAP (FHBM). An official map of a community, issued by
+the Federal Insurance Administrator, where the boundaries of the flood,
+mudslide (i.e., mudflow) and related erosion areas having special hazards have
+been designated.
+   FLOOD INSURANCE RATE MAP (FIRM). An official map of a community, on which
+the Federal Insurance Administrator has delineated both the areas of special
+flood hazard and the risk premium zones applicable to the community. A FIRM
+that has been made available digitally is called a Digital Flood Insurance Rate
+Map (DFIRM). A FIRM may also refer to a Flood Insurance Risk Map.
+   FLOOD INSURANCE STUDY. See FLOOD ELEVATION STUDY.
+   FLOODPLAIN OR FLOOD-PRONE AREA. Any land area susceptible to being inundated
+by water from any source.
+   FLOODPLAIN MANAGEMENT. The operation of an overall program of corrective and
+preventive measures for reducing flood damage, including but not limited to,
+emergency preparedness plans, flood control works and floodplain management
+regulations.
+   FLOODPLAIN MANAGEMENT REGULATIONS. State or local regulations, in any
+combination thereof, which provide standards for the purpose of flood damage
+prevention and reduction.
+   FLOODPROOFING. Any combination of structural and non-structural additions,
+changes, or adjustments to structures which reduce or eliminate flood damage to
+real estate or improved real property, water and sanitary facilities,
+structures and their contents.
+   FLOODWAY. See REGULATORY FLOODWAY.
+   FLOODWAY ENCROACHMENT LINES. The lines marking the limits of floodways on
+federal, state and local floodplain maps.
+   FREEBOARD. A factor of safety usually expressed in feet above a mandatory
+base flood elevation for purposes of floodplain management.
+   FUNCTIONALLY DEPENDENT USE. A use which cannot perform its intended purpose
+unless it is located or carried out in close proximity to water, such as a
+docking or port facility necessary for the loading and unloading of cargo or
+passengers, shipbuilding or ship repair. The term does not include long-term
+storage or related manufacturing facilities.
+   HAZARDOUS VELOCITIES. Hydrodynamic pressure must be considered in the design
+of any foundation system where velocity waters or the potential for debris flow
+exists. If flood velocities are excessive (greater than five feet per second),
+foundation systems other than solid foundations walls should be considered so
+that obstructions to damaging flood flows are minimized.
+   HIGHEST ADJACENT GRADE. The highest natural elevation of the ground surface,
+prior to construction, next to the proposed walls of a structure.
+   HISTORIC STRUCTURE. Any structure that is:
+      (1)   Listed individually on the National Register of Historic Places (a
+listing maintained by the Department of Interior) or preliminarily determined
+by the Secretary of the Interior as meeting the requirements or potentially
+eligible for individual listing on the National Register;
+      (2)   Certified or preliminarily determined by the Secretary of the
+Interior as contributing to the historical significance of a registered
+historic district or a district preliminarily determined by the Secretary to
+qualify as a registered historic district;
+      (3)   Individually listed on a state inventory of historic places in
+states with historic preservation programs which have been approved by the
+Secretary of the Interior; or
+      (4)   Individually listed on a local inventory of historic places that
+has been certified by the South Carolina Department of Archives and History.
+   IMPROVEMENT. Any alteration, addition, or structural repair to an existing
+structure where SUBSTANTIAL IMPROVEMENT or SUBSTANTIAL DAMAGE is not a factor.
+   LAND CHARACTERISTIC. An attribute of land that can be measured or estimated.
+   LETTER OF MAP AMENDMENT (LOMA). An official amendment, by letter, to an
+effective National Flood Insurance Program (NFIP) map. A LOMA establishes a
+property’s or structures location in relation to the especial flood hazard area
+(SFHA). LOMAs are usually issued because a property or structure has been
+inadvertently mapped as being in the floodplain but is actually on natural high
+ground above the base flood elevation.
+   LETTER OF MAP CHANGE (LOMC). An official FEMA determination, by letter, to
+amend or revise effective flood insurance rate maps, flood boundary and
+floodway maps, and flood insurance studies. LOMCs are issued in the following
+categories: Letter of Map Revision (LOMR) and Letter of Map Revision Based On
+Fill (LOMR-F).
+   LETTER OF MAP REVISION (LOMR). FEMA’s modification to an effective flood
+insurance rate map (FIRM) or a flood boundary and floodway map (FBFM) or both.
+LOMRs are generally based on the implementation of physical measures that
+affect the hydrologic or hydraulic characteristics of a flooding source and
+thus result in the modification of the existing regulatory floodway, the
+effective base flood elevations (BFEs), to the special flood hazards area
+(SFHA). The LOMR officially revises the Flood Insurance Rate Map (FIRM) or the
+Flood Boundary and Floodway Map (FBFM), and sometimes the flood insurance study
+(FIS) report, and when appropriate, includes a description of the
+modifications. The LOMR is generally accompanied by an annotated copy of the
+affected portions of the FIRM, FBFM, or FIS report.
+   LETTER OF MAP REVISION BASED ON FILL (LOMR-F). FEMA’s modification of the
+special flood hazard area (SFHA) shown on the Flood Insurance Rate Map (FIRM)
+based on the placement of fill outside the existing regulatory floodway. The
+LOMR-F does not change the FIRM, FBFM, or FIS report.
+   LIMIT OF MODERATE WAVE ACTION (LIMWA). The line shown on FIRMs to indicate
+the inland limit of the area expected to receive one-half foot or greater
+breaking waves during a 1% annual flood event.
+   LIMITED STORAGE. An area used for storage and intended to be limited to
+incidental items that can withstand exposure to the elements and have low flood
+damage potential. Such an area must be of flood resistant or breakaway
+material, void of utilities except for essential lighting and cannot be
+temperature controlled. If the area is located below the base flood elevation
+in an A, AE and A1-A30 Zone, it must meet the requirements of §
+151.41(A)(4). If the area is located below the base flood elevation in a V, VE
+and V1-V30 Zone, it must meet the requirements of §
+151.41(C).
+   LOW VALUE STRUCTURE. See ACCESSORY STRUCTURE.
+   LOWEST ADJACENT GRADE (LAG). An elevation of the lowest ground surface that
+touches any deck support, exterior walls of a building or proposed building
+walls.
+   MANGROVE STAND. An assemblage of mangrove trees which is mostly low trees
+noted for a copious development of interlacing adventitious roots above the
+ground and which contain one or more of the following species: Black mangrove
+(Avicennia nitida); Red mangrove (Rhizophora mangle); White mangrove
+(Longunculariaracemosa); and buttonwood (Conocarpus erecta).
+   MANUFACTURED HOME. A structure, transportable in one or more sections, which
+is built on a permanent chassis and is designed to meet HUD standards, for use
+with or without a permanent foundation when attached to the required utilities.
+The term MANUFACTURED HOME does not include a RECREATIONAL VEHICLE.
+   MANUFACTURED HOME PARK OR SUBDIVISION. A parcel (or contiguous parcels) of
+land divided into two or more manufactured home lots for rent or sale.
+   MANUFACTURED HOME PERMANENT FOUNDATION. A foundation designed by a
+professional engineer registered in South Carolina, with said design subject to
+the approval of the Building Official. A bolt-on/bolt-off foundation system is
+considered as a permanent foundation for mobile homes placed into a
+manufactured home park.
+   MEAN SEA LEVEL. For the purpose of this chapter, the National Geodetic
+Vertical Datum (NGVD) of 1929, North American Vertical Datum (NAVD) of 1988, or
+other datum, to which the base flood elevations shown on a community’s Flood
+Insurance Rate Maps (FIRM) are shown.
+   MODULAR BUILDING UNIT. A building or set of building components manufactured
+offsite and transported to the point of use for installation or erection, with
+or without other specified components, as a finished building and not designed
+for ready removal to another site, and built in accordance to the Modular
+Construction Act of the State of South Carolina. This term is not to be limited
+to residential dwellings.
+   NEW CONSTRUCTION.
+      (1)   For floodplain management purposes, structures for which the start
+of construction commenced on or after the effective date of the NFIP
+community’s a Floodplain Management Ordinance adopted by the NFIP community,
+November 15, 1973 and includes subsequent improvements to such structures, also
+known as post-FIRM.
+      (2)   Exception: An addition to an existing structure (built prior to
+November 15, 1973) is not considered NEW CONSTRUCTION unless it is a
+substantial improvement.
+   NEW DEVELOPMENT.
+      (1)   Any of the following actions undertaken by any person, including,
+without limitation, any public or private individual entity:
+         (a)   Division of combination of lots, tracts, or parcels of other
+divisions by plat or deed;
+         (b)   The construction, installation, or alteration of land, a
+structure, impervious surface or drainage facility;
+         (c)   Clearing, scraping, grubbing or otherwise significantly
+disturbing the soil, vegetation, mud, sand, or rock of a site, or changing the
+physical drainage characteristics of the site; or
+         (d)   Adding, removing, exposing, excavating, leveling, grading,
+digging, burrowing, dumping, piling, dredging, or otherwise disturbing the
+soil, vegetation, mud, sand or rock of a site.
+      (2)   The transition from native landscapes to a developed condition
+reduces the infiltration, evapotranspiration, and surface roughness onsite,
+regardless of the amount of green space and BMPs implemented into the site
+design.
+   NEW MANUFACTURED HOME PARK OR SUBDIVISION. A manufactured home park or
+subdivision for which the construction of facilities for servicing the lots on
+which the manufactured homes are to be affixed (including, at a minimum, the
+installation of utilities, the construction of streets, and either final site
+grading or the pouring of concrete pads) was completed on or after November 15,
+1973, also known as post-FIRM.
+   NFIP. The National Flood Insurance Program.
+   PLANNING AND ZONING OFFICIAL. The individual charged with administration and
+enforcement of planning and zoning for the town.
+   POST-FIRM STRUCTURE. A building for which construction or substantial
+improvement occurred after November 15, 1973. See NEW CONSTRUCTION.
+   PRIMARY OCEANFRONT SAND DUNE. A continuous or nearly continuous mound or
+ridge of sand with relatively steep seaward and landward slopes immediately
+landward and adjacent to the beach and subject to erosion and overtopping from
+high tides and waves during major coastal storms. The inland limit of the
+primary frontal dune occurs at the point where there is a distinct change from
+a relatively steep slope to a relatively mild slope.
+   RECREATIONAL VEHICLE. A vehicle, for flood insurance purposes, which is:
+      (1)   Built on a single chassis;
+      (2)   Four hundred square feet or less when measured at the largest
+horizontal projection;
+      (3)   Designed to be self-propelled or permanently towable by a light
+duty truck; and
+      (4)   Designed primarily not for use as a permanent dwelling but as
+temporary living quarters for recreational, camping, travel, or seasonal use.
+   REDEVELOPMENT. A development on a previously developed site where the
+impervious surface on the previously developed site is equal to or greater than
+20% of the total site or where any repair, reconstruction, or improvements, to
+that site or to any structures located on that site such that the cumulative
+costs of repairs, reconstruction, or improvements, over a five-year period
+equals or exceeds 49% of the fair market value of the property and the
+structures located on that property. The cost of repairs, reconstruction, or
+improvements includes remodeling of existing building interiors, resurfacing of
+paved areas, and exterior building changes. The cost of repairs excludes
+ordinary maintenance activities that do not materially increase or concentrate
+stormwater runoff, or cause additional nonpoint source pollution.
+   REGULATORY FLOODWAY. The channel of a river or other watercourse and the
+adjacent land areas that must be reserved in order to discharge the base flood
+without cumulatively increasing the water surface elevation more than one-half
+of one foot.
+   REMEDY A VIOLATION. To bring the structure or other development into
+compliance with state or local floodplain management regulations, or, if this
+is not reasonably possible as provided in the standards for grant of a
+variance, to reduce the impacts of its noncompliance. Ways that impacts may be
+reduced include protecting the structure or other affected development from
+flood damages, implementing the enforcement provisions of the ordinance or
+otherwise deterring future similar violations, or reducing federal, state or
+local financial exposure with regard to the structure or other development.
+   REPETITIVE LOSS. A building covered by a contract for flood insurance that
+has incurred flood related damages on two occasions during a ten-year period
+ending on the date of the event for which a second claim is made, in which the
+cost of repairing flood damage, on the average, equaled or exceeded 25% of the
+market value of the building at the time of each such flood event.
+   REPETITIVE LOSS AREA. An area with one or more repetitive loss structures
+and includes at- risk properties for flooding who may or may not be in a
+special flood hazard area (SFHA) as well as those who have made a flood
+insurance claim previously but do not qualify as a repetitive loss property.
+   REPETITIVE LOSS PROPERTY. An insurable building for which two or more claims
+of more than $1,000 were paid by the National Flood Insurance Program (NFIP)
+within any rolling ten-year period, since 1978. A RL PROPERTY may or may not be
+currently insured by the NFIP.
+   RESILIENCE. The ability of a community to respond, adapt, and thrive under
+changing conditions, including, but not limited to, recurrent burdens and
+sudden disasters.
+   RIVERINE. Relating to, formed by, or resembling a river (including
+tributaries), stream, brook, etc.
+   SAND DUNE. Naturally occurring accumulations of sand in ridges or mounds
+landward of the beach.
+   SEA LEVEL RISE. An increase in sea level that is primarily related to
+climate change: added water from melting ice sheets and glaciers and the
+expansion of seawater as it warms. Global sea level has been increasing over
+the past century, and the rate has increased in recent decades.
+   SECTION 1316 OF THE NATIONAL FLOOD INSURANCE ACT OF 1968. The Act provides
+that no new flood insurance shall be provided for any property found by the
+Federal Emergency Management Agency to have been declared by a state or local
+authority to be in violation of state or local ordinances.
+   SEVERE REPETITIVE LOSS PROPERTY. A property with at least four flood
+insurance claims for buildings and/or contents of more than $5,000 or at least
+two building-only payments that cumulatively exceeded the value of the
+property.
+   SIXTY-YEAR SETBACK. A distance equal to 60 times the average annual long
+term recession rate at a site, measured from the reference feature.
+   SMALL ACCESSORY STRUCTURES. See ACCESSORY STRUCTURE.
+   SPECIAL FLOOD HAZARD AREA (SFHA). See AREA OF SPECIAL FLOOD HAZARD.
+   SPECIAL HAZARD AREA. An area having special flood, mudslide (i.e., mudflow),
+or flood-related erosion hazards, and shown on a flood hazard boundary map or
+flood insurance rate map.
+   START OF CONSTRUCTION. New construction or substantial improvements under
+the Coastal Barrier Resources Act (Pub. L. 97-348), includes substantial
+improvement, and means the date the construction permit was issued, provided
+the actual start of construction, repair, reconstruction, rehabilitation,
+addition placement, or other improvement was within 180 days of the permit
+date. The actual start means either the first placement of permanent
+construction of a structure on a site, such as the pouring of slab or footings,
+the installation of piles, the construction of columns, or any work beyond the
+stage of excavation; or the placement of a manufactured home on a foundation.
+Permanent construction does not include land preparation, such as clearing,
+grading and filling; nor does it include the installation of streets and/or
+walkways; nor does it include excavation for a basement, footings, piers, or
+foundations or the erection of temporary forms; nor does it include the
+installation on the property of accessory buildings, such as garages or sheds
+not occupied as dwelling units or not part of the main structure. For a
+substantial improvement, the actual start of construction means the first
+alteration of any wall, ceiling, floor, or other structural part of a building,
+whether or not that alteration affects the external dimensions of the building.
+   STEM WALLS. A solid perimeter foundation wall on a continuous spread footing
+backfilled to the underside of the floor slab. Refer to Flood Elevation Diagram
+Number 1B.
+   STRUCTURE. For floodplain management purposes, a walled and roofed building,
+including gas or liquid storage tanks, that is principally above ground, as
+well as modular and manufactured homes.
+   SUBDIVISION. All divisions of a tract or parcel of land into two or more
+lots, building sites, or other divisions for the purpose, whether immediate or
+future, of sale, lease, or building development, and includes all division of
+land involving a new street or change in existing streets, and includes
+resubdivision which would involve the further division or relocation of lot
+lines of any lot or lots within a subdivision previously made and approved or
+recorded according to law; or, the alteration of any streets or the
+establishment of any new streets within any subdivision previously made and
+approved or recorded according to law, and includes combination of lots of
+record.
+   SUBSTANTIAL DAMAGE. Damage of any origin sustained by a structure whereby
+the cost of restoring the structure to its before-damaged condition would equal
+or exceed 50% of the market value of the structure before the damage occurred
+as determined by the Building Official. Floodplain management requirements for
+new construction apply to substantial damage.
+   SUBSTANTIAL IMPROVEMENT. Any reconstruction, rehabilitation, addition or
+other improvement of a structure, taking place during any five consecutive
+years in the life of a building, the cumulative cost of which equals or exceeds
+50% of the market value of the existing structure at the date of “start of
+construction” of the improvement as determined by the Building Official. This
+term includes structures which have incurred “substantial damage,” regardless
+of the actual repair work performed. The term does not, however, include
+either:
+      (1)   Any project for improvement of a structure to correct existing
+violations of state or local health, sanitary, or safety code specifications
+which have been identified by the local code enforcement official and which are
+the minimum necessary to assure safe living conditions; or
+      (2)   Any alteration of a historic structure provided that the alteration
+will not preclude the structure’s continued designation as a historic
+structure.
+   THIRTY-YEAR SETBACK. A distance equal to 30 times the average annual long
+term recession rate at a site, measured from the reference feature.
+   UNNUMBERED A ZONE. A zone without base flood elevations determined. These
+are still considered special flood hazard areas.
+   VARIANCE. A grant of relief from the requirements of this chapter which
+permits construction in a manner otherwise prohibited by this chapter where
+specific enforcement would result in exceptional hardship.
+   VE ZONE. High risk areas subject to inundation by at least a 1% annual
+chance flood event as determined by detailed methods, and where wave action is
+expected with wave heights of more than three feet. BFEs or base flood depths
+are shown within these zones.
+   VIOLATION. The failure of a structure or other development to be fully
+compliant with the town’s floodplain management regulations. A structure or
+other development without the elevation certificate, other certifications, or
+other evidence of compliance required in this chapter is presumed to be in
+violation until such time as that documentation is provided.
+   WATER SURFACE ELEVATION. The height of floods of various magnitudes and
+frequencies in the floodplains of coastal or riverine areas.
+   WATERSHEDS. Areas of land that drain to a single point, bounded by higher
+elevations at the edges. Within a watershed, water travels over land until it
+reaches a body of water, and as the water passes farther downstream, draining a
+larger area, eventually everything leads to the ocean. In coastal areas,
+wetlands border the land, and many of the local streams and creeks enter
+wetlands border the land, and many of the local streams and creeks enter
+wetlands before discharging to the ocean. Wetlands perform a crucial function
+in the watershed, intercepting pollutants carried downstream and removing them
+from the water in a natural treatment process. Additionally, wetlands slow the
+water down, acting as a buffer for hurricanes and reducing severity of
+flooding.
+   X ZONE (SHADED). Moderate risk areas within the 0.2% annual chance
+floodplain, areas of 1% annual chance flooding where the average depths are
+less than one foot. No BFEs or base flood depths are shown within these zones.
+   X ZONE (UNSHADED). The minimal risk areas outside the 1% and 0.2% annual
+chance floodplains. No BFEs or base flood depths are shown within these zones.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.06 LANDS TO WHICH THIS CHAPTER APPLIES.
+   This chapter shall apply to all areas of special flood hazard within the
+jurisdiction of the town.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.07 BASIS FOR ESTABLISHING AREAS OF SPECIAL FLOOD HAZARD.
+   The town declares that the Charleston County Flood Insurance Study,
+including the FIRMs, dated January 29, 2021, copies of which are on file and
+online at charlestoncounty.org and msc.fema.gov, is hereby adopted and declared
+to be as fully a part of this chapter as if set forth herein. Letters of Map
+Change (LOMC) to these adopted maps authorized by the NFIP shall become
+effective immediately upon the date established by the NFIP. Permits of any
+kind from the town will only be issued based on the current effective data set
+by the most recent applicable FIRM or LOMC authorized by the National Flood
+Insurance Program/FEMA.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.08 WARNING; DISCLAIMER OF LIABILITY.
+   The degree of flood protection required by this chapter is considered
+reasonable for regulatory purposes and is based on scientific and engineering
+consideration. Larger floods can and will occur on rare occasions. Flood
+heights may be increased by man-made or natural causes. This chapter does not
+imply that land outside the areas of special flood hazard or uses permitted
+within such areas will be free from flooding or flood damages. This chapter
+shall not create liability on the part of the town or by any officer or
+employee thereof for any flood damages that result from reliance on this
+chapter or any administrative decision lawfully made thereunder.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.09 PROVISIONS CUMULATIVE.
+   The provisions of this chapter are to be cumulative of all other ordinances
+or parts of ordinances governing or regulating the same subject matter as that
+covered herein, provided, however, that all prior ordinances or parts of
+ordinances inconsistent with or in conflict with any of the provisions of this
+chapter, are hereby expressly repealed to the extent of any such inconsistency
+or conflict. The enactment of this chapter shall not serve to terminate or be
+cause for the termination of the prosecution of any civil or criminal actions
+under the prior ordinances which were pending at the time of the enactment
+hereof.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.10 ABROGATION AND GREATER RESTRICTIONS.
+   This chapter shall not in any way impair/remove the necessity of compliance
+with any other applicable laws, ordinances, regulations, etc. Where this
+chapter imposes a greater restriction, the provisions of this chapter shall
+control.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.11 EFFECTIVE DATE; APPLICATION.
+   This chapter shall be effective immediately for all new permits issued on or
+after the date of ratification.
+(Ord. 2026-04, passed 4-30-2026)
+**** ADMINISTRATION ****
+§ 151.25 DESIGNATION OF BUILDING OFFICIAL.
+   As designated by the Mayor, the Building Official, and/or his or her
+designee, is hereby appointed to administer and implement the provisions of
+this chapter.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.26 DUTIES AND RESPONSIBILITIES OF THE BUILDING OFFICIAL.
+   Duties of the Building Official shall include, but not be limited to:
+   (A)   Review all applications for construction permits to assure that the
+requirements of this chapter have been satisfied, the requirements of 44 CFR,
+and are adequate to determine whether proposed building sites will be
+reasonably safe from flooding.
+   (B)   Review application for a construction permit on forms furnished by the
+Building Official, prior to authorizing the commencement of any construction
+activities. The following information, as a minimum, is required to be
+reviewed:
+      (1)   A digital set of building plans drawn to scale and showing, at a
+minimum, elevations for each exterior wall; floor plan(s); foundation and wall
+sections and details; stair details; and electrical, plumbing and mechanical
+riser diagrams. The plans shall give a full description of proposed
+construction including a site plan identifying area(s) having special flood
+related hazards as applicable.
+      (2)   Plans shall indicate the BFE and the DFE elevation of the proposed
+building, verification that materials proposed below the design flood elevation
+(DFE) are flood resistant per FEMA Technical Bulletin 2; if applicable, include
+floodproofing certification (non-residential), hydrostatic venting information,
+breakaway wall details and certifications from a registered architect/engineer.
+   (C)   Maintain permanent copy of building permits issued and copies of all
+required certifications for the life of the structure.
+   (D)   Where interpretation is needed as to the exact location and elevation
+of all areas of special flood hazard (for example, where there appears to be a
+conflict between a mapped boundary and actual field conditions), the Building
+Official shall make the necessary interpretation. The person contesting the
+location of the boundary shall be given a reasonable opportunity to appeal the
+interpretation as provided in this chapter.
+   (E)   Maintain a copy of letter of map changes (LOMC) issued by FEMA.
+   (F)   Maintain on file, for public access, flood maps issued by the Federal
+Emergency Management Agency (FEMA).
+   (G)   Review violations that occur during the course of construction.
+Failure of the contractor to make required changes shall be cause for issuance
+of a stop-work order for the project.
+   (H)   When base flood elevation or floodway data have not been provided by
+the applicants, the Building Official shall obtain, review, and reasonably
+utilize any base flood elevation and floodway data available from a federal,
+state or other source.
+   (I)   Advise owners, no new flood insurance coverage may be provided for any
+new construction of, or substantial improvement to, a structure located within
+the coastal barrier resources system as defined in Section 4 of the Coastal
+Barrier Resources Act.
+   (J)   Determine the elevation requirement for construction in flood zones.
+   (K)   Review proposed development to assure that all necessary permits have
+been received from those governmental agencies from which approval is required
+by federal or state law, including Section 404 of the Federal Water Pollution
+Control Act Amendments of 1972, 33 U.S.C. 1334 and that no adverse impact
+occurs during the development process as authorized by 44 CFR 59 and 60.
+   (L)   Notify adjacent communities and the S.C. Natural Resources Department
+prior to any alteration or relocation of a watercourse and submit evidence of
+such notification to the Federal Emergency Management Agency.
+   (M)   Ensure that maintenance and inspections are provided within the
+altered or relocated portion of watercourses so that the flood- carrying
+capacity is not diminished, and maintaining records of the same until
+completion of the project.
+   (N)   Notify all repetitive loss area structures of their risk of flooding
+and the services available to them.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.27 DUTIES AND RESPONSIBILITIES OF THE PLANNING AND ZONING OFFICIAL.
+   Duties and responsibilities of the Planning and Zoning Official shall
+include, but not be limited to, requiring a zoning permit to be issued in
+conformance with the provisions of the Town Zoning and Land Development
+Regulations, as amended, and/or the Town Comprehensive Plan prior to the
+commencement of any development or construction activities. The permit shall
+give a full description of proposed construction.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.28 DUTIES AND RESPONSIBILITIES OF THE PUBLIC WORKS OFFICIAL.
+   Duties and responsibilities of the Public Works Official shall include, but
+not be limited to, requiring stormwater permit approval in conformance with the
+provisions of the Town Public Works Stormwater Utility Fee Ordinance, the Town
+Stormwater Management Program, and the Town Stormwater Program Standards and
+Procedures Manual prior to the commencement of any land disturbance or
+development activities and requiring encroachment permit approval in
+conformance with the SCDOT Roadside Access and Management Manual prior to
+impacting public right-of-way or easement. The stormwater approval should
+provide a full description of the proposed construction.
+   (A)   To coordinate, implement, and manage the town’s drainage systems.
+   (B)   To deny a facility connection to town stormwater systems or facilities
+or discharge to waters of the state if town requirements are not met.
+   (C)   To require the submittal of an application for all applicable
+construction activities that cause any land disturbance or alter the storm
+drainage characteristics of the land. The application shall include the
+information required to control stormwater pollutants and other components in
+accordance with the current versions of the Charleston County Stormwater
+Permitting Standards and Procedures Manual and the Town Supplemental Stormwater
+Design Standards.
+   (D)   To require the development and enforcement of a stormwater pollution
+prevention plan (SWPPP) for all new and re-development projects, as required by
+the Charleston County Municipal Separate Storm Sewer System (MS4) Program.
+   (E)   To approve construction activities and to require as a condition of
+such approval structural or non-structural controls, practices, devices,
+operating procedures or other mechanisms to protect public and private property
+from flooding, erosion, pollutants, and attain total maximum daily loads
+(TMDLs) pollutant reductions and water quality standards.
+   (F)   To require the submittal of an application for all applicable
+activities that impact a public right-of-way or easement.
+   (G)   To require the removal of an encroachment, if necessary, at the
+expense of the permittee.
+(Ord. 2026-04, passed 4-30-2026)
+**** PROVISIONS FOR FLOOD HAZARD REDUCTION ****
+§ 151.40 GENERAL STANDARDS.
+   (A)   All new construction and substantial improvements within the areas of
+special flood hazard shall comply with the following:
+      (1)   Be designed (or modified) and adequately anchored to prevent
+flotation, collapse, or lateral movement of the structure resulting from
+hydrodynamic and hydrostatic loads, including the effects of buoyancy and
+debris impact.
+      (2)   Be constructed to meet or exceed the required design flood
+elevation (DFE), which is the base flood elevation plus a two-foot freeboard.
+      (3)   When proposed new construction and substantial improvements are
+partially located in an area of special flood hazard, the entire structure
+shall meet the standards for new construction.
+      (4)   When proposed new construction and substantial improvements are
+located in multiple flood hazard risk zones or in a flood hazard risk zone with
+multiple base flood elevations, the entire structure shall meet the standards
+for the most hazardous flood hazard risk zone and the highest base flood
+elevation.
+      (5)   Be constructed with Class 4 or 5 materials resistant to flood
+damage as per FEMA Technical Bulletin 2, entitled “Flood-Resistant Materials
+Requirements for Buildings Located in Special Flood Hazard Areas,” incorporated
+herein by reference, in all areas below the design flood elevation.
+      (6)   Be constructed by methods and practices that minimize potential for
+flood damages.
+      (7)   A temporary construction trailer may only be permitted to be on
+site for fewer than 180 consecutive calendar days at a time, and must be fully
+ready for highway use, and shall be attached to the site only by quick
+disconnect type utilities and security devices.
+      (8)   Electrical, ventilation, plumbing, heating and air conditioning
+equipment (including ductwork), and other service facilities shall be designed
+and/or located so as to prevent water from entering or accumulating within the
+components during conditions of the base flood plus two feet (freeboard).
+      (9)   Be constructed with methods and practices outlined in ASCE 24 or an
+at least equally stringent standard.
+   (B)   Elevation certificate requirements when a structure is constructed or
+substantially improved in the area of special flood hazard:
+      (1)   A certified under construction elevation certificate is required,
+after the lowest floor is completed and before any further inspections are
+accepted and vertical construction commences.
+      (2)   Floodproofing certificate for non-residential construction
+including floodproofing level is required immediately after the floodproofing
+is completed. When floodproofing is utilized for non-residential structures,
+said certification shall be prepared by or under the direct supervision of a
+professional engineer or architect and certified by same.
+      (3)   A certified finished construction elevation certificate shall be
+provided after completion of construction including final grading of the site.
+      (4)   Elevation certificates shall be prepared by or under the direct
+supervision of a registered land surveyor or professional engineer and
+certified by same.
+      (5)   Any work undertaken prior to approval of these certifications shall
+be at the permit holder’s risk. The Building Official shall review the above
+referenced certification data submitted. Deficiencies detected by such review
+shall be corrected by the permit holder immediately and prior to further work
+being allowed to proceed.
+      (6)   Failure to submit certification or failure to make the corrections
+required hereby shall be cause to issue a stop-work order for the project and/
+or the certificate of occupancy may be withheld.
+   (C)   New development in the area of special flood hazard shall minimize
+disruption to shorelines, stream channels, stream banks, and the regulatory
+floodway.
+   (D)   (1)   Water supply systems. All new and replacement water supply
+systems shall be designed to minimize or eliminate infiltration of floodwaters
+into the system.
+      (2)   Sanitary sewage systems. New and replacement sanitary sewage
+systems shall be designed to minimize or eliminate infiltration of floodwaters
+into the systems and discharges from the systems into floodwaters. On-site
+waste disposal systems shall be located and constructed to avoid impairment to
+them or contamination from them during flooding.
+   (E)   Existing buildings and structures (Pre- FIRM structures).
+      (1)   Where substantial improvement or substantial damage is not a
+factor, replacement of electrical, heating, plumbing, and air conditioning
+equipment to existing structures shall be elevated to at least the existing
+lowest floor level or to the design flood elevation; and replacement ductwork
+installed below DFE shall be designed so as to prevent water from entering or
+accumulating within during conditions of flooding.
+      (2)   Improvements to a structure where substantial improvement or
+substantial damage is not a factor shall be designed and constructed so as to
+meet the requirements of this chapter, with an exception that the minimum
+elevation of the lowest floor of an improvement may match the existing legally
+non-conforming structure’s existing lowest floor.
+   (F)   Modular construction shall be consistent with the South Carolina
+Modular Building Construction Act (S.C. Code §§ 23-43-10 et seq.), as may be
+amended from time to time, which is incorporated herein by reference.
+   (G)   Enclosures below the design flood elevation, shall be the minimum
+necessary to allow for parking of vehicles, limited storage, or entry to the
+living area.
+   (H)   An exterior door with a landing shall be installed at the top of the
+stairs that provide access to the building.
+   (I)   Accessory residential structure specific standards. New construction
+or substantial improvements to residential accessory structures that contain
+habitable space shall meet the requirements of new construction as contained in
+this chapter. Small and/or low value accessory structures that do not contain
+habitable space may be exempted from the elevation requirements in AE Zones
+only, provided the following conditions are met:
+      (1)   The building is constructed of flood-resistant materials below the
+design flood elevation.
+      (2)   Exterior perimeter walls are provided with openings to relieve
+hydrostatic pressure and the interior is not partitioned or finished into
+separate rooms.
+      (3)   Electrical, heating, ventilation, plumbing, air conditioning, and
+other service facilities are prohibited, except for essential lighting and
+power circuits. Flood elevation certificates may be required to determine the
+elevation of electric or other utility services provided to the accessory
+structure. Service facilities such as electrical and heating equipment shall be
+elevated or floodproofed to DFE.
+      (4)   Accessory structures shall be constructed and placed on the
+building site so as to offer the minimum resistance to the flow of floodwaters.
+Accessory structures shall be firmly anchored to prevent flotation which may
+result in damage to other structures.
+      (5)   The building is used only for parking of vehicles and/or limited
+storage of equipment used to service the principal building.
+   (J)   Manufactured home additional specification standards.
+      (1)   Permits shall be obtained for placement of manufactured homes or
+temporary construction trailers.
+      (2)   All manufactured homes permitted to be placed shall be installed
+using methods and practices which minimize flood damage, which include but are
+not limited to elevating the lowest floor of the manufactured home on a
+permanent foundation, as defined herein as a MANUFACTURED HOME PERMANENT
+FOUNDATION, to or above the design flood elevation in A or AE zones only.
+         (a)   For the purposes of this requirement, manufactured homes must be
+elevated and anchored to resist flotation, collapse, or lateral movement.
+         (b)   Methods of anchoring may include, but are not limited to, use of
+over-the- top or frame ties to ground anchors.
+         (c)   This requirement is in addition to applicable state and local
+anchoring requirements for resisting wind forces.
+         (d)   Designs for manufactured home permanent foundations are subject
+to approval of the Building Official.
+   (K)   Recreational vehicles additional specific standards. All recreational
+vehicles, other than those parked at another permanent structure temporarily
+while not in use, place or sited within special flood hazard areas must:
+      (1)   Be on the site for fewer than 180 consecutive calendar days; and
+      (2)   Be fully registered and ready for highway use. A recreational
+vehicle is ready for highway use if it is on its wheels or jacking system, is
+attached to the site only by quick disconnect type utilities and security
+devices, and has no permanently attached additions.
+      (3)   If the vehicle is to remain in an A or AE Zone, it must be elevated
+in accordance with requirements for manufactured homes as provided in §
+151.41.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.41 SPECIFIC STANDARDS IN ADDITION TO GENERAL STANDARDS FOR UNNUMBERED A
+ZONES, AE ZONES.
+   (A)   (1)   All new construction and substantial improvements of residential
+structures shall be elevated so that the top of the lowest floor level
+(including basement) is elevated to or above the design flood elevation.
+      (2)   All new construction and substantial improvements of non-
+residential structures within Zone AE on the community FIRM may be floodproofed
+below DFE if they are designed so that below the design flood elevation the
+structure is watertight with walls substantially impermeable to the passage of
+water and with structural components having the capability of resisting
+hydrostatic and hydrodynamic loads and effects of buoyancy including attendant
+utilities and sanitary facilities.
+      (3)   Where a non-residential structure is intended to be made watertight
+below the base flood level:
+         (a)   A registered professional engineer or architect licensed in the
+state shall develop and/or review structural design, specifications, and plans
+for the construction, and shall certify that the design and methods of
+construction are in accordance with accepted standards of practice for meeting
+the applicable provisions of this chapter, including but not limited to
+Floodproofing Non-Residential Buildings (FEMA P- 936) as published by the
+Federal Emergency Management Agency incorporated herein by reference; and 
+         (b)   A record of such certificates which includes the specific
+elevation (in relation to mean sea level) to which such structures are
+floodproofed shall be maintained with the Building Official.
+      (4)   Enclosed areas below the design flood elevation, including
+foundation crawl space areas, shall be designed to automatically equalize
+hydrostatic and hydrodynamic flood forces on exterior walls by allowing for the
+entry and exit of floodwaters. Designs for meeting this requirement must either
+be certified by a registered professional engineer or architect licensed in the
+state or meet or exceed the following minimum criteria:
+         (a)   A minimum of two openings having a total net area of not less
+than one square inch for every square foot of enclosed area subject to flooding
+shall be provided.
+         (b)   The bottom of all openings shall be no higher than one foot
+above grade.
+         (c)   Only the portions of openings that are below the base flood
+elevation (BFE) can be counted towards the required net open area.
+         (d)   Openings may be equipped with screens, louvers, valves, or other
+coverings or devices provided that they permit the automatic entry and exit of
+flood waters.
+         (e)   The area of the opening is the net clear opening calculated as
+the open area (excluding area of screening or other coverings that prohibit the
+free flow of water through the opening).
+         (f)   Fill placed around foundation walls must be grated so that the
+grade inside the enclosed area is equal to or higher than the adjacent grade
+outside the building on at least one side of the building.
+      (5)   In special flood hazard areas without base flood elevation data,
+new construction or substantial improvements of structures shall be elevated to
+at least two feet above the anticipated flood elevation during a base flood, as
+determined through an engineering analysis meeting the Federal Emergency
+Management Agency guidelines for flood insurance studies with the floodway to
+be established with no more than one-half foot rise.
+   (B)   Specific standards in addition to general standards for VE and Coastal
+A Zones. VE Zones and Coastal A Zones are areas designated as coastal high
+hazard areas. These areas have special flood hazards associated with wave wash,
+and therefore, the following provisions shall apply:
+      (1)   All new construction and buildings that are substantially damaged
+or improved within VE and Coastal A Zones are to be located landward of the
+reach of mean high tide.
+      (2)   Provide that all new construction and substantial improvements in
+Zone VE and Coastal A Zone, on the Charleston County FIRM, are elevated on
+pilings or columns so that:
+         (a)   The bottom of the lowest horizontal structural member of the
+lowest floor (excluding the pilings or columns) is elevated to or above the
+design flood elevation;
+         (b)   The pile or column foundation and structure attached thereto is
+anchored to resist flotation, collapse and lateral movement due to the effects
+of wind and water loads acting simultaneously on all building components. Water
+loading values used shall be those associated with the base flood. Wind loading
+values used shall be those required by the International Building Code or
+International Residential Code as adopted and periodically amended by the
+state; and
+         (c)   A registered professional engineer or architect licensed in the
+state shall develop and/or review the structural design, specifications and
+plans for construction, and shall certify that the design and methods of
+construction are in accordance with accepted standards of practice for meeting
+the applicable provisions.
+      (3)   New construction and substantial improvements shall have the space
+below the lowest floor either free of obstruction or constructed with non-
+supporting breakaway walls, open wood latticework, or insect screening intended
+to collapse under wind and water loads without causing collapse, displacement,
+or other structural damage to the elevated portion of the building or
+supporting foundation system. A breakaway wall shall be permitted only if a
+registered professional engineer or architect licensed in the state certifies
+that the designs proposed meet the following conditions:
+         (a)   Breakaway wall collapse shall result from a water load less than
+that which would occur during the base flood;
+         (b)   The elevated portion of the building and supporting foundations
+system shall not be subject to collapse, displacement, or other structural
+damage due to the effects of wind and water loads acting simultaneously on all
+building components (structural and nonstructural). Water loading values used
+shall be those associated with the base flood. Wind loading values used shall
+be those required by applicable state or local building standards; and
+         (c)   Electrical, mechanical and plumbing system components are not to
+be mounted on or penetrate through walls that are designed to break away under
+flood loads.
+      (4)   There shall be no fill used as structural support. Non-compacted
+fill may be used around the perimeter of a building for landscaping/aesthetic
+purposes provided the fill will wash out from storm surge, thereby rendering
+the building free of obstruction prior to generating excessive loading forces,
+ramping effects, or wave deflection. The Building Official shall approve design
+plans for landscaping/aesthetic fill only after the applicant has provided an
+analysis by an engineer, architect, and/or soil scientist licensed in the state
+which demonstrates that the following factors have been fully considered:
+         (a)   Particle composition of fill material does not have a tendency
+for excessive natural compaction;
+         (b)   Volume and distribution of fill will not cause wave deflection
+to adjacent properties; and
+         (c)   Slope of fill will not cause wave run-up or ramping.
+      (5)   Man-made alteration of sand dunes and mangrove stands within Zone
+VE and Coastal A Zones which would increase potential flood damage shall be
+prohibited.
+      (6)   Pre-construction and as-built design and breakaway wall
+certifications, where applicable, shall be provided by registered professional
+engineers and/or architects licensed in the state for new and substantially
+improved structures in VE and Coastal A Zones on the Charleston County FIRM.
+These certificates shall also be provided for all lateral additions to
+structures in the VE and Coastal A Zones.
+      (7)   Enclosed areas below the lowest floor shall be the minimum
+necessary to allow for parking of vehicles, limited storage, and access to the
+primary occupancy.
+      (8)   Walls intended to break away under flood loads as specified shall
+have flood openings that meet the criteria in the general standards section for
+enclosed space below design flood elevation.
+      (9)   Appurtenant features, defined as swimming pools, decks, gazebos,
+fences, and other features as determined by the Building Official as
+potentially causing an obstruction in the coastal high hazard area, must comply
+with the Federal Emergency Management Agency (FEMA) Technical Bulletin 5, Free
+of Obstruction Requirements, or any revisions thereto, incorporated herein by
+reference.
+      (10)   Any and all other obstructions located in the VE Zone shall meet
+all applicable requirements of this chapter.
+   (C)   Manufactured home and recreational vehicles additional specification
+standards in VE and Coastal A Zones.
+      (1)   New or replacement manufactured homes (e.g., those designed to meet
+HUD standards) shall not be placed within property located in VE and Coastal A
+Zones.
+      (2)   Existing manufactured homes in VE and Coastal A Zones may be
+permitted to remain as long as the structure complies with minimum health and
+safety standards and is anchored to resist flotation, collapse, lateral
+movement or debris impacts.
+      (3)   The placement of a permanent recreational vehicle is prohibited in
+VE and Coastal A Zones.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.42 STANDARDS FOR REGULATORY FLOODWAYS.
+   Areas of special flood hazard established as regulatory floodways in the
+Charleston County Flood Insurance Rate Map (FIRM) and/or the Charleston County
+Flood Insurance Study, are the Charleston County designated floodways. Since
+the floodway is an extremely hazardous area due to the velocity of flood waters
+which carry debris, potential projectiles and has erosion potential, the
+following provisions shall apply:
+   (A)   Prohibition of encroachments, including fill, new construction,
+substantial improvements and other development within the adopted regulatory
+floodway unless it has been demonstrated through hydrologic and hydraulic
+analyses performed in accordance with standard engineering practice in
+accordance with the Charleston County Flood Insurance Study or as otherwise
+deemed appropriate by FEMA or the Building Official, certified by a state
+licensed engineer, that the proposed encroachment would not result in any
+increase in flood levels within the community during the occurrence of the base
+flood discharges.
+   (B)   (1)   Encroachments may be permitted within the adopted regulatory
+floodway that would result in an increase in base flood elevations, provided
+that the town first applies for a conditional FIRM and floodway revision,
+fulfills the requirements for such revisions as established under the
+provisions of 44 CFR 65.12 and receives the approval of the Federal Insurance
+Administrator.
+      (2)   (a)   Standards for streams with established base flood elevations
+but without floodways along rivers and streams where base flood elevation data
+is provided but no floodway is identified for a special flood area on the FIRM
+or in the FIS. The following provisions apply within such areas;
+         (b)   No encroachments, including fill material, new construction, or
+substantial improvement shall be permitted unless certification with supporting
+technical data by a registered professional engineer is provided demonstrating
+that the cumulative effect of the proposed development, when combined with all
+other existing and anticipated development, will not increase the water surface
+elevation of the base flood at any point.
+   (C)   The area chosen for the regulatory floodway must be designed to carry
+the waters of the base flood, without increasing the water surface elevation of
+that flood more than one-half foot at any point.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.43 STANDARDS FOR SUBDIVISION PROPOSALS AND OTHER DEVELOPMENT.
+   Standards for subdivision proposals shall meet or exceed the following
+minimum criteria:
+   (A)   All subdivision proposals shall be consistent with the need to
+minimize flood damage;
+   (B)   All subdivision proposals shall have public utilities and facilities
+such as sewer, gas, electrical and water systems located and constructed to
+minimize flood damage;
+   (C)   All subdivision proposals shall have adequate drainage provided to
+reduce exposure to flood hazards;
+   (D)   Base flood elevation data shall be provided for all subdivision
+proposals (including manufactured home parks and subdivisions); and
+   (E)   In all areas of special flood hazard where base flood elevation data
+is not available, the applicant shall provide a hydrologic and hydraulic
+engineering analysis that generates base flood elevations for all subdivision
+proposals and other proposed developments.
+(Ord. 2026-04, passed 4-30-2026)
+**** APPEALS AND VARIANCES ****
+§ 151.55 APPEAL AND VARIANCE PROCEDURE.
+   (A)   General. In order to hear and decide appeals of orders, decisions or
+determinations made by the Building Official relative to the application and
+interpretation of this chapter, the Board of Zoning Appeals (BZA) shall be the
+designated board of officials appointed by the governing body, as established
+in §
+153.047 of the Zoning and Land Development Ordinance.
+      (1)   Decisions on which a variance or appeal is requested shall be those
+made by the Building Official or his or her designee.
+      (2)   Requests for a hearing for a variance or appeal of a decision shall
+be in writing, and shall be received in the office of the Building Official
+within 30 calendar days of notice to the appellant of the decision.
+      (3)   The appellant shall be the owner of the property affected by the
+decision or his or her duly authorized representative.
+   (B)   This Board shall hear and decide appeals when it is alleged there is
+an error in any requirement, decision, or determination made by the Building or
+the Planning and Zoning Official in the enforcement or administration of this
+chapter.
+   (C)   Any person aggrieved by the decision of this Board or any taxpayer may
+appeal such decision, as provided in S.C. Code § 6-29-800.
+   (D)   Variances may be issued for the repair or rehabilitation of historic
+structures upon a determination that the proposed repair or rehabilitation will
+not preclude the structure’s continued designation as a historic structure and
+the variance is the minimum to preserve the historic character and design of
+the structure.
+   (E)   Variances may be issued for a new construction and substantial
+improvements and for other development necessary for the conduct of a
+functionally dependent use provided that requirements of this section are met
+and the structure or other development is protected by methods that minimize
+flood damages during the base flood and create no additional threats to public
+safety.
+   (F)   Variances may be issued to wet floodproof an expansion to an existing
+farm structure in accordance with Technical Bulletin 7, Wet Flood Proofing
+Requirements for Structures Located in Special Flood Hazard Areas in accordance
+with the National Flood Insurance Program available from the Federal Emergency
+Management Agency. The structure must meet all of the conditions and
+considerations for variances otherwise established within this chapter. In
+addition, the following standards shall apply:
+      (1)   Use of the structure must be limited to agricultural purposes such
+as pole frame buildings with open or closed sides used exclusively for the
+storage of farm machinery and equipment; steel grain bins and steel frame corn
+cribs; and general purpose barns for temporary feeding of livestock;
+      (2)   The expansion to an existing farm structure must be built or
+rebuilt, in the case of an existing building which is substantially damaged,
+with flood resistant materials for building elements below the base flood
+elevation;
+      (3)   The expansion to an existing farm structure must be adequately
+anchored to prevent flotation, collapse or lateral movement. All of the
+structure’s components must be capable of resisting specific flood-related
+forces including hydrostatic, buoyancy, hydrodynamic and debris impact forces;
+      (4)   The expansion to an existing farm structure shall meet the
+requirements for hydrostatic venting requirements of this chapter;
+      (5)   Electrical, mechanical or other utility equipment must be located
+at or above the design flood elevation, or must be maintained in a floodproofed
+enclosure complying with this chapter which is capable of resisting damage
+during flood conditions;
+      (6)   The expansion to an existing farm structure must comply with
+floodway encroachment provisions of this chapter; and
+      (7)   Major equipment or machinery must be protected from damage by
+flooding, which may include safely removing the contents of an expansion to an
+existing farm structure to a specified site out of the floodplain upon
+notification of potential flooding event.
+   (G)   In passing upon such applications, this Board shall consider all staff
+reports and technical evaluations, all relevant factors and all standards
+specified in other sections of this chapter; and
+      (1)   The danger that materials may be swept onto other lands to the
+injury of others;
+      (2)   The danger to life and property due to flooding or erosion damage;
+      (3)   The susceptibility of the proposed facility and its contents to
+flood damage and the effect of such damage on the individual owner;
+      (4)   The importance of the services provided by the proposed facility to
+the community;
+      (5)   The necessity of the facility to a waterfront location, in the case
+of a functionally dependent usage;
+      (6)   The availability of alternative locations, not subject to flooding
+or erosion damage, for the proposed use;
+      (7)   The conformance of the proposed use to the Town Comprehensive Plan
+and the Town Zoning and Land Development Regulations;
+      (8)   The safety of access to the property in times of flood for ordinary
+and emergency vehicles;
+      (9)   The expected heights, velocity, duration, rate of rise and sediment
+transport of the flood waters and the effects of wave action, if applicable,
+expected at the site during a base flood event; and
+      (10)   The costs of providing governmental services to the site during
+and after flood conditions, including maintenance and repair of public
+utilities and facilities, such as sewer, gas, electrical and water systems, and
+streets and bridges.
+   (H)   The Board may attach such reasonable conditions to the granting of
+variances as it deems necessary to further the purpose of this chapter.
+   (I)   Variances shall not be issued within any designated floodway if any
+increase in flood levels during the base flood discharge would result, nor
+shall a variance be based on financial hardship alone; nor solely due to
+existing or as-built elevation deficiencies that will cause extreme hardship.
+   (J)   Conditions for variances.
+      (1)   Variances shall be issued only on a determination that the variance
+is the minimum necessary needed to afford relief considering the flood hazard;
+and in the instance of an historical building, a determination that the
+variance is the minimum necessary so as not to destroy the historic character
+and design of the building;
+      (2)   Variances shall be issued only upon:
+         (a)   A showing of good and sufficient cause;
+         (b)   A determination that failure to grant the variance would result
+in exceptional hardship; and
+         (c)   A determination that the granting of a variance will not result
+in increased flood heights, additional threats to public safety, extraordinary
+public expense, creation of a nuisance, fraud on or victimization of the
+public, or conflict with other existing laws or ordinances.
+      (3)   Any applicant to whom a variance is granted shall be given written
+notice specifying the differences between the base flood elevation and the
+elevation of which the building is to be built and a statement that the cost of
+flood insurance will be commensurate with the increased risk resulting from the
+reduced lowest floor elevation.
+      (4)   The Building Official shall maintain the records of all appeal
+actions and report any variances granted to the Federal Emergency Management
+Agency upon request.
+      (5)   Variances may not be issued when the variance will make the
+structure in violation of other federal, state or local laws, regulations or
+ordinances.
+(Ord. 2026-04, passed 4-30-2026)
+**** COMPLIANCE FOR PROPOSED REAL ESTATE TRANSACTIONS ****
+§ 151.70 PROVISION FOR INSPECTIONS.
+   (A)   For the purpose of establishing pre- existing conditions which may not
+be in compliance with the Town Flood Damage Prevention Ordinance, it is hereby
+established that the Building Official or designee is authorized to conduct
+inspections of existing structures at the request or with the consent of the
+owner of the structure or his or her agent for compliance with the Town Flood
+Damage Prevention Ordinance when requested for a proposed real estate
+transaction or insurance policy issue.
+   (B)   The Building Official may promulgate regulations for the
+implementation of this program, consistent with the intent hereof and with the
+terms of the remainder of this chapter.
+   (C)   These inspections are to be conducted at a convenient time for the
+property owner or his or her agent and during the normal operating hours of the
+Building Services Department.
+   (D)   Reports generated as a result of these inspections are to be
+considered public records and are to be maintained in the Office of the
+Building Official in accordance with the town’s records retention schedule.
+(Ord. 2026-04, passed 4-30-2026)
+**** NUISANCES ****
+§ 151.85 NUISANCES WITHIN A SPECIAL FLOOD HAZARD AREA.
+   (A)   Certain nuisances defined. Notwithstanding anything to the contrary
+set forth in this code, the following activities occurring within a special
+flood hazard area constitute a danger to the health, safety, and welfare of the
+residents of the town, are hereby defined as public nuisances and are
+prohibited within any special flood hazard area.
+      (1)   The manufacture, processing, blending, mixing or refining of the
+following products as defined in the International Fire Code as adopted by the
+town:
+         (a)   Explosives;
+         (b)   Blasting agents;
+      (2)   Storage of the products listed in division (A)(1) above, except
+that the retail sale of packages products off-the-shelf at properly licensed
+and otherwise authorized retail sales outlets, is allowed.
+   (B)   Defense; prior use of property. It shall be a defense to prosecution
+pursuant to division (A) above if:
+      (1)   Property located within a special flood hazard zone was being used
+for a purpose defined as a nuisance in division (A)(1) above, has been
+continuously used for such purpose thereafter, and such use constituted a
+lawful non-conforming use under the Town Zoning and Land Development
+Regulations Ordinance; and
+      (2)   Property which becomes located within a special flood hazard area
+as the result of an amendment to the county’s FIRM was being used for a purpose
+defined as a nuisance in division (A)(1) above, before the effective date of
+the amended FIRM, has been continuously used for such purpose thereafter, and
+such use:
+         (a)   Was a permitted use pursuant to the Town Zoning and Land
+Development Regulations Ordinance as of the effective date of the FIRM; or
+         (b)   Constituted a lawful non-conforming use under the Town Zoning
+and Land Development Regulations Ordinance on the effective date of the FIRM.
+(Ord. 2026-04, passed 4-30-2026)
+§ 151.99 PENALTY.
+   (A)   Criminal penalties. Violation of the provisions of this chapter or
+failure to comply with any of its requirements, including violation of
+conditions and safeguards established in connection with grants of variance or
+special exceptions, shall constitute a misdemeanor. Any person who violates
+this chapter or fails to comply with any of its requirements shall, upon
+conviction thereof, be fined not more than $500 or imprisoned for not more than
+30 days, or both, and in addition, shall pay all costs and expenses involved in
+the case. Each day such violation continues shall be considered a separate
+offense. Nothing herein contained shall prevent the town from taking such other
+lawful actions as are necessary to prevent or remedy any violation.
+   (B)   Civil remedies. In addition to any other criminal or civil remedies
+that may be available to the town, the town may seek and obtain an injunction
+against the owner or owner's representative with control over the property in
+accordance with applicable laws and procedures.
+(Ord. 2026-04, passed 4-30-2026)
 CHAPTER 152: COMPREHENSIVE PLAN
 Note: The Town of James Island Comprehensive Plan is available at the following
 link: http://www.jamesislandsc.us/ZLDR
@@ -6928,7 +8211,7 @@ Use Conditions
    
 153.151   Minor utility service
    
-153.152   Reserved
+153.152   Animal services
    
 153.153   Banks and financial services
    
@@ -8486,14 +9769,18 @@ this chapter.
 provision of informational, instructional, personal improvements, or similar
 services, excluding any services that have been more specifically defined in
 this chapter.
-   PET GROOMING SALONS. An establishment primarily engaged in the grooming of
-household pets.
+   PET GROOMING SALONS/PET WASHING STATIONS. An establishment primarily engaged
+in the grooming and/or washing of household pets.
    PET, HOUSEHOLD. Domestic animals typically kept for company or enjoyment
 within the home. HOUSEHOLD PETS shall include, but not be limited to, domestic
 cats, domestic dogs, domestic ferrets, gerbils, guinea pigs, hamsters, domestic
 laboratory mice, domestic rabbits, goldfish, canaries, and parrots.
+   PET SHELTERS. An establishment primarily engaged in providing temporary
+housing, care, and medical attention for lost, abandoned, surrendered, or
+abused animals.
    PET STORE. An establishment primarily engaged in the retail sale of
-household pets.
+household pet supplies and food. May also include the retail sales of household
+pets and various animal services as an accessory use.
    ZONING ADMINISTRATOR. The Zoning Administrator of the town or the authorized
 designee or representative of the Administrator.
    PLANTS. Includes seed, seedlings, nursery stock, roots, tubers, bulbs,
@@ -9125,7 +10412,7 @@ activities described in §
 (Ord. 2012-06, §§ 12.1 and 12.2, passed 10-18-2012; Ord. 2013-11, passed 8-15-
 2013; Ord. 2018-14, passed 12-20-2018; Ord. 2019-01, passed 5-16-2019; Ord.
 2023-04, passed 5-18-2023; Ord. 2024-04, passed 6-20-2024; Ord. 2025-02, passed
-3-20-2025; Ord. 2025-10, passed 11-20-2025)
+3-20-2025; Ord. 2025-10, passed 11-20-2025; Ord. 2026-09, passed 6-18-2026)
 § 153.014 PLANNING AND ZONING FEE SCHEDULE.
    The planning and zoning fee schedule shall be set and amended by resolution
 of the Town Council.
@@ -10606,7 +11893,7 @@ parallel line away from the point of intersection along the roadway (see Figure
 collector or higher may be subject to a greater distance of measurement.
 Figure 153.066.1
 Vision Clearance Triangle
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1013.jpg]
  
          (c)   Driveways may be located in front and side setbacks.
@@ -10664,7 +11951,7 @@ gable, hip, or gambrel roof;
          (c)   The highest point of the coping of a flat roof.
 Figure 153.066.2
 Building Height
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1011.jpg]
  
       (2)   Fences or walls. Height shall be measured from ground level on the
@@ -12490,11 +13777,13 @@ RV (recreational vehicle) parks or campgrounds                         S    S   
 ANIMAL SERVICES
 Kennel                                                                 A    A   C                            §
                                                                                                                      153.174
-Pet stores or grooming salons                                                                   S         A §
+Pet stores or grooming salons, or pet washing stations                                          C         A §
                                                                                                                      153.152
 Small animal boarding (enclosed building)                              A    A   S                  S         A §
                                                                                                                      153.152
-Veterinary services                                                    A    A   S            S  C  C  A         A §
+Veterinary services                                                    A    A   S            C  C  C  A         A §
+                                                                                                                     153.152
+Pet shelters                                                           A    A   A            C  C  C  A         A §
                                                                                                                      153.152
 FINANCIAL SERVICES
 Banks                                                                                     C  C  C  A         A §
@@ -12823,7 +14112,7 @@ transportation                                                                  
 21-2016; Ord. 2016-05, passed 6-16-2016; Ord. 2017-02, passed 2-16-2017; Ord.
 2018-02, passed 5-17-2018; Ord. 2018-08, passed 8-16-2018; Ord. 2019-01, passed
 5-16-2019; Ord. 2022-01, passed 4-21-2022; Ord. 2022-03, passed 10-20-2022;
-Ord. 2023-04, passed 5-18-2023)
+Ord. 2023-04, passed 5-18-2023; Ord. 2026-09, passed 6-18-2026)
 **** USE CONDITIONS ****
 § 153.120 USE CONDITIONS; CONDITIONAL AND SPECIAL EXCEPTION USES.
    The following use conditions shall apply to principal uses in any zoning
@@ -14281,7 +15570,17 @@ permit prior to commencement of such activities.
    (B)   Minor utility service shall be underground in the Commercial
 Transition (CN) Zoning District.
 (Ord. 2012-06, § 6.4.31, passed 10-18-2012; Ord. 2013-02, passed 4-18-2013)
-§ 153.152 RESERVED.
+§ 153.152 ANIMAL SERVICES.
+   (A)   In zoning districts subject to division (C), animal services shall
+have a maximum floor area of 5,000 square feet or less; otherwise this use
+shall fall under the special exception procedures of this chapter.
+   (B)   In zoning districts subject to division (C), all activities and
+storage areas associated with animal services must be conducted in completely
+enclosed structures; otherwise this use shall fall under the special exception
+procedures of this chapter.
+   (C)   All animal service uses shall comply with the site plan review
+requirements of this chapter.
+(Ord. 2026-09, passed 6-18-2026)
 § 153.153 BANKS AND FINANCIAL SERVICES.
    In zoning districts subject to conditions (C), banks and financial services
 shall have a maximum floor area of 5,000 square feet or less; otherwise these
@@ -16757,7 +18056,7 @@ X          Stall Width A Stall Depth B Aisle Width C    Skew Width D
                                        Two way
 Note: Two-way drive aisles shall always require a minimum width of 23 feet.
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1015.jpg]
  
       (3)   Parking lot landscaping. See §
@@ -20673,85 +21972,85 @@ ditches);
    (Y)   Typical street name sign installation;
    (Z)   Horizontal sight distance detail;
    (AA)   Standard street name sign specifications.
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1259.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1261.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1263.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1265.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1267.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1269.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1271.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1273.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1275.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1277.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1279.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1281.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1283.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1285.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1287.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1289.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1291.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1293.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1295.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1297.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1299.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1301.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1303.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1305.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1307.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1309.png]
  
-[https://export.amlegal.com/media/7acb9efe8927992931a6f0964a029bbf70ddb6ea/
+[https://export.amlegal.com/media/a4285fe938cc39a9b95fe11d847580f11d808663/
 IMAGES/0-0-0-1311.png]
  
 TABLE OF SPECIAL ORDINANCES
@@ -20847,6 +22146,10 @@ Ord. No. Date Passed Description
 2024-12  12-19-2024  0 Dills Bluff Road from Low-Density Suburban Residential
                      (RSL) Zoning District to Residential Office (OR) Zoning
                      District.
+                     Rezoning real property located at 1123 Fort Johnson Road
+2026-08  6-18-2026   from Low-Density Suburban Residential (RSL) Zoning
+                     District to Agricultural Preservation (AG-5) Zoning
+                     District.
                     
  
 PARALLEL REFERENCES
@@ -20861,10 +22164,12 @@ Title 4, Chapter 9           153.002
                              90.16,
 4-9-30(5)                    90.30 –
                              90.34,
-                             90.99
+                             90.99,
+                             151.01
                              10.99,
 5-7-30                       51.001,
-                             110.19
+                             110.19,
+                             151.01
 5-7-40                       32.15
                              110.19,
 5-7-300                      110.36,
@@ -20876,6 +22181,7 @@ Title 4, Chapter 9           153.002
 6-1-730                      33.20
 6-9-5 et seq.                150.01
 6-9-10                       150.13
+6-9-50                       150.01
                              153.002,
                              153.004,
 Title 6, Chapter 29          153.013,
@@ -20893,7 +22199,8 @@ Title 6, Chapter 29, Art. 11 153.046,
 6-29-540                     153.051
 6-29-720                     153.078
 6-29-790                     153.027
-6-29-800                     153.013
+6-29-800                     151.55,
+                             153.013
 6-29-1145                    153.009
 6-29-1200                    153.054
 6-31-10 et seq.              153.043,
@@ -20912,7 +22219,8 @@ Title 6, Chapter 29, Art. 11 153.046,
 16-11-700                    92.05
 20-7-2700                    153.013
 22-3-55                      150.99
-23-43-10 et seq.             153.013
+23-43-10 et seq.             151.40,
+                             153.013
 23-47-60 et seq.             153.054
 27-31-130 et seq.            153.127
 Title 30, Chapter 4          30.21
@@ -21401,6 +22709,21 @@ E-3-2020                     7-16-2020   30.21
                                          150.09,
                                          150.12 -
                                          150.15
-2026-04                      4-30-2026   151.01
+                                         151.01 -
+                                         151.11,
+                                         151.25 -
+                                         151.28,
+2026-04                      4-30-2026   151.40 -
+                                         151.43,
+                                         151.55,
+                                         151.70,
+                                         151.85,
+                                         151.99
+2026-08                      6-18-2026   T.S.O. IV
+                                         153.013,
+2026-09                      6-18-2026   153.110,
+                                         153.152
+2026-10                      6-18-2026   150.01
+2026-11                      7-16-2026   50.01
                                         
  

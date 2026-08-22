@@ -1,22 +1,21 @@
 TOWN OF WINNSBORO, SOUTH CAROLINA
 CODE OF ORDINANCES
-2024 S-10 Supplement contains:
-Local legislation current through Ord. 93, passed 11-21-2023
+2026 S-11 Supplement contains:
+Local legislation current through Ord. 165, passed 12-2-2025
  
 Published by:
 American Legal Publishing
 525 Vine Street Suite 310 Cincinnati, Ohio 45202
 1-800-445-5588 www.amlegal.com
 ***** TOWN OFFICIALS *****
-Mayor                                   John McMeekin
-Mayor Pro Tem                           Demetrius Chatman, District #3
+Mayor                                   Demetrius Chatman
+Mayor Pro Tem                           Danny Miller, District #1
 Council Members                         Danny Miller, District #1
                                        Janice Bartell-Prather, District #2
-                                       Demetrius Chatman, District #3
+                                       Russ Brown, District #3
                                        Jae Burroughs, District #4
-Town Manager                            Jason Taylor
-Assistant Town Manager                  Chris Clauson
-Finance Director/Assistant Town Manager Kathy Belton
+Town Manager                            Chris Clauson
+Finance Director/Assistant Town Manager Chanel Lewis
 Clerk                                   Patti L. Davis
 Town Attorney                           Scott Elliott
  
@@ -319,7 +318,7 @@ designated as the official map of the town, and the corporate limits as known
 thereon are declared to be the true and correct corporate limits of the town,
 including all annexations made through and including the date of adoption of
 this code.
-[https://export.amlegal.com/media/c7bb91183871eaf6cd7ca19e6bdb330ff82b6a75/
+[https://export.amlegal.com/media/3560cd7e5dce38a6352e5f6c6546e3b68c11382f/
 IMAGES/0-0-0-18.jpg]
  
 (1995 Code, § 1-3049)
@@ -485,6 +484,8 @@ Meetings of Council
 30.036   Agenda
    
 30.037   Special committees
+   
+30.038   Remote virtual attendance
 Ordinances
    
 30.050   Ordinances required
@@ -695,6 +696,64 @@ hearing for Council at any time upon any matter pending before it. Minutes or
 reports of hearings held by special committees shall be filed with the Manager
 as public records.
 (1995 Code, § 1-3008)
+§ 30.038 REMOTE VIRTUAL ATTENDANCE.
+   (A)   Meetings to be open. All regular, special and emergency meetings of
+Council shall be open to the public to the extent required and as provided by
+state law. Whenever this section permits meetings to be conducted virtually,
+Council shall provide reasonably convenient means for members of the public to
+attend and, if permitted in the context of the meeting, to participate.
+   (B)   Virtual attendance at meetings.
+      (1)   Members of Council. For purposes of this section, “members of
+Council” shall mean and include the Mayor and each individual Council member.
+      (2)   Remote virtual means. For purpose of this section, “remote virtual
+means” shall mean live electronic means, such as videoconference or
+teleconference, that allow remote attendees to hear and be heard by all other
+individuals in remote or physical attendance, including members of the public,
+staff and other members of Council.
+      (3)   Physical meeting location. For all meetings, the town shall provide
+a physical meeting location where members of the public may attend. Municipal
+staff necessary to facilitate public attendance and participation shall attend
+in person at such location.
+      (4)   Regular meetings. For regular meetings, members of Council
+attending by remote virtual means shall not be counted in determining whether a
+quorum is present. If, however, a quorum of Council is physically present at
+the meeting location, then other members of Council may attend, participate,
+and vote at regular meetings by remote virtual means. The member of Council
+presiding over such regular meeting must be physically present. A member of
+Council planning to attend a regular meeting by remote virtual means shall
+promptly notify the presiding official of Council to enable a determination of
+whether a physical quorum will be possible.
+      (5)   Special and emergency meetings. For special and emergency meetings,
+members of Council attending by remote virtual means shall be counted in
+determining whether a quorum is present. Members of Council, including the
+presiding member, may attend, participate, and vote at special and emergency
+meetings by remote virtual means, even if there is no quorum of Council
+otherwise in physical attendance.
+      (6)   Public hearings. For public hearings: (1) Members of Council
+attending by remote virtual means shall not be counted in determining whether a
+quorum is present; and (2) If the hearing necessitates a final vote as part of
+the same proceeding or arises from an appeal of any prior town action or
+determination, then members of Council may attend but may not participate or
+vote by remote virtual means. If, however, a quorum of Council is physically
+present at the meeting location, and the public hearing does not necessitate a
+final vote as part of the same proceeding or arise from an appeal of any prior
+town action or determination, then other members of Council may attend and
+participate in public hearing by remote virtual means. In all events, the
+member of Council presiding over such public hearing must be physically
+present. A member of Council planning to attend a public hearing by remote
+virtual means shall promptly notify the presiding official of Council to enable
+a determination of whether a physical quorum will be possible.
+      (7)   Meeting minutes. The minutes for any meeting or public hearing
+attended by any one or more members of Council by remote virtual means shall
+identify the member or members who attended remotely and the virtual means used
+to do so.
+      (8)   Determination of majority. For all meetings in which members of
+Council are permitted to vote by remote virtual means hereunder, the
+determination of whether Council has approved an action shall be calculated by
+counting the presence and vote of all members of Council present at such
+meeting, including those authorized under this section to attend and vote by
+remote virtual means.
+(Ord. 159, passed 8-5-2025)
 **** ORDINANCES ****
 § 30.050 ORDINANCES REQUIRED.
    (A)   In addition to other acts required by law to be done by ordinance,
@@ -1313,6 +1372,33 @@ executions
 33.43   Proceedings before Town Council for relief of taxpayer
    
 33.44   Recovery of collection costs
+Impact Fee Program
+   
+33.55   Definitions
+   
+33.56   Supporting documentation
+   
+33.57   Jurisdiction
+   
+33.58   Application and exemptions
+   
+33.59   Determination of fees
+   
+33.60   Impact fee trust accounts
+   
+33.61   Limitation on expenditures of funds collected
+   
+33.62   Credits; reimbursements
+   
+33.63   Penalties
+   
+33.64   Appeal process
+   
+33.65   Refunds
+   
+33.66   Termination of development impact fee
+   
+33.67   Liberal construction
 **** GENERAL PROVISIONS ****
 § 33.01 FISCAL YEAR DESIGNATED.
    (A)   From and after the passage of this section the fiscal year of the town
@@ -1537,6 +1623,584 @@ practice and shall not be construed to mean that any fees previously charged to
 debtors as costs of collection under the act were not properly authorized or
 properly charged to the debtor.
 (Ord. 09-05-06, passed 9-5-2006; Am. Ord. 2018-101618B, passed 11-6-2018)
+**** IMPACT FEE PROGRAM ****
+§ 33.55 DEFINITIONS.
+   The following definitions apply within this subchapter and are consistent
+with the provisions set forth in the South Carolina Development Impact Fee Act,
+as it may be amended. Where terms are not defined in this section, the
+definitions used in the Town of Winnsboro, South Carolina Code of Ordinances
+shall apply.
+   ACT. The South Carolina Development Impact Fee Act, codified as S.C. Code,
+Title 6, Chapter 1, Article 9, as amended.
+   AFFORDABLE HOUSING. Housing affordable to families whose incomes do not
+exceed 80% of the median income for the service area or areas within the
+jurisdiction of the town.
+   BUILDING PERMIT. A permit issued for construction on or development of land.
+   CAPITAL IMPROVEMENT. Improvements with a useful life of five years or more,
+by new construction or other action, which increase the service capacity of a
+PUBLIC FACILITY. PUBLIC FACILITY categories, for the purpose of this
+subchapter, include sanitation, public safety, and parks and recreation
+facilities and equipment.
+   CAPITAL IMPROVEMENT PLAN. A multi-year planning tool used to coordinate and
+implement financing and identify CAPITAL IMPROVEMENTS for which impact fees may
+be used as a funding source; such plan is included as a part of the STUDY and
+on file with the Town Clerk and available upon request.
+   CERTIFICATE OF OCCUPANCY. A certificate allowing the occupancy or use of a
+building and certifying that the structure or use has been constructed or will
+be used in compliance with the Town of Winnsboro Code of Ordinances and all
+other applicable regulations.
+   CREDIT AGREEMENT. An agreement between the town and a FEE PAYER or DEVELOPER
+wherein the town allocates CREDITS.
+   CREDITS. Impact fee deductions allowed for financial, in-kind, or other
+contributions made pursuant to §
+33.62(B).
+   DEVELOPER. An individual, corporation, partnership or other legal entity
+undertaking new DEVELOPMENT.
+   DEVELOPMENT. Any RESIDENTIAL DEVELOPMENT or NONRESIDENTIAL DEVELOPMENT.
+   DEVELOPMENT APPROVAL. A document that authorizes the commencement of a
+DEVELOPMENT.
+   EFFECTIVE DATE. The date from which the impact fee program is effective,
+which is September 16, 2025.
+   FEE PAYER. Any person who, after the EFFECTIVE DATE, seeks to develop land
+by applying for the issuance of a BUILDING PERMIT, or other development permit,
+subject to IMPACT FEES.
+   IMPACT FEE. Together or individually, the SANITATION IMPACT FEE, the PUBLIC
+SAFETY IMPACT FEE, and the RECREATION IMPACT FEE, which constitute a financial
+payment imposed as a condition of DEVELOPMENT APPROVAL to pay a PROPORTIONATE
+SHARE of the cost of PUBLIC FACILITIES needed to accommodate future growth
+within the town.
+   IMPACT FEE CREDIT REVIEW COMMITTEE. The committee of designated staff
+responsible for the review of CREDIT AGREEMENTS composed of the Town Manager,
+Town Clerk, Town Planning Director, and the applicable department head for the
+impact fee category under consideration, as applicable.
+   IMPACT FEE PROGRAM. This development impact fee program of the town
+providing for the implementation of the IMPACT FEES.
+   IMPACT FEE SCHEDULE. Together or individually, the schedule of SANITATION
+IMPACT FEES, the schedule of PUBLIC SAFETY IMPACT FEES, and the schedule of
+RECREATION IMPACT FEES imposed by the town on a service-unit basis pursuant to
+§
+33.59(B), (C), and (D) of this subchapter, respectively.
+   NONRESIDENTIAL DEVELOPMENT. Any construction or installation of a new
+building or structure of the following uses, as further described and defined
+in the STUDY:
+      (1)   Retail. Establishments primarily selling merchandise, eating/
+drinking places, and entertainment uses. By way of example, “retail” includes
+shopping centers, supermarkets, pharmacies, restaurants, bars, nightclubs,
+automobile dealerships, and movie theaters, hotels, and motels.
+      (2)   Office. Establishments providing management, administrative,
+professional, or business services. By way of example, “office” includes banks,
+business offices, headquarter buildings, business parks, and research and
+development centers.
+      (3)   Industrial. Establishments primarily engaged in the production,
+transportation, or storage of goods. By way of example, “industrial” includes
+manufacturing plants, distribution warehouses, trucking companies, utility
+substations, power generation facilities, and telecommunications buildings.
+      (4)   Institutional. Establishments providing management, administrative,
+professional, or business services. By way of example, “institutional” includes
+assisted living facilities, nursing homes, hospitals, medical offices,
+veterinarian clinics, schools, universities, colleges, churches, daycare
+facilities, government buildings, and prisons; or a change in use of an
+existing building or structure for retail, office, industrial, or institutional
+uses, any of which creates additional demand and need for public facilities.
+   PROPORTIONATE SHARE. The portion of SYSTEM IMPROVEMENTS COSTS for PUBLIC
+FACILITIES determined in the STUDY that reasonably relates to the service
+demands and needs of the development.
+   PUBLIC FACILITIES. Improvements to and/or construction of CAPITAL
+IMPROVEMENTS identified in the CAPITAL IMPROVEMENT PLAN which, for the purpose
+of this subchapter, shall include the SANITATION FACILITIES, the PUBLIC SAFETY
+FACILITIES and the RECREATION FACILITIES.
+   PUBLIC SAFETY FACILITIES. The improvements to and/or construction of the
+facilities for the town’s Public Safety Department, as identified in the
+CAPITAL IMPROVEMENT PLAN.
+   PUBLIC SAFETY IMPACT FEE. A payment of money imposed as a condition of
+approval to pay a PROPORTIONATE SHARE of the cost for improvements to the
+PUBLIC SAFETY FACILITIES identified in the STUDY as serving new development.
+   PUBLIC SAFETY IMPACT FEE TRUST ACCOUNT. The account of that name established
+pursuant to § 33.60 of this subchapter for the purpose of retaining collected
+PUBLIC SAFETY IMPACT FEES.
+   RECREATION FACILITIES. The improvements to and/or construction of the
+facilities for town’s Recreation Department, including park land acquisition
+and improvements, as identified in the CAPITAL IMPROVEMENT PLAN.
+   RECREATION IMPACT FEE. A payment of money imposed as a condition of approval
+to pay a PROPORTIONATE SHARE of the cost for improvements to the RECREATION
+FACILITIES identified in the STUDY as serving new development.
+   RECREATION IMPACT FEE TRUST ACCOUNT. The account of that name established
+pursuant to §
+33.60 of this subchapter for the purpose of retaining collected RECREATION
+IMPACT FEES.
+   RESIDENTIAL DEVELOPMENT. Any construction or installation of new units of
+the following uses, as further described and defined in the STUDY:
+      (1)   Single-family: Detached and attached one-unit dwellings; or
+      (2)   Multi-family: All attached multi-family dwellings including
+duplexes and condominiums; or a change in use of an existing building or
+structure into a single-family unit or multi- family unit that creates
+additional demand and need for PUBLIC FACILITIES.
+   SANITATION FACILITIES. The improvements to and/or construction of the
+facilities for the town’s Sanitation Department, as identified in the CAPITAL
+IMPROVEMENT PLAN.
+   SANITATION IMPACT FEE. A payment of money imposed as a condition of approval
+to pay a PROPORTIONATE SHARE of the cost for improvements to the SANITATION
+FACILITIES identified in the STUDY as serving new development.
+   SANITATION IMPACT FEE TRUST ACCOUNT. The account of that name established
+pursuant to §
+33.60 of this subchapter for the purpose of retaining collected SANITATION
+IMPACT FEES.
+   SERVICE AREA. A defined geographic area in which specific PUBLIC FACILITIES
+provide service to developments within the area defined. For the purposes of
+this subchapter, the entire town shall be treated as one SERVICE AREA for
+calculating, collecting, and spending impact fees.
+   STUDY. The study entitled Capital Improvement Plan and Development Impact
+Fee Study, dated April 7, 2025, and on file with the Town Clerk and available
+upon request.
+   SYSTEM IMPROVEMENT. A CAPITAL IMPROVEMENT to a PUBLIC FACILITY which is
+designed to provide service to the SERVICE AREA.
+   SYSTEM IMPROVEMENT COSTS. The costs incurred for construction and
+reconstruction of SYSTEM IMPROVEMENTS, including design, acquisition,
+engineering and other costs attributable to the system improvement, and also
+including the cost of providing additional PUBLIC FACILITIES needed to serve
+new development. SYSTEM IMPROVEMENT COSTS do not include:
+      (1)   Construction, acquisition, or expansion of public facilities other
+than capital improvements eligible for funding through impact fees that are
+identified in the Capital Improvement Plan;
+      (2)   Repair, operation or maintenance of existing or new capital
+improvements;
+      (3)   Upgrading, updating, expanding or replacing existing capital
+improvements to serve existing development in order to meet stricter safety,
+efficiency, environmental or regulatory standards;
+      (4)   Upgrading, updating, expanding or replacing existing public
+facilities to provide better service to existing development;
+      (5)   Administrative and operating costs of the town; or
+      (6)   Principal payments and interest or other finance charges on bonds
+or other indebtedness except financial obligations issued by or on behalf of
+the town to finance capital improvements eligible for funding through impact
+fees that are identified in the Capital Improvement Plan.
+   TOWN. The Town of Winnsboro, South Carolina.
+   TOWN CLERK. That person employed as the Town Clerk/Assistant to the Town
+Manager.
+   TOWN MANAGER. That person employed as the Town Manager of the town.
+   TRUST ACCOUNT. One or all of the SANITATION IMPACT FEE TRUST ACCOUNT, PUBLIC
+SAFETY IMPACT FEE TRUST ACCOUNT, or the RECREATION IMPACT FEE TRUST ACCOUNT.
+(Ord. 162, passed 9-16-2025)
+§ 33.56 SUPPORTING DOCUMENTATION.
+   This impact fee program is based upon the conclusions and recommendations
+presented in the study, including the Capital Improvement Plan, prepared
+consistent with the provisions set forth in the Act. The study is on file with
+the Town Clerk and available upon request and are incorporated into this
+subchapter by reference. All impact fees collected pursuant to this impact fee
+program shall be used to implement any or all of the public facilities deemed
+eligible for funding by impact fees identified in the Capital Improvement Plan,
+as set forth therein and in this impact fee program.
+(Ord. 162, passed 9-16-2025)
+§ 33.57 JURISDICTION.
+   The provisions of this impact fee program shall apply to all property within
+the corporate limits of the town, including any property that may be annexed
+into the town after the effective date.
+(Ord. 162, passed 9-16-2025)
+§ 33.58 APPLICATION AND EXEMPTIONS.
+   The provisions of the impact fee program shall apply to all new development
+within town limits for which a building permit or development approval is
+required, except for the following:
+   (A)   Rebuilding the same amount of floor space of a structure that was
+destroyed by fire or other natural catastrophe;
+   (B)   Remodeling or repairing a structure with the same use of land that
+does not result in an increase in the number of service units or place new
+demand on public facilities;
+   (C)   Replacing a residential unit, including a manufactured home, with
+another residential unit on the same lot, if the amount of demand for public
+facilities and services generated by the new residential unit does not
+increase;
+   (D)   Placing a construction trailer or temporary office on a lot during the
+period of construction on the same lot;
+   (E)   Construction of an addition to a residential structure that does not
+increase the amount of demand for facilities and services generated by the same
+use of land;
+   (F)   Adding uses that are typically accessory to residential development,
+such as a tennis court or a clubhouse, unless it is demonstrated clearly that
+the use creates new demand for public facilities;
+   (G)   All or part of a particular development if:
+      (1)   The project is determined to create affordable housing; and
+      (2)   The exempt development’s proportionate share of system improvements
+is funded through a revenue source other than impact fees.
+   (H)   Constructing a new elementary, middle or secondary school; and
+   (I)   Constructing a new volunteer fire department.
+(Ord. 162, passed 9-16-2025)
+§ 33.59 DETERMINATION OF FEES.
+   (A)   General provisions.
+      (1)   The Town Council shall determine and establish the impact fees
+schedule determined in accordance with the study and the methodology
+established in this impact fee program. The Town Clerk, or other town official
+authorized by the Town Manager, as applicable, shall collect all impact fees
+administered within town limits.
+      (2)   Upon the effective date, impact fees shall be charged to new
+development in accordance with the procedures set forth in this impact fee
+program and in accordance the impact fees schedule established pursuant hereto.
+The impact fees for a development will be determined and collected at the time
+of application for a building permit. If the development is one that does not
+require a building permit, the impact fee for the development will be
+determined and collected at the time of application for development approval.
+Upon reasonable written request, estimates of the applicable impact fees shall
+be provided by the town prior to the date of issuance of the building permit or
+development approval, as applicable. No building permit or development approval
+shall be issued for any development requiring the payment of impact fees until
+the fees (less any applicable credits) have been remitted to the Town Clerk, or
+in the case of affordable housing, the appropriate financial guarantees have
+been filed with the Town Clerk. Payment of impact fees shall not relieve the
+developer from obligations to comply with any other applicable town ordinances,
+regulations or requirements prior to receiving a certificate of occupancy.
+      (3)   All monies paid by the fee payer pursuant to this impact fee
+program shall be identified as impact fees and promptly deposited in the
+appropriate trust account described under §
+33.60 of this subchapter.
+      (4)   For the purpose of calculating impact fees, the use of land types
+assumed in the impact fee schedule shall be defined in accordance with the
+definitions contained in §
+33.55 of this subchapter, as further defined and described in the study.
+      (5)   Payment in full of all impact fees according to the impact fee
+schedule for a development, as may be amended, supplemented or adjusted under
+the Act or other any other methodology permitted herein, shall constitute full
+and complete payment of the proportionate share of the costs of the public
+facilities.
+      (6)   A developer may negotiate and contract with the town to provide
+facilities or services in lieu of payment of impact fees in accordance with
+S.C. Code § 6-1-1050.
+   (B)   Sanitation impact fee schedule. The sanitation impact fee for any new
+residential development shall be calculated on a per-unit basis in accordance
+with the following impact fee schedule, the basis for which, including the
+calculation of a unit of residential development, is discussed in more detail
+in the study:
+ 
+Sanitation Impact Fee Schedule
+Development Type        Impact Fee
+Residential development Impact fee per residential unit
+   Single-family     $153
+   Multi-family      $106
+ 
+   (C)   Public safety impact fee schedule. The public safety impact fee for
+any new development shall be calculated on a per-unit basis in accordance with
+the following impact fee schedule, the basis for which, including the
+calculation of a unit of development, is discussed in more detail in the study:
+Public Safety Impact Fee Schedule
+Development Type Impact Fee
+Public Safety Impact Fee Schedule
+Development Type            Impact Fee
+Residential Development     Impact fee per residential unit
+   Single-family         $1,596
+   Multi-family          $1,106
+Nonresidential Development  Impact fee per 1,000 square feet
+   Commercial            $2,192
+   Industrial            $426
+   Institutional         $1,338
+   Office and other servi$973
+ 
+   (D)   Parks and recreation impact fee schedule. The recreation impact fee
+for any new residential development shall be calculated on a per-unit basis in
+accordance with the following impact fee schedule, the basis for which,
+including the calculation of a unit of residential development, is discussed in
+more detail in the study:
+ 
+Parks and Recreation Impact Fee Schedule
+Development Type        Impact Fee
+Residential development Impact fee per residential unit
+   Single-family     $1,059
+   Multi-family      $733
+ 
+   (E)   Special cases. The town shall take the following special cases into
+account when calculating impact fees for any new development:
+      (1)   When an application for a building permit or development approval
+has been made that contains two or more uses of land in any combination,
+including two or more uses of land within a single building or structure, the
+total impact fee shall be the sum of the products, as calculated above, for
+each use of land unless an independent impact fee calculation is performed, and
+approved in writing for use by the Town Manager, or his designee, consistent
+with divisions (A) through (D) (as applicable) of this section.
+      (2)   In the case of a change, redevelopment, or modification of a use of
+land which requires a building permit or development approval, and which is not
+exempted from impact fees under §
+33.58 of this subchapter, the impact fee calculation shall be based upon the
+net increase in new or proposed use of land as compared to the existing or
+previous use of land.
+      (3)   In the case of a demolition or termination of an existing use or
+structure, impact fees for future redevelopment shall be based upon the net
+increase in development for the new or proposed use of land as compared to the
+existing actual active previous use of land since its original occupancy.
+Credit for the prior use shall not be transferable to another location.
+      (4)   In the case of relocating an existing use of land, impact fees
+shall be assessed to the relocated use at its new location. Future
+redevelopment of the old location from which the use was removed, upon written
+request from the developer, will receive a credit against impact fees assessed
+equal to the impact fees that would have been assessed against the relocated
+use. Credits shall not be transferable to the new location.
+      (5)   Before a building permit or development approval application may
+become eligible for the provisions set forth in divisions (E)(2) through (4) of
+this section, a developer shall provide reasonably sufficient evidence that a
+previous use of land had been actively maintained on the site within 12 months
+of the date of application for the building permit or development approval.
+Such evidence may include proof of utility records, records for the use sought
+to be shown, business license records, or other documentation.
+      (6)   Any claim of existing or previous use must be made no later than
+the time for application of a building permit or development approval. Any
+claim made after such time shall be deemed invalid.
+(Ord. 162, passed 9-16-2025)
+§ 33.60 IMPACT FEE TRUST ACCOUNTS.
+   There are hereby established the sanitation impact fee trust account, public
+safety impact fee trust account, and the recreation impact fee trust account.
+Sanitation impact fees, public safety impact fees, and recreation impact fees
+collected pursuant to this subchapter shall be kept in the sanitation impact
+fee trust account, the public safety impact fee trust account, and the
+recreation impact fee trust account, respectively, and shall be kept separate
+from other funds of the town. All impact fees collected shall be properly
+identified by property address noted on the approved building permit or
+development approval and deposited in the appropriate trust account. Any funds
+derived from impact fees on deposit not immediately necessary for expenditure
+shall be maintained in an interest-bearing account, which shall be considered a
+part of the appropriate trust account. Interest earned on impact fees in
+deposit shall be retained in the appropriate trust account for which such
+interest is earned, shall be considered revenue from sanitation impact fees,
+public safety impact fees, or recreation impact fees, as applicable, and shall
+be subject to all restrictions placed on the use of impact fees pursuant to
+this subchapter.
+(Ord. 162, passed 9-16-2025)
+§ 33.61 LIMITATION ON EXPENDITURES OF FUNDS COLLECTED.
+   (A)   Eligible system improvement costs. Funds from the sanitation impact
+fee trust account shall be expended only for system improvements identified as
+eligible for impact fee funding in the Capital Improvement Plan for sanitation
+facilities. Funds from the public safety impact fee trust account shall be
+expended only for system improvements identified as eligible for impact fee
+funding in the Capital Improvement Plan for public safety facilities. Funds
+from the recreation impact fee trust account shall be expended only for system
+improvements identified as eligible for impact fee funding in the Capital
+Improvement Plan for recreation facilities. No funds collected from impact fees
+shall be used for administrative or operating costs associated with imposing
+any of the impact fees.
+   (B)   Rationale nexus test. The Town Clerk, or his designee, shall make an
+annual report to the Town Council and publish this report for access by the
+general citizenry showing where impact fees have been collected and what
+projects have been funded with these revenues. The Town Council shall consider
+this report and whether the impact fees are being spent for the benefit of new
+development within corporate limits of the town. If the Town Council determines
+that this is not the case, then it shall adjust the Capital Improvement Plan
+and other projected capital expenditures to correct the condition.
+   (C)   Expenditure of funds. Funds collected from impact fees shall be
+considered to have been expended in the order in which such funds were
+collected. The disbursement of such funds shall require approval of the Town
+Council, upon recommendation of the Town Manager or his designee. Appropriation
+of funding in the town’s annual budget ordinance shall be sufficient for
+purposes of complying with the Town Council approval requirements of this
+division.
+   (D)   Reimbursement. Impact fee funds not obligated for expenditure within
+three years of the date that they are scheduled to be expended in the Capital
+Improvement Plan shall be returned, with actual interest earned, to the record
+owner of the property for which the impact fees were collected, on a first-in,
+first-out basis in accordance with §
+33.65.
+(Ord. 162, passed 9-16-2025)
+§ 33.62 CREDITS; REIMBURSEMENTS.
+   (A)   General provisions.
+      (1)   A developer may be entitled to a credit determined pursuant to this
+subchapter, for town-approved monetary, in-kind, or other contributions toward
+some or all of the system improvement costs included in the Capital Improvement
+Plan that are eligible for funding through impact fees.
+      (2)   An executed credit agreement shall establish the cash value of any
+credit. Any difference between impact fees due from a fee payer and the cash
+value of a credit will be set forth in the credit agreement and will remain
+eligible for collection pursuant to the rules and requirements of this
+subchapter.
+      (3)   Any request for credits or reimbursement shall be submitted to the
+Town Manager prior to issuance of a building permit or development approval.
+   (B)   Application for credit agreement.
+      (1)   The determination of the cash value of any credit shall be
+undertaken through submission of an application for credit agreement, which
+shall be submitted through the Town Clerk for review by the Town Manager, or
+his designee.
+      (2)   The application for credit agreement shall include the following
+information:
+         (a)   The following documentation must be provided if the proposed
+application involves a credit based upon any cash contribution:
+            1.   A certified copy of the development approval in which the cash
+contribution was agreed; and
+            2.   Proof of payment (if already made); or
+            3.   Proposed method of payment (if not already made).
+         (b)   The following documentation must be provided if the proposed
+application involves a credit based upon the dedication of land:
+            1.   Drawing and legal description of the land;
+            2.   The appraised fair market value of the land at the date a
+building permit application is sought for the use of land, prepared by a
+professional real estate appraiser who is a member of the Member Appraisal
+Institute (MAI) or who is a member of Senior Residential Appraisers (SRA);
+            3.   A certified copy of the development permit in which the land
+was agreed to be dedicated (if applicable); and
+            4.   The form of a general warranty deed in executable form as
+necessary to convey the land to the town or its assigns.
+         (c)   The following documentation must be provided if the proposed
+application involves Credit based upon the funding, or in-kind contribution, of
+system improvement costs:
+            1.   The proposed construction documents of the specific
+construction project prepared and certified by a duly qualified and licensed
+engineer in the State of South Carolina; and
+            2.   The projected costs for the suggested improvements, which
+shall be based on local information for similar improvements, along with the
+construction schedule for the completion of said improvements. Such estimated
+cost shall include construction or reconstruction of the project; the cost of
+labor and materials; the cost of all lands, property, rights, easements and
+franchises acquired; financing charges or interest prior to and during
+construction and for one year after completion of construction; costs of plans
+and specifications; surveys of estimates of costs and revenues; costs of
+professional services; and all of the expenses necessary or incidental to
+determining the feasibility or practicability of such construction or
+reconstruction.
+      (3)   Within 14 days of receipt of the proposed application for credit
+agreement, the Town Clerk, or her designee, shall determine if the application
+is complete. If it is determined that the proposed agreement is not complete,
+the Town Clerk shall send written notification to the applicant outlining the
+deficiencies. The town shall take no further action on the proposed application
+for credit agreement until all such deficiencies have been corrected or
+otherwise settled.
+      (4)   Once the Town Clerk determines the proposed application for credit
+agreement is complete, it shall be reviewed within 30 days by the Impact Fee
+Credit Review Committee.
+      (5)   If the application for credit agreement is approved by the Impact
+Fee Credit Review Committee, a credit agreement shall be prepared, delivered
+and executed by the applicant and the Town Manager. It shall specifically
+outline the contribution, payment, construction or land dedication; the time by
+which it shall be complete, dedicated or paid, and any extensions thereof; and
+the dollar credit the applicant shall receive for the contribution, payment or
+construction against impact fees. Any credit agreement shall be limited to the
+impact fee dollars owed for the project, by the developer, for the impact fee
+category under consideration, unless Town Council decides to entertain a credit
+agreement in excess of fees owed that may be transferred to another project of
+the same developer in the same service area. The credit agreement may also
+include provisions for rescinding the credit and issuing stop work orders if
+the dedication and/or work and/or construction are not timely accomplished.
+      (6)   A fee payer affected by the decision of the Impact Fee Credit
+Review Committee regarding Credits may appeal such decision pursuant to §
+33.64(A) of this subchapter.
+(Ord. 162, passed 9-16-2025)
+§ 33.63 PENALTIES.
+   Town Council shall have the following remedies, which may be exercised
+individually or collectively, for collecting impact fees. The failure to pursue
+any remedy at any time shall not be deemed as a waiver of town rights to pursue
+any remedy at such other time as may be deemed appropriate.
+   (A)   Interest and penalties. The town may, at its discretion, add to the
+amount of calculated impact fees due prior to award of a certificate of
+occupancy, reasonable interest and penalties for non-payment or late payment of
+required funds. Penalties for unpaid impact fees shall be administered
+consistent with the town’s Code of Ordinances, which declares the violation a
+penalty subject to a fine not to exceed $500 or imprisonment not to exceed 30
+days. Each day of violation shall be deemed a separate offense.
+   (B)   Withholding certificate of occupancy. The town may withhold a
+certificate of occupancy until full and complete payment has been made by the
+developer of impact fees due for the development.
+   (C)   Lien. The town may impose a lien on the developer’s property for
+failure of the developer to pay required impact fees in full.
+   (D)   Other. The town may pursue the collection of the impact fees,
+including interest, by way of civil process in the Court of Common Pleas for
+Fairfield County.
+(Ord. 162, passed 9-16-2025)
+§ 33.64 APPEAL PROCESS.
+   A developer shall have the following rights for appeal of impact fees
+imposed by the town on their development pursuant only to this subchapter:
+   (A)   Administrative appeal.
+      (1)   A developer may file an administrative appeal with the Town Manager
+regarding the payment of impact fees, independent calculation of impact fees,
+or credits or reimbursements by filing a written notice of appeal. Said notice
+shall be filed within 30 days of the decision sought to be appealed. The filing
+of an appeal will immediately halt the building permit application process,
+unless the developer posts a bond or submits an irrevocable letter of credit
+for the full amount of the impact fees as calculated by the town to be due. All
+notices of appeal shall include a full explanation of the reasons for the
+appeal, specifying the grounds therefore, and containing any documentation that
+the developer desires to be considered. The appeal shall contain the name and
+address of the developer filing the appeal and shall state their capacity to
+act as a representative or agent if they are not the owner of the property to
+which impact fees or credits pertain.
+      (2)   Within 30 days following receipt of the written notice of appeal,
+the Town Manager will review the developer’s written report, supporting
+documentation and departmental staff reports. The 30-day review period may be
+extended if additional information is needed from the developer in order to
+render a decision. Upon completion of the administrative review, the Town
+Manager will provide a written response to the developer constituting a final
+administrative determination.
+      (3)   Any person desiring to appeal the final administrative
+determination of the Town Manager regarding payment of impact fees or credits
+shall file a written notice of appeal to the Town Council. Said notice of
+appeal to Town Council shall be filed with the Clerk of Town Council within 15
+days following receipt of the final administrative determination. Receipt shall
+be construed to have occurred when the final administrative decision is
+deposited in the United States mail postage prepaid to the person whose name
+and address is identified in the original notice of appeal.
+      (4)   The Town Clerk of Council will schedule all impact fee appeals for
+the first Town Council meeting following ten days from receipt of the written
+notice of appeal to the Town Council. Postponements of the Town Council appeal
+date may be granted by the Town Manager if they are requested in writing at
+least ten days in advance of the scheduled Town Council meeting date.
+      (5)   When an appeal is scheduled for oral presentation before the Town
+Council, the developer and town staff shall each be given ten minutes at the
+oral argument to present the appeal and to discuss the submitted written
+record.
+      (6)   Within 15 days after the date of oral presentations, Town Council
+shall issue a final written opinion as to its decision on the appeal.
+Thereafter, the final decision of Town Council may be appealed to the Circuit
+Court of Fairfield County, South Carolina; however, the decision of the Town
+Council shall be final and binding if subsequent appeal is not timely made to
+the Circuit Court of Fairfield County, South Carolina within 15 days of the
+issuance of the final decision by Town Council.
+   (B)   Payment under protest. A fee payer may pay impact fees under protest.
+Payment under protest does not preclude the developer from filing an
+administrative appeal nor is the fee payer stopped from receiving a refund of
+an amount considered to have been collected illegally. A fee payer, at its
+option, may also post a bond or submit an irrevocable letter of credit for the
+amount of impact fee due instead of making a cash payment under protest,
+pending the outcome of an appeal.
+   (C)   Mediation. Town Council shall provide for mediation by a qualified
+independent party, upon voluntary agreement by both the developer and the town,
+to address a disagreement related to impact fees calculated by the town.
+Neither a request for, nor participation in, mediation shall preclude a fee
+payer from pursuing other developer rights or remedies otherwise available by
+law.
+   (D)   Tolling. The three-year expenditure requirement under § 33.61(D) (and
+the accompanying refund provisions in §
+33.65 below) shall be tolled during the pendency of any appeal under this
+section.
+(Ord. 162, passed 9-16-2025)
+§ 33.65 REFUNDS.
+   (A)   General provisions. Funds not obligated for expenditure within three
+years of the date that they are scheduled to be expended in the Capital
+Improvement Plan shall be refunded to the record owner of property for which
+the impact fees were paid, with actual interest earned, on a first-in, first-
+out basis. For the purpose of determining whether fees have been spent or
+encumbered, the first money placed in a trust account shall be deemed to the
+first money taken out of that trust account when withdrawals have been made.
+   (B)   Refund process.
+      (1)   The owner of property eligible for a refund of one or more impact
+fee payments shall submit to the Town Clerk a notarized sworn statement that
+the person is the current owner of the property for which a refund is due, a
+certified copy of the latest recorded deed, and a copy of the most recent ad
+valorem tax bill for the affected property.
+      (2)   When a right to a refund exists, the town shall send a refund to
+the current owner of record within 90 days after it is determined by Town
+Council that a refund is due.
+      (3)   All refunds shall include the pro rata portion of the interest
+earned while on deposit in the specific impact fee trust account.
+      (4)   A record owner of property for which one or more impact fee refunds
+are due has standing to sue for such refund, pursuant to S.C. Code § 6-1-1020
+(D), if there has not been a good-faith effort towards a timely payment of a
+refund pursuant to division (B)(2) of this section.
+(Ord. 162, passed 9-16-2025)
+§ 33.66 TERMINATION OF DEVELOPMENT IMPACT FEE.
+   Impact fees shall be terminated within 13 years after the effective date, or
+when sufficient fees have been collected to fund all of the public facilities
+eligible for impact fee funding that are identified in the Capital Improvement
+Plan, whichever shall first occur, unless:
+   (A)   Town Council adopts a revised study or amends the Capital Improvement
+Plan for a subsequent amount of time; or
+   (B)   Town Council enacts an updated impact fee program for the town
+pursuant to the substantive and procedural requirements set forth in the Act.
+(Ord. 162, passed 9-16-2025)
+§ 33.67 LIBERAL CONSTRUCTION.
+   The provisions of this subchapter shall be liberally construed to
+effectively carry out its purpose in the interest of further promoting and
+protecting public health, safety, welfare and convenience.
+(Ord. 162, passed 9-16-2025)
 CHAPTER 34: PURCHASING
 Section
    
@@ -6462,13 +7126,15 @@ Section
    
 96.10   Sale of materials removed or demolished
    
-96.11   Funds for enforcement
+96.11   Liability for costs
    
-96.12   Adjudication
+96.12   Funds for enforcement
    
-96.13   Provisions hereof are cumulative
+96.13   Adjudication
    
-96.14   Exclusive remedies
+96.14   Provisions hereof are cumulative
+   
+96.15   Exclusive remedies
  
    
 96.99   General penalty
@@ -6476,19 +7142,19 @@ Section
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
    DILAPIDATED. Partial ruin or decay as from age, wear or neglect.
-   DWELLING. Any building or structure or part thereof, used and occupied for
-human habitation or intended to be so used and includes any outhouses and
-appurtenances belonging thereto or usually enjoyed therewith and shall also
+   DWELLING. Any building, structure or part thereof, used and occupied for
+human habitation or intended to be so used, and includes any outhouses and
+appurtenances belonging thereto or usually enjoyed therewith, and shall also
 include buildings used for business sales such as store buildings, bars and
 restaurants and any other buildings of similar nature which house an
 enterprise, the object of which is the production of income or intended to be
 so used.
    NUISANCE. Any rubbish, debris, and other unhealthy and unsightly material or
-conditions which constitute a public nuisance. Grass, weeds or any vegetation
+conditions which constitute a public NUISANCE. Grass, weeds or any vegetation
 whatsoever, not edible or planted for some useful or ornamental purpose, to
 grow or remain upon the premises so as to exceed an unsightly height or to
 throw off any unpleasant or noxious odor or to conceal any filthy deposit or
-vermin shall be considered a nuisance, and also accumulation of trash or waste
+vermin shall be considered a NUISANCE, and also accumulation of trash or waste
 material upon any property.
    OWNER. The holder of the title to real estate in fee simple and every
 mortgage of record.
@@ -6509,7 +7175,8 @@ right-of-way.
 travel along the ground by use of wheels, treads, runners or slides and
 transport persons or property or pull machinery, and shall include, without
 limitations, automobile, truck, trailer, motorcycle, tractor and camper.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
 § 96.02 POWERS OF THE PUBLIC OFFICER.
    (A)   The public official shall have and exercise such powers as may be
 necessary or convenient to carry out and effectuate the purposes and provisions
@@ -6532,23 +7199,25 @@ chapter; and
 chapter to such officers and agents as he or she may designate.
    (B)   The Code Enforcement Officer of the town is hereby designated as the
 public officer and appointed to exercise the power prescribed by this chapter.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
 § 96.03 SPECIFIC STANDARDS.
    (A)   Nuisance. Whenever a complaint is filed with the public officer by a
 resident of the municipality charging that any lot or real property within the
 limits of the town constitutes a public nuisance, the public officer shall, if
 his or her preliminary investigation discloses a basis for such charges, issue
-and cause to be served upon the owner of such real property, a complaint
-stating the charges in that respect.
+and cause to be served upon the owner of such real property a complaint stating
+the charges in that respect.
    (B)   He or she shall state in writing his or her findings of fact and
-support of such determination and shall issue and cause to be served upon the
+support of such determination, and shall issue and cause to be served upon the
 owner thereof an order requiring an abatement of the nuisance within 14 days of
 the date of the service of such order.
    (C)   If the owner fails to comply with the aforesaid order to abate the
 nuisance, the public officer will issue a citation which will state the date
 and time in which the owner will be required to appear in municipal court for
 adjudication of the complaint.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
 § 96.04 WEEDS.
    (A)   No person, firm or corporation owning or occupying any property within
 the town shall permit any grass or weeds or any vegetation whatsoever, not
@@ -6565,8 +7234,8 @@ than the owner thereof, shall remove, trim or cut all grass, weeds or other
 vegetation growing or remaining upon the premises, and shall remove any and all
 accumulation of trash or waste material remaining upon the premises.
    (C)   The public officer is hereby authorized to give notice, by registered
-mail, return receipt requested to the owner or occupant, as the case may be, of
-any premises where grass, weeds, vegetation, trash and waste material have
+mail, return receipt requested, to the owner or occupant, as the case may be,
+of any premises where grass, weeds, vegetation, trash and waste material have
 accumulated, directing and requiring the occupant to trim or cut the grass,
 weeds or vegetation, and remove the trash and waste material, within 14 days
 after the issuance of the notice.
@@ -6574,69 +7243,72 @@ after the issuance of the notice.
 nuisance, the public officer will issue a citation which will state the date
 and time in which the owner will be required to appear in municipal court for
 adjudication of the complaint.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
 § 96.05 REPAIR, CLOSING OR DEMOLITION OF UNFIT DWELLINGS.
    (A)   Whenever it is found that there exists in the Town of Winnsboro
 dwellings which are unfit for human habitation due to:
-      (1)   Dilapidation,
+      (1)   Dilapidation;
       (2)   Defects increasing the hazards of fire, accidents or other
-calamities,
-      (3)   Lack of ventilation, light or sanitary facilities, or
+calamities;
+      (3)   Lack of ventilation, light or sanitary facilities; or
       (4)   Other conditions rendering such dwellings unsafe or unsanitary,
 dangerous or detrimental to the health, safety or morals or otherwise inimical
 to the welfare of the residents of the Town of Winnsboro, the Town of Winnsboro
 shall exercise its police powers to repair, close or demolish any such dwelling
-in the manner described in this section.
+in the manner described in this article.
    (B)   Dwellings which are unfit for human habitation shall be repaired,
 closed or demolished in the following manner:
       (1)   The Town Manager or his designee (hereinafter “Manager”) is
 designated to exercise the powers described by this section;
-      (2)   That whenever the Manager on his own motion believes that a
-dwelling is unfit for human habitation, the Manager shall, if his preliminary
+      (2)   That whenever the manager on his own motion believes that a
+dwelling is unfit for human habitation, the manager shall, if his preliminary
 investigation discloses a basis for such charges, issue and cause to be served
 upon the owner of and all parties in interest in such dwelling a complaint
 stating the charges and containing a notice that a hearing will be held before
-the Manager or his designee at a place therein fixed not less than ten days and
+the manager or his designee at a place therein fixed not less than ten days and
 no more than 30 days after the serving of such complaint;
       (3)   The owner and parties in interest shall be given the right to file
 an answer to the complaint and to appear in person or otherwise and give
 testimony at the place and time fixed in the complaint; and that the rules of
 evidence prevailing on courts of law or equity shall not be controlling in
-hearings before the Manager;
-      (4)   If, after such notice and hearing, the Manager determines that the
-dwelling under consideration is unfit for human habitation he or she shall
-state in writing his or her findings of fact in support of such determination
-and shall issue and cause to be served upon the owner thereof an order as
-follows:
+hearings before the manager;
+      (4)   If, after such notice and hearing, the manager determines that the
+dwelling under consideration is unfit for human habitation, he shall state in
+writing his findings of fact in support of such determination and shall issue
+and cause to be served upon the owner thereof an order as follows:
          (a)   If the repair, alteration or improvement of the dwelling can be
 made at a reasonable cost in relation to the value of the dwelling, requiring
 the owner, within the time specified in the order, to repair, alter or improve
 such dwelling to render it fit for human habitation or to vacate and close the
-dwelling as a human habitation, or
+dwelling as a human habitation; or
          (b)   If the repair, alteration or improvement of the dwelling cannot
 be made at a reasonable cost in relation to the value of the dwelling,
 requiring the owner, within the time specified in the order, to remove or
 demolish such dwelling.
       (5)   If the owner fails to comply with an order to repair, alter or
-improve or to vacate and close the dwelling, the Manager may cause such
+improve or to vacate and close the dwelling, the manager may cause such
 dwelling to be repaired, altered or improved or to be vacated and closed; the
-Manager may further cause to be posted on the main entrance of the dwelling so
+manager may further cause to be posted on the main entrance of the dwelling so
 closed a placard with the following words: “This building is unfit for human
 habitation; the use or occupation of this building for human habitation is
 prohibited and unlawful”;
       (6)   If the owner fails to comply with the order to remove or demolish
-the dwelling, the Manager may cause such dwelling to be removed or demolished;
+the dwelling, the manager may cause such dwelling to be removed or demolished;
       (7)   The amount of the cost of such repairs, alterations or
-improvements, vacating and closing, or removal or demolition by the Manager
+improvements, vacating and closing, or removal or demolition by the manager
 shall be a lien against the real property upon which such cost was incurred and
-shall be collectable in the same manner as municipal taxes; and
+shall be collectable in the same manner as municipal taxes in the manner set
+out in §
+96.11; and
       (8)   If the town in demolishing the unfit dwelling as authorized herein
 contracts with a third party not employed by the municipality to do the work,
 it must bid the work in conformity with the procurement code applicable to the
 Town of Winnsboro.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
 § 96.06 MOTOR VEHICLES.
-   (A)   Parked vehicles to be licensed. It shall be unlawful to park or store
+   (A)   Parked vehicles to be licensed. It shall be unlawful to park or store
 for more than 72 hours on any lot zoned for residential use, except under a
 suitable car cover or in enclosed buildings, an automobile, truck, trailer, bus
 or other motor vehicle or any kind or type with or without operative motive
@@ -6691,7 +7363,8 @@ have removed, any vehicle left on any right-of-way, road or highway within the
 town, which reasonably appears to be in violation of this section or is lost,
 stolen and unclaimed. Such a vehicle shall be impounded until lawfully claimed
 or disposed of in accordance with S.C. Code §§ 56-5-5610 and 56-5-5680.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
 § 96.07 LITTERING.
    (A)   Littering prohibited. It shall be unlawful for any person to dump,
 throw upon, deposit or leave trash, refuse, garbage, cans, bottles, wrecked
@@ -6712,7 +7385,8 @@ or scattered upon adjoining property or persons in the community.
       (2)   It shall be unlawful to dispose of coals, embers or clinkers except
 when they have been thoroughly cooled or extinguished, or when they have been
 buried or otherwise been rendered harmless to persons or property.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
 § 96.08 SERVICE OF COMPLAINTS OR ORDERS.
    Complaints, orders, notices and any and all other papers issued by the
 public officer provided for under this chapter shall be served upon parties in
@@ -6723,12 +7397,14 @@ the public officer shall make an affidavit to that effect, then the serving of
 such complaint or order upon such person may be made by publishing it once a
 week for two consecutive weeks in a newspaper of general circulation in the
 municipality in which the real property is located.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
 § 96.09 POWER OF MUNICIPALITY TO DECLARE NUISANCES NOT IMPAIRED.
    Nothing contained herein shall be construed to impair or limit in any way
 the power of a municipality to define and declare nuisances and to cause their
 removal or abatement by summary proceedings, or otherwise.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
 § 96.10 SALE OF MATERIALS REMOVED OR DEMOLISHED.
    If a dwelling is removed or demolished by a public officer, he or she shall
 sell such material from such dwelling as are marketable and shall credit the
@@ -6737,37 +7413,69 @@ balance remaining shall be deposited in the municipal court by the public
 officer which shall be secured in such a manner as may be directed by such
 court and shall be disbursed by such court to the persons found to be entitled
 thereto by final order of decree of such a court.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
-§ 96.11 FUNDS FOR ENFORCEMENT.
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
+§ 96.11 LIABILITY FOR COSTS.
+   In the event of refusal or neglect of a person to cause the abatement of any
+condition described or set out in §§
+96.03,
+96.04,
+96.05 and
+96.06, it shall be reported to the Manager. The Manager may, in a reasonable
+and prudent manner, direct the expenditure of public resources to abate the
+nuisance condition. Fee and costs shall be established by ordinance. The cost
+of abatement shall include an administrative assessment, title search costs,
+lien, filing costs and any attorney’s fees and costs made necessary when the
+public is compelled to collect through legal process, in addition to the actual
+cost of labor and materials expended in public abatement. The person shall be
+served with a notice of assessment within seven days of the completion of the
+abatement. The notice of assessment shall include the administrative fee and a
+statement of public cost, attested to by affidavit, and shall be issued and
+served, as provided for §
+96.08, upon the person responsible for payment who shall make payment within 30
+days of the date of service. Upon the expiration of the 30-day period, if the
+amount has not been paid in full or contested before the administrator, the
+administrator may cause a lien in that amount to be filed with the County Clerk
+of Courts and with the Finance Director. The lien shall be of record in the
+county courthouse and the office of the Finance Director in the book of liens,
+until paid or recovered, or otherwise released. Collection of the lien by way
+of foreclosure may be instituted by the Town Attorney on behalf of the city.
+(Ord. 128, passed 4-8-2025)
+§ 96.12 FUNDS FOR ENFORCEMENT.
    Upon the passage of this chapter, the Town Council shall prepare an estimate
 of the annual expense necessary to carry out the provisions of this chapter.
 The town may make such appropriations from the revenues as it may deem
 necessary for the purposes set forth herein and in addition may accept and
 apply grants or donations to assist in the carrying out of the provision of
 this chapter.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
-§ 96.12 ADJUDICATION.
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
+§ 96.13 ADJUDICATION.
    Unless otherwise specified, all public nuisance violations shall be
 adjudicated by the Winnsboro Municipal Court.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
-§ 96.13 PROVISIONS HEREOF ARE CUMULATIVE.
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
+§ 96.14 PROVISIONS HEREOF ARE CUMULATIVE.
    Nothing in this chapter shall be construed to abrogate or impair the powers
 of the courts or any department of this municipality to enforce any provisions
 of its charter or its ordinances or regulations, or to prevent or punish
 violations thereof and the powers conferred by this chapter shall be in
 addition to and supplemental to the powers conferred by any other law.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
-§ 96.14 EXCLUSIVE REMEDIES.
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
+ § 96.15 EXCLUSIVE REMEDIES.
    The remedies herein provided shall be exclusive remedies and no person
 affected by an order of the public officer shall be entitled to recover any
 damages for action taken pursuant to any order of the public officer or because
 of compliance by such person with any order of the public officer.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
 § 96.99 GENERAL PENALTY.
    Unless otherwise specified, violation of any provision of this chapter shall
 be punished by a fine not exceeding $500. Each day any violation of any
 provision of this chapter shall continue constitute a separate offense.
-(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022)
+(Ord. 4152014-B, passed 5-20-2014; Ord. 62, passed 10-18-2022; Ord. 128, passed
+4-8-2025)
 TITLE XI: BUSINESS REGULATIONS
    Chapter
       
@@ -6818,6 +7526,7 @@ Section
 110.18   Confidentiality
    
 110.19   Classification and rates
+ 
    
 110.99   Penalty
 § 110.01 LICENSE REQUIRED.
@@ -7242,15 +7951,15 @@ of this chapter.
 § 110.19 CLASSIFICATION AND RATES.
    (A)   The business license tax for each class of businesses subject to this
 chapter shall be computed in accordance with the current business license rate
-schedule, designated as Appendix A to Ordinance 111621-A, which may be amended
-from time to time by the Council.
+schedule, designated as Appendix A to Ordinance 164, which may be amended from
+time to time by the Council.
    (B)    The current business license class schedule is designated as Appendix
-B to Ordinance 111621-A. Hereafter, no later than December 31 of each odd year,
-the municipality shall adopt, by ordinance, the latest standardized business
+B to Ordinance 164. Hereafter, no later than December 31 of each odd year, the
+municipality shall adopt, by ordinance, the latest standardized business
 license class schedule as recommended by the Municipal Association of South
 Carolina and adopted by the Director of the South Carolina Revenue and Fiscal
 Affairs Office. Upon adoption by the municipality, the revised business license
-class schedule shall then be appended to Ordinance 111621-A as a replacement
+class schedule shall then be appended to Ordinance 164 as a replacement
 Appendix B.
    (C)   The classifications included in each rate class are listed with NAICS
 codes, by sector, sub-sector, group, or industry. The business license class
@@ -7264,7 +7973,7 @@ business.
    (D)   A copy of the class schedule and rate schedule shall be filed in the
 office of the Municipal Clerk.
 (Ord. 082013, passed 8-20-2013; Ord. 031913, passed 3-5-2013; Ord. 110612C,
-passed 11-5-2012; Ord. 111621-A, passed 12-7-2021)
+passed 11-5-2012; Ord. 111621-A, passed 12-7-2021; Ord. 164, passed 11-18-2025)
 § 110.99 PENALTY.
    Any person violating any provision of this chapter shall be deemed guilty of
 an offense and shall be subject to a fine of up to $500 or imprisonment for not
@@ -8165,6 +8874,23 @@ Electrical
 150.034   Permit fees
    
 150.035   Inspections
+Vacant Buildings
+   
+150.040   Definitions
+   
+150.041   Registration
+   
+150.042   Registration statement
+   
+150.043   Registration and renewal fee
+   
+150.044   Removal from registry
+   
+150.045   Exemptions
+   
+150.046   Penalty
+   
+150.047   Appeals
 Plumbing
    
 150.050   Plumbing Code adopted; purpose
@@ -8348,6 +9074,199 @@ turned on or consumed in any building without having first had an inspection
 made.
 (1995 Code, § 5-1016) Penalty, see §
 10.99
+**** VACANT BUILDINGS ****
+§ 150.040 DEFINITIONS.
+   The following words, terms and phrases, when used in this subchapter, shall
+have the meanings ascribed to them in this section, except where the context
+clearly indicates a different meaning.
+   COUNTY. Fairfield County, South Carolina.
+   DOWNTOWN AREA. All property included within the area of the town bounded (i)
+to the north by West High Street; (ii) to the east by the Norfolk Southern Rail
+Line; (iii) to the south by Buchanan Street; and (iv) to the west on
+Vanderhorst Street, and which shall additionally include all parcels with
+frontage of these bounding streets.
+   INTERNATIONAL PROPERTY MAINTENANCE CODE. The edition of the International
+Property Maintenance Code adopted by the Town Council pursuant to § 150.07 of
+this chapter, as amended, supplemented, or revised by the Town Council from
+time to time.
+   LOCAL AGENT. The individual or entity that inhabits a residence or occupies
+a place of business in the county at which the LOCAL AGENT is authorized to
+accept inquiries, notices, and service of process on behalf of the owner of a
+VACANT BUILDING. This agent must reside or work within 50 miles of the town
+limits.
+   OWNER. Any persons having any individual, joint, or common title or interest
+in real property recognized by the laws of the State of South Carolina as a
+legal or equitable estate or interest. For the purposes of the enforcement of
+this subchapter with respect to any real property having multiple owners, each
+OWNER shall be jointly and severally liable for compliance with the
+requirements of this subchapter, the town may seek enforcement against any one
+or more OWNERS.
+   PROPERTY. The real property on which a VACANT BUILDING is located.
+   REGISTER or REGISTRATION. The filing of a REGISTRATION STATEMENT with the
+town.
+   REGISTRATION FEE. The fee for the filing of a REGISTRATION STATEMENT, as set
+forth on a fee schedule approved by the Town Council as it may be amended from
+time to time.
+   REGISTRATION STATEMENT. The form required to be filed with the town pursuant
+to this subchapter.
+   REGISTRY. The official record, electronic or otherwise, of REGISTRATION of
+VACANT BUILDINGS required by this subchapter.
+   STREET ADDRESS. The street or route address. The term STREET ADDRESS shall
+not include a post office box.
+   TOWN MANAGER DEPARTMENT. The town’s Planning and Development Department.
+   VACANT BUILDING.
+      (1)   A structure located on PROPERTY within the DOWNTOWN AREA that is:
+         (a)   Intended for habitation and either: (i) has not been lawfully
+inhabited or occupied for a period of at least one year; or (ii) has no
+evidence of utility usage for a period of at least one year; or
+         (b)   Is partially constructed or incomplete, without a valid building
+permit.
+      (2)   The term VACANT BUILDING shall not include a single building
+containing multiple units with common ownership where at least one unit does
+not meet the definition of a VACANT BUILDING.
+(Ord. 165, passed 12-2-2025)
+§ 150.041 REGISTRATION.
+   (A)   Duty to register. The owner of a parcel of real property within the
+downtown area shall file a complete registration statement and pay the
+applicable registration fee within 120 calendar days after any structure on
+such property becomes, or is identified by the town, as a vacant building
+within the meaning of this subchapter. The Town Manager Department shall not
+accept a registration statement unless it is complete, including all
+information describing how the vacant building has been secured, and is
+accompanied by the applicable registration fee.
+   (B)   Extended deadline for certain transfers. Notwithstanding the
+foregoing, the filing of a registration statement shall be extended to 90 days
+following transfer of a vacant building:
+      (1)   Pursuant to a deed under power of sale or deed in lieu of
+foreclosure; or
+      (2)   To the first subsequent transferee after the real property has been
+acquired by foreclosure.
+   (C)   Vacancy determinations. The staff of the Town Manager Department,
+utilizing the town’s Code Enforcement Officers, Building Inspector, and such
+other personnel as the Town Manager Department may determine necessary, shall
+investigate buildings within the downtown area to determine whether such
+building qualifies as a vacant building. In making such determinations, the
+Town Manager Department shall take the following into account:
+      (1)   To determine whether a building has been lawfully inhabited or
+occupied during any one-year period, this one-year period is only considered to
+be broken by a period of lawful habitation or occupancy of a continuous period
+of at least four months, and the owner shall bear the burden of proof that a
+building has been inhabited or occupied, and the period of such habitation or
+occupancy, during such period.
+      (2)   The Town Manager Department may rely on any reasonable indication
+that a building is vacant, including routine occupancy checks; however, the
+lack of any connection to or use of water or electricity by a building shall
+serve as conclusive evidence that it has not been lawfully inhabited or
+occupied during an applicable period.
+      (3)   A change in ownership of a vacant building shall not affect the
+determination of the period of vacancy for the purpose of the duty to register
+or for the purpose of calculating the applicable registration fee.
+(Ord. 165, passed 12-2-2025)
+§ 150.042 REGISTRATION STATEMENT.
+   (A)   (1)   Registration statement. The Town Manager Department is
+authorized to prepare a form registration statement in paper or electronic
+format requiring such information from the owner as the Town Manager Department
+determines is necessary to implement the provisions of this subchapter,
+provided that the registration statement shall include, at a minimum, the
+following information:
+         (a)   The tax map number of the property and the street address of the
+vacant building;
+         (b)   For each owner of a vacant building, the owner’s name, street
+address, mailing address (if different from street address), email address, and
+phone number (at which the owner is reasonably available during business hours
+and after-hours to respond to emergencies);
+         (c)   With respect to any vacant building where no owner thereof
+resides within the county, the designation of a local agent, including the
+local agent’s name, street address, mailing address (if different from street
+address), email address, phone number (at which the local agent is reasonably
+available during business hours and after-hours to respond to emergencies), and
+the signature of the local agent accepting such designation;
+         (d)   The date on which the owner took ownership of the property
+containing the vacant building and the recording information for the deed or
+other instrument conveying the property to the owner; and
+         (e)   A statement from the owner describing with reasonable
+specificity the measures that have been taken to secure the vacant building and
+confirming that the required signage has been placed thereon.
+      (2)   The Town Manager Department is authorized to administer, or
+contract for the administration of, the registration requirements of this
+section through an electronic and/or web-based system for the registration of
+vacant buildings.
+   (B)   Duty to update registration statement. An owner (or subsequent owner)
+shall notify the Town Manager Department and shall file an amended registration
+statement within 120 days of any change in circumstances that would make any
+information on the initial registration statement incorrect, including a change
+in ownership of a vacant building. There shall be no registration fee for the
+filing of an updated registration statement.
+   (C)   Term of registration; duty to renew registration. A registration
+statement shall remain valid from the date on which it is filed and accepted by
+the Town Manager Department and ending on December 31 of such calendar year. An
+owner shall file a renewal registration statement and pay the applicable
+registration fee by no later than January 30 of each subsequent year if the
+owner’s building continues to meet the definition of a vacant building as of
+January 1 of such year.
+(Ord. 165, passed 12-2-2025)
+§ 150.043 REGISTRATION AND RENEWAL FEE.
+   At the time of the filing of an initial registration statement or any
+renewal registration statement, the owners shall pay a registration fee in the
+amount required by the below schedule of registration fees adopted by the Town
+Council, as amended from time to time. No registration statement shall be
+deemed filed unless the registration fee has been paid. No registration fee
+shall be prorated based upon when it is paid during a calendar year.
+ 
+Schedule of Registration Fees
+Description                                  Registration Fee
+Filing first registration statement          $0
+Filing second registration statement         $100
+Filing third registration statement          $500
+Filing any subsequent registration statement $500
+ 
+(Ord. 165, passed 12-2-2025)
+§ 150.044 REMOVAL FROM REGISTRY.
+   An owner shall notify the town in writing at such time as a building no
+longer qualifies as a vacant building under this subchapter. Such notification
+shall be accompanied by corroborating documentation that the building no longer
+constitutes a vacant building. Upon confirmation by the Town Manager Department
+that the information provided by the owner is accurate, the building shall be
+removed from the registry, but in no event shall any portion of a registration
+fee be refunded.
+(Ord. 165, passed 12-2-2025)
+§ 150.045 EXEMPTIONS.
+   (A)   The following are exempt from the provisions of this subchapter:
+      (1)   A residential property where one or more of the owners is an
+active-duty military personnel and the property is assessed for property tax
+purposes as an owner-occupied dwelling;
+      (2)   For a period of one year, a building for which the owner has
+applied for and been issued a valid building permit and where the owner
+diligently and continuously pursues the completion of the permitted work;
+      (3)   For a period of one year, a building that is actively marketed and
+advertised for sale or rent;
+      (4)   For a period of one year, buildings damaged by fire or other
+disaster;
+      (5)   For a period of one year, buildings that are in probate and
+actively being transferred; and
+      (6)   Buildings for which the owner has consented to the town demolishing
+such building, and which consent has been accepted by the town.
+   (B)   The Town Manager may approve one extension of six months of any time
+period for an exemption set forth at division (A) of this section upon request
+of the owner for any reasonable cause shown.
+   (C)   No exemption granted pursuant to division (A) of this section, nor any
+other provision of this subchapter, shall be construed as limiting the town’s
+powers to take action with respect to such property under the International
+Property Maintenance Code.
+(Ord. 165, passed 12-2-2025)
+§ 150.046 PENALTY.
+   Any person violating any provision of this subchapter shall be subject to a
+fine not exceeding $500 and/or imprisonment not exceeding 30 days. Each day of
+any violation of this subchapter shall constitute a separate offense. Fines
+imposed hereunder shall be in addition to any unpaid registration fees.
+(Ord. 165, passed 12-2-2025)
+§ 150.047 APPEALS.
+   Any person aggrieved by the enforcement of any provision of this subchapter
+may seek an administrative appeal to the Board of Appeals established in
+connection with the enforcement of the International Property Maintenance Code
+using the procedures set forth at Appendix A of the International Property
+Maintenance Code.
+(Ord. 165, passed 12-2-2025)
 **** PLUMBING ****
 § 150.050 PLUMBING CODE ADOPTED; PURPOSE.
    The International Plumbing Code as adopted in §
@@ -8609,7 +9528,186 @@ properties and historic districts shall be clearly shown on the zoning map.
    (D)   Opposition to designation. Any property owner may object to the
 decision by the Town Council to designate his property as historic by filing
 suit against the town before the Courts of the State of South Carolina.
-(Ord. 92, passed 11-21-2023)
+   (E)   Special property tax assessment for rehabilitated historic properties.
+A special tax assessment is created for eligible rehabilitated historic
+properties for minimum of five years and up to a maximum of 20 years equal to
+the appraised value of the property at the time of preliminary certification.
+   (F)   Purpose. It is the purpose of this section to:
+      (1)   Encourage the rehabilitation of historic properties;
+      (2)   Promote community development and redevelopment;
+      (3)   Encourage sound community planning; and
+      (4)   Promote the general health, safety, and welfare of the community.
+   (G)   Eligible properties.
+      (1)   Certification. In order to be eligible for the special tax
+assessment, historic properties must receive preliminary and final
+certification. To receive preliminary certification, a property must meet the
+following conditions:
+         (a)   The property has received historic designation;
+         (b)   The proposed rehabilitation work receives approval from the
+Board of Architectural Review (BAR);
+         (c)   For projects that commence on or after approval date,
+preliminary certification must be received prior to beginning work. To receive
+final certification, a property must have met the following conditions:
+            1.   The property has received preliminary certification;
+            2.   The minimum expenditures for rehabilitation were incurred and
+paid; and
+            3.   The completed rehabilitation receives approval from the
+Secretary to the BAR as being consistent with the plans approved by BAR as part
+of preliminary certification.
+      (2)   Historic designation. As used in this section, “historic
+designation” means the property maintains one or more of the following:
+         (a)   The property is listed on the National Register of Historic
+Places, either individually or as a contributing property in a district; and
+         (b)   The property is at least 50 years old and is designated as a
+historic property or a contributing property in a local district as designated
+by Town Council and listed in
+Chapter 151 of this code.
+   (H)   Eligible rehabilitation.
+      (1)   Standards for review of rehabilitation work. To be eligible for the
+special tax assessment, historic rehabilitations must be appropriate for the
+historic building and the historic district it is located. This is achieved
+through adherence to the following standards:
+         (a)   The historic character of a property shall be retained and
+preserved; the removal of historic materials or alterations of features and
+spaces that characterize each property shall be avoided;
+         (b)   Each property shall be recognized as a physical record of its
+time, place and use; changes that create a false sense of historical
+development shall not be undertaken;
+         (c)   Most properties change over time; those changes that have
+acquired historic significance in their own right shall be retained and
+preserved;
+         (d)   Distinctive features, finishes, and construction techniques or
+examples of craftsmanship that characterize a property should be preserved;
+         (e)   Deteriorated historic features shall be repaired rather than
+replaced; where the severity of deterioration requires replacement of a
+distinctive feature, the new should match the old in design, color, texture,
+and other visual qualities and, where possible, materials; replacement of
+missing features shall be substantiated by documentary, physical, or pictorial
+evidence;
+         (f)   Chemical or physical treatments, such as sandblasting, that
+cause damage to historic materials shall not be used; the surface cleaning of
+structures, if appropriate, shall be undertaken using the gentlest means
+possible;
+         (g)   New additions, exterior alterations, or related new construction
+shall not destroy historic materials that characterize the property; the new
+work shall be differentiated from the old and shall be compatible with the
+massing, size, scale, and architectural features to protect the historic
+integrity of the historic property and its environment; and
+         (h)   New additions and adjacent new construction shall be undertaken
+in such a manner that if removed in the future, the essential form and
+integrity of the historic property and its environment would be unimpaired.
+      (2)   Work to be reviewed. The following work will be reviewed according
+to the standards set forth above.
+         (a)   Repairs to the exterior of the designated building;
+         (b)   Alterations to the exterior of the designated building;
+         (c)   New construction on the property on which the building is
+located;
+         (d)   Alterations to interior primary public spaces; and
+         (e)   Any remaining work where the expenditures for such work are
+being used to satisfy the minimum expenditures for rehabilitation.
+      (3)   Minimum expenditures for rehabilitation. The owner or his estate
+rehabilitates the building, with expenditures for rehabilitation exceeding 20%
+up to 100% of the fair market value of the building. Fair market value means
+the appraised value from the County Tax Assessor as certified by the BAR.
+      (4)   Special assessment period. To be determined by the amount of
+expenditures as shown with systematic techniques below:
+         (a)   Expenditures from 20% to 29%: five years assessment.
+         (b)   Expenditures from 30% to 39%: ten years assessment.
+         (c)   Expenditures from 40% to 49%: 15 years assessment.
+         (d)   Expenditures from 50% to 100%: 20 years assessment.
+      (5)   Expenditures for rehabilitation. The actual costs of rehabilitation
+relating to one or more of the following:
+         (a)   Improvements located on or within the historic building as
+designated;
+         (b)   Improvements outside of but directly attached to the historic
+building which are necessary to make the building fully useable (such as
+vertical circulation) but shall not include rentable/habitable floor space
+attributable to new construction;
+         (c)   Architectural and engineering services attributable to the
+design of the improvements; or
+         (d)   Costs necessary to maintain the historic character or integrity
+of the building.
+      (6)   The special tax assessment may apply to the following:
+         (a)   Structure(s) rehabilitated; and
+         (b)   Real property on which the building is located.
+      (7)   Time limits. To be eligible for the special tax assessment,
+rehabilitations must be completed within two years of the preliminary
+certification date. If the project is not complete after two years, but the
+minimum expenditures for rehabilitation have been incurred, the property may
+continue to receive the special assessment until the project is completed, with
+the prerequisite of recertification by the BAR.
+   (I)   Process.
+      (1)   Fee required. There is a fee of $150 required for final
+certification for each application for review of rehabilitation work conducted
+pursuant to this section. Final certification will not be awarded without
+payment of this fee.
+      (2)   Plan required. Owners of property seeking approval of
+rehabilitation work must complete a rehabilitation historic property
+application with supporting documentation prior to beginning work.
+      (3)   Preliminary certification. Upon receipt of the completed
+application, the proposal shall be placed on the next available agenda of the
+BAR to determine if the project is consistent with the standards for
+rehabilitation in division (H)(1) above. After the BAR makes its determination,
+the owner shall be notified in writing. Upon receipt of this determination, the
+owner may:
+         (a)   If the application is approved, begin rehabilitation;
+         (b)   If the application is not approved, they may revise such
+application in accordance with comments provided by the BAR;
+         (c)   If the application is not approved, they may appeal the decision
+of the BAR by the following the process provided by state law (S.C. Code §§ 6-
+29-890 through 6-29-940).
+      (4)   Substantive changes. Once preliminary certification is granted to
+an application, substantive changes must be approved by the BAR. Unapproved
+substantive changes are conducted at the risk of the property owner and may
+disqualify the project from eligibility. Additional expenditures will not
+qualify the project for an extension on the special assessment.
+      (5)   Final certification. Upon completion of the project, the project
+must receive final certification in order to be eligible for the special
+assessment. The Secretary to the BAR will inspect completed projects to
+determine if the work is consistent with the approval granted by the BAR
+pursuant to division (H)(1) above. Final certification will be granted when the
+completed work meets the standards and verification is made that expenditures
+have been made in accordance with divisions (H)(3), (4), and (5) above. Upon
+receiving final certification, the property will be assessed for the remainder
+of the special assessment period on the fair market value of the property at
+the time the preliminary certification was made or the final certification was
+made, whichever occurred earlier.
+      (6)   Additional work. For the remainder of the special assessment period
+after final certification, the property owner shall notify the BAR of any
+additional work, other than ordinary maintenance. The BAR shall review the work
+at a regularly scheduled hearing and determine whether the overall project is
+consistent with the standards for rehabilitation. If the additional work is
+found to be inconsistent, the property owner may withdraw his request and
+cancel or revise the proposed additional work.
+      (7)   (a)   Decertification. When the property has received final
+certification and assessed as rehabilitated historic property, it remains so
+certified and must be granted the special assessment until the property becomes
+disqualified by any one of the following:
+            1.   Written notice by the owner to the BAR and the Auditor to
+remove the preferential assessment;
+            2.   Sale or transfer of ownership during the special assessment
+period, other than in ordinary course within probate proceedings;
+            3.   Removal of historic designation by the Winnsboro
+            4.   Rescission of the approval of rehabilitation work by the BAR
+because of alterations or renovation by the owner or his estate which cause the
+property to no longer possess the qualities and features which made it eligible
+for final certification.
+         (b)   Notification of any change affecting eligibility must be given
+immediately to the County Assessor, Auditor, and Treasurer.
+      (8)   Notification. The town shall, upon final certification of a
+property, notify the County Assessor, Auditor, and Treasurer that such property
+has been duly certified and is eligible for the special tax assessment.
+      (9)   Date effective. If an application for preliminary or final
+certification is filed by May 1, or the preliminary or final certification is
+approved by August 1, the special assessment authorized herein is effective for
+that year. Otherwise, it is effective beginning with the following year. The
+special assessment only begins in the current or future tax years as provided
+for in this section. In no instance may the special assessment be applied
+retroactively.
+      (10)   Application. Once the BAR has granted the special property tax
+assessments authorized herein, the owner of the property shall make application
+to the County Auditor for the special assessment provided for herein.
+(Ord. 92, passed 11-21-2023; Ord. 157, passed 6-17-2025)
 § 151.07 JURISDICTION OF THE BOARD OF ARCHITECTURAL REVIEW.
    The jurisdiction of the Board, in general, is the town limits. The
 jurisdiction of the Board for the recommendation of properties to be designated
@@ -9263,7 +10361,7 @@ Planning Commission
 154.19   General powers and duties
 Zoning Regulation
    
-154.30   Zoning ordinance adopted
+154.30   Unified Development Ordinance adopted
 Subdivision Regulation
    
 154.45   Development design standards adopted
@@ -9471,13 +10569,12 @@ the town’s development; and
 as to these matters.
 (1995 Code, § 5-2005) (Ord. passed 3-17-1987)
 **** ZONING REGULATION ****
-§ 154.30 ZONING ORDINANCE ADOPTED.
-   There is hereby adopted by reference the document cited as the zoning
-ordinance of the town, adopted November, 2102, as amended, which is
-incorporated herein as if set forth in full, a copy of which is on file in the
-office of the Building Inspector.
-(1995 Code, § 5-2011) (Ord. 091713, passed 9-17-2013; Ord. 110612A, passed 11-
--2012)
+§ 154.30 UNIFIED DEVELOPMENT ORDINANCE ADOPTED.
+   There is hereby adopted by reference the document cited as the Unified
+Development Ordinance of the town, adopted September, 2025, as amended, which
+is incorporated herein as if set forth in full, a copy of which is attached to
+Ordinance 161 as Exhibit A.
+(Ord. 161, passed 9-25-2025)
 **** SUBDIVISION REGULATION ****
 § 154.45 DEVELOPMENT DESIGN STANDARDS ADOPTED.
    The subdivision regulations for the town, as set forth in Ord. 110612A, as
@@ -9557,41 +10654,56 @@ Ord. No. Date Passed Description
  
 TABLE III: FRANCHISES
 Ord. No. Date Passed Description
-Ord. No.     Date Passed Description
-                         Granting to Carolina Pipeline Company the right, power
-                         and authority to lay, maintain and operate natural gas
-Appendix I - - -         mains, pipes and services on, along, across and under
-                         the streets, alleys, bridges and other public places
-                         and to do a local natural gas business of the town,
-                         for a period of 30 years
-                         Granting the right, privilege and franchise to General
-                         Telephone Company of the Southeast, its successors and
-                         assigns, to construct, erect, build, equip, own,
-                         maintain and operate in, along, under, over and across
-                         the streets, avenues, alleys, bridges, viaducts and
-Appendix I - - -         public grounds of the town any and all appliances,
-                         structures and fixtures necessary or convenient for
-                         rendition of telephone and other communication service
-                         and for conducting a general local and long distance
-                         telephone business; providing for the assignment of
-                         franchise, for consideration, for repeal of
-                         conflicting ordinances and/or partial invalidity
-                         A cable television franchise ordinance for the town is
-Appendix I - - -         listed here by reference as if it were incorporated
-                         fully in this code
-                         Approving the sale or transfer of Winnsboro/Ridgeway
---           5-21-2002   Cablevision, Inc. to Chester Telephone Company per
-                         franchise agreement dated 11-16-1999
-                         Amending the existing Cablevision franchise (11-16-
---           5-21-2002   1999) with Winnsboro/Ridgeway Cablevision Inc. to
-                         extend the time for system upgrade
-                         A franchise agreement between Winnsboro and the Town
-02182020     2-18-2020   of Blythewood granting Winnsboro the non-exclusive
-                         right, power and authority of water transmission and
-                         distribution within the Town of Blythewood
-72           2-7-2023    Granting consent to application for franchise for
-                         cable or video service with Spectrum Southeast, LLC
-                        
+Ord. No. Date   Description
+         Passed
+                Granting to Carolina Pipeline Company the right, power and authority to lay,
+Appendix - -    maintain and operate natural gas mains, pipes and services on, along, across
+I -             and under the streets, alleys, bridges and other public places and to do a
+                local natural gas business of the town, for a period of 30 years
+                Granting the right, privilege and franchise to General Telephone Company of
+                the Southeast, its successors and assigns, to construct, erect, build, equip,
+                own, maintain and operate in, along, under, over and across the streets,
+Appendix        avenues, alleys, bridges, viaducts and public grounds of the town any and all
+I -      - -    appliances, structures and fixtures necessary or convenient for rendition of
+                telephone and other communication service and for conducting a general local
+                and long distance telephone business; providing for the assignment of
+                franchise, for consideration, for repeal of conflicting ordinances and/or
+                partial invalidity
+Appendix - -    A cable television franchise ordinance for the town is listed here by
+I -             reference as if it were incorporated fully in this code
+--       5-21-  Approving the sale or transfer of Winnsboro/Ridgeway Cablevision, Inc. to
+         2002   Chester Telephone Company per franchise agreement dated 11-16-1999
+--       5-21-  Amending the existing Cablevision franchise (11-16-1999) with Winnsboro/
+         2002   Ridgeway Cablevision Inc. to extend the time for system upgrade
+         2-18-  A franchise agreement between Winnsboro and the Town of Blythewood granting
+02182020 2020   Winnsboro the non-exclusive right, power and authority of water transmission
+                and distribution within the Town of Blythewood
+72       2-7-   Granting consent to application for franchise for cable or video service with
+         2023   Spectrum Southeast, LLC
+                Granting to Dominion Energy South Carolina, Inc., its successors and assigns,
+                the non-exclusive right, power and authority to erect and to install,
+                maintain, and operate on, along, across, in, over, above, upon and under the
+                streets, alleys and other public places of the town: electric lines, poles,
+                wires, guys, push braces, transformers and appurtenant facilities; and
+         6-17-  communication lines and facilities for any purpose and any use by the company
+129      2025   or any designee, together with any necessary right of access thereto, for
+                such period as the same is needed by the company to render service to its
+                customers in the town from those facilities; to set the amount of franchise
+                fee to be paid by the company to the town; if so required, to levy franchise
+                fees on third parties selling electricity using the company’s electric
+                systems; and to allow for the establishment of a fund and underground utility
+                districts for electric non-standard service
+                Granting to Fairfield Electric Cooperative, Inc., its successors and assigns,
+                the non-exclusive right, power, and authority to erect and to install,
+                maintain, and operate on, along, across, in, over, above, upon, and under the
+                streets, alleys, and other public places of the town: electric lines, poles,
+158      8-19-  wires, guys, push braces, transformers, and appurtenant facilities; and
+         2025   communication lines and facilities for any purpose and any use by the
+                cooperative or any designee, together with any necessary right of access
+                thereto, for such period as the same is needed by the cooperative to render
+                service to its customers in the town from those facilities; and to set the
+                amount of franchise fee to be paid by the cooperative to the town
+               
  
 TABLE IV: REAL ESTATE TRANSACTIONS
  
@@ -9662,12 +10774,16 @@ S.C. Code Section         Code Section
                           110.16
 6-9-10                    150.071
 6-9-60                    150.071
+Title 6, Ch. 1, Art. 9    33.55
+6-1-1020(D)               33.65
+6-1-1050                  33.59
 6-17-20                   50.05
 6-29-310 through 6-29-380 154.15,
                           154.19
 6-29-700                  151.01
 6-29-870 et seq.          151.01
 6-29-870(C)               151.03
+6-29-890 through 6-29-940 151.06
 6-29-900 et seq.          151.11
 Title 6, Ch. 29, Art. 11  154.02
 6-29-1520                 154.02
@@ -10013,7 +11129,6 @@ New Charter                            Charter
 5-2003                                 154.17
 5-2004                                 154.18
 5-2005                                 154.19
-5-2011                                 154.30
 5-3001                                 153.01
 5-3002                                 153.02
 5-3003                                 153.03
@@ -10238,19 +11353,19 @@ Ord. No.     Date Passed Code Section
                          52.28
 122011       12-20-2011  TSO I
 071712       7-17-2012   11.04
-110612A      11- -2012   154.30,
-                         154.45
+110612A      11- -2012   154.45
 110612B      11-5-2012   54.49
 110612C      11-5-2012   110.19
                          110.01 -
 031913       3-5-2013    110.19,
                          110.99
 082013       8-20-2013   110.19
-091713       9-17-2013   154.30
 010714       1-7-2014    TSO IV
 012114       3-4-2014    TSO IV
                          96.01 –
-4152014-B    5-20-2014   96.14,
+                         96.10,
+4152014-B    5-20-2014   96.12 –
+                         96.15,  
                          96.99
 080514       8-5-2014    130.11
 102114       10-21-2014  54.02
@@ -10276,7 +11391,9 @@ Ord. No.     Date Passed Code Section
 111621-A     12-7-2021   110.19,
                          110.99
                          96.01 –
-62           10-18-2022  96.14,
+                         96.10,
+62           10-18-2022  96.12 –
+                         96.15,
                          96.99 
                          90.01 –
 63           11-15-2022  90.22,
@@ -10289,5 +11406,18 @@ Ord. No.     Date Passed Code Section
 92           11-21-2023  151.01 –
                          151.11
 93           11-21-2023  50.04
+                         96.01 –
+128          4-8-2025    96.15,
+                         96.99
+129          6-17-2025   TSO III
+157          6-17-2025   151.06
+158          8-19-2025   TSO III
+159          8-5-2025    30.038
+161          9-25-2025   154.30
+162          9-16-2025   33.55 –
+                         33.67
+164          11-18-2025  110.19
+165          12-2-2025   150.040 –
+                         150.047
                         
  
