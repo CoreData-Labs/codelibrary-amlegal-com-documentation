@@ -7645,8 +7645,7 @@ tax assessment at the same time City Council passes an ordinance authorizing a
 property tax assessment.
 (Ord. 2016-96. Passed 12-6-16.)
 159.03 CALCULATING AND CHARGING ADMINISTRATIVE FEES IN EXCESS OF THE SET
-ADMINISTRATIVE FEES SET FORTH IN SECTION
-159.02.
+ADMINISTRATIVE FEES SET FORTH IN SECTION 159.02.
    In the event that the set administrative fee established pursuant to Section
 159.02 does not adequately recover administrative costs incurred by the City in
 abating or causing to be abated Property Maintenance Code violations, the City
@@ -51559,8 +51558,8 @@ Agriculture Plant Hardiness Zone Map.
    The following list of plants shall be used for the matrix in Section
 1169.10. This list has been revised to and expanded to reflect a wider variety
 of plants for this area of Southwestern Ohio
-PLANT LIST A
-SHADE TREES
+** PLANT LIST A
+SHADE TREES **
 These trees are hardy in zones 5 - 6, are deciduous and reach a mature height
 as indicated by the following: Large -60', Medium - 40', Small - 20'. Other
 shade trees which are native and hardy to zones 5-6 of the United States
@@ -51663,8 +51662,8 @@ Plant Botanical Name  Acer palmatum
 Specie Cultivars      Bloodgood
                      Crimson Queen
  
-PLANT LIST B
-FLOWERING TREES
+** PLANT LIST B
+FLOWERING TREES **
 These trees are hardy in zones 5 - 6, are deciduous and reach a mature height
 not exceeding 30 feet.
  
@@ -51724,8 +51723,8 @@ Specie Cultivars                      Virginicus
 Common Plant Names   Double Weeping Cherry Weeping Cherry
 Plant Botanical Name Prunus subhirtella    Prunus subhirtella
 Specie Cultivars                          Snow Fountain
-PLANT LIST C
-EVERGREEN TREES
+** PLANT LIST C
+EVERGREEN TREES **
 These trees that are hardy in zones 5 - 6, are evergreen, can reach a mature
 height over 30 feet and if not limbed-up, can create a screen from the ground
 level up.
@@ -51750,8 +51749,8 @@ Specie Cultivars      
 Common Plant Names   Eastern Red Cedar
 Plant Botanical Name Juniperus virginiana
 Specie Cultivars      
-PLANT LIST D
-DECIDUOUS SHRUBS
+** PLANT LIST D
+DECIDUOUS SHRUBS **
 These perennial woody plants grow at least 3 feet in height, are tolerant in
 zones 5 - 6 and are deciduous.
  
@@ -51869,8 +51868,8 @@ Common Plant Names   Shrub Rose
 Plant Botanical Name Rosa
 Specie Cultivars     Knock Out Series
  
-PLANT LIST E
-EVERGREEN SHRUBS
+** PLANT LIST E
+EVERGREEN SHRUBS **
 These perennial woody plants grow at least 3 feet in height, are tolerant in
 zones 5 -6 and are evergreen.
  
@@ -55718,9 +55717,9 @@ property meets the National Register criteria (including reference to specific
 criteria), and that the letter is their report on the property. Public
 participation requirements still apply.
 (Ord. 2023-72. Passed 7-11-23.)
-1328.09 PROCEDURES FOR REVIEWING PROPOSED CONSTRUCTION, ADDITIONS AND
+*** 1328.09 PROCEDURES FOR REVIEWING PROPOSED CONSTRUCTION, ADDITIONS AND
 ALTERATIONS TO DESIGNATED STRUCTURES OR STRUCTURES WITHIN A DESIGNATED HISTORIC
-DISTRICT.
+DISTRICT. ***
    (a)    No person shall make any alteration, addition or environmental change
 to any designated historic property or construct, makes alterations or
 additions to any structure within a designated historic district without first
