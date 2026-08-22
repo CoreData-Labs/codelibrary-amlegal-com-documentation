@@ -1,7 +1,7 @@
 GARRETSON, SOUTH DAKOTA
 CODE OF ORDINANCES
-2026 S-6 Supplement contains:
-Legislation current through Ord. 723, passed 1-5-2026
+2026 S-7 Supplement contains:
+Legislation current through Ord. 726, passed 4-13-2026
  
 Published by:
 AMERICAN LEGAL PUBLISHING
@@ -353,7 +353,9 @@ General Provisions
    
 31.01   General organization; appointments
    
-31.02   Special elections
+31.02   Regular municipal elections
+   
+31.03   Special elections
 Code of Conduct
    
 31.10   Code of conduct
@@ -394,7 +396,12 @@ resolution at any time, regardless of the time when any city employee may have
 been hired. Any city employee may only be removed from his or her position by
 the majority vote of the Council members.
 (Ord. 635, passed 2-5-2018; Ord. 695, passed 4-8-2024)
-§ 31.02 SPECIAL ELECTIONS.
+§ 31.02 REGULAR MUNICIPAL ELECTIONS.
+   The regular municipal election is hereby set in the City of Garretson, on
+the first Tuesday after a Monday in November between the hours of 7:00 a.m. and
+7:00 p.m. held in conjunction with the November general elections.
+(Ord. 719, passed 10-6-2025)
+§ 31.03 SPECIAL ELECTIONS.
    All special elections hereafter called for any purpose whatsoever within and
 for the city shall be conducted, and the ballots therefore shall be prepared,
 in the same manner as prescribed by the statute in the case of regular annual
@@ -747,12 +754,19 @@ dissolve the Advisory Committee at any time.
 (Res. 2024-20, passed 7-1-2024)
 CHAPTER 33: EMERGENCY PREPAREDNESS
 Section
+General Provisions
    
 33.01   Adoption of Minnehaha County Pre-Disaster Hazard Militation Plan
    
 33.02   Adoption of Minnehaha County Local Emergency Operation Plan
    
 33.03   Area included in Minnehaha County Rural Ambulance District
+Fire and Ambulance Services
+   
+33.10   Adoption of fire department
+   
+33.11   Adoption of ambulance service
+**** GENERAL PROVISIONS ****
 § 33.01 ADOPTION OF MINNEHAHA COUNTY PRE-DISASTER HAZARD MILITATION PLAN.
    (A)   The city has adopted the Minnehaha County Multi-Hazard Mitigation Plan
 to be evaluated and updated each year.
@@ -768,6 +782,15 @@ to be evaluated and updated each year.
    The City Council consents to be included within the proposed Minnehaha
 County Rural Ambulance District, and supports the creation of said district.
 (Res. 2007-09, passed 9-18-2007)
+**** FIRE AND AMBULANCE SERVICES ****
+§ 33.10 ADOPTION OF FIRE DEPARTMENT.
+   The Garretson Volunteer Fire Department is hereby adopted as the City of
+Garretson’s fire department.
+(Ord. 718, passed 6-2-2025)
+§ 33.11 ADOPTION OF AMBULANCE SERVICE.
+   The Garretson Community Ambulance is hereby adopted as the City of
+Garretson’s ambulance service.
+(Ord. 718, passed 6-2-2025)
 CHAPTER 34: FINANCE AND REVENUE
 Section
 Other Charges, Fees, and Fines
@@ -775,6 +798,11 @@ Other Charges, Fees, and Fines
 34.15   Maintenance fee, public roads and lighting
    
 34.16   Non-sufficient fund check fees
+Park Fund
+   34.30   Establishment of the Park Accounting Report
+   34.31   Contents of Park Accounting Report
+   34.22   Reporting requirements
+   34.33   Expenditures from the Park Fund
 **** OTHER CHARGES, FEES, AND FINES ****
 § 34.15 MAINTENANCE FEE, PUBLIC ROADS AND LIGHTING.
    (A)   To direct the Finance Officer to add such special street maintenance
@@ -798,6 +826,34 @@ office of the City Finance Officer, shall be as follows:
 sufficient fund checks; and
    (B)   There shall be a $20 handling fee for all non-sufficient fund checks.
 (Res. 98-10-07, passed 10-19-1998)
+**** PARK FUND ****
+§ 34.30 ESTABLISHMENT OF THE PARK ACCOUNTING REPORT.
+   The Finance Officer and Park Manager must establish and maintain a Park
+Accounting Report. All revenue generated and expenses incurred from city parks
+must be accounted for in the Park Accounting Report.
+(Ord. 726, passed 4-13-2026)
+§ 34.31 CONTENTS OF PARK ACCOUNTING REPORT.
+   All revenue generated from city parks must be included in the Park
+Accounting Report. All expenditures on park operations, maintenance,
+improvements, and other costs must be included in the Park Accounting Report.
+Revenue and expenditures must be recorded using an method that identifies type
+of revenue or expenditure and location where the revenue or expenditure is
+attributable.
+(Ord. 726, passed 4-13-2026)
+§ 34.32 REPORTING REQUIREMENTS.
+   (A)   The Finance Officer must provide the City Council and Mayor with the
+Park Accounting Report, summarizing activity for the proceeding calendar year,
+at the regular August City Council meeting.
+   (B)   The Finance Officer must provide the Park Manager with a monthly
+accounting of all relevant budget items from the general appropriations budget.
+Monthly reports must be provided to the City Council and Mayor upon request.
+(Ord. 726, passed 4-13-2026)
+§ 34.33 EXPENDITURES FROM THE PARK FUND.
+   The Park Manager has authority to expend funds appropriated for park
+purposes within the general appropriation ordinance, subject to the approval of
+the Mayor and in accordance with applicable purchasing policies and ordinances
+of the city.
+(Ord. 726, passed 4-13-2026)
 CHAPTER 35: TAXATION
 Section
 General Provisions
@@ -2655,152 +2711,38 @@ TITLE VII: TRAFFIC CODE
 73.   RAILROAD TRAINS
       
 74.   TOY AND RECREATIONAL VEHICLES
-      
-75.   TRAFFIC SCHEDULES
 CHAPTER 70: TRAFFIC REGULATIONS
 Section
 General Provisions
    
 70.01   Traffic signs and signals
    
-70.02   Right-of-way
-   
-70.03   Crossing
-   
-70.04   Turning around; turning corners
-   
-70.05   Stop before entering
-   
-70.06   Lights and numbers
-   
-70.07   Speed limits
-   
-70.08   Accidents; duty to stop
-   
-70.09   Duty to report damaged vehicles
-   
-70.10   Careless\reckless\exhibition driving
+70.02   Speed limits
 Operational Vehicle Nuisances
    
-70.25   Mufflers and noise levels
+70.25   Reserved
    
 70.26   Dynamic braking devices
-   
-70.27   Vehicles with lugs
  
    
 70.99   Penalty
 **** GENERAL PROVISIONS ****
 § 70.01 TRAFFIC SIGNS AND SIGNALS.
-   (A)   The owner, operator, driver, or person in charge of any vehicle used,
-propelled, or driven upon the streets, avenues, alleys, or public grounds of
-the city shall conform to and observe the following rules and regulations of
-this traffic code.
-   (B)   The governing body shall, by resolution, determine and designate the
-character or type of all official traffic signs and signals, all such signs and
-signals to be uniform throughout the city, as far as is practicable; provided
-that all official traffic signs and signals now erected and in operation are
-hereby designated official traffic signs and signals.
-   (C)   Subject to this selection, the Chief of Police is hereby authorized,
-and as to those signs and signals required hereunder, it shall be his or her
-duty to place and maintain, or cause to be placed and maintained, all official
-traffic signs and signals.
-   (D)   It shall be unlawful for any person to be seen by an ordinarily
-observant person.
-   (E)   It shall be unlawful for any person to willfully deface, injure, move,
-obstruct, or interfere with any official traffic sign or signal. It shall be
-unlawful for any person to place, maintain, or to display upon or in view of
-any street any unofficial sign, signal, or device which purports to be, or is
-an imitation of or resembles any official traffic sign or signal, or which
-attempts to direct the movement of traffic. Every such prohibited sign, signal,
-or device is hereby declared to be a public nuisance, and the Chief of Police
-is hereby empowered to remove the same, or cause it to be removed, without
-notice.
-   (F)   Every motor vehicle shall be provided with adequate brakes in good
-working order and sufficient to control such motor vehicle at all times when
-the same is in use, and a suitable bell, horn, or other device for signaling.
-(Ord. 144, passed 8-2-1920; Ord. 194 passed 9-14-1942) Penalty, see §
+   (A)   The placement of any new permanent traffic-control or parking
+regulation sign shall require approval by a majority vote of the City Council
+at a duly noticed public meeting.
+      (1)   No new permanent traffic-control sign or parking regulation sign
+shall be installed without such approval.
+      (2)   Nothing in this section prohibits the temporary placement of
+traffic-control devices necessary to address emergencies, construction,
+maintenance activities, or public safety concerns, as determined by the Mayor.
+   (B)   Subject to this selection, the authorized agent of the city is hereby
+authorized and has the duty to, place and maintain, all official traffic signs
+and signals including those for parking.
+(Ord. 144, passed 8-2-1920; Ord. 194 passed 9-14-1942; Ord. 717, passed 5-5-
+2025; Ord. 725, passed 4-13-2026) Penalty, see §
 70.99
-§ 70.02 RIGHT-OF-WAY.
-   Ambulances, Fire, and Police Department vehicles, when responding to or
-returning from an emergency call, shall have the right-of-way, and when driver
-of such vehicle on such a call shall give audible signal by bell, siren, or
-exhaust whistle, the operator or every vehicle shall immediately drive his or
-her vehicle as near as possible and parallel to the right-hand curb of the
-street clear of any intersection, and shall stop and remain in such position
-until such emergency vehicle shall have passed, unless otherwise directed by a
-police officer. Every driver of a vehicle approaching the intersection of a
-street shall grant the right-of-way at such intersection to any vehicle
-approaching such intersection from his or her right; provided that whenever
-traffic officers are stationed at said intersections, they shall have full
-power to regulate traffic.
-(Ord. 194 passed 9-14-1942) Penalty, see §
-70.99
-§ 70.03 CROSSING.
-   (A)   No vehicle shall be driven over any unprotected hose of the Fire
-Department when laid down on any street or private driveway to be used at any
-fire or alarm of fire, without the consent of the Fire Department Official in
-charge.
-   (B)   It shall be unlawful for any horse, vehicle, or motor vehicle to cross
-over from the right- hand side of the street to the left-hand side, except upon
-the intersection of said street with another street, and in so turning such
-horse, vehicle, or motor vehicle, shall pass around the center of said
-intersection.
-   (C)   No person shall cause any traction engine to go upon or cross over any
-cement or concrete cross walks upon any street, without first covering such
-crosswalk with planks at least eight feet long, 12 inches wide, and three
-inches thick; the same to be placed upon such crosswalk so as to completely
-cover the same and to extend at least one and one-half feet on each side
-thereof, in such manner that the wheels of such traction engine shall rest
-entirely upon said planks while passing over such crosswalk.
-(Ord. 86, passed 7-8-1908; Ord. 144, passed 8-2-1920; Ord. 194, passed 9-14-
-1942) Penalty, see §
-70.99
-§ 70.04 TURNING AROUND; TURNING CORNERS.
-   (A)   A horse, vehicle, or motor vehicle turning into a street to the right
-shall turn the corner as near the right-hand curb at practicable.
-   (B)   A horse, vehicle, or motor vehicle turning into a street to the left
-shall, before turning, pass around the center of the intersection of the two
-streets.
-   (C)   The driver of a vehicle about to turn shall give timely signal by hand
-or other unmistakable manner to indicate the direction of the turn.
-   (D)   The driver of any vehicle shall not turn such vehicle so as to proceed
-in the opposite direction on any street in a business or commercial area, or at
-any intersection controlled by traffic control signals, and shall not upon any
-other street so turn a vehicle, except at an intersection, and at such time the
-driver commits a petty offense.
-(Ord. 194, passed 9-14-1942; Ord. 614, passed 11-1-2013) Penalty, see §
-70.99
-§ 70.05 STOP BEFORE ENTERING.
-   The operator of a vehicle emerging from an alley, private driveway, or
-building into a street, or entering a through street, shall stop such vehicle
-immediately prior to driving onto a crosswalk or crosswalk area extending
-across such an approach.
-(Ord. 194, passed 9-14-1942) Penalty, see §
-70.99
-§ 70.06 LIGHTS AND NUMBERS.
-   (A)   A motor vehicle shall, while in motion, during the period from half an
-hour after sunset to one-half hour before sunrise, display at least two lighted
-lamps on the front and one on the rear of such motor vehicle. Such lamps to
-conform to the state law; provided that a motorcycle or motor bicycle shall be
-required to display but one lighted lamp in front and one in the rear.
-   (B)   All vehicles shall, during the period from one-half hour after sunset
-to one-half hour before sunrise, display at least two lighted lamps on the
-front and one on the rear of such motor vehicle, which rear lamp shall display
-a red light, plainly visible from the rears; provided that a motor cycle shall
-be required to display but one lighted lamp in front and one in the rear. The
-rays of such rear light shall shine upon the number plate carried upon the rear
-of such motor vehicle, in such manner as to render the numerals thereon plainly
-visible, and every motor vehicle shall, at all times, have the number assigned
-to it by the state displayed on the back of such motor vehicle and plainly
-visible as above provided.
-   (C)   It shall be unlawful to use any acetylene, gas, or electric head
-lights or side lights upon any vehicle or motor vehicle upon any of the streets
-and alleys of the city, unless same are dimmed in such a way as to prevent the
-light from being dazzling or blinding to persons using the street.
-(Ord. 144, passed 8-2-1920; Ord. 194, passed 9-14-1942) Penalty, see §
-70.99
-§ 70.07 SPEED LIMITS.
+§ 70.02 SPEED LIMITS.
    (A)   It shall be unlawful for any driver to drive any motor vehicle upon
 the public streets, alleys, or public grounds at a greater rate of speed than
 12 mph, and in turning corners from street to another street or crossing
@@ -2830,7 +2772,7 @@ she is proceeding;
 DISTRICT is the following area: Main Avenue from Second Street to Fifth Street;
 Third Street from Center Avenue to Depot Avenue; Fourth Street from Center
 Avenue to Depot Avenue; and
-      (6)    Thirty mph in a residence district, public parks, and public
+      (6)   Thirty mph in a residence district, public parks, and public
 grounds, unless a different speed is fixed and posted by the Police Department.
    (C)   Except as may otherwise be provided by this section, it shall be
 unlawful for any person to operate or drive any vehicle at a rate of speed
@@ -2847,64 +2789,10 @@ within the industrial and agricultural districts;
       (7)   The appropriate legal maximums established by state law on all
 other unmarked streets and highways within the city shall be effective.
 (Ord. 144, passed 8-2-1920; Ord. 194, passed 9-14-1942; Ord. 723, passed 1-5-
-2026)  Penalty, see §
+2026) Penalty, see  §
 70.99
-§ 70.08 ACCIDENTS; DUTY TO STOP.
-   The driver of any vehicle involved in an accident resulting in injury or
-death to any person, or damage to property, shall immediately stop such vehicle
-at the scene of such accident and shall give his or her name, address, and
-registration number of his or her vehicle to the person struck, the driver, or
-occupant of any vehicle collided with; and shall render to any person injured
-in such accident reasonable assistance, including the carrying of such person
-to a physician or surgeon for medical treatment, if it is apparent that such
-treatment is necessary, or is requested by the injured person, and shall
-forthwith report the accident to the Police Department stating the place of
-accident and the kind and extent of the damage caused.
-(Ord. 194, passed 9-14-1942) Penalty, see §
-70.99
-§ 70.09 DUTY TO REPORT DAMAGED VEHICLE.
-   The person in charge of any garage, repair shop, or service station to which
-is brought any vehicle which shows evidence of having been involved in a
-serious accident or struck by any bullet shall report to the police at once,
-giving kind of car and license number, and, if possible, the name and address
-of the owner or operator of such vehicle.
-(Ord. 194, passed 9-14-1942) Penalty, see §
-70.99
-§ 70.10 CARELESS\RECKLESS\EXHIBITION DRIVING.
-   (A)   Reckless driving. Any person who drives a vehicle within the limits of
-the city carelessly, heedlessly, in disregard of the rights or safety of
-others, without due caution and circumspection, or at a speed or in a manner so
-as to endanger or be likely to endanger any person or property shall be guilty
-of reckless driving.
-   (B)   Careless driving. Any person who drives a vehicle within the limits of
-the city carelessly in disregard to the width, grade, curves, corners,
-conditions, customary usage of the streets or highways, or who temporary
-inadvertence to the operation of such vehicle causes or is likely to cause
-damage to any person or property shall be guilty of careless driving.
-   (C)   Exhibition driving. Any person who drives a vehicle within the limits
-of the city in such a manner that it creates or causes unnecessary engine
-noise, or tire squeal, skid, or slide upon acceleration or stopping; or that
-simulates a temporary race; or that causes the vehicle to turn abruptly or sway
-shall be guilty of exhibition driving.
-(Ord. 257, passed 11-6-1967; Ord. 510, passed 8-12-1996) Penalty, see §
-70.99
-Statutory reference:
-   Related provisions, see SDCL §§ 9-29-3, 32-24-9
 **** OPERATIONAL VEHICLE NUISANCES ****
-§ 70.25 MUFFLERS AND NOISE LEVELS.
-   (A)   No person shall operate a motor vehicle, or any type of machine or
-engine propelled vehicle, unless it is provided with a muffler effectively
-muffling the exhaust and noise of such vehicle.
-   (B)   No person shall operate a motor vehicle, or any type of machine or
-engine propelled vehicle, in any manner which makes unnecessary loud noises,
-intentional noises, or emits therefrom excessive smoke.
-   (C)   Muffler cut outs, straight pipes, or other mechanisms for exhaust of
-such vehicles which are designed to permit loud noises, or are designed to not
-prohibit such loud noises, are prohibited. No person shall drive a motor
-vehicle, or any type of motor vehicle or any type of machine or engine
-propelled vehicle, with the above described mechanisms in operation.
-(Ord. 200.5, passed 8-5-1946) Penalty, see §
-70.99
+§ 70.25 RESERVED.
 § 70.26 DYNAMIC BRAKING DEVICES.
    It shall be unlawful to operate a dynamic braking device (commonly referred
 to as Jacobs Brake) on any motor vehicle, except to avert imminent danger,
@@ -2913,60 +2801,17 @@ combustion engine to an air compressor for the purpose of braking without the
 use of wheel brakes.
 (Ord. 637, passed 5-7-2018) Penalty, see §
 70.99
-§ 70.27 VEHICLES WITH LUGS.
-   It shall be unlawful to move any tractor engine, tractor, or other vehicle
-having wheels to the surface of which are attached mudlugs, ice spurs, spikes,
-chains, or wheels with narrow steel tires upon or across any street that is
-surfaced with hardsurfacing material, without first laying planks of at least
-two-inch thickness over the surface of such street in a manner so as to protect
-such street from contact with such vehicle.
-(Ord. 200, passed 8-5-1946) Penalty, see §
-70.99
 § 70.99 PENALTY.
-   (A) Any person violating any provision of this chapter for which no specific
-penalty is prescribed shall be subject to §
-10.99 of this code of ordinances.
-   (B)   Any person or persons, firm, or corporation violating any of the
-provisions of §§
-70.01(A) through
-70.01(E),
-70.02,
-70.05,
-70.06(A),
-70.07(B),
-70.08, and
-70.09, or failing to comply with any of the provisions thereof, shall, upon
-conviction thereof, where no penalty or punishment is prescribed in the chapter
-containing such provision, be punished by a fine of not exceeding $100, or by
-imprisonment in the city jail or workhouse for a period of not exceeding 50
-days, or by both such fine and imprisonment in the discretion of the court;
-provided that in all cases where a fine is imposed the court may, in the event
-the fine is not paid, commit the person or persons to the city jail or
-workhouse for a period of one day for each $2 of such fine.
-   (C)   Any person violating any of the provisions of §
-70.03(A) shall be deemed guilty of a misdemeanor and shall, upon conviction
-thereof, be punished by a fine not exceeding $500, or by imprisonment for a
-period not exceeding six months, or both such fine and imprisonment.
-   (D)   Any person who shall violate any of the provisions of §
-70.10 shall be guilty of a misdemeanor and shall be punished by a fine not
-exceeding $100, or by imprisonment for a period not exceeding 30 days, or by
-both such fine and imprisonment.
-   (E)   Any person violating any of the provisions of §
-70.25 shall be subject to arrest and, upon conviction, subject to a fine not to
-exceed $25 and costs, and shall be prohibited from driving said vehicle in the
-city until the condition causing the arrest and conviction is corrected.
-   (F)   Any person or entity that shall be found to have violated the terms of
+   (A)   Any person or entity that shall be found to have violated the terms of
 §
 70.26 by using a dynamic braking system, within or adjacent to the city limits,
 shall be guilty of an offense and shall be subject to a fine of $200.
-   (G)   Any person or persons, firm, or corporation violating any of the
-provisions of §
-70.27, or failing to comply with any of the provisions thereof, shall, upon
-conviction thereof, be punished by a fine not exceeding $100, or by
-imprisonment in the jail for a period of not exceeding 30 days, or both such
-fine and imprisonment in the discretion of the court.
+   (B)   Any person or entity that shall be found to have violated the terms of
+§
+70.02, shall be guilty of an offense and shall be subject to a fine of $100.
 (Ord. 194, passed 9-14-1942; Ord. 200, passed 8-5-1946; Ord. 200.5, passed 8-5-
-1946; Ord. 257, passed 11-6-1967; Ord. 637, passed 5-7-2018)
+1946; Ord. 257, passed 11-6-1967; Ord. 637, passed 5-7-2018; Ord. 717, passed
+5-5-2025)
 Statutory reference:
    Related provisions, see SDCL §§ 9-29-3, 32-24-9
 CHAPTER 71: PARKING RULES
@@ -2974,64 +2819,58 @@ Section
    
 71.01   Method of parking
    
-71.02   Blocking traffic, street crossings, and fire hydrants
+71.02   Parking restrictions
    
 71.03   Parking during snow removal emergency
    
 71.04   Campers, motor homes, boats, and trailers restricted
    
 71.05   Removal of cars illegally parked
+   
+71.06   Temporary parking in alleys
+   
+71.07   Parking within marked lines
+   
+71.08   Parking in yards
+   
+71.09   Parking on sidewalks prohibited
+   
+71.10   Overnight parking
+   
+71.11   Passenger pick-up/drop-off
  
    
 71.99   Penalty
 § 71.01 METHOD OF PARKING.
-   (A)   Angle parking required in downtown business area.
-      (1)   All motor vehicles in the downtown business area shall be parked at
-a 45-degree angle, with the right front wheel or single wheel of a motorcycle
-within 18 inches of the curb.
-      (2)   All motor vehicles shall park on the right-hand side of the street
-from the proper direction of travel. No vehicle shall be allowed to proceed
-into a diagonal parking space which would required the driver to cross the
-center of the street and would result in facing the direction in which it came.
-In turn, when backing out of the diagonal parking spot, the driver may not back
-out and cross the center of the street in a manner that would result in
-proceeding in the opposite direction as originally parked. Violation to this
-type of parking manner results in the driver committing a petty offense.
-      (3)   Exception to required angle parking in the downtown business area
+   (A)   All motor vehicles in the downtown business area shall be parked at a
+45-degree angle, with the right front wheel or single wheel of a motorcycle
+within 12 inches of the curb.
+   (B)   Exception to required angle parking in the downtown business area
 would be at those times when the streets are being removed of snow by the city
 crew or subcontractors contracted by the city. At such time, parallel parking
 in the downtown business area is allowed.
-   (B)   Off-street parking.
-      (1)   No parking spaces are permitted in the required front yard within
-the Residential (R) District, except for portions of the front yard with a hard
-surface, gravel improved driveway, or parking pad which follows zoning and
-building requirements. Parking is permitted in a side yard or rear yard on a
-hard surface, gravel parking pad, or driveway, as long as it is no closer than
-two feet from the property line.
-      (2)   No parking is permitted on sidewalks or extending into the right-
-of-way.
-      (3)   No overnight parking in any location where official signs prohibit
-overnight parking.
 (Ord. 614, passed 11-11-2013; Ord. 640, passed 10-1-2018; Ord. 709, passed 12-
-2-2024)  Penalty, see §
+2-2024; Ord. 725, passed 4-13-2026)  Penalty, see §
 71.99
-§ 71.02 BLOCKING TRAFFIC, STREET CROSSINGS, AND FIRE HYDRANTS.
-   Vehicles of all kinds shall not be parked or left within ten feet of a fire
-hydrant, nor in such a position as to obstruct a crossing, unless to allow
-another vehicle or pedestrian to cross its path.
-(Ord. 144, passed 8-2-1920) Penalty, see §
-71.99
+§ 71.02 PARKING RESTRICTIONS.
+   Wherever in any street or avenue in the city the curb is painted with a
+solid yellow stripe, or an appropriate sign is erected, by or under the
+direction of the city or its authorized representative, such stripe, marking or
+sign shall indicate a “No Parking” area or zone, and it shall be unlawful for a
+driver, operator, owner or other person in control of any vehicle to cause,
+allow or permit any vehicle to park adjacent to such marking.
+(Ord. 725, passed 4-13-2026)
 § 71.03 PARKING DURING SNOW REMOVAL EMERGENCY.
    (A)   Definitions. For the purpose of this section, the following
 definitions shall apply unless the context clearly indicates or requires a
 different meaning.
       SNOW REMOVAL EMERGENCY. There shall be a SNOW REMOVAL EMERGENCY whenever
 there is a snow accumulation on the public streets of the city of two inches or
-more, and provisions of this division in regard to parking on public streets
+more, and provisions of this chapter in regard to parking on public streets
 during snow removal operations shall be effective and will be enforced.
       STREET. The entire width of any public roadway within the city; and it
-shall not be limited to those roadways designated as a “Street” but include
-“Avenues” and all other names by which public roadways are designated, but
+shall not be limited to those roadways designated as a STREET but include
+“avenues” and all other names by which public roadways are designated, but
 shall not include alleys or alleyways.
    (B)   Prohibited parking on streets. In the event of a snow removal
 emergency, as defined by division (A) above, no person shall park, or allow to
@@ -3046,16 +2885,8 @@ through traffic.
 between Fifth Street and Second Street and/or between Depot Avenue and Center
 Avenue will be immediately ticketed and towed in the event of snow emergency,
 as defined by division (A) above.
-   (E)   Immunity of liability in event of violation. The city shall not be the
-responsible party for providing alternate parking space during a snow removal
-emergency, and neither the city, nor its agents, nor it employees will be
-liable for damage to any person, motor vehicle, or trailer damaged by snow
-removal operations when such motor vehicle or trailer damaged by snow removal
-operations is in violation of divisions (A) through (C) above.
-   (F)   No authorization for otherwise prohibited or restricted parking.
-Nothing in divisions (A) through (D) above authorizes parking of a vehicle
-where otherwise prohibited or restricted, by signs or otherwise.
-(Ord. 393, passed 3-2-1987; Ord 521, passed - -) Penalty, see §
+(Ord. 393, passed 3-2-1987; Ord 521, passed - -; Ord. 725, passed 4-13-2026)
+Penalty, see §
 71.99
 § 71.04 CAMPERS, MOTOR HOMES, BOATS, AND TRAILERS RESTRICTED.
    (A)   No person shall park any boat, camper, motor home, trailer, or any
@@ -3069,30 +2900,66 @@ for no more than 72 hours for cleaning, loading, and unloading only.
 (Ord. 640, passed 10-1-2018; Ord. 702, passed 10-7-2024)  Penalty, see §
 71.99
 § 71.05 REMOVAL OF CARS ILLEGALLY PARKED.
-   Any vehicle parked in violation of this chapter or traffic ordinance of the
-city may be removed from the streets and or impounded by the Police Department
-and placed in public or private storage, and the owner thereof, in addition to
-the fines and penalties which may be imposed for such violation, shall pay the
-full charge for towing and will pay $5 per day for storage of said vehicle so
-removed by order of the Police Department.
-(Ord. 552, passed 11-12-2002)
+    Any vehicle parked in violation of this chapter or traffic ordinance of the
+city is hereby declared a public nuisance and may be removed from the streets
+and/or impounded. The owner shall pay the full charge for towing and storage of
+said vehicle in addition to the fines and penalties which may be imposed for
+such violation.
+(Ord. 552, passed 11-12-2002; Ord. 717, passed 5-5-2025; Ord. 725, passed 4-13-
+2026)
+§ 71.06 TEMPORARY PARKING IN ALLEYS.
+   No person shall park any vehicle in any alley except temporarily for the
+purpose of and while taking on or letting off passengers or loading or
+unloading personal property and shall not park in a manner that blocks the
+alley for traffic.
+(Ord. 725, passed 4-13-2026)
+§ 71.07 PARKING WITHIN MARKED LINES.
+   Whenever parking spaces are marked by lines on the pavement a vehicle must
+be parked entirely within the lines of the parking space.
+(Ord. 725, passed 4-13-2026)
+§ 71.08 PARKING IN YARDS.
+   No parking is permitted in the front yard, except for portions of the front
+yard with a hard surface, gravel improved driveway, or parking pad which
+follows zoning and building requirements. Parking is permitted in a side yard
+or rear yard on a hard surface, gravel parking pad, or driveway, as long as it
+is no closer than two feet from the property line.
+(Ord. 725, passed 4-13-2026)
+§ 71.09 PARKING ON SIDEWALKS PROHIBITED.
+   No parking is permitted on sidewalks or extending into the right-of-way.
+(Ord. 725, passed 4-13-2026)
+§ 71.10 OVERNIGHT PARKING.
+   No overnight parking in any location where official signs prohibit overnight
+parking.
+(Ord. 725, passed 4-13-2026)
+§ 71.11 PASSENGER PICK-UP/DROP-OFF.
+   Except when necessary to avoid conflict with other traffic, or in compliance
+with law or the directions of a police officer or official traffic-control
+device, no person may park a vehicle, whether occupied or not, except
+momentarily to pick up or discharge a passenger or passengers:
+   (A)   In front of a public or private driveway, except that the owner or
+tenant of the premises or any person under his or her direction, with
+permission, may park in front of his or her own private driveway;
+   (B)   Within 30 feet upon the approach to any flashing signals, stop sign,
+yield sign or traffic-control signal located at the side of a roadway.
+(Ord. 725, passed 4-13-2026)
 § 71.99 PENALTY.
-   (A)   Any person violating any provision of this chapter for which no
-specific penalty is prescribed shall be subject to §
-10.99 of this code of ordinances.
-   (B)   (1)   The fine for prohibited or restricted parking as set forth in §
-71.03 in a street or alley shall be $25 for first offense, $25 for second
-offense, and $50 for third offense. All fines for prohibited or restricted
-parking shall be payable at the Police Department within 72 hours from issuance
-or the fine will increase by $25. In the event of a failure to pay a prohibited
-or restricted parking fine within ten days, or in the event of a not guilty
-plea, the matter shall be heard by the Magistrate Court of the Judicial
-Circuit, which shall impose a fine of not more than $100 upon a guilty verdict.
-      (2)   Any vehicle or trailer parked in violation of §§
-71.01 and
-71.03 is hereby declared to be a public nuisance, and shall be towed at the
-owners expense if not removed within 24 hours.
-      (3)   Any vehicle described in §
+   (A)    The fine for violating §§
+71.01,
+71.02,
+71.03,
+71.06,
+71.07,
+71.08,
+71.09,
+71.10, and
+71.11 shall be $25. If the violation is not remedied within 24 hours it shall
+be considered another violation.
+   (B)   Fines must be paid to the Finance Officer within 15 business days of
+being issued. In the event of a failure to pay a prohibited or restricted
+parking fine within ten days, or in the event of a not- guilty plea, the matter
+shall be heard by the Magistrate Court of the Judicial Circuit, which shall
+impose a fine of not more than $100 upon a guilty verdict.
+   (C)   Any vehicle described in §
 71.04, other than a motor vehicle, that is parked in violation of §
 71.04 shall be first tagged with a warning citation, listing the date of the
 offense, license number of the vehicle, make, violation number, and location of
@@ -3101,7 +2968,7 @@ than 72 hours to remove the vehicle from the street. If the owner of said
 vehicle fails to remove it from the street within the 72-hour timeframe, the
 city may issue a citation imposing a fine not to exceed $100, which fine must
 be paid by taking such citation to the city office and depositing the fine
-payment with the City Finance Officer. The amount of the fine shall be at the
+payment with the city Finance Officer. The amount of the fine shall be at the
 discretion of the code officer or law enforcement officer issuing the citation.
 Each day of violation is considered a separate offense. If the owner or
 operator fails to comply within seven days from the date of the citation, a
@@ -3114,7 +2981,7 @@ officer or a law enforcement officer and placed in public or private storage
 and owner thereof, in addition to the fines and penalties provided herein,
 shall pay the charges for towing and storage of said vehicle.
 (Ord. 412A, passed 1-30-1992; Ord. 521, passed - -; Ord. 702, passed 10-7-2024,
-Ord. 709, passed 12-2-2024)
+Ord. 709, passed 12-2-2024; Ord. 725, passed 4-13-2026)
 CHAPTER 72: TRUCKS
 Section
    
@@ -3127,21 +2994,26 @@ Section
    
 72.99   Penalty
 § 72.01 TRUCK ROUTES.
-   The City Council, by resolution, may designate streets and highways within
-the city as truck routes. Truck routes will be enforced by the weight limits
-imposed by §
-72.02. Any motor vehicle exceeding such limits is in violation of this chapter,
-unless such vehicle meets an exception as provided by this chapter.
-(Ord. 438, passed - -) Penalty, see §
+    The following streets are designated as truck routes and carry a speed
+limit of 15 mph for trucks and farm tractors:
+   (A)   Fourth Street west from County Highway 105 to Depot Avenue;
+   (B)   Main Street between Fourth Street and Fifth Street;
+   (C)   Depot Avenue between Second and Fourth Street;
+   (D)   Granite Avenue between Second Street and Essex Avenue;
+   (E)   Essex Street between Granite Avenue and Railroad Avenue;
+   (F)   Railroad Avenue between Essex Street and Dows Street;
+   (G)   Dows Street from State Highway 11 east to Center Avenue; and
+   (H)   From State Highway 11 east to Main Street (Fifth Street Extension).
+(Ord. 438, passed - -; Ord. 725, passed 4-13-2026) Penalty, see §
 72.99
 Statutory reference:
    Related provisions, see 1990 Revisions, SDCL §§ 9-31-1, 9-31-2, 32-14-7
 § 72.02 LOAD LIMITS.
-   (A)   Trucks may operate on any designated truck route as long as the gross
-vehicle weight complies with the requirements of state law.
+   (A)   Trucks may only operate on the designated truck route as long as the
+gross vehicle weight complies with the requirements of state law.
    (B)   Trucks whose gross weight is more than 10,000 pounds may only operate
 on designated truck routes, as defined in this chapter.
-(Ord. 652, passed 2-3-2020) Penalty, see §
+(Ord. 652, passed 2-3-2020; Ord. 725, passed 4-13-2026) Penalty, see §
 72.99
 § 72.03 EXCEPTIONS.
    (A)   Whenever any truck route has been established and identified, any
@@ -3158,15 +3030,12 @@ consecutive days. A parked semi-tractor must adhere to all parking regulations
 the same as any other motor vehicle.
 (Ord. 614, passed 11-11-2013; Ord. 652, passed 2-3-2020)
 § 72.99 PENALTY.
-   (A)   Any person violating any provision of this chapter for which no
-specific penalty is prescribed shall be subject to §
-10.99 of this code or ordinances.
-   (B)   Fine for the violation of §§
-72.02(A) through
-72.03(A) is:
-      (1)   Fifty dollars for driving a truck not on a truck route; and
-      (2)   Seventy-five dollars for exceeding load limit.
-(Ord. 2020-08, passed 3-2-2020)
+    Fine for the violation of §§
+72.01 through
+72.03 is:
+   (A)   Fifty dollars for driving a truck not on a truck route; and
+   (B)   Seventy-five dollars for exceeding load limit.
+(Ord. 2020-08, passed 3-2-2020; Ord. 725, passed 4-13-2026)
 CHAPTER 73: RAILROAD TRAINS
 Section
    
@@ -3272,18 +3141,16 @@ Golf Carts
    
 74.01   Definition
    
-74.02   Permit required; fees
+74.02   Reserved
    
 74.03   Operation requirements
    
 74.04   Violations; revocation of permit
 Snowmobiles
    
-74.15   Definitions
+74.15   Reserved
    
 74.16   Licencing, permits, and registration
-   
-74.17   Operation requirements
 Off-Road Vehicles
    
 74.30   Definitions
@@ -3299,21 +3166,9 @@ internal combustion engine, originally designed for transporting one or two
 persons and their equipment around a golf course for purposes of the game of
 golf. A GOLF CART may be three- or four-wheeled.
 (Ord. 638, passed 7-2-2018)
-§ 74.02 PERMIT REQUIRED; FEES.
-   (A)   No person shall operate a golf cart upon any public street within the
-city without having first obtained a permit therefor from the City Finance
-Office. The fee to be charged for such permit shall be as from time to time
-established by resolution of the City Council. Permitted operation upon a
-public way shall be in compliance with all provisions of this subchapter.
-Permits issued pursuant to this subchapter may be transferred with the transfer
-of ownership of the permitted golf cart and shall expire on December 31 of each
-year.
-   (B)   The annual golf cart permit for the golf cart to be used on city
-streets as stated in division (A) above has been set at $20 to be renewed
-annually, January 1.
-(Ord. 638, passed 7-2-2018; Res. 2018-12, passed 7-2-2018)
+§ 74.02 RESERVED.
 § 74.03 OPERATION REQUIREMENTS.
-   (A)   Operation of a permitted golf cart upon the public streets shall be in
+   (A)   Operation of a golf cart upon the public streets shall be in
 conformance with all of the following requirements.
    (B)   The person operating the golf cart:
       (1)   Must be in possession of a valid driver’s license;
@@ -3323,22 +3178,20 @@ vehicles on public ways;
       (3)   Shall only be operated at times between sunrise and sunset; unless
 equipped with lights as required by SDCL § 32-17, then operation will be
 allowed after dark;
-      (4)   The permit shall be visibly displayed at the rear left side of the
-golf cart;
-      (5)   Shall not operate the golf cart upon any state or federally
+      (4)   Shall not operate the golf cart upon any state- or federally
 designated highway, excepting only to cross such highways;
-      (6)   Shall not drive on the sidewalk;
-      (7)   All persons within the permitted golf cart shall be seated at all
-times, and no person shall at any time be on the outside or on the top of the
-permitted golf cart at any time during operation on a public street;
-      (8)   Shall be equipped with a slow moving vehicle sign positioned and
-plainly visible on
-the rear of the golf cart which conforms to the provisions of SDCL § 32-15-20;
-      (9)   The permitted golf cart shall not be used in chasing after persons
-or animals; and
-      (10)   Shall comply with all laws and regulations applicable to operation
+      (5)   Shall not drive on the sidewalk;
+      (6)   All persons within the golf cart shall be seated at all times, and
+no person shall at any time be on the outside or on the top of the golf cart at
+any time during operation on a public street;
+      (7)   Shall be equipped with a “Slow-Moving Vehicle” sign positioned and
+plainly visible on the rear of the golf cart which conforms to the provisions
+of SDCL § 32-15-20;
+      (8)   The golf cart shall not be used in chasing after persons or
+animals; and
+      (9)   Shall comply with all laws and regulations applicable to operation
 of vehicles on public streets.
-(Ord. 638, passed 7-2-2018)
+(Ord. 638, passed 7-2-2018; Ord. 725, passed 4-13-2026)
 § 74.04 VIOLATIONS; REVOCATION OF PERMIT.
    (A)   Any person who operates a golf cart upon a public street in violation
 of this subchapter shall be subject to citation and punishment upon conviction,
@@ -3350,25 +3203,7 @@ Notice of revocation shall be given to the owner of the golf cart in person or
 by mail.
 (Ord. 638, passed 7-2-2018)
 **** SNOWMOBILES ****
-§ 74.15 DEFINITIONS.
-   For the purpose of this subchapter, the following definitions shall apply
-unless the context clearly indicates or requires a different meaning.
-   LAW ENFORCEMENT OFFICER. Any state, county, local, or other employee or
-officer of the state, county, city, or any political subdivisions thereof and
-who is responsible for the prevention and detection of crime and the
-enforcement of the criminal or traffic laws of the state, county, city, or any
-political subdivision thereof.
-   OPERATE. To control the operation of a snowmobile.
-   OPERATOR. Every person who operates or who is in actual physical control of
-a snowmobile.
-   OWNER. Any person, other than a lienholder, having the property in or title
-to a snowmobile and entitled to the use or possession thereof.
-   PUBLIC PROPERTY. All property owned or controlled by the city.
-   PUBLIC STREETS. Any street, roadway, or alley as the same is platted.
-   SNOWMOBILE. Any engine-driven vehicle of a type which utilizes sled type
-runners, wheels, or skis with an endless belt tread or similar means of contact
-with the surface upon which it is operated.
-(Ord. 312, passed 1-14-1975)
+§ 74.15 RESERVED.
 § 74.16 LICENCING, PERMITS, AND REGISTRATION.
    No snowmobile shall be operated on the public streets or public property in
 or of the city, except when all of the following requirements are met and
@@ -3382,27 +3217,6 @@ there is displayed on the snowmobile license plates as may be required by state
 statute; or, if the owner is a non-resident of state, the snowmobile is validly
 licensed in another state and has not been within South Dakota for a period of
 more than 60 days.
-(Ord. 312, passed 1-14-1975)
-§ 74.17 OPERATION REQUIREMENTS.
-   (A)   No person shall operate a snowmobile in the following manner:
-      (1)   At a speed that is greater than is reasonable or prudent under the
-circumstances;
-      (2)   In any reckless way so as to endanger a person, or property of
-another;
-      (3)   Without a functioning muffler complying with of SDCL § 32-15-17, as
-may be amended from time to time; or
-      (4)   At a speed greater than the posted speed limits in the city.
-   (B)   Any snowmobile on the public streets or public property in or of the
-city, operated during hours of darkness, shall display a lighted head lamp and
-tail lamp in accordance with the requirements of the state and SDCL § 32-17, as
-may be amended from time to time, as may have been approved by the Commissioner
-of Motor Vehicles in the state at least equivalent to that required for
-motorcycles.
-   (C)   The operator of a snowmobile on the public streets or public property
-in or of the city shall obey all municipal ordinances pertaining to the
-operation of a motor vehicle.
-   (D)   Any law enforcement officer shall have the authority to enforce the
-provisions of this subchapter.
 (Ord. 312, passed 1-14-1975)
 **** OFF-ROAD VEHICLES ****
 § 74.30 DEFINITIONS.
@@ -3424,8 +3238,7 @@ telecommunications service.
 § 74.31 REGULATIONS.
    (A)   Prohibition. Off-road vehicles shall not be operated in the city
 limits of the City of Garretson unless authorized pursuant to §
-74.16 or §
-74.17 of this code or licensed to be used on a public highway pursuant to SDCL
+74.16 of this code or licensed to be used on a public highway pursuant to SDCL
 § 32-20-13 or §
 74.03 of this code and provided that such vehicle operated by a licensed
 operator, and only on surfaces maintained as a roadway or alley.
@@ -3437,18 +3250,17 @@ being operated within the city limits of the City of Garretson:
 Garretson or any utility company; or
       (4)   While having been authorized by the City Council or city
 administration.
-(Ord. 712, passed 2-3-2025) Penalty, see §
+(Ord. 712, passed 2-3-2025; Ord. 725, passed 4-13-2026) Penalty, see §
 74.99
 § 74.99 PENALTY.
    (A)   Any person violating any provision of this chapter for which no
 specific penalty is prescribed shall be subject to §
 10.99 of this code of ordinances.
-   (B)   Fine for the violation of §§
-74.02 through
+   (B)    Fine for the violation of §§
+74.03 and
 74.04 is a misdemeanor, $50, and possible revocation of permit.
-   (C)   (1)   Any person who shall violate any provision of §§
-74.16 and
-74.17 shall, upon conviction, be punished by a fine of not more than $50 for
+   (C)   (1)   Any person who shall violate any provision of §
+74.16 shall, upon conviction, be punished by a fine of not more than $50 for
 the first offense, and not more than $100 for the second or subsequent offense
 within a year.
       (2)   The owner of any snowmobile shall be guilty of violating §
@@ -3461,24 +3273,6 @@ ordinance, each violation of §
 74.31 subjects the individual to a fine of $100.
 (Ord.49, passed 6-8-1897; Ord. 312, passed 1-14-1975; Res. 2018, passed 7-2-
 2018; Ord. 712, passed 2-3-2025)
-CHAPTER 75: TRAFFIC SCHEDULES
-Schedule
-      
-I.   Permitted truck routes
-SCHEDULE I. PERMITTED TRUCK ROUTES.
-   The following streets are designated as truck routes and carry a speed limit
-of 15 mph for trucks and farm tractors, except as noted below:
-   (A)   Fourth Street west from County Highway 105 to Depot Avenue;
-   (B)   Main Street between Fourth Street and Fifth Street;
-   (C)   Depot Avenue between Second and Fourth Street;
-   (D)   Granite Avenue between Second Street and Essex Avenue;
-   (E)   Essex Street between Granite Avenue and Railroad Avenue;
-   (F)   Railroad Avenue between Essex Street and Dows Street;
-   (G)   Dows Street from State Highway 11 east to Center Avenue; and
-   (H)   From State Highway 11 east to Main Street (Fifth Street Extension),
-except from State Highway 11 east to the Split Rock Bridge, which shall carry a
-speed limit of 40 mph for trucks and farm tractors.
-(Res. 94-16, passed 7-11-1994)
 TITLE IX: GENERAL REGULATIONS
    Chapter
       
@@ -3486,7 +3280,7 @@ TITLE IX: GENERAL REGULATIONS
       
 91.   STREETS AND SIDEWALKS
       
-92.   FAIR HOUSING
+92.   RESERVED
       
 93.   PARKS AND RECREATION
       
@@ -4284,14 +4078,14 @@ current policy is that the adjoining property owner shall pay 100% of the curb
 and gutter cost and/or blacktop and blacktop laying costs only.
       (2)   This only applies to streets that are developed as of the signing
 of this section. All other costs associated with such a project, including
-Engineering costs and any other incidental costs as there might be, shall be
-paid by the city.
+Engineering costs and any other incidental costs as there might be, may be paid
+by the city.
    (B)   When a street is already paved and curb and gutter is installed for
 the first time, the street shall be redone according to the engineering
 recommendations. This section shall not apply where special funds have been
 designed and are available for specific curb, gutter, and/or blacktop
 installation.
-(Res. passed 5-10-1993)
+(Res. passed 5-10-1993; Ord. 717, passed 5-5-2025)
 § 91.03 STREET DEDICATIONS AND WIDTH REQUIREMENTS.
    The following conditions shall govern the designation and minimum street
 right-of-way and roadway widths.
@@ -4329,36 +4123,17 @@ Minor           32 feet
 Statutory reference:
    Related provisions, see SDCL Chapter 11-3 and 11-4 generally
 § 91.04 OBSTRUCTION OF ROADWAYS AND PUBLIC WALKS.
-   (A)   It shall be unlawful for any person to encumber or obstruct any
-street, public walk, alley, or other public grounds by placing thereon any
-lumber, wood, stone or other material thereby interrupting and discommoding the
-use thereof for passage or travel; and also it shall be unlawful for any person
-to leave place or stand any wagon, sleigh, or other vehicle or any horse, mule,
-or other animal on any public street, alley, or other public grounds so as to
+   It shall be unlawful for any person to encumber or obstruct any street,
+public walk, alley, or other public grounds by placing thereon any lumber,
+wood, stone or other material thereby interrupting and discommoding the use
+thereof for passage or travel; and also it shall be unlawful for any person to
+leave place or stand any wagon, sleigh, or other vehicle or any horse, mule, or
+other animal on any public street, alley, or other public grounds so as to
 interrupt and obstruct the use of the same for passage and travel; and also it
 shall be unlawful for any person to lead, drive, or ride any horse, mule, or
 other animal, whether attached to a vehicle or not, upon or across any
 sidewalk, except at a crossing constructed in the same.
-   (B)   It shall be lawful for the owner or occupant of premises adjoining any
-sidewalk to construct and maintain a crossing therein, provided that said
-crossing shall be at the surface height of said sidewalk and the same shall be
-constructed and maintained in the manner and of such material as the Committee
-on Streets shall direct.
-   (C)   It shall be unlawful for any person who shall deposit any manure, dead
-animal, or any animal or vegetable matter within the corporate limits of the
-city or shall deposit any dirt, ashes, rubbish, or manure on any street, walk,
-or public grounds or shall fill up or otherwise obstruct the free course of
-water in any sewer, drain or gutter, or shall dig, remove, or carry away any
-stone, sand, earth, or ground from any street, alley, or public ground, or
-cause the same to be done without permission from the City Council.
-   (D)   It shall be lawful for any person or persons for the purpose of
-repairing or erecting building or buildings to occupy a reasonable portion of
-the street in front of his or her or their premises with building material
-necessary for erecting or repairing the same, but said person or persons shall
-cause the excess of such material and accumulated rubbish to remove from said
-portion of the street whenever it becomes unnecessary for the same to remain
-therefor the aforesaid purpose of repairing or building.
-(Ord. 6, passed 11-27-1891) Penalty, see §
+(Ord. 6, passed 11-27-1891; Ord. 715, passed 6-2-2025)  Penalty, see §
 91.99
 **** SNOW REMOVAL ****
 § 91.15 DUTY TO NOTIFY REMOVAL BY CITY.
@@ -4452,18 +4227,8 @@ specific penalty is prescribed shall be subject to §
 10.99 of this code of ordinances.
    (B)   (1)   Any person offending against any of the provisions contained in
 §
-91.04(A) shall pay a fine of not less than $5 and costs of suit for each
-offense.
-      (2)   Persons found in conviction of the acts set forth in §
-91.04(C) without permission from City Council shall pay a fine of not less than
-$5 and costs of each offense.
-      (3) Any of such person or persons neglect or refuse to remove such excess
-or rubbish within forty eight hours after being notified by the City Marshal,
-to remove the same, then the City Marshal may cause the same to be removed at
-the expense of such person or persons and in addition thereto upon a conviction
-of offending against the provisions of §
-91.04(D) shall pay a fine of not less than $5 and costs.
-      (4)   The police justice may, in default of any fine and costs imposed by
+91.04 shall pay a fine of not less than $5 and costs of suit for each offense.
+      (2)   The police justice may, in default of any fine and costs imposed by
 him or her upon any person for violating any of the provisions contained in §
 91.04, commit such person to jail for not more than 20 days.
    (C)   Violation of §§
@@ -4471,454 +4236,15 @@ him or her upon any person for violating any of the provisions contained in §
 91.16(C) is a misdemeanor, and any persons convicted of such shall pay a fine
 of $25, plus a $50 removal fee.
 (Ord. 6, passed 11-27-1891; Res. 2020-06, passed 3-2-2020)
-CHAPTER 92: FAIR HOUSING
-Section
-   
-92.01   Purpose
-   
-92.02   Definitions
-   
-92.03   Unlawful practices; discrimination; violations
-   
-92.04   Fair Housing Board
-   
-92.05   Filing complaints
-   
-92.06   Hearings, enforcement, and remedies
- 
-   
-92.99   Penalty
-§ 92.01 PURPOSE.
-   It is hereby declared to be the policy of the city and the purpose of this
-chapter, in the exercise of its police and regulatory powers for the protection
-of the public safety, for the health, morals, safety, and welfare of the
-persons in and residing in the city, and for the maintenance and promotion of
-commerce, industry, and good government in the city, to secure all persons
-living and/or working or desiring to live and/or work in the city a fair
-opportunity to purchase, lease, rent, or occupy real estate without
-discrimination based on race, color, religion, sex, age, marital status,
-physical limitations, source of income, family responsibilities, educational
-association, sexual orientation, or national origin.
-(Ord. 366, passed 2-1-1982)
-§ 92.02 DEFINITIONS.
-   For the purposes of this chapter, the following definitions shall apply
-unless the context clearly indicates or requires a different meaning.
-   AGE. Chronological age.
-   BOARD. The Fair Housing Board.
-   CITY COUNCIL. The City Council of Garretson.
-   EDUCATION ASSOCIATION. The state of being enrolled or not being enrolled at
-any educational institution.
-   FAMILY RESPONSIBILITIES. The state of being or the potential to become a
-contributor to the support of an individual or individuals in a dependent
-relationship.
-   LEASE. Includes sublease, assignment, and rental, and includes any contract
-to do any of the foregoing in this definition.
-   LENDING INSTITUTION. Any bank, insurance company, savings and loan
-association, or any other person in the business of lending money or
-guaranteeing loans, any person of obtaining, arranging, or negotiating loans or
-guarantees as agent or broker, and any person in the business of buying or
-selling loans or instruments for the payment of money which are secured by
-title to or a security interest in real estate.
-   MARITAL STATUS. The state of being married, unmarried, divorced, a widow, or
-widower.
-   NATIONAL ORIGIN. Includes the national origin of an ancestor.
-   OWNER. Any person who holds legal or equitable title to, owns any beneficial
-interest in any real property, who holds legal or equitable title to shares of,
-or who holds any beneficial interest in any real estate cooperative which owns
-any real property.
-   PANEL. A panel comprised of three or more members of the Board, designated
-by the Chairman of the Board, to investigate and to attempt to conciliate a
-complaint filed or made under §§
-92.04 through
-92.06.
-   PERSON. Includes one or more individuals, corporations, partnerships,
-associations, legal representatives, mutual companies, unincorporated
-organizations, trusts, trustees, trustees in bankruptcy, receivers, and
-fiduciaries.
-   PHYSICAL LIMITATION. A limitation of physical capabilities unrelated to
-one’s ability to safely perform the work involved in jobs or positions
-available to such person for hire or promotion or a limitation of physical
-capabilities unrelated to one’s ability to acquire, rent, and maintain
-property. PHYSICAL LIMITATION includes, but is not limited to, blindness or
-partial sightedness, deafness or hearing impairment, muteness, partial or total
-absence of physical member, speech impairment, and motor impairment.
-   PURCHASE. Includes any contract to purchase.
-   REAL ESTATE AGENT. Any real estate broker, any real estate salesperson, and
-any other person who, as employee or agent or otherwise, engages in the
-management or operation of any real property.
-   REAL ESTATE BROKER. Any person licensed as a real estate broker in
-accordance with the provisions of SDCL Chapter 36-21A, or required thereby to
-be so licensed.
-   REAL ESTATE TRANSACTION. The purchase, sale, exchange, rental, or lease of
-any real property, or an option to do any of the foregoing.
-   REAL PROPERTY. Any real estate, vacant land, building, or structure, or any
-part thereof, within the city limits.
-   SALE. Any contract to sell, exchange, or to convey, transfer, or assign
-legal or equitable title to, or a beneficial interest in real property.
-   SEXUAL ORIENTATION. Any male or female homosexuality, heterosexuality, or
-bisexuality, by preference or practice.
-   SOURCE OF INCOME. Any legal source from which a person obtains money.
-(Ord. 366, passed 2-1-1982)
-§ 92.03 UNLAWFUL PRACTICES; DISCRIMINATION; VIOLATIONS.
-   (A)   Discriminatory terms. It shall be an unlawful housing practice and a
-violation of this chapter for any real estate broker, salesperson, agent,
-owner, or other person to sell or rent, or offer to sell or rent a real
-property on terms, conditions, or privileges that discriminate between persons
-because of race, color, religion, sex, age, marital status, physical
-limitations, source of income, family responsibilities, educational
-association, sexual orientation, or national origin.
-   (B)   Refusal to negotiate. It shall be an unlawful real estate practice and
-a violation of this chapter for any real estate broker, salesperson, agent,
-owner, or other person to refuse to negotiate for, enter into, or perform any
-sale or lease of any real property because of the race, color, religion, sex,
-age, marital status, physical limitations, source of income, family
-responsibilities, educational association, sexual orientation, or national
-origin.
-   (C)   Withholding housing. It shall be an unlawful real estate practice and
-a violation of this chapter for any real estate broker, salesperson, agent,
-owner, or other person to represent to any person that any real property is not
-available for inspection, purchase, sale, lease, or occupancy when in fact it
-is so available, or otherwise to hold real property from any person because of
-race, color, religion, sex, age, marital status, physical limitations, source
-of income, family responsibilities , educational association, sexual
-orientation, or national origin.
-   (D)   Advertisements, signs, and notices. It shall be an unlawful real
-estate practice and a violation of this chapter for any real estate broker,
-salesperson, agent, owner, or other person to publish or circulate a statement,
-advertisement, or notice or to post or erect any sign or notice upon any real
-property indicating any intent to sell or lease any real property in a manner
-that is unlawful under §§
-92.04 through
-92.06.
-   (E)   Refusal of offers. It shall be an unlawful real estate practice and a
-violation of this chapter for any real estate broker, salesperson, agent, or
-other person to refuse to receive or to fail to transmit a bona fide offer for
-the purchase, sale, exchange, or lease of any real property because of the
-race, color, religion, sex, age, marital status, physical limitations, source
-of income, family responsibilities, educational association, sexual
-orientation, or national origin of person making such an offer.
-   (F)   Discrimination in lending. It shall be an unlawful real estate
-practice and a violation of this chapter for any lending institution to refuse
-to negotiate for, enter into, or perform any agreement to lend or guarantee the
-loan of funds or in making, agreeing to make, arranging, or negotiating any
-loan or guarantee of funds for the purpose of financing the purchase or sale,
-construction, lease, rehabilitation, improvement, renovation, or repair of any
-real property, or to offer or agree to terms, conditions, or privileges that
-discriminate between persons because of race, color, religion, sex, age,
-marital status, physical limitations, source of income, family
-responsibilities, educational association, sexual orientation, or national
-origin of any party to such agreement, or of any member of the family of any
-such party, or of the residents of the area in which such real property is
-located.
-   (G)   Representation. It shall be an unlawful real estate practice and a
-violation of this chapter for any real estate broker, salesperson, agent,
-owner, or other person, for the purpose of inducing any other person to enter
-into a real estate transaction with such person, his or her principal, or his
-or her agent, to:
-      (1)   Represent that a change has occurred, will occur, or may occur with
-respect to race, color, religion, sex, age, marital status, physical
-limitations, source of income, family responsibilities, educational
-association, sexual orientation, or national origin in the composition of the
-owners or occupants in any block, neighborhood, or area in which the real
-property (which is the subject of the real estate transaction) is located; or
-      (2)   Represent that a change with respect to the race, color, religion,
-sex, age, marital status, physical limitations, source of income, family
-responsibilities, educational association, sexual orientation, or national
-origin in the composition of the owners or occupants in any block,
-neighborhood, or area will result in the lowering of property values, or in an
-increase in criminal or antisocial behavior, or in a decline in the quality of
-schools in such blocks, neighborhood, or area.
-   (H)   Other violations. It shall be an unlawful real estate practice and a
-violation of this chapter for any real estate broker, salesperson, agent,
-owner, or any other person to:
-      (1)   Aid, abet, incite, or coerce a person to commit an unlawful real
-estate practice under this chapter;
-      (2)   Purchase, lease, or rent real estate for residential purposes, or
-authorize and direct one in his or her employment or on his or her behalf to do
-so, or solicit any other person to do so on his or her behalf for the specific
-reason and intention of preventing any other person or persons from purchasing,
-renting, leasing, or occupying such residential real estate by reason of the
-race, color, religion, sex, age, marital status, physical limitations, source
-of income, family responsibilities, educational association, sexual
-orientation, or nation origin of such person or persons;
-      (3)   Deliberately and knowingly refuse examination of copies of any
-listing of real property in the city to any person because of race, color,
-religion, sex, age, marital status, physical limitations, source of income,
-family responsibilities, educational association, sexual orientation, or
-national origin;
-      (4)   Enter into a listing agreement which prohibits the inspection,
-sale, lease, or occupancy of real property to any person because of race,
-color, religion, sex, age, marital status, physical limitations, source of
-income, family responsibilities, educational association, sexual orientation,
-or national origin;
-      (5)   Knowingly and willfully interfere with the performance of a duty or
-the exercise of a power by the Board or one of its members or representatives;
-and/or
-      (6)   Willfully obstruct or prevent or attempt to obstruct or prevent a
-person from complying with the provisions of this chapter or an order issued
-thereunder.
-(Ord. 366, passed 2-1-1982)
-§ 92.04 FAIR HOUSING BOARD.
-   (A)   There is hereby created a Fair Housing Board which shall consist of
-the City Council and Mayor.
-   (B)   The Board shall have and exercise the following duties and powers:
-      (1)   To act to eliminate unlawful real estate practices that violate
-this chapter;
-      (2)   To act to assure to persons living, working, or desiring to live or
-work in the city an opportunity to purchase, lease, or occupy real property
-without discrimination because of race, color, religion, age, sex, marital
-status, physical limitations, source of income, family responsibilities,
-educational association, sexual orientation, or national origin;
-      (3)   To receive and investigate complaints alleging unlawful real estate
-practices in violation of this chapter;
-      (4)   To attempt elimination of unfair real estate practices by
-conciliation, conference, and/or persuasion;
-      (5)   To hold public hearings in the event that its efforts under
-division (B)(4) above are ineffective, or where it deems that such efforts will
-be ineffective;
-      (6)   To instruct the City Attorney to commence appropriate court action
-against those the Board has found to be in violation of this chapter;
-      (7)   To recommend to the state’s Real Estate Board suspension and/or
-revocation of licenses of real estate brokers in accordance with the
-requirements of this chapter;
-      (8)   To render from time to time, but not less than every 12 months, a
-written report to the City Council of its activities and recommendations with
-respect to fair real estate practices, which written reports shall be made
-public after submission to the City Council; and
-      (9)   To exercise such other powers as are vested in the Board by other
-sections of this chapter and to adopt such rules and regulations as may be
-necessary to carry out the purposes of this chapter.
-(Ord. 366, passed 2-1-1982)
-§ 92.05 FILING COMPLAINTS.
-   (A)   The following procedures will be used to accomplish the purpose of
-Title VIII of the Civil Rights Act of 1968:
-      (1)   The city shall inform all of its employees of the city’s commitment
-to equal opportunity housing;
-      (2)   The city shall direct all employees to forward immediately to the
-Chairperson of the City Council any reports they receive of housing
-discrimination; and
-      (3)   The Chairperson shall forward such complaints to the state’s
-Division of Human Rights within ten days of receipt of said complaint.
-   (B)   Any person aggrieved in any manner of any violation of any provision
-of this chapter may file with the Board a written verified complaint setting
-forth his or her grievance. The complaint shall state:
-      (1)   The name and address of the complaint;
-      (2)   The name and address of the person against whom the complaint is
-brought, if known to the complainant;
-      (3)   The alleged facts surrounding the alleged violation of this chapter
-(and date); and
-      (4)   Such complaint shall state the names and addresses of all persons
-believed to have knowledge concerning the alleged facts.
-   (C)   After the filing of any complaint, the Board shall serve a copy of the
-complaint on the party or parties charged, and the Chairperson of the Board
-shall designate a panel, as defined in §
-92.02, to make a prompt investigation in connection therewith.
-   (D)   If such panel shall determine, after such investigation, that probable
-cause exists for the allegations of the complaint:
-      (1)   The Chairperson of the Board shall set a time and date for a
-conference with the Board; said conference shall be private; and
-      (2)   At such conference, the Board shall interview the complainant and
-the person or persons against whom the complaint has been directed, and shall
-attempt to resolve the complaint by all proper methods of conciliation and
-persuasion.
-   (E)   If, at any time after the date of filing of the complaint, the Board
-shall determine that such attempt at conciliation and persuasion would not be
-in furtherance of the objectives of this chapter, the Board shall thereupon
-proceed promptly to a full hearing on the complaint in accordance with §
-92.06.
-(Ord. 366, passed 2-1-1982; Res. 98-01-04, passed 1-12-1998)
-§ 92.06 HEARINGS, ENFORCEMENT, AND REMEDIES.
-   (A)   Such hearings shall be conducted by the entire Board or a quorum
-thereof upon ten days’ notice to all parties. The Board shall not be bound by
-the strict rules of evidence prevailing in courts of law or equity. The Board
-shall have power to administer oaths and to take sworn testimony. The Board
-shall have the power to subpoena witnesses and pertinent documents, which power
-may be enforced by the Board by proper petition to the District Court of the
-county where the complainant resides. The complainant and any party alleged to
-have violated this chapter shall be entitled to be represented by counsel and
-shall have the right to call witnesses on his or her own behalf and to cross-
-examine witnesses.
-   (B)   If, upon all the evidence at the hearing, the Board finds that the
-person complained of has violated any of the provisions of this chapter, the
-Board shall state its findings of fact and shall issue and cause to be served
-upon such person, and order requiring such person to cease and desist from such
-violation, and to take such affirmative or other action as, in the judgment of
-the Board, will effectuate the purpose of this chapter, including a report of
-the manner of compliance.
-   (C)   If, upon all the evidence at the hearing, the Board finds that the
-person complained of has not violated any of the provisions of this chapter,
-the Board shall state its findings of fact and shall issue and cause to be
-served upon the complainant an order dismissing the complaint.
-   (D)   The Board shall retain jurisdiction of the case until it is satisfied
-the person to whom the order was directed has complied. The order of the Board
-and its findings of fact shall be issued within 30 days after the filing of the
-complaint and shall be delivered to the complainant, the person charged, and
-the Mayor of the city.
-   (E)   The Board shall be empowered at the conclusion of the proceedings held
-under division (A) above to instruct the City Attorney to do any one or more of
-the following:
-      (1)   To institute and prosecute proceedings in a court of competent
-jurisdiction to enforce against any person found in violation of this chapter
-the penalty or penalties provided for in §
-90.99 below;
-      (2)   To apply to any court of competent jurisdiction for:
-         (a)   An order restraining any person from violating any provision of
-this chapter; or
-         (b)   Such other future relief as may seem to the court appropriate
-for the enforcement of this chapter and for the elimination of violations
-hereof.
-      (3)   To petition or institute proceedings with the state’s Real Estate
-Board for the purpose of causing the Real Estate Board to revoke, suspend, or
-refuse to renew the license granted by such Board to any real estate broker or
-real estate salesperson found to have violated any provision of this chapter.
-   (F)   The Board is also empowered at the conclusion of such proceedings to
-recommend to the state’s Real Estate Board suspension and/or revocation of the
-broker’s license of any broker licensed by the state’s Real Estate Board
-against whom a complaint shall have been filed and who shall have been a party
-to any proceedings thus filed and found guilty of violating any applicable
-provisions of this chapter.
-   (G)   Any complaint filed hereunder with the Board must be filed within 60
-days after the alleged discriminatory practice occurred or it shall be barred.
-   (H)   Any person aggrieved in any manner by the violation of any provision
-of this chapter who has exhausted the remedies provided in §
-92.05 and division (A) above may apply to any court of competent jurisdiction
-for appropriate relief from such violation, including:
-      (1)   An order compelling compliance with this chapter;
-      (2)   An order to prohibit any person found by the court to have violated
-any provision of this chapter from the sale, lease, exchange, transfer,
-conveyance, or assignment of any dwelling or housing which is the subject of
-such violation;
-      (3)   An order requiring specific performance of any contract for the
-sale, lease, exchange, transfer, conveyance, or assignment of any dwelling or
-housing, by any person who in violation of this chapter refuses or fails to
-perform such contract;
-      (4)   Compensatory damages and, if appropriate, punitive damages; and/or
-      (5)   Such other and further relief as may seem appropriate to the court
-for the enforcement of this chapter and the elimination of violations thereof.
-   (I)   Any complainant under this chapter may apply to a court of competent
-jurisdiction for an order temporarily prohibiting any transaction affecting the
-real property which is the subject of the complainant’s pending complaint under
-this chapter prior to final determination by the Board where the owner of said
-property is one of the parties complained of.
-   (J)   Any party, complainant, or person aggrieved by an order of the Board
-shall have the right to obtain judicial review of such order.
-§ 92.99 PENALTY.
-   Any person violating any provision of this chapter may, in addition to
-revocation or suspension of the license herein required or in lieu thereof, be
-fined not more than $100 or be imprisoned for not more than 30 days, or both.
-(Ord. 366, passed 2-1-1982)
+CHAPTER 92:  [RESERVED]
 CHAPTER 93: PARKS AND RECREATION
 Section
-Park Rules and Regulations
    
-93.01   Camping in Splitrock Park
-   
-93.02   Waste disposal
-   
-93.03   Camping curfew
-   
-93.04   Campfires
-   
-93.05   Picnic shelters
-   
-93.06   Animals in parks
-   
-93.07   Reserved
-   
-93.08   Camping and shelter fees
-Garretson Swimming Pool
-   
-93.20   Control of pool
-   
-93.21   Maintenance of pool road
-**** PARK RULES AND REGULATIONS ****
-§ 93.01 CAMPING IN SPLITROCK PARK.
-   (A)   All campers must register upon arrival. Campers that are not
-registered by 10:00 p.m. will be asked to leave.
-   (B)   Camping in front half of park is allowed only in established camping
-spots, as indicated by numbered pads. There can be up to two additional tents
-per spot. Daily non-refundable camping fees for these spots and any additional
-tents shall apply as adopted by resolution of the City Council, which shall be
-on file in the office of the City Finance Officer.
-   (C)   Camping in north end of park will be for tent camping only. There will
-be numbered sites, and only four tents per site are allowed. All tents must be
-within reasonable distance from the numbered pole. Daily non-refundable camping
-fees for these spots and any additional tents shall apply as adopted by
-resolution of the City Council, which shall be on file in the office of the
-City Finance Officer.
-   (D)   Campers are allowed to camp at Splitrock Park for a maximum of five
-consecutive days.
-   (E)   Special arrangements can be made for large group camping. Groups
-should contact City Hall at (605)594-6721, located at 705 Main Avenue, or the
-City Park Ranger on duty.
-(Ord. 525, passed 6-10-1998)
-§ 93.02 WASTE DISPOSAL.
-   All campers must deposit their garbage in the main dumpster located near the
-bathroom facilities.
-(Ord. 525, passed 6-10-1998) Penalty, see §
-10.99
-§ 93.03 CAMPING CURFEW.
-   (A)   The city has a curfew policy set out in §
-130.01. If any questions, please contact the city park ranger or the police
-officer on duty.
-   (A)   Courtesy "lights out" policy by 11:00 p.m. Any loud or out of control
-groups or individuals will be asked to obey policy on first warning, and asked
-to leave on the second warning.
-(Ord. 525, passed 6-10-1998) Penalty, see §
-10.99
-§ 93.04 CAMPFIRES.
+93.01   Campfires
+§ 93.01 CAMPFIRES.
    Campfires are allowed only in designated campfire spots.
 (Ord. 525, passed 6-10-1998) Penalty, see §
 10.99
-§ 93.05 PICNIC SHELTERS.
-   Reservations will be accepted and enforced for the picnic shelter. All
-reservations must be made through the Splitrock Park Information Center at 594-
-3805 or City Hall at 594-6722. A reservation fee shall apply as adopted by
-resolution of the City Council, which shall be on file in the office of the
-City Finance Officer. Said fee is non-refundable.
-(Ord. 525, passed 6-10-1998)
-§ 93.06 ANIMALS IN PARKS.
-   (A)   All animals must be on a leash at all times, according to §
-90.02.
-   (B)   Horses are allowed in the park on maintained roads only.
-(Ord. 525, passed 6-10-1998) Penalty, see §
-10.99
-§ 93.07 RESERVED.
-§ 93.08 CAMPING AND SHELTER FEES.
-   (A)   The City Council shall establish the fees for camping and reserving
-the picnic shelter for the city. Said fees provided by the city shall be kept
-on file at the office of the City Finance Officer as follows.
-   (B)   The non-refundable camping fee shall be as follows per day:
-      (1)   Tent spots: $15 per spot per day with $10 per day per additional
-tent, with a limit of two additional tents per spot;
-      (2)   Electrical spots: $22 per spot per day with $10 per day per
-additional tent, with a limit of two additional tents per spot;
-      (3)   Organized non-profit youth groups (e.g., Boy Scouts/Girl Scout
-Troops): All fees at half-price with a minimum two night stay; and
-      (4)   The picnic shelter fee shall be as follows: There shall be a $30
-per day non-refundable fee for reserving the picnic shelter.
-(Res. 2020-07, passed 3-2-2020)
-**** GARRETSON SWIMMING POOL ****
-§ 93.20 CONTROL OF POOL.
-      The city will lease the Garretson Swimming Pool from the Garretson
-Community Foundation, Inc. for the sum of $1 and will assume temporary total
-control of the Garretson Swimming Pool effective immediately and until
-terminated or amended by either party. This control will be under the above
-requested conditions with the additional condition that the City Council will
-have final decision making authority over the actions for the appointed Pool
-Board. Additionally, the city will provide proper financial accounting and
-provide necessary and prudent insurance coverage for the operation of the
-Garretson Swimming Pool. All donations or receipts received in support of the
-Garretson Swimming Pool will be retained within the General Fund and dedicated
-solely to the operation and support of the Garretson Swimming Pool.
-(Res. 00-05-01, passed 5-8-2000)
-§ 93.21 MAINTENANCE OF POOL ROAD.
-   The city, as part of the annual support of the Garretson Pool, will maintain
-the gravel road providing ingress and egress to the pool. The maintenance of
-the gravel road will consist of grading/blading and filling holes as required.
-The maintenance of the gravel road will only be done during the months the pool
-is open.
-(Res., passed 6-14-1993)
 CHAPTER 94: FIRE PREVENTION; FIREWORKS
 Section
 General Provisions
@@ -5065,15 +4391,42 @@ General Provisions
 95.06   Inhabitable buildings and properties
    
 95.07   Remedies and abatement
-Trees and Other Foliage
+Nuisance Plants
    
-95.20   Trees; pruning for sidewalk clearance
+95.20   Definitions
    
-95.21   Lawns; responsibility to mow grasses
+95.21   Authority administration; planting, maintenance, and removal of trees;
+public safety
    
-95.22   Weeds
+95.22   Pruning trees; minimum clearance
    
-95.23   Diseased vegetation
+95.23   Tree diseases and interference with utilities
+   
+95.24   Nuisances; notice to owners; notice content; premise inspection
+   
+95.25   Nuisances; removal costs and collection
+   
+95.26   Cost assessment; records
+   
+95.27   Interference by individuals
+   
+95.28   Boulevard trees
+   
+95.29   Distances
+   
+95.30   Limited areas
+   
+95.31   Appeal
+   
+95.32   Duty of owners
+   
+95.33   Notice to comply
+   
+95.34   Action upon non-compliance
+   
+95.35   Removal costs
+   
+95.36   Cost assessed
  
    
 95.99   Penalty
@@ -5365,99 +4718,166 @@ lieu of taxing the cost by special assessment.
 (Ord. 581, passed 4-9-2007)
 Statutory reference:
    Related provisions, see SDCL §§ 21-10-5, 21-10-6
-**** TREES AND OTHER FOLIAGE ****
-§ 95.20 TREES; PRUNING FOR SIDEWALK CLEARANCE.
+**** NUISANCE PLANTS ****
+§ 95.20 DEFINITIONS.
+   For the purpose of this subchapter, the following definitions shall apply
+unless the context clearly indicates or requires a different meaning.
+   BOULEVARD TREES. The trees and all other wood vegetation on land lying
+between the right-of-way lines of all streets, avenues, alleys or other public
+right-of-way within the city.
+   TREE AGENT. Whoever has been authorized to act as an agent of the city for
+this subchapter.
+(Ord. 716, passed 5-5-2025)
+§ 95.21 AUTHORITY ADMINISTRATION; PLANTING, MAINTENANCE, AND REMOVAL OF TREES;
+PUBLIC SAFETY.
+   The Mayor and City Council, through its tree agent, has the authority to
+actively seek available grants for the purchase and maintenance of trees.
+(Ord. 716, passed 5-5-2025)
+§ 95.22 PRUNING TREES; MINIMUM CLEARANCE.
    (A)   It shall be the duty of any person or persons owning or occupying real
-property bordering on any street or alley, upon which property there may be
+property bordering on any street or alley upon which property there may be
 trees, to prune such trees in such manner that they will not obstruct or shade
 the street lights, obstruct the passage of pedestrians on sidewalks, obstruct
 vision of traffic signs, or obstruct view of any street or alley intersection,
 except where such service are provided for by utility firms.
    (B)   The minimum clearance for any overhanging portion thereof over a
-sidewalk shall be eight feet whenever practicable, and shall be 14 feet over
-all alleys and streets, except truck thoroughfares when the clearance shall be
-16 feet, unless otherwise designated by the City Council.
-(Ord. 561, passed 6-14-2004)
-§ 95.21 LAWNS; RESPONSIBILITY TO MOW GRASSES.
-   Vacant lots that need to be mowed are the responsibility of the owners of
-the property. The city will mow them at a charge of $10 per hour with a $10
-minimum.
-(Ord. 314, passed 6-14-2004)
-§ 95.22 WEEDS.
-   (A)   The following named weeds shall be deemed noxious, dangerous and
-unhealthful vegetation, and are hereby declared to be nuisances, to-wit: rag-
-weed; parsley; pig-weed; nettle; thistle; sunflower; goldenrod; tumbleweed;
-burdock; cockle-burs; wild-oats; stick-tight; milk-weed; and mustard greens.
-   (B)   It shall be unlawful for the owner or occupant of any lot or parcel of
-land within the city to grow, suffer, or allow to grow during the months of
-June, July, August, and September on such lot or parcel of land any of the
-vegetation described in division (A) above.
-   (C)   The growth of weeds or plants declared to be primary or secondary
-noxious weeds by the state Weed and Pest Control Commission, all weeds declared
-to be locally noxious by the City Council, and all other weeds and grasses
-growing upon any real property in the city to a height greater than eight
-inches, or which have gone or are about to go to seed, or the dense growth of
-brush or grasses which may constitute a health, safety, or fire hazard, shall
-be deemed noxious, dangerous, and unhealthful vegetation and are hereby
-declared to be a nuisance. Fallen tree limbs, diseased or dead trees, and dead
-tree limbs shall also be declared dangerous and a nuisance; provided, however,
-that vegetation that is not a primary or secondary noxious weed and is being
-grown as hay for livestock consumption, as a native prairie display garden, or
-as a wildflower display garden, or other nature areas, so long as the same are
-approved to be used as such by the City Council, shall not constitute a
+sidewalk shall be eight feet whenever practicable and shall be 14 feet over all
+alleys and streets except truck thoroughfares where the clearance shall be 16
+feet, unless otherwise designated by the City Council.
+   (C)   The minimum horizontal clearance for any overhanging vegetation that
+would obstruct the use of a sidewalk shall be six inches.
+(Ord. 716, passed 5-5-2025)
+§ 95.23 TREE DISEASES AND INTERFERENCE WITH UTILITIES.
+   No tree shall be allowed to harbor any safety hazard to the general public,
+whether that tree be public or private, or to harbor any insect, disease or
+other pest that would be injurious or fatal to any tree in the city. Such trees
+include those injurious to sewer, water, electrical, telephone or gas lines,
+and those interfering with traffic and traffic control devices and signs, those
+obstructing light from any streetlight and those that are dead or have broken
+or dead limbs that are unsafe.
+(Ord. 716, passed 5-5-2025)
+§ 95.24 NUISANCES; NOTICE TO OWNERS; NOTICE CONTENT; PREMISE INSPECTION.
+   Any hazard as described in §
+95.23 shall be declared a nuisance by the Code Enforcement Officer and within
+15 days of written notice of said nuisance, the same shall be corrected by the
+owner or person in possession of said tree.
+(Ord. 716, passed 5-5-2025)
+§ 95.25 NUISANCES; REMOVAL COSTS AND COLLECTION.
+   (A)   The entire cost of any abatement of a public nuisance as defined in
+this chapter on trees on any public street, alley, park or other public place,
+except boulevards, shall be borne by the city. The cost of removing trees on
+private property and on boulevards shall be borne by the property owner.
+   (B)   In the event the owner, occupant or person fails to comply with the
+resolution and order of the City Council to remove said nuisance, the city
+shall cause said nuisance to be removed and shall either submit the costs
+incident to said service and removal to the Finance Officer for certification
+to the Minnehaha County Auditor for collection with and in the same manner as
+general property taxes.
+(Ord. 716, passed 5-5-2025)
+§ 95.26 COST ASSESSMENT; RECORDS.
+   The Finance Officer shall keep a strict account of all costs of tree
+removals and other nuisances abated under this subchapter in the event
+assessments are necessary.
+(Ord. 716, passed 5-5-2025)
+§ 95.27 INTERFERENCE BY INDIVIDUALS.
+   It shall be unlawful for any person to hinder, prevent, delay, or interfere
+with the City Council or any member thereof or authorized agent of City Council
+while engaged in carrying out the execution or enforcement of this subchapter,
+provided, however, that nothing herein shall be construed as an attempt to
+prohibit the pursuit of any remedy, legal or equitable, in any court of
+competent jurisdiction for the protection of property rights by the owner of
+any property within the municipality.
+(Ord. 716, passed 5-5-2025)
+§ 95.28 BOULEVARD TREES.
+   The care, maintenance, pruning and removal of trees planted on any city
+boulevard, after the planting thereof has been approved by the city, shall
+continue to be the responsibility of the private property owner or his
+successor who has planted the tree.
+(Ord. 716, passed 5-5-2025)
+§ 95.29 DISTANCES.
+   Trees planted on or near public ground and boulevards shall comply with the
+following distance regulations:
+   (A)   No tree shall be planted where the distance between any two man-made
+improvements, such as curb and sidewalks, is less than five feet.
+   (B)   No trees shall be planted or permitted to grow so close to any curb,
+sidewalk or public structure or improvement, such that it interferes with
+vehicular traffic or parking, pedestrian movement along the walkway or such
+that it touches or crowds the public structure or improvement.
+   (C)   No tree shall be planted within 50 feet of the center of any
+intersection.
+   (D)   No tree shall be planted within 15 feet of any fireplug or water
+hydrant.
+   (E)   No tree shall be planted so that its natural growth will eventually
+interfere with any aboveground utility wire.
+   (F)   No tree shall be planted within five feet of any underground water,
+sewer or other utility line.
+(Ord. 716, passed 5-5-2025)
+§ 95.30 LIMITED AREAS.
+   Any area that is otherwise unable to meet the minimum requirements set forth
+in §
+95.29 may plant other vegetation that will not interfere with the
+infrastructure.
+(Ord. 716, passed 5-5-2025)
+§ 95.31 APPEAL.
+   Any person or organization may appeal any decision or request a variance
+from this subchapter to the City Council, who shall render a final decision on
+the matter. Any person or organization may request from the City Council a
+variance from this code, who shall render a final decision on the matter.
+(Ord. 716, passed 5-5-2025)
+§ 95.32 DUTY OF OWNERS.
+   (A)   No owner of any lot, place or area within the city or the agent of
+such owner or the occupant of such lot, place or area, permit on such lot,
+place or area or upon any sidewalk abutting the same any weeds, grass or
+deleterious or unhealthful growths or other noxious matter as defined by the
+State Weed and Pest Control Board that may be growing, lying or located
+thereon, and the growing of such weeds or other noxious or unhealthful
+vegetation is hereby declared to be a nuisance.
+   (B)   Grass in excess of eight inches of length shall be declared a
 nuisance.
-(Ord. 100, passed 12-8-1910; Ord. 581, passed 4-9-2007) Penalty, see §
-95.99
-Statutory reference:
-   Related provisions, see SDCL § 9-32-12
-§ 95.23 DISEASED VEGETATION.
-   (A)   Any owner, occupant, or person in charge of any property under the
-jurisdiction of the city shall remove at his or her own expense any trees,
-brush, wood, or debris infected with Dutch Elm disease or other infestations or
-infectious disease found thereon when so notified by the city to do so. The
-City Council shall cause to be mailed to such owner, occupant, or person,
-written notice that he, she, or they may appear before the said City Council at
-an appointed time not less than 14 days from the date of mailing of said
-written notice to show cause why said trees, brush, wood, or debris should not
-be declared a public nuisance.
-   (B)   At said meeting, the City Council may resolve and declare the same to
-be a public nuisance and may order its removal by said owner, occupant, or
-person within 21 days from the date of service of said resolution and order on
-said owner, occupant, or person.
-   (C)   (1)   Any diseased vegetation stored in the city shall be debarked or
-covered with four to six mil clear plastic from April 1 to October 1, such
-plastic to be sealed by placing all edges in a three to four-inch trench
-covered with soil.
-      (2)   In addition, any diseased vegetation which is removed and not
-stowed in accordance with the provisions of this section shall be properly
-disposed of by burning or burying in a designated disposal site.
-(Ord. 581, passed 4-9-2007) Penalty, see §
-95.99
-Statutory reference:
-   Related provisions, see SDCL § 9-32-12
+(Ord. 716, passed 5-5-2025)
+§ 95.33 NOTICE TO COMPLY.
+   The Code Enforcement Officer of the city is hereby authorized to notify in
+writing the owner of any such lot, place, or area within the city or the agent
+of such owner or the occupant of such premises, to cut, destroy, or remove any
+such weeds, grass or deleterious or unhealthful growths or other noxious matter
+found growing, lying or located on such property or upon the sidewalk abutting
+same. Such notice shall be by certified mail addressed to said owner, agent, or
+occupant at his or her known address.
+(Ord. 716, passed 5-5-2025)
+§ 95.34 ACTION UPON NON-COMPLIANCE.
+   Upon failure, neglect or refusal of any owner, agent, or occupant so
+notified to comply with said notice within ten days after the mailing thereof,
+city employees are hereby authorized to provide for the cutting, destroying, or
+removal of such weeds, grass or deleterious unhealthful growths or other
+noxious matter and to defray the cost of the destruction thereof by special
+assessment against the property.
+(Ord. 716, passed 5-5-2025)
+§ 95.35 REMOVAL COSTS.
+   If the owner or occupier of the land fails to cut the weeds, as provided for
+in the preceding section, the city shall cut, maintain, or kill the vegetation.
+The cost to the landowner shall be determined by the number of employees needed
+and the amount of time each employee spends on the removal. The rate may be up
+to $50 per hour and per person.
+(Ord. 716, passed 5-5-2025)
+§ 95.36 COST ASSESSED.
+   The Code Enforcement Officer, utilities employee, or authorized agent shall
+cause an account to be kept against each lot for the destruction of noxious
+weeds upon said lot as herein provided and the same certified to the Finance
+Officer upon the completion of the work in destroying such weeds and abating
+said nuisance. The Finance Officer shall certify said account showing the
+amount, the description of the property, and the owner thereof to the City
+Assessor who shall thereupon add such assessment to the general assessment
+together with the regular assessment to the County Auditor to be collected as
+municipal taxes for general purposes. Said assessment shall be subject to
+review and equalization the same as an assessments or taxes for general
+purposes.
+(Ord. 716, passed 5-5-2025)
 § 95.99 PENALTY.
-   (A)   Any person violating any provision of this chapter for which no
-penalty is prescribed shall be subject to §
+   Any person violating any provision of this chapter for which no penalty is
+prescribed shall be subject to §
 10.99 of this code of ordinances.
-   (B)   (1)   Any person who creates, commits, maintains, or fails to abate a
-public nuisance as required under the provisions of §§
-95.01 through
-95.06,
-95.22(C) and
-95.23 shall be subject to a maximum penalty or 30 days in jail or $200 fine, or
-both. A separate offense shall be deemed committed on each day during or on
-which a violation occurs or continues. In addition, the city may also use the
-remedies of civil action and abatement as set forth in SDCL §§ 21-10-5 through
-21-10-9.
-      (2)   If the property owner does not mow his, her, or their property
-within a week of being informed that their property needs mowing, the city will
-mow the property and charge the property owner by the prices stated in §
-95.21.
-      (3)   Any person violating any of the provisions of §
-95.22(B), upon conviction thereof, be fined in a sum not to exceed $25 for each
-offense.
 (Ord. 100, passed 12-8-1910; Ord. 314, passed 6-14-2004; Ord. 581, passed 4-9-
-2007)
+2007; Ord. 715, passed 6-2-2025)
 TITLE XI : BUSINESS REGULATIONS
    Chapter
       
@@ -5467,11 +4887,11 @@ TITLE XI : BUSINESS REGULATIONS
       
 112.   SEXUALLY-ORIENTED BUSINESS
       
-113.   AMUSEMENTS
+113.   RESERVED
       
 114.   CABLE COMMUNICATIONS
       
-115.   NOVEL CORONAVIRUS (COVID- 19)
+115.   RESERVED
       
 116.   CANNABIS ESTABLISHMENTS
 CHAPTER 110: ALCOHOLIC BEVERAGES
@@ -5582,32 +5002,23 @@ to it while the vehicle is in motion.
 (Ord. 549, passed 3-11-2002) Penalty, see §
 10.99
 § 110.03 CONSUMPTION IN PUBLIC PLACES.
-   (A)   It shall be unlawful for any person to possess or consume any
-alcoholic beverage, within the corporate limits of the city within one mile of
-the corporate limits, in any public place; except that possession and
-consumption will be lawful within the confines of a licensed on-sale
-establishment as provided by law and possession will be lawful with any package
-that is properly sealed in accordance to §
-110.02. PUBLIC PLACE shall mean any place, whether within or without a
-building, any street, highway, alley, sidewalk or parking lot, commonly and
-customarily open to or used by the general public, whether open or closed to
-the public, unless approved by the City Council.
-   (B)   The sale and consumption of alcoholic beverages on a sidewalk or
-walkway subject to a public right-of-way abutting a licensed premises is
-permitted provided that the license holder derives more than 50% of its gross
-receipts from the sale of prepared food for consumption on the licensed
-premises. The sidewalk or walkway subject to a public right-of-way shall be
-immediately adjacent to and abutting the licensed premises. This section does
-not apply to any federal aid-eligible highway unless approved in accordance
-with the applicable requirements for the receipt of federal aid. The sidewalk
-or walkway subject to a public right-of-way where the sale and consumption of
-alcoholic beverages is permitted does not constitute a public place as defined
-in SDCL § 35-1-5.3, if the sidewalk or walkway subject to a public right-of-way
-has been properly authorized for sale and consumption of alcoholic beverages.
-The hours of authorized sale and consumption on the sidewalk or walkway subject
-to a public right-of-way, as provided by this section, shall be consistent with
-the hours permitted for the on-sale license.
-(Ord. 549, passed 3-11-2002; Ord. 592, passed 5-11-2009) Penalty, see §
+   The sale and consumption of alcoholic beverages on a sidewalk or walkway
+subject to a public right-of-way abutting a licensed premises is permitted
+provided that the license holder derives more than 50% of its gross receipts
+from the sale of prepared food for consumption on the licensed premises. The
+sidewalk or walkway subject to a public right-of-way shall be immediately
+adjacent to and abutting the licensed premises. This section does not apply to
+any federal aid-eligible highway unless approved in accordance with the
+applicable requirements for the receipt of federal aid. The sidewalk or walkway
+subject to a public right-of-way where the sale and consumption of alcoholic
+beverages is permitted does not constitute a public place as defined in SDCL §
+35-1-5.3, if the sidewalk or walkway subject to a public right-of-way has been
+properly authorized for sale and consumption of alcoholic beverages. The hours
+of authorized sale and consumption on the sidewalk or walkway subject to a
+public right-of-way, as provided by this section, shall be consistent with the
+hours permitted for the on-sale license.
+(Ord. 549, passed 3-11-2002; Ord. 592, passed 5-11-2009; Ord. 715, passed 6-2-
+2025) Penalty, see §
 10.99
 § 110.04 GENERAL; MINORS.
    It shall be unlawful for any person under the age of 21 to purchase, attempt
@@ -6064,117 +5475,7 @@ City Attorney may, by civil process, seek permanent abatement of said nuisance.
    A violation of this chapter shall be punishable by a fine of up to $200 or
 30 days in jail, or both, for each offense.
 (Ord. 526, passed 8-12-1998)
-CHAPTER 113: AMUSEMENTS
-Section
-Public Dances
-   
-113.01   License required
-   
-113.02   Obtaining license; fees
-   
-113.03   Age restrictions
-   
-113.04   Restrictions to non-profit organizations; licensing
-   
-113.05   Supervision
-   
-113.06   Required lighting
-**** PUBLIC DANCES ****
-§ 113.01 LICENSE REQUIRED.
-   It shall be unlawful for any person or persons, firm or corporation to
-conduct, operate, or carry on any public dance, or keep or maintain a dance
-hall or place for public dances within the city, or within one mile from the
-outer boundary of the same, without first obtaining from the city a permit and
-license therefor.
-(Ord. 151, passed 9-4-1923) Penalty, see §
-10.99
-§ 113.02 OBTAINING LICENSE; FEES.
-   (A)   Any person or persons, firm or corporation desiring to conduct or
-carry on, maintain, or operate any public dance in the city or within one mile
-from the outer boundary of the same, shall make application to the Mayor for
-permission therefor, which application shall state the location of the room,
-place or hall, the name of the person or persons intending to operate the same;
-if a firm or co-partnership, the name of the persons constituting the same; and
-if a corporation, the names of the president, secretary, and treasurer thereof;
-and which application shall further state the length of time which said person
-or persons, firm or corporation desire to engage in said business; which
-application so received by the Mayor, shall, if for one month or less, be
-approved or rejected by him or her; but if for more than one month, shall be
-with his or her recommendation, thereon, presented to the City Council at its
-next regular meeting, or as soon thereafter as he or she conveniently can do
-so.
-   (B)   If said application is acted upon favorably by the Mayor in cases
-where application is for one month or less; or where application is for more
-than one month, said application is acted upon favorably by a majority vote of
-the City Council, then the City Auditor shall issue a license to said applicant
-for the length of time stated in said application upon payment of the license
-fee hereinafter, provided to be paid by such applicant.
-   (C)   The amount required to be paid for a permit or license for the
-conducting, operating, or maintaining of any public dance hall in the city, or
-within one mile from the outer boundary of the same, shall be as follows: $3
-for one day; $5 for one week; $10 for one month; and $25 for one year.
-   (D)   Which sum shall be paid into the city treasury and, upon presentation
-of a receipt of such sum by the applicant from the City Treasurer, the City
-Auditor shall issue a license to the applicant for the period of time which
-said receipt shows to have been paid for.
-(Ord. 151, passed 9-4-1923)
-§ 113.03 AGE RESTRICTIONS.
-   It shall be unlawful for any person conducting a street dance in the city to
-permit or allow any person under the age of 16 years unaccompanied by his or
-her parent, step-parent, or legally appointed guardian to enter or remain
-within the boundary designated for holding the street dance; it shall be
-unlawful for any person under the age of 16 years unaccompanied by his or her
-parent, step parent, or legally appointed guardian to enter or remain within
-the boundary designated for holding the street dance.
-(Ord. 431, passed - -) Penalty, see §
-10.99
-§ 113.04 RESTRICTIONS TO NON-PROFIT ORGANIZATIONS; LICENSING.
-   Street dances held within the city or within one mile from the outer
-boundary of the city shall be conducted by non-profit organizations only. Each
-sponsoring organization must obtain a license prior to each event. The fee of
-such license shall be $50 due with application. The sponsoring organization
-must submit proof of liability insurance to the city before such an event can
-take place and adhere to all implemented street dance policies, as set forth by
-the City Council.
-(Ord. 557, passed 8-11-2003)
-§ 113.05 SUPERVISION.
-   (A)   It shall be the duty of the person or persons, firm or corporation, or
-manager in charge of any public dance or dance hall to suffer, permit, and
-allow any member of the police force of the city, the Mayor, or any member of
-the City Council, or any matron or plainclothes officer employed by the Mayor
-or City Council to enter such dance or dance hall within the city, or within
-one mile from the outer boundary of the same, at any or all times during the
-progress of the dance and to remove from such dance hall any person or persons
-found to be in an intoxicated condition or offending against morality or
-decency, or offending against the provisions of §
-113.03.
-   (B)   Further, it shall be the duty of the person or persons, firm or
-corporation, or manager in charge of any public dance or dance hall in the
-city, or within one mile of the outer boundary of the same, to employ one or
-more matrons, plainclothes officers, police officers, or both, to supervise the
-conduct of the participants in attendance at the public dance, and the said
-matrons, plainclothes officers, or police officers shall be appointed specially
-by the Mayor for said duty, and shall have all the powers and duties of a
-regularly appointed police officer, but shall be paid a salary by the person or
-persons, firm or corporation, or manager in charge of said public dance or
-dance hall, but the amount of said salary shall be specified by the Mayor.
-(Ord. 151, passed 9-4-1923) Penalty, see §
-10.99
-§ 113.06 REQUIRED LIGHTING.
-   It shall be the duty of the person or persons, firm or corporation, or
-manager in charge of such public dance or dance hall in the city, or within one
-mile from the outer boundary of the same, to provide adequate illumination for
-the purposes of lighting all the adjoining grounds used by the participants or
-attendants at such dance or dance hall, and all of said grounds adjoining said
-dance or public dance hall or used in connection therewith shall be lighted
-during the time that any dance or dances shall be conducted, except dances in
-the day time. It shall be unlawful for any person or persons, firm or
-corporation, or manager in charge of such dance or dance hall in the city, or
-within one mile from the outer boundary of the same, to allow or permit dancing
-in said dance hall in the night time with dimmed or extinguished lights, or to
-use the dance commonly called “The Moonlight Dance.”
-(Ord. 151, passed 9-4-1923) Penalty, see §
-10.99
+CHAPTER 113: [RESERVED]
 CHAPTER 114: CABLE COMMUNICATIONS
 Section
    
@@ -6571,90 +5872,7 @@ law.
 area, including door to door sales, notwithstanding any peddler or solicitor
 laws or regulations to the contrary.
 (Ord. 660, passed - -2020)
-CHAPTER 115: NOVEL CORONAVIRUS (COVID-19)
-Section
-   
-115.01   Definitions
-   
-115.02   Licensed food service entities
-   
-115.03   Recreational facilities, athletic facilities, health clubs, and
-entertainment venues
-   
-115.04   All businesses
-   
-115.05   Locations within city limits
- 
-   
-115.99   Penalty
-§ 115.01 DEFINITIONS.
-   For the purpose of this chapter, the following definitions shall apply
-unless the context clearly indicates or requires a different meaning:
-   PATRON. A customer of any business defined in §§
-115.02 or
-115.03 and does not include the owners, employees or staff of any such
-business.
-   PARTY and PARTIES. Groups of six or fewer adult patrons. Minors are allowed
-and not included in party limits.
-   PREMISES. The business building, structure or any portion thereof together
-with the parking lot, patio and other outdoor seating area for such business.
-   SEATING. Patron seating at tables, counters and bars.
-   SOCIAL DISTANCING. Separation of at least six feet between party seating
-arrangements.
-(Ord. 656, passed 5-5-2020)
-§ 115.02 LICENSED FOOD SERVICE ENTITIES.
-   (A)   All licensed food service entities, including, but not limited to,
-restaurants, food courts, coffee houses, bars, breweries, distilleries,
-wineries, clubs, cafes and other similar places of public accommodation
-offering food and beverages for on-site consumption, including any alcohol
-licensees with on-sale privileges, shall be permitted to allow patrons into
-their businesses, so long as the maximum number of patrons allowed upon the
-business’ premises at any given time shall not exceed the greater of the
-following:
-      (1)   Ten patrons; or
-      (2)   The number of patrons for which the business can provide seating to
-all parties which is no less than six feet apart from other parties.
-   (B)   Businesses included in this section may not serve any single group of
-patrons larger than a party, as defined herein.
-(Ord. 656, passed 5-5-2020)
-§ 115.03 RECREATIONAL FACILITIES, ATHLETIC FACILITIES, HEALTH CLUBS, AND
-ENTERTAINMENT VENUES.
-   All recreational facilities, athletic facilities, health clubs, and
-entertainment venues shall be permitted to allow patrons into their businesses,
-so long as the maximum number of patrons allowed upon the business’ premises at
-any given time shall not exceed the greater of the following:
-   (A)   Ten patrons; or
-   (B)   Fifty percent of the business’ occupant load as determined by the City
-Fire Marshal or the City Planning and Development Office pursuant to the
-business’ applicable occupancy classification.
-(Ord. 656, passed 5-5-2020)
-§ 115.04 ALL BUSINESSES.
-   All businesses, including those not listed in §§
-115.02 or
-115.03 are expected to maintain social distancing between parties and should
-implement or continue to implement procedures to ensure compliance with federal
-and state health guidance in order to prevent the spread of COVID-19.
-(Ord. 656, passed 5-5-2020)
-§ 115.05 LOCATIONS WITHIN CITY LIMITS.
-   This chapter shall apply to all locations within the city limits as defined
-in this code of ordinances.
-(Ord. 656, passed 5-5-2020)
-§ 115.99 PENALTY.
-   (A)   Any person in violation of this chapter is subject to the general
-penalty provision listed in §
-10.99.
-   (B)   In addition to the penalties provided for §
-10.99, any person and/or business entity violating the provision of this
-chapter may be enjoined from continuing the violation. Notwithstanding the
-previous sentence, any violation of this chapter by any business licensed under
-SDCL Title 35, shall, following a hearing as required by SDCL § 35-2-11.1,
-result in a mandatory recommendation to the State Secretary of Revenue that
-such business’ license by suspended or revoked for such violation. In the event
-that the hearing requirement of SDCL § 35-2-11.1 is waived or otherwise
-suspended pursuant to gubernatorial action pursuant to SDCL § 34-48-5, then
-such recommendation will be made without a hearing. Each day a violation of
-this chapter is allowed to occur is considered a separate offense.
-(Ord. 656, passed 5-5-2020)
+CHAPTER 115: [RESERVED]
 CHAPTER 116: CANNABIS ESTABLISHMENTS
 Section
    
@@ -6958,24 +6176,11 @@ TITLE XIII: GENERAL OFFENSES
 130.   GENERAL OFFENSES
 CHAPTER 130: GENERAL OFFENSES
 Section
-General Provisions
    
 130.01   Curfew for minors
-   
-130.02   Loitering
-   
-130.03   Disorderly assembly
-Gambling
-   
-130.20   Underage gambling
-   
-130.21   Places of conduct
-   
-130.22   Nuisance
  
    
 130.99   Penalty
-**** GENERAL PROVISIONS ****
 § 130.01 CURFEW FOR MINORS.
    (A)   Hours for minors under 16. No minor under the age of 16 years of age
 shall be or remain in or upon any public street, alley, park, playground,
@@ -7028,147 +6233,12 @@ parent, guardian, or other adult person having the care and custody of the
 person.
 (Ord. 513, passed - -; Ord. 594, passed 12-14-2009) Penalty, see §
 130.99
-§ 130.02 LOITERING.
-   (A)   Any person who shall be found loitering around any railroad depot or
-grounds in the city, unless such a person is for the time being engaged in some
-business demanding his or her presence at such depot or grounds, or who shall
-bunk or sleep in any railroad car without leave of the yard master or persons
-in charge of such car, or who shall habitually bunk in any public place without
-visible means of support, or without being engaged in lawful business, or who
-shall sleep or bunk in any stable or outhouse, or in any premises not his or
-her own without leave, or who shall sleep or bunk in any public place or
-schoolhouse without leave of the person in charge thereof, shall, upon
-conviction, be fined.
-   (B)   Each and every able bodied male person over the age of 16 and not over
-the age of 50 years (blind and other infirm persons excepted) who shall loaf or
-lounge about within the corporate limits of the city begging support soliciting
-alms, and each and every one of that class of persons commonly known as
-vagrants or tramps who live without labor or any visible means of support and
-who will not work when offered employment at reasonable and ordinary wages,
-found or staying within the corporate limits of the city are each and every one
-guilty of a misdemeanor and, upon conviction thereof, before any justice of the
-peace having jurisdiction thereof shall be fined.
-   (C)   Whenever any person is convicted and imprisoned pursuant to the
-judgment of any Justice of the Peace having jurisdiction thereof for the
-violation of any of the provisions of division (B) above and sentenced by said
-justice to hard labor such labor may be performed upon the public streets,
-highways, or about public buildings, grounds, or at such other public place
-within the corporate limits of said city and during such hours of the day as
-the person in charge may direct, and not exceeding ten hours per day.
-   (D)   The Chief of Police, or such other person as the City Council shall
-empower, shall superintend the performance of the labor herein contemplated and
-shall furnish tools and material, if necessary, to work with, at the expense of
-the city. Such labor shall be performed under the direction of the City Council
-and in accordance with such regulations as it may make.
-   (E)   (1)   The officer having charge of any prisoner for the purposes
-specified in division (C) above may use such means and no more than are
-necessary to prevent escape either while going to, returning from, while at
-labor at any time; or if he or she refuses to labor the officer having him or
-her in charge may, to secure such prisoner or to cause him or her to labor, use
-all reasonable means to enforce the observance of discipline, and may cause
-such person to be kept in solitary confinement not more than ten days for any
-one offense; and during such solitary confinement he or she may be fed on bread
-and water unless other food is necessary for his or her health.
-      (2)   Such imprisonment for refusal to work shall be inflicted within the
-jail or jail enclosure and shall not be considered any part of the time for
-which the prisoner is sentenced, but in no event shall the imprisonment exceed
-50 days.
-   (F)   The officer having the prisoner in charge shall protect him or her
-from insults, annoyances, and communications with others while at labor and
-going to and returning from same, and he or she may use such means as is
-necessary and proper therefor.
-(Ord. 16, passed 8-11-1892; Ord. 52, passed 5-7-1899) Penalty, see §
-130.99
-§ 130.03 DISORDERLY ASSEMBLY.
-   (A)   It shall be unlawful for any person to be in a disorderly assembly of
-people. DISORDERLY ASSEMBLY being defined as an assembly of two or more
-persons, some or all of whom are engaged in conduct or activities which
-threatens public peace or safety, causes serious public inconvenience,
-annoyance, or alarm to any other person, or creates a risk thereof, by fighting
-or violent or threatening behavior, making unreasonable noise, loud or profane
-language, disturbing any lawful assembly or meeting of persons without lawful
-authority, obstructing vehicular or pedestrian traffic, or littering or
-breakage or destruction of property.
-   (B)   It shall also be unlawful for any person to intentionally disobey a
-lawful order to move, disperse, vacate, leave the premises of a disorderly
-assembly, or to cease and refrain from any of the activities specified in
-division (A) above.
-(Ord. 440, passed 9-12-1994) Penalty, see §
-130.99 
-**** GAMBLING ****
-§ 130.20 UNDERAGE GAMBLING.
-   (A)   It shall be unlawful for any person under the age of 21 years to
-loiter about or within any poolroom, billiard hall, or any building in which
-any games of pool, billiards, cards, or other games of like character take
-place.
-   (B)   It shall be unlawful for any owner, proprietor, manager, or employee
-of any owner, proprietor or manager of any pool hall, billiard hall, or any
-other such building in which such games are played within the city, to allow
-persons under the age of 21 years to play any of said games in any of said
-places, or buildings, or to allow persons under said age to be in, loiter, or
-loaf about said places.
-(Ord. 60, passed 10-19-1901) Penalty, see §
-130.99
-§ 130.21 PLACES OF CONDUCT.
-   (A)   Any persons who shall play a roulette, chuck-a-luck, poker, monte, or
-any other gambling game or game of chance where money or any article of value
-is staked shall, upon conviction thereof, be fined.
-   (B)   No person or persons shall keep, own, or conduct a house, shop, or
-place resorted to for the purpose of gambling, nor permit or suffer any person
-in any house, shop, or place under his or her or their control to play at
-cards, dice, faro, keno, roulette, equality, or other games for money, other
-things, or things representing money or property, or allow any other gambling
-game or game of chance where money, other property, or things representing
-money is staked.
-(Ord. 16, passed 8-11-1892; Ord. 78, passed 3-7-1907) Penalty, see §
-130.99
-§ 130.22 NUISANCE.
-   (A)   The following matters, things, erections, substances, and articles,
-and the same are hereby declared to be nuisances; viz: all gambling tables;
-devices; boards; cards; dice; dice boxes used in games or upon which are played
-any games of chance for money; or other property representing money or
-property.
-   (B)   Police officers and other officers of the police force are hereby
-authorized and required to go into and upon any house, shop, or other place in
-the city for the purpose of abating any nuisance, and any police officer or
-other officer of the police force in the city who are authorized or enjoined to
-arrest any person or persons for the violation of the provisions of division
-(A) above are equally authorized and enjoined to seize and take any deck of
-cards, dice, or other articles or apparatus suitable to be used for gambling
-purposes found in the possession or under the control of person or persons so
-arrested, and to deliver the same to the magistrate before whom the person so
-arrested is required to be taken; and any gambling device brought before said
-court shall be destroyed.
-(Ord. 78, passed 3-7-1907)
 § 130.99 PENALTY.
-   (A)   Any person violating any provision of this chapter for which no
-specific penalty is prescribed shall be subject to §
+    Any person violating any provision of this chapter for which no specific
+penalty is prescribed shall be subject to §
 10.99 of this code or ordinances.
-   (B)   (1)   Any person convicted of loitering as described in §
-130.02(A) shall be fined in any sum not exceeding $100; and in default of
-payment of said fine may be compelled to work upon the public streets at the
-rate of $1.25 per day and board for each ten hours work thereof, until said
-fine is fully satisfied, and costs.
-      (2)   Any person convicted of the misdemeanor described in §
-130.02(B) shall be fined not less than $5, nor more than $50, to be paid into
-the city treasury for the use of city; and in default thereof, to be imprisoned
-in the city jail not less than three days, nor more than 50 days, at hard labor
-or not, as the court before whom such conviction is had may direct.
-      (3)   Any person persisting in insulting, annoying, or communicating with
-such prisoner, as described in §
-130.02(F), after having been commanded by the officer to desist, shall be
-guilty of a misdemeanor and, upon conviction thereof, shall be punished by a
-fine not exceeding $10 or by imprisonment not exceeding ten days.
-   (C)   Anyone violating any of the provisions of §
-130.20 shall be deemed guilty of a misdemeanor and, upon conviction thereof, be
-fined in a sum not less than $5, nor more than $100.
-   (D)   (1) Any person convicted of the provisions described in §
-130.21(A) shall be fined in any sum not less than $10, nor more than $100.
-      (2)    Any person violating any of the provisions of §
-130.21(B) shall, upon conviction thereof, be fined in a sum not less than $25,
-nor more than $100.
 (Ord. 16, passed 8-11-1892; Ord. 52, passed 5-17-1899; Ord. 60, passed 10-19-
-1901; Ord. 78, passed 3-7-1907)
+1901; Ord. 78, passed 3-7-1907; Ord. 715, passed 6-2-2025)
 TITLE XV: LAND USAGE
    Chapter
       
@@ -7179,8 +6249,6 @@ TITLE XV: LAND USAGE
 152.   COMPREHENSIVE PLANNING
       
 153.   ZONING
-      
-154.   TRAILERS
 CHAPTER 150: BUILDING REGULATIONS
 Section
 General Provisions
@@ -7195,9 +6263,6 @@ Codes Adopted
 150.17   International Residential Building Code
    
 150.18   International Property Maintenance Code
-Fire Limits
-   
-150.30   Building permits
  
    
 150.99   Penalty
@@ -8558,7 +7623,7 @@ be placed on a level surface with a slope not to exceed 1:48. Where an access
 aisle is located immediately adjacent to a sidewalk that provides the closest
 accessible route, the sidewalk must be provided with a curb ramp access to
 serve the access aisle.
-[https://export.amlegal.com/media/97ce6b4ba7e038c4ed5347cda8bf4365ed4f5017/
+[https://export.amlegal.com/media/0fa07df1e8069ad21d700aa52ba4ea2793987df6/
 IMAGES/0-0-0-925.png]
  
 1107.6.2.2.1 Type A units. In Group R-2 occupancies containing more than 20
@@ -9245,16 +8310,6 @@ determined as set forth in 12 inches);
       (6)   Section 602.3 (September 1 to June 1); and
       (7)   Section 602.4 (September 1 to June 1).
 (Ord. 643, passed 8-5-2019)
-**** FIRE LIMITS ****
-§ 150.30 BUILDING PERMITS.
-   Any person desiring to erect, alter, or repair any building used for
-business purposes within the fire limits shall apply to the City Council for a
-permit for such purpose, and furnish a plan and written statement showing the
-location, dimensions, and manner of construction of the proposed building or
-structure; and if satisfied that such building alteration or repair is in
-compliance with the ordinance of the city, the City Council shall order the
-City Auditor to issue a permit for such proposed building alteration or repair.
-(Ord. 59, passed 8-20-1901)
 § 150.99 PENALTY.
    (A)   Any person violating any provision of this chapter for which no
 specific penalty is prescribed shall be subject to §
@@ -9776,286 +8831,6 @@ Section
    The city’s zoning regulations, and any and all amendments, are hereby
 adopted by reference and incorporated herein as if set out in full.
 (Ord. 646, passed 9-23-2019)
-CHAPTER 154: TRAILERS
-Section
-   
-154.01   Definitions
-   
-154.02   Location
-   
-154.03   Trailer court zoning
-   
-154.04   Trailer court specifications
-   
-154.05   Service buildings; Accommodations
-   
-154.06   Management
-   
-154.07   Fire protection
-   
-154.08   Licencing
-   
-154.09   Violation; license revocation and suspension
-§ 154.01 DEFINITIONS.
-   For the purpose of this chapter, the following definitions shall apply
-unless the context clearly indicates or requires a different meaning.
-   DEPENDENT TRAILER COACH. A trailer coach which does not have a toilet and a
-bathtub or shower.   
-   HEALTH OFFICER. The legally designated health authority or his or her
-authorized representative.
-   INDEPENDENT TRAILER COACH. A trailer coach that has a toilet and a bathtub
-or shower.
-   SERVICE BUILDING. A building housing toilet facilities for men and women,
-with service sink and laundry facilities and with separate bath or shower
-accommodations.
-   TRAILER COACH. Any structure used for living, sleeping, business, or storage
-purposes, having no foundation other than wheels, blocks, jacks, horses, or
-skirtings and which has been, or reasonably may be, equipped with wheels or
-other devices for transporting the structure from place to place, whether by
-motive power or other means. TRAILER COACH shall include camp car and house
-car.
-   TRAILER COACH SPACE. A plot of ground within a trailer court designated for
-the accommodation of one trailer coach, also called a TRAILER LOT.
-   TRAILER COURT. Any plot of ground upon which two or more trailer coaches,
-occupied for dwelling or sleeping purposes, are located.
-(Ord. 278, passed 2-1-1971)
-§ 154.02 LOCATION.
-   (A)   No person shall park any trailer coach on any street, alley, highway,
-or other public place, or on any tract of land occupied or unoccupied, except
-as provided in this chapter.
-   (B)   Emergency or temporary stopping or parking is permitted on any street,
-alley, or highway for not longer than four hours, subject to any other
-regulation imposed by the traffic and parking regulations.
-   (C)   Any occupied trailer coach used for sleeping or living purposes shall
-not be parked for any period overnight except in a trailer court.
-   (D)   No person shall park or occupy any trailer coach on the premises of
-any occupied dwelling or any lot which is not a part of the premises of any
-occupied dwelling, either of which is situated outside an approved trailer
-court, except the parking of only one unoccupied trailer coach in an accessory
-private garage building, or in a rear yard in any district, is permitted;
-provided, no living quarters shall be maintained or any business practiced in
-such trailer coach while so parked or stored. This division (D) does not apply
-to trailer sales or storage lots.
-   (E)   An occupied trailer coach, except as otherwise may herein or by other
-ordinance be provided, shall be parked only in an area zoned for trailer courts
-and in an established court duly licensed and a trailer court.
-(Ord. 278, passed 2-1-1971) Penalty, see §
-10.99
-§ 154.03 TRAILER COURT ZONING.
-   (A)   The City Council may, by special permit, after public hearing,
-authorize the location of a trailer court as a non-conforming use in any
-district from which a trailer court is prohibited by any zoning ordinance. Any
-special permit shall contain such rules and regulations as authorized by the
-City Council and shall expire by limitation and become null and void if the
-building, work, or use authorized by such special permit is not commenced
-within one year from the date of the issuance of the special permit and if a
-license is not issued for the maintenance of a trailer court if a license be
-required by this chapter or any other chapter. Notice of a hearing for the
-issuance of such special permit shall be given by publication one time in the
-city official newspaper, and no hearing shall be held less than seven days
-after the publication of such notice.
-   (B)   The request for establishing a location for a trailer court shall be
-made by petition in form as prescribed by the City Council and such petition
-shall be accompanied by a plot plan by a registered engineer, architect, or
-qualified planner, complete in detail and showing the following:
-      (1)   Location and legal description;
-      (2)   Entrance to and exits from the court;
-      (3)   Vehicular roadways, driveways, and pedestrian walks;
-      (4)   Design, showing size, and arrangement of trailer coach spaces and
-stands, location of roadways, service, and utility buildings;
-      (5)   Topography;
-      (6)   Area set aside for recreation, clothes washing and drying, storage,
-off-street parking and restrooms;
-      (7)   Fencing and screen planting on premises;
-      (8)   Provision for trash and garbage removal;
-      (9)   Gas, electric, and phone service connections to each space;
-      (10)   Provisions for lighting of roadways, driveways, and pedestrian
-walks;
-      (11)   Water and sewer availability and distribution lines to each space;
-and
-      (12)   Typical lot plan.
-(Ord. 278, passed 2-1-1971)
-§ 154.04 TRAILER COURT SPECIFICATIONS.
-   (A)   Every trailer court shall be located on a well-drained area and the
-premises shall be properly graded so as to prevent the accumulation of storm
-and other waters.
-   (B)   Areas shall be provided for parking of motor vehicles. Such areas
-shall accommodate at least the number of vehicles equal to the number of
-trailer coach spaces provided. If a plan is approved whereby parking area is
-provided next to the trailer coach, only the number of vehicles shall be parked
-next to a trailer coach as provided in the plot plan.
-   (C)   No trailer court shall be composed of an area of less than two acres.
-Each trailer coach space provided for the occupancy of a single mobile home
-unit shall have an area of not less than 5,000 square feet, and no trailer
-court shall be permitted an average density of trailer coach spaces of more
-than seven per acre.
-   (D)   All trailer courts shall provide trailer coach spaces sufficiently
-sized so that no trailer or any structure is located less than ten feet from
-the nearest adjacent boundary.
-   (E)   Space between trailers may be used for parking of motor vehicles if
-space is clearly designated and the vehicle is parked at least ten feet from
-the nearest adjacent boundary, and no more vehicles may be parked in such
-designated area than designated in the plot plan.
-   (F)   Each trailer coach space shall abut or face a clear unoccupied space,
-driveway, roadway, or street within the trailer court area of not less than 28
-feet in width, which shall have unobstructed access to a public highway,
-street, or alley.
-   (G)   The trailer court shall be surrounded by a landscaped strip of open
-space 50 feet wide along the street frontage of a major street and 25 feet wide
-along all other perimeter lines of the trailer court area.
-   (H)   In no instance shall a trailer court be created in an area where it
-would be completely surrounded by single family residences or a residential
-district, nor in an area where the entrance and exits would front on a single-
-family or residential district.
-   (I)   The trailer court shall be so planned and arranged that all trailer
-court spaces and accessory buildings shall have access only on an interior
-roadway within the trailer court. Any trailer coach spaces abutting a dedicated
-right-of-way shall be fenced and screen planted.
-   (J)   The City Council, before issuing any special permit, shall give due
-consideration to environmental factors involved in order that all livability
-may be secured and any adverse affects to surrounding property valued or uses
-must be considered by the City Council.
-   (K)   In considering livability, recognition shall be given to the setting
-of trailer coaches on lots, the availability of schools and shopping
-facilities, the nature of the abutting zone districts, and the zone district in
-which the trailer court is to be located.
-   (L)   Consideration shall be given to school district plan and density.
-   (M)   Signs shall be permitted only by consent of the City Council.
-   (N)   Each trailer coach shall be set back on its trailer coach space a
-minimum of 25 feet, have a minimum rear yard set back of 15 feet, and minimum
-side yard set back of ten feet, except where the trailer coach space is a
-corner lot the side yard set back abutting an interior thoroughfare shall be 25
-feet.
-   (O)   Wheels shall be removed from all trailer coaches. No permanent
-attachment shall be added to a trailer coach. No temporary buildings or parts
-of buildings shall be attached to or added to a trailer coach without first
-obtaining a license from the City Council. The City Council, or a committee
-composed of two Council members appointed by the Mayor annually with the
-consent of the Council, shall have authority to issue a license without hearing
-and for a fee not to exceed $5.
-   (P)   Clotheslines or the hanging of clothes on any trailer coach space
-shall not be permitted, and the trailer court shall provide a general area for
-clothes drying space.
-   (Q)   Accessory buildings and accommodations shall be as provided for by
-this chapter or the trailer court license.
-   (R)   All trailer coaches must be skirted with a suitable material approved
-by the City Council, and blocked with special jacks or other suitable
-equipment.
-   (S)   Each trailer coach space must provide separate telephone jacks, water
-and sewer hook-ups with shut-offs as approved by the City Council or the City
-Health Officer and the City Engineer, and separate electrical hook-ups. In the
-event overhead electrical power is to be used in the trailer court, a plan must
-be submitted and approved by the City Council, and in approving the plan, the
-City Council must give consideration to scenic beauty.
-   (T)   The operator, owner, and licensee of the trailer court shall be
-responsible and liable for all city taxes, assessments, and utility fees for
-service.
-   (U)   All waste from showers, toilets, laundries, faucets, and lavatories
-shall be wasted into a sewer system extended from and connected with the city
-sewer system. All plumbing shall comply with local and state laws.
-   (V)   Storage, collection, and disposal of refuse in the trailer court shall
-be so managed as to create no health hazards, rodent harborage, insect breeding
-areas, accident, or air pollution. All refuse shall be stored in fly-tight,
-water-tight, rodent-proof containers, which shall be provided in sufficient
-number and capacity to prevent any refuse from overflowing and placed as
-approved by the City Council. All containers shall be contained within a city-
-approved enclosure, which enclosure shall be upon a concrete slab or base.
-   (W)   All sewer and water utilities, other city utilities, roadways, and
-other items required by the special permit or license shall be constructed and
-maintained at the expense of the owner or licensee of the trailer court.
-(Ord. 278, passed 2-1-1971) Penalty, see §
-10.99
-§ 154.05 SERVICE BUILDINGS; ACCOMMODATIONS.
-   (A)   Each trailer court which maintains or allows a dependent trailer coach
-or coaches in the trailer court shall be provided with one or more service
-buildings adequately equipped with flush type toilet fixtures. No service
-building shall contain less than two toilets for females, one toilet for males,
-one lavatory and shower for each sex, one urinal for males, and one service
-sink.
-   (B)   Service buildings shall:
-      (1)   Be located 20 feet or more from any trailer coach space;
-      (2)   Be of permanent construction and adequately lighted;
-      (3)   Be of moisture resistant materials, to permit frequent washing and
-cleaning;
-      (4)   Have sufficient toilet and laundry facilities, according to
-requirements promulgated by the Health Officer, to serve adequately both males
-and females;
-      (5)   Have adequate-heating facilities and maintain a temperature of 70º;
-and maintain a minimum of three gallons of hot water per hour, per trailer
-court space during time of peak demands;
-      (6)   Have all rooms well ventilated with all openings effectively
-screened; and
-      (7)   Have at least one service sink, supplied with hot and cold water in
-a separate room.
-(Ord. 278, passed 2-1-1971)
-§ 154.06 MANAGEMENT.
-   It is hereby made the duty of the attendant or person in charge and the
-licensee to:
-   (A)   Maintain the trailer court in a clean, orderly, and sanitary condition
-at all times; and
-   (B)   See that the provisions of this chapter and all other applicable laws
-and ordinances are complied with and enforced, and report promptly to the
-proper authorities any violations thereof or any other violations of law which
-may come to his or her attention.
-(Ord. 278, passed 2-1-1971)
-§ 154.07 FIRE PROTECTION.
-   (A)   The trailer court area shall be subject to the rules and regulations
-of the Chief of the Fire Department or his or her duly authorized
-representative.
-   (B)   No temporary or permanent additions of any kind shall be built onto,
-or become a part of, any trailer coach except as provided by §
-154.04; provided skirting on trailer coaches is mandatory, but such skirting
-shall not permanently attach the trailer coach to the ground or create a fire
-hazard.
-   (C)   The wheels of the trailer coach shall be removed. Jacks, or other
-suitable equipment and stabilizers, shall be placed under the frame of the
-trailer coach to prevent movement on the springs while the trailer coach is
-parked and occupied.
-   (D)   Appliances using liquefied petroleum gas shall be installed and
-maintained in compliance with all state and local laws and ordinances.
-(Ord. 278, passed 2-1-1971) Penalty, see §
-10.99
-§ 154.08 LICENCING.
-   (A)   No person shall establish, operate, maintain, or permit to be
-established, operated, or maintained, upon any property owned or controlled by
-him or her a trailer court without having first secured a license therefor from
-the City Council. Such license shall expire on December 31 following issuance,
-but may be renewed as provided herein from year to year.
-   (B)   The application for such license or the renewal thereof shall be filed
-with the City Auditor, accompanied with the payment of a license fee of $3 for
-each trailer coach space in the existing or proposed trailer court.
-Applications for licenses shall be in writing and signed by the applicant, and
-contain the following:
-      (1)   The name and the address of the applicant;
-      (2)   The location and legal description of the trailer court;
-      (3)   A complete plan of the trailer court, showing compliance with all
-applicable provisions of this chapter and regulations promulgated thereunder;
-      (4)   Such further information as may be requested by the Health Officer
-to enable him or her to determine that the proposed trailer court will comply
-with legal requirements;
-      (5)   The area and dimensions of the tract of land;
-      (6)   The number, location, and size of all trailer coach spaces;
-      (7)   The location and width of roadways and walkways;
-      (8)   The location of service buildings and other proposed structures;
-      (9)   The location of water and sewer lines; and
-      (10)   Plans and specifications of all buildings and other improvements
-constructed or to be constructed within the trailer court.
-   (C)   Before such license may be issued, the premises must be inspected and
-approved by the City Council, Health Officer, Chief of Police, and the Chief of
-the Fire Department, or a duly authorized representative of the above named
-officials, as complying with the provisions of this chapter and other
-applicable ordinances.
-   (D)   Any such license may be transferred from one person to another upon
-written application of the holder thereof and with approval of the City
-Council.
-(Ord. 278, passed 2-1-1971) Penalty, see §
-10.99
-§ 154.09 VIOLATION; LICENSE REVOCATION AND SUSPENSION.
-   The City Council may revoke any license issued pursuant to this chapter if,
-after due hearing, it determines that the holder thereof has violated any of
-the provisions of this chapter, or that any trailer coach or trailer court is
-being maintained in an unsanitary or unsafe manner, or is a nuisance.
-(Ord. 278, passed 2-1-1971)
 TABLE OF SPECIAL ORDINANCES
 [Reserved]
 PARALLEL REFERENCES
@@ -10124,8 +8899,6 @@ Chapter 9-14            31.16
                         95.06
 9-32-10                 90.04,
                         95.02
-9-32-12                 95.22,
-                        95.23
 Chapter 9-34            111.21
 9-34-1                  90.22
 9-40-28                 90.52
@@ -10163,19 +8936,15 @@ Chapter 11-4            91.03
 21-10-1                 95.01
 21-10-3                 95.01
 21-10-5                 95.07
-21-10-5 through 21-10-9 95.99
 21-10-6                 95.07
 25-4-81.2               110.42
 32-3-2.4                74.30
 32-14-7                 72.01
-32-15-17                74.17
 32-15-20                74.03
-32-17                   74.03,
-                        74.17
+32-17                   74.03
 32-20-1(4)              74.30
 32-20-13                74.31
-32-24-9                 70.10,
-                        70.99
+32-24-9                 70.99
 Chapter 32-36           95.04
 32-36-2                 53.06
 34A-6-1.2               95.01
@@ -10186,80 +8955,72 @@ Chapter 32-36           95.04
                         116.10
 35-20G-1                116.02
 34-37-10                94.31
-34-48-5                 115.99
                         110.20 -
 Title 35                110.23,
                         115.99
 35-1-1                  35.05
 35-1-5.3                110.03
-35-2-11.1               115.99
 35-4-2(3)(5)            110.35
 35-4-2(4)(5)(6)(11)(14) 110.35
 35-4-81                 110.40,
                         110.42
 35-4-81.2               110.40
 35-9-2                  110.36
-Chapter 36-21           92.02
 38-8A-1-21              151.07
 40-2-7                  90.09
 49-16A-94               73.02
  
 REFERENCES TO RESOLUTIONS
+ 
 Res. No. Date Passed Code Section
-Res. No. Date Passed  Code Section
--        5-10-1993    91.02
--        6-14-1993    93.21
--        12-13-1993   32.08
-94-16    7-11-1994    Ch. 75, Schd. I
-94-29    11-14-1994   90.99 
-98-01-04 1-12-1998    92.05
-98-10-02 9-21-1998    50.24
-98-10-07 10-19-1998   34.16
-00-05-01 5-8-2000     93.20
-00-07-02 7-10-2000    52.04
-03-02-02 2-10-2003    31.20
-03-03-01 3-10-2003    52.41
-03-08-05 8-11-2003    35.02,
-                      35.01
-04-09    5-10-2004    33.02
-04-10    5-10-2004    33.01 
-2007-09  9-18-2007    33.03
-2008-15  8-11-2008    50.23,
-                      51.20
-2009-16  12-14-2009   52.42
-2010-02  1-11-2010    53.06
-2012-11  12-10-2012   91.17
-2014-02  2-10-2014    73.99
-2016-12  8-2-2016     32.05
-2017-06  4-3-2017     90.20,
-                      90.99
-2018-04  6-4-2018     33.01
-2018-12  7-2-2018     74.02
-2018-13  7-2-2018     74.99
-2018-17  9-10-2018    152.01
-2019-02  1-7-2019     150.01,
-                      150.99
-2019-03  2-4-2019     34.15
-2019-08  5-6-2019     31.16
-2019-10  5-6-2019     30.16
-2020-06  3-2-2020     91.99
-2020-07  3-2-2020     93.08
-2020-08  3-2-2020     72.99
-2020-20  7-6-2020     35.06
-2020-21  7-6-2020     51.21
-2020-22  7-6-2020     50.27
--        2--2021      52.41
-2023-5   3-13-2023    51.21
-2023-6   3-13-2023    50.27
-2024-4   2-5-2024     50.27
-2024-5   2-5-2024     51.21
-2024-8   2-5-2024     50.32
-2024-9   2-5-2024     50.33
-2024-16  5-6-2024     32.05
-2024-20  7-1-2024     32.09
-2025-22  12-1-2025  31.10 -
-                      31.12
-                     
+Res. No. Date Passed Code Section
+-        5-10-1993   91.02
+-        12-13-1993  32.08
+94-29    11-14-1994  90.99 
+98-10-02 9-21-1998   50.24
+98-10-07 10-19-1998  34.16
+00-07-02 7-10-2000   52.04
+03-02-02 2-10-2003   31.20
+03-03-01 3-10-2003   52.41
+03-08-05 8-11-2003   35.02,
+                     35.01
+04-09    5-10-2004   33.02
+04-10    5-10-2004   33.01 
+2007-09  9-18-2007   33.03
+2008-15  8-11-2008   50.23,
+                     51.20
+2009-16  12-14-2009  52.42
+2010-02  1-11-2010   53.06
+2012-11  12-10-2012  91.17
+2014-02  2-10-2014   73.99
+2016-12  8-2-2016    32.05
+2017-06  4-3-2017    90.20,
+                     90.99
+2018-04  6-4-2018    33.01
+2018-13  7-2-2018    74.99
+2018-17  9-10-2018   152.01
+2019-02  1-7-2019    150.01,
+                     150.99
+2019-03  2-4-2019    34.15
+2019-08  5-6-2019    31.16
+2019-10  5-6-2019    30.16
+2020-06  3-2-2020    91.99
+2020-08  3-2-2020    72.99
+2020-20  7-6-2020    35.06
+2020-21  7-6-2020    51.21
+2020-22  7-6-2020    50.27
+-        2--2021     52.41
+2023-5   3-13-2023   51.21
+2023-6   3-13-2023   50.27
+2024-4   2-5-2024    50.27
+2024-5   2-5-2024    51.21
+2024-8   2-5-2024    50.32
+2024-9   2-5-2024    50.33
+2024-16  5-6-2024    32.05
+2024-20  7-1-2024    32.09
+2025-22  12-1-2025   31.10 -
+                     31.12
+                    
  
 REFERENCES TO ORDINANCES
 Ord. No. Date Passed Code Section
@@ -10292,63 +9053,38 @@ Ord. No. Date Passed Code Section
                      91.99
 14       8-11-1892   10.16,
                      10.99
-                     130.02,
-16       8-11-1892   130.21,
-                     130.99
+16       8-11-1892   130.99
 25       9-16-1893   10.99
 31       7-8-1895    30.01
 49       6-8-1897    74.99
-50       7-8-1897    31.02
-52       5-7-1899    130.02,
-                     130.99
+50       7-8-1897    31.03
+52       5-7-1899    130.99
 55       5-22-1901   10.16,
                      10.99
-59       8-20-1901   150.30
-60       10-19-1901  130.20,
-                     130.99
-71       9-15-1904   150.30
-                     130.21,
-78       3-7-1907    130.22,
-                     130.99
-86       7-8-1908    70.03
+60       10-19-1901  130.99
+78       3-7-1907    130.99
 98       12-8-1910   73.01,
                      73.99
 99       12-8-1910   73.01,
                      73.99
-100      12-8-1910   95.22,
-                     95.99
+100      12-8-1910   95.99
                      94.16,
 119      1-8-1913    94.30,
                      94.99
-                     70.01 -
-144      8-2-1920    70.03,
-                     70.06,
-                     70.07
-                     113.01,
-151      9-4-1923    113.02,
-                     113.05,
-                     113.06
+144      8-2-1920    70.01,
+                     70.02
 159      5-4-1926    94.99
-194      9-14-1942   70.01 -
-                     70.09
-200      8-5-1946    70.27,
-                     70.99
-200.5    8-5-1946    70.25,
-                     70.99
-257      11-6-1967   70.10,
-                     70.99
+194      9-14-1942   70.01,
+                     70.02
+200      8-5-1946    70.99
+200.5    8-5-1946    70.99
+257      11-6-1967   70.99
 263      5-6-1968    94.02
-278      2-1-1971    154.01 -
-                     154.09
 303      10-1-1973   50.22
-                     74.15 -
-312      1-14-1975   74.17,
+312      1-14-1975   74.16,
                      74.99
 348      5-19-1980   94.30,
                      94.99
-                     92.01 -
-366      2-1-1982    92.05,
-                     92.99
 369      9-13-1982   73.02,
                      73.99
                      51.01,
@@ -10363,8 +9099,6 @@ Ord. No. Date Passed Code Section
                      94.99
 393      3-2-1987    71.03
 412A     1-30-1992   71.99
-440      9-12-1994   130.03
-510      8-12-1996   70.10
                      50.01 -
                      50.07,
                      50.20,
@@ -10375,8 +9109,7 @@ Ord. No. Date Passed Code Section
 509      9-16-1996   53.48
 511      9-16-1996   53.03,
                      53.99
-525      6-10-1998   93.01 -
-                     93.06
+525      6-10-1998   93.01 
                      112.01 -
 526      8-12-1998   112.08,
                      112.99
@@ -10403,21 +9136,16 @@ Ord. No. Date Passed Code Section
                      51.35,
 555      5-12-2003   51.37,
                      51.99
-557      8-11-2003   113.04
                      35.01 -
 558      8-11-2003   35.04,
                      35.99
-561      6-14-2004   95.20
-314      6-14-2004   95.21,
-                     95.99
+314      6-14-2004   95.99
 564      8-9-2004    110.42
 569      9-12-2005   53.99
 571      10-17-2005  35.02
 580      4-9-2007    35.05
                      95.01 -
-                     95.07,
-581      4-9-2007    95.22,
-                     95.23,
+581      4-9-2007    95.07,
                      95.99
 592      5-11-2009   110.03
 594      12-14-2009  130.01
@@ -10428,9 +9156,8 @@ Ord. No. Date Passed Code Section
 606      1-9-2012    94.31
 612      4-8-2013    50.25,
                      50.29
-                     71.01,
-614      11-11-2013  72.03,
-                     70.04
+614      11-11-2013  71.01,
+                     72.03
 618      2-10-2014   73.02,
                      73.99
 621      12-14-2015  91.01
@@ -10447,7 +9174,8 @@ Ord. No. Date Passed Code Section
 635      2-5-2018    31.01
 637      5-7-2018    70.26,
                      70.99
-638      7-2-2018    74.01 -
+                     74.01,
+638      7-2-2018    74.03,
                      74.04
 640      10-1-2018   71.01,
                      71.04
@@ -10463,9 +9191,6 @@ Ord. No. Date Passed Code Section
 653      2-3-2020    91.15,
                      91.16
 654      4-6-2020    90.20
-                     115.01 -
-656      5-5-2020    115.05,
-                     115.99
 658      7-6-2020    35.20 -
                      35.26
 -        2- -2021    52.41
@@ -10499,6 +9224,32 @@ Ord. No. Date Passed Code Section
                      30.01,
 713      2-3-2025    30.16,
                      35.22
-723      1-5-2026    70.07
+                     91.04,
+715      6-2-2025    95.99,
+                     110.03,
+                     130.99
+716      5-5-2025    95.20 -
+                     95.36
+                     70.01,
+717      5-5-2025    70.99,
+                     71.05,
+                     91.02
+718      6-2-2025    33.10,
+                     33.11
+719      10-6-2025   31.02
+723      1-5-2026    70.02
+                     70.01,
+                     71.01 -
+                     71.03,
+                     71.05 -
+                     71.11,
+725      4-13-2026   71.99,
+                     72.01,
+                     72.02,
+                     72.99,
+                     74.03,
+                     74.31
+726      4-13-2026   34.30 -
+                     34.33
                     
  
