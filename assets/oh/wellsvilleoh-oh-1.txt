@@ -531,7 +531,7 @@ Employment Policies for Regular Full-Time Non-Safety Employees
 31.52   Hospitalization
    
 31.53   Life insurance
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 31.01 WAIVING OF HOSPITALIZATION PLAN.
    (A)   Any employee or official of the village, who is entitled to
 participate in the village group hospitalization insurance plan, and who waives
@@ -541,7 +541,7 @@ in the sum of $400 per month in lieu of such insurance coverage.
 next following each full month in which no insurance coverage is provided, less
 appropriate deductions.
 (Ord. 14-14, passed 3-18-2014)
-SALARIES AND FRINGE BENEFITS
+**** SALARIES AND FRINGE BENEFITS ****
 § 31.15 POLICE OFFICERS.
    The salary and fringe benefits for full- and part-time police officers shall
 be as set forth from time to time by ordinances of the village.
@@ -621,7 +621,7 @@ shall be as set forth from time to time by ordinances of the village.
    The salary and fringe benefits for the Hearing Officer shall be as set forth
 from time to time by ordinances of the village.
 (Ord. 17-16, passed 7-18-2017)
-EMPLOYMENT POLICIES FOR REGULAR FULL-TIME NON-SAFETY EMPLOYEES
+**** EMPLOYMENT POLICIES FOR REGULAR FULL-TIME NON-SAFETY EMPLOYEES ****
 § 31.40 WAGES.
    The salary for regular full-time non-safety employees of the village shall
 be as set forth from time to time by ordinances of the village.
@@ -1040,7 +1040,7 @@ Funds
  
    
 34.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 34.01 PAYMENT FOR POLICE OFFICERS PRESENCE DURING EVENT WHERE ALCOHOL SERVED.
    (A)   Council hereby approves the billing for police officer presence to any
 organization or individual for an event wherein police officer presence is
@@ -1100,14 +1100,14 @@ such charges as charges for services in the General Fund and/or to make such
 other and further denominations or descriptions as may be necessary to comply
 with requirements of the State Auditor.
 (Ord. 17-33, passed 12-19-2017)
-MOTOR VEHICLE LICENSE TAX
+**** MOTOR VEHICLE LICENSE TAX ****
 § 34.15 ESTABLISHMENT; ADOPTION OF PROVISIONS BY REFERENCE.
    There is hereby established an annual license tax on motor vehicles, having
 a district of registration in the village. All relevant provisions of such tax
 are hereby adopted by reference and are on file in the office of the Village
 Clerk.
 (Prior Code, § 34.15)
-LODGING ACCOMMODATIONS EXCISE TAX
+**** LODGING ACCOMMODATIONS EXCISE TAX ****
 § 34.25 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context indicates or clearly requires a different meaning.
@@ -1162,7 +1162,7 @@ then the Mayor may suspend or revoke all village licenses held by such tax
 evader.
 (Prior Code, § 34.25) (Ord. 2004-11, passed 4-20-2004) Penalty, see §
 34.99
-FUNDS
+**** FUNDS ****
 § 34.40 CEMETERY DONATION TRUST FUND.
    (A)   Council recognizing the Spring Hill Cemetery having been named a
 beneficiary of the trust created by Alfred J. Bjelke in the amount of $100,000
@@ -3593,7 +3593,7 @@ Policies
 36.18   Investment policy
    
 36.19   Accounts payable internal policy
-PLANS
+**** PLANS ****
 § 36.01 SOLID WASTE MANAGEMENT PLAN.
    (A)   The Solid Waste Management is hereby approved in the form submitted to
 the legislative authority and presently on file with the Clerk. A copy of the
@@ -3618,7 +3618,7 @@ document the training of persons designated to fill-in for the Fiscal Officer.
    The Ohio Public Employees Deferred Compensation Program is hereby adopted by
 reference. A copy of the program can be found in the village offices.
 (Res. 15-01, passed 1-20-2015)
-POLICIES
+**** POLICIES ****
 § 36.15 SOCIAL MEDIA/NETWORK POLICY.
    (A)   Purpose. The purpose of this policy is to make an employee aware of
 his or her privacy rights and prohibited conduct with respect to an employee’s
@@ -4083,7 +4083,7 @@ Rates and Charges
  
    
 50.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 DOWNSPOUTS DISCHARGING INTO PUBLIC SEWERS PROHIBITED.
    No owner, agent, lessee, tenant, or occupant of any lot or land located
 within the village, upon which is erected a structure or other improvement
@@ -4131,7 +4131,7 @@ matter to the level of the adjacent ground. Any failure to comply with these
 provisions shall be deemed an unlawful act.
 (Prior Code, § 50.03) (Ord. 08-14, passed 5-6-2008) Penalty, see §
 50.99
-SEWER CONNECTIONS
+**** SEWER CONNECTIONS ****
 § 50.15 PERMIT REQUIRED FOR CONNECTION; FEES.
    (A)   No person shall connect a residential, commercial, or industrial
 sewage system to the village’s sanitary sewers without first obtaining a
@@ -4199,7 +4199,7 @@ the Village Administrator, to meet all the requirements of this subchapter. The
 cost of all tests and inspection for this purpose shall be the sole
 responsibility of the applicant.
 (Prior Code, § 50.21) (Ord. 08-14, passed 5-6-2008)
-RATES AND CHARGES
+**** RATES AND CHARGES ****
 § 50.35 SEWER CHARGES.
    Billing for sewerage charges shall be made on a monthly basis, and payment
 shall be made on or before the due date indicated thereon. A late charge of 10%
@@ -4322,7 +4322,7 @@ Statutory reference:
 4511.092 et seq.
      Uniform application and precedence of state traffic laws, see R.C. §
 4511.06
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 70.01 DEFINITIONS.
    Except as otherwise provided, the definitions set forth in R.C. § 4501.01
 shall apply to this Title and the penal laws of the municipality. For the
@@ -5195,7 +5195,7 @@ Statutory reference:
 motor vehicle shall be prima facie evidence that such violation was committed
 by or with the authority or permission of the owner of such vehicle.
 (Prior Code, § 77.09)
-TRAFFIC-CONTROL DEVICES
+**** TRAFFIC-CONTROL DEVICES ****
 § 70.30 OBEYING TRAFFIC-CONTROL DEVICES.
    (A)   (1)   No pedestrian or driver of a vehicle shall disobey the
 instructions of any traffic-control device placed in accordance with the
@@ -5643,7 +5643,7 @@ traffic offenses, a misdemeanor of the third degree.
          (a)   “Distracted” means doing either of the following while operating
 a vehicle:
             1.   Using an electronic wireless communications device, as defined
-in R.C. §
+in R.C. §4511.204, in violation of that section.
             2.   Engaging in any activity that is not necessary to the
 operation of a vehicle and impairs, or reasonably would be expected to impair,
 the ability of the operator to drive the vehicle safely.
@@ -5809,7 +5809,7 @@ as agents of Registrar of Motor Vehicles; procedures and rules, see R.C. §§
    Suspension and revocation of driver’s licenses, see R.C. Chapter 4510
      Suspension of driver’s licenses; municipal power to suspend for a period
 not to exceed time permitted or required by state law, see R.C. § 4510.05
-MOTOR VEHICLE LICENSING
+**** MOTOR VEHICLE LICENSING ****
 § 71.01 DISPLAY OF LICENSE PLATES OR VALIDATION STICKERS; REGISTRATION.
    (A)   (1)   No person who is the owner or operator of a motor vehicle shall
 fail to display in plain view on the rear of the motor vehicle a license plate
@@ -6000,7 +6000,7 @@ manufacturer or dealer.
    (B)   Whoever violates division (A) of this section is guilty of illegal
 operation of a manufacturer’s or dealer’s motor vehicle, a minor misdemeanor.
 (R.C. § 4549.10)
-DRIVER’S LICENSES
+**** DRIVER’S LICENSES ****
 § 71.20 PROHIBITED ACTS.
    (A)   No person shall do any of the following:
       (1)   Display or cause or permit to be displayed, or possess any
@@ -7008,7 +7008,7 @@ permit or driver’s or commercial driver’s license, or in violation of a
 restriction because of a substantial emergency, and because no other person was
 reasonably available to drive in response to the emergency.
 (R.C. § 4510.04)
-COMMERCIAL DRIVER’S LICENSES
+**** COMMERCIAL DRIVER’S LICENSES ****
 § 71.45 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7761,7 +7761,7 @@ vehicle
 probationary drivers while driving prohibited
 Statutory reference:
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.001 LANES OF TRAVEL UPON ROADWAYS.
    (A)   Upon all roadways of sufficient width, a vehicle shall be driven upon
 the right half of the roadway, except as follows:
@@ -8256,7 +8256,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.40)
-RIGHT-OF-WAY
+**** RIGHT-OF-WAY ****
 § 72.030 RIGHT-OF-WAY AT INTERSECTIONS.
    (A)   When two vehicles approach or enter an intersection from different
 streets or highways at approximately the same time, the driver of the vehicle
@@ -8660,7 +8660,7 @@ village in order to get from one street or alley to another street or alley, or
 to avoid any traffic control signal unless the operator shall stop at such oil
 or gas filling station for the purpose of transacting business therein.
 (Prior Code, § 77.16) (Ord. 68-9, passed 5-27-1968)
-PEDESTRIANS
+**** PEDESTRIANS ****
 § 72.055 PEDESTRIAN MOVEMENT IN CROSSWALKS.
    (A)   Pedestrians shall move, whenever practicable, upon the right half of
 crosswalks.
@@ -8991,7 +8991,7 @@ rental service or low- speed micromobility device sharing program to maintain
 commercial general liability insurance related to the operation of the devices,
 with limits of up to $1,000,000 per occurrence and $2,000,000 per aggregate.
 (R.C. § 4511.514)
-GRADE CROSSINGS
+**** GRADE CROSSINGS ****
 § 72.075 STOP SIGNS AT GRADE CROSSINGS.
    (A)   As used in this section, ACTIVE GRADE CROSSING WARNING DEVICE means
 signs, signals, gates, or other protective devices erected or installed at a
@@ -9130,7 +9130,7 @@ distracting activity is a contributing factor to the commission of the offense,
 the offender is subject to the additional fine established under §
 70.99(B).
 (R.C. § 4511.64)
-SCHOOL BUSES
+**** SCHOOL BUSES ****
 § 72.090 REGULATIONS CONCERNING SCHOOL BUSES.
    (A)   The driver of a vehicle, upon meeting or overtaking from either
 direction any school bus stopped for the purpose of receiving or discharging
@@ -9382,7 +9382,7 @@ has an occupant restraining device, as defined in R.C. § 4513.263, installed
 for use in its operator’s seat.
    (B)   Whoever violates this section is guilty of a minor misdemeanor.
 (R.C. § 4511.772)
-PROHIBITIONS
+**** PROHIBITIONS ****
 § 72.115 OBSTRUCTION AND INTERFERENCE AFFECTING VIEW AND CONTROL OF DRIVER.
    (A)   No person shall drive a vehicle when it is so loaded, or when there
 are in the front seat such number of persons, as to obstruct the view of the
@@ -10312,7 +10312,7 @@ Automated Speed Enforcement Program
 73.54   Allocation of civil penalties
 Statutory reference:
    Notice of arrest of certain commercial drivers, see R.C. § 5577.14
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 73.01 DRIVING UNDER THE INFLUENCE OF ALCOHOL OR DRUGS.
    (A)   (1)   No person shall operate any vehicle within this municipality,
 if, at the time of the operation, any of the following apply:
@@ -11764,7 +11764,7 @@ chattering, or clattering noise from the exhaust, or the creation of tire marks
 on the roadway accompanying such squealing of tires shall be prima facie
 evidence of the intent of the operator to violate this section.
 (Prior Code, § 77.21) (Ord. 68-6, passed 4-16-1968)
-STOPPING AFTER ACCIDENT
+**** STOPPING AFTER ACCIDENT ****
 § 73.30 FAILURE TO STOP AFTER ACCIDENT.
    (A)   (1)   In the case of a motor vehicle accident or collision with
 persons or property on a public road or highway, the operator of the motor
@@ -11897,7 +11897,7 @@ after committing the offense charged under this section.
 under state or local law.
    (B)   Whoever violates this section is guilty of a minor misdemeanor.
 (R.C. § 4509.74)
-AUTOMATED SPEED ENFORCEMENT PROGRAM
+**** AUTOMATED SPEED ENFORCEMENT PROGRAM ****
 § 73.45 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -12407,7 +12407,7 @@ helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
     Notice of arrest of certain commercial drivers, see R.C. § 5577.14
     Snowmobiles and all-purpose vehicles, equipment, see O.A.C. § 4501-29-01
     Vehicle lighting, see O.A.C. Chapter 4501-15
-EQUIPMENT
+**** EQUIPMENT ****
 § 74.01 UNSAFE VEHICLES, PROHIBITION AGAINST OPERATION.
    (A)   No person shall drive or move, or cause or knowingly permit to be
 driven or moved, on any highway any vehicle or combination of vehicles which is
@@ -13543,7 +13543,7 @@ tires wooden, rubber, iron, or steel blocks within the depressions and between
 the cleats or corrugations of such tires so that such tires will present a
 comparatively smooth surface or tread to the street.
 (Prior Code, § 77.31)
-LOADS
+**** LOADS ****
 § 74.50 PERMIT REQUIRED TO EXCEED LOAD LIMITS.
    (A)   (1)   The municipality, with respect to highways under their
 jurisdiction, upon application in writing, shall issue a special regional heavy
@@ -14347,7 +14347,7 @@ Statutory reference:
 (8)
    Protective eye devices required for motorcycle operators and passengers;
 helmets required for persons under 18 years of age, see O.A.C. § 4501-17-01
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 75.01 BICYCLES; APPLICATION OF TITLE VII.
    (A)   The provisions of this title that are applicable to bicycles and
 electric bicycles apply whenever a bicycle or electric bicycle is operated upon
@@ -14730,7 +14730,7 @@ under the provisions of division (A) of this section, such bicycle shall be
 impounded for a period of not more than 30 days and shall be released upon the
 order of the Chief of Police.
 (Prior Code, § 77.41)
-SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES, AND ALL-PURPOSE VEHICLES
+**** SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES, AND ALL-PURPOSE VEHICLES ****
 § 75.25 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -16569,7 +16569,7 @@ Administration and Enforcement
  
    
 91.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 DOGS OR OTHER ANIMALS RUNNING AT LARGE; NUISANCE, DANGEROUS OR VICIOUS
 DOGS; HEARINGS.
    (A)   Farm animals.
@@ -17007,7 +17007,7 @@ with intent to catch or capture the same, or shall follow or pursue the same,
 with intent to catch or injure such bird.
 (Prior Code, § 91.04) Penalty, see §
 91.99
-DOGS
+**** DOGS ****
 § 91.15 OWNERSHIP AND CONTROL OF DOGS.
    (A)   As used in this section, HARBORING shall mean any person who shall
 allow an animal of the dog kind habitually to remain and be lodged and fed
@@ -17086,7 +17086,7 @@ follows:
    (C)   All funds received by the Fiscal Officer hereunder shall be deposited
 into the village treasury and placed to the credit of the General Fund.
 (Prior Code, § 91.19) (Ord. 09-13, passed 12-1-2009)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 91.30 ANIMAL CONTROL OFFICER.
    (A)   There is hereby created the part-time position of Animal Control
 Officer. The Animal Control Officer must have those qualifications, and perform
@@ -17120,7 +17120,7 @@ Springhill Cemetery
 92.01   Rules and regulations governing use and operation of cemetery
    
 92.02   Babyland at Springhill Cemetery
-SPRINGHILL CEMETERY
+**** SPRINGHILL CEMETERY ****
 § 92.01 RULES AND REGULATIONS GOVERNING USE AND OPERATION OF CEMETERY.
    The rules and regulations which shall hereafter govern the use and operation
 of Springhill Cemetery are hereby established as follows.
@@ -17265,7 +17265,7 @@ Administration
 93.50   Fire control committee
    
 93.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 93.01 OUTSIDE BURNING.
    (A)   It shall be unlawful to dispose of any trash, garbage, or refuse of
 any kind by outside burning within the corporate limits of the village or to
@@ -17294,7 +17294,7 @@ to which a burning light or flame may be attached, or to release into the air
 any such balloon with burning light or flame.
 (Prior Code, § 93.02) Penalty, see §
 93.99
-INFLAMMABLE OR COMBUSTIBLE MATERIALS
+**** INFLAMMABLE OR COMBUSTIBLE MATERIALS ****
 § 93.15 REMOVAL OF INFLAMMABLES OR OBSTRUCTIONS.
    Any inflammable or combustible materials not arranged or stored in a manner
 affording reasonable safety against fire, or any matter stored or arranged so
@@ -17358,7 +17358,7 @@ been given, as provided in §§
 93.16, may appeal to the Village Administrator who shall hear such appeal and
 render his or her decision, which shall be final.
 (Prior Code, § 93.21)
-FIREWORKS AND EXPLOSIVES
+**** FIREWORKS AND EXPLOSIVES ****
 § 93.35 PERMIT TO USE FIREWORKS.
    (A)   An exhibitor of fireworks licensed under R.C. §§ 3743.50 through
 3743.55 who wishes to conduct a public fireworks exhibition shall apply for
@@ -17468,7 +17468,7 @@ indemnify the village and all other persons against injury or damages which
 might result from the proposed blasting.
 (Prior Code, § 93.38) Penalty, see §
 93.99
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 93.50 FIRE CONTROL COMMITTEE.
    (A)   There is hereby created the Fire Control Committee of the village
 which shall consist of the Mayor, Village Administrator, and Fire Chief, with
@@ -17537,7 +17537,7 @@ Mobile Homes
  
    
 94.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 94.01 MAINTAINING CERTAIN NUISANCES.
    (A)   No person shall erect, continue to use, or maintain a building,
 structure, or place for the exercise of a trade, employment, or business or for
@@ -17563,7 +17563,7 @@ other enactments of the municipality that prohibit excessive noise.
    (E)   Whoever violates this section is guilty of a misdemeanor of the third
 degree.
 (R.C. § 3767.99(C))
-WEEDS AND RANK VEGETATION; LITTER
+**** WEEDS AND RANK VEGETATION; LITTER ****
 § 94.15 PROPERTY TO BE KEPT FREE AND CLEAR OF NOXIOUS WEEDS AND RANK
 VEGETATION.
    Any person owning or having charge of land within the village, shall keep
@@ -17631,7 +17631,7 @@ duplicate and be a lien upon such lands from and after the date of entry and be
 collected as other taxes and returned to the municipality with the General
 Fund.
 (R.C. § 731.54)
-LITTER ON PUBLIC OR PRIVATE PROPERTY OR IN STATE WATERS
+**** LITTER ON PUBLIC OR PRIVATE PROPERTY OR IN STATE WATERS ****
 § 94.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -17690,7 +17690,7 @@ police officer, wildlife officer, park officer, forest officer, preserve
 officer, conservancy district police officer, inspector of nuisances of a
 county, or any other law enforcement officer within his or her jurisdiction.
 (Prior Code, § 94.17) (Ord. 95-29, passed 9-26-1995)
-REFUSE
+**** REFUSE ****
 § 94.45 ABANDONED REFRIGERATORS.
    (A)   No person shall abandon, discard, or knowingly permit to remain on
 premises under the person’s control, in a place accessible to children, any
@@ -17707,7 +17707,7 @@ repairer.
    (B)   Whoever violates this section shall be guilty of a misdemeanor of the
 fourth degree.
 (R.C. § 3767.99(B))
-MOBILE HOMES
+**** MOBILE HOMES ****
 § 94.55 MOBILE HOMES DEEMED A NUISANCE.
    (A)   For purposes of this section, MOBILE HOME shall have the same meaning
 as that set forth in §
@@ -17769,7 +17769,7 @@ Hammond Park
  
    
 95.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 95.01 APPLICATION OF RULES AND REGULATIONS.
    (A)   The following rules and regulations are hereby adopted as applicable
 to those parks and playgrounds operated and controlled by the village.
@@ -17810,7 +17810,7 @@ abated, and any use of said facility by any person during such closures shall
 be deemed to be a trespass.
 (Prior Code, § 95.05) (Ord. 76-6, passed 3-16-1976) Penalty, see §
 95.99  
-BROADWAY PARK
+**** BROADWAY PARK ****
 § 95.15 CERTAIN ACTIVITIES PROHIBITED.
    The following activities are prohibited in the confines of the grassy areas
 of Broadway Park between Ninth Street and Fifth Street and between the easterly
@@ -17831,7 +17831,7 @@ however, shall not prohibit the erection or maintenance by the village of
 official street signs and markers in said area.
 (Prior Code, § 95.16) (Ord. 80-28, passed 8-5-1980) Penalty, see §
 95.99
-HAMMOND PARK
+**** HAMMOND PARK ****
 § 95.30 FEE FOR USE OF PAVILION.
    (A)   A fee in the sum of $25 is hereby established for the private
 reservation and use of the Hammond Park pavilion.
@@ -17901,7 +17901,7 @@ Railroads
  
    
 96.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 96.01 GRADES OF STREETS.
    The grade of any street shall refer to the elevation of the top or upper
 surface of either of its curbs at any series of points thereon. The Village
@@ -17916,7 +17916,7 @@ unless such street or way corresponds in location and extent with a street or
 way shown on a recorded plat which shall have been legally accepted by the
 Village Council.
 (Prior Code, § 96.02)
-OBSTRUCTIONS
+**** OBSTRUCTIONS ****
 § 96.15 EXCAVATING, LEAVING MUD ON, OR BUILDING FENCE ON HIGHWAY.
    (A)   No person shall dig up, remove, excavate, or place any earth or mud
 upon any portion of any public highway, or build a fence upon the same without
@@ -17957,7 +17957,7 @@ sidewalk to be made safe by removing such ice or sprinkling the same with sand
 or other suitable substance.
 (Prior Code, § 96.18) Penalty, see §
 96.99
-EXCAVATIONS
+**** EXCAVATIONS ****
 § 96.30 OPENING PERMIT REQUIRED.
    Any person, company, business, utility, corporation, or other entity,
 desiring to open a village street, road, alley, or highway, shall first obtain
@@ -18012,7 +18012,7 @@ the surface.
    The Village Administrator shall supervise the opening and closing, including
 backfilling, of village streets, roads, alleys, and highways, at all times.
 (Prior Code, § 96.34) (Ord. 97-10, passed 4-1-1997)
-SIDEWALKS, CURBS, AND GUTTERS
+**** SIDEWALKS, CURBS, AND GUTTERS ****
 § 96.45 ESTABLISHMENT OF GRADE; SPECIFICATIONS.
    Whenever the Village Council decides to provide for the construction or
 repair of any specific sidewalks, curbings or gutters, or parts thereof, other
@@ -18103,7 +18103,7 @@ other proceedings.
 (Prior Code, § 96.56)
 Statutory reference:
    Generally, see R.C. § 729.05
-RAILROADS
+**** RAILROADS ****
 § 96.65 RAILROAD TRAINS NOT TO BLOCK STREETS.
    No railroad or railway corporation or the directing officers thereof, or
 operator of a train of railroad cars shall unnecessarily obstruct or prevent
@@ -18183,7 +18183,7 @@ Places of Public Entertainment
  
    
 110.99   Penalty
-COIN-OPERATED AMUSEMENT DEVICES
+**** COIN-OPERATED AMUSEMENT DEVICES ****
 § 110.01 LICENSE REQUIRED; COMPLIANCE WITH RULES AND REGULATIONS.
    No person, firm, association, club, society, or corporation shall operate,
 conduct, or maintain a public place where pinball machines, coin-operated pool
@@ -18219,7 +18219,7 @@ or maintaining such machine or device in violation of any of the provisions of
 this subchapter.
 (Prior Code, § 110.06) (Ord. 86-9, passed 1-22-1986; Ord. 08-08, passed 2-19-
 2008)
-PLACES OF PUBLIC ENTERTAINMENT
+**** PLACES OF PUBLIC ENTERTAINMENT ****
 § 110.15 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18316,7 +18316,7 @@ Fire Department
  
    
 111.99   Penalty
-AUCTIONEERS
+**** AUCTIONEERS ****
 § 111.01 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18358,7 +18358,7 @@ conviction thereof, shall be cause for the Mayor to revoke the license provided
 for in this subchapter in addition to the other penalties provided for in this
 code of ordinances.
 (Prior Code, § 111.05) (Ord. 1904, passed 2-5-1963)
-AUCTION OF JEWELRY
+**** AUCTION OF JEWELRY ****
 § 111.15 LICENSE REQUIRED; FEE.
    Any person desiring to conduct or engage in the sale for gain at public
 auction of jewelry, including solid or plated platinum, gold, or silver pieces,
@@ -18407,7 +18407,7 @@ inspection by purchasers and village authorities with the names and addresses
 of the purchaser of each item and the price paid.
 (Prior Code, § 111.19) Penalty, see §
 111.99
-JUNK DEALERS
+**** JUNK DEALERS ****
 § 111.30 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -18799,7 +18799,7 @@ under 18 prohibited
  
    
 115.99   Penalty
-CIGARETTES OR TOBACCO PRODUCTS
+**** CIGARETTES OR TOBACCO PRODUCTS ****
 § 115.01 SALE OR DISTRIBUTION OF CIGARETTES OR OTHER TOBACCO PRODUCTS TO PERSON
 UNDER 18 PROHIBITED.
    No distributor, wholesaler, or retailer of cigarettes or other tobacco
@@ -32422,8 +32422,8 @@ health or safety if used without the supervision of a licensed health
 professional authorized to prescribe drugs, or a drug of abuse, and that, at
 one time, had been placed in a container plainly marked as a sample by a
 manufacturer.
-SCHEDULE I, SCHEDULE II, SCHEDULE III, SCHEDULE IV or SCHEDULE V. Have the same
-meaning as in R.C. § 3719.01.
+*** SCHEDULE I, SCHEDULE II, SCHEDULE III, SCHEDULE IV or SCHEDULE V. Have the
+same meaning as in R.C. § 3719.01. ***
    SCHOOL. Any school operated by a board of education, any community school
 established under R.C. Chapter 3314, or any nonpublic school for which the
 Director of Education and Workforce prescribes minimum standards under R.C. §
@@ -34039,7 +34039,7 @@ Artisan-Type Contractors and Subcontractors
  
    
 150.99   Penalty
-MINIMUM STANDARDS FOR EXTERIOR PROPERTY MAINTENANCE
+**** MINIMUM STANDARDS FOR EXTERIOR PROPERTY MAINTENANCE ****
 § 150.01 SCOPE.
    This subchapter is strictly limited to the establishment of minimum
 standards for maintenance of the exterior of all structures and buildings
@@ -34255,7 +34255,7 @@ of the people and shall cause any costs associated with the same to be charged
 against the real property upon which the structure existed as a municipal lien,
 or to be recovered in a suit at law against the owner.
 (Ord. 22-07, passed 5-3-2022)
-ARTISAN-TYPE CONTRACTORS AND SUBCONTRACTORS
+**** ARTISAN-TYPE CONTRACTORS AND SUBCONTRACTORS ****
 § 150.25 DEFINITIONS.
    For the purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -34415,7 +34415,7 @@ Enforcement
  
    
 151.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 151.001 STATUTORY AUTHORIZATION.
    Ohio Constitution, Article XVIII, § 3 grants municipalities the legal
 authority to adopt land use and control measures for promoting the health,
@@ -34769,7 +34769,7 @@ consistent with the variance conditions herein.
    VIOLATION. The failure of a structure or other development to be fully
 compliant with these regulations.
 (Prior Code, § 150.20) (Ord. 06-06, passed 3-21-2006)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 151.025 DESIGNATION OF THE FLOODPLAIN ADMINISTRATOR.
    The Fire Chief is hereby appointed to administer and implement these
 regulations and is referred to herein as the Floodplain Administrator.
@@ -35047,7 +35047,7 @@ information related to the proper repair of damaged structures in special flood
 hazard areas; and assist owners of substantially damaged structures with
 increased cost of compliance insurance claims.
 (Prior Code, § 150.41) (Ord. 06-06, passed 3-21-2006)
-USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION
+**** USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION ****
 § 151.050 USE REGULATIONS.
    The use and development standards in this subchapter apply to development
 wholly within, partially within, or in contact with any special flood hazard
@@ -35277,7 +35277,7 @@ or elimination of the special flood hazard area, including the placement of
 culverts.
 (Prior Code, § 150.58) (Ord. 06-06, passed 3-21-2006) Penalty, see §
 151.999
-APPEALS AND VARIANCES
+**** APPEALS AND VARIANCES ****
 § 151.070 APPEALS BOARD ESTABLISHED.
    (A)   The Village Council shall appoint an Appeals Board consisting of one
 member who is a member of the Village Council; one member from the village
@@ -35431,7 +35431,7 @@ time after the hearing.
    Those aggrieved by the decision of the Appeals Board may appeal such
 decision to the County Court of Common Pleas, as provided in R.C. Chapter 2506.
 (Prior Code, § 150.75) (Ord. 06-06, passed 3-21-2006)
-ENFORCEMENT
+**** ENFORCEMENT ****
 § 151.085 COMPLIANCE REQUIRED.
    (A)   No structure or land shall hereafter be located, erected, constructed,
 reconstructed, repaired, extended, converted, enlarged, or altered without full
@@ -35831,7 +35831,7 @@ Statutory reference:
    Restrictions on bulk and location of buildings and structures, percentage of
 lot occupancy, and setback building lines, see R.C. § 713.09
    Retroactive zoning ordinances prohibited, see R.C. § 713.15
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.001 TITLE.
    These regulations may be referred to as the “Zoning Ordinance” or the
 “Zoning Code”.
@@ -36199,7 +36199,7 @@ Code and who is responsible for the enforcement of the regulations imposed by
 such Zoning Code.
    ZONING CODE. This chapter.
 (Prior Code, § 154.06) (Ord. 95-3, passed 2-28-1995)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 154.015 ZONING ADMINISTRATOR.
    (A)   Duties. It shall be the duty of the Zoning Administrator to enforce
 this Zoning Code. The Zoning Administrator shall:
@@ -36364,7 +36364,7 @@ shall be those fees as set forth in the attached schedule to original Ordinance
 96-29, which is incorporated herein by reference.
 (Prior Code, § 154.14) (Ord. 95-3, passed 2-28-1995; Ord. 96-29, passed 10-22-
 1996; Ord. 10-02, passed 6-18-2010)
-DISTRICTS AND BOUNDARIES
+**** DISTRICTS AND BOUNDARIES ****
 § 154.030 GENERAL AND SPECIFIC DISTRICTS.
    (A)   The village is hereby divided into three types of districts:
       (1)   R Districts: Residential;
@@ -36426,7 +36426,7 @@ unless the boundaries are otherwise indicated on the map.
    (C)   In unsubdivided property, the district boundary lines on the zoning
 district map shall be determined by use of the scale appearing on the map.
 (Prior Code, § 154.22) (Ord. 95-3, passed 2-28-1995)
-USE REGULATIONS
+**** USE REGULATIONS ****
 § 154.045 DISTRICT REGULATIONS.
    In the following established districts, a building or premises shall be used
 only for the following purposes.
@@ -36944,7 +36944,7 @@ are prohibited. No sign shall contain flashers, animators, mechanical
 movements, or contrivances of any kind, except clocks.
 (Prior Code, § 154.43) (Ord. 95-3, passed 2-28-1995) Penalty, see §
 154.999
-HEIGHT REGULATIONS
+**** HEIGHT REGULATIONS ****
 § 154.070 HEIGHT LIMITS FOR BUILDINGS AND STRUCTURES.
    Maximum height limits established for buildings and structures are as
 follows:
@@ -37019,7 +37019,7 @@ a slope of one vertical and to 20 horizontal.
 construction or maintenance of any tree or structure to a height up to 20 feet
 above the surface of the land.
 (Prior Code, § 154.52) (Ord. 95-3, passed 2-28-1995)
-YARD REGULATIONS
+**** YARD REGULATIONS ****
 § 154.085 MINIMUM YARD REQUIREMENTS.
    (A)   The following minimum yards shall be provided within the districts
 indicated below:
@@ -37126,7 +37126,7 @@ buildings is reduced to 22 feet for accessory buildings.
    (M)   Existing buildings must follow property line setback for accessory
 buildings.
 (Prior Code, § 154.57) (Ord. 95-3, passed 2-28-1995)
-DENSITY REGULATIONS
+**** DENSITY REGULATIONS ****
 § 154.100 MINIMUM LOT AREA AND WIDTH.
    The following minimum lot areas and widths must be provided in the districts
 indicated:
@@ -37166,7 +37166,7 @@ available but where there is no public sewer service, or to 15,000 square feet
 and 80 feet, respectively, where both public water and public sewer services
 are available.
 (Prior Code, § 154.61) (Ord. 95-3, passed 2-28-1995)
-OFF-STREET PARKING AND LOADING REGULATIONS
+**** OFF-STREET PARKING AND LOADING REGULATIONS ****
 § 154.115 OFF-STREET PARKING REQUIREMENTS.
    Off-street parking spaces shall be provided as follows in all districts,
 except the C-2 Central Business District:
@@ -37278,7 +37278,7 @@ that a truck must back directly from a major street into a loading space, a
 maneuvering space of not less than 50 feet shall be provided on the lot on
 which the industrial use is located.
 (Prior Code, § 154.69) (Ord. 95-3, passed 2-28-1995)
-PROVISIONS APPLICABLE TO ALL DISTRICTS
+**** PROVISIONS APPLICABLE TO ALL DISTRICTS ****
 § 154.130 CONFORMITY WITH PERMITTED USES.
    Buildings shall only be erected, converted, enlarged, reconstructed, or
 structurally altered, and land shall only be used, for a purpose permitted in
