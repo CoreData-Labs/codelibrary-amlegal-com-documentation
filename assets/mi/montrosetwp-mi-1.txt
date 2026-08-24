@@ -1,8 +1,8 @@
 CHARTER TOWNSHIP of MONTROSE,
 MICHIGAN
 CODE OF ORDINANCES
-2023 S-15 Supplement contains:
-Local legislation current through Ord. 22-007-153.021, passed 11-1-2022
+2026 S-16 Supplement contains:
+Local legislation current through Ord. 25-001, passed 4-15-2025
  
 Published by:
 American Legal Publishing
@@ -13,11 +13,11 @@ Internet: http://www.amlegal.com
 OFFICIALS
 Supervisor                Coetta Adams
 Clerk                     Steve Schlicht
-Treasurer                 Mary Quast
-Trustee                   Tom Tithof
-Trustee                   Gary Keeler
+Treasurer                 Karen Jones
 Trustee                   Gerald Cole
-Trustee                   Sam Spence
+Trustee                   Sam Spense
+Trustee                   Jim Coon
+Trustee                   Fred Christensen
 Police Chief              Orville (Jamie) Cochran
 Fire Chief                George Taylor
 Assessor                  Kevin MacDermaid (Legacy Assessing)
@@ -2647,6 +2647,8 @@ Solid Waste Disposal
 53.08   Fees
    
 53.09   Effective date
+   
+53.10   Limitation on number of solid waste disposal areas
 Collecting/Transporting Solid Waste
    
 53.20   Purpose
@@ -2671,6 +2673,7 @@ Costs Associated With Landfills
 53.44   Use of funds collected
    
 53.45   Effective Date
+ 
    
 53.99   Penalty
 SOLID WASTE DISPOSAL
@@ -2849,6 +2852,10 @@ in accordance with this subchapter.
 § 53.09 EFFECTIVE DATE.
    This subchapter shall take effect immediately upon publication.
 (Ord. 1992-1, passed 1-13-1992)
+§ 53.10 LIMITATION ON NUMBER OF SOLID WASTE DISPOSAL AREAS.
+   The number of solid waste disposal areas, regardless of whether in operation
+or inactive, shall be no more than 3 within the township.
+(Ord. 2023-007, passed 10-17-2023)
 COLLECTING/TRANSPORTING SOLID WASTE
 § 53.20 PURPOSE.
    The Township of Montrose finds that the activity of solid waste collection
@@ -4124,6 +4131,7 @@ Parks
 95.21   Enforcement
    
 95.22   Reward
+ 
    
 95.99   Penalty
 **** GENERAL PROVISIONS ****
@@ -4258,6 +4266,7 @@ Section
 96.04   Fire regulations
    
 96.05   Effective date
+ 
    
 96.99   Penalty
 § 96.01 TITLE.
@@ -4328,6 +4337,7 @@ Section
 97.01   Definitions
    
 97.02   No marihuana establishments
+ 
    
 97.99   Violations and penalties
 § 97.01 DEFINITIONS.
@@ -4649,6 +4659,7 @@ Section
 110.07   Miscellaneous
    
 110.08   Effective date
+ 
    
 110.99   Penalty
 § 110.01 LICENSE REQUIRED.
@@ -8892,7 +8903,7 @@ family residential uses
    
 153.363   Obscenity
    
-153.364   Wind energy conversion systems
+153.364   Private, on-site wind energy facility (WEF)
    
 153.365   Communication towers
    
@@ -9084,10 +9095,15 @@ appurtenant areas used or acquired for airport buildings or other airport
 facilities.
    ALTERED. Any change in the use of or in the supporting members of a building
 such as bearing walls, columns, posts, beams, girders, and similar components.
+   AMBIENT SOUND. The all-encompassing sound associated with a given
+environment, being usually a composite of sound from many sources near and far,
+as defined by ANSI S12.9 Part 3.
    ANIMAL SHELTER. A facility that is used to house or contain animals and is
 owned, operated, or maintained by a nonprofit entity for the purpose of
 providing temporary kenneling and care for animals, for the purpose of locating
 permanent adoptive homes for them.
+   ANSI. The American National Standards Institute. The current revision of
+each referenced standard shall be used.
    AREA, FLOOR.
       (1)   Constitutes the total floor area occupied by a use and measured to
 include all space used primarily or incidentally for the use.
@@ -9168,7 +9184,7 @@ of producing photovoltaic electricity, which the power generated from a solar
 power system is sold to electric companies for distribution throughout the
 power grid. A COMMERCIAL SOLAR ENERGY SYSTEM shall be a principal use of a
 property and may occupy the same property as another principal use. A
-COMMERCIAL SOLAR ENERGY SYSTEM is commonly known as a Solar Farm.
+COMMERCIAL SOLAR ENERGY SYSTEM is commonly known as a “solar farm.
    COMMUNITY MASTER PLAN or GENERAL PLAN. The comprehensive community master
 plan for the Charter Township of Montrose.
    CONDITIONAL USE. See SPECIAL LAND USE.
@@ -9224,6 +9240,12 @@ less than 24 hours a day, unattended by a parent or guardian, except children
 related to an adult member of the family by blood, marriage, or adoption.
          (b)   GROUP DAY CARE HOME includes a home that gives care to an
 unrelated minor child for more than 4 weeks during a calendar year.
+   dB(A). The sound pressure level in decibels. Refers to the “a” weighted
+scale defined by ANSI. A method for weighing the frequency spectrum to mimic
+the human ear.
+   DECIBEL. The unit of measurement used to express the magnitude of sound
+pressure and sound intensity.
+   DEPARTMENT. The Michigan State Department of Community Health.
    DEPARTMENT.  The Michigan State Department of Community Health.
    DEVELOPMENT. The construction, reconstruction, conversion, structural
 alteration, relocation, or enlargement of any structure.
@@ -9372,6 +9394,10 @@ effects.
    HOTEL. An establishment providing sleeping accommodations to the general
 public which may or may not provide additional services, such as restaurants,
 meetings rooms, entertainment, and recreational facilities.
+   HUB HEIGHT. The distance measured from ground level to the center of the
+wind turbine hub.
+   IEC. The International Electrotechnical Commission. The current revision of
+each referenced standard shall be used.
    IMPROVEMENTS. Those features and actions associated with a project that are
 considered necessary by the body or official granting zoning approval to
 protect natural resources or the health, safety, and welfare of the residents
@@ -9379,6 +9405,11 @@ of a local unit of government and future users or inhabitants of the proposed
 project or project area, including roadways, lighting, utilities, sidewalks,
 screening, and drainage. IMPROVEMENTS do not include the entire project that is
 the subject of zoning approval.
+   INHABITED STRUCTURE. A structure designed for human occupancy and provides
+complete independent living facilities for one or more persons, including
+permanent provisions for living, sleeping, eating, cooking and sanitation.
+   ISO. The International Organization for Standardization. The current
+revision of each referenced standard shall be used.
    JUNK.
       (1)   Any discarded personal or scrapped property, including any property
 which may or may not be salvaged for reuse, resale, reduction or similar
@@ -9497,6 +9528,7 @@ adopted or amended by the Planning Commission authorized by the act and used to
 satisfy the requirements of Section 203(1) of the Michigan Zoning Enabling Act,
 2006 PA 110, M.C.L.A. § 125.3203, shall be known as The Charter Township of
 Montrose Community Master Plan.
+   MET TOWER. A tower used for the measurement of wind speed.
    MICHIGAN MEDICAL MARIHUANA ACT.  The Michigan Medical Marihuana Act, P.A. 1
 of 2008, M.C.L.A. §§ 333.264221 et seq., as amended.
    MOBILE HOME. A detached single-family structure, transportable in 1 or more
@@ -9541,10 +9573,19 @@ topsoil, humus, fertilizer, trellis, lawn furniture, playground equipment, and
 other home garden supplies and equipment and similar uses.
    OUTDOOR ENCLOSED, LOCKED FACILITY.  Any enclosed, immovable, locked facility
 that is not located inside of the primary residence.
+   PARCEL, NON-PARTICIPATING. A parcel of real property which is not under
+lease or other property agreement with a wind energy conversion facility (WECS)
+owner/operator.
+   PARCEL, PARTICIPATING. A parcel of real property which is under lease or
+other property agreement with a wind energy conversion facility (WECS) owner/
+operator.
    PARKING SPACE, OFF-STREET. Consists of a space adequate for parking an
 automobile, with room for opening doors on both sides, together with properly
 related access to a public street or alley and maneuvering room, and located on
 a lot with the land use to which it is related.
+   PHOTOVOLTAIC (PV) DEVICE. A system of components that generates electric
+energy from incident sunlight by means of the photovoltaic effect, regardless
+of whether the device can store the electric energy produced for later use.
    PHOTOVOLTAIC (PV) SYSTEM. A solar energy system that produces electricity by
 the use of semiconductor devices, called photovoltaic cells that generate
 electricity whenever light strikes them.
@@ -9577,6 +9618,9 @@ accessory structures.
    PRIVATE NONCOMMERCIAL PARK AND RECREATION AREA/FACILITY. A park or
 recreation facility operated by a nonprofit organization and open only to
 bonafide members and guests of nonprofit organizations.
+   PRIVATE ON-SITE WIND ENERGY FACILITY (WEF). Any WEF that is accessory to a
+principal use located on the same parcel and is designed and built to serve the
+needs of the principal use.
    PRIVATE ROAD.
       (1)   A road owned and maintained by the owners of the property it serves
 and provides access to 3 or more dwellings or 2 or more non-residential
@@ -9592,6 +9636,8 @@ principal use that is designed and built to serve the principal use of the
 property. These systems shall not be utilized for any commercial sale of
 energy, except for the sale of surplus electrical energy back to the electrical
 grid.
+   PROJECT BOUNDARY. The boundary of the project as defined for the special
+land use permit application.
    PUBLIC PARK AND RECREATION AREA/FACILITY. A park and recreation facility
 open to the general public.
    PUBLIC ROAD. A way or means of approval which provides access and which is
@@ -9606,6 +9652,8 @@ having a debilitating medical condition, and who has been issued and possesses
 a valid medical marihuana registry identification card by the Michigan State
 Department of Community Health, which is not expired and or has not been
 revoked.
+   REPOWERING. Reconfiguring, renovating, or replacing an SES to maintain or
+increase the power rating of the SES within the existing project footprint.
    RESTAURANT. Includes the following.
       CARRY-OUT RESTAURANT. An establishment that by design of the physical
 facilities, service, or packaging sells prepared ready-to-eat foods intended
@@ -9664,9 +9712,14 @@ the purposes of disposing of the refuse licensed by the State of Michigan, and
 operated in accordance with the Public Act 451 of 1994, being M.C.L.A. §§
 324.11501 et seq., as amended, and M.C.L.A. §§ 299.501 through 299.551, as
 amended.
+   SCADA. Supervisory control and data acquisition, a computer system for
+gathering and analyzing real-time data.
    SETBACK. Distance from the right-of-way line of streets to the building line
 for the purpose of defining limits within which no building or structure, shall
 be erected or permanently maintained.
+   SHADOW FLICKER. The alternating changes in light intensity caused by the
+moving blade of a wind energy system that cast shadows on the ground and
+stationary objects, such as but not limited to a window at a dwelling.
    SHOPPING CENTER. A group or groups of 3 or more commercial establishments
 developed in accordance to an overall plan and design and built as an
 interrelated project.
@@ -9691,16 +9744,25 @@ the premises.
    SITE PLAN. A SITE PLAN includes the documents and drawings required by the
 Zoning Ordinance to insure that a proposed land use or activity is in
 compliance with local ordinances and state and federal statutes.
+   SOLAR ARRAY. Any number of photovoltaic devices connected to provide a
+single output of electric energy or other energy.
    SOLAR ENERGY SYSTEM (SES). Any equipment necessary to the process by which
 solar radiation is collected, converted into another form of energy, stored,
 protected from unnecessary dissipation and distributed. SOLAR ENERGY SYSTEMS
 consist primarily of solar thermal, photovoltaic and concentrated solar but may
-include other various experimental solar technologies.
+include other various experimental solar technologies. The area includes all
+land, facilities, and equipment inside of the perimeter fencing and landscaping
+buffer.
    SOLAR SHINGLES. A roofing product made by combining thin film solar
 technology with a durable backing to provide a structural roof shingle
 comparable to traditional roofing shingles.
    SOLID WASTE. Unwanted or discarded material including waste material with
 insufficient liquid content to be free flowing.
+   SOUND PRESSURE. The average rate at which sound energy is transmitted
+through a unit area in a specified direction. The pressure of the sound
+measured at a receiver.
+   SOUND PRESSURE LEVEL. The sound pressure mapped to a logarithmic scale and
+reported in decibels (dB).
    SPECIAL LAND USE.
       (1)   The term applied to a used which may be permitted by the
 application for and issuance of a special land use permit by the Planning
@@ -9735,6 +9797,17 @@ structure either:
 damage occurred.
    TEMPORARY USE. A use established for a limited duration with the intent to
 discontinue the use upon the expiration of the time period.
+   TILT, MAXIMUM. The maximum angle or the most vertical position of a solar
+array as compared to the horizon line.
+   TILT, MINIMUM. The minimum or most horizontal angle of a solar array as
+compared to the horizon line.
+   TIP HEIGHT. The height above grade to a blade tip at its highest point of
+travel.
+   TOWER. The vertical component of a wind energy system, whether guyed or
+freestanding, for the exclusive purpose of elevating the wind turbine/generator
+and attached blades or rotors above the ground. The term TOWER may also refer
+to the structure that elevates a wind anemometer for the purpose of feasibility
+studies preliminary to the placement of a wind energy conversion system (WECS).
    TOWNHOUSE. A residential structure or group of structures, each of which
 contains 3 or more attached 1-family dwelling units with individual rear yards
 and/or front yards designed as an integral part of each 1-family dwelling unit.
@@ -9766,6 +9839,15 @@ or destruction and the Department has so notified the owner; except this
 division may be utilized regardless of wetland size in a county in which
 division (2) above is of no effect; except for the purpose of inventorying, at
 the time.
+   WIND ENERGY CONVERSION SYSTEMS (WECS). An electricity-generating facility
+consisting of one or more wind turbines under common ownership or operation
+control, and includes substations, MET towers, cables/wires, and other
+buildings accessory to such facility, whose main purpose is to supply
+electricity to off-site customers. It includes substations, MET towers, cables,
+wires, and other buildings accessory to such facility.
+   WIND TURBINE. A generator which converts wind energy into electricity using
+a wind turbine generator, and includes the turbine, blade, tower, base, and pad
+transformer.
    YARD. An open space on the same lot with a building or building group lying
 between the front, rear, or side wall of a building and the nearest lot line,
 unoccupied except for projections and the specific minor uses or structures
@@ -9811,52 +9893,53 @@ Montrose.
 16-2007; Am. Ord. 157, passed 7-17-2007; Am. Ord. 158, passed 7-17-2007; Am.
 Ord. 174, passed 11-10-2008; Am. Ord. 13-200, passed 3-19-2013; Am. Ord. 13-
 206, passed 1-21-2014; Am. Ord. 13-207, passed 1-21-2014; Am. Ord. 18-231,
-passed 12-18-2018; Am. Ord. 21-006-153.006 et seq., passed 10-19-2021)
+passed 12-18-2018; Am. Ord. 21-006-153.006 et seq., passed 10-19-2021; Am. Ord.
+23-004, passed 6-13-2023; Am. Ord. 23-005, passed 7-18-2023)
 § 153.007 ILLUSTRATIONS FOR CERTAIN DEFINITIONS.
    (A)   Basement: Figure 1.
 Figure 1
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1068.gif]
  
    (B)   Building envelope: Figure 2.
 Figure 2
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1070.gif]
  
    (C)   Building height: Figure 3 and Figure 4.
 Figure 3
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1074.gif]
  
 Figure 4
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1076.gif]
  
    (D)   Cellar: Figure 3.
    (E)   Grade: Figure 5.
 Figure 5
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1078.gif]
  
    (F)   Lot: Figure 6.
 Figure 6
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1080.gif]
  
    (G)   Lot, corner: Figure 7.
    (H)   Lot depth: Figure 7.
 Figure 7
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1082.gif]
  
    (I)   Lot, double frontage: Figure 8.
 Figure 8
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1084.gif]
  
    (J)   Lot, flag: Figure 13.
 Figure 13
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1100.jpg]
  
    (K)   Lot lines: Figure 7 and Figure 8.
@@ -9865,17 +9948,17 @@ IMAGES/0-0-0-1100.jpg]
    (N)   Lot line, rear: Figure 9.
    (O)   Lot line, side: Figure 9.
 Figure 9
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1088.gif]
  
    (P)   Lot line, zero: Figure 10.
 Figure 10
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1092.gif]
  
    (Q)   Yard: Figure 11.
 Figure 11
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1094.gif]
  
    (R)   Yard, front: Figure 12.
@@ -9883,12 +9966,12 @@ IMAGES/0-0-0-1094.gif]
    (Y)   Yard, side: Figure 12.
 Figure 12
 ILLUSTRATION OF FRONT, SIDE & REAR YARD
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1096.gif]
  
    (Z)   Dwelling, two-family (duplex): Figure 13.
 Figure 13
-[https://export.amlegal.com/media/a6c2f307cbd732c16eb0d8fbbffde155d34a528f/
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
 IMAGES/0-0-0-1046.jpg]
  
 (Ord. 99, passed 11-18-1996, § 2.03; Am. Ord. 152, passed 1-16-2007)
@@ -11193,111 +11276,817 @@ observation of any material depicting, describing, or relating to "specified
 sexual activities" or "specified anatomical areas" from any public way or from
 any property not regulated as an adult entertainment use. This provision shall
 apply to any display, decoration, sign, show window, or other opening.
-   (AA)   Commercial solar energy systems (commonly known as a solar farm). To
-promote the use of solar energy within the township as a clean alternative
-energy source and to provide for the land development, installation and
-construction regulations for commercial SES facilities subject to reasonable
-condition that will protect the public health, safety and welfare. The
-regulations established herein are minimum requirements and standards for the
-placement, construction and modification of commercial SES facilities, while
-promoting a renewable energy source for our community in a safe, effective and
-efficient manner.
-      (1)   Commercial solar energy systems shall be limited and subject to
+   (AA)   Commercial solar energy systems (SES) (commonly known as a solar
+farm). To promote the use of solar energy within the township as a clean
+alternative energy source and to provide for the land development, installation
+and construction regulations for commercial SES facilities subject to
+reasonable condition that will protect the public health, safety and welfare.
+The regulations established herein are minimum requirements and standards for
+the placement, construction and modification of commercial SES facilities,
+while promoting a renewable energy source for our community in a safe,
+effective and efficient manner.
+      (1)   Escrow and fee. An escrow account in the form of a cash deposit of
+not less than $15,000 or such other amount estimated by the Township Board,
+shall be set up when the applicant applies for a special use permit. The
+deposit shall be sufficient to cover all reasonable costs and expenses
+associated with the special land use zoning review and approval process, which
+costs can include, but are not limited to, fees of the Township Attorney,
+Township Planner, and Township Engineer, as well as any reports or studies
+which the township anticipates it may have done related to the zoning review
+process for the particular application. Such escrow amount shall include
+regularly established fees. At any point during the zoning review process, the
+township may require that the applicant place additional monies into the
+township escrow should the existing escrow amount filed by the applicant prove
+insufficient. If the escrow account needs replenishing and the applicant
+refuses to do so within 14 days after receiving notice, the zoning review and
+approval process shall cease until and unless the applicant makes the required
+escrow deposit. Any escrow amounts which are in excess of actual costs shall be
+returned to the applicant within 90 days of permitting process completion. The
+township may hire qualified professionals for each and any of the technical
+fields associated with the special use permit, such as, but not limited to,
+engineering, electrical, environmental, economic, wildlife, health, and land
+use.
+      (2)   Applicant identification.
+         (a)   Applicant name and address in full, a statement that the
+applicant is the owner involved or is acting on the owner’s behalf, and any
+additional contact information as necessary.
+         (b)   Each application for a solar energy system shall also be dated
+to indicate the date the application is submitted to Montrose Township.
+         (c)   The applicant, operator, and/or owner is required to place an
+identification placard on site of the SES with their company name, address, a
+contact name, and a contact phone number for the life of the project.
+      (3)   Commercial solar energy systems shall be limited and subject to
 obtaining a special land use permit from the Planning Commission in AG, RF, C-
 2, I-1, and I-2 zoning districts.
-      (2)   Commercial solar energy systems facilities shall not be constructed
-on parcels less than 20 acres in size.
-      (3)   Freestanding or ground-mounted solar energy systems shall be
-restricted to a height of 14 feet.
-      (4)   All freestanding or ground-mounted solar energy systems and
-supporting structures associated with such facilities (excluding perimeter
-security fencing and landscaping buffer) shall be a minimum of 10 feet from a
-side or rear property line and shall not be located within the required front
-yard setback for the zoning district in which it is located. All freestanding
-or ground-mounted solar energy system used in a commercial solar energy system
-including supporting structures associated with such facilities (excluding
-perimeter security fencing and landscaping buffer) shall be a minimum of 500
-feet from any dwelling unit located on an adjoining property. The Planning
-Commission may, upon approval of a site plan, allow a smaller setback
-requirement depending upon the location, surrounding development, and existing
-or proposed buffer being provided.
-      (5)   Commercial solar energy systems are not subject to any maximum lot
-coverage restrictions, however any other regulated structures located on the
-parcel are subject to the maximum lot coverage restrictions for the zoning
-district in which it is located.
-      (6)   A security fence (height and material to be approved by the
-Planning Commission through the special land use permit process) shall be
-placed around the perimeter of a commercial solar energy system and the
-electrical equipment shall be locked. Knox boxes and keys shall be provided at
-locked entrances for emergency personnel access.
-      (7)   Commercial solar energy system facilities shall not exceed 40 dBA
-measured at the property line.
-      (8)   Landscaping. Commercial solar energy system facilities shall be
-required to install perimeter landscaping equal to 1 tree for each 15 feet of
-road or highway frontage. The equivalent of 1 tree shall be required along the
-sides and rear of such developments equal to 1 tree every 15 feet of property
-line when abutting existing homes or developed parcels. The Planning Commission
-may alter the landscaping requirement depending upon the location and existing
-plant material on the site. Trees shall be a minimum of 4 feet tall when
-planted and remain in good condition for the life of the commercial SES.
-      (9)   Local, state and federal permits. Solar energy system facilities
-shall be required to obtain all necessary permits from the U.S. Government,
-State of Michigan, and Montrose Township, and comply with standards of the
-State of Michigan adopted codes.
-      (10)   Electrical interconnections. All electrical interconnection or
+      (4)   Freestanding or ground-mounted solar energy systems shall be
+restricted to a height of 14 feet at maximum tilt.
+      (5)   All solar energy systems shall have the following setbacks. See
+Diagram 1 for divisions (a) through (c) below. Setback distances shall be from
+the adjacent lot line or road right-of-way line to the proposed perimeter
+fencing around the solar energy system.
+         (a)   Front yard and/or road right-of-way: 200 feet;
+         (b)   Side yard: 50 feet;
+         (c)   Rear yard: 50 feet;
+         (d)   Dwelling unit:
+            1.   500 feet from the closest side and rear walls of a dwelling
+unit on an adjoining property.
+            2.   No solar energy system shall be placed between the closest
+point of a dwelling unit and the road right-of-way line on the same lot as the
+dwelling unit and the adjacent lots extending the width of the setback area
+defined above in division (5)(d), see Diagram 2.
+         (e)   Internal property lines: A SES is not subject to property line
+setback requirements for common property lines of two or more participating
+parcels, except road right-of-way setbacks shall apply.
+Diagram 1
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
+IMAGES/0-0-0-1573.png]
+ 
+Diagram 2
+[https://export.amlegal.com/media/1f8adc560b50fa36157f474307613d09e0ca3d8e/
+IMAGES/0-0-0-1575.png]
+      (6)   (a)   Commercial solar energy systems are not subject to any
+maximum lot coverage restrictions, however any other regulated structures
+located on the parcel are subject to the maximum lot coverage restrictions for
+the zoning district in which it is located.
+         (b)   Additional site plan requirements. The applicant shall submit a
+site plan in full compliance with §§
+153.230 through
+153.236 of this zoning ordinance for each solar energy system and other solar
+energy appurtenances. Additional requirements for a solar energy system site
+plan are as follows:
+            1.   The project area boundaries.
+            2.   The location, height, and dimensions of all proposed
+structures and fencing.
+            3.   The location, grades, and dimensions of all temporary and
+permanent on-site and access roads from the nearest county- or state-maintained
+road.
+            4.   Existing topography.
+            5.   Water bodies, waterways, wetlands, drainage channels, and
+drain easements.
+            6.   A site grading, erosion control and storm water drainage plan.
+The plans will be reviewed by the township’s engineering firm at the
+applicant’s cost.
+            7.   Proposed setbacks to all existing structures adjacent to the
+solar energy system.
+            8.   All new infrastructure, both above and below ground, related
+to the project. This includes inverters and batteries.
+            9.   Identification and site plan of a construction/set-up/laydown
+area.
+            10.   Landscape/screening plan detailing all proposed changes to
+the landscape of the site, including temporary or permanent roads or driveways,
+grading, vegetation clearing, and planting.
+      (7)   Signage and security.
+         (a)   A security fence shall be placed around the perimeter of a
+commercial solar energy system and the electrical equipment shall be locked.
+The fence shall be located between the solar array and the landscaping buffer.
+The fence shall meet the minimum requirements of the National Electrical Code
+requirements. If deemed appropriate, the Planning Commission can require
+specific fencing as needed. Knox boxes and keys shall be located at locked
+entrances, not on the fence for emergency personnel access.
+         (b)   The manufacturers or installer’s identification and appropriate
+warning sign shall be posted on or near the panels in a clearly visible manner;
+furthermore, an information sign shall be posted and maintained at the entrance
+(s), which shall list the name and phone number of the operator.
+         (c)   No portion of the solar energy system shall contain or be used
+to display advertising. The manufacturers’ name and equipment information or
+dedication of ownership shall be allowed on any equipment of the solar energy
+system.
+      (8)   Noise. Commercial solar energy system facilities shall not exceed
+40 dBA Leq (1-hour) measured at the project boundary. As part of the
+application, and prior to installation, the applicant shall provide noise
+modeling study and analysis that will demonstrate the solar energy system will
+not exceed the maximum permitted noise levels. Site plans shall include modeled
+sound isolines extending from the sound source to the property line to
+demonstrate compliance with this standard. Post-construction, the applicant
+and/or owner will conduct sound monitoring to ensure the project complies with
+the zoning ordinance standards.
+      (9)   Landscaping.
+         (a)   Land clearing of natural vegetation shall be limited to that
+which is necessary for the construction, operation, and maintenance of the
+solar energy system per practices of best management of natural areas or good
+husbandry of the land or forest other prescribed by applicable laws,
+regulations, and bylaws.
+         (b)   Landscaping shall consist of a minimum 20-foot-wide, vegetated
+greenbelt around the entire perimeter of the facility. Such greenbelt shall be
+adjacent to and outside of any perimeter fencing associated with the facility.
+Landscaping within the greenbelt shall consist of 70% evergreen trees and 30%
+deciduous trees of a minimum of 6 feet in height at the time of planting. All
+plantings shall be native species. All trees shall be planted a minimum of 10
+feet on center and have a minimum projected height of 20 feet. Existing
+vegetation within the greenbelt may be used as a substitute for the required
+plantings, upon approval of the Planning Commission. A landscape berm, a
+minimum of 3 feet high to assist in screening may be required. The requirement
+of providing a berm will be recommended and approved by the Planning
+Commission.
+         (c)   Each owner/operator of a solar energy system shall utilize good
+husbandry techniques with respect to said vegetation, including but not limited
+to, proper pruning, proper fertilizer, and proper mulching, so that the
+vegetation will reach maturity as soon as practical and will have maximum
+density in foliage. Dead or diseased vegetation shall be removed and must be
+replanted at the next appropriate planting time. Plants or grasses not part of
+landscaping shall be maintained by the facility operator not to exceed 12
+inches in height.
+         (d)   Applicant must provide a detailed landscape maintenance plan for
+the proposed solar energy system and surrounding area. The plan shall include a
+ground cover and vegetation establishment and management plan and include
+provisions that will be employed to maintain and promote native vegetation
+while minimizing the proliferation of weeds during and following construction.
+         (e)   The Planning Commission may alter the landscaping requirement
+depending upon the location of existing plant material on site.
+      (10)   Local, state and federal permits. Solar energy system facilities
+shall be required to obtain all applicable federal, state, and local laws,
+regulations, and ordinances including compliance with the following:
+         (a)   Farmland and Open Space Preservation Program (Part 361 of the
+Natural Resources and Environmental Protection Act, Public Act 451 of 1994 as
+amended, more commonly known as PA 116), and with applicable parts of the
+Michigan Natural Resources and Environmental Protection Act (Act 451 of 1994,
+M.C.L.A. § 324.101 et seq.) including but not limited to Part 31 Water
+Resources Protection (M.C.L.A. § 324.3101 et seq.), Part 91 Soil Erosion and
+Sedimentation Control (M.C.L.A. § 324.9101 et seq.), Part 301 Inland Lakes and
+Streams (M.C.L.A. § 324.30101 et seq.), and Part 303 Wetlands (M.C.L.A. §
+324.30301 et seq.).
+         (b)   The applicant shall be responsible for making repairs to any
+public roads, drains and infrastructure damaged by the construction or
+operation of the solar energy system. The applicant/owner will be required to
+enter into a road use agreement and/or drain use agreement with the County Road
+Commission or Drain Commission for post-construction repairs, if required by
+these agencies.
+         (c)   Copies of all such permits and approvals that have been obtained
+or applied for at the time of the application.
+      (11)   Electrical interconnections. All electrical interconnection or
 distribution lines shall comply with all applicable codes and standard
-commercial large-scale utility requirements. Use of above ground transmission
+commercial large-scale utility requirements. Use of above-ground transmission
 lines shall be prohibited within the site, unless waived by the Planning
 Commission during its review and approval of the project.
-      (11)   Additional special land use criteria. The following additional
+      (12)   Additional special land use criteria. The following additional
 topics shall be included in a review of a site plan and special use permit
 application for a commercial SES facility in addition to the general standards
-listed in § 153.218:
-         (a)   Project description and rationale. Identify the type, size,
-rated power output, performance, safety and noise characteristics of the
-system, including the name and address of the manufacturer, and model. Identify
-time frame, project life, development phases, likely markets for the generated
-energy, and possible future expansions;
-         (b)   Analysis of onsite traffic;
+listed in §
+153.218:
+         (a)   Project description and rationale. Provide a general description
+of the proposal including:
+            1.   A legal description and parcel identification numbers of the
+of the property of properties on which the project will be located.
+            2.   Location and height of all proposed above-ground structures
+and utilities associated with the SES, including horizontal- and vertical-
+scaled drawings with dimensions that show the location of the of the proposed
+SES facility.
+            3.   A description of the proposed technology to include the type
+of solar panels and system, number of panels, angles of orientation, rated
+power output, performance, safety, and the name and address of the of the
+manufacturer and model.
+            4.   Identify the anticipated construction schedule, project life,
+development phases, likely markets for the generated energy, and possible
+future expansions;
+         (b)   Analysis of onsite traffic and a plan that identifies the routes
+intended for use in connection with the development, construction, operation,
+and maintenance of the SES;
          (c)   Estimated construction jobs, estimated permanent jobs associated
 with the development;
-         (d)   Review and demonstrate the visual impact using photos or
-renditions of the project or similar projects with consideration given to tree
-plantings and setback requirements;
+         (d)   Review and demonstrate the visual impact of the proposed project
+from a minimum of 5 viewpoints at the time of commercial operation, projected
+after 5 years and 10 years post- construction. The visual simulations shall use
+photos or renditions of the project with consideration given to tree plantings
+and setback requirements;
          (e)   Review and demonstrate any potential impact on wildlife on the
 site;
          (f)   Identify any impact on the water quality and water supply in the
 area, any storm water discharge concerns from the property, and any dust
-concerns generated from project activities;
+concerns generated from project activities during construction and for the life
+of the project;
          (g)   Identify any solid waste or hazardous waste generated by the
-project;
-         (h)   Provide lighting plans showing all lighting within the facility.
+project.
+      (13)   Lighting and glare.
+         (a)   Provide lighting plans showing all lighting within the facility.
 No light may adversely affect adjacent parcels. All lighting must be shielded
-from adjoining parcels, and light poles are restricted to 18 feet in height;
-         (i)   Provide site access plan during construction and operation
-phases. Show proposed project service road ingress and egress access onto
-primary and secondary routes, layout of the plant service road system. Due to
-infrequent access to such facilities after construction is completed, it is not
-required to pave or curb access drives. It will be necessary to pave any
-driveway and parking lots used for occupied offices that are located on site;
-         (j)   Identify emergency and normal shutdown procedures. Identify
+from adjoining parcels, and light poles are restricted to 18 feet in height.
+         (b)   All solar energy systems shall be placed such that solar glare
+does not project onto nearby inhabited structures or roadways and be considered
+a nuisance.
+         (c)   Solar facilities should be sited and designed properly to
+eliminate glint and glare effects on roadway users, nearby residences,
+commercial areas, or other highly sensitive viewing locations, or to reduce
+them to the lowest achievable levels. The applicant will provide a glint and
+glare study which accurately assesses and quantifies potential glint and glare
+effects and to determine the potential health, safety, and visual impacts
+associated with proposed project.
+         (d)   The design and construction of solar energy facilities shall not
+produce light emissions, either direct or indirect (reflective), that would
+interfere with airline pilot vision and/or traffic control operations.
+         (e)   If the design of the project produces light or glare on
+neighboring homes or businesses, the owner shall mitigate that glare by
+curtailment.
+      (14)   Provide site access plan during construction and operation phases.
+Show proposed project service road ingress and egress access onto primary and
+secondary routes, layout of the plant service road system. Due to infrequent
+access to such facilities after construction is completed, it is not required
+to pave or curb access drives. It will be necessary to pave any driveway and
+parking lots used for occupied offices that are located on site.
+      (15)   Identify emergency and normal shutdown procedures. Identify
 potential hazards to adjacent properties, public roadways, and to the community
-in general that may be created;
-         (k)   Identify noise levels at the property line of the project
-boundary when completed;
-         (l)   Identify any electromagnetic fields and communications
-interference generated by the project; and
-         (m)   Describe the decommissioning and final land reclamation plan
-after anticipated useful life or abandonment or termination of the project,
-including evidence of an agreement with the property owner that ensures proper
-final removal of power generating equipment within 6 to 12 months of
+in general that may be created.
+      (16)   Identify any electromagnetic fields and communications
+interference generated by the project.
+      (17)   Maintenance plan. The applicant shall submit a maintenance plan
+that describes the following:
+         (a)   Explains routine maintenance to solar panels and facility.
+         (b)   Demonstrates the SES will be designed, constructed, and operated
+to minimize dust generation, including the provision of sufficient watering of
+excavated or graded soil during construction to prevent excessive dust.
+         (c)   States the manner in which unpaved access roads will be treated
+and maintained, either with a dust palliative or graveled or treated by another
+approved dust control method to prevent excessive dust.
+         (d)   Provisions that will be employed to maintain and promote native
+vegetation while minimizing the proliferation of weeds during and following
+construction. A record of mowing and the height of vegetation/grass following
+each cutting shall be recorded in the maintenance log described below.
+         (e)   If a SES is not maintained in operational and reasonable
+condition or poses a potential safety hazard, the owner shall take expeditious
+action to correct the situation, including SES removal, as necessary.
+         (f)   The owner shall keep a maintenance log on each SES and must
+provide a complete log to the township annually within 30 days of request.
+      (18)   Insurance. Proof of the applicant’s public liability insurance
+with a rated carrier of at least $3,000,000 per occurrence to cover the solar
+energy system, the township, and the landowner. Applicant shall provide yearly
+proof of insurance to township that confirms active coverage for the applicant
+and township.
+      (19)   Emergency services.
+         (a)   The solar energy system owner or operator shall provide a copy
+of the project summary, electrical schematic, and as-built site plan to the
+local fire chief. The owner or operator shall cooperate with local emergency
+services in developing an emergency response plan. All means of shutting down
+the solar photovoltaic installation shall be clearly marked.
+         (b)   The owner or operator shall identify a responsible person for
+public inquiries throughout the life of the installation.
+      (20)   Complaint resolution.
+         (a)   The applicant shall develop a process to resolve complaints from
+nearby residents concerning the construction or operation of the project. All
+complaints shall be acknowledged within 10 days of receipt of such complaint
+and the township supervisor shall also be notified of each complaint. The
+process may use an independent mediator or arbitrator and shall include a time
+limit for acting on a complaint. The process shall not preclude the local
+government from acting on a complaint.
+         (b)   During construction, the applicant shall maintain and make
+available to nearby residents a telephone number where a project representative
+can be reached during normal business hours.
+         (c)   A report of all complaints and resolutions to complaints shall
+be filed with the township on a quarterly basis.
+      (21)   Transfer of sale.
+         (a)   Prior to a change in the ownership or operation of a large solar
+energy system the current owner or operator shall provide written notice to the
+township at least 30 days prior to that change becoming effective. This notice
+shall inform the township of the intended transfer of control of the large
+solar energy system and shall include a copy of the instrument or agreement
+effecting that transfer. Such an instrument or agreement shall include an
+express statement that the new owner or operator of the large solar energy
+system shall not be permitted to operate that system until compliance with the
+terms of this division (AA).
+         (b)   Upon transfer or sale, the financial security for
+decommissioning shall be maintained at all times, the estimated costs of
+decommissioning shall be resubmitted, and the security adjusted to account for
+the new estimate.
+      (22)   Abandonment and decommissioning.
+         (a)   Abandonment.
+            1.   For the life of the project, the owner/operator will provide
+quarterly updates on current operations and energy production to the Township
+Board or their designee on the status of the solar energy system.
+            2.   A solar energy system that ceases to produce energy on a
+continuous basis for 6 months will be considered abandoned, unless the current
+responsible party (or parties) with ownership interest in the solar energy
+system provides substantial evidence prior to the 6-month expiration period
+that they intend to maintain and reinstate the operation of the facility. If
+the responsible party does not provide an update on the solar energy project
+until after the 6-month time limit of no energy production, the responsible
+party shall pay a fine according to the fee schedule set by the Township Board
+and provide a letter with satisfactory explanation and request for
+reinstatement of the project to the Township Board. Should the above provisions
+not be adhered to the project will be considered abandoned. It shall be the
+responsibility of the responsible party (or parties) to remove all equipment
+and facilities and completely restore the project area to its condition prior
+to the development of the solar energy system.
+               a.   Upon determination of abandonment, the Building Official
+shall notify the party (or parties) responsible that they must remove the solar
+energy system and restore the site to its condition prior to development of the
+solar energy system within 1 year of notice by the Township Board or its
+designee.
+               b.   If the responsible party (or parties) fails to comply, the
+Township Board or its designee may remove the solar energy system, sell any
+removed materials, and initiate judicial proceedings or take any other steps
+legally authorized against the responsible parties to recover the costs
+required to remove the solar energy system and restore the site to a
+nonhazardous pre- development condition.
+         (b)   Decommissioning. A decommissioning plan signed by the party
+responsible for decommissioning and the landowner addressing the following
+shall be submitted prior to the issuance of the zoning permit, which shall
+include:
+            1.   The anticipated life of the project;
+            2.   The estimated decommissioning costs in current dollars
+(salvage costs cannot be considered in the estimated decommissioning costs).
+The estimate shall be prepared by the engineer for the developer and shall be
+approved by the township;
+            3.   The method of ensuring that funds will be available for
+decommissioning and restoration, to include but not limited to:
+               a.   Complete removal of all non-utility owned equipment,
+conduit, structures, fencing, roads, solar panels and foundations; and
+               b.   Complete restoration of property to condition prior to
+development of the solar energy system;
+            4.   The anticipated manner in which the project will be
+decommissioned and the site restored:
+               a.   Decommissioning shall include the removal of each PV panel,
+all electrical components, and all facilities associated with the solar energy
+system.
+               b.   All access roads to the solar energy system shall be
+removed, cleared, and graded by the facility owner, unless the property owner
+requests, in writing, a desire to maintain the access road. The township will
+not be assumed to take ownership of any access road and such remaining roads
+will not be considered public roads.
+               c.   The site and any disturbed earth shall be stabilized,
+graded, and cleared of any debris by the owner of the solar energy system or
+its assigns. If the site is not to be used for agricultural purposes following
+removal, the site shall be seeded to prevent soil erosion, and restored to its
+condition existing prior to any construction activities;
+            5.   A provision to give notice to the township 1 year in advance
+of decommissioning;
+            6.   A financial instrument to assure payment of the cost of
+decommissioning shall be required. To ensure proper removal of the structure
+when it ceases to be used for a period of 6 months or more, any application for
+a new solar energy system shall include a description of the financial security
+guaranteeing removal of the solar energy system which will be posted at the
+time of receiving a zoning permit for the facility. The security shall be a: 1)
+cash; 2) irrevocable bank letter of credit; or 3) performance bond in a form
+approved by the township. The amount of such guarantee shall be no less than
+the estimated cost of removal and shall include a provision for inflationary
+cost adjustments every 5 years;
+            7.   A condition of the financial instrument shall be notification
+by the company to the Township Supervisor 30 days prior to its expiration or
+termination. When determining the amount of such required security, the
+township shall also require future meetings every 5 years, to establish
+corrected values for decommissioning. The financial security instrument shall
+be adjusted to each determined corrected value;
+            8.   Decommissioning shall be complete, and the ground shall be
+restored to its previous condition, within 1 year from the date of abandonment;
+which may be extended by 1 additional year by the Building Official.
+      (23)   Repowering. If at the end of the lease period, or the useful life
+of the SES, the applicant/owner decides to retrofit or repower the installation
+by reconfiguring, renovating, or replacing the existing components:
+         (a)   The applicant/owner shall provide the Planning Commission a
+proposal to change the project. It shall be considered a new application,
+subject to the ordinance standards at the time of the request.
+         (b)   The applicant/owner would not need to apply for a new permit if
+they are performing routine maintenance, as described in the provided
+maintenance plan.
+      (24)   Continuing compliance and enforcement escrow deposit. A continuing
+escrow deposit shall be held by the township and shall be funded by a cash
+deposit by the applicant prior to the commencement of construction of any solar
+energy facility and shall be maintained by the owner or operator until the
+solar energy facility has been permanently decommissioned and removed. The
+monetary amount placed by the applicant in escrow with the township shall be a
+minimum of $20,000 and shall cover all reasonable costs and expenses associated
+with continuing enforcement of this division (AA) and the terms of the special
+use permit, which costs can include, but are not limited to, reasonable fees
+for the Township Attorney, Township Planner and Township Engineer, as well as
+costs for any reports or studies that the township determines are reasonably
+related to enforcement of the division (AA) and the special use permit. If the
+township is required to expend any portion of the escrow deposit or if the
+existing escrow amount paid by the applicant proves to be insufficient to cover
+the township’s enforcement costs, the township may require the applicant to
+place additional monies into escrow with the township.
+   (AB)   Wind energy conversion systems (WECS).
+      (1)   Procedure. The Planning Commission review of a special land use
+permit for a WECS is a 2-step process. The first step is the public hearing and
+decision by the Planning Commission, per the procedures for review in §§
+153.215 through this
+153.219. The second step, which may occur at a separate meeting, is the site
+plan review process as described in §§
+153.230 through
+153.236.
+      (2)   Special land use. All WECS are allowed as a special land use in the
+AG, RF, C-2, I-1, and I-2 zoning districts.
+      (3)   Escrow and fee. An escrow account in the form of a cash deposit of
+not less than $15,000, or such other amount estimated by the Township Board,
+shall be set up when the applicant applies for a special use permit. The
+deposit shall be sufficient to cover all reasonable costs and expenses
+associated with the special land use zoning review and approval process, which
+costs can include, but are not limited to, fees of the Township Attorney,
+Township Planner, and Township Engineer, as well as any reports or studies
+which the township anticipates it may have done related to the zoning review
+process for the particular application. Such escrow amount shall include
+regularly established fees. At any point during the zoning review process, the
+township may require that the applicant place additional monies into the
+township escrow should the existing escrow amount filed by the applicant prove
+insufficient. If the escrow account needs replenishing and the applicant
+refuses to do so within 14 days after receiving notice, the zoning review and
+approval process shall cease until and unless the applicant makes the required
+escrow deposit. Any escrow amounts which are in excess of actual costs shall be
+returned to the applicant within 90 days of permitting process completion. The
+township may hire qualified professionals for each and any of the technical
+fields associated with the special use permit, such as, but not limited to
+engineering, electrical, environmental, economic, wildlife, health, and land
+use.
+      (4)   Applicant identification. Company contact information including
+telephone numbers and e-mail addresses, name of the company, name of the
+project, key company contacts with titles, employer identification number
+(EIN).
+      (5)   Project description. A general description of the proposed project
+including a legal description and map of the property or properties on which
+the project would be located and an anticipated construction schedule.
+      (6)   Project map. A map showing all participating properties and non-
+participating properties within the project boundary.
+      (7)   Site plans. The project site plans shall include maps showing the
+physical features and land uses in the project area. In addition to the
+requirements of §
+153.233, the site plan shall include:
+         (a)   The project area boundaries, including lot lines and dimensions.
+         (b)   Names and parcel identification numbers of each parcel within
+the WECS.
+         (c)   The location, height, and dimensions of all existing and
+proposed structures and fencing.
+         (d)   The location, grades, and dimensions of all temporary and
+permanent on-site access roads including width and surface material from the
+nearest county or state-maintained road.
+         (e)   Existing topography.
+         (f)   Water bodies, waterways, wetlands, and drainage channels.
+         (g)   All new infrastructure related to the project.
+      (8)   Setbacks.
+         (a)   Inhabited structure. The distance between a wind turbine and an
+inhabited structure shall be at least 3.0 times the tip height.
+         (b)   Non-participating parcel. The distance between a wind turbine
+and the property lines of adjacent non-participating parcels shall be at least
+1.5 times the tip height of the wind turbine.
+         (c)   Road right-of-way and railroad setback. The distance between a
+wind turbine and the underlying road right-of-way shall be at least 1.5 times
+the tip height of the wind turbine.
+         (d)   Public utility setback. The distance between a wind turbine and
+an active public utility corridor, such as overhead communication lines, shall
+be at least 1.5 times the tip height.
+         (e)   SCADA (supervisory control and data acquisition) or
+meteorological (MET) towers shall be setback 1.5 times the tip height of the
+SCADA or MET tower.
+         (f)   An operations and maintenance office building, a sub-station, or
+ancillary equipment shall comply with any property setback requirement that may
+be applicable to that type of building or equipment.
+         (g)   Public waterways. All WECS shall be set back at least 1 mile
+from all public bodies of water regulated under Part 301, excluding legally
+established county drains.
+         (h)   Tip height. The maximum height of a wind turbine shall be 499
+feet.
+      (9)   Engineering data. The safety of the design of all WECS towers shall
+be certified by a professional engineer registered in the state. A copy of the
+manufacturer’s installation instructions, standard for certification, and
+blueprints shall be provided to the Building Official prior to the issuance of
+a building permit. Included as part of or as an attachment to the installation
+instructions shall be standard drawings, including base and footing details,
+along with engineering data and calculations to demonstrate compliance with the
+structural design provisions of the Building Code.
+      (10)   Certifications. Certification that the applicant has complied or
+will comply with all applicable state and federal laws and regulations. Copies
+of all such permits and approvals that have been obtained or applied for at the
+time of the application.
+         (a)   WECS including towers shall comply with all applicable state
+construction and electrical codes and local building permit requirements.
+         (b)   The applicant shall comply with applicable parts of the Michigan
+Natural Resources and Environmental Protection Act (Act 451 of 1994, M.C.L.A. §
+324.101 et seq.) including but not limited to Part 31 Water Resources
+Protection (M.C.L.A. § 324.3101 et seq.), Part 91 Soil Erosion and
+Sedimentation Control (M.C.L.A § 324.9101 et seq.), Part 301 Inland Lakes and
+Streams (M.C.L.A. § 324.30101 et seq.), Part 303 Wetlands (M.C.L.A. § 324.30301
+et seq.), Part 323 Shoreland Protection and Management (M.C.L.A. § 324.32301 et
+seq.), Part 325 Great Lakes Submerged Lands (M.C.L.A. § 324.32501 et seq.), and
+Part 353 Sand Dunes Protection and Management (M.C.L.A. § 324.35301 et seq.).
+      (11)   Environmental impact. The applicant shall have a third-party,
+qualified professional conduct an analysis to identify and assess any potential
+impacts on the natural environment including, but not limited to wetlands and
+other fragile ecosystems, historical and cultural sites, and antiquities. The
+applicant shall take appropriate measures to minimize, eliminate or mitigate
+adverse impacts identified in the analysis. The applicant shall identify and
+evaluate the significance of any net effects or concerns that will remain after
+mitigation efforts and provide a copy of the report to the township.
+      (12)   Avian and wildlife.
+         (a)   The applicant shall have a third-party, qualified professional
+conduct an analysis to identify and assess any potential impacts on wildlife
+and endangered species. The applicant shall take appropriate measures to
+minimize, eliminate or mitigate adverse impacts identified in the analysis. The
+applicant shall identify and evaluate the significance of any net effects or
+concerns that will remain after mitigation efforts and provide a copy of the
+report to the township.
+         (b)   Sites requiring special scrutiny include wildlife refuges, other
+areas where birds are highly concentrated, bat hibernacula, wooded ridge tops
+that attract wildlife, sites that are frequented by federally and/or state-
+listed endangered species of birds and bats, significant bird-migration
+pathways, and areas that have landscape features known to attract large numbers
+of raptors. At a minimum, the analysis shall include a thorough review of
+existing information regarding species and potential habitats in the vicinity
+of the project area. Where appropriate, surveys for bats, raptors, and general
+avian use should be conducted. The analysis shall include the potential effects
+on species listed under the federal Endangered Species Act and Michigan’s
+Endangered Species Protection Law.
+         (c)   The analysis shall indicate whether a post-construction wildlife
+mortality study will be conducted and, if not, the reasons why such a study
+does not need to be conducted. Power lines should be placed underground, when
+feasible, to prevent avian collisions and electrocutions. All above-ground
+lines, transformers, or conductors should comply with the Avian Power Line
+Interaction Committee (APLIC)-published standards to prevent avian mortality.
+         (d)   The applicant should consider painting a single blade black to
+reduce avian and wildlife mortality and address this solution in their
+application.
+      (13)   Visual impact.
+         (a)   WECS projects shall use tubular towers and all WECS in a project
+shall be finished in a non-reflective matte-finished color.
+         (b)   A project shall be constructed using wind turbines of similar
+design, size, operation, and appearance throughout the project.
+         (c)   No lettering, company insignia, advertising, or graphics shall
+be on any part of the tower, hub, or blades. Nacelles may have lettering that
+exhibits the manufacturer’s and/or owner’s identification.
+      (14)   Safety and security.
+         (a)   All WECS shall be designed to prevent unauthorized access to
+electrical and mechanical components and shall have access doors that are kept
+securely locked at all times when service personnel are not present.
+         (b)   All spent lubricants and cooling fluids shall be properly and
+safely removed in a timely manner from the site of the wind energy system.
+         (c)   A sign shall be posted near each tower and operations and
+maintenance office building that will contain emergency contact information.
+         (d)   Signage placed at the road access shall be used to warn visitors
+about the potential danger of falling ice.
+         (e)   The minimum vertical blade tip clearance from grade shall be 75
+feet for a turbine employing a horizontal axis rotor.
+         (f)   All WECS must be equipped with manual and automatic over-speed
+controls to limit the blade speed to the engineered design limits of the
+installation.
+         (g)   The applicant shall work with local emergency services for
+coordination and training on the WECS.
+      (15)   FAA and lighting.
+         (a)   The minimum FAA lighting standards shall not be exceeded. All
+tower lighting required by the FAA shall be shielded to the maximum extent
+possible to reduce glare and visibility from the ground. The tower shaft shall
+not be illuminated unless required by the FAA.
+         (b)   WECS including towers shall comply with Federal Aviation
+Administration requirements, the Michigan Airport Zoning Act (Public Act 23 of
+1950, M.C.L.A. § 259.431 et seq.), the Michigan Tall Structures Act (Public Act
+259 of 1959, M.C.L.A. § 259.481 et seq.), and local jurisdiction airport
+overlay zone regulations. WECS shall comply with applicable utility, Michigan
+Public Service Commission, and Federal Energy Regulatory Commission
+interconnection standards.
+         (c)   A lighting plan must be submitted by the applicant. Such plans
+must describe all lighting that will be utilized for a proposed project. Such a
+plan shall include the planned number and location of lights, light color, and
+whether any lights will be flashing. As part of the lighting plan, applicants
+must submit the detailed plans to install an aircraft detection lighting system
+(ADLS) that manages the proposed wind energy facility’s lighting to reduce
+illumination when unnecessary unless an applicant demonstrates that an
+applicable local, state, or federal entity prohibits the use of an ADLS on a
+particular project. All WECS must be equipped with an ADLS to minimize lighting
+unless prohibited by a governing entity.
+      (16)   Sound.
+         (a)   The sound pressure level generated by a WECS shall be Leq 40 dB
+(A) measured at a non-participating inhabited structure and be Leq 45 dB(A)
+non-participating parcel line. This sound pressure level may be exceeded during
+short-term events such as utility outages and/or severe wind storms. If the
+ambient sound pressure level exceeds 40 dB(A), the standard shall be ambient dB
+(A) plus 5 dB(A).
+         (b)   As part of the application and prior to installation, the
+applicant shall provide modeling and analysis that will confirm that the WECS
+will not exceed the maximum permitted sound pressure levels.
+         (c)   Modeling and analysis shall conform to IEC 61400 and ISO 9613.
+         (d)   After installation of the WECS, sound pressure level
+measurements shall be done by a third-party, qualified professional according
+to the procedures in the most current version of ANSI S12.18. All sound
+pressure levels shall be measured with a sound meter that meets or exceeds the
+most current version of ANSI S1.4.
+         (e)   Documentation of the sound pressure level measurements shall be
+provided to the local government within 60 days after construction is completed
+on the WECS.
+      (17)   Shadow flicker.
+         (a)   The applicant shall conduct an analysis of potential shadow
+flicker created by each proposed wind turbine at all inhabitable structures.
+Such analysis shall be documented in a shadow flicker modeling report.
+         (b)   The analysis shall identify the locations of shadow flicker
+created by each proposed wind turbine and the expected durations of the flicker
+at these locations from sunrise to sunset over the course of a year.
+         (c)   Site plans shall depict a contour around each proposed wind
+turbine that represents the predicted 30 hours per year of shadow flicker
+generated by the modeling software used in the report. For participating
+parcels, shadow flicker shall not exceed 30 hours per year. For non-
+participating parcels, there shall not be any shadow flicker on non-
+participating dwellings.
+         (d)   The analysis shall identify all areas where shadow flicker may
+affect the occupants of the inhabitable structures and describe measures that
+shall be taken to eliminate or mitigate the problems. A shadow flicker
+mitigation plan shall also be submitted with the shadow flicker modeling
+report. Any shadow flicker complaint shall be addressed by the applicant and be
+mitigated.
+      (18)   Electromagnetic interference.
+         (a)   No WECS shall be installed in any location where its proximity
+to existing fixed broadcast, retransmission, or reception antennae for radio,
+television, or wireless phone or other personal communication systems would
+produce electromagnetic interference with signal transmission or reception
+unless the applicant provides a replacement signal to the affected party that
+will restore reception to at least the level present before operation of the
+wind energy system.
+         (b)   No WECS shall be installed in any location within the line of
+sight of an existing microwave communications link where the operation of the
+wind energy system is likely to produce electromagnetic interference in the
+link’s operation unless the interference is insignificant.
+      (19)   Road Commission and Drain Commission.
+         (a)   Transportation plan. A description of the routes used by
+construction and delivery vehicles and of any road improvements that will be
+necessary to accommodate construction vehicles and equipment deliveries.
+            1.   The applicant shall be responsible for making repairs to any
+public roads damaged by the construction of the WECS.
+            2.   In addition, the applicant shall submit to Montrose Township
+and a copy of the agreement or bond agreed upon with the County Road Commission
+and MDOT, as applicable, which guarantees the repair of damage to public roads
+and other areas caused by construction of the WECS.
+         (b)   1.   Where utility-grid wind energy system construction cuts
+through a private or public drain tile field, the drain tile must be repaired
+and reconnected or other remedial measures performed to properly drain the site
+to the satisfaction of the landowner if a private drain, or if a public drain,
+the Genesee County Drain Commission and Montrose Township.
+            2.   In addition, the applicant shall submit to Montrose Township
+and a copy of the agreement or bond agreed upon with the County Drain
+Commission which guarantees the repair of damage caused by construction of the
+WECS.
+      (20)   Operations and maintenance. Description of the operations of the
+WECS including regular and unscheduled maintenance.
+      (21)   Complaint resolution.
+         (a)   The applicant shall develop a process to resolve complaints from
+nearby residents concerning the construction or operation of the project. All
+complaints shall be acknowledged within 10 business days of receipt of such
+complaint and the township supervisors shall also be notified of each
+complaint. The process may use an independent mediator or arbitrator and shall
+include a time limit for acting on a complaint. The process shall not preclude
+the local government from acting on a complaint.
+         (b)   During construction and for the life of the project, the
+applicant, owner, or operator shall maintain and make available to nearby
+residents a telephone number where a project representative can be reached
+during normal business hours.
+         (c)   A report of all complaints and resolutions shall be filed with
+the Building Official or assigned designee on a quarterly basis.
+      (22)   Transfer of sale.
+         (a)   Prior to a change in the ownership or operation of a WECS the
+current owner or operator shall provide written notice to the township at least
+30 days prior to that change becoming effective. This notice shall inform the
+township of the intended transfer of control of the WECS and shall include a
+copy of the instrument or agreement affecting that transfer. Such an instrument
+or agreement shall include an express statement that the new owner or operator
+of the WECS shall not be permitted to operate that system until compliance with
+the terms of this division (AB).
+         (b)   Upon transfer or sale, the financial security for
+decommissioning shall be maintained at all times, the estimated costs of
+decommissioning shall be resubmitted, and the security adjusted to account for
+the new estimate.
+      (23)   As-built drawings. Within 12 months of project completion, the
+applicant shall submit as-built site plan drawings of the constructed WECS. The
+applicant should submit a hard copy of the drawing set and electronic file
+formats including Adobe PDF, GIS, and CAD files. The information in the
+drawings should include location data (x,y coordinates) of site features,
+inclusive of turbines, access roads, junction boxes, underground collection
+lines, above-ground transmission lines, and borings underneath roads and
+drains.
+      (24)   Abandonment and decommissioning.
+         (a)   Abandonment.
+            1.   a.   For the life of the project, the owner/operator will
+provide quarterly updates on current operations and energy production to the
+Township Board or their designee on the status of the WECS.
+               b.   A WECS that ceases to produce energy on a continuous basis
+for 6 months will be considered abandoned unless the current responsible party
+(or parties) with an ownership interest in the WECS provides substantial
+evidence prior to the 6-month expiration period that they intend to maintain
+and reinstate the operation of the facility. If the responsible party does not
+provide an update on the WECS until after the 6-month time limit of no energy
+production, the responsible party shall pay a fine according to the fee
+schedule set by the Township Board and provide a letter with satisfactory
+explanation and request for reinstatement of the project to the Township Board.
+Should the above provisions not be adhered to the project will be considered
+abandoned. It shall be the responsibility of the responsible party (or parties)
+to remove all equipment and facilities and completely restore the project area
+to its condition prior to the development of the WECS.
+            2.   Upon determination of abandonment, the Building Official shall
+notify the party (or parties) responsible that they must remove the wind energy
+system and restore the site to its condition prior to development within 6
+months of notice by the Planning Commission or its designee.
+            3.   If the responsible party (or parties) fails to comply, the
+Planning Commission or its designee may remove the wind energy system, sell any
+removed materials, and initiate judicial proceedings or take any other steps
+legally authorized against the responsible parties to recover the costs
+required to remove the wireless communication facility and restore the site to
+a nonhazardous predevelopment condition.
+         (b)   Decommissioning plan.
+            1.   The applicant shall submit a decommissioning plan. The plan
+shall include:
+               a.   The anticipated life of the project.
+               b.   The estimated decommissioning costs, which does not include
+salvage value. The estimate shall be prepared by the engineer for the developer
+and shall be approved by the township.
+               c.   The method of ensuring that funds will be available for
+decommissioning and restoration.
+               d.   The anticipated manner in which the project will be
+decommissioned and the site restored.
+               e.   A provision to notice the township 1 year in advance of
 decommissioning.
-      (12)   The Planning Commission because of the ever-changing technical
-capabilities of solar energy systems and of new technology in general shall
-have the authority to review and consider alternatives in both dimensional
-requirements as well as physical development requirements found in this
-section. The Planning Commission shall not have the authority to review or to
-allow large commercial SES facilities within any other zoning district.
+               f.   A clause which requires the applicant, owner, or operator
+to review the value of the decommissioning bond or surety on a 5-year basis for
+cost of inflation.
+            2.   At the time of decommissioning the applicant, owner, or
+operator is required to do the following:
+               a.   The applicant shall be responsible for making repairs to
+any public roads damaged by the construction of the WECS.
+               b.   Remove all towers and other components of the system.
+               c.   Completely remove all foundations and underground
+components. Restore all conditions (including topsoil) to the pre-construction
+condition.
+               d.   Remove all roads and driveways not accepted for use by
+either the township or the property owner and restore to the pre-construction
+condition.
+               e.   Restore the site to conditions acceptable to the township
+and the property owner.
+            3.   Performance bond. At the time of project approval, the
+applicant shall post a performance bond to insure the decommissioning of the
+WECS and restoration of the property.
+               a.   The applicant shall post a performance bond, the amount to
+be determined by the Township Board and legal counsel, to be sufficient to
+cover the decommissioning of the system.
+               b.   The security shall be a: 1) cash; 2) irrevocable bank
+letter of credit; or 3) performance bond in a form approved by the township.
+The amount of such guarantee shall be no less than the estimated cost of
+removal and shall include a provision for inflationary cost adjustments every 5
+years.
+               c.   The security shall be in favor of the township and shall be
+used in the event the decommissioning plan needs to be enforced with respect to
+the removal of the system or individual components and restoration of the site.
+               d.   The performance bond shall remain in effect until the
+system and all components are removed and the site restored.
+               e.   A condition of the financial instrument shall be
+notification by the company to the Township Supervisor 30 days prior to its
+expiration or termination. When determining the amount of such required
+security, the township shall also require future meetings every 5 years, to
+establish corrected values for decommissioning. The financial security
+instrument shall be adjusted to each determined corrected value.
+      (25)   Repowering. If at the end of the lease period, or the useful life
+of the WECS, the applicant/owner decides to retrofit or repower the
+installation by reconfiguring, renovating, or replacing the existing
+components:
+         (a)   The applicant/owner shall provide the Planning Commission, a
+proposal to change the project. It shall be considered a new application,
+subject to the ordinance standards at the time of the request.
+         (b)   The applicant/owner would not need to apply for a new permit if
+they are performing routine maintenance, as described in the provided
+maintenance plan.
+      (26)   Continuing compliance and enforcement escrow deposit. A continuing
+escrow deposit shall be held by the township and shall be funded by a cash
+deposit by the applicant prior to the commencement of construction of any wind
+energy conversion systems and shall be maintained by the owner or operator
+until the WECS has been permanently decommissioned and removed. The monetary
+amount placed by the applicant in escrow with the township shall be a minimum
+of $20,000 and shall cover all reasonable costs and expenses associated with
+continuing enforcement of this division (AB) and the terms of the special use
+permit, which costs can include, but are not limited to, reasonable fees for
+the Township Attorney, Township Planner, and Township Engineer, as well as
+costs for any reports or studies that the township determines are reasonably
+related to enforcement of this division (AB) and the special use permit. If the
+township is required to expend any portion of the escrow deposit or if the
+existing escrow amount paid by the applicant proves to be insufficient to cover
+the township’s enforcement costs, the township may require the applicant to
+place additional monies into escrow with the township.
    (B)   Adult foster care large group home for 13 to 20 residents.
       (1)   A state licensed adult foster care large group home shall not be
 located within 750 feet of another similar state licensed facility.
@@ -11800,7 +12589,8 @@ Building/Zoning Official, an appeal may be made to the Zoning Board of Appeals.
 114, passed 11-9-1998; Am. Ord. 148, passed 5-16-2006; Am. Ord. 152, passed 1-
 16-2007; Am. Ord. 155, passed 4-17-2007; Am. Ord. 158, passed 7-17-2007; Am.
 Ord. 13-200, passed 3-19-2013; Am. Ord. 18-231, passed 12-18-2018; Am. Ord. 21-
-006-153.006 et seq., passed 10-19-2021) Penalty, see §
+006-153.006 et seq., passed 10-19-2021; Am. Ord. 23-004, passed 6-13-2023; Am.
+Ord. 23-005, passed 7-18-2023)  Penalty, see §
 153.999
 REVIEW AND APPROVAL PROCEDURES FOR SITE PLANS
 AND CONDOMINIUM DEVELOPMENT PROJECTS
@@ -15096,155 +15886,51 @@ to disseminate, any obscene material.
 (Ord. 99, passed 11-18-1996, § 22.30; Am. Ord. 118, passed 3-15-1999) Penalty,
 see §
 153.999
-§ 153.364 WIND ENERGY CONVERSION SYSTEMS.
+§ 153.364 PRIVATE, ON-SITE WIND ENERGY FACILITY (WEF).
    (A)   Purpose. The purpose of this section is to promote the safe use of
 wind energy conversion systems that are designed to reduce the on-site
 consumption of utility-supplied electricity by establishing regulations on the
-sitting, design, and installation of energy conversion systems so that the
-public health, safety, and welfare of neighboring property owners or occupants
-will not be jeopardized. This section applies to all wind energy conversion
-systems constructed and operated in the township whether or not the system is
-capable of feeding produced energy into the local utility grid. In no case
-shall the provisions of this section guarantee the wind rights or establish
-access to the wind.
-   (B)   Definitions. For the purpose of this section, the following
-definitions shall apply unless the context clearly indicates or requires a
-different meaning.
-      SHADOW FLICKER. The phenomenon created by light casting a shadow on
-moving turbine blades; where this shadow is cast creates a potential annoyance
-to adjoining property owners.
-      TOWER. The vertical component of a wind energy system, whether guyed or
-freestanding, for the exclusive purpose of elevating the wind turbine/generator
-and attached blades or rotors above the ground. The term TOWER may also refer
-to the structure that elevates a wind anemometer for the purpose of feasibility
-studies preliminary to the placement of a wind energy conversion system (WECS).
-      TOWER HEIGHT. The height above grade to a blade tip at its highest point
-of travel.
-      WIND ENERGY CONVERSION SYSTEMS (WECS). Any device which converts wind
-energy into electricity through the use of a wind turbine generator and
-includes a rotor, a generator or alternator mounted on a frame, a tail, a
-tower, wiring, and the “balance of system” components such as controllers,
-inverters, and/or batteries.
-      (1)   PRIVATE WECS. Any WECS that is accessory to a principal use located
-on the same lot and is designed and built to serve the needs of the principal
-use.
-      (2)   COMMERCIAL WECS. Any WECS that is designed and built to provide
-electricity to the electric utility's power grid.
-   (C)   Review and approval requirements. 
-      (1)   Wind energy conversion systems may be permitted as a special land
-use in all zoning districts and shall be reviewed and approved in compliance
-with §§
-153.215 through
-153.218 in all zoning districts as listed in the Code of Ordinances, provided
-that they conform to the requirements of this section.
-      (2)   Exceptions: a special land use permit is not necessary for a
-proposed private WECS when the WECS is designed and built to serve the needs of
-the principal use and when the height does not exceed the maximum building
-height as listed in the schedule of regulations by zoning districts.
-         (a)   A review by the Building Official for compliance with all other
+siting, design, and installation of private WEF so that the public health,
+safety, and welfare of neighboring property owners or occupants will not be
+jeopardized. In no case shall the provisions of this section guarantee the wind
+rights or establish access to the wind.
+   (B)   Exceptions. A special land use permit is not necessary for a proposed
+private WEF when the WEF is designed and built to serve the needs of the
+principal use and when the height does not exceed the maximum building height
+as listed in the schedule of regulations by zoning districts.
+      (1)   A review by the Building Official for compliance with all other
 regulations listed below shall be required. Prior to the issuance of a
-construction permit for a private WECS by the Building Official a notice shall
+construction permit for a private WEF by the Building Official, a notice shall
 be mailed to all adjoining property owners to receive public comments.
-         (b)   In the event that a WECS review is denied by the Building
-Official, an appeal may be made to the Zoning Board of Appeals. If the
-official's decision is upheld, appeal may be taken to the Circuit Court for the
-County of Genesee.
-      (3)   All applications for a WECS special land use approvals shall be
+      (2)   In the event that a WEF review is denied by the Building Official,
+an appeal may be made to the Zoning Board of Appeals. If the official’s
+decision is upheld, an appeal may be taken to the Circuit Court for the County
+of Genesee.
+   (C)   All applications for a WEF special land use approvals shall be
 submitted to the Building Official with an application as provided for by the
-township, accompanied with the required application fees, a detail site plan
+township, accompanied with the required application fees, a detailed site plan
 drawn to scale and dimensioned, and displaying all of the following
 information.
-         (a)   All lot lines dimensions, including a legal description.
-         (b)   Distances between existing and proposed setbacks for the WECS
-from all property lines and from all structures located on the property where
-the WECS will be located and for all structures located off-site within 300
-feet of the exterior property lines where the WECS will be located.
-         (c)   The location and height of all existing and proposed buildings,
+      (1)   All lot line dimensions, including a legal description.
+      (2)   Distances between existing and proposed setbacks for the WEF shall
+be at least 1.1 times the tip height from all property lines, principal
+structures, ponds, utilities, and easements.
+      (3)   The location and height of all existing and proposed buildings,
 structures, electrical lines, towers, guy wires and guy wire anchors, and
 security fencing.
-         (d)   Location and height of all adjacent buildings, structures, and
-above ground utilities located within 300 feet of the exterior property lines
-of the lot or parcel where a proposed WECS will be located.
-         (e)   An elevation drawing of the proposed WECS.
-         (f)   Planned security measures to prevent unauthorized access to the
-proposed WECS.
-         (g)   Show any access driveway or road to the proposed WECS.
-         (h)   Any additional details and or information as required by the
+      (4)   An elevation drawing of the proposed WEF.
+      (5)   Planned security measures to prevent unauthorized access to the
+proposed WEF.
+      (6)   Show any access driveway or road to the proposed WEF.
+      (7)   Any additional details and/or information as required by the
 special use requirements of this section, or as requested by the Planning
 Commission and or Building Official.
-      (4)   The safety of the design of all WECS towers shall be certified by a
-professional engineer registered in the state. A copy of the manufacturer’s
-installation instructions, standard for certification, and blueprints shall be
-provided to the Building Official prior to the issuance of a building permit.
-Included as part of or as an attachment to the installation instructions shall
-be standard drawings, including base and footing details, along with
-engineering data and calculations to demonstrate compliance with the structural
-design provisions of the Building Code.
-      (5)   All electrical compartments, storage facilities, wire conduit, and
-interconnections with utility companies shall conform to state and local
-electrical codes. All ground-mounted electrical and control equipment shall be
-labeled and secured to prevent unauthorized access.
-      (6)   Only 1 WECS shall be located on each parcel of record within the
-township. The Planning Commission may wave this provision for clusters of 2 or
-more WECS, commonly known as wind farms, when used for commercial purposes.
-Said WECS may or may not be owned by the owner of the property upon which the
-WECS is located or placed.
-      (7)   The maximum height of a private WECS shall be 35 feet to the top of
-the blade at the maximum vertical position. The maximum height of a commercial
-WECS shall be 50 feet to the top of the blade at the maximum vertical position.
-The Planning Commission may wave the height requirement where it can be shown
-that there is a need to exceed the height limits to obtain necessary wind speed
-required for a WECS.
-      (8)   Setbacks to the base of the tower shall be no less than 1-1/2 times
-the total height of the proposed WECS. Guy wire anchors if used may be no
-closer than 10 feet from any property boundary.
-      (9)   Guy wires associated with the installation of any WECS shall be
-marked and clearly visible to a height of 8 feet above the ground or completed
-enclosed by a fence with a minimum height of 4 feet.
-      (10)   The minimum blade or rotor clearance above the ground shall be 20
-feet, with a minimum of 75 feet of clearance over and from any structure,
-adjoining property, or tree.
-      (11)   The WECS tower shall not be lighted, except due to any applicable
-FAA regulations, and shall not be used for the placement of any antennas or
-other purpose not related directly to the support of a wind turbine.
-      (12)   The WECS tower shall be designed and installed so as not to
-provide a ladder or other publicly accessible means of climbing the tower, for
-a minimum height of 12 feet above the ground, or enclosed by a locked,
-protective fence at least 10 feet high with barbed wire placed along the top of
-the fence.
-      (13)   All WECS must be equipped with manual and automatic over speed
-controls to limit the blade speed to the engineered design limits of the
-installation.
-      (14)   Noise level associated with a wind energy installation shall be
-limited to a maximum of 55 decibels as measured at the property line nearest
-the tower.
-      (15)   The WECS tower and turbine placement shall be such that the shadow
-flicker does not interfere with adjoining property owners.
-      (16)   A WECS shall not contain advertising, except manufacturing labels
-pre-attached and less than 1 square foot in size, and the tower shall be
-painted a neutral color rendering the WECS visually inconspicuous.
-      (17)   A WECS that is not functional for a period of 12 consecutive
-months shall be promptly removed by the owner.
-   (D)   Repeal. If any section, subsection, sentence, clause, or phrase of
-this section is, for any reason, held to be unconstitutional, any such decision
-shall not affect the validity of the remaining portions of this section. The
-township hereby declares that it would have passed this section and each
-section, subsection, clause, or phrase thereof irrespective of the fact that
-any one or more sections, subsections, sentences, clauses, and phrases be
-declared unconstitutional.
-   (E)   Saving clause. Nothing in this section or in the code hereby adopted
-shall be construed to affect any suit or proceeding pending in any court or
-administrative body, or any rights acquired, or liability incurred, or any
-cause or causes of action acquired or existing, under any act or ordinance
-hereby repealed by this section; nor any just or legal right or remedy of any
-character be lost, impaired, or affected by this section.
-   (F)   Severability. If any section, subsection, clause, phrase, or portion
-of this section is for any reason held invalid or unconstitutional by any court
-of competent jurisdiction, such portion shall be deemed a separate, distinct,
-and independent portion of this section, and such holding shall not affect the
-validity of the remaining portions of this section.
+      (8)   The maximum height of a private WEF shall be 60 feet to the top of
+the blade at the maximum vertical position. The Planning Commission may waive
+the height requirement where it can be shown that there is a need to exceed the
+height limits to obtain necessary wind speed required for a WEF.
 (Ord. 10-188, passed 10-19-2010; Am. Ord. 21-006-153.006 et seq., passed 10-19-
-2021)
+2021; Am. Ord. 23-005, passed 7-18-2023)
 § 153.365 COMMUNICATION TOWERS.
    (A)   Authorization.
       (1)   Changing technology in the field of communications has resulted in
@@ -16569,6 +17255,19 @@ Ord. No.       Date Passed Description
                            Rezoning a parcel of land at 10139 W. Vienna Road
 22-007-153.021 11-1-2022   and a parcel of land at 10245 W. Vienna Road from RS
                            (Residential Suburban) to C-2 (General Commercial).
+                           Rezoning Parcel No. 13-13-200-044, described as a
+2023-02        5-16-2023   vacant lot (32.25 acres) on the south side of W.
+                           Farrand Road, from RS (Residential Suburban) to RF
+                           (Residential Farm).
+                           Rezoning Parcel No. 13-22-100-050 and part of Parcel
+                           No. 13-22-100-051, located in part of Government Lot
+2023-006       9-19-2023   2 of Section 22, Town 9 North, Range 5 East,
+                           commonly known as 9415 Vienna Road, Montrose,
+                           Michigan, from I-2 (Heavy Industrial) to C-2
+                           (General Commercial).
+                           Rezoning Parcel No. 13-13-400-038, commonly known as
+25-001         4-15-2025   7226 Vienna Road, Clio, Michigan, from RF
+                           (Residential Farm) to C-2 (General Commercial).
                           
 PARALLEL REFERENCES
 References to Michigan Compiled Laws Annotated
@@ -16619,11 +17318,16 @@ M.C.L.A.              Code Section
 257.301 to 257.329  92.03
 257.625(1)(c)         70.01,
                       70.99
+259.431 et seq.       153.219
+259.481 et seq.       153.219
 299.501 - 299.551     153.006
-324.3101 et seq.      52.02
+324.101 et seq.       153.219
+324.3101 et seq.      52.02,
+                      153.219
 324.3103              52.02
 324.3106              52.02
 324.3109              52.02
+324.9101 et seq.      153.219
                       53.01,
                       53.02,
                       53.21,
@@ -16632,6 +17336,11 @@ M.C.L.A.              Code Section
                       94.35,
                       153.006
 324.20101 et seq.     33.02
+324.30101 et seq.     153.219
+324.30301 et seq.     153.219
+324.32301 et seq.     153.219
+324.32501 et seq.     153.219
+324.35301 et seq.     153.219
 324.63201 et seq.     153.256
 324.80104(q)          140.03
 324.81129             92.03
@@ -17204,5 +17913,14 @@ Ord. No.               Date Passed         Code Section
                                            136.03
 22-005-153.021         9-20-2022           T.S.O. II
 22-007-153.021         11-1-2022           T.S.O. II
+2023-02                5-16-2023           T.S.O. II
+23-004                 6-13-2023           153.006,
+                                           153.219
+                                           153.006,
+23-005                 7-18-2023           153.219,
+                                           153.364
+2023-006               9-19-2023           T.S.O. II
+2023-007               10-17-2023          53.10
+25-001                 4-15-2025           T.S.O. II
                                           
  
