@@ -1,7 +1,7 @@
 MURPHY, NORTH CAROLINA
 CODE OF ORDINANCES
 2026 S-15 Supplement contains:
-Local legislation current through Ord. passed 4-6-2026; and
+Local legislation current through Ord. passed 5-11-2026; and
 State legislation current through North Carolina Legislative Service,
 2025 Regular Session, Pamphlet No. 2
  
@@ -16100,9 +16100,13 @@ Parking
    
 153.048   Off-street loading and unloading space
    
-153.049   [Reserved]
+153.049   Prohibition of high intensity data processing facilities and
+cryptocurrency mining facilities
    
 153.050   Prohibition of cryptocurrency mining facilities
+   
+153.051   Determination of high intensity data processing facilities and
+cryptocurrency mining facilities
 Signs
    
 153.060   Definitions
@@ -16413,9 +16417,11 @@ rear building lines.
 use of the lot on which said building is situated.
    CRYPTOCURRENCY MINING FACILITY. A facility that exists for the purpose of
 operating computer equipment in order to mine or store cryptocurrencies or the
-data associated with mining or storing of cryptocurrencies. The individual use
-of personal computers for the mining of cryptocurrencies is not included in
-this definition.
+data associated with mining or storing of cryptocurrencies including, but not
+limited to, the use of specialized computing hardware to validate blockchain
+transactions or generate cryptocurrency through proof of work or similar
+consensus mechanisms. The individual use of personal computers for the mining
+of cryptocurrencies is not included in this definition.
    CUSTOMARY HOME OCCUPATION. Any use conducted entirely within a dwelling and
 carried on by the occupants thereof, which use is clearly incidental and
 secondary to the use of the dwelling for residential purposes and does not
@@ -16445,6 +16451,33 @@ subdivided into the customary streets and lots and designed for occupancy by
 separate families, businesses or other enterprises. Examples would be: cluster
 type subdivisions, row houses, apartment courts, housing projects, school and
 hospital campuses, shopping centers and industrial parks.
+   HIGH INTENSITY DATA PROCESSING FACILITY.
+      (1)   A facility, building, or portion thereof used primarily for large
+scale data processing, computational operations, digital asset validation,
+artificial intelligence model training, cloud computing, server hosting, or
+similar high density computing activity that:
+         (a)   Is designed to operate continuous high load computing operations
+24 hours per day;
+         (b)   Contains more than 5,000 square feet dedicated to server racks,
+graphic processing unit clusters (GPU clusters), application specific
+integrated circuits to mine cryptocurrencies (ASIC miners), or similar
+computing hardware;
+         (c)   Has an electrical demand exceeding one megawatt of capacity
+regardless of the sources of supply of electricity including, but not limited
+to, electricity supplied by solar panels; or
+         (d)   Has a monthly water use or consumption exceeding 240,000
+gallons.
+      (2)   HIGH INTENSITY DATA PROCESSING FACILITIES are commonly known by the
+following alternate names: AI COMPUTE CENTER, AI TRAINING CENTER, AI
+INTERFERENCE CENTER, MACHINE LEARNING OPERATION CENTER (MLOPS CENTER), NEUTRAL
+PROCESSING CENTER, COGNITIVE COMPUTER CENTER, HIGH PERFORMANCE COMPUTE CENTER
+(HPC CENTER), ACCELERATED COMPUTE FACILITY, GPU COMPUTE FARM, AI ACCELERATOR
+HUB, PARALLEL COMPUTE CENTER, HYPERSCALE COMPUTE CENTER, CLOUD AI FACILITY, AI
+CLOUD REGION, COMPUTE CLOUD ZONE, ELASTIC COMPUTE CENTER, DATA PROCESSING
+CENTER, DATA COMPUTE HUB, DIGITAL INFRASTRUCTURE CENTER, INFORMATION PROCESSING
+FACILITY, DATA OPERATIONS CENTER (DOC), DATA FORTRESS, SIGNAL FORTRESS, TECH
+HAVEN, INFO VAULT, CYBER SANCTUARY, CLOUD NEXUS, QUANTUM HUB, SERVER OASIS,
+TECH HARBOR, and CLOUD REALM.
    HOMELESS SHELTER. A building operated by a non-profit organization providing
 overnight lodging on the premises for persons temporarily or permanently
 without regular adequate overnight lodging.
@@ -16532,7 +16565,8 @@ unoccupied and unobstructed by buildings or structures from ground to sky
 except where encroachments and accessory buildings are expressly permitted.
 (Ord. passed 4-1993; Am. Ord. passed 9-4-2007; Am. Ord. passed 4-2-2018; Am.
 Ord. passed 8-6-2018; Am. Ord. passed 6-7-2021; Am. Ord. passed 10-4-2021; Am.
-Ord. passed 3-6-2023; Am. Ord. passed 6-3-2024; Am. Ord. passed 8-12-2024)
+Ord. passed 3-6-2023; Am. Ord. passed 6-3-2024; Am. Ord. passed 8-12-2024; Am.
+Ord. passed 5-11-2026)
 DISTRICT REGULATIONS
 § 153.020 USE DISTRICTS.
    (A)   For the purpose of this chapter, the Town of Murphy, North Carolina,
@@ -17224,11 +17258,23 @@ time.
 by 40 feet and an overhead clearance of 14 feet in height above the alley or
 street grade.
 (Ord. passed 4-1993; Am. Ord. passed 6-7-2021)
-§ 153.049 [RESERVED].
+§ 153.049 PROHIBITION OF HIGH INTENSITY DATA PROCESSING FACILITIES AND
+CRYPTOCURRENCY MINING FACILITIES.
+   High intensity data processing facilities and cryptocurrency mining
+facilities are prohibited in every use district in the Town of Murphy, North
+Carolina.
+(Ord. passed 5-11-2026)
 § 153.050 PROHIBITION OF CRYPTOCURRENCY MINING FACILITIES.
    Cryptocurrency mining facilities are prohibited in every use district in the
 Town of Murphy, North Carolina.
 (Ord. passed 8-12-2024)
+§ 153.051 DETERMINATION OF HIGH INTENSITY DATA PROCESSING FACILITIES AND
+CRYPTOCURRENCY MINING FACILITIES.
+   The Zoning Administrator shall determine whether a proposed use meets the
+definition of a high intensity data processing facility or a cryptocurrency
+mining facility based on submitted plans, operational descriptions, utility
+demand projections, and other relevant information.
+(Ord. passed 5-11-2026)
 SIGNS
 § 153.060 DEFINITIONS.
    For the purpose of this subchapter on signs (§§
@@ -21669,4 +21715,7 @@ Ord. No. Date Passed Code Section
 -        4-2-2026    50.11
 -        4-6-2026    34.01 -
                      34.10
+                     153.007,
+-        5-11-2026   153.049 -
+                     153.051
                     
