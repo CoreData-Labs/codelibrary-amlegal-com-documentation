@@ -1623,7 +1623,7 @@ on January 1, 2020.
 13.03   Continuation of Ordinances, Resolutions, Codes, Rules, and Regulations.
       
 13.04   Continuation of Employees.
-PREAMBLE
+***** PREAMBLE *****
 We, the people of the Village of Sunbury, Ohio, for the purpose of continuing
 the established plan for fair, efficient, and effective municipal government,
 preparing for city status, securing the benefits of home rule, and exercising
@@ -1649,8 +1649,8 @@ this Charter.
 1.03 Form of Government
    The form of government provided for by this Charter shall be known as
 “Mayor-Council-Administrator Plan.”
-ARTICLE II
-POWERS
+***** ARTICLE II
+POWERS *****
 2.01 General Powers Granted
    The Municipality shall have all powers possible for a municipal corporation
 to have under the Constitution and laws of the State of Ohio as fully and
@@ -1676,8 +1676,8 @@ districts, instrumentalities, divisions, or agencies; the United States or any
 of its divisions or agencies; or any individual, partnership, corporation, or
 other type of entity, whether for profit or not-for-profit, unless prohibited
 by the Constitution of the State of Ohio.
-ARTICLE III
-COUNCIL
+***** ARTICLE III
+COUNCIL *****
 3.01   Powers of Council
    (A)   All legislative power of the Municipality shall be vested in the
 Council, except as otherwise provided by this Charter and the Constitution of
@@ -1878,8 +1878,8 @@ motion, the office shall be deemed vacant, and the Council shall fill the
 vacancy of a Council member as provided in Section 3.09 and the vacancy of the
 Mayor as provided in Section
 5.04.
-ARTICLE IV
-LEGISLATIVE PROCEDURE
+***** ARTICLE IV
+LEGISLATIVE PROCEDURE *****
 4.01   Form of Action by Council
    Action by the Council shall be by ordinance, resolution, or motion. Non-
 legislative action of the Council shall be by motion, including for conducting
@@ -2025,8 +2025,8 @@ and in such event, the Clerk of Council may authorize the ordinance or
 resolution to be published at a later date. The Clerk of Council shall make all
 legislation approved by the Council available for public inspection at the
 office of the Clerk of Council,
-ARTICLE V
-MAYOR
+***** ARTICLE V
+MAYOR *****
 5.01   General Powers and Duties
    (A)   The Mayor is a member of the Council and shall have all the powers,
 rights, and duties of a Council member, as described in this Charter.
@@ -2117,8 +2117,8 @@ Council member equal to the term that the President Pro Tempore serves as
 Mayor. In the event that the President Pro Tempore's original term expires
 while filling the Mayor's unexpired term, the new President Pro Tempore shall
 assume the remainder of the Mayor's unexpired term.
-ARTICLE VI
-ADMINISTRATOR
+***** ARTICLE VI
+ADMINISTRATOR *****
 6.01   General Powers and Duties
    (A)   The Administrator shall be the chief administrative officer of the
 Municipality. The Administrator shall be responsible to the Council for the
@@ -2206,8 +2206,8 @@ removal. The decision of Council to suspend or remove the Administrator shall
 be in the sole discretion of the Council. If the Administrator is suspended
 from duty as provided under this Section, the Council shall appoint an Acting
 Administrator.
-ARTICLE VII
-ADMINISTRATIVE DEPARTMENTS AND PERSONNEL SYSTEMS
+***** ARTICLE VII
+ADMINISTRATIVE DEPARTMENTS AND PERSONNEL SYSTEMS *****
 7.01   Departments
    The Municipality shall have a Department of Law, a Department of Finance, a
 Police Department, and such other departments as the Council may create. Except
@@ -2319,8 +2319,8 @@ Sections
    (E)   The laws of the State of Ohio governing the retirement of employees of
 municipalities shall be applicable to Municipality employees under this
 Charter.
-ARTICLE VIII
-BOARDS AND COMMISSIONS
+***** ARTICLE VIII
+BOARDS AND COMMISSIONS *****
 8.01   Creation of Boards and Commissions
    The Municipality shall have a Planning and Zoning Commission, a Board of
 Zoning Appeals, and a Personnel Board of Appeals as set forth herein and such
@@ -2407,8 +2407,8 @@ intended staggered terms.
    (C)   The Personnel Board of Appeals shall have the power and duty to hear
 appeals from administrative determinations made pursuant to the Administrative
 Code, and such other powers, duties, and functions as provided by the Council.
-ARTICLE IX
-FINANCE, TAXATION, AND CONTRACTING
+***** ARTICLE IX
+FINANCE, TAXATION, AND CONTRACTING *****
 9.01   General
    The laws of the State of Ohio relating to budgets, appropriations, taxation,
 debts and borrowing, assessments, deposits and investment of funds, and other
@@ -2481,8 +2481,8 @@ modifications of contracts. Modifications or alterations of contracts shall not
 require competitive bidding. Such procedures may include a requirement that the
 Council approve cumulative contract modifications that exceed a specified
 percentage of the original contract value.
-ARTICLE X
-ELECTIONS RECALL INITIATIVE AND REFERENDUM
+***** ARTICLE X
+ELECTIONS RECALL INITIATIVE AND REFERENDUM *****
 10.01   Elections
    (A)   Regular municipal elections shall be held on the dates and times fixed
 by the election laws of the State of Ohio.
@@ -2585,8 +2585,8 @@ except that legislation by the Council calling for an election shall not be
 subject to referendum and the Rules of Council shall not be subject to
 initiative or referendum as provided in Section
 3.07.
-ARTICLE XI
-GENERAL PROVISIONS
+***** ARTICLE XI
+GENERAL PROVISIONS *****
 11.01   Conflicts of Interest, Ethics, and Campaign Financing
    Unless otherwise provided in this Charter, the laws of the State of Ohio
 pertaining to conflict of interest, criminal misbehavior, ethics, and financial
@@ -2605,8 +2605,8 @@ Charter or the Constitution and laws of the State of Ohio.
    All references to "days" in this Charter shall mean calendar days unless
 otherwise stated. References to "business days" shall mean Monday through
 Friday except for federal or state holidays.
-ARTICLE XII
-CHARTER REVIEW COMMISSION
+***** ARTICLE XII
+CHARTER REVIEW COMMISSION *****
 12.01   Composition and Term
    In 2025 and as often as necessary thereafter, but no less frequently than
 every 10 years, the Council shall appoint seven electors of the Municipality,
@@ -2633,8 +2633,8 @@ recommended by the Charter Review Commission. The Council shall appropriate
 funds to the Commission as determined to be necessary to carry out its powers,
 duties, and functions, including amounts required to pay any consultants or
 special legal counsel to the Commission.
-ARTICLE XIII
-TRANSITIONAL PROVISIONS
+***** ARTICLE XIII
+TRANSITIONAL PROVISIONS *****
 13.01   Effective Date of Charter
    Upon approval by a majority of the electors of the Municipality voting
 thereon at the election held on November 5, 2019, this Charter shall take
@@ -35084,7 +35084,7 @@ Construction permits and prohibitions for dams, dikes or levees - see Ohio R.C.
 1521.06
 Marking flood areas - see Ohio R.C. 1525.01 et seq.
 Conservancy districts, purpose - see Ohio R.C. 6101.04
-GENERAL PROVISIONS
+** GENERAL PROVISIONS **
 1309.01 STATUTORY AUTHORIZATION.
    Article XVIII, Section 3, of the Ohio Constitution grants municipalities the
 legal authority to adopt land use and control measures for promoting the
@@ -35469,7 +35469,7 @@ regulations.
    (40)   "Violation." The failure of a structure or other development to be
 fully compliant with these regulations.
 (Ord. 2021-26. Passed 7-7-21.)
-ADMINISTRATION
+** ADMINISTRATION **
 1309.12 DESIGNATION OF THE FLOODPLAIN ADMINISTRATOR.
    The Zoning Inspector is hereby appointed to administer and implement these
 regulations and is referred to herein as the Floodplain Administrator.
@@ -35792,7 +35792,7 @@ information related to the proper repair of damaged structures in special flood
 hazard areas; and assist owners of substantially damaged structures with
 increased cost of compliance insurance claims.
 (Ord. 2021-26. Passed 7-7-21.)
-USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION
+** USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION **
 1309.26 GENERAL PROVISIONS.
    The following use and development standards apply to development wholly
 within, partially within, or in contact with any special flood hazard area as
@@ -36021,7 +36021,7 @@ in Section 1309.22(a)(1)C. when an alteration of a watercourse results in the
 relocation or elimination of the special flood hazard area, including the
 placement of culverts.
 (Ord. 2021-26. Passed 7-7-21.)
-APPEALS AND VARIANCES
+** APPEALS AND VARIANCES **
 1309.36 BOARD OF ZONING APPEALS ESTABLISHED.
    (a)   The Board of Zoning Appeals is established by the Charter of Sunbury.
    (b)   The Board of Zoning Appeals shall operate in accordance with the
@@ -36171,7 +36171,7 @@ time after the hearing.
 such decision to the Delaware Court of Common Pleas, pursuant to R.C. Chapter
 2506.
 (Ord. 2021-26. Passed 7-7-21.)
-ENFORCEMENT
+** ENFORCEMENT **
 1309.42 COMPLIANCE REQUIRED.
    (a)   No structure or land shall hereafter be located, erected, constructed,
 reconstructed, repaired, extended, converted, enlarged or altered without full
