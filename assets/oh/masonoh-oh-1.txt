@@ -39,7 +39,7 @@ Levi Wells        Chief of Police
 Kurt Seiler       Service Director
  
 ADOPTING ORDINANCES
-ORDINANCE NO. 2011 - 86
+**** ORDINANCE NO. 2011 - 86 ****
 AN ORDINANCE ENACTING A CODE OF ORDINANCES FOR THE CITY OF MASON REVISING,
 AMENDING, RESTATING, CODIFYING AND COMPILING CERTAIN EXISTING GENERAL
 ORDINANCES OF THE POLITICAL SUBDIVISION DEALING WITH SUBJECTS EMBRACED IN SUCH
@@ -107,7 +107,7 @@ on this 24th day of October, 2011.
 Attest:
 Nancy Hickey /s/
 Clerk of Council
-ORDINANCE NO. 2012 - 70
+**** ORDINANCE NO. 2012 - 70 ****
 ADOPTING THE REVISION, CODIFICATION, RECODIFICATION, REARRANGEMENT AND
 PUBLICATION OF THE ORDINANCES AND RESOLUTIONS OF THE CITY OF MASON, IN BOOK
 FORM, FOR THE CURRENT SUPPLEMENT.
@@ -147,7 +147,7 @@ after the earliest period allowed by law.
 Attest:
 /s/
       Clerk of Council
-ORDINANCE NO. 2014 - 68
+**** ORDINANCE NO. 2014 - 68 ****
 ADOPTING THE REVISION, CODIFICATION, RECODIFICATION, REARRANGEMENT AND
 PUBLICATION OF THE ORDINANCES AND RESOLUTIONS OF THE CITY OF MASON, IN BOOK
 FORM, FOR THE CURRENT SUPPLEMENT
@@ -187,7 +187,7 @@ after the earliest period allowed by law.
 Attest:
 /s/
 Clerk of Council
-ORDINANCE NO. 2016-120
+**** ORDINANCE NO. 2016-120 ****
 ADOPTING THE REVISION, CODIFICATION, RECODIFICATION, REARRANGEMENT AND
 PUBLICATION OF THE ORDINANCES AND RESOLUTIONS OF THE CITY OF MASON, IN BOOK
 FORM, FOR THE CURRENT SUPPLEMENT
@@ -227,7 +227,7 @@ after the earliest period allowed by law.
 Attest:
 /s/
 Clerk of Council
-ORDINANCE NO. 2018-137
+**** ORDINANCE NO. 2018-137 ****
 ADOPTING THE REVISION, CODIFICATION, RECODIFICATION, REARRANGEMENT AND
 PUBLICATION OF THE ORDINANCES AND RESOLUTIONS OF THE CITY OF MASON, IN BOOK
 FORM, FOR THE CURRENT SUPPLEMENT
@@ -469,11 +469,11 @@ Section
 12.03   Continuance of Present Employees
 Section
 12.04   Continuation of Village Clerk
-PREAMBLE
+*** PREAMBLE ***
    We, the people of Mason, Ohio, desirous of securing for our Municipality and
 for ourselves and our children the advantages of self-government conferred by
 the Ohio Constitution, do hereby ordain and establish the following Charter:
-ARTICLE I: NAME, BOUNDARIES, AND FORM OF GOVERNMENT
+*** ARTICLE I: NAME, BOUNDARIES, AND FORM OF GOVERNMENT ***
 SECTION 1.01 NAME AND BOUNDARIES.
    The inhabitants of the Municipality of Mason, Ohio, within the corporate
 limits as established at the time of the adoption of this Charter, or as
@@ -485,7 +485,7 @@ SECTION 1.02 FORM OF GOVERNMENT.
 “Council - Manager Plan.” The powers and functions of the Municipal government
 shall be distributed among the Municipality, its citizens, and the various
 officers, bodies, boards and commissions as provided in this Charter.
-ARTICLE II: CORPORATE POWERS
+*** ARTICLE II: CORPORATE POWERS ***
 SECTION 2.01 POWERS GRANTED.
    The Municipality shall have all the powers, general or special, governmental
 or proprietary, that may now or hereafter lawfully be possessed or exercised by
@@ -502,7 +502,7 @@ SECTION 2.03 CONSTRUCTION.
 liberally in favor of the Municipality, and the specific mention of particular
 powers in the Charter shall not be construed as limiting in any way the general
 power stated in this Article.
-ARTICLE III: COUNCIL
+*** ARTICLE III: COUNCIL ***
 SECTION 3.01 NUMBER AND TERM.
    The legislative powers of the Municipality, except as otherwise provided by
 this Charter and by the Constitution of the State of Ohio, shall be vested in a
@@ -788,7 +788,7 @@ occurred. Such elected Councilman shall take office on December 1, of the same
 year of his election and shall serve for a term of two years and until his
 successor is elected and qualified.
 (Amended November 6, 1984)
-ARTICLE IV: LEGISLATIVE PROCEDURE
+*** ARTICLE IV: LEGISLATIVE PROCEDURE ***
 SECTION 4.01 ACTION TO BE TAKEN BY ORDINANCE OR RESOLUTION.
    Action of Council shall be by ordinance, resolution, or motion. Every action
 of a general and permanent nature, or granting a franchise; or levying a tax;
@@ -1035,7 +1035,7 @@ circulation in Mason.”)
    The failure of the Clerk of Council to affix the “Certificate of
 Publication” provided hereinabove shall not affect the validity of an ordinance
 or resolution, or any action or prosecution thereunder.
-ARTICLE V: MANAGER
+*** ARTICLE V: MANAGER ***
 SECTION 5.01 APPOINTMENT AND REMOVAL.
    The Manager shall be appointed by a vote of at least five members of the
 Council. The Manager shall serve at the pleasure of the Council and may be
@@ -1142,7 +1142,7 @@ of indebtedness and other instruments to which the Municipality is a party.
 conferred or required by this Charter, by any ordinance or resolution of the
 Council, or by the laws of the State of Ohio.
 (Subsections J.1., 3. and 4. amended November 3, 1987)
-ARTICLE VI: ADMINISTRATIVE DEPARTMENTS
+*** ARTICLE VI: ADMINISTRATIVE DEPARTMENTS ***
 SECTION 6.01 CREATION OF DEPARTMENTS.
    For the purpose of carrying on the administrative functions of the
 Municipality, the following departments are hereby established: Department of
@@ -1312,7 +1312,7 @@ departments or divisions.
    One person may serve as the head of one or more departments or divisions,
 except that the Law Director shall not serve or act as head of any other
 department or division.
-ARTICLE VII: BOARDS AND COMMISSIONS
+*** ARTICLE VII: BOARDS AND COMMISSIONS ***
 SECTION 7.01 PLANNING COMMISSION - MEMBERSHIP.
    There is hereby created and established a Planning Commission which shall
 consist of seven members as hereinafter provided. The Council shall appoint one
@@ -1572,7 +1572,7 @@ same as those which may be required from time to time by the election laws of
 the Revised Code of the State of Ohio. Any provision of this Charter
 inconsistent herewith is repealed.
 (Added November 4, 1975)
-ARTICLE VIII: NOMINATIONS AND ELECTIONS
+*** ARTICLE VIII: NOMINATIONS AND ELECTIONS ***
 SECTION 8.01 NOMINATIONS.
    Nominations for members of Council shall be made only by petition signed by
 qualified electors of the Municipality not less in number than twenty-five.
@@ -1603,7 +1603,7 @@ SECTION 8.04 CONDUCT OF ELECTIONS.
 of Elections of the County in which the Municipality is located under the
 provisions of this Charter, so far as they are applicable. Where the Charter is
 silent, the provisions of the Ohio Election Laws shall be followed.
-ARTICLE IX: INITIATIVE AND REFERENDUM
+*** ARTICLE IX: INITIATIVE AND REFERENDUM ***
 SECTION 9.01 INITIATIVE.
    Ordinances and resolutions may be proposed by initiative petition and
 adopted by election in the manner now or hereafter provided by the Constitution
@@ -1654,7 +1654,7 @@ affirmatively or negatively. In the event a majority of those voting on the
 issue shall be in the affirmative, the ordinance or resolution shall go into
 immediate effect, without the need for further publication.
 (Amended February 8, 2021 (approved November 3, 2020))
-ARTICLE X: FINANCES, TAXATION AND DEBT
+*** ARTICLE X: FINANCES, TAXATION AND DEBT ***
 SECTION 10.01 GENERAL.
    The laws of the State of Ohio relating generally to budgets, appropriations,
 debts, bonds, assessments and other fiscal matters of the Municipality shall be
@@ -1717,7 +1717,7 @@ six months prior to the effective date and shall not exceed .0015.
 unenforceable portions of this section shall be deleted and the remainder shall
 remain in force.
 (Added November 6, 2012)
-ARTICLE XI: GENERAL PROVISIONS
+*** ARTICLE XI: GENERAL PROVISIONS ***
 SECTION 11.01 SUCCESSION.
    The Municipality of Mason, under this Charter, is hereby declared to be the
 legal successor of the Village of Mason, under the laws of the State of Ohio,
@@ -1807,7 +1807,7 @@ SECTION 11.08 DENSITY OF DWELLING UNITS.
 landominiums and townhouses shall not exceed a density of eight (8) per acre
 except in overlay areas as established by City Council.
 (Amended November 6, 1984; Amendment approved by electors November 6, 2018)
-ARTICLE XII: TRANSITIONAL PROVISIONS
+*** ARTICLE XII: TRANSITIONAL PROVISIONS ***
 SECTION 12.01 EFFECTIVE DATE OF CHARTER.
    This Charter shall be submitted to the electors of the Municipality at the
 election to be held November 4, 1969, and if approved by the electors shall,
@@ -1920,7 +1920,7 @@ Chap. 125. Real Property Transaction Disclosures (Repealed)
       TITLE ELEVEN - Fee Schedule
          Chap.
 205. Fee Schedule
-TITLE ONE: GENERAL PROVISIONS
+***** TITLE ONE: GENERAL PROVISIONS *****
 CHAPTER 101: CODIFIED ORDINANCES
 Section
 101.01   Designation; citation; headings
@@ -2197,7 +2197,7 @@ Statutory reference:
 [https://export.amlegal.com/media/c92b507198cac9540f9ff13dca280883e1007fac/
 IMAGES/0-0-0-3827.jpg]
 (Ord. 51-1979, passed 5-29-1979)
-TITLE THREE: LEGISLATIVE
+***** TITLE THREE: LEGISLATIVE *****
 CHAPTER 121: COUNCIL
 Section
 121.01   Council meetings
@@ -2609,7 +2609,7 @@ CHAPTER 125: REAL PROPERTY TRANSACTION DISCLOSURES
 Editors’ note:
    Chapter 125 was repealed in its entirety by Ordinance 2022-85, passed August
 8, 2022.
-TITLE FIVE: ADMINISTRATIVE
+***** TITLE FIVE: ADMINISTRATIVE *****
 CHAPTER 131: MAYOR
 Editor’s note:
    There are no sections in Chapter 131. This chapter has been established to
@@ -4913,7 +4913,7 @@ Economic Development Department.
    There is hereby created a position of Economic Development Tech with the
 Economic Development Department.
 (Ord. 2007-23, passed 2-12-2007)
-TITLE SEVEN: JUDICIAL
+***** TITLE SEVEN: JUDICIAL *****
 CHAPTER 175: MUNICIPAL COURT
 Editor’s note:
    The provisions of R.C. § 1901.01 established the Mason Municipal Court
@@ -4956,7 +4956,7 @@ Court.
    There is hereby created positions and compensation for employees of the
 Mason Municipal Court.
 (Ord. 2006-181, passed 12-8-2006; Am. Ord. 2010-89, passed 7-26-2010)
-TITLE NINE: TAXATION
+***** TITLE NINE: TAXATION *****
 CHAPTER 181: EARNED INCOME TAX REGULATIONS EFFECTIVE THROUGH DECEMBER 31, 2015
 Editor’s note:
    Continuation of the authority to tax a shareholder’s distributive share of
@@ -9463,7 +9463,7 @@ city only for the purposes described in §
    See §
 101.99 for general code penalty where no specific penalty is provided.
 (Ord. 2005-29, passed 3-14-2005)
-TITLE ELEVEN: FEE SCHEDULE
+***** TITLE ELEVEN: FEE SCHEDULE *****
 CHAPTER 205: FEE SCHEDULE
 Section
 205.01   Fee schedule
@@ -9512,7 +9512,7 @@ PART THREE: TRAFFIC CODE
 373. Bicycles, Motorcycles and Skateboards
          Chap.
 375. Snowmobiles, Off-Highway Motorcycles and All-Purpose Vehicles
-TITLE ONE: ADMINISTRATION
+***** TITLE ONE: ADMINISTRATION *****
 CHAPTER 301: DEFINITIONS
 Section
 301.01   Meaning of words and phrases
@@ -10740,7 +10740,7 @@ be changed only by an amending or repealing resolution adopted by Council.
 with this chapter shall be deemed guilty of a misdemeanor and upon conviction
 thereof shall be subject to the penalties provided for in §
 303.99.
-TITLE THREE: STREETS AND TRAFFIC-CONTROL DEVICES
+***** TITLE THREE: STREETS AND TRAFFIC-CONTROL DEVICES *****
 CHAPTER 311: STREET OBSTRUCTIONS AND SPECIAL USES
 Section
 311.01   Placing injurious material or obstruction in street
@@ -11349,7 +11349,7 @@ these Codified Ordinances because substantially equivalent state law (R.C. §
 Editor’s note:  
    See §
 303.99 for general Traffic Code penalty if no specific penalty is provided.
-TITLE FIVE: VEHICLES
+***** TITLE FIVE: VEHICLES *****
 CHAPTER 331: OPERATION GENERALLY
 Section
 331.01   Driving upon right side of roadway; exceptions
@@ -18244,7 +18244,7 @@ a misdemeanor of the fourth degree.
 Editor’s note:  
    See §
 303.99 for general Traffic Code penalty if no specific penalty is provided.
-TITLE SEVEN: PARKING
+***** TITLE SEVEN: PARKING *****
 CHAPTER 351: PARKING GENERALLY
 Section
 351.01   Police may remove illegally parked vehicle
@@ -19037,7 +19037,7 @@ require court appearance.
 Editor’s note:  
    See §
 303.99 for general Traffic Code penalty if no specific penalty is provided.
-TITLE NINE: PEDESTRIANS, BICYCLES AND MOTORCYCLES
+***** TITLE NINE: PEDESTRIANS, BICYCLES AND MOTORCYCLES *****
 CHAPTER 371: PEDESTRIANS
 Section
 371.01   Right-of-way in crosswalk
@@ -25362,7 +25362,10 @@ accused other than at a preliminary hearing or grand jury proceeding where the
 report may be used without having been previously served upon the accused.
    (c)   The report shall not be prima facie evidence of the contents, identity
 and weight or the existence and number of unit dosages of the substance if the
-accused or the accused’
+accused or the accused’s attorney demands the testimony of the person signing
+the report, by serving the demand upon the prosecuting attorney, within seven
+days from the accused or the accused’s attorney’s receipt of the report. The
+time may be extended by a trial judge in the interests of justice.
    (d)   Any report issued for use under this section shall contain notice of
 the right of the accused to demand, and the manner in which the accused shall
 demand, the testimony of the person signing the report.
@@ -39258,8 +39261,8 @@ Water Facilities
 965. Public Contracts
          Chap.
 967. Mason Community Center
-TITLE ONE: PUBLIC WORKS IMPROVEMENTS: STREETS, SIDEWALKS, SEWER AND WATER
-FACILITIES
+***** TITLE ONE: PUBLIC WORKS IMPROVEMENTS: STREETS, SIDEWALKS, SEWER AND WATER
+FACILITIES *****
 CHAPTER 901: MATERIAL AND CONSTRUCTION STANDARDS
 Section
 901.01   Material and construction standards
@@ -39667,7 +39670,7 @@ Improvements: Streets, Sidewalks, Sewer and Water Facilities of this Part Nine
 unconstitutional, illegal or invalid section, subsection, sentence, clause,
 phrase, provision or part thereof not been included therein.
 (Ord. E-81, passed 8-5-1959)
-TITLE THREE: STREETS, SIDEWALKS AND OTHER PUBLIC AREAS
+***** TITLE THREE: STREETS, SIDEWALKS AND OTHER PUBLIC AREAS *****
 CHAPTER 931: CUTTING PAVED SURFACES; WORK IN RIGHT-OF-WAY; EXCAVATIONS
 GENERALLY
 Section
@@ -39835,7 +39838,7 @@ reference and made a part of these codified ordinances, the same as if set
 forth in full herein.
 (Ord. 2002-61, passed 5-13-2002; Ord. 2013-92, passed 11-18-2013; Ord. 2013-92,
 passed 11-18-2013)
-TITLE FIVE: UTILITIES
+***** TITLE FIVE: UTILITIES *****
 CHAPTER 941: WATER SYSTEMS
 Section
 941.01   Purpose
@@ -43878,7 +43881,7 @@ and the calculation, which the party feels, is correct. The Board shall review
 the record presented and enter a written decision as soon as practical. The
 Board may request additional information from either party.
 (Ord. 2001-61, passed 4-23-2001)
-TITLE SEVEN: OTHER PUBLIC SERVICES
+***** TITLE SEVEN: OTHER PUBLIC SERVICES *****
 CHAPTER 961: RUBBISH AND WASTE COLLECTION
 Section
 961.01   Regulations
@@ -44808,7 +44811,7 @@ Appendix A: Summary of Uses for Residential Districts
 Appendix B: Summary of Uses for Nonresidential Districts
          
 Appendix C: Development Standards for Nonresidential Districts
-TITLE ONE: SUBDIVISION REGULATIONS
+***** TITLE ONE: SUBDIVISION REGULATIONS *****
 CHAPTER 1101: ADOPTION, JURISDICTION AND DEFINITIONS
 Section
 1101.01   Purpose, intent, authority and adoption of regulations
@@ -48074,7 +48077,7 @@ approval.
 not already provided, shall be fined not more than $150. Each day’s violation
 shall constitute a separate offense.
 (Ord. 99-207, passed 1-10-2000)
-TITLE TWO: ADMINISTRATION
+***** TITLE TWO: ADMINISTRATION *****
 CHAPTER 1121: FEE SCHEDULE
 Section
 1121.01   Purpose
@@ -48101,7 +48104,7 @@ by ordinance from time to time.
 Cross-reference:
    Fee schedule, see §
 205.01
-TITLE THREE: ZONING ADMINISTRATION
+***** TITLE THREE: ZONING ADMINISTRATION *****
 CHAPTER 1131: PURPOSE AND INTERPRETATION
 Section
 1131.01   Purpose and scope
@@ -50491,7 +50494,7 @@ Ordinance and will be punishable under §
 1135.99. Any violations will further revoke the variance which had been
 conditionally granted.
 (Ord. 98-104, passed 9-14-1998)
-TITLE FIVE: ZONING DISTRICTS
+***** TITLE FIVE: ZONING DISTRICTS *****
 CHAPTER 1145: DISTRICTS AND BOUNDARIES
 Section
 1145.01   Division of city into districts
@@ -54246,7 +54249,7 @@ determines are necessary to review the application and advise the city.
 Cross-reference:
    Fee schedule, see §
 205.01
-TITLE SEVEN: ZONING GENERAL PROVISIONS
+***** TITLE SEVEN: ZONING GENERAL PROVISIONS *****
 CHAPTER 1171: COMPLIANCE AND GENERAL REGULATIONS
 Section
 1171.01   Conformance required
@@ -57939,7 +57942,7 @@ standards in this §
 subsequent establishment or expansion of a land use or zoning district
 specified in this section.
 (Ord. 2017-52, passed 5-15-2017)
-TITLE NINE: COMPREHENSIVE PLAN
+***** TITLE NINE: COMPREHENSIVE PLAN *****
 CHAPTER 1200: COMPREHENSIVE PLAN
 Section
 1200.01   2010 Comprehensive Plan adopted by reference.
