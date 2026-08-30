@@ -148,13 +148,13 @@ Note: The above charter was approved by the electors of the City of Chandler on
 April 5, 1955, by a vote of 379 to 196. It was approved by Governor Raymond
 Gary on April 8, 1955, and went into effect on that date. The above charter
 replaced a council-manager charter which was adopted in 1925.
-PREAMBLE
+**** PREAMBLE ****
 We, the people of the City of Chandler, exercising the powers of home rule
 granted to us by the Constitution and laws of the State of Oklahoma, in order
 to provide for more efficient, adequate and economical government, do hereby
 ordain, ratify and establish this Charter of the City of Chandler, Oklahoma.
-ARTICLE I
-INCORPORATION, FORM OF GOVERNMENT, POWERS
+**** ARTICLE I
+INCORPORATION, FORM OF GOVERNMENT, POWERS ****
 Section 1.1. Incorporation.
 The City of Chandler, Oklahoma, within the corporate limits as now established
 or as hereafter may be established, shall continue to be a municipal body
@@ -202,8 +202,8 @@ enumerate.
 Provisions of state law relating to matters which may be regulated by cities
 operating under charters, shall be in effect only insofar as they are
 applicable and are not superseded by this charter or by ordinance.
-ARTICLE II
-THE COUNCIL
+**** ARTICLE II
+THE COUNCIL ****
 Section 2.1. Number, Qualifications.
 There shall be a council of five (5) members, which shall consist of the mayor
 as ex officio councilman at large and one councilman from each of the four (4)
@@ -368,8 +368,8 @@ new matter, provisions of the state constitution and law relating to the city
 and provisions of this charter. A copy of the published code shall be filed in
 the office of the city clerk after adoption by the council, but the code need
 not be enrolled in the book of ordinances.
-ARTICLE III
-CITY MANAGER AND ADMINISTRATIVE DEPARTMENTS
+**** ARTICLE III
+CITY MANAGER AND ADMINISTRATIVE DEPARTMENTS ****
 Section 3.1. City Manager; Appointment, Term, Qualifications, Removal.
 There shall be a city manager. The council shall appoint him for an indefinite
 term by a vote of a majority of all its members. It shall choose him solely on
@@ -419,8 +419,8 @@ The public library or libraries, when and if established, shall constitute, or
 be a part of, an administrative department; and shall be under the supervision
 and control of an officer or of a board established by ordinance and appointed
 by the city manager, as the council may ordain.
-ARTICLE IV
-DEPARTMENT OF FINANCE, FISCAL AFFAIRS
+**** ARTICLE IV
+DEPARTMENT OF FINANCE, FISCAL AFFAIRS ****
 Section 4.1. City Clerk; Office Created, Duties.
 There shall be a city clerk, who shall be an officer of the city appointed by
 the city manager for an indefinite term, and who shall be head of the
@@ -493,8 +493,8 @@ financial transactions, as of the end of every fiscal year at least, and who
 shall report to the council and to the city manager. In lieu of the above, the
 council may arrange with an appropriate state authority for such an audit when
 and if permitted by law.
-ARTICLE V
-MUNICIPAL COURT
+**** ARTICLE V
+MUNICIPAL COURT ****
 Section 5.1. Municipal Court.
 There shall be a municipal judge, who shall be an officer of the city appointed
 by the city manager for an indefinite term. The council may suspend or remove
@@ -511,8 +511,8 @@ municipal court, of the disposition of all cases, and of all fines and other
 money collected. The style of all processes shall be in the name of the city.
 The municipal judge may issue subpoenas, administer oaths, make and enforce all
 proper orders, rules and judgments, and punish for contempt.
-ARTICLE VI
-ELECTIONS
+**** ARTICLE VI
+ELECTIONS ****
 Section 6.1. Terms Of Mayor And Councilmen; General Election Only, Nonpartisan,
 Elected At Large.
 The electors shall elect the mayor in every odd-numbered year for a term of two
@@ -555,8 +555,8 @@ The precinct and county election boards shall conduct the elections of the
 city, including special elections. The provisions of the state constitution and
 law relating to elections, shall govern such elections insofar as they are
 applicable and are not superseded by this charter or by ordinance.
-ARTICLE VII
-MISCELLANEOUS PROVISIONS
+**** ARTICLE VII
+MISCELLANEOUS PROVISIONS ****
 Section 7.1. Feminine Gender.
 When the masculine gender is used in this charter, it shall also mean the
 feminine unless the masculine alone is clearly indicated.
@@ -644,8 +644,8 @@ If a court of competent jurisdiction holds a part of this charter invalid or if
 a change in the state constitution or law renders a part of this charter
 invalid or inapplicable, the council by ordinance may take such appropriate
 action as will enable the city government to function properly.
-ARTICLE VIII
-AMENDMENTS
+**** ARTICLE VIII
+AMENDMENTS ****
 Section 8.1. Proposal, Ratification, Approval.
 This charter may be amended by proposals therefor submitted by the council, or
 by the mayor upon initiative petition of the people as provided by the state
@@ -664,8 +664,8 @@ by a board of freeholders shall have been submitted by the council at a general
 or special election, ratified by a majority of the qualified electors voting
 thereon, and approved by the governor, as provided by the state constitution,
 it shall go into effect.
-ARTICLE IX
-SUCCESSION IN GOVERNMENT
+**** ARTICLE IX
+SUCCESSION IN GOVERNMENT ****
 Section 9.1. New Charter To Go Into Effect When Approved By The Governor.
 If a majority of the qualified electors of the city voting on the question vote
 to ratify this charter, it shall go into effect immediately upon approval by
@@ -1202,7 +1202,7 @@ may be provided to the City Council for informational purposes; however, the
 City Council approval is not required prior to the payment of payroll related
 costs if incurred and paid in accordance with the provisions above.
 (Ord. 2008-03, passed 5-13-2008)
-ARTICLE A. CITY MANAGER
+**** ARTICLE A. CITY MANAGER ****
 § 1-7A-1 POWERS AND DUTIES.
    The City Manager shall be the chief administrative officer of the city. He
 shall have all powers and duties prescribed for him by the city charter and by
@@ -1226,7 +1226,7 @@ Charter reference:
    City Manager, see §§
 3.1 through
 3.3
-ARTICLE B. CITY CLERK AND CITY TREASURER
+**** ARTICLE B. CITY CLERK AND CITY TREASURER ****
 § 1-7B-1 CITY CLERK.
    (A)   Appointment; Administrative Powers.
       (1)   There shall be a department of finance, the head of which shall be
@@ -1274,7 +1274,7 @@ Charter reference:
    City Clerk, see §§
 4.1 and
 4.2
-ARTICLE C. CITY ATTORNEY
+**** ARTICLE C. CITY ATTORNEY ****
 § 1-7C-1 APPOINTMENT OR REMOVAL.
    (A)   Appointment. There shall be a department of law, the head of which
 shall be the City Attorney after nomination by the City Manager and given
@@ -1292,7 +1292,7 @@ relating to their official powers and duties.
 in the courts.
    (D)   Other Services. Perform all services incident to this position which
 may be required by law or ordinance.
-ARTICLE D. PUBLIC WORKS DIRECTOR AND DEPARTMENT
+**** ARTICLE D. PUBLIC WORKS DIRECTOR AND DEPARTMENT ****
 § 1-7D-1 APPOINTMENT OF DIRECTOR.
    (A)   Appointment. There may be a public works department, the head of which
 shall be appointed by the City Manager for an indefinite term, and removable by
@@ -1322,7 +1322,7 @@ utilities and public services; and
 improvement and operation of the physical facilities owned or used by the city
 government as the City Manager may prescribe consistent with the city charter
 and ordinances.
-ARTICLE E. BUILDING OFFICIAL
+**** ARTICLE E. BUILDING OFFICIAL ****
 § 1-7E-1 APPOINTMENT; SUPERVISORY POWERS.
    (A)   Appointment or City Manager to Act. There may be a department of
 building inspection the head of which shall be the Building Official. Unless he
@@ -3754,7 +3754,7 @@ Article D. Lodging Tax
 3-3D-17   Criminal Penalties
    
 3-3D-18   Civil Remedies
-ARTICLE A. SALES TAX
+**** ARTICLE A. SALES TAX ****
 § 3-3A-1 TITLE.
    This article shall be known and may be cited as CITY OF CHANDLER SALES TAX
 ORDINANCE.
@@ -3894,7 +3894,7 @@ provided by law.
 § 3-3A-17 PROVISIONS CUMULATIVE.
    The provisions of this article shall be cumulative, and in addition to any
 and all taxing provisions of this code or city ordinances.
-ARTICLE B. USE TAX
+**** ARTICLE B. USE TAX ****
 § 3-3B-1 TITLE.
    This article shall be known and may be cited as CITY OF CHANDLER USE TAX
 ORDINANCE.
@@ -4108,7 +4108,7 @@ or regulations of the Oklahoma tax commission.
 § 3-3B-18 EFFECTIVE DATE.
    This article shall become effective on and after December 1, 1995.
 (Ord. 1995-10, passed 12-5-1995)
-ARTICLE C. UTILITIES TAX
+**** ARTICLE C. UTILITIES TAX ****
 § 3-3C-1 TAX LEVIED.
    There is hereby levied and assessed an annual tax upon all persons, firms,
 associations and corporations engaged in the business of furnishing power,
@@ -4153,7 +4153,7 @@ receipts from sales to exempt and nonexempt customers, and the amount of Sales
 Tax charged and collected with respect to such sales, shall be provided to the
 City at the time of payment of the tax levied in this chapter.
 (Ord. 2017-02, passed 6-13-2017)
-ARTICLE D. LODGING TAX
+**** ARTICLE D. LODGING TAX ****
 § 3-3D-1 CITATION AND CODIFICATION.
    This Article shall be known and cited as the City of Chandler Lodging Tax
 Ordinance.
@@ -4478,7 +4478,7 @@ Article B. 911 Emergency Service Fee
 3-4B-6   Monthly Collection
    
 3-4B-7   Number of Access Lines Taxed
-ARTICLE A. TELEPHONE EXCHANGE FEE
+**** ARTICLE A. TELEPHONE EXCHANGE FEE ****
 § 3-4A-1 FEE LEVIED.
    (A)   Fee Imposed. There is hereby levied an annual inspection fee and
 service charge upon each and every person, firm or corporation operating a
@@ -4501,7 +4501,7 @@ However, it is not intended hereby to extinguish or abrogate any existing
 arrangement whereby the city is permitted to use underground conduit, duct
 space or pole contacts of the company for the fire alarm or police call systems
 of the city.
-ARTICLE B. 911 EMERGENCY SERVICE FEE
+**** ARTICLE B. 911 EMERGENCY SERVICE FEE ****
 § 3-4B-1 EMERGENCY SERVICE FEE LEVIED.
    (A)   Fee Imposed. There shall be imposed a tax of three percent (3%) on the
 tariff charges for exchange telephone service or its equivalent of the local
@@ -4673,7 +4673,7 @@ or Beer and Wine Establishment
    
 4-2A-5   Regulations and Restrictions
 Article B. Reserved
-ARTICLE A. OCCUPATION TAX AND REGULATIONS
+**** ARTICLE A. OCCUPATION TAX AND REGULATIONS ****
 § 4-2A-1 DEFINITIONS.
    For the purpose of this Code, words and phrases shall have the meaning as
 defined pursuant to the Oklahoma Alcoholic Beverage Control Act, at 37A O.S. §§
@@ -4807,7 +4807,7 @@ authorized to waive the prohibition against consumption for specific events, or
 types of events, upon proper application and under such conditions as the
 council deems appropriate for such event or types of events.
 (Ord. 2018-06, passed 9-11-2018)
-ARTICLE B. RESERVED
+**** ARTICLE B. RESERVED ****
    Reserved by Ord. 2018-06, passed 9-11-2018.
 CHAPTER 3: TAXICABS
 Section
@@ -6512,7 +6512,7 @@ misdemeanor, and punishable in the same manner as the principal offender.
    Any violation of the provisions of this chapter 2, including articles A
 through D, is punishable as provided in section
 1-4-1 of this code.
-ARTICLE A. OFFENSES AGAINST THE PEACE, PERSONS
+**** ARTICLE A. OFFENSES AGAINST THE PEACE, PERSONS ****
 § 6-2A-1 DISTURBING THE PEACE.
    (A)   Prohibition. It is unlawful to disturb or alarm the peace of another
 or others by doing any of the acts set out in subsection (B) of this section.
@@ -6631,7 +6631,7 @@ abusive, or insulting language or literature where:
 breach of the peace or an assault; or
       (2)   The language or literature, in its common acceptance, is calculated
 to cause a breach of the peace or an assault.
-ARTICLE B. OFFENSES AGAINST PUBLIC DECENCY, MORALITY
+**** ARTICLE B. OFFENSES AGAINST PUBLIC DECENCY, MORALITY ****
 § 6-2B-1 LIQUOR AND DRUG RELATED OFFENSES.
    (A)   Public Intoxication and Drinking.
       (1)   Definition. For the purpose of this subsection (A), a STATE OF
@@ -6819,7 +6819,7 @@ alley adjacent to a school:
    (D)   Moving or parking any vehicle in the vicinity of any school or in any
 street or alley adjacent thereto in such a manner as to annoy or molest any
 student or employee of the school.
-ARTICLE C. OFFENSES AGAINST PROPERTY
+**** ARTICLE C. OFFENSES AGAINST PROPERTY ****
 § 6-2C-1 PETTY LARCENY.
    (A)   Definition. For the purpose of this section, PETTY LARCENY is the
 taking of personal property of value not exceeding five hundred dollars
@@ -6954,7 +6954,7 @@ with, any fire hydrant or stopcock belonging to the city.
    (B)   Obstructing Access. It is unlawful for any person to obstruct access
 to any fire hydrant by placing around or thereon brick, lumber, dirt or other
 thing, or in any other manner obstructing access to a fire hydrant.
-ARTICLE D. OFFENSES AGAINST PUBLIC AUTHORITY
+**** ARTICLE D. OFFENSES AGAINST PUBLIC AUTHORITY ****
 § 6-2D-1 RESISTING AN OFFICER.
    (A)   Definitions. For the purpose of this section, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -7081,7 +7081,7 @@ Article B. Tobacco Products; Minors
 6-3B-6   Public Access to Displayed Tobacco Products
    
 6-3B-7   Report of Violations and Compliance Checks
-ARTICLE A. CURFEW
+**** ARTICLE A. CURFEW ****
 § 6-3A-1 DEFINITIONS.
    For the purpose of this article, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7138,7 +7138,7 @@ with the city of special events or functions sponsored by churches, schools,
 clubs or other organizations which require minors to be out at a later time.
    (B)   Taking Minors into Custody. The city council may also prescribe the
 procedures for taking into custody minors found in violation of this article.
-ARTICLE B. TOBACCO PRODUCTS; MINORS
+**** ARTICLE B. TOBACCO PRODUCTS; MINORS ****
 § 6-3B-1 DEFINITIONS.
    For the purpose of this article, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -7796,7 +7796,7 @@ imprisoned as provided in section
 other remedies of the City and aggrieved persons and shall not be construed as
 exclusive.
 (Ord. 2005-08, passed 9-6-2005)
-ARTICLE A. PET SHOPS, KENNELS AND CATTERIES
+**** ARTICLE A. PET SHOPS, KENNELS AND CATTERIES ****
 § 6-4A-1 LICENSE REQUIRED; FEE.
    No person, firm or corporation, either as principal or agent, shall own,
 operate, lease, or permit to be operated upon premises owned, leased or
@@ -11767,7 +11767,7 @@ dead trees be allowed. Cutting and removing of wood from lake property is
 prohibited. No wood shall be cut from trees standing in the waters of the
 lakes.
 (Ord. 1994-06, passed 11-1-1994)
-ARTICLE A. WATERCRAFT
+**** ARTICLE A. WATERCRAFT ****
 § 8-4A-1 ADOPTION OF STATE BOAT AND WATER CODES.
    The provisions of the Oklahoma vessel and motor registration act, 63 O.S. §§
 4001 et seq., and the provisions of the Oklahoma vessel and motor excise tax
@@ -12238,7 +12238,7 @@ involved in the accident when, based upon personal investigation, the officer
 has reasonable and probable grounds to believe that the person has committed an
 offense in connection with the accident.
 (Ord. 1994-06, passed 11-1-1994)
-ARTICLE B. RESTRICTIONS
+**** ARTICLE B. RESTRICTIONS ****
 § 8-4B-1 ANIMALS.
    (A)   Physical Restraint. No person shall bring or allow dogs, cats, or
 other pets or animals into any area of the lakes unless penned, caged, on a
@@ -12607,7 +12607,7 @@ limited to, initiation of administrative or judicial nuisance abatement
 proceedings, criminal code enforcement proceedings, and suits for injunctive
 relief.
 (Ord. 2023-06, passed 8-8-2023)
-ARTICLE A. YOUTH ACCESS TO TOBACCO PRODUCTS
+**** ARTICLE A. YOUTH ACCESS TO TOBACCO PRODUCTS ****
 § 8-6A-1 DEFINITIONS.
    For the purpose of this article, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13369,7 +13369,7 @@ disconnected without further notice at the expiration of the temporary utility
 service agreement, at which time, a deposit will be required for continued
 services. The city may decline to provide temporary service if the applicant
 has a delinquent account for services provided at any other premises.
-ARTICLE A. WATER DISTRICT
+**** ARTICLE A. WATER DISTRICT ****
 § 9-2A-1 DEFINITIONS.
    For the purpose of this article, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13645,7 +13645,7 @@ to be made before making the above connection.
 of the city to be used for the upkeep, maintenance, extension, and repair of
 the sanitary sewer system, and for such other uses as the city council may deem
 fit.
-ARTICLE A. INDUSTRIAL WASTE DISPOSAL
+**** ARTICLE A. INDUSTRIAL WASTE DISPOSAL ****
 § 9-3A-1 DEFINITIONS.
    For the purpose of this article, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -16572,7 +16572,7 @@ Article B. AG-2 Agricultural District
 11-6B-2   Uses Permitted
    
 11-6B-3   Uses Permitted on Review
-ARTICLE A. AG-1 AGRICULTURAL DISTRICT
+**** ARTICLE A. AG-1 AGRICULTURAL DISTRICT ****
 § 11-6A-1 GENERAL DESCRIPTION.
    This district is to establish and preserve areas for agriculture,
 aquaculture, forestry, conservation, and such low intensity, outdoor recreation
@@ -16607,7 +16607,7 @@ accordance with the provisions contained in subsection
 a street with paving at least twenty feet (20') in width.
    Wind towers.
 (Ord. 2007-06, passed 4-2-2007)
-ARTICLE B. AG-2 AGRICULTURAL DISTRICT
+**** ARTICLE B. AG-2 AGRICULTURAL DISTRICT ****
 § 11-6B-1 GENERAL DESCRIPTION.
    This district is to establish and preserve areas for agricultural, low
 density residential and outdoor recreation uses without permitting an intensity
@@ -16689,7 +16689,7 @@ Article C. RE Rural Estate District
 11-7C-3   Uses Permitted on Review
    
 11-7C-4   Area Regulations; Animal Restrictions
-ARTICLE A. R-1 SINGLE-FAMILY DWELLING DISTRICT
+**** ARTICLE A. R-1 SINGLE-FAMILY DWELLING DISTRICT ****
 § 11-7A-1 GENERAL DESCRIPTION.
    This is the most restrictive residential district. The principal use of land
 is for single-family dwellings and related recreational, religious, and
@@ -16814,7 +16814,7 @@ twenty percent (20%) of the rear yard.
 feet (35') in height, except as provided in section
 11-11-3 of this title.
 (Ord. 2007-06, passed 4-2-2007)
-ARTICLE B. R-2 GENERAL RESIDENTIAL DISTRICT
+**** ARTICLE B. R-2 GENERAL RESIDENTIAL DISTRICT ****
 § 11-7B-1 GENERAL DESCRIPTION.
    This is a residential district to provide for medium and high population
 density. The principal use of land may range from single-family to multiple-
@@ -16938,7 +16938,7 @@ thirty percent (30%) of the rear yard.
 feet (45') in height, except as provided in section
 11-11-3 of this title.
 (Ord. 2007-06, passed 4-2-2007)
-ARTICLE C. RE RURAL ESTATE DISTRICT
+**** ARTICLE C. RE RURAL ESTATE DISTRICT ****
 § 11-7C-1 GENERAL DESCRIPTION.
    The RE district is intended to provide for very low density single-family
 housing on lots of one acre or more in size, with rural amenities, where
@@ -17053,7 +17053,7 @@ Article C. HC Highway Commercial District
 11-8C-4   Area Regulations
    
 11-8C-5   Height Regulations
-ARTICLE A. C-1 NEIGHBORHOOD COMMERCIAL SHOPPING DISTRICT
+**** ARTICLE A. C-1 NEIGHBORHOOD COMMERCIAL SHOPPING DISTRICT ****
 § 11-8A-1 GENERAL DESCRIPTION.
    This commercial district is for the conduct of retail trade and personal
 service enterprises to meet the regular needs and for the convenience of the
@@ -17154,7 +17154,7 @@ feet (35') in height, except as provided in section
 § 11-8A-5 MAXIMUM LOT SIZE.
    Lots shall not exceed one acre in size.
 (Ord. 2007-06, passed 4-2-2007)
-ARTICLE B. C-2 GENERAL COMMERCIAL DISTRICT
+**** ARTICLE B. C-2 GENERAL COMMERCIAL DISTRICT ****
 § 11-8B-1 GENERAL DESCRIPTION.
    The characteristics of the C-2 district are a central business district zone
 for commercial, governmental, and exchange uses to the local and regional area.
@@ -17280,7 +17280,7 @@ chapter 12 of this title.
 shall be the same as those of the R-2 general residential district. For other
 uses, no height restrictions are established.
 (Ord. 2007-06, passed 4-2-2007)
-ARTICLE C. HC HIGHWAY COMMERCIAL DISTRICT
+**** ARTICLE C. HC HIGHWAY COMMERCIAL DISTRICT ****
 § 11-8C-1 GENERAL DESCRIPTION.
    The characteristics of the HC district are a use area for retail
 establishments that cater to the traveling public. Lot sizes, highway ingress
@@ -17367,7 +17367,7 @@ Article B. I-2 General Industrial District
 11-9B-4   Area Regulations
    
 11-9B-5   Height Regulations
-ARTICLE A. I-1 LIMITED WAREHOUSING AND INDUSTRIAL DISTRICT
+**** ARTICLE A. I-1 LIMITED WAREHOUSING AND INDUSTRIAL DISTRICT ****
 § 11-9A-1 GENERAL DESCRIPTION.
    This industrial district is intended primarily for manufacturing and
 assembly plants and warehousing that are conducted so the noise, odor, dust,
@@ -17440,7 +17440,7 @@ area.
 forty-five feet (45') in height, except as provided in section
 11-11-3 of this title.
 (Ord. 2007-06, passed 4-2-2007)
-ARTICLE B. I-2 GENERAL INDUSTRIAL DISTRICT
+**** ARTICLE B. I-2 GENERAL INDUSTRIAL DISTRICT ****
 § 11-9B-1 GENERAL DESCRIPTION.
    This industrial district is intended primarily for the conduct of
 manufacturing, assembling and fabrication. These uses do not depend primarily
