@@ -230,8 +230,22 @@ Jan-26    65.02(97)                2511     8-25-25  Stop Intersection
 Apr-26    69.08(40); 69.08(41)     2601     2-9-26   Parking
           62.01(160)               2602     2-9-26   General Traffic
                                                      Regulations
-          Ch. 137                  2603     3-9-26   Street Vacation
-          Ch. 138                  2604     2-23-26  Street Grades
+          Ch. 138                  2603     2-23-26  Street Grades
+          Ch. 137                  2604     3-9-26   Street Vacation
+Jul-26    69.08(11)                2605     4-13-26  No Parking Zones
+          65.02(22)                2606     4-13-26  Stop Required
+                                                     All-Terrain Vehicles, Golf
+          75.03(1)(B)              2607     5-11-26  Carts, Off-Road Utility
+                                                     Vehicles and Snowmobiles
+          Ch. 9                    2608     5-26-26  West Golfview Subdivision
+                                                     Urban Renewal Area
+          92.02; 92.03; 92.04(7)   2609     6-22-26  Water Rates
+          Ch. 9                    2610     6-22-26  Repealing Westfield Urban
+                                                     Renewal Area
+          Ch. 9                    2611     7-13-26  2026 Westfield Urban
+                                                     Renewal Area
+          Ch. 9                    2612     7-13-26  2026 Westfield Urban
+                                                     Renewal Area
  
 GENERAL CODE PROVISIONS
 CHAPTER 1
@@ -1251,6 +1265,10 @@ ORDINANCE NO. ADOPTED            NAME OF AREA
                                  Renewal Area
 2401          January 8, 2024    Ziegler Urban Renewal Area
 2415          September 9, 2024  Echo Urban Renewal Area
+2608          May 26, 2026       West Golfview Subdivision Urban Renewal Area
+2610          June 22, 2026      Repealing Westfield Urban Renewal Area
+2611          July 13, 2026      2026 Westfield Urban Renewal Area
+2612          July 13, 2026      2026 Westfield Urban Renewal Area
  
 CHAPTER 10
 URBAN REVITALIZATION
@@ -4700,7 +4718,8 @@ following street intersections:
    C.   Third Street
    D.   Second Street
    E.   First Street
-   F.   Bluff Street
+   F.   Bluff Street – southbound only
+(Subsection 22 – Ord. 2606 – Jul. 26 Supp.)
 23.   Edgewood Drive. Vehicles traveling on Edgewood Drive shall stop at the
 following street intersections:
    A.   Eighteenth Street
@@ -5548,35 +5567,28 @@ Seventeenth Street – west side only.
    B.   20 feet south of Seventeenth Street to Seventeenth Street – east side
 only.
 11.   East Street.
-   A.   "No Parking This Side."
+   A.   “No Parking This Side.”
       (1)   From Eleventh Street to Ninth Street - east side only;
       (2)   From Seventh Street to U.S. Highway No. 30 - west side only;
       (3)   From Fifth Street to 252 feet north of Fifth Street - east side
 only;
       (4)   From Third Street to First Street - west side only;
-   B.   "No Parking Here to Corner."
-      (1)   From the south curb line of Bluff Street to 105 feet south of the
-south curb line of Bluff Street.
-      (2)   From 50 feet north of First Street to First Street - east side
+   B.   “No Parking Here to Corner.”
+      (1)   From 50 feet north of First Street to First Street - east side
 only.
-   C.   "No Parking Anytime."
-      (1)   From Anthony Street to Bluff Street.
-         Note: Off roadway parking on the east side of East Street in
-         this block (Adoration Chapel and St. Anthony Hospital
-         Parking) is not included in this restriction.
-   D.   "No Parking 7:30 a.m. - 3:30 p.m., Monday through Friday, School Days
-Only."
+   C.   “No Parking 7:30 a.m. – 3:30 p.m., Monday through Friday, School Days
+Only.”
       (1)   The area located from 136 feet north of the centerline of Bluff
-Street to 180 feet north of the centerline of Bluff Street - west side only.
-   E.   "30 Minute Parking - 7:30 a.m. - 3:30 p.m. Monday through Friday,
-School Days only."
+Street to 180 feet north of the centerline of Bluff Street – west side only.
+   D.   “30 Minute Parking – 7:30 a.m. - 3:30 p.m. Monday through Friday,
+School Days only.”
       (1)   Parking space (1) beginning 180 feet north of the centerline of
-Bluff Street ­ West Side only.
-   F.   "No Parking Between Signs."
+Bluff Street ­ West side only.
+   E.   “No Parking Between Signs.”
       (1)   From 105 feet north of the northerly curb line of Fifth Street to a
 point 224 feet north of the northerly curb line of Fifth Street - west side
 only.
-(Ord. 1502 - May 15 Supp.)
+(Subsection 11 – Ord. 2605 – Jul. 26 Supp.)
 12.   Eighth Street.
    A.   “No Parking Anytime.”
       (1)   From Vine Street to Monterey Drive;
@@ -6278,10 +6290,9 @@ Code, Sec 321.20B; and
 roadways is impractical for conventional motor vehicles; or
       (5)   Special public events and/or other times as authorized by the
 Police Chief.
-   B.   A golf cart may be operated on city streets only under the following
+   B.   A golf cart may be operated on City streets only under the following
 circumstances:
-      (1)   Operator is at least 18 years of age and possess a valid driver's
-license.
+      (1)   Operator possess a valid driver’s license.
       (2)   On a direct route to and from the golf course and the residence or
 place of storage of the golf cart owner.
       (3)   Must be equipped with a slow-moving vehicle sign and a bicycle
@@ -6291,6 +6302,7 @@ safety flag.
 Code, Sec 321.20B.
       (6)   Special public events and/or other times as authorized by the
 Police Chief.
+(Paragraph B – Ord. 2607 – Jul. 26 Supp.)
    C.   A registered UTV may be operated on city streets only under the
 following circumstances:
       (1)   Operator is at least 18 years of age and possess a valid driver's
@@ -7002,36 +7014,36 @@ or not.
 92.02 RATES AND SERVICE.
 Water service shall be furnished at the following monthly rates by the City:
 1.   All water use except irrigation water service as defined in Subsection 2:
-   Rates for water service billed after July 1, 2025.
-   A.   Minimum charge of $5.38 per account per month.
-   B.   The first 200 cubic feet of water used per month, $2.76 per 100 cubic
+   Rates for water service billed after July 1, 2026.
+   A.   Minimum charge of $5.62 per account per month.
+   B.   The first 200 cubic feet of water used per month, $2.88 per 100 cubic
 feet.
-   C.   The next 600 cubic feet of water used per month, $2.71 per 100 cubic
+   C.   The next 600 cubic feet of water used per month, $2.83 per 100 cubic
 feet.
-   D.   The next 1,900 cubic feet of water used per month, $2.60 per 100 cubic
+   D.   The next 1,900 cubic feet of water used per month, $2.72 per 100 cubic
 feet.
-   E.   All over 2,700 cubic feet of water used per month, $2.54 per 100 cubic
+   E.   All over 2,700 cubic feet of water used per month, $2.65 per 100 cubic
 feet.
 2.   Water service shall be furnished at the following monthly rates for
 irrigation water service by the City:
-      For irrigation water service billed after July 1, 2025.
-   A.   Minimum charge of $5.38 per account per month.
-   B.   All water used per month, $3.68 per 100 cubic feet.
+   For irrigation water service billed after July 1, 2026.
+   A.   Minimum charge of $5.62 per account per month.
+   B.   All water used per month, $3.85 per 100 cubic feet.
 Irrigation water service is defined as metered water that is primarily for
-outdoor use, including, but not limited to, irrigation; use that does not
+outdoor use including, but not limited to, irrigation; use that does not
 include a sanitary sewer service charge; and use for which the wastewater is
 not discharged into the sanitary sewer system.
 Meter rates shall be figured on the nearest ten (10) cubic feet.
-(Ord. 2509 – Aug. 25 Supp.)
+(Section 92.02 – Ord. 2609 – Jul. 26 Supp.)
 92.03 BULK WATER SALES.
 Water obtained at a fire hydrant, hauled by others, shall be furnished at the
 rate as follows:
-For bulk water sales after July 1, 2025.
-1.   During regular working hours, $6.35 per 1,000 gallons plus $50.00 per
-call-out, with a minimum charge of $56.35.
-2.   During off-duty hours, $6.35 per 1,000 gallons plus $65.00 per call-out,
-with a minimum charge of $71.35.
-(Ord. 2509 – Aug. 25 Supp.)
+For bulk water sales after July 1, 2026.
+1.   During regular working hours, $6.65 per 1,000 gallons plus $50.00 per
+call-out, with a minimum charge of $56.65.
+2.   During off-duty hours, $6.65 per 1,000 gallons plus $65.00 per call-out,
+with a minimum charge of $71.65.
+(Section 92.03 – Ord. 2609 – Jul. 26 Supp.)
 92.04 TEMPORARY WATER SERVICE AND RATE.
 This section is intended for new construction of residential, commercial, and
 industrial structures. “New construction” is defined as a structure not
@@ -7059,12 +7071,12 @@ prescribed in Section
 disconnection of service from the City water system. Any reconnection to the
 City water system thereafter shall be as allowed only by other sections of this
 Code of Ordinances and not as allowed in this section.
-For temporary water service after July 1, 2025.
+For temporary water service after July 1, 2026.
 7.   Water service under this section shall be furnished at the following rate:
-$45.00 (lump sum) for a period not to exceed 90 days from the date of the new
-service connection to the water system and will be billed with the building
-permit for the applicable structure.
-(Ord. 2509 – Aug. 25 Supp.)
+$47.00 (lump sum) for a period not to exceed 90 days from the date of the new
+service connection to the water system and will be billed with the Building
+Permit for the applicable structure.
+(Subsection 7 – Ord. 2609 – Jul. 26 Supp.)
 92.05 RATES OUTSIDE THE CITY.
 Water service shall not be provided to any customer located outside the
 corporate limits of the City, except by special agreement of the Council. No
@@ -14724,7 +14736,7 @@ In addition to the inspections to be made as specified in Section
 155.34, the owner or agent shall employ a special inspector who shall be
 present at all times during construction on the following types of work:
    1.   Concrete. On concrete work when the structural design is based on an
-[https://export.amlegal.com/media/9496d4a6de183fd2d2307a2bba1555ff56962552/
+[https://export.amlegal.com/media/19240b45104d8d1b8c7ebb82fddc156efc17af97/
 IMAGES/0-0-0-2393_264x264.jpg] in excess of 2,000 pounds.
    2.   Masonry. Masonry work shall have special inspection when required in
 the State Building Code.
@@ -20208,7 +20220,7 @@ in the area used, said building or use shall then and thereafter comply with
 the parking requirement set forth herein.
 F.   On the following page is a Parking Table showing the space requirements
 for various parking angles.
-[https://export.amlegal.com/media/9496d4a6de183fd2d2307a2bba1555ff56962552/
+[https://export.amlegal.com/media/19240b45104d8d1b8c7ebb82fddc156efc17af97/
 IMAGES/0-0-0-2343.png]
  
 6.   Exceptions. The Board of Adjustment is hereby authorized and empowered,
