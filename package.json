@@ -21,6 +21,6 @@
   "dependencies": {
     "js": "^0.1.0",
     "path": "^0.12.7",
-    "puppeteer": "^24.24.0"
+    "puppeteer": "^25.9.0"
   }
 }
