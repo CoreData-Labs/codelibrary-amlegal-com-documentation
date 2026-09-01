@@ -1,3 +1,9 @@
+# TMP
+*.tmp
+*.crdownload
+*.part
+*.download
+
 # Logs
 logs
 *.log
