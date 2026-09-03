@@ -1,10 +1,10 @@
 # Deploying `codelibrary-amlegal-com-documentation` as a Linux Background Service
 
-**This guide runs everything as `root`, by request** — no dedicated service user. The systemd units below are kept intentionally minimal: no memory/CPU limits, no filesystem sandboxing directives. Fewer moving parts means less to configure, less to explain, and less that can silently cap something you didn't mean to cap. If you later want ceilings back (e.g. if the browser ever runs away with memory on a shared box), see the short optional note at the end of step 11 — it's a small addition, not a redesign.
+**This guide runs everything as `root`, by request** — no dedicated service user. The systemd units are kept minimal: no memory/CPU limits, no filesystem sandboxing directives.
 
 **Assumption used throughout:** the repo lives at `/codelibrary-amlegal-com-documentation` (a subfolder directly under `/`).
 
-**Architecture support:** this guide detects and branches on CPU architecture (`amd64` vs `arm64`), since **Google Chrome has no official Linux ARM64 build**. If you're on `amd64`, nothing about your workflow changes; the branching exists for when this runs on ARM (AWS Graviton, etc.).
+**Browser strategy:** Puppeteer downloads and manages its **own** matching Chrome build during `npm install` — nothing forces it to use a system-installed Chrome. This is deliberate: if you pin Puppeteer at a system Chrome via `PUPPETEER_EXECUTABLE_PATH`, that Chrome auto-updates independently via `apt` and can drift out of sync with the exact Chrome-for-Testing build Puppeteer was written and tested against, causing subtle automation failures when versions mismatch. Letting Puppeteer manage its own browser means the version it launches is always the one it actually expects.
 
 ---
 
@@ -23,7 +23,7 @@ ARCH=$(dpkg --print-architecture)
 echo "Detected architecture: $ARCH"
 ```
 
-Returns `amd64` (Intel/AMD — most EC2 `t3`/`m5`/`c5` instances) or `arm64` (AWS Graviton `t4g`/`m6g`/`m7g`, Raspberry Pi 4+, Ampere). `$ARCH` is used throughout — set it in every new shell session before continuing.
+Returns `amd64` (Intel/AMD — most EC2 `t3`/`m5`/`c5` instances) or `arm64` (AWS Graviton `t4g`/`m6g`/`m7g`, Raspberry Pi 4+, Ampere). Kept for step 9's note on a known ARM64 gap in Puppeteer's own browser downloads — set `$ARCH` in every new shell session before continuing.
 
 ---
 
@@ -39,7 +39,7 @@ apt-get update -y
 
 ```bash
 apt-get install -y --no-install-recommends \
-  ca-certificates curl gnupg xvfb fonts-liberation \
+  ca-certificates curl gnupg xvfb fonts-liberation zip unzip \
   libnss3 libatk-bridge2.0-0 libatk1.0-0 libcups2 libdrm2 \
   libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 \
   libgbm1 libasound2t64 libpangocairo-1.0-0 libpango-1.0-0 libgtk-3-0
@@ -53,14 +53,15 @@ All multi-arch, available on both `amd64` and `arm64` — no per-arch changes ne
 > apt-get install -y --no-install-recommends libasound2t64 || apt-get install -y --no-install-recommends libasound2
 > ```
 
-| Package                                                                                                                                                                                                                                | Reason                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| `ca-certificates`                                                                                                                                                                                                                      | Root certificates so `curl`/npm/Chrome can validate HTTPS connections.                                   |
-| `curl`                                                                                                                                                                                                                                 | Fetches signing keys and install scripts.                                                                |
-| `gnupg`                                                                                                                                                                                                                                | Verifies GPG signing keys so `apt` trusts added repos.                                                   |
-| `xvfb`                                                                                                                                                                                                                                 | Virtual display — lets the browser run headed against a virtual screen on a headless box.                |
-| `fonts-liberation`                                                                                                                                                                                                                     | Without fonts, pages render with missing glyphs, breaking layout-dependent scraping.                     |
-| `libnss3`, `libatk-bridge2.0-0`, `libatk1.0-0`, `libcups2`, `libdrm2`, `libxkbcommon0`, `libxcomposite1`, `libxdamage1`, `libxfixes3`, `libxrandr2`, `libgbm1`, `libasound2t64`, `libpangocairo-1.0-0`, `libpango-1.0-0`, `libgtk-3-0` | Shared libraries the browser is dynamically linked against; missing on minimal server images by default. |
+| Package                                                                                                                                                                                                                                | Reason                                                                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ca-certificates`                                                                                                                                                                                                                      | Root certificates so `curl`/npm can validate HTTPS connections.                                                                                                                                                                                                                                                                                                                                                     |
+| `curl`                                                                                                                                                                                                                                 | Fetches the NodeSource install script (step 5).                                                                                                                                                                                                                                                                                                                                                                     |
+| `gnupg`                                                                                                                                                                                                                                | Verifies GPG signing keys for added repos.                                                                                                                                                                                                                                                                                                                                                                          |
+| `xvfb`                                                                                                                                                                                                                                 | Virtual display — lets the browser run headed against a virtual screen on a headless box.                                                                                                                                                                                                                                                                                                                           |
+| `fonts-liberation`                                                                                                                                                                                                                     | Without fonts, pages render with missing glyphs, breaking layout-dependent scraping.                                                                                                                                                                                                                                                                                                                                |
+| **`zip`, `unzip`**                                                                                                                                                                                                                     | **Required for Puppeteer's own browser install (step 8).** Chrome-for-Testing builds are distributed as `.zip` archives on every platform, including Linux — without `unzip` present, Puppeteer's post-install browser download step fails or silently leaves no usable browser behind, which then surfaces later as a confusing "Could not find browser" error at runtime instead of a clear install-time failure. |
+| `libnss3`, `libatk-bridge2.0-0`, `libatk1.0-0`, `libcups2`, `libdrm2`, `libxkbcommon0`, `libxcomposite1`, `libxdamage1`, `libxfixes3`, `libxrandr2`, `libgbm1`, `libasound2t64`, `libpangocairo-1.0-0`, `libpango-1.0-0`, `libgtk-3-0` | Shared libraries the browser binary is dynamically linked against. A minimal server image doesn't ship these by default; without them the browser fails with `error while loading shared libraries` — this applies to Puppeteer's downloaded Chrome exactly as much as a system-installed one.                                                                                                                      |
 
 ---
 
@@ -70,55 +71,11 @@ All multi-arch, available on both `amd64` and `arm64` — no per-arch changes ne
 df -h /
 ```
 
-Confirm at least 5 GB free — the browser, Node dependencies, and the growing `.txt` output all add up over time.
+Confirm at least 5 GB free — Puppeteer's downloaded Chrome build (~200–350 MB), Node dependencies, and the growing `.txt` output all add up over time.
 
 ---
 
-## 5. Install the browser (architecture-dependent)
-
-### If `$ARCH` = `amd64`: install Google Chrome
-
-```bash
-if [ "$ARCH" = "amd64" ]; then
-  install -d -m 0755 /etc/apt/keyrings
-  curl -fsSL https://dl.google.com/linux/linux_signing_key.pub | gpg --dearmor -o /etc/apt/keyrings/google-chrome.gpg
-  echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list
-  apt-get update -y
-  apt-get install -y google-chrome-stable
-  CHROME_BIN=/usr/bin/google-chrome-stable
-fi
-```
-
-### If `$ARCH` = `arm64`: install Chromium instead
-
-Google doesn't publish Chrome for Linux ARM64 at all — use Chromium:
-
-```bash
-if [ "$ARCH" = "arm64" ]; then
-  apt-get install -y chromium
-  CHROME_BIN=$(readlink -f "$(command -v chromium || command -v chromium-browser)")
-fi
-```
-
-**Check it's a real binary, not a snap wrapper** (Ubuntu's `chromium` package is often a transitional snap redirect):
-
-```bash
-echo "$CHROME_BIN"
-[[ "$CHROME_BIN" == /snap/* ]] && echo "This is a snap-confined Chromium — see note below" || echo "Real binary — proceed."
-```
-
-If it resolves under `/snap/`: either use Debian's own `chromium` package (a genuine `.deb`, not a snap) if you can switch base image, or install `snapd` and let it run confined as-is — it'll work, just with a less predictable binary path.
-
-### Verify (either architecture)
-
-```bash
-echo "Using browser binary: $CHROME_BIN"
-"$CHROME_BIN" --version
-```
-
----
-
-## 6. Install Node.js and `npm`
+## 5. Install Node.js and `npm`
 
 ```bash
 curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
@@ -132,24 +89,40 @@ NodeSource serves both `amd64` and `arm64` builds automatically.
 1. On newer Ubuntu, the distro's own `nodejs` may already be newer than NodeSource's pinned `20.x` — `apt` keeps the newer one and reports "already the newest version." Fine, any Node v18+ works here.
 2. `npm` is a **separate package** from `nodejs` on Debian/Ubuntu in either repo — always install both explicitly.
 
-**Verify:**
+**Verify and resolve the actual binary paths — don't assume `/usr/bin/`:**
 
 ```bash
-/usr/bin/node --version
-/usr/bin/npm --version
+NODE_BIN=$(command -v node)
+NPM_BIN=$(command -v npm)
+XVFB_RUN_BIN=$(command -v xvfb-run)
+
+for var in NODE_BIN NPM_BIN XVFB_RUN_BIN; do
+  if [ -z "${!var}" ]; then
+    echo "ERROR: $var not found on PATH — install step for it failed or didn't complete."
+  else
+    echo "$var = ${!var}"
+  fi
+done
+
+"$NODE_BIN" --version
+"$NPM_BIN" --version
 ```
+
+If any of these come back empty, stop here and fix that install step before continuing — the systemd unit in step 11 uses these resolved paths directly, instead of assuming fixed locations like `/usr/bin/node`.
 
 ---
 
-## 7. Set the application directory
+## 6. Set the application directory
 
 ```bash
 APP_DIR=/codelibrary-amlegal-com-documentation
 ```
 
+At this point your shell should have `$ARCH`, `$NODE_BIN`, `$NPM_BIN`, and `$XVFB_RUN_BIN` all set.
+
 ---
 
-## 8. Clone the repository
+## 7. Clone the repository
 
 ```bash
 git clone https://github.com/CoreData-Labs/codelibrary-amlegal-com-documentation.git "$APP_DIR"
@@ -159,7 +132,7 @@ git clone https://github.com/CoreData-Labs/codelibrary-amlegal-com-documentation
 
 ---
 
-## 9. Install Node dependencies
+## 8. Install Node dependencies (this is where Puppeteer downloads its own Chrome)
 
 ```bash
 cd "$APP_DIR"
@@ -170,28 +143,55 @@ else
 fi
 ```
 
-`npm ci` is preferred when a lockfile exists — installs exactly what `package-lock.json` specifies, no version drift.
+- `npm ci` is preferred when a lockfile exists — installs exactly what `package-lock.json` specifies, no version drift.
+- `--omit=dev` — skips `devDependencies` for a leaner production install.
+- **No `PUPPETEER_SKIP_CHROMIUM_DOWNLOAD` is set** — this is intentional. Puppeteer's post-install step downloads its own Chrome-for-Testing build (~200 MB) into `node_modules/.cache/puppeteer/` (or similar), matched exactly to the Puppeteer version pinned in `package.json`. This is the browser that will actually run — nothing later in this guide overrides it with a system browser.
+
+**Confirm it actually downloaded a browser:**
+
+```bash
+find "$APP_DIR/node_modules" -iname "*chrome*" -type f -perm -u+x 2>/dev/null | head -5
+```
+
+You should see a Chrome binary path under Puppeteer's cache directory. If this comes back empty, `zip`/`unzip` from step 3 is the first thing to check — re-run `apt-get install -y zip unzip` and then `npm ci`/`npm install` again to retrigger the download.
+
+**Known ARM64 gap:** Puppeteer's Chrome-for-Testing downloads are not officially published for Linux ARM64 — a long-standing upstream limitation, not something this guide can work around. If you're on `arm64` (check `$ARCH`) and the command above finds nothing, see the fallback note in step 9.
 
 ---
 
-## 10. Manual test run before wiring up systemd
+## 9. Manual test run before wiring up systemd
+
+**Always verify interactively before automating** — far easier to debug a visible failure here than in `journalctl` later.
 
 ```bash
 cd "$APP_DIR"
-PUPPETEER_EXECUTABLE_PATH="$CHROME_BIN" xvfb-run -a node main.js
+"$XVFB_RUN_BIN" -a "$NODE_BIN" main.js
 ```
 
-`cd "$APP_DIR"` is required — `main.js` writes `./assets/` relative to the working directory; running from the wrong place causes `EACCES: permission denied, mkdir 'assets'`.
+- `cd "$APP_DIR"` — **required.** `main.js` creates/writes `./assets/` using a path relative to the process's working directory. Running from the wrong directory (e.g. `/`) causes `EACCES: permission denied, mkdir 'assets'`.
+- No `PUPPETEER_EXECUTABLE_PATH` is set — Puppeteer launches the browser it downloaded in step 8 on its own.
 
-Confirm files appear:
+Let it run for a few minutes and confirm files are actually appearing:
 
 ```bash
 find "$APP_DIR/assets" -name "*.txt" | wc -l
 ```
 
+**ARM64 fallback, only if step 8 found no downloaded browser:** install a system Chromium and point Puppeteer at it manually, just for this case:
+
+```bash
+apt-get install -y chromium
+CHROME_BIN=$(readlink -f "$(command -v chromium || command -v chromium-browser)")
+echo "$CHROME_BIN"
+[[ "$CHROME_BIN" == /snap/* ]] && echo "Warning: this is a snap-confined Chromium, not a plain binary — see note below" || echo "Real binary — OK to use."
+PUPPETEER_EXECUTABLE_PATH="$CHROME_BIN" "$XVFB_RUN_BIN" -a "$NODE_BIN" main.js
+```
+
+If `$CHROME_BIN` resolves under `/snap/`: Ubuntu's `chromium` package is often a transitional snap redirect rather than a real binary. Either use Debian's own `chromium` package (a genuine `.deb`) if you can switch base image, or install `snapd` and accept the snap-confined version as-is. This fallback path is the _only_ place in this guide `PUPPETEER_EXECUTABLE_PATH` gets set — and only because Puppeteer's own download isn't available at all on this architecture, not as a general preference.
+
 ---
 
-## 11. The systemd service file
+## 10. The systemd service file
 
 ```bash
 tee /etc/systemd/system/codelibrary-scraper.service > /dev/null <<EOF
@@ -203,9 +203,8 @@ Wants=network-online.target
 [Service]
 Type=simple
 WorkingDirectory=$APP_DIR
-Environment=PUPPETEER_EXECUTABLE_PATH=$CHROME_BIN
 Environment=NODE_ENV=production
-ExecStart=/usr/bin/xvfb-run -a node main.js
+ExecStart=$XVFB_RUN_BIN -a $NODE_BIN $APP_DIR/main.js
 Restart=always
 RestartSec=3600
 StandardOutput=journal
@@ -219,32 +218,26 @@ EOF
 
 **Directive-by-directive explanation:**
 
-| Directive                                           | Why it's set this way                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `After=`/`Wants=network-online.target`              | Don't start before the network is usable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| `Type=simple`                                       | The process in `ExecStart` _is_ the main process.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| _(no `User=`/`Group=`)_                             | Runs as `root`, systemd's default — the deliberate simplification for this deployment.                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| `WorkingDirectory=`                                 | `main.js` writes to the relative path `./assets/` — must point at the repo root.                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| `Environment=PUPPETEER_EXECUTABLE_PATH=$CHROME_BIN` | Resolved per-architecture in step 5.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| `ExecStart=`                                        | Same command as the step 10 manual test. `xvfb-run` is given as an absolute path since systemd doesn't use your shell's `$PATH` for the executable itself — but its own arguments (`node main.js`) are passed through as-is: `node` resolves fine because systemd's default `PATH` includes `/usr/bin`, and `main.js` resolves against `WorkingDirectory=` above. Uses `xvfb-run`'s default virtual screen size (no `--server-args`) — add that flag back if a specific resolution ever turns out to matter for how the pages render. |
-| `Restart=always` + `RestartSec=3600`                | `main.js` finishes and exits normally — this is what makes it a continuous "service," re-running an hour after each pass. **This is the one setting worth tuning** to your desired re-scrape frequency.                                                                                                                                                                                                                                                                                                                               |
-| `StandardOutput=`/`StandardError=journal`           | Logs go to `journalctl` — filterable, timestamped, rotated automatically.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| `SyslogIdentifier=`                                 | Tags log lines for `journalctl -t codelibrary-scraper`.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| `WantedBy=multi-user.target`                        | Starts automatically at boot.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Directive                                 | Why it's set this way                                                                                                                                                                                                                          |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `After=`/`Wants=network-online.target`    | Don't start before the network is usable.                                                                                                                                                                                                      |
+| `Type=simple`                             | The process in `ExecStart` _is_ the main process.                                                                                                                                                                                              |
+| _(no `User=`/`Group=`)_                   | Runs as `root`, systemd's default — the deliberate simplification for this deployment.                                                                                                                                                         |
+| `WorkingDirectory=`                       | `main.js` writes to the relative path `./assets/` — must point at the repo root.                                                                                                                                                               |
+| _(no `PUPPETEER_EXECUTABLE_PATH`)_        | Deliberately absent — Puppeteer launches its own downloaded Chrome from step 8, matched to the exact version it expects, instead of whatever system Chrome happens to be installed.                                                            |
+| `ExecStart=`                              | `$XVFB_RUN_BIN` and `$NODE_BIN` are the actual resolved paths from step 5 (via `command -v`), substituted into this heredoc at generation time — not assumed fixed locations. `main.js` stays relative, resolving against `WorkingDirectory=`. |
+| `Restart=always` + `RestartSec=3600`      | `main.js` finishes and exits normally — this is what makes it a continuous "service," re-running an hour after each pass. **The one setting worth tuning** to your desired re-scrape frequency.                                                |
+| `StandardOutput=`/`StandardError=journal` | Logs go to `journalctl` — filterable, timestamped, rotated automatically.                                                                                                                                                                      |
+| `SyslogIdentifier=`                       | Tags log lines for `journalctl -t codelibrary-scraper`.                                                                                                                                                                                        |
+| `WantedBy=multi-user.target`              | Starts automatically at boot.                                                                                                                                                                                                                  |
 
-**Optional — adding resource limits back later, if you ever need to:** if the browser starts consuming more memory/CPU than you'd like on a shared box, three lines under `[Service]` cover it without any other changes:
+**If you're on the arm64 fallback from step 9:** add `Environment=PUPPETEER_EXECUTABLE_PATH=$CHROME_BIN` back into `[Service]` above — that's the one architecture where forcing a system browser is actually necessary, not just possible.
 
-```ini
-MemoryMax=2G
-CPUQuota=150%
-LimitNOFILE=65536
-```
-
-Not included by default here, per your call to keep this unconstrained.
+**Optional — adding resource limits later, if you ever need to:** `MemoryMax=2G`, `CPUQuota=150%`, and `LimitNOFILE=65536` under `[Service]` cover it without any other changes. Not included by default here.
 
 ---
 
-## 12. Reload systemd and start the service
+## 11. Reload systemd and start the service
 
 ```bash
 systemctl daemon-reload
@@ -253,7 +246,7 @@ systemctl enable --now codelibrary-scraper.service
 
 ---
 
-## 13. Verifying it's actually working
+## 12. Verifying it's actually working
 
 ```bash
 systemctl status codelibrary-scraper.service
@@ -263,9 +256,7 @@ watch -n 30 'find /codelibrary-amlegal-com-documentation/assets -name "*.txt" | 
 
 ---
 
-## 14. Production monitoring (independent of the service file itself)
-
-These are operational add-ons, not part of the unit file:
+## 13. Production monitoring (independent of the service file itself)
 
 **Log rotation:** `journalctl --disk-usage` periodically; cap with `SystemMaxUse=500M` under `[Journal]` in `/etc/systemd/journald.conf` if needed.
 
@@ -276,40 +267,35 @@ These are operational add-ons, not part of the unit file:
 0 * * * * root df / | awk 'NR==2 && $5+0 > 85 {print "Disk usage high: "$5}' | logger -t disk-check
 ```
 
-**Automatic browser security updates:**
-
-```bash
-apt-get install -y unattended-upgrades
-dpkg-reconfigure --priority=low unattended-upgrades
-```
+**Keeping Puppeteer's browser current:** since Puppeteer manages its own Chrome now rather than relying on `apt`'s auto-updated system Chrome, security patches come from bumping the Puppeteer version in `package.json` and re-running `npm ci`/`npm install` — not from `unattended-upgrades`. Worth a periodic `npm outdated` check or Dependabot-style automation on the repo.
 
 **Cron-style schedule instead of a restarting daemon:** for a fixed time (e.g. nightly 2 AM) instead of "an hour after the last run," switch `Type=simple`+`Restart=always` to `Type=oneshot` (drop `Restart=`/`RestartSec=`) and pair with a `.timer` unit using `OnCalendar=*-*-* 02:00:00`.
 
 ---
 
-## 15. Troubleshooting
+## 14. Troubleshooting
 
-| Symptom                                                                    | Likely cause / fix                                                                                                 |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| `E: Unable to locate package google-chrome-stable`                         | You're on `arm64` — Google doesn't publish Chrome for Linux ARM64. Use the Chromium branch in step 5.              |
-| `E: Package 'libasound2' has no installation candidate`                    | Ubuntu 24.04+ t64 rename — use `libasound2t64` (step 3).                                                           |
-| `fatal: destination path '/' already exists and is not an empty directory` | Targeted `/` instead of a subdirectory for `git clone` — use `$APP_DIR` (step 8).                                  |
-| `error while loading shared libraries`                                     | A browser dependency from step 3 is missing — re-run the `apt-get install` list.                                   |
-| `command not found: npm` even after `apt-get install nodejs`               | `nodejs`/`npm` are separate packages — install `npm` explicitly (step 6).                                          |
-| `EACCES: permission denied, mkdir 'assets'`                                | Wrong working directory — `cd "$APP_DIR"` first when running manually (step 10).                                   |
-| Chromium is actually a snap wrapper (`arm64`)                              | `readlink -f $(which chromium)` shows `/snap/` — see step 5's snap note.                                           |
-| `Failed to move to new namespace` / sandbox errors                         | Common in containers/restricted kernels — last resort, add `--no-sandbox` to Puppeteer's launch args in `main.js`. |
-| No files under `assets/` despite "running"                                 | Confirm `WorkingDirectory=$APP_DIR` matches where you cloned it.                                                   |
+| Symptom                                                                                                              | Likely cause / fix                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `E: Package 'libasound2' has no installation candidate`                                                              | Ubuntu 24.04+ t64 rename — use `libasound2t64` (step 3).                                                                                                     |
+| `fatal: destination path '/' already exists and is not an empty directory`                                           | Targeted `/` instead of a subdirectory for `git clone` — use `$APP_DIR` (step 7).                                                                            |
+| `error while loading shared libraries`                                                                               | A browser dependency from step 3 is missing — re-run the `apt-get install` list.                                                                             |
+| `command not found: npm` even after `apt-get install nodejs`                                                         | `nodejs`/`npm` are separate packages — install `npm` explicitly (step 5).                                                                                    |
+| Puppeteer's browser download silently fails or `node_modules` has no chrome binary (step 8's check comes back empty) | `zip`/`unzip` missing — re-run `apt-get install -y zip unzip`, then `npm ci`/`npm install` again.                                                            |
+| `Could not find browser revision ...` / `Failed to launch the browser process` at runtime                            | No browser was actually downloaded during `npm install` — re-check step 8's verification command; on `arm64`, this is expected (see the fallback in step 9). |
+| `EACCES: permission denied, mkdir 'assets'`                                                                          | Wrong working directory — `cd "$APP_DIR"` first when running manually (step 9).                                                                              |
+| `Failed to move to new namespace` / sandbox errors                                                                   | Common in containers/restricted kernels — last resort, add `--no-sandbox` to Puppeteer's launch args in `main.js`.                                           |
+| No files under `assets/` despite "running"                                                                           | Confirm `WorkingDirectory=$APP_DIR` matches where you cloned it.                                                                                             |
 
 ---
 
-## 16. Ongoing maintenance
+## 15. Ongoing maintenance
 
 ```bash
 # Restart on demand
 systemctl restart codelibrary-scraper.service
 
-# Update code and deps
+# Update code and deps (re-downloads Puppeteer's browser if the pinned version changed)
 cd "$APP_DIR"
 git pull
 if [ -f package-lock.json ]; then npm ci --omit=dev; else npm install --prefix "$APP_DIR" --omit=dev; fi
@@ -326,15 +312,15 @@ systemctl daemon-reload
 
 # Part 2: The Auto-Uploader Service (`uploader.sh`)
 
-## 17. What `uploader.sh` actually does
+## 16. What `uploader.sh` actually does
 
 A bash script with an internal `while true` loop that **never exits under normal operation** — unlike `main.js`, this one already is the long-running process. Every 60 seconds it checks `git status --porcelain -uall`, and triggers a sync when either **100+ files have changed** or **30 minutes have passed** since the last push, whichever comes first: `git pull --rebase --autostash`, `git add -A`, commit, push. Failures are logged and the loop continues.
 
-No browser dependency — no architecture branching needed here. And because the script's own loop is the scheduler, `Restart=on-failure` with a short `RestartSec` is correct, not the hourly-restart pattern the scraper needed.
+No browser dependency — this half of the guide is unaffected by the Chrome/Chromium changes above. Because the script's own loop is the scheduler, `Restart=on-failure` with a short `RestartSec` is correct, not the hourly-restart pattern the scraper needed.
 
 ---
 
-## 18. Prerequisite: git identity and push authentication
+## 17. Prerequisite: git identity and push authentication
 
 **A. Git commit identity:**
 
@@ -380,18 +366,25 @@ Test with a manual `git pull`/`git push` before handing it to systemd.
 
 ---
 
-## 19. Manual test run
+## 18. Manual test run
 
 ```bash
+BASH_BIN=$(command -v bash)
+GIT_BIN=$(command -v git)
+echo "bash = $BASH_BIN"
+echo "git  = $GIT_BIN"
+
 cd "$APP_DIR"
-bash uploader.sh
+"$BASH_BIN" uploader.sh
 ```
+
+`bash` and `git` are resolved the same way as the scraper's binaries — `uploader.sh` calls `git` internally, so confirming it resolves here catches a missing/broken git install before systemd tries to run the loop. `$BASH_BIN` is what gets used in the systemd unit's `ExecStart` next.
 
 Let it run one 60-second loop, watch for the "Repository Status Report" output, `Ctrl+C` once confirmed.
 
 ---
 
-## 20. The systemd service file for the uploader
+## 19. The systemd service file for the uploader
 
 ```bash
 tee /etc/systemd/system/codelibrary-uploader.service > /dev/null <<EOF
@@ -404,7 +397,7 @@ Wants=network-online.target
 Type=simple
 WorkingDirectory=$APP_DIR
 Environment=HOME=/root
-ExecStart=/bin/bash $APP_DIR/uploader.sh
+ExecStart=$BASH_BIN $APP_DIR/uploader.sh
 Restart=on-failure
 RestartSec=10
 StandardOutput=journal
@@ -416,16 +409,17 @@ WantedBy=multi-user.target
 EOF
 ```
 
-| Directive                              | Why it differs from the scraper service                                                     |
-| -------------------------------------- | ------------------------------------------------------------------------------------------- |
-| `After=...codelibrary-scraper.service` | Soft ordering hint, not a hard dependency.                                                  |
-| `Restart=on-failure` + `RestartSec=10` | The script already loops forever internally — restart quickly only if it actually crashes.  |
-| `Environment=HOME=/root`               | Ensures git reliably finds `~/.gitconfig`/`~/.git-credentials`/`~/.ssh` for authentication. |
-| No Chrome/Puppeteer env vars           | This service never touches a browser.                                                       |
+| Directive                                  | Why it differs from the scraper service                                                     |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| `After=...codelibrary-scraper.service`     | Soft ordering hint, not a hard dependency.                                                  |
+| `ExecStart=$BASH_BIN $APP_DIR/uploader.sh` | `$BASH_BIN` is the resolved path from step 18, not an assumed `/bin/bash`.                  |
+| `Restart=on-failure` + `RestartSec=10`     | The script already loops forever internally — restart quickly only if it actually crashes.  |
+| `Environment=HOME=/root`                   | Ensures git reliably finds `~/.gitconfig`/`~/.git-credentials`/`~/.ssh` for authentication. |
+| No Chrome/Puppeteer env vars               | This service never touches a browser.                                                       |
 
 ---
 
-## 21. Enable, start, and verify
+## 20. Enable, start, and verify
 
 ```bash
 systemctl daemon-reload
@@ -438,20 +432,20 @@ Confirm a real commit lands on GitHub after a trigger condition is met.
 
 ---
 
-## 22. Troubleshooting — uploader-specific
+## 21. Troubleshooting — uploader-specific
 
 | Symptom                                                              | Likely cause / fix                                                                                                                         |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| `Author identity unknown` on commit                                  | Git identity not configured for root — step 18A.                                                                                           |
+| `Author identity unknown` on commit                                  | Git identity not configured for root — step 17A.                                                                                           |
 | `Permission denied (publickey)` on push                              | Deploy key not added with Write access, or the key file isn't readable.                                                                    |
-| `remote: Support for password authentication was removed`            | Using HTTPS with a password instead of a PAT — step 18B.                                                                                   |
+| `remote: Support for password authentication was removed`            | Using HTTPS with a password instead of a PAT — step 17B.                                                                                   |
 | Works manually, fails under `systemd` with `could not read Username` | `HOME` not reaching the service — confirm `Environment=HOME=/root` is present.                                                             |
 | `fatal: detected dubious ownership in repository`                    | `git config --global --add safe.directory $APP_DIR`                                                                                        |
 | Commits contain partially-written files                              | Known limitation of running scraper + uploader concurrently — `git add -A` can catch a file mid-write. Not fixable in the uploader itself. |
 
 ---
 
-## 23. Running both services together
+## 22. Running both services together
 
 - Both target `$APP_DIR`: scraper writes, uploader commits/pushes. No hard dependency required beyond both enabled.
 - Check both: `systemctl status codelibrary-scraper.service codelibrary-uploader.service`
@@ -461,11 +455,12 @@ Confirm a real commit lands on GitHub after a trigger condition is met.
 
 ## Production readiness checklist
 
-**Architecture:**
+**Browser (Puppeteer-managed):**
 
-- [ ] `$ARCH` detected correctly
-- [ ] Correct browser installed for your architecture and `--version` succeeds
-- [ ] On `arm64`: confirmed Chromium isn't a snap wrapper (or deliberately accepted)
+- [ ] `zip`/`unzip` installed (step 3)
+- [ ] Step 8's verification command finds a downloaded Chrome binary under `node_modules`
+- [ ] On `arm64`: confirmed whether Puppeteer's own download works; if not, fallback Chromium installed and confirmed not a snap wrapper
+- [ ] No `PUPPETEER_EXECUTABLE_PATH` set unless on the arm64 fallback
 
 **Scraper:**
 
@@ -484,5 +479,5 @@ Confirm a real commit lands on GitHub after a trigger condition is met.
 
 - [ ] Disk space monitoring in place
 - [ ] Log rotation confirmed
-- [ ] Unattended security updates enabled
+- [ ] Plan in place for keeping Puppeteer's Chrome version current (bump Puppeteer, re-run `npm ci`)
 - [ ] Consciously accepted running as root, unconstrained on memory/CPU
