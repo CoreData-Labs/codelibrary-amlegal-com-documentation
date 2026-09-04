@@ -39,7 +39,7 @@ apt-get update -y
 
 ```bash
 apt-get install -y --no-install-recommends \
-  ca-certificates curl gnupg xvfb fonts-liberation zip unzip \
+  ca-certificates curl gnupg xvfb fonts-liberation zip unzip sudo bash coreutils \
   libnss3 libatk-bridge2.0-0 libatk1.0-0 libcups2 libdrm2 \
   libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 \
   libgbm1 libasound2t64 libpangocairo-1.0-0 libpango-1.0-0 libgtk-3-0
@@ -61,7 +61,10 @@ All multi-arch, available on both `amd64` and `arm64` — no per-arch changes ne
 | `xvfb`                                                                                                                                                                                                                                 | Virtual display — lets the browser run headed against a virtual screen on a headless box.                                                                                                                                                                                                                                                                                                                           |
 | `fonts-liberation`                                                                                                                                                                                                                     | Without fonts, pages render with missing glyphs, breaking layout-dependent scraping.                                                                                                                                                                                                                                                                                                                                |
 | **`zip`, `unzip`**                                                                                                                                                                                                                     | **Required for Puppeteer's own browser install (step 8).** Chrome-for-Testing builds are distributed as `.zip` archives on every platform, including Linux — without `unzip` present, Puppeteer's post-install browser download step fails or silently leaves no usable browser behind, which then surfaces later as a confusing "Could not find browser" error at runtime instead of a clear install-time failure. |
-| `libnss3`, `libatk-bridge2.0-0`, `libatk1.0-0`, `libcups2`, `libdrm2`, `libxkbcommon0`, `libxcomposite1`, `libxdamage1`, `libxfixes3`, `libxrandr2`, `libgbm1`, `libasound2t64`, `libpangocairo-1.0-0`, `libpango-1.0-0`, `libgtk-3-0` | Shared libraries the browser binary is dynamically linked against. A minimal server image doesn't ship these by default; without them the browser fails with `error while loading shared libraries` — this applies to Puppeteer's downloaded Chrome exactly as much as a system-installed one.                                                                                                                      |
+| `sudo`                                                                                                                                                                                                                                 | Allows users to run commands with administrator/root privileges.                                                                                                                                                                                                                                                                                                                                                    |
+| `bash`                                                                                                                                                                                                                                 | Bourne Again SHell — a command-line shell used to execute commands and shell scripts.                                                                                                                                                                                                                                                                                                                               |
+| `coreutils`                                                                                                                                                                                                                            | Provides the basic utilities this guide leans on throughout (`date`, `wc`, `tail`, `find`, etc.). Present on nearly every Ubuntu base image already, but installing explicitly guards against a minimal/stripped-down image that omits it.                                                                                                                                                                          |
+| `libnss3`, `libatk-bridge2.0-0`, `libatk1.0-0`, `libcups2`, `libdrm2`, `libxkbcommon0`, `libxcomposite1`, `libxdamage1`, `libxfixes3`, `libxrandr2`, `libgbm1`, `libasound2t64`, `libpangocairo-1.0-0`, `libpango-1.0-0`, `libgtk-3-0` | Shared libraries the browser binary is dynamically linked against. A minimal server image doesn't ship these by default; without them the browser fails with `error while loading shared libraries` — this applies to Puppeteer's downloaded Chrome exactly as much as a system-installed one                                                                                                                       |
 
 ---
 
@@ -95,8 +98,10 @@ NodeSource serves both `amd64` and `arm64` builds automatically.
 NODE_BIN=$(command -v node)
 NPM_BIN=$(command -v npm)
 XVFB_RUN_BIN=$(command -v xvfb-run)
+SUDO_BIN=$(command -v sudo)
+BASH_BIN=$(command -v bash)
 
-for var in NODE_BIN NPM_BIN XVFB_RUN_BIN; do
+for var in NODE_BIN NPM_BIN XVFB_RUN_BIN SUDO_BIN BASH_BIN; do
   if [ -z "${!var}" ]; then
     echo "ERROR: $var not found on PATH — install step for it failed or didn't complete."
   else
@@ -371,8 +376,10 @@ Test with a manual `git pull`/`git push` before handing it to systemd.
 ```bash
 BASH_BIN=$(command -v bash)
 GIT_BIN=$(command -v git)
+SUDO_BIN=$(command -v sudo)
 echo "bash = $BASH_BIN"
 echo "git  = $GIT_BIN"
+echo "sudo = $SUDO_BIN"
 
 cd "$APP_DIR"
 "$BASH_BIN" uploader.sh
@@ -397,7 +404,7 @@ Wants=network-online.target
 Type=simple
 WorkingDirectory=$APP_DIR
 Environment=HOME=/root
-ExecStart=$BASH_BIN $APP_DIR/uploader.sh
+ExecStart=$SUDO_BIN $BASH_BIN $APP_DIR/uploader.sh
 Restart=on-failure
 RestartSec=10
 StandardOutput=journal
