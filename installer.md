@@ -38,7 +38,7 @@ apt-get update -y
 ## 3. Install base system dependencies
 
 ```bash
-apt-get install -y --no-install-recommends \
+apt-get install -y \
   ca-certificates curl gnupg xvfb fonts-liberation zip unzip sudo bash coreutils \
   libnss3 libatk-bridge2.0-0 libatk1.0-0 libcups2 libdrm2 \
   libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 \
@@ -50,7 +50,7 @@ All multi-arch, available on both `amd64` and `arm64` — no per-arch changes ne
 > **⚠️ Ubuntu 24.04+ "t64" note:** `libasound2` was renamed `libasound2t64`; on 24.04+ the old name is an ambiguous virtual package and errors with "no installation candidate." Already using the correct name above. On older Ubuntu (22.04/20.04), fall back with:
 >
 > ```bash
-> apt-get install -y --no-install-recommends libasound2t64 || apt-get install -y --no-install-recommends libasound2
+> apt-get install -y libasound2t64 || apt-get install -y libasound2
 > ```
 
 | Package                                                                                                                                                                                                                                | Reason                                                                                                                                                                                                                                                                                                                                                                                                              |
