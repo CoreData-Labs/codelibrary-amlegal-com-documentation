@@ -447,7 +447,7 @@ async function launchBrowserAndCreatePage() {
       "--disable-background-networking", // Reduce interference from background tasks
       "--no-sandbox", // Required in Docker
       "--disable-setuid-sandbox", // Required in Docker
-      // "--disable-dev-shm-usage", // Enable in Docker to avoid /dev/shm crashes; disable outside Docker (e.g. plain EC2) to avoid filling up /tmp.
+      "--disable-dev-shm-usage", // Enable in Docker to avoid /dev/shm crashes; disable outside Docker (e.g. plain EC2) to avoid filling up /tmp.
       "--disable-gpu", // Disable GPU acceleration
       "--disable-software-rasterizer", // Prevent crashes when GPU is disabled
       "--no-first-run", // Skip first-run dialog
