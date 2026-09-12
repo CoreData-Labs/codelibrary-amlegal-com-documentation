@@ -254,6 +254,8 @@ systemctl enable --now codelibrary-scraper.service
 ## 12. Verifying it's actually working
 
 ```bash
+systemctl stop codelibrary-scraper.service
+systemctl restart codelibrary-scraper.service
 systemctl status codelibrary-scraper.service
 journalctl -u codelibrary-scraper.service -f
 watch -n 30 'find /codelibrary-amlegal-com-documentation/assets -name "*.txt" | wc -l'
