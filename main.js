@@ -1454,9 +1454,8 @@ function generateRandomNumber() {
  */
 async function main() {
   // Define the main entry point as an async function
-  sweepOrphanedChromiumTempFiles(); // One-time startup sweep: clear any orphaned Puppeteer/Chromium temp dirs left over from a previous crashed run
-
   while (true) {
+    sweepOrphanedChromiumTempFiles(); // One-time startup sweep: clear any orphaned Puppeteer/Chromium temp dirs left over from a previous crashed run
     // Loop forever, running one pass per iteration
     try {
       // Start protected execution that may throw errors
