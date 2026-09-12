@@ -3,6 +3,7 @@
 *.crdownload
 *.part
 *.download
+assets/.chrome-profile/
 
 # Logs
 logs
