@@ -1,9 +1,9 @@
 HUNTINGTON, INDIANA
 CODE OF ORDINANCES
-2025 S-47 Supplement contains:
-Local legislation current through Ordinance 24-C-24, passed 12- 10-2024; and
-State legislation current through Indiana Legislative Service,
-2024 Acts, Pamphlet No. 3
+2026 S-48 Supplement contains:
+Local legislation current through Ordinance 2-C-26, passed 3-10-2026; and
+State legislation current through Indiana Legislative Service, 2026 Acts,
+Pamphlet No. 1
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -28,7 +28,7 @@ Paul L. Pike
 Andrew Rensberger
  
 ADOPTING ORDINANCE
-ORDINANCE NO. 2-C-87
+***** ORDINANCE NO. 2-C-87 *****
    ENACTING AS AN ORDINANCE, A CODE OF ORDINANCES FOR THE CITY OF HUNTINGTON,
 INDIANA, REVISING, AMENDING, RESTATING, CODIFYING, AND COMPILING CERTAIN
 EXISTING GENERAL ORDINANCES OF THE CITY DEALING WITH SUBJECTS EMBRACED IN SAID
@@ -96,7 +96,7 @@ Approved by me this 10th day of March, 1987.
 ATTEST:
 Joretta M. Schoeff
 City Clerk-Treasurer
-ORDINANCE NO. 5-C-90 (984)
+***** ORDINANCE NO. 5-C-90 (984) *****
    REENACTING AS AN ORDINANCE, A CODE OF ORDINANCES FOR THE CITY OF HUNTINGTON,
 INDIANA REVISING, AMENDING, RESTATING, CODIFYING, AND COMPILING CERTAIN
 EXISTING GENERAL ORDINANCES OF THE CITY OF HUNTINGTON DEALING WITH SUBJECTS
@@ -744,13 +744,13 @@ Statutory Boards, Commissions, and Other Departments
 30.73   Plan Commission
    
 30.74   Redevelopment Commission
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 30.01 CITY GOVERNMENT COMPOSED OF FOUR BRANCHES.
    The government of the city shall consist of four branches, those being the
 executive branch (IC 36-4-5), the legislative branch (IC 36-4-6), the fiscal
 branch (IC 36-4-10), and the statutory boards and commissions.
 (Ord. 14-C-83, passed 8-29-83)
-EXECUTIVE BRANCH
+**** EXECUTIVE BRANCH ****
 § 30.10 MAYOR.
    The Mayor is the city executive and head of the executive branch. He shall
 faithfully perform the duties and responsibilities contained in IC 36-4-5 and
@@ -869,7 +869,7 @@ under his charge any motorized equipment, truck, or automobile to comply with
 the provisions of this section shall subject that person to removal or
 discharge in the manner provided by law.
 ('75 Code, § 23.51) (Am. Ord. 3-C-01, passed 4-10-01)
-LEGISLATIVE BRANCH
+**** LEGISLATIVE BRANCH ****
 § 30.30 COMMON COUNCIL.
    (A)   The legislative branch of the city is the Common Council. The Council
 shall have exclusive authority to adopt ordinances and appropriate tax monies
@@ -946,7 +946,7 @@ as defined in IC 36-4-6-1l is necessary to overrule the chair.
    The order of business may be suspended by a two-thirds vote of the members
 of the Council.
 (Ord. 14-C-83, passed 8-29-83)
-FISCAL BRANCH
+**** FISCAL BRANCH ****
 § 30.50 CLERK-TREASURER AS FISCAL OFFICER.
    The Clerk-Treasurer is the fiscal officer of the city and the head of the
 fiscal branch. He shall perform the duties assigned by IC 36-4-10, and those
@@ -992,7 +992,7 @@ fully itemized invoice or bill and certification by the Clerk- Treasurer.
 allowance of the claim, shall review and allow the claim at its next regular or
 special meeting following the pre-approved payment of the expense.
 (Ord. 19-C-21, passed 11-9-21)
-STATUTORY BOARDS, COMMISSIONS, AND OTHER DEPARTMENTS
+**** STATUTORY BOARDS, COMMISSIONS, AND OTHER DEPARTMENTS ****
 § 30.65 POLICE PENSION BOARD OF TRUSTEES.
    There shall be a Police Pension Board of Trustees to perform certain duties
 prescribed by IC 36-8-6 (1925 Fund), and IC 36-8-8 (1977 Fund), concerning the
@@ -1169,7 +1169,7 @@ Department of Storm Water Management
 33.23   Terms
    
 33.24   Duties
-POLICE AND FIRE DEPARTMENTS
+**** POLICE AND FIRE DEPARTMENTS ****
 § 33.01 ESTABLISHMENT OF POLICE DEPARTMENT; COMPOSITION.
    (A)   The Police Department shall consist of the Chief of Police, the
 Assistant Chief of Police, captains of police, sergeants, and officers, who
@@ -1294,7 +1294,7 @@ provided by §§
 30.65 and
 30.66.
 ('75 Code, § 23.5)
-DEPARTMENT OF STORM WATER MANAGEMENT
+**** DEPARTMENT OF STORM WATER MANAGEMENT ****
 § 33.20 ADOPTION OF STATE LAW.
    Chapter Five of Article One Point Five of Title Eight of the Indiana Code
 addressing the matter of storm water management is hereby adopted by the Common
@@ -1350,7 +1350,7 @@ Personnel Policy
 34.05   Gifts or gratuities
    
 34.06   Travel, meal, lodging, and other expense reimbursement
-PERSONNEL POLICY
+**** PERSONNEL POLICY ****
 § 34.01 SCOPE.
    (A)   This chapter shall apply to all city employees, except to the extent
 that its provisions are superseded by a valid and binding collective bargaining
@@ -2087,7 +2087,7 @@ Additional Provisions
  
    
 50.99   Penalty; liability
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 50.01 DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning; or if used in
@@ -2181,7 +2181,7 @@ of the Indiana Utility Regulatory Commission for the approval of rates and
 charges and of the issuance of stocks, bonds, notes or other evidence of
 indebtedness.
 (Ord. 9-C-91, passed 5-14-91)
-WATER CHARGES
+**** WATER CHARGES ****
 § 50.10 WATER RATES.
    There are established for the use of and the service rendered by the
 Waterworks, the following rates and charges:
@@ -2193,29 +2193,26 @@ these included usage amounts shall be assessed and payable pursuant to division
 (B), below:
 Minimum Monthly Charges
 Monthly Charge by Meter Size in Inches
-Meter Size Included Usage Effective July 1, 2022
+Meter Size Included Usage Phase 1 Phase 2
 Minimum Monthly Charges
 Monthly Charge by Meter Size in Inches
-Meter Size Included Usage   Effective July 1, 2022
-5/8"       168 cubic feet   12.25
-3/4"       194 cubic feet   14.14
-1"         224 cubic feet   16.33
-1 1/4"     287 cubic feet   19.91
-1 1/2"     349 cubic feet   23.29
-2"         550 cubic feet   34.24
-3"         974 cubic feet   57.35
-4"         1,533 cubic feet 87.82
-6"         2,084 cubic feet 117.85
+Meter Size  Included Usage   Phase 1 Phase 2
+5/8" - 3/4" 183 cubic feet   12.81   14.99
+1"          224 cubic feet   15.68   18.35
+1 1/4"      287 cubic feet   19.51   22.85
+1 1/2"      349 cubic feet   23.20   27.18
+2"          550 cubic feet   35.16   41.24
+3"          974 cubic feet   60.39   70.90
+4"          1,533 cubic feet 93.65   110.01
+6"          2,084 cubic feet 126.43  148.55
  
    (B)   Usage rates.
  
 Metered Consumption per Month Above Included Usage
-                       Effective July 1, 2022
-First 232 cubic feet   7.29
-Next 4,600 cubic feet  5.45
-Next 11,667 cubic feet 4.79
-Next 16,666 cubic feet 2.16
-Over 33,165 cubic feet 1.52
+                        Phase 1 Phase 2
+First 40,535 cubic feet 7.00    8.19
+Next 259,465 cubic feet 5.95    7.00
+Over 300,000 cubic feet 2.04    2.37
  
    (C)   Hydrants.
       (1)   Private hydrant. Private fire hydrants, including the mains that
@@ -2227,9 +2224,9 @@ prior written notification to the Department and the property owner shall be
 assessed an annual availability charge per hydrant, billed twice per year. The
 annual fee is as follows:
  
-   Fire Protection Charges - Private Hydrant
-           Current Phase 1 Phase 2 Phase 3 Phase 4 Phase 5
-Annual Fee 671.35  578.81  590.39  602.19  614.2 4 626.52
+Fire Protection Charges - Private Hydrant
+           Phase 1 Phase 2
+Annual Fee 985.09  1,188.24
  
       (2)   Municipal hydrant. Each user shall share in the cost of ongoing
 maintenance and replacement of city-owned hydrants. The municipal hydrant
@@ -2237,17 +2234,17 @@ charge shall be billed monthly to each user based upon the size of the user's
 meter. The monthly charges are as follows:
 Fire Protection Charges - Municipal Hydrant
 Monthly Charge by Meter Size in Inches
-Meter Size Current Phase 1 Phase 2 Phase 3 Phase 4 Phase 5
+Meter Size Phase 1 Phase 2
 Fire Protection Charges - Municipal Hydrant
 Monthly Charge by Meter Size in Inches
-Meter Size  Current Phase 1 Phase 2 Phase 3 Phase 4 Phase 5
-5/8" - 3/4" 5.13    6.46    6.59    6.72    6.85    6.99
-1"          12.80   16.15   16.47   16.80   17.14   17.48
-1 1/2"      25.59   32.30   32.95   33.61   34.28   34.97
-2"          40.94   51.68   52.71   53.76   54.84   55.94
-3"          76.77   96.90   98.84   100.82  102.8 4 104.90
-4"          127.94  161.50  164.73  168.02  171.3 8 174.81
-6"          255.85  323.00  329.46  336.05  342.7 7 349.63
+Meter Size  Phase 1 Phase 2
+5/8" - 3/4" 9.09    10.97
+1"          22.73   27.43
+1 1/2"      45.45   54.85
+2"          72.72   87.76
+3"          136.35  164.55
+4"          227.25  274.25
+6"          454.50  548.50
  
    (D)   Permanent fire protection systems. Permanent fire protection
 apparatus, including standpipe and sprinkler connections, owned and maintained
@@ -2261,47 +2258,37 @@ Waterworks, in addition to charges for water supplied by the Waterworks, which
 shall be charged pursuant to divisions (A) and (B) above, as follows:
 Permanent Fire Protection Systems - Standpipes and Sprinklers
 Annual Charge by Connection Size in Inches
- Current Phase 1 Phase 2 Phase 3 Phase 4 Phase 5
+ Phase 1 Phase 2
 Permanent Fire Protection Systems - Standpipes and Sprinklers
 Annual Charge by Connection Size in Inches
-       Current  Phase 1  Phase 2  Phase 3  Phase 4  Phase 5
-1 1/2" 96.60    15.08    15.38    15.69    16.00    16.32
-2"     144.80   32.19    32.83    33.49    34.16    34.84
-3"     289.50   93.50    95.37    97.28    99.23    101.21
-4"     482.50   199.26   203.25   207.32   211.47   215.70
-6"     723.70   578.81   590.39   602.20   614.24   626.52
-8"     868.45   1,233.49 1,258.16 1,283.32 1,308.99 1,335.17
-10"    1,254.65 2,218.22 2,262.58 2,307.83 2,353.99 2,401.07
-12"    1,736.80 3,583.01 3,654.67 3,727.76 3,802.32 3,878.37
+       Phase 1  Phase 2
+1 1/2" 25.67    30.96
+2"     54.78    66.08
+3"     159.12   191.94
+4"     339.13   409.07
+6"     985.09   1,188.24
+8"     2,099.31 2,532.22
+10"    3,775.23 4,553.74
+12"    6,098    7,355.50
  
    (E)   Applicability of rates and charges. The rates and charges fixed in
 this section shall apply to individual parcels of real estate and individual
 user; they shall not be construed to permit multiple users being served through
 one meter, except as expressly authorized in advance in writing by the Board or
 Department.
-   (F)   Schedule of future rates and charges. The rates and charges of §
-50.10(A), (B), (C)(1), (C)(2), and (D) identified above as "current" are those
-adopted on June 14, 2011 in Ordinance 4-C-ll.
-      (1)   The Phase 1 rates shall supersede and replace those current rates
-and be effective for the first full monthly billing period of the municipal
-water utility following the adoption and effectiveness of this section.
+   (F)   Schedule of effectiveness of rates and charges.
+      (1)   Following the adoption of this section, the Phase 1 rates and
+charges shall supersede and replace current rates and charges and be effective
+for the first full monthly billing period of the municipal water utility after
+June 1, 2025.
       (2)   The Phase 2 rates shall supersede and replace those Phase 1 rates
 effective as of and for and after the first full monthly billing period
-following August 31, 2017;
-      (3)   The Phase 3 rates shall supersede and replace those Phase 2 rates
-effective as of and for and after the first full monthly billing period
-following August 31, 2018;
-      (4)   The Phase 4 rates shall supersede and replace those Phase 3 rates
-effective as of and for and after the first full monthly billing period
-following August 31, 2019; and
-      (5)   The Phase 5 rates shall supersede and replace those Phase 4 rates
-effective as of and for and after the first full monthly billing period
-following August 31, 2020.
+following June 1, 2026.
 (Ord. 7-C-85, passed 5-14-85; Am. Ord. 17-C-91, passed 8-26-91; Am. Ord. 20-C-
 96, passed 9-10-96; Am. Ord. 13-C-04, passed 9-14-04; Am. Ord. 37-C-07, passed
 10-30-07; Am. Ord. 15-C-08, passed 12-9-08; Am. Ord. 4-C-11, passed 6-14-11;
 Am. Ord. 15-C-16, passed 8-30-16; Am. Ord. 10-C-22, passed 6-14-22; Am. Ord.
-32-C-22, passed 12-13-22)
+32-C-22, passed 12-13-22; Am. Ord. 7-C-25, passed 4-29-25)
 § 50.11 TEMPORARY USERS.
    (A)   Water furnished to temporary users such as contractors, circuses, and
 the like, or for such purposes as filling swimming pools, shall be charged on
@@ -2361,7 +2348,7 @@ Next 16,666 cubic feet 1.28    2.04    2.08    2.12    2.16    2.20
 Next 33,165 cubic feet 1.09    1.42    1.45    1.48    1.51    1.54
  
 (Ord. 15-C-16, passed 8-30-16)
-BILLING PROCEDURES
+**** BILLING PROCEDURES ****
 § 50.20 BILLING PROCEDURES.
    (A)   (1)   For city utility billing purposes, the city shall be divided
 into three zones, the boundaries of which shall be determined by the Board.
@@ -2451,7 +2438,7 @@ water works after December 31, 2022, for capital improvement expenditures and
 place such revenue with the depreciation account for such capital improvement
 expenditures.
 (Ord. 35-C-22, passed 12-13-22)
-ESTABLISHING WATER SERVICE
+**** ESTABLISHING WATER SERVICE ****
 § 50.30 WATER CONNECTIONS; FEES; PERMIT REQUIRED.
    (A) No unauthorized person shall uncover, make any connections with or
 opening into, use, alter, or disturb any city water line or appurtenance
@@ -2625,7 +2612,7 @@ constructed as to minimize or eliminate infiltration of floodwaters into the
 distribution system and discharges from the distribution system into
 floodwaters.
 (Ord. 9-C-83, passed 7-12-83; Am. Ord. 15-C-16, passed 8-30-16)
-COMPLAINTS AND REVIEW
+**** COMPLAINTS AND REVIEW ****
 § 50.50 COMPLAINTS AND REVIEW.
    (A)   A user may complain at any time about a utility service bill, or any
 other matter pertaining to utility service and may request a conference
@@ -2654,7 +2641,7 @@ found to be functioning properly, the user shall be billed a charge of $75 for
 each request.
 (Ord. 7-C-85, passed 5-14-85; Am. Ord. 37-C-07, passed 10-30-07; Am. Ord. 15-C-
 16, passed 8-30-16)
-DISCONNECTIONS; CROSS-CONNECTION CONTROL AND BACKFLOW PREVENTION
+**** DISCONNECTIONS; CROSS-CONNECTION CONTROL AND BACKFLOW PREVENTION ****
 § 50.60 VOLUNTARY DISCONNECTIONS.
    Whenever a request is made to, and complied with, by the city that a user's
 water service be shut off at the city's water valve for routine or emergency
@@ -2792,7 +2779,7 @@ shortage of water, the Board shall declare a water emergency and the Department
 or Water Department shall prescribe rules for conservation of water until a
 time as the emergency is determined by the Board to have passed.
 (Ord. 15-C-16, passed 8-30-16)
-ADDITIONAL PROVISIONS
+**** ADDITIONAL PROVISIONS ****
 § 50.70 SERVICE CALLS AND FEES.
    (A)   An after-hours service fee shall be charged for each service call for
 a situation on the user's side of where a property owner installed shut off
@@ -2982,7 +2969,7 @@ Sewer Charges
 51.999   Penalty
    
 Appendix A:   User rates and charges
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 51.001 DEFINITIONS AND ABBREVIATIONS.
    (A)   Unless the context specifically indicates otherwise, the meaning of
 the following terms, if used in this chapter or if used in the rules and
@@ -3481,7 +3468,7 @@ C-17, passed 11-28-17) Penalty, see §
 any additional requirements that may be imposed by the Huntington County Health
 Department.
 (Ord. 30-C-84, passed 10-9-84; Am. Ord. 23-C-17, passed 11-28-17)
-PUBLIC SEWER SYSTEM
+**** PUBLIC SEWER SYSTEM ****
 § 51.010 DEPOSIT OF WASTE ON PUBLIC OR PRIVATE PROPERTY PROHIBITED.
    No person shall place, deposit, or permit to be deposited in an unsanitary
 manner upon public or private property within the city or in any area under the
@@ -3535,7 +3522,7 @@ appurtenances without first obtaining a written permit from the Board or the
 Department. The owner is also responsible for any other permits from state or
 local agencies.
 (Am. Ord. 8-C-99, passed 8-10-99; Am. Ord. 23-C-17, passed 11-28-17)
-BUILDING SEWERS; CONNECTIONS
+**** BUILDING SEWERS; CONNECTIONS ****
 § 51.020 SEWER CONNECTIONS; PERMIT REQUIRED.
    (A)   No unauthorized person shall uncover, make any connections with or
 opening into, use, alter, or disturb any public sewer or appurtenance thereof
@@ -3700,7 +3687,7 @@ Board and the Department, the inlet and connection would overburden the sewer.
 (Ord. 30-C-84, passed 10-9-84; Am. Ord. 23-C-17, passed 11-28-17) Penalty, see
 §
 51.999
-USE OF PUBLIC SEWERS
+**** USE OF PUBLIC SEWERS ****
 § 51.050 DISCHARGE OF STORM OR SURFACE WATER INTO SANITARY SEWER.
    No person shall discharge or cause to discharge any waters from sources such
 as sump pumps, roof leaders, cellar drains, yard drains, area drains,
@@ -3727,7 +3714,7 @@ Chapter 55, Storm Drainage Control).
 (Ord. 30-C-84, passed 10-9-84; Am. Ord. 20-C-98, passed 8-11-98; Am. Ord. 23-C-
 17, passed 11-28-17) Penalty, see §
 51.999
-DISCHARGE AND PRETREATMENT
+**** DISCHARGE AND PRETREATMENT ****
 § 51.060 APPLICATION OF REGULATIONS.
    This subchapter shall apply to all users of the Publicly Owned Treatment
 Works.
@@ -3755,7 +3742,7 @@ less than 140° F. (60° C.) using the test methods specified in 40 CFR 261.21;
 otherwise causing corrosive structural damage to the POTW or equipment;
          (c)   Solid or viscous substances in amounts which will cause
 obstruction of the flow in the POTW resulting in interference but in no case
-solids greater than 1/2 inch in any dimension;
+solids greater than ½ inch in any dimension;
          (d)   Pollutants, including oxygen-demanding pollutants (BOD and the
 like), released in a discharge at a flow rate and/or pollutant concentration
 which, either singly or by interaction with other pollutants, will cause
@@ -3778,7 +3765,7 @@ into the sewers for maintenance or repair;
          (j)   Wastewater which imparts color which cannot be removed by the
 treatment process, such as, but not limited to, dye wastes and vegetable
 tanning solutions, which consequently imparts color to the treatment plant's
-effluent, thereby violating the city's NPSES permit;
+effluent, thereby violating the city's NPDES permit;
          (k)   Wastewater containing any radioactive wastes or isotopes except
 in compliance with applicable state or federal regulations;
          (l)   Storm water, surface water, ground water, artesian well water,
@@ -3845,35 +3832,31 @@ pass through and interference. No person shall discharge wastewater containing
 in excess of the more stringent of standards then in effect as established by
 federal or Indiana authority or the maximum daily limit as derived from daily
 composite sampling:
-         (a)   100 mg/l ammonia
-         (b)   0.07 mg/l arsenic
-         (c)   0.048 mg/l cadmium
-         (d)   5.00 mg/l chromium total
-         (e)   0.52 mg/l chromium +6
-         (f)   0.76 mg/l copper
-         (g)   0.15 mg/l cyanide
-         (h)   0.337 mg/l lead
-         (i)   0.02 mg/l mercury
-         (j)   8.5 mg/l molybdenum
-         (k)   0.88 mg/l nickel
-         (l)   0.394 mg/l selenium
-         (m)   0.50 mg/l silver
-         (n)   2.37 mg/l zinc
-         (o)   2,500 mg/l biological oxygen demand (BOD)
-         (p)   2,500 mg/l total suspended solids (TSS)
-         (q)   100 mg/l fats, oil, or grease, and
-         (r)   for users who, in the discretion of the Board, are found to
-contribute more than 5 pounds of total phosphorus to the POTW per daily
-average, 50 mg/l phosphorus.
+Pollutant       Limit
+Ammonia         97 mg/l
+Chromium, total 3.73 mg/l
+Mercury         ND*
+Molybdenum      1.9 mg/l
+Selenium        0.263 mg/l
+Zinc            1.72 mg/l
+*Monitoring for mercury shall be in accordance with the following test
+methods. The discharge of mercury at or above the quantification level of 0.2
+ug/l shall represent an exceedance of the local limit. Mercury sampling
+procedures, preservation and handling, and analytical protocol for compliance
+monitoring shall be in accordance with U.S. EPA Method 245.1, unless screening
+using Method 1631 is required by the city. The quantification level shall be
+0.2 ug/l for Method 245.1 or 0.5 nanograms/liter (ng/l) for Method 1631,
+unless higher levels are appropriate due to sampling matrix interference.
+ 
       (2)   The above limits apply at the point where the wastewater is
 discharged to the POTW. All concentrations for metallic substances are for
 "total" metal unless indicated otherwise. The Board may impose mass limitations
 in addition to, or in place of, the concentration-based limitations above.
       (3)   Any wastewater containing in excess of 210 mg/l BOD or 230 mg/l TSS
-will be surcharged as high strength wastewater as provided in §
-51.103. The issuance of surcharges for treating high strength wastewater shall
-not be construed as acceptance of high strength wastewater for treatment by the
-City of Huntington. The city reserves the right and authority to prohibit the
+will be surcharged as high strength wastewater as provided in § 51.103. The
+issuance of surcharges for treating high strength wastewater shall not be
+construed as acceptance of high strength wastewater for treatment by the City
+of Huntington. The city reserves the right and authority to prohibit the
 discharge of high strength wastewater when such wastewaters cause or are
 reasonably expected to cause POTW upsets, overloading or damage to the sewer
 collection system.
@@ -3890,8 +3873,8 @@ imposition of mass limitations is appropriate.
 (Ord. 35-C-92, passed 11-10-92; Am. Ord. 37-C-92, passed 12-8-92; Am. Ord. 8-C-
 99, passed 8-10-99; Am. Ord. 13-C-00, passed 8-8-00; Am. Ord. 12-C-03, passed
 9-9-03; Am. Ord. 22-C-08, passed 10-28-08; Am. Ord. 19-C-12, passed 10-30-12;
-Am. Ord. 23-C-17, passed 11-28-17; Am. Ord. 16-C-20, passe 12-8-20) Penalty,
-see §
+Am. Ord. 23-C-17, passed 11-28-17; Am. Ord. 16-C-20, passe 12-8-20; Am. Ord. 2-
+C-26, passed 3-10-26) Penalty, see §
 51.999
 § 51.064 PRETREATMENT OF WASTEWATER.
    (A)   Pretreatment facilities. Users shall provide wastewater treatment as
@@ -4900,7 +4883,7 @@ chargeable by the city.
    (F)   All fees will be located in
 Appendix A.
 (Ord. 35-C-92, passed 11-10-92; Am. Ord. 8-C-99, passed 8-10-99)
-PRIVATE SEWAGE DISPOSAL
+**** PRIVATE SEWAGE DISPOSAL ****
 § 51.080 PRIVATE DISPOSAL SYSTEM, WHERE SEWER NOT AVAILABLE.
    Where a public sanitary or combined sewer is not available under the
 provisions of §
@@ -5026,7 +5009,7 @@ require any person depositing those waste products in the sewage disposal
 system to meet proper sanitation requirements in the delivery and depositing of
 the waste products.
 (Ord. 30-C-84, passed 10-9-84)
-SEWER CHARGES
+**** SEWER CHARGES ****
 § 51.100 USER CLASS.
    Every person whose premises are served by the sewage works shall be charged
 for the services provided. These charges are established for each user class,
@@ -5793,7 +5776,7 @@ Cross-references:
 Chapter 159
    Illicit stormwater discharges and connections, see
 Chapter 56
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 55.001 PREAMBLE.
    (A)   The purpose of this chapter is to reduce the hazard to public health
 and safety caused by excessive stormwater runoff and the deterioration of
@@ -6170,7 +6153,7 @@ minimum standards; therefore, this subchapter does not intend, nor imply, that
 compliance by any person will ensure that there will be no contamination,
 pollution, nor unauthorized discharge of pollutants.
 (Ord. 24-C-24, passed 12-10-24)
-ILLICIT DISCHARGE AND CONNECTION
+**** ILLICIT DISCHARGE AND CONNECTION ****
 § 55.020 PURPOSE/INTENT.
    (A)   It is the intent of this subchapter to prohibit the connection of non-
 stormwater discharges to the stormwater system.
@@ -6341,7 +6324,7 @@ also retain an on-site written record of the discharge and the actions taken to
 prevent its recurrence. Such records shall be retained for at least three
 years.
 (Ord. 24-C-24, passed 12-10-24)
-STORMWATER QUANTITY MANAGEMENT
+**** STORMWATER QUANTITY MANAGEMENT ****
 § 55.040 PURPOSE/INTENT.
    The purpose of this subchapter is to reduce the hazard to public health and
 safety caused by excessive stormwater runoff and to establish legal authority
@@ -6453,7 +6436,7 @@ than one lot or holding shall be documented by appropriate covenants to
 property deeds, unless responsibility is formally accepted by a public body,
 and determined before the final stormwater permit is approved.
 (Ord. 24-C-24, passed 12-10-24)
-STORMWATER POLLUTION PREVENTION FOR CONSTRUCTION SITES
+**** STORMWATER POLLUTION PREVENTION FOR CONSTRUCTION SITES ****
 § 55.060 PURPOSE/INTENT.
    The purpose of this subchapter is to regulate the contribution of pollutants
 to the storm drain system from construction site runoff and to establish legal
@@ -6610,7 +6593,7 @@ operations of the construction activities. Details regarding requirements
 related to the project management log are contained in the city’s Stormwater
 Technical Standards Manual.
 (Ord. 24-C-24, passed 12-10-24)
-STORMWATER QUALITY MANAGEMENT FOR POST-CONSTRUCTION
+**** STORMWATER QUALITY MANAGEMENT FOR POST-CONSTRUCTION ****
 § 55.080 PURPOSE/INTENT.
    The purpose of this subchapter is to regulate the contribution of pollutants
 to the storm drain system from post-construction runoff from new development
@@ -6770,7 +6753,7 @@ quality storage capacity and the operational condition of key facility
 elements. Noted deficiencies and recommended corrective action will be included
 in an inspection report.
 (Ord. 24-C-24, passed 12-10-24)
-STORMWATER PERMIT REQUIREMENTS AND PROCEDURES
+**** STORMWATER PERMIT REQUIREMENTS AND PROCEDURES ****
 § 55.100 PURPOSE/INTENT.
    The purpose of this subchapter is to specify the requirements and procedures
 for applying for and securing a stormwater permit from the Department for
@@ -6878,7 +6861,7 @@ least 90 days prior to expiration.
    (G)   Figure 1 is a flowchart summarizing the plan review/permit approval/
 project termination compliance process for land disturbance of one acre or
 more. [https://export.amlegal.com/media/
-215904dceb521cbd107ba9ad20dd80f8d8fc8de9/IMAGES/0-0-0-2642.gif]
+4adc13bb2aec3a662699850750e85101448eaeeb/IMAGES/0-0-0-2642.gif]
  
 (Ord. 24-C-24, passed 12-10- 24)
 § 55.104 INFORMAT ION REQUIREM ENTS.
@@ -7135,7 +7118,7 @@ system and stormwater management facilities substantially comply with
 construction plans and the stormwater management permit as approved by the
 Department. (See certificate in the Stormwater Technical Standards Manual.)
 (Ord. 24-C-24, passed 12-10-24)
-COMPLIANCE AND ENFORCEMENT
+**** COMPLIANCE AND ENFORCEMENT ****
 § 55.120 PURPOSE/INTENT.
    The purpose of this subchapter is to set the compliance, enforcement, and
 penalties associated with the requirements and regulations discussed in this
@@ -8698,7 +8681,7 @@ deposited in a special "Vehicle Inspection Fund".
 Inspection Fund for law enforcement purposes, or such other purposes as may be
 then permitted by applicable law.
 (Ord. 4-C-92, passed 3-10-92)
-TRAFFIC AND PARKING VIOLATIONS
+**** TRAFFIC AND PARKING VIOLATIONS ****
 § 70.20 NOTICE OF VIOLATION.
    (A)   It shall be the duty of the police officers of the city to enforce the
 provisions of the traffic code, in accordance with instructions issued by the
@@ -8855,7 +8838,7 @@ Municipal Parking Lots
  
    
 71.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 71.01 AUTHORITY OF POLICE, FIRE OFFICIALS.
    (A)   It shall be the duty of the officers of the Police Department, or
 those officers as are assigned by the Chief of Police, to enforce all street
@@ -8896,7 +8879,7 @@ highway.
 71.99
 Statutory reference:
    Application to traffic regulations, see IC 9-21-1
-TRAFFIC SIGNS AND SIGNALS
+**** TRAFFIC SIGNS AND SIGNALS ****
 § 71.10 AUTHORITY OF CITY TO INSTALL.
    The Board of Public Works and Safety shall place and maintain traffic-
 control signs, signals, and devices when and as required under the traffic code
@@ -8982,7 +8965,7 @@ railroad sign or signal, or any inscription, shield, or insignia thereon, or
 any other part thereof.
 ('75 Code, § 41.31) Penalty, see §
 71.99
-VEHICLE OPERATION
+**** VEHICLE OPERATION ****
 § 71.30 SPEED LIMITS.
    (A)   The state traffic laws regulating the speed of vehicles shall be
 applicable upon all streets within this city except as this traffic code,
@@ -9053,7 +9036,7 @@ employee engaged in the necessary discharge of a duty or to persons riding
 within truck bodies in space intended for merchandise.
 ('75 Code, § 41.85) Penalty, see §
 71.99
-EMERGENCY VEHICLES
+**** EMERGENCY VEHICLES ****
 § 71.50 AUTHORIZED EMERGENCY VEHICLES.
    (A)   This section applies to the person who drives an authorized emergency
 vehicle when:
@@ -9092,7 +9075,7 @@ emergency vehicle has stopped in answer to an emergency alarm.
 71.99
 Statutory reference:
    Following fire apparatus, see IC 9-21-12-7
-PARADES; FUNERAL PROCESSIONS
+**** PARADES; FUNERAL PROCESSIONS ****
 § 71.65 DRIVERS IN FUNERAL OR OTHER PROCESSION.
    Each driver in a funeral or other procession shall drive as near to the
 right-hand edge of the roadway as practical and shall follow the vehicle ahead
@@ -9114,7 +9097,7 @@ except in accordance with a permit issued by the Chief of Police and those
 other regulations set forth herein which may apply.
 ('75 Code, § 41.63) Penalty, see §
 71.99
-MUNICIPAL PARKING LOTS
+**** MUNICIPAL PARKING LOTS ****
 § 71.70 HOURS OPEN TO THE PUBLIC.
    (A)   Except as other hours are expressly established from time to time in a
 duly appointed resolution of the City's Board of Public Works and Safety, no
@@ -9234,7 +9217,7 @@ Cross-reference:
 violations of
 Chapter 72, see §
 36.06
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 72.01 DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning:
@@ -9267,7 +9250,7 @@ effective unless the signs are erected and in place at the time of any alleged
 offenses, provided, that this section shall not be deemed to apply to those
 streets on which parking meters have been installed.
 ('75 Code, § 42.8)
-PARKING REGULATIONS
+**** PARKING REGULATIONS ****
 § 72.12 AREAS DESIGNATED FOR NO PARKING.
    No person shall park any vehicle upon a street within an area which has been
 signed or marked by the Traffic Director as "No Parking."
@@ -9443,7 +9426,7 @@ expense of the vehicle's owner after the vehicle has received four violations
 within any 12-month period and the towing and/or removal is deemed necessary by
 the police.
 (Ord. 12-C-21, passed 9-14-21)
-PARKING NEAR BUSINESS, PUBLIC BUILDINGS
+**** PARKING NEAR BUSINESS, PUBLIC BUILDINGS ****
 § 72.35 BLOCKING ENTRANCES, EXIT TO PARKING AREA PROHIBITED.
    It shall be unlawful to block entrances or exits to any parking area
 adjacent to any business building or public building in any manner, whether by
@@ -9487,7 +9470,7 @@ owner or private property owner, and may be accomplished by displaying a sign
 in a conspicuous location stating that the premises are protected by Ordinance
 12-C-77.
 (Ord. 12-C-77, passed 5-10-77)
-LOCAL DISASTER AND TRAVEL ADVISORY
+**** LOCAL DISASTER AND TRAVEL ADVISORY ****
 § 72.50 TITLE.
    This subchapter shall be known as Local Disaster and Travel Advisory.
 (Ord. 38-C-14, passed 12-16-14)
@@ -9541,7 +9524,7 @@ significant amount of snow removed from any sidewalk, driveway or parking lot,
 into or upon any street or within five feet of any fire hydrant unless
 authorized in advance by the City Services, Police or Fire Departments.
 (Ord. 38-C-14, passed 12-16-14)
-LIMITED MOBILITY RESIDENTIAL RESERVED PARKING PERMITS
+**** LIMITED MOBILITY RESIDENTIAL RESERVED PARKING PERMITS ****
 § 72.65 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -9728,7 +9711,7 @@ Trucks
  
    
 73.99   Penalty
-LOADING ZONES
+**** LOADING ZONES ****
 § 73.01 CITY TO DETERMINE LOCATION.
    The City Traffic Director is hereby authorized to investigate and recommend
 to the Board of Public Works and Safety the location of passenger and freight
@@ -9747,7 +9730,7 @@ hours when the provisions applicable to these zones are in effect. In no case
 shall the stop for loading and unloading of materials exceed 30 minutes.
 ('75 Code, § 42.22) Penalty, see §
 73.99
-PUBLIC CARRIER ROUTES, STANDS
+**** PUBLIC CARRIER ROUTES, STANDS ****
 § 73.15 CITY TO DETERMINE LOCATION OF BUS STOPS, TAXICAB STANDS.
    The City Traffic Director is hereby authorized to recommend to the Board of
 Public Works and Safety locations for bus stops, taxicab stands, and stands for
@@ -9803,7 +9786,7 @@ this city, shall operate only on the routes as may be designated by the City
 Traffic Director, when traveling on a regularly scheduled route.
 ('75 Code, § 42.33) Penalty, see §
 73.99
-TRUCKS
+**** TRUCKS ****
 § 73.35 TRUCK ROUTES.
    Drivers of freight-carrying vehicles of one-ton capacity or more, except
 vehicles having origin or destination in this city, are hereby prohibited from
@@ -10068,7 +10051,7 @@ against a building or at the curb, in a manner as to afford the least
 obstruction to pedestrian traffic.
 ('75 Code, § 44.9) Penalty, see §
 75.99
-E-SCOOTERS
+**** E-SCOOTERS ****
 § 75.51 DEFINITIONS.
    For purposes of this chapter, the following definitions shall apply:
    "BPW&S." The City's Board of Public Works and Safety.
@@ -11087,16 +11070,17 @@ Warren              Northerly Court     Division
  
 ALLEY BETWEEN AND ROUGHLY PARALLEL TO DIRECTION ONE-WAY LOCATION
                                                         FROM TO
-ALLEY BETWEEN AND ROUGHLY PARALLEL DIRECTION ONE-WAY LOCATION
-TO
-                                                     FROM          TO
-Guilford & Vine                    Westerly          Behind Mann's Guilford
-Jefferson & Cherry                 Northerly         E. Franklin   W. Park Dr
-Jefferson & Guilford               Southerly         Home          Mulberry
-Studebaker & Waterworks Rd         Westerly          Etna          Ash
+ALLEY BETWEEN AND ROUGHLY   DIRECTION ONE-WAY LOCATION
+PARALLEL TO
+                                              FROM          TO
+E. John Street and Roche    Westerly          Warren Street N. Jefferson Street
+Guilford & Vine             Westerly          Behind Mann's Guilford
+Jefferson & Cherry          Northerly         E. Franklin   W. Park Dr
+Jefferson & Guilford        Southerly         Home          Mulberry
+Studebaker & Waterworks Rd  Westerly          Etna          Ash
 (Sycamore Alley)
-Warren & Jefferson                 Southerly         E. Washington E. Market
-                                   Northerly         E. Washington E. Park Dr.
+Warren & Jefferson          Southerly         E. Washington E. Market
+                           Northerly         E. Washington E. Park Dr.
  
    (F)   Schedule VI: Speed Limits. As permitted by applicable law, the city,
 after accumulating and evaluating available information, has determined that
@@ -11237,8 +11221,8 @@ Eastbound dual lanes shall turn left onto Warren.
 Westbound dual lanes shall turn right onto Warren.
 (Ord. 24-C-94, passed 2-14-95; Am. Ord. 28-C-96, passed 11-12-96; Am. Ord. 34-
 C-96, passed 2-11-97; Am. Ord. 3-C-98, passed 5-12-98; Am. Ord. 28-C-00, passed
-1-9-01; Am. Ord. 21-C-01, passed 2-12-02; Am. Ord. 12-C-02, passed 8-27-02)
-Penalty, see §
+1-9-01; Am. Ord. 21-C-01, passed 2-12-02; Am. Ord. 12-C-02, passed 8-27-02; Am.
+Ord. 12-C-25, passed 8-26-25) Penalty, see §
 78.99
 § 78.02 SPEED LIMITS IN CITY PARKS.
    A speed limit of 20 miles per hour shall be the maximum speed permitted upon
@@ -11265,7 +11249,7 @@ such other places as the Chief deems necessary.
 places as the Chief deems necessary for the protection of pedestrians and the
 public interests.
 (Ord. 24-C-94, passed 2-14-95)
-TRAFFIC FLOW AND ACTIVITY CONTROL
+**** TRAFFIC FLOW AND ACTIVITY CONTROL ****
 § 78.10 SUPPLEMENTAL TRAFFIC FLOW AND ACTIVITY CONTROL.
    Because the Common Council can not keep adequate track of, and address
 timely, all of the traffic flow and activity problems of this city on a day to
@@ -11281,7 +11265,7 @@ so determines to be necessary, which resolutions when adopted shall be
 implemented, enforceable and enforced as a part of this chapter, all pending
 and subject to further action by the Common Council.
 (Ord. 24-C-94, passed 2-14-95)
-RENAMING CITY STREETS
+**** RENAMING CITY STREETS ****
 § 78.50 REQUEST FORM REQUIRED.
    (A)   Any individual who desires to rename a city street shall submit a
 request form to the Board of Public Works and Safety ("Board").
@@ -11518,7 +11502,7 @@ Cross-reference:
 violations of
 Chapter 90, see §
 36.06
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 90.01 SHORT TITLE.
    This chapter shall be known and may be cited as the Abandoned/Junk Vehicle
 chapter.
@@ -11610,7 +11594,7 @@ and storage of abandoned vehicles:
    Towing to one location within the city limits   $25.00
    Storage fees               $ 5.00/day
 (Ord. 7-C-90, passed 6-12-90)
-IMPOUNDMENT, REDEMPTION PROCEDURES
+**** IMPOUNDMENT, REDEMPTION PROCEDURES ****
 § 90.10 AUTHORITY TO IMPOUND.
    When an officer discovers a vehicle in the possession of a person other than
 the owner of the vehicle and the person cannot establish the right to
@@ -11624,25 +11608,32 @@ search, the Bureau shall declare the vehicle abandoned and provide for disposal
 under this chapter.
 (IC 9-22-1-7)
 § 90.12 NOTICE TAG TO BE PLACED ON VEHICLE BY POLICE OFFICER.
-   (A)   An officer who finds or is notified of a vehicle or parts believed to
-be abandoned shall attach in a prominent place a notice tag containing the
-following information:
-      (1)   The date, time, officer's name, public agency, and address and
+   (A)   (1)   An officer who finds or is notified of a vehicle or parts
+believed to be abandoned shall attach in a prominent place a notice tag
+containing the following information:
+         A.   The date, time, officer’s name, public agency, and address and
 telephone number to contact for information.
-      (2)   That the vehicle or parts are considered abandoned.
-      (3)   That the vehicle or parts will be removed after:
-         A.   Twenty-four hours, if the vehicle is located on or within the
+         B.   That the vehicle or parts are considered abandoned.
+         C.   That the vehicle or parts will be removed after:
+            1.   Twenty-four hours, if the vehicle is located on or within the
 right-of-way of an interstate highway or any highway that is designated as part
 of the state highway system under IC 8-23-4; or
-         B.   Seventy-two hours, for any other vehicle.
-      (4)   That the person who owns the vehicle will be held responsible for
+            2.   Except as provided in division (A)(2), 72 hours, for any other
+vehicle.
+         D.   That the person who owns the vehicle will be held responsible for
 all costs incidental to the removal, storage, and disposal of the vehicle.
-      (5)   That the person who owns the vehicle may avoid costs by removal of
-the vehicle or parts within:
-         A.   Twenty-four hours, if the vehicle is located on or within the
+         E.   That the person who owns the vehicle may avoid costs by removal
+of the vehicle or parts within:
+            1.   Twenty-four hours, if the vehicle is located on or within the
 right-of-way of an interstate highway or any highway that is designated as part
 of the state highway system under IC 8-23-4; or
-         B.   Seventy-two hours, for any other vehicle.
+            2.   Seventy-two hours, for any other vehicle.
+      (2)   This division applies only to an abandoned vehicle as defined in IC
+19-13-2-1(2). The legislative body may adopt an ordinance that establishes a
+different waiting period for the removal of an abandoned vehicle, which must be
+at least 72 hours but not more than 14 days, for the purpose of allowing a
+person to park their vehicle that is registered to their residence on the
+street outside of that residence.
 (IC 9-22-1-11)
    (B)   If a vehicle or a part tagged under division (A) above is not removed
 within the applicable period, the officer shall prepare a written abandoned
@@ -11681,8 +11672,9 @@ the bureau shall note the status of the vehicle in the records of the bureau.
 vehicle or parts is at least $1,000, the officer, before placing a notice tag
 on the vehicle or parts, shall make a reasonable effort to ascertain the person
 who owns the vehicle or parts or who may be in control of the vehicle or parts.
-After 72 hours, the officer shall require the vehicle or parts to be towed to a
-storage yard or towing service. (IC 9-22-1-14)
+Except as provided in §
+90.12(A)(2), after 72 hours, the officer shall require the vehicle or parts to
+be towed to a storage yard or towing service. (IC 9-22-1-14)
    (C)   If a vehicle or parts are in such a condition that vehicle
 identification numbers or other means of identification are not available to
 determine the person who owns or holds a lien on the vehicle, the vehicle may
@@ -11698,26 +11690,21 @@ address of the person who owns or holds a lien on the vehicle.
 § 90.15 ABANDONED VEHICLE FUND.
    (A)   An Abandoned Vehicle Fund is hereby established as required under IC
 9-22-1-30.
-not claimed by the person who owns or holds a lien on a vehicle shall be paid
-from the Abandoned Vehicle Account established under IC 9-22-1-30. The charge
-payable by the person who owns or holds a lien on a vehicle for towing,
-storing, or removing an abandoned vehicle or parts may not exceed the limits
-established by ordinance of the town.
-(IC 9-22-1-25)
    (B)   The costs for removal and storage of an abandoned vehicle or parts not
 claimed by the person who owns or holds a lien on a vehicle shall be paid from
 the Abandoned Vehicle Account established under IC 9-22-1-30. The charge
 payable by the person who owns or holds a lien on a vehicle for towing,
 storing, or removing an abandoned vehicle or parts may not exceed the limits
-established by ordinance of the town.
-(IC 9-22-1-25)
+established by ordinance of the town. (IC 9-22-1-25)
    (C)   (1)   The proceeds from the sale of abandoned vehicles or parts,
 including:
          (a)   Charges for bills of sale; and
          (b)   Money received from persons who own or hold liens on vehicles
 for the cost of removal or storage of vehicles,
-      (2)   Shall be deposited in the Abandoned Vehicle Fund by the fiscal
-officer of the city, county, or town.
+      (2)   Shall first be credited against the costs of removal, storage, and
+disposal of the vehicle incurred by the towing company or storage facility. The
+remaining proceeds shall be deposited in the Abandoned Vehicle Fund by the
+fiscal officer of the city, county, or town.
 (IC 9-22-1-27)
 § 90.16 ADDITIONAL REGULATIONS MAY BE ENACTED BY CITY.
    To facilitate the removal of abandoned vehicles or parts, the city may
@@ -11838,7 +11825,7 @@ Administration; Enforcement
  
    
 91.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 91.01 DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -12409,7 +12396,7 @@ conducting trap-neuter-return is not deemed to have abandoned the cat.
       (5)   Trap-neuter-return shall be the preferred disposition for impounded
 community cats.
 (Ord. 22-C-21, passed 11-9-21)
-IMPOUNDMENT
+**** IMPOUNDMENT ****
 § 91.30 IMPOUNDING DOGS AND CATS AT LARGE.
    The city police or designated Humane Officers shall impound any at-1arge dog
 or cat until redeemed or otherwise disposed of.
@@ -12502,7 +12489,7 @@ its owner has been in violation of this chapter, the person redeeming the
 animal by paying the fine shall also be subject to paying reasonable boarding
 fees.
 (Ord. 8-C-86, passed 5-13-86)
-PERMITS AND LICENSES FOR FACILITIES
+**** PERMITS AND LICENSES FOR FACILITIES ****
 § 91.45 PET SHOPS.
    (A)   Any person operating a pet shop as defined in this chapter shall
 obtain a pet shop permit.
@@ -12573,7 +12560,7 @@ number.
    (C)   All fees shall be paid at time of application, and prior to the
 issuance of the permit or registration.
 (Ord. 8-C-86, passed 5-13-86)
-ADMINISTRATION; ENFORCEMENT
+**** ADMINISTRATION; ENFORCEMENT ****
 § 91.60 ANIMAL CONTROL OFFICER.
    The Mayor or his designate shall appoint an Animal Control Officer who shall
 catch and impound any dogs or cats found running at large in the city.
@@ -13297,7 +13284,7 @@ Dumpsters and Other Containers
  
    
 95.99   Penalty
-COLLECTION PROCEDURES
+**** COLLECTION PROCEDURES ****
 § 95.01 DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -13543,7 +13530,7 @@ city trash collection; and
       (2)   Billed to owners of residential property, not connected to city
 utilities, but that receive city trash collection.
 (Ord. 20-C-18, passed 9-25-18; Am. Ord. 27-C-22, passed 10-11-22)
-CURBSIDE RECYCLING FEES AND CHARGES
+**** CURBSIDE RECYCLING FEES AND CHARGES ****
 § 95.10 FEES AND CHARGES ESTABLISHED; BILLING; AND COLLECTION.
    (A)   On a per-site, per-month basis, the fees and charges below shall be
 charged to:
@@ -13568,7 +13555,7 @@ utilities, but that receive city trash collection; and
       (3)   Billed to opt-in recycling customers.
 (Ord. 13-C-17, passed 9-26-17; Am. Ord. 22-C-17, passed 12-12-17; Am. Ord. 27-
 C-22, passed 10-11-22)
-CURBSIDE RECYCLING PROGRAM
+**** CURBSIDE RECYCLING PROGRAM ****
 § 95.11 DEFINITIONS.
    "CITY ENFORCEMENT OFFICER." The Superintendent of City Services, including
 his/her designee, any police department member, ordinance officer, or other
@@ -13680,7 +13667,7 @@ chapter for those utilizing the city's curbside recycling program.
    The Board of Public Works and Safety is authorized to implement all policies
 necessary to fully administer the curbside recycling program.
 (Ord. 16-C-17, passed 10-31-17)
-CITY LANDFILL
+**** CITY LANDFILL ****
 § 95.25 PROHIBITED DEPOSITS.
    (A)   Nonresidents of the county may not deposit material at the landfill,
 except by express written contract with the city approved in advance by the
@@ -13790,7 +13777,7 @@ appropriately amended from time to time, the landfill may accept such qualified
 waste for processing by Nature's Fuel Huntington LLC, notwithstanding § 95.25
 and any other provision of this chapter to the contrary.
 (Ord. 19-C-09, passed 9-17-09)
-DUMPSTERS AND OTHER CONTAINERS
+**** DUMPSTERS AND OTHER CONTAINERS ****
 § 95.40 DEFINITIONS.
    For the purposes of this subchapter, the following terms shall have the
 following meanings.
@@ -14081,7 +14068,7 @@ Cross-reference:
 violations of
 Chapter 98, see §
 36.06
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 98.001 PURPOSE; ADMINISTRATION.
    (A)   It is the purpose of this chapter to protect the public health, safety
 and welfare and enhance the environment of the people of the city by:
@@ -14415,7 +14402,7 @@ property may notify the Violations Clerk in writing of any objection to that
 bill. No further abatement action shall be taken by the city until the Board
 acts on the timely filed objection.
 (Ord. 2-C-13, passed 2-26-13)
-NATURALIZED LANDSCAPE
+**** NATURALIZED LANDSCAPE ****
 § 98.21 NATURALIZED LANDSCAPE PERMITTED.
    (A)   An owner may maintain a naturalized landscape on property when a land
 management plan has been approved by the Plan Commission. Application for a
@@ -14463,7 +14450,7 @@ sight line to the land management plan area will be affected in a substantially
 adverse manner.
 (Ord. 2-C-13, passed 2-26-13; Am. Ord. 20-C-14, passed 7-29-14; Am. Ord. 7-C-
 24, passed 6-25-24)
-FIREWORKS
+**** FIREWORKS ****
 § 98.41 USE OF CONSUMER FIREWORKS.
    No person within the corporate boundaries of the city shall use, ignite or
 discharge or permit to be used, ignited or discharged any type of consumer
@@ -14724,7 +14711,7 @@ other object to any tree located within the city parks.
    No person shall skate on the tennis courts, curbs, railings, walls, benches
 or tables located within city parks.
 (Ord. 10-C-09, passed 8-11-09)
-SKATE PARK
+**** SKATE PARK ****
 § 99.50 GENERALLY.
    In addition to the ordinances governing conduct and activities within city-
 owned parks, the rules and regulations contained in this subchapter shall apply
@@ -14770,7 +14757,7 @@ property.
    (B)   All injuries suffered at the skate park are to be reported to the
 City’s Board of Public Works and Safety or its Superintendent.
 (Ord. 10-C-09, passed 8-11-09; Am. Ord. 18-C-12, passed 9-25-12)
-DOG PARKS
+**** DOG PARKS ****
 § 99.60 GENERALLY.
    In addition to the ordinances governing conduct and activities within city-
 owned parks, the rules and regulations contained in this subchapter shall apply
@@ -14818,7 +14805,7 @@ property.
 the Board of Public Works and Safety, its Superintendent or a public safety
 employee.
 (Ord. 3-C-18, passed 2-13-18)
-CITY TRAILS AND GREENWAY NETWORK
+**** CITY TRAILS AND GREENWAY NETWORK ****
 § 99.70 GENERALLY.
    In addition to all other applicable provisions of the City Code and state
 law governing conduct and activities, the rules and regulations contained in
@@ -14962,7 +14949,7 @@ Sidewalks
  
    
 100.99   Penalty
-PERMITS AND GENERAL REGULATIONS
+**** PERMITS AND GENERAL REGULATIONS ****
 § 100.001 DEFINITIONS.
    Unless the context specifically indicates otherwise, the meaning of the
 following terms, if used in this chapter to implement the provisions of this
@@ -15073,7 +15060,7 @@ authorized by a permit. All street cuts shall be repaired such that the surface
 of the repaired cut is smooth and flush with surrounding surfaces.
 (Ord. 26-C-86, passed 10-17-86) Penalty, see §
 100.99
-STREETS
+**** STREETS ****
 § 100.15 REPAIR AND MAINTENANCE OF STREET AND ALLEY OPENINGS.
    (A)   Materials and methods used for backfilling and restoring surfaces of
 streets or alleys which are cut or excavated pursuant to a valid permit issued
@@ -15195,7 +15182,7 @@ erected in the parcels.
 maintenance of parcels which do not contain a public street or alley.
 (Ord. 26-C-86, passed 10-17-86) Penalty, see §
 100.99
-SIDEWALKS
+**** SIDEWALKS ****
 § 100.35 NEW SIDEWALK SPECIFICATIONS.
    (A)   All new sidewalks constructed in the city shall be made out of
 concrete.
@@ -15372,7 +15359,7 @@ across any sidewalk at a point where no driveway is provided.
 sidewalk in front of a residence or place of business.
 (Ord. 26-C-86, passed 10-17-86) Penalty, see §
 100.99
-TREES
+**** TREES ****
 Cross-reference:
    Trees and vegetation, see
 Ch. 102
@@ -15748,7 +15735,7 @@ Thoroughfare Rights-of-way
  
    
 102.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 102.01 DEFINITIONS.
    "STREET TREES." Street trees are trees, shrubs, bushes and all other woody
 vegetation on land in the right-of-way on either side of the travelled portion
@@ -15757,7 +15744,7 @@ of all streets, and other public ways within the city.
 vegetation in public parks having individual names, and all areas owned by the
 city, or to which the public has free access, as a park.
 (Ord. 22-C-93, passed 12-14-93)
-REGULATIONS
+**** REGULATIONS ****
 § 102.20 AUTHORIZATION; PUBLIC PROPERTY.
    (A)   The city shall plant, prune, maintain and remove all street and park
 trees and other woody vegetation in or overhanging public property, including
@@ -15826,7 +15813,7 @@ property injured or damaged by that entity's practice of such business or
 occupation in the city.
 (Ord. 22-C-93, passed 12-14-93) Penalty, see §
 102.99
-THOROUGHFARE RIGHTS-OF-WAY
+**** THOROUGHFARE RIGHTS-OF-WAY ****
 § 102.30 PLANTING OR REMOVAL.
    (A)   Any property owner desiring to plant vegetation which, for purposes of
 this section and §
@@ -16287,7 +16274,7 @@ Transient Merchants
  
    
 113.99   Penalty
-SOLICITING ORDERS FOR LITERARY MATERIAL
+**** SOLICITING ORDERS FOR LITERARY MATERIAL ****
 § 113.01 REGISTRATION CERTIFICATE REQUIRED.
    No person shall engage in the activity of selling, distributing, or
 otherwise circulating any magazine, periodical, pamphlet, handbill, book, or
@@ -16407,7 +16394,7 @@ least three days, if by personal service, and at least five days, if by mail,
 postage prepaid, addressed to the holder's last known local address, or if
 none, his home address, prior to the stated date for the hearing.
 ('75 Code, § 64.6)
-TRANSIENT MERCHANTS
+**** TRANSIENT MERCHANTS ****
 § 113.20 DEFINITIONS.
    For the purpose of this subchapter the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -16539,7 +16526,7 @@ Taxicab Driver License
  
    
 114.99   Penalty
-PERMIT ADMINISTRATION
+**** PERMIT ADMINISTRATION ****
 § 114.01 PERMIT REQUIRED; COMPLIANCE WITH REGULATIONS.
    It shall be unlawful for any entity to engage in the business of operating a
 taxicab:
@@ -16660,7 +16647,7 @@ written notice to the applicant mailed by first class United States mail to
 applicant at the address listed on applicant's then pending application. The
 applicant may present relevant evidence at that hearing.
 (Ord. 13-C-92, passed 6-9-92)
-OBLIGATIONS OF PERMIT HOLDERS
+**** OBLIGATIONS OF PERMIT HOLDERS ****
 § 114.11 PERMIT HOLDER OBLIGATIONS.
    All entities holding one or more city taxicab permits shall:
    (A)   Provide adequate and reasonable service, including but not limited to
@@ -16707,7 +16694,7 @@ noncompliance with this section shall be grounds for immediate termination of
 the relevant permit(s).
 (Ord. 13-C-92, passed 6-9-92) Penalty, see §
 114.99
-VEHICLES AND EQUIPMENT
+**** VEHICLES AND EQUIPMENT ****
 § 114.21 INSPECTION RULES AND REGULATIONS.
    (A)   Before the use and operation of any vehicle as a taxicab under this
 chapter, and thereafter annually and before that vehicle can be operated as a
@@ -16776,7 +16763,7 @@ applicable law.
 taxicab is maintained at all times in a reasonably clean condition.
 (Ord. 13-C-92, passed 6-9-92) Penalty, see §
 114.99
-TAXICAB DRIVER LICENSE
+**** TAXICAB DRIVER LICENSE ****
 § 114.31 LICENSE REQUIRED; APPLICATION.
    (A)   No person shall drive, or offer to drive, a taxicab for compensation
 without holding a valid taxicab driver license issued pursuant to this chapter.
@@ -18105,7 +18092,7 @@ Access to Property
  
    
 150.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 150.01 SCOPE.
    The provisions of this chapter apply to the construction, reconstruction,
 erection, alteration, use, moving, occupancy, and addition to all buildings and
@@ -18428,7 +18415,7 @@ the Department may assess a penalty of $15.
 with all applicable state and local law as determined by the Building
 Commissioner after required inspections.
 (Ord. 12-C-91, passed 7-25-91; Am. Ord. 19-C-14, passed 7-29-14)
-ELECTRICAL CODE
+**** ELECTRICAL CODE ****
 § 150.10 ELECTRICAL INSPECTOR; POWERS AND DUTIES.
    (A)   The Building Commissioner shall serve as Electrical Inspector for the
 city to enforce and administer state and local law relating to electrical work.
@@ -18885,7 +18872,7 @@ electrical work, and may revoke an electrical license upon a determination that
 the license holder willfully or repeatedly violated any applicable state or
 local law relating to electrical work.
 (Ord. 12-C-91, passed 7-25-91)
-PLUMBING CODE
+**** PLUMBING CODE ****
 § 150.40 DEFINITIONS.
    For the purpose of this subchapter the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -19057,7 +19044,7 @@ corrective work is completed, and must pass inspection prior to any additional
 work being completed which would require a separate inspection.
 (Ord. 12-C-91, passed 7-25-91; Am. Ord. 19-C-14, passed 7-29-14) Penalty, see §
 150.99  
-FENCE CODE
+**** FENCE CODE ****
 § 150.50 DEFINITIONS.
    For the purposes of this subchapter, the following terms shall have the
 following meanings:
@@ -19149,7 +19136,7 @@ districts.
 the expense of the property owners. The city shall not be responsible for
 determining or establishing legal lot lines.
 (Ord. 19-C-14, passed 7-29-14)
-DEMOLITION OF STRUCTURES
+**** DEMOLITION OF STRUCTURES ****
 § 150.60 DEFINITIONS.
    For the purposes of this subchapter, the following terms shall have the
 following meanings.
@@ -19277,7 +19264,7 @@ requirements contained in §§
 150.60 through
 150.66 shall be deposited into the city's Unsafe Building Structure Fund.
 (Ord. 7-C-09, passed 4-28-09)
-UNSAFE BUILDINGS
+**** UNSAFE BUILDINGS ****
 § 150.70 UNSAFE BUILDING LAW.
    (A)   Under the provisions of IC 36-7-9, there is hereby established the
 Huntington Unsafe Building Law.
@@ -19413,7 +19400,7 @@ to administer this subchapter, and the Chief Administrative Officer of the
 Department is the Building Commissioner. The Board of Public Works and Safety
 is the hearing authority relative to this subchapter.
 (Ord. 13-C-84, passed 5-8-84; Am. Ord. 19-C-14, passed 7-29-14)
-ACCESS TO PROPERTY
+**** ACCESS TO PROPERTY ****
 § 150.80 ACCESS TO PROPERTY; INSPECTIONS.
    (A)   The Building Commissioner, Electrical Inspector, and Plumbing
 Inspector, and designated persons acting on their behalf, may inspect any
@@ -19571,7 +19558,7 @@ of-way
 Easements--Rights-of-way
    
 151.30   Vacation of public right-of-way
-COMPREHENSIVE PLAN
+**** COMPREHENSIVE PLAN ****
 § 151.01 OFFICIAL DESIGNATION.
    This subchapter shall be known as the Comprehensive Plan, a part of the
 master plan of the city.
@@ -19629,7 +19616,7 @@ kept on file in the office of the Clerk-Treasurer and City Engineer and shall
 be subject to public examination during the regular office hours of the Clerk-
 Treasurer and City Engineer.
 ('75 Code, § 72.7)
-THOROUGHFARE PLAN
+**** THOROUGHFARE PLAN ****
 § 151.20 OFFICIAL DESIGNATION.
    This subchapter shall be known as the Thoroughfare Plan, a section of the
 master plan of the city.
@@ -19710,7 +19697,7 @@ original Thoroughfare Plan.
 kept on file in the office of the Clerk-Treasurer and shall be subject to
 public examination during the regular office hours of the Clerk-Treasurer.
 ('75 Code, § 73.9)
-EASEMENTS--RIGHTS-OF-WAY
+**** EASEMENTS--RIGHTS-OF-WAY ****
 § 151.30 VACATION OF PUBLIC RIGHT-OF-WAY.
    Each application asking the City Council to vacate a public right- of-way in
 the city, which application is initiated by an entity which is not a
@@ -19771,7 +19758,7 @@ Administration
  
    
 153.99   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 153.01 DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -19891,7 +19878,7 @@ ORD. NO.  DATE     DESCRIPTION
 historic district from a building, structure, site, or district shall comply
 with the provisions of IC 36-7-11-23.
 (Ord. 20-C-14, passed 7-29-14)
-CONSTRUCTION, DEMOLITION, OR REPAIRS
+**** CONSTRUCTION, DEMOLITION, OR REPAIRS ****
 § 153.20 CERTIFICATE OF APPROPRIATENESS REQUIRED.
    A certificate of appropriateness must be issued by the Historic Review Board
 before a permit is issued for, or work is begun on, any of the following.
@@ -20073,7 +20060,7 @@ colors from the activities requiring the issuance of a Certificate of
 Appropriateness.
 (Ord. 6-C-81, passed 4-14-81; Am. Ord. 13-C-95, passed 6-13-95) Penalty, see §
 153.99
-INTERESTED PARTIES
+**** INTERESTED PARTIES ****
 § 153.30 INTERESTED PARTIES.
    (A)   An "interested party" means one of the following:
       (1)   The Mayor of the city;
@@ -20113,7 +20100,7 @@ lies and no change of venue from the county shall be allowed in this action.
    (H)   The remedy provided in this section is in addition to other remedies
 that may be available at law or in equity.
 (Ord. 13-C-95, passed 6-13-95)
-CONSERVATION DISTRICTS
+**** CONSERVATION DISTRICTS ****
 § 153.40 CONSERVATION DISTRICTS.
    (A)   In an ordinance approving the establishment of an historic district,
 the city may provide that the establishment occur in two phases. Under the
@@ -20133,7 +20120,7 @@ Certificate of Appropriateness be issued for the activities described in §
 not earlier than 180 days or later than 60 days before the third anniversary of
 the adoption of this chapter.
 (Ord. 13-C-95, passed 6-13-95)
-ADMINISTRATION
+**** ADMINISTRATION ****
 § 153.50 HISTORIC REVIEW BOARD.
    (A)   There is hereby established the Historic Review Board of the
 city. The Board of Review shall consist of seven voting members. The voting
@@ -20246,7 +20233,7 @@ Administration and Enforcement
 154.41   Designation of building as unfit for human habitation; condemnation
    
 154.42   Notice of other violations; right to hearing
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 154.01 DEFINITIONS.
    For the purpose of this chapter the following definitions shall apply unless
 the context clearly indicates or requires a different meaning.
@@ -20354,7 +20341,7 @@ decision shall not affect the remaining portions of this chapter, which shall
 remain in full force and effect; and to this end the provisions of this chapter
 are hereby declared to be severable.
 ('75 Code, § 80.11)
-MINIMUM STANDARDS
+**** MINIMUM STANDARDS ****
 § 154.20 MINIMUM BUILDING OCCUPANCY STANDARDS.
    No person shall occupy as owner-occupant or let to another for occupancy any
 dwelling or dwelling unit, for the purpose of living therein, which does not
@@ -20645,7 +20632,7 @@ operation of §§
 154.23(A) or
 154.26(G) shall be of a duration longer than ten days.
 ('75 Code, § 80.9)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 154.40 INSPECTIONS.
    The Health Officer and Building Commissioner are hereby severally authorized
 and directed to make inspections to determine the condition of dwellings,
@@ -20891,6 +20878,12 @@ water system.
    “COLLECTOR STREET.” A street intended to move traffic from local streets to
 arterial streets.
    “COMMISSION.” Huntington City Plan Commission.
+   “COMMON AREA.” A lot created for the use, benefit or amenity of a
+subdivision that is held in common ownership (typically by an owner's
+association) and restricted in its use by plat, restriction or deed. Examples
+may include but are not limited to those lots serving floodplain, stormwater
+drainage, recreation, buffering, access, conservation, landscaping or other
+similar purposes.
    “CONDOMINIUM.” The division of building(s) and the related land into
 horizontal property interests meeting the requirements of and controlled by
 Indiana statutes for condominiums as prescribed by the IC 32-1-6-1 through 32-
@@ -20927,11 +20920,20 @@ of private land specifically specified on the plat.
    “EROSION.” The detachment and movement of soil or rock fragments, or the
 wearing away of the land surface, by water, wind, ice or gravity.
    “FLOODPLAIN.” The channel proper and the areas adjoining any wetland, lake,
-or watercourse which have been or hereafter may be covered by the regulatory
-flood. (Additional Flood definitions and regulations are contained in the
-Zoning Code).
+or watercourse, which have been, or hereafter may be covered by the regulatory
+flood. The floodplain includes both the floodway and the fringe. (Additional
+flood definitions and regulations are contained in the Huntington City Zoning
+Ordinance.)
    “FRONT YARD.” See “YARD”.
    “FRONTAGE.” The width of a lot measured along the street or private drive.
+The minimum width for a lot not serviced by an individual sewage disposal
+system and located on the circular portion of a cul-de-sac shall be measured at
+the front building line and shall not be diminished throughout the rest of the
+lot. These lots shall be at least 40 feet at the front lot line and not be
+diminished throughout the rest of the front yard setback. Lots in a subdivision
+comprised entirely of a common area, block or other tract and not intended to
+contain a primary structure are required to provide access of no less than 30
+feet in width in the form of road frontage or an easement.
    “HEALTH DEPARTMENT.” Huntington County Health Department
    “INDIVIDUAL SEWAGE DISPOSAL SYSTEM.” Any sewage treatment device approved by
 the Health Department to service an individual lot.
@@ -20992,8 +20994,8 @@ ultimately assume the responsibility for maintenance and operation.
 for the permanent storage of water.
    “RIGHT-OF-WAY.” A strip of land occupied or intended to be occupied by a
 street, sidewalk, crosswalk, railroad, electric transmission line, oil or gas
-pipeline, water main, sanitary or storm sewer main, county drain, special
-landscaping, or for another special use.
+pipeline, water main, sanitary or storm sewer main, county drain, communication
+lines, special landscaping, or for another special use.
    “SECONDARY PLAT.” The final drawing(s), described in this chapter,
 indicating the final design of the subdivision.
    “SECRETARY.” The secretary of the Huntington City Plan Commission.
@@ -21023,7 +21025,8 @@ line of the building or structure and the rear lot line.
 nearest line of the building or structure and the side lot lines, which extend
 from the front lot line to the rear lot line.
    “ZONING ORDINANCE.” Huntington City Zoning Ordinance.
-(Ord. 14-C-00, passed 10-10-00; Am. Ord. 17-C-14, passed 7-29-14)
+(Ord. 14-C-00, passed 10-10-00; Am. Ord. 17-C-14, passed 7-29-14; Am. Ord. 4-C-
+25, passed 3-25-25)
 § 156.05 POLICY.
    (A)   The subdivision of land is subject to the policies set forth in the
 Comprehensive Plan and Zoning Ordinance for the orderly and efficient
@@ -21293,7 +21296,7 @@ date it is recorded by the applicant.
 the following information:
       (1)   Completed application form, including the property owner(s)
 signatures;
-      (2)   Filing fee of $25 per lot paid to the Department;
+      (2)   Filing fee of $50 per lot paid to the Department;
       (3)   Drawing, prepared by a land surveyor licensed by the State of
 Indiana, on one or more sheets of paper measuring not more than 24 inches by 36
 inches, drawn to a scale not smaller than 100 feet to the inch, and including
@@ -21318,13 +21321,14 @@ surveyor;
       (5)   Any additional information requested by the Department, Plat
 Committee, or Commission relating to compliance review.
       (6)   Six copies of the drawing shall be submitted with the application.
-(Ord. 14-C-00, passed 10-10-00; Am. Ord. 17-C-14, passed 7-29-14)
+(Ord. 14-C-00, passed 10-10-00; Am. Ord. 17-C-14, passed 7-29-14; Am. Ord. 4-C-
+25, passed 3-25-25)
 § 156.12 MAJOR SUBDIVISION - PRIMARY PLAT SUBMITTAL REQUIREMENTS.
    (A)   All requests for primary plat approval shall be submitted with the
 following information:
       (1)   Completed application form, including the property owner(s)
 signatures;
-      (2)   Filing fee paid of $200 paid to the Department.
+      (2)   Filing fee paid of $400 paid to the Department.
       (3)   Drawing, prepared by a land surveyor licensed by the State of
 Indiana, on one or more sheets of paper measuring not more than 24 inches by 36
 inches, drawn to a scale not smaller than 100 feet to the inch, and including
@@ -21387,10 +21391,10 @@ city ordinances.
       (9)   Copy of surveyor's report.
       (10)   Any additional information requested by the Department, Plat
 Committee, or Commission which relates to compliance review.
-   (B)   Ten copies of the drawing and five copies of the drainage plan shall
-be submitted with the application.
+   (B)   Eleven copies of the drawing and five copies of the drainage plan
+shall be submitted with the application.
 (Ord. 14-C-00, passed 10-10-00; Am. Ord. 6-C-10, passed 4-13-10; Am. Ord. 17-C-
-14, passed 7-29-14)
+14, passed 7-29-14; Am. Ord. 4-C-25, passed 3-25-25)
 § 156.13 MAJOR SUBDIVISION - SECONDARY PLAT SUBMITTAL REQUIREMENTS.
    (A)   All requests for secondary plat approval shall be submitted with the
 following information:
@@ -21400,55 +21404,19 @@ except for any changes or additions required by the conditions of primary plat
 approval. The primary plat may be used as the secondary plat if it meets these
 requirements and is revised in accordance with the Commission's primary plat
 approval and conditions.
-      (2)   Filing fee of $50 paid to the Department.
+      (2)   Filing fee of $100 paid to the Department.
       (3)   If not previously submitted for approval, construction plans for
 all public improvements.
       (4)   If any approvals, information, or documentation has changed or is
 different from that submitted for primary plat approval, the applicant shall
 submit such revised documents to the Plat Committee for their review.
    (B)   The following certifications shall be placed on the face of the plat:
-Approved by the Huntington City Plan Commission on the    day
-of           ,20  .
-                                                
-PRESIDENT                  SECRETARY
-               
-DIRECTOR
-I, the undersigned registered land surveyor, licensed in compliance with the
-laws of the State of Indiana, hereby certify that the hereon plat represents a
-survey as made under my direction, and that this survey has been completed in
-accordance with Indiana Administrative Code 865 and any amendments thereto.
-BY:                 
-The owner(s) or representative thereof hereby irrevocably offers for dedication
-to the city all the streets, easements, and other public improvements as shown
-on the subdivision plat.
-   NAME                  NAME            
-   DATE                    DATE            
-STATE OF INDIANA         )
-                        )SS:
-COUNTY OF HUNTINGTON      )
-Before me, the undersigned, a Notary Public in and for said County and State,
-this       day of     , 20   personally appeared and acknowledged the execution
-of the foregoing instrument.
-IN WITNESS WHEREOF, I have hereunto set my hand and affixed my official seal.
-                           
-(     ) Notary Public
-My Commission Expires:                   
-My County of Residence is:                
-The dedication of rights-of-way indicated on this subdivision plat are hereby
-accepted by the Board of Board of Public Works and Safety of the City of
-Huntington, Indiana.
-This acceptance does not constitute agreement by the City to construct or
-maintain any public improvement within the right-of-way.
-Accepted this     day of     , 20  .
-ATTEST:
-                        
-                        
-                        
-                        
+   Accepted this     day of     , 20  .
    (C)   Six copies of the drawing shall be submitted.
    (D)   One drawing shall be submitted on reproducible Mylar or equivalent
 stock paper.
-(Ord. 14-C-00, passed 10-10-00; Am. Ord. 6-C-10, passed 4-14-10)
+(Ord. 14-C-00, passed 10-10-00; Am. Ord. 6-C-10, passed 4-14-10; Am. Ord. 4-C-
+25, passed 3-25-25)
 § 156.14 GENERAL REQUIREMENTS.
    (A)   If revisions are required or made to a submitted survey or subdivision
 plat, a list of those revisions shall be submitted with the revised survey or
@@ -21500,13 +21468,14 @@ Street Manual. No Certificate of Occupancy shall be issued on any building
 constructed which is provided access by a private drive until the drive is
 completed in accordance with the Street Manual.
       (3)   A note shall be placed on the face of the subdivision plat
-indicating: "The streets in this subdivision are classified as private drives,
+indicating: “The streets in this subdivision are classified as private drives,
 and are not accepted by the city in to the city Street System. The city does
-not maintain private drives. "
-   (N)   Addresses for lots provided access by a private drive shall be
-assigned according to where the private drive accesses off the city or county
-road.
-(Ord. 14-C-00, passed 10-10-00; Am. Ord. 17-C-14, passed 7-29-14)
+not maintain private drives. “
+   (N)   Addresses for lots provided access by an unnamed private drive shall
+be assigned according to where the private drive accesses off the city or
+county road.
+(Ord. 14-C-00, passed 10-10-00; Am. Ord. 17-C-14, passed 7-29-14; Am. Ord. 4-C-
+25, passed 3-25-25)
 § 156.15 DESIGN PRINCIPLES AND STANDARDS.
    (A)   The design principles and standards contained in this section apply to
 all subdivisions.
@@ -21542,8 +21511,8 @@ serve the needs of the neighborhood.
 orderly movement of traffic; to meet the needs of the present and future
 population served; to have a simple and logical pattern; to respect natural
 features and topography; and to present an attractive streetscape.
-   (H)   Curb and gutter are required on all new streets when the subdivision
-contains three or more lots per gross acre.
+   (H)   Curb and gutter are required on all new streets to aid in storm water
+drainage.
    (I)   Each proposed lot shall have frontage on a private drive or dedicated
 city, county, state, or federal street of a width as required by the applicable
 zoning district. Each lot shall be able to have direct access from the lot to a
@@ -21563,10 +21532,14 @@ ability to create a greater number of lots is not in itself sufficient reason
 for allowing irregularly shaped lots.
    (N)   Block lengths in agricultural or residentially zoned areas shall not
 exceed 1,400 feet.
-   (0)   Double frontage lots within a subdivision shall be discouraged.
+   (O)   Double frontage lots within a subdivision shall be discouraged.
    (P)   Blocks should have sufficient width to provide for two tiers of lots
 of appropriate depths.
-   (Q)   Lots shall not exceed a depth to width ratio of three to one.
+   (Q)   Lots shall not exceed a depth to width ratio of three to one. Some
+deviation from this provision may be permissible for topographical and drainage
+purposes, but not for the purpose of splitting a large tract into deeper than
+normal lots so that the provision of streets for proper access to lots can be
+avoided.
    (R)   Sidewalks, with a minimum width of four feet, are required on both
 sides of the street(s) under the following circumstances:
       (1)   When the subdivision contains three or more lots per gross acre;
@@ -21575,8 +21548,8 @@ school or retail area;
       (3)   To continue a sidewalk on an existing street;
       (4)   To link together areas of development; or
       (5)   To provide pedestrian access to future developments.
-   (S)   Sidewalks shall be a minimum of two feet from the curb line of the
-street.
+   (S)   Sidewalks shall be located within one foot of the back of the right-
+of-way, nearest the lot line.
    (T)   Easements with a minimum width of 15 feet shall be provided for
 utilities, drainage, and similar purposes. Easements for pedestrian access
 shall have a minimum width of ten feet. If a legal County drain exists on the
@@ -21603,8 +21576,9 @@ exceeds six units per acre.
    (BB)   Alleys shall have a minimum right-of-way width of 20 feet and a
 minimum pavement width of 12 feet.
    (CC)   Street name identification signs and traffic control signage shall be
-installed in accordance with the Street Manual.
-(Ord. 14-C-00, passed 10-10-00)
+installed by the developer in accordance with the Street Manual and complying
+with all applicable standards.
+(Ord. 14-C-00, passed 10-10-00; Am. Ord. 4-C-25, passed 3-25-25)
 § 156.16 REQUIREMENTS FOR SUBDIVISIONS PRIOR TO DEDICATION OF PUBLIC UTILITIES.
    (A)   General Requirements.
       (1)   The applicant shall be required to maintain all public improvements
@@ -21628,12 +21602,13 @@ business day in advance before conducting compaction tests on road sub-bases,
 air and mandrel tests on sanitary sewers, hydrostatic tests on water mains, and
 start-ups of sanitary lift stations.
    (C)   Submittal of Construction Plans.
-      (1)   Subdivider shall submit four sets of "As-Built" plans to the city
-certifying the final installation grades, inverts, and locations of all
-infrastructure including streets, water mains, sanitary and storm sewers, storm
-water detention facilities, and discharge control structures. Sanitary sewer
-taps shall be measured from the nearest downstream manhole.
-      (2)   A separate "tapsheet" shall be provided for all the sewer and water
+      (1)   Subdivider shall submit one set of "As-Built" plans in hard copy
+and electronic format to the city certifying the final installation grades,
+inverts, and locations of all infrastructure including streets, water mains,
+sanitary and storm sewers, storm water detention facilities, and discharge
+control structures. Sanitary sewer taps shall be measured from the nearest
+downstream manhole.
+      (2)   A separate “tapsheet” shall be provided for all the sewer and water
 taps.
       (3)   A complete list of all materials used in the installation of the
 utilities, including costs of installation per lineal foot of water mains,
@@ -21644,7 +21619,7 @@ detention facilities and sanitary pump stations.
 required for each utility installed; streets -subgrade compaction reports,
 sanitary sewers -air and mandrel tests, water mains -hydrostatic pressure tests
 and disinfection results (chlorination and m.p.n. results).
-(Ord. 14-C-00, passed 10-10-00)
+(Ord. 14-C-00, passed 10-10-00; Am. Ord. 4-C-25, passed 3-25-25)
 § 156.17 IMPROVEMENTS AND MAINTENANCE BONDS.
    (A)   All public improvements shall be inspected by the city in accordance
 with applicable city ordinances.
@@ -21658,19 +21633,13 @@ the Board of Public Works.
 occupancy of the building or structure on the lot.
 (Ord. 14-C-00, passed 10-10-00)
 § 156.18 VACATION OF PLAT.
-   (A)   A petition for vacation of all or part of a plat shall be filed in
+   A petition for vacation of all or part of a plat shall be filed in
 accordance with IC 36-7-3-10 and the Rules of Procedure of the Commission.
-Filing fee of $50 shall be paid to the Department. The Commission may only
-approve the vacation of all or part of the plat, upon making written
-affirmative findings on each of the factors listed in IC 36-7-4-711(f).
-   (B)   The owner of land in a plat may file with the Commission a petition to
-vacate all or part of the plat pertaining to the land owned by the petitioner.
-A petition shall be filed in accordance with IC 36-7-3-11 and the Rules of
-Procedure of the Commission. Filing fee of $100 shall be paid to the
-Department. The Plan Commission shall make a determination on the findings as
-required in IC 36-7-3-11.
+Filing fee of $100 shall be paid to the Department. The Commission may only
+approve the vacation of all or part of the plat upon making written affirmative
+findings on each of the factors listed in IC 36-7-4-711(f).
 (Ord. 14-C-00, passed 10-10-00; Am. Ord. 6-C-10, passed 4-13-10; Am. Ord. 17-C-
-14, passed 7-29-14)
+14, passed 7-29-14; Am. Ord. 4-C-25, passed 3-25-25)
 § 156.19 VACATION OF PUBLIC WAY OR PLACE OR EASEMENT.
    (A)   A petition for vacation of all or part of a public way or place or
 easement shall be filed in accordance with IC 36-7-3-12 and §
@@ -21683,7 +21652,7 @@ accordance with IC 36-7-3-16.
 without the approval of the Plat Committee or Commission.
    (B)   Application shall be filed in accordance with the Rules of Procedure
 of the Commission.
-   (C)   Filing fee of $30.00 paid to the Department.
+   (C)   Filing fee of $50 paid to the Department.
    (D)   The Plat Committee may approve a replat under the following
 circumstances:
       (1)   No additional lots are created or established.
@@ -21705,7 +21674,7 @@ the Commission in the same manner as a minor subdivision if the proposed lot(s)
 have frontage on an approved street or private drive, or as a major subdivision
 if the proposed lot(s) are provided access from, or have frontage on, a new
 street or private drive.
-(Ord. 14-C-00, passed 10-10-00)
+(Ord. 14-C-00, passed 10-10-00; Am. Ord. 4-C-25, passed 3-25-25)
 § 156.21 VARIANCE PROCEDURE.
    (A)   The Commission may approve a Variance from the requirements of this
 chapter only upon a determination in writing that:
@@ -22077,7 +22046,7 @@ Violations and Penalties
  
    
 158.999   Penalty
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 158.001 TITLE; GENERAL PROVISIONS.
    (A)   This chapter shall be known and may be cited as the Zoning Code of the
 City of Huntington, Indiana.
@@ -22408,7 +22377,7 @@ chapter.
 Ord. 27-C-94, passed 2-15-95; Am. Ord. 8-C-96, passed 5-14-96; Am. Ord. 24-C-
 96, passed 10-8-98; Am. Ord. 17-C-97, passed 9-9-97; Am. Ord. 1-C-03, passed 4-
 8-03; Am. Ord. 18-C-14, passed 7-29-14)
-ZONING DISTRICTS
+**** ZONING DISTRICTS ****
 § 158.015 DIVISION OF CITY INTO DISTRICTS; ZONING MAP; DISTRICT BOUNDARIES.
    (A) Zoning districts. The city is divided into the districts stated in this
 chapter as shown by the district boundaries on the zone map. The map is on file
@@ -22571,7 +22540,7 @@ the industrial park.
 for airport facilities and compatible land uses. It is the intent of this
 section to allow for the continued use and expansion of airport facilities.
 (Ord. 10-C-04, passed 4-27-04; Am. Ord. 23-C-05, passed 12-13-05)
-USAGE REGULATIONS
+**** USAGE REGULATIONS ****
 § 158.030 SIGNS.
 § 158.030.01 GENERAL PROVISIONS.
    (A)   General information.
@@ -26256,7 +26225,7 @@ that toxic substances will not be displaced by or released into floodwaters.
 Access routes elevated to or above the FPG shall be provided to all critical
 facilities to the extent possible.
 (Ord. 8-C-22, passed 5-10-22)
-AIRPORT HEIGHT RESTRICTIONS
+**** AIRPORT HEIGHT RESTRICTIONS ****
 § 158.050 INTENTION OF SUBCHAPTER.
    It is the intent of this subchapter to regulate the height of a structure
 erected or constructed which could create an obstruction and endanger the lives
@@ -26539,7 +26508,7 @@ from its obligation to comply with federal or state laws which may or may not
 be more restrictive; nor relieve any person or entity from its obligation to
 obtain any studies or permits required by federal or state law.
 (Ord. 50-C-90, passed 2-12-91)
-MANUFACTURED HOUSING IN RESIDENTIAL DISTRICTS
+**** MANUFACTURED HOUSING IN RESIDENTIAL DISTRICTS ****
 § 158.060 INTENTION OF SUBCHAPTER.
    It is the intent of this subchapter to encourage provision of alternative
 modest income housing in general residential areas by permitting the use of
@@ -26678,7 +26647,7 @@ with the Board of Zoning Appeals. The appeal must specify the grounds of the
 appeal and must be filed within a time and in a form as is prescribed by the
 Board of Zoning Appeals rules of procedure.
 (Ord. 10-C-86, passed 5-13-86; Am. Ord. 18-C-14, passed 7-29-14)
-PROFESSIONAL OFFICE DISTRICT
+**** PROFESSIONAL OFFICE DISTRICT ****
 § 158.066 PROFESSIONAL OFFICE DISTRICT.
    The following sections of this subchapter are the standards and requirements
 to be utilized when reviewing a request for a rezoning to POD and for site plan
@@ -26731,7 +26700,7 @@ request IP zoning designation.
 contained within an enclosed structure or privacy fence of sufficient height to
 effectively achieve screening.
 (Ord. 8-C-00, passed 5-9-00; Am. Ord. 25-C-15, passed 11-24-15)
-ADVISORY BOARD OF ZONING APPEALS
+**** ADVISORY BOARD OF ZONING APPEALS ****
 § 158.075 RULES OF PROCEDURE.
    All actions of the Plan Commission and Board of Zoning Appeals are governed
 by their respective Rules of Procedure of the Commission and Board adopted
@@ -26785,7 +26754,7 @@ authority having jurisdiction prior to annexation shall be honored by the City
 upon annexation.
 (Ord. 8-C-93, passed 6-8-93; Am. Ord. 18-C-14, passed 7-29-14; Am. Ord. 25-C-
 15, passed 11-24-15)
-AGRICULTURE
+**** AGRICULTURE ****
 § 158.080 LIVESTOCK OPERATIONS.
    (A)   Purpose, Intent and Exemptions.
       (1)   It is the purpose and intent of this section to provide for
@@ -27007,7 +26976,7 @@ may be appealed to the City Board of Zoning Appeals in accordance with
 applicable law.
 (Ord. 27-C-94, passed 2-14-95; Am. Ord. 13-C-05, passed 3-24-05; Am. Ord. 18-C-
 14, passed 7-29-14; Am. Ord. 5-C-23, passed 3-14-23)
-ADMINISTRATION AND ENFORCEMENT
+**** ADMINISTRATION AND ENFORCEMENT ****
 § 158.106 IMPROVEMENT LOCATION PERMIT.
    (A)   Authority. The Director is hereby authorized to issue improvement
 location permits within the jurisdiction of the Huntington City Plan
@@ -27193,7 +27162,7 @@ planned unit development district.
 Council in any manner provided by law or equity.
 (Ord. 8-C-96, passed 5-14-96; Am. Ord. 18-C-14, passed 7-29-14; Am. Ord. 5-C-
 15, passed 6-9-15)
-DEVELOPMENT PLAN
+**** DEVELOPMENT PLAN ****
 § 158.110 DEVELOPMENT PLAN REQUIRED.
    (A)   Development plan required.
       (1)   Development plan review is required for all development that occurs
@@ -27455,7 +27424,7 @@ appeal request shall be heard and decided by the Commission.
    (B)   The decision by the Commission on an appeal request is a final
 decision of the Commission that may be reviewed as provided in IC 36-7-4-1016.
 (Ord. 8-C-96, passed 5-14-96; Am. Ord. 18-C-14, passed 7-29-14)
-VIOLATIONS AND PENALTIES
+**** VIOLATIONS AND PENALTIES ****
 § 158.201 VIOLATIONS.
    (A)   No person, firm, or corporation, whether as owner, lessee, sub-1essee
 or occupant shall erect, construct, reconstruct, enlarge, expand, alter, move,
@@ -27601,7 +27570,7 @@ Cross-references:
 Chapter 56
    Stormwater management regulations, see
 Chapter 55
-GENERAL PROVISIONS
+**** GENERAL PROVISIONS ****
 § 159.01 PURPOSE.
    The purpose of this chapter is to conserve natural resources, to protect air
 and water quality, and to protect and promote the health, safety, and welfare
@@ -28080,6 +28049,7 @@ Trial Rule 6(A)       10.11
 15-11-2-6             158.024
 16-18-2-110           70.02
 16-22-8               70.02
+19-13-2-1(2)          90.12
 22-9-4-1 et seq.      101.02
 22-9.5-1 et seq.      101.01
 22-9.5-1              101.03
@@ -28156,7 +28126,6 @@ Trial Rule 6(A)       10.11
 36-4-11-4             30.51
 36-7                  30.73
 36-7-3-10             156.18
-36-7-3-11             156.18
 36-7-3-12             156.19
 36-7-3-16             156.19
                       56.02,
@@ -29248,4 +29217,12 @@ Order    11-7-11     11.02
                      55.120 -
                      55.124,
                      55.999
+                     156.04,
+                     156.11 -
+4-C-25   3-25-25     156.16,
+                     156.18,
+                     156.20
+7-C-25   4-29-25     50.10
+12-C-25  8-26-25     78.01
+2-C-26   3-10-26     51.063
                     
