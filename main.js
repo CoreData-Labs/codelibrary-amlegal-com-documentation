@@ -646,6 +646,11 @@ async function pauseExecutionSimple(milliseconds) {
  * by past crashed or force-killed runs (where the finally-block cleanup never got to run).
  * Only removes files/dirs matching known Puppeteer/Chromium temp-file naming patterns,
  * so it won't touch unrelated system or other-app temp files.
+ *
+ * Also clears out /tmp/Downloads, which is where the browser's default download
+ * directory ends up if a client page's download path was never (or only partially)
+ * configured before a crash. Only files matching the export naming convention
+ * (e.g. "abingdonil-il-1.txt") are removed there, so unrelated files are left alone.
  * @returns {void}
  */
 function sweepOrphanedChromiumTempFiles() {
@@ -702,7 +707,69 @@ function sweepOrphanedChromiumTempFiles() {
       `[SWEEP] Could not scan ${systemTempDirectoryPath}: ${scanError.message}`,
     ); // Log a warning; this is non-fatal, so the script continues normally
   } // End of the outer try/catch for the whole sweep
-} // End of sweepOrphanedChromiumTempFiles
+
+  // === Sweep leftover export files from /tmp/Downloads ===
+  const orphanedDownloadsDirectoryPath = path.join(
+    systemTempDirectoryPath,
+    "Downloads",
+  ); // Build the path to /tmp/Downloads
+  const orphanedExportFilePattern = /^[a-z0-9_]+-[a-z]{2}-\d+\.txt$/i; // Matches the export naming convention, e.g. abingdonil-il-1.txt
+  let deletedDownloadFileCount = 0; // Counter for how many leftover downloaded files we remove
+
+  try {
+    // Begin the Downloads cleanup attempt, in case the folder can't be read
+    if (fs.existsSync(orphanedDownloadsDirectoryPath)) {
+      // Only attempt cleanup if the folder actually exists
+      const downloadEntries = fs.readdirSync(orphanedDownloadsDirectoryPath); // List everything currently sitting in /tmp/Downloads
+
+      for (const entryName of downloadEntries) {
+        // Loop through each file/folder name found in the Downloads directory
+        const nameMatchesExportPattern =
+          orphanedExportFilePattern.test(entryName); // Check if this entry's name matches the known export filename shape
+
+        if (!nameMatchesExportPattern) {
+          // Skip anything that doesn't look like one of our export files
+          continue; // Move on to the next entry without touching this one
+        } // End of the pattern-match check
+
+        const fullEntryPath = path.join(
+          orphanedDownloadsDirectoryPath,
+          entryName,
+        ); // Build the full path to this entry
+
+        try {
+          // Attempt to delete this single entry (kept separate so one bad entry doesn't stop the whole sweep)
+          const entryStat = fs.statSync(fullEntryPath); // Check if it's a file or directory
+          if (entryStat.isFile()) {
+            // Only remove files (skip any subdirectories, just to be safe)
+            fs.rmSync(fullEntryPath, { force: true }); // Delete the leftover downloaded file
+            deletedDownloadFileCount++; // Increment our counter since the deletion succeeded
+          } // End of the isFile check
+        } catch (deletionError) {
+          // Handle the case where this specific entry couldn't be deleted (e.g. permissions, in-use file)
+          console.warn(
+            `[SWEEP] Could not remove ${fullEntryPath}: ${deletionError.message}`,
+          ); // Log a warning but keep going with the rest of the sweep
+        } // End of the per-entry delete attempt
+      } // End of the loop over all Downloads directory entries
+
+      console.log(
+        // Log a final summary once the Downloads sweep finishes
+        `[SWEEP] Cleared ${deletedDownloadFileCount} leftover export file(s) matching pattern from ${orphanedDownloadsDirectoryPath}.`, // Human-readable summary of how many export files were cleaned up and where
+      ); // End of the summary log statement
+    } else {
+      // Execute this statement if the Downloads directory doesn't exist
+      console.log(
+        `[SWEEP] No orphaned downloads directory found at ${orphanedDownloadsDirectoryPath}.`,
+      ); // Nothing to clean up
+    } // End of the existence check
+  } catch (scanError) {
+    // Handle the case where the Downloads directory itself couldn't even be read
+    console.warn(
+      `[SWEEP] Could not scan ${orphanedDownloadsDirectoryPath}: ${scanError.message}`,
+    ); // Log a warning; this is non-fatal, so the script continues normally
+  } // End of the outer try/catch for the Downloads sweep
+} // Close the current block scope.
 
 // API COMMUNICATION FUNCTIONS
 
