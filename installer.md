@@ -433,6 +433,9 @@ EOF
 ```bash
 systemctl daemon-reload
 systemctl enable --now codelibrary-uploader.service
+systemctl start codelibrary-uploader.service
+systemctl stop codelibrary-uploader.service
+systemctl restart codelibrary-uploader.service
 systemctl status codelibrary-uploader.service
 journalctl -u codelibrary-uploader.service -f
 ```
