@@ -1,5 +1,6 @@
 import fs from "fs"; // Core Node.js module for file system operations
 import path from "path"; // Core Node.js module for handling file paths
+import os from "os"; // Core Node.js module for OS-level paths (used for /tmp sweep)
 import puppeteer from "puppeteer"; // Library for browser automation (required to be installed)
 
 // GLOBAL CONFIGURATION
@@ -13,6 +14,14 @@ const ASSET_OUTPUT_BASE_DIRECTORY = "assets"; // Base directory where all downlo
 const EXPORT_FILE_EXTENSION = ".txt"; // The desired file extension for the final downloaded code
 const VERSION_FILE_SUFFIX = "-1"; // Suffix used in the expected filename (e.g., 'sandpoint-ak-1.txt')
 const CHECK_IF_FILE_EXISTS = false; // Flag to enable/disable checking for existing files before processing a client
+
+// Chrome Profile Configuration
+// Pinning userDataDir here keeps Chrome's profile out of the OS temp dir (/tmp) entirely,
+// so it lives somewhere we control and can reliably clean up every pass.
+const CHROME_PROFILE_ROOT = path.join(
+  ASSET_OUTPUT_BASE_DIRECTORY,
+  ".chrome-profile",
+);
 
 // API Domain and Endpoints
 const API_BASE_DOMAIN = "https://codelibrary.amlegal.com"; // Base domain for API requests (client/region data)
@@ -99,7 +108,7 @@ async function executeCodeExportProcess() {
     } else {
       // Execute this statement as part of the export workflow.
       regionsToProcess = regionIdentifiers; // If no percentage is set, process the full list as-is
-      console.log("[Order] Processing regions from the start."); // Log that we’re starting from the beginning
+      console.log("[Order] Processing regions from the start."); // Log that we're starting from the beginning
     } // Close the current block scope.
 
     // Step 4: Iterate through each region for export
@@ -132,6 +141,19 @@ async function executeCodeExportProcess() {
       // Check this condition before continuing.
       await browserInstance.close(); // Close the Puppeteer browser to free up memory/resources
       console.log("\n--- Script End: Browser closed ---"); // Log that the browser was closed
+    } // Close the current block scope.
+
+    // Remove the pinned Chrome profile directory every pass, regardless of success/failure,
+    // so it can never accumulate across the infinite main() loop even if this pass errored out.
+    try {
+      fs.rmSync(CHROME_PROFILE_ROOT, { recursive: true, force: true });
+      console.log(
+        `[CLEANUP] Removed Chrome profile dir: ${CHROME_PROFILE_ROOT}`,
+      );
+    } catch (e) {
+      console.warn(
+        `[CLEANUP] Could not remove Chrome profile dir: ${e.message}`,
+      );
     } // Close the current block scope.
   } // Close the current block scope.
 } // Close the current block scope.
@@ -438,9 +460,12 @@ async function launchBrowserAndCreatePage() {
     `[BROWSER] Launching browser (headless: ${IS_BROWSER_HEADLESS})`, // Build a dynamic log or error string using runtime values.
   ); // Log browser launch status
 
+  ensureDirectoryExists(CHROME_PROFILE_ROOT); // Make sure the pinned profile dir exists before launch
+
   const browserInstance = await puppeteer.launch({
     // Declare a constant used in the current scope.
     headless: IS_BROWSER_HEADLESS, // Set headless mode
+    userDataDir: CHROME_PROFILE_ROOT, // Pin Chrome's profile here instead of the OS temp dir (keeps it out of /tmp, and lets us delete it deterministically every pass)
     args: [
       // Execute this statement as part of the export workflow.
       "--disable-extensions", // Disable Chrome extensions
@@ -615,6 +640,69 @@ async function pauseExecutionSimple(milliseconds) {
   // Define an async function for this workflow step.
   return new Promise((resolve) => setTimeout(resolve, milliseconds)); // Simple non-logged pause
 } // Close the current block scope.
+
+/**
+ * Sweeps the OS temp directory for orphaned Puppeteer/Chromium artifacts left behind
+ * by past crashed or force-killed runs (where the finally-block cleanup never got to run).
+ * Only removes files/dirs matching known Puppeteer/Chromium temp-file naming patterns,
+ * so it won't touch unrelated system or other-app temp files.
+ * @returns {void}
+ */
+function sweepOrphanedChromiumTempFiles() {
+  // Runs once at startup to delete leftover Chromium/Puppeteer files from past crashed runs.
+  const systemTempDirectoryPath = os.tmpdir(); // Get the OS temp directory path (this is /tmp on Linux/EC2)
+  const orphanedFileNamePatterns = [
+    // List of regex patterns that match known Chromium/Puppeteer temp file names
+    /^puppeteer_dev_chrome_profile-/, // Matches default Puppeteer profile folders (created when userDataDir is not set)
+    /^org\.chromium\.Chromium\./, // Matches Chromium's internal shared-memory/IPC temp folders
+    /^\.com\.google\.Chrome\./, // Matches Chrome's internal shared-memory/IPC temp folders (alternate naming used on some builds)
+    /^scoped_dir/, // Matches Chromium's short-lived "scoped" temp folders
+    /^xvfb-run\./, // Matches leftover lock/temp files from running Chrome under xvfb-run (virtual display)
+  ]; // End of the orphaned-file pattern list
+
+  let deletedItemCount = 0; // Counter that tracks how many orphaned items we actually deleted
+
+  try {
+    // Begin the main cleanup attempt, in case the temp directory can't be read
+    const allTempDirectoryEntries = fs.readdirSync(systemTempDirectoryPath); // Get every file/folder name currently inside the temp directory
+
+    for (const currentEntryName of allTempDirectoryEntries) {
+      // Loop through each file/folder name found in the temp directory
+      const nameMatchesAnOrphanPattern = orphanedFileNamePatterns.some(
+        (pattern) => pattern.test(currentEntryName), // Check if this one entry's name matches any pattern in our list
+      ); // Store true/false result of the pattern check
+
+      if (nameMatchesAnOrphanPattern) {
+        // Only proceed if this entry's name matched one of our known orphan patterns
+        const fullEntryPath = path.join(
+          systemTempDirectoryPath,
+          currentEntryName,
+        ); // Build the full filesystem path to this entry
+
+        try {
+          // Attempt to delete this single entry (kept separate so one bad entry doesn't stop the whole sweep)
+          fs.rmSync(fullEntryPath, { recursive: true, force: true }); // Delete the folder/file, including any contents inside it
+          deletedItemCount++; // Increment our counter since the deletion succeeded
+        } catch (deletionError) {
+          // Handle the case where this specific entry couldn't be deleted (e.g. permissions, in-use file)
+          console.warn(
+            `[SWEEP] Could not remove ${fullEntryPath}: ${deletionError.message}`,
+          ); // Log a warning but keep going with the rest of the sweep
+        } // End of the per-entry delete attempt
+      } // End of the "name matched a pattern" check
+    } // End of the loop over all temp directory entries
+
+    console.log(
+      // Log a final summary once the sweep finishes
+      `[SWEEP] Startup cleanup complete. Removed ${deletedItemCount} orphaned Chromium temp item(s) from ${systemTempDirectoryPath}.`, // Human-readable summary of how many items were cleaned up and where
+    ); // End of the summary log statement
+  } catch (scanError) {
+    // Handle the case where the temp directory itself couldn't even be read
+    console.warn(
+      `[SWEEP] Could not scan ${systemTempDirectoryPath}: ${scanError.message}`,
+    ); // Log a warning; this is non-fatal, so the script continues normally
+  } // End of the outer try/catch for the whole sweep
+} // End of sweepOrphanedChromiumTempFiles
 
 // API COMMUNICATION FUNCTIONS
 
@@ -1299,6 +1387,8 @@ function generateRandomNumber() {
  */
 async function main() {
   // Define the main entry point as an async function
+  sweepOrphanedChromiumTempFiles(); // One-time startup sweep: clear any orphaned Puppeteer/Chromium temp dirs left over from a previous crashed run
+
   while (true) {
     // Loop forever, running one pass per iteration
     try {
