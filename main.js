@@ -150,9 +150,9 @@ async function executeCodeExportProcess() {
       console.log(
         `[CLEANUP] Removed Chrome profile dir: ${CHROME_PROFILE_ROOT}`,
       );
-    } catch (e) {
+    } catch (error) {
       console.warn(
-        `[CLEANUP] Could not remove Chrome profile dir: ${e.message}`,
+        `[CLEANUP] Could not remove Chrome profile dir: ${error.message}`,
       );
     } // Close the current block scope.
   } // Close the current block scope.
