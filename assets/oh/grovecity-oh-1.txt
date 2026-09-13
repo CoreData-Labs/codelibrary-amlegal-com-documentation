@@ -1,16 +1,15 @@
 Codified Ordinances of the City of
 Grove City, Ohio
-[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
+[https://export.amlegal.com/media/56792d3790c85a25c94df3b676e8181ea534595c/
 IMAGES/0-0-0-6799.jpg]
 2026 Replacement Pages contain:
-Local legislation current through 12-15-25
+Local legislation current through 7-20-26
 State legislation current through 12-31-24
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
 Cincinnati, Ohio 45202
 Tel: (800) 445-5588
-Internet: http://www.amlegal.com
 PRELIMINARY UNIT
 ***** ROSTER OF OFFICIALS
 (2025) *****
@@ -653,6 +652,8 @@ ANIMALS
    bites,
 505.09,
 505.10
+   chickens,
+505.19
    cruelty,
 505.07
    cruelty to companion animals,
@@ -1152,6 +1153,8 @@ CHEATING,
 CHECKS
    passing bad,
 545.09
+CHICKENS,
+505.19
 CHIEF BUILDING AND ZONING OFFICIAL (See also BUILDING INSPECTOR)
    Building Code enforcement,
 1303.02
@@ -5523,6 +5526,8 @@ SIGNS (see also SIGNS, HISTORICAL AREA)
 1145.02
    electrical sign inspection,
 1145.09
+   electronic message centers,
+1145.24
    erecting and attaching in parks,
 903.26
    highway,
@@ -8311,8 +8316,16 @@ C08-25    3-17-25  1135.09
 C19-25    6-2-25   192.021
 C31-25    8-4-25   1135.09
 C32-25    8-4-25   331.44
-C49-25    12-15-25 550.01 to 550.08
+C49-25    12-15-25 550.01 to
+                   550.08
 C50-25    12-15-25 376.02
+C15-26    5-18-26  505.14,
+                   505.19
+C24-26    7-6-26   1145.02,
+                   1145.24
+                   161.07,
+C31-26    7-20-26  161.09 -
+                   161.11
                   
  
  
@@ -15899,34 +15912,21 @@ all sick leave accrued through the City is exhausted. (Ord. C25-13. Passed 5-6-
 161.01 (e), leaving the employment of the City either upon termination or
 retirement shall receive certification from the City of their unused sick
 leave.
-   (d)   Payment of Unused Sick leave Upon Retirement or Resignation. Any
-eligible employee, as defined in Section
-161.01 (e), leaving employment of the City either upon retirement or
-resignation shall be compensated for the employee’s unused sick leave as set
-forth herein. The amount of payment for unused sick leave shall be calculated
-by subtracting three hundred sixty hours (360) hours from the certified sick
-leave balance and dividing that result by two (2). The resulting hours shall be
-paid at the employee’s final base rate of pay. A retiring employee is
-guaranteed a payout equal to one-fourth (1/4) of the total number of sick leave
-hours accumulated.
-   (e)   Payment of Unused Sick leave Upon Termination. Any eligible employee
-as defined in Section
-161.01 (e), leaving employment of the City upon termination shall not be
-eligible to receive payment for any unused sick leave.
-   (f)   Payment of Unused Sick leave Upon Death. In the event an employee dies
+   (d)   Payment of Unused Sick leave Upon Termination. Any eligible employee
+as defined in Section 161.01(e), leaving employment of the City upon
+termination shall not be eligible to receive payment for any unused sick leave.
+   (e)   Payment of Unused Sick leave Upon Death. In the event an employee dies
 as a direct result of an injury sustained in the course of employment, the
 employee’s estate shall be paid on a day for day basis for his or her certified
 sick leave of the employee’s final base rate of pay.
-   (g)   Conversion. At any time, an eligible employee, as defined in Section
-161.01 (e), who has accumulated and maintains three hundred sixty (360) or more
-hours of unused sick leave shall be given the option of converting unused sick
-leave earned with the City for paid compensation of fifty percent of the total
-hours at the employee’s regular base rate of pay; (for example, one hundred
-(100) hours will yield a total of fifty (50) hours of pay multiplied by the
-employee’s regular base rate). No employee conversion per this section may
-result in such employee maintaining less than a minimum of three hundred sixty
-(360) hours. (Ord. C25-13. Passed 5-6-13.)
-   (h)   Donated Sick Leave.
+   (f)   Conversion. At any time, an eligible employee, as defined in Section
+161.01(e), who has accumulated unused sick leave shall be given the option of
+converting unused sick leave earned with the City for paid compensation of
+fifty percent of the total hours at the employee’s regular base rate of pay;
+(for example, one hundred (100) hours will yield a total of fifty (50) hours of
+pay multiplied by the employee’s regular base rate). (Ord. C25-13. Passed 5-6-
+13.)
+   (g)   Donated Sick Leave.
       (1)   Eligibility. Any eligible employee, as defined in Section
 161.01 (e), may apply to the Human Resources Coordinator or the City
 Administrator’s designee, to receive donated sick leave, if the employee
@@ -16011,7 +16011,7 @@ Coordinator shall directly solicit donations of sick leave from another
 employee.
 (Ord. C10-87. Passed 3-16-87; Ord. C47-01. Passed 8-6-01; Ord. C10-09. Passed
 2-17-09; Ord. C10-09. Passed 2-17-09; Ord. C23-10. Passed 5-3-10; Ord. C33-16.
-Passed 5-2-16; Ord. C40-22. Passed 6-20-22.)
+Passed 5-2-16; Ord. C40-22. Passed 6-20-22; Ord. C31-26. Passed 7-20-26.)
 161.08   LEAVES OF ABSENCE.
    (a)   Special Leave. For eligible employees, as defined in Section
 161.01(e), the City Administrator may authorize special leave of absence
@@ -16062,8 +16062,8 @@ the emergency.
 161.09   FRINGE BENEFITS.
    (a)   Annual Uniform Allowance.
       (1)   The Police Chief shall receive an annual clothing and equipment
-allowance of one thousand two hundred (1,200) dollars per year payable in semi-
-annual payments of six hundred (600) dollars in January and July of each
+allowance of one thousand four hundred (1,400) dollars per year payable in
+semi-annual payments of seven hundred (700) dollars in January and July of each
 calendar year. (Ord. C23-15. Passed 4-20-15.)
       (2)   (EDITOR'S NOTE: Division (a)(2) of Section
 161.09 was repealed by Ordinance C76-10, passed December 20, 2010.)
@@ -16121,24 +16121,25 @@ deducted from the employee's gross salary for tax purposes as permitted by law.
 Director of Finance and funded within the Annual Appropriation Ordinance.
    (h)   Employees not taking City Health Insurance, Major Medical and
 Hospitalization. Employees electing not to take such City insurance coverage
-and who are not covered under any other City insurance policy for the entire
-calendar year shall receive the following payment in December for that year:
-(Ord. C76-10. Passed 12-20-10.)
+shall receive a pro-rated payment in December for that year: (Ord. C76-10.
+Passed 12-20-10.)
       (1)   Employees eligible for family coverage but taking no coverage
-$2,300;
+$5,000;
       (2)   Employees eligible for family coverage but taking single coverage
-$1,300;
+$3,000;
       (3)   Employees eligible for single coverage but taking no coverage
-$1,300.
+$3,000.
    (i)   Other Benefits. Other benefits may be authorized from time to time by
 the City Administrator if there is no cost to the City. Notwithstanding the
 foregoing, the City Administrator is authorized to adjust benefits to ensure
 that all employees in a department or division are treated in a similar
-fashion. (Ord. C25-13. Passed 5-6-13.)
+fashion.
+(Ord. C25-13. Passed 5-6-13.)
 (Ord. C98-92. Passed 11-2-92; Ord. C86-00. Passed 10-16-00; Ord. C47-01. Passed
 8-6-01; Ord. C108-02. Passed 12-2-02; Ord. C10-09. Passed 2-17-09; Ord. C23-15.
 Passed 4-20-15; Ord. C-33- 16. Passed 5-2-16; Ord. C-34-16. Passed 5-2-16; Ord.
-C40-22. Passed 6-20-22; Ord. C06-24. Passed 2-20-24.)
+C40-22. Passed 6-20-22; Ord. C06-24. Passed 2-20-24; Ord. C31-26. Passed 7-20-
+26.)
 161.10   EMPLOYEE STATUS, NUMBER OF EMPLOYEES PER DEPARTMENT, PAY GRADES.
    Appointed and elected City personnel are hereby set forth below by job title
 along with their exemption status under the Fair Labor Standards Act (exempt
@@ -16153,6 +16154,8 @@ Job# Identification Job Title      Exemption Plan           Max.   Pay Grade Max
                     Council                                        Ordinance
 0512 City Council   Deputy Clerk   E         U              1      5         $23.76 -
                     of Council                                               41.45
+0513 City Council   Administrative N         U              1      4         $21.60 -
+                    Secretary 1                                              37.68
                     Administrative                                           $155,000-
 1111 Administration Assistant/City E         U              1                215,000
                     Administrator
@@ -16160,28 +16163,32 @@ Job# Identification Job Title      Exemption Plan           Max.   Pay Grade Max
                     Administrator                                            - 201,000
                     Community                                                $48.00 -
 1211 Administration Relations      E         C              1      11        77.00
-                    Division Chief
+                    Officer
                     Community
 1311 Administration Relations      N         C              3      6         $26.13 -
                     Division                                                 45.59
                     Specialist
-1312 Administration Court Account  N         C              1      CBA
-                    Specialist
+                                                                             $20.69 -
+1312 Administration Court Account  N         C              1      CBA       38.45
+                    Specialist                                               (thru 4/
+                                                                             20/28)
 1313 Administration Human Resource E         C              2      7         $28.75 -
                     Coordinator                                              50.15
                     Executive and                                            $28.75 -
 1512 Administration Commissions    N         C              1      7         50.15
                     Assistant
-1513 Administration Court Account  N         C              2      CBA
-                    Clerk
+                                                                             $19.08 -
+1513 Administration Court Account  N         C              2      CBA       33.70
+                    Clerk                                                    (thru 4/
+                                                                             20/28)
 1514 Administration Administrative N         C              2      4         $21.60 -
                     Secretary 1                                              37.68
-1551 All            Part Time      N         U              N/A              $15.00 -
+1551 All            Part Time      N         U              N/A              $20.00 -
                                                                              48.00
 1611 Administration Human Resource E         C              1      11        $48.00 -
                     Division Chief                                           77.00
-2111 Finance        Finance        E         U              1      12        $51.00 -
-                    Director                                                 80.00
+2111 Finance        Finance        E         U              1      12        $65.00 -
+                    Director                                                 85.00
 2211 Finance        Finance Deputy N         C              1      9         $34.78 -
                     Director                                                 60.68
 2512 Finance        Payroll        N         C              1      7         $28.75 -
@@ -16193,8 +16200,8 @@ Job# Identification Job Title      Exemption Plan           Max.   Pay Grade Max
                     Finance Budget                                           $28.75 -
 2514 Finance        and Accounts   N         C              1      7         50.15
                     Payable
-     Information    Information                                              $51.00 -
-3111 Systems        Systems        E         U              1      12        80.00
+     Information    Information                                              $65.00 -
+3111 Systems        Systems        E         U              1      12        85.00
                     Director
      Information    Information                                              $34.78 -
 3211 Systems        Systems Deputy E         C              2      9         60.68
@@ -16211,8 +16218,8 @@ Job# Identification Job Title      Exemption Plan           Max.   Pay Grade Max
      Systems                                                                 50.15
 4111 Law            Law Director   E         U              1      Set by
                                                                    Ordinance
-     Parks and      Parks and                                                $51.00 -
-5111 Recreation     Recreation     E         U              1      12        80.00
+     Parks and      Parks and                                                $65.00 -
+5111 Recreation     Recreation     E         U              1      12        85.00
                     Director
                     Parks and
 5211 Parks and      Recreation     E         C              1      9         $34.78 -
@@ -16229,8 +16236,8 @@ Job# Identification Job Title      Exemption Plan           Max.   Pay Grade Max
                     Specialist
 5511 Parks and      Administrative N         C              3      4         $21.60 -
      Recreation     Secretary I                                              37.68
-6111 Service        Public Service E         U              1      12        $51.00 -
-                    Director                                                 80.00
+6111 Service        Public Service E         U              1      12        $65.00 -
+                    Director                                                 85.00
                     Public Service                                           $34.78 -
 6211 Service        Deputy         E         C              1      9         60.68
                     Director
@@ -16257,8 +16264,10 @@ Job# Identification Job Title      Exemption Plan           Max.   Pay Grade Max
                     Facility                                                 $28.75 -
 6614 Service        Maintenance    N         C              1      7         50.15
                     Supervisor
-6615 Service        Service        N         C              25     CBA
-                    Technician
+                                                                             $22.87 -
+6615 Service/Parks  Service        N         C              25     CBA       38.80
+                    Technician                                               (thru 4/
+                                                                             20/28)
 6616 Service        Crew Leader    N         C              5      6         $26.13 -
                                                                              45.59
                     Facility                                                 $23.76 -
@@ -16271,8 +16280,8 @@ Job# Identification Job Title      Exemption Plan           Max.   Pay Grade Max
                     Facility                                                 $23.76 -
 6619 Service        Housekeeping   N         C              3      5         41.45
                     Technician
-7111 Development    Development    E         U              1      12        $51.00 -
-                    Director                                                 80.00
+7111 Development    Development    E         U              1      12        $65.00 -
+                    Director                                                 85.00
                     Community                                                $31.62 -
 7312 Development    Development    N         C              1      8         55.16
                     Manager
@@ -16286,53 +16295,53 @@ Job# Identification Job Title      Exemption Plan           Max.   Pay Grade Max
                     Manager
 7355 Development    Senior Planner N         C              1      7         $28.75 -
                                                                              50.15
-8111 Safety         Safety         E         U              1      12        $51.00 -
-                    Director                                                 80.00
-8112 Safety -       Building Chief E         C              1      11        $48.00 -
-     Buildings      Official                                                 77.00
+8111 Safety         Safety         E         U              1      12        $65.00 -
+                    Director                                                 85.00
+8112 Safety -       Building Chief E         C              1      12        $65.00 -
+     Buildings      Official                                                 85.00
 8211 Safety -       Planning and   N         C              1      6         $26.13 -
      Buildings      Zoning Manager                                           45.59
-8213 Safety -       Inspection     N         C              1      7         $28.75 -
-     Buildings      Manager                                                  50.15
-8311 Safety-        Building Plans N         C              1      8         $31.62 -
-     Buildings      Examiner                                                 55.16
-8411 Safety -       Inspector      N         C              5      6         $26.13 -
-     Buildings                                                               45.59
-     Safety -       Accounts and                                             $21.60 -
-8512 Buildings      Systems        N         C              1      4         37.68
+8213 Safety -       Inspection     N         C              1      9         $34.78 -
+     Buildings      Manager                                                  60.68
+8311 Safety-        Building Plans N         C              1      9         $34.78 -
+     Buildings      Examiner                                                 60.68
+8411 Safety -       Inspector      N         C              5      8         $31.62 -
+     Buildings                                                               55.16
+     Safety -       Accounts and                                             $23.76 -
+8512 Buildings      Systems        N         C              1      5         41.45
                     Coordinator
-     Safety -       Building                                                 $21.60 -
-8513 Buildings      Permit         N         C              1      4         37.68
+     Safety -       Building                                                 $23.76 -
+8513 Buildings      Permit         N         C              1      5         41.45
                     Coordinator
      Safety -       Property                                                 $26.13 -
 8514 Buildings      Maintenance    N         C              3      6         45.59
                     Inspector
-9111 Safety -       Police Chief   E         C              1      11        $48.00 -
-     Police                                                                  77.00
-                                                                             $64.77 -
-9212 Safety -       Police         N         C              3      CBA       68.71
+9111 Safety -       Police Chief   E         C              1      12        $65.00 -
+     Police                                                                  85.00
+                                                                             $71.46 -
+9212 Safety -       Police         N         C              3      CBA       77.29
      Police         Lieutenant                                               (thru 12/
-                                                                             31/24)
+                                                                             31/27)
                     9-1-1 Public
 9411 Safety -       Safety         E         C              1      7         $28.75 -
-     Police         Communicat                                               50.15
-                    ions Manager
+     Police         Communications                                           50.15
+                    Manager
                     9-1-1 Public                                             $29.12 -
-     Safety -       Safety                                                   40.07
-9412 Police         Communicat     N         C              3      CBA       (thru 12/
-                    ions                                                     31/202 6)
-                    Supervisor
-                    9-1-1 Public                                             Step 5
-     Safety -       Safety                                                   $26.47 -
-9413 Police         Communications N         C              14     CBA       39.16
-                    Dispatcher                                               thru 12/
-                                                                             31/202 6)
+9412 Safety -       Safety         N         C              3      CBA       40.07
+     Police         Communications                                           (thru 12/
+                    Supervisor                                               31/2026)
+                    9-1-1 Public                                             $26.47 -
+9413 Safety -       Safety         N         C              14     CBA       39.16
+     Police         Communications                                           thru 12/
+                    Dispatcher                                               31/2026)
                     Police                                                   $23.33 -
 9511 Safety -       Executive      N         C              1      6         40.35
      Police         Assistant                                                $26.13 -
                                                                              45.59
-9512 Safety -       Police Account N         C              2      CBA
-     Police         Clerk
+                                                                             $19.08 -
+9512 Safety -       Police Account N         C              2      CBA       33.70
+     Police         Clerk                                                    (thru 4/
+                                                                             20/28)
 9514 Safety -       Records        N         C              1      5         $23.76 -
      Police         Specialist                                               41.45
      Safety -       Professional                                             $23.76 -
@@ -16343,10 +16352,14 @@ Job# Identification Job Title      Exemption Plan           Max.   Pay Grade Max
                     Supervisor
 9517 Safety -       Division       N         C              3      5         $23.76 -
      Police         Analyst                                                  41.45
-9911 Safety -       Police         N         C              8      CBA
-     Police         Sergeant
-9912 Safety -       Police Officer N         C              59     CBA
-     Police
+                                                                             $63.40 -
+9911 Safety -       Police         N         C              8      CBA       68.58
+     Police         Sergeant                                                 (thru 12/
+                                                                             31/27)
+                                                                             $55.02 -
+9912 Safety -       Police Officer N         C              59     CBA       59.71
+     Police                                                                  (thru 12/
+                                                                             31/27)
  
 (Ord. C88-91. Passed 12-6-91; Ord. C18-93. Passed 3-15-93. Ord. C3-95. Passed
 1-17-95; Ord. C2-96. Passed 1-2-96; Ord. C28-96. Passed 4-15-96; Ord. C72-96.
@@ -16363,31 +16376,33 @@ Ord. C11-17. Passed 3-20-17; Ord. C15-18. Passed 3-20-18; Ord. C10-19. Passed
 3-18-19; Ord. C10-21. Passed 3-1-21; Ord. C40-22. Passed 6-20-22; Ord. C08-23.
 Passed 3-20-23; Ord. C35-23. Passed 9-5-23; Ord. C43-23. Passed 11-6-23; Ord.
 C06-24. Passed 2-20-24; Ord. C02-25. Passed 1-21-25; Ord. C03-25. Passed 2-18-
-25.)
+25; Ord. C31-26. Passed 7-20-26.)
 161.11   TUITION REIMBURSEMENT PROGRAM.
-   (a)   Approval of Coursework. All full-time and part-time employees shall be
-eligible to participate in the City’s Tuition Reimbursement Program. Under this
-program, each employee shall be eligible for a maximum of five thousand dollars
-($5,000) in reimbursement per calendar year for tuition, and books, in courses
-of instruction voluntarily undertaken. Courses of instruction eligible for
-reimbursement under this program shall include courses necessary for job-
-related degree programs or courses of study not necessarily within a job-
-related degree program but which are still job-related. In addition, only
-coursework provided by a recognized institution (e.g. college, university,
-community college, post-secondary technical school, etc.) shall be eligible for
-reimbursement under this program. No reimbursement shall be approved for
-correspondence courses. Reimbursement shall include cost for all registration
-fees and textbooks.
+   (a)   Approval of Coursework. All full-time, part-time, and seasonal
+employees shall be eligible to participate in the City’s Tuition Reimbursement
+Program. Under this program, employees may be eligible for a maximum of five
+thousand dollars ($5,000) in reimbursement per calendar year for tuition,
+books, and supplies of courses of instruction voluntarily undertaken. Principal
+or interest on any Qualified Education Loan is also eligible reimbursement to
+the employee if permitted by the Internal Revenue Service provisions. Courses
+of instruction eligible for reimbursement under this program shall include
+courses necessary for job-related degree programs or courses of study not
+necessarily within a job-related degree program but which are still job-
+related. In addition, only coursework provided, in person or online, by a
+recognized institution (e.g. college, university, community college, post-
+secondary technical school, etc.) shall be eligible for reimbursement under
+this program. No reimbursement shall be approved for correspondence courses.
+Reimbursement payments are only made to the employee.
 (Ord. C25-13. Passed 5-6-13; Ord. C15-18. Passed 3-20-18; Ord. C61-22. Passed
-9-19-22.)
+9-19-22; Ord. C31-26. Passed 7-20-26.)
    (b)   Reimbursement Process. All coursework subject to potential
 reimbursement shall be transmitted, in advance of enrollment in the course and
-through the employee's department/division head, to the City Administrator for
+through the employee’s department/division head, to the City Administrator for
 approval. The department/division head shall provide a written recommendation
 concerning approval/disapproval of the request at time of transmittal. An
 employee shall make application for approval of the course work at least
 fifteen (15) days prior to commencement of the course of study. The City
-Administrator shall evaluate the employee's coursework/degree program for job-
+Administrator shall evaluate the employee’s coursework/degree program for job-
 relatedness and shall notify the employee, in writing, regarding the approval/
 disapproval of said coursework/degree program on that basis.
    Courses are to be taken on other than scheduled working hours, unless
@@ -16397,7 +16412,7 @@ Administrator to take such courses on work time.
 course schedule and receive a grade of “C” or better to be reimbursed per this
 program.
 (Ord. C47-01. Passed 8-6-01; Ord. C10-09. Passed 2-17-09; Ord. C23-15. Passed
-4-20-15.)
+4-20-15; Ord. C31-26. Passed 7-20-26.)
 161.12   DISCIPLINE.
    (a)   Policies and Procedures. The City's policies, procedures and
 guidelines for all employees are set forth in the Employee Handbook and are
@@ -33531,6 +33546,7 @@ vicious dogs; hearings.
 505.16   Bees.
 505.17   Restrictions on dog ownership for certain convicted felons.
 505.18   Restrictions on the sale of dogs and cats in the city. (Repealed)
+505.19   Chickens.
 505.99   Penalty.
 CROSS REFERENCES
    See sectional histories for similar State law
@@ -34297,8 +34313,8 @@ degree.
 505.14   ANIMALS PROHIBITED IN THE CITY; EXCEPTIONS.
    (a)   No person shall keep any hog, pig, horse, mule, cow, goat, sheep or
 any member of the equidae family, the bovidae family, or the suidae family, or
-any fowl or poultry in any pen, yard, lot or other enclosure situated within
-the City.
+any fowl or poultry unless permitted under Section 505.19, in any pen, yard,
+lot or other enclosure situated within the City.
    (b)   Licensed pet shops, licensed kennels or catteries, Darby Downs Race
 Track and all land zoned rural shall be exempt from the provisions of this
 section if all the following conditions are applicable:
@@ -34308,7 +34324,7 @@ condition and so maintained as to eliminate objectionable odors; and
       (3)   Animals are maintained in quarters so constructed as to prevent
 their escape.
    (c)   Whoever violates this section is guilty of a minor misdemeanor.
-(Ord. C44-84. Passed 7-16-84.)
+(Ord. C44-84. Passed 7-16-84; Ord. C15-26. Passed 5-18-26.)
 505.15   NUMBER OF DOGS AND/OR CATS PER DWELLING UNIT.
    (a)   No person shall own, keep or harbor: more than three dogs or three
 cats; more than one dog and two cats; more than two dogs and one cat, except
@@ -34420,6 +34436,95 @@ misdemeanor of the first degree.
    (Editor’s note: This section was repealed by Ordinance C02-17, passed 1-17-
 17. Current regulations on pet stores may be found at R.C. §§ 956.181 through
 956.23 and 956.99.)
+505.19   CHICKENS.
+   (a)   Notwithstanding other provisions in the City Code, chickens may be
+kept within the City in any residential district subject to the following rules
+and conditions.
+   (b)   Restrictions.
+      (1)   Chickens are only permitted on residential lots that exceed 21,780
+square feet (one-half acre).
+         A.   Each household in the City may keep up to a total of six chickens
+on a residential lot at any one time.
+         B.   Only female chickens, aka hens, may be kept in the City. Males,
+aka roosters, are not allowed at any time.
+         C.   A "cockerel" (young male domestic chicken, typically under one
+year old) is permitted for the purpose of 4H and FFA county/state fair shows
+and meat production, until the cockerel reaches 17 weeks old. The purpose of
+this provision is to prevent crowing resulting in neighbor disturbance.
+      (2)   No chickens may be slaughtered on any residential property in the
+City.
+      (3)   Chicken feed must be kept in a rodent- and predator-proof
+container. Property must be kept free and clear of feed, so as not to attract
+rodents.
+      (4)   For purposes of this section, chickens must be kept, raised, or
+used in any manner related to personal or household use, such as for personal
+consumption, education, or to maintain such animals as pets. Chickens may not
+be kept, raised or used for commercial purposes, including but not limited to
+the sale of chicken or eggs or to convey the same for profit.
+   (c)   Habitat.
+      (1)   Chickens may only be maintained outdoors in a predator-proof house,
+coop, or other structure that is thoroughly ventilated, of sufficient size to
+permit free movement of the fowl, designed to be easily accessed, cleaned, and
+maintained by the owner, and be at least two square feet in size for each
+chicken with up to a maximum size of 50 square feet of indoor space and 60
+square feet of containment area.
+      (2)   All such structures are herein defined as "habitat" or "habitat
+structure" and shall be considered accessory structures as defined elsewhere in
+this Code. A permit for this and all other accessory structures shall be
+required as set for in Section 1137.08(g).
+      (3)   In addition to the other conditions and restrictions applicable to
+accessory structures, any structure housing chickens must not be visible from
+the street or any public place and must be screened from abutting properties by
+either a privacy fence, wall, or opaque landscaping as permitted in the City to
+provide reasonable and appropriate cover to reduce, lessen, or obscure the
+visual impact of the structure.
+      (4)   Any habitat structure must be located a minimum of 20 feet from any
+property line and must be located at least 100 feet from a dwelling on another
+parcel.
+      (5)   Chickens shall be enclosed within the habitat structure at night
+from sunset to sunrise. If chickens are allowed by the owner to be outside of
+the structure from sunrise to sunset, the chickens must be contained within an
+area that is fenced or surrounded by other barriers ("containment area") so as
+to prevent access to the chickens by dogs or other predators, and to prevent
+chickens from traveling outside of the containment area.
+      (6)   All areas in and around the habitat structure must be maintained in
+a clean, safe, sanitary and orderly manner for the health and welfare of the
+chickens as well as all other animals and persons. No part of the structure or
+surrounding area shall constitute a nuisance. In addition to the provisions and
+remedies set forth in the Property Maintenance Code, no person shall allow the
+chickens or the habitat to be a nuisance, including but not limited to allowing
+noxious odors or any noise of a loud or persistent and habitual nature.
+   (d)   Permits.
+      (1)   No person shall keep a chicken without a permit issued by the City.
+The Chief Building and Zoning Official has the authority to consider all such
+permit applications, as well as revocations of any such permit. Applications
+for a permit shall be made in writing and submitted to the Chief Building and
+Zoning Official for approval.
+      (2)   Any person submitting an application for a permit under this
+section shall consent to an inspection by the City of the property where the
+chickens will be kept.
+      (3)   If the City becomes aware of a possible violation on the property
+subject to a permit under this section, the Chief Building and Zoning Official
+shall be permitted to inspect the property at any reasonable time after written
+notice to the occupants of the subject property is given, to determine whether
+or not a violation exists. If the Chief Building and Zoning Official determines
+that a violation of the City Ordinances exists, the property owner shall be
+notified to bring the property into compliance within a reasonable amount of
+time as determined by the Chief Building and Zoning Official. If the property
+is not brought into compliance within the time allotted, the permit shall be
+automatically revoked.
+   (e)   Fee. A fee of twenty-three dollars ($23.00) shall be due with the
+application and shall be effective for one year. Renewal of said permit is
+required each year with a fee of twenty-five dollars ($25.00).
+   (f)   Penalty.
+      (1)   Whoever violates this section is guilty of a minor misdemeanor for
+the first offense; guilty of a misdemeanor of the fourth degree for any
+subsequent offense. Upon conviction of any provisions of this section, the
+permit shall be revoked and the chickens and/or ducks shall be removed from the
+premises. Each day the violation exists constitutes a separate violation.
+      (2)   A new permit may not be issued for a residence where a permit has
+been revoked for two years from the date of the last offense.
+(Ord. C15-26. Passed 5-18-26)
 505.99   PENALTY.
    (EDITOR’S NOTE: See Section
 501.99 for penalties applicable to any misdemeanor classification.)
@@ -55877,7 +55982,7 @@ the United States. A rule or regulation in conflict therewith shall be null,
 void and of no consequence.
 (Ord. 78-87. Passed 9-8-87.)
    Required Spacing Diagrams and Table
-[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
+[https://export.amlegal.com/media/56792d3790c85a25c94df3b676e8181ea534595c/
 IMAGES/0-0-0-7146.png]
    The maximum lawful speed limit is that maximum limit which is in full force
 and effect for a distance of not less than one-fourth mile from the center
@@ -59418,24 +59523,24 @@ continues. A separate offense shall be deemed committed for the unlawful
 destruction of each tree six inches (6") or greater.
 (Ord. C6-86. Passed 3-3-86; Ord. C58-97. Passed 11-17-97.)
 Ch. 1136, Exhibit A
-[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
+[https://export.amlegal.com/media/56792d3790c85a25c94df3b676e8181ea534595c/
 IMAGES/0-0-0-6802.jpg]
  
-[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
+[https://export.amlegal.com/media/56792d3790c85a25c94df3b676e8181ea534595c/
 IMAGES/0-0-0-6805.jpg]
  
-[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
+[https://export.amlegal.com/media/56792d3790c85a25c94df3b676e8181ea534595c/
 IMAGES/0-0-0-6808.jpg]
  
 Ch. 1136, Exhibit B
-[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
+[https://export.amlegal.com/media/56792d3790c85a25c94df3b676e8181ea534595c/
 IMAGES/0-0-0-6811.jpg]
  
-[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
+[https://export.amlegal.com/media/56792d3790c85a25c94df3b676e8181ea534595c/
 IMAGES/0-0-0-6814.jpg]
  
 Ch. 1136, Exhibit C
-[https://export.amlegal.com/media/6f4a6ea5a367c0c8d35198c61eef3e2a4dcd9821/
+[https://export.amlegal.com/media/56792d3790c85a25c94df3b676e8181ea534595c/
 IMAGES/0-0-0-6817.jpg]
  
 Ch. 1136, Exhibit D – Compatibility of Zoning Classifications for Vehicular Use
@@ -61251,6 +61356,7 @@ Signs
 1145.21   Registration required; fee.
 1145.22   Sign landscaping.
 1145.23   Banners.
+1145.24   Electronic message centers.
 1145.99   Penalty.
 CROSS REFERENCES
    Power to regulate fences, billboards and signs - see Ohio R.C. 715.27
@@ -61295,87 +61401,93 @@ or electronically.
    (e)   “Directional sign” means a temporary or permanent sign that provides
 information regarding location, instructions for use or functional/directional
 data.
-   (f)   “Flags” means noncommercial flags or any flags displayed from
+   (f)   “Electronic message center” means a changeable copy sign or portion
+thereof where the characters, letters or illustrations are changed or
+rearranged electronically and that is visible, in whole or in part, from not
+less than one right-of-way and designed to be viewed primarily from said right-
+of-way.
+   (g)   “Flags” means noncommercial flags or any flags displayed from
 flagpoles or staffs that do not display any commercial advertisement and are
 not considered to be signs.
-   (g)   “Flashing sign” is any directly or indirectly illuminated sign that
+   (h)   “Flashing sign” is any directly or indirectly illuminated sign that
 exhibits changing natural or artificial light or color effects by any means.
-   (h)   “Free-standing signs” means signs supported by or suspended from
+   (i)   “Free-standing signs” means signs supported by or suspended from
 posts, pillars, columns or other similar structures or signs supported by or
 mounted on buildings in such a manner that such sign is not parallel to and
 flush with such wall.
-   (i)   “Frontage” (building) means the length of a single exterior building
+   (j)   “Frontage” (building) means the length of a single exterior building
 wall or structure of a single premise orientated to the public way.
-   (j)   “Highway sign” refers to an on-premises advertising sign above the
+   (k)   “Highway sign” refers to an on-premises advertising sign above the
 maximum height limit. New construction or reconstruction of these signs is not
 permitted.
-   (k)   “Informational sign” means signs used by businesses to promote new
+   (l)   “Informational sign” means signs used by businesses to promote new
 products, sales or seasonal products, placed in windows or on the premises.
-   (l)   “Interior sign” means any sign placed within a building, but not
+   (m)   “Interior sign” means any sign placed within a building, but not
 including “window signs” as defined by this chapter. Interior signs, with the
 exception of window signs as defined, are not regulated by this chapter.
-   (m)   “Marquee sign” means a permanent roofed structure attached to and
+   (n)   “Marquee sign” means a permanent roofed structure attached to and
 supported by the building and projecting beyond the building line or over
 public property. A marquee sign is attached or constructed in a marquee.
-   (n)   “Monument sign” means a free-standing sign having fifty percent (50%)
+   (o)   “Monument sign” means a free-standing sign having fifty percent (50%)
 or more of the bottom of the sign in contact with the ground or supporting
 structure.
-   (o)   “Off-premises sign” means any outdoor device or display designed to
+   (p)   “Off-premises sign” means any outdoor device or display designed to
 inform or convey messages to the public about persons, products or services
 available principally at a site removed from the location of the sign. This
 could include, but shall not be limited to, ground signs, bus shelters, bench
 advertising, trash receptacles, flags, banners, posts, and inflatable devices.
-   (p)   “Outdoor advertising structure” means any structure or device designed
+   (q)   “Outdoor advertising structure” means any structure or device designed
 to hold, stabilize or maintain a sign.
-   (q)   “Pole sign” means a free-standing sign having more than fifty percent
+   (r)   “Pole sign” means a free-standing sign having more than fifty percent
 (50%) of the sign separated from the ground by air.
-   (r)   “Political sign” means a sign having reference to a candidate for
+   (s)   “Political sign” means a sign having reference to a candidate for
 elective public office or a public question or issue to be submitted to the
 electorate at any election.
-   (s)   “Portable sign” means a sign with fixed type or that which is designed
+   (t)   “Portable sign” means a sign with fixed type or that which is designed
 to allow for adding and removing letters and numbers to the sign face and which
 can be moved from one location to another without any change to its structure
 or components. This includes trailer signs, A-frame signs, self-supporting
 signs, streamers, and air activated devices.
-   (t)   “Projecting sign” means any sign that extends perpendicular from a
+   (u)   “Projecting sign” means any sign that extends perpendicular from a
 structure, suspended above ground level. Maximum area is eight square feet
 (8').
-   (u)   “Public or semi-public signs” means signs for a church, school,
+   (v)   “Public or semi-public signs” means signs for a church, school,
 community or other public or semi-public institutional building not exceeding
 forty square feet (40') in area and located on the premises.
-   (v)   “Real estate sign” means a sign offering real estate for sale, lease
+   (w)   “Real estate sign” means a sign offering real estate for sale, lease
 or rent or indicating property has been sold, leased or rented. Sign shall not
 be illuminated. Sign to be removed ten days or less after conveyance of
 property. Sign is not to exceed eight square feet (8') in area, nor more than
 four feet (4') in height above ground level; located no closer than ten feet
-(10') to the right-of-way along the street or streets on which the lot or
+(10') to the right-of- way along the street or streets on which the lot or
 parcel fronts; City may enforce, at its discretion, greater distance to achieve
 safe view for traffic. One (1) sign shall be permitted on each lot or parcel of
 property for which conveyance is intended. No permit needed.
-   (w)   “Roof sign” means a sign mounted on, and supported by, the main roof
+   (x)   “Roof sign” means a sign mounted on, and supported by, the main roof
 portion of a building, or above the uppermost edge of a parapet wall of a
 building and which is wholly or partially supported by such a building. Signs
 mounted on a mansard facade, pent eaves and architectural projections such as
 canopies or marquees shall be considered to be rooftop signs.
-   (x)   “Roofline” means the top edge of a peaked roof or in the case of an
+   (y)   “Roofline” means the top edge of a peaked roof or in the case of an
 extended facade or parapet, the uppermost point of the facade or parapet.
-   (y)   “Sign” means any device visible from a public place that displays
+   (z)   “Sign” means any device visible from a public place that displays
 either commercial or noncommercial messages by means of graphic presentation of
 alphabetic or pictorial symbols or representations.
-   (z)   “Streamer” means a ribbon-shaped or cord like rope, which may have
+   (aa)   “Streamer” means a ribbon-shaped or cord like rope, which may have
 pennants and/or banners attached and which is stretched or hung between two (2)
 or more supports.
-   (aa)   “Temporary signs” means signs not exceeding forty total square feet
+   (bb)   “Temporary signs” means signs not exceeding forty total square feet
 (40') announcing special events, construction of buildings, the architect, or
 building, contractor, and may be erected for a period of sixty days (60) in one
 (1) calendar year on sites which a building permit has not been obtained or
 until building construction is completed. Real estate signs shall be excluded
 as a temporary sign. See subsection (e) hereof for definition of Real Estate
 Sign.
-   (bb)   “Window sign” means a sign, graphic, poster, symbol or other
+   (cc)   “Window sign” means a sign, graphic, poster, symbol or other
 identifications, which is within six feet of the interior side of the window
 and conveys a message to the exterior.
-(Ord. C85-01. Passed 12-3-01; Ord. 58-05. Passed 7-5-05.)
+(Ord. C85-01. Passed 12-3-01; Ord. 58-05. Passed 7-5-05; Ord. C24-26. Passed 7-
+6-26.)
 1145.03   PURPOSE AND CONSTRUCTION.
    It is the declared purpose of the provisions of this chapter to regulate,
 control and limit the size, location, manner or construction and maintenance,
@@ -61540,7 +61652,7 @@ City limits, subject to the limitations and restrictions set forth in this
 chapter and Section
 713.04 of the Codified Ordinances.
    (b)   Political signs may be displayed as defined in Section
-1145.02(r) provided that such signs shall not be located any closer than ten
+1145.02(s) provided that such signs shall not be located any closer than ten
 feet (10') to the right-of-way along the street or streets on which a lot or
 parcel fronts. Such signs shall not be illuminated nor be erected within any
 public rights-of-way or easements nor attached in any manner to any utility
@@ -61572,7 +61684,7 @@ as provided for in this section for commercial premises located in the Central
 Business District as defined in Section
 1135.12.
    (b)   See Section
-1145.02(s) for definition of “portable sign”.
+1145.02(t) for definition of “portable sign”.
    (c)   Applications for A-frame sign permits shall be submitted, at no cost
 to the applicant, on prescribed forms to the Building Division.
    (d)   If the A-frame sign permit is approved, the Building Division will
@@ -61741,6 +61853,106 @@ births, retirement, graduation, or other personal messages may be erected on
 private residential parcels for not more than fifteen (15) days in one calendar
 year.
 (Ord. C85-01. Passed 12-3-01; Ord. C58-05. Passed 7-5-05.)
+1145.24   ELECTRONIC MESSAGE CENTERS.
+   (a)   General.
+      (1)   The provisions of this section apply to all electronic message
+centers erected within the City.
+      (2)   Electronic message centers may only be installed to serve premises
+intended or designated to be used for any of the following: municipal or other
+public administrative buildings, memorials, monuments, cemeteries, police and/
+or fire stations, telephone stations, radio and tv antennas and antenna towers,
+subject to the requirements of Section 1137.15, parks subject to the
+requirements of Section 1137.14, recreation fields and playgrounds, educational
+services, museums, art galleries, botanical and zoological gardens, religious
+organizations, nonprofit educational and scientific research agencies, labor
+unions and similar labor organizations, civic, social and fraternal
+associations, political organizations, or nonprofit membership organizations
+not otherwise classified in Section 1135.09.
+      (3)   Electronic message centers may only be installed upon or integral
+to changeable copy signs located in accordance with Section 1145.16(e)(3).
+      (4)   There may be not more than one electronic message center on any
+single tax parcel of land as established by the Franklin County Auditor,
+regardless of the number of buildings or business establishments on such
+parcel. Two (2) electronic message centers on opposing sides of a changeable
+copy sign shall be considered as one for the purpose of this division.
+      (5)   There may be only one changeable copy sign located on any single
+tax parcel of land as established by the Franklin County Auditor, regardless of
+the number of buildings or business establishments on such parcel, where at
+least one changeable copy sign located on such tax parcel contains an
+electronic message center.
+   (b)   Technical Requirements.
+      (1)   Size and Readability.
+         A.   Electronic message centers may not cover more than ten (10)
+square feet where the face of the changeable copy sign is less than fifty (50)
+square feet. For the purposes of this division, where a changeable copy sign
+has multiple faces, each face is considered independent of the others.
+         B.   Electronic message centers may only display words, numbers and
+punctuation.
+         C.   Words, numbers and punctuation displayed on electronic message
+centers may not be smaller than six (6) inches in height and of proportionate
+width as to be readable when viewed directly from sixty (60) feet away.
+         D.   Electronic message centers may not have more than six (6) rows of
+words, numbers and punctuation.
+      (2)   Color and Transitions.
+         A.   Electronic message centers may only consist of non-illuminated
+cells and illuminated cells that are distinctly either red, amber, white or
+green. Electronic message centers must be monochromatic, displaying a single
+permitted color during any static display period.
+         B.   The transition of cells from one state to another on an
+electronic message center for the purpose of displaying new copy must occur in
+less than one second and only after a static display period of not less than
+eight (8) seconds.
+         C.   All cells necessary to effect a change of copy shall change state
+within a single transition interval, and no illuminated cell may change state
+more than once during that interval.
+         D.   No transition may involve sequential, progressive, partial, or
+staggered changes in cell state. All required cell-state changes must occur
+simultaneously within the same transition interval.
+         E.   The duration between transition intervals may not be less than
+eight (8) seconds.
+      (3)   Brightness.
+         A.   Between civil sunrise and civil sunset, the luminance of the
+electronic message center shall be automatically restricted to not exceed three
+thousand (3,000) nits (three thousand (3,000) candela per square meter) when
+measured at a distance of one hundred (100) feet perpendicular to the sign
+face.
+         B.   From civil sunset to 11:00 p.m. local time and from 5:30 a.m.
+local time to civil sunrise, the luminance of the electronic message center
+shall be automatically restricted to not exceed one hundred (100) nits (one
+hundred (100) candela per square meter) when measured at a distance of one
+hundred (100) feet perpendicular to the sign face.
+         C.   From 11:00 p.m. local time to 5:30 a.m. local time, the
+electronic message center may not emit light.
+   (c)   Maintenance and permits.
+      (1)   Electronic message centers shall be maintained in accordance with
+their manufacturers' instructions, the Grove City Property Maintenance Code and
+this division.
+         A.   Where more than ten percent (10%) of the electronic message
+center's cells are unable to be illuminated, by defect or damage, the
+electronic message center must not be used until such defect or damage is
+repaired to a state where ninety percent (90%) or more of the cells are
+functional.
+         B.   The owner of the tax parcel of land upon which an electronic
+message center is installed is prima facie responsible for the copy displayed
+with the electronic message center.
+         C.   The division of building and zoning is authorized to require the
+owner of the tax parcel of land upon which an electronic message center is
+installed to provide proof of maintained compliance with divisions (b)(3)A.
+through (b)(3)C. of this section.
+         D.   The owners of the tax parcel of land upon which an electronic
+message center is installed must not permit the electronic message center to
+display any message that constitutes obscenity as defined by the United States
+Supreme Court, or incitement to imminent lawless action as defined by the
+United States Supreme Court.
+         E.   Prior to the installation of an electronic message center, the
+owner shall apply for a permit with the division of building and zoning. The
+Division of Building and Zoning shall review the application for conformance
+with this section and either notify the owner of deficiencies or issue a permit
+for the erection of the electronic message center.
+         F.   The application shall contain all the necessary information
+required by the Division of Building and Zoning to review the application for
+conformance with this section.
+(Ord. C24-26. Passed 7-6-26.)
 1145.99   PENALTY.
    (EDITOR'S NOTE: See Section
 1301.99 for general Building Code penalty.)
