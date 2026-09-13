@@ -137,23 +137,46 @@ async function executeCodeExportProcess() {
   } finally {
     // Execute this statement as part of the export workflow.
     // Step 5: Cleanup — ensure resources are properly released
+    let browserClosedCleanly = false; // Tracks whether we confirmed a clean browser shutdown this pass
+
     if (browserInstance) {
       // Check this condition before continuing.
-      await browserInstance.close(); // Close the Puppeteer browser to free up memory/resources
-      console.log("\n--- Script End: Browser closed ---"); // Log that the browser was closed
+      try {
+        // Attempt a clean close; if this throws, Chrome may not have actually shut down.
+        await browserInstance.close(); // Close the Puppeteer browser to free up memory/resources
+        console.log("\n--- Script End: Browser closed ---"); // Log that the browser was closed
+        browserClosedCleanly = true; // Only mark clean once close() has actually resolved
+      } catch (closeError) {
+        // Execute this statement as part of the export workflow.
+        console.warn(
+          `[CLEANUP] Browser did not close cleanly: ${closeError.message}`,
+        ); // Log that the close attempt itself failed
+      } // Close the current block scope.
     } // Close the current block scope.
 
-    // Remove the pinned Chrome profile directory every pass, regardless of success/failure,
-    // so it can never accumulate across the infinite main() loop even if this pass errored out.
-    try {
-      fs.rmSync(CHROME_PROFILE_ROOT, { recursive: true, force: true });
+    // Only remove the pinned Chrome profile directory if we know Chrome shut down cleanly
+    // this pass. If the browser never closed (crash, force-kill, hung process, etc.), Chrome
+    // may still be holding files open in that directory — deleting it out from under a
+    // still-running Chrome process could corrupt its profile or crash it outright. A profile
+    // dir left behind this way gets swept up at the START of the next script run instead
+    // (see removeLeftoverChromeProfileDir() in main()), once we know Chrome is not running.
+    if (browserClosedCleanly) {
+      // Check this condition before continuing.
+      try {
+        fs.rmSync(CHROME_PROFILE_ROOT, { recursive: true, force: true });
+        console.log(
+          `[CLEANUP] Removed Chrome profile dir: ${CHROME_PROFILE_ROOT}`,
+        );
+      } catch (error) {
+        console.warn(
+          `[CLEANUP] Could not remove Chrome profile dir: ${error.message}`,
+        );
+      } // Close the current block scope.
+    } else {
+      // Execute this statement as part of the export workflow.
       console.log(
-        `[CLEANUP] Removed Chrome profile dir: ${CHROME_PROFILE_ROOT}`,
-      );
-    } catch (error) {
-      console.warn(
-        `[CLEANUP] Could not remove Chrome profile dir: ${error.message}`,
-      );
+        `[CLEANUP] Skipping Chrome profile dir removal — browser did not close cleanly this pass.`,
+      ); // Log that we're intentionally leaving the profile dir in place
     } // Close the current block scope.
   } // Close the current block scope.
 } // Close the current block scope.
@@ -248,6 +271,13 @@ async function processRegionForExports( // Define an async function for this wor
   } // Close the current block scope.
 
   console.log(`\n=== END REGION: ${regionSlug} ===`); // Log the end of region processing
+
+  // Once this region/state's clients have all finished exporting and downloading,
+  // sweep /tmp/Downloads again. This clears any leftover export files that may have
+  // landed there (e.g. from a page whose download path briefly fell back to the
+  // default before configureBrowserDownloadPath() finished applying), so they don't
+  // linger or get picked up mistakenly by a later region's processing.
+  sweepOrphanedDownloadFiles(); // Re-run the Downloads-only sweep after finishing this state/region
 } // Close the current block scope.
 
 /**
@@ -472,7 +502,7 @@ async function launchBrowserAndCreatePage() {
       "--disable-background-networking", // Reduce interference from background tasks
       "--no-sandbox", // Required in Docker
       "--disable-setuid-sandbox", // Required in Docker
-      // "--disable-dev-shm-usage", // Enable in Docker to avoid /dev/shm crashes; disable outside Docker (e.g. plain EC2) to avoid filling up /tmp.
+      "--disable-dev-shm-usage", // Enable in Docker to avoid /dev/shm crashes; disable outside Docker (e.g. plain EC2) to avoid filling up /tmp.
       "--disable-gpu", // Disable GPU acceleration
       "--disable-software-rasterizer", // Prevent crashes when GPU is disabled
       "--no-first-run", // Skip first-run dialog
@@ -647,10 +677,14 @@ async function pauseExecutionSimple(milliseconds) {
  * Only removes files/dirs matching known Puppeteer/Chromium temp-file naming patterns,
  * so it won't touch unrelated system or other-app temp files.
  *
- * Also clears out /tmp/Downloads, which is where the browser's default download
- * directory ends up if a client page's download path was never (or only partially)
- * configured before a crash. Only files matching the export naming convention
- * (e.g. "abingdonil-il-1.txt") are removed there, so unrelated files are left alone.
+ * IMPORTANT: call this exactly ONCE, before the main loop starts — never on every pass
+ * (e.g. at the top of the while(true) loop). By the time a later pass starts, this
+ * process's own Chrome instance from the previous pass may still be shutting down or a
+ * new one may be about to spin up; blindly deleting anything matching these patterns at
+ * that point risks deleting temp files an active Chrome session still needs, which can
+ * crash or corrupt it. Right after process startup, before any Chrome instance in this
+ * run has been launched, it's safe: anything matching these patterns can only be debris
+ * from a run that's no longer alive.
  * @returns {void}
  */
 function sweepOrphanedChromiumTempFiles() {
@@ -707,8 +741,50 @@ function sweepOrphanedChromiumTempFiles() {
       `[SWEEP] Could not scan ${systemTempDirectoryPath}: ${scanError.message}`,
     ); // Log a warning; this is non-fatal, so the script continues normally
   } // End of the outer try/catch for the whole sweep
+} // Close the current block scope.
 
-  // === Sweep leftover export files from /tmp/Downloads ===
+/**
+ * Removes the pinned Chrome profile directory (CHROME_PROFILE_ROOT) if one was left behind
+ * by a previous run that crashed or was force-killed before its finally-block cleanup could
+ * run (see executeCodeExportProcess()). Like sweepOrphanedChromiumTempFiles(), this must
+ * only be called once, at startup, before this process has launched its own Chrome instance
+ * — at that point nothing is using the directory, so it's always safe to remove.
+ * @returns {void}
+ */
+function removeLeftoverChromeProfileDir() {
+  try {
+    // Start protected execution that may throw errors.
+    if (fs.existsSync(CHROME_PROFILE_ROOT)) {
+      // Only attempt removal if a leftover profile dir actually exists
+      fs.rmSync(CHROME_PROFILE_ROOT, { recursive: true, force: true }); // Delete the leftover profile dir and its contents
+      console.log(
+        `[SWEEP] Removed leftover Chrome profile dir from a previous run: ${CHROME_PROFILE_ROOT}`,
+      ); // Log that a leftover dir was found and removed
+    } // Close the current block scope.
+  } catch (error) {
+    // Execute this statement as part of the export workflow.
+    console.warn(
+      `[SWEEP] Could not remove leftover Chrome profile dir ${CHROME_PROFILE_ROOT}: ${error.message}`,
+    ); // Log a warning; this is non-fatal, so the script continues normally
+  } // Close the current block scope.
+} // Close the current block scope.
+
+/**
+ * Sweeps /tmp/Downloads, which is where the browser's default download directory ends
+ * up if a client page's download path was never (or only partially) configured before
+ * a crash — or, mid-run, if a download briefly landed there before
+ * configureBrowserDownloadPath() finished applying. Only files matching the export
+ * naming convention (e.g. "abingdonil-il-1.txt") are removed, so unrelated files are
+ * left alone.
+ *
+ * Unlike sweepOrphanedChromiumTempFiles(), this is safe (and intended) to call
+ * repeatedly during a run — once at the start of every loop pass, and again after each
+ * region/state finishes processing — since a fresh batch of matching files can appear
+ * at any point.
+ * @returns {void}
+ */
+function sweepOrphanedDownloadFiles() {
+  const systemTempDirectoryPath = os.tmpdir(); // Get the OS temp directory path (this is /tmp on Linux/EC2)
   const orphanedDownloadsDirectoryPath = path.join(
     systemTempDirectoryPath,
     "Downloads",
@@ -1454,8 +1530,10 @@ function generateRandomNumber() {
  */
 async function main() {
   // Define the main entry point as an async function
+  sweepOrphanedChromiumTempFiles(); // Run ONCE, before anything else: no Chrome instance is running yet this process, so it's safe to clear crashed-run debris matching known patterns
+  removeLeftoverChromeProfileDir(); // Run ONCE, before anything else: clean up a pinned profile dir left behind if the previous run crashed before it could close Chrome
   while (true) {
-    sweepOrphanedChromiumTempFiles(); // One-time startup sweep: clear any orphaned Puppeteer/Chromium temp dirs left over from a previous crashed run
+    sweepOrphanedDownloadFiles(); // Run at the start of every loop pass, so /tmp/Downloads starts clean for each pass
     // Loop forever, running one pass per iteration
     try {
       // Start protected execution that may throw errors
