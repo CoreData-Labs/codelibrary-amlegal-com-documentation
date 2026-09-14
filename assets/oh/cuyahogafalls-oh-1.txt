@@ -52,7 +52,6 @@ Frank Stams                            Eighth Ward
 Russell W. Balthis, President          Councilor-at-Large
 Mary Nichols-Rhodes, President Pro Tem Councilor-at-Large
 Brian Ashton                           Councilor-at-Large
-Tim Gorbach                            Councilor-at-Large
 Dana Capriulo                          Clerk
 ADMINISTRATION
 Donald S. Walters            Mayor
@@ -64,7 +63,7 @@ Tony V. Demasi               City Engineer
 Christopher C. Martin        Fire Chief
 Christopher E. Norfolk       Police Chief
 Robert Kurtz                 Planning Director
-Carrie A. Snyder             Neighborhood Excellence, Communications and
+Morgan L. Ferrell            Neighborhood Excellence, Communications and
                              Community Outreach Department (NECCO) Director
 The publisher
 expresses their appreciation
@@ -8540,7 +8539,7 @@ is hereby designated as the official City of Cuyahoga Falls flag.
    103.02 CITY SEAL.
    The seal of the City of Cuyahoga Falls shall be as depicted below:
  
-[https://export.amlegal.com/media/cc13b7aaf28fb2e5417075657408fcb02ac137ad/
+[https://export.amlegal.com/media/2ebbe5c16c24642a72d9f6c19a4fa714dd51f2f7/
 IMAGES/0-0-0-293_2920x2760.jpg]
  
 CHAPTER 105
@@ -17040,10 +17039,10 @@ traffic, or to make arrests for violations of traffic regulations.
 4511.33, 4511.34, 4511.35, 4511.36, 4511.37, 4511.38, 4511.39, 4511.40,
 4511.41, 4511.42, 4511.43, 4511.431, 4511.432, 4511.44, 4511.441, 4511.451,
 4511.452, 4511.46, 4511.47, 4511.48, 4511.481, 4511.49, 4511.50, 4511.511,
-4511.53, 4511.54, 4511.55, 4511.56, 4511.57, 4511.58, 4511.59, 4511.60,
-4511.61, 4511.64, 4511.66, 4511.661, 4511.68, 4511.70, 4511.701, 4511.71,
-4511.711, 4511.712, 4511.713, 4511.72, 4511.73, 4511.763, 4511.771, 4511.78, or
-4511.84;
+4511.522, 4511.53, 4511.54, 4511.55, 4511.56, 4511.57, 4511.58, 4511.59,
+4511.60, 4511.61, 4511.64, 4511.66, 4511.661, 4511.68, 4511.70, 4511.701,
+4511.71, 4511.711, 4511.712, 4511.713, 4511.72, 4511.73, 4511.763, 4511.771,
+4511.78, or 4511.84;
    (b)   A violation of Ohio R.C. 4511.17(A)(2), 4511.51(A) through (D), or
 4511.74(A);
    (c)   A violation of any provision of Ohio R.C. 4511.01 through 4511.76 for
@@ -17113,7 +17112,7 @@ its, his or her path;
    (b)   A general term denoting land, property, or the interest therein,
 usually in the configuration of a strip, acquired for or devoted to
 transportation purposes. When used in this context, “right-of-way” includes the
-roadway, shoulders or berm, ditch, and slopes extending to the rightof-way
+roadway, shoulders or berm, ditch, and slopes extending to the right-of-way
 limits under the control of the state or local authority.
       (ORC 4511.01(UU))
 301.66 ROAD SERVICE VEHICLE.
@@ -18565,7 +18564,7 @@ provided in Section
 indication, unless entering the intersection to make another movement permitted
 by another signal indication, shall stop at a clearly marked stop line; but if
 there is no stop line, traffic shall stop before entering the crosswalk on the
-near side of the intersection; or if there is no crosswalk, before then before
+near side of the intersection; or if there is no crosswalk, then before
 entering the intersection; and shall remain stopped until a signal indication
 to proceed is displayed except as provided in subsections (c)(1), (2) and (3)
 of this section.
@@ -18704,9 +18703,9 @@ misdemeanor of the third degree.
 (ORC 4511.99)
    313.05 SPECIAL PEDESTRIAN CONTROL SIGNALS.
    (a)   Whenever special pedestrian control signals exhibiting the words
-“walk” or “don’t walk”, or the symbol of a walking person or an upraised palm
+“walk” or “don’t walk,” or the symbol of a walking person or an upraised palm
 are in place, such signals shall indicate the following instructions:
-      (1)   A steady walking person signal indication, which symbolizes “walk”,
+      (1)   A steady walking person signal indication, which symbolizes “walk,”
 means that a pedestrian facing the signal indication is permitted to start to
 cross the roadway in the direction of the signal indication, possibly in
 conflict with turning vehicles. The pedestrian shall yield the right-of-way to
@@ -18861,7 +18860,7 @@ removal, including a snow plow, when it is owned by a political subdivision and
 operated by an employee of that political subdivision.
       (2)   PEACE OFFICER. Has the same meaning as in Ohio R.C. 109.71(A)(1),
 (A)(12), (A)(14), and (A)(19).
-      (3)   PORTABLESIGNALPREEMPTION DEVICE. A device that, if activated by a
+      (3)   PORTABLE SIGNAL PREEMPTION DEVICE. A device that, if activated by a
 person, is capable of changing a highway traffic signal to green out of
 sequence.
       (4)   PUBLIC SAFETY VEHICLE. Has the same meaning as in Ohio R.C. 4511.01
@@ -43952,6 +43951,7 @@ any of the following reasons:
    (a)   Non-payment of a bill; or
    (b)   Request of the customer; or
    (c)   Tampering with a meter for the premises by the customer or consumer;
+or
    (d)    Failure to install remote reading meters, as mandated from time to
 time by the Director of Public Service, in accordance with ordinances and
 related rules and regulations; or
@@ -46775,11 +46775,11 @@ CHAPTER 933
 Electricity
 933.01    Rate schedules established.
 933.02    Schedule RS - Residential Service.
-933.021   Schedule RS/AE-Residential Service/All Electric.
+933.021   Schedule RS/AE - Residential Service/All Electric.
 933.03    Schedule GSS - General Service, Small, Single Phase.
-933.04    Schedule GSM - General Service, Medium, Three Phase.
+933.04    Schedule GSM - General Service, Medium Three Phase.
 933.05    Schedule GSL - General Service, Large.
-933.06    Schedule GSD - General Service, Distribution.
+933.06    Schedule GSD - General Service Distribution.
 933.07    Schedule SL - General Service Special Large.
 933.08    Schedule SCS - Schools and City Service.
 933.09    Service charges. (Repealed)
@@ -46820,7 +46820,7 @@ CROSS REFERENCES
 service, to the consumers thereof within the corporate limits, by the electric
 utility of the City are hereby established.
 (Ord. 100-2014. Passed 12-22-14.)
-   933.02 SCHEDULE RS-RESIDENTIAL SERVICE.
+   933.02 SCHEDULE RS - RESIDENTIAL SERVICE.
    (a)    Availability. Available where secondary distribution lines are
 adjacent to the premises to be served. Applies to electric service, other than
 three phase service, all domestic purposes in private residences and single
@@ -46856,7 +46856,7 @@ throughout this chapter.
 rules and regulations of the electric utility which rules and regulations are a
 part of this schedule, the same as if copied herein verbatim.
 (Ord. 97-2025. Passed 12-8-25.)
-   933.021 SCHEDULE RS/AE-RESIDENTIAL SERVICE/ALL ELECTRIC.
+   933.021 SCHEDULE RS/AE - RESIDENTIAL SERVICE/ALL ELECTRIC.
    (a)    Availability. Available where secondary distribution lines are
 adjacent to the premises to be served. Applies to electric service to all-
 electric homes, other than three phase service, for all domestic purposes in
@@ -46871,7 +46871,7 @@ residential service rate does not apply to a commercial, institutional or
 industrial establishment.
    (b)    Service. Alternating current, sixty hertz, single phase, nominal 120/
 140 volts.
-   (c)    Monthly Charge. In each month as delineated below the charge per
+   (c)    Monthly Charge. In each month as delineated below, the charge per
 customer shall be computed in accordance with the following rates:
 (l)    Winter Months (October through May)
  
@@ -46902,7 +46902,7 @@ to the Power Cost Adjustment (PCA).
 rules and regulations of the electric utility which rules and regulations are a
 part of this schedule, the same as if copied herein verbatim.
 (Ord. 97-2025. Passed 12-8-25.)
-   933.03 SCHEDULE GSS- GENERAL SERVICE, SMALL, SINGLE PHASE.
+   933.03 SCHEDULE GSS - GENERAL SERVICE, SMALL, SINGLE PHASE.
    (a)    Availability. Available where secondary distribution lines are
 adjacent to the premises to be served. Applies to electric service supplied at
 one point on one premises. This rate does not apply to standby service.
@@ -46926,7 +46926,7 @@ to the Power Cost Adjustment (PCA).
 rules and regulations of the electric utility, which rules and regulations are
 a part of this rate schedule, the same as if copied herein verbatim.
 (Ord. 97-2025. Passed 12-8-25.)
-   933.04 SCHEDULE GSM- GENERAL SERVICE, MEDIUM, THREE PHASE.
+   933.04 SCHEDULE GSM - GENERAL SERVICE, MEDIUM THREE PHASE.
    (a)    Availability. Available where secondary distribution lines are
 adjacent to the premises to be served. Applies to electric service supplied at
 one point on one premises. This rate does not apply to standby service.
@@ -46993,21 +46993,21 @@ eleven months.
 (3)    Fifty KW. When metering capable of measuring on-peak and off-peak
 demands is in use, the customer's measured demand shall be the greater of the
 on-peak demand or twenty-five percent (25%) of the off-peak demand. On-peak
-periods are from 8:00 a. m. to 9:00 p.m. On normal business days. All other
+periods are from 8:00 a.m. to 9:00 p.m. On normal business days. All other
 periods shall be off-peak.
    (e)    Power Cost Adjustment. The monthly charge shall be adjusted according
 to the Power Cost Adjustment (PCA).
    (f)    Power Factor. The customer shall so arrange and equip his
 installation that the power factor of his load at the time of maximum demand
 will be not less than 0.8 lagging. However, if the power factor as determined
-by measurement is less than 0.8 the measured demand shall be modified by the
+by measurement is less than 0.8, the measured demand shall be modified by the
 ratio of 0.8 to the measured power factor.
    (g)    Contract. A written application is required.
    (h)    Rules and Regulations. This rate schedule is subject to the general
 rules and regulations of the electric utility which rules and regulations are a
 part of this rate schedule, the same as if copied herein verbatim.
 (Ord. 97-2025. Passed 12-8-25.)
-   933.06 SCHEDULE GSD- GENERAL SERVICE, DISTRIBUTION.
+   933.06 SCHEDULE GSD - GENERAL SERVICE DISTRIBUTION.
    (a)    Availability. Available where distribution lines are adjacent to the
 premises to be served. Applies to electric service supplied at one point on one
 premises where the demand is greater than fifty KW and where the consumer owns
@@ -47049,11 +47049,11 @@ greatest of:
 (1)    The highest measured fifteen minute KW demand during the month.
 (2)    Sixty percent (60%) of the highest billing demand during the preceding
 eleven months.
-(3)    Fifty KW.
-   When metering capable of measuring on-peak and off-peak demands is in use,
-the customer's measured demand shall be the greater of the on-peak demand or
-twenty-five percent (25%) of the off-peak demand. On-peak periods are from 8:00
-a.m. to 9:00 p.m. on normal business days. All other periods shall be off-peak.
+      (3)    Fifty KW. When metering capable of measuring on-peak and off-peak
+demands is in use, the customer's measured demand shall be the greater of the
+on-peak demand or twenty-five percent (25%) of the off-peak demand. On-peak
+periods are from 8:00 a.m. to 9:00 p.m. on normal business days. All other
+periods shall be off-peak.
    (e)    Power Cost Adjustment. The monthly charge shall be adjusted according
 to the Power Cost Adjustment (PCA).
    (f)    Power Factor. The customer shall so arrange and equip his
@@ -47609,7 +47609,7 @@ sanitation service if the occupant moves.
 month effective January 1, 2026:
    Single unit - twenty-five dollars and forty cents ($25.40)
    Two unit - forty dollars and eighty cents ($40.80)
-   Three unit - fifty-six dollars and twenty cent ($56.20)
+   Three unit - fifty-six dollars and twenty cents ($56.20)
    Four unit - seventy-one dollars and sixty cents ($71.60)
    Five or more units - The Director of Public Service or designee will furnish
 rates.
