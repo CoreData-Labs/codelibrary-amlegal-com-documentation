@@ -132,6 +132,9 @@ Jun-26    165.45(1)(A)             481      5-11-26  Commercial District Uses
           99.01                    482      6-8-26   Sewer Service Charges
           92.02(1)                 483      6-8-26   Water Rates
           15.04                    484      6-8-26   Mayor Compensation
+Aug-26    92.11                    485      8-10-26  Payment Policy
+          Ch. 76                   486      8-10-26  Personal Transportation
+                                                     Device Regulations
  
 CHAPTER 1
 CODE OF ORDINANCES
@@ -4930,105 +4933,392 @@ found to have violated this chapter shall be subject to a fine of fifty dollars
 fine is paid in full prior to the date set for the person's court appearance.
 (Ch. 75 - Ord. 423 - Jul. 21 Supp.)
 CHAPTER 76
-BICYCLE REGULATIONS
+PERSONAL TRANSPORTATION DEVICE REGULATIONS
  
-76.01 Scope of Regulations            76.08 Riding on Sidewalks
-76.02 Traffic Code Applies            76.09 Towing
-76.03 Double Riding Restricted        76.10 Improper Riding
-76.04 Two Abreast Limit               76.11 Parking
-76.05 Speed                           76.12 Equipment Requirements
-76.06 Emerging from Alley or Driveway 76.13 Special Penalty
-76.07 Carrying Articles
+76.01 Purpose                                 76.07 Responsible Riding
+76.02 Definitions                             76.08 Place of Riding
+76.03 Scope of Regulations                    76.09 Parking
+76.04 Traffic Code Applies                    76.10 Equipment Requirements
+76.05 Motor Vehicle Operations                76.11 Violations
+76.06 Actions Against Personal Transportation
+Devices
  
-76.01   SCOPE OF REGULATIONS.
-These regulations shall apply whenever a bicycle is operated upon any street or
-upon any public path set aside for the exclusive use of bicycles, subject to
-those exceptions stated herein.
-(Code of Iowa, Sec. 321.236[10])
-76.02   TRAFFIC CODE APPLIES.
-Every person riding a bicycle upon a roadway shall be granted all of the rights
-and shall be subject to all of the duties applicable to the driver of a vehicle
-by the laws of the State declaring rules of the road applicable to vehicles or
-by the traffic code of the City applicable to the driver of a vehicle, except
-as to those provisions which by their nature can have no application. Whenever
-such person dismounts from a bicycle the person shall be subject to all
+76.01   PURPOSE.
+The purpose of this chapter is to set forth regulations for operating bicycles,
+electric personal assistive mobility devices, electric scooters, high-speed
+pedestrian conveyances, low-speed electric bicycles, motorized bicycles, other
+power-driven mobility devices, pedestrian conveyances, skates, and skateboards,
+on the City’s roadways, streets, sidewalks, and multi-use trails as enabled by
+Code of Iowa, Section 321.235 and 321.236(10).
+76.02   DEFINITIONS.
+   1.   “Bicycle” means either of the following:
+      A.   A device having up to four wheels and having at least one saddle or
+seat for the use of a rider which is propelled by human power.
+      B.   A low-speed electric bicycle.
+(Code of Iowa, Sec. 321.1(40.c))
+   2.   “Bicycle lane” means a portion of a street designed for exclusive or
+preferential use by persons using bicycles, pedestrian conveyances, or other
+personal transportation devices. Bicycle lanes are distinguished from the
+portion of the street used for motor vehicle traffic by physical barrier,
+striping, marking, or other similar delineation.
+   3.   “Electric personal assistive mobility device” means a self-balancing,
+nontandem two-wheeled device powered by an electric propulsion system that
+averages seven hundred fifty watts and is designed to transport one person,
+with a maximum speed on a paved level surface of less than twenty miles per
+hour. The maximum speed shall be calculated based on operation of the device by
+a person who weighs one hundred seventy pounds when the device is powered
+solely by the electric propulsion system. For purposes of this chapter,
+“electric personal assistive mobility device” does not include an assistive
+device as defined in Section 216E.1.
+(Code of Iowa, Sec. 321.1(20B))
+   4.   “Electric scooter” means a device weighing less than one hundred pounds
+that is equipped with one, two or three wheels, with handlebars, with or
+without a seat or saddle, and an electric motor and which is powered by the
+rider, or by an electric motor capable of propelling the device without
+additional propulsion supplied by the rider, or both, at a maximum speed on a
+paved level surface of no more than twenty miles per hour.
+   5.   “High-speed pedestrian conveyance or E-Moto” means any pedestrian
+conveyance with a motor exceeding seven hundred fifty (750) watts or capable of
+speeds over twenty miles per hour when powered solely by the motor.
+      A.   If such a conveyance is capable of a maximum speed of up to thirty-
+nine mph, it shall follow the State of Iowa Code and City of Waukee regulations
+applicable to motorized bicycles.
+      B.   If such a conveyance is capable of a maximum speed exceeding thirty-
+nine mph, it shall follow the State of Iowa Code and City of Waukee regulations
+applicable to motorcycles.
+   6.   “Low-speed electric bicycle” means a device having a saddle or seat for
+the use of a rider, two or three wheels equipped with fully operable pedals,
+and an electric motor that produces not more than seven hundred fifty watts
+that meets the requirements of one of the following classes:
+      A.   “Class 1 low-speed electric bicycle” means a low-speed electric
+bicycle equipped with a motor that may be used to provide assistance only when
+the rider is pedaling and that ceases to provide assistance when the bicycle
+reaches a speed of twenty miles per hour or more.
+      B.   Class 2 low-speed electric bicycle” means a low-speed electric
+bicycle equipped with a motor that may be used exclusively to propel the
+bicycle and that is not capable of providing assistance when the bicycle
+reaches a speed of twenty miles per hour or more.
+      C.   Class 3 low-speed electric bicycle” means a low-speed electric
+bicycle equipped with a motor that may be used to provide assistance only when
+the rider is pedaling and that ceases to provide assistance when the bicycle
+reaches a speed of twenty-eight miles per hour or more.
+(Code of Iowa, Sec. 321.1(36A))
+   7.   “Motorized bicycle” means a motor vehicle having a saddle or seat for
+the use of a rider, designed to travel on not more than three wheels in contact
+with the ground, and not capable of operating at a speed in excess of thirty-
+nine miles per hour on level ground unassisted by human power, but excluding a
+low-speed electric bicycle.
+   8.   “Multi-use trail” or “shared use path” means a paved or an ADA-
+compliant unpaved surface, separate from the street, in the right-of-way at or
+greater than eight feet (8’) in width under the jurisdiction and control of the
+State or a local political subdivision thereof for use primarily by bicycles,
+low-speed electric bicycles, electric scooters, personal transportation
+devices, and pedestrians.
+   9.   “Other power-driven mobility device (OPDMD)” means any mobility device
+powered by batteries, fuel, or other engines that is used by individuals with
+mobility disabilities for the purpose of locomotion, including, electronic
+personal assistance mobility devices, or any mobility device designed to
+operate in areas without defined pedestrian routes, but that is not a
+wheelchair or a golf cart.
+   10.   “Pedestrian conveyance” means any human-powered device by which a
+pedestrian may move other than by walking or by which a pedestrian may move
+another person, including but not limited to a wheelchair, stroller,
+skateboard, scooter, or other similar device. “Pedestrian conveyance” also
+includes an electric personal assistive mobility device and any other device
+used to move a person sitting or standing on the device regardless of whether
+the device is powered by an electric motor, so long as the electric motor
+produces not more than seven hundred fifty watts. “Pedestrian conveyance” does
+not include a bicycle.
+(Code of Iowa, Sec. 321.1(51A))
+   11.   “Roadway” means that portion of a highway improved, designed, or
+ordinarily used for vehicular travel.
+   12.   “Sidewalk” means a paved or unpaved surface, separate from the street,
+in the right-of-way less than eight feet (8’) in width under the jurisdiction
+and control of the local political subdivision thereof for use primarily by
+pedestrians.
+   13.   “Skate” means a device, or shoe, worn on the foot containing wheels
+guided by the user, or rider, powered by any means including, but not limited
+to, motor, wind or foot power.
+   14.   “Skateboard” means a foot, motor, or wind propelled vehicle consisting
+of a board which is guided by the user or rider standing on same and pushing
+the same with foot power or operating with motor or wind power.
+   15.   “Street” means the entire width between property lines of every way or
+place of whatever nature when any part thereof is open to the use of the
+public, as a matter of right, for purposes of vehicular traffic.
+76.03   SCOPE OF REGULATIONS.
+These regulations shall apply whenever any bicycle, electric personal assistive
+mobility device, electric scooter, high-speed pedestrian conveyance, low-speed
+electric bicycle, motorized bicycle, other power-driven mobility device,
+pedestrian conveyance, skate, or skateboard is operated upon any public land,
+public street, roadway, park road, any multi-use trail, sidewalk, or in any
+bicycle lane and path, subject to those exceptions and regulations stated
+herein.
+76.04   TRAFFIC CODE APPLIES.
+   1.   Every person, including a peace officer, using a bicycle, electric
+personal assistive mobility device, electric scooter, high-speed pedestrian
+conveyance, low-speed electric bicycle, motorized bicycle, other power-drive
+mobility device (“OPDMD”), pedestrian conveyance, skate, or skateboard upon a
+roadway or in a bicycle lane shall be granted all of the rights and shall be
+subject to all of the duties applicable to the driver of a vehicle by the laws
+of the State declaring rules of the road applicable to vehicles or by the
+Traffic Code of the City applicable to the driver of a vehicle, except as to
+those provisions that by their nature can have no application or those for
+which specific exceptions have been set forth regarding police bicycles. This
+does not apply to the use of any device in a parade authorized by proper permit
+from local authorities.
+(Code of Iowa, Sec. 321.234(2), (5))
+   2.   Bicycles, electric personal mobility devices, electric scooters, low-
+speed electric bicycles, OPDMD’s, and pedestrian conveyances are not subject to
+registration, licensure, titling, inspection, and proof of financial liability
+coverage provisions of Code of Iowa, Chapter 321 unless otherwise required by
+Iowa Code.
+   3.   High-speed pedestrian conveyances, and motorized bicycles are subject
+to registration, licensure, titling, inspection, and proof of financial
+liability coverage provisions of Code of Iowa, Chapter 321.
+   4.   Operators of high-speed pedestrian conveyances, and motorized bicycles
+are required to have possession of a driver’s license or permit.
+   5.   Operator of bicycles, electric personal mobility devices, electric
+scooters, low-speed electric bicycles, OPDMD’s, and pedestrian conveyances are
+not required to have possession of a driver’s license or permit, unless
+otherwise required by Iowa Code.
+   6.   Whenever such person dismounts from a bicycle, electronic personal
+mobility device, electric scooter, low-speed electric bicycle, OPDMD’s,
+pedestrian conveyance, skate, or skateboard, the person shall be subject to all
 regulations applicable to pedestrians.
-(Code of Iowa, Sec. 321.234)
-76.03   DOUBLE RIDING RESTRICTED.
-A person propelling a bicycle shall not ride other than astride a permanent and
-regular seat attached thereto. No bicycle shall be used to carry more persons
-at one time than the number for which it is designed and equipped.
-(Code of Iowa, Sec. 321.234[3 and 4])
-76.04   TWO ABREAST LIMIT.
-Persons riding bicycles upon a roadway shall not ride more than two (2) abreast
-except on paths or parts of roadways set aside for the exclusive use of
-bicycles. All bicycles ridden on the roadway shall be kept to the right and
-shall be operated as near as practicable to the right-hand edge of the roadway.
-(Code of Iowa, Sec. 321.236[10])
-76.05   SPEED.
-No person shall operate a bicycle at a speed greater than is reasonable and
-prudent under the conditions then existing.
-(Code of Iowa, Sec. 321.236[10])
-76.06   EMERGING FROM ALLEY OR DRIVEWAY.
-The operator of a bicycle emerging from an alley, driveway or building shall,
-upon approaching a sidewalk or the sidewalk area extending across any alleyway,
-yield the right-of-way to all pedestrians approaching on said sidewalk or
-sidewalk area, and upon entering the roadway shall yield the right-of-way to
-all vehicles approaching on said roadway.
-(Code of Iowa, Sec. 321.236[10])
-76.07   CARRYING ARTICLES.
-No person operating a bicycle shall carry any package, bundle or article which
-prevents the rider from keeping at least one hand upon the handle bars.
-(Code of Iowa, Sec. 321.236[10])
-76.08   RIDING ON SIDEWALKS.
-The following shall apply to riding bicycles on sidewalks:
-   1.   Business District. No person shall ride a bicycle upon a sidewalk
-within the Business District, as defined in Section 60.02(1) of this Code of
-Ordinances.
-(Code of Iowa, Sec. 321.236[10])
-   2.   Other Locations. When signs are erected on any sidewalk or roadway
-prohibiting the riding of bicycles thereon by any person, no person shall
-disobey the signs.
-(Code of Iowa, Sec. 321.236[10])
-   3.   Yield Right-of-way. Whenever any person is riding a bicycle upon a
-sidewalk, such person shall yield the right-of-way to any pedestrian and shall
-give audible signal before overtaking and passing.
-(Code of Iowa, Sec. 321.236[10])
-76.09   TOWING.
-It is unlawful for any person riding a bicycle to be towed or to tow any other
-vehicle upon the streets of the City unless the vehicle is manufactured for
-such use.
-76.10   IMPROPER RIDING.
-No person shall ride a bicycle in an irregular or reckless manner such as
-zigzagging, stunting, speeding or otherwise so as to disregard the safety of
-the operator or others.
-76.11   PARKING.
-No person shall park a bicycle upon a street other than upon the roadway
-against the curb or upon the sidewalk in a rack to support the bicycle or
-against a building or at the curb, in such a manner as to afford the least
-obstruction to pedestrian traffic.
-(Code of Iowa, Sec. 321.236[10])
-76.12   EQUIPMENT REQUIREMENTS.
-Every person riding a bicycle shall be responsible for providing and using
-equipment as provided herein:
-   1.   Lamps Required. Every bicycle when in use at nighttime shall be
-equipped with a lamp on the front emitting a white light visible from a
-distance of at least 300 feet to the front and with a lamp on the rear
-exhibiting a red light visible from a distance of 300 feet to the rear, except
-that a red reflector on the rear, of a type that is visible from all distances
-from 50 feet to 300 feet to the rear when directly in front of lawful upper
-beams of headlamps on a motor vehicle, may be used in lieu of a rear light.
-(Code of Iowa, Sec. 321.397)
-   2.   Brakes Required. Every bicycle shall be equipped with a brake that will
-enable the operator to make the braked wheel skid on dry, level, clean
-pavement.
-(Code of Iowa, Sec. 321.236[10])
-76.13   SPECIAL PENALTY.
-Any person violating the provisions of this chapter may, in lieu of the
-scheduled fine for bicyclists or standard penalty provided for violations of
-this Code of Ordinances, allow the person’s bicycle to be impounded by the City
-for not less than five days for the first offense, 10 days for a second offense
-and 30 days for a third offense.
+   7.   A peace officer using a police bicycle in the line of duty may do any
+of the following:
+      A.   Proceed past a red or stop signal or stop sign, but only after
+slowing down as may be necessary for safe operation.
+      B.   Exceed the maximum speed limits as long as the rider does not
+endanger life or property.
+(Code of Iowa, Sec. 321.231)
+76.05   MOTOR VEHICLE OPERATIONS.
+   1.   Bicycle Lane Right-of-Way. Operators of all motor vehicles shall yield
+the right-of-way to people using any bicycle, electric personal mobility
+device, electric scooter, low-speed electric bicycle, OPDMD’s, pedestrian
+conveyance, skate, or skateboard, in a designated bicycle lane and shall not
+operate a motor vehicle within a bicycle lane, unless provisions of law
+establish other requirements and regulations affecting such bicycle lanes, then
+such other provision of law shall control. No person shall drive a motor
+vehicle in a bicycle lane established on a roadway or street except as follows:
+      A.   To park where parking is permitted.
+      B.   To enter or leave the roadway or street.
+      C.   To prepare for a turn within a distance of 200 feet from the
+intersection.
+   2.   Lateral Passing Distance. The driver of a motor vehicle overtaking a
+person using any bicycle, electric personal mobility device, electric scooter,
+low-speed electric bicycle, OPDMD’s, pedestrian conveyance, skate, or
+skateboard that is traveling on a paved shoulder or in a bicycle lane, should
+give at least three feet of lateral passing distance between the outside of the
+vehicle and the rider and device.
+   3.   Opening Doors. No person shall open any door of a motor vehicle located
+on a roadway or street without first taking precaution to ensure that this
+action does not interfere with the movement of traffic or endanger any other
+person or vehicle. In addition, no person shall leave open any door of a motor
+vehicle located on a roadway for a period of time longer than necessary to load
+or unload passengers or cargo.
+   4.   Yield to Persons in Crosswalks. The driver of a motor vehicle shall
+yield right-of-way, slowing down or stopping, if need be, to so yield, to a
+pedestrian or person using any bicycle, electrical personal mobility device,
+electric scooter, low-speed electric bicycle, OPDMD’
+   5.   Parking. Drivers of motor vehicles shall not park a vehicle within or
+blocking sidewalks, bicycle lanes or any multi-use trail.
+76.06   ACTIONS AGAINST PERSONAL TRANSPORTATION DEVICES.
+   1.   A person operating a motor vehicle shall not steer the motor vehicle
+unreasonably close to or toward a pedestrian or a person riding any bicycle,
+electric personal mobility device, electric scooter, low-speed electric
+bicycle, OPDMD’s, pedestrian conveyance, skate, or skateboard on a roadway or
+street, including the adjacent shoulder.
+   2.   A person shall not knowingly project any object or substance at or
+against a pedestrian or a person using any bicycle, electric personal mobility
+device, electric scooter, low-speed electric bicycle, OPDMD’s, pedestrian
+conveyance, skate, or skateboard on a roadway or street, adjacent shoulder,
+sidewalk, multi-use trail, or any other location. Any violation of this
+subsection is punishable by scheduled fines as listed in Code of Iowa Section
+805.8A(14.k.).
+(Code of Iowa, Sec. 321.281)
+76.07   RESPONSIBLE RIDING.
+   1.   Double Riding Restricted. A person propelling a bicycle shall not ride
+other than astride a permanent and regular seat attached thereto. No bicycle,
+electric personal mobility device, electric scooter, low-speed electric
+bicycle, OPDMD’s, pedestrian conveyance, skate, or skateboard shall be used to
+carry more persons at one time than the number for which it is designed and
+equipped. This does not apply to such use in a parade authorized by proper
+permit from local authorities. Any violation of this subsection is punishable
+by a schedule fines as listed in Code of Iowa Section 805.8A(9).
+(Code of Iowa, Sec. 321.234(3), (4), and (5))
+   2.   Speed. A person shall not operate any bicycle, electric personal
+mobility device, electric scooter, low-speed electric bicycle, OPDMD’s,
+pedestrian conveyance, skate, or skateboard at a speed greater than is
+reasonable and proper under the conditions existing at the point of operation,
+taking into account the surroundings and environment, such as inclement
+weather, infrastructure conditions, grade, and presence of others. A person
+shall not operate any bicycle, electric personal mobility device, electric
+scooter, low-speed electric bicycle, OPDMD’s, pedestrian conveyance, skate, or
+skateboard in excess of the posted or applicable speed limit, or if there is no
+posted or applicable speed limit, twenty miles per hour.
+   3.   Control of Bicycle, Electric Personal Mobility Device, Electric
+Scooter, Low-Speed Electric Bicycle, OPDMD’s, Pedestrian Conveyance, Skate, or
+Skateboard. Operators shall keep any device under directional, speed, and
+stopping control at all times.
+   4.   Improper Riding. No person shall operate any bicycle, electric personal
+mobility device, electric scooter, low-speed electric bicycle, OPDMD’s,
+pedestrian conveyance, skate, or skateboard in an irregular or reckless manner
+so as to disregard the safety of the operator, others, or property.
+   5.   A person under the age of sixteen shall not operate a Class 3 low-speed
+electric bicycle. A person under the age of sixteen may ride as a passenger on
+a Class 3 low-speed electric bicycle in compliance with Code of Iowa Section
+321.234.
+(Code of Iowa, Sec 321.235B(6))
+   6.   A person under the age of sixteen shall not operate an electric
+personal assistive mobility device.
+(Adapted from Code of Iowa, Sec. 321.235A)
+   7.   Right of Way. Users of any bicycle, electric personal mobility device,
+electric scooter, low-speed electric bicycle, OPDMD’s, pedestrian conveyance,
+skate, or skateboard shall yield right of way to pedestrians, human-powered
+bicycles, and other human-powered conveyances. Riders or bicycles and other
+human powered devices shall yield right of way to pedestrians.
+   8.   Emerging From a Multi-Use Trail, Sidewalk, Alley or Driveway. The
+operator of any bicycle, electric personal mobility device, electric scooter,
+low-speed electric bicycle, OPDMD’s, pedestrian conveyance, skate, or
+skateboard emerging from an alley, multi-use trail, sidewalk, driveway or
+building shall, upon approaching a sidewalk or the sidewalk area extending
+across any alleyway, yield the right-of-way to all pedestrians approaching on
+said sidewalk or sidewalk area. Upon entering the roadway, the operator of any
+bicycle, electric personal mobility device, electric scooter, low-speed
+electric bicycle, OPDMD’s, pedestrian conveyance, skate, or skateboard shall
+yield the right -of-way to all vehicles or others present or approaching on
+said roadway, unless such intersection is controlled by a traffic control
+device in which case the user shall obey the traffic control device.
+   9.   Hand Signals. Riders of any bicycle, electric personal mobility device,
+electric scooter, low-speed electric bicycle, OPDMD’s, pedestrian conveyance,
+skate, or skateboard may, but shall not be required to, signal their turning
+movements and stopping with their hands and arms as follows:
+      A.   Left turn – left hand and arm extended horizontally to the left.
+      B.   Right turn – left arm extended upward to the left with an
+approximately 90-degree bend at the elbow to position the hand up, or right
+hand and arm extended horizontally to the right.
+      C.   Stopping or slowing – left hand and arm extended downward.
+   10.   Following Emergency Vehicles. No person using any bicycle, electric
+personal mobility device, electric scooter, low-speed electric bicycle,
+OPDMD’s, pedestrian conveyance, skate, or skateboard shall follow closer than
+500 feet of an emergency vehicle as defined by Iowa Code Section 321.1 which
+has emergency lights and/or siren activated, and shall not stop, park, or leave
+a bicycle within 500 feet of an emergency vehicle stopped in response to an
+emergency.
+   11.   Towing. It is unlawful for any person using any bicycle, electric
+personal mobility device, electric scooter, low-speed electric bicycle,
+OPDMD’s, pedestrian conveyance, skate, or skateboard to attach the device or
+themselves to any moving motor vehicle by tow rope, hand grip or otherwise.
+This section shall not prohibit attaching a trailer to a bicycle that is
+designed to accommodate such a device.
+76.08   PLACE OF RIDING.
+   1.   Roadways and Streets.
+      A.   When riding on any roadway or street, riders of any bicycle,
+electric personal mobility device, electric scooter, low-speed electric
+bicycle, OPDMD’s, pedestrian conveyance, skate, or skateboard shall ride in the
+same location and manner and follow the same State and local laws applicable to
+motorized vehicles, unless a bicycle land or multi-use trail exists adjacent to
+a roadway or street in which case riders may ride in the bicycle lane or on the
+multi-use trail according to applicable regulations and laws.
+      B.   The operation or riding of electric scooters, pedestrian
+conveyances, skates or skateboards on a roadway or street is prohibited unless
+a sidewalk, trail, or bicycle lane does not exist in or adjacent to a roadway
+or street. This subsection does not apply to bicycles, electric personal
+mobility devices, low-speed electric bicycles, or OPDMD’s.
+      C.   The use of any electric scooters, pedestrian conveyances, skates or
+skateboards is prohibited on any City of Waukee roadway or streets which have a
+speed limit of greater than 25 mph. This subsection does not apply to bicycles,
+electric personal mobility devices, low-speed electric bicycles, or OPDMD’s.
+      D.   This section does not apply to the use of devices in a parade or
+special event authorized by the City.
+   2.   Public Sidewalks and Multi-Use Trails.
+      A.   Public Sidewalks. Bicycles, electric personal mobility devices,
+electric scooters, low-speed electric bicycles, OPDMD’s, pedestrian
+conveyances, skates, or skateboards may be operated upon the public sidewalks
+in a careful and prudent manner except where signs or pavement markings
+explicitly prohibit riding on the sidewalk, or in specified dismount zones
+where users shall walk their bicycle, electric personal mobility device,
+electric scooter, low-speed electric bicycle, pedestrian conveyance, skate, or
+skateboard.
+      B.   Multi-Use Trails. Bicycles, electric personal mobility devices,
+electric scooters, low-speed electric bicycles, pedestrian conveyances, skates,
+or skateboards may be operated upon multi-use trails that are equal to or
+greater than eight feet (8’) in width except where signs or pavement markings
+explicitly prohibit riding on the multi-use trail.
+      C.   When operated inside City parks or green spaces bicycles, electric
+personal mobility devices, electric scooters, low-speed electric bicycles,
+pedestrian conveyances, skates, or skateboards shall only be ridden on the
+paved portion of the bicycle paths, trails, or sidewalks.
+      D.   Operation of any bicycle, electric personal mobility device,
+electric scooter, low-speed electric bicycle, OPDMD’s, pedestrian conveyance,
+skate, or skateboard shall at all times be subject to the limitations and
+obligations created by State law and municipal law, including the responsible
+rider requirements of Section
+76.07.
+      E.   High-speed pedestrian conveyances and motorized bicycles are
+expressly prohibited from operation on sidewalks, multi-use trails and City
+parks or green spaces. High-speed pedestrian conveyances and motorized
+bicycles, and their operators, are subject to all requirements referenced in
+Section
+76.04.
+76.09   PARKING.
+Parking locations for any bicycle, electric personal mobility device, electric
+scooter, low-speed electric bicycle, OPDMD’s, or pedestrian conveyance shall
+not impede, restrict, block or interfere with access to:
+   1.   ADA-compliant pedestrian pathways.
+   2.   Fire hydrants.
+   3.   U.S. Postal Service mailboxes.
+   4.   Crosswalk or curb ramps.
+   5.   Loading zones.
+   6.   Transit zones, including bus stops, shelters, or other passenger
+waiting areas.
+   7.   Accessible parking spaces.
+   8.   Street furniture or amenities that require pedestrian access.
+   9.   Entryways.
+   10.   Driveways.
+76.10   EQUIPMENT REQUIREMENTS.
+Every person using any bicycle, electric personal mobility device, electric
+scooter, low-speed electric bicycle, OPDMD’s, pedestrian conveyance, skate, or
+skateboard shall be responsible for providing and using equipment as provided
+herein:
+   1.   Every bicycle, electric personal mobility device, electric scooter,
+low-speed electric bicycle, OPDMD’s, or pedestrian conveyance when in use
+between sunset and sunrise and when weather conditions provide insufficient
+lighting to render clearly discernable persons and vehicles on the road at a
+distance of 300 feet ahead, shall be equipped with a lamp on the front emitting
+a white light visible from a distance of at least three hundred (300) feet to
+the front and with a lamp on the rear exhibiting a red light visible from a
+distance of 300 feet to the rear except that a red reflector on the rear, may
+be used in lieu of a rear light. The lamps or reflector may be attached to the
+rider of the device rather than the device itself provided the visibility
+requirements are met. A peace officer riding a police bicycle is not required
+to use either front or rear lamps if duty so requires. Any violation of this
+subsection is punishable by schedule fines as listed in Code of Iowa Section
+805.8A.
+(Code of Iowa, Sec. 321.384 and Sec. 321.397)
+   2.   Equivalent equipment such as headlamps and red-light attachments to the
+head, back, arm, or leg may be used in lieu of a lamp on the front and a red
+light on the rear of the device.
+   3.   Braking Mechanism Required. Every bicycle, electric personal mobility
+device, electric scooter, low-speed electric bicycle, OPDMD’s, pedestrian
+conveyance, skate, or skateboard shall have a mechanism which will enable the
+operator to bring the device to a complete stop within a safe distance.
+   4.   Any low-speed electric bicycle shall be compliant with all requirements
+listed within the Code of Iowa Section 321.235B.
+   5.   No bicycle, electric personal mobility device, electric scooter, low-
+speed electric bicycle, OPDMD’s, pedestrian conveyance, skate, or skateboard
+shall be equipped with, and a person shall not use upon such device, any siren
+or whistle. This shall not apply to bicycles ridden by peace officer in the
+line of duty. Any violation of this subsection punishable by schedule fines as
+listed in Code of Iowa Section 805.8A.
+(Code of Iowa, Sec. 321.434)
+76.11   VIOLATIONS.
+Violations of this chapter constitute a simple misdemeanor punishable by the
+imposition of a fine of twenty-five (25) dollars and any applicable surcharges
+and costs, unless otherwise noted above as applicable to Code of Iowa scheduled
+fines.
+(Chapter 76 – Ord. 486 – Aug. 26 Supp.)
 CHAPTER 80
 ABANDONED VEHICLES
  
@@ -5447,11 +5737,12 @@ irrigation meters.
 CHAPTER 92
 WATER RATES
  
-92.01 Service Charges           92.06 Lien for Nonpayment
-92.02 Rates For Service         92.07 Lien Exemption
-92.03 Rates Outside the City    92.08 Lien Notice
-92.04 Billing for Water Service 92.09 Customer Deposits
-92.05 Service Discontinued      92.10 Temporary Vacancy
+92.01 Service Charges           92.07 Lien Exemption
+92.02 Rates For Service         92.08 Lien Notice
+92.03 Rates Outside the City    92.09 Customer Deposits
+92.04 Billing for Water Service 92.10 Temporary Vacancy
+92.05 Service Discontinued      92.11 Payment Policy
+92.06 Lien for Nonpayment
  
 92.01   SERVICE CHARGES.
 Each customer shall pay for water service provided by the City based upon use
@@ -5603,6 +5894,19 @@ temporarily discontinued as provided herein, there shall continue to be a
 monthly minimum sewer charge only. The City will not drain pipes or pull meters
 for temporary vacancies.
 (Ord. 429 - Jul. 21 Supp.)
+92.11   PAYMENT POLICY.
+   1.   Returned Payment Fee. A fee of thirty dollars ($30.00) shall be
+assessed for each payment returned unpaid to the City of Earlham, regardless of
+the reason for the return, to the extent permitted by Iowa law.
+   2.   Cash-Only Payment Requirement. Any individual or business that has two
+(2) or more payments returned to the City within any twelve (12)-month period
+shall be required to make all future payments to the City in cash.
+   3.   Duration of Restriction. The cash-only payment requirement shall remain
+in effect for one (1) year from the date of the most recent returned payment.
+   4.   Notice. Notice of this payment policy shall be posted in a prominent
+location at the customer service counter in City Hall and may also be published
+on the City’s website or included with utility billing information.
+(Section 92.11 – Ord. 485 – Aug. 26 Supp.)
 CHAPTER 93
 BENEFITED WATER AND SEWER DISTRICT
  
@@ -10035,7 +10339,7 @@ later than 180 days after the date of fee payment.
 all seeding and sodding are to be installed before a final Certificate of
 Occupancy is issued.
    9.   Table R301.2 to read as follows:
-[https://export.amlegal.com/media/c7d031df54f5519a43e2971a21e8359acace304c/
+[https://export.amlegal.com/media/9bb9734c98a56752046ec8f68b32063db7fb8bb6/
 IMAGES/0-0-0-1902.bmp]
    10.   Amend Section R301.2.1.3 to add the following:
       For purposes of determining wind loads, the minimum basic wind speed
