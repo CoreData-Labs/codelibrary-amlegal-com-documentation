@@ -19,8 +19,9 @@ const CHECK_IF_FILE_EXISTS = false; // Flag to enable/disable checking for exist
 // Pinning userDataDir here keeps Chrome's profile out of the OS temp dir (/tmp) entirely,
 // so it lives somewhere we control and can reliably clean up every pass.
 const CHROME_PROFILE_ROOT = path.join(
-  ASSET_OUTPUT_BASE_DIRECTORY,
-  ".chrome-profile",
+  // Build the pinned Chrome profile path
+  ASSET_OUTPUT_BASE_DIRECTORY, // Nest it under the assets output directory
+  ".chrome-profile", // Hidden subfolder name for the profile
 );
 
 // API Domain and Endpoints
@@ -69,7 +70,7 @@ async function executeCodeExportProcess() {
     // Step 3: Fetch all regions that need to be processed from the API
     const regionsApiUrl = `${API_BASE_DOMAIN}${REGIONS_API_ENDPOINT}`; // Construct the complete API URL for region data
     const regionIdentifiers = await fetchAllRegionSlugs(
-      // Declare a constant used in the current scope.
+      // Fetch region slugs using the auth cookie
       browserPage, // The Puppeteer page instance
       regionsApiUrl, // The full API endpoint for fetching region slugs
       authenticationCookieValue, // Auth cookie for authorized requests
@@ -87,17 +88,17 @@ async function executeCodeExportProcess() {
     if (REGION_START_PERCENT > 0) {
       // Check this condition before continuing.
       const startIndex = Math.floor(
-        // Declare a constant used in the current scope.
-        (regionIdentifiers.length * REGION_START_PERCENT) / 100, // Execute this statement as part of the export workflow.
+        // Compute the raw starting index from the percentage
+        (regionIdentifiers.length * REGION_START_PERCENT) / 100, // Percentage of total length
       ); // Calculate which index to start from based on the percentage
 
       const clampedStartIndex = Math.min(
-        // Declare a constant used in the current scope.
-        startIndex, // Execute this statement as part of the export workflow.
-        regionIdentifiers.length - 1, // Execute this statement as part of the export workflow.
+        // Clamp the index so it never exceeds array bounds
+        startIndex, // The computed raw start index
+        regionIdentifiers.length - 1, // The maximum valid index
       ); // Ensure the start index doesn't exceed the list length
 
-      regionsToProcess = regionIdentifiers // Execute this statement as part of the export workflow.
+      regionsToProcess = regionIdentifiers // Build the reordered region list
         .slice(clampedStartIndex) // Take all regions after the start index
         .concat(regionIdentifiers.slice(0, clampedStartIndex)); // Append the earlier regions to the end, wrapping the list
 
@@ -118,7 +119,7 @@ async function executeCodeExportProcess() {
     for (const regionSlug of regionsToProcess) {
       // Iterate through values in this collection or range.
       await processRegionForExports(
-        // Wait for this asynchronous operation to finish.
+        // Process every client belonging to this region
         browserPage, // The Puppeteer page for web interactions
         regionSlug, // The specific region slug to process
         authenticationCookieValue, // The authentication cookie for authorized requests
@@ -131,9 +132,15 @@ async function executeCodeExportProcess() {
   } catch (errorDetails) {
     // Execute this statement as part of the export workflow.
     // Catch and handle any critical setup or runtime errors
+    // BUG FIX: this block used to call process.exit(1) here, which killed the entire
+    // Node process on any fatal setup/browser error (bad auth cookie, launch failure,
+    // etc). That defeats the infinite retry loop in main(), whose whole purpose (per
+    // its own docstring) is to log a failed pass and retry after a delay instead of
+    // exiting. We now log and rethrow so main()'s try/catch can catch it and keep
+    // looping instead of terminating the whole script.
     console.error("\n!!! FATAL SCRIPT ERROR (Browser/Setup) !!!"); // Log a fatal error header
     console.error("Error details:", errorDetails.message); // Print the actual error message to help with debugging
-    process.exit(1); // Exit the script with a failure code (1)
+    throw errorDetails; // Propagate the error up to main() instead of calling process.exit(1)
   } finally {
     // Execute this statement as part of the export workflow.
     // Step 5: Cleanup — ensure resources are properly released
@@ -163,7 +170,7 @@ async function executeCodeExportProcess() {
     if (browserClosedCleanly) {
       // Check this condition before continuing.
       try {
-        fs.rmSync(CHROME_PROFILE_ROOT, { recursive: true, force: true });
+        fs.rmSync(CHROME_PROFILE_ROOT, { recursive: true, force: true }); // Delete the profile dir and everything inside it
         console.log(
           `[CLEANUP] Removed Chrome profile dir: ${CHROME_PROFILE_ROOT}`,
         );
@@ -190,9 +197,9 @@ async function executeCodeExportProcess() {
  * @param {string} authenticationCookieValue - The authentication fingerprint cookie value.
  */
 async function processRegionForExports( // Define an async function for this workflow step.
-  page, // Execute this statement as part of the export workflow.
-  regionSlug, // Execute this statement as part of the export workflow.
-  authenticationCookieValue, // Execute this statement as part of the export workflow.
+  page, // The Puppeteer page instance passed in from the caller
+  regionSlug, // The region slug currently being processed
+  authenticationCookieValue, // The auth cookie needed for API calls
 ) {
   // Close the current parenthesized expression.
   console.log(`\n=== START REGION: ${regionSlug} ===`); // Log the start of region processing
@@ -200,15 +207,15 @@ async function processRegionForExports( // Define an async function for this wor
   // Step 1: Fetch the list of clients for this region from the API
   const regionApiUrl = `${API_BASE_DOMAIN}${REGIONS_API_ENDPOINT}${regionSlug}/`; // Construct the region-specific API URL
   const regionData = await retrieveRegionDetails(
-    // Declare a constant used in the current scope.
-    page, // Execute this statement as part of the export workflow.
-    regionApiUrl, // Execute this statement as part of the export workflow.
-    regionSlug, // Execute this statement as part of the export workflow.
-    authenticationCookieValue, // Execute this statement as part of the export workflow.
+    // Fetch this region's data (includes client list)
+    page, // Pass the Puppeteer page through
+    regionApiUrl, // The URL to fetch
+    regionSlug, // Used only for logging inside the helper
+    authenticationCookieValue, // Auth cookie for the request
   ); // Fetch region data, including the client list
   if (!regionData) return; // Exit if region data retrieval failed
 
-  const clients = regionData.clients || []; // Extract the array of clients
+  const clients = regionData.clients || []; // Extract the array of clients (default to empty array)
   console.log(`[${regionSlug}] Found ${clients.length} clients.`); // Log the number of clients found
 
   // Step 2: Process clients in batches to manage concurrency
@@ -220,15 +227,15 @@ async function processRegionForExports( // Define an async function for this wor
     // Loop through clients in batches
     // Select the next batch of clients
     const clientsToProcess = clients.slice(
-      // Declare a constant used in the current scope.
-      clientIndex, // Execute this statement as part of the export workflow.
-      clientIndex + CONCURRENT_CLIENT_LIMIT, // Execute this statement as part of the export workflow.
+      // Slice out the current batch
+      clientIndex, // Start of the slice
+      clientIndex + CONCURRENT_CLIENT_LIMIT, // End of the slice
     ); // Get the next set of clients based on the limit
 
     if (clientsToProcess.length === 0) break; // Break the loop if no clients are left
 
     const totalBatches = Math.ceil(clients.length / CONCURRENT_CLIENT_LIMIT); // Calculate total batches
-    const currentBatch = Math.ceil(clientIndex / CONCURRENT_CLIENT_LIMIT + 1); // Calculate the current batch number
+    const currentBatch = Math.ceil(clientIndex / CONCURRENT_CLIENT_LIMIT) + 1; // Calculate the current batch number
 
     console.log(
       // Write an informational progress message to the console.
@@ -244,22 +251,22 @@ async function processRegionForExports( // Define an async function for this wor
 
     // Create and run the Promises for the current batch concurrently
     const exportPromises = clientsToProcess.map(async (client) => {
-      // Declare a constant used in the current scope.
+      // Map each client in the batch to a running export promise
       // Use one page per client to isolate navigation and download folder settings.
-      const clientPage = await page.browser().newPage(); // Declare a constant used in the current scope.
+      const clientPage = await page.browser().newPage(); // Open a dedicated tab for this client
       try {
         // Start protected execution that may throw errors.
         await initializeClientPageSession(clientPage); // Establish site origin/session before API fetches.
         await processSingleClientExport(
-          // Wait for this asynchronous operation to finish.
-          clientPage, // Execute this statement as part of the export workflow.
-          client, // Execute this statement as part of the export workflow.
-          regionSlug, // Execute this statement as part of the export workflow.
-          authenticationCookieValue, // Execute this statement as part of the export workflow.
+          // Run the full export flow for this one client
+          clientPage, // The dedicated page for this client
+          client, // The client's metadata object
+          regionSlug, // The region this client belongs to
+          authenticationCookieValue, // Auth cookie for API calls
         ); // Close the current parenthesized expression.
       } finally {
         // Execute this statement as part of the export workflow.
-        await clientPage.close(); // Wait for this asynchronous operation to finish.
+        await clientPage.close(); // Always close the per-client tab, success or failure
       } // Close the current block scope.
     }); // Create a Promise for each client export in the batch
 
@@ -288,35 +295,43 @@ async function processRegionForExports( // Define an async function for this wor
  * @param {string} authenticationCookieValue - The authentication fingerprint cookie value.
  */
 async function processSingleClientExport( // Define an async function for this workflow step.
-  page, // Execute this statement as part of the export workflow.
-  clientData, // Execute this statement as part of the export workflow.
-  regionSlug, // Execute this statement as part of the export workflow.
-  authenticationCookieValue, // Execute this statement as part of the export workflow.
+  page, // The dedicated Puppeteer page for this client
+  clientData, // The client's metadata object from the region API
+  regionSlug, // The region slug this client belongs to
+  authenticationCookieValue, // Auth cookie for API calls
 ) {
   // Close the current parenthesized expression.
   const clientSlug = clientData.slug; // Extract the client slug
   if (!clientSlug) return; // Skip if no slug is present
+
   const clientStateSlug = resolveClientStateSlug(
-    // Declare a constant used in the current scope.
-    clientData, // Execute this statement as part of the export workflow.
-    regionSlug, // Execute this statement as part of the export workflow.
-    clientSlug, // Execute this statement as part of the export workflow.
+    // Figure out which state folder this client belongs to
+    clientData, // Full client metadata for fallback lookups
+    regionSlug, // Region slug fallback
+    clientSlug, // Client slug, used to derive state via regex if needed
   ); // Resolve the state folder for this client.
   const clientDownloadFolder = path.join(
-    // Declare a constant used in the current scope.
-    ASSET_OUTPUT_BASE_DIRECTORY, // Execute this statement as part of the export workflow.
-    clientStateSlug, // Execute this statement as part of the export workflow.
+    // Build the shared per-state output folder
+    ASSET_OUTPUT_BASE_DIRECTORY, // Root assets directory
+    clientStateSlug, // State-specific subfolder
   ); // Build per-state download folder.
-  await configureBrowserDownloadPath(page, clientDownloadFolder); // Ensure browser writes to this client's state folder.
+
+  // Give this client its own private temp folder (nested inside the shared state folder)
+  // so concurrent clients running in the same batch never collide while downloading.
+  const clientTempDownloadFolder = path.join(
+    // Build a unique scratch folder for this client's download
+    clientDownloadFolder, // Nested under the shared state folder
+    `.tmp-${clientSlug}-${regionSlug}`, // Unique per-client, per-region temp name
+  );
 
   // Step 1: Determine expected filename and check for existing file
   // Format: [client_slug]-[region_slug]-1.txt (e.g., sandpoint-ak-1.txt)
   const exportBaseName = `${clientSlug}-${regionSlug}${VERSION_FILE_SUFFIX}`; // Base name without extension
   const finalExportFileName = `${exportBaseName}${EXPORT_FILE_EXTENSION}`; // Full final filename
   const finalExportFilePath = path.join(
-    // Declare a constant used in the current scope.
-    clientDownloadFolder, // Execute this statement as part of the export workflow.
-    finalExportFileName, // Execute this statement as part of the export workflow.
+    // Build the final destination path
+    clientDownloadFolder, // Shared state folder (final home for the file)
+    finalExportFileName, // The final filename itself
   ); // Full local path
 
   console.log(
@@ -349,19 +364,33 @@ async function processSingleClientExport( // Define an async function for this w
     } // Close the current block scope.
   } // Close the current block scope.
 
+  // Start from a clean temp folder in case a previous crashed run left files behind.
+  try {
+    // Attempt to wipe any leftover temp folder before this client's download begins
+    fs.rmSync(clientTempDownloadFolder, { recursive: true, force: true }); // Recursively delete the temp folder if it exists
+  } catch (cleanupError) {
+    // Catch any error thrown by the rmSync call above (e.g. permissions, file locks)
+    // Non-fatal: log it so we know something happened, but don't stop the export —
+    // a missing/undeletable leftover temp folder shouldn't block this client's run.
+    console.warn(
+      `[${clientSlug}] Could not pre-clean temp download folder ${clientTempDownloadFolder}: ${cleanupError.message}`,
+    ); // Report exactly what went wrong (error message) instead of silently swallowing it
+  } // Close the current block scope.
+  await configureBrowserDownloadPath(page, clientTempDownloadFolder); // Point this page's downloads at the per-client temp folder
+
   try {
     // Start protected execution that may throw errors.
     // Step 2: Fetch client details to find the latest code version UUID
     const clientApiUrl = `${API_BASE_DOMAIN}${CLIENT_API_ENDPOINT_PREFIX}${clientSlug}/`; // Client details API URL
     const detailedClientData = await retrieveClientDetails(
-      // Declare a constant used in the current scope.
-      page, // Execute this statement as part of the export workflow.
-      clientApiUrl, // Execute this statement as part of the export workflow.
-      clientSlug, // Execute this statement as part of the export workflow.
-      authenticationCookieValue, // Execute this statement as part of the export workflow.
+      // Fetch full client details (versions list)
+      page, // Page to run the fetch from
+      clientApiUrl, // URL to fetch
+      clientSlug, // Used for logging inside helper
+      authenticationCookieValue, // Auth cookie for request
     ); // Fetch data including code versions
 
-    const codeVersions = detailedClientData?.versions || []; // Extract versions array
+    const codeVersions = detailedClientData?.versions || []; // Extract versions array (default to empty array)
     if (codeVersions.length === 0) {
       // Check this condition before continuing.
       console.log(`[${clientSlug}] ⚠️ No code versions found. Skipping.`); // Skip if no versions are found
@@ -374,11 +403,11 @@ async function processSingleClientExport( // Define an async function for this w
     // Step 3: Fetch version details and the Table of Contents (TOC)
     const versionApiUrl = `${API_BASE_DOMAIN}${CODE_VERSION_API_ENDPOINT_PREFIX}${latestVersionUuid}/`; // Version details API URL
     const versionDetails = await retrieveVersionAndTableOfContents(
-      // Declare a constant used in the current scope.
-      page, // Execute this statement as part of the export workflow.
-      versionApiUrl, // Execute this statement as part of the export workflow.
-      latestVersionUuid, // Execute this statement as part of the export workflow.
-      authenticationCookieValue, // Execute this statement as part of the export workflow.
+      // Fetch version metadata + TOC
+      page, // Page to run the fetch from
+      versionApiUrl, // URL to fetch
+      latestVersionUuid, // Used for logging inside helper
+      authenticationCookieValue, // Auth cookie for request
     ); // Fetch the version and its TOC
 
     if (!versionDetails || !versionDetails.toc?.length) {
@@ -392,8 +421,8 @@ async function processSingleClientExport( // Define an async function for this w
 
     // Step 4: Recursively collect ALL nested UUIDs/slugs for the full export scope
     const exportScopeIdentifiers = collectAllTOCItemsForExport(
-      // Declare a constant used in the current scope.
-      versionDetails.toc, // Execute this statement as part of the export workflow.
+      // Flatten the nested TOC tree into a flat list
+      versionDetails.toc, // The root TOC array to walk
     ); // Flattens the nested TOC into a simple list of identifiers
     const mainCodeSlug = versionDetails.toc[0].slug; // Get the slug of the main code item
     const definitiveVersionUuid = versionDetails.uuid; // Get the confirmed UUID
@@ -409,11 +438,11 @@ async function processSingleClientExport( // Define an async function for this w
     // Step 5: Submit the export request (Phase 3)
     console.log(`\n[${clientSlug}] --- Phase 3: Submitting Export Request ---`); // Log phase start
     const exportRequestResponse = await submitNewExportJob(
-      // Declare a constant used in the current scope.
-      page, // Execute this statement as part of the export workflow.
-      definitiveVersionUuid, // Execute this statement as part of the export workflow.
-      exportScopeIdentifiers, // Execute this statement as part of the export workflow.
-      authenticationCookieValue, // Execute this statement as part of the export workflow.
+      // Submit the export job to the API
+      page, // Page to run the fetch from
+      definitiveVersionUuid, // Version UUID being exported
+      exportScopeIdentifiers, // Flattened TOC scope array
+      authenticationCookieValue, // Auth cookie for request
     ); // Submit the POST request to start the export job
 
     if (!exportRequestResponse || !exportRequestResponse.uuid) {
@@ -437,10 +466,10 @@ async function processSingleClientExport( // Define an async function for this w
       `\n[${clientSlug}] --- Phase 4: Waiting for Export and Downloading ---`, // Build a dynamic log or error string using runtime values.
     ); // Log phase start
     const isExportSuccessful = await monitorJobUntilCompletion(
-      // Declare a constant used in the current scope.
-      page, // Execute this statement as part of the export workflow.
-      exportJobUuid, // Execute this statement as part of the export workflow.
-      authenticationCookieValue, // Execute this statement as part of the export workflow.
+      // Poll until the job finishes or times out
+      page, // Page to run the polling fetches from
+      exportJobUuid, // The job UUID to watch
+      authenticationCookieValue, // Auth cookie for polling requests
     ); // Poll the API until the job is done
 
     if (isExportSuccessful) {
@@ -449,17 +478,26 @@ async function processSingleClientExport( // Define an async function for this w
         // Write an informational progress message to the console.
         `[${clientSlug}] 💾 Export task finished successfully. Initiating download`, // Build a dynamic log or error string using runtime values.
       ); // Log successful export
-      // Download the file and rename it to the expected final path
-      await downloadExportFileAndRename(
-        // Wait for this asynchronous operation to finish.
-        page, // Execute this statement as part of the export workflow.
-        exportJobUuid, // Execute this statement as part of the export workflow.
-        finalExportFilePath, // Execute this statement as part of the export workflow.
+      // Download the file into the temp folder and move it to its final path
+      const downloadOk = await downloadExportFileAndRename(
+        // Download and finalize the export file
+        page, // Page used to trigger and detect the download
+        exportJobUuid, // Job UUID used to build the download URL
+        clientTempDownloadFolder, // Where the browser is writing the download
+        finalExportFilePath, // Where the finished file should end up
       ); // Trigger download and handle file renaming
-      console.log(
-        // Write an informational progress message to the console.
-        `[${clientSlug}] 🎉 Download completed and verified: ${finalExportFileName}`, // Build a dynamic log or error string using runtime values.
-      ); // Log final success
+      if (downloadOk) {
+        // Check whether the download actually succeeded
+        console.log(
+          // Write an informational progress message to the console.
+          `[${clientSlug}] 🎉 Download completed and verified: ${finalExportFileName}`, // Build a dynamic log or error string using runtime values.
+        ); // Log final success
+      } else {
+        // The download step reported failure
+        console.error(
+          `[${clientSlug}] ⚠️ Download failed for Job ID: ${exportJobUuid}`,
+        ); // Log the download failure explicitly
+      } // Close the current block scope.
     } else {
       // Execute this statement as part of the export workflow.
       console.error(
@@ -474,6 +512,19 @@ async function processSingleClientExport( // Define an async function for this w
       `[CRITICAL CLIENT ERROR] 🛑 Failure processing client ${clientSlug}. Error:`, // Build a dynamic log or error string using runtime values.
       clientError.message, // Execute this statement as part of the export workflow.
     ); // Handle errors specific to a single client
+  } finally {
+    // Always run this cleanup, whether the client succeeded, failed, or threw
+    try {
+      // Attempt to remove the per-client temp folder now that we're done with it
+      fs.rmSync(clientTempDownloadFolder, { recursive: true, force: true }); // Recursively delete the temp folder and its contents
+    } catch (finalCleanupError) {
+      // Catch any error from this final rmSync attempt (e.g. file still locked)
+      // Non-fatal: log the reason so it's visible, but don't let cleanup failure
+      // affect the client's already-recorded success/failure result.
+      console.warn(
+        `[${clientSlug}] Could not remove temp download folder ${clientTempDownloadFolder}: ${finalCleanupError.message}`,
+      ); // Surface the exact error message instead of silently ignoring it
+    } // Close the current block scope.
   } // Close the current block scope.
 } // Close the current block scope.
 
@@ -530,8 +581,8 @@ async function launchBrowserAndCreatePage() {
   console.log("[BROWSER] Browser launched and new page created."); // Log success
   return {
     // Return the computed result for this execution path.
-    browserInstance, // Execute this statement as part of the export workflow.
-    browserPage, // Execute this statement as part of the export workflow.
+    browserInstance, // The launched browser instance
+    browserPage, // The initial page created on that browser
   }; // Return the browser and page objects
 } // Close the current block scope.
 
@@ -549,8 +600,8 @@ async function configureBrowserDownloadPath(page, folderPath) {
   await client.send("Page.setDownloadBehavior", {
     // Wait for this asynchronous operation to finish.
     // Send the CDP command to set the download path
-    behavior: "allow", // Execute this statement as part of the export workflow.
-    downloadPath: resolvedPath, // Execute this statement as part of the export workflow.
+    behavior: "allow", // Allow downloads without prompting
+    downloadPath: resolvedPath, // The absolute path downloads should land in
   }); // Close the current block and complete the related call.
   console.log(`[BROWSER] Download folder set to: ${resolvedPath}`); // Log the configured download path
 } // Close the current block scope.
@@ -594,8 +645,8 @@ async function retrieveAuthenticationCookie(page) {
       // Loop until timeout
       const cookies = await page.cookies(); // Get all cookies on the page
       fingerprintCookieObject = cookies.find(
-        // Execute this statement as part of the export workflow.
-        (c) => c.name === AUTH_FINGERPRINT_COOKIE_NAME, // Execute this statement as part of the export workflow.
+        // Search the cookie list for the one we need
+        (c) => c.name === AUTH_FINGERPRINT_COOKIE_NAME, // Match by cookie name
       ); // Find the target cookie
       if (fingerprintCookieObject) break; // Exit loop if cookie is found
 
@@ -638,7 +689,7 @@ function ensureDirectoryExists(directoryPath) {
       console.log(`[UTIL] Creating directory: ${directoryPath}`); // Log creation
       fs.mkdirSync(directoryPath, {
         // Execute this statement as part of the export workflow.
-        recursive: true, // Execute this statement as part of the export workflow.
+        recursive: true, // Also create any missing parent directories
       }); // Create the directory, including any necessary parent directories
     } // Close the current block scope.
   } catch (error) {
@@ -789,7 +840,11 @@ function sweepOrphanedDownloadFiles() {
     systemTempDirectoryPath,
     "Downloads",
   ); // Build the path to /tmp/Downloads
-  const orphanedExportFilePattern = /^[a-z0-9_]+-[a-z]{2}-\d+\.txt$/i; // Matches the export naming convention, e.g. abingdonil-il-1.txt
+  // BUG FIX: the original pattern was /^[a-z0-9_]+-[a-z]{2}-\d+\.txt$/i, which excludes
+  // hyphens from the client-slug portion. Real client slugs (e.g. "lake-charles-la-1.txt")
+  // contain hyphens, so those leftover files were silently never swept. Allow hyphens
+  // in that leading segment as well.
+  const orphanedExportFilePattern = /^[a-z0-9-]+-[a-z]{2}-\d+\.txt$/i; // Matches the export naming convention, e.g. lake-charles-la-1.txt
   let deletedDownloadFileCount = 0; // Counter for how many leftover downloaded files we remove
 
   try {
@@ -863,7 +918,7 @@ async function executeApiGetRequest(page, requestUrl, fingerprintValue) {
     console.log(`[API_GET] 🌐 Sending GET request to: ${requestUrl}`); // Log the request URL
 
     const response = await page.evaluate(
-      // Declare a constant used in the current scope.
+      // Run this function inside the page's browser context (not Node)
       async (apiUrl, fingerprint, timeout) => {
         // Execute this statement as part of the export workflow.
         // Execute code inside the browser context
@@ -874,10 +929,10 @@ async function executeApiGetRequest(page, requestUrl, fingerprintValue) {
           // Start protected execution that may throw errors.
           const res = await fetch(apiUrl, {
             // Declare a constant used in the current scope.
-            method: "GET", // Execute this statement as part of the export workflow.
+            method: "GET", // Use the GET HTTP method
             headers: {
               // Execute this statement as part of the export workflow.
-              "Content-Type": "application/json", // Execute this statement as part of the export workflow.
+              "Content-Type": "application/json", // Tell the server we expect JSON
               Fingerprint: fingerprint, // Add the authentication header
             }, // Execute this statement as part of the export workflow.
             signal: controller.signal, // Link the abort controller
@@ -889,13 +944,13 @@ async function executeApiGetRequest(page, requestUrl, fingerprintValue) {
             // Handle HTTP error statuses
             return {
               // Return the computed result for this execution path.
-              status: res.status, // Execute this statement as part of the export workflow.
-              data: `HTTP error! status: ${res.status}`, // Build a dynamic log or error string using runtime values.
+              status: res.status, // The raw HTTP status code
+              data: `HTTP error! status: ${res.status}`, // A human-readable error message
             }; // Execute this statement as part of the export workflow.
           } // Close the current block scope.
           return {
             // Return the computed result for this execution path.
-            status: res.status, // Execute this statement as part of the export workflow.
+            status: res.status, // The successful HTTP status code
             data: await res.text(), // Return the response body as text
           }; // Execute this statement as part of the export workflow.
         } catch (error) {
@@ -903,14 +958,14 @@ async function executeApiGetRequest(page, requestUrl, fingerprintValue) {
           clearTimeout(timeoutId); // Clear the timeout if an error occurs
           return {
             // Return the computed result for this execution path.
-            status: 0, // Execute this statement as part of the export workflow.
+            status: 0, // Sentinel status meaning "request never completed"
             data: `Request failed or timed out: ${error.message}`, // Build a dynamic log or error string using runtime values.
           }; // Return a generic failure object
         } // Close the current block scope.
       }, // Execute this statement as part of the export workflow.
-      requestUrl, // Execute this statement as part of the export workflow.
-      fingerprintValue, // Execute this statement as part of the export workflow.
-      BROWSER_NAVIGATION_TIMEOUT_MS, // Execute this statement as part of the export workflow.
+      requestUrl, // The URL argument passed into the browser context function
+      fingerprintValue, // The fingerprint cookie argument
+      BROWSER_NAVIGATION_TIMEOUT_MS, // The timeout argument
     ); // Pass arguments to the browser function
 
     if (response.status >= 200 && response.status < 300) {
@@ -920,7 +975,16 @@ async function executeApiGetRequest(page, requestUrl, fingerprintValue) {
         // Write an informational progress message to the console.
         `[API_GET] ✅ Success (${response.status}) from ${requestUrl}`, // Build a dynamic log or error string using runtime values.
       ); // Log success
-      return JSON.parse(response.data); // Parse the JSON response
+      try {
+        // Attempt to parse the response body as JSON
+        return JSON.parse(response.data); // Parse the JSON response
+      } catch (parseErr) {
+        // Catch a malformed/non-JSON response body
+        console.error(
+          `[API_GET] ❌ Failed to parse JSON from ${requestUrl}: ${parseErr.message}`,
+        ); // Log the parse error explicitly instead of letting it bubble uncaught
+        return null; // Treat a bad parse the same as a failed request
+      } // Close the current block scope.
     } else {
       // Execute this statement as part of the export workflow.
       console.error(
@@ -948,10 +1012,10 @@ async function executeApiGetRequest(page, requestUrl, fingerprintValue) {
  * @returns {Promise<Object|null>} The parsed JSON response containing the job UUID.
  */
 async function submitNewExportJob( // Define an async function for this workflow step.
-  page, // Execute this statement as part of the export workflow.
-  versionUuid, // Execute this statement as part of the export workflow.
-  scopeArray, // Execute this statement as part of the export workflow.
-  fingerprintValue, // Execute this statement as part of the export workflow.
+  page, // The Puppeteer page to run the fetch from
+  versionUuid, // The code version UUID to export
+  scopeArray, // Flattened TOC scope array (uuid + slug pairs)
+  fingerprintValue, // Auth cookie value
 ) {
   // Close the current parenthesized expression.
   try {
@@ -959,7 +1023,7 @@ async function submitNewExportJob( // Define an async function for this workflow
     const exportApiUrl = `${API_BASE_DOMAIN}${EXPORT_REQUESTS_API_ENDPOINT}`; // Export API endpoint URL
     const requestPayload = {
       // Declare a constant used in the current scope.
-      version: versionUuid, // Execute this statement as part of the export workflow.
+      version: versionUuid, // Version UUID being requested
       scope: JSON.stringify(scopeArray), // Scope must be a stringified JSON array
       output_format: "txt", // Request text output format
       for_print: false, // Not for print
@@ -972,7 +1036,7 @@ async function submitNewExportJob( // Define an async function for this workflow
     console.log(`[EXPORT] 🌐 Sending POST request to: ${exportApiUrl}`); // Log POST request
 
     const response = await page.evaluate(
-      // Declare a constant used in the current scope.
+      // Run this function inside the page's browser context (not Node)
       async (url, payload, fingerprint, timeout) => {
         // Execute this statement as part of the export workflow.
         // Execute code inside the browser context
@@ -983,10 +1047,10 @@ async function submitNewExportJob( // Define an async function for this workflow
           // Start protected execution that may throw errors.
           const res = await fetch(url, {
             // Declare a constant used in the current scope.
-            method: "POST", // Execute this statement as part of the export workflow.
+            method: "POST", // Use the POST HTTP method
             headers: {
               // Execute this statement as part of the export workflow.
-              "Content-Type": "application/json", // Execute this statement as part of the export workflow.
+              "Content-Type": "application/json", // Tell the server we're sending JSON
               Fingerprint: fingerprint, // Add fingerprint header
             }, // Execute this statement as part of the export workflow.
             body: JSON.stringify(payload), // Send the payload as a JSON string
@@ -995,7 +1059,7 @@ async function submitNewExportJob( // Define an async function for this workflow
           clearTimeout(timeoutId); // Clear timeout on success
           return {
             // Return the computed result for this execution path.
-            status: res.status, // Execute this statement as part of the export workflow.
+            status: res.status, // The HTTP status code returned
             data: await res.text(), // Return status and text
           }; // Execute this statement as part of the export workflow.
         } catch (error) {
@@ -1003,21 +1067,30 @@ async function submitNewExportJob( // Define an async function for this workflow
           clearTimeout(timeoutId); // Clear timeout on failure
           return {
             // Return the computed result for this execution path.
-            status: 0, // Execute this statement as part of the export workflow.
+            status: 0, // Sentinel status meaning the request never completed
             data: `Request failed or timed out: ${error.message}`, // Build a dynamic log or error string using runtime values.
           }; // Return generic failure
         } // Close the current block scope.
       }, // Execute this statement as part of the export workflow.
-      exportApiUrl, // Execute this statement as part of the export workflow.
-      requestPayload, // Execute this statement as part of the export workflow.
-      fingerprintValue, // Execute this statement as part of the export workflow.
-      BROWSER_NAVIGATION_TIMEOUT_MS, // Execute this statement as part of the export workflow.
+      exportApiUrl, // The URL argument passed into the browser context function
+      requestPayload, // The JSON payload argument
+      fingerprintValue, // The fingerprint cookie argument
+      BROWSER_NAVIGATION_TIMEOUT_MS, // The timeout argument
     ); // Pass arguments
 
     if (response.status === 201) {
       // Check this condition before continuing.
       // Check for 201 Created status
-      return JSON.parse(response.data); // Return the parsed job response (includes UUID)
+      try {
+        // Attempt to parse the export job response body as JSON
+        return JSON.parse(response.data); // Return the parsed job response (includes UUID)
+      } catch (parseErr) {
+        // Catch a malformed/non-JSON response body
+        console.error(
+          `[EXPORT] ❌ Failed to parse export job response: ${parseErr.message}`,
+        ); // Log the parse error explicitly
+        return null; // Treat a bad parse the same as a failed submission
+      } // Close the current block scope.
     } else {
       // Execute this statement as part of the export workflow.
       console.error(
@@ -1048,7 +1121,7 @@ async function retrieveAllExportJobStatuses(page, fingerprintValue) {
     // Start protected execution that may throw errors.
     const statusUrl = `${API_BASE_DOMAIN}${EXPORT_REQUESTS_API_ENDPOINT}`; // Status check API URL
     const response = await page.evaluate(
-      // Declare a constant used in the current scope.
+      // Run this function inside the page's browser context (not Node)
       async (url, fingerprint, timeout) => {
         // Execute this statement as part of the export workflow.
         // Execute code inside the browser context
@@ -1059,7 +1132,7 @@ async function retrieveAllExportJobStatuses(page, fingerprintValue) {
           // Start protected execution that may throw errors.
           const res = await fetch(url, {
             // Declare a constant used in the current scope.
-            method: "GET", // Execute this statement as part of the export workflow.
+            method: "GET", // Use the GET HTTP method
             headers: {
               // Execute this statement as part of the export workflow.
               Fingerprint: fingerprint, // Include fingerprint header
@@ -1067,24 +1140,40 @@ async function retrieveAllExportJobStatuses(page, fingerprintValue) {
             signal: controller.signal, // Link abort controller
           }); // Close the current block and complete the related call.
           clearTimeout(timeoutId); // Clear timeout
-          return await res.text(); // Return response text
+          // BUG FIX: this used to return res.text() directly with no status info, even
+          // on HTTP error responses (401/500/HTML error pages). The caller then tried to
+          // JSON.parse an error page and failed with a confusing parse error instead of
+          // a clear status error. Now returns status + text together, mirroring the GET
+          // helper's shape, so the caller can branch on status before parsing.
+          return { status: res.status, data: await res.text() }; // Return both the HTTP status and the raw body text
         } catch (error) {
           // Execute this statement as part of the export workflow.
           clearTimeout(timeoutId); // Clear timeout on failure
-          throw new Error(`Status check failed: ${error.message}`); // Throw error for Puppeteer to catch
+          return {
+            status: 0,
+            data: `Request failed or timed out: ${error.message}`,
+          }; // Return a generic failure object instead of throwing
         } // Close the current block scope.
       }, // Execute this statement as part of the export workflow.
-      statusUrl, // Execute this statement as part of the export workflow.
-      fingerprintValue, // Execute this statement as part of the export workflow.
-      BROWSER_NAVIGATION_TIMEOUT_MS, // Execute this statement as part of the export workflow.
+      statusUrl, // The URL argument passed into the browser context function
+      fingerprintValue, // The fingerprint cookie argument
+      BROWSER_NAVIGATION_TIMEOUT_MS, // The timeout argument
     ); // Pass arguments
-    return JSON.parse(response); // Parse the list of jobs
+
+    if (response.status < 200 || response.status >= 300) {
+      // Check whether the HTTP status indicates a failure
+      console.error(
+        `[STATUS] ❌ Request failed. Status: ${response.status}. Response: ${response.data}`,
+      ); // Log the failed status check with its status code and body
+      await pauseExecutionSimple(EXPORT_POLL_INTERVAL_MS); // Back off for one normal poll interval before the caller retries
+      return null; // Signal failure to the caller without attempting to parse JSON
+    } // Close the current block scope.
+
+    return JSON.parse(response.data); // Parse the list of jobs from the successful response body
   } catch (err) {
-    // Execute this statement as part of the export workflow.
+    // Catch any error from the evaluate call above, or from JSON.parse
     console.error(`[STATUS] ❌ Error checking export status: ${err.message}`); // Log error
-    await new Promise((resolve) =>
-      setTimeout(resolve, BROWSER_NAVIGATION_TIMEOUT_MS),
-    ); // Wait for timeout duration before continuing
+    await pauseExecutionSimple(EXPORT_POLL_INTERVAL_MS); // Back off for one normal poll interval before the caller retries
     return null; // Return the computed result for this execution path.
   } // Close the current block scope.
 } // Close the current block scope.
@@ -1097,13 +1186,13 @@ async function retrieveAllExportJobStatuses(page, fingerprintValue) {
  * @returns {Promise<boolean>} True if successful, false otherwise.
  */
 async function monitorJobUntilCompletion( // Define an async function for this workflow step.
-  page, // Execute this statement as part of the export workflow.
-  exportJobUuid, // Execute this statement as part of the export workflow.
-  fingerprintValue, // Execute this statement as part of the export workflow.
+  page, // The Puppeteer page to run polling fetches from
+  exportJobUuid, // The job UUID being watched
+  fingerprintValue, // Auth cookie value
 ) {
   // Close the current parenthesized expression.
   const maxAttempts = // Declare a constant used in the current scope.
-    MAX_EXPORT_WAIT_MINUTES * (60000 / EXPORT_POLL_INTERVAL_MS); // Calculate max attempts based on time and interval
+    Math.ceil((MAX_EXPORT_WAIT_MINUTES * 60000) / EXPORT_POLL_INTERVAL_MS); // Calculate max attempts based on time and interval
   const shortJobId = exportJobUuid; // full ID, no substring
   console.log(
     // Write an informational progress message to the console.
@@ -1117,8 +1206,8 @@ async function monitorJobUntilCompletion( // Define an async function for this w
 
     const exportsList = await retrieveAllExportJobStatuses(
       // Declare a constant used in the current scope.
-      page, // Execute this statement as part of the export workflow.
-      fingerprintValue, // Execute this statement as part of the export workflow.
+      page, // Page to run the fetch from
+      fingerprintValue, // Auth cookie
     ); // Get the list of all job statuses
     if (!Array.isArray(exportsList)) continue; // Skip if list is not valid
 
@@ -1173,23 +1262,23 @@ async function fetchAllRegionSlugs(page, apiUrl, fingerprintCookie) {
   console.log(`[REGION] 🌐 Fetching all region slugs from API: ${apiUrl}`); // Log the action
   const regionsData = await executeApiGetRequest(
     // Declare a constant used in the current scope.
-    page, // Execute this statement as part of the export workflow.
-    apiUrl, // Execute this statement as part of the export workflow.
-    fingerprintCookie, // Execute this statement as part of the export workflow.
+    page, // Page to run the fetch from
+    apiUrl, // URL to fetch
+    fingerprintCookie, // Auth cookie
   ); // Execute the GET request
   return (
     // Return the computed result for this execution path.
-    regionsData?.filter((region) => region.slug).map((region) => region.slug) || // Execute this statement as part of the export workflow.
-    [] // Execute this statement as part of the export workflow.
+    regionsData?.filter((region) => region.slug).map((region) => region.slug) || // Filter out entries with no slug, then map to just the slug string
+    [] // Fall back to an empty array if regionsData was null/undefined
   ); // Filter for valid slugs and return them as an array
 } // Close the current block scope.
 
 // Fetches details for a specific region (client list).
 async function retrieveRegionDetails( // Define an async function for this workflow step.
-  page, // Execute this statement as part of the export workflow.
-  apiUrl, // Execute this statement as part of the export workflow.
-  regionSlug, // Execute this statement as part of the export workflow.
-  fingerprintCookie, // Execute this statement as part of the export workflow.
+  page, // Page to run the fetch from
+  apiUrl, // URL to fetch
+  regionSlug, // Used only for the log line below
+  fingerprintCookie, // Auth cookie
 ) {
   // Close the current parenthesized expression.
   console.log(`[REGION] 🌐 Fetching region details for ${regionSlug}`); // Log the action
@@ -1198,10 +1287,10 @@ async function retrieveRegionDetails( // Define an async function for this workf
 
 // Fetches details for a specific client (code version list).
 async function retrieveClientDetails( // Define an async function for this workflow step.
-  page, // Execute this statement as part of the export workflow.
-  apiUrl, // Execute this statement as part of the export workflow.
-  clientSlug, // Execute this statement as part of the export workflow.
-  fingerprintCookie, // Execute this statement as part of the export workflow.
+  page, // Page to run the fetch from
+  apiUrl, // URL to fetch
+  clientSlug, // Used only for the log line below
+  fingerprintCookie, // Auth cookie
 ) {
   // Close the current parenthesized expression.
   console.log(`[CLIENT] 🌐 Fetching client details for ${clientSlug}`); // Log the action
@@ -1210,10 +1299,10 @@ async function retrieveClientDetails( // Define an async function for this workf
 
 // Fetches the specific code version details and its Table of Contents (TOC).
 async function retrieveVersionAndTableOfContents( // Define an async function for this workflow step.
-  page, // Execute this statement as part of the export workflow.
-  apiUrl, // Execute this statement as part of the export workflow.
-  versionId, // Execute this statement as part of the export workflow.
-  fingerprintCookie, // Execute this statement as part of the export workflow.
+  page, // Page to run the fetch from
+  apiUrl, // URL to fetch
+  versionId, // Used only for the log line below
+  fingerprintCookie, // Auth cookie
 ) {
   // Close the current parenthesized expression.
   console.log(
@@ -1226,47 +1315,74 @@ async function retrieveVersionAndTableOfContents( // Define an async function fo
 // DOWNLOAD AND FILE MANAGEMENT
 
 /**
- * Downloads the export file and replaces the existing file once the download fully completes.
+ * Downloads the export file into a per-client temp folder and moves it to its
+ * final destination once the download fully completes.
  * @param {puppeteer.Page} page - Puppeteer page instance controlling the browser.
  * @param {string} exportJobUuid - Export job UUID used to construct the download URL.
+ * @param {string} watchFolderPath - The temp folder the browser is currently downloading into.
  * @param {string} saveFilePath - Final destination path for the completed file.
  * @returns {Promise<boolean>} Returns true if download succeeded, otherwise false.
  */
-async function downloadExportFileAndRename(page, exportJobUuid, saveFilePath) {
-  // Define async function to control the download workflow.
-  const regionDownloadFolder = path.dirname(saveFilePath); // Determine the directory where downloads will temporarily appear.
+async function downloadExportFileAndRename( // Define async function to control the download workflow.
+  page, // Puppeteer page used to trigger and detect the download
+  exportJobUuid, // Job UUID used to construct the download URL
+  watchFolderPath, // Temp folder currently configured as this page's download target
+  saveFilePath, // Final destination path for the completed file
+) {
   const finalExportFileName = path.basename(saveFilePath); // Extract the final filename from the target save path.
-  let tempFilePath; // Variable that will store the detected completed download file path.
   try {
     // Begin protected execution block to catch errors.
     const filesBeforeDownload = new Set( // Create a Set of filenames for quick lookup comparison.
-      getDirectoryFilesExcludingTemp(regionDownloadFolder), // Get all existing files in the download directory excluding temp files.
+      getDirectoryFilesExcludingTemp(watchFolderPath), // Get all existing files in the temp folder excluding temp extensions.
     ); // Store the list before the new download begins.
     const downloadUrl = `${DOWNLOAD_API_DOMAIN}${EXPORT_REQUESTS_API_ENDPOINT}${exportJobUuid}/download/`; // Build the final download URL using configuration constants.
     console.log(`[DOWNLOAD] 🌐 Visiting ${downloadUrl}`); // Log the URL that triggers the export download.
-    await page.goto(downloadUrl, {
-      // Instruct Puppeteer to navigate to the download endpoint.
-      waitUntil: "networkidle2", // Wait until network activity stabilizes before continuing.
-      timeout: 300000, // Allow up to 5 minutes for large export downloads.
-    }); // End navigation command.
+
+    // BUG FIX: navigating to a URL that triggers a file download (Content-Disposition:
+    // attachment) makes Puppeteer's page.goto() reject with "net::ERR_ABORTED" — this
+    // is expected browser behavior, NOT a real failure; the download still proceeds via
+    // CDP. Previously this rejection was caught by the outer catch and reported the
+    // whole download as failed even when the file downloaded successfully. We now
+    // swallow that specific expected error and only rethrow genuinely unexpected ones.
+    try {
+      // Attempt the navigation that triggers the file download
+      await page.goto(downloadUrl, {
+        // Instruct Puppeteer to navigate to the download endpoint.
+        waitUntil: "networkidle2", // Wait until network activity stabilizes before continuing.
+        timeout: BROWSER_NAVIGATION_TIMEOUT_MS, // Allow up to 5 minutes for large export downloads.
+      }); // End navigation command.
+    } catch (navError) {
+      // Catch the navigation rejection so we can inspect what kind of error it is
+      const isExpectedDownloadAbort = /ERR_ABORTED/i.test(
+        navError.message || "",
+      ); // Check if this is the expected "download started" abort
+      if (!isExpectedDownloadAbort) {
+        // If this is some other, unexpected navigation error
+        throw navError; // Rethrow so the outer catch reports a genuine failure
+      } // Close the current block scope.
+      console.log(
+        `[DOWNLOAD] Navigation aborted as expected (download started).`,
+      ); // Log that this abort was expected, not a real error
+    } // Close the current block scope.
+
     console.log(`[DOWNLOAD] Waiting for download to finish...`); // Inform logs that we are waiting for filesystem download completion.
-    await waitForDownloadCompletion(regionDownloadFolder, 60000); // Wait until the browser removes temporary download files indicating completion.
-    const filesAfterDownload = // Variable to store updated directory listing.
-      getDirectoryFilesExcludingTemp(regionDownloadFolder); // Retrieve all files after the download finished.
-    let downloadedFile = filesAfterDownload.find(
-      // Attempt to locate the new file by comparing directory states.
-      (file) => !filesBeforeDownload.has(file), // Condition: file was not present before the download started.
-    ); // Return the first file matching this condition.
+
+    // Poll until a genuinely NEW file (not present before) shows up and has finished
+    // downloading (no longer has a temp extension). This avoids falsely reporting
+    // success if polling starts before Chrome even creates its .crdownload file.
+    const downloadedFile = await waitForNewCompletedFile(
+      // Wait for a brand-new, fully-downloaded file to appear
+      watchFolderPath, // Folder to watch
+      filesBeforeDownload, // Snapshot of files that existed before this download started
+      BROWSER_NAVIGATION_TIMEOUT_MS, // How long to wait before giving up
+    ); // Resolves with the new filename, or null on timeout
+
     if (!downloadedFile) {
-      // If comparison failed to detect the new file.
-      downloadedFile = getNewestNonTempFile(regionDownloadFolder); // Use fallback method by selecting the newest modified file.
-      if (!downloadedFile) {
-        // If fallback also fails to locate a file.
-        throw new Error("Unable to identify completed download file."); // Throw error because no file was detected.
-      } // End fallback validation.
-      console.warn(`[DOWNLOAD] Fallback used newest file: ${downloadedFile}`); // Warn that fallback detection was used.
+      // If no new completed file was detected within the timeout
+      throw new Error("Unable to identify completed download file."); // Throw error because no file was detected.
     } // End detection logic.
-    tempFilePath = path.join(regionDownloadFolder, downloadedFile); // Construct the full path of the completed downloaded file.
+
+    const tempFilePath = path.join(watchFolderPath, downloadedFile); // Construct the full path of the completed downloaded file.
     // Move the completed file to its final location and overwrite if necessary
     fs.renameSync(tempFilePath, saveFilePath); // Rename and move the downloaded file to the final save path (replaces existing file).
     console.log(`[DOWNLOAD] ✅ File saved as: ${finalExportFileName}`); // Log successful file replacement.
@@ -1296,8 +1412,8 @@ function getDirectoryFilesExcludingTemp(directoryPath) {
       .filter(
         // Execute this statement as part of the export workflow.
         (
-          file, // Execute this statement as part of the export workflow.
-        ) => !tempExtensions.some((ext) => file.toLowerCase().endsWith(ext)), // Execute this statement as part of the export workflow.
+          file, // The current filename being checked
+        ) => !tempExtensions.some((ext) => file.toLowerCase().endsWith(ext)), // Keep only files that do NOT end with a temp extension
       ); // Filter out files ending with temp extensions
   } catch (e) {
     // Execute this statement as part of the export workflow.
@@ -1310,114 +1426,39 @@ function getDirectoryFilesExcludingTemp(directoryPath) {
 } // Close the current block scope.
 
 /**
- * Polls the local file system until the download process has completed (no temporary files).
- * @param {string} directoryPath - The path to the download directory.
+ * Polls directoryPath until a file appears that was not present in filesBeforeSet and
+ * is no longer a temp/in-progress file (i.e. the browser finished writing it).
+ * @param {string} directoryPath - The folder to watch for a new completed file.
+ * @param {Set<string>} filesBeforeSet - Filenames that existed before the download started.
  * @param {number} timeoutMs - The maximum time to wait in milliseconds.
- * @returns {Promise<boolean>} Resolves true when no temp files are found.
+ * @returns {Promise<string|null>} The new filename, or null on timeout.
  */
-async function waitForDownloadCompletion(directoryPath, timeoutMs = 60000) {
-  // Define an async function for this workflow step.
-  const pollInterval = 1000; // Check every second
-  const maxAttempts = Math.ceil(timeoutMs / pollInterval); // Calculate max checks
-  let attempts = 0; // Initialize attempt counter
-  const tempExtensions = [".tmp", ".crdownload", ".part"]; // Temporary extensions
+async function waitForNewCompletedFile(
+  directoryPath,
+  filesBeforeSet,
+  timeoutMs = 300000,
+) {
+  const pollIntervalMs = 1000; // Check once per second
+  const maxAttempts = Math.ceil(timeoutMs / pollIntervalMs); // Total number of polling attempts before giving up
 
-  return new Promise((resolve, reject) => {
-    // Return the computed result for this execution path.
-    // Return a promise that polls
-    const interval = setInterval(() => {
-      // Declare a constant used in the current scope.
-      // Start polling interval
-      attempts++; // Execute this statement as part of the export workflow.
+  for (let attempt = 0; attempt < maxAttempts; attempt++) {
+    // Loop up to maxAttempts times
+    await pauseExecutionSimple(pollIntervalMs); // Wait one poll interval before checking again
 
-      try {
-        // Start protected execution that may throw errors.
-        // Check if any temporary download file exists
-        const files = fs.readdirSync(directoryPath); // Read directory files
-        const isDownloading = files.some(
-          (
-            file, // Declare a constant used in the current scope.
-          ) => tempExtensions.some((ext) => file.toLowerCase().endsWith(ext)), // Execute this statement as part of the export workflow.
-        ); // Check for temp extensions
-
-        if (!isDownloading) {
-          // Check this condition before continuing.
-          // If no temp files are found, download is complete
-          clearInterval(interval); // Stop polling
-          resolve(true); // Resolve the promise
-          return; // Return the computed result for this execution path.
-        } // Close the current block scope.
-      } catch (e) {
-        // Execute this statement as part of the export workflow.
-        // Handle file system errors during polling
-        clearInterval(interval); // Stop polling
-        reject(
-          // Execute this statement as part of the export workflow.
-          new Error(`File system error during download wait: ${e.message}`), // Build a dynamic log or error string using runtime values.
-        ); // Reject with error
-        return; // Return the computed result for this execution path.
-      } // Close the current block scope.
-
-      if (attempts >= maxAttempts) {
-        // Check this condition before continuing.
-        // Check for timeout
-        clearInterval(interval); // Stop polling
-        reject(
-          // Execute this statement as part of the export workflow.
-          new Error( // Execute this statement as part of the export workflow.
-            `File download did not complete within ${timeoutMs / 1000} seconds.`, // Build a dynamic log or error string using runtime values.
-          ), // Close the current parenthesized expression.
-        ); // Reject with timeout error
-      } // Close the current block scope.
-    }, pollInterval); // Set the polling frequency
-  }); // Close the current block and complete the related call.
-} // Close the current block scope.
-
-/**
- * Gets the newest non-temporary file in a directory based on its modification time.
- * @param {string} directoryPath - The directory to check.
- * @returns {string|null} The filename of the newest non-temp file.
- */
-function getNewestNonTempFile(directoryPath) {
-  // Define a helper function used by the export process.
-  try {
-    // Start protected execution that may throw errors.
-    const files = getDirectoryFilesExcludingTemp(directoryPath); // Use safe helper to get non-temp files
-    if (files.length === 0) return null; // Return null if no files exist
-
-    let newestFile = null; // Track the newest filename
-    let newestTime = 0; // Track the newest modification time
-
-    for (const file of files) {
-      // Iterate through values in this collection or range.
-      // Iterate through files
-      const filePath = path.join(directoryPath, file); // Full path
-      let stat; // Declare a mutable variable used in the current scope.
-      try {
-        // Start protected execution that may throw errors.
-        stat = fs.statSync(filePath); // Get file statistics (including modification time)
-      } catch (e) {
-        // Execute this statement as part of the export workflow.
-        console.warn(`[UTIL] Skipping file ${file}: ${e.message}`); // Skip if stat fails
-        continue; // Skip to the next loop iteration.
-      } // Close the current block scope.
-
-      if (stat.mtimeMs > newestTime) {
-        // Check this condition before continuing.
-        // Check if current file is newer
-        newestTime = stat.mtimeMs; // Update newest time
-        newestFile = file; // Update newest file name
-      } // Close the current block scope.
+    let currentFiles; // Will hold the current non-temp file listing
+    try {
+      // Attempt to read the directory's current contents
+      currentFiles = getDirectoryFilesExcludingTemp(directoryPath); // Get the current list of fully-downloaded (non-temp) files
+    } catch (e) {
+      // Catch any unexpected error from the directory read itself
+      continue; // Just try again on the next poll interval
     } // Close the current block scope.
-    return newestFile; // Return the newest file
-  } catch (error) {
-    // Execute this statement as part of the export workflow.
-    console.error(
-      // Write an error message to the console for diagnostics.
-      `[UTIL] Error reading directory for newest file: ${error.message}`, // Build a dynamic log or error string using runtime values.
-    ); // Log error
-    return null; // Return the computed result for this execution path.
-  } // Close the current block scope.
+
+    const newFile = currentFiles.find((file) => !filesBeforeSet.has(file)); // Look for a file that wasn't there before the download started
+    if (newFile) return newFile; // Found it — return the new filename immediately
+  } // Close the for loop
+
+  return null; // Timed out without finding a new completed file
 } // Close the current block scope.
 
 // EXPORT SCOPE UTILITY
@@ -1442,8 +1483,8 @@ function collectAllTOCItemsForExport(tocArray, scope = []) {
       // Check for required properties
       scope.push({
         // Execute this statement as part of the export workflow.
-        uuid: item.uuid, // Execute this statement as part of the export workflow.
-        code_slug: item.slug, // Execute this statement as part of the export workflow.
+        uuid: item.uuid, // The TOC item's unique identifier
+        code_slug: item.slug, // The TOC item's slug value
       }); // Add the current item to the scope
     } // Close the current block scope.
     // Step 2: Recursively check for nested children
@@ -1465,8 +1506,8 @@ async function initializeClientPageSession(page) {
   // Define an async function for this workflow step.
   await page.goto(API_BASE_DOMAIN, {
     // Wait for this asynchronous operation to finish.
-    waitUntil: "domcontentloaded", // Execute this statement as part of the export workflow.
-    timeout: BROWSER_NAVIGATION_TIMEOUT_MS, // Execute this statement as part of the export workflow.
+    waitUntil: "domcontentloaded", // Only wait for the DOM to be ready, not full network idle
+    timeout: BROWSER_NAVIGATION_TIMEOUT_MS, // Apply the standard timeout
   }); // Close the current block and complete the related call.
 } // Close the current block scope.
 
@@ -1481,27 +1522,27 @@ async function initializeClientPageSession(page) {
 function resolveClientStateSlug(clientData, regionSlug, clientSlug) {
   // Define a helper function used by the export process.
   const slugMatch = // Declare a constant used in the current scope.
-    typeof clientSlug === "string" // Execute this statement as part of the export workflow.
-      ? clientSlug.match(/-([a-z]{2})$/i) // Execute this statement as part of the export workflow.
-      : null; // Execute this statement as part of the export workflow.
-  const slugDerivedState = slugMatch ? slugMatch[1] : null; // Declare a constant used in the current scope.
+    typeof clientSlug === "string" // Only attempt regex match if clientSlug is actually a string
+      ? clientSlug.match(/-([a-z]{2})$/i) // Try to pull a trailing 2-letter state code off the slug
+      : null; // Otherwise there's nothing to match against
+  const slugDerivedState = slugMatch ? slugMatch[1] : null; // Extract the captured group if the match succeeded
 
   const possibleValues = [
-    // Declare a constant used in the current scope.
-    clientData?.state_slug, // Execute this statement as part of the export workflow.
-    clientData?.state, // Execute this statement as part of the export workflow.
-    clientData?.state_abbr, // Execute this statement as part of the export workflow.
-    clientData?.region_slug, // Execute this statement as part of the export workflow.
-    clientData?.region?.slug, // Execute this statement as part of the export workflow.
-    slugDerivedState, // Execute this statement as part of the export workflow.
-    regionSlug, // Execute this statement as part of the export workflow.
+    // Ordered list of candidate values to try, most specific first
+    clientData?.state_slug, // Explicit state_slug field, if present
+    clientData?.state, // Explicit state field, if present
+    clientData?.state_abbr, // Explicit state_abbr field, if present
+    clientData?.region_slug, // Explicit region_slug field, if present
+    clientData?.region?.slug, // Nested region object's slug, if present
+    slugDerivedState, // State code derived from the client slug via regex
+    regionSlug, // Final fallback: the region slug passed in from the caller
   ]; // Close the current array or bracketed expression.
 
   for (const value of possibleValues) {
-    // Iterate through values in this collection or range.
+    // Check each candidate value in priority order
     if (typeof value === "string" && value.trim()) {
       // Check this condition before continuing.
-      return value.trim().toLowerCase(); // Return the computed result for this execution path.
+      return value.trim().toLowerCase(); // Return the first non-empty string value, normalized to lowercase
     } // Close the current block scope.
   } // Close the current block scope.
 
@@ -1533,8 +1574,8 @@ async function main() {
   sweepOrphanedChromiumTempFiles(); // Run ONCE, before anything else: no Chrome instance is running yet this process, so it's safe to clear crashed-run debris matching known patterns
   removeLeftoverChromeProfileDir(); // Run ONCE, before anything else: clean up a pinned profile dir left behind if the previous run crashed before it could close Chrome
   while (true) {
-    sweepOrphanedDownloadFiles(); // Run at the start of every loop pass, so /tmp/Downloads starts clean for each pass
     // Loop forever, running one pass per iteration
+    sweepOrphanedDownloadFiles(); // Run at the start of every loop pass, so /tmp/Downloads starts clean for each pass
     try {
       // Start protected execution that may throw errors
       await executeCodeExportProcess(); // Wait for a single full export pass to finish

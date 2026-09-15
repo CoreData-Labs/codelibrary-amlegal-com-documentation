@@ -4,6 +4,7 @@
 *.part
 *.download
 assets/.chrome-profile/
+.tmp-*
 
 # Logs
 logs
