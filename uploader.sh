@@ -12,7 +12,7 @@ function main() { # Define the main function that contains all script logic
 	# ---------------- Configuration ----------------
 
 	CHECK_INTERVAL_SECONDS=60     # Wait 60 seconds between each repository check
-	MIN_WAIT_SECONDS=3600         # Force push at least every 3600 seconds (60 min)
+	MIN_WAIT_SECONDS=21600        # Force push at least every 21600 seconds (6 Hour)
 	MIN_FILE_CHANGE_THRESHOLD=100 # Push early if 100+ files have changed
 
 	last_push_epoch=$(date +%s) # Store current time in seconds since Unix epoch
