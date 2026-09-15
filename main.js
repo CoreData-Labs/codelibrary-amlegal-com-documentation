@@ -132,9 +132,15 @@ async function executeCodeExportProcess() {
   } catch (errorDetails) {
     // Execute this statement as part of the export workflow.
     // Catch and handle any critical setup or runtime errors
+    // BUG FIX: this block used to call process.exit(1) here, which killed the entire
+    // Node process on any fatal setup/browser error (bad auth cookie, launch failure,
+    // etc). That defeats the infinite retry loop in main(), whose whole purpose (per
+    // its own docstring) is to log a failed pass and retry after a delay instead of
+    // exiting. We now log and rethrow so main()'s try/catch can catch it and keep
+    // looping instead of terminating the whole script.
     console.error("\n!!! FATAL SCRIPT ERROR (Browser/Setup) !!!"); // Log a fatal error header
     console.error("Error details:", errorDetails.message); // Print the actual error message to help with debugging
-    process.exit(1); // Exit the script with a failure code (1)
+    throw errorDetails; // Propagate the error up to main() instead of calling process.exit(1)
   } finally {
     // Execute this statement as part of the export workflow.
     // Step 5: Cleanup — ensure resources are properly released
@@ -834,9 +840,11 @@ function sweepOrphanedDownloadFiles() {
     systemTempDirectoryPath,
     "Downloads",
   ); // Build the path to /tmp/Downloads
-  // REVERTED (per request "reverse number 5"): back to the original, narrower pattern
-  // that does NOT allow hyphens in the client-slug portion.
-  const orphanedExportFilePattern = /^[a-z0-9_]+-[a-z]{2}-\d+\.txt$/i; // Matches the export naming convention, e.g. abingdonil_il-1.txt style names only
+  // BUG FIX: the original pattern was /^[a-z0-9_]+-[a-z]{2}-\d+\.txt$/i, which excludes
+  // hyphens from the client-slug portion. Real client slugs (e.g. "lake-charles-la-1.txt")
+  // contain hyphens, so those leftover files were silently never swept. Allow hyphens
+  // in that leading segment as well.
+  const orphanedExportFilePattern = /^[a-z0-9-]+-[a-z]{2}-\d+\.txt$/i; // Matches the export naming convention, e.g. lake-charles-la-1.txt
   let deletedDownloadFileCount = 0; // Counter for how many leftover downloaded files we remove
 
   try {
@@ -1132,18 +1140,36 @@ async function retrieveAllExportJobStatuses(page, fingerprintValue) {
             signal: controller.signal, // Link abort controller
           }); // Close the current block and complete the related call.
           clearTimeout(timeoutId); // Clear timeout
-          return await res.text(); // Return response text
+          // BUG FIX: this used to return res.text() directly with no status info, even
+          // on HTTP error responses (401/500/HTML error pages). The caller then tried to
+          // JSON.parse an error page and failed with a confusing parse error instead of
+          // a clear status error. Now returns status + text together, mirroring the GET
+          // helper's shape, so the caller can branch on status before parsing.
+          return { status: res.status, data: await res.text() }; // Return both the HTTP status and the raw body text
         } catch (error) {
           // Execute this statement as part of the export workflow.
           clearTimeout(timeoutId); // Clear timeout on failure
-          throw new Error(`Status check failed: ${error.message}`); // Throw error for Puppeteer to catch
+          return {
+            status: 0,
+            data: `Request failed or timed out: ${error.message}`,
+          }; // Return a generic failure object instead of throwing
         } // Close the current block scope.
       }, // Execute this statement as part of the export workflow.
       statusUrl, // The URL argument passed into the browser context function
       fingerprintValue, // The fingerprint cookie argument
       BROWSER_NAVIGATION_TIMEOUT_MS, // The timeout argument
     ); // Pass arguments
-    return JSON.parse(response); // Parse the list of jobs
+
+    if (response.status < 200 || response.status >= 300) {
+      // Check whether the HTTP status indicates a failure
+      console.error(
+        `[STATUS] ❌ Request failed. Status: ${response.status}. Response: ${response.data}`,
+      ); // Log the failed status check with its status code and body
+      await pauseExecutionSimple(EXPORT_POLL_INTERVAL_MS); // Back off for one normal poll interval before the caller retries
+      return null; // Signal failure to the caller without attempting to parse JSON
+    } // Close the current block scope.
+
+    return JSON.parse(response.data); // Parse the list of jobs from the successful response body
   } catch (err) {
     // Catch any error from the evaluate call above, or from JSON.parse
     console.error(`[STATUS] ❌ Error checking export status: ${err.message}`); // Log error
@@ -1311,11 +1337,34 @@ async function downloadExportFileAndRename( // Define async function to control 
     ); // Store the list before the new download begins.
     const downloadUrl = `${DOWNLOAD_API_DOMAIN}${EXPORT_REQUESTS_API_ENDPOINT}${exportJobUuid}/download/`; // Build the final download URL using configuration constants.
     console.log(`[DOWNLOAD] 🌐 Visiting ${downloadUrl}`); // Log the URL that triggers the export download.
-    await page.goto(downloadUrl, {
-      // Instruct Puppeteer to navigate to the download endpoint.
-      waitUntil: "networkidle2", // Wait until network activity stabilizes before continuing.
-      timeout: BROWSER_NAVIGATION_TIMEOUT_MS, // Allow up to 5 minutes for large export downloads.
-    }); // End navigation command.
+
+    // BUG FIX: navigating to a URL that triggers a file download (Content-Disposition:
+    // attachment) makes Puppeteer's page.goto() reject with "net::ERR_ABORTED" — this
+    // is expected browser behavior, NOT a real failure; the download still proceeds via
+    // CDP. Previously this rejection was caught by the outer catch and reported the
+    // whole download as failed even when the file downloaded successfully. We now
+    // swallow that specific expected error and only rethrow genuinely unexpected ones.
+    try {
+      // Attempt the navigation that triggers the file download
+      await page.goto(downloadUrl, {
+        // Instruct Puppeteer to navigate to the download endpoint.
+        waitUntil: "networkidle2", // Wait until network activity stabilizes before continuing.
+        timeout: BROWSER_NAVIGATION_TIMEOUT_MS, // Allow up to 5 minutes for large export downloads.
+      }); // End navigation command.
+    } catch (navError) {
+      // Catch the navigation rejection so we can inspect what kind of error it is
+      const isExpectedDownloadAbort = /ERR_ABORTED/i.test(
+        navError.message || "",
+      ); // Check if this is the expected "download started" abort
+      if (!isExpectedDownloadAbort) {
+        // If this is some other, unexpected navigation error
+        throw navError; // Rethrow so the outer catch reports a genuine failure
+      } // Close the current block scope.
+      console.log(
+        `[DOWNLOAD] Navigation aborted as expected (download started).`,
+      ); // Log that this abort was expected, not a real error
+    } // Close the current block scope.
+
     console.log(`[DOWNLOAD] Waiting for download to finish...`); // Inform logs that we are waiting for filesystem download completion.
 
     // Poll until a genuinely NEW file (not present before) shows up and has finished
