@@ -45,6 +45,13 @@ const DELAY_BETWEEN_LOOPS_MS = 30 * 60000; // Set the wait time between passes t
 // const REGION_START_PERCENT = generateRandomNumber(); // Generates a random number between 0 and 100 to determine where to start in the list.
 const REGION_START_PERCENT = 0; // Choose a starting percentage between 0 and 99.
 
+// SHARED CACHES (per-pass) — used to avoid firing the same HTTP request multiple times.
+// These are reset at the start of every pass inside executeCodeExportProcess() so stale
+// data from a previous pass never leaks into the next one.
+let sharedExportStatusCache = { list: null, fetchedAtMs: 0 }; // Cache of the last fetched full export-job-status list, shared by every concurrently-polling client this pass
+let sharedExportStatusFetchInFlight = null; // The in-flight shared fetch Promise, so concurrent callers await the SAME request instead of firing duplicate ones
+let sharedExportStatusPage = null; // The single, long-lived page used for the shared status fetch (the main pass-level page, never a per-client page that might close mid-fetch)
+
 // Main function to orchestrate the entire code export process
 async function executeCodeExportProcess() {
   // Define an async function for this workflow step.
@@ -60,6 +67,12 @@ async function executeCodeExportProcess() {
     // Launch a new browser instance and create a fresh page for automation
     ({ browserInstance, browserPage } = await launchBrowserAndCreatePage()); // Destructure returned objects
 
+    // Reset all shared per-pass caches at the start of every pass, so nothing from a
+    // previous pass (which used a now-closed browser/page) can leak in and get reused.
+    sharedExportStatusCache = { list: null, fetchedAtMs: 0 }; // Clear any cached job-status list from a previous pass
+    sharedExportStatusFetchInFlight = null; // Clear any dangling in-flight-fetch reference from a previous pass
+    sharedExportStatusPage = browserPage; // Route this pass's shared/cached job-status fetches through the long-lived main page
+
     // Step 2: Authentication and Setup
     console.log("\n--- Phase 1: Authentication and Region Discovery ---"); // Log the start of authentication and region setup phase
 
@@ -68,9 +81,16 @@ async function executeCodeExportProcess() {
       await retrieveAuthenticationCookie(browserPage); // Get login/session cookie value
 
     // Step 3: Fetch all regions that need to be processed from the API
+    // CALL-REDUCTION: this is now the ONLY call to the region-slug API for the entire
+    // pass. The resulting array (regionIdentifiers) is cached in this local variable and
+    // reused for BOTH the region-processing loop below AND every Downloads-folder sweep
+    // this pass (see the sweepOrphanedDownloadFiles() calls below and inside
+    // processRegionForExports()) — previously each of those sites re-fetched the same
+    // region list from the API on its own, meaning N+2 identical HTTP requests per pass
+    // instead of 1.
     const regionsApiUrl = `${API_BASE_DOMAIN}${REGIONS_API_ENDPOINT}`; // Construct the complete API URL for region data
     const regionIdentifiers = await fetchAllRegionSlugs(
-      // Fetch region slugs using the auth cookie
+      // Fetch region slugs using the auth cookie — the single source of truth for this pass
       browserPage, // The Puppeteer page instance
       regionsApiUrl, // The full API endpoint for fetching region slugs
       authenticationCookieValue, // Auth cookie for authorized requests
@@ -80,6 +100,10 @@ async function executeCodeExportProcess() {
       // Write an informational progress message to the console.
       `[Phase 1 Complete] Found ${regionIdentifiers.length} regions to process.`, // Build a dynamic log or error string using runtime values.
     ); // Log the total number of regions found
+
+    // Sweep /tmp/Downloads now, reusing the region slug list we already have cached in
+    // regionIdentifiers — no separate API call needed for this sweep.
+    sweepOrphanedDownloadFiles(regionIdentifiers); // Clean any leftover export files using the cached region slug list
 
     // === Determine processing order based on percentage ===
     let regionsToProcess; // Declare a variable to hold the ordered list of regions
@@ -123,6 +147,7 @@ async function executeCodeExportProcess() {
         browserPage, // The Puppeteer page for web interactions
         regionSlug, // The specific region slug to process
         authenticationCookieValue, // The authentication cookie for authorized requests
+        regionIdentifiers, // Pass the already-fetched region slug list through, so the per-region Downloads sweep never re-fetches it
       ); // Perform the export process for this region
     } // Close the current block scope.
 
@@ -132,12 +157,11 @@ async function executeCodeExportProcess() {
   } catch (errorDetails) {
     // Execute this statement as part of the export workflow.
     // Catch and handle any critical setup or runtime errors
-    // BUG FIX: this block used to call process.exit(1) here, which killed the entire
-    // Node process on any fatal setup/browser error (bad auth cookie, launch failure,
-    // etc). That defeats the infinite retry loop in main(), whose whole purpose (per
-    // its own docstring) is to log a failed pass and retry after a delay instead of
-    // exiting. We now log and rethrow so main()'s try/catch can catch it and keep
-    // looping instead of terminating the whole script.
+    // This block used to call process.exit(1) here, which killed the entire Node
+    // process on any fatal setup/browser error. That defeats the infinite retry loop in
+    // main(), whose whole purpose (per its own docstring) is to log a failed pass and
+    // retry after a delay instead of exiting. We now log the full error and rethrow so
+    // main()'s try/catch can catch it and keep looping instead of terminating the script.
     console.error("\n!!! FATAL SCRIPT ERROR (Browser/Setup) !!!"); // Log a fatal error header
     console.error("Error details:", errorDetails.message); // Print the actual error message to help with debugging
     throw errorDetails; // Propagate the error up to main() instead of calling process.exit(1)
@@ -157,7 +181,7 @@ async function executeCodeExportProcess() {
         // Execute this statement as part of the export workflow.
         console.warn(
           `[CLEANUP] Browser did not close cleanly: ${closeError.message}`,
-        ); // Log that the close attempt itself failed
+        ); // Log exactly what went wrong closing the browser
       } // Close the current block scope.
     } // Close the current block scope.
 
@@ -174,10 +198,10 @@ async function executeCodeExportProcess() {
         console.log(
           `[CLEANUP] Removed Chrome profile dir: ${CHROME_PROFILE_ROOT}`,
         );
-      } catch (error) {
+      } catch (cleanupError) {
         console.warn(
-          `[CLEANUP] Could not remove Chrome profile dir: ${error.message}`,
-        );
+          `[CLEANUP] Could not remove Chrome profile dir: ${cleanupError.message}`,
+        ); // Log exactly what went wrong deleting the profile directory
       } // Close the current block scope.
     } else {
       // Execute this statement as part of the export workflow.
@@ -185,6 +209,12 @@ async function executeCodeExportProcess() {
         `[CLEANUP] Skipping Chrome profile dir removal — browser did not close cleanly this pass.`,
       ); // Log that we're intentionally leaving the profile dir in place
     } // Close the current block scope.
+
+    // Also clear the shared job-status page reference now that the browser (and its
+    // pages) is gone — leaving a dangling reference around risks a future call trying
+    // to evaluate() on a closed page if something ever calls the cache function outside
+    // of an active pass.
+    sharedExportStatusPage = null; // Drop the reference to the now-closed (or about-to-close) page
   } // Close the current block scope.
 } // Close the current block scope.
 
@@ -195,11 +225,13 @@ async function executeCodeExportProcess() {
  * @param {puppeteer.Page} page - The Puppeteer page instance.
  * @param {string} regionSlug - The slug identifier for the region.
  * @param {string} authenticationCookieValue - The authentication fingerprint cookie value.
+ * @param {Array<string>} knownRegionSlugsForSweep - The full region slug list, already fetched once this pass, reused here so the Downloads sweep doesn't re-fetch it.
  */
 async function processRegionForExports( // Define an async function for this workflow step.
   page, // The Puppeteer page instance passed in from the caller
   regionSlug, // The region slug currently being processed
   authenticationCookieValue, // The auth cookie needed for API calls
+  knownRegionSlugsForSweep, // The pass-level cached region slug list, reused for the end-of-region sweep below
 ) {
   // Close the current parenthesized expression.
   console.log(`\n=== START REGION: ${regionSlug} ===`); // Log the start of region processing
@@ -207,7 +239,7 @@ async function processRegionForExports( // Define an async function for this wor
   // Step 1: Fetch the list of clients for this region from the API
   const regionApiUrl = `${API_BASE_DOMAIN}${REGIONS_API_ENDPOINT}${regionSlug}/`; // Construct the region-specific API URL
   const regionData = await retrieveRegionDetails(
-    // Fetch this region's data (includes client list)
+    // Fetch this region's data (includes client list) — one call per region, not reducible since each region has different data
     page, // Pass the Puppeteer page through
     regionApiUrl, // The URL to fetch
     regionSlug, // Used only for logging inside the helper
@@ -246,11 +278,17 @@ async function processRegionForExports( // Define an async function for this wor
       // Compose a multi-line template literal listing batch client count and slugs.
       `[${regionSlug}] Processing ${
         clientsToProcess.length
-      } client(s): ${clientsToProcess.map((c) => c.slug).join(" and ")}`, // Finish the client list template string for this batch log.
+      } client(s): ${clientsToProcess.map((clientEntry) => clientEntry.slug).join(" and ")}`, // Finish the client list template string for this batch log.
     ); // List the clients in the current batch
 
-    // Create and run the Promises for the current batch concurrently
-    const exportPromises = clientsToProcess.map(async (client) => {
+    // Create and run the Promises for the current batch concurrently.
+    // NOTE ON CALL-REDUCTION: these clients run concurrently and each independently
+    // polls export job status every EXPORT_POLL_INTERVAL_MS. Rather than each client
+    // hitting the export-status API on its own timer (doubling requests whenever two
+    // clients' poll timers overlap), monitorJobUntilCompletion() now routes through a
+    // single shared, cached fetch (see getExportJobStatusesWithCache()) so overlapping
+    // polls within the same interval window reuse one response instead of firing two.
+    const exportPromises = clientsToProcess.map(async (clientEntry) => {
       // Map each client in the batch to a running export promise
       // Use one page per client to isolate navigation and download folder settings.
       const clientPage = await page.browser().newPage(); // Open a dedicated tab for this client
@@ -260,10 +298,17 @@ async function processRegionForExports( // Define an async function for this wor
         await processSingleClientExport(
           // Run the full export flow for this one client
           clientPage, // The dedicated page for this client
-          client, // The client's metadata object
+          clientEntry, // The client's metadata object
           regionSlug, // The region this client belongs to
           authenticationCookieValue, // Auth cookie for API calls
         ); // Close the current parenthesized expression.
+      } catch (perClientPageError) {
+        // Catch any error escaping processSingleClientExport unexpectedly (it already
+        // has its own try/catch, but this is a safety net so a bug there can never take
+        // down the whole batch via Promise.all).
+        console.error(
+          `[${regionSlug}] 🛑 Unexpected error while processing client "${clientEntry.slug}": ${perClientPageError.message}`,
+        ); // Log exactly what went wrong for this specific client
       } finally {
         // Execute this statement as part of the export workflow.
         await clientPage.close(); // Always close the per-client tab, success or failure
@@ -284,7 +329,16 @@ async function processRegionForExports( // Define an async function for this wor
   // landed there (e.g. from a page whose download path briefly fell back to the
   // default before configureBrowserDownloadPath() finished applying), so they don't
   // linger or get picked up mistakenly by a later region's processing.
-  sweepOrphanedDownloadFiles(); // Re-run the Downloads-only sweep after finishing this state/region
+  // CALL-REDUCTION: reuses the region slug list fetched once at the top of this pass —
+  // no new API call is made here.
+  sweepOrphanedDownloadFiles(knownRegionSlugsForSweep); // Re-run the Downloads-only sweep using the cached region slug list
+
+  // Also clear out any leftover per-client ".tmp-*" scratch folders now that every
+  // client in this region/state has finished (successfully or not). These folders are
+  // created by processSingleClientExport() while a download is in progress and are
+  // normally cleaned up in its own finally block — this is a safety net for anything
+  // that survived a crash mid-download during this region's processing.
+  removeAllOrphanedClientTempFolders(); // Sweep leftover .tmp-* client folders after this state/region
 } // Close the current block scope.
 
 /**
@@ -354,11 +408,11 @@ async function processSingleClientExport( // Define an async function for this w
         ); // Log skip reason
         return; // Skip this client
       } // Close the current block scope.
-    } catch (e) {
+    } catch (fileCheckError) {
       // Execute this statement as part of the export workflow.
       console.error(
         // Write an error message to the console for diagnostics.
-        `[${clientSlug}] Error checking file existence: ${e.message}`, // Build a dynamic log or error string using runtime values.
+        `[${clientSlug}] Error checking file existence: ${fileCheckError.message}`, // Build a dynamic log or error string using runtime values.
       ); // Close the current parenthesized expression.
       // Proceed anyway, assuming file doesn't exist if check failed
     } // Close the current block scope.
@@ -368,12 +422,12 @@ async function processSingleClientExport( // Define an async function for this w
   try {
     // Attempt to wipe any leftover temp folder before this client's download begins
     fs.rmSync(clientTempDownloadFolder, { recursive: true, force: true }); // Recursively delete the temp folder if it exists
-  } catch (cleanupError) {
+  } catch (preCleanupError) {
     // Catch any error thrown by the rmSync call above (e.g. permissions, file locks)
     // Non-fatal: log it so we know something happened, but don't stop the export —
     // a missing/undeletable leftover temp folder shouldn't block this client's run.
     console.warn(
-      `[${clientSlug}] Could not pre-clean temp download folder ${clientTempDownloadFolder}: ${cleanupError.message}`,
+      `[${clientSlug}] Could not pre-clean temp download folder ${clientTempDownloadFolder}: ${preCleanupError.message}`,
     ); // Report exactly what went wrong (error message) instead of silently swallowing it
   } // Close the current block scope.
   await configureBrowserDownloadPath(page, clientTempDownloadFolder); // Point this page's downloads at the per-client temp folder
@@ -383,7 +437,7 @@ async function processSingleClientExport( // Define an async function for this w
     // Step 2: Fetch client details to find the latest code version UUID
     const clientApiUrl = `${API_BASE_DOMAIN}${CLIENT_API_ENDPOINT_PREFIX}${clientSlug}/`; // Client details API URL
     const detailedClientData = await retrieveClientDetails(
-      // Fetch full client details (versions list)
+      // Fetch full client details (versions list) — unique per client, not cacheable
       page, // Page to run the fetch from
       clientApiUrl, // URL to fetch
       clientSlug, // Used for logging inside helper
@@ -403,7 +457,7 @@ async function processSingleClientExport( // Define an async function for this w
     // Step 3: Fetch version details and the Table of Contents (TOC)
     const versionApiUrl = `${API_BASE_DOMAIN}${CODE_VERSION_API_ENDPOINT_PREFIX}${latestVersionUuid}/`; // Version details API URL
     const versionDetails = await retrieveVersionAndTableOfContents(
-      // Fetch version metadata + TOC
+      // Fetch version metadata + TOC — unique per client/version, not cacheable
       page, // Page to run the fetch from
       versionApiUrl, // URL to fetch
       latestVersionUuid, // Used for logging inside helper
@@ -438,7 +492,7 @@ async function processSingleClientExport( // Define an async function for this w
     // Step 5: Submit the export request (Phase 3)
     console.log(`\n[${clientSlug}] --- Phase 3: Submitting Export Request ---`); // Log phase start
     const exportRequestResponse = await submitNewExportJob(
-      // Submit the export job to the API
+      // Submit the export job to the API — unique per client, not cacheable
       page, // Page to run the fetch from
       definitiveVersionUuid, // Version UUID being exported
       exportScopeIdentifiers, // Flattened TOC scope array
@@ -465,9 +519,11 @@ async function processSingleClientExport( // Define an async function for this w
       // Write an informational progress message to the console.
       `\n[${clientSlug}] --- Phase 4: Waiting for Export and Downloading ---`, // Build a dynamic log or error string using runtime values.
     ); // Log phase start
+    // CALL-REDUCTION: no longer passes "page" — the export-status list is fetched
+    // through the single shared/cached pass-level page (see getExportJobStatusesWithCache()),
+    // so this per-client page is not used for the status polling network call at all.
     const isExportSuccessful = await monitorJobUntilCompletion(
       // Poll until the job finishes or times out
-      page, // Page to run the polling fetches from
       exportJobUuid, // The job UUID to watch
       authenticationCookieValue, // Auth cookie for polling requests
     ); // Poll the API until the job is done
@@ -510,7 +566,7 @@ async function processSingleClientExport( // Define an async function for this w
     console.error(
       // Write an error message to the console for diagnostics.
       `[CRITICAL CLIENT ERROR] 🛑 Failure processing client ${clientSlug}. Error:`, // Build a dynamic log or error string using runtime values.
-      clientError.message, // Execute this statement as part of the export workflow.
+      clientError.message, // Log exactly what error object/message caused this client to fail
     ); // Handle errors specific to a single client
   } finally {
     // Always run this cleanup, whether the client succeeded, failed, or threw
@@ -596,8 +652,8 @@ async function configureBrowserDownloadPath(page, folderPath) {
   // Define an async function for this workflow step.
   ensureDirectoryExists(folderPath); // Make sure the target folder exists
   const resolvedPath = path.resolve(folderPath); // Get the absolute path
-  const client = await page.target().createCDPSession(); // Create a Chrome DevTools Protocol session
-  await client.send("Page.setDownloadBehavior", {
+  const cdpSession = await page.target().createCDPSession(); // Create a Chrome DevTools Protocol session
+  await cdpSession.send("Page.setDownloadBehavior", {
     // Wait for this asynchronous operation to finish.
     // Send the CDP command to set the download path
     behavior: "allow", // Allow downloads without prompting
@@ -646,7 +702,7 @@ async function retrieveAuthenticationCookie(page) {
       const cookies = await page.cookies(); // Get all cookies on the page
       fingerprintCookieObject = cookies.find(
         // Search the cookie list for the one we need
-        (c) => c.name === AUTH_FINGERPRINT_COOKIE_NAME, // Match by cookie name
+        (cookie) => cookie.name === AUTH_FINGERPRINT_COOKIE_NAME, // Match by cookie name
       ); // Find the target cookie
       if (fingerprintCookieObject) break; // Exit loop if cookie is found
 
@@ -667,10 +723,12 @@ async function retrieveAuthenticationCookie(page) {
 
     console.log(`[AUTH] ✅ Retrieved authentication cookie.`); // Log success
     return fingerprintCookieObject.value; // Return the cookie value
-  } catch (err) {
+  } catch (authenticationError) {
     // Execute this statement as part of the export workflow.
-    console.error(`[AUTH] ❌ Critical error retrieving authentication cookie.`); // Log failure
-    throw err; // Re-throw the error to halt execution
+    console.error(
+      `[AUTH] ❌ Critical error retrieving authentication cookie: ${authenticationError.message}`,
+    ); // Log exactly what error occurred
+    throw authenticationError; // Re-throw the error to halt execution
   } // Close the current block scope.
 } // Close the current block scope.
 
@@ -692,11 +750,11 @@ function ensureDirectoryExists(directoryPath) {
         recursive: true, // Also create any missing parent directories
       }); // Create the directory, including any necessary parent directories
     } // Close the current block scope.
-  } catch (error) {
+  } catch (directoryCreationError) {
     // Execute this statement as part of the export workflow.
     console.error(
       // Write an error message to the console for diagnostics.
-      `[UTIL] Failed to create directory ${directoryPath}: ${error.message}`, // Build a dynamic log or error string using runtime values.
+      `[UTIL] Failed to create directory ${directoryPath}: ${directoryCreationError.message}`, // Build a dynamic log or error string using runtime values.
     ); // Log failure to create directory
   } // Close the current block scope.
 } // Close the current block scope.
@@ -728,14 +786,7 @@ async function pauseExecutionSimple(milliseconds) {
  * Only removes files/dirs matching known Puppeteer/Chromium temp-file naming patterns,
  * so it won't touch unrelated system or other-app temp files.
  *
- * IMPORTANT: call this exactly ONCE, before the main loop starts — never on every pass
- * (e.g. at the top of the while(true) loop). By the time a later pass starts, this
- * process's own Chrome instance from the previous pass may still be shutting down or a
- * new one may be about to spin up; blindly deleting anything matching these patterns at
- * that point risks deleting temp files an active Chrome session still needs, which can
- * crash or corrupt it. Right after process startup, before any Chrome instance in this
- * run has been launched, it's safe: anything matching these patterns can only be debris
- * from a run that's no longer alive.
+ * IMPORTANT: call this exactly ONCE, before the main loop starts — never on every pass.
  * @returns {void}
  */
 function sweepOrphanedChromiumTempFiles() {
@@ -773,10 +824,10 @@ function sweepOrphanedChromiumTempFiles() {
           // Attempt to delete this single entry (kept separate so one bad entry doesn't stop the whole sweep)
           fs.rmSync(fullEntryPath, { recursive: true, force: true }); // Delete the folder/file, including any contents inside it
           deletedItemCount++; // Increment our counter since the deletion succeeded
-        } catch (deletionError) {
+        } catch (entryDeletionError) {
           // Handle the case where this specific entry couldn't be deleted (e.g. permissions, in-use file)
           console.warn(
-            `[SWEEP] Could not remove ${fullEntryPath}: ${deletionError.message}`,
+            `[SWEEP] Could not remove ${fullEntryPath}: ${entryDeletionError.message}`,
           ); // Log a warning but keep going with the rest of the sweep
         } // End of the per-entry delete attempt
       } // End of the "name matched a pattern" check
@@ -786,10 +837,10 @@ function sweepOrphanedChromiumTempFiles() {
       // Log a final summary once the sweep finishes
       `[SWEEP] Startup cleanup complete. Removed ${deletedItemCount} orphaned Chromium temp item(s) from ${systemTempDirectoryPath}.`, // Human-readable summary of how many items were cleaned up and where
     ); // End of the summary log statement
-  } catch (scanError) {
+  } catch (directoryScanError) {
     // Handle the case where the temp directory itself couldn't even be read
     console.warn(
-      `[SWEEP] Could not scan ${systemTempDirectoryPath}: ${scanError.message}`,
+      `[SWEEP] Could not scan ${systemTempDirectoryPath}: ${directoryScanError.message}`,
     ); // Log a warning; this is non-fatal, so the script continues normally
   } // End of the outer try/catch for the whole sweep
 } // Close the current block scope.
@@ -797,9 +848,7 @@ function sweepOrphanedChromiumTempFiles() {
 /**
  * Removes the pinned Chrome profile directory (CHROME_PROFILE_ROOT) if one was left behind
  * by a previous run that crashed or was force-killed before its finally-block cleanup could
- * run (see executeCodeExportProcess()). Like sweepOrphanedChromiumTempFiles(), this must
- * only be called once, at startup, before this process has launched its own Chrome instance
- * — at that point nothing is using the directory, so it's always safe to remove.
+ * run. Only safe once, at startup, before this process has launched its own Chrome instance.
  * @returns {void}
  */
 function removeLeftoverChromeProfileDir() {
@@ -812,10 +861,112 @@ function removeLeftoverChromeProfileDir() {
         `[SWEEP] Removed leftover Chrome profile dir from a previous run: ${CHROME_PROFILE_ROOT}`,
       ); // Log that a leftover dir was found and removed
     } // Close the current block scope.
-  } catch (error) {
+  } catch (profileRemovalError) {
     // Execute this statement as part of the export workflow.
     console.warn(
-      `[SWEEP] Could not remove leftover Chrome profile dir ${CHROME_PROFILE_ROOT}: ${error.message}`,
+      `[SWEEP] Could not remove leftover Chrome profile dir ${CHROME_PROFILE_ROOT}: ${profileRemovalError.message}`,
+    ); // Log a warning; this is non-fatal, so the script continues normally
+  } // Close the current block scope.
+} // Close the current block scope.
+
+/**
+ * Recursively removes any leftover per-client temp folders (named ".tmp-*") found
+ * directly inside any state subfolder of ASSET_OUTPUT_BASE_DIRECTORY.
+ *
+ * Safe to call once at script startup, and once after a region/state finishes processing.
+ * Do NOT call this while clients in the SAME region/state may still be mid-download.
+ * @returns {void}
+ */
+function removeAllOrphanedClientTempFolders() {
+  // Define a helper function used by the export process for temp-folder cleanup.
+  let removedFolderCount = 0; // Counter tracking how many leftover temp folders we removed
+
+  try {
+    // Begin the top-level cleanup attempt, in case the assets directory can't be read
+    if (!fs.existsSync(ASSET_OUTPUT_BASE_DIRECTORY)) {
+      // If the assets directory doesn't exist yet, there's nothing to sweep
+      console.log(
+        `[SWEEP] No assets directory found at ${ASSET_OUTPUT_BASE_DIRECTORY}; nothing to sweep.`,
+      ); // Log that there was nothing to do
+      return; // Nothing further to do
+    } // Close the current block scope.
+
+    const stateFolderEntries = fs.readdirSync(ASSET_OUTPUT_BASE_DIRECTORY); // List every entry directly under the assets directory (expected to be state folders)
+
+    for (const stateFolderName of stateFolderEntries) {
+      // Loop through each entry found under the assets directory
+      const stateFolderPath = path.join(
+        ASSET_OUTPUT_BASE_DIRECTORY,
+        stateFolderName,
+      ); // Build the full path to this entry
+
+      // Skip the pinned Chrome profile directory — it lives alongside the state folders
+      // under ASSET_OUTPUT_BASE_DIRECTORY but is not a state folder and must not be scanned.
+      if (stateFolderPath === CHROME_PROFILE_ROOT) {
+        continue; // Move on to the next entry without touching the Chrome profile dir
+      } // Close the current block scope.
+
+      let stateFolderStat; // Will hold this entry's filesystem stats
+      try {
+        // Attempt to stat the entry so we can confirm it's a directory before descending
+        stateFolderStat = fs.statSync(stateFolderPath); // Get file/folder metadata for this entry
+      } catch (statError) {
+        // Catch a failed stat (e.g. broken symlink, permissions issue)
+        console.warn(
+          `[SWEEP] Could not stat ${stateFolderPath}: ${statError.message}`,
+        ); // Log exactly why the stat call failed
+        continue; // Skip this entry and move on
+      } // Close the current block scope.
+
+      if (!stateFolderStat.isDirectory()) {
+        // Only state folders (directories) are relevant here
+        continue; // Skip stray files sitting directly under the assets directory
+      } // Close the current block scope.
+
+      let entriesInsideStateFolder; // Will hold the list of entries inside this state folder
+      try {
+        // Attempt to read the contents of this state folder
+        entriesInsideStateFolder = fs.readdirSync(stateFolderPath); // List everything inside this state folder
+      } catch (folderReadError) {
+        // Catch a failed directory read (e.g. permissions issue)
+        console.warn(
+          `[SWEEP] Could not read state folder ${stateFolderPath}: ${folderReadError.message}`,
+        ); // Log exactly why the read failed
+        continue; // Skip this state folder and move on to the next one
+      } // Close the current block scope.
+
+      for (const entryNameInsideState of entriesInsideStateFolder) {
+        // Loop through each entry found inside this state folder
+        if (!entryNameInsideState.startsWith(".tmp-")) {
+          // Only entries matching the per-client temp folder naming convention are relevant
+          continue; // Skip anything that isn't one of our temp folders (e.g. finished .txt exports)
+        } // Close the current block scope.
+
+        const leftoverTempFolderPath = path.join(
+          stateFolderPath,
+          entryNameInsideState,
+        ); // Build the full path to this leftover temp folder
+
+        try {
+          // Attempt to delete this single leftover temp folder (kept separate so one bad entry doesn't stop the sweep)
+          fs.rmSync(leftoverTempFolderPath, { recursive: true, force: true }); // Recursively delete the temp folder and everything inside it
+          removedFolderCount++; // Increment our counter since the deletion succeeded
+        } catch (tempFolderDeletionError) {
+          // Handle the case where this specific folder couldn't be deleted (e.g. permissions, in-use file)
+          console.warn(
+            `[SWEEP] Could not remove leftover temp folder ${leftoverTempFolderPath}: ${tempFolderDeletionError.message}`,
+          ); // Log exactly why this particular deletion failed
+        } // Close the current block scope.
+      } // Close the loop over entries inside this state folder
+    } // Close the loop over all state folders
+
+    console.log(
+      `[SWEEP] Removed ${removedFolderCount} leftover client temp folder(s) under ${ASSET_OUTPUT_BASE_DIRECTORY}.`,
+    ); // Log a final summary of how many temp folders were cleaned up
+  } catch (assetsScanError) {
+    // Handle the case where the assets directory itself couldn't even be listed
+    console.warn(
+      `[SWEEP] Could not scan ${ASSET_OUTPUT_BASE_DIRECTORY} for leftover temp folders: ${assetsScanError.message}`,
     ); // Log a warning; this is non-fatal, so the script continues normally
   } // Close the current block scope.
 } // Close the current block scope.
@@ -824,81 +975,99 @@ function removeLeftoverChromeProfileDir() {
  * Sweeps /tmp/Downloads, which is where the browser's default download directory ends
  * up if a client page's download path was never (or only partially) configured before
  * a crash — or, mid-run, if a download briefly landed there before
- * configureBrowserDownloadPath() finished applying. Only files matching the export
- * naming convention (e.g. "abingdonil-il-1.txt") are removed, so unrelated files are
- * left alone.
+ * configureBrowserDownloadPath() finished applying.
  *
- * Unlike sweepOrphanedChromiumTempFiles(), this is safe (and intended) to call
- * repeatedly during a run — once at the start of every loop pass, and again after each
- * region/state finishes processing — since a fresh batch of matching files can appear
- * at any point.
+ * CALL-REDUCTION: this function no longer fetches the region slug list itself — it now
+ * takes the already-fetched list as a parameter (knownRegionSlugs), which the caller
+ * obtained ONCE per pass via fetchAllRegionSlugs(). That removes an entire redundant
+ * HTTP request every time this sweep runs (previously: once per pass PLUS once per
+ * region — now: zero extra HTTP requests here at all). This is why the function is
+ * fully synchronous now — it does only local filesystem work.
+ * @param {Array<string>} knownRegionSlugs - The region slug list already fetched this pass.
  * @returns {void}
  */
-function sweepOrphanedDownloadFiles() {
+function sweepOrphanedDownloadFiles(knownRegionSlugs) {
+  // No longer async — no network I/O happens in this function anymore.
   const systemTempDirectoryPath = os.tmpdir(); // Get the OS temp directory path (this is /tmp on Linux/EC2)
   const orphanedDownloadsDirectoryPath = path.join(
     systemTempDirectoryPath,
     "Downloads",
   ); // Build the path to /tmp/Downloads
-  // BUG FIX: the original pattern was /^[a-z0-9_]+-[a-z]{2}-\d+\.txt$/i, which excludes
-  // hyphens from the client-slug portion. Real client slugs (e.g. "lake-charles-la-1.txt")
-  // contain hyphens, so those leftover files were silently never swept. Allow hyphens
-  // in that leading segment as well.
-  const orphanedExportFilePattern = /^[a-z0-9-]+-[a-z]{2}-\d+\.txt$/i; // Matches the export naming convention, e.g. lake-charles-la-1.txt
   let deletedDownloadFileCount = 0; // Counter for how many leftover downloaded files we remove
 
   try {
     // Begin the Downloads cleanup attempt, in case the folder can't be read
-    if (fs.existsSync(orphanedDownloadsDirectoryPath)) {
+    if (!fs.existsSync(orphanedDownloadsDirectoryPath)) {
       // Only attempt cleanup if the folder actually exists
-      const downloadEntries = fs.readdirSync(orphanedDownloadsDirectoryPath); // List everything currently sitting in /tmp/Downloads
-
-      for (const entryName of downloadEntries) {
-        // Loop through each file/folder name found in the Downloads directory
-        const nameMatchesExportPattern =
-          orphanedExportFilePattern.test(entryName); // Check if this entry's name matches the known export filename shape
-
-        if (!nameMatchesExportPattern) {
-          // Skip anything that doesn't look like one of our export files
-          continue; // Move on to the next entry without touching this one
-        } // End of the pattern-match check
-
-        const fullEntryPath = path.join(
-          orphanedDownloadsDirectoryPath,
-          entryName,
-        ); // Build the full path to this entry
-
-        try {
-          // Attempt to delete this single entry (kept separate so one bad entry doesn't stop the whole sweep)
-          const entryStat = fs.statSync(fullEntryPath); // Check if it's a file or directory
-          if (entryStat.isFile()) {
-            // Only remove files (skip any subdirectories, just to be safe)
-            fs.rmSync(fullEntryPath, { force: true }); // Delete the leftover downloaded file
-            deletedDownloadFileCount++; // Increment our counter since the deletion succeeded
-          } // End of the isFile check
-        } catch (deletionError) {
-          // Handle the case where this specific entry couldn't be deleted (e.g. permissions, in-use file)
-          console.warn(
-            `[SWEEP] Could not remove ${fullEntryPath}: ${deletionError.message}`,
-          ); // Log a warning but keep going with the rest of the sweep
-        } // End of the per-entry delete attempt
-      } // End of the loop over all Downloads directory entries
-
-      console.log(
-        // Log a final summary once the Downloads sweep finishes
-        `[SWEEP] Cleared ${deletedDownloadFileCount} leftover export file(s) matching pattern from ${orphanedDownloadsDirectoryPath}.`, // Human-readable summary of how many export files were cleaned up and where
-      ); // End of the summary log statement
-    } else {
-      // Execute this statement if the Downloads directory doesn't exist
       console.log(
         `[SWEEP] No orphaned downloads directory found at ${orphanedDownloadsDirectoryPath}.`,
       ); // Nothing to clean up
-    } // End of the existence check
-  } catch (scanError) {
+      return; // Nothing further to do
+    } // Close the current block scope.
+
+    if (!knownRegionSlugs || knownRegionSlugs.length === 0) {
+      // If we were handed an empty/missing slug list, we have nothing reliable to match against
+      console.warn(
+        `[SWEEP] No known region slugs available; skipping Downloads sweep this pass.`,
+      ); // Log that we're skipping rather than risk deleting nothing or matching incorrectly
+      return; // Bail out without touching any files, to be safe
+    } // Close the current block scope.
+
+    // Escape any regex-special characters in each slug (defensive, in case a slug ever
+    // contains something like a dot) before building the combined matching pattern.
+    const escapedRegionSlugs = knownRegionSlugs.map(
+      (regionSlug) => regionSlug.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), // Escape regex metacharacters in this slug
+    ); // Build the escaped slug list
+
+    // Build one pattern that matches "<anything>-<one of the known region slugs>-<digits>.txt",
+    // case-insensitively — e.g. "lake-charles-la-1.txt" when "la" is a known region slug.
+    const orphanedExportFilePattern = new RegExp(
+      `^.+-(${escapedRegionSlugs.join("|")})-\\d+\\.txt$`, // Combine all known slugs into one alternation
+      "i", // Case-insensitive, matching the previous behavior
+    ); // The final compiled pattern used to test filenames
+
+    const downloadEntries = fs.readdirSync(orphanedDownloadsDirectoryPath); // List everything currently sitting in /tmp/Downloads
+
+    for (const entryName of downloadEntries) {
+      // Loop through each file/folder name found in the Downloads directory
+      const nameMatchesExportPattern =
+        orphanedExportFilePattern.test(entryName); // Check if this entry's name ends with a known region slug segment
+
+      if (!nameMatchesExportPattern) {
+        // Skip anything that doesn't correspond to a real, currently-known region slug
+        continue; // Move on to the next entry without touching this one
+      } // End of the pattern-match check
+
+      const fullEntryPath = path.join(
+        orphanedDownloadsDirectoryPath,
+        entryName,
+      ); // Build the full path to this entry
+
+      try {
+        // Attempt to delete this single entry (kept separate so one bad entry doesn't stop the whole sweep)
+        const entryStat = fs.statSync(fullEntryPath); // Check if it's a file or directory
+        if (entryStat.isFile()) {
+          // Only remove files (skip any subdirectories, just to be safe)
+          fs.rmSync(fullEntryPath, { force: true }); // Delete the leftover downloaded file
+          deletedDownloadFileCount++; // Increment our counter since the deletion succeeded
+        } // End of the isFile check
+      } catch (downloadFileDeletionError) {
+        // Handle the case where this specific entry couldn't be deleted (e.g. permissions, in-use file)
+        console.warn(
+          `[SWEEP] Could not remove ${fullEntryPath}: ${downloadFileDeletionError.message}`,
+        ); // Log exactly why this particular deletion failed
+      } // End of the per-entry delete attempt
+    } // End of the loop over all Downloads directory entries
+
+    console.log(
+      // Log a final summary once the Downloads sweep finishes
+      `[SWEEP] Cleared ${deletedDownloadFileCount} leftover export file(s) matching known region slugs from ${orphanedDownloadsDirectoryPath}.`, // Human-readable summary of how many export files were cleaned up and where
+    ); // End of the summary log statement
+  } catch (downloadsSweepError) {
     // Handle the case where the Downloads directory itself couldn't even be read
     console.warn(
-      `[SWEEP] Could not scan ${orphanedDownloadsDirectoryPath}: ${scanError.message}`,
-    ); // Log a warning; this is non-fatal, so the script continues normally
+      `[SWEEP] Could not complete Downloads sweep for ${orphanedDownloadsDirectoryPath}: ${downloadsSweepError.message}`,
+    ); // Log exactly why the sweep as a whole failed; this is non-fatal, so the script continues normally
   } // End of the outer try/catch for the Downloads sweep
 } // Close the current block scope.
 
@@ -917,17 +1086,17 @@ async function executeApiGetRequest(page, requestUrl, fingerprintValue) {
     // Start protected execution that may throw errors.
     console.log(`[API_GET] 🌐 Sending GET request to: ${requestUrl}`); // Log the request URL
 
-    const response = await page.evaluate(
+    const evaluationResult = await page.evaluate(
       // Run this function inside the page's browser context (not Node)
       async (apiUrl, fingerprint, timeout) => {
         // Execute this statement as part of the export workflow.
         // Execute code inside the browser context
-        const controller = new AbortController(); // Create an abort controller for timeouts
-        const timeoutId = setTimeout(() => controller.abort(), timeout); // Set up the timeout mechanism
+        const abortController = new AbortController(); // Create an abort controller for timeouts
+        const timeoutId = setTimeout(() => abortController.abort(), timeout); // Set up the timeout mechanism
 
         try {
           // Start protected execution that may throw errors.
-          const res = await fetch(apiUrl, {
+          const fetchResponse = await fetch(apiUrl, {
             // Declare a constant used in the current scope.
             method: "GET", // Use the GET HTTP method
             headers: {
@@ -935,31 +1104,31 @@ async function executeApiGetRequest(page, requestUrl, fingerprintValue) {
               "Content-Type": "application/json", // Tell the server we expect JSON
               Fingerprint: fingerprint, // Add the authentication header
             }, // Execute this statement as part of the export workflow.
-            signal: controller.signal, // Link the abort controller
+            signal: abortController.signal, // Link the abort controller
           }); // Close the current block and complete the related call.
           clearTimeout(timeoutId); // Clear the timeout if the request succeeds
 
-          if (!res.ok) {
+          if (!fetchResponse.ok) {
             // Check this condition before continuing.
             // Handle HTTP error statuses
             return {
               // Return the computed result for this execution path.
-              status: res.status, // The raw HTTP status code
-              data: `HTTP error! status: ${res.status}`, // A human-readable error message
+              status: fetchResponse.status, // The raw HTTP status code
+              data: `HTTP error! status: ${fetchResponse.status}`, // A human-readable error message
             }; // Execute this statement as part of the export workflow.
           } // Close the current block scope.
           return {
             // Return the computed result for this execution path.
-            status: res.status, // The successful HTTP status code
-            data: await res.text(), // Return the response body as text
+            status: fetchResponse.status, // The successful HTTP status code
+            data: await fetchResponse.text(), // Return the response body as text
           }; // Execute this statement as part of the export workflow.
-        } catch (error) {
+        } catch (browserFetchError) {
           // Execute this statement as part of the export workflow.
           clearTimeout(timeoutId); // Clear the timeout if an error occurs
           return {
             // Return the computed result for this execution path.
             status: 0, // Sentinel status meaning "request never completed"
-            data: `Request failed or timed out: ${error.message}`, // Build a dynamic log or error string using runtime values.
+            data: `Request failed or timed out: ${browserFetchError.message}`, // Build a dynamic log or error string using runtime values.
           }; // Return a generic failure object
         } // Close the current block scope.
       }, // Execute this statement as part of the export workflow.
@@ -968,20 +1137,20 @@ async function executeApiGetRequest(page, requestUrl, fingerprintValue) {
       BROWSER_NAVIGATION_TIMEOUT_MS, // The timeout argument
     ); // Pass arguments to the browser function
 
-    if (response.status >= 200 && response.status < 300) {
+    if (evaluationResult.status >= 200 && evaluationResult.status < 300) {
       // Check this condition before continuing.
       // Check for success status codes
       console.log(
         // Write an informational progress message to the console.
-        `[API_GET] ✅ Success (${response.status}) from ${requestUrl}`, // Build a dynamic log or error string using runtime values.
+        `[API_GET] ✅ Success (${evaluationResult.status}) from ${requestUrl}`, // Build a dynamic log or error string using runtime values.
       ); // Log success
       try {
         // Attempt to parse the response body as JSON
-        return JSON.parse(response.data); // Parse the JSON response
-      } catch (parseErr) {
+        return JSON.parse(evaluationResult.data); // Parse the JSON response
+      } catch (jsonParseError) {
         // Catch a malformed/non-JSON response body
         console.error(
-          `[API_GET] ❌ Failed to parse JSON from ${requestUrl}: ${parseErr.message}`,
+          `[API_GET] ❌ Failed to parse JSON from ${requestUrl}: ${jsonParseError.message}`,
         ); // Log the parse error explicitly instead of letting it bubble uncaught
         return null; // Treat a bad parse the same as a failed request
       } // Close the current block scope.
@@ -989,15 +1158,15 @@ async function executeApiGetRequest(page, requestUrl, fingerprintValue) {
       // Execute this statement as part of the export workflow.
       console.error(
         // Write an error message to the console for diagnostics.
-        `[API_GET] ❌ Request failed. Status: ${response.status}. Response: ${response.data}`, // Build a dynamic log or error string using runtime values.
+        `[API_GET] ❌ Request failed. Status: ${evaluationResult.status}. Response: ${evaluationResult.data}`, // Build a dynamic log or error string using runtime values.
       ); // Log API failure
       return null; // Return the computed result for this execution path.
     } // Close the current block scope.
-  } catch (err) {
+  } catch (getRequestError) {
     // Execute this statement as part of the export workflow.
     console.error(
       // Write an error message to the console for diagnostics.
-      `[API_GET] ❌ Error executing GET request to ${requestUrl}: ${err.message}`, // Build a dynamic log or error string using runtime values.
+      `[API_GET] ❌ Error executing GET request to ${requestUrl}: ${getRequestError.message}`, // Build a dynamic log or error string using runtime values.
     ); // Log execution error
     return null; // Return the computed result for this execution path.
   } // Close the current block scope.
@@ -1035,17 +1204,17 @@ async function submitNewExportJob( // Define an async function for this workflow
     ); // Close the current parenthesized expression.
     console.log(`[EXPORT] 🌐 Sending POST request to: ${exportApiUrl}`); // Log POST request
 
-    const response = await page.evaluate(
+    const evaluationResult = await page.evaluate(
       // Run this function inside the page's browser context (not Node)
       async (url, payload, fingerprint, timeout) => {
         // Execute this statement as part of the export workflow.
         // Execute code inside the browser context
-        const controller = new AbortController(); // Abort controller for timeout
-        const timeoutId = setTimeout(() => controller.abort(), timeout); // Set timeout
+        const abortController = new AbortController(); // Abort controller for timeout
+        const timeoutId = setTimeout(() => abortController.abort(), timeout); // Set timeout
 
         try {
           // Start protected execution that may throw errors.
-          const res = await fetch(url, {
+          const fetchResponse = await fetch(url, {
             // Declare a constant used in the current scope.
             method: "POST", // Use the POST HTTP method
             headers: {
@@ -1054,21 +1223,21 @@ async function submitNewExportJob( // Define an async function for this workflow
               Fingerprint: fingerprint, // Add fingerprint header
             }, // Execute this statement as part of the export workflow.
             body: JSON.stringify(payload), // Send the payload as a JSON string
-            signal: controller.signal, // Link abort controller
+            signal: abortController.signal, // Link abort controller
           }); // Close the current block and complete the related call.
           clearTimeout(timeoutId); // Clear timeout on success
           return {
             // Return the computed result for this execution path.
-            status: res.status, // The HTTP status code returned
-            data: await res.text(), // Return status and text
+            status: fetchResponse.status, // The HTTP status code returned
+            data: await fetchResponse.text(), // Return status and text
           }; // Execute this statement as part of the export workflow.
-        } catch (error) {
+        } catch (browserFetchError) {
           // Execute this statement as part of the export workflow.
           clearTimeout(timeoutId); // Clear timeout on failure
           return {
             // Return the computed result for this execution path.
             status: 0, // Sentinel status meaning the request never completed
-            data: `Request failed or timed out: ${error.message}`, // Build a dynamic log or error string using runtime values.
+            data: `Request failed or timed out: ${browserFetchError.message}`, // Build a dynamic log or error string using runtime values.
           }; // Return generic failure
         } // Close the current block scope.
       }, // Execute this statement as part of the export workflow.
@@ -1078,16 +1247,16 @@ async function submitNewExportJob( // Define an async function for this workflow
       BROWSER_NAVIGATION_TIMEOUT_MS, // The timeout argument
     ); // Pass arguments
 
-    if (response.status === 201) {
+    if (evaluationResult.status === 201) {
       // Check this condition before continuing.
       // Check for 201 Created status
       try {
         // Attempt to parse the export job response body as JSON
-        return JSON.parse(response.data); // Return the parsed job response (includes UUID)
-      } catch (parseErr) {
+        return JSON.parse(evaluationResult.data); // Return the parsed job response (includes UUID)
+      } catch (jsonParseError) {
         // Catch a malformed/non-JSON response body
         console.error(
-          `[EXPORT] ❌ Failed to parse export job response: ${parseErr.message}`,
+          `[EXPORT] ❌ Failed to parse export job response: ${jsonParseError.message}`,
         ); // Log the parse error explicitly
         return null; // Treat a bad parse the same as a failed submission
       } // Close the current block scope.
@@ -1095,15 +1264,15 @@ async function submitNewExportJob( // Define an async function for this workflow
       // Execute this statement as part of the export workflow.
       console.error(
         // Write an error message to the console for diagnostics.
-        `[EXPORT] ❌ Request failed. Status: ${response.status}. Response: ${response.data}`, // Build a dynamic log or error string using runtime values.
+        `[EXPORT] ❌ Request failed. Status: ${evaluationResult.status}. Response: ${evaluationResult.data}`, // Build a dynamic log or error string using runtime values.
       ); // Log POST failure
       return null; // Return the computed result for this execution path.
     } // Close the current block scope.
-  } catch (err) {
+  } catch (submitExportError) {
     // Execute this statement as part of the export workflow.
     console.error(
       // Write an error message to the console for diagnostics.
-      `[EXPORT] ❌ Error submitting export request: ${err.message}`, // Build a dynamic log or error string using runtime values.
+      `[EXPORT] ❌ Error submitting export request: ${submitExportError.message}`, // Build a dynamic log or error string using runtime values.
     ); // Log execution error
     return null; // Return the computed result for this execution path.
   } // Close the current block scope.
@@ -1120,38 +1289,38 @@ async function retrieveAllExportJobStatuses(page, fingerprintValue) {
   try {
     // Start protected execution that may throw errors.
     const statusUrl = `${API_BASE_DOMAIN}${EXPORT_REQUESTS_API_ENDPOINT}`; // Status check API URL
-    const response = await page.evaluate(
+    const evaluationResult = await page.evaluate(
       // Run this function inside the page's browser context (not Node)
       async (url, fingerprint, timeout) => {
         // Execute this statement as part of the export workflow.
         // Execute code inside the browser context
-        const controller = new AbortController(); // Abort controller
-        const timeoutId = setTimeout(() => controller.abort(), timeout); // Set timeout
+        const abortController = new AbortController(); // Abort controller
+        const timeoutId = setTimeout(() => abortController.abort(), timeout); // Set timeout
 
         try {
           // Start protected execution that may throw errors.
-          const res = await fetch(url, {
+          const fetchResponse = await fetch(url, {
             // Declare a constant used in the current scope.
             method: "GET", // Use the GET HTTP method
             headers: {
               // Execute this statement as part of the export workflow.
               Fingerprint: fingerprint, // Include fingerprint header
             }, // Execute this statement as part of the export workflow.
-            signal: controller.signal, // Link abort controller
+            signal: abortController.signal, // Link abort controller
           }); // Close the current block and complete the related call.
           clearTimeout(timeoutId); // Clear timeout
-          // BUG FIX: this used to return res.text() directly with no status info, even
-          // on HTTP error responses (401/500/HTML error pages). The caller then tried to
-          // JSON.parse an error page and failed with a confusing parse error instead of
-          // a clear status error. Now returns status + text together, mirroring the GET
-          // helper's shape, so the caller can branch on status before parsing.
-          return { status: res.status, data: await res.text() }; // Return both the HTTP status and the raw body text
-        } catch (error) {
+          // Returns both the HTTP status and the raw body text so the caller can branch
+          // on status BEFORE attempting to JSON.parse it.
+          return {
+            status: fetchResponse.status,
+            data: await fetchResponse.text(),
+          }; // Return both the HTTP status and the raw body text
+        } catch (browserFetchError) {
           // Execute this statement as part of the export workflow.
           clearTimeout(timeoutId); // Clear timeout on failure
           return {
             status: 0,
-            data: `Request failed or timed out: ${error.message}`,
+            data: `Request failed or timed out: ${browserFetchError.message}`,
           }; // Return a generic failure object instead of throwing
         } // Close the current block scope.
       }, // Execute this statement as part of the export workflow.
@@ -1160,33 +1329,110 @@ async function retrieveAllExportJobStatuses(page, fingerprintValue) {
       BROWSER_NAVIGATION_TIMEOUT_MS, // The timeout argument
     ); // Pass arguments
 
-    if (response.status < 200 || response.status >= 300) {
+    if (evaluationResult.status < 200 || evaluationResult.status >= 300) {
       // Check whether the HTTP status indicates a failure
       console.error(
-        `[STATUS] ❌ Request failed. Status: ${response.status}. Response: ${response.data}`,
+        `[STATUS] ❌ Request failed. Status: ${evaluationResult.status}. Response: ${evaluationResult.data}`,
       ); // Log the failed status check with its status code and body
-      await pauseExecutionSimple(EXPORT_POLL_INTERVAL_MS); // Back off for one normal poll interval before the caller retries
       return null; // Signal failure to the caller without attempting to parse JSON
     } // Close the current block scope.
 
-    return JSON.parse(response.data); // Parse the list of jobs from the successful response body
-  } catch (err) {
-    // Catch any error from the evaluate call above, or from JSON.parse
-    console.error(`[STATUS] ❌ Error checking export status: ${err.message}`); // Log error
-    await pauseExecutionSimple(EXPORT_POLL_INTERVAL_MS); // Back off for one normal poll interval before the caller retries
+    try {
+      // Attempt to parse the successful response body as JSON
+      return JSON.parse(evaluationResult.data); // Parse the list of jobs from the successful response body
+    } catch (jsonParseError) {
+      // Catch a malformed/non-JSON response body despite a successful HTTP status
+      console.error(
+        `[STATUS] ❌ Failed to parse job status list: ${jsonParseError.message}`,
+      ); // Log exactly why parsing failed
+      return null; // Treat a bad parse the same as a failed status check
+    } // Close the current block scope.
+  } catch (statusCheckError) {
+    // Catch any error from the evaluate call above
+    console.error(
+      `[STATUS] ❌ Error checking export status: ${statusCheckError.message}`,
+    ); // Log error
     return null; // Return the computed result for this execution path.
   } // Close the current block scope.
 } // Close the current block scope.
 
 /**
+ * Returns the full export-job-status list, sharing ONE fetch across every caller that
+ * asks within EXPORT_POLL_INTERVAL_MS of each other. This is the core CALL-REDUCTION
+ * mechanism for job-status polling: when two clients are being processed concurrently
+ * (see CONCURRENT_CLIENT_LIMIT) and both need to check status around the same time, only
+ * ONE actual HTTP request is made and both callers reuse its result, instead of each
+ * firing its own identical request.
+ *
+ * - If a cached list exists and is still fresh (younger than one poll interval), it is
+ *   returned immediately with no network call at all.
+ * - If the cache is stale but a fetch is already in flight (triggered by another
+ *   concurrent caller a moment earlier), this caller awaits that SAME fetch instead of
+ *   starting a duplicate one.
+ * - Only if neither of the above applies does this function actually issue a new HTTP
+ *   request, via retrieveAllExportJobStatuses(), routed through the single shared
+ *   pass-level page (sharedExportStatusPage) rather than any short-lived per-client page.
+ * - A failed fetch (null result) is never cached, so the next caller retries rather than
+ *   getting stuck reusing a bad result.
+ * @param {string} fingerprintValue - The authentication fingerprint cookie value.
+ * @returns {Promise<Array<Object>|null>} The (possibly cached) list of export job objects, or null on failure.
+ */
+async function getExportJobStatusesWithCache(fingerprintValue) {
+  const cacheAgeMs = Date.now() - sharedExportStatusCache.fetchedAtMs; // How long ago the cached list was fetched, in milliseconds
+
+  if (
+    sharedExportStatusCache.list !== null &&
+    cacheAgeMs < EXPORT_POLL_INTERVAL_MS
+  ) {
+    // The cache exists and is still within the poll-interval freshness window
+    return sharedExportStatusCache.list; // Reuse the cached list — no network call needed
+  } // Close the current block scope.
+
+  if (sharedExportStatusFetchInFlight) {
+    // Another caller already kicked off a fetch that hasn't resolved yet
+    return sharedExportStatusFetchInFlight; // Await that SAME promise instead of firing a duplicate request
+  } // Close the current block scope.
+
+  if (!sharedExportStatusPage) {
+    // Defensive guard: if somehow called outside of an active pass (no shared page set)
+    console.error(
+      "[STATUS] ❌ getExportJobStatusesWithCache called with no active shared page — cannot fetch export statuses.",
+    ); // Log exactly what's wrong so this is never a silent failure
+    return null; // Nothing to fetch through, so fail safely
+  } // Close the current block scope.
+
+  // Kick off exactly one new fetch, and store the in-flight promise immediately so any
+  // caller that arrives before this resolves reuses it instead of starting another.
+  sharedExportStatusFetchInFlight = (async () => {
+    try {
+      const freshExportStatusesList = await retrieveAllExportJobStatuses(
+        // Issue the single real HTTP request
+        sharedExportStatusPage, // Always use the long-lived pass-level page, never a per-client page that might close mid-fetch
+        fingerprintValue, // Auth cookie for the request
+      ); // Get the freshly fetched list (or null on failure)
+
+      if (Array.isArray(freshExportStatusesList)) {
+        // Only cache a genuinely successful result
+        sharedExportStatusCache.list = freshExportStatusesList; // Store the fresh list for reuse by future callers
+        sharedExportStatusCache.fetchedAtMs = Date.now(); // Record when this fetch completed
+      } // Close the current block scope.
+
+      return freshExportStatusesList; // Hand the result back to every awaiter of this promise
+    } finally {
+      sharedExportStatusFetchInFlight = null; // Clear the in-flight marker once this fetch settles, so the NEXT stale check can trigger a new fetch
+    } // Close the current block scope.
+  })(); // Immediately invoke and store the resulting promise
+
+  return sharedExportStatusFetchInFlight; // Return the newly-started fetch's promise to this (first) caller
+} // Close the current block scope.
+
+/**
  * Polls the export status API until the target job completes or times out.
- * @param {puppeteer.Page} page - The Puppeteer page instance.
  * @param {string} exportJobUuid - The UUID of the export job to monitor.
  * @param {string} fingerprintValue - The authentication fingerprint cookie value.
  * @returns {Promise<boolean>} True if successful, false otherwise.
  */
 async function monitorJobUntilCompletion( // Define an async function for this workflow step.
-  page, // The Puppeteer page to run polling fetches from
   exportJobUuid, // The job UUID being watched
   fingerprintValue, // Auth cookie value
 ) {
@@ -1204,14 +1450,15 @@ async function monitorJobUntilCompletion( // Define an async function for this w
     // Loop for max attempts
     await pauseExecutionWithLog(EXPORT_POLL_INTERVAL_MS); // Wait for the poll interval
 
-    const exportsList = await retrieveAllExportJobStatuses(
-      // Declare a constant used in the current scope.
-      page, // Page to run the fetch from
-      fingerprintValue, // Auth cookie
-    ); // Get the list of all job statuses
+    // CALL-REDUCTION: use the shared/cached fetch instead of calling
+    // retrieveAllExportJobStatuses() directly — if another concurrently-polling client
+    // already fetched (or is fetching) the same list within this window, we reuse it.
+    const exportsList = await getExportJobStatusesWithCache(fingerprintValue); // Get the list of all job statuses (cached/shared)
     if (!Array.isArray(exportsList)) continue; // Skip if list is not valid
 
-    const targetExport = exportsList.find((job) => job.uuid === exportJobUuid); // Find the specific job by UUID
+    const targetExport = exportsList.find(
+      (exportJob) => exportJob.uuid === exportJobUuid,
+    ); // Find the specific job by UUID
     if (!targetExport) {
       // Check this condition before continuing.
       console.log(
@@ -1338,11 +1585,9 @@ async function downloadExportFileAndRename( // Define async function to control 
     const downloadUrl = `${DOWNLOAD_API_DOMAIN}${EXPORT_REQUESTS_API_ENDPOINT}${exportJobUuid}/download/`; // Build the final download URL using configuration constants.
     console.log(`[DOWNLOAD] 🌐 Visiting ${downloadUrl}`); // Log the URL that triggers the export download.
 
-    // BUG FIX: navigating to a URL that triggers a file download (Content-Disposition:
-    // attachment) makes Puppeteer's page.goto() reject with "net::ERR_ABORTED" — this
-    // is expected browser behavior, NOT a real failure; the download still proceeds via
-    // CDP. Previously this rejection was caught by the outer catch and reported the
-    // whole download as failed even when the file downloaded successfully. We now
+    // Navigating to a URL that triggers a file download (Content-Disposition: attachment)
+    // makes Puppeteer's page.goto() reject with "net::ERR_ABORTED" — this is expected
+    // browser behavior, NOT a real failure; the download still proceeds via CDP. We
     // swallow that specific expected error and only rethrow genuinely unexpected ones.
     try {
       // Attempt the navigation that triggers the file download
@@ -1351,14 +1596,17 @@ async function downloadExportFileAndRename( // Define async function to control 
         waitUntil: "networkidle2", // Wait until network activity stabilizes before continuing.
         timeout: BROWSER_NAVIGATION_TIMEOUT_MS, // Allow up to 5 minutes for large export downloads.
       }); // End navigation command.
-    } catch (navError) {
+    } catch (navigationError) {
       // Catch the navigation rejection so we can inspect what kind of error it is
       const isExpectedDownloadAbort = /ERR_ABORTED/i.test(
-        navError.message || "",
+        navigationError.message || "",
       ); // Check if this is the expected "download started" abort
       if (!isExpectedDownloadAbort) {
         // If this is some other, unexpected navigation error
-        throw navError; // Rethrow so the outer catch reports a genuine failure
+        console.error(
+          `[DOWNLOAD] ❌ Unexpected navigation error while downloading job ${exportJobUuid}: ${navigationError.message}`,
+        ); // Log exactly what unexpected error occurred before rethrowing
+        throw navigationError; // Rethrow so the outer catch reports a genuine failure
       } // Close the current block scope.
       console.log(
         `[DOWNLOAD] Navigation aborted as expected (download started).`,
@@ -1370,28 +1618,28 @@ async function downloadExportFileAndRename( // Define async function to control 
     // Poll until a genuinely NEW file (not present before) shows up and has finished
     // downloading (no longer has a temp extension). This avoids falsely reporting
     // success if polling starts before Chrome even creates its .crdownload file.
-    const downloadedFile = await waitForNewCompletedFile(
+    const downloadedFileName = await waitForNewCompletedFile(
       // Wait for a brand-new, fully-downloaded file to appear
       watchFolderPath, // Folder to watch
       filesBeforeDownload, // Snapshot of files that existed before this download started
       BROWSER_NAVIGATION_TIMEOUT_MS, // How long to wait before giving up
     ); // Resolves with the new filename, or null on timeout
 
-    if (!downloadedFile) {
+    if (!downloadedFileName) {
       // If no new completed file was detected within the timeout
       throw new Error("Unable to identify completed download file."); // Throw error because no file was detected.
     } // End detection logic.
 
-    const tempFilePath = path.join(watchFolderPath, downloadedFile); // Construct the full path of the completed downloaded file.
+    const downloadedFilePath = path.join(watchFolderPath, downloadedFileName); // Construct the full path of the completed downloaded file.
     // Move the completed file to its final location and overwrite if necessary
-    fs.renameSync(tempFilePath, saveFilePath); // Rename and move the downloaded file to the final save path (replaces existing file).
+    fs.renameSync(downloadedFilePath, saveFilePath); // Rename and move the downloaded file to the final save path (replaces existing file).
     console.log(`[DOWNLOAD] ✅ File saved as: ${finalExportFileName}`); // Log successful file replacement.
     return true; // Return success status.
-  } catch (err) {
+  } catch (downloadError) {
     // Catch any errors that occurred during the workflow.
     console.error(
       // Print error message to logs for debugging.
-      `[DOWNLOAD] ❌ Error downloading job ${exportJobUuid}: ${err.message}`, // Include job ID and detailed error message.
+      `[DOWNLOAD] ❌ Error downloading job ${exportJobUuid}: ${downloadError.message}`, // Include job ID and detailed error message.
     ); // End error logging.
     return false; // Return failure status to the calling code.
   } // End try/catch block.
@@ -1404,7 +1652,7 @@ async function downloadExportFileAndRename( // Define async function to control 
  */
 function getDirectoryFilesExcludingTemp(directoryPath) {
   // Define a helper function used by the export process.
-  const tempExtensions = [".tmp", ".crdownload", ".part", ".download"]; // List of temporary file extensions
+  const temporaryFileExtensions = [".tmp", ".crdownload", ".part", ".download"]; // List of temporary file extensions
   try {
     // Start protected execution that may throw errors.
     return fs // Return the computed result for this execution path.
@@ -1412,14 +1660,17 @@ function getDirectoryFilesExcludingTemp(directoryPath) {
       .filter(
         // Execute this statement as part of the export workflow.
         (
-          file, // The current filename being checked
-        ) => !tempExtensions.some((ext) => file.toLowerCase().endsWith(ext)), // Keep only files that do NOT end with a temp extension
+          fileName, // The current filename being checked
+        ) =>
+          !temporaryFileExtensions.some((extension) =>
+            fileName.toLowerCase().endsWith(extension),
+          ), // Keep only files that do NOT end with a temp extension
       ); // Filter out files ending with temp extensions
-  } catch (e) {
+  } catch (directoryReadError) {
     // Execute this statement as part of the export workflow.
     console.error(
       // Write an error message to the console for diagnostics.
-      `[UTIL] Error reading directory ${directoryPath}: ${e.message}`, // Build a dynamic log or error string using runtime values.
+      `[UTIL] Error reading directory ${directoryPath}: ${directoryReadError.message}`, // Build a dynamic log or error string using runtime values.
     ); // Log directory read error
     return []; // Return the computed result for this execution path.
   } // Close the current block scope.
@@ -1449,13 +1700,18 @@ async function waitForNewCompletedFile(
     try {
       // Attempt to read the directory's current contents
       currentFiles = getDirectoryFilesExcludingTemp(directoryPath); // Get the current list of fully-downloaded (non-temp) files
-    } catch (e) {
+    } catch (directoryPollError) {
       // Catch any unexpected error from the directory read itself
+      console.warn(
+        `[DOWNLOAD] Could not poll directory ${directoryPath} for completed downloads: ${directoryPollError.message}`,
+      ); // Log the polling error before retrying on the next interval
       continue; // Just try again on the next poll interval
     } // Close the current block scope.
 
-    const newFile = currentFiles.find((file) => !filesBeforeSet.has(file)); // Look for a file that wasn't there before the download started
-    if (newFile) return newFile; // Found it — return the new filename immediately
+    const newlyDownloadedFile = currentFiles.find(
+      (fileName) => !filesBeforeSet.has(fileName),
+    ); // Look for a file that wasn't there before the download started
+    if (newlyDownloadedFile) return newlyDownloadedFile; // Found it — return the new filename immediately
   } // Close the for loop
 
   return null; // Timed out without finding a new completed file
@@ -1474,23 +1730,23 @@ function collectAllTOCItemsForExport(tocArray, scope = []) {
   // Define a helper function used by the export process.
   if (!Array.isArray(tocArray)) return scope; // Base case: return if not an array
 
-  for (const item of tocArray) {
+  for (const tocItem of tocArray) {
     // Iterate through values in this collection or range.
     // Iterate through items
     // Step 1: Add the current item's UUID and slug
-    if (item.uuid && item.slug) {
+    if (tocItem.uuid && tocItem.slug) {
       // Check this condition before continuing.
       // Check for required properties
       scope.push({
         // Execute this statement as part of the export workflow.
-        uuid: item.uuid, // The TOC item's unique identifier
-        code_slug: item.slug, // The TOC item's slug value
+        uuid: tocItem.uuid, // The TOC item's unique identifier
+        code_slug: tocItem.slug, // The TOC item's slug value
       }); // Add the current item to the scope
     } // Close the current block scope.
     // Step 2: Recursively check for nested children
-    if (item.children && Array.isArray(item.children)) {
+    if (tocItem.children && Array.isArray(tocItem.children)) {
       // Check this condition before continuing.
-      collectAllTOCItemsForExport(item.children, scope); // Recurse into children
+      collectAllTOCItemsForExport(tocItem.children, scope); // Recurse into children
     } // Close the current block scope.
   } // Close the current block scope.
   return scope; // Return the accumulated scope list
@@ -1521,13 +1777,15 @@ async function initializeClientPageSession(page) {
  */
 function resolveClientStateSlug(clientData, regionSlug, clientSlug) {
   // Define a helper function used by the export process.
-  const slugMatch = // Declare a constant used in the current scope.
+  const trailingStateCodeMatch = // Declare a constant used in the current scope.
     typeof clientSlug === "string" // Only attempt regex match if clientSlug is actually a string
       ? clientSlug.match(/-([a-z]{2})$/i) // Try to pull a trailing 2-letter state code off the slug
       : null; // Otherwise there's nothing to match against
-  const slugDerivedState = slugMatch ? slugMatch[1] : null; // Extract the captured group if the match succeeded
+  const slugDerivedState = trailingStateCodeMatch
+    ? trailingStateCodeMatch[1]
+    : null; // Extract the captured group if the match succeeded
 
-  const possibleValues = [
+  const possibleStateValues = [
     // Ordered list of candidate values to try, most specific first
     clientData?.state_slug, // Explicit state_slug field, if present
     clientData?.state, // Explicit state field, if present
@@ -1538,11 +1796,11 @@ function resolveClientStateSlug(clientData, regionSlug, clientSlug) {
     regionSlug, // Final fallback: the region slug passed in from the caller
   ]; // Close the current array or bracketed expression.
 
-  for (const value of possibleValues) {
+  for (const candidateValue of possibleStateValues) {
     // Check each candidate value in priority order
-    if (typeof value === "string" && value.trim()) {
+    if (typeof candidateValue === "string" && candidateValue.trim()) {
       // Check this condition before continuing.
-      return value.trim().toLowerCase(); // Return the first non-empty string value, normalized to lowercase
+      return candidateValue.trim().toLowerCase(); // Return the first non-empty string value, normalized to lowercase
     } // Close the current block scope.
   } // Close the current block scope.
 
@@ -1551,14 +1809,10 @@ function resolveClientStateSlug(clientData, regionSlug, clientSlug) {
 
 /**
  * Generates a random integer between 0 (inclusive) and 99 (inclusive).
- * This function is inclusive of 0 and inclusive of 99.
  * @returns {number} A random integer from 0 to 99.
  */
 function generateRandomNumber() {
   // Define a helper function used by the export process.
-  // Math.random() generates a float from [0, 1)
-  // Multiplying by 100 gives a range of [0, 100)
-  // Math.floor() rounds down, resulting in an integer from [0, 99].
   return Math.floor(Math.random() * 100); // Return the computed result for this execution path.
 } // Close the current block scope.
 
@@ -1571,18 +1825,24 @@ function generateRandomNumber() {
  */
 async function main() {
   // Define the main entry point as an async function
-  sweepOrphanedChromiumTempFiles(); // Run ONCE, before anything else: no Chrome instance is running yet this process, so it's safe to clear crashed-run debris matching known patterns
-  removeLeftoverChromeProfileDir(); // Run ONCE, before anything else: clean up a pinned profile dir left behind if the previous run crashed before it could close Chrome
+  sweepOrphanedChromiumTempFiles(); // Run ONCE, before anything else: clear crashed-run Chromium/Puppeteer debris
+  removeLeftoverChromeProfileDir(); // Run ONCE, before anything else: clean up a pinned profile dir left behind if the previous run crashed
+  removeAllOrphanedClientTempFolders(); // Run ONCE, at script startup: clears any leftover ".tmp-*" client folders from a previous crashed run
   while (true) {
     // Loop forever, running one pass per iteration
-    sweepOrphanedDownloadFiles(); // Run at the start of every loop pass, so /tmp/Downloads starts clean for each pass
+    // Note: sweepOrphanedDownloadFiles() (the /tmp/Downloads sweep) does NOT run here —
+    // it needs the region slug list, which is fetched exactly once per pass inside
+    // executeCodeExportProcess() and reused there and in every per-region sweep call.
     try {
       // Start protected execution that may throw errors
       await executeCodeExportProcess(); // Wait for a single full export pass to finish
       console.log("\n--- Pass complete. ---"); // Log that this pass finished successfully
-    } catch (err) {
+    } catch (passError) {
       // Catch any error thrown during this pass
-      console.error("Fatal error outside main execution block:", err); // Log the error details for debugging
+      console.error(
+        `Fatal error outside main execution block: ${passError.message}`,
+        passError,
+      ); // Log both the message and the full error object for diagnostics
     } // Close the current block scope
 
     console.log(
