@@ -11,7 +11,7 @@ Cincinnati, Ohio 45202
 1-800-445-5588 www.amlegal.com
 ADOPTING ORDINANCE
 BE IT ORDAINED by the City Council of Hoopeston, Illinois, that:
-ORDINANCE NO. 99-2
+***** ORDINANCE NO. 99-2 *****
 AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES OF
 THE CITY OF HOOPESTON, ILLINOIS
 WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio has
@@ -37,7 +37,7 @@ MAYOR
 ATTEST:
 Chalmers Flint /s/
 CITY CLERK
-ORDINANCE NO. 98-4
+***** ORDINANCE NO. 98-4 *****
    AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES OF
 THE CITY OF HOOPESTON, ILLINOIS.
    WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio has
@@ -63,7 +63,7 @@ Mayor
 ATTEST:
 Chalmers Flint /s/
 City Clerk
-ORDINANCE NO. 98-4
+***** ORDINANCE NO. 98-4 *****
    AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES OF
 THE CITY OF HOOPESTON, ILLINOIS.
    WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio has
@@ -89,7 +89,7 @@ Mayor
 ATTEST:
 Chalmers Flint /s/
 City Clerk
-ORDINANCE NO. 97-5
+***** ORDINANCE NO. 97-5 *****
    AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES OF
 THE CITY OF HOOPESTON, ILLINOIS.
    WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio has
@@ -115,7 +115,7 @@ Mayor
 ATTEST:
 Don Dean /s/
 City Clerk
-ORDINANCE NO. 96-4
+***** ORDINANCE NO. 96-4 *****
    AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES OF
 THE CITY OF HOOPESTON, ILLINOIS.
    WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio has
@@ -141,7 +141,7 @@ Mayor
 ATTEST:
 Don Dean /s/
 City Clerk
-ORDINANCE NO. 92-1
+***** ORDINANCE NO. 92-1 *****
    AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES OF
 THE CITY OF HOOPESTON, ILLINOIS.
    WHEREAS, American Legal Publishing corporation of Cincinnati, Ohio has
@@ -167,7 +167,7 @@ Mayor
 ATTEST:
 Don Dean
 City Clerk
-ORDINANCE NO. 93-9
+***** ORDINANCE NO. 93-9 *****
    AN ORDINANCE ENACTING AND ADOPTING A SUPPLEMENT TO THE CODE OF ORDINANCES OF
 THE CITY OF HOOPESTON.
    WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio has
@@ -3167,7 +3167,7 @@ Sections:
 2.80.030   Duties.
    
 2.80.040   Wages.
-2.80.010 Department created.
+*** 2.80.010 Department created. ***
    The city council has determined the need to consolidate the cemetery, parks
 and street and alley departments into the public works department.
 (Ord. 2025-18, § 1, 2025)
@@ -3189,7 +3189,7 @@ Chapter 2.18.
    Any employees affected by the restructuring of the various departments into
 the public works department shall not have their wages decreased.
 (Ord. 2025-18, § 1, 2025)
-TITLE 2 FOOTNOTES
+***** TITLE 2 FOOTNOTES *****
       1.   Ord. 81-36 contained two sections numbered 2.
       2.   Ord. 81-13 contained two sections numbered 2.
       3.   Fire department salaries, fees and benefits can be found on file in
@@ -5883,28 +5883,19 @@ dollars nor more than five hundred dollars.
 Chapter 5.33
 VIDEO GAMING
 Sections:
-   
-5.33.010   Applicability of provisions.
-   
-5.33.020   Definitions.
-   
-5.33.030   License.
-   
-5.33.040   License application requirements.
-   
-5.33.050   Application filing; renewals.
-   
-5.33.060   License fees.
-   
-5.33.070   License revocation or suspension.
-   
-5.33.080   Limitation on number of video gaming licenses.
-   
-5.33.090   Limitation on number of video gaming terminals on premises.
-   
-5.33.100   Licensed establishments.
-   
-5.33.110   Seizure of unauthorized gambling devices and gambling funds.
+***    5.33.010   Applicability of provisions. ***
+***    5.33.020   Definitions. ***
+***    5.33.030   License. ***
+***    5.33.040   License application requirements. ***
+***    5.33.050   Application filing; renewals. ***
+***    5.33.060   License fees. ***
+***    5.33.070   License revocation or suspension. ***
+***    5.33.080   Limitation on number of video gaming licenses. ***
+***    5.33.090   Limitation on number of video gaming terminals on premises.
+***
+***    5.33.100   Licensed establishments. ***
+***    5.33.110   Seizure of unauthorized gambling devices and gambling funds.
+***
 5.33.010 Applicability of provisions. 
    The provisions of this chapter, except as otherwise provided, shall apply to
 all video gaming as hereinafter defined, whether specifically licensed or
@@ -6258,7 +6249,7 @@ Development; Operational and Location Regulations
  
    
 5.45.99   Penalty
-General Regulations
+**** General Regulations ****
 5.45.01 Definitions.  
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -6377,7 +6368,7 @@ section may result in penalties being levied against the establishment's owner
 as described in §
 5.45.99.
 (Ord. 2007-1, 2007).
-Health and Fire Regulations
+**** Health and Fire Regulations ****
 5.45.15 Food preparation and handling.  
    All bed and breakfast establishments which serve breakfast to paid guests
 shall comply with the following minimum standards:
@@ -6506,7 +6497,7 @@ dining room; one in basement and in each workshop area. There shall be at least
 one smoke detector on each floor of the establishment, but excluding unoccupied
 attics.
 (Ord. 2007-1, 2007).
-Development; Operational and Location Regulations
+**** Development; Operational and Location Regulations ****
 5.45.25 Public housing code; BOCA.  
    For the purposes of this chapter, the public housing code as adopted in
 Chapter 15.08 shall provide guidelines for applicable development issues.
@@ -8152,7 +8143,7 @@ III. Rates and Charges
 IV. Penalty for Violation
    
 8.04.190   Designated.
-I. General Provisions
+**** I. General Provisions ****
 8.04.010 Definitions.
    For the purpose of this chapter, the following terms, phrases and words have
 the following meanings:
@@ -8216,7 +8207,7 @@ create a nuisance to any residents within the city limits, and deposited in a
 place authorized under and by the provisions of the statutes of the State of
 Illinois.
 (Ord. 2005-18, § 5, 2005; Ord. 81-18 § 5, 1980).
-Il. Collection and Disposal
+**** Il. Collection and Disposal ****
 8.04.070 General requirements.  
    Residents and any household using the water of the city will be charged for
 the collection of garbage and will meet the standards and requirements set
@@ -8298,7 +8289,7 @@ properly designated employee of the city who moves, removes, defaces, damages
 or in any way tampers with any refuse container, or the contents thereof, shall
 be guilty of a misdemeanor.
 (Prior code § 15.109).
-III. Rates and Charges
+**** III. Rates and Charges ****
 8.04.150 Designated.  
    Each dwelling unit in Hoopeston which pays for city water shall be charged
 for the collection of garbage at the rate to be determined by the city council
@@ -8337,7 +8328,7 @@ and in the conditions established in this chapter and to establish further
 rules and regulations as from time to time may be found expeditious and
 necessary.
 (Ord. 82-20 § 5, 1982: Ord. 442A § 5, 1972).
-IV. Penalty for Violation
+**** IV. Penalty for Violation ****
 8.04.190 Designated.
    Any person, firm, partnership or corporation who violates any provision or
 provisions of this chapter shall be deemed guilty of a misdemeanor and, upon
@@ -9822,7 +9813,7 @@ Article II. Fire-related Misdemeanors
 9.04.070   Disobeying firemen or police.
    
 9.04.080   Penalty for violation.
-Article I. Offenses Against Police
+**** Article I. Offenses Against Police ****
 9.04.010 Assistance to police in case of emergency. 
    It shall be the duty of every male citizen in the city between the ages of
 eighteen and fifty-five when called upon by any member of the police department
@@ -9846,7 +9837,7 @@ punished by fine as provided in Section
 obey or carry out the lawful instructions or directions of any police officer
 of the city.
 (Ord. 89-11 § 1, 1989).
-Article II. Fire-related Misdemeanors
+**** Article II. Fire-related Misdemeanors ****
 9.04.030 False alarms.  
    It is unlawful for any person, firm or corporation to knowingly make or give
 any false alarm of fire or to knowingly utter any false cry of fire within the
@@ -9927,7 +9918,7 @@ Article III. Alcoholic Beverages
 9.12.100   Containers prohibited in public places when.
    
 9.12.110   Prohibited in parks.
-Article I. Gambling and Gaming
+**** Article I. Gambling and Gaming ****
 9.12.010 Gambling prohibited.
    A.   Any person who plays for money or other valuable things at any game
 with cards, dice, checks, or at billiards, or with any article, instrument or
@@ -10024,7 +10015,7 @@ Chapter 1.12.
 article shall be subject to a fine as provided in Section
 1.12.010.
 (Prior code § 17.307).
-Article II. Disorderly Houses
+**** Article II. Disorderly Houses ****
 9.12.080 Keeping or maintaining prohibited.
    Any person who keeps or maintains a common ill-governed and disorderly house
 to the encouragement of idleness, gaming, drinking, fornication or other
@@ -10044,7 +10035,7 @@ the support there-of, is connected therewith or who is found therein, shall be
 punished as provided in
 Chapter 1.12.
 (Prior code § 16.104).
-Article III. Alcoholic Beverages
+**** Article III. Alcoholic Beverages ****
 9.12.100 Containers prohibited in public places when.
    It is unlawful for any person, adult or minor, to transport, carry, possess
 or have alcoholic liquor except possession in the original package with the
@@ -16096,7 +16087,7 @@ Article V. Inspections and Enforcement
 Article VI. Penalties for Violation
    
 13.32.420   Nonpayment of bills.
-Article I. Definitions
+**** Article I. Definitions ****
 13.32.010 Generally.  
    Unless the context specifically indicates otherwise, the meaning of terms
 used in this chapter shall be as provided in this article.
@@ -16322,7 +16313,7 @@ privilege of using the meter deduction program.
    Decisions made by the City Water Department personnel may be appealed to the
 Water Committee. All decisions made by the Water Committee shall be final.
 (Ord. 2023-3, 2023)
-Article III. Charges Designated
+**** Article III. Charges Designated ****
 13.32.370 User charges designated.  
    A.   The minimum base rate charges for any monthly residential and
 commercial service bill are one dollar and fifty cents per bill.
@@ -16345,7 +16336,7 @@ go into effect automatically the first of September 2024 and every year after a
 two percent annual increase for the following three consecutive years. (Ord.
 2024-8, 2023; Ord. 2023-5, 2022; Ord. 2013-2, 2012; Ord. 2008-2, 2007; Ord.
 2003-7, 2002; Ord. 92-15, 1991; Ord. 87-26 § 1, 1987; Ord. 80-20 Art. I, 1979).
-Article IV. Accounting and Disposition of Moneys
+**** Article IV. Accounting and Disposition of Moneys ****
 13.32.390 Sewer charges.  
    A.   All sewer charge money shall be placed in the sewage fund. Sewer charge
 moneys for the operation, maintenance and replacement shall be kept in separate
@@ -16383,7 +16374,7 @@ collateralized by obligations of the U.S. government or by obligations fully
 guaranteed as to principal and interest by the U.S. government or agency
 thereof.
 (Ord. 93-24 Art. I (part), 1992; Ord. 80-19 Art. III § 2, 1979)
-Article V. Inspections and Enforcement
+**** Article V. Inspections and Enforcement ****
 13.32.410 Property entry-Liability.  
    Any duly authorized employee or agent of the city bearing proper credentials
 and identification shall at any time be permitted to enter upon all properties
@@ -16401,7 +16392,7 @@ property damage asserted against the company and growing out of the gauging and
 sampling operation, except as such may be caused by negligence or failure of
 the company to maintain safe conditions.
 (Ord. 93-24 Art. I (part), 1992; Ord. 80-19 Art. IV, 1979).
-Article VI. Penalties for Violation
+**** Article VI. Penalties for Violation ****
 13.32.420 Nonpayment of bins.
    A.   Whenever wastewater treatment bills become delinquent, the same shall
 become and constitute a lien upon the real estate to which sewer service is
@@ -20587,7 +20578,7 @@ than fifty dollars nor more than five hundred dollars for each lot or parcel so
 transferred or sold or agreed to be sold; each day the violation continues
 shall be deemed a separate offense.
 (Ord. 81-10 §§ 17.1, 18.1 (part), 1980).
-TITLE 16 ATTACHMENTS and STANDARD DRAWINGS
+***** TITLE 16 ATTACHMENTS and STANDARD DRAWINGS *****
 ATTACHMENTS
    
 Attachment No. 1    Engineer's Certificate
@@ -24322,10 +24313,10 @@ structure, or land, or to prevent any illegal act, conduct, business, or use in
 or about such premises.
 (Ord. 81-11 Art. XVII § 11 (part), 1980).
 PARALLEL REFERENCES
-STATUTORY REFERENCES
+***** STATUTORY REFERENCES
 FOR
-ILLINOIS CITIES AND VILLAGES
-General Provisions
+ILLINOIS CITIES AND VILLAGES *****
+**** General Provisions ****
    Ordinances in revision of ordinances
    ILCS Ch. 65, Act 5, § 1-2-3
    Adoption of public records by reference
@@ -24350,7 +24341,7 @@ General Provisions
    ILCS Ch. 65, Act 5, § 1-2-1.1, 1-2-7 et seq.
    Penalties for ordinance violations
    ILCS Ch. 65, Act 5, § 1-2-1, 1-2-1.1
-Administration and Personnel
+**** Administration and Personnel ****
    Election, appointment and duties of municipal officers generally
    ILCS Ch. 65, Act 5
    Auxiliary policemen
@@ -24393,14 +24384,14 @@ Administration and Personnel
    State Whistleblower Act
    ILCS Ch. 740, Act 174, § 15(a)
    ILCS Ch. 740, Act 174, § 15(b)
-Revenue and Finance
+**** Revenue and Finance ****
    Property taxation
    ILCS Ch. 65, Act 5, § 8-3-1 et seq.
    Local motor vehicle taxes
    ILCS Ch. 65, Act 5, § 8-11-4, Ch. 625, Act 5, § 2-121
    Municipal cannabis retailers’ occupation tax
    ILCS Ch. 65, Act 5, § 8-11-22
-Business Taxes, Licenses and Regulations
+**** Business Taxes, Licenses and Regulations ****
    Licensing; alcoholic beverages
    ILCS Ch. 235, Act 5, § 6-2(a)(14)
    Local regulation of alcoholic beverages
@@ -24417,12 +24408,12 @@ Business Taxes, Licenses and Regulations
    ILCS Ch. 65, Act 5, § 8-11-5
    Telecommunications tax
    ILCS Ch.35, Act 635, § 1 et seq.
-Animals
+**** Animals ****
    Local regulation of animals running at large
    ILCS Ch. 65, Act 5, § 11-20-9
    Local regulation of dogs
    ILCS Ch. 65, Act 5, § 11-20-9, Ch. 510, Act 5, § 24
-Health and Safety
+**** Health and Safety ****
    Local health regulations
    ILCS Ch. 65, Act 5, § 11-20-5
    Local regulation of explosives, combustibles, and fireworks
@@ -24433,7 +24424,7 @@ Health and Safety
    ILCS Ch. 65, Act 5, § 11-60-2
    Local weed control powers
    ILCS Ch. 65, Act 5, § 11-20-5 - 11-20-7
-Public Peace, Morals and Welfare
+**** Public Peace, Morals and Welfare ****
    Municipal regulation of public order
    ILCS Ch. 65, Act 5, § 11-1-1, § 11-5-1 et seq.
    Crimes and punishments
@@ -24459,12 +24450,12 @@ Public Peace, Morals and Welfare
    Vehicle code
    ILCS Ch. 230, Act 40, § 5
    ILCS Ch. 625, Act 5, § 18b-101
-Streets and Sidewalks
+**** Streets and Sidewalks ****
    Streets and sidewalks
    ILCS Ch. 65, Act 5, § 11-80-1
    Crosswalks, curbs and gutters
    ILCS Ch. 65, Act 5, § 11-80-11
-Public Services
+**** Public Services ****
    Environmental Protection Act
    ILCS Ch. 415, Act 5, §§ 14.2, 14.3
    Municipal public utilities
@@ -24473,7 +24464,7 @@ Public Services
    ILCS Ch. 5, Act 5, § 11-125-4
    Water and sewerage systems
    ILCS Ch. 65, Act 5, § 11-124-1 et seq.
-Buildings and Construction
+**** Buildings and Construction ****
    Establishment of fire limits
    ILCS Ch. 65, Act 5, § 11-8-3
    Floodplain Areas
@@ -24484,15 +24475,15 @@ Buildings and Construction
    ILCS Ch. 65, Act 5, § 11-5-8
    Mobile home parks
    ILCS Ch. 210, Act 115, § 1 et seq.
-Subdivisions
+**** Subdivisions ****
    Local regulation of plats
    ILCS Ch. 65, Act 5, §§ 11-12-4 et seq., 11-15-1
    Plats
    ILCS Ch. 765
-Zoning
+**** Zoning ****
    Zoning
    ILCS Ch. 65, Act 5, § 11-13-1 et seq.
-CROSS-REFERENCE TABLE
+***** CROSS-REFERENCE TABLE *****
    This table provides users with the current disposition of the sections of
 the prior municipal code.
    Thus, prior code Section 2.102 currently appears in this code as Section
@@ -25188,7 +25179,7 @@ i8.301             12.12.010
 21.501             Repealed by 81-12
                    
  
-ORDINANCE LIST AND DISPOSITION TABLE
+***** ORDINANCE LIST AND DISPOSITION TABLE *****
 Ordinance Number
 Ordinance
 Number
@@ -26564,7 +26555,7 @@ Number
           Ch. 2.70, pertaining to administration and personnel
           
  
-TABLE OF RESOLUTIONS
+***** TABLE OF RESOLUTIONS *****
 Resolution Number
 Resolution Number
 84-11             Nondiscrimination regarding the handicapped (

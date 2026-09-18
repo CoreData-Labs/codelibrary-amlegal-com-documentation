@@ -1,7 +1,7 @@
 BOKCHITO, OKLAHOMA
 CODE OF ORDINANCES
-2025 S-3 Supplement contains:
-Legislation current through Ord. 75.11, passed 9-8-2025
+2026 S-4 Supplement contains:
+Legislation current through Ord. 71.060, passed 2-9-2026
  
 Published by:
 American Legal Publishing
@@ -3944,6 +3944,8 @@ Section
 50.01   Lease of utilities to authority
    
 50.02   Authority rules adopted by reference
+   
+50.03   Whole structure water shut-off devices
 § 50.01 LEASE OF UTILITIES TO AUTHORITY.
    The town hereby consents and agrees to the lease of the town’s water,
 sanitary sewerage, and refuse systems and facilities, and all future additions
@@ -3963,6 +3965,36 @@ violation of the rules and regulations of the Authority shall be punishable as
 provided in §
 10.99.
 (Prior Code, § 17-102)
+§ 50.03 WHOLE STRUCTURE WATER SHUT-OFF DEVICES.
+   (A)   Where a new water line is installed and is connected to the town’s
+public water main system, a whole structure shut-off device or valve must be
+installed according to the following standards:
+      (1)   All bearing parts of the whole structure shut-off devices or valves
+shall be of corrosion-resistant material;
+      (2)   All whole structure shut-off devices or valves shall conform to the
+town’s plumbing code as set forth in §§
+150.030, et seq., and other applicable rules and regulations of the town and
+the Bokchito Public Utilities Authority;
+      (3)   All whole structure shut-off devices or valves, when fully opened,
+shall have a capacity not less than that of the pipes in which they are
+installed; and
+      (4)   Location of the whole structure shut-off devices or valves shall be
+installed so that access is provided to the working parts for service and
+repair and no less than 24 inches back on the private line from the town tap.
+   (B)   All other federal, state, and local rules and regulations shall apply
+to whole structure shut-off device or valve installation.
+   (C)   Applicability. Effective January 1, 2026, this section shall apply to
+whole structure shut-off devices or valves installed for any newly constructed
+residences, commercial buildings, or any other structures that are to be
+connected via water line to the town’s public water main system and are
+situated within the town limits of the town.
+   (D)   Offenses and violations. Effective January 1, 2026, any person who
+fails to comply with this section shall be deemed guilty of an offense. Each
+violation or omission of requisite act and day of continued violation shall be
+deemed a separate offense, and shall be fined as provided in §
+10.99.
+(Ord. 50.03, passed 12-8-2025) Penalty, see §
+10.99.
 CHAPTER 51: SEWAGE
 Section
 Toilet Facilities
@@ -3974,6 +4006,8 @@ Toilet Facilities
 51.03   Procedure cumulative
    
 51.04   Violations
+   
+51.05   Sewage backflow prevention
  
    
 51.99   Penalty
@@ -4043,6 +4077,39 @@ prohibition, rule, or regulation of the Board of Health, or any officer charged
 with enforcement of such order, direction, prohibition, rule, or regulation.
 (Prior Code, § 8-413) Penalty, see §
 51.99
+§ 51.05 SEWAGE BACKFLOW PREVENTION.
+   (A)   Where a new sanitary sewer yard line is installed and is connected to
+the town’s public sanitary sewer main system, a backflow valve must be
+installed according to the following standards:
+      (1)   All bearing parts of the backwater valves shall be of corrosion-
+resistant material;
+      (2)   All backwater valves shall comply with American Society of
+Mechanical Engineers (AMSE) A112.14.1, Canadian Standards Association (CSA)
+B181.1, or Canadian Standards Association (CSA) B181.2;
+      (3)   Backwater valves shall be so constructed as to provide a mechanical
+seal against backflow;
+      (4)   Backwater valves, when fully opened, shall have a capacity not less
+than that of the pipes in which they are installed;
+      (5)   Location of the backwater valves shall be installed so that access
+is provided to the working parts for service and repair and no less than 24
+inches back on the private line from the town tap; and
+      (6)   Backwater valves shall be maintained not less than annually, and
+shall include specific installation standards including, but not limited to,
+directional cleanouts to prevent damage.
+   (B)   All other federal, state, and local rules and regulations shall apply
+to backflow valve installation.
+   (C)   Applicability. Effective January 1, 2026, this section shall apply to
+backflow valve installation for any newly constructed residences, commercial
+buildings, or any other structures that are to be connected via sanitary sewer
+yard line to the town’s public sanitary sewer main system and are situated
+within the town limits of the town.
+   (D)   Offenses and violations. Effective January 1, 2026, any person who
+fails to comply with this section shall be deemed guilty of an offense. Each
+violation or omission of requisite act and day of continued violation shall be
+deemed a separate offense, and shall be fined as provided in §
+51.99 .
+(Ord. 51.05, passed 12-8-2025) Penalty, see §
+51.99.
 § 51.99 PENALTY.
    (A)   Any person who violates any provision of §§
 51.01 through
@@ -4901,7 +4968,7 @@ Turning Movements
    
 71.100   Signals; method required
    
-71.102   Method of giving hand signals
+71.101   Method of giving hand signals
  
    
 71.999   Penalty
@@ -5534,7 +5601,9 @@ established as authorized shall be maximum lawful speeds. No person shall drive
 a vehicle on a highway at a speed in excess of such maximum limits as follows:
       (1)   Twenty-five miles per hour on any street unless otherwise provided
 herein; and
-      (2)   Miles per hour as posted in school zones.
+      (2)   Thirty miles per hour on South Walker Street beginning at Main
+Street and ending at Gaston Road going both Northbound and Southbound; and
+      (3)   Twenty-five miles per hour as posted in school zones.
    (D)   Town personnel has authority to post lower speed limits than those
 prescribed in this subchapter where special hazards exist.
    (E)   The fact that the speed of a vehicle is lower than the designated
@@ -5546,7 +5615,7 @@ traffic, or by reason of weather or highway conditions, and speed shall be
 decreased as may be necessary to avoid colliding with any person or vehicle or
 on entering the roadway in compliance with legal requirement and the duty of
 all persons to use due care and precaution.
-(Prior Code, § 15-701) Penalty, see §
+(Prior Code, § 15-701) (Ord. 71.060, passed 2-9-2026) Penalty, see §
 71.999
 Statutory reference:
    When local authorities may and shall alter maximum limits, see 47 O.S. § 11-
@@ -5790,7 +5859,7 @@ the center of the top of the steering post to the rear limit of the body or
 load thereof exceeds 14 feet. The latter measurement shall apply to any single
 vehicle and to any combination of vehicles.
 (Prior Code, § 15-906)
-§ 71.102 METHOD OF GIVING HAND SIGNALS.
+§ 71.101 METHOD OF GIVING HAND SIGNALS.
    All signals herein required given by hand and arm shall be given from the
 left side of the vehicle in the following manner:
    (A)   Left turn: Hand and arm extended horizontally;
@@ -7177,7 +7246,7 @@ Weeds and Trash
    
 90.41   Unlawful to deposit rubbish
    
-90.42   Burning refuse
+90.42   Burning
    
 90.43   Removal of dead animals
    
@@ -7891,7 +7960,7 @@ watercourse, upon the premises of another or upon any public ground in the
 town.
 (Prior Code, § 8-307) Penalty, see §
 90.99
-§ 90.42 BURNING REFUSE.
+§ 90.42 BURNING.
    (A)   It is unlawful to willfully burn, in the open, any refuse of any type
 material within the town, with the sole exceptions being those authorized by
 the fire code.
@@ -7899,9 +7968,44 @@ the fire code.
 disposed of they may be burned upon the granting of permission by the State
 Department of Environmental Quantity and by the Town Fire Department if
 adequate fire safety precautions are utilized.
-   (C)   In any case of burning, a minimum safety requirement is that constant
-surveillance must be provided during the time the fire is burning.
-(Prior Code, § 8-308) Penalty, see §
+   (C)   No person shall kindle, maintain, or authorize open burning within the
+town limits without first obtaining a permit from the Town Clerk, unless
+exempted under division (D).
+   (D)   The following activities are allowed without a burn permit, provided
+they do not create a hazardous condition, and are not conducted during a state
+or county burn ban: (1) Campfires, cooking fires, or warming fires using
+charcoal or clean wood in a container, barbecue pit, or fireplace; (2) Portable
+outdoor fireplaces used in accordance with the manufacturer’s instructions and
+at least 15 feet from a structure or combustible material.
+   (E)   The Fire Chief (or his or her designee) is authorized to approve,
+deny, or revoke burn permits. An applicant for a burn permit must complete an
+application form from the Town Clerk. Before a permit is issued, the Fire Chief
+(or his or her designee) may inspect the burn site to ensure compliance with
+safety conditions, which may include, but is not limited to the following: (1)
+Ensuring the burn site is at least 50 feet from any structure and provisions
+are made to prevent the fire from spreading; (2) Requiring a sufficient water
+source or fire-extinguishing equipment to be on site; (3) Provisions are made
+for constant surveillance.
+   (F)   The permit holder must adhere to the following conditions: (1) The
+burn must occur only during the dates and times specified on the permit; (2)
+Burning is prohibited during any state or county burn ban; (3) The fire must be
+constantly attended by a responsible person until it is extinguished; (4) Only
+dry, natural vegetation grown on the property may be burned; (5) No refuse,
+household waste, or other prohibited materials shall be burned; (6) The burn
+must be immediately extinguished if it creates an offensive or hazardous
+condition due to smoke or embers.
+   (G)   For the purposes of this section, REFUSE shall mean any household
+waste, garbage, paper, plastic, tires, construction debris, lumber, or other
+man-made materials.
+   (H)   In the event of hazardous atmospheric or weather conditions, the Fire
+Chief may suspend or revoke any burn permits and prohibit open burning. This
+shall be done in consultation with the Oklahoma Forestry Services and any
+county burn ban status.
+   (I)   This section may be enforced by the members of the Town Fire
+Department or any commissioned law enforcement officer. Obtaining a burn permit
+does not exempt a person from civil liability for any damages or injuries
+caused by the fire.
+(Prior Code, § 8-308) (Ord. 90.42, passed 10-13-2025) Penalty, see §
 90.99
 § 90.43 REMOVAL OF DEAD ANIMALS.
    The owner, or any person having charge, of any animal dying in the town
@@ -12232,6 +12336,9 @@ drainage ways
 151.24   Interfering with streets, free flow of traffic
    
 151.25   Signs obstructing view in right-of-way
+   
+151.26   Cleanliness, displays, and sidewalk sales regulations applicable to
+commercial businesses
 Excavations and Cuts
    
 151.40   Excavations and cuts
@@ -12440,6 +12547,62 @@ projecting into, upon, or over, and adjoining any street or sidewalk within the
 fire limits of the town.
 (Prior Code, § 14-114) Penalty, see §
 151.99
+§ 151.26 CLEANLINESS, DISPLAYS, AND SIDEWALK SALES REGULATIONS APPLICABLE TO
+COMMERCIAL BUSINESSES.
+   (A)   Clutter cleanliness. The owner or occupant of any store, commercial
+business, or other place of business situated within the town limits shall
+exercise reasonable care and diligence at all times to keep its premises clean
+from clutter, including but not limited to wastepaper, wrapping paper, paper
+napkins, cartons, package containers, and other used or waste materials thrown
+or left on the premises by its customers, and to take reasonable measures to
+prevent the same from drifting or blowing onto adjoining premises.
+   (B)   Trash storage containers and receptacles. It shall be the duty of
+every owner or occupant of any store, commercial business, or other place of
+business situated within the town limits having trash, garbage, or other refuse
+to provide for and to have proper storage containers and receptacles of
+sufficient size and number to handle the accumulation of trash, garbage, or
+refuse on the premises during the interval between any private and public
+collections of said trash, garbage, or refuse. In the case of collections not
+taken care of by the town, there shall be no undue accumulation of materials,
+and the buildings and premises shall be kept in a clean and orderly condition.
+   (C)   Business displays. All displays and merchandise maintained for sale by
+any store, commercial business, or other place of business situated within the
+town limits, which said store, commercial business, or other place of business
+elects to display on and upon a public sidewalk or outdoor venue immediately
+adjacent to said store, commercial business, or other place of business, shall
+be displayed in such location only during normal business hours of the
+particular business. During nonbusiness hours, all such displays and
+merchandise maintained for sale shall be removed from the applicable public
+sidewalk or outdoor venue and stored inside the building or facility utilized
+by the said store, commercial business, or other place of business.
+   (D)   Permits required for business displays. No displays or merchandise
+maintained or kept for sale by any store, commercial business, or other place
+of business situated within the town limits may be displayed on and upon a
+public sidewalk or outdoor venue immediately adjacent to said store, commercial
+business, or other place of business without first obtaining a permit from the
+Town Clerk. The Board of Trustees of the town shall enact via resolution the
+applicable permit fees for this purpose.
+   (E)   Offenses and violations. Any person who (i) fails to keep its premises
+clean from clutter and to take reasonable measures to prevent the same from
+drifting or blowing onto adjoining premises; (ii) fails to provide for and to
+have proper storage containers and receptacles of sufficient size and number to
+handle the accumulation of trash, garbage, or refuse on the premises during the
+interval between any private and public collections of said trash, garbage, or
+refuse; or (iii) maintains or keeps a display of merchandise on and upon a
+public sidewalk or outdoor venue immediately adjacent to said store, commercial
+business, or other place of business, who fails to first obtain a permit as
+required under this section, shall be deemed guilty of an offense. Each
+violation or omission of requisite act and day of continued violation shall be
+deemed a separate offense.
+   (F)   Applicability. This section shall apply to all existing and future
+activities of any store, commercial business, or other place of business
+situated within the town limits. All stores, commercial businesses, and other
+businesses operating within the town limits shall comply with this section
+effective upon its passage and approval thereof, regardless of the date of such
+business’s establishment, previous practice, and prior activity occurring upon
+the particular business’s premises.
+(Ord. 151.26, passed 11-10-2025) Penalty, see §
+90.99
 **** EXCAVATIONS AND CUTS ****
 § 151.40 EXCAVATIONS AND CUTS.
    It is unlawful for any person to cut, alter, mutilate, or change in any
@@ -13603,8 +13766,8 @@ O.S. Cite                            Code Section
 47 O.S. 11-506                       74.08
 47 O.S. 11-601                       71.095
 47 O.S. 11-604                       71.099
-47 O.S. 11-605                       71.102
-47 O.S. 11-606                       71.102
+47 O.S. 11-605                       71.101
+47 O.S. 11-606                       71.101
 47 O.S. 11-704                       71.079
 47 O.S. 11-705                       71.036
 47 O.S. 11-803                       71.060
@@ -14302,7 +14465,7 @@ Appendix 4 TSO Table I
 15-904     71.098
 15-905     71.099
 15-906     71.100
-15-907     71.102
+15-907     71.101
 15-1001    71.018
 15-1002    72.14
 15-1101    72.50
@@ -14448,6 +14611,11 @@ Chapter 5, 7-501-7-522 10-12-2020  37.45;
 30.16                  3-10-2025   30.16
 31.03                  9-8-2025    31.03
 75.11                  9-8-2025    75.11
+90.42                  10-13-2025  90.42
+151.26                 11-10-2025  151.26
+50.03                  12-8-2025   50.03
+51.05                  12-8-2025   51.05
+71.060                 2-9-2026    71.060
                                   
  
  

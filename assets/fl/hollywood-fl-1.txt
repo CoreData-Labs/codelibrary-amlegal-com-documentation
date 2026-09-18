@@ -8,7 +8,7 @@ American Legal Publishing
 Cincinnati, Ohio 45202
 1-800-445-5588 www.amlegal.com
 CHARTER
-TABLE OF CONTENTS
+***** TABLE OF CONTENTS *****
    Section
 Preamble
 Article I. General Provisions
@@ -166,7 +166,7 @@ or “act” has been changed to “article” or “charter” as appropriate. 
 misspelled words have been corrected without comment. With the exception of
 certain sections of articles II and III (see the editor's note to article III),
 the numbering system of the ordinance has been retained.  
-PREAMBLE
+*** PREAMBLE ***
    We, the people of the City of Hollywood, acting under the Constitution and
 laws of the State of Florida, in order to secure the benefits and
 responsibilities of self- governance, granting each individual the opportunity
@@ -326,7 +326,7 @@ article number, the editor has redesignated the sections of art. III. Former §�
 3.01 -
 3.05, and former §§ 3.01 - 3.05 have been renumbered as §§
 3.06 - 3.10.
-DIVISION 1. CONDUCT OF ELECTIONS
+** DIVISION 1. CONDUCT OF ELECTIONS **
 Sec. 3.01. Election and term of commissioners; staggered terms.
    (a)   The election of city commissioners, including the mayor, shall be as
 provided by this Charter, general and special law. The terms of the city
@@ -424,8 +424,8 @@ Charter.
 (Ord. O-84-14, passed 2-3-84; Am. Ord. O-2010-28, passed 7-21-10)
 Statutory reference:
    State election code, see F.S. Title IX.
-DIVISION 2. CANDIDATES
-Sec. 3.06. Filing fee.
+** DIVISION 2. CANDIDATES **
+* Sec. 3.06. Filing fee. *
    A candidate for the office of city commissioner, including mayor, shall pay
 to the city clerk a filing fee in the sum as set by ordinance.
 (Ord. O-84-14, passed 2-3-84; Am. Ord. O-2010-28, passed 7-21-10)
@@ -1475,7 +1475,7 @@ Limitation on Sale, Lease or Purchase of City-Owned Real Property
 30.21   Lease of city-owned real property
    
 30.22   Purchase of real property by city
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 30.01 RECORDING LIENS; CHARGE.
    There shall be a $20 charge for recording a lien against any property in the
 city, and an additional $20 charge for the release of any lien.
@@ -1562,7 +1562,7 @@ PRIVATE PARTNERSHIPS.
 proposals for public-private partnerships pursuant to F.S. § 287.0512. Such fee
 shall be established by resolution of the City Commission.
 (Ord. O-2015-07, passed 5-6-15)
-LOBBYISTS/VENDORS; EX PARTE  COMMUNICATIONS
+*** LOBBYISTS/VENDORS; EX PARTE  COMMUNICATIONS ***
 § 30.15 LOBBYIST/VENDOR REGULATIONS.
    (A)   Definitions. For the purpose of this section only, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -1916,7 +1916,7 @@ with this section shall be punishable under the provisions of §
 10.99.
 (Ord. O-92-27, passed 5-20-92; Am. Ord. O-96-07, passed 2-28-96; Am. Ord. O-96-
 41, passed 10-16-96)
-LIMITATION ON SALE, LEASE OR PURCHASE OF CITY-OWNED REAL PROPERTY
+*** LIMITATION ON SALE, LEASE OR PURCHASE OF CITY-OWNED REAL PROPERTY ***
 § 30.20 SALE OF CITY-OWNED REAL PROPERTY.
    (A)   Any property which the city proposes to sell or otherwise dispose of
 must be appraised by one independent, qualified appraiser. However, property
@@ -2489,7 +2489,7 @@ removal; powers; funding
 33.179   Rules
    
 33.180   Status of present employees, fringe benefits
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 33.001 PUBLICATION OF SALARIES, BENEFITS OF CITY EMPLOYEES.
    At the direction of the City Commission, the City Manager may, on an annual
 basis, publish in a newspaper of general circulation within the city, a list of
@@ -2544,7 +2544,7 @@ for employment and eligibility for continued employment.
 background screening, including but not limited to criminal history background
 checks that the City may lawfully undertake.
 (Ord. O-2023-07, passed 5-3-23)
-EMPLOYEE STRIKES
+*** EMPLOYEE STRIKES ***
 § 33.015 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -2667,8 +2667,8 @@ notice shall have an additional provision clearly indicating that said
 amendment or repeal is being undertaken due to the demands of striking
 employees that they be granted amnesty from the sanctions of this subchapter.
 ('72 Code, § 2-38) (Ord. O-75-114, passed 11-5-75)
-RETIREMENT
-EMPLOYEES; RETIREMENT FUND
+*** RETIREMENT ***
+*** EMPLOYEES; RETIREMENT FUND ***
 § 33.025 PENSIONS AND RETIREMENT.
    (A)   Establishment and purpose.
       (1)   The "City of Hollywood Employees' Retirement Fund" (the "Fund"),
@@ -4855,7 +4855,7 @@ accordance with the provisions of law relating to elections currently in force
 in the city, or held in conjunction with a primary, general, or other special
 election held in the city.
 (Ord. O-2010-30, passed 7-21-10)
-FIREFIGHTER'S PENSION AND RETIREMENT
+*** FIREFIGHTER'S PENSION AND RETIREMENT ***
 § 33.034 INTENT.
    (A)   It is the legislative intent and purpose of this subchapter to provide
 certain retirement, disability, death and withdrawal benefits to firefighters
@@ -6447,7 +6447,7 @@ transition to DROP shall receive a return of the 0.5% employee contribution,
 which shall be added to the participant's DROP account.
 (Ord. O-2013-14, passed 7-3-13; Am. Ord. O-2018-11, passed 6-20-18; Am. Ord. O-
 2019-08, passed 3-20-19)
-§ 33.063 AMENDMENT TO THIS SUBCHAPTER.
+* § 33.063 AMENDMENT TO THIS SUBCHAPTER. *
    This subchapter, including this section, may be amended, in whole or in
 part, or repealed by the City Commission upon approval of any such amendment or
 repeal by:
@@ -6522,7 +6522,7 @@ accumulated.
 management of the share plan.
 (Ord. O-2010-30, passed 7-21-10; Am. Ord. O-2013-14, passed 7-3- 13; Am. Ord.
 O-2019-08, passed 3-20-19)
-GENERAL EMPLOYEES' SUPPLEMENTAL RETIREMENT SYSTEM
+*** GENERAL EMPLOYEES' SUPPLEMENTAL RETIREMENT SYSTEM ***
 § 33.070 ESTABLISHMENT; PURPOSE.
    There is hereby established a city General Employees' Supplemental
 Retirement System comprising a comprehensive retirement plan for all persons
@@ -6913,7 +6913,7 @@ be returned to the city.
 distribution determined under division (B) above, the amount apportioned under
 division (C) above.
 ('72 Code, § 24-74) (Ord. O-76-92, passed 12-1-76)
-FIREFIGHTER'S SUPPLEMENTAL RETIREMENT SYSTEM
+*** FIREFIGHTER'S SUPPLEMENTAL RETIREMENT SYSTEM ***
 § 33.095 ESTABLISHMENT; PURPOSE.
    There is hereby established a City Firefighter's Supplemental Retirement
 System comprising a comprehensive retirement plan for all persons employed as
@@ -7324,7 +7324,7 @@ division (C).
    Sections 3, 4, 9, 15, 18, 19, 20 and 21 of the prior system shall apply
 whenever applicable to members of this supplemental system.
 ('72 Code, § 24-88) (Ord. O-76-93, passed 12-1-76)
-POLICE OFFICER'S RETIREMENT SYSTEM
+*** POLICE OFFICER'S RETIREMENT SYSTEM ***
 § 33.125 ESTABLISHMENT; PURPOSE.
    There is hereby established a Police Officer's Retirement System comprising
 a comprehensive amended retirement plan for the Police Officers of the city.
@@ -8604,7 +8604,7 @@ accordance with the provisions of law relating to elections currently in force
 in the city, or held in conjunction with a primary, general, or other special
 election held in the city.
 (Ord. O-91-82, passed 11-20-91; Am. Ord. 0-2000-14, passed 3-22-00)
-SOCIAL SECURITY
+*** SOCIAL SECURITY ***
 § 33.150 APPLICABILITY.
    (A)   It is hereby declared to be the policy and purpose of the city to
 extend, effective as of October 1, 1961, to the employees and officials
@@ -8742,7 +8742,7 @@ division (D), shall be refunded.
 Cross-reference:
    Code of Ethics, see
 Chapter 34
-CIVIL SERVICE
+*** CIVIL SERVICE ***
 § 33.170 SHORT TITLE.
    This subchapter shall provide a system to be known as the Civil Service
 System of the City of Hollywood, Florida, and shall supersede, replace and
@@ -9420,7 +9420,7 @@ Fire Department
 35.22   Firefighter's Supplemental Retirement System
    
 35.23   Firefighter's Old Age and Survivor's Insurance
-POLICE DEPARTMENT
+*** POLICE DEPARTMENT ***
 § 35.01 LAWFUL DETENTION BY OFFICER.
    (A)   Whenever any law enforcement officer encounters any person under
 circumstances which reasonably indicates that such person has committed, is
@@ -9645,7 +9645,7 @@ generated criminal history documents.
 ('72 Code, § 22-33) (Ord. O-81-63, passed 10-9-81; Am. Ord. O-83-30, passed 6-
 1-83; Am. Ord. O-84-49, passed 9-19-84; Am. Ord. O-89-17, passed 5-3-89; Am.
 Ord. O-96-30, passed 9-18-96)
-FIRE DEPARTMENT
+*** FIRE DEPARTMENT ***
 § 35.20 ESTABLISHMENT; DEPARTMENT EQUIPMENT.
    (A)   A department to be known and designated as the Fire Department is
 hereby created for the city.
@@ -9753,7 +9753,7 @@ Enforcement Procedures
 36.30   Settlement, disposition of all collected fines and liens
    
 36.31   Required method of notice
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 36.01 PURPOSE.
    It is the intent of this chapter to promote, protect and improve the health,
 safety and welfare of the citizens of the city, by providing an equitable,
@@ -9819,7 +9819,7 @@ of a violator, property owner or both.
 3-89; Am. Ord. O-89-51, passed 8-30-89; Am. Ord. O-93-63, passed 11-17-93; Am.
 Ord. O-95-37, passed 7-19-95; Am. Ord. O-96-07, passed 2-28-96; Am. Ord. 0-99-
 46, passed 12-15-99; Am. Ord. O-2005-02, passed 3-2-05)
-CODE ENFORCEMENT BOARD
+*** CODE ENFORCEMENT BOARD ***
 § 36.04 ORGANIZATION.
    (A)   Membership. The Board shall be composed of seven members and three
 alternate members and shall be appointed by the Commission. Membership shall
@@ -9913,7 +9913,7 @@ inconsistent with the provisions of this chapter or F.S. Chapter 162, which
 rules and regulations the Board finds necessary to carry out the provisions of
 this chapter, subject to approval by the City Commission.
 ('72 Code, § 1.5-8) (Ord. O-87-68, passed 11-4-87)
-SPECIAL MAGISTRATES
+*** SPECIAL MAGISTRATES ***
 § 36.10 APPOINTMENT AND QUALIFICATIONS OF SPECIAL MAGISTRATES.
    The City Commission shall appoint a Special Magistrate or Special
 Magistrates who shall hold their position at the pleasure of, and be
@@ -9937,7 +9937,7 @@ record and appropriate city staff.
 summary of the testimony taken at such proceeding shall be provided in the
 Final Order, or as an appendix thereto.
 (Ord. O-95-37, passed 7-19-95; Am. Ord. O-2005-02, passed 3-2-05)
-ENFORCEMENT PROCEDURES
+*** ENFORCEMENT PROCEDURES ***
 § 36.25 ENFORCEMENT AUTHORITY.
    The Office of Code Enforcement shall have the authority to enforce the
 various codes as described in §36.02 hereof, either before a Special Magistrate
@@ -10428,7 +10428,7 @@ Advisory Boards
 37.31   Community Redevelopment Agency
    
 37.32   (Reserved)
-ADMINISTRATION DEPARTMENTS
+*** ADMINISTRATION DEPARTMENTS ***
 § 37.01 ADMINISTRATIVE DEPARTMENTS.
    (A)   There are established the following administrative departments in the
 city:
@@ -10455,7 +10455,7 @@ Ord. O-2011-20, passed 6- 1-11; Am. Ord. O-2012-01, passed 1-18-12; Am. Ord. O-
 2012-12, passed 6-6-12; Am. Ord. O-2012- 14, passed 7-3-12; Am. Ord. O- 2014-
 03, passed 3-19-14; Am. Ord. O-2015-21, passed 10-7-15; Am. Ord. O-2019-11,
 passed 6-5-19)
-ADVISORY BOARDS
+*** ADVISORY BOARDS ***
 § 37.24 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -10837,7 +10837,7 @@ Development Impact Fees
 38.120   Penalty
    
 38.121   Appeals
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 38.01 FISCAL YEAR.
    The fiscal year of the city shall begin on October 1, of each year and shall
 end on September 30, of the following year.
@@ -10950,7 +10950,7 @@ publish the newspaper notice required by F.S. § 197.3632. The notice shall be
 sent by first class mail to each person owning property that will be on the
 non-ad valorem assessment roll and will comply with F.S. § 197.3632(7).
 (Ord. O-2013-06, passed 2-20-13)
-APPROPRIATIONS
+*** APPROPRIATIONS ***
 § 38.10 ANNUAL APPROPRIATION PROCEDURES FOR CITY DEPARTMENTS, AGENCIES.
    (A)   Before the beginning of the budget year, the head of each office,
 department or agency shall submit to the City Manager, when required by him, a
@@ -11037,7 +11037,7 @@ such organization.
    All appropriations shall lapse at the end of the budget year to the extent
 that they shall not have been expended or lawfully encumbered.
 ('72 Code, § 11½-10)
-AUDITS
+*** AUDITS ***
 § 38.25 ACCOUNTS OF DEPARTMENT OF FINANCIAL SERVICES.
    The accounts of the Department of Financial Services shall be examined at
 the end of each fiscal year by a certified public accountant. A report of such
@@ -11051,7 +11051,7 @@ Director shall immediately give notice thereof through the City Manager to the
 City Commission and to the City Attorney, who shall forthwith proceed to
 collect such indebtedness.
 ('72 Code, § 2-16) (Am. Ord. O-95-67, passed 11-1-95)
-PROCUREMENT
+*** PROCUREMENT ***
 § 38.35 SHORT TITLE.
    The provisions of this subchapter shall be known as the "Procurement Code"
 or the "Procurement Ordinance" of the City of Hollywood.
@@ -12132,7 +12132,7 @@ subcontractors covered by this section.
 provisions of this subchapter shall be punished as provided in §10.99.
 (Ord. 0-99-31, passed 9-22-99; Am. Ord. O-2009-11, passed 5-6- 09; repealed and
 replaced by Ord. O-2020-07, passed 7-1-20)
-FUNDS AND ACCOUNTS
+*** FUNDS AND ACCOUNTS ***
 § 38.60 EMERGENCY AND DISASTER RELIEF FUND.
    (A)   There shall be created in the City Treasury a fund to be known as the
 Permanent Emergency and Disaster Relief Fund.
@@ -12211,7 +12211,7 @@ fiscal year.
 deposited in the Trust Fund, shall be expended, utilized, and disbursed only
 for the City of Hollywood Archives and Records Center.
 (Ord. O-94-68, passed 12-21-94; Am. Ord. O-95-67, passed 11-1-95)
-ADMINISTRATION
+*** ADMINISTRATION ***
 § 38.75 DEPARTMENT OF FINANCIAL SERVICES.
    There is established the Department of Financial Services for the
 administration of financial affairs of the city.
@@ -12329,7 +12329,7 @@ Commission or Manager, the Director shall audit the accounts of the several
 departments, officers and employees, and shall audit all other accounts in
 which the city may be concerned.
 ('72 Code, § 11½-16)
-LIENS AND MUNICIPAL CHARGE SEARCH REQUESTS; PROCEDURE AND FEES
+*** LIENS AND MUNICIPAL CHARGE SEARCH REQUESTS; PROCEDURE AND FEES ***
 § 38.80 LIEN SEARCHES.
    (A)   Official to make searches; certificates. Upon request the Director of
 the Department of Financial Services or designee shall make an examination of
@@ -12349,7 +12349,7 @@ assessments heretofore levied and in force, whether due or not.
    (C)   Schedule of fees for searches. The fee for said services shall be
 established by resolution of the City Commission.
 (Ord. O-94-54, passed 10-5-94; Am. Ord. O-95-67, passed 11-1-95)
-ECONOMIC DEVELOPMENT PROGRAMS
+*** ECONOMIC DEVELOPMENT PROGRAMS ***
 § 38.90 ECONOMIC DEVELOPMENT AD VALOREM TAX EXEMPTION REGULATIONS.
    (A)   Definitions. The definitions contained in F.S. § 196.012 and related
 Florida Administrative code sections as same may be amended from time to time
@@ -12648,7 +12648,7 @@ application and the process for reviewing applications for determining
 eligibility of projects shall be promulgated by the Office of Business and
 International Trade.
 (Ord. O-2010-08, passed 3-17-10)
-DEVELOPMENT IMPACT FEES
+*** DEVELOPMENT IMPACT FEES ***
 § 38.97 SHORT TITLE.
    The provisions of this subchapter shall be known and may be cited as the
 “City of Hollywood’s Impact Fee Ordinance.”
@@ -13406,7 +13406,7 @@ utilizing existing resources does not accrue any additional civil service
 benefits or other benefits for this service to the participants.
 ('72 Code, § 2-9) (Ord. O-72-135, passed 7-5-72; Am. Ord. O-93-22, passed 6-2-
 93)
-PROHIBITION AGAINST PRICE GOUGING
+*** PROHIBITION AGAINST PRICE GOUGING ***
 § 40.02 DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -13442,7 +13442,7 @@ in connection with the sale or rental of the commodity.
    Violation of
 § 40.03 is subject to a fine of $500 per occurrence.
 (Ord. 0-94-23, passed 7-6-94)
-TEMPORARY FACILITIES
+*** TEMPORARY FACILITIES ***
 § 40.06 TEMPORARY OFFICE AND SALES BUILDINGS INCLUDING TRAILERS.
    Upon submission of an application for a building permit, a temporary
 building or trailer may be permitted for up to one year as a temporary office,
@@ -15203,7 +15203,7 @@ review; conflict resolution
  
    
 51.999   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 51.001 SCOPE.
    The following rules and regulations for the sale and distribution of water
 by the city, and rates to be charged to the consumers for water provided by
@@ -15232,7 +15232,7 @@ than one owner, if required by these rules to be given, shall be deemed to have
 been properly given or served if advertised at least once in one of the weekly
 newspapers.
 (‘72 Code, § 36-61) (Ord. 205, passed - - ; Am. Ord. O-2005-04, passed 5-4-05)
-CONNECTIONS
+*** CONNECTIONS ***
 § 51.010 CONNECTION REQUIRED.
    It shall be unlawful for any owner of a lot or parcel of property in the
 city upon which a building shall have been constructed for residential,
@@ -15276,7 +15276,7 @@ Penalty, see
 § 51.015 (RESERVED).
 (‘72 Code, § 36-28) (Ord. 205, passed - - ; Am. Ord. O-72-206, passed 12-6-72 ;
 Am. Ord. O-2005-04, passed 5-4-05; Repealed by Ord. O-2015-29, passed 12-2-15)
-WATER SERVICE REGULATIONS
+*** WATER SERVICE REGULATIONS ***
 § 51.030 APPLICATION FOR SERVICE.
    (A)   All applications for water supply service must be submitted to the
 utility customer service office on an application form prescribed by the
@@ -15655,7 +15655,7 @@ refund or credit is warranted
 (‘72 Code, §36-53)
 (Ord. 205, passed - - ; Am. Ord. O-72-206, passed-12-6-72 ; Am. Ord. O-2005-04,
 passed 5-4-05)
-PRIVATE FIRE SERVICE PROTECTION
+*** PRIVATE FIRE SERVICE PROTECTION ***
 § 51.060 PRIVATE FIRE SERVICE PROTECTION.
    (A)   The charges and surcharges or rates for special private fire service
 protection based upon the size of the connection with the city’s distribution
@@ -15725,7 +15725,7 @@ passed 5-4-05; Am. Ord. O-2014-15, passed 7-16-14)
 9-5-84; Am. Ord. O-89-49, passed 8-9-89; Am. Ord. O-90-33, passed 9-5-90; Am.
 Ord. O-91-42, passed 7-17-91; Am. Ord. O-94-44, passed 9-21-94; Repealed by
 Ord. O-2005-04, passed 5-4-05)
-METERS
+*** METERS ***
 § 51.070 METERS TO BE FURNISHED, INSTALLED BY PUBLIC UTILITIES DEPARTMENT.
    (A)   All meters shall be furnished and installed by the Public Utilities
 Department upon the application of any owner or responsible party for utility
@@ -15885,7 +15885,7 @@ sold, transferred or otherwise passes under separate ownership, the seller
 shall be required to disconnect such house, and separate meters shall be
 required to be installed for each separate owner.
 (‘72 Code, § 36-11) (Ord. 205, passed - - ; Am. Ord. O-2005-04, passed 5-4-05)
-WATER SUPPLY SYSTEMS
+*** WATER SUPPLY SYSTEMS ***
 § 51.091 SYSTEM TO CONFORM TO CITY REQUIREMENTS.
    All persons desiring to have designed and constructed a water supply system
 to serve a subdivision, lot or parcel and to have said system included in the
@@ -16045,7 +16045,7 @@ branch will be individually gate valved. On prestressed concrete mains where
 the installation of fire hydrants is not required immediately, the necessary
 fitting for the future installation of fire hydrants shall be provided.
 ('72 Code, § 36-80) (Ord. O-72-206, passed 12-6-72)
-WATER CONSERVATION MEASURES AND WATER SHORTAGES
+*** WATER CONSERVATION MEASURES AND WATER SHORTAGES ***
 § 51.110 INTENT; PURPOSE.
    It is the intent and purpose of this subchapter to protect the water
 resources of the city from the harmful effects of over-utilization during
@@ -16430,7 +16430,7 @@ issued by the district pursuant to Rule 40E- 24.501, F.A.C. will be recognized
 by the city upon submittal of such waiver or variance.
 (Ord. O-93-71, passed 12-1-93; Am. Ord. O-2005-04, passed 5-4- 05; Am. Ord. O-
 2011-15, passed 5- 4-11; Am. Ord. O-2024-18, passed 12-4-24)
-RATES AND CHARGES
+*** RATES AND CHARGES ***
 § 51.125 TAP-IN FEES.
    (A)   Every owner of a lot or parcel or property in the city upon which a
 building shall have been constructed for residential, commercial or industrial
@@ -16827,7 +16827,7 @@ supplying water and shall be responsible for payment of any damage to city
 property.
 (Ord. O-2005-04, passed 5-4-05; Am. Ord. O-2014-15, passed 7-16- 14; Am. Ord.
 O-2019-18, passed 9-18-19)
-BILLING PROCEDURES
+*** BILLING PROCEDURES ***
 § 51.140 BILLS TO BE PAID AT UTILITY CUSTOMER SERVICE OFFICE.
    Payment of all bills and accounts of the city for water service shall be
 made to the Department of Public Utilities, or at any other approved city
@@ -16980,8 +16980,8 @@ be estimated based on the historical data for the previous three months if
 available.
 (Ord. O-2010-14, passed 6-2-10; Am. Ord. O-2014-15, passed 7-16- 14; Am. Ord.
 O-2019-18, passed 9-18-19)
-CROSS-CONNECTION AND
-BACKFLOW PREVENTION
+*** CROSS-CONNECTION AND
+BACKFLOW PREVENTION ***
 § 51.200 SCOPE.
    The following rules and regulations for cross-connection control and
 backflow prevention, for the customers of the city, shall hereafter be observed
@@ -17483,7 +17483,7 @@ Effluent Reuse
  
    
 52.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 52.01 (RESERVED)
 § 52.02 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
@@ -17929,7 +17929,7 @@ obtain all necessary permits for the construction of the new collection system.
 ('72 Code, § 25-11)
 (Ord. O-88-27, passed 5-18-88; Am. Ord. O-91-23, passed 4-17-91; Am. Ord. O-92-
 64, passed 12-2-92; Am. Ord. O-93-42, passed 10-6-93)
-FEES AND CHARGES
+*** FEES AND CHARGES ***
 § 52.50 TAPPING CHARGE.
    (A)   Every owner of a lot or parcel of property in the city which abuts
 upon any street or public way containing a sewer line upon which lot or parcel
@@ -18406,7 +18406,7 @@ Board decision shall be presented, and the petitioner shall have the
 opportunity to present evidence and testimony. Decisions of the City Commission
 shall constitute final agency action.
 (Ord. O-93-16, passed 5-5-93; Am. Ord. O-2011-15, passed 5-4-11)
-EFFLUENT REUSE
+*** EFFLUENT REUSE ***
 § 52.70 PURPOSE.
    (A)   The Florida Department of Environmental Protection requires the
 implementation of effluent reuse in lieu of expanded or new effluent discharge
@@ -18848,7 +18848,7 @@ Discharges into the Municipal Separate Storm Sewer System
 54.34   Stormwater inspections and monitoring procedures
    
 54.35   Effluent standards and water quality criteria
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 54.01 PURPOSE.
    The city maintains a system of storm and surface water management, including
 but not limited to inlets, conduits, manholes, channels, ditches, drainage
@@ -18966,7 +18966,7 @@ receiving body of water.
 canals, sloughs, natural or unnatural waters; and all territorial waters and
 the ocean in which stormwater runoff directly or indirectly discharges into.
 (Ord. O-93-52, passed 10-20-93)
-STORMWATER UTILITY
+*** STORMWATER UTILITY ***
 § 54.03 STORMWATER MANAGEMENT UTILITY FEE.
    (A)   A stormwater utility fee is hereby imposed upon each lot and parcel
 within the City for services and facilities provided by the Stormwater
@@ -19129,7 +19129,7 @@ reserve or bond financing costs.
    (G)   Funding of studies associated with the planning of the stormwater-
 related infrastructure.
 (Ord. O-93-52, passed 10-20-93)
-DISCHARGES INTO THE MUNICIPAL SEPARATE STORM SEWER SYSTEM
+*** DISCHARGES INTO THE MUNICIPAL SEPARATE STORM SEWER SYSTEM ***
 § 54.20 CONSTRUCTION SITES AND CONSTRUCTION ACTIVITIES.
    Construction sites and operations shall be required to maintain during and
 after all construction, development, excavation and/or alteration operations,
@@ -19368,7 +19368,7 @@ maintenance of communications facilities in the public rights-of-way
 55.39   Enforcement remedies
    
 55.40   Appendix containing design standards
-PART I: RIGHTS-OF-WAY ADMINISTRATION GENERAL PROVISIONS
+**** PART I: RIGHTS-OF-WAY ADMINISTRATION GENERAL PROVISIONS ****
 § 55.01 PURPOSE.
    (A)   To protect and limit deterioration and obstruction of the rights-of-
 way, the city hereby adopts uniform regulations for the construction,
@@ -19508,7 +19508,7 @@ established by resolution of the City Commission.
 or provider of water, sewer, electric power, gas, or steam.
 (Ord. O-2000-29, passed 7-19-00; Am. Ord. O-2011-15, passed 5-4- 11; Am. Ord.
 O-2020-14, passed 10-7-20)
-GENERAL REQUIREMENTS
+*** GENERAL REQUIREMENTS ***
 § 55.04 REGISTRATION AND RIGHTS-OF-WAY OCCUPANCY.
    (A)   Each person who occupies, uses, or seeks to occupy or use the rights-
 of-way or any equipment or facilities located in the rights-of-way, or who has,
@@ -19667,7 +19667,7 @@ abatement from the registrant; or
       (2)   Taking possession of the facilities and restoring them to a usable
 condition.
 (Ord. O-2000-29, passed 7-19-00; Am. Ord. O-2020-14, passed 10-7-20)
-RIGHTS-OF-WAY CONSTRUCTION PERMITS
+*** RIGHTS-OF-WAY CONSTRUCTION PERMITS ***
 § 55.09 CONSTRUCTION PERMIT.
    Except as otherwise provided in this chapter, no person may perform major
 construction in the city rights-of-way without first having obtained a
@@ -19865,7 +19865,7 @@ or individual service repair work being done to one flag of the sidewalk, the
 registrant shall provide written notification to the city 24 hours prior to the
 commencement of such work.
 (Ord. O-2000-29, passed 7-19-00; Am. Ord. O-2020-14, passed 10-7-20)
-CONSTRUCTION AND RESTORATION
+*** CONSTRUCTION AND RESTORATION ***
 § 55.14 SUBSURFACE UTILITY ENGINEERING STUDY REQUIRED.
    (A)   Prior to commencement of any major construction, a registrant shall,
 if required by the City Engineer, conduct a subsurface utility engineering
@@ -20086,7 +20086,7 @@ authorized by the permit.
 system as required by state law or such other line location system acceptable
 to the city.
 (Ord. O-2000-29, passed 7-19-00; Am. Ord. O-2020-14, passed 10-7-20)
-ENFORCEMENT
+*** ENFORCEMENT ***
 § 55.24 PERMIT OBLIGATIONS; REVOCATION.
    (A)   The City Engineer may order the suspension of work under a
 Construction Permit and ultimately revoke any Construction Permit, without
@@ -20139,7 +20139,7 @@ connection with such revocation.
 the registrant's construction poses a serious threat to the health, safety or
 welfare of the public until such time as such serious threat has abated.
 (Ord. O-2000-29, passed 7-19-00; Am. Ord. O-2020-14, passed 10-7-20)
-PART II. COMMUNICATIONS RIGHTS-OF-WAY
+**** PART II. COMMUNICATIONS RIGHTS-OF-WAY ****
 § 55.30 INTENT AND PURPOSE; APPLICABILITY; AUTHORITY TO IMPLEMENT.
    (A)   It is the intent of the city to promote the public health, safety and
 general welfare by providing for the placement and maintenance of
@@ -24922,7 +24922,7 @@ Cross-reference:
    Citations for traffic and parking violations, see §§
 72.150 through
 72.157
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 70.01 ADOPTION OF STATE UNIFORM TRAFFIC CONTROL LAW BY REFERENCE.
    The city hereby adopts by reference all of the provisions of F.S. Chapter
 316, known as the Florida Uniform Traffic Control Law, regulating the movement
@@ -25094,7 +25094,7 @@ or cause it to be removed without notice.
 § 70.99
 § 70.05 (RESERVED).
 (Ord. O-91-16, passed 3-20-91; Repealed by Ord. O-2017-20, passed 12-6-17)
-CITY ENGINEER
+*** CITY ENGINEER ***
 § 70.20 CITY ENGINEER TO PERFORM DUTIES OF TRAFFIC ENGINEER.
    All functions formerly performed by the Traffic Engineer that have not been
 transferred to the Broward County Department of Transportation are hereby
@@ -25170,7 +25170,7 @@ Schedule I
    Citations for traffic and parking violations, see
 §§ 72.150 through
 72.157
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 71.01 SPEED LIMIT IN CITY ALLEYS.
    (A)   For purposes of this chapter an ALLEY shall mean every street or way
 within a block, which is set apart for public use, vehicular traffic and local
@@ -25203,7 +25203,7 @@ with other traffic;
 directions of a law enforcement officer or official traffic-control devices.
 ('72 Code, § 34-13) (Ord. O-73-51, passed 6-27-73) Penalty, see
 § 71.99
-MOTORCYCLES; MOTOR SCOOTERS AND MOTOR BIKES
+*** MOTORCYCLES; MOTOR SCOOTERS AND MOTOR BIKES ***
 § 71.24 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -25434,7 +25434,7 @@ Administration and Enforcement
  
    
 72.999   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 72.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -26058,7 +26058,7 @@ vehicle upon any bridge or causeway.
 ('72 Code, § 34-135) (Ord. O-79-13, passed 3-7-79; Am. Ord. O-2009-06, passed
 5-6-09) Penalty, see §
 72.999
-PARKING ON PRIVATE PROPERTY
+*** PARKING ON PRIVATE PROPERTY ***
 § 72.050 (RESERVED)
 ('72 Code, § 34-48) (Ord. O-79-13, passed 3-7-79)
 § 72.051 CONSENT OF OWNER REQUIRED.
@@ -26136,7 +26136,7 @@ parking services.
 ('72 Code, § 34-52) (Ord. O-79-13, passed 3-7-79)
 § 72.058 (RESERVED)
 ('72 Code, § 34-53) (Ord. O-79-13, passed 3-7-79)
-METERED ZONES
+*** METERED ZONES ***
 § 72.075 AUTHORITY OF DIRECTOR OF THE OFFICE OF PARKING & INTERGOVERNMENTAL
 AFFAIRS TO ESTABLISH.
    The Director of the Office of Parking & Intergovernmental Affairs is hereby
@@ -26230,7 +26230,7 @@ in §
 72.112. For purposes of this section, trucks, tractor trailers, semi-trailers
 and trailers shall have the same meaning as set forth in F.S. § 320.01.
 (Ord. O-2021-07, passed 5-5-21)
-LEASE OF SPACES IN MUNICIPAL PARKING LOTS
+*** LEASE OF SPACES IN MUNICIPAL PARKING LOTS ***
 § 72.095 AUTHORITY OF CITY TO ISSUE PARKING PERMITS.
    The Director of the Office of Parking & Intergovernmental Affairs or his or
 her designee is hereby authorized to issue parking permits which shall entitle
@@ -26274,7 +26274,7 @@ she determines that the proposed lease is not likely to create, during the term
 of the lease, a shortage of parking spaces available to the public in the
 vicinity of the leased lot/garage.
 (Ord. O-2010-26, passed 7-7-10)
-COMMERCIAL VEHICLES AND PASSENGER VEHICLES
+*** COMMERCIAL VEHICLES AND PASSENGER VEHICLES ***
 § 72.110 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -26389,7 +26389,7 @@ residential property, or in any driveway of a residential property, even if
 such residential property is located in an area or district that is not zoned
 residential.
 (Ord. O-96-39, passed 10-16-96)
-RECREATIONAL AND SPECIAL-PURPOSE VEHICLES
+*** RECREATIONAL AND SPECIAL-PURPOSE VEHICLES ***
 § 72.120 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -26503,7 +26503,7 @@ Commission or any other interested party.
 Sheridan Street and 68th Avenue shall be established by resolution of the City
 Commission.
 (Ord. O-99-010, passed 4-7-99)
-TRAVEL TRAILERS; MOBILE HOMES
+*** TRAVEL TRAILERS; MOBILE HOMES ***
 § 72.130 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -26557,7 +26557,7 @@ special use or event permit.
 passed 3-3-82; Am. Ord.
 O-2001-30, passed 7-11-01) Penalty, see §
 72.999
-HANDICAPPED PARKING
+*** HANDICAPPED PARKING ***
 § 72.140 PROVIDED BY GOVERNMENTAL ENTITIES.
    Parking spaces provided by governmental agencies for certain disabled
 persons:
@@ -26624,7 +26624,7 @@ person. No penalty shall be imposed upon the driver for such momentary parking.
 ('72 Code, § 34-36(b)) (Ord. O-79-13, passed 3-7-79; Am. Ord. O-83-51, passed
 9-21-83; Am. Ord. O-2001-30, passed 7-11-01) Penalty, see §
 72.999
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 72.150 POWERS AND DUTIES OF POLICE DEPARTMENT.
    It shall be the duty of the Chief of Police with such aid as may be rendered
 by other members of city departments so empowered to enforce the provisions of
@@ -28404,7 +28404,7 @@ Skydiving and Parachute Jumping
 91.15   Definitions
    
 91.16   Skydiving, parachute jumping prohibited; exceptions
-HELICOPTERS
+*** HELICOPTERS ***
 § 91.01 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -28457,7 +28457,7 @@ the requirements of the Federal Aviation Administration, Florida state law and
 the rules of the State of Florida Department of Transportation, as amended from
 time to time.
 ('72 Code, § 2½-14) (Ord. O-74-59, passed 6-5-74)
-SKYDIVING AND PARACHUTE JUMPING
+*** SKYDIVING AND PARACHUTE JUMPING ***
 § 91.15 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -28564,7 +28564,7 @@ Administration and Enforcement
  
    
 92.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 92.01 CITY DECLARED TO BE BIRD SANCTUARY.
    (A)   The territory embraced within the corporate limits of the city is
 hereby declared to be a bird sanctuary.
@@ -28761,7 +28761,7 @@ provide each dog with sufficient shelter within the required open space. Any
 enclosed area where the dog is confined shall be kept free of objects that may
 injure the dog.
 (Ord. O-2005-12, passed 7-6-05; Am. Ord. O-2022-02, passed 2-16-22)
-DOGS
+*** DOGS ***
 § 92.15 RABIES VACCINATION.
    It shall be unlawful for any person who owns, or who is in charge or control
 of, any dog to keep or knowingly permit said dog within the city limits without
@@ -29082,7 +29082,7 @@ year.
 dog used for their assistance.
 (Ord. O-96-10, passed 4-17-96) Penalty, see
 § 92.99
-FOWL
+*** FOWL ***
 § 92.35 SCOPE, INTENT OF SUBCHAPTER; COMPLIANCE REQUIRED.
    (A)   The provisions of this subchapter shall apply to any and all fowl,
 including chickens, ducks, geese, turkeys, peafowl and pheasants; and the
@@ -29128,7 +29128,7 @@ shall disturb any of the inhabitants of the vicinity.
 ('72 Code, § 6-46)
 (Ord. 640, passed - - ) Penalty, see
 § 92.99
-PET SHOPS; COMMERCIAL KENNELS
+*** PET SHOPS; COMMERCIAL KENNELS ***
 § 92.50 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -29502,7 +29502,7 @@ dry area sufficient for each turtle contained therein.
 be affixed thereto.
 ('72 Code, § 6-65) (Ord. O-75-52, passed 4-2-75) Penalty, see
 § 92.99
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 92.80 ANIMAL CONTROL OFFICER.
    The City Manager is hereby empowered to employ an Animal Control Officer,
 whose duty shall be enforcing all provisions of this chapter relating to
@@ -29626,7 +29626,7 @@ Permits
  
    
 93.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 93.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -29713,7 +29713,7 @@ that such test will take place, and the specified time and date thereof.
 57, passed 11-3-93; Am. Ord. O-94-03, passed 1-19-94; Am. Ord. O-2008-30,
 passed 12-3-08) Penalty, see
 § 93.99
-PERMITS
+*** PERMITS ***
 § 93.20 PERMIT REQUIRED.
    (A)   It shall be unlawful for any person to maintain or operate an alarm
 system in or on any building, structure, facility or enclosed area in the city
@@ -30019,7 +30019,7 @@ Facility
  
    
 94.999   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 94.001 ADOPTION OF STATE, NATIONAL FIRE CODES BY REFERENCE.
    (A)   The following codes and standards are hereby adopted by the city for
 the purpose of prescribing regulations governing conditions hazardous to life
@@ -30033,7 +30033,7 @@ of the above codes shall be filed in the office of the City Clerk, and the same
 are hereby adopted and incorporated as fully as if set out at length herein.
 ('72 Code, § 12-1) (Ord. O-79-47, passed 9-5-79; Am. Ord. O-91-31, passed 6-5-
 91; Am. Ord. O-2005-02, passed 3-2-05)
-FIRE PROTECTION REGULATIONS GENERALLY
+*** FIRE PROTECTION REGULATIONS GENERALLY ***
 § 94.020 FIRE EXTINGUISHERS.
    (A)   Every hotel, apartment house, rooming house, restaurant, garage,
 gasoline station, barroom, drugstore, barbershop, beauty shop, hardware store,
@@ -30163,7 +30163,7 @@ prior to the Fire Chief approving the special event.
    (E)   Costs for recovery established by resolution. All costs for recovery
 of a fire watch shall be established by resolution of the City Commission.
 (Ord. O-2016-03, passed 2-17-16)
-FIRE ALARMS
+*** FIRE ALARMS ***
 § 94.040 FALSE FIRE ALARMS.
    Any person falsely or fraudulently communicating by telephone, messenger, or
 otherwise, a false or erroneous report of a fire to theFire Department of the
@@ -30185,7 +30185,7 @@ the sort or character as used by the officers or employees of the Fire
 Department within the city limits.
 ('72 Code, § 12-2) (Ord. 26, passed - - ) Penalty, see
 § 94.999
-FOOD OR BEVERAGE ESTABLISHMENTS
+*** FOOD OR BEVERAGE ESTABLISHMENTS ***
 § 94.050 SEATING FACILITIES; PERMITTED DENSITY.
    (A)   It shall be unlawful for any person, as owner, operator, manager, or
 in any other capacity, having custody or control of any building or any room or
@@ -30248,7 +30248,7 @@ presence or in the presence of such Fire Prevention Inspector.
 ('72 Code, § 12-12)
 (Ord. 1960, passed - - ) Penalty, see
 § 94.999
-HIGH EXPLOSIVE COMPOUNDS
+*** HIGH EXPLOSIVE COMPOUNDS ***
 § 94.075 PETROLEUM GAS.
    The following minimum standards for liquefied petroleum gas installations on
 mobile catering units operating in the city shall be as follows:
@@ -30318,7 +30318,7 @@ punished by a fine as set forth in §
 ('72 Code, § 12-17) (Ord. O-75-17, passed 2-19-75; Am. Ord. O-88-14, passed 4-
 6-88) Penalty, see
 § 94.999
-UNSAFE BUILDINGS
+*** UNSAFE BUILDINGS ***
 § 94.085 ORDER TO OWNER TO CORRECT OR IMPROVE.
    Whenever the Fire Chief or any officer or members of the Fire Department
 shall find any building or other structure which, for want of repair or by
@@ -30352,7 +30352,7 @@ through a contractor making the lowest responsible bid, the necessary cost to
 remove the building and/or remove the salvage, contents, debris and abandoned
 property from the premises.
 ('72 Code, § 12-32.1)
-HAZARDOUS CONDITIONS
+*** HAZARDOUS CONDITIONS ***
 § 94.090 USE OF TORCHES, FLAME OR SPARK PRODUCING DEVICES.
    It shall be unlawful to use a torch, flame or spark producing devices in or
 on any building structure or area without a permit.
@@ -30383,7 +30383,7 @@ Broward County, Florida, as revised from time to time.
    (E)   The fee for any permit issued under this section shall be set or
 amended by resolution.
 (Ord. O-96-03, passed 2-21-96; Am. Ord. O-2005-02, passed 3-2-05)
-HAZARDOUS SUBSTANCES
+*** HAZARDOUS SUBSTANCES ***
 § 94.100 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -30436,7 +30436,7 @@ and in addition to all other available remedies at law and equity.
 ('72 Code, § 12-52(b), (c)(1) and (3)) (Ord. O-89-1, passed 1-4-89) Penalty,
 see
 § 94.999
-SMOKING IN PUBLIC PLACES
+*** SMOKING IN PUBLIC PLACES ***
 § 94.115 WHERE PROHIBITED.
    It shall be unlawful for any person to smoke in a place placarded in
 accordance with §
@@ -30553,7 +30553,7 @@ explosion.
 ('72 Code, § 12-60)
 (Ord. O-73-61, passed 7-25-73) Penalty, see
 § 94.999
-SMOKE DETECTORS
+*** SMOKE DETECTORS ***
 § 94.130 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -30680,7 +30680,7 @@ inspections and shall make same available to the Fire Department to assist in
 the enforcement of the provisions of this subchapter.
 ('72 Code, § 12-75) (Ord. O-86-4, passed 1-22-86) Penalty, see
 § 94.999
-OPEN BURNING
+*** OPEN BURNING ***
 § 94.150 POLICY.
    The open burning of material outdoors results in or contributes to air
 pollution and safety risks to the general public. The regulation of open
@@ -30819,7 +30819,7 @@ compliance with all state or local laws as applicable.
 ('72 Code, § 12-82) (Ord. O-88-31, passed 6-8-88; Am. Ord. O-93-58, passed 11-
 3-93) Penalty, see
 § 94.999
-FIRE INSPECTIONS
+*** FIRE INSPECTIONS ***
 § 94.170 INSPECTION PRIOR TO ISSUANCE OF ANY REQUIRED LICENSE OR PERMIT.
    Before licenses may be issued for the keeping, storage, use, manufacture,
 sale, handling, transportation or other disposition of highly flammable
@@ -30939,7 +30939,7 @@ his jurisdiction for the purpose of making any inspection or investigation
 which, under the provisions of this chapter, he or they may deem necessary to
 be made.
 ('72 Code, § 12-44) (Ord. 1837, passed - - ; Am. Ord. O-88-84, passed 12-14-88)
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 94.200 FIRE DEPARTMENT; POWERS AND DUTIES AT SCENE OF FIRE.
    (A)   The Fire Department shall have control of and management of all fires
 within the city limits and its officers shall have the power to prevent anyone
@@ -31126,7 +31126,7 @@ Housing Discrimination
  
    
 96.99   Penalty
-HOUSING DISCRIMINATION
+*** HOUSING DISCRIMINATION ***
 § 96.01 POLICY.
    It is hereby declared to be the policy of the city in the exercise of its
 police power for the public safety, public health, and general welfare to
@@ -31706,7 +31706,7 @@ Commercial Boats and Vessels
 Cross-reference:
    Abandoned boats or vessels, see
 Chapter 90
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 98.000 DEFINITIONS.
    The following words, terms and phrases, when used in this chapter, shall
 have the following meanings:
@@ -31951,7 +31951,7 @@ above. For purposes of this section, "Port Jurisdictional Area" means that
 certain area lying within the city and also lying within the seaport known as
 "Port Everglades."
 (Ord. O-2010-34, passed 10-6-10; Am. Ord. O-2011-16, passed 5-18-11)
-DOCKS AND PIERS
+*** DOCKS AND PIERS ***
 § 98.025 SUBLETTING BERTHS.
    No berth allotted under the terms of this chapter shall be sublet by any
 owner.
@@ -32102,7 +32102,7 @@ any vessel or watercraft within the city limits, or to moor any vessel or
 watercraft in a manner as to cause such vessel or watercraft to be or become a
 menace to navigation.
 (Ord. O-95-76, passed 12-20-95)
-PRIVATE BOAT DOCKS
+*** PRIVATE BOAT DOCKS ***
 § 98.050 LEASE WITH CITY.
    All persons desiring to construct a boat dock facility upon city property
 shall first enter into a lease agreement with the city in accordance with the
@@ -32143,7 +32143,7 @@ such unwarranted use shall be and constitute a trespass, which may be summarily
 removed by the Police Department of the city.
 (‘72 Code, § 9-76) (Ord. O-75- 55, passed 4-16-75; Am. Ord. O-2022-11, passed
 5-18-22)
-PORT EVERGLADES FACILITIES
+*** PORT EVERGLADES FACILITIES ***
 § 98.075 FISHING, LOITERING PROHIBITED.
    It shall be unlawful for any person to fish or loiter on any pier, dock,
 wharf, or other waterfront facility at Port Everglades, Florida, which lie
@@ -32161,7 +32161,7 @@ Captain of the Port.
 ('72 Code, § 21-36) (Ord. 597, passed - - ; Am. Ord. O-88-14, passed 4-6-88)
 Penalty, see
 § 98.999
-HOLLYWOOD MARINA
+*** HOLLYWOOD MARINA ***
 § 98.100 PRIVATE AND PLEASURE BOATS PERMITTED.
    This subchapter shall be effective for any boat or vessel operated for
 private and/or pleasure purposes from any property of the city. Boats or
@@ -32228,7 +32228,7 @@ which may be summarily removed by the Police Department of the city.
 ('72 Code, § 9-71) (Ord. 1326, passed - - ; Am. Ord. O-83-69, passed 11-16-83)
 Penalty, see
 § 98.999
-COMMERCIAL BOATS AND VESSELS
+*** COMMERCIAL BOATS AND VESSELS ***
 § 98.125 SCOPE.
    This subchapter shall be effective for any boats or vessels operated for
 commercial purposes from any property of the city.
@@ -33397,7 +33397,7 @@ Cross-reference:
 § 100.01
    Abandoned property or vessels, see
 Chapter 90
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 101.01 DISCARDING WASTE MATERIALS OR UNUSABLE VEHICLES PROHIBITED.
    (A)   It shall be unlawful for any person to cause or permit junk, scrap
 metal, scrap lumber, wastepaper products, discarded building materials, or any
@@ -33562,7 +33562,7 @@ passed 2-15-95; Am. Ord. O-95-49, passed 9-20-95; Am. Ord. O-97-01, passed 2-5-
 97; Am. Ord. O-98-20, passed 7-15-98; Am. Ord. O-2004-15, passed 6-2-04; Am.
 Ord. O-2013-06, passed 2-20-13) Penalty, see §
 101.99
-INSPECTIONS
+*** INSPECTIONS ***
 § 101.20 QUARTERLY INSPECTIONS OF ALL LOTS, LAND IN CITY.
    It shall be the duty of the city to inspect, at least four times in each
 year, all lots and lands within the limits of the city, to ascertain whether or
@@ -33578,7 +33578,7 @@ Department Director any conditions as set forth in §
 hazard or poor sanitation within the limits of the city, with final enforcement
 authority resting with the Chief Building Official of the City.
 ('72 Code, § 13-14(2)) (Ord. 64, passed - - ; Am. Ord. O-95-15, passed 3-15-95)
-ABATEMENT PROCEDURES
+*** ABATEMENT PROCEDURES ***
 § 101.40 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -34413,7 +34413,7 @@ Rate Schedules
  
    
 103.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
    The City Manager, and/or his or her designee, have the authority to produce
 policies and procedures for the Department of Parks, Recreation and Cultural
 Art.
@@ -34498,7 +34498,7 @@ Commission.
 § 103.16 (RESERVED).
 (‘72 Code, §§ 23-38, 23-39) (Ord. 2060, passed - - ; Repealed by Ord. O-2015-
 28, passed 10-21-15)
-RATE SCHEDULES
+*** RATE SCHEDULES ***
 § 103.30 YOUTH RECREATION RATE SCHEDULE.
    The rate schedule for the city's Recreation Youth Program shall be
 established by resolution of the City Commission.
@@ -34607,7 +34607,7 @@ Cross-reference:
    Sidewalks; duties of abutting property owners, see
 §§ 155.30 -
 155.38
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 104.01 USE OF PUBLIC WAYS FOR PRIVATE BUSINESS.
    (A)   Except as provided in §
 122.02, no person shall use any portion of the streets, sidewalks or other
@@ -34739,7 +34739,7 @@ public sidewalks constructed within the city.
 ('72 Code, § 29-5) (Ord. 512, passed - - )
 Penalty, see
 § 10.99
-SPECIFICATIONS
+*** SPECIFICATIONS ***
 § 104.20 CONSTRUCTION OF GROIN INTO ATLANTIC OCEAN.
    No groin of any type shall be built or constructed which extends eastward
 into the Atlantic Ocean without the approval of the City Commission upon
@@ -34752,7 +34752,7 @@ Penalty, see
    The design and construction of streets, highways and thoroughfares shall be
 in accord with the tables set forth in the Appendix following this chapter.
 ('72 Code, § 29-61)
-EXCAVATIONS
+*** EXCAVATIONS ***
 § 104.35 PERMIT REQUIRED; BOND AND FEE.
    (A)   Before any individual, contractor, association or corporation shall
 dig into any street, alley, sidewalk, or way within the city, it shall be the
@@ -34867,7 +34867,7 @@ its intentions to comply with the provisions of this subchapter relating to the
 proper repair of such street, alley or way, and to notify the City Manager of
 the completion of such repairs.
 ('72 Code, § 29-30) (Ord. 1094, passed - - )
-STREET NAME SIGNS
+*** STREET NAME SIGNS ***
 § 104.50 CHANGING WITHOUT AUTHORITY.
    It shall be unlawful for any person to place, or cause to be placed, any
 sign designating a street, avenue or other public place by a different name
@@ -34881,7 +34881,7 @@ deface or remove any of the street signs posted at or near the corner of the
 streets in the city.
 ('72 Code, § 29-7) Penalty, see
 § 10.99
-HOUSE NUMBERING
+*** HOUSE NUMBERING ***
 § 104.75 AUTHORITY OF CITY TO ESTABLISH SYSTEM; OBTAINING NUMBER FOR NEW
 BUILDING.
    (A)   The street numbers of all houses and buildings in the city shall be
@@ -35033,7 +35033,7 @@ Real Estate
    
 105.31   Additional homestead exemption; assessed value of property with just
 value less than $250,000
-INSURANCE COMPANIES
+*** INSURANCE COMPANIES ***
 § 105.01 FIRE OR TORNADO INSURANCE COMPANIES; CREATION OF FIREMEN'S RELIEF AND
 PENSION FUND.
    (A)   Pursuant to and in accordance with F.S. Chapters 175 and 624, as
@@ -35084,7 +35084,7 @@ the first day of March.
    (D)   All moneys received by the city, under the provisions of this section
 shall be paid immediately into its Police Officers' Pension Fund.
 (Ord. 1204, passed - - ; Am. Ord. O-88-72, passed 11-2-88)
-TELECOMMUNICATION SERVICES
+*** TELECOMMUNICATION SERVICES ***
 § 105.20 LEVY OF TAX.
    (A)   Telecommunication service. There is hereby levied by the city, on
 retail sales of communications services as defined by F.S. § 202.11(3), as
@@ -35209,7 +35209,7 @@ of the Internal Revenue Code and that are situated within the city limits, are
 hereby exempted from payment of taxes levied and imposed by this subchapter.
 ('72 Code, § 32-39) (Ord. 1385, passed - - ; Am. Ord. 1409, passed - - ; Am.
 Ord. O-2002-09, passed 2-6-02)
-REAL ESTATE
+*** REAL ESTATE ***
 § 105.30 ADDITIONAL HOMESTEAD EXEMPTION; $25,000.
    (A)   Application of this section. Pursuant to an in accordance with Section
 196.075. Florida Statutes, the additional homestead exemption as set forth in
@@ -35407,7 +35407,7 @@ Cross-reference:
    Trees in public rights-of-way, see
 §§ 155.50 -
 155.54
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 106.01 PLANTING EXOTIC PEST PLANTS CATEGORY I AND II PROHIBITED.
    (A)   No person shall plant or cause to be planted anywhere within the city
 limits, any trees of the species Casuarina (better known as Australian Pine
@@ -35537,7 +35537,7 @@ passed 12-17-03) Penalty, see
 substance upon any public right-of-way, park or on private property where such
 material may enter the ground at the roots of any tree, shrub or vine.
 ('72 Code, § 29-47) (Am. Ord. O-2001-23, passed 6-30-01)
-PRESERVATION OF TREES
+*** PRESERVATION OF TREES ***
 § 106.25 DOCUMENTS INCORPORATED BY REFERENCE; DEFINITIONS.
    (A)   Documents incorporated by reference. The following documents, as
 amended from time to time, areadopted as standards and are deemed as being
@@ -36001,7 +36001,7 @@ prior to issuance of the first building permit.
 street rights-of-way and swale areas, without the approval of the city.
 ('72 Code, § 22½-7) (Ord. O-73-31, passed 5-16-73) Penalty, see
 § 106.99
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 106.50 CITY TO IMPLEMENT, ENFORCE.
    The City Manager shall designate city personnel to be responsible for
 implementing and enforcing the provisions of this chapter and any pertinent
@@ -36723,7 +36723,7 @@ variable tax bases
    
 110.99   Penalties for nonpayment, operating without a local business tax
 receipt, making a fraudulent return
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 110.01 INTERPRETATION; APPLICATION OF CHAPTER.
    (A)    Unless otherwise herein repealed or specifically excepted, changed or
 differentiated, all qualifying or regulatory ordinances of the city applicable
@@ -37060,7 +37060,7 @@ parked on the premises except that such vehicle may be parked within a closed
 garage in a manner which makes it impossible to be seen from a public right-of-
 way.
 (Ord. O-95-44, passed 7-26-95; Am. Ord. O-2007-07, passed 4-18-07)
-BUSINESS CLASSIFICATION AND LOCAL BUSINESS TAX RATE SCHEDULE
+*** BUSINESS CLASSIFICATION AND LOCAL BUSINESS TAX RATE SCHEDULE ***
 § 110.50 BUSINESS CLASSIFICATIONS ESTABLISHED.
    (A)   The Director of Financial Services, or his or her designee, shall
 categorize each business, occupation and profession under one of the following
@@ -37399,7 +37399,7 @@ shall be entitled to a full refund without request.
 (Ord. O-95-44, passed 7-26-95; Am. Ord. O-95-65, passed 11-1-95; Am. Ord. O-
 2000-30, passed 7-19-00; Am. Ord. O-2000-36, passed 10-4-00; Am. Ord. O-2007-
 07, passed 4-18-07)
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 110.80 DIRECTOR OF FINANCE TO ENFORCE CHAPTER; ASSISTANCE FROM CHIEF OF
 POLICE.
    It shall be the duty of the Director of Finance to enforce the provisions of
@@ -37825,7 +37825,7 @@ Hours of Sale
  
    
 113.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 113.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -38105,7 +38105,7 @@ or designee shall give written notice thereof to the applicant.
 93; Am. Ord. O-98-08, passed 5-6-98; Am. Ord. O-2010- 16, passed 6-2-10; Am.
 Ord. O-2022-12, passed 6-15-22) Penalty, see
 § 113.99
-HOURS OF SALE
+*** HOURS OF SALE ***
 § 113.25 HOURS OF SALE; GENERALLY.
    (A)   No person or vendor, except those determined by the City Commission to
 comply with the requirements for an extended hours license pursuant to §
@@ -38723,7 +38723,7 @@ Ambulances
  
    
 114.99   Penalty
-AMBULANCES
+*** AMBULANCES ***
 § 114.01 DEFINITION; GENERAL USE.
    (A)   For the purpose of this subchapter an AMBULANCE shall be defined as a
 motor vehicle constructed, reconstructed, or arranged for the purpose of
@@ -39430,7 +39430,7 @@ Administration, Penalties, and Enforcement
 119.57   Notice
    
 119.58   Penalties and enforcement
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 119.01 PURPOSE.
    The purpose of this chapter is to (i) provide regulations pertaining to
 vacation rentals to preserve the quiet nature and atmosphere of residential
@@ -39488,7 +39488,7 @@ week to any issue that arises relating to the vacation rental.
 (Ord. O-2015-24, passed 10-21-15; Am. Ord. O-2017-12, passed 8-30-17; Am. Ord.
 O-2017-15, passed 9-20-17; Am. Ord. O-2021- 01, passed 1-20-21; Am. Ord. O-
 2023-12, passed 9-6-23)
-VACATION RENTAL LICENSE
+*** VACATION RENTAL LICENSE ***
 § 119.10 LICENSE REQUIRED.
    (A)   A property owner shall not operate a vacation rental prior to being
 issued a vacation rental license. The property shall not be advertised prior to
@@ -39794,7 +39794,7 @@ operating the property as a vacation rental.
 (Ord. O-2015-24, passed 10-21-15; Am. Ord. O-2017-12, passed 8-30-17; Am. Ord.
 O-2017-15, passed 9-20-17; Am. Ord. O-2023-12, passed 9-6-23)
 § 119.18 (RESERVED).
-VACATION RENTAL REPRESENTATIVE
+*** VACATION RENTAL REPRESENTATIVE ***
 § 119.20 DUTIES OF THE VACATION RENTAL REPRESENTATIVE.
    Every vacation rental representative shall:
    (A)   Be available by landline or mobile telephone answered by the vacation
@@ -39824,8 +39824,8 @@ City Commission.
 (Ord. O-2015-24, passed 10-21-15; Am. Ord. O-2017-12, passed 8-30-17; Am. Ord.
 O-2017-15, passed 9-20-17; Am. Ord. O-2021-01, passed 1-20-21; Am. Ord. O-2023-
 12, passed 9-6-23)
-STANDARDS AND REQUIREMENTS
-FOR VACATION RENTALS
+*** STANDARDS AND REQUIREMENTS
+FOR VACATION RENTALS ***
 § 119.30 GENERAL.
    The standards and requirements set forth in this subchapter shall apply to
 the rental, use, and occupancy of vacation rentals in the city.
@@ -40049,8 +40049,8 @@ three years. The responsible party may conduct a free offender search at https:
 //offender.fdle.state.fl.us /offender/sops/home.isf.
 (Ord. O-2017-12, passed 8-30-17; Am. Ord. O-2017-15, passed 9-20-17; Am. Ord.
 O-2023-12, passed 9-6-23)
-ADMINISTRATION, PENALTIES,
-AND ENFORCEMENT
+*** ADMINISTRATION, PENALTIES,
+AND ENFORCEMENT ***
 § 119.55 ADMINISTRATION OF VACATION RENTAL LICENSE PROGRAM.
    The ultimate responsibility for the administration of this chapter is vested
 in the City Manager, or his or her authorized designee, who is responsible for
@@ -40747,7 +40747,7 @@ Secondary Metals Recyclers
 121.15   Penalties
    
 121.16   Supplemental
-SECONDHAND DEALERS
+*** SECONDHAND DEALERS ***
 § 121.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -40965,7 +40965,7 @@ the purpose of locating stolen goods or inspecting the records required to be
 kept by this chapter.
 ('72 Code, § 19-137) (Ord. O-81-17, passed 3-4-81; Am. Ord. O-81-33, passed 5-
 20-81)
-SECONDARY METALS RECYCLERS
+*** SECONDARY METALS RECYCLERS ***
 § 121.09 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -41213,7 +41213,7 @@ ArtsPark Busker and Vendor Program
  
    
 122.99   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 122.01 REQUIREMENTS FOR VEHICLES USED.
    All vehicles used in the city for the purpose of solicitation of business,
 delivery or transportation of merchandise, or for the transportation of
@@ -41543,7 +41543,7 @@ school stands, within the city, or within 300 feet of a church edifice, or any
 part of the property upon which such edifice stands, within the city.
 ('72 Code, § 21-17) (Ord. 431, passed - - ) Penalty, see
 § 122.99
-CHARITABLE SOLICITATIONS
+*** CHARITABLE SOLICITATIONS ***
 § 122.25 APPLICABILITY.
    The provisions of this subchapter shall govern all charitable solicitations
 within the city.
@@ -41655,7 +41655,7 @@ pertaining to the registered solicitation at any reasonable time while the
 permit is in effect or after it has expired.
 ('72 Code, § 16-25) (Ord. O-81-72, passed 10-21-81) Penalty, see
 § 122.99
-PANHANDLING, BEGGING OR SOLICITATION
+*** PANHANDLING, BEGGING OR SOLICITATION ***
 § 122.50 INTENT.
    This subchapter is intended to preserve and protect the personal safety and
 quality of life of citizens of the city and of those who use the streets within
@@ -41739,7 +41739,7 @@ location in the city.
 (Ord. O-2014-12, passed 6-18-14) Penalty, see §
 122.99
 § 122.54 (RESERVED).
-ARTSPARK BUSKER AND VENDOR PROGRAM
+*** ARTSPARK BUSKER AND VENDOR PROGRAM ***
 § 122.100 SCOPE.
    This subchapter is intended by the City Commission to be the framework
 within which busker performances and vendor sales, as defined herein, that are
@@ -42069,7 +42069,7 @@ Sidewalk Cafés
 124.10   Permit renewal procedures
    
 124.11   Enforcement procedures
-SIDEWALK CAFÉS
+*** SIDEWALK CAFÉS ***
 § 124.01 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -42657,7 +42657,7 @@ Call Boxes
  
    
 126.999   Penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 126.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -42690,7 +42690,7 @@ take appropriate action.
 and/or cooperatives for the exclusive convenience of their apartment owners are
 hereby exempted from the provisions of this chapter.
 ('72 Code, § 33-4) (Ord. O-75-44, passed 3-17-75)
-CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY
+*** CERTIFICATE OF PUBLIC CONVENIENCE AND NECESSITY ***
 § 126.010 REQUIRED.
    No person shall operate or permit a jitney service owned or controlled by
 him, to be operated as a vehicle for hire upon the streets of the city without
@@ -42830,7 +42830,7 @@ revocation of a certificate of any offending holder or the cancellation of any
 cab stand privileges.
 ('72 Code, § 33-87) (Ord. 1717, passed - - ) Penalty, see
 § 126.999
-DRIVER'S LICENSES
+*** DRIVER'S LICENSES ***
 § 126.030 REQUIRED.
    No person shall operate a jitney upon the streets of the city, no person who
 owns or controls a jitney shall permit to be driven at any time for hire,
@@ -42897,7 +42897,7 @@ state and federal laws. Failure to do so will justify the City Manager in
 suspending or revoking his license.
 ('72 Code, § 33-42)
 (Ord. 1717, passed - - )
-EQUIPMENT AND MAINTENANCE OF VEHICLES
+*** EQUIPMENT AND MAINTENANCE OF VEHICLES ***
 § 126.055 INSPECTION OF VEHICLES; ISSUANCE OF LICENSE AND FEE.
    (A)   (1)   Prior to the use and operation of any vehicle under the
 provisions of this chapter, and semiannually during the months of April and
@@ -42971,7 +42971,7 @@ for any person owning or operating a taxicab or motor vehicle for hire to
 permit advertising matter to be affixed to or installed in or upon such
 taxicabs or motor vehicles for hire.
 ('72 Code, § 33-88) (Ord. 1717, passed - - )
-OPERATION REGULATIONS
+*** OPERATION REGULATIONS ***
 § 126.075 RECEIPTS FOR FARE.
    The driver of any jitney shall, upon demand by the passenger, render to such
 passenger a receipt for the amount charged, either by a mechanically printed
@@ -43008,7 +43008,7 @@ upon request, unless previously engaged or unable or forbidden by the
 provisions of this chapter to do so.
 ('72 Code, § 33-79) (Ord. 1717, passed - - ) Penalty, see
 § 126.999
-CALL BOXES
+*** CALL BOXES ***
 § 126.095 ESTABLISHMENT.
    (A)   The City Manager is hereby authorized and empowered to establish a
 call box upon the authorization of the City Commission in such places as in his
@@ -43097,7 +43097,7 @@ Sale or Display of Herbal Incense
  
    
 127.999   Penalty
-BARBERS
+*** BARBERS ***
 § 127.001 LOCAL BUSINESS TAX RECEIPT REQUIRED.
    Before any local business tax receipt to practice the profession of
 barbering in the city may by granted, the person, owner, manager, operator or
@@ -43108,7 +43108,7 @@ business tax receipt shall be renewed annually, becoming due and payable on
 October 1st of each year.
 (‘72 Code, §19-48.3) (Ord. O-72-117, passed 6-28-72; Am. Ord. O-2007-07, passed
 4-18-07)
-CONSUMER GOODS
+*** CONSUMER GOODS ***
 § 127.025 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -43192,7 +43192,7 @@ property to be sold which is exempt from sales tax pursuant to applicable state
 law.
 ('72 Code, § 21-91) (Ord. O-83-31, passed 6-1-83; Am. Ord. O-89-43, passed 7-
 19-89)
-ELECTROLYSIS
+*** ELECTROLYSIS ***
 § 127.050 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -43247,7 +43247,7 @@ during the time that the person is engaged in the practice of electrolysis in
 the city.
 ('72 Code, § 19-93) (Ord. 945, passed - - ) Penalty, see
 § 127.999
-GASOLINE STATIONS
+*** GASOLINE STATIONS ***
 § 127.075 PRICE SIGNS REQUIRED.
    (A)   At least one price sign per gasoline station, service station or other
 retail gasoline outlet is required, illuminated or otherwise. The sign shall be
@@ -43268,7 +43268,7 @@ than ten inches tall on the sign.
 ('72 Code, § 21-76) (Ord. O-80-6, passed 1-16-80; Am. Ord. O-89-43, passed 7-
 19-89) Penalty, see
 § 127.999
-LEASE DEPARTMENTS
+*** LEASE DEPARTMENTS ***
 § 127.100 LOCAL BUSINESS TAX RECEIPT REQUIRED.
    Every person operating what is commonly known as a “lease department” in any
 store shall pay a local business tax for the operation of each department so
@@ -43277,7 +43277,7 @@ set forth therein.
 (‘72 Code, § 19-48) (Ord. O-72-117, passed 6-28-72; Am. Ord. O-2007-07, passed
 4-18-07) Penalty, see
 § 127.999
-PESTICIDES
+*** PESTICIDES ***
 § 127.125 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -43333,7 +43333,7 @@ or animal that has ingested any pesticide, defoliant, desiccant or plant
 regulator applied by the user.
 ('72 Code, § 21-92(b)) (Ord. O-85-07, passed 2-20-85; Am. Ord. O-89-43, passed
 7-19-89)
-REAL ESTATE BUSINESSES
+*** REAL ESTATE BUSINESSES ***
 § 127.150 COMPLIANCE WITH CITY AND STATE LICENSING REQUIREMENTS.
    (A)   It shall be unlawful for any person to engage in a real estate
 business in the city without first having obtained a license from the State
@@ -43353,7 +43353,7 @@ proceeding, civil or criminal.
 (Ord. O-72-117, passed 6-28-72; Am. Ord. O-2007-07, passed 4-18-07) Penalty,
 see
 § 127.999
-TICKET SALES
+*** TICKET SALES ***
 § 127.175 SOLICITING FUNDS OR SELLING TICKETS IN TEEN CENTER.
    No person shall solicit funds or offer for sale tickets for any purpose
 whatsoever in the Teen Center of the city.
@@ -43391,7 +43391,7 @@ preparation thereof of $1.
 ('72 Code, § 21-33)
 (Ord. 566, passed - - ) Penalty, see
 § 127.999
-WEAPONS DEALERS
+*** WEAPONS DEALERS ***
 § 127.200 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -43449,7 +43449,7 @@ address of the person to whom sold and the date of disposition.
 (‘72 Code, § 19-45) (Ord. O-72- 117, passed 6-28-72; Am. Ord. O-2007-07, passed
 4-18-07) Penalty, see §
 127.999
-RETAIL BUSINESSES
+*** RETAIL BUSINESSES ***
 § 127.300 RETAIL BUSINESSES.
    (A)   Definitions. For purposes of this subchapter, the following
 definitions shall apply unless the context clearly indicates or requires a
@@ -43492,7 +43492,7 @@ the right to travel by motor vehicle within the city. This prohibition shall
 include those city-owned streets, roadways, and sidewalks lying within the Port
 Everglades Jurisdictional Area.
 (Ord. O-2006-15, passed 5-3-06; Am. Ord. O-2019-07, passed 3-20-19)
-SALE OR DISPLAY OF HERBAL INCENSE
+*** SALE OR DISPLAY OF HERBAL INCENSE ***
 § 127.301 SALE OR DISPLAY OF HERBAL INCENSE AND SYNTHETIC BATH SALTS.
    (A)   Definitions. For purposes of this section, the following definitions
 shall apply:
@@ -43587,7 +43587,7 @@ Miscellaneous Provisions
 128.43   Transfers; assignments
    
 128.44   Service of notice
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 128.01 PURPOSE.
    The purpose of this chapter is to promote public health, safety, welfare and
 convenience through the regulation of the placement, type, appearance,
@@ -43686,7 +43686,7 @@ reinstallation, operation, maintenance, dismantling, repair, and use of Pay
 Telephones in, upon, along, across, above, over, under and through Public
 Property or Rights-of-Way.
 (Ord. O-96-48, passed 11-6-96; Am. Ord. 0-99-37, passed 11-3-99)
-   USE OF PUBLIC PROPERTY AND PUBLIC RIGHTS-OF-WAY FOR PAY TELEPHONES
+***    USE OF PUBLIC PROPERTY AND PUBLIC RIGHTS-OF-WAY FOR PAY TELEPHONES ***
 § 128.10 LICENSE AGREEMENT AND INSTALLATION PERMIT REQUIRED.
    (A)   License Agreement and Installation Permit required. No Person may use
 Public Property or Rights-of-Way of the City for the installation and
@@ -43856,7 +43856,7 @@ Public Property or Rights-of-Way.
 reserves its right to choose the long-distance carriers on any of the Pay
 Telephones on Public Property or Rights-of-Way.
 (Ord. O-96-48, passed 11-6-96; Am. Ord. 0-99-37, passed 11-3-99)
-   FINANCIAL TERMS AND CONDITIONS
+***    FINANCIAL TERMS AND CONDITIONS ***
 § 128.20 NONREFUNDABLE INSTALLATION PERMIT APPLICATION FEE.
    Any person applying for the issuance of an Installation Permit(s) to install
 and maintain a Pay Telephone on shall pay a one-time nonrefundable Installation
@@ -43947,7 +43947,7 @@ any time be liable for any injury or damage occurring to any person or property
 from any cause whatsoever, arising from the use, operation or condition of any
 Pay Telephone installed and maintained on Public Property or Rights-of-Way.
 (Ord. O-96-48, passed 11-6-96; Am. Ord. 0-99-37, passed 11-3-99)
-TECHNICAL STANDARDS
+*** TECHNICAL STANDARDS ***
 § 128.30 LOCATION AND PLACEMENT OF PAY TELEPHONES.
    The issuance of an Installation Permit under this chapter shall be subject
 to approval by the City Manager or his/her designee and shall conform to the
@@ -44042,7 +44042,7 @@ the provisions of this chapter until the expiration date of said agreement. Any
 pay telephone(s) not in compliance by the date prescribed hereinabove shall be
 removed in accordance with the procedure outlined hereunder.
 (Ord. O-96-48, passed 11-6-96)
-MISCELLANEOUS PROVISIONS
+*** MISCELLANEOUS PROVISIONS ***
 § 128.40 POLICE POWERS.
    Nothing in this chapter nor in any License Agreement issued in accordance
 herewith shall be construed as an abrogation by the City of any of its police
@@ -44669,7 +44669,7 @@ private property.
  
    
 133.99   Penalty
-ADMINISTRATION AND JUSTICE
+*** ADMINISTRATION AND JUSTICE ***
 § 133.01 RESISTING ARREST.
    Any person who shall resist arrest by an officer of the city, or resist any
 person called upon by an officer to aid in making an arrest, or who shall
@@ -44711,7 +44711,7 @@ his regular pay from the city.
 frustrate or otherwise interfere with employees, including contractual
 employees, of the city from performing their lawful duties.
 (Ord. O-99-21, passed 7-21-99)
-OTHER OFFENSES
+*** OTHER OFFENSES ***
 § 133.20 ABANDONED REFRIGERATORS.
    (A)   The purpose of this section is to prevent deaths due to suffocation of
 children locked in abandoned or discarded iceboxes, refrigerators, deep-freeze
@@ -45038,7 +45038,7 @@ Chemical Substance Regulations
    
 134.28   Drug paraphernalia; possession, manufacture and/or delivery,
 advertisement
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 134.01 BATHING IN NUDE CONDITION.
    It shall be unlawful for any person to bathe, wash or swim in any lake, pond
 or pool or in the ocean from any beach within the city naked or insufficiently
@@ -45324,7 +45324,7 @@ city license tax of $500.
 ('72 Code, § 21-45)
 (Ord. 511, passed - - ) Penalty, see
 § 10.99
-CHEMICAL SUBSTANCE REGULATIONS
+*** CHEMICAL SUBSTANCE REGULATIONS ***
 § 134.25 DEFINITIONS.
    For the purpose of this section, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -45746,7 +45746,7 @@ Retaining Walls
 Tidal Flood Protection
    
 150.30   Resiliency standards for tidal flood barriers
-BEACH AND SHORE PROTECTION
+*** BEACH AND SHORE PROTECTION ***
 § 150.01 BUILDING SETBACK REQUIREMENTS.
    No person, firm, corporation or public agency shall excavate or construct
 any dwelling house, hotel, motel, apartment building, seawall, revetment or
@@ -45779,7 +45779,7 @@ such excavation at its own expense and the costs thereof shall become a lien
 upon the property of the upland owner upon which such unauthorized structure or
 excavation is located.
 ('72 Code, § 11-17) (Ord. O-70-97, passed 10-21-70)
-RETAINING WALLS
+*** RETAINING WALLS ***
 § 150.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -45847,7 +45847,7 @@ subchapter.
 Cross-Reference:
    Basic Land Improvement Code; retaining wall provisions, see
 § 155.07
-TIDAL FLOOD PROTECTION
+*** TIDAL FLOOD PROTECTION ***
 § 150.30 RESILIENCY STANDARDS FOR TIDAL FLOOD BARRIERS.
    (A)   Purpose and intent. The purpose of this section is to establish a
 consistent minimum elevation for tidal flood barriers that will:
@@ -46199,7 +46199,7 @@ Administration and Enforcement
 151.999   Penalty
    
 Appendix:   Official design and construction standards for fences
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 151.001 DEFINITIONS.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -46371,7 +46371,7 @@ the construction, maintenance, repair and condemnation of buildings in the
 city.
 (‘72 Code, § 10-2) (Ord. O-71-158, passed 12-22-71; Am. Ord. O-82-9, passed 3-
 3-82; Am. Ord. O-2005-02, passed 3-2-05)
-CONSTRUCTION OF CITY BUILDINGS
+*** CONSTRUCTION OF CITY BUILDINGS ***
 § 151.010 GREEN BUILDING CONSTRUCTION.
    (A)   (1)   All new construction of, and major renovation (as defined by the
 certifying agency) to, city- owned buildings shall be certified to meet the
@@ -46396,7 +46396,7 @@ LEED and FGBC certification.
 (Ord. O-2009-32, passed 10-7-09)
 Cross-reference:
    Mandatory green building practices, see §§ 151.150 - 151.159
-CONTRACTORS
+*** CONTRACTORS ***
 § 151.020 APPLICATION OF REGULATIONS; WHAT CONSTITUTES CONTRACTOR.
    Any person or firm alleging himself or themselves as plaintiff or defendant
 in any court of the state or advertising in a newspaper or otherwise to be a
@@ -46985,7 +46985,7 @@ than the close of the fiscal year for which the local business tax receipt has
 been issued.
 (‘72 Code, § 10-41)
 (Ord. O-66-22, passed - - ; Am. Ord. O-2007-07, passed 4-18-07)
-CONTRACTORS' QUALIFYING BOARDS
+*** CONTRACTORS' QUALIFYING BOARDS ***
 § 151.050 BUILDING CONTRACTORS' QUALIFYING BOARD.
    (A)   Created; membership. There is hereby created a building contractors'
 qualifying board, which shall be appointed by the City Manager, consisting of
@@ -47261,7 +47261,7 @@ rehearing.
 § 151.058 (RESERVED).
 ('72 Code, § 10-73) (Ord. O-72-168, passed 9-20-72; Repealed by Ord. O-2005-02,
 passed 3-2-05)
-EXCAVATING, FILLING LAND FOR BUILDING PLACEMENT
+*** EXCAVATING, FILLING LAND FOR BUILDING PLACEMENT ***
 § 151.075 SCOPE OF REGULATIONS.
    (A)   This subchapter shall regulate only the filling of lands or the
 replacement of unsatisfactory earth material with satisfactory fill material
@@ -47479,7 +47479,7 @@ table.
 of the city, and on file in the office of the City Engineer and in the office
 of the Chief Building Inspector shall be a part of this subchapter.
 ('72 Code, § 10-87) (Ord. 1958, passed - - ; Am. Ord. O-72-19, passed 2-2-72)
-EXCAVATIONS OTHER THAN FOR BUILDING OR FENCE PLACEMENT
+*** EXCAVATIONS OTHER THAN FOR BUILDING OR FENCE PLACEMENT ***
 § 151.100 SCOPE OF REGULATIONS; DEFINITION.
    For the purpose of this subchapter, the following definition shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -47742,14 +47742,14 @@ Department, except that the minimum fee shall be $100.
    It shall be the duty of the Building Official to enforce all the provisions
 of this subchapter.
 ('72 Code, § 10-97.2) (Ord. O-72-19, passed 2-2-72)
-AIR CONDITIONING
+*** AIR CONDITIONING ***
 § 151.120 RESERVED.
 (‘72 Code, § 10-100) (Ord. 2250, passed - - ; Am. Ord. 2275, passed - - ;
 Repealed by implication by Ord. O-95-35, passed 7-5-95)
 § 151.121 RESERVED.
 (‘72 Code, § 10-101) (Ord. 2250, passed - - ; Am. Ord. 2275, passed - - ;
 Repealed by implication by Ord. O-95-35, passed 7-5-95)
-BUILDING SAFETY INSPECTION PROGRAM
+*** BUILDING SAFETY INSPECTION PROGRAM ***
 § 151.123 BUILDING.
    (A)   Inspection procedures.
       (1)   Inspection procedures shall conform, in general, with the minimum
@@ -47912,7 +47912,7 @@ maintained and be kept free from hazards, including but not limited to, faulty
 wiring, loose fastenings, being in an unsafe condition or detrimental to public
 health, safety, or general welfare.
 (Ord. O-2014-09, passed 6-18-14)
-BUILDING PERMITS; FEES
+*** BUILDING PERMITS; FEES ***
 § 151.130 PERMIT REQUIRED; EXCEPTIONS.
    (A)   (1)   It shall be unlawful to construct, enlarge, alter, repair, move,
 remove or demolish any building, structure or any part thereof; or any
@@ -48166,7 +48166,7 @@ effectuate and expedite the processing of building permit applications and
 requests for fee waivers and rebates under this section.
 (‘72 Code, § 10.120) (Ord. O-88-83, passed 12-14-88; Am. Ord. O-90-2, passed 1-
 17-90; Am. Ord. O-2011-15, passed 5-4-11)
-MANDATORY GREEN BUILDING PRACTICES
+*** MANDATORY GREEN BUILDING PRACTICES ***
 § 151.150 DEFINITIONS.
    For purposes of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -48441,13 +48441,13 @@ prior to February 16, 2011.
 enforcement of the Florida Building Code. In the case of a conflict, the
 Florida Building Code shall govern.
 (Ord. O-2011-06, passed 2-16-11; Am. Ord. O- 2016-04, passed 5-5-16)
-FENCES
+*** FENCES ***
 § 151.175 ADOPTION OF SPECIFICATIONS; TABLES.
    The tables in the Appendix following this chapter constitute and are hereby
 adopted as the official design and construction standards for fences
 constructed between designated classes of property within the city.
 ('72 Code, § 10-141) (Ord. O-71-18, passed 2-3-71)
-MOVING BUILDINGS
+*** MOVING BUILDINGS ***
 § 151.180 REGULATIONS FOR MOVING BUILDINGS.
    No house, part of a house, or houses shall be moved from location outside
 the limits of the city to a location within the city limits, or moved from one
@@ -48526,7 +48526,7 @@ or both. Each day that a violation is permitted to exist shall constitute a
 separate offense.
 (Ord. O-2001-18, passed 5-16-01; Am. Ord. O-2011-15, passed 5-4-11)
 Penalty, see § 151.999
-UNSAFE BUILDINGS
+*** UNSAFE BUILDINGS ***
 § 151.200 DEMOLITION.
    In the event any person required by the city or the Unsafe Structures and
 Housing Appeal Board to make repairs and to take necessary action to secure the
@@ -48782,7 +48782,7 @@ involved prior in dignity to all other liens, except county tax liens and liens
 equal in dignity with county tax liens.
 (Ord. O-2001-21, passed 6-6-01; Am. Ord. O-2005-02, passed 3-2-05)
 Penalty, see § 151.999
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 151.225 ENFORCEMENT BY DESIGNATED CITY OFFICIALS.
    All requirements of this chapter shall be enforced by City Inspectors
 specifically charged with such enforcement by the building official or by city
@@ -48924,7 +48924,7 @@ Flood Resistant Development
 154.55   Tanks
    
 154.56   Other development
-ADMINISTRATION
+*** ADMINISTRATION ***
 § 154.01 GENERAL.
    (A)   Title. These regulations shall be known as the Floodplain Management
 Ordinance of the City of Hollywood, hereinafter referred to as "this chapter."
@@ -49456,7 +49456,7 @@ having been served with a notice of violation or a stop work order, except such
 work as that person is directed to perform to remove or remedy a violation or
 unsafe condition, shall be subject to penalties as prescribed by law.
 (Ord. O-2014-13, passed 7-16-14)
-DEFINITIONS
+*** DEFINITIONS ***
 § 154.20 (RESERVED.)
 (Ord. O-2014-13, passed 7-16-14; repealed by Ord. O-2020-04, passed 2-19-20)
 § 154.21 DEFINITIONS.
@@ -49695,7 +49695,7 @@ chapter or the Florida Building Code.
 in, on, through, or over which water flows at least periodically.
 (Ord. O-2014-13, passed 7-16-14; Am. Ord. O-2020-04, passed 2-19-20; Am. Ord.
 O-2021-17, passed 10-6-21)
-FLOOD RESISTANT DEVELOPMENT
+*** FLOOD RESISTANT DEVELOPMENT ***
 § 154.50 BUILDINGS AND STRUCTURES.
    (A)   Design and construction of buildings, structures and facilities exempt
 from the Florida Building Code. Pursuant to §
@@ -50100,7 +50100,7 @@ Appendix:   Tables of Design and Construction Standards
 Cross-reference:
    Streets and Sidewalks, see
 Chapter 103
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 155.01 SHORT TITLE.
    This chapter shall be known and may be referred to as the “Basic Land
 Improvement Code Regulating and Governing the Development of Public Property by
@@ -50723,7 +50723,7 @@ Ord. O-97-06, passed 3-5-97)
 relating to the assessment and collection of special assessments within the
 city.
 ('72 Code, § 17-21) (Ord. O-88-11, passed 3-2-88)
-SIDEWALKS; ABUTTING PROPERTY OWNERS
+*** SIDEWALKS; ABUTTING PROPERTY OWNERS ***
 § 155.30 DUTY OF OWNER AS TO REPAIRS AND MAINTENANCE.
    Each owner of the property abutting a public right-of-way that has a
 sidewalk shall be responsible for the cleanliness of the sidewalk and keeping
@@ -50838,7 +50838,7 @@ construct, reconstruct or repair any sidewalk contrary to or to violate any
 other provisions of this subchapter.
 ('72 Code, § 17-38) (Ord. O-71-155, passed 12-15-71) Penalty, see
 § 155.99
-TREES IN PUBLIC RIGHT-OF-WAY
+*** TREES IN PUBLIC RIGHT-OF-WAY ***
 § 155.50 INTENT; PURPOSE.
    The intent of this subchapter is to improve the appearance of certain public
 rights-of-way and to protect and preserve the appearance, character and value
@@ -50980,7 +50980,7 @@ this section.
 (‘72 Code, § 17-58) (Ord. O-74-129, passed 12-4-74; Am. Ord. O-79-62, passed
 11-19-79; Am. Ord. O-90-06, passed 1-17-90; Am. Ord. O-2001-23, passed 6-30-01;
 Am. Ord. O-2004-06, passed 1-21-04; Am. Ord. O-2011-15, passed 5-4-11)
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 155.75 ENGINEERING DEPARTMENT TO ADMINISTER, ENFORCE.
    (A)   It shall be the duty of the Engineering Department strictly to enforce
 all the provisions of this chapter.
@@ -51252,7 +51252,7 @@ enforcement through “Code Team”
 Community Redevelopment Area
    
 157.78   Minimum maintenance standards
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 157.01 PURPOSE; SCOPE.
    The purpose of this chapter is to establish uniform minimum standards for
 the occupancy and maintenance of dwellings, hotels, rooming houses, and
@@ -51428,7 +51428,7 @@ than 30 consecutive days.
 83; Am. Ord. O-96-07, passed 2-28-96; Am. Ord. O-96-22, passed 7-3-96; Am. Ord.
 O-2000-32, passed 9-20-00; Am. Ord. O-2005-02, passed 3-2-05; Am. Ord. O-2011-
 32, passed 12-7-11)
-DWELLINGS, HOTELS, AND ROOMING HOUSES
+*** DWELLINGS, HOTELS, AND ROOMING HOUSES ***
 § 157.15 COMPLIANCE WITH MINIMUM STANDARDS REQUIRED.
    No person shall occupy or let to another for occupancy any dwelling or
 dwelling unit for the purpose of living, sleeping, cooking or eating therein,
@@ -51817,7 +51817,7 @@ required to keep such premises free from growth of weeds, grass, other flora,
 and rubbish, trash, junk, and other refuse in accordance with applicable law.
 ('72 Code, § 15-4(c)) (Ord. O-81-78, passed 11-4-81; Am. Ord. O-89-53, passed
 9-6-89; Am. Ord. O-90-52, passed 11-7-90; Am. Ord. O-96-22, passed 7-3-96)
-COMMERCIAL, INDUSTRIAL, AND INSTITUTIONAL STRUCTURES
+*** COMMERCIAL, INDUSTRIAL, AND INSTITUTIONAL STRUCTURES ***
 § 157.50 COMPLIANCE WITH MINIMUM STANDARDS REQUIRED.
    No person shall maintain or operate any commercial, industrial or
 institutional structure which does not comply with the following requirements
@@ -51945,7 +51945,7 @@ and sanitary condition, and he shall not deposit any material in any fixture or
 sewer system which would result in stoppage of or damage to the fixture or
 sewer system.
 ('72 Code, § 15-5(b)) (Ord. O-89-53, passed 9-6-89)
-ADMINISTRATION AND ENFORCEMENT
+*** ADMINISTRATION AND ENFORCEMENT ***
 § 157.75 CODE ENFORCEMENT SPECIAL MAGISTRATES TO ENFORCE; ALTERNATIVE
 ENFORCEMENT THROUGH “CODE TEAM”.
    (A)   Code Enforcement Special Magistrates; alternative means of
@@ -52028,7 +52028,7 @@ property. Such notice may be provided either by certified mail, return receipt
 requested, or by regular mail and posting on the property.
 (Ord. O-95-04, passed 1-18-95; Am. Ord. O-96-07, passed 2-28-96; Am. Ord. O-96-
 22, passed 7-3-96; Am. Ord. O-2005-02, passed 3-2-05)
-COMMUNITY REDEVELOPMENT AREA
+*** COMMUNITY REDEVELOPMENT AREA ***
 § 157.78 MINIMUM MAINTENANCE STANDARDS.
    (A)   Purpose. The purpose of this section is to promote the public health,
 safety, and welfare by establishing minimum maintenance standards for
@@ -52273,7 +52273,7 @@ Service Agencies
  
    
 158.99   Penalty
-PRIVATE POOLS
+*** PRIVATE POOLS ***
 § 158.01 SHORT TITLE.
    This subchapter may be known and cited as the Swimming Pool Code of the
 city.
@@ -52410,7 +52410,7 @@ election of any one shall not preclude the use of any other.
 with the lien of all state, county, district, and municipal taxes, superior in
 dignity to all other liens, title, and claims, until paid.
 (Ord. O-2009-22, passed 7-15-09; Am. Ord. O-2013-06, passed 2-20-13)
-SERVICE AGENCIES
+*** SERVICE AGENCIES ***
 § 158.20 DEFINITIONS.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -57133,8 +57133,8 @@ O-2025-07 7-2-25      72.151
  
 ZONING AND LAND DEVELOPMENT
 REGULATIONS
-2025 S-16 Supplement contains:
-Local legislation current through Ordinance O-2025-06, passed 6-18-25
+2026 S-17 Supplement contains:
+Local legislation current through Ordinance O-2025-26, passed 10-22-25
 Published by:
 American Legal Publishing
 525 Vine Street Suite 310
@@ -58687,7 +58687,7 @@ passed 1-9-13; Am. Ord. O-2013-05, passed 1-16-13; Am. Ord. O-2013-12, passed
 Ord. O-2023-16, passed 12-6-23; Am. Ord. O-2024-14, passed 10-1-24; Am. Ord. O-
 2025-01, passed 2-5-25; Am. Ord. O-2025-06, passed 6-18-25)
 ARTICLE 3: GENERAL PROVISIONS
-§ 3.1. Scope of Regulations.
+** § 3.1. Scope of Regulations. **
    No building or structure or part thereof shall be erected, constructed,
 reconstructed or altered and maintained, and no existing use, new use, or
 change of use of any building, structure or land or part thereof shall be made
@@ -59397,10 +59397,13 @@ exhibition of high-quality art that reflects diverse styles; chronicling
 history through the collection of artifacts, documents and memorabilia that
 will acknowledge the past, and creating programs and activities that will
 further these goals.
-         c.   This section governs placement of artwork in public places.
-Public art in the city's Community Redevelopment Districts is addressed
-elsewhere in the Code, and the CRA program provides an additional means for
-eligible property owners to display and promote public art.
+         c.   This section governs placement of artwork in public places and
+areas which are visible from a public place. Public art in the city's Community
+Redevelopment Districts is addressed elsewhere in the Code, and the Community
+Redevelopment Agency (CRA) program provides an additional means for eligible
+property owners to display and promote public art– until such time as the CRA
+is dissolved. When the CRA is dissolved, this section shall govern art
+installations city-wide.
       2.   Definitions. For purposes of this subsection, the following
 definitions shall apply unless the context clearly indicates or requires a
 different meaning.
@@ -59455,34 +59458,58 @@ Single-Family Districts, and Industrial and Manufacturing Districts.
 costs.
          PUBLIC ART FUND ("FUND"). A separate, interest-bearing set of accounts
 set up by the city to receive monies for the public art program.
-         PUBLIC PLACE. Any city property and any city easement on an exterior
-area of private property in a non-residential zoning district within the city
-that is easily accessible or clearly visible to the general public from
-adjacent public property, such as a street or other public thoroughfare or
-sidewalk, for a period of ten hours per day, seven days per week, with the
-property owner's option of excluding access or visibility on national holidays.
+         PUBLIC PLACE. Any city property, public right-of-way, and/or any city
+easement on an exterior area of private property in a non-residential zoning
+district within the city that is easily accessible or clearly visible to the
+general public from adjacent public property, such as a street or other public
+thoroughfare or sidewalk, for a period of ten hours per day, seven days per
+week, with the property owner's option of excluding access or visibility on
+national holidays.
       3.   Public art.
          a.   Applicability.
             (1)   Project size. This subsection shall apply to all development
 projects, as defined in J.2. of this subsection, that are 20,0000 gross square
 feet or more.
             (2)   Exemption. Notwithstanding the foregoing, the City Commission
-may partially or totally exempt a project from the public art program that
-consists of (i) the reconstruction or replacement of buildings or structures
-that have been damaged by fire, flood, wind, or other natural disaster, (ii)
-improvements required to address sea-level rise, and (iii) projects on public
-property.
+may grant a full or partial exemption from the public art program for projects
+involving the reconstruction or replacement of buildings or structures that
+have been damaged by fire, flood, wind, or other natural disaster– unless the
+development previously included a required piece of public art. In such cases,
+a new piece of public art shall be installed based on the appraised value of
+the original artwork prior to the damage or destruction, or a payment-in-lieu
+shall be provided in the amount of the appraised value. Projects involving
+improvements required to address sea-level rise, and projects on public
+property, may be granted an exemption of these requirements, by City
+Commission, provided a minimum payment of $5,000 is made. Affordable housing
+developments may be granted a waiver from the public art requirements by the
+City Commission, pursuant to the recommendation of the Community Development
+Division Manager, provided that a minimum payment of $5,000 is submitted.
             (3)   Method of compliance. A developer may propose to install
 artwork in a public place on the site of its development project pursuant to
 all applicable regulations of this subsection. Alternatively, an in-lieu art
 fee may be paid into the city's Public Art Fund, or a developer may comply with
 a combination of provision of artwork and payment of an in-lieu art fee.
-            (4)   Voluntary provision of artwork. A proponent not otherwise
-subject to this subsection may propose to install artwork in a public place on
-the site of its development project with the exception of single-family homes.
-Voluntary provision of artwork shall be governed by the policy for "voluntary
-provision of artwork," which shall be prepared by the City Manager or designee.
-         b.   Timeframes for compliance; amount of fee or value of artwork.
+            (4)   Voluntary art permit. A proponent not otherwise subject to
+this subsection may propose to install artwork visible form public place on the
+subject property with the exception of single-family homes. A voluntary art
+permit shall be required to create, install, modify, or remove artwork on the
+exterior facade or on the site of private property that is visible from a
+public place. The voluntary art permit shall be subject to:
+               (i)   All public art permit application requirements of this
+section except the requirements of an appraisal and an easement agreement, at
+the discretion of the Director of Development Services;
+               (ii)   All review guidelines of this section shall apply, except
+J.e.(1). The following content provisions shall apply to voluntary art permit
+reviews:
+                  (a)   The artwork shall not be deemed a sign, nor shall such
+artwork identify a specific business or establishment or contain a commercial
+message;
+                  (b)   The artwork shall not intend to incite violence or
+include sexually explicit material that violates fundamental notions of
+decency; and
+               (iii)   All maintenance requirements of this section.
+         b.   Timeframes for compliance; amount of fee or value of artwork
+subject to issuance of a public art permit.
             (1)   Building permits. Prior to issuance of a final building
 permit, the developer shall be required to comply with one of the following:
                (i)   In-lieu public art fee shall be established pursuant to
@@ -59575,41 +59602,48 @@ to maintain compliance with this subsection.
 established that consists of representatives from the following administrative
 departments/divisions of the city: City Manager's Office or the Department of
 Development Services; Planning and Urban Design Division; Building Division;
-Communications; Marketing and Economic Development; the Department of Parks,
-Recreation and Cultural Arts; Engineering, Transportation and Mobility Division
-(as applicable), a representative of the Hollywood Art and Culture Center, and
-an appointed public representative of the city's Art Selection Committee. The
-Committee will be chaired by the Planning and Urban Design Division.
+Communications; Marketing and Economic Development; Design and Construction
+Management; the Department of Parks, Recreation and Cultural Arts; Engineering,
+Transportation and Mobility Division (as applicable), a representative of the
+Hollywood Art and Culture Center, and an appointed public representative of the
+city's Art Selection Committee. The Committee will be chaired by the Planning
+and Urban Design Division.
                A member of the public or a local civic organization from the
 neighborhood where the artwork is proposed shall serve as a non-voting member
 of the Public Art Review Committee. However, such member shall not be counted
 for the purposes of achieving quorum.
-            (2)   Meetings. The Public Art Review Committee shall meet, as
-necessary, to review and approve, approve with conditions, or deny a public art
-permit application based upon the application, the city staff report evaluating
-the application, and information received at the Committee meeting.
-Applications shall be considered at the first Committee meeting that is more
-than 30 days following staff's determination that the application is complete.
-The Committee's decision shall be based upon the review guidelines set forth in
-subsection J.3.e. below.
+            (2)   Authority. The Public Art Review Committee shall have the
+authority to review all public art and voluntary art permit applications.
+            (3)   Meetings. The Public Art Review Committee shall meet, as
+necessary, to review and approve, approve with conditions, or deny public art
+and voluntary art permit application based upon the application, the city staff
+report evaluating the application, and information received at the Committee
+meeting. Applications shall be considered at the first Committee meeting that
+is more than 30 days following staff's determination that the application is
+complete. The Committee's decision shall be based upon the review guidelines
+set forth in subsection J.3.e. below.
+            (4)   Quorum. The virtual or in-person attendance of at least four
+voting members of the Public Art Review Committee shall constitute a quorum.
          d.   Notice of decisions.
-            (1)   Approval. Upon approval of a public art permit application,
-the applicant will receive written notification of such approval along with
-information regarding whether the Chief Building Official or designee has
-determined a building permit for the artwork is also necessary.
-            (2)   Denial. In the event that a public art permit application is
-denied, the applicant shall receive written notification of such denial and the
-reasons for such denial based upon the review guidelines set forth in
-subsection J.3.e. below.
-            (3)   Appeal. Upon receipt of the denial notification, the
-applicant may file an appeal to the Planning and Development Board or Historic
-Preservation Board, as applicable, within ten days from the denial
-notification. City staff shall review and prepare a response to the appeal
-within 14 days of the appeal being filed. The applicable Board shall review
-whether the Committee's decision was based upon the review guidelines set forth
-in subsection J.3.e. below at its next scheduled meeting that is more than 14
-days after the appeal was filed and may reverse a denial upon finding that it
-was not based on such guidelines.
+            (1)   Approval. Upon approval of a public art permit or voluntary
+art permit application, the applicant will receive written notification of such
+approval along with information regarding whether the Chief Building Official
+or designee has determined a building permit for the artwork is also necessary.
+            (2)   Denial. In the event that a public art permit or voluntary
+art permit application is denied, the applicant shall receive written
+notification of such denial and the reasons for such denial based upon the
+review guidelines set forth in subsection J.3.e. below.
+            (3)   Appeal. An applicant may appeal a decision made by the Public
+Art Review Committee regarding a denial of a public art permit or voluntary art
+permit to the Planning and Development Board; however, appeals relating to
+properties located in a local historic district or listed as a historic site
+shall be to the Historic Preservation Board.
+               The appeal shall be filed with the Director or his/her designee
+within ten days of the date of the decision. The basis of the appeal is whether
+the Public Art Review Committee acted arbitrarily or capriciously in granting
+or denying a public art permit or voluntary art permit. Appeal of a Committee
+decision shall be made pursuant to the procedures as set forth in Article 5 of
+the Zoning and Land Development Regulations.
          e.   Permit application review guidelines. The Public Art Review
 Committee shall review all applications based upon the following:
             (1)   Content.
@@ -59665,9 +59699,6 @@ preventing its removal from the property, or if the artwork is to be removed, a
 contribution to the fund in an amount equal to the amount of the in-lieu public
 art fee that would have initially been required based on the project cost shall
 be made.
-               (iv)   The artwork shall not be altered, modified, relocated or
-removed other than as provided herein without the prior approval of the Public
-Art Review Committee.
          g.   Maintenance.
             (1)   Obligation. For artwork incorporated into development
 projects, the obligation for maintenance to preserve the artwork in good
@@ -59678,25 +59709,32 @@ appearance and shall not show evidence of deterioration, weathering,
 discoloration, rust, or other conditions reflective of deterioration or
 inadequate maintenance. Maintenance shall not result in changes or alterations
 to the approved artwork.
-            (3)   Enforcement. Failure of any persons or entities to comply
+            (3)   The artwork shall not be altered, modified, relocated or
+removed other than as provided herein without the prior approval of the Public
+Art Review Committee.
+            (4)   Enforcement. Failure of any persons or entities to comply
 with the regulations pertaining to the artwork as set forth in this subsection
 shall be subject to enforcement procedures set forth in Chapter 36 of the Code
 of Ordinances, Section
 10.3 of the Zoning and Land Development Regulations, and the removal
 requirements set forth in subsection J.3.h. below.
          h.   Removal of artwork.
-            (1)   After artwork has been approved by the Public Art Committee
-in accordance with these regulations, such artwork shall be retained and
-maintained on site in its approved location and shall not be removed or
-relocated without prior approval of the Public Art Committee and of a
-reasonably equivalent replacement artwork, unless subsection h(4) has been
-complied with.
+            (1)   After artwork has been approved by the Public Art Review
+Committee in accordance with these regulations, such artwork shall be retained
+and maintained on site in its approved location and shall not be removed or
+relocated without prior approval of the Public Art Review Committee. Removal of
+artwork required pursuant to building permit issuance shall require the
+substitution of a reasonably equivalent replacement artwork, unless subsection
+h(4) has been complied with. Removal of installations approved through a
+voluntary art permit shall only require approval of the Public Art Review
+Committee.
             (2)   Responsibility. The property owner shall be responsible for
 removal of the artwork that is not maintained in good condition and appearance,
 showing evidence of deterioration, weathering, discoloration, rust, or other
 conditions reflective of deterioration or inadequate maintenance.
-            (3)   Enforcement. Failure to remove the artwork upon notification
-by the city shall subject the property owner to all enforcement procedures.
+            (3)   Enforcement and penalties. Failure to remove the artwork upon
+notification by the city shall subject the property owner to all enforcement
+procedures.
             (4)   Payment of in lieu fee. If artwork is removed, the property
 owner shall make a contribution to the fund in an amount equal to the amount of
 the in lieu public art fee that would have initially been required based on the
@@ -59719,13 +59757,9 @@ collected.
 selection, commissioning, acquisition, transportation, maintenance, public
 appraisal, education, promotion, administration, removal and insurance of the
 artwork.
-      5.   All completed and submitted building permit applications for
-development projects that have been accepted by the city within 30 days
-following the final adoption of this subsection will be exempt from the
-requirements of this subsection.
 (Ord. O-98-15, passed 5-20-98; Am. Ord. O-2001-16, passed 5-16-2001; Am. Ord.
-O-2011-14, passed 5-4-11; Am. Ord. O-2023-17, passed 12-6-23) (O-98-15
-renumbered from 3.24, 5-20-98)
+O-2011-14, passed 5-4-11; Am. Ord. O-2023-17, passed 12-6-23; Am. Ord. O-2025-
+16, passed 10-22-25) (O-98-15 renumbered from 3.24, 5-20-98)
 § 3.23 Distance Separation Requirements.  
    A.   The distance separation requirements for check cashing stores and
 pawnshops shall be 1,000 linear feet between a check cashing store and another
@@ -60005,7 +60039,7 @@ Density                    1 dwelling unit per      As permitted by the land
 2003-39, passed 11-19-03; Am. Ord. O-2011-14, passed 5-4-11; Am. Ord. O-2012-
 05, passed 3-7-12; Am. Ord. O-2019-04, passed 3-20-19; Am. Ord. O-2019-16,
 passed 8-28-19)
-§ 4.2 Multiple Family Districts.
+** § 4.2 Multiple Family Districts. **
    A.   Purpose and uses.
  
 District    Main      Special
@@ -65999,71 +66033,71 @@ Diagram
 17.   Walk-Up Garden
 Diagram 1. Active Use/Active Use Ground Floor/Active Use Liner/Active Use
 Depth.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1652.jpg]
  
 Diagram 2. Annulus.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1655.jpg]
  
 Diagram 3. Base/Tower.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1658.jpg]
  
 Diagram 4. Blank Wall.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1661.jpg]
  
 Diagram 5. Building Frontage.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1664.jpg]
  
 Diagram 6. Footprint.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1667.jpg]
  
 Diagram 7. Ground Floor Uses.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1670.jpg]
  
 Diagram 8. Lot Frontage/Lot Frontage Buildable.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1673.jpg]
  
 Diagram 9. Parking Stall Dimensions.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1676.jpg]
  
 Diagram 10. Setback.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1679.jpg]
  
 Diagram 11. Tower Floorplate.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1682.jpg]
  
 Diagram 12. Tower Length.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1685.jpg]
  
 Diagram 13. Tower Separation.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1688.jpg]
  
 Diagram 14. Transparency/Storefront Facade Area.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1691.jpg]
  
 Diagram 15. Young Circle Tower Offset Setback.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1694.jpg]
  
 Diagram 16. Young Circle Gateway Setback.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1697.jpg]
  
 Diagram 17. Walk-Up Garden.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1700.jpg]
  
 (Ord. O- 2016-22, passed 10-19-16)
@@ -66145,94 +66179,94 @@ Equal to 120' W
    
 30.   RM-25-SCB - Surf Road - Broadwalk Setback Diagram
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1420.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1423.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1426.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1429.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1432.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1440.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1443.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1446.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1449.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1452.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1455.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1458.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1461.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1466.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1469.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1472.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1475.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1478.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1481.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1484.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1487.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1490.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1493.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1496.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1499.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1502.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1505.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1508.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1511.jpg]
  
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-1514.jpg]
  
  
@@ -66478,7 +66512,7 @@ based upon the setbacks in the adjacent zoning districts and requirements that
 result from the Site Plan review process.
 (Ord. O-94-14, passed 4-6-94; Am. Ord. O-2011-14, passed 5-4-11; Am. Ord. O-
 2012-05, passed 3-7-12)
-§ 4.11 Social Services Facilities (SSF).
+** § 4.11 Social Services Facilities (SSF). **
    A.   Purpose. The intent of these regulations is to establish reasonable and
 uniform regulations for Social Service Facilities that will protect the health,
 safety, property values, and general welfare of the people, businesses, and
@@ -68138,7 +68172,7 @@ PEDD Parking Requirements
 [Click_here_to_view_image.]
 DIAGRAM NO. 3.
 PEDD Parallel Parking Requirements
-§ 4.18 SRF Sports and Recreation Facility District.
+** § 4.18 SRF Sports and Recreation Facility District. **
    A.   Purpose and Uses:
  
 District Purpose  Main Permitted    Special    Accessory Uses  Prohibited Uses
@@ -70674,13 +70708,28 @@ HPOS-16 Hollywood Beach Apartments        322 Monroe Street
 HPOS-17                                  2461 Taylor Street
  
  
-Site    Name                                Address
-HPOS-18 United States Customs House         1700 Spangler Blvd.
-HPOS-19 Weitzman House                      1519 Harrison Street
-HPOS-20 South Broward Learning Center/South 2201 Douglas Street
-        Broward Cradle Nursery
-HPOS-21 Butler Rock House                   within Charles Vollman Park at 2933
-                                            Taft Street
+Site  Name      Address
+      United
+HPOS- States    1700 Spangler Blvd.
+18    Customs
+      House
+HPOS- Weitzman  1519 Harrison Street
+19    House
+      South
+      Broward
+      Learning
+HPOS- Center/   2201 Douglas Street
+20    South
+      Broward
+      Cradle
+      Nursery
+HPOS- Butler
+21    Rock      within Charles Vollman Park at 2933 Taft Street
+      House
+      Historic  Legally platted as the “Boardwalk,” defined as the public right- of-way east of
+HPOS- Hollywood the properties abutting north/south Surf Road, west of the Atlantic Ocean
+22    Beach     between Sherman and Jefferson Street, and expressly excluding all privately-
+      Broadwalk owned property within these bounds
  
          c. Historic Multiple Property Resource Listing District (HMPROLD).
  
@@ -71088,7 +71137,7 @@ O-2005-06, passed 5-18-05; Am. Ord. O-2005-07, passed 5-18-05; Am. Ord. O-2006-
 37, passed 12-14-06; Am. Ord. O-2007-23, passed 7-17-07; Am. Ord. O-2009-39,
 passed 12-2-09; Am. Ord. O-2010-05, passed 2-17-10; Am. Ord. O-2011-14, passed
 5-4-11; Am. Ord. O-2016-21, passed 10-19-16; Am. Ord. O-2016-23, passed 11-2-
-16)
+16; Am. Ord. O-2025-15, passed 10-22-25)
 § 5.6. City Commission Request for Review of a Board Decision (CRR).
    A.   If an application for a development permit is approved or denied by a
 Board appointed by the City Commission, the City Commission may initiate a CRR
@@ -72041,7 +72090,7 @@ conditions with the City's Code of Ordinances, Zoning and Land Development
 Regulations and the Florida Building Code in effect in Broward County, Florida,
 as revised from time to time.
 (Ord. O-2011-14, passed 5-4-11)
-ARTICLE II - DEVELOPMENT REVIEW PROCESS FOR SITE PLANS
+**** ARTICLE II - DEVELOPMENT REVIEW PROCESS FOR SITE PLANS ****
 § 6.18. Purpose.
    The purpose of this review procedure is to encourage a more desirable and
 compatible character of development within the city and to promote logic,
@@ -73359,17 +73408,17 @@ Dry cleaning          3                         1
 Pharmacy              4                         1
  
 (Ord. O-2013-12, passed 6-19-13)
-APPENDIX: DIAGRAMS
+** APPENDIX: DIAGRAMS **
 § 1. Stall and Aisle Diagram.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-2090.png]
 (Ord. O-84-16, passed 2-15-84; Am. Ord. O-90-10, passed 2-21-90)
 § 2. Recommendation Stall and Aisle Dimensions.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-2092.png]
 (Ord. O-84-16, passed 2-15-84; Am. Ord. O-90-10, passed 2-21-90)
 § 3. Parallel Parking Diagram.
-[https://export.amlegal.com/media/fbea7346276fd9c70179ff33c3ecaf1c1165b1f1/
+[https://export.amlegal.com/media/47bcdad5b53e3ed0da39d66a03ad55b49929f2e5/
 IMAGES/0-0-0-2094.png]
 (Ord. O-84-16, passed 2-15-84; Am. Ord. O-90-10, passed 2-21-90)
 ARTICLE 8. SIGN REGULATIONS
@@ -74564,7 +74613,7 @@ Specifications Manual;
          d.   Trees determined by the Director to be in severe decline and/or
 diseased.
 (Am. Ord. O-2004-05, passed 1-21-2004; Am. Ord. O-2011-14, passed 5-4-11)
-ARTICLE 10: LEGISLATIVE
+***** ARTICLE 10: LEGISLATIVE *****
 § 10.1. Provisions of Ordinance Deemed Minimum Requirements.
    In their interpretation and application the provisions of these Zoning and
 Land Development Regulations shall be held to be the minimum requirements
@@ -76290,8 +76339,8 @@ of the Zoning and Land Development Regulations.
    The provisions of this chapter shall be enforced pursuant to §
 10.7. of the Zoning and Land Development Regulations.
 (Ord. O-99-04, passed 1-6-99)
-PARALLEL REFERENCES
-REFERENCES TO ORDINANCES
+***** PARALLEL REFERENCES *****
+**** REFERENCES TO ORDINANCES ****
  
 Ord. No Date Passed Code Section
 Ord. No   Date Passed Code Section
@@ -76684,6 +76733,8 @@ O-2025-06 6-18-25     5.4,
                       6.28,
                       6.29,
                       10.1
+O-2025-15 10-22-25    5.5
+O-2025-16 10-22-25    3.22
                      
  
  
