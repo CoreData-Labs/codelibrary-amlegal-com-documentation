@@ -1,7 +1,7 @@
 CODE OF ORDINANCES
 OF THE
 CITY OF ANKENY, IOWA
-[https://export.amlegal.com/media/7940d86141c929ec6784dd23890dab609a00764b/
+[https://export.amlegal.com/media/f518b633158963fffd91cb2f89d906d3583d5f3a/
 IMAGES/0-0-0-2812.jpg]
  1
  ©_Iowa_Codification,_Inc.
@@ -554,13 +554,13 @@ CHAPTER 75 ALL-TERRAIN VEHICLES AND SNOWMOBILES
 75.06 Hours of Operation
 75.07 Negligence
 75.08 Accident Reports
-CHAPTER 76 BICYCLE AND PERSONAL TRANSPORATION DEVICES REGULATIONS
+CHAPTER 76 BICYCLE AND ELECTRIC SCOOTER REGULATIONS
 76.01 Purpose
 76.02 Definitions
 76.03 Scope of Regulations
 76.04 Traffic Code Applies
 76.05 Motor Vehicle Operations
-76.06 Actions Against Bicycles and Personal Transportation Devices
+76.06 Actions Against Bicycles and Electric Scooters
 76.07 Responsible Riding
 76.08 Place of Riding
 76.09 Parking
@@ -2432,6 +2432,31 @@ Nov-25    Ch. 153           2239     10-6-25   Easement Vacation
           41.45             2242     11-17-25  Smoking
           130.06(8), Ch.    2243     11-17-25  Alcohol Licenses and Cigarette
           131                                  and Tobacco Permits
+          167.02, 167.04    2244     12-1-25   Vegetation Height Restrictions
+Mar-26    192.01            2245     12-15-25  Zoning Map
+          Ch. 153           2246     1-5-26    Easement Vacation
+          Ch. 153           2247     2-2-26    Easement Vacation
+          Ch. 8             2248     3-2-26    Urban Renewal Area
+          Ch. 6             2249     3-16-26   City Elections
+          92.04(1)          2251     3-16-26   Water Rates
+May-26    132.16            2250     4-6-26    Peddler, Solicitor, and
+                                               Transient Merchants
+          90.01; 90.06;     2252     4-20-26   Water Service Pipe
+          90.10; 90.12
+          Ch. 76            2253     4-20-26   Bicycle and Electric Scooter
+                                               Regulations
+          107.02(2-3)       2254     5-18-26   Stormwater Management Fees
+          98.07(1)          2255     5-18-26   Sewer Service Charges
+          91.12(2)          2256     5-18-26   Temporary Water Service
+Jun-26    41.12             2257     6-1-26    Trapping and Community Cat
+                                               Regulations
+          55.01; 55.04;
+          55.05; 55.06;     2258     6-1-26    Animal Protection and Control
+          55.17
+Jul-26    Ch. 192           2259     6-15-26   Zoning Map
+          Ch. 153           2260     7-6-26    Easement Vacation
+          31.01; 31.03;     2261     7-6-26    Human Rights Commission
+          31.04
  
  
 GENERAL CODE PROVISIONS
@@ -3395,46 +3420,28 @@ memorandum of understanding between the City and the Department.
 CHAPTER 6
 CITY ELECTIONS
  
-6.01 Nominating Method to be Used 6.04 Date of Primary
-6.02 Candidacy                    6.05 Qualification
-6.03 Primary Election Required    6.06 Candidates Elected
+6.01 Nominating Method to be Used 6.03 Candidates Elected
+6.02 Candidacy
  
 6.01 NOMINATING METHOD TO BE USED.
 All candidates for elective municipal offices shall be nominated under the
-provisions of Chapter 376 of the Code of Iowa.
+provisions of Chapter 45 of the Code of Iowa.
 (Code of Iowa, Sec. 376.3)
 6.02 CANDIDACY.
-An eligible elector of the City may become a candidate for an elective City
-office by filing with the County Commissioner of Elections a valid petition
-requesting that the elector’s name be placed on the ballot for that office, or
-by filing a valid petition with the designated City Clerk. The petition must be
-filed not more than seventy-one (71) days or less than forty-seven (47) days
-before the date of the election and must be signed by eligible electors equal
-in number to at least two percent (2%) of those who voted to fill the same
-office at the last regular City election, but not less than ten (10) persons.
-(Code of Iowa, Sec. 376.4)
-6.03 PRIMARY ELECTION REQUIRED.
-An individual for whom a valid petition is filed becomes a candidate in the
-regular City election for the office for which the individual has filed, except
-that a primary election must be held for offices for which the number of
-individuals for whom valid petitions are filed is more than twice the number of
-positions to be filled.
-(Code of Iowa, Sec. 376.6)
-6.04 DATE OF PRIMARY.
-If a primary election is necessary, it shall be held on the Tuesday four (4)
-weeks before the date of the regular City election.
-(Code of Iowa, Sec. 376.7)
-6.05 QUALIFICATION.
-The names of those candidates who receive the highest number of votes for each
-office on the primary election ballot, to the extent of twice the number of
-unfilled positions, must be placed on the ballot for the regular City election
-as candidates for that office.
-(Code of Iowa, Sec. 376.7)
-6.06 CANDIDATES ELECTED.
-In a regular City election following a City primary, the candidates receiving
-the greatest number of votes cast for each office on the ballot are elected, to
-the extent necessary to fill the positions open.
-(Code of Iowa, Sec. 376.8)
+An eligible elector of the city may become a candidate for an elective city
+office by filing with the County Commissioner of Elections or the City Clerk a
+valid affidavit of candidacy and petition, in the form prescribed by the
+secretary of state, requesting that the elector’s name be placed on the ballot
+for that office. The petition must be filed not more than 71 days or less than
+47 days before the date of the election and must be signed by not less than
+seventy-five eligible electors.
+(Code of Iowa, Sec. 45.1: and 376.4)
+6.03 CANDIDATES ELECTED.
+In a regular city election, the candidates receiving the greatest number of
+votes cast for each office on the ballot are elected, to the extent necessary
+to fill the positions open.
+(Code of Iowa, Sec. 376.8(3))
+(Ord. 2249 – Mar. 26 Supp.)
 CHAPTER 7
 INDUSTRIAL PROPERTY TAX EXEMPTIONS
  
@@ -3668,6 +3675,8 @@ ORDINANCE NO. ADOPTED           NAME OF AREA
                                 Development Urban Renewal Area
 2192          March 17, 2025    Amendment No. 1 to the Northeast Ankeny Urban
                                 Renewal Area
+2248          March 2, 2026     2026 Corporate Woods Business Park Urban
+                                Renewal Area I
  
 CHAPTER 9
 URBAN REVITALIZATION
@@ -5203,13 +5212,9 @@ HUMAN RIGHTS COMMISSION
 31.02  Definition31.04  Powers and Duties
 31.01 PURPOSE.  
 The purpose of this chapter is to establish a nonjudicial Human Rights
-Commission consistent with the Iowa Civil Rights Act; to recognize the
-authority of the Iowa Civil Rights Commission and foster use of its procedures
-and programs; and to proclaim a public policy of nondiscrimination by securing
-freedom from discriminatory practices, protecting individual dignity, ensuring
-their full productive capacities, preserving the public safety, health, and
-general welfare, and promoting the interests, rights, and privileges of
-individual citizens within the City.
+Commission consistent with the Iowa Civil Rights Act; to recognize authority of
+the Iowa Office of Civil Rights and foster use of its procedures and programs.
+(Section 31.01 – Ord. 2261 – Jul. 26 Supp.)
 31.02 DEFINITIONS.
 When used in this chapter, unless the context otherwise requires:
 1.   COMMISSION: The Ankeny Human Rights Commission created by this chapter.
@@ -5218,54 +5223,42 @@ When used in this chapter, unless the context otherwise requires:
 legal representatives, trustees, receivers, and the State of Iowa and all
 political subdivisions and agencies thereof.
 31.03 COMMISSION APPOINTED.   
-1.   The City Human Rights Commission shall consist of five (5) members
-appointed by the Mayor with approval of the City Council. Appointments shall
-take into consideration the various racial, religious, cultural, and social
-groups and geographical areas within the City insofar as may be practicable.
-2.   The term of appointment shall be three (3) years from January 1 of the
-year in which the appointment is made, except that for the purpose of
-maintaining an appropriate staggering of terms, the Mayor may prescribe a
-shorter term for any appointment or reappointment. In the event that a vacancy
-occurs in the membership of the commission by death, resignation or otherwise
-prior to the normal expiration of the appointee's term, the Mayor, with the
-approval of the City Council, shall appoint a person to serve out the remainder
-of the unexpired term.
+1.   The City Human Rights Commission shall consist of three (3) members
+appointed by the Mayor with approval of the City Council.
+2.   The term of appointment shall be two (2) years from January 1 of the year
+in which the appointment is made, except that for the purpose of maintaining an
+appropriate staggering of terms, the Mayor may prescribe a shorter term for any
+appointment or reappointment. In the event that a vacancy occurs in the
+membership of the commission by death, resignation or otherwise prior to the
+normal expiration of the appointee’s term, the Mayor, with the approval of the
+City Council, shall appoint a person to serve out the remainder of the
+unexpired term.
 3.   Any member or all members of the commission may be removed from office at
 any time by the Mayor with the approval of the City Council. The commission
 shall annually elect one of its members to be Chairperson.
 4.   The members of the commission shall serve without salary, wages or other
 compensation provided that they may receive reimbursement for actual and
 necessary expenses incurred as allowed by the City Council pursuant to such
-procedures and policies for the reimbursement of expenses as shall be
-established by the City from time to time.
+procedures and policies.
 5.   The members of the commission shall meet as needed to carry out the
 purpose of the commission. The members shall establish such procedures and
-policies as need for that purpose.
-(Ord. 2138 - May 23 Supp.)
+policies as needed for that purpose.
+(Section 31.03 – Ord. 2261 – Jul. 26 Supp.)
 31.04 POWERS AND DUTIES.  
 The commission's powers and duties include:
-1.   Studying the existence, character, causes, and extent of discrimination
-within the City because of race, creed, color, sex, sexual orientation, gender
-identity, national origin, religion, ancestry or disability, and to attempt the
-elimination of such discrimination by education and understanding.
-2.   Promoting good will among the various racial, religious, and ethnic groups
-within the City and to minimize or eliminate discriminatory practices.
+1.   Receiving information, concerns, or inquiries from residents regarding
+human rights matters and referring such matters to the appropriate City
+official, the Iowa Office of Civil Rights, or another agency having
+jurisdiction.
+2.   Assisting the City with promoting public awareness, and education
+concerning human rights, and equal opportunity non-discrimination principles
+through informational activities and as approved by the City.
 3.   Providing intake assistance for complaints from individuals who may be
-victims of discriminatory practices and refer such complaints to the Iowa Civil
-Rights Commission for investigation and adjudication.
-4.   With approval of the City Council and with the assistance of the City
-staff, receiving administering, dispensing and accounting for any City funds
-that may be allocated, any donations that may be voluntarily contributed to the
-commission, or any grants that may be awarded to the commission for furthering
-the purposes of this chapter.
-5.   Making recommendations to the City Council for such further legislation
-concerning discrimination because of race, creed, color, sex, sexual
-orientation, gender identity, national origin, religion, ancestry or disability
-as it may deem necessary and desirable.
-6.   Preparing and transmitting to the City Manager, Mayor and City Council
-from time to time, as deemed necessary by the commission, through written
-report or oral presentation to the City Council, describing its activities and
-functions.
+victims of discriminatory practices and refer such complaints to the Iowa
+Office of Civil Rights for investigation and adjudication.
+4.   Preparing and transmitting to the City Manager, Mayor and City Council an
+annual written report describing activities and functions
+(Section 31.04 – Ord. 2261 – Jul. 26 Supp.)
 (Ch. 31 - Ord. 2025 - Sep. 20 Supp.)
 CHAPTER 35
 POLICE DEPARTMENT
@@ -5873,19 +5866,37 @@ netting, searching for or shooting at, stalking or lying in wait for any game,
 animal or bird protected by the State laws or rules adopted by the Department
 of Natural Resources, whether or not such animal is then subsequently captured,
 killed or injured.
-2.   Prohibition. It is unlawful for a person to hunt or trap within the City
-limits or to use any weapons, including snares, traps, pits or other devices
-capable of killing or injuring an animal. Live trapping of animals that does
-not cause injury to animals is allowed. Hunting with firearms within City
-limits is prohibited. Written consent of the Police Chief is required to
-discharge a firearm manufactured for the control of geese or waterfowl even if
-the firearm is non-lethal and cannot cause death or injury upon any human being
-or animal.
-3.   Special Permits. Special permits by order of the Council may be issued
+2.   General Prohibition. It is unlawful for a person to hunt or trap within
+the City limits or to use any weapons, including snares, traps, pits, or other
+devices capable of killing or injuring an animal. Live trapping of animals is
+allowed only when it does not cause injury. Hunting with firearms within City
+limits is prohibited. Written consent of the Police Chief or their designee is
+required to discharge a firearm manufactured for the control of geese or
+waterfowl, even if the firearm is non-lethal and cannot cause death or injury
+to any human being or animal.
+3.   Allowed Trapping. All traps used in the City must be humane, live traps,
+except that instant-kill traps may be used solely for small rodent pest
+control. Trapping for the purpose of a trap-neuter-return program in accordance
+with
+Chapter 55 is allowed. Allowed trapping may only be conducted on privately
+owned property and traps shall not be placed on public property, as defined in
+ordinance Section
+55.01(22), unless done so by officers of the Iowa Department of Natural
+Resources, the Ankeny Police Department, or the City’s animal control officer
+or designee.
+4.   Trap Standards and Maintenance. All traps shall have a metal tag attached
+plainly labeled with the owner’s name and address. All traps, except those
+placed entirely under water, must be checked at least twice every twenty-four
+hours and any unintentionally trapped animals must be released unharmed at the
+trap location.
+5.   Enforcement. Officers of the Iowa Department of Natural Resources, the
+Ankeny Police Department, or the City’s animal control officer or designee may
+confiscate traps that are not properly labeled or maintained as required.
+6.   Special Permits. Special permits by order of the Council may be issued
 from time to time to allow a special hunting season in the City limits to cull
 an overpopulated deer herd, or goose population only if the hunting is done
 with a bow and arrow.
-(Ord. 1675 – Oct. 10 Supp.)
+(Section 41.12 – Ord. 2257 – Jun. 26 Supp.)
 41.13 URINATING AND DEFECATING.
 It is unlawful for any person to urinate or defecate onto any sidewalk, street,
 alley, or other public way, or onto any public or private building, including
@@ -5930,10 +5941,11 @@ pursuant to APA 87-1, section 3.2.
 Section 727.2(1)(b).
 (Ord. 1916 – Aug. 17 Supp.)
 2.   Regulations.
-   A.   Except between 9:00 a.m. – 11:00 p.m. on July 4 th, it shall be
-unlawful for any person to use or explode any explosive, explosive material,
-First-class Consumer Fireworks or Second-class Consumer Fireworks within the
-corporate limits of the City.
+   A.   Except on July 3rd, July 4th, and December 31st it shall be unlawful
+for any person to use or explode any explosive, explosive material, First-Class
+Consumer Fireworks or Second-Class Consumer Fireworks within the corporate
+limits of the City in accordance with Iowa Code Section 727.2, Subsection 4.
+(Ord. 2228 – Jul. 25 Supp.)
    B.   It shall be unlawful for any person to offer for sale, expose for sale,
 sell at retail, or use or explode any explosive, explosive material, First-
 class Consumer Fireworks or Second-class Consumer Fireworks within the
@@ -5983,13 +5995,13 @@ discharged or stored on the property.
    D.   Any person or responsible party who violates the restrictions in
 division (A) or (B) above will be guilty of a municipal infraction and subject
 to a civil penalty of $250 for each offense.
-5.   Penalty. All violations of any provision(s) of Section 41.13 are hereby
-declared simple misdemeanors punishable by a fine of at least $250 plus
-surcharge and court costs and/or municipal infractions punishable by a penalty
-as listed in this Code of Ordinances. Violations may be charged as either a
-misdemeanor criminal offense or a municipal infraction at the sole discretion
-of the fire official or peace officer. Violations of this chapter shall be
-reported to the State Fire Marshal.
+5.   Penalty. All violations of any provision(s) of Section
+41.14 are hereby declared simple misdemeanors punishable by a fine of at least
+$250 plus surcharge and court costs and/or municipal infractions punishable by
+a penalty as listed in this Code of Ordinances. Violations may be charged as
+either a misdemeanor criminal offense or a municipal infraction at the sole
+discretion of the fire official or peace officer. Violations of this chapter
+shall be reported to the State Fire Marshal.
 (Ord. 2008 - Jun. 20 Supp.)
 41.15 SMOKING AND USE OF ELECTRONIC SMOKING DEVICES PROHIBITED.
 1.   Definitions. For the purposes of this section, the following definitions
@@ -7301,7 +7313,7 @@ ANIMAL PROTECTION AND CONTROL
 55.04 Abandonment of Cats and Dogs 55.14 Contract with Society or Association
 55.05 Livestock                    55.15 Impoundment
 55.06 At Large Prohibited          55.16 Pet Awards Prohibited
-55.07 Damage or Interference       55.17 At Large Cats
+55.07 Damage or Interference       55.17 Community Cats
 55.08 Annoyance or Disturbance     55.18 Tampering with a Rabies Vaccination
                                    Tag
 55.09 Animal Littering             55.19 Tampering with an Electronic Handling
@@ -7332,7 +7344,6 @@ by law, shall not be deemed at large if any of the following is true:
 the animal, either by leash, cord, chain or other similar restraint not more
 than six feet in length, or properly restrained within a motor vehicle; or
    C.   It is properly housed in a veterinary hospital or registered kennel.
-(Ord. 2208 – Jun. 25 Supp.)
 6.   “Business” means any enterprise relating to any of the following:
    A.   The sale or offer for sale of goods or services.
    B.   A recruitment for employment or membership in an organization.
@@ -7346,41 +7357,73 @@ that have reverted to a wild state.
 commercial breeder, commercial kennel, dealer, pet shop, pound, public auction,
 or research facility.
 (Code of Iowa, Sec. 717.B1)
-9.   “Dog” means and includes both male and female animals of the Canine
+9.   “Community cat” means a member of the Felis catus species that is allowed
+to roam freely within the City and meet the following requirements:
+   A.   The cat has been scanned for microchips and no person owns the cat,
+   B.   The cat has been assessed by a veterinarian and deemed healthy,
+   C.   The cat has been spayed or neutered,
+   D.   The cat has been vaccinated for rabies, feline rhinotracheitis,
+calcivirus, and panleukopenia, and reasonable attempts have been made to
+revaccinate the cat in accordance with the direction of a veterinarian, and
+   E.   The cat has been ear-tipped by the same veterinarian that made the
+health assessment after having made an affirmative determination for each of
+the requirements in Subsections A-D above.
+10.   “Community cat caregiver” means a person who, acting within the
+procedures of a trap-neuter-return program, provides care to a community cat.
+This care includes providing food, shelter or medical care. A community cat
+caregiver is not the owner, harborer, shelterer, controller or keeper of a
+community cat.
+11.   “Dog” means and includes both male and female animals of the Canine
 species, including spayed or neutered dogs.
-10.   “Fair” means any of the following:
+12.   “Fair” means any of the following:
    A.   The annual fair and exposition held by the Iowa State Fair Board
 pursuant to Chapter 173 of the Code of Iowa or any fair event conducted by a
 fair under the provisions of Chapter 174 of the Code of Iowa.
    B.   An exhibition of agricultural or manufactured products.
    C.   An event for operation of amusement rides or devices or concession
 booths.
-11.   “Game” means a “game of chance” or “game of skill” as defined in Section
+13.   “Game” means a “game of chance” or “game of skill” as defined in Section
 99B.1 of the Code of Iowa.
-12.   “Injury” means an animal’s disfigurement; the impairment of an animal’s
+14.   “Injury” means an animal’s disfigurement; the impairment of an animal’s
 health; or an impairment to the functioning of an animal’s limb or organ, or
 the loss of an animal’s limb or organ.
 (Code of Iowa, Sec. 717.B1)
-13.   “Livestock” means an animal belonging to the bovine, caprine, equine,
+15.   “Livestock” means an animal belonging to the bovine, caprine, equine,
 ovine or porcine species, ostriches, rheas and emus; farm deer as defined in
 Section 170.1 of the Code of Iowa; or poultry.
 (Code of Iowa, Sec. 717.1)
-14.   “Livestock abuse or neglect” shall be defined by the Code of Iowa,
+16.   “Livestock abuse or neglect” shall be defined by the Code of Iowa,
 Section 717.1A and 717.2.
-15.   “Owner” means any person owning, keeping, sheltering, or harboring an
+17.   “Owner” means any person owning, keeping, sheltering, or harboring an
 animal.
-16.   “Pet” means a living dog, cat, or an animal normally maintained in a
+18.   “Pet” means a living dog, cat, or an animal normally maintained in a
 small tank or cage in or near a residence, including but not limited to a
 rabbit, gerbil, hamster, mouse, parrot, canary, mynah, finch, tropical fish,
 goldfish, snake, turtle, gecko, or iguana.
-17.   “Pound” means a facility for the prevention of cruelty to animals
+19.   “Pound” means a facility for the prevention of cruelty to animals
 operated by the State, a municipal corporation, or other political subdivision
 of the State for the purpose of impounding or harboring seized stray, homeless,
 abandoned, or unwanted dogs, cats, or other animals; or a facility operated for
 such a purpose under a contract with any municipal corporation or incorporated
 society.
 (Code of Iowa, Sec. 162.2)
-18.   “Research facility” means any school or college of medicine, veterinary
+20.   “Premises” means the area of land surrounding a house or dwelling unit
+and actually or by legal construction forming an enclosure with it and to which
+the owner or custodian of a dog has legal and equitable right therein.
+“Premises” does not extend into areas of common ownership or use in the case of
+easements, trailer parks, apartment complexes, private communities, etc.
+21.   “Private property” means all buildings and other property owned by a
+private person. It includes buildings, yards, and service and parking areas.
+22.   “Public property” means buildings and other property owned or dedicated
+to the use of the City, State, County, or United States government, wherein the
+authorized representative has granted the City jurisdiction thereof, or any
+governmental subdivision of the City, State, County or U.S. government or any
+governmental organization established by the City, State, County or U.S.
+government. Such property includes but is not limited to buildings, grounds,
+yards, street rights-of-way, walks, bicycle paths, easements, parks, service
+areas, open areas, athletic and recreational areas, riverbanks, parking areas
+and ramps, boulevards, and any other real estate owned by a governmental unit.
+23.   “Research facility” means any school or college of medicine, veterinary
 medicine, pharmacy, dentistry, or osteopathic medicine, or hospital, diagnostic
 or research laboratories, or other educational or scientific establishment
 situated in the State concerned with the investigation of, or instruction
@@ -7388,19 +7431,23 @@ concerning the structure or function of living organisms, the cause,
 prevention, control, or cure of diseases or abnormal conditions of human beings
 or animals.
 (Code of Iowa, Sec. 162.2)
-19.   “Responsible party” means a person who owns or maintains or is
+24.   “Responsible party” means a person who owns or maintains or is
 responsible for the care of the animal.
-20.   “Society” means any incorporated society or association organized for the
+25.   “Society” means any incorporated society or association organized for the
 express purpose of prevention of cruelty to animals.
-21.   “Vaccinated” means an animal vaccinated by a licensed veterinarian
+26.   “Trap-neuter-return program” means the nonlethal process of humanely
+trapping, sterilizing, vaccinating and ear notching for identification, and
+returning community cats to their location of capture.
+27.   “Vaccinated” means an animal vaccinated by a licensed veterinarian
 against rabies, or it means that satisfactory proof is furnished to establish
 such prior vaccination of the animal within eighteen months prior to the
 impounding or licensing of the animal if the vaccination was by modified live
 virus vaccine of egg embryo origin, or within six months if the vaccination was
 by killed tissue vaccine.
-22.   “Veterinarian” means a veterinarian licensed pursuant to Chapter 169 of
+28.   “Veterinarian” means a veterinarian licensed pursuant to Chapter 169 of
 the Code of Iowa who practices veterinary medicine in the State.
-(Code of Iowa, Sec. 717.B1).
+(Code of Iowa, Sec. 717.B1)
+(Section 55.01 – Ord. 2258 – Jun. 26 Supp.)
 55.02 ANIMAL NEGLECT.
 1.   It is unlawful for a person who owns or has custody of an animal and
 confines that animal to fail to provide the animal with any of the following
@@ -7461,10 +7508,10 @@ manner inconsistent with customary animal husbandry practices.
 It is unlawful for a person who owns or has custody of a cat or dog to
 relinquish all rights in and duties to care for the cat or dog. This section
 does not apply to any of the following:
-(Code of Iowa, Sec. 717B.8)
-1.   The delivery of a cat or dog to another person who will accept ownership
-and custody of the cat or dog.
-2.   The delivery of a cat or dog to an animal shelter or that has been issued
+(Code of Iowa, Sec. 717.B8)
+1.   The delivery of a cat or dog to another person who will accept ownership
+and custody of the cat or dog.
+2.   The delivery of a cat or dog to an animal shelter or that has been issued
 or renewed a valid authorization by the Department of Agriculture and Land
 Stewardship under Chapter 162 of the Code of Iowa.
 3.   A person who relinquishes custody of a cat at a location in which the
@@ -7472,18 +7519,26 @@ person does not hold a legal or equitable interest, if previously the person
 had taken custody of the cat at the same location and provided for the cat’s
 sterilization by a veterinarian.
 (Code of Iowa, Sec. 717B.8)
+4.   An individual returning a community cat to its original location while
+conducting the trap-neuter-return program.
+(Section 55.04 – Ord. 2258 – Jun. 26 Supp.)
 55.05 LIVESTOCK.
-It is unlawful for a person to keep livestock within the City.
-(Ord. 1700 - Jul. 11 Supp.)
+It is unlawful for a person to keep livestock within the City. However,
+chickens may be allowed on owner occupied, single-family properties that meet
+the requirements in
+Chapter 58.
+(Section 55.05 – Ord. 2258 – Jun. 26 Supp.)
 55.06 AT LARGE PROHIBITED.
 It is unlawful for any owner or responsible party of any animal to permit or
 allow the animal to be at large. All violations of any provision(s) of Section
 55.06 are hereby declared simple misdemeanors punishable by a fine of at least
 $50 plus surcharge and court costs and/or municipal infractions punishable by a
-penalty as listed in Chapter 4 of this Code of Ordinances. Violations may be
-charged as either a misdemeanor criminal offense or a municipal infraction at
-the sole discretion of the peace officer.
-(Ord. 2008 - Jun. 20 Supp.)
+penalty as listed in
+Chapter 4 of this Code of Ordinances. Violations may be charged as either a
+misdemeanor criminal offense or a municipal infraction at the sole discretion
+of the peace officer. Community cats shall be exempt from the provisions of
+this section.
+(Section 55.06 – Ord. 2258 – Jun. 26 Supp.)
 55.07 DAMAGE OR INTERFERENCE.
 It is unlawful for the owner of an animal to allow or permit such animal to
 pass upon the premises of another, thereby causing damage to, or interference
@@ -7602,16 +7657,41 @@ premises of the pet shop.
 the Izaak Walton League of America; or organizations associated with outdoor
 recreation, hunting or fishing, including but not limited to the Iowa
 Sportsmen’s Federation.
-55.17 AT LARGE CATS.
-Any cat found to be at large without (a) collar, (b) license or (c) imbedded
-ownership chip shall be determined to be a feral cat. For purposes of this
-section a cat shall have a short coat of fur to qualify as a feral cat in
-addition to the aforementioned requirements of the definition. A feral cat
-shall be held for a period of twenty-four hours from the date of capture before
-transportation to the Animal Rescue League. If unclaimed within twenty-four
-hours, the cat shall be identified as a feral cat for purposes of record
-management with the Animal Rescue League.
-(Ord. 1675 – Oct. 10 Supp.)
+55.17 COMMUNITY CATS.
+1.   The community cats initiative is to protect the residents and community
+members of the City against the hazards brought about by the growing feral cat
+population and to provide a safe and humane process by which those health and
+safety hazards can be reduced through the use of a trap-neuter-return (TNR)
+program to reduce and/or effectively manage the feral cat population within the
+City limits.
+2.   Property owners carrying out allowed trapping, as set forth in ordinance
+Section
+41.12(3), for the trap-neuter-return program must promptly transport a
+community cat to a veterinarian for the sterilizing, vaccinating and ear
+notching for identification, and the cost for same shall be paid by the
+property owner. A community cat shall be returned to the area where it was
+captured unless said cat is sick and/or injured or unless the property owner
+has requested that said cat be removed from the property, or the cat is deemed
+adoptable and may b adopted out, or the Police Chief or their designee has
+declared it a nuisance.
+3.   Community caregivers shall make reasonable attempts to revaccinate
+community cats in their care in accordance with the directions of a
+veterinarian.
+4.   Nuisance. Community cats that create a nuisance, as determined by the
+Police Chief or their designee, shall be captured and shall not be eligible for
+continuation in the trap-neuter-return program. For purposes of this section, a
+nuisance is any violation of any section of this article for which there is not
+an express exception for community cats or any other behavior or condition
+which interferes with the health, safety or enjoyment of life or property of a
+human or another domestic animal.
+5.   Leash Requirements. Community cats are exempt from City leash
+requirements.
+6.   Prohibition on Feeding. No feeding station shall be located on property
+owned by the City or be located two hundred (200) feet of a playground or
+school district property.
+7.   Liability. The City shall have no liability for the disposition of any
+community cat or for damages or injuries caused by any community cat.
+(Section 55.17 – Ord. 2258 – Jun. 26 Supp.)
 55.18 TAMPERING WITH A RABIES VACCINATION TAG.  
 It is unlawful to tamper with a rabies vaccination tag.
 (Code of Iowa, Sec. 351.45)
@@ -9094,19 +9174,21 @@ signs are in place.
 – NONE –
 CHAPTER 69
 PARKING REGULATIONS
-69.01 Authority and Compliance          69.10 No Parking on North and East
-                                        Sides of Streets
-69.02 Park Adjacent to Curb             69.11 No Parking on Both Sides
-69.03 Park Adjacent to Curb – One-way 69.12 Truck, Trailer, and Boat Parking
-Street                                  Limited
-69.04 Angle Parking                     69.13 Parking Limited to Two Hours
-69.05 Angle Parking – Manner          69.14 Snow Ordinance
-69.06 Parking for Certain Purposes      69.15 Restricted Winter Parking on
-Illegal                                 Narrow Streets
-69.07 Parking Prohibited                69.16 No Passenger Loading or Unloading
-69.08 Persons With Disabilities Parking 69.17 Fire Lanes
-69.09 School Crossing Crosswalk         69.18 Controlled Access Facilities
-                                        69.19 Temporary Parking
+69.01 Authority and Compliance          69.11 No Parking on Both Sides
+69.02 Park Adjacent to Curb             69.12 Truck, Trailer, and Boat Parking
+                                        Limited
+69.03 Park Adjacent to Curb – One-way 69.13 Parking Limited to Two Hours
+Street
+69.04 Angle Parking                     69.14 Snow Ordinance
+69.05 Angle Parking – Manner          69.15 Restricted Winter Parking on
+                                        Narrow Streets
+69.06 Parking for Certain Purposes      69.16 No Passenger Loading or Unloading
+Illegal
+69.07 Parking Prohibited                69.17 Fire Lanes
+69.08 Persons With Disabilities Parking 69.18 Controlled Access Facilities
+69.09 School Crossing Crosswalk         69.19 Temporary Parking
+69.10 No Parking on North and East
+Sides of Streets
  
 69.01 AUTHORITY AND COMPLIANCE.
 The City has designated, as allowed in Section 321.236(1) of the Code of Iowa,
@@ -9337,6 +9419,13 @@ College Avenue to 250 feet west of Southwest State Street.
 (Ord. 2148 - Sep. 23 Supp.)
    Y.   On the south side of Northwest Harmon Court.
 (Ord. 2176 - Aug. 24 Supp.)
+   Z.   On the south side and the west side of Northwest 28th Street between
+Northwest 27th Street and Northwest Boulder Point Place.
+   AA.   On the west side of Northeast Country Meadow Drive between Northeast
+7th Street and Northeast 8th Street.
+   AB.   On the west side of Northwest Ridgeline Drive between Northwest 6th
+Place and Northwest 6th Street.
+(Z, AA, AB - Ord. 2226 – Jul. 25 Supp.)
 2.   Exceptions. Notwithstanding the provisions of this section, parking is
 authorized or prohibited along certain streets as hereinafter set forth:
    A.   Southwest School Street. Parking is permitted on the east side of
@@ -9564,6 +9653,10 @@ Southwest Maple Street on local public school attendance days between the hours
 of 7:30 am to 9:30 am and 2:30 pm to 4:30 pm from Southwest 11th Street to
 Southwest 12th Street.
 (Ord. 2176 - Aug. 24 Supp.)
+   BO.   Northeast 49th Street. Parking is prohibited on the south side of
+Northeast 49th Street between North Ankeny Blvd and the east side of NE Grant
+Lane.
+(Ord. 2226 – Jul. 25 Supp.)
 3.   Exceptions. Notwithstanding the provisions of this section, parking is
 authorized or prohibited along certain streets as hereinafter set forth:
    A.   Southwest 2nd Street. Parallel parking is permitted on the north side
@@ -9625,13 +9718,13 @@ termination;
    V.   Northeast 18th Street;
    W.   Northwest 18th Street;
    X.   Northwest State Street;
-            (Ord. 1676 – Oct. 10 Supp.)
+(Ord. 1676 – Oct. 10 Supp.)
    Y.   Southwest State Street, except in marked parking spaces;
 (Ord. 2148 - Sep. 23 Supp.)
    Z.   Southwest Irvinedale Drive
-            (Ord. 2112 - Jun. 22 Supp.)
+(Ord. 2112 - Jun. 22 Supp.)
    AA.   Northwest Irvinedale Drive
-            (Ord. 2112 - Jun. 22 Supp.)
+(Ord. 2112 - Jun. 22 Supp.)
    BB.   Northeast 36th Street;
    CC.   Northwest 36th Street;
    DD.   I-35 within City limits.
@@ -9641,7 +9734,7 @@ Irvinedale Drive.
    FF.   Southwest Weigel Drive
    GG.   Northwest Weigel Drive
    HH.   Southwest Polk City Drive
-            (Subsections FF-HH - Ord. 2112 - Jun. 22 Supp.)
+(Subsections FF-HH - Ord. 2112 - Jun. 22 Supp.)
    II.   Northeast Frisk Drive;
    JJ.   Southeast Frisk Drive
    KK.   Northeast Four Mile Drive;
@@ -9661,6 +9754,8 @@ to Northeast 18th Street;
 (Subsections II-WW - Ord. 2148 - Sep. 23 Supp.)
    XX.   Southeast Berwick Drive.
 (Ord. 2176 - Aug. 24 Supp.)
+   YY.   Northeast 72nd Street.
+(Ord. 2226 – Jul. 25 Supp.)
 69.12 TRUCK, TRAILER, AND BOAT PARKING LIMITED.
 1.   No person shall park a motor truck having a freight capacity greater than
 one ton, or any trailer, semi-trailer, tractor, road tractor or truck tractor
@@ -9835,81 +9930,76 @@ chapter shall be required to pay the reasonable cost of towing and storage.
 CHAPTER 75
 ALL-TERRAIN VEHICLES AND SNOWMOBILES
  
-75.01 Purpose                         75.08 Hours of Operation
-75.02 Effective Dates and Termination 75.09 Negligence
-75.03 Definitions                     75.10 Accident Reports
-75.04 General Regulations             75.11 Exemptions
-75.05 Places of Operation             75.12 Penalty
-75.06 Requirements for UTVs           75.13 Limitation of Liability of City and
-                                      Adjoining Owners
-75.07 Violation of a Stop Signal
+75.01 Purpose                    75.07 Hours of Operation
+75.02 Definitions                75.08 Negligence
+75.03 General Regulations        75.09 Accident Reports
+75.04 Places of Operation        75.10 Exemption
+75.05 Requirements for UTV       75.11 Penalty
+75.06 Violation of a Stop Signal 75.12 Limitation of Liability of City and
+                                 Adjoining Owners
  
 75.01 PURPOSE.
 The purpose of this chapter is to regulate the operation of all-terrain
 vehicles, snowmobiles and off-road utility vehicles within the City.
-75.02 EFFECTIVE DATES AND TERMINATION.
-This chapter shall only remain in effect from the effective date of passage,
-pursuant to Iowa Code 380.6, for a period of twenty-four (24) months after said
-date.
-75.03 DEFINITIONS.
+75.02 DEFINITIONS.
 For use in this chapter the following terms are defined:
-1.   "All-terrain vehicle" or "ATV" means a motorized vehicle, with not less
+1.   “All-terrain vehicle” or “ATV” means a motorized vehicle, with not less
 than three and not more than six non-highway tires, that is limited in engine
 displacement to less than 1,000 cubic centimeters and in total dry weight to
 less than 1,200 pounds and that has a seat or saddle designed to be straddled
-by the operator and handlebars for steering control.   
+by the operator and handlebars for steering control.
 (Code of Iowa, Sec. 321I.1)
-2.   "Off-road motorcycle" means a two-wheeled motor vehicle that has a seat or
+2.   “Off-road motorcycle” means a two-wheeled motor vehicle that has a seat or
 saddle designed to be straddled by the operator and handlebars for steering
 control and that is intended by the manufacturer for use on natural terrain.
-"Off-road motorcycle" includes a motorcycle that was originally issued a
+“Off-road motorcycle” includes a motorcycle that was originally issued a
 certificate of title and registered for highway use under Chapter 321 of the
 Code of Iowa, but which contains design features that enable operation over
 natural terrain. An operator of an off-road motorcycle is also subject to the
 provisions of this chapter governing the operation of all-terrain vehicles.
 (Code of Iowa, Sec. 321I.1)
-3.   "Off-road utility vehicle" or "UTV" means a motorized vehicle, with not
+3.   “Off-road utility vehicle” or “UTV” means a motorized vehicle, with not
 less than four and not more than eight low pressure tires, that has a seat that
 is of bucket or bench design, not intended to be straddled by the operator, and
-a steering wheel or control levers for control. "Off-road utility vehicle" does
+a steering wheel or control levers for control. “Off-road utility vehicle” does
 not include dune buggies, golf carts, go carts, low-speed vehicles, mini
-trucks, or tracked vehicles. "Off-road utility vehicle" includes the following
+trucks, or tracked vehicles. “Off-road utility vehicle” includes the following
 vehicles:
 (Code of Iowa, Sec. 321I.1)
-   A.   "Off-road utility vehicle - Type 1" includes vehicles with a total dry
+   A.   “Off-road utility vehicle – Type 1” includes vehicles with a total dry
 weight of 1,200 pounds or less and a width of 50 inches or less.
-   B.   "Off-road utility vehicle - Type 2" includes vehicles, other than type
+   B.   “Off-road utility vehicle – Type 2” includes vehicles, other than type
 1 vehicles, with a total dry weight of 2,000 pounds or less and a width of 65
 inches or less.
-   C.   "Off-road utility vehicle - Type 3" includes vehicles with a total dry
+   C.   “Off-road utility vehicle – Type 3” includes vehicles with a total dry
 weight of more than 2,000 pounds or a width of more than 65 inches, or both.
-4.   "Operate" means to ride in or on, other than as a passenger, use, or
+4.   “Operate” means to ride in or on, other than as a passenger, use, or
 control the operation of an ATV, snowmobile or UTV in any manner, whether or
 not the ATV, snowmobile or UTV is moving.
-5.   "Operator" means a person who operates or is in actual physical control of
+5.   “Operator” means a person who operates or is in actual physical control of
 an ATV, snowmobile or UTV.
-6.   "Person" means an individual, partnership, firm, corporation, association,
+6.   “Person” means an individual, partnership, firm, corporation, association,
 any body of persons, whether incorporated or not, and the state, its agencies,
 and political subdivisions.
-7.   "Snowmobile" means a motorized vehicle that weighs less than 1,000 pounds,
+7.   “Snowmobile” means a motorized vehicle that weighs less than 1,000 pounds,
 that uses sled-type runners or skis, endless belt-type tread with a width of 48
 inches or less, or any combination of runners, skis, or tread, and is designed
-for travel on snow or ice. "Snowmobile" does not include an all-terrain vehicle
+for travel on snow or ice. “Snowmobile” does not include an all-terrain vehicle
 that has been altered or equipped with runners, skis, belt-type tracks, or
 treads.
 (Code of Iowa, Sec. 321G.1)
-8.   "Street or Highway" means the entire width between property lines of every
+8.   “Street or Highway” means the entire width between property lines of every
 way or place of whatever nature when any part thereof is open to the use of the
 public, as a matter of right, for purposes of vehicular travel, except in
 public areas in which the boundary shall be thirty-three (33) feet each side of
 the center line of the roadway.
-75.04 GENERAL REGULATIONS.
+75.03 GENERAL REGULATIONS.
 No person shall operate an ATV, snowmobile or UTV within the City in violation
 of the provisions of Chapter 321G or Chapter 321I of the Code of Iowa or rules
 established by the Natural Resource Commission of the Department of Natural
 Resources governing their registration, numbering, equipment and manner of
 operation.
-75.05 PLACES OF OPERATION.
+75.04 PLACES OF OPERATION.
 The operators of ATVs, snowmobiles and UTVs shall comply with the following
 restrictions as to where ATVs, snowmobiles and UTVs may be operated within the
 City:
@@ -9985,9 +10075,9 @@ private property without the consent of the owner or occupier thereof.
 14.   Public Ice. ATVs, snowmobiles, and UTVs may not be operated upon any
 frozen creeks, streams, ponds, lakes or other waterway within City limits.
 15.   Waterways. ATVs, snowmobiles and UTVs may not be operated in any creek,
-stream, river, or other waterway-nor in any portion of a creek bed, stream bed,
+stream, river, or other waterway—nor in any portion of a creek bed, stream bed,
 or riverbed within city limits.
-75.06 REQUIREMENTS FOR UTVs.
+75.05 REQUIREMENTS FOR UTVs.
 Operators of UTVs must adhere to the following equipment requirements and
 restrictions while operating UTVs within the City limits:
 1.   Operators of UTVs within City limits must be 18 years of age or older and
@@ -9995,7 +10085,7 @@ possess a valid driver's license.
 2.   A person shall not operate a UTV within the City limits unless the
 operator has proof of insurance complying with that required of an operator of
 a motor vehicle pursuant to applicable provisions of the Iowa Code, Rules and
-Regulations, including but not limited to Iowa Code §§ 321.20B and 321A.21
+Regulations, including but not limited to Iowa Code §§ 321.20B and 321A.21.
 3.   Owners of UTVs operated within City limits shall register their UTV with
 the Iowa Department of Natural Resources, and proof of such registration shall
 be displayed and provided, upon request, to any peace officer requesting it.
@@ -10023,13 +10113,11 @@ decorative lights is not permitted while the UTV is being operated on City
 streets or highways.
    F.   Rear-facing mirror providing the operator with a clear view of the
 rear.
-   G.   Department of Transportation rated tires which shall display the proper
-markings on the sidewall of the tire.
-   H.   A system of seat belts, or a similar system, for restraining each
+   G.   A system of seat belts, or a similar system, for restraining each
 occupant of the vehicle in the event of an accident.
-   I.   A system of structural members designed to reduce the likelihood than
+   H.   A system of structural members designed to reduce the likelihood than
 an occupant would be crushed as the result of a rollover of the vehicle.
-   J.   A muffler that shall limit engine noise to not more than 86 decibels,
+   I.   A muffler that shall limit engine noise to not more than 86 decibels,
 as measured on the "A" scale of the American National Standards Institute
 (ANSI), incorporated, publications S1.4-1961, general purpose sound level
 meters, at a distance of 50 feet.
@@ -10048,7 +10136,8 @@ restraint, and the child restraint must be properly secured to the UTV.
    C.   No animals will be transported in the cargo portion, bed or attached
 trailer of a UTV unless they are contained within an enclosure secured to the
 UTV.
-9.   No seat shall be used by more than one person at a time.
+9.   No seat shall be used by more people than the available factory installed
+restraint devices or seatbelts
 10.   No person may ride on the lap of another.
 11.   The number of passengers in a UTV shall not exceed the number of factory-
 installed seats in the UTV.
@@ -10059,49 +10148,50 @@ an attached trailer while the UTV is being operated.
 14.   UTV doors or nets must be closed during operation if so equipped.
 15.   UTV operators shall not operate a UTV equipped with metal studded tires
 and/or tire chains on or alongside any City street or highway.
-16.   No open containers of alcohol shall be allowed while the UTV is being
-operated.
+16.   No open containers of alcohol or tetrahydrocannabinol (THC) infused
+drinks shall be allowed while the UTV is being operated.
 17.   Drivers may not operate a UTV under the influence of intoxicating liquor
 or narcotics or habit-forming drugs as prescribed under Iowa Code Chapter 321J.
 18.   No UTV will be operated in a careless or reckless manner so as to:
 endanger any person; cause injury or damage to person or property; create
 unnecessary skidding or sliding; or cause a wheel or wheels to lose traction or
 contact with the ground.
-75.07 VIOLATION OF A STOP SIGNAL.
+75.06 VIOLATION OF A STOP SIGNAL.
 A person, after having received a visual or audible signal from a peace officer
 to come to a stop, shall not operate an ATV, snowmobile or UTV in willful or
 wanton disregard of the signal or interfere with or endanger the officer or any
 other person or vehicle, or increase speed or attempt to flee or elude the
 officer.
-75.08 HOURS OF OPERATION.
+75.07 HOURS OF OPERATION.
 No snowmobile shall be operated in the City between the hours of 10:00 p.m. and
 9:00 a.m. within 150 feet of any dwelling house without the consent of the
 occupants of said dwelling, except for emergency situations or for loading and
 unloading from a transport trailer.
-75.09 NEGLIGENCE.
+75.08 NEGLIGENCE.
 The owner and operator of an ATV, snowmobile, or UTV shall be liable for any
 injury or damage occasioned by the negligent operation of the ATV, snowmobile,
 or UTV.
 (Code of Iowa, Sec. 321G.18)
-75.10 ACCIDENT REPORTS.
+75.09 ACCIDENT REPORTS.
 Whenever any ATV, snowmobile or UTV is involved in an accident resulting in
 injury or death to anyone or property damage amounting to $200 or more, either
 the owner, operator or someone acting on their behalf shall immediately notify
 a law enforcement officer and shall file an accident report within 48 hours in
 accordance with state law.
-75.11 EXEMPTIONS.
+75.10 EXEMPTIONS.
 ATVs, snowmobiles, and UTVs owned by a government agency or subdivision
 thereof, and used in an official capacity, and UTVs used exclusively to conduct
 agricultural purposes in accordance with Iowa Code § 321.234A.1[a] are exempt
 from registration and the requirements of this chapter.
-75.12 PENALTY.
-All violations of any provision(s) of Chapter 75 are hereby declared simple
-misdemeanors punishable by a fine of at least $100 plus surcharge and court
-costs and/or municipal infractions punishable by a penalty as listed in Chapter
-4 of this Code of Ordinances. Violations may be charged as either a misdemeanor
-criminal offense or a municipal infraction at the sole discretion of the peace
-officer.
-75.13 LIMITATION OF LIABILITY OF CITY AND ADJOINING OWNERS.
+75.11 PENALTY.
+All violations of any provision(s) of
+Chapter 75 are hereby declared simple misdemeanors punishable by a fine of at
+least $100 plus surcharge and court costs and/or municipal infractions
+punishable by a penalty as listed in
+Chapter 4 of this Code of Ordinances. Violations may be charged as either a
+misdemeanor criminal offense or a municipal infraction at the sole discretion
+of the peace officer.
+75.12 LIMITATION OF LIABILITY OF CITY AND ADJOINING OWNERS.
 The city and the owners or tenants of property adjoining public lands or right-
 of-way of a public street or roadway and their agents and employees owe no duty
 of care to keep public lands, ditches, or land contiguous to a street or
@@ -10118,116 +10208,107 @@ contiguous to a street or roadway under the control of the city. The city, and
 the owners or tenants of property adjoining public lands or the right-of-way of
 a public street or roadway and their agents and employees are not liable for
 the operation of an ATV, snowmobile or UTV.
-(Chapter 75 - Ord. 2146 - Jul. 23 Supp.)
+(Chapter 75 - Ord. 2225 – Jul. 25 Supp.)
 CHAPTER 76
-BICYCLE AND PERSONAL TRANSPORATION DEVICES REGULATIONS
+BICYCLE AND ELECTRIC SCOOTER REGULATIONS
  
 76.01 Purpose                               76.07 Responsible Riding
 76.02 Definitions                           76.08 Place of Riding
 76.03 Scope of Regulations                  76.09 Parking
-76.04 Traffic Code Applies                  76.10  Equipment Requirements
+76.04 Traffic Code Applies                  76.10 Equipment Requirements
 76.05 Motor Vehicle Operations              76.11 Violations
-76.06 Actions Against Bicycles and Personal
-Transportation Devices
+76.06 Actions Against Bicycles and Electric
+Scooters
  
 76.01 PURPOSE.
-The purpose of this Chapter is to set forth regulations for operating bicycles,
-electric scooters and personal transportation devices on the city's roadways,
-streets, sidewalks, and multi-use trails as enabled by Code of Iowa, Section
-321.235 and 321.236[10].
+The purpose of this chapter is to set forth regulations for operating bicycles,
+electric scooters, e-moto or electric motorcycles, and motorized bicycles on
+the City’s roadways, streets, sidewalks, and multi-use trails as enabled by
+Code of Iowa, Section 321.235 and 321.236(10).
 76.02 DEFINITIONS.
-1.   "Bicycle" means either of the following: (1) A device having up to four
+1.   “Bicycle” means either of the following: (1) a device having up to four
 wheels and having at least one saddle or seat for the use of a rider which is
-propelled by human power. (2) A low-speed electric bicycle.
-(Code of Iowa, Sec. 321.1[40.c.])
-2.   "Bicycle lane" means a portion of a street designed for exclusive or
-preferential use by persons using bicycles, electric scooters or personal
-transportation devices. Bicycle lanes are to be distinguished from the portion
-of the street used for motor vehicle traffic by physical barrier, striping,
-marking, or other similar device.
-3.   "Bicycle path" means a paved or unpaved surface, separate from the street,
-in the right-of-way at or greater than eight feet (8') in width under the
-jurisdiction and control of the state or a local political subdivision thereof
-for use primarily by bicycles, electric scooters, personal transportation
-devices, and pedestrians.
-4.   "Electric scooter" means a device weighing less than one hundred pounds
-that is equipped with two or three wheels, handlebars, and an electric motor,
-and which is solely powered by the rider or by an electric motor capable of
-propelling the device without additional propulsion supplied by the rider, at a
-maximum speed on a paved level surface of no more than twenty miles per hour,
-or both.
-5.   "Low-speed electric bicycle" means a device having a saddle or seat for
+propelled by human power. (2) a low-speed electric bicycle.
+(Code of Iowa, Sec. 321.1(40.c.))
+2.   “Bicycle lane” means a portion of a street designed for exclusive or
+preferential use by persons using bicycles, or electric scooters. Bicycle lanes
+are to be distinguished from the portion of the street used for motor vehicle
+traffic by physical barrier, striping, marking, or other similar device.
+3.   “Bicycle path” means a paved or unpaved surface, separate from the street,
+in the right-of-way at or greater than eight feet (8’) in width under the
+jurisdiction and control of the State or a local political subdivision thereof
+for use primarily by bicycles, low-speed electric bicycles, electric scooters,
+and pedestrians.
+4.   “E-moto or electric motorcycle” means a motor vehicle having a saddle or
+seat for the use of a rider, with a motor with peak power of 3kW-20kW, designed
+to travel on not more than three wheels in contact with the ground, and capable
+of operating at speeds greater than thirty-nine miles per hour on level ground
+unassisted by human power, but excluding a motorized bicycle.
+5.   “Electric scooter” means a device weighing less than one hundred pounds
+that is equipped with one, two or three wheels, with or without handlebars,
+with or without a seat or saddle, and an electric motor, and which is solely
+powered by the rider or by an electric motor capable of propelling the device
+without additional propulsion supplied by the rider, at a maximum speed on a
+paved level surface of no more than twenty miles per hour, or both.
+6.   “Low-speed electric bicycle” means a device having a saddle or seat for
 the use of a rider, up to four wheels, equipped with fully operable pedals, and
-an electric motor of less than seven hundred fifty watts that meets the
-requirements of one of the following classes:
-   A.   "Class 1 low-speed electric bicycle" means a low-speed electric bicycle
-equipped with a motor that may be used to provide assistance only when the
-rider is pedaling and that ceases to provide assistance when the bicycle
-reaches a speed of twenty miles per hour or more.
-   B.   "Class 2 low-speed electric bicycle" means a low-speed electric bicycle
-equipped with a motor that may be used exclusively to propel the bicycle and
-that is not capable of providing assistance when the bicycle reaches a speed of
-twenty miles per hour or more.
-   C.   "Class 3 low-speed electric bicycle" means a low-speed electric bicycle
-equipped with a motor that may be used to provide assistance only when the
-rider is pedaling and that ceases to provide assistance when the bicycle
-reaches a speed of twenty-eight miles per hour or more.
-(Code of Iowa, Sec. 321.1[36A])
-6.   "Multi-use trail" means a paved or unpaved surface, separate from the
-street, in the right-of-way at or greater than eight feet (8') in width under
-the jurisdiction and control of the state or a local political subdivision
-thereof for use primarily by bicycles, low-speed electric bicycles, electric
-scooters, personal transportation devices, and pedestrians. No multi-use trail
-shall be considered as a street or highway.
-7.   "Other Power-Driven Mobility Device (OPDMD)" means any mobility device
+an electric motor with a top speed of 28mph or less.
+7.   “Motorized bicycle” means a motor vehicle having a saddle or seat for the
+use of a rider, designed to travel on not more than three wheels in contact
+with the ground, and not capable of operating at a speed in excess of thirty-
+nine miles per hour on level ground unassisted by human power, but excluding a
+low speed electric bicycle.
+8.   “Other Power-Driven Mobility Device (OPDMD)” means any mobility device
 powered by batteries, fuel, or other engines that is used by individuals with
 mobility disabilities for the purpose of locomotion, including, electronic
 personal assistance mobility devices, or any mobility device designed to
 operate in areas without defined pedestrian routes, but that is not a
 wheelchair or a golf cart.
-8.   "Personal Transportation Device" means a mobility device under one hundred
-fifty pounds, which may be equipped with an electric motor for assistance or
-sole propulsion, designed for conveying the operator, with speeds of less than
-twenty miles per hour, but excluding a bicycle, low-speed electric bicycle, or
-electric scooter.
-9.   "Roadway" means that portion of a highway improved, designed, or
+9.   “Roadway” means that portion of a highway improved, designed, or
 ordinarily used for vehicular travel.
-10.   "Street" means the entire width between property lines of every way or
+10.   “Street” means the entire width between property lines of every way or
 place of whatever nature when any part thereof is open to the use of the
 public, as a matter of right, for purposes of vehicular traffic.
-11.   "Sidewalk" means a paved or unpaved surface, separate from the street, in
-the right-of-way less than eight feet (8') in width under the jurisdiction and
+11.   “Sidewalk” means a paved or unpaved surface, separate from the street, in
+the right-of-way less than eight feet (8’) in width under the jurisdiction and
 control of the local political subdivision thereof for use primarily by
 pedestrians.
-12.   "Residential district" means a territory not comprising a business
+12.   “Residential district” means a territory not comprising a business
 district and which is occupied mainly by structures for residential dwellings.
-13.   "Business district" means a territory not comprising a residential
+13.   “Business district” means a territory not comprising a residential
 neighborhood and which is occupied mainly by buildings in use for business
 purposes.
 76.03 SCOPE OF REGULATIONS.
-These regulations shall apply whenever a bicycle, electric scooter, or personal
-transportation device is operated upon any public street, roadway, park road,
-any multi-use trail, sidewalk, or in any bicycle lane and path, subject to
-those exceptions and regulations stated herein.
+These regulations shall apply whenever a bicycle, electric scooter, low-speed
+electric bicycle, OPDMD, e-moto, electric motorcycle, motorized bicycle, is
+operated upon any public street, roadway, park road, sidewalk, or in any
+bicycle lane and path, subject to those exceptions and regulations stated
+herein.
 76.04 TRAFFIC CODE APPLIES.
-1.   Every person, including a peace officer, riding a bicycle, electric
-scooter, or personal transportation device upon a roadway or in a bicycle lane
-shall be granted all of the rights and shall be subject to all of the duties
-applicable to the driver of a vehicle by the laws of the State declaring rules
-of the road applicable to vehicles or by the Traffic Code of the City
-applicable to the driver of a vehicle, except as to those provisions that by
-their nature can have no application or those for which specific exceptions
-have been set forth regarding police bicycles. This does not apply to the use
-of a bicycle, electric scooter or personal transportation device in a parade
-authorized by proper permit from local authorities.
-(Code of Iowa, Sec. 321.234[2, 5])
-2.   Bicycles, electric scooters, or personal transportation devices are not
-subject to registration, licensure, titling, inspection, and proof of financial
-liability coverage provisions of Code of Iowa, Chapter 321.
-3.   Riders of bicycles, electric scooters, or personal transportation devices
-are not required to have possession of a driver's license or permit.
-4.   Whenever such person dismounts from a bicycle, electric scooter, or
-personal transportation device, the person shall be subject to all regulations
+1.   Every person, including a peace officer, riding a bicycle, low-speed
+electric bicycle, electric scooter, or Other Power-Driven Mobility Device
+(“OPDMD”) upon a roadway or in a bicycle lane shall be granted all of the
+rights and shall be subject to all of the duties applicable to the driver of a
+vehicle by the laws of the State declaring rules of the road applicable to
+vehicles or by the Traffic Code of the City applicable to the driver of a
+vehicle, except as to those provisions that by their nature can have no
+application or those for which specific exceptions have been set forth
+regarding police bicycles. This does not apply to the use of a bicycle,
+electric scooter or OPDMD in a parade authorized by proper permit from local
+authorities.
+(Code of Iowa, Sec. 321.234(2), (5))
+2.   Bicycles, low-speed electric bicycles, electric scooters, or OPDMD’s are
+not subject to registration, licensure, titling, inspection, and proof of
+financial liability coverage provisions of Code of Iowa, Chapter 321.
+3.   E-motos, electric motorcycles and motorized bicycles are subject to
+registration, licensure, titling, inspection, and proof of financial liability
+coverage provisions of Code of Iowa, Chapter 321.
+4.   Riders of e-motos, electric motorcycles and motorized bicycles are
+required to have possession of a driver’s license or permit.
+5.   Riders of bicycles, low-speed electric bicycles, electric scooters, or
+OPDMD’s are not required to have possession of a driver’s license or permit.
+4.   Whenever such person dismounts from a bicycle, low-speed electric bicycle,
+electric scooter, or OPDMD’s, the person shall be subject to all regulations
 applicable to pedestrians.
 5.   A peace officer riding a police bicycle in the line of duty may do any of
 the following:
@@ -10237,172 +10318,147 @@ down as may be necessary for safe operation.
 life or property.
 (Code of Iowa, Sec. 321.231)
 76.05 MOTOR VEHICLE OPERATIONS.
-1.   Bicycle lane right-of-way. Operators of all motor vehicles shall yield the
-right-of-way to bicycles, electric scooters, and personal transportation
-devices in a designated bicycle lane and shall not operate a motor vehicle
-within a bicycle lane, unless provisions of law establish other requirements
-and regulations at intersections and other places affecting such bicycle lanes,
-then such other provision of law shall control. No person shall drive a motor
-vehicle in a bicycle lane established on a roadway or street except as follows:
+1.   Bicycle Lane Right-of-Way. Operators of all motor vehicles shall yield the
+right-of-way to bicycles, and electric scooters in a designated bicycle lane
+and shall not operate a motor vehicle within a bicycle lane, unless provisions
+of law establish other requirements and regulations at intersections and other
+places affecting such bicycle lanes, then such other provision of law shall
+control. No person shall drive a motor vehicle in a bicycle lane established on
+a roadway or street except as follows:
    A.   To prepare for a turn within a distance of 200 feet from the
 intersection.
 2.   Lateral Passing Distance. The driver of a motor vehicle overtaking a
-bicycle, electric scooter, or personal transportation device that is traveling
-on a paved shoulder or in a bicycle lane, shall give at least three feet of
-lateral passing distance between the outside of the vehicle and the rider and
-device.
+bicycle or an electric scooter that is traveling on a paved shoulder or in a
+bicycle lane, shall give at least three feet of lateral passing distance
+between the outside of the vehicle and the rider and device.
 3.   Opening Doors. No person shall open any door of a motor vehicle located on
 a roadway or street without first taking precaution to ensure that this action
 does not interfere with the movement of traffic or endanger any other person or
 vehicle. In addition, no person shall leave open any door of a motor vehicle
 located on a roadway for a period of time longer than necessary to load or
 unload passengers or cargo.
-4.   Yield to persons in crosswalks. The driver of a motor vehicle shall yield
+4.   Yield to Persons in Crosswalks. The driver of a motor vehicle shall yield
 right-of-way, slowing down or stopping if need be to so yield, to a pedestrian
-or person dismounted from a bicycle, electric scooter, or personal
-transportation device, or a person mounted on a bicycle, electric scooter, or
-personal transportation device within any marked crosswalk or unmarked
-crosswalk at an intersection.
+or person dismounted from a bicycle or electric scooter or a person mounted on
+a bicycle or electric scooter within any marked crosswalk or unmarked crosswalk
+at an intersection.
 5.   Parking. Drivers of motor vehicles shall not park in bicycle lanes,
 bicycle paths, or multi-use trails.
-76.06 ACTIONS AGAINST BICYCLES AND PERSONAL TRANSPORTATION DEVICES.
+76.06 ACTIONS AGAINST BICYCLES AND ELECTRIC SCOOTERS.
 1.   A person operating a motor vehicle shall not steer the motor vehicle
 unreasonably close to or toward a dismounted pedestrian or a person riding a
-bicycle, an electric scooter, or personal transportation device on a roadway or
-street, including the adjacent shoulder.
+bicycle or electric scooter on a roadway or street, including the adjacent
+shoulder.
 2.   A person shall not knowingly project any object or substance at or against
-a dismounted pedestrian or a person riding a bicycle, an electric scooter,
-personal transportation device, or OPDMD on a roadway or street, adjacent
-shoulder, sidewalk, multi-use trail, or any other location.
+a dismounted pedestrian or a person riding a bicycle, electric scooter, or
+OPDMD on a roadway or street, adjacent shoulder, sidewalk, multi-use trail, or
+any other location.
 (Code of Iowa, Sec. 321.281)
 76.07 RESPONSIBLE RIDING.
 1.   Double Riding Restricted. A person propelling a bicycle shall not ride
 other than astride a permanent and regular seat attached thereto. No bicycle,
-electric scooter, or personal transportation device shall be used to carry more
-persons at one time than the number for which it is designed and equipped. This
-does not apply to the use of a bicycle, electric scooter, or personal
-transportation device in a parade authorized by proper permit from local
-authorities.
-(Code of Iowa, Sec. 321.234[3, 4, 5])
-2.   Speed. A person shall not operate a bicycle, electric scooter, personal
-transportation device, or OPDMD at a speed greater than is careful and prudent
-at a rate of speed no greater than is reasonable and proper under the
-conditions existing at the point of operation, taking into account the
-surroundings and environment, such as inclement weather, infrastructure
-conditions, and grade. A person shall not operate a class 3 low-speed electric
-bicycle on a sidewalk. A person shall not operate a class 3 low-speed electric
-bicycle on a bicycle lane, bicycle path, or multi-use trail in excess of the
-posted or applicable speed limit, or if there is no posted or applicable speed
-limit, twenty miles per hour.
-(Code of Iowa, Sec. 321.235B[9.b.])
-3.   Control of bicycle, electric scooter, personal transportation device, or
-OPDMD. The operator shall keep the device under directional, speed, and
-stopping control at all times.
-4.   Improper riding. No person shall operate a bicycle, electric scooter,
-personal transportation device, or OPDMD in an irregular or reckless manner so
-as to disregard the safety of the operator, others, or property.
-5.   Right of way. Riders of electric scooters, low speed electric bicycles,
-and other electric personal transportation devices shall yield right of way to
-pedestrians, human-powered bicycles, and other human-powered conveyances.
-Riders of bicycles and other human powered devices shall yield right of way to
-pedestrians.
-6.   Emerging from an Alley or Driveway. The operator of a bicycle, electric
-scooter, or personal transportation device emerging from an alley, driveway or
-building shall, upon approaching a sidewalk or the sidewalk area extending
-across any alleyway, yield the right-of-way to all pedestrians approaching on
-said sidewalk or sidewalk area, and upon entering the roadway shall yield the
-right-of-way to all vehicles approaching on said roadway.
+electric scooter, or Other Power-Driven Mobility Device (“OPDMD”) shall be used
+to carry more persons at one time than the number for which it is designed and
+equipped. This does not apply to the use of a bicycle or electric scooter in a
+parade authorized by proper permit from local authorities.
+(Code of Iowa, Sec. 321.234(3), (4), and (5))
+2.   Speed. A person shall not operate a bicycle, electric scooter, or OPDMD at
+a speed greater than is careful and prudent at a rate of speed no greater than
+is reasonable and proper under the conditions existing at the point of
+operation, taking into account the surroundings and environment, such as
+inclement weather, infrastructure conditions, and grade. A person shall not
+operate a bicycle, low-speed electric bicycle, or OPDMD on a bicycle lane,
+bicycle path or sidewalk in excess of the posted or applicable speed limit, or
+if there is no posted or applicable speed limit, twenty miles per hour.
+3.   Control of bicycle, electric scooter, or OPDMD. The operator shall keep
+the device under directional, speed, and stopping control at all times.
+4.   Improper Riding. No person shall operate a bicycle, electric scooter, or
+OPDMD in an irregular or reckless manner so as to disregard the safety of the
+operator, others, or property.
+5.   Right of Way. Riders of electric scooters, low speed electric bicycles,
+and other OPDMD shall yield right of way to pedestrians, human-powered
+bicycles, and other human-powered conveyances. Riders of bicycles and other
+human powered devices shall yield right of way to pedestrians.
+6.   Emerging From an Alley or Driveway. The operator of a bicycle, electric
+scooter, or OPDMD emerging from an alley, driveway or building shall, upon
+approaching a sidewalk or the sidewalk area extending across any alleyway,
+yield the right-of-way to all pedestrians approaching on said sidewalk or
+sidewalk area, and upon entering the roadway shall yield the right-of-way to
+all vehicles approaching on said roadway.
 (Code of Iowa, Sec. 321.353)
-7.   Class 3 Low-Speed Electric Bicycles. A person under the age of sixteen
-shall not operate a class 3 low-speed electric bicycle. A person under the age
-of sixteen may ride as a passenger on a class 3 low-speed electric bicycle.
-(Code of Iowa, Sec. 321.235B[6])
-8.   Hand Signals. Riders of bicycles, electric scooters, or personal
-transportation devices may, but shall not be required to, signal their turning
-movements and stopping with their hands and arms as follows:
-   A.   Left Turn - left hand and arm extended horizontally to the left.
-   B.   Right turn - left hand and arm extended upward to the left or right
+7.   Hand Signals. Riders of bicycles or electric scooters may, but shall not
+be required to, signal their turning movements and stopping with their hands
+and arms as follows:
+   A.   Left turn – left hand and arm extended horizontally to the left.
+   B.   Right turn – left hand and arm extended upward to the left or right
 hand and arm extended horizontally to the right.
-   C.   Stopping or slowing - left hand and arm extended downward.
-9.   Following Emergency Vehicles. No person riding a bicycle, electric
-scooter, or personal transportation device shall follow closer than 500 feet of
-an emergency vehicle as defined by Iowa Code section 321.1 which has emergency
-lights and/or siren activated, and shall not stop, park, or leave a bicycle
-within 500 feet of an emergency vehicle stopped in response to an emergency.
-10.   Towing. It is unlawful for any person riding upon any bicycle, electric
-scooter, or personal transportation device to attach the device or themselves
-to any moving motor vehicle by tow rope, hand grip or otherwise. This section
-shall not prohibit attaching a trailer to a bicycle that is designed to
+   C.   Stopping or slowing – left hand and arm extended downward.
+8.   Following Emergency Vehicles. No person riding a bicycle, electric
+scooter, or OPDMD shall follow closer than 500 feet of an emergency vehicle as
+defined by Iowa Code Section 321.1 which has emergency lights and/or siren
+activated, and shall not stop, park, or leave a bicycle, electric scooter, or
+OPDMD within 500 feet of an emergency vehicle stopped in response to an
+emergency.
+9.   Towing. It is unlawful for any person riding upon any bicycle, electric
+scooter, or OPDMD to attach the device or themselves to any moving motor
+vehicle by tow rope, hand grip or otherwise. This section shall not prohibit
+attaching a trailer to a bicycle or electric scooter that is designed to
 accommodate such a device.
 76.08 PLACE OF RIDING.
-1.   Paved Multi-use Trails. Bicycles, electric scooters, personal
-transportation devices, and OPDMD may be operated on paved multi-use trails,
-subject to the limitations of this Chapter.
+1.   Bicycle Path. Bicycles, electric scooters, low-speed electric bicycles,
+and OPDMD’s may be operated on bicycle paths, subject to the limitations of
+this chapter.
 2.   Roadways and Streets.
-   A.   When riding on the roadway or street, riders of bicycles, electric
-scooters and personal transportation devices shall ride in the same location
-and manner as motorized vehicles unless, a multi-use trail, bicycle path or
-bicycle lane exists adjacent to a roadway or street in which case riders may
-ride in the aforementioned location and riders of electric scooters and
-personal transportation devices shall not use the roadway; except that the
-operator of an electric scooter or personal transportation device shall not be
-required to use or remain on the aforementioned locations:
-      (1)   When the trail, path, or lane is of insufficient width to permit
-safe bicycle, electric scooter, or personal transportation device operation; or
-      (2)   When the condition of the surface, or the presence of water, dirt,
-glass or other foreign objects upon the surface prevents safe bicycle, electric
-scooter or personal transportation operation on the trail, path, or lane.
-   B.   Electric scooters and personal transportation devices shall not be
-ridden on roadways with a speed limit greater than twenty-five (25) miles per
-hour unless there is a bike lane present.
-   C.   This section does not apply to the use of a bicycle, electric scooter
-or personal transportation device in a parade or special event authorized by
-the city.
+   A.   When riding on the roadway or street, riders of bicycles, low-speed
+electric bicycles, electric scooters, and OPDMD’s shall ride in the same
+location and manner and follow the same State and local laws applicable to
+motorized vehicles, unless a bicycle path or bicycle lane exists adjacent to a
+roadway or street in which case riders may ride in the bicycle path or bicycle
+lane according to applicable regulations and laws.
+   B.   This section does not apply to the use of a bicycle, electric scooter
+or OPDMD in a parade or special event authorized by the City.
 3.   Public Sidewalks and Bicycle Paths.
-   A.   Bicycles, electric scooters, and personal transportation devices may be
-operated upon the public sidewalks in residential districts only in a careful
-and prudent manner except where signs or pavement markings explicitly prohibit
-riding on the sidewalk, or upon sidewalks along the business districts, or in
-specified dismount zones where users shall walk their bicycle, electric
-scooter, or personal transportation device. Careful and prudent manner shall be
-consistent with Section 76.07 Responsible Riding.
-   B.   Electric scooters, low-speed electric bicycles, and personal
-transportation devices may be operated upon bicycle paths and multi-use trails
-that are equal to or greater than eight feet (8') in width except where signs
-or pavement markings explicitly prohibit riding on the bicycle path or multi-
-use trail.
-   C.   Electric scooters and personal transportation devices may only operate
-on sidewalks less than eight feet (8') in width if the following applies:
-      (1)   When the roadway is of insufficient width to permit safe, electric
-scooter, or personal transportation device operation.
-      (2)   Where no bicycle lane, bicycle path, or multi-use trail is
-available and where the speed limit on the roadway is greater than twenty-five
-(25) miles per hour.
-      (3)   When the condition of the surface, or the presence of water, dirt,
-glass or other foreign objects upon the surface prevents safe bicycle, electric
-scooter, or personal transportation operation on the roadway.
-      (4)   When it is necessary to enter or leave adjacent property.
-   D.   OPDMD's may be operated by persons with mobility disabilities on all
+   A.   Public Sidewalks. Bicycles, low-speed electric bicycles, electric
+scooters, and OPDMD’s may be operated upon the public sidewalks in residential
+districts only in a careful and prudent manner except where signs or pavement
+markings explicitly prohibit riding on the sidewalk, or upon sidewalks along
+the business districts, or in specified dismount zones where users shall walk
+their bicycle, low-speed electric bicycle, and electric scooter.
+   B.   Bicycle Paths. Bicycles, electric scooters, low-speed electric
+bicycles, and OPDMD’s may be operated upon bicycle paths that are equal to or
+greater than eight feet (8’) in width except where signs or pavement markings
+explicitly prohibit riding on the bicycle path.
+   C.   When operated inside City parks or green spaces where bicycle paths and
+sidewalks exist, electric scooters and low-speed electric bicycles shall only
+be ridden on the paved portion of the bicycle paths and sidewalks.
+   D.   Any operation of a bicycle, low-speed electric bicycle or OPDMD shall
+at all times be subject to the limitations and obligations created by State law
+and municipal law, including the responsible rider requirements of Section
+76.07.
+   E.   OPDMD’s may be operated by persons with mobility disabilities on all
 sidewalks provided that they do not risk damage to the sidewalks, surrounding
 environment, or pose a risk to the safety of other sidewalks users.
-76.09 PARKING
-Parking locations for bicycles, electric scooters, or personal transportation
-devices shall retain access to:
-1.   an ADA-compliant pedestrian pathway
-2.   a fire hydrant
-3.   a US Postal Service mailbox
-4.   a crosswalk or curb ramp
-5.   loading zones
-6.   transit zones, including bus stops, shelters, or other passenger waiting
-areas
-7.   accessible parking spaces
-8.   street furniture or amenities that require pedestrian access
-9.   entryways
-10.   driveways.
-76.10 EQUIPMENT REQUIREMENTS
-Every person riding a bicycle, electric scooter, or personal transportation
-device shall be responsible for providing and using equipment as provided
-herein:
+   F.   E-motos, electric motorcycles, and motorized bicycles are expressly
+prohibited from operation on sidewalks, bicycle paths, and City parks or green
+spaces. E-motos, electric motorcycles, and motorized bicycles and their riders,
+are subject to all requirements referenced in Section
+76.04(3).
+76.09 PARKING.
+Parking locations for bicycles or electric cooters shall retain access to:
+1.   An ADA-compliant pedestrian pathway.
+2.   A fire hydrant.
+3.   A US Postal Service mailbox.
+4.   A crosswalk or curb ramp.
+5.   Loading zones.
+6.   Transit zones, including bus stops, shelters, or other passenger waiting
+areas.
+7.   Accessible parking spaces.
+8.   Street furniture or amenities that require pedestrian access.
+9.   Entryways.
+10.   Driveways.
+76.10 EQUIPMENT REQUIREMENTS.
+Every person riding a bicycle or electric scooter shall be responsible for
+providing and using equipment as provided herein:
 1.   Every device when in use between sunset and sunrise and when weather
 conditions provide insufficient lighting to render clearly discernable persons
 and vehicles on the road at a distance of 300 feet ahead, shall be equipped
@@ -10421,15 +10477,15 @@ light on the rear of the device.
 3.   Brakes Required. Every device shall be equipped with a brake which will
 enable the operator to make the braked wheel skid on dry, level, clean
 pavement.
-(Code of Iowa, Sec. 321.236[10])
+(Code of Iowa, Sec. 321.236(10))
 4.   A device shall not be equipped with and a person shall not use upon such
 device any siren or whistle. This shall not apply to bicycles ridden by peace
 officer in the line of duty.
 (Code of Iowa, Sec. 321.434)
 76.11 VIOLATIONS.
-Violations of any provision of this chapter shall be punished by a fine as
-established by section 4.01 of this Code.
-(Chapter 76 - Ord. 2134 - Apr. 23 Supp.)
+Violations of any provision of this chapter shall be punishable by a simple
+misdemeanor.
+(Chapter 76 - Ord. 2253 – May. 26 Supp.)
 CHAPTER 77
 BICYCLE REGISTRATION
 (Chapter 77 Repealed by Ordinance No. 1675 – Oct. 10 Supp.)
@@ -10578,13 +10634,15 @@ be joint and several.
 3.   “Administrator” means the Administrator of the City water system or any
 duly authorized assistant, agent or representative.
 4.   “Water main” means a water supply pipe provided for public or community
-use and includes service connections up to and including the curb stop shutoff
-valve.
-5.   “Water service pipe” means the pipe from the curb stop shutoff valve to
-the building served.
+use.
+5.   “Water service pipe” means the pipe from the water main to the building
+served including service saddle, corp stop and stop box assembly. For
+commercial fire or service pipe the connection is defined as the mechanical
+joint or flange connection to the water main tee. This includes the tapping
+sleeve assembly is used to make a connection to the existing water main.
 6.   “Water system” or “water works” means all public facilities for securing,
 collecting, storing, pumping, treating, distributing and metering water.
-(Ord. 1719 – Apr. 12 Supp.)
+(Section 90.01 – Ord. 2252 – May 26 Supp.)
 90.02 ADMINISTRATOR’S DUTIES.  
 The Administrator shall supervise the installation of water service pipes and
 their connection to the water main and enforce all regulations pertaining to
@@ -10623,13 +10681,14 @@ application, an extension of time within which to complete the work may be
 granted. The permit may be revoked at any time for any violation of these
 chapters.
 90.06 FEE FOR PERMIT.
-Before any permit is issued the person who makes the application shall pay
-$150.00 plus the cost of the water meter for residential premises and $250.00
-plus the cost of the water meter for commercial premises to the City to cover
-the cost of issuing the permit and supervising, regulating, and inspecting the
-work and to reimburse the City for costs borne by the City in making water
-service available to the property served.
-(Code of Iowa, Sec. 384.84)
+Before any permit is issued the person who makes the application shall pay the
+fee according to the current Fee Schedule plus the cost of the water meter for
+residential premises and the fee according to the current Fee Schedule plus the
+cost of the water meter for commercial premises to the City to cover the cost
+of issuing the permit and supervising, regulating, and inspecting the work and
+to reimburse the City for costs borne by the City in making water service
+available to the property served.
+(Section 90.06 – Ord. 2252 – May 26 Supp.)
 90.07 COMPLIANCE WITH PLUMBING CODE.
 The installation of any water service pipe and any connection with the water
 system shall comply with all pertinent and applicable provisions, whether
@@ -10647,9 +10706,10 @@ shall be performed in accordance with applicable excavation provisions as
 provided for installation of building sewers and/or the provisions of
 Chapter 151 of this Code of Ordinances.
 90.10 TAPPING MAINS.
-All taps into water mains shall be made by or under the direct supervision of
-the Administrator and in accord with the following:
-(Code of Iowa, Sec. 372.13[4])
+All taps into water mains must use materials approved by SUDAS and City of
+Ankeny SUDAS Supplemental Specifications and shall be made by or under the
+direct supervision of the Administrator and in accord with the following:
+(Code of Iowa, Sec. 372.13(4))
 1.   Independent Services. No more than one house, building or premises shall
 be supplied from one tap unless special written permission is obtained from the
 Administrator and unless provision is made so that each house, building or
@@ -10657,33 +10717,18 @@ premises may be shut off independently of the other.
 2.   Sizes and Location of Taps. The size of the lateral and service lines
 shall be as follows:
    A.   For single-family dwellings, one-inch from water main to water meter;
-   B.   For two-family dwellings, one-inch from water main to water meter, and
-each dwelling unit must be served by a separate curb stop shutoff valve and
-meter;
-(Ord. 1719 – Apr. 12 Supp.)
-   C.   For multi-family dwellings of 3 to 7 dwelling units, one-inch from
-water main to meter;
-   D.   For multi-family dwellings of 8 to 24 dwelling units, two-inch copper
-pipe or three-inch C900 polyvinyl chloride (PVC) pipe from water main to curb
-stop shutoff valve and one-inch from each curb stop shutoff valve to each water
-meter if each unit is served by a separate curb stop shutoff valve and meter;
-or two-inch copper pipe or three-inch C900 PVC pipe from water main to water
-meter if all units are served by one meter;
-(Ord. 1719 – Apr. 12 Supp.)
-   E.   For multiple dwellings of 25 dwelling units and above, three-inch
-copper pipe or four-inch C900 PVC from water main to curb stop shutoff valve
-and one-inch from each curb stop shutoff valve to each water meter if each unit
-is served by a separate curb stop shutoff valve and meter; or three-inch copper
-pipe or four-inch C900 PVC pipe from water main to water meter if all units are
-served by one meter.
-(Ord. 1719 – Apr. 12 Supp.)
-   F.   Where a larger connection than a one-inch tap is desired, the size and
+   B.   For individual, attached dwellings, one-inch from water main to water
+meter, and each dwelling unit must be served by a separate service curb stop
+shutoff valve and meter;
+   C.   For multi-family dwellings of 3 units and above sharing a single
+service line, the approved size shall be calculated and submitted to the
+Administrator for authorization.
+   D.   Where a larger connection than a one-inch tap is desired, the size and
 method of tapping shall be authorized by the Administrator. All taps in the
 mains shall be made in the top half of the pipe, at least eighteen (18) inches
 apart. No main shall be tapped nearer than two (2) feet of the joint in the
 main. Saddles are required for taps up to and including two-inch diameter. Taps
 greater than two-inch diameter require tapping sleeve and valve.
-(Ord. 1719 – Apr. 12 Supp.)
 3.   Corporation Stop. A brass corporation stop, of the pattern and weight
 approved by the Administrator, shall be inserted in every tap in the main. The
 corporation stop in the main shall be of the same size as the service pipe.
@@ -10693,11 +10738,10 @@ Administrator shall require.
 5.   Costs. All costs and expenses incident to the tapping into a water main
 and installation of the corporation stop, service pipe and curb stop shutoff
 valve shall be borne by the property owner.
-(Ord. 1719 – Apr. 12 Supp.)
 6.   Individual curb stop shutoff valves shall be located outside of buildings
-within an easement, right-of-way, or other location as approved by the
+within an easement, right-of-way, or other location as approved by the
 Administrator.
-(Ord. 1719 – Apr. 12 Supp.)
+(Section 90.10 – Ord. 2252 – May 26 Supp.)
 90.11 INSTALLATION OF WATER SERVICE PIPE.
 Water service pipes from the curb stop shutoff valve to the meter setting must
 be laid sufficiently waving, and to such depth, as to prevent rupture from
@@ -10710,11 +10754,11 @@ shall be of a material specified in the Ankeny Supplemental Specifications.
 (Ord. 1987 – Mar. 20 Supp.)
 90.12 RESPONSIBILITY FOR WATER SERVICE PIPE.
 All costs and expenses incident to the installation, connection, and
-maintenance of the water service pipe from the curb stop shutoff valve to the
-building served shall be borne by the property owner. The owner shall indemnify
-the City from any loss or damage that may directly or indirectly be occasioned
-by the installation or maintenance of said water service pipe.
-(Ord. 1719 – Apr. 12 Supp.)
+maintenance of the water service pipe from the water main to the building
+served shall be borne by the property owner. The owner shall indemnify the City
+from any loss or damage that may directly or indirectly be occasioned by the
+installation or maintenance of said water service pipe.
+(Section 90.12 – Ord. 2252 – May 26 Supp.)
 90.13 FAILURE TO MAINTAIN.
 When any portion of the water service pipe which is the responsibility of the
 property owner becomes defective or creates a nuisance and the owner fails to
@@ -10938,13 +10982,15 @@ used to water any sod, seed, or other landscaping upon the site to be served by
 such permit unless a water meter is provided. Unmetered water shall not be used
 to cause compaction around structures or other excavations.
 2.   Application Fee. Any person who desires temporary water service to any
-site as provided for in subsection 1 must make application with the City
-Planning and Building Department for such service. Every applicant for a
-temporary water service connection permit shall pay to the City the sum of
-$100.00 for such permit, as advance payment for the water to be used during the
-period of such permit. The temporary permit shall automatically expire upon
-installation of a meter or at the expiration of one year from the date of
-issuance, whichever occurs first.
+site as provided for in Subsection 1 must make application with the Development
+Services Department for such service. Every applicant for a Temporary Water
+Service Connection Permit shall pay to the City a fee in accordance with an
+established Fee Schedule, which the Fee Schedule may be modified from time to
+time, adopted by resolution of the City Council for such permit, as advance
+payment for the water to be used during the period of such permit. The
+temporary permit shall automatically expire upon installation of a meter or at
+the expiration of one year from the date of issuance, whichever occurs first.
+(Subsection 2 – Ord. 2256 – May 26 Supp.)
 (Ord. 1798 – Apr. 14 Supp.)
 91.13 SECONDARY WATER METER.
 A secondary water meter may be installed for the purpose of providing a supply
@@ -11013,7 +11059,7 @@ to pay the principal of, and interest on any outstanding revenue bonds and
 pledge orders as they become due, and will maintain a reasonable reserve for
 the payment of principal and interest. To insure sufficient gross revenues for
 such purposes, the following schedule of rates and charges is imposed.
-1.   For bills due and payable on or after April 1, 2025, the following rates
+1.   For bills due and payable on or after April 1, 2026, the following rates
 apply:
    A.   Service Availability Charge. There is imposed for each billing period,
 a service availability charge upon each separately metered residential,
@@ -11022,23 +11068,23 @@ by a connection to the waterworks systems, based on the following:
            Meter Equivalence Monthly          Monthly Billing Monthly SAC
 Meter Size Factor            Equivalent Meter Cost            Charge
                              Cost
-5/8"       1                 $8.26            $2.28           $10.54
-3/4"       1.5               $12.38           $2.28           $14.66
-1"         2.5               $20.65           $2.28           $22.93
-1 1/2"     5                 $41.29           $2.28           $43.57
-2"         8                 $66.07           $2.28           $68.35
-3"         17.5              $144.52          $2.28           $146.80
-4"         50                $412.90          $2.28           $415.18
-6"         100               $825.81          $2.28           $828.09
-8"         175               $1,445.17        $2.28           $1447.45
+5/8"       1                 $8.59            $2.37           $10.96
+3/4"       1.5               $12.88           $2.37           $15.25
+1"         2.5               $21.48           $2.37           $23.85
+1 1/2"     5                 $42.94           $2.37           $45.31
+2"         8                 $68.71           $2.37           $71.08
+3"         17.5              $150.30          $2.37           $152.67
+4"         50                $429.42          $2.37           $431.79
+6"         100               $858.84          $2.37           $861.21
+8"         175               $1,502.98        $2.37           $1,505.35
  
    B.   Water Use Rates. In addition to the service availability charge, there
 are imposed the following water rate charges based on actual metered usage
 during the billing period for which such charges are assessed:
-      (1)   For the first 5,000 gallons used, $7.24 per 1,000 gallons, plus
-      (2)   For all gallons used in excess of 5,000 gallons, $10.15 per 1,000
+      (1)   For the first 5,000 gallons used, $7.82 per 1,000 gallons, plus
+      (2)   For all gallons used in excess of 5,000 gallons, $10.96 per 1,000
 gallons.
-(Ord. 2197 - Mar. 25 Supp.)
+(Ord. 2251 – Mar. 26 Supp.)
 92.05 RATES OUTSIDE THE CITY.
 Water service shall be provided to any customer located outside the corporate
 limits of the City which the City has agreed to serve at rates one hundred
@@ -14640,7 +14686,7 @@ may be based on a secondary water meter installed and maintained at the
 customer's expense and in a manner acceptable to the City.
 (Ord. 2023 - Sep. 20 Supp.)
 98.07 RATES.
-1.   For bills due and payable on or after July 1, 2025, the following rates
+1.   For bills due and payable on or after July 1, 2026, the following rates
 will apply.
    A.   Service Availability Charge. There is imposed for each billing period,
 a service availability charge upon each separately metered residential,
@@ -14649,22 +14695,24 @@ by a connection to the sanitary sewer system based on the following:
            Meter Equivalence Monthly          Monthly Billing Monthly SAC
 Meter Size Factor            Equivalent Meter Cost            Charge
                              Cost
-5/8"       1                 $15.62           $3.18           $18.80
-3/4"       1.5               $23.44           $3.18           $26.62
-1"         2.5               $39.06           $3.18           $42.24
-1 1/2"     5                 $78.11           $3.18           $81.29
-2"         8                 $124.99          $3.18           $128.17
-3"         17.5              $273.42          $3.18           $276.60
-4"         50                $781.20          $3.18           $784.38
-6"         100               $   1,562.41  $3.18           $   1,565.59
-8"         175               $   2,734.22  $3.18           $   2,737.40
+5/8"       1                 $16.33           $3.32           $19.65
+3/4"       1.5               $24.50           $3.32           $27.82
+1"         2.5               $40.82           $3.32           $44.14
+1 1/2"     5                 $81.63           $3.32           $84.95
+2"         8                 $130.62          $3.32           $133.94
+3"         17.5              $285.73          $3.32           $289.05
+4"         50                $816.36          $3.32           $819.68
+6"         100               $   1,632.72  $3.32           $   1,636.04
+8"         175               $   2,857.26  $3.32           $   2,860.58
  
    B.   In addition to the service availability charge, each customer shall pay
-a user charge of $3.18 per 1,000 gallons of water (or wastewater) consumed upon
+a user charge of $3.33 per 1,000 gallons of water (or wastewater) consumed upon
 the premises and as measured by the water (or wastewater) meter in accordance
-with Section 98.06, for operation, maintenance and replacement of the system;
-and an additional $3.76 per 1,000 gallons of water (or wastewater) consumed for
-debt retirement.
+with Section
+98.06, for operation, maintenance and replacement of the system; and an
+additional $3.93 per 1,000 gallons of water (or wastewater) consumed for debt
+retirement.
+(Subsection 1 – Ord. 2255 – May 26 Supp.)
 (Ord. 2210 – Jun. 25 Supp.)
 2.   Surcharge. For those contributors who contribute wastewater, the strength
 of which is greater than normal domestic sewage, a surcharge in addition to the
@@ -17785,10 +17833,12 @@ corporate limits of the City of Ankeny shall pay to the City of Ankeny, through
 its utility billing system, the following stormwater management fees based on
 equivalent residential unit (ERU) associated with the customer's property:
 1.   Undeveloped: A flat fee at the rate of $0.00 per month.
-2.   Single-Family and Two-Family Residential: $7.50 per ERU per month up to a
+2.   Single-Family and Two-Family Residential: $8.50 per ERU per month up to a
 maximum of 4 ERUs.
-3.   Commercial, Industrial and Multi-Family: $7.50 per ERU per month up to a
-maximum of 100 ERUs. (Ord. 2209 – Jun. 25 Supp.)
+(Subsection 2 – Ord. 2254 – May 26 Supp.)
+3.   Commercial, Industrial and Multi-Family: $8.50 per ERU per month up to a
+maximum of 110 ERUs.
+(Subsection 3 – Ord. 2254 – May 26 Supp.)
 (Ord. 2166 - May 24 Supp.)
 107.03 CALCULATIONS.
 Stormwater management fee calculations shall be the number of equivalent
@@ -19560,7 +19610,7 @@ repealed and all other ordinances or parts of ordinances in conflict herewith
 are also hereby repealed.
 EXHIBIT A
 (May 9, 2025)
-(Ch. 117 - Ord. 2207 – May 25 Supp.)
+* (Ch. 117 - Ord. 2207 – May 25 Supp.) *
 CHAPTER 118
 TELEPHONE FRANCHISE
  
@@ -20792,8 +20842,10 @@ use.
 8.   Minor Businesses. An on-site transactional business traditionally operated
 exclusively by a person under the age of 18, operated on an occasional basis
 for no more than 89 calendar days in a calendar year.
-(Code of Iowa, Sec. 364.3[13])
-(Ord. 2067 - Sep. 21 Supp.)
+9.   Transient merchants selling goods at a permitted or approved craft fair,
+vendor show, festival, or similar temporary event, where sales occur during the
+event and under the authorization of the event organizer.
+(Section 132.16 – Ord. 2250 – May 26 Supp.)
 132.17 CHARITABLE AND NONPROFIT ORGANIZATIONS.
 Authorized representatives of charitable or nonprofit organizations operating
 under the provisions of the Code of Iowa desiring to solicit money or to
@@ -23972,15 +24024,15 @@ of any lands lying within the City to keep such land free from weeds, vines,
 brush or other vegetation when such growth constitutes a health, safety or fire
 hazard, even though such weeds, vines, brush or other vegetation do not fall
 within the definition of noxious weeds under the provisions of Chapter 317 of
-the Code of Iowa. No person shall allow or permit grass or weeds or other
-vegetation to grow upon his property to a height in excess of twelve (12)
-inches. All grass or weeds or other vegetation exceeding such height
-restrictions may be cut or eliminated by the City after giving five days’
-written notice to the owner or occupant of such property. Such notice may be
-mailed, by ordinary mail, to the owner’s last address, no less than five (5)
+the Code of Iowa. No person shall allow or permit grass, weeds, volunteer/weed
+trees, or other vegetation to grow upon their property to a height in excess of
+twelve (12) inches. All grass or weeds or other vegetation exceeding such
+height restrictions may be cut or eliminated by the City after giving five
+days’ written notice to the owner or occupant of such property. Such notice may
+be mailed, by ordinary mail, to the owner’s last address, no less than five (5)
 days prior to the required action. A failure to receive such notice shall not
 be deemed to be a defense to any assessment certified under this section.
-(Ord. 1723 - Jul. 12 Supp.)
+(Ord. 2244 – Nov. 25 Supp.)
 167.03 COST OF CUTTING OR DESTRUCTION.
 If the City destroys any weeds under the authority of this chapter, after
 failure of the landowner responsible to destroy such weeds after being given
@@ -24022,10 +24074,47 @@ of weed cutting or elimination, shall only be applicable to the cutting,
 burning, or destruction of weeds by the City, and shall have no applicability
 to any actions taken under the direction of the County Weed Commissioner.
 167.04 EXCEPTIONS TO HEIGHT RESTRICTIONS.
-Nothing in this chapter shall be deemed to restrict the planting and
-cultivation of any crop raised or harvested for use or sale for agricultural
-purposes, such as corn, soybeans, hay or other generally recognizable
-agricultural crops.
+The following shall be exceptions to the requirements of Section 167.02:
+1.   Trees And Shrubs: The use of trees and shrubs for landscaping purposes.
+2.   Erosion Control: Areas planted to offset and control any soil loss
+problems, both occurring or predicted, including areas along waterways and
+edges of lakes, ponds, and stormwater retention/detention facilities.
+3.   Wooded Areas: All areas that are predominately wooded and over one acre in
+size.
+4.   Educational Programs: Any areas designated for educational studies.
+5.   Gardens: Areas dedicated to growing fruits or vegetables for personal
+consumption or to growing flowers, native plants, ornamental grasses, ground
+covers, shrubs, and similar plants which are cultivated and/or mulched to
+remain free of weeds, grassy weeds, or volunteer plants. Vegetation in gardens
+shall not be allowed to grow onto adjacent property. Fruit and vegetable
+gardens are prohibited within the public right of way. Landscaping such as
+flowers, plants, and grasses shall not be allowed within the public right of
+way. There shall be no compensation by the city to the property owner for any
+damage to or removal of such items placed within the public right of way.
+6.   Streetscapes: Plantings within the public right of way that are part of a
+planned city streetscape or a landscape plan submitted and approved as part of
+a development permit.
+7.   Land owned or managed under the jurisdiction of federal, state, county,
+city, or local agencies provided they do not constitute a nuisance under this
+Code.
+8.   Legally recorded and recognized conservation easements provided they do
+not constitute a nuisance under this Code.
+9.   Native Planting Areas: Areas of native plant species on any parcel,
+provided they do not constitute a nuisance under this Code. Native plants/
+vegetation means any indigenous plant species found in the state’s prairies,
+excluding any noxious weeds.
+As a best management practice, all vegetation, other than trees and shrubs,
+should be cut at least once annually to a height no greater than ten inches
+(10”). Vegetation means any plant life upon private property that is not a part
+of a conservation easement or that was planted for erosion control purposes and
+is not an agricultural crop such as gardens and typical cropland production. As
+an alternative to cutting, native planting areas (see exceptions at subsections
+7, 8, and 9 of this section) on both private and public property may be
+maintained by controlled burning with an approved permit from the city's fire
+department.
+This section shall not be construed so as to permit the growing of noxious
+weeds as defined in Iowa Code Chapter 317.
+(Ord. 2244 – Nov. 25 Supp.)
 167.05 COUNTY WEED CONTROL PROGRAM.
 Nothing in this chapter shall be deemed to restrict, alter, or modify the
 jurisdiction of the County to eliminate noxious weeds as defined under Chapter
@@ -24239,8 +24328,8 @@ who shall continue any work after having been served with a stop work order,
 except such work as that person is directed to perform to remove a violation or
 unsafe condition, shall be subject to penalties as stated in this chapter.
 (Chapter 169 - Ord. 2011 - Jun. 20 Supp.)
-CHAPTER 175
-BUILDING CODE
+**** CHAPTER 175
+BUILDING CODE ****
 Section Number Title IBC Section
 Section Number Title                                         IBC Section
 175.01         Short Title
@@ -24596,7 +24685,7 @@ way, a monument, pole or other sign or means shall be used to identify the
 structure. Address numbers shall be maintained.
 Table 502.1
 Minimum Height and Stroke Widtha b
-[https://export.amlegal.com/media/7940d86141c929ec6784dd23890dab609a00764b/
+[https://export.amlegal.com/media/f518b633158963fffd91cb2f89d906d3583d5f3a/
 IMAGES/0-0-0-5101_8330x2187.jpg]
 a Exterior suite identification, minimum height shall be 4 inches and stroke
 width shall be ½ inch.
@@ -24924,8 +25013,8 @@ subsection and inserting in lieu thereof the following:
    Section 3109.1 General. The design and construction of swimming pools, spas
 and hot tubs shall comply with the Ankeny Swimming Pool and Spa Code.
 (Chapter 175 - Ord. 2215 – Jul. 25 Supp.)
-CHAPTER 176
-MECHANICAL CODE
+**** CHAPTER 176
+MECHANICAL CODE ****
 Section Number Title
 176.01         Title
 176.02         Adoption of Mechanical Code
@@ -25023,8 +25112,8 @@ alters or repairs mechanical work in violation of the approved construction
 documents or directive of the Code Official, or of a permit issued under the
 provisions of this code, shall be subject to penalties as prescribed by law.
 (Chapter 176 - Ord. 2222 – Jul. 25 Supp.)
-CHAPTER 177
-PROPERTY MAINTENANCE AND HOUSING CODE
+**** CHAPTER 177
+PROPERTY MAINTENANCE AND HOUSING CODE ****
 Section Number Title IPMC Section
 Section Number Title                                              IPMC Section
 177.01         Short Title
@@ -25442,8 +25531,8 @@ of the non-rechargeable type and must be replaced after ten years.
 rechargeable type and are subject to required maintenance at intervals of not
 more than one year by a trained and certified individual.
 (Chapter 177 - Ord. 2219 – Jul. 25 Supp.)
-CHAPTER 178
-PLUMBING CODE
+**** CHAPTER 178
+PLUMBING CODE ****
 Section Number
 178.01         Title
 178.02         Adoption of Plumbing Code
@@ -25558,8 +25647,8 @@ Where alterations, repairs or additions requiring a permit occur, CSST shall be
 bonded in accordance with the Ankeny Plumbing Code, unless deemed technically
 infeasible by the Code Official.
 (Chapter 178 - Ord. 2224 – Jul. 25 Supp.)
-CHAPTER 179
-ELECTRICAL CODE
+**** CHAPTER 179
+ELECTRICAL CODE ****
 Section Number Title
 179.01         Title
 179.02         Adoption of Electrical Code
@@ -25693,8 +25782,8 @@ Supplied Through Another . Art. 230.3
 NEC, is hereby amended by adding the following:
    Feeders shall not cross a property line.
 (Chapter 179 - Ord. 2223 – Jul. 25 Supp.)
-CHAPTER 180
-FIRE CODE
+**** CHAPTER 180
+FIRE CODE ****
 Section Number Title                                              IFC Section
 180.01         Short Title
 180.02         Adoption of Fire Code
@@ -25858,7 +25947,7 @@ way, a monument, pole or other sign or means shall be used to identify the
 structure. Address numbers shall be maintained.
    Table 505.1
    Minimum Height and Stroke Widtha b
-[https://export.amlegal.com/media/7940d86141c929ec6784dd23890dab609a00764b/
+[https://export.amlegal.com/media/f518b633158963fffd91cb2f89d906d3583d5f3a/
 IMAGES/0-0-0-5150_8330x2187.jpg]
 a Exterior suite identification, minimum height shall be 4 inches and stroke
 width shall be ½ inch.
@@ -26164,11 +26253,11 @@ above ground tanks shall be as stipulated in this chapter pursuant to
 180.44 SECTION 5704 - STORAGE (TANKS) - - STORAGE OF FLAMMABLE OR COMBUSTIBLE
 LIQUIDS IN OUTSIDE ABOVEGROUND TANKS - - DISTRICT LIMITS.  
 (Ch. 180 - Ord. 2217 – Jul. 25 Supp.)
-CHAPTER 181
-FUEL GAS CODE
+**** CHAPTER 181
+FUEL GAS CODE ****
 (Chapter 181 - Repealed by Ordinance No. 2218 - Jul. 25 Supp.)
-CHAPTER 182
-EXISTING BUILDING CODE
+**** CHAPTER 182
+EXISTING BUILDING CODE ****
 Section Number Title                              IEBC Section
 182.01         Short Title
 182.02         Adoption of Existing Building Code
@@ -26300,8 +26389,8 @@ shelter shall at a minimum accommodate the required capacity for the addition.
 the shelter shall be permitted to be reduced by the occupant capacity of any
 existing storm shelters on the campus or site.
 (Chapter 182 - Ord. 2216 – Jul. 25 Supp.)
-CHAPTER 183
-SWIMMING POOL AND SPA CODE
+**** CHAPTER 183
+SWIMMING POOL AND SPA CODE ****
 Section Number Title                                  IPC Section
 183.01         Short Title
 183.02         Adoption of Swimming Pool and Spa Code
@@ -26413,8 +26502,8 @@ the following exception.
 residential pools and spas shall be allowed to swing inward towards the pool or
 spa.
 (Chapter 183 - Ord. 2221 – Jul. 25 Supp.)
-CHAPTER 184
-RESIDENTIAL CODE
+**** CHAPTER 184
+RESIDENTIAL CODE ****
 Section Number Title IBC Section
 Section Number Title                           IBC Section
 184.01         Short Title
@@ -29745,8 +29834,8 @@ ORDINANCE ADOPTED            ORDINANCE ADOPTED
 2230      July 21, 2025                
 2231      July 21, 2025                
 2240      November 17, 2025            
-                                     
-                                     
+2245      December 15, 2025            
+2259      June 15, 2026                
                                      
                                      
                                      
@@ -30973,17 +31062,17 @@ that they are surrounded by at least one hundred ninety square feet of unpaved
 area. New and existing trees should be protected from damage by vehicles.
 EXHIBIT “A”
 SCHEDULE OF STANDARD DIMENSIONS
-[https://export.amlegal.com/media/7940d86141c929ec6784dd23890dab609a00764b/
+[https://export.amlegal.com/media/f518b633158963fffd91cb2f89d906d3583d5f3a/
 IMAGES/0-0-0-2898.jpg]
 PARALLEL PARKING
-[https://export.amlegal.com/media/7940d86141c929ec6784dd23890dab609a00764b/
+[https://export.amlegal.com/media/f518b633158963fffd91cb2f89d906d3583d5f3a/
 IMAGES/0-0-0-2901.jpg]
  
 EXHIBIT “B”
 SCHEDULE OF STANDARD DIMENSIONS
-[https://export.amlegal.com/media/7940d86141c929ec6784dd23890dab609a00764b/
+[https://export.amlegal.com/media/f518b633158963fffd91cb2f89d906d3583d5f3a/
 IMAGES/0-0-0-2904.jpg]
-[https://export.amlegal.com/media/7940d86141c929ec6784dd23890dab609a00764b/
+[https://export.amlegal.com/media/f518b633158963fffd91cb2f89d906d3583d5f3a/
 IMAGES/0-0-0-2907.jpg]
  
 7.   Off-Street Parking – Residential Districts. Off-street parking areas in
