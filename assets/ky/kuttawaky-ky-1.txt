@@ -1,14 +1,13 @@
 KUTTAWA, KENTUCKY
 CODE OF ORDINANCES
-2025 S-14 Supplement contains:
-Local legislation current through Ord. 08-12-24-09, passed 8-19-24
-State legislation current through 2024
+2026 S-15 Supplement contains:
+Local legislation current through Ord. 10-13-25-10, passed 1-12-26
+State legislation current through 2026
 Published by:
 American Legal Publishing
 525 Vine Street Suite 310
 Cincinnati, Ohio 45202
 Tel: (800) 445-5588
-Internet: http://www.amlegal.com
 ADOPTING ORDINANCE
 ***** ORDINANCE NO. 96-8-5 *****
 ENACTING AS AN ORDINANCE, A CODE OF ORDINANCES FOR THE CITY OF KUTTAWA, KY.,
@@ -681,6 +680,8 @@ TITLE III: ADMINISTRATION
 37.   TOURISM COMMISSION
       
 38.   OCCUPATIONAL LICENSE TAXES
+      
+39.   BOARD OF ADJUSTMENT
 CHAPTER 30: MAYOR-COUNCIL PLAN
 Section
    
@@ -1158,16 +1159,25 @@ of office.
    (C)   Compensation. For provisions concerning compensation, see §
 31.02.
 § 32.02 VACANCIES.
-   (A)   Vacancies. If one or more vacancies on Council occur in a way that one
-or more members remain seated, the remaining members shall within 30 days fill
-the vacancies one at a time, giving each new appointee reasonable notice of his
-or her selection as will enable him or her to meet and act with the remaining
-members in making further appointments until all vacancies are filled. If
-vacancies occur in a way that all seats become vacant, the Governor shall
-appoint qualified persons to fill the vacancies sufficient to constitute a
-quorum. Remaining vacancies are filled as provided in this section.
+   (A)   Vacancies.
+      (1)   If one or more vacancies on Council occur in a way that one or more
+members remain seated, the remaining members shall within 30 days fill the
+vacancies one at a time, giving each new appointee reasonable notice of his or
+her selection as will enable him or her to meet and act with the remaining
+members in making further appointments until all vacancies are filled.
+      (2)   If a majority of the membership on the Council is vacated as a
+result of a judgment by a Circuit Court or an appeal under KRS 120.165(4)
+because of an election error due to no fault of any candidate or fraud, a new
+special election shall be called and held as soon as practicable for the bona
+fide candidates only. Members of the Council whose term expires shall remain in
+office until the contest and any appeals for the regular election are complete
+and final.
+      (3)   If vacancies occur in a way that all seats become vacant, the
+Governor shall appoint qualified persons to fill the vacancies sufficient to
+constitute a quorum. Remaining vacancies are filled as provided in this
+section.
 (KRS 83A.040(5))
-      (1)   No vacancy by reason of a voluntary resignation of a member of the
+      (4)   No vacancy by reason of a voluntary resignation of a member of the
 City Council shall occur unless a written resignation which specifies a
 resignation date is tendered to the City Council. The resignation may be
 submitted through electronic mail if it originates from the official’s
@@ -1177,7 +1187,7 @@ legislative body. If a resignation date is not specified, the written
 resignation shall be deemed to become effective at the first regular or special
 meeting of the City Council occurring on or after its receipt.
 (KRS 83A.040(7))
-      (2)   If a vacancy occurs on the City Council which is required by law to
+      (5)   If a vacancy occurs on the City Council which is required by law to
 be filled temporarily by appointment, the City Council shall immediately notify
 in writing both the County Clerk and the Secretary of State of the vacancy.
 (KRS 83A.040(8))
@@ -1455,10 +1465,10 @@ Standards Board.
 § 33.02 ACCOUNTING RECORDS AND FINANCIAL REPORTS.
    (A)   The city shall keep its accounting records and render financial
 reports in such a way as to:
-      (1)   Determine compliance with statutory provisions; and
+      (1)   Determine compliance with statutory provisions;
       (2)   Determine fairly and with full disclosure the financial operations
-of constituent funds and account groups of the city in conformity with
-generally accepted governmental accounting principles.
+of constituent funds and account groups of the city; and
+      (3)   Conform with generally accepted governmental accounting principles.
    (B)   The municipal accounting system shall be organized and operated on a
 fund basis.
 (KRS 91A.020)
@@ -1540,22 +1550,23 @@ following the fiscal year being audited. The city shall forward an electronic
 copy of the audit report to the Department for Local Government for information
 purposes by no later than April 1 immediately following the fiscal year being
 audited.
-   (B)   The city shall enter into a written contract with the selected
-auditor. The contract shall set forth all terms and conditions of the agreement
-which shall include, but not be limited to, requirements that:
+   (B)   The city shall enter into a written contract with an auditor, who
+shall be a certified public accountant or the Auditor of Public Accounts. The
+contract shall set forth all terms and conditions of the agreement which shall
+include, but not be limited to, requirements that:
       (1)   The auditor be employed to examine the basic financial statements
-which shall include the government-wide and fund financial statements;
-      (2)   The auditor shall include in the annual city audit report an
-examination of local government economic assistance funds granted to the city
-under KRS 42.450 to 42.495. The auditor shall include a certification with the
-annual audit report that the funds were expended for the purpose intended.
+which shall include the financial statements prepared in accordance with the
+basis of accounting used by the city.
+      (2)   The auditor shall include in the city audit report an examination
+of local government economic assistance funds granted to the city under KRS
+42.450 to 42.495. The auditor shall include a certification with the audit
+report that the funds were expended for the purpose intended.
       (3)   All audit information be prepared in accordance with generally
 accepted governmental auditing standards which includes such tests of the
 accounting records and such auditing procedures as considered necessary under
 the circumstances. Where the audit is to cover the use of state or federal
-funds, appropriate state or federal guidelines shall be utilized;
-      (4)   The auditor shall prepare a typewritten or printed report
-embodying:
+funds, appropriate state or federal guidelines shall be utilized.
+      (4)    The auditor shall prepare a printed report embodying:
          (a)   The basic financial statements and accompanying supplemental and
 required supplemental information;
          (b)   The auditor’s opinion on the basic financial statements or
@@ -1563,9 +1574,8 @@ reasons why an opinion cannot be expressed; and
          (c)   Findings required to be reported as a result of the audit.
       (5)   The completed audit and all accompanying documentation shall be
 presented to Council at a regular or special meeting.
-      (6)   Any contract with a certified public accountant for an audit shall
-require the accountant to forward a copy of the audit report and management
-letters to the Auditor of Public Accounts upon request of the city or the
+      (6)    Any contract with a certified public accountant for an audit shall
+provide that the Auditor of Public Accounts upon request of the city or the
 Auditor of Public Accounts, and the Auditor of Public Accounts shall have the
 right to review the certified public accountant’s workpapers upon request.
    (C)   A copy of an audit report which meets the requirements of this section
@@ -1577,20 +1587,16 @@ purposes of KRS 6.955 to 6.975.
 the city legislative body, publish an advertisement, in accordance with KRS
 Chapter 424, containing:
       (1)   The auditor’s opinion letter;
-      (2)   The “Budgetary Comparison Schedules-Major Funds,” which shall
-include the general fund and all major funds;
+      (2)   A budget-to-actual comparison schedule for the General Fund;
       (3)   A statement that a copy of the complete audit report, including
 financial statements and supplemental information, is on file at city hall and
 is available for public inspection during normal business hours;
       (4)   A statement that any citizen may obtain from city hall a copy of
 the complete audit report, including financial statements and supplemental
-information, for his or her personal use;
+information, for his or her personal use; and
       (5)   A statement which notifies citizens requesting a personal copy of
 the city audit report that they will be charged for duplication costs at a rate
-that shall not exceed twenty five cents ($0.25) per page; and
-      (6)   A statement that copies of the financial statement prepared in
-accordance with KRS 424.220 are available to the public at no cost at the
-business address of the officer responsible for preparation of the statement.
+that shall not exceed twenty five cents ($0.25) per page.
    (E)   Any resident fo the city or owner of real property within the city may
 bring an action in the Circuit Court to enforce the provisions of this section.
 Any person who violates any provision of this section shall be fined not less
@@ -1601,32 +1607,38 @@ court, which may be recovered only once, in a civil action brought by any
 resident of the city. The costs of all proceedings, including a reasonable fee
 for the attorney of the resident bringing the action, shall be assessed against
 the unsuccessful party.
-   (F)   In the event of extenuating circumstances that prevent a city from
+   (F)    In the event of extenuating circumstances that prevent a city from
 completing and submitting a required audit or financial statement in compliance
 with the applicable deadlines, the city may submit a written request for an
 extension of time to the Department for Local Government on a form prescribed
 by the Department for Local Government. The Department for Local Government
-shall approve the request if it is submitted on or before the applicable
-deadline, and in the judgement of the Department for Local Government the
-request is warranted by extenuating circumstances beyond the control of the
-city. Extensions granted under this division shall not exceed nine months from
-the original due date of the audit or financial statement. If the Department
-for Local Government approves an extension for a city and the city fails to
-complete and submit the required audit or financial statement in compliance
-with that extended deadline, then the provisions of division (G) below shall
-apply.
-   (G)   If a city fails to complete an audit or financial statement and submit
-it to the Department for Local Government as required, including division (F)
-above, the Department for Local Government shall notify the Finance and
-Administration Cabinet that the city has failed to comply with the audit
-requirements of this section and that any funds in the possession of any
+shall approve the request if in the judgement of the Department for Local
+Government the request is warranted by extenuating circumstances beyond the
+control of the city or other factors that justify the city’s noncompliance with
+the required deadlines. The Department for Local Government may consider any
+evidence it deems appropriate, including but not limited to proof of the city’s
+progress towards compliance. Extensions granted under this division shall not
+exceed nine months from the original due date of the audit or financial
+statement. If the Department for Local Government approves an extension for a
+city and the city fails to complete and submit the required audit or financial
+statement in compliance with that extended deadline, then the provisions of
+division (G) below shall apply.
+   (G)    If a city fails to complete an audit or financial statement and
+submit it to the Department for Local Government as required, including
+division (F) above, the Department for Local Government shall notify the
+Finance and Administration Cabinet that the city has failed to comply with the
+audit requirements of this section and that any funds in the possession of any
 agency, entity or branch of state government shall be withheld from the city
 until further notice. The Department for Local Government shall immediately
 notify the Finance and Administration Cabinet when the city complies with the
 requirements, including division (F) above, for all prior fiscal years it has
 failed to comply with the audit requirements of this section and the Finance
 and Administration Cabinet shall direct reinstatement of payments to the city,
-including any funds that were withheld due to the noncompliance.
+including any funds that were withheld due to the noncompliance. This division
+shall not be interpreted or construed to permit the state to withhold any
+nondiscretionary payments to a city that are due the city for the provision of
+services by the city to the state or any of its agencies, including for the use
+of city utilities.
    (H)   Within a reasonable time after the completion of a special audit or
 examination conducted pursuant to KRS 43.050, the Auditor shall bill the city
 for the actual expense of the audit or examination conducted. The actual
@@ -1634,6 +1646,8 @@ expense shall include the hours of work performed on the audit or examination
 as well as reasonable associated costs, including but not limited to travel
 costs. The bill submitted to the city shall include a statement of the hourly
 rate, total hours and total costs for the entire audit or examination.
+   (I)   The city shall provide a copy of any audit report completed pursuant
+to this section to the Auditor of Public Accounts upon request.
 (KRS 91A.040) Penalty, see §
 33.99
 Statutory reference:
@@ -2450,10 +2464,11 @@ acquired. The law of eminent domain shall not be affected by this provision.
       (7)   Test questions, scoring keys, and other examination data used to
 administer a licensing examination, examination for employment, or academic
 examination before the exam is given or if it is to be given again.
-      (8)   Records of law enforcement agencies or agencies involved in
+      (8)    Records of law enforcement agencies or agencies involved in
 administrative adjudication that were compiled in the process of detecting and
 investigating statutory or regulatory violations, if the disclosure of the
-information would harm the agency by revealing the identity of informants not
+information could pose an articulable risk of harm to the agency or its
+investigation by revealing the identity of informants or witnesses not
 otherwise known or by premature release of information to be used in a
 prospective law enforcement action or administrative adjudication. Unless
 exempted by other provisions of this chapter, public records exempted under
@@ -2468,15 +2483,15 @@ the records to delay or impede the exercise of rights granted by this chapter.
       (9)   Preliminary drafts, notes, or correspondence with private
 individuals, other than correspondence which is intended to give notice of
 final action by the city.
-      (10) Preliminary recommendations and preliminary memoranda in which
+      (10)   Preliminary recommendations and preliminary memoranda in which
 opinions are expressed or policies formulated or recommended.
-      (11) All public records or information the disclosure of which is
+      (11)   All public records or information the disclosure of which is
 prohibited by federal law or regulation or state law.
-      (12) Public records or information the disclosure of which is prohibited
-or restricted or otherwise made confidential by enactment of the General
-Assembly, including any information acquired by the Department of Revenue in
-tax administration that is prohibited from divulgence or disclosure under KRS
-131.190.
+      (12)   Public records or information the disclosure of which is
+prohibited or restricted or otherwise made confidential by enactment of the
+General Assembly, including any information acquired by the Department of
+Revenue in tax administration that is prohibited from divulgence or disclosure
+under KRS 131.190.
       (13)   (a)   Public records the disclosure of which would have a
 reasonable likelihood of threatening the public safety by exposing a
 vulnerability in preventing, protecting against, mitigating, or responding to a
@@ -2582,43 +2597,38 @@ Section
    
 35.07   Tax on retail sales of food by restaurants
    
-35.08   Mobile food vehicles
+35.08   Transient room tax
 Cross-reference:
    Business regulations, license taxes, see §§
 112.03,
 113.01,
 113.02,
 113.15
-   Restaurant tax, see §§
-37.03,
-37.05 -
-37.07
 § 35.01 COUNTY ASSESSMENT ADOPTED.
-   (A)   Pursuant to the authority granted in KRS 132.285, the city hereby
-adopts the Lyon County assessment for all real and personal property situated
-within the city as the basis of all ad valorem tax levies ordered or approved
-by the City Council.
-   (B)   The assessment as finally determined for county tax purposes shall
+   Pursuant to the authority granted in KRS 132.285, the city hereby adopts the
+Lyon County assessment for all real and personal property situated within the
+city as the basis of all ad valorem tax levies ordered or approved by the City
+Council. The assessment as finally determined for county tax purposes shall
 serve as the basis for all city levies for the fiscal year commencing after the
 assessment date.
+(Am. Ord. 11-18-24-08, passed 12-9-24)
 § 35.02 DUE DATE; PAYMENT.
-   (A)   All taxes, except ad valorem taxes on motor vehicles, shall become due
-on December 1.
-   (B)   Any taxpayer who pays his city taxes before December 1 after they
+   All taxes, except ad valorem taxes on motor vehicles, shall become due on
+December 1. Any taxpayer who pays their city taxes before December 1 after they
 become due shall be entitled to a 2% discount thereon, and the Clerk shall
 allow the discount and give a receipt in full to the taxpayer.
+(Am. Ord. 11-18-24-08, passed 12-9-24)
 § 35.03 DELINQUENCY.
    (A)   All city taxes, except ad valorem taxes on motor vehicles, shall
 become delinquent on January 1 following their due dates.
    (B)   Any taxes not paid by the date when they become delinquent shall be
-subject to a penalty of 2% per annum until January 31; thereafter, there shall
-be a penalty of 10% on the taxes due and unpaid. The delinquent taxpayer shall
-also pay all costs and expenses incidental to any action taken by the city for
+subject to a penalty of 2% until January 31; thereafter, there shall be a
+penalty of 10% on the taxes due and unpaid. The delinquent taxpayer shall also
+pay all costs and expenses incidental to any action taken by the city for
 collection of the delinquent tax bill.
    (C)   Delinquent taxes shall be collectable under the provisions of the
-state law relating to the collection of delinquent taxes by cities of the fifth
-class.
-(Am. Ord. 97-10-6-8, passed 10/13/97)
+state law relating to the collection of delinquent taxes.
+(Am. Ord. 97-10-6-8, passed 10/13/97; Am. Ord. 11-18-24-08, passed 12-9-24)
 § 35.04 AD VALOREM TAXES ON MOTOR VEHICLES.
    (A)   All ad valorem taxes on motor vehicles shall be collected by the Lyon
 County Clerk in accordance with KRS 134.800.
@@ -2626,15 +2636,18 @@ County Clerk in accordance with KRS 134.800.
 set forth in KRS 134.810 and any such taxes not paid by the date when they
 become delinquent shall be subject to the penalty and interest specified in KRS
 134.810.
+(Am. Ord. 11-18-24-08, passed 12-9-24; Am. Ord. 11-18-24-08, passed 12-9-24)
 § 35.05 DISPOSITION OF FUNDS.
-   All monies collected from the taxes levied in this chapter shall be paid
-into the General Fund of the city to be used for the payment of proper
-expenditures as determined by the City Council.
+   All monies collected from the taxes levied in this chapter shall, with the
+exception of the restaurant tax and the transient room tax, be paid into the
+General Fund of the city to be used for the payment of proper expenditures as
+determined by the City Council.
+(Am. Ord. 11-18-24-08, passed 12-9-24)
 § 35.06 BANK FRANCHISE AND LOCAL DEPOSIT TAX.
-   (A)   There shall be on all financial institutions, as defined in KRS 136,
-located within the city corporate limits a franchise tax at the rate of 0.025%
-on all deposits, as defined in KRS 136, maintained by such financial
-institutions.
+   (A)   There shall be on all financial institutions, as defined in KRS
+Chapter 136, located within the city corporate limits of the city, a franchise
+tax at the rate of 0.025% on all deposits, as defined in KRS Chapter 136,
+maintained by such financial institutions.
    (B)   The city will issue tax bills to financial institutions no later than
 December 1 of each year. Payment of tax shall be due with a 2% discount by
 December 31 of each year, or without the discount by January 31 of each year.
@@ -2647,205 +2660,64 @@ of 10% and shall bear interest at the rate of 8% per annum.
    (E)   All moneys collected pursuant to this section shall be paid into the
 General Fund of the city to be used for the payment of proper expenditures as
 determined by the City Council.
-(Ord. 97-5-5-1, passed 5-5-97)
+(Ord. 97-5-5-1, passed 5-5-97; Am. Ord. 11-18-24-08, passed 12-9-24)
 § 35.07 TAX ON RETAIL SALES OF FOOD BY RESTAURANTS.
-   (A)   Purpose. The purpose of this section is to provide assistance in
-funding the Lyon County Tourist and Convention Commission in a manner
-consistent with Chapter 91A of the Kentucky Revised Statutes.
-   (B)   Definition. For the purpose of this section, the following definition
-shall apply unless the context clearly indicates or requires a different
-meaning.
-   RESTAURANT. Any business at which food is prepared and sold. The word
-“restaurant” will not include vending machine sales.
-   (C)   Tax imposed. A tax is levied on the sale of all food and beverages at
-restaurants other than alcoholic beverages. The amount of the tax shall be 2%
-of the gross sales of food by each restaurant.
-   (D)   Collection. The tax herein imposed shall be collected by the operator
-of each restaurant within the city, who shall file a tax collection return by
-the 20th day of each month for the preceding month’s sales, upon forms approved
-by the City Clerk.
-   (E)   Disposition of funds. All funds collected under the tax for which
-provision is made herein shall be immediately remitted to the Lyon County
-Tourist and Convention Commission.
-   (F)   Penalty. Failure to pay the monthly remittance within ten days after
-the due date shall constitute a violation of this section, resulting in an
-automatic penalty of 10%, together with interest on all delinquent payments of
-10% per annum.
-(Ord. 01-4-2-6, passed 4-10-01)
-§ 35.08 MOBILE FOOD VEHICLES.
-   (A)   Purpose and intent. In order to promote a new dynamic for the citizens
-of Kuttawa, create new jobs, increase quality of life and diversify dining
-options, this section has been adopted to allow mobile food vehicles to operate
-under specific guidelines.
-   (B)   Definitions. The definitions contained in this division shall govern
-the construction , meaning and application of words and phrases used in this
-section.
-      MOBILE FOOD ADMINISTRATOR. The City Clerk or his or her designee. The
-Administrator shall be responsible for the administration, oversight and
-enforcement of the provisions under this section.
-      MOBILE FOOD VEHICLE. A vehicle-mounted, vehicle-towed or vehicle-carried
-food service establishment that engages in the sale and preparation of food or
-beverages in individual portions to the general public.
-      MOBILE FOOD VENDOR. A person or persons that prepare or serve food or
-beverages to the general public from a mobile food vehicle.
-   (C)   Exemptions. This section shall not apply to ice cream trucks that move
-from place to place and are stationary in the same location for no more than
-ten minutes at a time. This section also does not apply to food vending push
-carts or stands.
-   (D)   Taxes. All mobile food vehicles, not otherwise omitted herein, shall
-be subject to the city’s restaurant tax. The tax shall be 2% of all food and
-beverage sales by all mobile food vehicles doing business in the city
-(including mobile food vehicles doing business at special events in the city).
-The tax shall be collected by the operator of each mobile food vehicle. The
-operator of each mobile food vehicle shall be responsible for filing a tax
-collection return, along with any other required forms, and shall be required
-to remit payment at the end of each and every day the mobile food vehicle
-operates in the city. The payment shall be submitted to the Mobile Food
-Administrator or placed in the drop box located at the city. Failure to pay the
-remittance as provided above, shall constitute a violation of this section,
-resulting in an automatic penalty of 10%, together with interest on all
-delinquent payments of 6% per annum. Additionally, failure to pay the
-remittance as provided above may result in the revocation of the mobile food
-permit.
-   (E)   Location and hours.
-      (1)   Mobile food vehicles a re permitted in city right-of-way (“ROW”).
-Mobile food vehicles are expressly prohibited from locating on State of
-Kentucky ROW. Mobile food vehicles may not locate within 100 feet of the
-principal entrance of any restaurant where more than 50% of sales are derived
-from food.
-      (2)   The mobile food vendor must obtain written permission from the
-property owner to locate on private property and the permission must be made
-available to the Mobile Food Administrator. Mobile food vehicles may locate in
-pubic parking lots with written approval from the Mobile Food Administrator.
-Vehicles in the ROW may be asked to be moved in the event of street cleaning,
-snow removal, parades, construction or other events as deemed necessary, in the
-sole opinion of the Mobile Food Administrator. Mobile food vehicles in private
-parking lots may be asked to be moved in the event sufficient parking is not
-available. Written permission must be granted from the Mobile Food
-Administrator or his or her designee if the mobile food vendor proposes to
-operate in a public park.
-      (3)   In no case shall a mobile food vehicle obstruct traffic or
-pedestrian flow. A mobile food vendor shall ensure that a minimum of four feet
-of unobstructed sidewalk remains open for pedestrian traffic. Mobile food
-vehicles parked in the ROW shall not occupy more than two parking spaces. No
-stop sign, yield sign, school crossing sign or any other traffic control sign
-or signal shall be obstructed. No ingress/egress of any driveway or alley shall
-be obstructed. No fire hydrant or fire lane shall be obstructed.
-      (4)   Mobile food vehicles may generally operate within the hours of 5:00
-a.m. to 10:00 p.m. unless the mobile food vehicle(s) at issue is/are being
-utilized as part of a special event that is pre-approved by the Mobile Food
-Administrator. Mobile food vehicles may operate until 2:00 a.m. if the mobile
-food vehicle is located on private business property and the principal business
-located on the private business property is open. Mobile food vehicles may not
-be left overnight in public parking lots or on city ROW, without the written
-permission of the Mobile Food Administrator.
-   (F)   Self-contained units and appurtenances.
-      (1)   All mobile food vehicles shall have self-contained water and
-wastewater. No gray water or grease shall be dumped upon any street, sidewalk
-or down a storm water drain. Mobile food vehicles on private property may
-utilize electric power from the property being occupied or an adjacent
-property, but only when written consent is obtained to do so. No power cable,
-extension cord or other equipment shall be extended across any street, alley or
-sidewalk. If a power cable, extension cord or other electrical equipment is
-extended across a parking lot, the equipment must be protected from vehicle
-movements in accordance with the Nation al Electrical Code requirements.
-      (2)   No tables, chairs, umbrellas or other appurtenances shall be
-allowed on public property, without the written permission of the Mobile Food
-Administrator.
-      (3)   All mobile food vehicles shall be in compliance with regulations
-established by the Cabinet for Health and Family Services, Department for
-Public Health, Division of Public Health Protection and Safety and/or the
-Purchase District Health Department, and U.S. Public Health and FDA Food Code.
-   (G)   Garbage disposal. All mobile food vendors must provide one or more
-garbage receptacles for their patrons. All mobile food vendors must keep the
-area around their vehicles free from litter, refuse and garbage.
-   (H)   Serving articles and alcoholic beverages.
-      (1)   Patrons shall be provided with single-service articles, such as
-plastic utensils, plastic or styrofoam cups and paper or styrofoam plates.
-      (2)   Mobile food vehicles shall not serve any alcoholic beverages unless
-permitted by the city’s Mobile Food Administrator, the city’s Alcoholic
-Beverage Administrator, and Kentucky Alcoholic Beverage Control.
-   (I)    Special events. Mobile food vehicles are prohibited from vending
-2,500 feet from special event permitted areas unless the mobile food vehicle is
-permitted by the Mobile Food Administrator.
-   (J)   Noise.
-      (1)   No mobile food vehicle may emit bells, music, horns or other
-audible sounds used to attract customers. Strobe lights, flashing lights or
-other repetitious lighting are prohibited.
-      (2)   The noise level from the food truck motor and generator must comply
-with the city’s noise ordinance. Generators shall not be permitted within 100
-feet of a residence.
-   (K)   Application and permitting.
-      (1)   Mobile food permit required. Any operator of a mobile food vehicle
-must apply for and receive on an annual basis a mobile food zoning compliance
-permit (the “mobile food permit”
-      (2)   Application. Every mobile food vendor desiring to operate a mobile
-food vehicle shall submit an application for a mobile food permit to the Mobile
-Food Administrator. All mobile food vendors shall obtain necessary inspections
-and permits otherwise required by the city, the Purchase District Health
-Department, and any other local, state or federal agencies or departments, in
-order to vend in the city limits. In addition to the information required by
-the application, the Mobile Food Administrator may request other information
-reasonably required. The mobile food permit application shall not be considered
-complete until the Mobile Food Administrator has all information as required by
-the application or otherwise.
-      (3)   Issuance of mobile food permit. Once the application is considered
-complete by the Mobile Food Administrator, the Mobile Food Administrator shall
-issue or deny the mobile food permit within 14 business days. If the Mobile
-Food Administrator is satisfied that the application and mobile food vehicle
-conform to the requirements of this chapter and other pertinent laws and
-ordinances, a mobile food permit shall be issued to the applicant. Upon
-issuance of the mobile food permit the mobile food vendor shall submit a $25
-mobile food permit fee. If the application and mobile food vehicle does not
-conform to the requirements of this chapter or other pertinent laws or
-ordinances, the Mobile Food Administrator shall not issue the mobile food
-permit, but shall inform the applicant of the denial. Such denial, when
-requested, shall be in writing and state the reasons for denial. The mobile
-food permit shall be valid for one calendar year from the date of issuance,
-unless the mobile food permit is revoked pursuant to this chapter.
-      (4)   Permit renewal. Every mobile food permit, unless suspended or
-revoked for a violation of any provision of this chapter or other requirement
-or ordinance of the city, can be renewed annually prior to expiration. An
-application for renewal of a mobile food permit shall be made through the
-Mobile Food Administrator. Every mobile food vender shall submit a $25 permit
-renewal fee upon issuance of the renewed mobile food permit. Upon the mobile
-food permit’s expiration, the holder of the mobile food permit forfeits the
-right to renew and the mobile food vendor must reapply for a new mobile food
-permit.
-      (5)   Inspections after permitting. Permitted operations will be
-inspected periodically and without notice by representatives of various city
-departments to ensure compliance with this chapter.
-      (6)   Operation without permit. Any mobile food vehicle operating without
-a valid mobile food permit may be deemed a public safety hazard and may be
-ticketed and impounded. The penalty for operating without a mobile vehicle
-permit shall be $500 for each such occurrence.
-      (7)   Revocation of permit. The Mobile Food Administrator may revoke a
-mobile food permit if it is discovered that:
-         (a)   An applicant obtained the Mobile Food Permit by knowingly
-providing false information on the application;
-         (b)   The continuation of the mobile food vendor’s use of the mobile
-food permit is a threat to public health or safety, or if the mobile food
-vendor otherwise presents a threat to public health or safety;
-         (c)   The mobile food vendor or mobile food vehicle violates
-regulations of this chapter or any other city ordinance; or
-         (d)   The mobile food vendor or mobile food vehicle has not paid and/
-or is delinquent in paying the restaurant tax.
-      (8)   Appeal of revocation. If a mobile food permit is revoked, the
-Mobile Food Administrator shall state the specific reasons for the revocation.
-Any mobile food vendor whose mobile food permit has been revoked may appeal
-such denial by submitting a written request for hearing to the Mobile Food
-Administrator within ten days of revocation. An informal hearing shall be
-conducted within 30 days of the Mobile Food Administrator’s receipt of said
-appeal by a panel comprised of the Mobile Food Administrator and the Mayor. The
-panel shall consider whether the revocation was justified and whether good
-cause exists to reinstate the mobile food permit. The panel shall issue its
-decision on the appeal in a written opinion within ten business days; the
-written opinion will be sent via first class mail to the mobile food vendor at
-the address listed on the mobile food vehicle application. The decision
-resulting therefrom shall be final. Following the revocation of a mobile food
-permit, a vendor must wait three months before reapplying for a new mobile food
-permit and all fees, taxes, and penalties be paid at the time of reapplying.
-(Ord. 8-12-19-07, passed 10-14-19)
+   (A)   The city shall include the Kuttawa Tourism Commission in its annual
+budget and shall provide funds for the operation of the Kuttawa Tourism
+Commission by imposing, pursuant to KRS 91A.400, a restaurant tax of 3% of the
+food and beverage retail sales by all restaurants, clubs, and mobile food
+vehicles, whether private or public, doing business in the city. All funds
+collected under the tax for which provision is made herein shall be immediately
+remitted to the Kuttawa Tourism Commission.
+   (B)   Pursuant to KRS 91A.360(5), the books of the Commission shall be
+audited annually by an independent auditor who shall make a report to the
+relevant parties in the statute. A copy of the audit report shall be made
+available by the Commission to members of the public upon request and at no
+charge.
+   (C)   The tax imposed herein shall be collected by the operator of each
+restaurant within the city, who shall file a tax collection return by the
+twentieth day of each month for the preceding month's sales, on forms approved
+by the City Clerk. Failure to pay the monthly remittance within ten days after
+the above due date shall constitute a violation of this chapter, resulting in
+an automatic penalty of 10%, together with interest on all delinquent payments
+of 10% per annum, the potential for revocation of the operator’s business
+license.
+(Ord. 01-4-2-6, passed 4-10-01; Am. Ord. 11-18-24-08, passed 12-9-24)
+§ 35.08 TRANSIENT ROOM TAX.
+   (A)   The city shall include the Kuttawa Tourism Commission in its annual
+budget and shall provide funds for the operation of the Kuttawa Tourism
+Commission by imposing, pursuant to KRS 91A.390, a transient room tax of 3% on
+the rent for every occupancy of a suite, room, rooms, cabins, lodgings,
+campsites, or other accommodations charged by any hotel, motel, inn, tourist
+camp, tourist cabin, campgrounds, recreational vehicle parks, or any other
+place in which accommodations are regularly furnished to transients for
+consideration or by any person that facilitates the rental of the
+accommodations by brokering, coordinating, or in any other way arranging for
+the rental of the accommodations. Such accommodations shall include (but not be
+limited to) “bed and breakfasts,” short-term rental houses, or like or similar
+accommodation businesses. The effective date of this transient room tax shall
+be March 1, 2025.
+   (B)   Transient room taxes shall not apply to rooms, lodgings, campsites, or
+accommodations supplied for a continuous period of 30 days or more to a person.
+   (C)   The tax imposed herein shall be collected by the operator of each
+establishment described in this section within the city, who shall file a tax
+collection return by the twentieth day of each month for the preceding month’s
+sales, on forms approved by the City Clerk. All monies collected shall be
+maintained in a separate account and unique from all other funds and revenues
+collected and shall be considered tax revenue for the purposes of KRS 68.100
+and KRS 92.330. For purpose of verifying information, the City Clerk may
+require the submission of certified copies of other state and federal tax
+documents.
+   (D)   A portion of the money collected from the imposition of this tax, as
+determined by the city, upon the advice and consent of the Kuttawa Tourism
+Commission, may be used to finance the cost of acquisition, construction,
+operation, and maintenance of facilities useful in the attraction and promotion
+of tourist and convention business, including projects described in KRS 154.30-
+050(2)(a). The balance of the money collected from the imposition of this tax
+shall be used for the purposes set forth in KRS 91A.350. Proceeds from the tax
+shall not be used as a subsidy in any form to any hotel, motel, or restaurant,
+except as provided in KRS 154.30-050(2)(a)3.c.
+(Ord. 8-12-19-07, passed 10-14-19; Am. Ord. 11-18-24-08, passed 12-9- 24)
 CHAPTER 36: CODE OF ETHICS
 Section
 General Provisions
@@ -3606,65 +3478,38 @@ Section
    
 37.02   Appointment of Commissioners; terms
    
-37.03   Restaurant tax established
-   
-37.04   Audit
-   
-37.05   Collection of tax
-   
-37.06   Disposition of funds
-   
-37.07   Delinquency
+37.03   Funding of Commission
 § 37.01 ESTABLISHED.
    There shall be established a tourism commission as provided in KRS 91A.350
 et seq., which shall be known as the Kuttawa Tourism Commission. The Commission
 shall have all of the powers conferred upon such commissions under KRS Chapter
 91A.
-(Ord. 16-06-13-04, passed 6-22-16)
+(Ord. 16-06-13-04, passed 6-22-16; Am. Ord. 11-18-24-07, passed 12-9- 24)
 § 37.02 APPOINTMENT OF COMMISSIONERS; TERMS.
    The Kuttawa Tourism Commission shall consist of seven members as provided in
-KRS 91A.360. The Mayor shall, within 30 days following the enactment of this
-chapter, appoint seven members to the Commission, to be selected in conformance
-with KRS 91A.360. In the event an association identified in the statute does
-not currently exist, the Mayor shall appoint a resident of the city.
+KRS 91A.360.
    (A)   In making the aforesaid appointments, the Mayor shall designate two
 commissioners to serve for a term of three years; two commissioners to serve
 for a term of two years; and three commissioners to serve for a term of one
 year. Thereafter, all commissioners shall be appointed to serve for a term of
 three years.
    (B)   The Commission shall elect from its membership a chairman and a
-treasurer, and employ personnel and make contracts necessary to carry out the
-purpose set forth in KRS 91A.350 to 91A.390. In doing so, the Commission shall
-be guided by the requirements set forth in KRS 91A.360(4).
-(Ord. 16-06-13-04, passed 6-22-16)
-§ 37.03 RESTAURANT TAX ESTABLISHED.
-   The city shall include the Tourism Commission in its annual budget and shall
-provide funds for the operation of the Commission by imposing, pursuant to KRS
-91A.400, a restaurant tax of 3% of the food and beverage retail sales by all
-restaurants and clubs, private or public, doing business in the city. The
-effective date of this restaurant tax shall be April 1, 2020.
-(Ord. 16-06-13-04, passed 6-22-16; Am. Ord. 02-10-20-04, passed 3-9-20)
-§ 37.04 AUDIT.
-   Pursuant to KRS 91A.360(5), the books of the Commission shall be audited
-annually by an independent auditor who shall make a report to the relevant
-parties in the statute. A copy of the audit report shall be made available by
-the Commission to members of the public upon request and at no charge.
-(Ord. 16-06-13-04, passed 6-22-16)
-§ 37.05 COLLECTION OF TAX.
-   The tax imposed herein shall be collected by the operator of each restaurant
-within the city, who shall file a tax collection return by the 20th day of each
-month for the preceding month’s sales, on forms approved by the City Clerk.
-(Ord. 16-06-13-04, passed 6-22-16)
-§ 37.06 DISPOSITION OF FUNDS.
-   All funds collected under the tax for which provision is made herein shall
-be immediately remitted to the Kuttawa Tourism Commission.
-(Ord. 16-06-13-04, passed 6-22-16)
-§ 37.07 DELINQUENCY.
-   Failure to pay the monthly remittance within ten days after the above due
-date shall constitute a violation of this chapter, resulting in an automatic
-penalty of 10%, together with interest on all delinquent payments of 10% per
-annum.
-(Ord. 16-06-13-04, passed 6-22-16)
+treasurer. The Commission shall employ personnel and make contracts necessary
+to carry out the purpose set forth in KRS 91A.350 to 91A.390. In doing so, the
+Commission shall be guided by the requirements set forth in KRS 91A.360(4).
+(Ord. 16-06-13-04, passed 6-22-16; Am. Ord. 11-18-24-07, passed 12-9- 24)
+§ 37.03 FUNDING OF COMMISSION.
+   (A)   The Commission shall be funded through various taxes which have been
+enacted by the city as set forth in Chapter 35 of this code.
+   (B)   Transient room tax. The city has the authority to enact a transient
+room tax. In the event that such a tax is enacted, Kuttawa Tourism Commission
+will receive funds from the city which are a result of the city’s enactment of
+a transient room tax. The Kuttawa Tourism Commission shall set aside one-half
+of the funds received from the imposition of the transient room tax to be used
+in connection with capital expenditures approved by the city. These funds shall
+be set aside in a separate account held by the Kuttawa Tourism Commission.
+(Ord. 16-06-13-04, passed 6-22-16; Am. Ord. 02-10-20-04, passed 3-9- 20; Am.
+Ord. 11-18-24-07, passed 12-9-24)
 CHAPTER 38: OCCUPATIONAL LICENSE TAXES
 Section
    
@@ -3876,6 +3721,185 @@ than $1,000 or imprisoned for not longer than one year, or both. If such
 violator is a city employee, such employment with the city shall be immediately
 terminated.
 (Ord. 04-10-23-01, passed 5-8-23)
+CHAPTER 39: BOARD OF ADJUSTMENTS
+Section
+   
+39.01   Purpose
+   
+39.02   Officers and their duties
+   
+39.03   Nomination and election of officers
+   
+39.04   Membership
+   
+39.05   Meetings
+   
+39.06   Variances
+   
+39.07   Hearings
+   
+39.08   Appeals
+   
+39.09   Transaction of business
+§ 39.01 PURPOSE.
+   The purpose of the Board of Adjustments is a judicial body that interprets
+zoning laws, hears appeals, grants variances, and reviews requests for grading
+and clearing of property to ensure fair application of land use regulations,
+and other duties as assigned to the Board of Adjustments.
+(Ord. 11-10-25-11, passed 1-12-25)
+§ 39.02 OFFICERS AND THEIR DUTIES.
+   The officers shall consist of a Chairman, Vice Chairman and Secretary and
+two members at-large. Their duties are as follows:
+   (A)   Chairman. The Chairman shall be the presiding officer at all meetings
+and shall before his or her duties as described below:
+      (1)   To open and call all meetings to order;
+      (2)   To announce the business to be conducted;
+      (3)   To recognize members entitled to the floor;
+      (4)   To state and put to vote all questions which are regularly moved or
+necessarily rise in the course of proceedings and to announce the result of the
+vote;
+      (5)   To vote only to break a tie vote and to refrain from debate on any
+question to be voted on;
+      (6)   To protect the Board from unnecessary and frivolous motions by not
+recognizing them;
+      (7)   To speed up proceedings as much as possible;
+      (8)   To require order and sincerity in meetings;
+      (9)   To inform the group present to a point of order or a practice
+pertinent to pending business;
+      (10)   To authenticate by his or her signature when necessary, all acts,
+orders and proceedings of the Board; and
+      (11)   Shall conduct business only for the benefit of the Board involved
+and shall reflect no personal prejudice in any matter.
+   (B)   Vice-Chairman. The Vice-Chairman shall assist the Chairman in any way
+possible subject to the Chairman’s request. Upon the absence of the Chairman,
+the Vice-Chairman shall automatically become the presiding officer of the
+Board. In case of absence of both the Chairman and Vice-Chairman, the Secretary
+shall automatically become the presiding officer of the Board.
+   (C)   Secretary. The Secretary, as well as the City Clerk, shall keep a copy
+of records and minutes of each meeting or hearing of the Board, keep a roll of
+the members, and call the roll at each meeting or hearing of the Board.
+   (D)   The members of the Board must be residents within the jurisdiction.
+(Ord. 11-10-25-11, passed 1-12-25)
+§ 39.03 NOMINATION AND ELECTION OF OFFICERS.
+   The nomination of officers shall be made at a meeting scheduled to be held
+in October of each year. Election of officers shall take place in January of
+each year. Voting shall take place in one of the following ways: voice, show of
+hands, rising, balloting, roll call or general account. A candidate receiving a
+majority of the entire membership shall be declared elected. Following the
+elections, the newly elected officers shall immediately takeover their new
+roles. The initial term of the officers will be randomly assigned a term of one
+year, two years or three years to allow for a portion of the Board to be
+elected each year. Officers are eligible for re-election.
+(Ord. 11-10-25-11, passed 1-12-25)
+§ 39.04 MEMBERSHIP.
+   (A)   Vacancies on the Board shall be filled within 60 days by the City
+Council. If the City Council fails to act within that time, the Planning
+Commission shall fill the vacancy. When a vacancy occurs, other than through
+expiration of the term of office it shall be filled for the remainder of the
+term.
+   (B)   All members of the Board of Adjustments shall, before entering into
+their duties, qualify by taking the oath of office prescribed by Section 228 of
+the Constitution of the Commonwealth of Kentucky before any Judge, Notary
+Public, Clerk of a Court, or Justice of the Peace within the city limits.
+   (C)   Any member who is absent from three consecutive meetings or who is
+absent from six regularly scheduled meetings within a fiscal year, without good
+cause (cause to be determined by the Board) shall be suspended from the Board
+and a formal notification of this action shall be forwarded to the City
+Council. If the City Council fails to take action within 60 days concerning
+removal of the suspended member and appointment of a new member to fill the
+vacancy, the Planning Commission shall have the authority to remove the
+suspended member and fill the vacancy. The above shall not apply to called
+meetings.
+(Ord. 11-10-25-11, passed 1-12-25)
+§ 39.05 MEETINGS.
+   (A)   A meeting shall be scheduled as needed upon call of the Chairman who
+shall give written or oral notice to all members of the Board at least seven
+days prior to the meeting, which notice shall contain the date, time and place
+for the meeting, and the subject or subjects which will be discussed;
+   (B)   A quorum of a meeting is such a number as must be present in order
+that business can be legally transacted. The quorum refers to the number
+present, not the number voting;
+   (C)   The Board shall consider a quorum present when a majority (over one-
+half) of the total members of the Board is in attendance;
+   (D)   A simple majority of all members present where there is a properly
+constituted quorum shall be necessary to transact any official business;
+   (E)   All meetings at which official action is taken shall be open to the
+general public.
+(Ord. 11-10-25-11, passed 1-12-25)
+§ 39.06 VARIANCES.
+   (A)   For the purpose of this chapter, VARIANCE means a departure from
+dimensional terms of the zoning regulation pertaining to the height, width, or
+location of structures, and the size of yards and open spaces where such
+departure meets the requirements of KRS 100.241 to 100.247. The Board of
+Adjustments shall have the power to hear and decide on applications for
+variances. The Board may impose any reasonable conditions or restrictions on
+any variance it decides to grant. The Board shall not possess the power to
+grant a variance to permit a use of any land, building, or structure that is
+not permitted by the zoning regulation in the zone in question, or to alter the
+density requirements in the zone in question.
+   (B)   To submit a variance application, an applicant must submit all
+necessary forms and paperwork as are required to submit a variance application.
+Such forms can be obtained by contacting the Board of Adjustments. Any variance
+application shall include a $50 variance application fee.
+   (C)   In making its determinations, the Board of Adjustments shall apply the
+considerations set forth in KRS 100.243. Additionally, in deciding whether to
+grant a variance, the Board shall consider the following questions:
+      (1)   Are there any special circumstances that do not generally apply to
+land in the general vicinity, or in the same zone?
+      (2)   Would strict application of the regulations deprive the applicant
+of the reasonable use of the land, or create an unnecessary hardship on the
+applicant?
+      (3)   Are the circumstances from which relief is sought a result of the
+applicant’s actions taken after the adoption of the zoning regulation?
+   (D)   If willful actions were taken in violation of the zoning ordinance,
+then the Board shall deny the variance.
+   (E)   Before granting any variance, the Board must be able to make the
+determination that the following will not occur if the variance is granted:
+      (1)   Adversely affect the public health, safety or welfare;
+      (2)   Alter the essential character of the general vicinity;
+      (3)   Cause a hazard or a nuisance to the public; and
+      (4)   Allow an unreasonable circumvention of the requirements of the
+zoning regulations.
+(Ord. 11-10-25-11, passed 1-12-25)
+§ 39.07 HEARINGS.
+   (A)   A public hearing will be held for any Board consideration. This
+hearing will be handled in a similar manner to a court case with the
+Chairperson of the Board as the presiding officer. The applicant will be first
+to state their case. They have the burden of proof within these guidelines to
+persuade the Board. Any supporters of the applicant may speak and be
+questioned. Then anyone who wants to speak against the variance will have their
+turn. The Board may recall the applicant after all testimony has been heard for
+more questions or rebuttal. No record or statement shall be recorded or sworn
+to as evidence for any court of law without notice to the parties. After
+hearing from all, the Board may excuse themselves to executive session to
+discuss the case. Upon return, they will give their determination.
+   (B)   If the variance is approved, the Board holds the right to give any
+restrictions they so desire within the KRS guidelines. The approved variance
+will be written up by the City Clerk, but must signed by the presiding officer
+of this hearing. Then, it will be recorded with the county at the cost to the
+applicant.
+   (C)   If the variance is denied, there will still be documentation about the
+findings that must be executed by the City Clerk and signed by the presiding
+officer. However, it will not be recorded.
+(Ord. 11-10-25-11, passed 1-12-25)
+§ 39.08 APPEALS.
+   Should the Board of Adjustments ruling be appealed it will go before the
+Circuit Court. The applicant has 30 days after notice is received. Upon notice
+of such an appeal the city would notify the Board members and City Attorney.
+Any further action would be governed by the City Attorney and Mayor.
+(Ord. 11-10-25-11, passed 1-12-25)
+§ 39.09 TRANSACTION OF BUSINESS.
+   (A)   Any member of the Board who has any financial interest in any question
+called to vote shall notify the Board of such interest and thus disqualify
+himself from voting on the matter;
+   (B)   Any member of a Board who fails to notify the Board of his or her
+financial interest in a question called to vote, shall have his or her voting
+qualification judged by the Board to his or her amount of interest in the
+question and his or her right to vote on it;
+   (C)   Any member of the Board found to have any financial interest in a
+question called to vote shall not be considered in the quorum count prior to
+voting.
+(Ord. 11-10-25-11, passed 1-12-25)
 TITLE V: PUBLIC WORKS
    Chapter
       
@@ -7682,6 +7706,10 @@ TITLE IX: GENERAL REGULATIONS
 94.   LITTERING
       
 95.   HEALTH AND SANITATION
+      
+96.   PUBLIC TREES
+      
+97.   ALARMS
 CHAPTER 90: ANIMALS
 Section
 General Provisions
@@ -8462,13 +8490,13 @@ auction that is plainly audible at a distance of 50 feet is not prohibited
 under this section from the hours of 7:00 a.m. to 10:30 p.m.
       (5)   Noise not otherwise prohibited (in specific provisions above).
 Noise from any other source, including, but not limited to, barking dogs,
-animal noises of any kind, car engines, human voices and fire works, which are
-plainly audible:
+animal noises of any kind, car engines, and human voices, which are plainly
+audible:
          (a)   From the source of the noise through the walls separating any
 occupied unit within the same building;
          (b)   From the source of the noise to within a occupied building
 located on another property than that from which the noise emanates;
-         (c)   From the source of the noise within the right-of-way to within
+         (c)   From the source of the noise within the right-of- way to within
 an occupied building; or
          (d)   From the source of the noise a distance of 50 feet or greater.
    (C)   Exemptions. Noise from the following sources is exempt from the
@@ -8510,7 +8538,7 @@ required seven days shall result in the entry of a final order determining:
             3.   The assessment of an administrative fee in an amount equal to
 the original citation fine.
       (4)   All fines shall be payable at Kuttawa City Hall.
-(Ord. 08-12-24-08, passed 8-19-24)
+(Ord. 08-12-24-08, passed 8-19-24 ; Am. Ord. 09-08-25-08, passed 12-8- 24 )
 § 92.05 NUISANCE CREATED BY OTHERS.
    For the purposes of this chapter, it shall not be essential that the
 nuisance be created or contributed to by the owner, occupant, or person having
@@ -8778,18 +8806,32 @@ Fireworks
    
 93.03   Consumer fireworks; restrictions on sale
    
-93.04   Bond or liability insurance requirement
+93.04   Use of permitted fireworks
    
-93.05   Exempted sales and uses
+93.05   Bond or liability insurance requirement
    
-93.06   Destruction of fireworks
+93.06   Exempted sales and uses
+   
+93.07   Destruction of fireworks
 Fire Prevention
    
-93.20   Blasting permit
+93.20   Standards of safety adopted
    
-93.21   Storage of flammables and other matter
+93.21   Blasting permit
    
-93.22   Open burning
+93.22   False fire alarms
+   
+93.23   Smoke detectors
+   
+93.24   Requirement of knox boxes at new commercial buildings
+   
+93.25   Storage of flammables and other matter
+   
+93.26   Open burning
+   
+93.27   Fire hydrants
+   
+93.28   Parking vehicle near fire hydrant or Fire Department connection
  
    
 93.99   Penalty
@@ -8797,21 +8839,20 @@ Fire Prevention
 § 93.01 DEFINITIONS; LEGALITY OF ITEMS.
    (A)   The term FIREWORKS means any composition or device for the purpose of
 producing a visible or an audible effect by combustion, deflagration, or
-detonation, and which meets the definition of “consumer” or “display” fireworks
+detonation, and which meets the definition of "consumer" or "display" fireworks
 as set forth in the U.S. Department of Transportation's (DOT) hazardous
-materials regulations. FIREWORKS does not include:
-      (1)   Exception number 1: Toy pistols, toy canes, toy guns, or other
+materials regulations. FIREWORKS do not include:
+      (1)   Exception number one. Toy pistols, toy canes, toy guns, or other
 devices in which paper or plastic caps manufactured in accordance with DOT
 regulations, and packed and shipped according to said regulations, are not
 considered to be fireworks and shall be allowed to be used and sold at all
 times.
-      (2)   Exception number 2: Model rockets and model rocket motors designed,
-sold, and used for the purpose of propelling recoverable aero models are not
-considered to be fireworks.
-      (3)   Exception number 3: Propelling or expelling charges consisting of a
-mixture of sulfur, charcoal, and saltpeter are not considered as being designed
-for producing audible effects.
-(KRS 227.700)
+      (2)   Exception number two. Model rockets and model rocket motors
+designed, sold, and used for the purpose of propelling recoverable aero models
+are not considered to be fireworks.
+      (3)   Exception number three. Propelling or expelling charges consisting
+of a mixture of sulfur, charcoal, and saltpeter are not considered as being
+designed for producing audible effects.
    (B)   CONSUMER FIREWORKS means fireworks that are suitable for use by the
 public, designed primarily to produce visible effects by combustion, and comply
 with the construction, chemical composition, and labeling regulations of the
@@ -8858,9 +8899,9 @@ half inch.
 string. A wheel may have one or more drivers, each of which may contain not
 more than 60 grams of pyrotechnic composition. No wheel may contain more than
 200 grams total pyrotechnic composition. Upon ignition, the wheel revolves,
-producing a shower of color and sparks and, sometimes, a whistling effect.
+producing a shower of color and sparks, and sometimes a whistling effect.
          (f)   Ground spinner. Small device containing not more than 20 grams
-of pyrotechnic composition, similar in operation to a wheel but intended to be
+of pyrotechnic composition, similar in operation to a wheel, but intended to be
 placed on the ground and ignited. A shower of sparks and color is produced by
 the rapidly spinning device.
          (g)   Flitter sparkler. Narrow paper tube attached to a stick or wire
@@ -8871,11 +8912,11 @@ ignited to make the device function.
 more than 100 grams of pyrotechnic composition that, upon ignition, produces
 white or colored smoke as the primary effect.
       (2)   Aerial devices.
-         (a)   Sky rockets and bottle rockets. Cylindrical tube containing not
-more than 20 grams of pyrotechnic composition. Sky rockets contain a wooden
+         (a)   Skyrockets and bottle rockets. Cylindrical tube containing not
+more than 20 grams of pyrotechnic composition. Skyrockets contain a wooden
 stick for guidance and stability and rise into the air upon ignition. A burst
-of color or noise or both is produced at the height of flight.
-         (b)   Missile-type rocket. A device similar to a sky rocket in size,
+of color, noise, or both is produced at the height of flight.
+         (b)   Missile-type rocket. A device similar to a skyrocket in size,
 composition, and effect that uses fins rather than a stick for guidance and
 stability.
          (c)   Helicopter, aerial spinner. A tube containing up to 20 grams of
@@ -8886,18 +8927,18 @@ effect is produced at the height of flight.
 grams of pyrotechnic composition. Upon ignition, up to ten stars (pellets of
 pressed pyrotechnic composition that burn with bright color) are individually
 expelled at several second intervals.
-         (e)   Mine, shell. Heavy cardboard or paper tube usually attached to a
+         (e)   Mine shell. Heavy cardboard or paper tube usually attached to a
 wood or plastic base and containing up to 60 grams of total chemical
 composition (lift charge, burst charge, and visible or audible effect
 composition). Upon ignition, stars, components producing reports containing up
 to 130 milligrams of explosive composition per report, or other devices are
-propelled into the air. The term “mine” refers to a device with no internal
-components containing a bursting charge, and the term “shell” refers to a
-device that propels a component that subsequently bursts open in the air. A
-mine or shell device may contain more than one tube provided the tubes fire in
-sequence upon ignition of one external fuse. The term “cake” refers to a dense-
-packed collection of mine or shell tubes. Total chemical composition including
-lift charges of any multiple tube devices may not exceed 200 grams. The maximum
+propelled into the air. The term MINE refers to a device with no internal
+components containing a bursting charge, and the term SHELL refers to a device
+that propels a component that subsequently bursts open in the air. A mine or
+SHELL device may contain more than one tube provided the tubes fire in sequence
+upon ignition of one external fuse. The term CAKE refers to a dense-packed
+collection of mine or shell tubes. Total chemical composition including lift
+charges of any multiple tube devices may not exceed 200 grams. The maximum
 quantity of lift charge in any one tube of a mine or shell device shall not
 exceed 20 grams, and the maximum quantity of break or bursting charge in any
 component shall not exceed 25% of the total weight of chemical composition in
@@ -8912,12 +8953,18 @@ charge in any shell shall not exceed 20 grams, and the maximum quantity of
 break or bursting charge in any shell shall not exceed 25% of the total weight
 of chemical composition in the shell. The total chemical composition of all the
 shells in a kit, including lift charge, shall not exceed 400 grams. The user
-lowers a shell into the launching tube, at the time of firing, with the fuse
+lowers a shell into the launching tube at the time of firing, with the fuse
 extending out of the top of the tube. After the firing, the tube is then
 reloaded with another shell for the next firing. All launching tubes shall be
 capable of firing twice the number of shells in the kit without failure of the
 tube. Each package of multiple-shot aerial shells must comply with all warning
 label requirements of the Consumer Product Safety Commission.
+         (g)   Sky lantern. Lanterns, also known as Chinese lanterns, sky
+candles, wish lanterns or fire balloons, that are unmanned, airborne lanterns
+or similar devices that contain a small candle or other flammable fuel cell.
+Once ignited, the fuel cell produces an open flame which heats the air inside
+of the lantern, or similar device, and propels the lantern or device into the
+atmosphere.
       (3)   Audible ground devices.
          (a)   Firecrackers, salutes. Small paper-wrapped or cardboard tube
 containing not more than 50 milligrams of pyrotechnic composition. Those used
@@ -8927,14 +8974,13 @@ composition per report. Upon ignition, noise and a flash of light is produced.
 ground upon ignition. A whistling effect, or other noise, is often produced.
 The explosive composition used to create the noise may not exceed 50
 milligrams.
-(KRS 227.702)
    (C)   Items listed below are classified as NOVELTIES and TRICK NOISEMAKERS
 and are not classified as consumer fireworks by the U.S. Department of
 Transportation, and their transportation, storage, retail sale, possession,
 sale, and use shall be allowed throughout the state at all times.
       (1)   Snake, glow worm. Pressed pellet of pyrotechnic composition that
-produces a large, snake- like ash upon burning. The ash expands in length as
-the pellet burns. These devices may not contain mercuric thiocyanate.
+produces a large, snakelike ash upon burning. The ash expands in length as the
+pellet burns. These devices may not contain mercuric thiocyanate.
       (2)   Smoke device. Tube or sphere containing pyrotechnic composition
 that, upon ignition, produces white or colored smoke as the primary effect.
       (3)   Wire sparkler. Wire coated with pyrotechnic composition that
@@ -8953,7 +8999,7 @@ similar to a party popper in design. The ends of the string are pulled to
 ignite the friction sensitive composition, producing a small report.
          (c)   Snapper. Small, paper-wrapped item containing a minute quantity
 of explosive composition coated on small bits of sand. When dropped, the device
-explodes producing a small report.
+explodes, producing a small report.
          (d)   Trick match. Kitchen or book match that has been coated with a
 small quantity of explosive or pyrotechnic composition. Upon ignition of the
 match a small report or a shower of sparks is produced.
@@ -8964,35 +9010,37 @@ containing one of the pegs, a small report is produced.
 that produces a loud whistle or smoke, or both, when ignited. A small quantity
 of explosive, not exceeding 50 milligrams may also be used to produce a small
 report. A squib is used to ignite the device.
-(KRS 227.704)
    (D)   The term DISPLAY FIREWORKS means pyrotechnic devices or large
 fireworks designed primarily to produce visible or audible effects by
 combustion, deflagration, or detonation. This term includes, but is not limited
 to, firecrackers containing more than two grains (130 milligrams) of explosive
 composition, aerial shells containing more than 40 grams of pyrotechnic
 composition, and other display pieces which exceed the limits for
-classification as consumer fireworks. Display fireworks defined by the Consumer
-Product Safety Commission in CPSC, 16 CFR Parts 1500 and 1507, and are
-classified as class B explosives by the U.S. Department of Transportation.
-(KRS 227.706)
+classification as consumer fireworks. Display fireworks are defined by the
+Consumer Product Safety Commission in CPSC, 16 CFR Parts 1500 and 1507, and are
+classified as Class B explosives by the U.S. Department of Transportation.
    (E)   Legality of items.
       (1)   Items described in division (B)(1) above are legal for retail sale
 provided all applicable federal and state requirements with respect thereto are
 met.
       (2)   Items described in divisions (B)(2), (B)(3), and (D) are not legal
-for retail sale but are legal under permits granted pursuant to this chapter
+for retail sale, but are legal under permits granted pursuant to this chapter
 for the purposes specified in this chapter for public displays and may be sold
 at wholesale as provided in this chapter.
       (3)   Items described in division (C) are legal for retail sale provided
 all applicable federal and state requirements with respect thereto are met.
-(KRS 227.708)
+(Am. Ord. 07-14-25-06, passed - -)
 § 93.02 SALE OR USE PROHIBITED; EXCEPTION FOR PUBLIC DISPLAY.
-   No person, firm, co-partnership, or corporation shall offer for sale, expose
-for sale, sell at retail, keep with intent to sell, possess, use, or explode,
-any display fireworks, except for the following:
-   (A)   (1)   The Chief of the Fire Department or other authorized city
-official may grant permits for supervised public displays of fireworks by the
-city, fair associations, amusement parks, and other organizations or groups of
+   (A)   No person, firm, co-partnership, or corporation shall offer for sale,
+expose for sale, sell at retail, keep with intent to sell, possess, use, or
+explode, any sky lantern as defined in §
+93.01(B).
+   (B)   No person, firm, co-partnership, or corporation shall offer for sale,
+expose for sale, sell at retail, keep with intent to sell, possess, use, or
+explode, any display fireworks, except for the following:
+      (1)   The Chief of the Fire Department or other authorized city official
+may grant permits for supervised public displays of fireworks by the city, fair
+associations, amusement parks, and other organizations or groups of
 individuals.
       (2)   Every display shall be handled by a competent display operator to
 be approved by the public official by whom the permit is granted, and shall be
@@ -9001,9 +9049,9 @@ official, after proper inspection, to not be hazardous to property or endanger
 any person.
       (3)   COMPETENT DISPLAY OPERATOR shall be defined as the person with
 overall responsibility for the operation and safety of a fireworks display. The
-“competent display operator” shall have a Bureau of Alcohol, Tobacco, Firearms,
+COMPETENT DISPLAY OPERATOR shall have a Bureau of Alcohol, Tobacco, Firearms,
 and Explosives (ATF) License and have participated as an assistant in firing at
-least five public displays. A “competent display operator” is also an employee
+least five public displays. A COMPETENT DISPLAY OPERATOR is also an employee
 possessor. A permit under division (A)(1) above shall be issued only to a
 competent display operator holding an ATF license.
       (4)   At least one competent display operator shall be on site during
@@ -9012,14 +9060,14 @@ copy of the permit application, as signed by the local authority having
 jurisdiction as identified in this section, on site and at all times the
 display is in place, and shall be presented on demand of the State Fire Marshal
 or local Fire Chief. All public displays that require issuance of a permit
-shall be conducted in accordance with the provisions of National Fire
+shall be conducted in accordance with the provisions of the National Fire
 Protection Association (NFPA) 1123 Code for Fireworks Display (adopted
 edition).
       (5)   Permits shall be filed with the State Fire Marshal at least 15 days
 in advance of the date of the display. After the privilege is granted, sales,
 possession, use and distribution of fireworks for the display shall be lawful
 for that purpose only. No permit granted under this division shall be
-transferable. For the purposes of this section, “public display of fireworks”
+transferable. For the purposes of this section, PUBLIC DISPLAY OF FIREWORKS
 shall include the use of pyrotechnic devices or pyrotechnic materials before a
 proximate audience, whether indoors or outdoors.
       (6)   Any person remaining within the display area shall be identified as
@@ -9032,29 +9080,30 @@ administrative regulations in accordance with KRS Chapter 13A to administer the
 provisions of this section. The regulations shall address the process by which
 permits are issued and any other procedures that are reasonably necessary to
 effectuate this section.
-   (B)   The sale, at wholesale, of any display fireworks for permitted
+         (a)   The sale, at wholesale, of any display fireworks for permitted
 displays by any resident manufacturer, wholesaler, dealer, or jobber, in
 accordance with regulations of the U.S. Bureau of Alcohol, Tobacco, and
-Firearms, and Explosives if the sale is to the person holding a display permit
-as outlined in division (A) of this section. The permit holder shall present
-the permit along with other verifiable identification at the time of sale.
-   (C)   The sale, of display fireworks in accordance with a license issued by
-the United States Bureau of Alcohol, Tobacco, Firearms and Explosives.
-   (D)   The sale and use in emergency situations of pyrotechnic signaling
-devices and distress signals for marine, aviation, and highway use.
-   (E)   The use of fuses and railway torpedoes by railroads.
-   (F)   The sale and use of blank cartridges for use in a show or theater or
-for signal or ceremonial purpose in athletics or sports.
-   (G)   The use of any pyrotechnic device by military organizations.
-   (H)   The use of fireworks for agricultural purposes under the direct
+Firearms, and Explosives is to the person holding a display permit as outlined
+in division (A) of this section. The permit holder shall present the permit
+along with other verifiable identification at the time of sale.
+         (b)   The sale of display fireworks in accordance with a license
+issued by the United States Bureau of Alcohol, Tobacco, Firearms and
+Explosives.
+         (c)   The sale and use in emergency situations of pyrotechnic
+signaling devices and distress signals, for marine, aviation, and highway use.
+         (d)   The use of fuses and railway torpedoes by railroads.
+         (e)   The sale and use of blank cartridges for use in a show or
+theater or for signal or ceremonial purpose in athletics or sports.
+         (f)   The use of any pyrotechnic device by military organizations.
+         (g)   The use of fireworks for agricultural purposes under the direct
 supervision of the U.S. Department of the Interior or any equivalent or local
 agency.
-   (I)   Nothing in this section shall prohibit a person, firm, co-partnership,
-non-profit, or corporation from offering for sale, exposing for sale, selling
-at retail, keeping with intent to sell, possessing or using consumer fireworks
-as defined in §
+         (h)   Nothing in this section shall prohibit a person, firm, co-
+partnership, non-profit, or corporation from offering for sale, exposing for
+sale, selling at retail, keeping with intent to sell, possessing or using
+consumer fireworks as defined in §
 93.01(B).
-(KRS 227.710) Penalty, see §
+(Am. Ord. 07-14-25-06, passed - -) Penalty, see §
 93.99
 § 93.03 CONSUMER FIREWORKS; RESTRICTIONS ON SALE.
    (A)   Except as provided in §
@@ -9069,13 +9118,25 @@ registration certificate in a conspicuous location at the site.
 all applicable provisions of the International Building Code, with Kentucky
 amendments (adopted edition), and NFPA 1124 (National Fire Protection
 Association) Code for the Manufacture, Transportation, Storage, and Retail
-Sales of Fireworks and Pyrotechnic Articles (adopted edition).
+Sales of Fireworks and Pyrotechnic Articles (adopted edition),
    (D)   No person or business shall give, offer for sale, or sell any consumer
 fireworks listed in §
-93.01(B) to any person under 18 years of age.
-(KRS 227.715(6) through (8)) Penalty, see §
+93.01(B) to any person under 18 years of age (see KRS 227.715(6) through (8)).
+(Am. Ord. 07-14-25-06, passed - -) Penalty, see §
 93.99
-§ 93.04 BOND OR LIABILITY INSURANCE REQUIREMENT.
+§ 93.04 USE OF PERMITTED FIREWORKS.
+   The utilization of any fireworks permitted by this Chapter 93 shall be
+subject to the following restrictions:
+   (A)   Time period for firework use. The use of any fireworks permitted
+pursuant to this chapter shall be prohibited from 10:30 p.m. to 7:00 a.m.
+   (B)   Retrieval and disposal of discharged fireworks. Any person or business
+which has discharged any fireworks shall be responsible for the retrieval and
+proper disposal of all fireworks discharged. This shall include the proper
+disposal techniques pursuant to the National Fire Protection Association
+general standard, including, but not limited to, proper soaking in water of
+discharged fireworks.
+(Am. Ord. 07-14-25-06, passed - -)
+§ 93.05 BOND OR LIABILITY INSURANCE REQUIREMENT.
    No permit shall be issued under §
 93.02 unless the applicant shall give bond or evidence of liability insurance
 deemed adequate by the official to whom application for the permit is made, in
@@ -9083,11 +9144,10 @@ a sum not less than $1,000,000. However, the appropriate city official or the
 State Fire Marshal may require a larger amount if in their judgment the
 situation requires it, conditioned for the payment of all damages which may be
 caused thereby either to a person or to property by reason of the permitted
-display, and arising from any acts of the licensee, his agents, employees or
-subcontractors.
-(KRS 227.720) Penalty, see §
-93.99
-§ 93.05 EXEMPTED SALES AND USES.
+display, and arising from any acts of the licensee, his or her agents,
+employees or subcontractors (see KRS 227.720).
+(Am. Ord. 07-14-25-06, passed - -) Penalty, see § 93.99
+§ 93.06 EXEMPTED SALES AND USES.
    Nothing in this chapter shall prevent the retail sale and use of explosives
 or signaling flares used in the course of ordinary business or industry, or
 gold star producing sparklers, which contain no magnesium or chlorate, toy
@@ -9097,8 +9157,8 @@ shells or cartridges, used as ammunition in firearms, or blank cartridges for a
 show or theatre, or for signal or ceremonial purposes in athletics or sports,
 or for use by military organizations, or the sale of any kind of fireworks
 provided the same are to be shipped by the seller directly out of the state.
-(KRS 227.730)
-§ 93.06 DESTRUCTION OF FIREWORKS.
+(Am. Ord. 07-14-25-06, passed - -)
+§ 93.07 DESTRUCTION OF FIREWORKS.
    (A)   The State Fire Marshal, or any fire department having jurisdiction
 which has been deputized to act on behalf of the State Fire Marshal, shall
 cause to be removed at the expense of the owner all stocks of fireworks which
@@ -9107,22 +9167,22 @@ the seized fireworks may be offered for sale by closed bid to a properly
 certified fireworks wholesaler.
    (B)   After a period of 60 days, the seized fireworks may be offered for
 sale by closed bid to a properly certified manufacturer, distributor, or
-wholesaler. All seized fireworks or explosives with a Class 1.3G or “display”
+wholesaler. All seized fireworks or explosives with a Class 1.30 or "display"
 designation shall require the notification of the United States Bureau of
 Alcohol, Tobacco, and Firearms. The State Fire Marshal shall provide the owner
 or possessor a receipt containing the complete inventory of any fireworks
 seized within five business days of the seizure.
    (C)   Before any seized fireworks may be disposed of:
-      (1)   If the owner of the seized fireworks is know to the State Fire
+      (1)   If the owner of the seized fireworks is known to the State Fire
 Marshal, the State Fire Marshal shall give notice by registered mail or
-personal service to the owner of the State Fire Marshal’s intention to dispose
-of the fireworks. The notice shall inform the owner of the State Fire Marshal’s
+personal service to the owner of the State Fire Marshal's intention to dispose
+of the fireworks. The notice shall inform the owner of the State Fire Marshal's
 intent. The State Fire Marshal shall conduct an administrative hearing in
 accordance with KRS Chapter 13B concerning the disposal of fireworks; or
-      (2)   If the identity of the owner of any seized fireworks in not known
+      (2)   If the identity of the owner of any seized fireworks is not known
 to the State Fire Marshal, the State Fire Marshal shall cause to be published,
 in a newspaper of general circulation in the county in which the seizure was
-made, notice of the seizure, and of the State Fire Marshal’s intention to
+made, notice of the seizure, and of the State Fire Marshal's intention to
 dispose of the fireworks. The notice shall be published once each week for
 three consecutive weeks. If no person claims ownership of the fireworks within
 ten days of the date of the last publication, the State Fire Marshal may
@@ -9131,19 +9191,172 @@ within ten days of the date of the last publication, a hearing as set out in
 division (C)(1) of this section shall be held.
    (D)   Nothing in KRS 227.700 to 227.750 shall restrict a local government
 from enacting ordinances that affect the sale or use of fireworks within their
-jurisdiction.
-(KRS 227.750)
+jurisdiction (see KRS 227.750).
+(Am. Ord. 07-14-25-06, passed - -)
 **** FIRE PREVENTION ****
-§ 93.20 BLASTING PERMIT.
+§ 93.20 STANDARDS OF SAFETY ADOPTED.
+   (A)   There is hereby established, within the city, a fire inspection
+program in accordance with KRS 227.320 and the Kentucky Standards of Safety
+(Fire Prevention Code) as promulgated in 815 KAR 10:060 by the Commissioner of
+the Department of Housing, Building and Construction on the advice and
+recommendation of the State Fire Marshal, and which includes by reference the
+NFPA Fire Prevention Code, is hereby adopted in full. Copies of the code book
+are available through the Department of Housing, Buildings and Construction,
+101 Sea Hero Road, Frankfort, Kentucky.
+      (1)   The Kuttawa Fire Chief or his or her designee is authorized to
+inspect all property for the purpose of ascertaining and causing to be
+corrected any conditions likely to cause fire loss, or determining the cause or
+origin of any fire loss, or discovering any violation of a law or ordinance
+relating to fire prevention and protection. This authority shall apply to the
+interior of occupied, private dwellings only when a fire loss has occurred
+therein or when the officer has reason to believe that unsafe conditions exist
+in the building. Inspections of property located within the Kuttawa city limits
+shall be made in accordance with an inspection schedule approved by the Kuttawa
+Fire Chief and/or State Fire Marshal. The Kuttawa Fire Chief and/or State Fire
+Marshall reserve the right to inspect any premises at any time outside the
+schedule if deemed necessary.
+      (2)   No owner shall fail to furnish and use reasonable adequate
+protection and safeguards against fire loss, or fail to adopt and use processes
+and methods reasonably adequate to render such places safe from fire loss as
+defined by 815 KAR 10:060 – Kentucky Standards of Safety.
+      (3)   No owner shall require or allow the public or any employee to go
+into or be in any property under his or her control which is not reasonably
+safe from fire loss as defined by 815 KAR 10:060 – Kentucky Standards of
+Safety.
+      (4)   Whenever the Kuttawa Fire Chief or his or her designee(s) find a
+property which, for want of repairs, lack of sufficient exits or escape
+facilities, lack of alerting devices, dilapidated condition, or any other
+cause, is especially liable for fire loss, or whenever the Kuttawa Fire Chief
+or his or her designee(s) find in any property, combustible or explosive matter
+or inflammable materials likely to result in fire loss, he or she shall order
+it to be remedied. The Kuttawa Fire Chief or his or her designee(s) shall
+deliver the order, describing the deficiencies, to the owner. The owner shall
+conform to the order within the specified time. If any owner fails to comply
+with an order within the specified time, the Kuttawa Fire Chief or his or her
+designee(s) may cause the property to be repaired, or removed if repair is not
+feasible, and all fire hazard conditions remedied, at the expense of the owner.
+Any such expense incurred by the city shall be enforced against any property of
+such owner and shall have a lien for such expense on the real estate or
+property involved.
+      (5)   Whenever the Kuttawa Fire Chief or his or her designee(s) find any
+property in violation of any provisions of the fire code, he/she shall notify
+the owner in writing of such specific finding(s) and violation(s) and instruct
+the owner to correct the violation within a period of time not to exceed 60
+days.
+   (B)   Nothing in this section shall be interpreted to inhibit, circumvent,
+alter, change, or delay the Fire Chief or his or her designee’s statutory
+authorizations involving immediate abatement of any dangerous condition(s).
+   (C)   The City Clerk shall at all times keep in their possession for
+reference a copy of the most recent edition of the Standards of Safety.
+   (D)   An attested copy of this chapter shall be transmitted to the office of
+State Fire Marshal and the rates section of the Department of Insurance of the
+Commonwealth of Kentucky.
+(Am. Ord. 07-14-25-06, passed - -)
+§ 93.21 BLASTING PERMIT.
    No person shall cause a blast to occur within the city without making
 application in writing beforehand, setting forth the exact nature of the
 intended operation, and receiving a permit to blast from the authorized city
 official. The authorized city official, before granting such permit may require
 the applicant to provide a bond to indemnify the city and all other persons
 against injury or damages which might result from the proposed blasting.
-Penalty, see §
+(Am. Ord. 07-14-25-06, passed - -) Penalty, see §
 93.99
-§ 93.21 STORAGE OF FLAMMABLES AND OTHER MATTER.
+§ 93.22 FALSE FIRE ALARMS.
+   It shall be unlawful for any person to knowingly turn in a false alarm of
+fire, or other alarms to which the Fire Department responds. The Chief of the
+Fire Department or the Assistant Chief, or other persons acting for them, may
+turn in a false alarm when practicing time runs, training men in the Fire
+Department, or exhibiting the working of the alarm system.
+(Am. Ord. 07-14-25-06, passed - -)
+§ 93.23 SMOKE DETECTORS.
+   (A)   Administration.
+      (1)   Purpose. The purpose and intent of this section is to prescribe
+minimum requirements and controls to safeguard life, property or public welfare
+from conditions hazardous to life, property, or public welfare in the use or
+occupancy of residential rental property.
+      (2)   Intent. This section shall be constructed to serve its expressed
+intent to ensure public safety, health and welfare as it pertains to smoke
+detectors in rental properties.
+      (3)   Administrative liability. The official, officer or employee charged
+with the enforcement of this section, while acting for the jurisdiction, shall
+not thereby be rendered personally liable and is hereby relieved from all
+personal liability for any damage to persons or property as a result of any act
+required or permitted in the discharge of official duties.
+      (4)   Jurisdictional liability. The jurisdiction shall not be liable
+under this section for any damage to persons or property by reason of the
+inspection or re-inspection of building, structures or equipment authorized
+herein, or failure to inspect or re-inspect such building, structures or
+equipment or by reason of the approval or disapproval of any building,
+structure, or equipment authorized herein.
+   (B)   Smoke detector requirements.
+      (1)   Type and placement of smoke detectors. Battery- operated smoke
+detectors that are ionization or photoelectric type detectors approved by a
+nationally recognized testing laboratory shall meet the minimum standard smoke
+detector required by this section.
+      (2)   Smoke detectors shall be placed in accordance with applicable NFPA
+standards. Detectors may be ceiling or wall mounted. However, if they are wall
+mounted, they shall be within 12 inches, but not closer than six inches, of the
+ceiling.
+      (3)   In a dwelling unit which contains a well-defined sleeping room
+separated from the other activity areas of the same unit, the detector shall be
+located in the corridor within the unit or interior area giving access to the
+rooms used for sleeping purposes and inside each bedroom. Where sleeping areas
+are separated or where a single smoke detector will not adequately service all
+sleeping areas, there shall be a smoke detector installed adjacent to each
+sleeping area and in sleeping rooms. In a rooming unit the detector shall be
+centrally located on the ceiling.
+      (4)   In a dwelling containing two or more dwelling units or any rooming
+unit, in addition to the requirements for individual smoke detectors in each
+dwelling unit or rooming unit, detectors shall be placed in centrally located
+common areas so that smoke detectors will adequately service all sleeping
+areas.
+      (5)   Smoke detectors shall be required in the living area of every
+dwelling unit and on every story of the dwelling unit, including basements.
+   (C)   Installation and maintenance.
+      (1)   The owner of a dwelling shall be responsible for supplying and
+installing, in an operable condition, the required detectors and for providing
+the manufacturer’s maintenance and testing instructions to a tenant when
+appropriate.
+      (2)   The owner of a dwelling shall be responsible for maintenance and
+testing of detectors, in accordance with manufacturer’s instructions, which are
+located in common areas and detectors in dwelling units and rooming units where
+the occupancy of any one tenant is for less than one month.
+      (3)   The tenant in any occupancy of one month or more shall be
+responsible for maintaining and testing the detector, in accordance with the
+manufacturer’s instructions, which are within his or her exclusive control
+during the life of the tenancy. The tenant shall be responsible for notifying
+the owner when a detector becomes inoperable, whereafter the owner has 24 hours
+in which to repair or replace it. In the battery operated type of detector,
+battery replacement shall be the responsibility of the tenant.
+      (4)   At every change of tenancy where the occupancy of any one tenant is
+of one month or more, it shall be the duty of the owner to test and ascertain
+that those detectors contained in the unit are in operable condition, and if
+not, the owner shall be responsible for placing them in operable condition.
+   (D)   Conflicting provisions. In any case where a provision of this section
+is found to be in conflict with a provision of any fire or safety code of the
+city, the provision which establishes the higher standard for the promotion and
+protection of health and safety shall prevail.
+(Am. Ord. 07-14-25-06, passed - -)
+§ 93.24 REQUIREMENT OF KNOX BOXES AT NEW COMMERCIAL BUILDINGS.
+   (A)   Definitions. For the purpose of this section, the following
+definitions shall apply unless the context clearly indicates or requires a
+different meaning.
+      KNOX BOX. A secure rapid entry system that is designed to be used by
+emergency personnel in the event of an emergency to gain entry into a structure
+by using the enclosed owner provided key(s). This box is usually mounted on the
+exterior of the building in a location that is specified by the local Fire
+Inspector/Fire Chief. All boxes shall be UL (Underwriters Laboratories)
+certified and approved by the City Fire Inspector/Fire Chief.
+   (B)   Knox box required for new commercial buildings. All new commercial
+buildings shall have installed a Knox Box, of a UL type and size approved by
+the City Fire Inspector/Fire Chief, in a location specified by the City Fire
+Inspector/Fire Chief prior to the issuance of the permit of occupancy.
+   (C)   Knox box contents. All knox boxes shall contain labeled keys, easily
+identified in the field to provide access into the property and/or building;
+and to any locked areas within the said building as the City Fire Inspector/
+Fire Chief may direct.
+(Am. Ord. 07-14-25-06, passed - -)
+§ 93.25 STORAGE OF FLAMMABLES AND OTHER MATTER.
    (A)   All flammable or combustible materials shall be arranged and stored in
 a manner which affords reasonable safety against the danger of fire.
    (B)   Waste paper, ashes, oil rags, waste rags, excelsior, or any material
@@ -9152,39 +9365,80 @@ other portion of any building of any kind. Proper fireproof receptacles shall
 be provided for such hazardous materials.
    (C)   No matter shall be stored or arranged in a manner which impedes or
 prevents access to or exit from any premises in case of fire.
-Penalty, see §
-93.99
-§ 93.22 OPEN BURNING.
+(Am. Ord. 07-14-25-06, passed - -)
+§ 93.26 OPEN BURNING. 
    (A)   The open burning of garbage, household rubbish and other debris is
 hereby banned effective with the final passage of this section.
    (B)   For the purpose of this section, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
-      (1)   GARBAGE. Putrescible animal and vegetable matter accumulated by a
-family in a residence in the course of ordinary day to day living.
-      (2)   HOUSEHOLD RUBBISH. Waste material and trash, not to include
-garbage, normally accumulated by a family in a residence in the course of
-ordinary day to day living.
-      (3)   OPEN BURNING. The burning of any matter in such a manner that the
+      GARBAGE. Putrescible animal and vegetable matter accumulated by a family
+in a residence in the course of ordinary day- to-day living.
+      HOUSEHOLD RUBBISH. Waste material and trash, not to include garbage,
+normally accumulated by a family in a residence in the course of ordinary day-
+to-day living.
+      OPEN BURNING. The burning of any matter in such a manner that the
 products of combustion resulting from the burning are emitted directly into the
 outdoor atmosphere without passing through a stack or chimney.
-      (4)   OTHER WASTE. Products and building materials.
+      OTHER WASTE. Products and building materials.
    (C)   Leaves and limbs are not included in the above definitions and are
 specifically exempted from this section, when done in accordance with all other
 applicable laws and regulations.
-(Ord. 94-5-2-2, passed 6-6-94) Penalty, see §
-93.99
+(Am. Ord. 07-14-25-06, passed - -)
+§ 93.27 FIRE HYDRANTS.
+   (A)   It shall be unlawful for any person to obstruct, in any manner
+whatsoever, any fireplug within the city limits, by leaving within 20 feet of
+any fireplug any boxes, debris or timbers of any character, or any other thing
+or material that will obstruct or hinder free use of and access to such
+fireplug by the Fire Department or any other department of the city.
+Additionally, it shall be the responsibility of the property owner to ensure
+that the fireplug is not blocked, in any manner, by the build-up of grass,
+dirt, or some other ground material. Any person violating this section shall be
+punished according to the penalty provisions of this chapter.
+   (B)   Fire hydrants installed on private property as part of a fire
+protection system shall be located so as to meet the requirements of National
+Fire Protection Association (NFPA) 24, Standard for the Installation of Private
+Fire Service Mains and Their Appurtenances, 2013 Edition.
+   (C)   Private hydrants shall be provided and spaced in accordance with the
+Kentucky Building Code, and private hydrant installation shall be approved by
+the Fire Code Official.
+   (D)   All commercial electric vehicle charging stations must be located
+within a distance not exceeding a maximum of 250 feet from a fire hydrant.
+   (E)   The owner of private property on which a commercial electric vehicle
+charging station is located shall bear all costs associated with installation
+of a fire hydrant in compliance with the requirements of §
+93.27(D).
+(Am. Ord. 07-14-25-06, passed - -)
+§ 93.28 PARKING VEHICLE NEAR FIRE HYDRANT OR FIRE DEPARTMENT CONNECTION.
+   (A)   It shall be unlawful for any person to park a motor vehicle within 15
+feet on either side of a fire hydrant or Fire Department connection.
+   (B)   (1)   It shall be unlawful for any person to park a motor vehicle on,
+or otherwise obstruct, any fire lane.
+      (2)   Notwithstanding the provisions of division (B) of this section, the
+property owner and/or person in possession of property may designate a portion
+of the fire lane for loading and unloading of delivery vehicles, providing the
+following are satisfied:
+         (a)   Plans are approved by the Fire Marshal showing adequate
+clearance for fire apparatus while a delivery vehicle is parked in the fire
+lane;
+         (b)   The loading and unloading zone is adequately signed for that
+purpose with a ten minute time limit for loading and/or unloading.
+(Am. Ord. 07-14-25-06, passed - -)
 § 93.99 PENALTY.
    (A)   Any person violating the provisions of §§
 93.02 or
 93.04, the regulations issued thereunder or any order issued thereunder, or who
 knowingly induces another, directly or indirectly, to violate the provisions of
 those sections, shall be fined not more than $1,000, or imprisoned for not more
-than 30 days, or both. (KRS 227.990(4))
+than 30 days, or both (see KRS 227.990(4)).
    (B)   Any person found guilty of violating §
 93.22 shall be guilty of a violation and shall be subject to a fine not to
-exceed $250. (Ord. 94-5-2-2, passed 6-6-94)
+exceed $250.
    (C)   Any person who violates any other provision of this chapter shall be
 guilty of a misdemeanor and shall be fined not more than $500.
+   (D)   Penalties. Any violation of the provisions of §
+93.24 is subject to a fine of $75 to $100 in accordance with the decision of
+the code enforcement board.
+(Am. Ord. 07-14-25-06, passed - -)
 CHAPTER 94: LITTERING
 Section
    
@@ -9278,6 +9532,402 @@ separate offense.
 is otherwise provided shall be guilty of a misdemeanor, and shall be subject to
 a fine of not more than $500, or imprisonment for not to exceed 30 days, or
 both such fine and imprisonment.
+CHAPTER 96: PUBLIC TREES
+Section
+   
+96.01   Purpose
+   
+96.02   Authority and responsibility
+   
+96.03   Standards of tree care
+   
+96.04   Kuttawa Tree Board
+   
+96.05   Permits for work on public trees
+   
+96.06   Public education and engagement
+ 
+   
+96.99   Penalty
+§ 96.01 PURPOSE.
+   This chapter is enacted to promote, protect, and enhance the public health,
+safety, and general welfare by providing for the management of trees, shrubs,
+and other woody vegetation on public property in the city.
+(Ord. 07-14-25-07, passed 12-8-25)
+§ 96.02 AUTHORITY AND RESPONSIBILITY.
+   The Mayor, or the Mayor’s designee, is hereby designated as the party
+responsible for the oversight of planting, maintenance, pruning, removal, and
+protection of all trees and shrubs located on public property, including city
+parks, rights-of-way, and other city-owned lands.
+(Ord. 07-14-25-07, passed 12-8-25)
+§ 96.03 STANDARDS OF TREE CARE.
+   The city shall follow current arboricultural best management practices
+(BMPs) as defined by the International Society of Arboriculture (ISA) and the
+ANSI A300 Standards in all aspects of public tree care. This includes proper
+planting, maintenance, pruning, and removal practices that promote long-term
+health and safety of public trees.
+(Ord. 07-14-25-07, passed 12-8-25)
+§ 96.04 KUTTAWA TREE BOARD.
+   (A)   A Kuttawa Tree Board is hereby established to assist the city in
+developing and maintaining a community forestry program.
+      (1)   The Tree Board shall consist of no less than five volunteer members
+appointed by the Mayor and approved by the City Council.
+      (2)   Members shall serve staggered three-year terms and reside within
+the city limits or surrounding area.
+      (3)   The Tree Board shall meet at least twice annually and keep records
+of its proceedings. Other meetings may be called by the Chair of the Tree
+Board.
+   (B)   Officers.
+      (1)   At its first meeting each calendar year, the Tree Board shall elect
+a Chair and Vice-Chair, each to serve a one-year term.
+      (2)   The Chair shall preside over meetings, coordinate with the Mayor or
+the Mayor’s designee, and report on Tree Board activities and recommendations
+to the Mayor.
+      (3)   The Vice Chair shall act as Chair in the Chair’s absence and also
+serve as Secretary, responsible for keeping meeting notes and records.
+   (C)   Responsibilities of the Tree Board include:
+      (1)   Providing long-term planning and policy recommendations for the
+care, preservation, and expansion of public trees.
+      (2)   Assisting in the creation and periodic update of a Community Tree
+Management Plan or tree-related goals.
+      (3)   Supporting and promoting Arbor Day observances and public education
+on the value of trees.
+      (4)   Advising on planting projects, tree removals, and other matters
+when requested by the Mayor, or Mayor’s designee.
+      (5)   Recommending updates to city policies or practices that affect
+public trees.
+      (6)   Identifying grant opportunities or partnerships that support tree
+planting and care in the city.
+(Ord. 07-14-25-07, passed 12-8-25)
+§ 96.05 PERMITS FOR WORK ON PUBLIC TREES.
+   No person shall plant, prune, or remove any tree or shrub on public property
+without first obtaining written approval from the Mayor, or the Mayor’s
+designee.
+(Ord. 07-14-25-07, passed 12-8-25)
+§ 96.06 PUBLIC EDUCATION AND ENGAGEMENT.
+   The Mayor, or the Mayor’s designee, is encouraged to promote public
+education on proper tree care and to involve local volunteers in tree planting
+and maintenance activities where feasible.
+(Ord. 07-14-25-07, passed 12-8-25)
+§ 96.09 PENALTY.
+   Whoever violates any provision of this chapter shall be guilty of a
+misdemeanor and shall, upon conviction, be fined not more than $500.
+(Ord. 07-14-25-07, passed 12-8-25)
+CHAPTER 97: ALARMS
+Section
+   
+97.01   Purpose
+   
+97.02   Definitions
+   
+97.03   Permit required; application; fee; transferability; false statements
+   
+97.04   Permit holder to produce permit
+   
+97.05   Permit duration and renewal
+   
+97.06   Proper alarm system operation and maintenance
+   
+97.07   Indirect alarm reporting
+   
+97.08   Alarm system; operating instructions
+   
+97.09   Persistent false alarm notifications within 24-hour period and system
+performance review
+   
+97.10   False alarm notifications
+   
+97.11   Suspension of alarm permit
+   
+97.12   Revocation or loss of alarm permit
+   
+97.13   Reinstatement of permit
+   
+97.14   Appeals
+ 
+   
+97.99   Penalty
+§ 97.01 PURPOSE.
+   (A)   The purpose of this chapter is to encourage the proper installation,
+maintenance, service and usage of security and fire alarms by alarm users and
+alarm related businesses and services. This chapter is necessary to reduce
+police and fire emergency responses to false alarms and/or alarm malfunctions.
+   (B)   This chapter governs security and fire alarm systems, requires permits
+after two false alarm notifications, establishes fees, provides for penalties
+for violations, creates a system of administration, and sets conditions for
+suspension or loss of permit.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.02 DEFINITIONS.
+   The following words, terms and phrases, when used in this chapter, shall
+have the meanings ascribed to them in this section; except where the context
+clearly indicates a different meaning.
+   ALARM NOTIFICATION. A notification intended to summon police or fire
+personnel of the city that is designed either to be initiated purposefully by a
+person or by an alarm system that responds to a stimulus characteristic of
+unauthorized intrusion or of smoke, heat or fire.
+   ALARM SITE. A single premises or location served by an alarm system.
+   ALARM SYSTEM. A device or system that emits, transmits or relays a signal
+intended to summon, or that would reasonably be expected to summon, police or
+fire services of the city. The meaning of the term ALARM SYSTEM includes a
+local alarm, but does not include:
+      (1)   An alarm installed on a vehicle unless the vehicle is permanently
+located at a site; or
+      (2)   An alarm designed to alert only the inhabitants of a premises that
+does not have a local alarm.
+   DESIGNATED AUTHORITY.
+      (1)   The Lyon County Sheriff or an authorized representative for a
+security alarm.
+      (2)   The Fire Chief or an authorized representative for a fire alarm.
+   FALSE ALARM NOTIFICATION (FAN).
+      (1)   The following:
+         (a)   A FAN for a security alarm means the activation of any alarm
+that results in the response of the Sheriff’s Department and when the
+responding officer finds no evidence of a criminal offense or attempted
+criminal offense.
+         (b)   A FAN for a fire alarm means the activation of any alarm which
+results in the response of the Fire Department caused by the negligence or
+intentional misuse of the system by the owner or the owner’s employees,
+servants or agents; of any other activation not caused by heat, smoke or fire,
+exclusive of a fire alarm if the alarm is activated due to malicious causes
+beyond the control of the owner.
+      (2)   Excluded from these definitions include:
+         (a)   Alarms occurring during electrical storms, hurricanes, tornados,
+blizzards and other acts of God where there is clear evidence of physical
+damage to the system;
+         (b)   The intermittent disruption or disruption of the telephone
+circuits beyond the control of the alarm company and/or alarm user;
+         (c)   Electrical power disruption or failure in excess of two hours;
+or
+         (d)   Alarms caused by a failure of the equipment at the monitoring
+company with written verification.
+      (3)   At the discretion of the designated authority, multiple false
+alarm/alarm malfunction notifications in a 24 hour period may be counted as
+only one FAN.
+   LOCAL ALARM. An alarm system that emits a signal at an alarm site that is
+audible or visible from the exterior of the structure.
+   PERMIT HOLDER. The person designated in the permit application that is
+responsible for:
+      (1)   Responding to alarms;
+      (2)   Giving access to the site;
+      (3)   Proper maintenance and operation of the alarm system; and
+      (4)   Payment of required fees.
+   PERSON. An individual, corporation, partnership, association, organization
+or similar entity.
+   SPECIAL TRUNKLINE. A telephone line leading into the Lyon County Emergency
+Communication Center utilized primarily for receiving emergency messages that
+originate from automatic protection devices and are transmitted directly or
+through an alarm monitoring company.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.03 PERMIT REQUIRED; APPLICATION; FEE; TRANSFERABILITY; FALSE STATEMENTS.
+   (A)   No permit is required for an alarm site that has less than three false
+alarm notifications (FANs) within a 12-month period.
+   (B)   Upon written notification from the city of three false alarm
+notifications (FANs) within a 12-month period, the owner, manager, or other
+person responsible for the alarm site shall apply for an alarm permit and
+submit a $25 permit fee within 30 days of receipt of written notification.
+   (C)   Once a permit is required for the operation of an alarm system at an
+alarm site, it is required thereafter as long as the alarm system is in
+operation.
+   (D)   Each permit application and permit fee, along with all other fees
+payable pursuant to this chapter, must be submitted to the city Finance
+Department.
+   (E)   No person shall operate or cause to be operated an alarm system
+without a valid permit issued by the city after 30 days of having received
+written notification of three or more false alarm notifications (FANs). An
+issued permit is valid only for one alarm system.
+   (F)   Upon receipt of an application and the permit fee, the city shall
+issue an alarm permit to an applicant unless the applicant has:
+      (1)   Failed to pay a fee assessed under this chapter; or
+      (2)   Had an alarm permit for the alarm site revoked and the violation
+causing the revocation has not been corrected.
+   (G)   Each permit application must include the following information:
+      (1)   The name, address and telephone numbers of the person who will be
+the permit holder and be responsible for the proper maintenance and operation
+of the alarm system and payment of fees assessed under this chapter;
+      (2)   The classification of the alarm site as residential or commercial;
+      (3)   The purpose of each alarm system (i.e., fire or security (burglary
+or robbery));
+      (4)   Other information required by the designated authority that is
+necessary for the enforcement of this chapter.
+   (H)   Any false statement of a material matter made by an applicant for the
+purpose of obtaining an alarm permit shall be sufficient cause for refusal to
+issue a permit.
+   (I)   An alarm permit cannot be transferred to another person. A permit
+holder shall inform the city Finance Department in writing of any change that
+alters any information listed on the permit application. The notification must
+be done within 15 days of said change. No fee will be assessed for such
+changes.
+   (J)   The Sheriff’s Department may, in its discretion, discontinue police
+response to any alarm system operating without a valid permit or operating with
+a suspended or revoked permit.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.04 PERMIT HOLDER TO PRODUCE PERMIT.
+   The permit holder shall produce the alarm permit for inspection upon demand
+by any official of the Sheriff’s or Fire Department.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.05 PERMIT DURATION AND RENEWAL.
+   (A)   A permit expires one year from the date of issuance, and must be
+renewed annually by submitting an updated application and a permit renewal fee
+to the city Finance Department. It is the responsibility of the permit holder
+to submit an application prior to the permit expiration date. Failure to renew
+will be classified as use of non-permitted alarm systems and citations and
+penalties shall be assessed without waiver.
+   (B)   If the registered alarm system has had no false alarms or alarm
+malfunctions during the last 12 month period, the $25 renewal fee will be
+waived.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.06 PROPER ALARM SYSTEM OPERATION AND MAINTENANCE.
+   A permit holder or person in control of an alarm system shall:
+   (A)   Maintain the premises and the alarm system in a manner that will
+minimize or eliminate false alarm notifications;
+   (B)   Respond or cause the permit holder’s representative to appear at the
+system’s location within a reasonable period of time when notified by an E911
+Dispatcher or other emergency communications or Sheriff or Fire Official to
+deactivate a malfunctioning alarm system, to provide access to the premises, or
+to provide security for the premises;
+   (C)   Not manually activate an alarm for any reason other than an occurrence
+of an event that the alarm system was intended to report;
+   (D)   Install a device to automatically terminate the audible signal within
+15 minutes of activation; and
+   (E)   Maintain and provide an updated list to the Lyon County Emergency
+Communication Center of persons to be contacted to respond to the location of
+an alarm when required by the Lyon County Emergency Communication Center or a
+representative of the Sheriff’s or Fire Departments.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.07 INDIRECT ALARM REPORTING.
+   A person who is engaged in the business of relaying alarm notifications to
+the Lyon County Emergency Communication Center shall:
+   (A)   Report alarms only over special trunklines or other communication
+facilities designated by the designated authority; and
+   (B)   Communicate alarm notifications to the Lyon County Emergency
+Communication Center in a manner and form determined by the designated
+authority.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.08 ALARM SYSTEM; OPERATING INSTRUCTIONS.
+   A person in control of an alarm system shall maintain at each alarm site a
+complete set of written operating instructions for each alarm system. Special
+codes, combinations, or passwords should not be included in those instructions.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.09 PERSISTENT FALSE ALARM NOTIFICATIONS WITHIN 24-HOUR PERIOD AND SYSTEM
+PERFORMANCE REVIEW.
+   (A)   The Sheriff’s Shift Commander may authorize the discontinuation of
+police response to a site that is responsible for repeated false security alarm
+notifications during a 24-hour period. The Shift Commander will cause the
+designated authority to be notified of the false alarm notifications and the
+reason for the decision to discontinue police response.
+   (B)   If there is reason to believe that an alarm system is not being used
+or maintained in a manner that ensures proper operation and suppresses false
+alarms and/or alarm malfunctions, the designated authority may require a
+conference with an alarm permit holder and the individual or association
+responsible for maintenance of the alarm system to review the circumstances of
+each false alarm/alarm malfunction.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.10 FALSE ALARM NOTIFICATIONS.
+   The holder of an alarm permit or the person in control of an alarm system
+shall be subject to fees based upon the following schedules:
+   (A)   No fee shall be assessed for the first two false alarm notifications
+at the same alarm site responded to by the Sheriff’s Department or the Fire
+Department during each calendar year. Thereafter, the following fees shall be
+paid to the Finance Department by the permit holder of each alarm site for each
+false alarm notification responded to by the Sheriff’s Department or Fire
+Department during said calendar year.
+      (1)   For security alarms responded to by the Sheriff’s Department:
+ 
+Number of False Security Alarms per Calendar Year Fee per False Alarm
+3rd                                               $50
+4th                                               $75
+5th                                               $100
+6th and above                                     $150
+ 
+      (2)   For security alarms responded to by the Fire Department:
+ 
+Number of False Security Alarms per Calendar Year Fee per False Alarm
+3rd                                               $150
+4th                                               $175
+5th                                               $200
+6th and above                                     $250
+ 
+   (B)   Any person who receives notice of a fee or penalty assessed pursuant
+to this chapter shall, within seven days of the date of the notice, respond as
+required by the notice. If a notice is appealed, the provisions specified under
+that section shall apply.
+   (C)   If a person has not responded to a notice within seven days of the
+date of the notice, a $25 late fee shall be assessed.
+   (D)   Any person operating a non-permitted alarm system, when permitting is
+required pursuant to this chapter or an alarm system with a suspended or
+revoked permit will be subject to a citation and assessment of $150 for each
+FAN payable to the city Finance Department.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.11 SUSPENSION OF ALARM PERMIT.
+   The seventh FAN shall result in a notice of suspension of permit to remain
+effective until such time as:
+   (A)   Permit holder has responded by acknowledging the suspension in writing
+as directed by the designated authority;
+   (B)   Permit holder has paid all outstanding fines, penalties, and fees;
+   (C)   Permit holder has taken action to remedy the cause of false alarms and
+reported as directed by the designated authority; and
+   (D)   The designated authority has issued a removal of suspension of permit.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.12 REVOCATION OR LOSS OF ALARM PERMIT.
+   (A)   The designated authority shall revoke an alarm permit if it is
+determined that:
+      (1)   There is a false statement of a material matter in the application
+for a permit;
+      (2)   The permit holder has violated any portion of this chapter;
+      (3)   The permit holder has failed to make payment within 30 days of
+having received written notice from the designated authority of a fee assessed
+pursuant to the provisions of this chapter; or
+      (4)   Ten or more false alarm notifications have been emitted from the
+alarm site within a 12 month period.
+   (B)   A person commits an offense if such person operates an alarm system
+during the period in which the alarm permit is revoked.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.13 REINSTATEMENT OF PERMIT.
+   (A)   A person whose alarm permit has been revoked may be issued a new
+permit if the person:
+      (1)   Submits an updated application and pays a $50 permit fee;
+      (2)   Pays, or otherwise resolves, all fees and citations in court issued
+to the person under this chapter; and
+      (3)   Submits a document of certification from a professional alarm
+company, properly licensed to install or design alarm systems, stating that the
+alarm system has been inspected and maintained by the alarm company.
+   (B)   Should any fee assessed pursuant to this chapter remain unpaid in
+excess of 60 days from the date the charge is billed, a collection fee in the
+amount of 25% of the outstanding balance shall be assessed and shall be payable
+by the owner of the premises, in addition to the original fee. The owner shall
+also be responsible for any legal fees or costs incurred by the city in
+enforcement of this chapter. The city may file a lien on said premises to
+collect all fees permitted under this chapter.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.14 APPEALS.
+   (A)   A permit holder may appeal civil penalties resulting from the
+enforcement of this chapter, including fees payable to the city and the
+suspension or revocation of alarm permits. An appeal must be made to the
+appropriate designated authority. An appeal must be in writing and must specify
+the reasons or basis for the appeal. The appeal must be made within 15 days of
+receiving notification related to penalties or other civil actions taken by the
+city that prompted the appeal.
+   (B)   The designated authority shall review the facts and circumstances and
+determine whether the permit holder has shown good cause why the penalty or
+other civil action should be dismissed. The designated authority shall report
+the decision to the permit holder.
+   (C)   If the designated authority affirms the penalties and/or other civil
+actions that resulted in an appeal, the permit holder shall have seven days to
+pay any fees assessed and payable pursuant to this chapter. If those fees are
+not paid within the allotted seven days, a $25 late fee also will be assessed.
+Any suspensions or revocations of permits shall be effective immediately upon
+the decision of the designated authority.
+(Ord. 10-13-25-10, passed 1-12-26)
+§ 97.99 PENALTY.
+   (A)   In addition to any fees assessed and payable to the city pursuant to
+the provision of this chapter, any person who operates an alarm system without
+a permit required by this chapter, or with a suspended or revoked permit, shall
+be subject to a fine not to exceed $250.
+   (B)   In addition to any fee assessed and payable to the city, any person
+who fails to pay any fee authorized by the provisions of this chapter within 30
+days of receiving a written notice from the designated authority shall be
+subject to a fine not to exceed $250.
+(Ord. 10-13-25-10, passed 1-12-26)
 TITLE XI: BUSINESS REGULATIONS
    Chapter
       
@@ -9296,6 +9946,8 @@ TITLE XI: BUSINESS REGULATIONS
 116.   SHORT-TERM RENTAL PROPERTIES
       
 117.   CANNABIS BUSINESS
+      
+118.   MOBILE FOOD VEHICLES
 CHAPTER 110: GENERAL LICENSING PROVISIONS
    [Reserved for future legislation]
 CHAPTER 111: PAWNBROKERS
@@ -9705,16 +10357,16 @@ Section
    
 114.06   Periodic information to be provided by licensee
    
-114.07   License renewal
+114.07   Regulatory license fee imposed
    
-114.08   Regulatory license fee imposed
+114.08   Additional restrictions on sale by licensee
    
-114.09   Additional restrictions on sale by licensee
-   
-114.10   Causes for refusal to issue or renew license and for suspension and
+114.09   Causes for refusal to issue or renew license and for suspension and
 revocation of license
    
-114.11   Revocation or suspension of license
+114.10   Revocation or suspension of license
+   
+114.11   License to become void if business dormant; license renewal
    
 114.12   Appeal
  
@@ -9723,18 +10375,18 @@ revocation of license
 § 114.01 PURPOSE.
    It is the purpose of this chapter to promote economic development and
 tourism within the city by making provision for the sale of alcoholic beverages
-by the drink at certain restaurants and dining facilities in a manner
-consistent with the local option election heretofore conducted pursuant to
-Chapter 242 of the Kentucky Revised Statutes.
-(Ord. 01-3-5-4, passed 3-12-01)
+in a manner consistent with the local option election heretofore conducted and
+pursuant to Chapters 241, 242, 243 and 244 of the Kentucky Revised Statutes.
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 04-14-25-02, passed 5-12-25)
 § 114.02 GENERAL PROVISIONS.
    The provisions of the State Alcoholic Beverage Control laws contained in KRS
-Chapters 241, 242, 243 and 244, as amended by Senate Bill 13, pertaining to
-licenses and regulations of the State Alcoholic Beverage Control Board,
-including definitions contained therein, as well as amendments and supplements
-thereto, are hereby adopted as part of the Alcoholic Beverage Control law of
-the city, except as otherwise lawfully provided herein.
-(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 13-11-12-05, passed 12-9-13)
+Chapters 241, 242, 243 and 244, pertaining to licenses and regulations of the
+State Alcoholic Beverage Control Board, including definitions contained
+therein, as well as amendments and supplements thereto, are hereby adopted as
+part of the Alcoholic Beverage Control law of the city, except as otherwise
+lawfully provided herein.
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 13-11-12-05, passed 12-9-13; Am. Ord.
+04-14-25-02, passed 5-12-25)
 § 114.03 CITY ALCOHOLIC BEVERAGE CONTROL ADMINISTRATOR.
    (A)   The City Alcoholic Beverage Control Administrator (the "City
 Administrator") shall be appointed by the Mayor with the consent of a majority
@@ -9742,12 +10394,13 @@ of the members of the City Council, and may be removed by the Mayor with or
 without cause. No conflict of interest shall be deemed to arise if the
 individual appointed as City Administrator is also employed by the city in some
 other capacity.
-   (B)   The City Administrator and his assistants and investigators shall have
-the full police powers of peace officers, and their jurisdiction shall be
-coextensive with the boundaries of the city. They, and any city law enforcement
-officer, may inspect any premises where alcoholic or malt beverages are sold,
-stored, or otherwise trafficked without first obtaining a search warrant.
-   (C)   The City Administrator and his assistants and investigators are
+   (B)   The City Administrator and his or her assistants and investigators
+shall have the full police powers of peace officers, and their jurisdiction
+shall be coextensive with the boundaries of the city. They, and any relevant
+law enforcement officer, may inspect any premises where alcoholic or malt
+beverages are sold, stored, or otherwise trafficked without first obtaining a
+search warrant.
+   (C)   The City Administrator and his or her assistants and investigators are
 authorized to examine and inspect, at any reasonable time, all books and
 records required to be maintained by licensees under KRS 244.150. In addition
 to the reports otherwise required by this chapter, the licensee shall submit to
@@ -9756,119 +10409,121 @@ elects to submit to or file with the State Alcoholic Beverage Control Board.
    (D)   The City Administrator shall have the same powers and duties with
 respect to suspension and revocation for cause of city licenses as the State
 Alcoholic Beverage Control Board has with respect to state licenses under KRS
-241.060. The City Administrator, on his own initiative or on the complaint of
-any person, may institute proceedings to revoke or suspend any license issued
-under this chapter.
-(Ord. 01-3-5-4, passed 3-12-01)
+241.060. The City Administrator, on his or her own initiative or on the
+complaint of any person, may institute proceedings to revoke or suspend any
+license issued under this chapter.
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 04-14-25-02, passed 5-12-25)
 § 114.04 LICENSE.
    (A)   No alcoholic beverages shall be sold in the city except as permitted
 by the Kentucky Revised Statutes and except by a duly authorized licensee in
 compliance with the terms and conditions of this chapter.
-   (B)   Restaurants and dining facilities shall be eligible for the license
+   (B)   The types of licenses issued pursuant to this chapter include those
+detailed in KRS 243.070.
+   (C)   Restaurants and dining facilities shall be eligible for the license
 for which provision is made herein if they comply with all of the following
 requirements:
       (1)   Such restaurants and dining facilities shall seat a minimum of 100
 persons.
       (2)   Restaurants and dining facilities licensed under this chapter shall
 have articulated and convincing reasons to anticipate that they will derive a
-minimum of 70% of their gross receipts from the sale of food as certified by
+minimum of 50% of their gross receipts from the sale of food as certified by
 periodic documentation.
-(Ord. 01-3-5-4, passed 3-12-01)
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 04-14-25-02, passed 5-12-25)
 § 114.05 LICENSE APPLICATION.
-   (A)   Representatives of restaurants and dining facilities seeking the
-license for which provision is made herein shall submit a completed application
-to the City Administrator. The form provided may be the same form utilized by
-the State Alcoholic Beverage Control Commission (ABC).
-   (B)   Applicants for a license under this chapter shall pay a license fee of
-$600.
-   (C)   A verified statement of the applicant shall accompany the application,
-containing the affirmation of the applicant that the applicant anticipates that
-the gross receipts at the licensed premises through the sale of food shall be
-equal to or greater than 70% of its total gross receipts.
+   (A)   Representatives of businesses seeking the license for which provision
+is made herein shall submit a completed application to the City Administrator.
+The form provided may be the same form utilized by the State Alcoholic Beverage
+Control Commission (ABC).
+   (B)   Applicants for a license under this chapter shall pay a license fee in
+accordance with KRS 243.060.
+   (C)   A verified statement of the applicant shall accompany the application
+of any restaurant or dining facility, containing the affirmation of the
+applicant that the applicant anticipates that the gross receipts at the
+licensed premises through the sale of food shall be equal to or greater than
+50% of its total gross receipts.
    (D)   The applicant for a city license shall tender with its application a
-consent document, which shall state:
-      "The undersigned applicant hereby grants its irrevocable consent to the
-City Alcoholic Beverage Control Administrator, and his duly appointed agents,
+consent document, which may include completion of an application with the city,
+a verification of food service compliance by the local health department which
+shall accompany the application, and a verification of zoning compliance by the
+joint planning/zoning commission which shall accompany the application, and
+which shall state:
+   "The undersigned applicant hereby grants its irrevocable consent to the City
+Alcoholic Beverage Control Administrator, and his or her duly appointed agents,
 to come upon and inspect and search the licensed premises at any reasonable
 time."
-(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 13-11-12-05, passed 12-9-13)
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 13-11-12-05, passed 12-9-13; Am. Ord.
+04-14-25-02, passed 5-12-25)
 § 114.06 PERIODIC INFORMATION TO BE PROVIDED BY LICENSEE.
    (A)   Applicants to whom a license is issued authorizing the sale of
-alcoholic beverages pursuant to this chapter shall provide periodic information
-demonstrating compliance with the continuing requirement that 70% of the
-applicant's gross income is earned from the sale of food. Such information
-shall be provided on or before March 31 and on or before September 30 of each
-year, and shall consist of a certificate from a certified public accountant
-familiar with the applicant's pertinent business records, which shall state:
+alcoholic beverages at a restaurant or dining facility pursuant to this chapter
+shall provide periodic information demonstrating compliance with the continuing
+requirement that 50% of the applicant's gross income is earned from the sale of
+food. Such information shall be provided on or before March 31 and on or before
+September 30 of each year, and shall consist of a certificate from a certified
+public accountant familiar with the applicant's pertinent business records,
+which shall state:
       "I have conducted a limited scope audit according to accepted accounting
-principles of the pertinent records of,                                ,
-licensee under Ordinance                   , and certify that the licensee
-earned at least 70% of its gross receipts from the sale of food during the half
-year ending (March 1 or September 1)."
+principles of the pertinent records of, __________________ , licensee under
+Ordinance ___________, and certify that the licensee earned at least 50% of its
+gross receipts from the sale of food during the half year ending (March 1 or
+September 1)."
    (B)   The certificate shall contain a brief description of the methodology
 used in the determination of the certified percentage.
-(Ord. 01-3-5-4, passed 3-12-01)
-§ 114.07 LICENSE RENEWAL.
-   The license issued pursuant to this chapter shall authorize the sale of
-alcoholic beverages until the next following January 1. The license may be
-renewed annually thereafter upon a showing that the criteria therefor have been
-met, the filing and approval of a renewal application, and the payment of a
-renewal fee of $600.
-(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 13-11-12-05, passed 12-9-13)
-§ 114.08 REGULATORY LICENSE FEE IMPOSED.
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 04-14-25-02, passed 5-12-25)
+§ 114.07 REGULATORY LICENSE FEE IMPOSED.
    (A)   For the purpose of full reimbursement to the city of the cost of any
 police, regulatory, legal, or administrative expenses related to the sale of
-alcoholic beverages in a manner consistent with this chapter, a Regulatory
-License Fee is imposed on the gross receipts from retail sales of alcoholic
+alcoholic beverages in a manner consistent with this chapter, a regulatory
+license fee is imposed on the gross receipts from retail sales of alcoholic
 beverages under each license issued pursuant to this chapter. The amount of
 this fee shall be adjusted from time to time by ordinance so that the same
 shall be reasonably estimated to insure full reimbursement to the city of the
 police, regulatory, administrative, or legal expenses herein referred to. The
-Regulatory License Fee shall be in addition to any other taxes, fees, or
+regulatory license fee shall be in addition to any other taxes, fees, or
 licenses permitted by law.
-   (B)   Until adjusted by ordinance as hereinbefore required, the Regulatory
-License Fee shall be 5% of all sales of alcoholic beverages beginning January
-1, 2001.
-   (C)   Payment of the Regulatory License Fee shall accompany tax returns
+   (B)   The regulatory license fee shall be 5% of all sales of alcoholic
+beverages.
+   (C)   Payment of the regulatory license fee shall accompany tax returns
 approved for use by the City Administrator, submitted to the City Clerk by the
-20th day of each month for the preceding month's sales. There shall be a
-monthly credit of $50, representing the pro rata portion of the initial license
-cost for which provision is made in this chapter.
+twentieth day of each month for the preceding month's sales. There shall be a
+monthly credit representing the pro rata portion of the total license fee(s)
+paid in January of the current year as in accordance with KRS 243.075. In the
+event that a licensee ceases doing business, they shall not be entitled to any
+refund of the license fees paid.
    (D)   Failure to pay the monthly remittance within ten days after the due
 date shall constitute a violation of this chapter, and in addition, shall
 constitute grounds for an immediate 30 day suspension of the license for which
 provision is made herein.
-(Ord. 01-3-5-4, passed 3-12-01) Penalty, see §
-114.99
-§ 114.09 ADDITIONAL RESTRICTIONS ON SALE BY LICENSEE.
-   At no time shall any licensee sell any alcoholic beverage when the licensee
-does not have food available for sale, and in no event may any alcoholic
-beverage be sold between the hours of 1:30 a.m. and 6:30 a.m., Monday through
-Saturday, nor between the hours of 1:30 a.m. and 1:00 p.m. on Sundays.
-(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 13-06-11-03, passed 6-17-13) Penalty,
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 04-14-25-02, passed 5-12-25) Penalty,
 see §
 114.99
-§ 114.10 CAUSES FOR REFUSAL TO ISSUE OR RENEW LICENSE AND FOR SUSPENSION AND
+§ 114.08 ADDITIONAL RESTRICTIONS ON SALE BY LICENSEE.
+   At no time shall any restaurant or dining facility sell any alcoholic
+beverage when the licensee does not have food available for sale. In no event
+may any licensee sell any alcoholic beverage between the hours of 1:30 a.m. and
+6:30 a.m., Monday through Sunday.
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 13-06-11-03, passed 6-17-13; Am. Ord.
+04-14-25-02, passed 5-12-25) Penalty, see §
+114.99
+§ 114.09 CAUSES FOR REFUSAL TO ISSUE OR RENEW LICENSE AND FOR SUSPENSION AND
 REVOCATION OF LICENSE.
    Causes for the refusal to issue or renew a license or for the suspension or
 revocation of a license shall be the same as provided for state licenses
 according to KRS 243.450 and 243.500, and in addition thereto shall include the
 following:
    (A)   The failure to obtain or retain a state license;
-   (B)   The failure to comply with the provisions of this chapter regarding
-gross receipts from the sale of food or the provisions of this chapter
-regarding periodic certification from a certified public accountant;
+   (B)   The failure to comply with the provisions of this chapter;
    (C)   The failure to pay the Regulatory License Fee when due; and
    (D)   The failure to pay any fine for which provision is made herein.
-(Ord. 01-3-5-4, passed 3-12-01)
-§ 114.11 REVOCATION OR SUSPENSION OF THE LICENSE.
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 04-14-25-02, passed 5-12-25)
+§ 114.10 REVOCATION OR SUSPENSION OF THE LICENSE.
    (A)   Upon the occurrence of one or more of the causes for revocation and
-suspension, the City Alcoholic Beverage Control Administrator may, upon his own
-initiative or upon complaint, give notice requiring the licensee to show cause
-why a revocation or suspension should not occur and give notice of the time and
-place of a hearing on possible revocation or suspension. Upon the licensee's
-failure to show cause, such a suspension or revocation may be ordered by the
-City Administrator. The licensee shall be afforded the right to:
+suspension, the City Administrator may, upon his or her own initiative or upon
+complaint, give notice requiring the licensee to show cause why a revocation or
+suspension should not occur and give notice of the time and place of a hearing
+on possible revocation or suspension. Upon the licensee's failure to show
+cause, such a suspension or revocation may be ordered by the City
+Administrator. The licensee shall be afforded the right to:
       (1)   Reasonable notice of the charge;
       (2)   Representation;
       (3)   Presentation of such evidence and witnesses as in its discretion
@@ -9876,22 +10531,63 @@ are appropriate to the issues; and
       (4)   A finding reasonably supported by the evidence.
    (B)   The City Administrator may designate a city employee or other person
 to act as a hearing officer to conduct the hearing for which provision is
-hereinbefore made. In the event of such a designation, the Hearing Officer's
+herein made. In the event of such a designation, the Hearing Officer's
 determination shall be in the form of a recommendation upon which the City
 Administrator shall determine appropriate action.
-(Ord. 01-3-5-4, passed 3-12-01)
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 04-14-25-02, passed 5-12-25)
+§ 114.11 LICENSE TO BECOME VOID IF BUSINESS DORMANT; LICENSE RENEWAL.
+   (A)   Under the provisions of the Kentucky Revised Statutes, all
+administrative regulations promulgated pursuant to provisions of the Kentucky
+Revised Statutes, and this chapter, as they may be amended from time to time, a
+quota system may exist for the number of licenses to sell alcoholic beverages
+in the city. Therefore, it is necessary that a licensee actually conduct the
+business, may suffer an interruption of business by situations not under the
+licensee's control, various exceptions to this dormancy rule are included in
+this section.
+   (B)   Any license under which no business is transacted during a period of
+90 days shall become null and void. At the expiration of the 90-day period, the
+license shall be surrendered to the Administrator, except that any licensee who
+is unable to continue in business at the licensed premises may apply to the
+State Alcoholic Beverage Control Department pursuant to 804 KAR 4:110, as
+amended from time to time, to continue such license in dormancy. In the event a
+period of dormancy is applied for or granted by the state to the licensee, the
+licensee shall immediately notify the Administrator. Upon resumption of
+business or transfer or assignment of the license, the licensee shall notify
+the Administrator and a fee shall be due and payable to the Administrator for
+the period the licensee was in dormancy in the same amount due had the license
+remained active for the same period.
+   (C)   Applications approved by the Administrator and based on pending
+construction or development on the premises shall be null and void after 90
+days of the commitment to issue a license if the applicant fails to proceed in
+an orderly fashion to initiate construction or development on the premises
+involved. Extensions may be granted by the Administrator as the Administrator
+deems appropriate in exercise of sound discretion based on facts and
+circumstances surrounding each request.
+   (D)   Applications for renewal of licenses and payment of the license fee
+must be on file with the Administrator at least 15 days, but not more than 45
+days, before the expiration of the licenses for the preceding license period,
+or the license shall be canceled. However, the licensee may file a written,
+verified statement at least 15 days prior to the expiration date of the
+license, setting forth facts justifying an extension. The Administrator may
+then extend the time for filing an application for renewal of the license for a
+reasonable length of time within the exercise of his or her sound discretion.
+The licensee shall pay the license fee from the expiration date of the former
+license or licenses and payment shall be refunded to the licensee in the event
+that the license or licenses are not renewed at or before the end of the
+extension period.
+(Ord. 04-14-25-02, passed 5-12-25)
 § 114.12 APPEAL.
    Appeals from determination of the City Administrator with respect to orders
 of that officer, including denial of applications or orders suspending or
 revoking the same, shall be addressed to the State Alcoholic Beverage Control
 Board in a manner consistent with KRS 241.200.
-(Ord. 01-3-5-4, passed 3-12-01)
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 04-14-25-02, passed 5-12-25)
 § 114.99 PENALTY.
    The sale of alcoholic beverages within the city not in conformity with this
 chapter shall constitute a violation, punishable by fine of up to $500 for each
 offense, to be prosecuted as all other municipal ordinance violations are
 prosecuted. Each day of each violation shall constitute a separate offense.
-(Ord. 01-3-5-4, passed 3-12-01)
+(Ord. 01-3-5-4, passed 3-12-01; Am. Ord. 04-14-25-02, passed 5-12-25)
 CHAPTER 115: VEHICLE DEALERS
 Section
    
@@ -10145,6 +10841,207 @@ to the voters at the next general election.
 and cannabis business operations may be conducted in the city, pursuant to KRS
 218B.130(8)(a).
 (Ord. 06-10-24-04, passed 7-8-24)
+CHAPTER 118: MOBILE FOOD VEHICLES
+Section
+   
+118.01   Purpose and intent
+   
+118.02   Definitions
+   
+118.03   Taxes
+   
+118.04   Location and hours
+   
+118.05   Self-contained units and appurtenances
+   
+118.06   Garbage disposal
+   
+118.07   Serving articles
+   
+118.08   Alcoholic beverages
+   
+118.09   Special events
+   
+118.10   Noise
+   
+118.11   Application and permitting
+§ 118.01 PURPOSE AND INTENT.
+   In order to promote a new dynamic for the citizens of the city, create new
+jobs, increase quality of life and diversify dining options, the city has
+adopted this chapter to allow mobile food vehicles to operate under specific
+guidelines.
+(Ord. 11-18-24-06, passed 12-9-24)
+§ 118.02 DEFINITIONS.
+   The definitions contained in this division shall govern the construction,
+meaning and application of words and phrases used in this section.
+   MOBILE FOOD ADMINISTRATOR. The City Clerk or his or her designee. The Mobile
+Food Administrator shall be responsible for the administration, oversight and
+enforcement of the provisions under this section.
+   MOBILE FOOD VEHICLE. A vehicle-mounted, vehicle-towed or vehicle-carried
+food service establishment that engages in the sale and preparation of food or
+beverages in individual portions to the general public. Mobile food vehicle
+shall not include ice cream trucks that move from place to place and are
+stationary in the same location for no more than ten minutes at a time or to
+food vending push carts or stands.
+   MOBILE FOOD VENDOR. A person or persons that prepare or serve food or
+beverages to the general public from a mobile food vehicle.
+(Ord. 11-18-24-06, passed 12-9-24)
+§ 118.03 TAXES.
+   All mobile food vehicles, not otherwise omitted herein, shall be subject to
+the city's restaurant tax.
+(Ord. 11-18-24-06, passed 12-9-24)
+§ 118.04 LOCATION AND HOURS.
+   (A)   Mobile food vehicles are permitted in city right-of-way ("ROW").
+Mobile food vehicles are expressly prohibited from locating on State of
+Kentucky ROW. Mobile food vehicles may not locate within 100 feet of the
+principal entrance of any restaurant where more than 50% of sales are derived
+from food.
+   (B)   The mobile food vendor must obtain written permission from the
+property owner to locate on private property. This written permission must be
+made available to the Mobile Food Administrator. Mobile food vehicles may
+locate in public parking lots with written approval from the Mobile Food
+Administrator. Mobile food vehicles in the ROW may be asked to be moved in the
+event of street cleaning, snow removal, parades, construction or other events
+as deemed necessary, in the sole opinion of the Mobile Food Administrator.
+Mobile food vehicles in private parking lots may be asked to be moved in the
+event sufficient parking is not available. Written permission must be granted
+from the Mobile Food Administrator or his or her designee if the mobile food
+vendor proposes to operate in a public park.
+   (C)   In no case shall a mobile food vehicle obstruct traffic or pedestrian
+flow. A mobile food vendor shall ensure that a minimum of four feet of
+unobstructed sidewalk remains open for pedestrian traffic. Mobile food vehicles
+parked in the ROW shall not occupy more than two parking spaces. No stop sign,
+yield sign, school crossing sign or any other traffic control sign or signal
+shall be obstructed. No ingress/egress of any driveway or alley shall be
+obstructed. No fire hydrant or fire lane shall be obstructed.
+   (D)   Mobile food vehicles may generally operate within the hours of 5:00
+a.m. to 10:00 p.m. unless the mobile food vehicle(s) at issue is/are being
+utilized as part of a special event that is pre-approved by the Mobile Food
+Administrator. Mobile food vehicles may operate until 2:00 a.m. if the mobile
+food vehicle is located on private business property and the principal business
+located on the private business property is open. Mobile food vehicles may not
+be left overnight in public parking lots or on city ROW, without the written
+permission of the Mobile Food Administrator.
+(Ord. 11-18-24-06, passed 12-9-24)
+§ 118.05 SELF-CONTAINED UNITS AND APPURTENANCES.
+   All mobile food vehicles shall have self-contained water and wastewater. No
+gray water or grease shall be dumped upon any street, sidewalk or down a storm
+water drain. Mobile food vehicles on private property may utilize electric
+power from the property being occupied or an adjacent property, but only when
+written consent is obtained to do so. No power cable, extension cord or other
+equipment shall be extended across any street, alley or sidewalk. If a power
+cable, extension cord or other electrical equipment is extended across a
+parking lot, the equipment must be protected from vehicle movements in
+accordance with the National Electrical Code requirements.
+   (A)   No tables, chairs, umbrellas or other appurtenances shall be allowed
+on public property, without the written permission of the Mobile Food
+Administrator.
+   (B)   All mobile food vehicles shall be in compliance with regulations
+established by the Cabinet for Health and Family Services, Department for
+Public Health, Division of Public Health Protection and Safety and/or the
+Purchase District Health Department, and U.S. Public Health and FDA Food Code.
+(Ord. 11-18-24-06, passed 12-9-24)
+§ 118.06 GARBAGE DISPOSAL.
+   All mobile food vendors must provide one or more garbage receptacles for
+their patrons. All mobile food vendors must keep the area around their vehicles
+free from litter, refuse and garbage.
+(Ord. 11-18-24-06, passed 12-9-24)
+§ 118.07 SERVING ARTICLES.
+   Patrons shall be provided with single-service articles, such as plastic
+utensils, plastic or styrofoam cups and paper or styrofoam plates.
+(Ord. 11-18-24-06, passed 12-9-24)
+§ 118.08 ALCOHOLIC BEVERAGES.
+   Mobile food vehicles shall not serve any alcoholic beverages unless
+permitted by the city's Mobile Food Administrator, the city's Alcoholic
+Beverage Administrator, and Kentucky Alcoholic Beverage Control.
+(Ord. 11-18-24-06, passed 12-9-24)
+§ 118.09 SPECIAL EVENTS.
+   Mobile food vehicles are prohibited from vending within 2,500 feet from any
+special event permitted areas unless the mobile food vehicle is permitted by
+the Mobile Food Administrator.
+(Ord. 11-18-24-06, passed 12-9-24)
+§ 118.10 NOISE.
+   (A)   No mobile food vehicle may emit bells, music, horns or other audible
+sounds used to attract customers. Strobe lights, flashing lights or other
+repetitious lighting are prohibited.
+   (B)   The noise level from the food truck motor and generator must comply
+with the city's noise and nuisance ordinances. Generators shall not be
+permitted within 100 feet of a residence.
+(Ord. 11-18-24-06, passed 12-9-24)
+§ 118.11 APPLICATION AND PERMITTING.
+   (A)   Mobile food permit required. Any operator of a mobile food vehicle
+must apply for and receive on an annual basis a mobile food zoning compliance
+permit (the "mobile food permit") from the Mobile Food Administrator. The
+mobile food permit is required for each mobile food vehicle. The mobile food
+permit shall be prominently displayed on the mobile food vehicle along with
+other permits as required by this chapter.
+   (B)   Application. Every mobile food vendor desiring to operate a mobile
+food vehicle shall submit an application for a mobile food permit to the Mobile
+Food Administrator. All mobile food vendors shall obtain necessary inspections
+and permits otherwise required by the city, the Purchase District Health
+Department, and any other local, state or federal agencies or departments, in
+order to vend in the city limits. In addition to the information required by
+the application, the Mobile Food Administrator may request other information
+reasonably required. The mobile food permit application shall not be considered
+complete until the Mobile Food Administrator has all information as required by
+the application or otherwise.
+   (C)   Issuance of mobile food permit. Once the application is considered
+complete by the Mobile Food Administrator, the Mobile Food Administrator shall
+issue or deny the mobile food permit within 14 business days. If the Mobile
+Food Administrator is satisfied that the application and mobile food vehicle
+conform to the requirements of this chapter and other pertinent laws and
+ordinances, a mobile food permit shall be issued to the applicant. Upon
+issuance of the mobile food permit, the mobile food vendor shall submit a $50
+mobile food permit fee. If the application and mobile food vehicle does not
+conform to the requirements of this chapter or other pertinent laws or
+ordinances, the Mobile Food Administrator shall not issue the mobile food
+permit, but shall inform the applicant of the denial. Such denial, when
+requested, shall be in writing and state the reasons for denial. The mobile
+food permit shall be valid for one calendar year from the date of issuance,
+unless the mobile food permit is revoked pursuant to this chapter.
+   (D)   Permit renewal. Every mobile food permit, unless suspended or revoked
+for a violation of any provision of this chapter or other requirement or
+ordinance of the city, can be renewed annually prior to expiration. An
+application for renewal of a mobile food permit shall be made through the
+Mobile Food Administrator. Every mobile food vender shall submit a $50 permit
+renewal fee upon issuance of the renewed mobile food permit. Upon the mobile
+food permit's expiration, the holder of the mobile food permit forfeits the
+right to renew and the mobile food vendor must reapply for a new mobile food
+permit.
+   (E)   Inspections after permitting. Permitted operations will be inspected
+periodically and without notice by representatives of various city departments
+to ensure compliance with this chapter.
+   (F)   Operation without permit. Any mobile food vehicle operating without a
+valid mobile food permit may be deemed a public safety hazard and may be
+ticketed and impounded. The penalty for operating without a mobile vehicle
+permit shall be $500 for each such occurrence.
+   (G)   Revocation of permit. The Mobile Food Administrator may revoke a
+mobile food permit if it is discovered that:
+      (1)   An applicant obtained the mobile food permit by knowingly providing
+false information on the application;
+      (2)   The continuation of the mobile food vendor's use of the mobile food
+permit is a threat to public health or safety, or if the mobile food vendor
+otherwise presents a threat to public health or safety;
+      (3)   The mobile food vendor or mobile food vehicle violates regulations
+of this chapter or any other city ordinance; or
+      (4)   The mobile food vendor or mobile food vehicle has not paid and/or
+is delinquent in paying the restaurant tax.
+   (H)   Appeal of revocation. If a mobile food permit is revoked, the Mobile
+Food Administrator shall state the specific reasons for the revocation. Any
+mobile food vendor whose mobile food permit has been revoked may appeal such
+denial by submitting a written request for hearing to the Mobile Food
+Administrator within ten days of revocation. An informal hearing shall be
+conducted within 30 days of the Mobile Food Administrator's receipt of said
+appeal by a panel comprised of the Mobile Food Administrator and the Mayor. The
+panel shall consider whether the revocation was justified and whether good
+cause exists to reinstate the mobile food permit. The panel shall issue its
+decision on the appeal in a written opinion within ten business days; the
+written opinion will be sent via first class mail to the mobile food vendor at
+the address listed on the mobile food vehicle application. The decision
+resulting therefrom shall be final. Following the revocation of a mobile food
+permit, a vendor must wait three months before reapplying for a new mobile food
+permit and all fees, taxes, and penalties be paid at the time of reapplying.
+(Ord. 11-18-24-06, passed 12-9-24)
 TITLE XIII: GENERAL OFFENSES
    Chapter
       
@@ -11973,6 +12870,13 @@ Res.        Adopting the legal description of land annexed into the city by Ord.
 Res.        Adopting the legal description of land annexed into the city by Ord. dated 5-
 18-  - -24  14-2012.
 2024
+Res.
+05-  - -25  De-annexing territory mapped incorrectly into the city.
+25
+08-
+11-  - -25  Annexing property owned by Narendra and Meenaxi Patel located in Kuttawa
+28-         Heights Subdivision #2 into the city.
+10
            
  
 TABLE II: BONDS
@@ -12050,6 +12954,18 @@ Res.  - -23  agreement with the Kentucky Office of Homeland Security to execute 
              project, and to act as the authorized correspondent for this project.
 Res.  - - 24 Approving the grant assistance agreement with the Kentucky Infrastructure
 24-14        Authority.
+Mun.         Approving and authorizing the adoption and execution of an encroachment
+Order - - 24 agreement between the city and Kyle H. and Kristy S. Dunn.
+24-01
+             Adopting and approving the execution of a Municipal Aid Co-op Program
+             Contract between the city and the Commonwealth of Kentucky, Transportation
+Res.  - - 25 Cabinet, Department of Rural and Municipal Aid for the fiscal year
+- -          beginning July 1, 2025, as provided in the Kentucky Revised Statutes and
+             accepting all streets referred to therein as being streets which are a
+             part of the Incorporated City.
+Mun.         Authorizing award of Kuttawa-Eddyville Water Interconnect Project to D-
+Order - - 25 Port Directional Drilling & Utilities, LLC.
+03-25
             
  
 TABLE IV: FRANCHISES
@@ -12073,19 +12989,23 @@ Ord. No.    Date Passed Description
  
 TABLE V: REAL ESTATE TRANSACTIONS
  
-Ord. No.  Date Passed Description
-                      Deeding certain parcels of real estate to the
-1-11-72-1 1-11-72     Commonwealth of Kentucky for the use and benefit of the
-                      Department of Highways.
-                      Consolidating Lots 13 and 14 in Block G of the recorded
-                      city plat found in Plat Cabinet 1, Slide 18, Lyon County
-94-6-6-3  6-6-94      Court Clerk's office into one, and releasing the 20-foot
-                      utility easement lying between the common boundary line
-                      of the two lots.
-                      Deeding certain real property in the city to the
-01-5-7-7  6-4-02      Commonwealth of Kentucky, Transportation Cabinet,
-                      Department of Highways.
-                     
+Ord. Date   Description
+No.  Passed
+1-   1-11-  Deeding certain parcels of real estate to the Commonwealth of Kentucky for the
+11-  72     use and benefit of the Department of Highways.
+72-1
+94-         Consolidating Lots 13 and 14 in Block G of the recorded city plat found in
+6-6- 6-6-94 Plat Cabinet 1, Slide 18, Lyon County Court Clerk's office into one, and
+3           releasing the 20-foot utility easement lying between the common boundary line
+            of the two lots.
+01-         Deeding certain real property in the city to the Commonwealth of Kentucky,
+5-7- 6-4-02 Transportation Cabinet, Department of Highways.
+7
+            Granting a 15 foot wide permanent easement centered on an installed sewer line
+—  5-23-  and located generally parallel to the grantor’s south property line and a 20
+     25     foot wide temporary construction easement along the north side of the above-
+            described perpetual easement to KR Land Company, Inc.
+           
  
 TABLE VI: STREET CLOSINGS
  
@@ -12107,23 +13027,25 @@ Ord. No.  Date Passed Description
  
 TABLE VII: STREET NAME CHANGES
  
-Ord. No. Date Passed Description
-                     (1) Changing the name of the streets known as Oak Street
-                     and Sycamore Street to Lake Barkley Drive; and
-                     (2) Naming so much of the thoroughfare listed as Kentucky
-                     Highway 295 as passes through the city from the
-                     northeastern city limits near its eastern junction with
-5-2-66-1 5-2-66      Highway US 62 and 641 to the northwestern city limits Lake
-                     Barkley Drive; and
-                     (3) Requesting that the Lyon Fiscal Court designate the
-                     section of Kentucky Highway 295 from the northwestern city
-                     limits to its western terminus at Highways 62 and 641 as
-                     Lake Barkley Drive.
-                     Renaming certain city streets designated on Exhibit A,
-94-4-4-1 4-4-94      attached to Ord. 94-4-4-1. The streets with name changes
-                     in the shopping center section are further identified by
-                     Exhibit B, attached to Ord. 94-4-4-1.
-                    
+Ord. No.    Date Passed Description
+                        (1) Changing the name of the streets known as Oak
+                        Street and Sycamore Street to Lake Barkley Drive; and
+                        (2) Naming so much of the thoroughfare listed as
+                        Kentucky Highway 295 as passes through the city from
+                        the northeastern city limits near its eastern junction
+5-2-66-1    5-2-66      with Highway US 62 and 641 to the northwestern city
+                        limits Lake Barkley Drive; and
+                        (3) Requesting that the Lyon Fiscal Court designate the
+                        section of Kentucky Highway 295 from the northwestern
+                        city limits to its western terminus at Highways 62 and
+                        641 as Lake Barkley Drive.
+                        Renaming certain city streets designated on Exhibit A,
+94-4-4-1    4-4-94      attached to Ord. 94-4-4-1. The streets with name
+                        changes in the shopping center section are further
+                        identified by Exhibit B, attached to Ord. 94-4-4-1.
+05-12-25-04 6-9-25      Dedicating Stubbs Road into the city and renaming to
+                        Magnolia Drive.
+                       
  
 TABLE VIII: ZONING MAP CHANGES
  
@@ -12148,7 +13070,8 @@ KRS Section Code Section
 KRS Section                  Code Section
 6.050                        32.48
 6.955 - 6.975                33.04
-Ch. 13B                      93.06
+Ch. 13A                      93.02
+Ch. 13B                      93.07
 18A.225                      112.04
 21.970(4)                    52.17
 Chapter 31                   34.16
@@ -12215,6 +13138,7 @@ Ch. 64                       31.51
 66.480(2)(b)                 33.38
 66.480(2)(d)(1) - (4)        33.38
 66.660                       91.06
+68.100                       35.08
 Ch. 78                       31.55
 82.082                       36.03,
                              153.01
@@ -12275,7 +13199,6 @@ Ch. 83A                      31.55
 83A.130(12)                  32.03
 83A.130(13)                  32.03
 83A.175                      32.02
-Ch. 91A                      35.07
 91A.010(6)                   33.01
 91A.010(7)                   33.01
 91A.010(8)                   10.02
@@ -12296,19 +13219,25 @@ Ch. 91A                      35.07
 91A.270                      33.16
 91A.280                      33.17
 91A.290                      33.18
+91A.350                      35.08
 91A.350 et seq.              37.01
 91A.350 - 91A.390            37.02
 91A.360                      37.02
 91A.360(4)                   37.02
-91A.360(5)                   37.04
-91A.400                      37.03
+91A.360(5)                   35.07
+91A.390                      35.08
+91A.400                      35.07
+92.330                       35.08
 96.934                       52.85
 Ch. 100                      151.01,
                              151.06
 100.131                      151.01
 100.147                      151.02
 100.157                      151.02
+100.241 - 100.247            39.06
+100.243                      39.06
 Ch. 107                      33.11
+120.165(4)                   32.02
 131.190                      34.16
 132.285                      35.01
 134.800                      35.04
@@ -12319,6 +13248,8 @@ Ch. 151                      153.05
 151.250                      153.05,
                              153.06
 Ch. 154                      34.16
+154.30-050(2)(a)             35.08
+154.30-050(2)(a)3.c.         35.08
 174.100                      91.15
 174.100(1)                   91.16
 174.100(2)                   91.17
@@ -12373,31 +13304,31 @@ Ch. 198B                     150.03
 226.100                      111.08
 226.990(1)                   111.99
 226.990(3)                   111.99
-227.700 - 227.750            93.06
-227.700                      93.01
-227.702                      93.01,
-                             93.03
-227.704                      93.01
-227.706                      93.01
-227.708                      93.01
-227.710                      93.02
+227.320                      93.20
+227.700 - 227.750            93.07
+227.702                      93.03
 227.715                      93.03
 227.715(6) - (8)             93.03
-227.720                      93.04
-227.730                      93.05
-227.750                      93.06
+227.720                      93.05
+227.750                      93.07
 227.990(1)                   150.99
 227.990(4)                   93.99
 Ch. 231                      113.20
-Ch. 241                      114.02
+Ch. 241                      114.01,
+                             114.02
 241.060                      114.03
 241.200                      114.12
 Ch. 242                      114.01,
                              114.02
-Ch. 243                      114.02
+Ch. 243                      114.01,
+                             114.02
+243.060                      114.05
+243.070                      114.04
+243.075                      114.07
 243.450                      114.10
 243.500                      114.10
-Ch. 244                      114.02
+Ch. 244                      114.01,
+                             114.02
 244.150                      114.03
 258.015                      90.30
 258.35(3)                    90.42
@@ -12471,200 +13402,227 @@ Ch. 424                      33.04,
                              
  
 REFERENCES TO ORDINANCES
-Ord. No.     Date Passed Code Section
-                         72.13,
-                         94.06,
-                         95.01,
-—          - -         113.01 -
-                         113.02,
-                         130.02 -
-                         130.04,
-                         T.S.O. III
-—          - -40       113.03
-2-4-46(B)    2-4-46      113.15 -
-                         113.20
-—          6-15-48     T.S.O. III
-—          - -60       T.S.O. I
-—          3-10-60     T.S.O. I
-—          7-28-60     T.S.O. I
-7-3-61-1     7-3-61      T.S.O. III
-7-3-61-2     7-3-61      T.S.O. III
-1-7-63-1     1-7-63      51.34
-9-3-63-1     9-3-63      150.01
-                         50.25 -
-2-1-65-2     - -65       50.27,
-                         50.30 -
-                         50.33
-                         50.01 -
-—          2-1-65      50.15,
-                         50.99
-5-2-66-1     5-2-66      T.S.O. VII
-70-3-26-1    3-26-70     T.S.O. I
-9-7-71-1     9-7-71      Ch. 151
-1-11-72-1    1-11-72     T.S.O. V
-—          12-13-76    T.S.O. III
-—          9-4-79      T.S.O. II
-—          11-8-79     T.S.O. II
-10-6-80-2    11-3-80     T.S.O. IV
-10-4-82-5    - -82       50.25
-10-4-82-4    11-1-82     33.06
-9-6-83-2     - -83       50.25
-—          8-1-83      33.03
-3-3-86-1     - -86       50.25
-—          4-7-86      T.S.O. IV
-—          11-7-88     T.S.O. II
-90-1         6-4-90      T.S.O. VIII
-—          1-1-94      51.34
-94-4-4-1     4-4-94      T.S.O. VII
-94-5-2-2     6-6-94      93.22,
-                         93.99
-94-6-6-3     6-6-94      T.S.O. V
-94-9-12-4    9-12-94     T.S.O. VI
-94-9-12-5    9-12-94     T.S.O. II
-—          11-28-94    51.34
-94-12-5-6    12-12-94    Ch. 36
-12-4-95-1    12-12-95    31.20
-—          1- -96      51.34
-96-8-5       9-3-96      Adopting Ordinance
-12-2-96      12-2-96     50.16,
-                         50.17
-11-7-88-1    1-1-97      51.34
-97-5-5-1     5-5-97      35.06
-97-5-5-2     6-2-97      Adopting Ordinance
-97-5-5-3     6-2-97      T.S.O. I
-97-9-2-5     10-6-97     T.S.O. I
-97-9-2-6     10-6-97     T.S.O. I
-97-10-6-7    11-3-97     T.S.O. VIII
-97-10-6-8    10-13-97    35.03
-97-11-3-9    - -97       50.25
-97-12-1-10   1-5-98      T.S.O. I
-98-6-1-2     7-6-98      Adopting Ordinance
-                         50.27,
-98-7-6-3     - - 98      50.30,
-                         50.32
-98-7-6-4     - - 98      51.34
-98-10-5-5    10-5-98     T.S.O. I
-98-10-5-6    10-5-98     T.S.O. I
-98-10-5-7    10-5-98     T.S.O. I
-98-11-2-8    12-7-98     T.S.O. VI
-99-2-15-1    2-15-99     T.S.O. II
-99-7-6-3     7-6-99      Adopting Ordinance
-00-2-7-1     4-13-00     T.S.O. I
-00-6-5-2     6-13-00     Adopting Ordinance
-00-8-7-3     8-14-00     50.25,
-                         50.32
-                         114.01 -
-01-3-5-4     3-12-01     114.12,
-                         114.99
-01-4-2-6     4-10-01     35.07
-01-5-7-7     6-4-01      T.S.O. V
-01-7-2-8     7-2-01      Adopting Ordinance
-10-1-01-14   11-5-01     T.S.O. I
-02-2-4-1     3-4-02      T.S.O. I
-02-05-06-1   6-10-02     T.S.O. I
-02-05-13-01  10-24-02    T.S.O. I
-03-11-10-06  12-17-03    50.25
-04-07-21-05  7-22-04     115.01
-05-03-14-02  4-11-05     50.27
-05-07-11-07  8-8-06      Adopting Ordinance
-06-10-9-06   10-18-06    T.S.O. I
-07-11-13-05  12-10-07    T.S.O. I
-08-06-09-03  6-16-08     T.S.O. I
-08-07-30-06  7-31-08     T.S.O. III
-09-03-09-01  4-13-09     Adopting Ordinance
-09-06-08-03  6-17-09     150.01
-09-11-09-06  12-14-09    T.S.O. I
-09-11-09-07  12-14-09    T.S.O. I
-09-11-09-08  12-14-09    150.01
-10-01-11-01  2-8-10      T.S.O. I
-                         153.01 -
-                         153.13,
-                         153.25 -
-10-08-09-05  9-13-10     153.27,
-                         153.40 -
-                         153.46,
-                         153.60,
-                         153.99
-10-09-13-07  10-11-10    T.S.O. IV
-10-09-13-08  11-08-10    T.S.O. II
-11-11-14-05  12-12-11    T.S.O. III
-12-12-10-06  - -         152.01
-                         74.01 -
-12-08-13-03  9-10-12     74.07,
-                         74.99
-13-06-11-03  6-17-13     114.09
-                         114.02,
-13-11-12-05  12-9-13     114.05,
-                         114.07
-16-06-13-04  6-22-16     37.01 -
-                         37.07
-                         51.01 -
-                         51.03,
-                         51.15 -
-                         51.22,
-                         51.30 -
-                         51.38,
-                         51.40 -
-                         51.43,
-                         51.99,
-                         52.01 -
-18-09-10-01  9-10-18     52.03,
-                         51.15 -
-                         52.22,
-                         52.30 -
-                         52.43,
-                         52.50,
-                         52.51,
-                         52.60 -
-                         52.74,
-                         52.80 -
-                         52.86
-01-14-19-01  3-11-19     31.50 -
-                         31.55
-                         51.34,
-02-11-19-02  3-11-19     51.35,
-                         52.83
-8-12-19-07   10-14-19    35.08
-                         51.34,
-01-06-20-01  1-13-20     51.35,
-                         51.40
-02-10-20-04  3-9-20      37.03
-03-09-20-06  - -         33.30 -
-                         33.42
-                         33.50 -
-09-14-20-10  9-17-20     33.52,
-                         33.99
-11-09-20-11  12-15-20    112.01 -
-                         112.09
-                         116.01 -
-12-13-16-21  - -         116.09,
-                         116.99
-Res. 2021-04 11-8-21     T.S.O. III
-05-09-22-3   6-13-22     152.01
-07-11-22-5   8-8-22      T.S.O. III
-Res. 01-2023 - -23       T.S.O. III
-Res. 06-2023 - -23       T.S.O. III
-04-10-23-01  5-8-23      38.01 - 38-05,
-                         38.99
-                         90.01 -
-                         90.13,
-                         90.20 -
-                         90.23,
-08-12-24-05  - -         90.30,
-                         90.31,
-                         90.40 -
-                         90.43,
-                         90.99
-Res. 07-23   - -23       T.S.O. III
-Res. 15-2024 - -24       T.S.O. I
-Res. 16-2024 - -24       T.S.O. I
-Res. 17-2024 - -24       T.S.O. I
-Res. 18-2024 - -24       T.S.O. I
-Res. 24-14   - -24       T.S.O. III
-06-10-24-04  7-8-24      117.01 -
-                         117.03
-08-12-24-08  8-19-24     92.01 -
-                         92.16
-08-12-24-09  8-19-24     T.S.O. VIII
-                        
+Ord. No.         Date Passed Code Section
+                             72.13,
+                             94.06,
+                             95.01,
+—              - -         113.01 -
+                             113.02,
+                             130.02 -
+                             130.04,
+                             T.S.O. III
+—              - -40       113.03
+2-4-46(B)        2-4-46      113.15 -
+                             113.20
+—              6-15-48     T.S.O. III
+—              - -60       T.S.O. I
+—              3-10-60     T.S.O. I
+—              7-28-60     T.S.O. I
+7-3-61-1         7-3-61      T.S.O. III
+7-3-61-2         7-3-61      T.S.O. III
+1-7-63-1         1-7-63      51.34
+9-3-63-1         9-3-63      150.01
+                             50.25 -
+2-1-65-2         - -65       50.27,
+                             50.30 -
+                             50.33
+                             50.01 -
+—              2-1-65      50.15,
+                             50.99
+5-2-66-1         5-2-66      T.S.O. VII
+70-3-26-1        3-26-70     T.S.O. I
+9-7-71-1         9-7-71      Ch. 151
+1-11-72-1        1-11-72     T.S.O. V
+—              12-13-76    T.S.O. III
+—              9-4-79      T.S.O. II
+—              11-8-79     T.S.O. II
+10-6-80-2        11-3-80     T.S.O. IV
+10-4-82-5        - -82       50.25
+10-4-82-4        11-1-82     33.06
+9-6-83-2         - -83       50.25
+—              8-1-83      33.03
+3-3-86-1         - -86       50.25
+—              4-7-86      T.S.O. IV
+—              11-7-88     T.S.O. II
+90-1             6-4-90      T.S.O. VIII
+—              1-1-94      51.34
+94-4-4-1         4-4-94      T.S.O. VII
+94-6-6-3         6-6-94      T.S.O. V
+94-9-12-4        9-12-94     T.S.O. VI
+94-9-12-5        9-12-94     T.S.O. II
+—              11-28-94    51.34
+94-12-5-6        12-12-94    Ch. 36
+12-4-95-1        12-12-95    31.20
+—              1- -96      51.34
+96-8-5           9-3-96      Adopting Ordinance
+12-2-96          12-2-96     50.16,
+                             50.17
+11-7-88-1        1-1-97      51.34
+97-5-5-1         5-5-97      35.06
+97-5-5-2         6-2-97      Adopting Ordinance
+97-5-5-3         6-2-97      T.S.O. I
+97-9-2-5         10-6-97     T.S.O. I
+97-9-2-6         10-6-97     T.S.O. I
+97-10-6-7        11-3-97     T.S.O. VIII
+97-10-6-8        10-13-97    35.03
+97-11-3-9        - -97       50.25
+97-12-1-10       1-5-98      T.S.O. I
+98-6-1-2         7-6-98      Adopting Ordinance
+                             50.27,
+98-7-6-3         - - 98      50.30,
+                             50.32
+98-7-6-4         - - 98      51.34
+98-10-5-5        10-5-98     T.S.O. I
+98-10-5-6        10-5-98     T.S.O. I
+98-10-5-7        10-5-98     T.S.O. I
+98-11-2-8        12-7-98     T.S.O. VI
+99-2-15-1        2-15-99     T.S.O. II
+99-7-6-3         7-6-99      Adopting Ordinance
+00-2-7-1         4-13-00     T.S.O. I
+00-6-5-2         6-13-00     Adopting Ordinance
+00-8-7-3         8-14-00     50.25,
+                             50.32
+                             114.01 -
+01-3-5-4         3-12-01     114.10,
+                             114.12,
+                             114.99
+01-4-2-6         4-10-01     35.07
+01-5-7-7         6-4-01      T.S.O. V
+01-7-2-8         7-2-01      Adopting Ordinance
+10-1-01-14       11-5-01     T.S.O. I
+02-2-4-1         3-4-02      T.S.O. I
+02-05-06-1       6-10-02     T.S.O. I
+02-05-13-01      10-24-02    T.S.O. I
+03-11-10-06      12-17-03    50.25
+04-07-21-05      7-22-04     115.01
+05-03-14-02      4-11-05     50.27
+05-07-11-07      8-8-06      Adopting Ordinance
+06-10-9-06       10-18-06    T.S.O. I
+07-11-13-05      12-10-07    T.S.O. I
+08-06-09-03      6-16-08     T.S.O. I
+08-07-30-06      7-31-08     T.S.O. III
+09-03-09-01      4-13-09     Adopting Ordinance
+09-06-08-03      6-17-09     150.01
+09-11-09-06      12-14-09    T.S.O. I
+09-11-09-07      12-14-09    T.S.O. I
+09-11-09-08      12-14-09    150.01
+10-01-11-01      2-8-10      T.S.O. I
+                             153.01 -
+                             153.13,
+                             153.25 -
+10-08-09-05      9-13-10     153.27,
+                             153.40 -
+                             153.46,
+                             153.60,
+                             153.99
+10-09-13-07      10-11-10    T.S.O. IV
+10-09-13-08      11-08-10    T.S.O. II
+11-11-14-05      12-12-11    T.S.O. III
+12-12-10-06      - -         152.01
+                             74.01 -
+12-08-13-03      9-10-12     74.07,
+                             74.99
+13-06-11-03      6-17-13     114.09
+13-11-12-05      12-9-13     114.02,
+                             114.05
+16-06-13-04      6-22-16     37.01 -
+                             37.03
+                             51.01 -
+                             51.03,
+                             51.15 -
+                             51.22,
+                             51.30 -
+                             51.38,
+                             51.40 -
+                             51.43,
+                             51.99,
+                             52.01 -
+18-09-10-01      9-10-18     52.03,
+                             51.15 -
+                             52.22,
+                             52.30 -
+                             52.43,
+                             52.50,
+                             52.51,
+                             52.60 -
+                             52.74,
+                             52.80 -
+                             52.86
+01-14-19-01      3-11-19     31.50 -
+                             31.55
+                             51.34,
+02-11-19-02      3-11-19     51.35,
+                             52.83
+8-12-19-07       10-14-19    35.08
+                             51.34,
+01-06-20-01      1-13-20     51.35,
+                             51.40
+02-10-20-04      3-9-20      37.03
+03-09-20-06      - -         33.30 -
+                             33.42
+                             33.50 -
+09-14-20-10      9-17-20     33.52,
+                             33.99
+11-09-20-11      12-15-20    112.01 -
+                             112.09
+                             116.01 -
+12-13-16-21      - -         116.09,
+                             116.99
+Res. 2021-04     11-8-21     T.S.O. III
+05-09-22-3       6-13-22     152.01
+07-11-22-5       8-8-22      T.S.O. III
+Res. 01-2023     - -23       T.S.O. III
+Res. 06-2023     - -23       T.S.O. III
+04-10-23-01      5-8-23      38.01 - 38-05,
+                             38.99
+                             90.01 -
+                             90.13,
+                             90.20 -
+                             90.23,
+08-12-24-05      - -         90.30,
+                             90.31,
+                             90.40 -
+                             90.43,
+                             90.99
+Res. 07-23       - -23       T.S.O. III
+Res. 15-2024     - -24       T.S.O. I
+Res. 16-2024     - -24       T.S.O. I
+Res. 17-2024     - -24       T.S.O. I
+Res. 18-2024     - -24       T.S.O. I
+Res. 24-14       - -24       T.S.O. III
+06-10-24-04      7-8-24      117.01 -
+                             117.03
+08-12-24-08      8-19-24     92.01 -
+                             92.16
+08-12-24-09      8-19-24     T.S.O. VIII
+09-08-25-08      12-8-24     92.04
+11-18-24-06      12-9-24     118.01 -
+                             118.11
+11-18-24-07      12-9-24     37.01 -
+                             37.03
+11-18-24-08      12-9-24     35.01 -
+                             35.08
+Res. - -         - -25       T.S.O. III
+Mun. Order 24-01 - -25       T.S.O. III
+Mun. Order 03-25 - -25       T.S.O. III
+Res. 05-25       - -25       T.S.O. I
+08-11-28-10      - -25       T.S.O. I
+11-10-25-11      1-12-25     39.01 -
+                             39.09
+                             114.01 -
+04-14-25-02      5-12-25     114.12,
+                             114.99
+—              5-23-25     T.S.O. V
+05-12-25-04      6-9-25   T.S.O. VII
+                             93.01 -
+07-14-25-06      - -         93.07,
+                             93.20 -
+                             93.28, 92.99
+                             96.01 -
+07-14-25-07      12-8-25     96.06,
+                             96.99
+                             97.01 -
+10-13-25-10      1-12-26     97.14,
+                             97.99
+                            
  
