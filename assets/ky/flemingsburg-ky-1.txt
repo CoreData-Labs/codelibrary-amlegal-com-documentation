@@ -1,8 +1,8 @@
 FLEMINGSBURG, KENTUCKY
 CODE OF ORDINANCES
-2024 S-22 Supplement contains:
-Local legislation current through Ord. 7-24-21, passed 7-8-24; and
-State legislation current through KRS 2024
+2026 S-23 Supplement contains:
+Local legislation current through Ord. 11-25-1, passed 11-10-25; and
+State legislation current through KRS 2026
 Published by:
 American Legal Publishing
 525 Vine Street * Suite 310 * Cincinnati, Ohio 45202
@@ -579,7 +579,8 @@ or employee.
 passed 4-15-02; Am. Ord. 2-04-1, passed 2-23-04; Am. Ord. 4-06-1, passed 4-10-
 06; Am. Ord. 6-08-1, passed 6-9-08; Am. Ord. 4-10-1 passed 4-12-10; Am. Ord. 4-
 12-1, passed 4-9-12; Am. Ord. 4-14-2, passed 4-28-14; Am. Ord. 4-18-1, passed
-4-30-18; Am. Ord. 6-20-1, passed 5-11-20; Am. Ord. 5-22-1, passed 5-9-22)
+4-30-18; Am. Ord. 6-20-1, passed 5-11-20; Am. Ord. 5-22-1, passed 5-9-22; Am.
+Ord. 7-24-1, passed 7-14-25)
 Statutory reference:
    Compensation, see KRS 83A.070 and 83A.075
 Cross-reference:
@@ -1375,16 +1376,6 @@ Investment Policy
 33.36   Audit
    
 33.37   Policy adoption
-Purchasing and Procurement
-   
-33.45   Adoption of Kentucky Model Procurement Code
-   
-33.46   Authorization of contracts
-   
-33.47   Selection of vendors and contracts
- 
-   
-33.99   Penalty
 **** FINANCIAL ADMINISTRATION ****
 § 33.01 DEFINITIONS.
    As used in this subchapter, unless the context otherwise requires, the
@@ -1410,10 +1401,13 @@ Standards Board.
 § 33.02 ACCOUNTING RECORDS AND FINANCIAL REPORTS.
    (A)   The city shall keep its accounting records and render financial
 reports in such a way as to:
-      (1)   Determine compliance with statutory provisions; and
+      (1)   Determine compliance with statutory provisions;
       (2)   Determine fairly and with full disclosure the financial operations
-of constituent funds and account groups of the city in conformity with
-generally accepted governmental accounting principles.
+of constituent funds and account groups of the city; and
+      (3)   Conform with generally accepted governmental accounting principles,
+except cities receiving and expending, from all sources and for all purposes,
+less than fifteen million dollars ($15,000,000) may choose to conform with the
+cash or the modified cash basis of accounting.
    (B)   The municipal accounting system shall be organized and operated on a
 fund basis.
 (KRS 91a.020)
@@ -1543,42 +1537,22 @@ purposes by no later than April 1 immediately following the fiscal year being
 audited.
    (B)   In lieu of the auditing requirements set forth in division (A), if the
 city for the fiscal year in question receives and expends, from all sources,
-and for all purposes, less than one hundred and fifty thousand dollars
-($150,000), and has no long-term debt, whether general obligation or revenue
-debt, the city shall not be required to audit each fund of the city for that
-particular fiscal year. In addition, the city shall:
+and for all purposes, less than five thousand dollars ($500,000), and has no
+long-term debt, whether general obligation or revenue debt, the city shall not
+be required to audit each fund of the city for that particular fiscal year. In
+addition, the city shall:
       (1)   Annually prepare a financial statement in accordance with KRS
 424.220, and shall, not later than October 1 following the conclusion of the
 fiscal year, forward one electronic copy to the Department for Local Government
 for informational purposes; and
       (2)   If exempted under this division for more than four (4) consecutive
-fiscal years after July 1, 2022, have prepared an attestation engagement
-covering the fourth fiscal year in which the city qualified for an exemption
-under this division. An attestation engagement completed pursuant to this
-division shall be:
-         (a)   Prepared by an independent certified public accountant or by the
-Auditor of Public Accounts pursuant to a contract with the city using generally
-accepted attestation standards as promulgated by the American Institute of
-Certified Public Accountants and any additional procedures established by the
-Department for Local Government through administrative regulation;
-         (b)   Completed by no later than March 1 immediately following the
-conclusion of the fiscal year in which in the attestation engagement is
-required;
-         (c)   Submitted to the Department for Local Government as one (1)
-electronic copy no later than April 1 after its completion;
-         (d)   Advertised to the public within (30) days of its completion by
-causing the publication of a legal display advertisement of not less than six
-(6) column inches in a newspaper qualified under KRS 424.120 stating that the
-attestation has been prepared and copies have been provided to each local
-newspaper of general circulation, each news service, and each local radio and
-television station which has on file with the city a written request to receive
-copies of financial statements under KRS 424.220. Any city advertising under
-this division shall be exempt from publishing its financial statement under KRS
-424.220(6)(b) for any year in which it is required to have an attestation
-engagement completed; and
-         (e)   Provided to the Auditor of Public Accounts upon request for
-review of the final report and all related work papers and documents regarding
-the attestation engagement.
+fiscal years after July 1, 2022, have performed an agreed-upon procedures
+engagement covering the fifth fiscal year in which the city qualified for an
+exemption under this division. An agreed-upon procedures engagement required
+under this paragraph shall be completed in accordance with KRS 91A.044(3) to
+(9) and any other requirements established by the Auditor of Public Accounts
+through the promulgation of administrative regulations in accordance with KRS
+Chapter 13A.
    (C)   If the city is required by another provision of law to audit its funds
 more frequently or more stringently than is required by this section, the city
 shall also comply with the provisions of that law.
@@ -1587,23 +1561,23 @@ available electronic copies of the audit reports and financial statements
 received by it under divisions (A) and (B) to the Legislative Research
 Commission to be used for the purposes of KRS 6.955 to 6.975 or to the Auditor
 of Public Accounts.
-   (E)   The city shall enter into a written contract with the selected
-auditor. The contract shall set forth all terms and conditions of the agreement
-which shall include, but not be limited to, requirements that:
+   (E)   The city shall enter into a written contract with an auditor, who
+shall be a certified public accountant or the Auditor of Public Accounts. The
+contract shall set forth all terms and conditions of the agreement which shall
+include, but not be limited to, requirements that:
       (1)   The auditor shall be employed to examine the basic financial
-statements which shall include the government-wide and fund financial
-statements;
-      (2) The auditor shall include in the annual city audit report an
-examination of local government economic assistance funds granted to the city
-under KRS 42.450 to 42.495. The auditor shall include a certification with the
-annual audit report that the funds were expended for the purpose intended;
+statements which shall include the financial statements prepared in accordance
+with the basis of accounting used by the city;
+      (2) The auditor shall include in the city audit report an examination of
+local government economic assistance funds granted to the city under KRS 42.450
+to 42.495. The auditor shall include a certification with the audit report that
+the funds were expended for the purpose intended;
       (3) All audit information be prepared in accordance with generally
 accepted governmental auditing standards which includes such tests of the
 accounting records and such auditing procedures as considered necessary under
 the circumstances. Where the audit is to cover the use of state or federal
 funds, appropriate state or federal guidelines shall be utilized;
-      (4)   The auditor shall prepare a typewritten or printed report
-embodying:
+      (4)   The auditor shall prepare a printed report embodying:
          (a)   The basic financial statements and accompanying supplemental and
 required supplemental information;
          (b)   The auditor’s opinion on the basic financial statements or
@@ -1612,10 +1586,8 @@ reasons why an opinion cannot be expressed; and
       (5)   The completed audit and all accompanying documentation shall be
 presented to the City Council at a regular or special meeting; and
       (6)   Any contract with a certified public accountant for an audit shall
-require the accountant to forward a copy of the audit report and management
-letters to the Auditor of Public Accounts upon request of the city or the
-Auditor of Public Accounts, and the Auditor of Public Accounts shall have the
-right to review the certified accountant’s work papers upon request.
+provide that the Auditor of Public Accounts shall have the right to review the
+certified accountant’s work papers upon request.
    (F)   A copy of an audit report which meets the requirements of this section
 shall be considered satisfactory and final in meeting any official request to
 the city for financial data, except for statutory or judicial requirements, or
@@ -1625,20 +1597,16 @@ purposes of KRS 6.955 to 6.975.
 the city legislative body, publish an advertisement, in accordance with KRS
 Chapter 424, containing:
       (1)   The auditor’s opinion letter;
-      (2)   The “Budgetary Comparison Schedules-Major Funds,” which shall
-include the general fund and all major funds;
+      (2)   A budget-to-actual comparison schedule for the general fund;
       (3)   A statement that a copy of the complete audit report, including
 financial statements and supplemental information, is on file at city hall and
 is available for public inspection during normal business hours;
       (4)   A statement that any citizen may obtain from city hall a copy of
 the complete audit report, including financial statements and supplemental
-information, for his or her personal use;
+information, for his or her personal use; and
       (5)   A statement which notifies citizens requesting a personal copy of
 the city audit report that they will be charged for duplication costs at a rate
-that shall not exceed twenty five cents ($0.25) per page; and
-      (6)   A statement that copies of the financial statement prepared in
-accordance with KRS 424.220 are available to the public at no cost at the
-business address of the officer responsible for preparation of the statement.
+that shall not exceed twenty five cents ($0.25) per page.
    (H)   Any resident of the city or owner of real property within the city may
 bring an action in the Circuit Court to enforce the provisions of this section.
 Any person who violates any provision of this section shall be guilty of a
@@ -1655,14 +1623,16 @@ completing and submitting a required audit or financial statement in compliance
 with divisions (A) or (B) of this section, the city may submit a written
 request for an extension of time to the Department for Local Government on a
 form prescribed by the Department. The Department shall approve the request if
-it is submitted on or before the applicable deadline, and in the judgment of
-the Department the request is warranted by extenuating circumstances beyond the
-control of the city. Extensions granted under this division shall not exceed
-nine (9) months from the original due date of the audit or financial statement.
-If the Department approves an extension for the city and the city fails to
-complete and submit the required audit or financial statement in compliance
-with that extended deadline, then the provisions of division (J) of this
-section shall apply.
+in the judgment of the Department the request is warranted by extenuating
+circumstances beyond the control of the city or other factors that justify the
+city’s noncompliance with the required deadlines. The Department for Local
+Government may consider any evidence it deems appropriate, including but not
+limited to proof of the city’s progress towards compliance. Extensions granted
+under this division shall not exceed nine (9) months from the original due date
+of the audit or financial statement. If the Department approves an extension
+for the city and the city fails to complete and submit the required audit or
+financial statement in compliance with that extended deadline, then the
+provisions of division (J) of this section shall apply.
    (J)   If a city fails to complete an audit or financial statement and submit
 it to the Department as required in divisions (A), (B), or (I) of this section,
 the Department shall notify the Finance and Administration Cabinet that the
@@ -1673,7 +1643,11 @@ shall immediately notify the Cabinet when the city complies with the
 requirements of divisions (A), (B), and (I) of this section for all prior
 fiscal years it has failed to comply with the audit requirements of this
 section, and the Cabinet shall direct the reinstatement of payments to the
-city, including any funds that were withheld due to the noncompliance.
+city, including any funds that were withheld due to the noncompliance. This
+division shall not be intrepreted or construed to permit the state to withhold
+any nondiscretionary payments to a city that are due to city for the provision
+of services by the city to the state or any of its agencies, including for the
+use of city utilities.
    (K)   Within a reasonable time after the completion of a special audit or
 examination conducted pursuant to KRS 43.050, the Auditor shall bill the city
 for the actual expense of the audit or examination conducted. The actual
@@ -1681,6 +1655,8 @@ expense shall include the hours of work performed on the audit or examination,
 as well as reasonable associated costs, including, but not limited to, travel
 costs. The bill submitted to the city shall include a statement of the hourly
 rate, total hours, and total costs for the entire audit or examination.
+   (L)   A city shall provide a copy of any audit report completed pursuant to
+KRS 91A.040 to the Auditor of Public Accounts upon request.
 (KRS 91A.040)
 Statutory reference:
    Department for Local Government to provide assistance, see KRS 91A.050
@@ -2060,126 +2036,6 @@ Treasurer may take a reasonable period of time to adjust the existing portfolio
 to the provisions of this policy in order to avoid the premature liquidation of
 any current investment.
 (Ord. 12-94-1, passed 12-19-94)
-**** PURCHASING AND PROCUREMENT ****
-§ 33.45 ADOPTION OF KENTUCKY MODEL PROCUREMENT CODE.
-   The provisions of KRS 45A.345 to 45A.460, and all future amendments thereto,
-are hereby adopted for the City of Flemingsburg.
-(Ord. 10-09-1, passed 10-12-09)
-§ 33.46 AUTHORIZATION OF CONTRACTS.
-   (A)   Every contract, change or amendment thereto, shall be authorized or
-approved by the legislative body before the chief executive officer executes
-it.
-   (B)   Every contract of the city, except small purchases, shall be approved
-by the City Council as to form and legality.
-   (C)   The Mayor is responsible for administration of the procurement
-function.
-      (1)   The Mayor may delegate to a purchasing officer and/or to department
-heads such authority as may be appropriate.
-      (2)   Any delegation of purchasing authority shall be in writing.
-      (3)   No delegation shall be made to the purchasing officer of the city,
-or a department head of the city, to award any contract in excess of $300.00.
-This limit shall apply to all purchases of a non-recurring nature.
-   (D)   No contract shall be awarded for an amount, which exceeds the sum
-authorized by the budget for the procurement.
-(Ord. 10-09-1, passed 10-12-09) Penalty, see §
-33.99
-§ 33.47 SELECTION OF VENDORS AND CONTRACTORS.
-   (A)   Procedures for sealed bidding.
-      (1)   The agency, department or person requiring supplies, services or
-construction shall submit to the Mayor a request containing specifications and
-quantities desired.
-      (2)   The Mayor shall place an advertisement in the newspaper of largest
-paid circulation in the county at least once not less than seven nor more than
-21 days before bid opening. The advertisement shall include:
-         (a)   The time and place the bids will be opened;
-         (b)   The time and place where specifications may be obtained; and
-         (c)   The basis for bid award (either the lowest bid price, or the
-lowest evaluated bid price).
-      (3)   The Mayor shall open all bids publicly at the time and place stated
-in the advertisement, and shall select:
-         (a)   The lowest bid price; or
-         (b)   The lowest evaluated bid price, based on the criteria set forth
-in the invitation for bids.
-      (4)   The Mayor shall submit the bid selected to the legislative body for
-approval and thereafter shall notify all bidders of the award.
-      (5)   The Mayor shall sign contract, if one is used, or the contract may
-become effective as otherwise provided in the Kentucky Revised Statutes.
-      (6)   When items are delivered, the invoice shall be placed in a file by
-vendor name.
-      (7)   The Mayor or his or her designee officer shall enter the amount of
-the expenditure in the disbursement ledger.
-   (B)   Procedures for determination of qualifications of bidders. The
-contractors who have demonstrated by past performance the ability to perform in
-a satisfactory manner in accordance with other awarded contracts on a timely
-basis, and have shown a sound financial structure, shall be qualified as
-responsible.
-   (C)   Procedure prerequisite to use of negotiated process.
-      (1)   The non-competitive negotiated process may be used instead of
-advertisement when the amount exceeds $20,000.00, in the following
-circumstances:
-         (a)   An emergency exists;
-         (b)   The contract is for professional services;
-         (c)   All bids received exceed the amount-budgeted;
-         (d)   All bids received are unresponsive;
-         (e)   No bids are received at all;
-         (f)   There exists only a single provider of the product or service;
-or
-         (g)   Purchase involves perishable items.
-      (2)   Before an emergency is declared the Mayor shall determine whether
-or not the delay in obtaining bids will result in danger to health, safety or
-property, and submit such determination to the Chief Financial Officer.
-      (3)   The Mayor shall certify the existence of an emergency and file a
-copy of such certificate with the Chief Financial Officer of the city.
-      (4)   A professional service is one performed by a licensed professional
-and an activity for which the license is required provided, however, that this
-provision shall not apply to architects or engineers providing construction
-management rather than professional architect or engineer services.
-      (5)   In the event all bids submitted are in excess of funds available,
-the Mayor shall prepare a written determination that:
-         (a)   There are no additional funds available so as to permit an award
-to the responsible bidder with lowest bid or the lowest evaluated bid; and
-         (b)   Delay in advertising for additional bids is not in the best
-interest of the city.
-   (D)   Procedures for negotiated process.
-      (1)   When the prerequisites have been met for use of the negotiated
-process, the Mayor shall proceed to negotiate with one or more suppliers in
-order to obtain the most advantageous terms for the city.
-      (2)   The Mayor shall prepare a record of all negotiated contracts
-showing the items and quantities acquired, name the suppliers, cost and date of
-contract.
-      (3)   Professional services shall be negotiated with such person or firm
-as are properly licensed to perform such services and shall be limited to those
-services to which the license applies.
-      (4)   Where more than one bid was received and all were in excess of the
-amount available, the lowest three bidders (or lowest two bidders if only two
-bids were received) shall be notified that the city desires to negotiate a
-contract for a lesser amount. A request for proposals, based on revised
-quantities or specifications, may be issued with a time limit set for
-submission of new proposals.
-      (5)   The Mayor shall examine the proposal received and shall negotiate
-with the suppliers for the terms most advantageous to the city.
-      (6)   The best negotiated proposal shall be submitted to the legislative
-body for approval and award.
-      (7)   The Mayor shall notify all persons submitting a proposal that the
-award had been made.
-   (E)   Small purchase procedures.
-      (1)   The Mayor or his or her designee and each official or department
-head shall determine:
-         (a)   The need for any item requested;
-         (b)   Whether or not the contract is for less than $20,000.00; and
-         (c)   The expenditure is provided for in the current budget.
-      (2)   The Mayor or his or her designee shall enter the actual amount of
-the expenditure in the ledger.
-(Ord. 10-09-1, passed 10-12-09) Penalty, see §
-33.99
-§ 33.99 PENALTY.
-   The penalty for violation of §§
-33.45 through
-33.47 by any city official, officer or employee shall be a fine not to exceed
-$500.00 and/or confinement in the county jail not to exceed 12 months or both,
-and conviction thereunder shall be good cause for removal from office in
-accordance with KRS 83A.040.
-(Ord. 10-09-1, passed 10-12-09)
 CHAPTER 34: PUBLIC RECORDS
 Section
 General
@@ -2512,14 +2368,14 @@ examination before the exam is given or if it is to be given again.
       (8)   Records of law enforcement agencies or agencies involved in
 administrative adjudication that were compiled in the process of detecting and
 investigating statutory or regulatory violations, if the disclosure of the
-information would harm the agency by revealing the identity of informants not
-otherwise known or by premature release of information to be used in a
-prospective law enforcement action or administrative adjudication. Unless
-exempted by other provisions of this chapter, public records exempted under
-this provision shall be open after enforcement action is completed or a
-decision is made to take no action. The exemptions provided by this subdivision
-shall not be used by the custodian of the records to delay or impede the
-exercise of rights granted by this chapter.
+information could pose an articulable risk of harm to the agency or its
+investigation by revealing the identity of informants not otherwise known or by
+premature release of information to be used in a prospective law enforcement
+action or administrative adjudication. Unless exempted by other provisions of
+this chapter, public records exempted under this provision shall be open after
+enforcement action is completed or a decision is made to take no action. The
+exemptions provided by this subdivision shall not be used by the custodian of
+the records to delay or impede the exercise of rights granted by this chapter.
       (9)   Preliminary drafts, notes, or correspondence with private
 individuals, other than correspondence which is intended to give notice of
 final action of a public agency.
@@ -2671,7 +2527,7 @@ each "public agency" is defined in this section.
    "VIDEO TELECONFERENCE." One (1) meeting, occurring in two (2) or more
 locations, where individuals can see and hear each other by means of video and
 audio equipment.
-(KRS 61.805(5))
+(KRS 61.805(6))
 **** PUBLIC MEETING REQUIREMENTS ****
 § 34A.05 MEETINGS OPEN TO THE PUBLIC.
    (A)   All meetings of a quorum of the members of any public agency at which
@@ -8524,6 +8380,8 @@ Chapter
 74.   PARKING SCHEDULES
    
 75.   GOLF CARTS
+   
+76.   STREET-LEGAL SPECIAL PURPOSE VEHICLES
 CHAPTER 70: GENERAL PROVISIONS
 Section
    
@@ -9943,6 +9801,30 @@ court costs. Any person convicted of a subsequent violation of this chapter
 within two (2) years of a prior conviction under this chapter, shall be fined
 not less than fifty dollars ($50.00) plus court costs.
 (Ord. 9-19-1, passed 9-9-19)
+CHAPTER 76: STREET-LEGAL SPECIAL PURPOSE VEHICLES
+Section
+   
+76.01   Definitions
+   
+76.02   Authorized use
+§ 76.01 DEFINITIONS.
+   Definitions as used in this chapter shall have the following meaning:
+   "CABINET." The Kentucky Department of Transportation.
+   "HIGHWAY." The same meaning as defined in KRS 186.010(2).
+   "PROHIBITED EQUIPMENT." Any equipment installed on a "street-legal special
+purpose vehicle" that is prohibited by state law or city ordinance.
+   "STREET-LEGAL SPECIAL PURPOSE VEHICLE." The same meaning as defined in
+Senate Bill 63 as codified in KRS Chapter 186.
+(Ord. 8-25-1, passed 8-11-25)
+§ 76.02 AUTHORIZED USE.
+   (A)   Effective June 27, 2025, "street-legal special purpose vehicles" as
+defined by Senate Bill 63 and codified in KRS Chapter 186 shall be authorized
+to operate on the highways within the city, except between the hours of 11:00
+p.m. to 5:00 a.m.
+   (B)   Operation of "street-legal special purpose vehicles" as defined by
+Senate Bill 63 and codified in KRS Chapter 186 shall be subject to state law
+requirements and restrictions.
+(Ord. 8-25-1, passed 8-11-25)
 TITLE IX: GENERAL REGULATIONS
 Chapter
    
@@ -16043,9 +15925,6 @@ MANSLAUGHTER
 MENACING   508.050   B misdemeanor
 MURDER   507.020   Capital offense
 RECKLESS HOMICIDE   507.050   D felony
-STALKING
-   First degree   508.140   D felony
-   Second degree   508.150   A misdemeanor
 TERRORISTIC THREATENING   508.080   A misdemeanor
 UNLAWFUL IMPRISONMENT
    First degree   509.020   D felony
@@ -18992,6 +18871,10 @@ No.
 09-15-  9-14-15 Creating an exclusive electric franchise for the use of the city’s public
 02              right-of-way.
 8-23-1  8-14-23 Awarding a franchise for the collection of solid waste.
+1-25-1  1-13-25 Awarding a franchise to Spectrum Mid-America, LLC for a term of ten years
+                for a cable television system.
+11-25-1 11-10-  Creating a franchise for the operation and maintenance of a
+        25      telecommunications system.
                
  
 TABLE VIII. REPEALED ORDINANCES
@@ -19015,6 +18898,7 @@ Ord. No. Date     Description
 5-99-1   - -      Repealed by Ord. 6-03-1, passed 6-9-03
 3-01-1   3-14-01  Repealed by Ord. 11-07-1, passed 11-12-07
 6-01-2   6-11-01  Repealed by Ord. 6-03-1, passed 6-9-03
+10-09-1  10-12-09 Repealed by Ord. 5-25-1, passed 5-12-25
 12-03-1  12-15-03 Repealed by Ord. 12-07-1, passed 12-10-07
 7-05-1   7-14-05  Repealed by Ord. 12-07-1, passed 12-10-07
 3-07-1   3-12-07  Repealed by Ord. 11-07-1, passed 11-12-07
@@ -19129,7 +19013,8 @@ Section 228, Ky. Const. 31.37(D),
 Section 246, Ky. Const. 31.02(A)
 6.050                   32.48
 6.955 - 6.975           33.04(D), (F)
-Ch. 13A                 93.02
+Ch. 13A                 33.04,
+                        93.02
 Ch. 13B                 115.036 ,
                         115.054
 16.220                  72.22
@@ -19139,7 +19024,6 @@ Ch. 31                  34.12
 43.050                  33.04
 Ch. 45A                 34.12,
                         34A.05
-45A.345 - 45A.460       33.45
 Ch. 56                  34.12,
                         34A.05
 Ch. 61                  32.21
@@ -19195,7 +19079,6 @@ Ch.83A                  31.20(A)
 83A.010(8)              10.02
 83A.010(11)             10.02
 83A.030(1)              30.02(B)
-83A.040                 33.99
 83A.040(1),(2)          31.21
 83A.040(2)(c)           31.21(C)(1)
 83A.040(3),(4)          32.01
@@ -19254,6 +19137,7 @@ Ch.83A                  31.20(A)
                         33.035
 91A.030(7)              33.035
 91A.040                 33.04
+91A.044(3) to (9)       33.04
 91A.050                 33.04
 91A.060                 33.05
 91A.200                 33.11(A)
@@ -19295,6 +19179,9 @@ Ch. 154A                115.053
 174.100(4)              91.19
 174.100(5)              91.20
 177.043                 91.07
+Chapter 186             76.01,
+                        76.02
+186.010(2)              76.01
 186.020                 72.22,
                         75.05
 186.050                 75.05
@@ -19423,7 +19310,6 @@ Ch. 424                 33.04,
 424.120                 33.04
 424.170                 115.045
 424.220                 33.04
-424.220 (6) (b)         33.04
 446.010(1)              10.02
 446.010(2)              10.02
 446.010(9)              10.02
@@ -19483,8 +19369,6 @@ Ch. 508                 114.04
 508.100                 Ch. 130
 508.110                 Ch. 130
 508.120                 Ch. 130
-508.140                 Ch. 130
-508.150                 Ch. 130
 509.020                 Ch. 130
 509.030                 Ch. 130
 509.040                 Ch. 130
@@ -20042,9 +19926,7 @@ Ord. No.  Date Passed Description                                   Code
 6-09-1    6-8-09      Annexing certain property                     T.S.O. II
 8-09-1    8-10-09     Zoning map change                             Not
                                                                     Included
-                                                                    33.45 -
-10-09-1   10-12-09    Purchasing and procurement regulations        33.47,
-                                                                    33.99
+10-09-1   10-12-09    Purchasing and procurement regulations        Repealed
 11-09-1   11-9-09     Adoption of state building code               150.01 -
                                                                     150.05
 3-10-1    3-8-10      Community Television Access Board             35.01,
@@ -20241,5 +20123,12 @@ Ord. No.  Date Passed Description                                   Code
                       Adopting regulations for medical cannabis     118.01 -
 7-24-1    7-8-24      business operations                           118.09,
                                                                     118.99
+7-24-1    7-14-25     Amending the pay scale and adopting an        31.02
+                      automatic adjustment rate
+1-25-1    1-13-25     Awarding cable television franchise           T.S.O VII
+5-25-1    5-12-25     Repeals procurement procedures                T.S.O. VIII
+8-25-1    8-11-25     Adding regulations for street-legal special   76.01,
+                      purpose vehicles                              76.02
+11-25-1   11-10-25    Creating telecommunications system franchise  T.S.O. VII
                                                                   
  
