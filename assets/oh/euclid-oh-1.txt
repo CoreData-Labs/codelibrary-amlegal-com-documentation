@@ -62,9 +62,8 @@ No.
                1323.02,
                1323.99,
                1341.01,
-               1343.01,
-2812  11-13-22 1351.01, 1353.01 (Repealed), 1355.01 (Repealed),
-               1371.01(a),
+               1343.01, 1351.01 (Repealed), 1353.01 (Repealed), 1355.01 (Repealed),
+2812  11-13-22 1371.01(a),
                1371.02,
                1379.01,
                1379.02, 1381.01 (Repealed), 1381.02 (Repealed),
@@ -218,9 +217,8 @@ No.
                907.06
 301-  12-17-56 351.14
 1956
-28-            1341.02,
-1957  1-28-57  1351.02, 1353.02 (Repealed),
-               1373.01
+28-   1-28-57  1341.02, 1351.02 (Repealed), 1353.02 (Repealed),
+1957           1373.01
 87-   3-18-57  907.03
 1957
                345.01 to
@@ -284,8 +282,8 @@ No.
                1113.06(a),
                1125.04,
                1129.04,
-178-           1301.03(a),
-1959  9-14-59  1301.05,
+178-  9-14-59  1301.03(a),
+1959           1301.05,
                1301.06,
                1301.07(c) to
                1301.09,
@@ -295,8 +293,7 @@ No.
                1311.09 to
                1311.13, 1321.11 (Repealed), 1321.12 (Repealed), 1321.16(b) (Repealed),
                1321.20 (Repealed), 1321.22, 1321.23 (Repealed), 1321.26 (Repealed),
-               1343.02,
-               1351.02,
+               1343.02, 1351.02 (Repealed),
                1371.01(b),
                1377.02,
                1377.05,
@@ -313,7 +310,7 @@ No.
                1703.16 to
                1703.64,
                1703.68,
-               1739.10,
+               1739.10
 201-  11-16-59 771.01
 1959
 2-    1-4-60   1375.01(a)(1), (2),
@@ -427,7 +424,7 @@ No.
 1968
 28-   2-17-69  1379.03
 1969
-29-   2-17-69  1341.01, 1356.01 (Repealed)
+29-   2-17-69  1341.01, 1356.01
 1969
 30-   2-17-69  1389.08 (Repealed)
 1969
@@ -537,7 +534,7 @@ No.
 1972
 97-   5-1-72   1355.02 (Repealed)
 1972
-98-   5-1-72   1356.02 (Repealed)
+98-   5-1-72   1356.02
 1972
 99-   5-1-72   1341.01
 1972
@@ -3093,11 +3090,9 @@ Repeals
 160-  7-14-08  941.05
 2008
                1341.01,
-               1341.02,
-               1351.01 to
-174-           1351.03, 1353.01 to 1353.03 (Repealed), 1355.01 to 1355.03 (Repealed),
-2008  9-2-08   1356.01 to 1356.03 (Repealed),
-               1364.01 to
+               1341.02, 1351.01 to 1351.03 (Repealed), 1353.01 to 1353.03 (Repealed),
+174-           1355.01 to 1355.03 (Repealed), 1356.01 to 1356.03,
+2008  9-2-08   1364.01 to
                1364.09,
                1368.01 to
                1368.15 Repeals Ch. 1359
@@ -3592,7 +3587,7 @@ Repeals
                1385.05,
                1389.14,
                1390.06,
-               1590.10, Repeals Ch. 1356
+               1590.10
 17-   2-20-24  351.99
 2024
 22-            1359.03,
@@ -58102,7 +58097,7 @@ Chap. 1341.   Districts and Zone Map.
 Chap. 1343.   Amendments.
    TITLE NINE - Zoning Use Districts
          
-Chap. 1351.   U1 Single-Family House Districts.
+Chap. 1351.   U1 Single-Family House Districts.(Repealed)
          
 Chap. 1352. U1 and U2 Residential Districts.
          
@@ -58112,7 +58107,7 @@ Chap. 1354. U3 Multiple Family Residential District.
          
 Chap. 1355.   U3 Apartment House Districts. (Repealed)
          
-Chap. 1356.   U3E Elevator Apartment House Districts. (Repealed)
+Chap. 1356.   U3E Elevator Apartment House Districts.
          
 Chap. 1357.   U3EL Senior Citizens Use Districts.
          
@@ -59988,7 +59983,7 @@ petitioner at any time during such one-year period.
 (Ord. 178-1959. Passed 9-14-59.)
 ***** TITLE NINE - Zoning Use Districts *****
          
-Chap. 1351.   U1 Single-Family House Districts.
+Chap. 1351.   U1 Single-Family House Districts. (Repealed)
          
 Chap. 1352. U1 and U2 Residential Districts.
          
@@ -59998,7 +59993,7 @@ Chap. 1354. U3 Multiple Family Residential District.
          
 Chap. 1355.   U3 Apartment House Districts. (Repealed)
          
-Chap. 1356.   U3E Elevator Apartment House Districts. (Repealed)
+Chap. 1356.   U3E Elevator Apartment House Districts.
          
 Chap. 1357.   U3EL Senior Citizens Use Districts.
          
@@ -60020,85 +60015,8 @@ Chap. 1365.   Overlay Districts.
          
 Chap. 1368.   Conditional Use Approval Procedures and Regulations.
 CHAPTER 1351
-U1 Single-Family House Districts
-1351.01   Compliance required.
-1351.02   Permitted uses.
-1351.03   Conditional uses.
-   CROSS REFERENCES
-   Parking commercial vehicles in Residence Districts - see TRAF.
-351.13
-   Single-family dwelling defined - see P. & Z.
-1321.16
-   Accessory uses in Residence Districts - see P. & Z.
-Ch. 1377
-   Private garages; vehicle storage; permit - see P. & Z.
-1377.02
-   Supplemental height regulations - see P. & Z.
-Ch. 1379
-   Rear and side yards - see P. & Z.
-Ch. 1383
-   Porch; corner lot fence, shrubbery - see P. & Z.
-1385.03
-   Determining building line - see P. & Z.
-1385.04
-   Off-street parking - see P. & Z.
-Ch. 1389
-1351.01 COMPLIANCE REQUIRED.
-   In a Class U1 District no building or premises shall be used, and no
-building shall be erected which is arranged, intended or designed to be used,
-except for a Class U1 use.
-(Ord. 2812. Passed 11-13-22; Ord. 174-2008. Passed 9-2-08.)
-1351.02 PERMITTED USES.
-   The permitted uses in a Class U1 Single-Family House District shall be as
-follows:
-   (a)   A public park, not including an amusement park;
-   (b)   A single-family dwelling;
-   (c)   The raising of crops or nurseries, but not including any commercial
-greenhouses;
-   (d)   Group housing units limited to adult family homes and residential
-facility family homes. For the purposes of these regulations, the above terms
-are defined as follows:
-      (1)   “Adult family home.” A facility that is licensed by the Ohio
-Department of Health to provide accommodations for not more than five adults
-and to provide personal care services to these resident adults (typically
-elderly). Such services may include assistance in daily living activities and
-self-administration of medicine, and preparation of special diets. Such
-facility shall present evidence that it meets the certification, licensing, and
-approval requirements of the appropriate State agency.
-      (2)   “Residential facility family home.” A facility licensed by the Ohio
-Department of Mental Health to provide accommodations to not more than eight
-mentally retarded or developmentally disabled persons and to provide personal
-care, supervision, habilitation services and mental health services in a family
-setting.
-         A.   Prior to a handicapped person commencing residence in a
-residential facility family home, either the applicant or the placement agency
-shall certify that the resident is handicapped as defined in 42 U.S.C. § 3602
-(h) of the Federal regulations.
-         B.   Such facility shall present evidence that it meets the
-certification, licensing, and approval requirements of the appropriate State
-agency.
-   (e)   Family Day Care Home, Type B, Accessory to an Occupied Dwelling Unit.
-According to Ohio R.C. 5104.054, any type “B” family day-care home, whether
-certified or not certified by the County Director of Human Services, shall be
-considered to be a residential use of property for purposes of zoning and shall
-be a permitted use in all zoning districts in which residential uses are
-permitted. A type “B” family day-care home is a permanent residence of the
-provider where child care is provided for one to six children and where no more
-than three children are under two years of age. For the purpose of this
-definition, any children under six years of age who are related to the provider
-and who are on the premises of the day-care home shall be counted.
-(Ord. 28-1957. Passed 1-28-57; Ord. 178-1959. Passed 9-14-59; Ord. 174-2008.
-Passed 9-2-08.)
-1351.03 CONDITIONAL USES.
-   Conditional uses that may be permitted in a Class U1 Single-Family House
-District are listed below and are regulated in
-Chapter 1368.
-   (a)   Public and private elementary, secondary and high schools;
-   (b)   Public library;
-   (c)   Churches/religious assembly;
-   (d)   Day care center located in an approved religious assembly or school
-facility.
-(Ord. 174-2008. Passed 9-2-08.)
+U1 Single-Family House Districts (Repealed)
+ 
 CHAPTER 1352
 U1 and U2 Residential Districts
 1352.01   Residential districts.
@@ -60771,21 +60689,21 @@ its offsets, shall not exceed 160 feet in length.
 "Illustrations of Yard Regulations," indicate the regulations and planning
 criteria as set forth in this section and they are hereby made a part of this
 Zoning Code.
-[https://export.amlegal.com/media/f052ef41c58d396c3613142df31ee54ee7cf2942/
+[https://export.amlegal.com/media/e4a25ddab27653428ee19929b505371446a0812e/
 IMAGES/0-0-0-6170.png]
  
-[https://export.amlegal.com/media/f052ef41c58d396c3613142df31ee54ee7cf2942/
+[https://export.amlegal.com/media/e4a25ddab27653428ee19929b505371446a0812e/
 IMAGES/0-0-0-6133.gif]
-[https://export.amlegal.com/media/f052ef41c58d396c3613142df31ee54ee7cf2942/
+[https://export.amlegal.com/media/e4a25ddab27653428ee19929b505371446a0812e/
 IMAGES/0-0-0-6135.gif]
  
-[https://export.amlegal.com/media/f052ef41c58d396c3613142df31ee54ee7cf2942/
+[https://export.amlegal.com/media/e4a25ddab27653428ee19929b505371446a0812e/
 IMAGES/0-0-0-6172.png]
  
-[https://export.amlegal.com/media/f052ef41c58d396c3613142df31ee54ee7cf2942/
+[https://export.amlegal.com/media/e4a25ddab27653428ee19929b505371446a0812e/
 IMAGES/0-0-0-6174.png]
  
-[https://export.amlegal.com/media/f052ef41c58d396c3613142df31ee54ee7cf2942/
+[https://export.amlegal.com/media/e4a25ddab27653428ee19929b505371446a0812e/
 IMAGES/0-0-0-6138.gif]
  
 (Ord. 120-2024. Passed 10-7-24.)
@@ -60836,9 +60754,58 @@ U3 Apartment House Districts(Repealed)
    EDITOR’S NOTE: Chapter 1355 was repealed by Ordinance 120-2024, passed
 October 7, 2024.
 CHAPTER 1356
-U3E Elevator Apartment House Districts (Repealed)
-   EDITOR’S NOTE: Chapter 1356 was repealed by Ordinance 15-2024, passed
-February 20, 2024.
+U3E Elevator Apartment House Districts
+1356.01   Compliance required.
+1356.02   Permitted uses.
+1356.03   Conditionally permitted uses.
+   CROSS REFERENCES
+   Parking commercial vehicles in Residence Districts - see TRAF.
+351.13
+   Emergency use of elevators in high-rise apartments - see GEN. OFF.
+559.07
+   Locked doors in apartment buildings - see GEN. OFF.
+559.08
+   Apartment; apartment house defined - see P. & Z.
+1321.14,
+1321.15
+   U3 Apartment House District - see P. & Z.
+Ch. 1355
+   Accessory uses in Residence Districts - see P. & Z.
+Ch. 1377
+   Height regulations - see P. & Z.
+1379.03
+   Area regulations - see P. & Z.
+1381.05
+   Rear and side yard regulations - see P. & Z.
+1383.03,
+1383.04
+   Front yard requirements - see P. & Z.
+1385.05
+   Parking space required - see P. & Z.
+1389.02
+1356.01 COMPLIANCE REQUIRED.
+   In a Class U3E District no building or premises shall be used, and no
+building shall be erected which is arranged, intended or designed to be used,
+except for a Class U1, U2, U3 or U3E use.
+(Ord. 29-1969. Passed 2-17-69; Ord. 174-2008. Passed 9-2-08.)
+1356.02 PERMITTED USES.
+   The permitted uses in a Class U3E Elevator Apartment House District shall be
+as follows:
+   (a)   Uses permitted in a Class U1 District Section
+1351.02 and a U2 District Section
+1353.02;
+   (b)   An elevator apartment house;
+   (c)   An apartment house;
+   (d)   A community center building accessory to an apartment house or complex
+and serving only the residents of the apartment house or complex.
+(Ord. 98-1972. Passed 5-1-72; Ord. 174-2008. Passed 9-2-08.)
+1356.03 CONDITIONALLY PERMITTED USES.
+   Conditional uses that may be permitted in a Class U3E Elevator Apartment
+House District are listed below and are regulated in
+Chapter 1368.
+   (a)   Conditional uses permitted in Class U3 Districts, Section
+1355.03.
+(Ord. 174-2008. Passed 9-2-08.)
 CHAPTER 1357
 U3EL Senior Citizens Use Districts
 1357.01   Compliance required.
@@ -66277,7 +66244,7 @@ right-of-way, easement of access, or pavement edge of an access drive. It shall
 be calculated as a right triangle with sides (other than the hypotenuse) of at
 least ten (10) feet in length (See Figure 1).
    Figure 1
-[https://export.amlegal.com/media/f052ef41c58d396c3613142df31ee54ee7cf2942/
+[https://export.amlegal.com/media/e4a25ddab27653428ee19929b505371446a0812e/
 IMAGES/0-0-0-6186.gif]
  
    (c)   "Decorative fence" means a semi-permanent or temporary fence erected
@@ -67091,7 +67058,7 @@ movement along the driveways providing access thereto shall be indicated by
 painting upon the surface, by raised directional signs, or by markers or other
 similar measures placed on the surface.
    (e)   Figure 1389.09(e) Illustration of Parking Design Standards:
-[https://export.amlegal.com/media/f052ef41c58d396c3613142df31ee54ee7cf2942/
+[https://export.amlegal.com/media/e4a25ddab27653428ee19929b505371446a0812e/
 IMAGES/0-0-0-5887.jpg]
  
 (Ord. 62-2014. Passed 6-2-14; Ord. 24-2018. Passed 2-20-18.)
@@ -67158,7 +67125,7 @@ full cut-off type fixtures, except for decorative light fixtures (See Figure 1)
 and shall be shaded or diffused so as to reflect the light away from the
 adjoining property and away from abutting traffic.
 Figure 1
-[https://export.amlegal.com/media/f052ef41c58d396c3613142df31ee54ee7cf2942/
+[https://export.amlegal.com/media/e4a25ddab27653428ee19929b505371446a0812e/
 IMAGES/0-0-0-5889.jpg]
  
    (c)   Location and Buffer Requirements.
@@ -67190,7 +67157,7 @@ access to the parking space;
 the attached garage;
             4.   Shall not extend closer to the public right-of-way than five
 feet unless approved by the Director of Public Service.
-[https://export.amlegal.com/media/f052ef41c58d396c3613142df31ee54ee7cf2942/
+[https://export.amlegal.com/media/e4a25ddab27653428ee19929b505371446a0812e/
 IMAGES/0-0-0-5893.jpg]
  
       (3 )    Parking spaces for conditional uses in a U1, U2 or multi-family

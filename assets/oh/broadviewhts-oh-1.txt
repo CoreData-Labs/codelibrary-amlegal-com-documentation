@@ -1,7 +1,7 @@
 BROADVIEW HEIGHTS, OHIO
 CODE OF ORDINANCES
-2026 S-8 Supplement contains:
-Local legislation current through 12-1-2025
+2026 S-9 Supplement contains:
+Local legislation current through 6-22-2026
 State legislation current through 6-5-2025
 Published by:
 American Legal Publishing
@@ -1468,7 +1468,7 @@ CHAP. 289.    RECORDS COMMISSION
 TITLE TWELVE - JUDICIAL
    
 CHAP. 290.   MAYOR’S COURT
-TITLE TWO: GENERAL PROVISIONS
+***** TITLE TWO: GENERAL PROVISIONS *****
    
 CHAP. 202.   CODIFIED ORDINANCES
    
@@ -2756,7 +2756,7 @@ provide any type of in kind donation. Providing such information to the city is
 a prerequisite for consideration and there is no requirement the city must
 provide in kind donations upon the provision of said documentation.
 (Ord. 14-09, passed 1-20-2009)
-TITLE FOUR: LEGISLATION
+***** TITLE FOUR: LEGISLATION *****
    
 CHAP. 220. COUNCIL
    
@@ -3110,7 +3110,7 @@ while in office. Councilpersons, after leaving office, shall no longer be
 entitled to any supplements or amendments to the codified ordinances which are
 in their possession.
 (Ord. 9-80, passed 2-4-1980)
-TITLE SIX: ADMINISTRATION
+***** TITLE SIX: ADMINISTRATION *****
    
 CHAP. 230. ADMINISTRATION GENERALLY
    
@@ -4712,24 +4712,31 @@ the pay range ordinances enacted by the city.
 § 256.20 RECREATION CENTER MEMBERSHIP RATES.
    (A)   Resident Membership.
  
-                                        Yearly Monthly
-Youth up to 18 years                    $105   $17
-College student 18–23 years           $105   $17
-Senior (60 years+) and veteran          $95    $15
-Adult 19–59 years                     $210   $27
-2 adults or single parent with children $335   $45
-Family                                  $355   $47
+                                     Annual Monthly
+Individual (18+)                     $240   $26
+Additional Family Member (0 - 12.99) $40    $5
+Additional Family Member (13+)       $65    $7
+Youth (13+)                          $120   $13
+Senior (60+)                         $120   $13
+Veteran (DD214)                      $120   $13
  
    (B)   Nonresident Membership.
  
-                                        Yearly Monthly
-Youth up to 18 years                    $220   $27
-College student 18–23 years           $220   $27
-Senior (60 years+) and veteran          $200   $25
-Adult 19–59 years                     $370   $48
-2 adults or single parent with children $608   $69
-Family                                  $640   $72
+                                     Annual Monthly
+Individual (18+)                     $450   $49
+Additional Family Member (0 - 12.99) $60    $7
+Additional Family Member (13+)       $85    $9
+Youth (13+)                          $240   $26
+Senior (60+)                         $240   $26
+Veteran (DD214)                      $240   $26
  
+Memberships may be paid in full (non-refundable and non-transferable) or you
+may choose to be billed in monthly installments. Monthly installment payments
+will be charged the same day each month (day the membership was purchased),
+unless cancelled. Initial monthly installment is due at time of registration.
+Members must fill-out and submit a refund request form five days prior to the
+monthly installment date. Additional family members can only be added to a
+household with an individual membership.
    (C)   Corporate Membership.*
  
                                         Yearly Monthly
@@ -4747,11 +4754,8 @@ each renewal. Corporate members will receive all member benefits with an active
 membership.
    (D)   Drop-In Fees.
  
-                      Resident Nonresident
-Toddler (2 and under) Free     Free
-Youth (3–18)        $7       $9
-Adult (19–59)       $8       $10
-Senior (60 and over)  $6       $8
+Resident    $10
+Nonresident $20
  
    (E)   Adjustments.
       (1)   The Recreation Director has the ability to adjust fees for
@@ -4763,7 +4767,8 @@ annual membership.
 (Ord. 171-02, passed 10-21-2002; Ord. 130-04, passed 10-18-2004; Ord. 75-05,
 passed 6-20-2005; Ord. 13-06, passed 2-6-2006; Ord. 19-06, passed 2-13-2006;
 Ord. 35-07, passed 3-5-2007; Ord. 43-14, passed 10-6-2014; Ord. 13-15, passed
-5-4-2015; Ord. 21-16, passed 2-22-2016; Ord. 20-2018, passed 5-21-2018)
+5-4-2015; Ord. 21-16, passed 2-22-2016; Ord. 20-2018, passed 5-21-2018; Ord.
+19-2022, passed 6-20-2022)
 § 256.21 CITY RECREATION CENTER MEMBERSHIP FOR EMPLOYEES.
    (A)   All employees of the city shall be permitted to obtain a family or
 individual membership for the City Community Center, continuing through the
@@ -4939,7 +4944,7 @@ agreement with the Community Improvement Corporation of the city in
 substantially the form and containing the provisions set forth in original
 Ordinance 48-81, passed October 5, 1981, as approved by the Director of Law.
 (Ord. 48-81, passed 10-5-1981)
-TITLE EIGHT: EMPLOYMENT PROVISIONS
+***** TITLE EIGHT: EMPLOYMENT PROVISIONS *****
    
 CHAP. 264   EMPLOYEES GENERALLY
    
@@ -5519,7 +5524,7 @@ codified in this chapter; and
 effective date of the ordinance codified in this chapter which renewal or
 amendment alone meets the financial thresholding requirement of this chapter.
 (Ord. 33-16, passed 6-6-2016)
-TITLE TEN: BOARDS, COMMISSIONS AND COMMITTEES
+***** TITLE TEN: BOARDS, COMMISSIONS AND COMMITTEES *****
    
 CHAP. 270.   PLANNING COMMISSION
    
@@ -5643,7 +5648,7 @@ herein in full at the request of the city.
    William W. Baker, Chairperson
    Clayton P. Tober, Member
    George J. Balasko, Member
-PREAMBLE
+* PREAMBLE *
    The following set of rules and regulations is hereby adopted in accordance
 with the authority conferred upon the Civil Service Commission of the city, by
 the Constitution of the State of Ohio and the Ohio Revised Code, including but
@@ -5651,7 +5656,7 @@ not limited to R.C. Chapter 124 pertaining to Municipal Civil Service
 Commissions. Where rules and regulations of the Civil Service Commission do not
 address a specific matter, the Commission shall follow the Ohio Revised Code if
 germane to an issue under consideration.
-SECTION I - ADMINISTRATION
+* SECTION I - ADMINISTRATION *
 1.1 Civil Service Commission.
    It shall be the duty of each member of the Commission to attend all meetings
 of the Commission and to devote as much time as is necessary to the management
@@ -5725,7 +5730,7 @@ this provision.
 1.7 Jurisdiction.
    The Civil Service Commission of the city does not include local school or
 health districts in their function.
-SECTION II - DEFINITION OF TERMS
+* SECTION II - DEFINITION OF TERMS *
    The several terms herein specified whenever used in the rules and
 regulations of the Civil Service Commission of the city or in the
 administration of the Ohio Revised Code shall be construed as follows:
@@ -5807,7 +5812,7 @@ Charter. Positions in the unclassified service shall be exempt from all
 examination requirements of the Commission.
    Weights - Used in connection with scoring examinations to indicate the
 relative importance of the subjects or parts of the examinations.
-SECTION III - POSITION CLASSIFICATION
+* SECTION III - POSITION CLASSIFICATION *
 3.1 Classified Service.
    The classified service shall comprise all persons employed full-time within
 the Police and Fire Department for which it is practicable to determine the
@@ -5841,7 +5846,7 @@ classification.
 positions in which there is doubt as to the appropriate titling. The Commission
 shall amend as necessary the official classification to reflect the results of
 such studies.
-SECTION IV - APPLICATION
+* SECTION IV - APPLICATION *
 4.1 General.
    Every applicant for admission to any examination for a position in the
 classified service must be citizen of the United States or hold a valid
@@ -5877,8 +5882,8 @@ an examination is scheduled to be held, the applicant shall be allowed to take
 the examination pending the decision in such inquiry. If the Commission finds
 the rejection justified, the examination paper shall not be included among
 those to be eligible for certification.
-SECTION V - EXAMINATIONS
-POLICE DEPARTMENTS AND FIRE DEPARTMENTS
+* SECTION V - EXAMINATIONS
+POLICE DEPARTMENTS AND FIRE DEPARTMENTS *
    Whenever the Commission shall decide that the good of the civil service will
 be promoted thereby, it may hold an examination for any office or position in
 the classified service. Appointments and promotions in the civil service of the
@@ -6037,7 +6042,7 @@ Commission of the reasons for such alteration or revocation.
 so long as the eligible list created from the examination remains in effect.
 These scores may be inspected at the office of the Commission upon request to
 the Commission Administrator or Chairperson of the Commission.
-SECTION VI - ELIGIBLE LIST
+* SECTION VI - ELIGIBLE LIST *
 6.1 Posting of Lists.
    The Commission, as soon as possible after every examination, shall prepare
 and keep on file for public inspection, the list of applicants who have passed
@@ -6103,7 +6108,7 @@ appointing authorities for future appointments. Such notice shall include the
 eligible name, the eligible list on which it appears, his or her new address
 and phone number, and his or her last address and phone number registered with
 the Commission.
-SECTION VII - CERTIFICATION AND ORIGINAL APPOINTMENTS
+* SECTION VII - CERTIFICATION AND ORIGINAL APPOINTMENTS *
    Appointments to all positions in the classified service that are not filled
 by transfer, reduction, or temporary appointments, as provided by the rules and
 regulations of the Commission, shall be made only from those persons whose
@@ -6289,7 +6294,7 @@ granted to city employees in good standing with a minimum of one year of
 employment as part-time employees and are moving to full-time status within the
 same job classification in either the Police or Fire Department. City service
 credit shall only apply to entrance-level examinations. (10/2/23)
-SECTION VIII - PROMOTIONS
+* SECTION VIII - PROMOTIONS *
 8.1 Promotions.
    Vacancies in positions in the classified service shall be filled insofar as
 possible from persons holding positions in a rank lower than the position to be
@@ -6498,7 +6503,7 @@ authority chooses to appoint an eligible other than the top scorer the
 appointing authority shall advise the eligible and the commission in writing of
 the reason for choosing the appointment.
 (ORC 124.44, 124.45, 124.48)
-SECTION IX - TRANSFERS, REINSTATEMENTS AND LAYOFFS
+* SECTION IX - TRANSFERS, REINSTATEMENTS AND LAYOFFS *
 9.1 Layoff Procedures.
    Whenever it becomes necessary in any office or department other than the
 Police and Fire Departments through lack of work or lack of funds to reduce the
@@ -6613,7 +6618,7 @@ qualifications are of importance, the person transferring, being reinstated, or
 returning from leave of absence, sickness, or layoff, shall be required to pass
 such examination(s) and be certified as qualified in such respect before
 assuming his duties.
-SECTION X - REDUCTIONS, SUSPENSIONS AND REMOVAL
+* SECTION X - REDUCTIONS, SUSPENSIONS AND REMOVAL *
 10.1 General Limitations.
    No person in the classified service shall be reduced in pay or position,
 suspended, removed, or otherwise discriminated against for religious or
@@ -6651,7 +6656,7 @@ filed, the Commission shall forthwith notify the appointing authority, and
 shall hear such appeal within 30 days from and after its filing with the
 Commission and it may affirm, disaffirm or modify the judgment of the
 appointing authority.
-SECTION XI - INVESTIGATIONS AND HEARINGS
+* SECTION XI - INVESTIGATIONS AND HEARINGS *
 11.1 Hearing Rules of Evidence; Representation by Counsel.
    Hearings before the Commission shall be conducted in an orderly manner. The
 object of the hearing shall be to ascertain the truth concerning the matter to
@@ -7024,7 +7029,7 @@ shall be informed and given the opportunity, for a period of 60 days, to select
 for its custody such public records as it considers to be of continuing
 historical value.
 (Ord. 88-42, passed 4-4-1988)
-TITLE TWELVE: JUDICIAL
+***** TITLE TWELVE: JUDICIAL *****
    
 CHAP. 290.   MAYOR’S COURT
 CHAPTER 290: MAYOR’S COURT
@@ -7221,7 +7226,7 @@ TITLE TEN - BICYCLES, MOTORCYCLES AND SNOWMOBILES
 CHAP. 474.   BICYCLES AND MOTORCYCLES GENERALLY
    
 CHAP. 476.   SNOWMOBILES, OFF-HIGHWAY MOTORCYCLES AND ALL-PURPOSE VEHICLES
-TITLE TWO: ADMINISTRATION, ENFORCEMENT AND PENALTIES
+***** TITLE TWO: ADMINISTRATION, ENFORCEMENT AND PENALTIES *****
    
 CHAP. 402. DEFINITIONS
    
@@ -8468,7 +8473,7 @@ Council.
 with this chapter shall be deemed guilty of a misdemeanor and upon conviction
 thereof shall be subject to the penalties provided in §
 404.99.
-TITLE FOUR: PUBLIC WAYS AND TRAFFIC CONTROL DEVICES
+***** TITLE FOUR: PUBLIC WAYS AND TRAFFIC CONTROL DEVICES *****
    
 CHAP. 412. OBSTRUCTION AND SPECIAL USES OF PUBLIC WAYS
    
@@ -9540,7 +9545,7 @@ with limits of up to $1,000,000 per occurrence and $2,000,000 per aggregate.
 Editor’s note:
    See §
 404.99 for general Traffic Code penalty if no specific penalty is provided.
-TITLE SIX: OPERATION AND VEHICLES
+***** TITLE SIX: OPERATION AND VEHICLES *****
    
 CHAP. 432. OPERATION GENERALLY
    
@@ -16092,7 +16097,7 @@ representative may direct.
 Editor’s note:
    See §
 404.99 for general Code penalty if no specific penalty is provided.
-TITLE EIGHT: PARKING
+***** TITLE EIGHT: PARKING *****
    
 CHAP. 452. PARKING GENERALLY
 CHAPTER 452: PARKING GENERALLY
@@ -16959,7 +16964,7 @@ strictly comply with any and all conditions contained therein.
 Editor’s note:
    See §
 404.99 for general Code penalty if no specific penalty is provided.
-TITLE TEN: BICYCLES, MOTORCYCLES AND SNOWMOBILES
+***** TITLE TEN: BICYCLES, MOTORCYCLES AND SNOWMOBILES *****
    
 CHAP. 474.   BICYCLES AND MOTORCYCLES GENERALLY.
    
@@ -26956,6 +26961,7 @@ Section
 642.34   Motion picture piracy
 642.35   Railroad vandalism; criminal trespass; interference with operation of
 train; grade crossing device vandalism
+642.36   Persons prohibited in playgrounds, parks and recreation facilities
 Cross-reference:
    Alteration, injury, removal of traffic control devices, see §
 414.08
@@ -28944,6 +28950,23 @@ causes physical harm to any person, or causes serious physical harm to any
 person, railroad grade crossing device vandalism is a felony to be prosecuted
 under appropriate state law.
 (R.C. § 2909.101)
+§ 642.36 PERSONS PROHIBITED IN PLAYGROUNDS, PARKS AND RECREATION FACILITIES.
+   (A)   No registered sex offender shall enter or remain upon any parks,
+playground, ballfield, rest room facility, pavilion, recreation facility and/or
+community center owned or controlled by the city and used for park and
+recreation purposes. A registered sex offender shall be defined as any person
+who has been convicted of, is convicted of, has pleaded guilty to, or pleads
+guilty to a sexually oriented offense or a child-victim oriented offense as
+defined in R.C. § 2950.01 and said person has been classified pursuant to the
+provisions of R.C. Chapter 2950 as a Tier I, II or Ill sex offender/child-
+victim offender and is required to register his or her address with the County
+Sheriff's Department.
+   (B)   Whoever violates this section shall be guilty of criminal trespass as
+provided in § 642.12 or of R.C. § 2911.21.
+(Ord. 06-2026, passed 3-23-2026)
+Cross-reference:
+   Sex related offenses, see
+Ch. 666
 CHAPTER 648: PEACE DISTURBANCES
 Section
 648.01   Riot
@@ -30226,6 +30249,8 @@ Cross-reference:
    Indecent exposure of waiters, waitresses, employees, etc., in beverage and
 food establishments, see §
 810.01
+   Persons prohibited in playgrounds, parks and recreation facilities, see §
+642.36
    Spreading contagion, see §
 660.02
 Statutory reference:
@@ -33293,7 +33318,7 @@ CHAP. 884. HOTEL TAX
 CHAP. 886. MOTOR VEHICLE EXCISE TAX
    
 CHAP. 888. COMMUNITY REINVESTMENT AREAS
-TITLE TWO: BUSINESS REGULATION
+***** TITLE TWO: BUSINESS REGULATION *****
    
 CHAP. 810.   ADULT ENTERTAINMENT BUSINESSES
    
@@ -35333,7 +35358,7 @@ misdemeanor of the first degree and shall be punished as provided in §
 202.99 of this Code of Ordinances. Each day a violation of this chapter occurs
 shall be a separate violation.
 (Ord. 41-2021, passed 7-6-2021)
-TITLE FOUR: TAXATION
+***** TITLE FOUR: TAXATION *****
    
 CHAP. 880.   EARNED INCOME TAX, EFFECTIVE THROUGH DECEMBER 31, 2015
    
@@ -38970,7 +38995,7 @@ CHAP. 1060.   GARBAGE AND RUBBISH COLLECTION AND DISPOSAL
 CHAP. 1062.   PARKS AND RECREATION AREAS
    
 CHAP. 1064.   ALARM SYSTEMS
-TITLE TWO: STREET AND SIDEWALK AREAS
+***** TITLE TWO: STREET AND SIDEWALK AREAS *****
    
 CHAP. 1020.   STREET IMPROVEMENTS
    
@@ -38990,6 +39015,8 @@ Section
 1020.02   Plan and sketch required; issuance of permit; fee
 1020.03   Equitable remedies
 1020.04   Asphalt paved surface requirements
+1020.05   Notification requirement for work completed by contractors in right-
+of-way
 1020.99   Penalty
 Cross-reference:
    Obstruction and special uses of public ways, see
@@ -39034,6 +39061,15 @@ such work in the street even though a permit has been issued.
    All asphalt paved surfaces in the city shall conform to Section
 1248.07.
 (Ord. 89-87, passed 7-17-1989; Ord. 18-2023, passed 9-5-2023)
+§ 1020.05 NOTIFICATION REQUIREMENT FOR WORK COMPLETED BY CONTRACTORS IN RIGHT-
+OF-WAY.
+   Any contractor that begins work in the right-of-way on any project affecting
+ten or more homes in the city shall be required to post signs in the right-of-
+way indicating the start of such work with appropriate contact information at
+least seven days prior to the commencement of work. Any emergency work required
+to be performed for the safety and welfare of the residences shall be exempted
+this from notice requirement.
+(Ord. 04-2026, passed 3-9-2026)
 § 1020.99 PENALTY.
 Editor’s note:
    See §
@@ -39864,7 +39900,7 @@ Department cleared as he or she deems necessary at his or her discretion for
 the preservation of the health, peace, safety and welfare of the residents of
 the city during an emergency caused by an act of God or otherwise.
 (Ord. 68-96, passed 8-19-1996)
-TITLE FOUR: UTILITIES
+***** TITLE FOUR: UTILITIES *****
    
 CHAP. 1040.   WATER
    
@@ -41017,7 +41053,7 @@ responsibility to comply with this subchapter.
 Editor’s note:
    See §
 202.99 for general Code penalty if no specific penalty is provided.
-ILLICIT DISCHARGE AND ILLEGAL CONNECTION CONTROL
+*** ILLICIT DISCHARGE AND ILLEGAL CONNECTION CONTROL ***
 § 1042.35 PURPOSE AND SCOPE.
    (A)   The purpose of this regulation is to provide for the health, safety,
 and general welfare of the citizens of the city through the regulation of
@@ -43007,7 +43043,7 @@ or abate a violation, or to require compliance with the provisions of this
 chapter or other applicable laws, or ordinances, rules or regulations or the
 orders of the City Engineer.
 (Ord. 17-05, passed 2-7-2005)
-TITLE SIX: OTHER PUBLIC SERVICES
+***** TITLE SIX: OTHER PUBLIC SERVICES *****
    
 CHAP. 1060.   GARBAGE AND RUBBISH COLLECTION AND DISPOSAL
    
@@ -43251,6 +43287,8 @@ Cross references:
    Parks and Recreation Advisory Board, see
 CHTR. Art. V, § 10(b);
 Chapter 276
+   Persons prohibited in playgrounds, parks and recreation facilities, see §
+642.36
    Public picnic and recreation places, see
 Chapter 832
    Recreation Department, see
@@ -43469,7 +43507,7 @@ CHAP. 1348.   INTERNATIONAL PROPERTY MAINTENANCE CODE
 CHAP. 1350.   DONATION BOXES AND BINS
    
 CHAP. 1352.   SOLAR ENERGY SYSTEMS
-TITLE TWO: PLANNING
+***** TITLE TWO: PLANNING *****
    
 CHAP. 1220. PLANNING COMMISSION
    
@@ -43552,7 +43590,7 @@ office of the Clerk of Council and may be obtained, at cost, from the Clerk of
 Council.
    There are no sections in Chapter 1222. This chapter has been established to
 provide a place for cross-references and any future legislation.
-TITLE FOUR: SUBDIVISION REGULATIONS
+***** TITLE FOUR: SUBDIVISION REGULATIONS *****
    
 CHAP. 1240.   GENERAL PROVISIONS AND DEFINITIONS
    
@@ -45892,12 +45930,12 @@ AS TO BANK:
 (Ord. 15-06, passed 2-6-2006; Ord. 103-06, passed 7-17-2006; Ord. 128-07,
 passed 11-19-2007; Ord. 04-16, passed 3-7-2016; Ord. 35-2021, passed 6-21-2021)
 APPENDIX IV: CUL-DE-SAC SPECIFICATIONS
-[https://export.amlegal.com/media/dced478db77f09615b728af88c68e5295ab49efb/
+[https://export.amlegal.com/media/d09c896ce99f22222313c838da763a76e6ebcd09/
 IMAGES/0-0-0-4580.png]
  
 (Ord. 64-96, passed 6-3-1996; Ord. 05-16, passed 3-7-2016; Ord. 49-2021, passed
 10-4-2021)
-TITLE SIX: ZONING
+***** TITLE SIX: ZONING *****
    
 CHAP. 1260.   GENERAL PROVISIONS AND DEFINITIONS
    
@@ -49892,7 +49930,9 @@ building’s walls. In residential building practice, this function is handled b
 projecting gable ends, roof eaves, and gutters. However, house eaves may also
 be called “cornices” if they are finished with decorative molding. In this
 sense, while most “cornices” are also eaves (in that they overhang the sides of
-the building), not all eaves are usually considered “cornices”
+the building), not all eaves are usually considered “cornices” - eaves are
+primarily functional and not necessarily decorative, whereas, a “cornice” has a
+decorative aspect to it.
       “Development.” As used in this Chapter 1283, refers to modifications and
 improvements of land use; more specifically altering the landscape or property
 which would result in neighborhood, community- wide or regional environmental
@@ -51633,10 +51673,10 @@ by the development guidelines.
       (3)   Site plans shall also comply with all the provisions of the Zoning
 Code, Parking and Site Design, and Landscaping/Screening.
 (Ord. 194-12, passed 1-22-2013)
-[https://export.amlegal.com/media/dced478db77f09615b728af88c68e5295ab49efb/
+[https://export.amlegal.com/media/d09c896ce99f22222313c838da763a76e6ebcd09/
 IMAGES/0-0-0-4235.jpg]
  
-[https://export.amlegal.com/media/dced478db77f09615b728af88c68e5295ab49efb/
+[https://export.amlegal.com/media/d09c896ce99f22222313c838da763a76e6ebcd09/
 IMAGES/0-0-0-4233.jpg]
  
 CHAPTER 1284: OFF-STREET PARKING
@@ -51727,7 +51767,7 @@ feet in width and 19 feet in length;
 feet in width and 23 feet in length; and
       (5)   Aisles which access any parking spaces must be 24 feet in width
 minimum.
-[https://export.amlegal.com/media/dced478db77f09615b728af88c68e5295ab49efb/
+[https://export.amlegal.com/media/d09c896ce99f22222313c838da763a76e6ebcd09/
 IMAGES/0-0-0-4237.jpg]
  
    (B)   Surfacing. All off-street parking shall be hard-surfaced and shall be
@@ -52518,7 +52558,7 @@ to seek compensation for damages suffered. An administrative, civil, or
 criminal action may be brought concurrently with any other process regarding
 the same public nuisance or violation.
 (Ord. 25-2019, passed 9-9-2019)
-TITLE EIGHT: MISCELLANEOUS REGULATIONS
+***** TITLE EIGHT: MISCELLANEOUS REGULATIONS *****
    
 CHAP. 1300.   RESIDENTIAL ARCHITECTURE
    
@@ -53955,7 +53995,7 @@ Statutory reference:
 1515.08
    Flood insurance, see Ohio R.C. 3925.34(C), 3941.02(A)(1)
    Water supply, sanitation, ditches, see Ohio R.C. 6101.01 et seq.
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 1314.01 STATUTORY AUTHORIZATION.
    Article XVIII, Section 3, of the Ohio Constitution grants municipalities the
 legal authority to adopt land use and control measures for promoting the
@@ -54313,7 +54353,7 @@ consistent with the variance conditions herein.
    “Violation.” The failure of a structure or other development to be fully
 compliant with these regulations.
 (Ord. 103-10, passed 8-23-2010)
-ADMINISTRATION
+*** ADMINISTRATION ***
 § 1314.20 DESIGNATION OF THE FLOODPLAIN ADMINISTRATOR.
    The City Engineer is hereby appointed to administer and implement these
 regulations and is referred to herein as the Floodplain Administrator.
@@ -54590,7 +54630,7 @@ information related to the proper repair of damaged structures in special flood
 hazard areas; and assist owners of substantially damaged structures with
 increased cost of compliance insurance claims.
 (Ord. 103-10, passed 8-23-2010)
-USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION
+*** USE AND DEVELOPMENT STANDARDS FOR FLOOD HAZARD REDUCTION ***
 § 1314.40 GENERALLY.
    The following use and development standards apply to development wholly
 within, partially within, or in contact with any special flood hazard area as
@@ -54814,7 +54854,7 @@ in §
 or elimination of the special flood hazard area, including the placement of
 culverts.
 (Ord. 103-10, passed 8-23-2010)
-APPEALS AND VARIANCES
+*** APPEALS AND VARIANCES ***
 § 1314.60 APPEALS BOARD ESTABLISHED.
    (A)   The City Board of Zoning Appeals is hereby appointed to serve as the
 Appeals Board for these regulations as established by the City Code.
@@ -54952,7 +54992,7 @@ time after the hearing.
 decision to the Cuyahoga County Court of Common Pleas, as provided in Ohio R.C.
 Chapter 2506.
 (Ord. 103-10, passed 8-23-2010)
-ENFORCEMENT
+*** ENFORCEMENT ***
 § 1314.70 COMPLIANCE REQUIRED.
    (A)   No structure or land shall hereafter be located, erected, constructed,
 reconstructed, repaired, extended, converted, enlarged or altered without full
@@ -56978,7 +57018,7 @@ Comprehensive Storm Water Management Plan so developed will serve as the Storm
 Water Pollution Prevention Plan (SWP3) required by Ohio EPA as part of the
 NPDES storm water permit for general construction.
 (Ord. 61-04, passed 4-9-2004; Ord. 109-04, passed 9-20-2004)
-CONTROL OF RIPARIAN SETBACKS AND WETLANDS SETBACKS
+*** CONTROL OF RIPARIAN SETBACKS AND WETLANDS SETBACKS ***
 § 1334.05 PURPOSE.
    The intent of this subchapter is to:
    (A)   Protect the receiving stream’s physical, chemical and biological
@@ -61644,7 +61684,7 @@ CHAP. 1446.   REGISTRATION OF CONTRACTORS
 CHAP. 1448.   PERMITS, INSPECTIONS AND FEES
    
 CHAP. 1449.   FEE SCHEDULE
-TITLE TWO: BUILDING STANDARDS
+***** TITLE TWO: BUILDING STANDARDS *****
    
 CHAP. 1420.   OHIO STATE BUILDING CODES
    
@@ -61719,7 +61759,7 @@ Office, 1245 South Sunbury Road, Suite 100, Westerville, Ohio 43081-9444
 (telephone: (614) 890-1064).
 (Ord. 69-98, passed 4-20-1998; Ord. 13-01, passed 2-5-2001; Ord. 66-04, passed
 5-3-2004; Ord. 77-06, passed 5-15-2006)
-TITLE FOUR: ADMINISTRATION
+***** TITLE FOUR: ADMINISTRATION *****
    
 CHAP. 1440.   BUILDING DEPARTMENT
    
@@ -68910,6 +68950,174 @@ Res.  12-  Authorizing the Mayor to enter into an agreement between the city and
 19-   12-  Authorizing the execution of an amended and restated agreement designating the
 2025  1-   Community Improvement Corporation of Broadview Heights, OH as agent for the city.
       2025
+Res.  1-   Authorizing the Mayor to enter into a compensation agreement between the City of
+2026- 12-  Broadview Heights and the Cuyahoga County Board of Health.
+02    2026
+Res.  1-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 12-  Heights and Senior Transportation Connections.
+03    2026
+Res.  1-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 12-  Heights and ConfiTrek, Inc.
+04    2026
+Res.  1-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 12-  Heights and Axon Enterprises, Inc.
+05    2026
+Res.  1-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 12-  Heights and Axon Enterprises, Inc.
+06    2026
+Res.  1-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and Aris Company.
+12    2026
+Res.  1-   Amending Resolution 2025-115 regarding an agreement between the City of Broadview
+2026- 26-  Heights and Digioia Suburban Excavating, Inc.
+14    2026
+Res.  1-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and the Cuyahoga Soil and Water Conservation District.
+16    2026
+Res.  1-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and Trugreen.
+17    2026
+Res.  1-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and Aris Company.
+18    2026
+Res.  1-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and the Cincinnati Floor Company.
+19    2026
+Res.  1-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and Ohio CAT.
+20    2026
+Res.  1-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and Best Equipment.
+21    2026
+Res.  2-9- Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 2026 Heights and Stefanik Iosue & Associates, LLC.
+23
+Res.  2-9- Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 2026 Heights and TAC Computer, Inc.
+24
+Res.  2-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 24-  Heights and Ganley Ford.
+25    2026
+Res.  2-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 24-  Heights and State Chemicals.
+28    2026
+Res.  2-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 24-  Heights and Valley Freightliner Trucks.
+29    2026
+Res.  3-9- Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 2026 Heights and Civic Ready.
+33
+Res.  3-9- Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 2026 Heights and Software Solutions Inc.
+35
+Res.  3-9- Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 2026 Heights and Health EMS Sansio.
+36
+Res.  3-9- Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 2026 Heights and Carrier.
+37
+Res.  3-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 23-  Heights and the Geauga Highway Co.
+38    2026
+Res.  3-   Authorizing the Mayor to enter into an agreement between the Fedeli Group/
+2026- 23-  Travelers' Insurance Company.
+39    2026
+Res.  3-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 23-  Heights and Sixmo Architecture.
+40    2026
+Res.  3-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 23-  Heights and the ThyssenKrupp Elevator Corporation.
+41    2026
+Res.  3-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 23-  Heights and Ohio Cat.
+42    2026
+Res.  3-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 23-  Heights and Ganley Ford Norton.
+43    2026
+Res.  3-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 23-  Heights and Best Equipment.
+44    2026
+Res.  3-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 23-  Heights and Kokosing Materials Inc.
+45    2026
+Res.  4-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 13-  Heights and American Roadway Logistics.
+49    2026
+Res.  4-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 13-  Heights and the Estabrook Corporation.
+53    2026
+Res.  4-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 13-  Heights and Cuyahoga Community College.
+54    2026
+Res.  4-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 27-  Heights and Gary Pearlman a/k/a Dr. Awesome, Inc.
+55    2026
+Res.  4-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 27-  Heights and Swank Motion Pictures, Inc.
+56    2026
+Res.  4-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 27-  Heights and Burgess & Niple.
+57    2026
+Res.  4-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 27-  Heights and the North Royalton Power Equipment.
+61    2026
+Res.  5-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 11-  Heights and American Fireworks for the Broadview Heights home days and tree
+64    2026 lighting.
+Res.  5-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 11-  Heights and Verizon for wireless products and services.
+65    2026
+Res.  5-   Authorizing the Mayor to participate in the Cuyahoga County Contract with United
+2026- 11-  Survey for sewer maintenance.
+66    2026
+Res.  5-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 11-  Heights and Campo Roofing for pump station roof replacement.
+67    2026
+Res.  5-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 11-  Heights and Campo Roofing for police station roof replacement.
+68    2026
+Res.  5-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and TAC Computer, Inc. for computer hardware for the Police Department.
+70    2026
+Res.  5-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and Axon Enterprises, Inc. for holster sensors for the Police Department.
+71    2026
+Res.  5-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and Bear Landscaping and Design, L.L.C. for grass cutting.
+75    2026
+Res.  5-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and Cleary Brothers Landscaping for grass cutting.
+76    2026
+Res.  5-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 26-  Heights and Summit Testing and Inspection Company for construction materials
+77    2026 testing for the fire station.
+Res.  6-8- Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 2026 Heights and Hall Public Safety Upfitters for upfitting police cruisers.
+79
+Res.  6-8- Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 2026 Heights and Lyndsey Piotrowski for Safety Town Instruction.
+80
+Res.  6-8- Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 2026 Heights and Rick Iacoboni for a musical performance for seniors.
+81
+Res.  6-8- Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 2026 Heights and Magnegrip for an Airhawk air purification system.
+82
+Res.  6-8- Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 2026 Heights and Fire Force, Inc. for replacement turn out gear for the Fire
+83         Department.
+Res.  6-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 22-  Heights and Geauga Highway Company for parking lot improvements at the Fields
+87    2026 property.
+Res.  6-   Amending Resolution 2026-38 regarding an agreement between the City of Broadview
+2026- 22-  Heights and the Geauga Highway Company for the 2026 Paving Program.
+88    2026
+Res.  6-   Authorizing the Mayor to enter into an agreement between the City of Broadview
+2026- 22-  Heights and Barracuda Networks for city email protection and back-up solutions.
+90    2026
+Res.  6-   Authorizing the Mayor to enter into a contract renewal between the City of
+2026- 22-  Broadview Heights and Cargill for road salt.
+91    2026
           
  
 COMPARATIVE SECTION TABLE
@@ -70670,6 +70878,62 @@ Res. No. Date Passed Code Section
 2025-166 12-1-2025   TSO Table X
 2025-168 12-1-2025   TSO Table X
 2025-169 12-1-2025   TSO Table X
+2026-02  1-12-2026   TSO Table X
+2026-03  1-12-2026   TSO Table X
+2026-04  1-12-2026   TSO Table X
+2026-05  1-12-2026   TSO Table X
+2026-06  1-12-2026   TSO Table X
+2026-12  1-26-2026   TSO Table X
+2026-14  1-26-2026   TSO Table X
+2026-16  1-26-2026   TSO Table X
+2026-17  1-26-2026   TSO Table X
+2026-18  1-26-2026   TSO Table X
+2026-19  1-26-2026   TSO Table X
+2026-20  1-26-2026   TSO Table X
+2026-21  1-26-2026   TSO Table X
+2026-23  2-9-2026    TSO Table X
+2026-24  2-9-2026    TSO Table X
+2026-25  2-24-2026   TSO Table X
+2026-28  2-24-2026   TSO Table X
+2026-29  2-24-2026   TSO Table X
+2026-33  3-9-2026    TSO Table X
+2026-35  3-9-2026    TSO Table X
+2026-36  3-9-2026    TSO Table X
+2026-37  3-9-2026    TSO Table X
+2026-38  3-23-2026   TSO Table X
+2026-39  3-23-2026   TSO Table X
+2026-40  3-23-2026   TSO Table X
+2026-41  3-23-2026   TSO Table X
+2026-42  3-23-2026   TSO Table X
+2026-43  3-23-2026   TSO Table X
+2026-44  3-23-2026   TSO Table X
+2026-45  3-23-2026   TSO Table X
+2026-49  4-13-2026   TSO Table X
+2026-53  4-13-2026   TSO Table X
+2026-54  4-13-2026   TSO Table X
+2026-55  4-27-2026   TSO Table X
+2026-56  4-27-2026   TSO Table X
+2026-57  4-27-2026   TSO Table X
+2026-61  4-27-2026   TSO Table X
+2026-64  5-11-2026   TSO Table X
+2026-65  5-11-2026   TSO Table X
+2026-66  5-11-2026   TSO Table X
+2026-67  5-11-2026   TSO Table X
+2026-68  5-11-2026   TSO Table X
+2026-70  5-26-2026   TSO Table X
+2026-71  5-26-2026   TSO Table X
+2026-75  5-26-2026   TSO Table X
+2026-76  5-26-2026   TSO Table X
+2026-77  5-26-2026   TSO Table X
+2026-79  6-8-2026    TSO Table X
+2026-80  6-8-2026    TSO Table X
+2026-81  6-8-2026    TSO Table X
+2026-82  6-8-2026    TSO Table X
+2026-83  6-8-2026    TSO Table X
+2026-87  6-22-2026   TSO Table X
+2026-88  6-22-2026   TSO Table X
+2026-90  6-22-2026   TSO Table X
+2026-91  6-22-2026   TSO Table X
                     
  
 REFERENCES TO ORDINANCES
@@ -72506,6 +72770,8 @@ Ord. No. Date Passed Code Section
 04-2022  2-7-2022    258.06
 06-2022  3-7-2022    256.21
 17-2022  6-6-2022    TSO Table V
+18-2022  7-5-2022    TSO Table VIII
+19-2022  6-20-2022   256.20
 21-2022  7-5-2022    TSO Table V
 23-2022  9-19-2022   848.99
 25-2022  9-26-2022   TSO Table II
@@ -72559,6 +72825,8 @@ Ord. No. Date Passed Code Section
 07-2025  4-28-2025   236.35
 17-2025  12-1-2025   1328.18
 19-2025  12-1-2025   TSO Table X
+04-2026  3-9-2026    1020.05
+06-2026  3-23-2026   642.36
                     
  
  
