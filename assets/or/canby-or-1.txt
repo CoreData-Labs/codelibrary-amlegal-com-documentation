@@ -9,7 +9,7 @@ Cincinnati, Ohio 45202
 Tel: (800) 445-5588
 Internet: http://www.amlegal.com
 ADOPTING ORDINANCE
-ORDINANCE NO. 1200
+**** ORDINANCE NO. 1200 ****
    AN ORDINANCE ADOPTING A REVISED CODE OF THE CITY OF CANBY ENTITLED THE
 “CANBY MUNICIPAL CODE” AND DECLARING AN EMERGENCY.
    THE CITY OF CANBY ORDAINS AS FOLLOWS:
@@ -72,8 +72,8 @@ A CHARTER
 Oregon; and to repeal all Charter provisions of the City enacted prior to the
 time that this Charter takes effect.
    BE IT ENACTED by the people of the City of Canby, Clackamas County, Oregon:
-CHAPTER I
-NAMES AND BOUNDARIES
+**** CHAPTER I
+NAMES AND BOUNDARIES ****
    Section 1.   TITLE OF ENACTMENT. This enactment may be referred to as the
 City of Canby Charter of 1983, and as revised on July 1, 2009.
    Section 2.   NAME OF CITY. The municipality of Canby, Clackamas County,
@@ -89,8 +89,8 @@ up-to-date description of the boundaries. The copies and descriptions shall be
 available for public inspection at anytime during regular office hours of the
 Recorder.
 (Amendment passed at election November 4, 1997)
-CHAPTER II
-POWERS
+**** CHAPTER II
+POWERS ****
    Section 1.   POWERS OF THE CITY. The City shall have all powers which the
 Constitutions, statutes and common law of the United States and of this State
 expressly or impliedly grant or allow municipalities, as fully as though this
@@ -114,8 +114,8 @@ Article IV of the Constitution of the State of Oregon are hereby reserved and
 guaranteed to the people of the City of Canby by this Charter, and the Council
 shall provide the method of carrying into effect the initiative and referendum
 power of the people.
-CHAPTER III
-FORM OF GOVERNMENT
+**** CHAPTER III
+FORM OF GOVERNMENT ****
    Section 1.   WHERE POWERS VESTED. Except as this Charter provides otherwise,
 all powers of the City shall be vested in the Council.
    Section 2.   COUNCIL. The Council shall be composed of six Councilmembers
@@ -148,8 +148,8 @@ qualified elector within the meaning of the State Constitution and has resided
 in the City during the 12 months immediately preceding the election. The
 Council shall be final judge of the qualifications and election of its own
 members.
-CHAPTER IV
-COUNCIL
+**** CHAPTER IV
+COUNCIL ****
    Section 1.   MEETINGS. The Council shall hold a regular meeting in the City
 at least once each month at a time and place which it designates. It shall
 adopt rules for the government of its members and proceedings. The Mayor may,
@@ -195,10 +195,10 @@ before the Council.
 its members shall give orders or directives to any subordinate or City
 employee, other than officers of the City, either publicly or privately, except
 to and through the City Administrator.
-CHAPTER V
+**** CHAPTER V
 POWERS AND DUTIES OF
 OFFICERS AND PROFESSIONAL
-CONTRACTORS
+CONTRACTORS ****
    Section 1.   MAYOR. The Mayor shall appoint the committees provided by the
 rules of the Council; and shall sign all records of proceedings approved by the
 Council. The Mayor shall have no veto power. In the Mayor's absence, the
@@ -275,8 +275,8 @@ Court has jurisdiction.
 shall have authority to contract for the professional services of those whose
 professional skills, training and knowledge may be required at any time or from
 time to time for the administration of City affairs and municipal government.
-CHAPTER VI
-ELECTIONS
+**** CHAPTER VI
+ELECTIONS ****
    Section 1.   STATE LAW. City elections must conform to state law except as
 this charter or ordinances provide otherwise. All elections for City offices
 must be nonpartisan.
@@ -303,8 +303,8 @@ and assumes the office.
 each officer shall take an oath or shall affirm support of the Constitutions
 and Laws of the United States, the State of Oregon and the City of Canby and to
 faithfully perform the duties of the office.
-CHAPTER VII
-VACANCIES IN OFFICE
+**** CHAPTER VII
+VACANCIES IN OFFICE ****
    Section 1.   WHAT CREATES VACANCY. An office shall be deemed vacant upon the
 incumbent's death, adjudicated incompetence, conviction of a felony or other
 offense pertaining to the office, unlawful destruction of public records,
@@ -324,8 +324,8 @@ be elected at the next general biennial election after said appointment. During
 the temporary disability of any elected officer or during their absence
 temporarily from the City for any cause, the offices may be filled pro tem in
 the manner provided for the filling of vacancies in office permanently.
-CHAPTER VIII
-ORDINANCES
+**** CHAPTER VIII
+ORDINANCES ****
    Section 1.   ENACTING CLAUSE. The enacting clause of all ordinances
 hereafter enacted by the Council shall be: "THE CITY OF CANBY ORDAINS AS
 FOLLOWS:".
@@ -356,8 +356,8 @@ ordinance, the ayes and nays of the Councilmembers shall be taken and entered
 in the record of the proceedings and also on the ordinance. Upon enactment of
 the ordinance, the Mayor shall sign it with the date of its final passage and
 it shall be attested by the signature of the Recorder.
-CHAPTER IX
-PUBLIC IMPROVEMENTS
+**** CHAPTER IX
+PUBLIC IMPROVEMENTS ****
    Section 1.   CONDEMNATION. Any necessity of taking property for the City by
 condemnation shall be determined by the Council and declared by a Resolution of
 the Council describing the property and stating the uses to which it shall be
@@ -402,8 +402,8 @@ Canby with a basic sanitary sewage system; and the Council may provide that the
 same or that part so constructed will be paid for by all of the residents of
 the City or property owners therein regardless of whether their property is to
 be actually connected with or presently served by said systems or units.
-CHAPTER X
-UTILITIES
+**** CHAPTER X
+UTILITIES ****
    Section 1.   UTILITY DEPARTMENTS: There is hereby created a utility
 department of electric service of the City of Canby and a utility department of
 water service of the City of Canby. Each department shall be responsible for
@@ -587,8 +587,8 @@ to the electric utility system of the City legally incurred, approved or
 authorized prior to the taking effect of this Charter provision shall not be
 impaired and shall be binding upon the Board insofar as they apply to the
 Electric Utility Department.
-CHAPTER XI
-MISCELLANEOUS PROVISIONS
+**** CHAPTER XI
+MISCELLANEOUS PROVISIONS ****
    Section 1.   DEBT LIMIT. City indebtedness may not exceed debt limits
 imposed by state law. A charter amendment is not required to authorize City
 indebtedness.
@@ -5602,7 +5602,7 @@ Section
 4.24.230   Expenditure of funds.
    
 4.24.240   Classification; assessments and fees; notice.
-CREATION PROCEDURES
+*** CREATION PROCEDURES ***
 § 4.24.010   Definitions.
    For the purpose of this subchapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
@@ -5742,7 +5742,7 @@ in this subchapter shall be spent only for the economic improvements set forth
 in the economic improvement plan and for the cost of city administration of the
 economic improvement district.
 (Ord. 982, passed 1-7-1997)
-ASSESSMENTS
+*** ASSESSMENTS ***
 § 4.24.150   Findings of fact.
    The City Council makes and enters the following findings of fact, based upon
 the oral and written testimony received on January 15, 2003:
@@ -14271,7 +14271,7 @@ Miscellaneous Provisions
 13.16.234   Severability and conflicts with other ordinances.
    
 13.16.235   Emergency clause.
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 13.16.001   Purpose and policy.
    A.   This chapter sets forth uniform requirements for users of publicly
 owned treatment works (POTW) for the city and enables the city to comply with
@@ -14648,7 +14648,7 @@ pretreatment standards and requirements as set forth in this chapter.
    TSS   Total Suspended Solids
    USC   United States Code
 (Ord. 1413 § 1.4, passed 4-1-2015)
-GENERAL SEWER USE REQUIREMENTS
+*** GENERAL SEWER USE REQUIREMENTS ***
 § 13.16.015 Prohibited discharge standards.
    A.   General prohibitions (C.F.R. 403.5(a)1). A user may not introduce into
 a POTW any pollutant(s) which cause pass through or interference. These general
@@ -14857,7 +14857,7 @@ property in the lien docket of the city.
 facilities shall be permitted without the approval of the Public Works Director
 or other designee.
 (Ord. 1413 § 2.9, passed 4-1-2015)
-PRETREATMENT OF WASTEWATER
+*** PRETREATMENT OF WASTEWATER ***
 § 13.16.035 Pretreatment facilities.
    Industrial users shall provide necessary wastewater treatment as required to
 comply with this chapter and shall achieve compliance with all categorical
@@ -15028,7 +15028,7 @@ was responsible for the grease or oil discharge, the user may be required to
 cease discharge of the prohibited waste, install an interceptor, and shall
 maintain the interceptor, and may be charged for the cost of cleaning the line.
 (Ord. 1413 § 3.8, passed 4-1-2015)
-WASTEWATER PERMIT ELIGIBILITY
+*** WASTEWATER PERMIT ELIGIBILITY ***
 § 13.16.055   Wastewater survey.
    When requested by the city, all industrial users must submit information on
 the nature and characteristics of their wastewater by completing a wastewater
@@ -15201,7 +15201,7 @@ public sewers;
       4.   Require payment to cover the added cost of handling and treating the
 wastes not covered by existing taxes or sewer charges.
 (Ord. 1413 § 4.8, passed 4-1-2015)
-WASTEWATER PERMIT ISSUANCE PROCESS
+*** WASTEWATER PERMIT ISSUANCE PROCESS ***
 § 13.16.075   Wastewater permit duration.
    Permits shall be issued for a specific time period, not to exceed 5 years. A
 permit may be issued for a period less than 5 years, at the discretion of the
@@ -15394,7 +15394,7 @@ agreements made with users outside the city's jurisdiction will be considered a
 major modification to the city NPDES permit and will require approval from the
 Department of Environmental Quality.
 (Ord. 1413 § 5.8, passed 4-1-2015)
-REPORTING REQUIREMENTS
+*** REPORTING REQUIREMENTS ***
 § 13.16.090   Baseline monitoring reports.
    A.   Within 180 days after the effective date of a categorical pretreatment
 standard, or 180 days after the final administrative decision on a category
@@ -15791,7 +15791,7 @@ practical.
 otherwise permitted to be discharged by this chapter, a permit issued
 hereunder, or any applicable federal or state law.
 (Ord. 1413 § 6.15, passed 4-1-2015)
-COMPLIANCE
+*** COMPLIANCE ***
 § 13.16.115   Inspection and sampling.
    Authorized city representatives may inspect and monitor any non-residential
 user of city water and/or sewer services to determine compliance with the
@@ -15838,7 +15838,7 @@ community, the Public Works Director shall contact the City Attorney who may
 then apply for an administrative search warrant from a court of competent
 jurisdiction.
 (Ord. 1413 § 7.2, passed 4-1-2015)
-CONFIDENTIAL INFORMATION
+*** CONFIDENTIAL INFORMATION ***
 § 13.16.130   Confidential information.
    Information and data on an industrial user obtained from reports,
 questionnaires, permit applications, permits, and monitoring programs, and from
@@ -15858,7 +15858,7 @@ upon request to governmental agencies for uses related to this chapter, the
 National Pollutant Discharge Elimination System (NPDES) program, and in
 enforcement proceedings involving the person furnishing the report.
 (Ord. 1413 § 8, passed 4-1-2015)
-PUBLICATION OF USERS IN SIGNIFICANT NONCOMPLIANCE
+*** PUBLICATION OF USERS IN SIGNIFICANT NONCOMPLIANCE ***
 § 13.16.140   Publication of users in significant noncompliance.
    The city shall publish annually, in a newspaper of general circulation that
 provides meaningful public notice within the jurisdictions served by the POTW,
@@ -15902,7 +15902,7 @@ and reports on compliance with compliance schedules;
 management practices, which the city determines will adversely affect the
 operation or implementation of the local pretreatment program.
 (Ord. 1413 § 9, passed 4-1-2015)
-ADMINISTRATIVE ENFORCEMENT REMEDIES
+*** ADMINISTRATIVE ENFORCEMENT REMEDIES ***
 § 13.16.150   General.
    A.   This section authorizes the development and implementation of an
 Enforcement Response Plan, Industrial Sampling/Inspection Procedures Manual,
@@ -16115,7 +16115,7 @@ termination of their wastewater permit and be offered an opportunity to show
 cause under §
 13.16.157, why the proposed action should not be taken.
 (Ord. 1413 § 10.12, passed 4-1-2015)
-JUDICIAL ENFORCEMENT REMEDIES
+*** JUDICIAL ENFORCEMENT REMEDIES ***
 § 13.16.175   Injunctive relief.
    Whenever an industrial user has violated, threatens to violate, or continues
 to violate the provisions of this chapter, permits or orders issued hereunder,
@@ -16176,7 +16176,7 @@ City of Canby's Enforcement Response Plan. However the city may take other
 action against any user when the circumstances warrant. Further, the city is
 empowered to take more than 1 enforcement action against any noncompliant user.
 (Ord. 1413 § 11.4, passed 4-1-2015)
-SUPPLEMENTAL ENFORCEMENT ACTIONS
+*** SUPPLEMENTAL ENFORCEMENT ACTIONS ***
 § 13.16.190   Performance bonds.
    The city may decline to reissue a permit to any industrial user which has
 failed to comply with the provisions of this chapter, any orders, or a previous
@@ -16211,7 +16211,7 @@ consistent compliance with applicable pretreatment standards and requirements
 are not eligible to receive contract awards for the sale of goods or services
 to the city.
 (Ord. 1413 § 12.5, passed 4-1-2015)
-AFFIRMATIVE DEFENSES TO DISCHARGE VIOLATIONS
+*** AFFIRMATIVE DEFENSES TO DISCHARGE VIOLATIONS ***
 § 13.16.210   Affirmative defenses.
    A user shall have an affirmative defenses in any action brought against it
 alleging a violation of the general prohibitions, specific prohibitions and
@@ -16317,7 +16317,7 @@ bypass, after considering its adverse effects; if the Public Works Director or
 other designee determines that it will meet the 3 conditions listed in division
 B. of this section.
 (Ord. 1413 § 13.4, passed 4-1-2015)
-MISCELLANEOUS PROVISIONS
+*** MISCELLANEOUS PROVISIONS ***
 § 13.16.230   Pretreatment charges and fees.
    The city may adopt reasonable charges and fees for reimbursement of costs of
 setting up and operating the city's pretreatment program which may include:
@@ -18268,7 +18268,7 @@ Chapter 16 was updated by the City of Canby City Council on 7/16/2008 with Ord.
 1514, 12/2/2020 with Ord 1539, 5/4/2022 with Ord. 1570, 9/7/2022 with Ord.
 1584, 5/3/2023 with Ord. 1597, with Ord 1634, 9/20/2024, with Ord. 1655, 9/3/
 2025.
-Division I. – GENERAL PROVISIONS
+***** Division I. – GENERAL PROVISIONS *****
 Chapter 16.02
 TITLE
 Sections:
@@ -19384,7 +19384,7 @@ of the Planning Director’s decision shall be sent to all property owners and
 residents within 200 feet of the subject property. (Ord. 1237, 2007)
    D.   Interpretations On File. For more complex interpretations, the Planning
 Director shall keep all code interpretations on file. (Ord. 1080, 2001)
-Division II. – PLANNING COMMISSION
+***** Division II. – PLANNING COMMISSION *****
 Chapter 16.06
 PLANNING COMMISSION
 Sections:
@@ -19567,7 +19567,7 @@ a line item for such expenditures, and placed the same at the disposal of the
 Planning Commission, or has otherwise adopted a resolution to provide the
 administrative method by which the said funds shall be drawn and expended.
 (Ord. 740 section 10.2.90, 1984)
-Division III. – ZONING
+***** Division III. – ZONING *****
 Chapter 16.08
 GENERAL PROVISIONS
 Sections:
@@ -24358,8 +24358,8 @@ encouraged to use colors from, or consistent with, the Sherwin-Williams Arts
 and Crafts color palette (i.e. with the same paint color codes). Additional
 information about this color palette is available from the City of Canby, Canby
 Business Development and/or the Sherwin-Williams Web site. (Ord. 1296, 2008)
-Chapter 16.42
-SIGNS
+**** Chapter 16.42
+SIGNS ****
 Sections:
    
 16.42.010   Purpose.
@@ -29678,7 +29678,7 @@ A.   Invalidity of a section of this ordinance shall not affect the validity
 and application of the remaining sections or parts of sections of this
 ordinance or prohibit the regulation of telecommunications facilities within
 rights-of-way, public and private real property. (Ord. 1539, 12-2-2020)
-Division IV. - LAND DIVISION REGULATION
+***** Division IV. - LAND DIVISION REGULATION *****
 Chapter 16.56
 GENERAL PROVISIONS
 Sections:
@@ -30789,8 +30789,8 @@ standard for the underlying zone.
       4.   Additional park land provided to utilize the density bonus shall be
 consistent with all applicable standards and regulations of Chapter 16.120.
 (Ord. 1338, 2010)
-Chapter 16.66
-Repealed
+**** Chapter 16.66
+Repealed ****
 Chapter 16.68
 SUBDIVISIONS FINAL PROCEDURES AND RECORDATION
 Sections:
@@ -30929,7 +30929,7 @@ be prepared as provided by Oregon Revised Statutes Chapter 92. Approval of the
 final plat shall be null and void if the plat is not recorded within six months
 of the date of the signature of the Planning Director. (Ord. 740 section
 10.4.40(C)(9)(g), 1984; Ord 1237, 2007)
-Division V. – PLANNED UNIT DEVELOPMENT AND CONDOMINIUM REGULATIONS
+***** Division V. – PLANNED UNIT DEVELOPMENT AND CONDOMINIUM REGULATIONS *****
 Chapter 16.70
 GENERAL PROVISIONS
 (Ord. 890 section 55, 1993)
@@ -31464,7 +31464,7 @@ locations which are near commercial services. (Ord. 740 section 10.5.90 (E),
 The Commission shall require adequate assurance that any development proposed
 under the conditions of this chapter will be restricted to occupancy by the
 elderly, handicapped, or such caretakers as may be necessary.
-Division VI. – ANNEXATIONS
+***** Division VI. – ANNEXATIONS *****
 Chapter 16.84
 REGULATIONS
 Sections:
@@ -31674,7 +31674,7 @@ in the Oregon Revised Statutes. (Ord. 981 section 42, 1997)
 [https://export.amlegal.com/media/cd458fd172c985d17c0e1e32c0d17d2dae159393/
 IMAGES/0-0-0-7002.png]
 Figure 16.84.040
-Division VII. – STREET ALIGNMENTS
+***** Division VII. – STREET ALIGNMENTS *****
 Chapter 16.86
 REGULATIONS
 Sections:
@@ -31731,7 +31731,7 @@ topographical challenges including excessive slopes (35 percent plus), hazard
 areas, steep drainage-ways and wetlands. In such cases, deviations may be
 allowed but the connected continuous pattern must be reestablished once the
 topographic challenge is passed. (Ord. 1340, 2011)
-Division VIII. – GENERAL STANDARDS
+***** Division VIII. – GENERAL STANDARDS *****
 Chapter 16.88
 STANDARDS AND PROCEDURES: GENERAL,
 TEXT AMENDMENTS, COMPREHENSIVE PLAN AMENDMENTS, AND TRANSPORTATION PLANNING
@@ -32585,7 +32585,7 @@ notice to the person requesting reconsideration and as required in subsection
 (B) of this section.
    E.   When reconsideration has been requested, the decision is stayed until
 final action is taken. (Ord. 1514, 2019)
-Division X. - HISTORIC PRESERVATION
+***** Division X. - HISTORIC PRESERVATION *****
 CHAPTER 16.110
 GENERAL PROVISIONS
 Sections:
@@ -32673,7 +32673,7 @@ resources.
 (railroad venue and 99-E, Road of a Thousand Wonders, Territorial and Market
 roads) and waterways (Willamette and Molalla Rivers) to the origin and
 development of the Canby community. (Ord. 905, 1994)
-16.110.015
+** 16.110.015 **
 (Ord. 905, 1994; Deleted by Ord. 1061, 2000)
 16.110.020   Definitions.
 For purposes of Division X, the following definitions apply. Terms not defined
@@ -33556,7 +33556,7 @@ Tax Map 3-1B-33CC; and Tax Lot 2600 of Tax Map 3-1E-33CC.) (Ord. 905, 1994)
 Invalidity of a section or part of a section of this ordinance shall not affect
 the validity of the remaining sections or parts of sections. (Ord. 905,1994)
 16.110 page 15
-Division XI. – PARKS, OPEN SPACE AND RECREATION LAND
+***** Division XI. – PARKS, OPEN SPACE AND RECREATION LAND *****
 Chapter 16.120
 GENERAL PROVISION
 Sections:
@@ -33885,7 +33885,7 @@ reasonable notice, may demand that the deficiency of maintenance be corrected,
 and may enter the open space for maintenance purposes. All costs thereby
 incurred by the City shall be charged to those persons having the primary
 responsibility for maintenance of the open space.
-Division XII. – RIPARIAN PRESERVATION
+***** Division XII. – RIPARIAN PRESERVATION *****
 Chapter 16.130
 GENERAL PROVISIONS
 Sections:
@@ -34153,7 +34153,7 @@ The sections and subsections of this ordinance are severable. The invalidity of
 one section or subsection shall not affect the validity of the remaining
 sections, or permit approvals and prosecutions brought pursuant to this
 section.
-Division XIII. – WETLANDS
+***** Division XIII. – WETLANDS *****
 Chapter 16.140
 GENERAL PROVISIONS
 Sections:

@@ -39,7 +39,8 @@ Ord. No. Eff. Date Short Title and Code Sections Affected
  
 BISHOPVILLE, SOUTH CAROLINA
 CODE OF ORDINANCES
-Local legislation current through Ord. 2023-05, passed 12-13-2023
+2026 S-1 Supplement contains:
+Local legislation current through Ordinance 2026-02, passed 3-3-2026
  
 Published by:
 AMERICAN LEGAL PUBLISHING
@@ -428,7 +429,9 @@ Article I. In General
 property
    
 2-23   Disclosure of confidential information
-   2-24—2-40   Reserved
+   
+2-24   Freedom of Information Act (FOIA) policy
+   2-25—2-40   Reserved
 Article II. Meetings of Council
    
 2-41   Regular meetings; special meetings; open to public
@@ -885,7 +888,20 @@ for themselves or for any other person.
 the city shall be made by the City Administrator unless alternate spokesperson
 (s) are designated by majority vote of the Council and Mayor.
 (Ord. 2023-034, passed 6-28-2023)
-** §§ 2-24—2-40 RESERVED. **
+§ 2-24 FREEDOM OF INFORMATION ACT (FOIA) POLICY.
+   (A)   Purpose. It is the policy of the city to comply with both the letter
+and the spirit of the South Carolina FOIA in providing public access to records
+not otherwise exempt from disclosure under FOIA.
+   (B)   Definitions. For purposes of this policy, terms shall have the same
+meanings as defined in S.C. Code § 30-4-10 et seq., and applicable Attorney
+General opinions.
+   (C)   Public records requests. All requests for public documents pursuant to
+FOIA, shall be handled as outlined in the FOIA policy attached to Ord. 2026-01,
+on file with the Municipal Clerk, and adopted herein by reference.
+   (D)   Costs for processing requests. Pursuant to S.C. Code § 30-4-10, a fee
+schedule is incorporated in the FOIA policy.
+(Ord. 2026-01, passed 3-3-2026)
+** §§ 2-25—2-40 RESERVED. **
 **** ARTICLE II. MEETINGS OF COUNCIL ****
 § 2-41 REGULAR MEETINGS; SPECIAL MEETINGS; OPEN TO PUBLIC.
    (A)   The regular meetings of Council shall be held on the first Tuesday of
@@ -2379,7 +2395,9 @@ Division 1. Generally
 8-40   Severability
    
 8-41   Classification and rates
-   8-42—8-60   Reserved
+   
+8-42   Business license application
+   8-43—8-60   Reserved
 Division 2. Telecommunications Services
    
 8-61   License fee based on gross income
@@ -2392,7 +2410,7 @@ Division 2. Telecommunications Services
    
 Appendix A: Business License Rate Schedule
    
-Appendix B: 2021 Business License Class Schedule by NAICS Code
+Appendix B: 2025 Business License Class Schedule by NAICS Code
 **** ARTICLE I. IN GENERAL ****
 § 8-1 PRICE GOUGING IN CRISIS; PROHIBITED.
    It shall be illegal in the city for any business to raise their prices on
@@ -2863,7 +2881,31 @@ classification most specifically applicable to a subject business.
    (D)   A copy of the class schedule and rate schedule shall be filed in the
 office of the Municipal Clerk.
 (Ord. 2021-08, passed 12-7-2021; Ord. 2022-01, passed 3-1-2022)
-** §§ 8-42—8-60 RESERVED. **
+§ 8-42 BUSINESS LICENSE APPLICATION.
+   (A)   Adoption of the South Carolina Standardized Business License
+Application. The City of Bishopville hereby adopts the South Carolina
+Standardized Business License Application. The application is attached and
+incorporated into Ord. 2025-05, on file with the Municipal Clerk, as “Exhibit
+A” and adopted herein by reference. This application shall be used for all
+business license renewals and new applications.
+   (B)   Business license processing and issuance policy.
+      (1)   Same-day processing or issuance of a business license is not
+guaranteed and should not be expected for new applications.
+      (2)   All new and renewal business license applications, along with any
+required supporting attachments or documentation, must be submitted using the
+South Carolina Standardized Business License Application.
+      (3)   New applications will be received by the business license official,
+and by any other relevant city departments as needed, for compliance with city
+ordinances, zoning requirements, public safety standards, and state law prior
+to issuance.
+      (4)   The applicant shall be issued either an approval or a denial within
+seven to ten business days, provided no additional review or investigation is
+required based on zoning, public safety, or regulatory compliance as determined
+by the business license official. If further review is necessary, the applicant
+will be notified and informed of any additional information or documentation
+required.
+(Ord. 2025-05, passed 12-10-2025)
+** §§ 8-43—8-60 RESERVED. **
 *** DIVISION 2. TELECOMMUNICATIONS SERVICES ***
 § 8-61 LICENSE FEE BASED ON GROSS INCOME.
    (A)   Notwithstanding any other provisions of this division, business
@@ -3050,18 +3092,48 @@ feet wide and seven feet long and $12.50 per table longer than that.
 (Ord. 2021-08, passed 12-7-2021; Ord. 2022-01, passed 3-1-2022; Ord. 2023-05,
 passed 12-13-2023)
 APPENDIX B
-2021 BUSINESS LICENSE CLASS SCHEDULE BY NAICS CODE
- 
-NAICS Sector/Subsector Industry Sector                Class
-31 - 33                Manufacturing                  3
-44 - 45                Retail trade                   1
-48 - 49                Transportation and warehousing 1
+2025 BUSINESS LICENSE CLASS SCHEDULE BY NAICS CODE
+NAICS Sector/Subsector Industry Sector Class
+NAICS Sector/Subsector Industry Sector                                  Class
+11                     Agriculture, forestry, hunting and fishing       1
+21                     Mining                                           3
+22                     Utilities                                        1
+31 - 33                Manufacturing                                    3
+42                     Wholesale trade                                  1
+44 - 45                Retail trade                                     1
+48 - 49                Transportation and warehousing                   2
+51                     Information                                      4
+52                     Finance and insurance                            7
+53                     Real estate and rental and leasing               6
+54                     Professional, scientific, and technical services 4
+55                     Management of companies                          7
+56                     Administrative and support and waste management  3
+                       and remediation services
+61                     Educational services                             3
+62                     Health care and social assistance                3
+71                     Arts, entertainment, and recreation              3
+721                    Accommodation                                    1
+722                    Food services and drinking places                2
+81                     Other services                                   3
 Class 8                Subclasses
-2023 Class Schedule is based on a three-year average (2017 - 2019) of IRS
+23                     Construction                                     8.1
+482                    Rail transportation                              8.2
+517111                 Wired telecommunications carriers                8.3
+517112                 Wireless telecommunications carriers (except     8.3
+                       satellite)
+517122                 Agents for wireless telecommunications services  8.3
+5241                   Insurance carriers                               8.4
+5242                   Insurance brokers for non-admitted insurance     8.4
+                       carriers
+713120                 Amusement parks and arcades                      8.51
+713290                 Non-payout amusement machines                    8.52
+713990                 All other amusement and recreational industries  8.6
+                       (pool tables)
+2025 Class Schedule is based on a three-year average (2019 - 2021) of IRS
 statistical data
  
 (Ord. 2021-08, passed 12-7-2021; Ord. 2022-01, passed 3-1-2022; Ord. 2023-05,
-passed 12-13-2023)
+passed 12-13-2023; Ord. 2025-03, passed 10-14-2025)
 CHAPTER 9: RESERVED
 [Reserved]
 CHAPTER 10: FAIR HOUSING
@@ -7850,7 +7922,9 @@ Article II. Water and Sewerage Systems
 34-26   Water service outside corporate limits
    
 34-27   Water supply emergencies; penalties
-   34-28—34-40   Reserved
+   
+34-28   Annexation
+   34-29—34-40   Reserved
 Article III. Underground Utilities
    
 34-41   “Person” defined
@@ -8073,9 +8147,7 @@ Division 9. Administrative Enforcement and Penalties
 34-319   Penalty
    
 34-320   List to be published
-   
-34-321   Annexation
-   34-322—34-340   Reserved
+   34-321—34-340   Reserved
 Article VIII. Drought Response
 Division 1. Generally
    
@@ -8174,7 +8246,33 @@ person shall be subject to said penalty until such offender shall have been
 notified of said proclamation and afforded the opportunity to refrain from any
 further violation. Failure on the part of any such offender to comply after
 notice shall subject each offender to the penalty herein provided.
-** §§ 34-28—34-40 RESERVED. **
+§ 34-28 ANNEXATION.
+   (A)   It shall be the policy of the city to require that the owner of any
+property located outside of the city (a “subject property”) requesting either a
+new or upgraded connection to either or both of the city’s water and sewer
+utility systems (the “utility system”) be required to annex into the city at
+such time as the subject property is contiguous to the corporate boundaries of
+the city.
+   (B)   If the subject property is contiguous to the city at the time such
+request is made, the owner of such property shall be required to submit an
+annexation petition to the city prior to the connection to the utility system
+being made.
+   (C)   If the subject property is not contiguous to the corporate boundaries
+of the city at the time such request is made, the owner of the subject property
+shall be required to execute a declaration of annexation covenant prior to any
+connection to the utility system being made. By its terms, the declaration of
+annexation covenant shall require the owner of the subject property, or any
+subsequent owner, to take any and all actions necessary to annex the subject
+property, any portion thereof, or any larger property to which the subject
+property was added, into the city at such time as the subject property, any
+portion thereof, or any larger property to which the subject property was added
+becomes contiguous to the corporate boundaries of the city.
+   (D)   The City Council may waive this requirement with respect to any
+property through the adoption of a resolution that includes specific findings
+in connection with the justifications of such waiver and a finding that such
+waiver is in the best interest of the city and its citizens.
+(Ord. 2026-02, passed 3-3-2026)
+** §§ 34-29—34-40 RESERVED. **
 **** ARTICLE III. UNDERGROUND UTILITIES ****
 § 34-41 “PERSON” DEFINED.
    For the purpose of this article, the word PERSON shall include an individual
@@ -9461,21 +9559,7 @@ noncompliance with any of the pretreatment requirements or standards during the
 12 previous months. The notification shall also summarize any enforcement
 actions taken against the industrial discharger(s) during the same 12 months.
 (Ord. 02-01, passed 5-7-2002)
-§ 34-321 ANNEXATION.
-   As a condition precedent to the connection of sewer lines to the property of
-any person, firm, corporation or organization, the following requirements shall
-be agreed to by the applicant for such service prior to the installation
-thereof.
-   (A)   At any time, subsequent to the connection of the sewer lines, should
-any part of the property to which the utility has been connected become
-contiguous to the corporate limits of the city, the owners of said property
-shall cause said property to be annexed as a part of the city.
-   (B)   The city reserves the right to discontinue service until the property
-has been annexed.
-   (C)   The City Administrator shall prepare a “sewer service contract” which
-shall be in similar form as the attachment hereto, to effect the provisions of
-this article.
-** §§ 34-322—34-340 RESERVED. **
+** §§ 34-321—34-340 RESERVED. **
 **** ARTICLE VIII. DROUGHT RESPONSE ****
 *** DIVISION 1. GENERALLY ***
 § 34-341 DECLARATION OF POLICY AND AUTHORITY.
@@ -10043,7 +10127,9 @@ Title 6                     14-1
 23-31-520                   20-71
 23-36-150                   Ch. 12
 23-43-10                    Zoning Ordinance
-30-4-10 et seq.             2-52
+30-4-10                     2-24
+30-4-10 et seq.             2-24;
+                            2-52
 30-4-60                     2-52
 30-4-70                     2-52
 30-4-80                     2-41
@@ -10253,6 +10339,10 @@ Ord. No.  Date Passed Code Section
                       2-23
 2023-05   12-13-2023  Ch. 8, App. A;
                       Ch. 8, App. B
+2025-03   10-14-2025  Ch. 8, App. B
+2025-05   12-10-2025  8-42
+2026-01   3-3-2026    2-24
+2026-02   3-3-2026    34-28
                      
  
  
