@@ -69,9 +69,20 @@ function count_changed_files() {
 
 function count_unpushed_commits() {
 	# Print how many local commits have not been pushed to the remote yet
-	git rev-list --count '@{upstream}..HEAD' 2>/dev/null || echo 0
-	# '@{upstream}..HEAD' means "commits on my branch that the remote lacks"
-	# If no upstream branch is set, the command fails and we report 0
+	local unpushed_commits_count
+	# Declare a local variable to hold the result
+
+	if unpushed_commits_count="$(git rev-list --count '@{upstream}..HEAD' 2>/dev/null)"; then
+		# '@{upstream}..HEAD' means "commits on my branch that the remote lacks"
+		# Enter this block if Git answered successfully
+		echo "${unpushed_commits_count}"
+		# Print the real count
+	else
+		# Git failed, usually because no upstream branch is set
+		echo 0
+		# Report 0 so the rest of the script keeps working
+	fi
+	# End of the upstream check
 }
 
 function get_current_epoch_seconds() {
@@ -92,11 +103,19 @@ function is_sync_trigger_reached() {
 	local seconds_since_last_push="$2"
 	# Save the second argument under a readable name
 
-	[[ "${changed_files_count}" -ge "${CHANGED_FILES_PUSH_THRESHOLD}" ]] && return 0
-	# Too many files changed -> trigger reached
+	if [[ "${changed_files_count}" -ge "${CHANGED_FILES_PUSH_THRESHOLD}" ]]; then
+		# Check whether too many files have changed
+		return 0
+		# Too many files changed -> trigger reached
+	fi
+	# End of the changed-files check
 
-	[[ "${seconds_since_last_push}" -ge "${MAX_SECONDS_BETWEEN_PUSHES}" ]] && return 0
-	# Too much time has passed -> trigger reached
+	if [[ "${seconds_since_last_push}" -ge "${MAX_SECONDS_BETWEEN_PUSHES}" ]]; then
+		# Check whether too much time has passed since the last push
+		return 0
+		# Too much time has passed -> trigger reached
+	fi
+	# End of the elapsed-time check
 
 	return 1
 	# Neither condition was met -> no trigger yet
@@ -205,16 +224,29 @@ function sync_changes_to_remote() {
 
 	if [[ "${changed_files_count}" -gt 0 ]]; then
 		# Only commit when there is something new to commit
-		stage_and_commit_all_changes || return 1
-		# If staging or committing fails, stop this cycle
+		if ! stage_and_commit_all_changes; then
+			# Try to stage and commit; enter this block if that fails
+			return 1
+			# Stop this cycle because the commit step failed
+		fi
+		# End of the staging/commit check
 	fi
 	# End of the commit step
 
-	pull_latest_changes_with_rebase || return 1
-	# Commit first, then rebase: the working tree is clean so no stash is needed
+	if ! pull_latest_changes_with_rebase; then
+		# Commit first, then rebase: the working tree is clean so no stash is needed
+		# Enter this block if the pull/rebase fails
+		return 1
+		# Stop this cycle because the pull failed
+	fi
+	# End of the pull check
 
-	push_commits_to_remote || return 1
-	# Upload everything; stop this cycle if the push fails
+	if ! push_commits_to_remote; then
+		# Upload everything; enter this block if the push fails
+		return 1
+		# Stop this cycle because the push failed
+	fi
+	# End of the push check
 
 	return 0
 	# Every step worked
