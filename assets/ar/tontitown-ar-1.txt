@@ -1,7 +1,7 @@
 TONTITOWN, ARKANSAS
 CODE OF ORDINANCES
-2026 S-66 Supplement contains:
-Local legislation current with legislation passed through May 19, 2026
+2026 S-67 Supplement contains:
+Local legislation current with legislation passed through August 3, 2026
  
 Published by:
 American Legal Publishing
@@ -12,18 +12,17 @@ Internet: http://www.amlegal.com
 CITY OFFICIALS
 Angela Russell, Mayor
 Misty Piazza, City Council: Ward 1, Position 1
-Amber Ibarra, City Council: Ward 1, Position 2
+Mick Wagner, City Council: Ward 1, Position 2
 Daniel Montez, City Council: Ward 2, Position 1
 Larry Ardemagni, City Council: Ward 2, Position 2
 Mike Washkowiak, City Council: Ward 3, Position 1
 Tim Burress, City Council: Ward 3, Position 2
 Rhonda Ardemagni, Clerk-Treasurer
-Tom Conklin, Northwest Regional Planning
-James Clark, Public Works Director
-(Water Department)
+Brad Spurlock, City Planner
+James Clark, Water and Sewer Manager
 Mark Latham, Community Development Director
 (Building, Street, and Park Department)
-Justin Eichmann, City Attorney
+Tyler Farrar, City Attorney
 Ross Noland, Environmental Attorney
 Corey Jenison, Chief of Police
  
@@ -557,15 +556,6 @@ Chapter
    
 35.   FINANCE
 CHAPTER 30: CITY COUNCIL AND CITY OFFICIALS
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
-IMAGES/0-0-0-4262.jpg]Publisher's Note: This Chapter has been AMENDED by new
-legislation (Ord. 2026-08-1320, adopted 8-3-2026). The text of the amendment
-will be incorporated below when the ordinance is codified.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
-IMAGES/0-0-0-4262.jpg]Publisher's Note: This Chapter has been AMENDED by new
-legislation (Ord. 2026-08-1322, adopted 8-3-2026). The text of the amendment
-will be incorporated below when the ordinance is codified.
- 
 Section
 City Council
    
@@ -580,7 +570,14 @@ City Council
 30.05   Order of business
    
 30.06   Public comments
-   30.07 - 30.25 [Reserved]
+   
+30.07   Written monthly reports
+   
+30.08   Agenda items and agenda amendments
+   
+30.09   Closing comments
+   
+30.10 - 30.25 [Reserved]
    
 30.26   Rules governing conduct in meetings
    
@@ -598,20 +595,17 @@ City Officials
 30.52   City Clerk-Treasurer
    
 30.53   Building Official
+   
+30.54   Planning Director
+   
+30.55   Municipal Technology and Administrative Services Coordinator
 **** CITY COUNCIL ****
 § 30.01 MEETINGS OF THE COUNCIL; TIME AND NOTICE.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
-IMAGES/0-0-0-4262.jpg]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 2026-07-1308, adopted 7-21-2026). The text of the amendment
-will be incorporated below when the ordinance is codified.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
-IMAGES/0-0-0-4262.jpg]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 2026-07-1310, adopted 7-21-2026). The text of the amendment
-will be incorporated below when the ordinance is codified.
    (A)   The date for the regular legislative meetings of the City Council
-shall be on the third Tuesday of each month unless rescheduled by a simple
-majority vote of the Council. The City Council also meets as the Committee of
-the Whole on the first Tuesday of each month.
+shall be on the first Tuesday and third Tuesday of each month unless
+rescheduled by a simple majority vote of the City Council. If a meeting date
+falls upon a legal holiday, the meeting shall occur at such time as established
+by the City Council.
    (B)   The City Council shall provide the times and places of holding its
 meeting, which shall be open at all times to the public.
    (C)   (1)   The Mayor or any three members of City Council may call a
@@ -649,19 +643,23 @@ available at the time shall be available for pick up at City Hall and sent via
 email no later than noon on Friday prior to the meeting.
    (F)   The Mayor and any of the City Council may sponsor items on any meeting
 agenda.
-   (G)   If a quorum of the City Council is present as set forth in §
-30.04 below, a City Council Member who is not physically present at the meeting
-or special meeting of the City Council may attend, participate and vote in the
-meeting by an appropriate electronic means which shall ensure the public’s
-ability to hear and understand any comments, motions or votes by the absent
-City Council member.
+   (G)   A member of the City Council may attend, participate in, and vote at a
+meeting of the City Council or the Committee of the Whole by electronic means
+only to the extent authorized by applicable Arkansas law. Any remote
+participation shall comply with all requirements of the Arkansas Freedom of
+Information Act, as amended, including any requirements regarding the physical
+presence of members, public notice, public access to the meeting, the public’s
+ability to contemporaneously hear all discussion and votes, and any other
+requirements imposed by state law. In the event of any conflict between this
+Code and Arkansas law, Arkansas law shall govern.
 (Ord. 14, passed 7-11-16; Am. Ord. 2005-3-204, passed 3-1-05; Am. Ord. 2006-12-
 05-275, passed 12-5-06; Am. Ord. 2009-04-335, passed 4-7-09; Am. Ord. 2012-10-
 398, passed 10-2-12; Am. Ord. 2013-02-406, passed 2-5-13; Am. Ord. 2015-01-503,
 passed 1-6-15; Am. Ord. 2019-02-828, passed 2-5-19; Am. Ord. 2019-03-832,
 passed 3-5-19; Am. Ord. 2021-02-917, passed 2-2-21; Am. Ord. 2023-01-1026,
 passed 1-3-23; Am. Ord. 2023-02-1032, passed 2-21-23; Am. Ord. 2026-02-1256,
-passed 2-17-26)
+passed 2-17-26; Am. Ord. 2026-07-1308, passed 7-21-26; Am. Ord. 2026-07-1310,
+passed 7-21-26)
 § 30.02 COMPENSATION.
    (A)   From and beginning the first Monday of May, 1933, the Mayor of the
 incorporated city shall receive a compensation for his or her services to the
@@ -702,84 +700,166 @@ applicable to establishing a quorum for a special meeting of the City Council.
 (Ord. 2013-02-406, passed 2-5-13; Am. Ord. 2015-01-503, passed 1-6-15; Am. Ord.
 2021-02-917, passed 2-2-21)
 § 30.05 ORDER OF BUSINESS.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
-IMAGES/0-0-0-4262.jpg]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 2026-07-1311, adopted 7-21-2026). The text of the amendment
-will be incorporated below when the ordinance is codified.
-   Regular sessions of the City Council shall proceed under the following
-pattern; which shall be reduced to writing in the form of an agenda distributed
-to Council members prior to the meeting:
-   (A)   Call to order;
-   (B)   Roll call;
-   (C)   Invocation;
-   (D)   Pledge of allegiance;
-   (E)   Approval of the agenda;
-   (F)   Approval of the minutes;
-   (G)   Approval of the city financial reports;
-   (H)   Reports:
-      (1)   Museum;
-      (2)   Police;
-      (3)   Fire;
-      (4)   Public works;
-      (5)   Building; and
-      (6)   Planning.
-   (I)   Old business; presentation of ordinances, resolutions, motions or
-discussion items;
-   (J)   New business; presentation of ordinances, resolutions, motions or
-discussion items;
-   (K)   Public comment; public comment will be limited to one public comment
-period at the end of each regular session (before Adjournment). During public
-comment, citizens may address any agenda or non-agenda item. In order to
-preserve meeting flow, there shall be no additional public comment on agenda
-items earlier in the meeting;
-   (L)   Reports from the Mayor, the City Council and the City Attorney if any;
-   (M)   Announcements; and
-   (N)   Adjournment.   
+   (A)   The order of business for regular meetings of the City Council shall
+be substantially as follows:
+      (1)   Call to order;
+      (2)   Invocation and Pledge of Allegiance;
+      (3)   Roll call;
+      (4)   Approval of minutes;
+      (5)   Approval of consent agenda, if applicable;
+      (6)   Old business;
+      (7)   Public comments on agenda items;
+      (8)   New business;
+      (9)   Closing comments;
+      (10)   Adjournment.
+   (B)   The presiding officer may alter the order of business when necessary
+for the efficient conduct of city business, provided such modification does not
+violate applicable law.
+   (C)   Failure to strictly follow the order of business shall not invalidate
+any action taken by the City Council.
 (Ord. 2013-02-406, passed 2-5-13; Am. Ord. 2015-01-503, passed 1-6-15; Am. Ord.
 2019-02-828, passed 2-5-19; Am. Ord. 2019-03-832, passed 3-5-19; Am. Ord. 2021-
 02-917, passed 2-2-21; Am. Ord. 2023-02-1031, passed 2-7-23; Am. Ord. 2023-04-
-1046, passed 4-18-23; Am. Ord. 2025-11-1236, passed 11-18-25)
+1046, passed 4-18-23; Am. Ord. 2025-11-1236, passed 11-18-25; Am. Ord. 2026-07-
+1311, passed 7-21-26)
 § 30.06  PUBLIC COMMENTS.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
-IMAGES/0-0-0-4262.jpg]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 2026-07-1311, adopted 7-21-2026). The text of the amendment
-will be incorporated below when the ordinance is codified.
-   (A)   There shall be a 15-minute public comment period during regular
-meetings of the City Council of not more than 15 minutes in which the City
-Council shall receive comments from members of the public. The City Council
-shall listen, but not enter into discussions or debate the person commenting.
-The Council may take note of any comment and offer to make arrangements to
-speak further with that person after the Council meeting concludes or a later
-date.
-   (B)   Each speaker during public comment session shall be limited to three
-minutes to make his or her remarks. If more than five people desire to speak at
-either session, the Mayor or Chair may reduce the time for each speaker to two
-minutes. The Mayor may also provide for an extension of the 15-minute public
-comment period, upon the receipt of a motion and majority consent of the City
-Council, if good cause exists.
-   (C)   The Mayor or presiding officer shall administer public comment periods
-and shall be responsible for enforcing time limits on speakers and shall direct
-and insure that speakers during public comment period refrain from the use of
-obscene, abusive, personal attacks, inflammatory language or other improper or
-disruptive conduct.
-   (D)   Individuals who use obscene or abusive language or make obscene
-gestures under conditions likely to provoke a disorderly response from persons
-present at the meeting, or to disrupt the orderly conduct of the meeting, may
-be cited, or if deemed necessary by the Chief of Police or his/her designee,
-arrested for disorderly conduct or other appropriate criminal violations.
-Violators who persist in the use of the use of obscene, abusive, personal
-attacks, inflammatory language or other improper or disruptive conduct may be
-prohibited from speaking during public comment period. However, no speaker is
-to be curtailed for remarks that are merely critical in nature.
-   (E)   This section shall not affect statutorily required public hearing
-periods held during City Council meetings. During such statutorily required
-public hearing periods, the Mayor or the presiding officer shall administer and
-set forth the rules of the public comment period in a manner to insure that all
-person wishing to be heard have their opportunity to speak.
+   (A)   Purpose. The purpose of the public-comment period is to allow citizens
+an opportunity to provide comments concerning matters appearing upon the
+published agenda prior to council consideration of new business.
+   (B)   Agenda items only. Oral public comments shall be limited to matters
+appearing upon the published agenda for the meeting. The City Council may
+provide a separate period for comments on non-agenda matters at its discretion
+and upon a two-thirds vote of the members present.
+   (C)   Physical presence required. Any person wishing to provide oral public
+comment must be physically present at the meeting location.
+   (D)   Speaker registration.
+      (1)   Individuals wishing to address the City Council shall sign the
+speaker roster prior to commencement of the public comment period.
+      (2)   The speaker registration form shall require the speaker’s name and
+physical residential address.
+      (3)   By signing the registration form, the speaker certifies that the
+information provided is true and correct to the best of the speaker’s
+knowledge.
+      (4)   The speaker roster shall become part of the meeting record and
+shall be maintained by the Clerk-Treasurer in accordance with applicable
+records-retention requirements.
+   (E)   Time limits.
+      (1)   Individual speakers shall be limited to three minutes.
+      (2)   No speaker may transfer, assign, or yield his or her time to
+another person.
+      (3)   The total public comment period shall not exceed 15 minutes unless
+extended by majority vote of the City Council.
+      (4)   Upon expiration of the 15-minute period, no additional speakers
+shall be recognized unless additional time is authorized by majority vote of
+the City Council.
+   (F)   Decorum and conduct.
+      (1)   Speakers shall address the City Council as a body and shall not
+engage in debate with council members, city officials, city employees, or other
+members of the public.
+      (2)   No person shall disrupt the orderly conduct of the meeting through
+shouting, repeated interruptions, threatening conduct, refusal to yield the
+floor upon expiration of allotted time, physical intimidation, or other conduct
+that materially interferes with the ability of the City Council to conduct its
+business.
+      (3)   A person who materially disrupts the meeting after receiving a
+warning from the presiding officer may be directed to cease the disruptive
+conduct and, upon continued disruption, may be removed from the meeting.
+      (4)   Nothing contained in this section shall be construed to prohibit
+criticism of governmental policies, governmental actions, elected officials,
+appointed officials, or city employees.
+      (5)   These rules shall be applied uniformly and without regard to the
+speaker’s viewpoint or position on any issue.
+   (G)   Relevance. The presiding officer may rule comments out of order when
+such comments are unrelated to the published agenda item being addressed. Such
+determination shall be content-neutral and based solely upon relevance to the
+agenda item under discussion.
+   (H)   Non-agenda matters. Persons wishing to communicate with the City
+Council concerning matters not appearing upon the published agenda shall submit
+such comments in writing to the Clerk-Treasurer.
+   (I)   Distribution of written comments. Written comments received by the
+Clerk-Treasurer shall be distributed to the Mayor and each member of the City
+Council and retained in accordance with applicable public-records retention
+requirements.
+   (J)   Remote participation. Participation through Zoom, telephone, video
+conference, social media platform, electronic messaging platform, or any other
+electronic means shall not constitute oral public comment unless specifically
+authorized by ordinance or by action of the City Council for a particular
+meeting.
+   (K)   Written comments permitted. Nothing contained herein shall prohibit
+the submission of written comments by any person regardless of attendance at
+the meeting.
 (Ord. 2013-02-406, passed 2-5-13; Am. Ord. 2015-01-503, passed 1-6-15; Am. Ord.
 2016-07-585, passed 7-5-16; Am. Ord. 2019-02-828, passed 2-5-19; Am. Ord. 2019-
-03-832, passed 3-5-19)
-§§ 30.07 - 30.25 [RESERVED].
+03-832, passed 3-5-19; Am. Ord. 2026-07-1311, passed 7-21-26)
+§ 30.07 WRITTEN MONTHLY REPORTS.
+   (A)   Any provision of the Tontitown Municipal Code requiring the submission
+or presentation of reoccurring departmental reports on a monthly basis shall be
+satisfied by electronic submission in accordance with this section unless a
+specific ordinance expressly requires an in-person presentation.
+   (B)   Unless otherwise specifically required by ordinance, each department
+head required to provide a monthly report shall transmit such report by
+electronic mail no later than the fifteenth day of the month following the
+reporting period.
+   (C)   Such report shall be transmitted to:
+      (1)   The Mayor;
+      (2)   Each member of the City Council;
+      (3)   The Clerk-Treasurer;
+      (4)   The City Attorney; and
+      (5)   Any other officials designated by ordinance or administrative
+policy.
+   (D)   All monthly reports required by this section shall be included in the
+next available City Council meeting packet and shall be made available to the
+public in the same manner as other meeting packet materials.
+   (E)   The electronic transmission and inclusion of such reports within the
+meeting packet for informational purposes shall satisfy any routine monthly
+reporting requirement unless the City Council specifically requests the
+attendance of a department head to answer questions regarding a submitted
+report.
+   (F)   Routine monthly reports shall not be verbally presented during a
+regular City Council meeting unless specifically listed as a separate agenda
+item.
+(Ord. 2026-07-1311, passed 7-21-26)
+§ 30.08 AGENDA ITEMS AND AGENDA AMENDMENTS.
+   (A)   Any department head, city official, employee, board member, commission
+member, contractor, consultant, or member of the public seeking consideration
+or discussion of a matter by the City Council shall provide supporting
+documentation sufficient to explain the nature, purpose, and requested action,
+if any, concerning the matter and shall obtain sponsorship from a member of the
+City Council for placement upon the agenda.
+   (B)   No matter shall be placed upon the agenda for council consideration
+without sponsorship by a member of the City Council. Departments heads, city
+officials, employees, boards, commissions, consultants, contractors, and
+members of the public may submit agenda items for consideration through a
+sponsoring member of the City Council.
+   (C)   Following publication of an agenda, any proposed addition, deletion,
+or modification of an agenda item shall require a request by a member of the
+City Council and shall include supporting documentation describing the purpose
+and nature of the requested amendment.
+   (D)   No report, presentation, informational item, discussion item,
+ordinance, resolution, motion, contract, agreement, expenditure, purchase,
+appointment, personnel matter, or other item of business shall be received,
+presented, or substantially considered for action by the City Council unless:
+      (1)   It appears upon the published agenda; or
+      (2)   It has been added through a council-sponsored agenda amendment.
+   (E)   Nothing contained herein shall prohibit consideration of emergency
+matters when otherwise authorized by applicable law. Emergency matters may be
+added to the agenda upon a two-thirds vote of the members present.
+(Ord. 2026-07-1311, passed 7-21-26)
+§ 30.09 CLOSING COMMENTS.
+   (A)   The Mayor and each member of the City Council shall be permitted
+closing comments not exceeding three minutes per person.
+   (B)   Closing comments shall be limited to:
+      (1)   Announcements;
+      (2)   Expressions of appreciation;
+      (3)   Recognition of accomplishments;
+      (4)   Requests for future agenda consideration; and
+      (5)   Other informational remarks.
+   (C)   No debate, deliberation, questioning of another member, response to
+public comments, discussion of matters requiring immediate council action, or
+legislative action shall occur during closing comments. Closing comments shall
+not be used to circumvent agenda requirements established by this chapter.
+(Ord. 2026-07-1311, passed 7-21-26)
+§§ 30.10 - 30.25 [RESERVED].
 § 30.26 RULES GOVERNING CONDUCT IN MEETINGS.
    (A)   The City Council shall have the authority to adopt such rules
 governing its meetings as it may deem expedient. Except as provided by rules
@@ -916,10 +996,6 @@ to approving the payment of same.
 (A.C. §§ 14-44-107) (Ord. 2005-3-209, passed 3-15-05; Am. Ord. 2008-1-303,
 passed 1-8-08; Am. Ord. 2009-04-336, passed 4-7-09)
 § 30.52 CITY CLERK-TREASURER.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
-IMAGES/0-0-0-4262.jpg]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 2026-07-1314, adopted 7-21-2026). The text of the amendment
-will be incorporated below when the ordinance is codified.
    (A)   (1)   The offices of City Clerk and City Treasurer for the City of
 Tontitown, Arkansas are hereby established as a combined position, herein after
 known as the City Clerk-Treasurer.
@@ -998,6 +1074,36 @@ the City Council and/or the Mayor as otherwise provided by city ordinances and
 Arkansas law. The City Clerk-Treasurer shall be available as needed and
 appointments may be scheduled by email or calling the City Clerk- Treasurer
 directly.
+   (E)   Office of Clerk-Treasurer.
+      (1)   The Office of Clerk-Treasurer shall be maintained within City Hall
+as an elected municipal office and shall be provided facilities and resources
+reasonably necessary to discharge duties imposed by Arkansas law, municipal
+ordinance, and lawful action of the City Council.
+      (2)   Such facilities may include designated office space, office
+furnishings, secure storage, accounting software access, computer equipment,
+communication equipment, and workspace sufficient for the Clerk-Treasurer to
+perform official duties.
+      (3)   The City Council may appropriate personnel positions intended to
+provide administrative and accounting support to the Office of Clerk-Treasurer.
+Such personnel shall perform duties consistent with Arkansas law, city
+personnel policies, and assignments made through the city’s administrative
+structure.
+      (4)   The City Council may appropriate funds for certified public
+accountants, accounting consultants, or other qualified financial professionals
+to assist the Office of Clerk-Treasurer.
+      (5)   Professional accounting assistance retained by the city shall serve
+in an advisory, technical, and support capacity and shall not alter the
+statutory duties, elected status, or responsibilities of the Clerk-Treasurer
+and shall remain subject to the direction of the City Council or its authorized
+designee as provided by contract.
+      (6)   The City Council may appropriate funds from time to time for
+staffing, equipment, training, software, professional services, and other
+reasonable operational expenses necessary for the Office of Clerk-Treasurer.
+      (7)   Nothing contained herein shall be construed to modify, transfer,
+expand, or diminish any authority vested by Arkansas law in the Mayor, the
+Clerk-Treasurer, or any other municipal official. This division (E) is intended
+solely to authorize the appropriation and provision of resources to facilitate
+the lawful performance of statutory duties.
 (Ord. 2005-3-210, passed 3-15-05; Am. Ord. 2005-3-211, passed 3-15-05; Am. Ord.
 2007-05-289, passed 5-1-07; Am. Ord. 2008-08-320, passed 8-5-08; Am. Ord. 2009-
 02-330, passed 2-3-09; Am. Ord. 2009-04-336, passed 4-7-09; Am. Ord. 2009-04-
@@ -1005,7 +1111,7 @@ directly.
 passed 1-5-11; Am. Ord. 2013-02-410, passed 2-5-13; Am. Ord. 2013-04-416,
 passed 4-2-13; Am. Ord. 2015-08-539, passed 8-11-15; Am. Ord. 2020-05-885,
 passed 5-5-20; Am. Ord. 2021-02-917, passed 2-2-21; Am. Ord. 2025-10-1219,
-passed 10-21-25)
+passed 10-21-25; Am. Ord. 2026-07-1314, passed 7-21-26)
 Statutory reference:
    For similar state provisions, see A.C. § 14-44-109
 § 30.53 BUILDING OFFICIAL.
@@ -1019,6 +1125,569 @@ forth by approved city ordinances, regulations or job description so long as
 such do not conflict with the Arkansas Fire Prevention Code or applicable state
 law.
 (Ord. 2025-10-1220, passed 10-21-25)
+§ 30.54 PLANNING DIRECTOR.
+   (A)   Creation and establishment of position.
+      (1)   There is hereby created and established the position titled
+“Planning Director” and Office of Planning Director for the City of Tontitown,
+Arkansas.
+      (2)   The Planning Director shall be a department head of the city and
+shall serve as the administrative head of the Planning Department.
+      (3)   The Planning Director shall report directly to the Mayor.
+      (4)   The appointment and removal of the Planning Director shall be
+governed by A.C.A. § 14-42-110, as presently enacted or subsequently amended,
+and any other applicable provisions of Arkansas law.
+      (5)   Nothing contained in this section shall be interpreted as limiting,
+enlarging, transferring, or otherwise altering the lawful authority of the
+Mayor or City Council under Arkansas law.
+   (B)   Purpose and function of the Planning Department.
+      (1)   The Planning Department, under the administrative direction of the
+Planning Director, shall serve as the city’s principal staff department for the
+coordination and administration of municipal planning and development-related
+activities. The Planning Department shall provide administrative and
+professional support to the Planning Commission and the City Council without
+exercising authority reserved to either body by Arkansas law or city code.
+      (2)   The purposes of the department shall include:
+         (a)   Providing a clear line of administrative accountability for
+planning and development activities;
+         (b)   Coordinating staff support for municipal planning, zoning,
+subdivision, development review, permitting, building, code enforcement,
+stormwater administration, floodplain administration, GIS, mapping, and related
+development functions;
+         (c)   Providing professional and administrative support to the Mayor,
+City Council, and Planning Commission within their respective lawful
+authorities;
+         (d)   Promoting fair, consistent, and uniform administration of duly
+adopted city ordinances and development regulations;
+         (e)   Coordinating development-related activities among city
+departments, officials, consultants, engineers, attorneys, applicants, property
+owners, and governmental agencies;
+         (f)   Improving the efficiency and predictability of the city’s
+development-review and permitting processes; and
+         (g)   Maintaining clear administrative accountability through the
+Planning Director to the Mayor while preserving the legislative authority of
+the City Council and the independent authority of other officials as
+established by law.
+   (C)   General duties and responsibilities of the Planning Director. Subject
+to applicable Arkansas law, city ordinance, the legislative authority of the
+City Council, and the executive and administrative authority of the Mayor, the
+Planning Director shall:
+      (1)   Administer and coordinate the day-to-day operations of the Planning
+Department;
+      (2)   Provide staff administration and implementation of the city’s
+adopted zoning, subdivision, land-use, development, and related planning
+regulations, subject to the authority assigned by Arkansas law and city
+ordinance to the Planning Commission, City Council, Board of Zoning Adjustment,
+Building Official, and other designated officials;
+      (3)   Coordinate the review and processing of development applications,
+plats, site plans, zoning applications, conditional-use applications, variance
+applications, development permits, and other matters assigned to the Planning
+Department, but exercise approval or denial authority only when expressly
+authorized by Arkansas law or city code;
+      (4)   Serve as the principal staff liaison to the Tontitown Planning
+Commission and Board of Zoning Adjustment;
+      (5)   Prepare or coordinate professional and administrative staff reports
+and recommendations concerning matters presented to the Planning Commission and
+City Council provided that any recommendation shall be advisory and shall not
+predetermine an application or bind the reviewing body;
+      (6)   Coordinate the city’s development-review process with the City
+Engineer, Building Official, Code Enforcement Officer, Fire Department, Public
+Works Department, Water and Sewer Department, City Attorney, and other
+appropriate city officials, employees, consultants, and governmental agencies;
+      (7)   Coordinate permitting and development-review activities to promote
+consistency, efficiency, transparency, and compliance with applicable
+ordinances and laws;
+      (8)   Maintain or supervise the maintenance of official planning, zoning,
+permitting, development, and related records as required by Arkansas law and
+city ordinance;
+      (9)   Assist in the preparation, maintenance, and periodic review of the
+city’s comprehensive plan, land-use plan, master street plan, zoning
+regulations, subdivision regulations, and related development plans and
+policies;
+      (10)   Recommend that the Mayor, Planning Commission, or City Council
+consider proposed amendments to municipal planning and development regulations,
+provided that amendments shall be initiated, reviewed, noticed, heard, and
+adopted only as authorized by Arkansas law and city code;
+      (11)   Coordinate with regional, county, state, and federal governmental
+agencies concerning municipal planning and development matters;
+      (12)   Prepare or assist in preparing departmental budget requests and
+administer appropriated Planning Department funds in accordance with Arkansas
+law, the adopted city budget, and city financial policies;
+      (13)   Coordinate professional planning and development services provided
+by outside consultants retained by the city;
+      (14)   Provide information and technical assistance concerning city
+development requirements to applicants, property owners, developers, citizens,
+city officials, and other interested persons in a fair and consistent manner;
+and
+      (15)   Perform such other planning and development-related duties as may
+lawfully be assigned by the Mayor or established by ordinance.
+   (D)   Administrative organization and supervision.
+      (1)   The Planning Director shall exercise administrative supervision
+over those employees, positions, and functions assigned to the Planning
+Department, by ordinance, the adopted budget, or lawful administrative action
+consistent with Arkansas law and city code. An organizational chart alone shall
+not appoint or remove an employee, amend an ordinance, or transfer lawfully
+vested authority.
+      (2)   Subject to existing ordinances, adopted budgets, and lawful
+personnel assignments, functions coordinated through the Planning Department
+may include:
+         (a)   Planning and zoning administration;
+         (b)   Development and subdivision review;
+         (c)   Planning and permitting support personnel;
+         (d)   Building permitting and inspection administration;
+         (e)   Code enforcement;
+         (f)   Stormwater administration and development-related stormwater
+review;
+         (g)   Floodplain administration and development-related floodplain
+review;
+         (h)   Geographic information system (GIS), mapping, and related
+information support functions; and
+         (i)   Other development-related administrative functions lawfully
+assigned to the Planning Department.
+      (3)   The administrative assignment of an employee, official, or function
+to the Planning Department shall not transfer, diminish, supersede, or
+interfere with any independent authority or responsibility assigned by federal
+law, Arkansas law, professional licensing requirements, adopted technical
+codes, or city ordinance.
+      (4)   Administrative supervision shall include personnel coordination,
+performance management consistent with city policy, workflow, scheduling,
+departmental operations, budgeting, record-keeping, and interdepartmental
+coordination. The Planning Director shall not be authorized to direct another
+elected or city official or licensed professional to make a technical,
+professional, regulatory, or enforcement determination contrary to law or
+applicable professional standards.
+   (E)   Building Official and building functions.
+      (1)   The Building Official and building inspection personnel may be
+administratively assigned within the Planning Department and may report
+administratively to the Planning Director.
+      (2)   The Building Official shall retain all technical, regulatory,
+inspection, and enforcement authority independently assigned to that official
+by Arkansas law, applicable building or fire codes, or city ordinance.
+      (3)   The Planning Director may supervise workflow and lawful
+administrative performance but shall not require the Building Official to
+approve, deny, issue, withhold, or disregard a permit, inspection
+determination, certificate, or enforcement action contrary to Arkansas law or
+city code.
+      (4)   The Planning Director may coordinate administrative procedures,
+departmental workflow, scheduling, records, and interdepartmental
+communications involving building functions.
+   (F)   Code enforcement.
+      (1)   The city’s code enforcement personnel shall be administratively
+assigned to and report through the Planning Director unless otherwise expressly
+provided by ordinance.
+      (2)   Subject to lawful direction from the Mayor and any priorities
+established by ordinance or city policy, the Planning Director may coordinate
+code-enforcement priorities, administrative procedures, case management,
+record-keeping, and interdepartmental activities.
+      (3)   Code enforcement shall be administered fairly, consistently, and
+shall not be selective, discriminatory, or retaliatory in violation of the law.
+      (4)   Nothing in this section authorizes any person to direct an
+enforcement outcome contrary to applicable law, due process, or adopted city
+code. Individual members of the City Council shall not direct city employees or
+intervene in individual enforcement matters except through lawful action of the
+City Council as a body.
+   (G)   City Engineer; stormwater, floodplain, and drainage coordination.
+      (1)   Nothing in this section shall supersede or diminish the authority,
+professional responsibility, or independent technical judgment assigned by law,
+ordinance, contract, or professional licensure to the City Engineer.
+      (2)   The Planning Director shall coordinate administratively with the
+City Engineer on engineering, infrastructure, stormwater, drainage, or
+floodplain matters, within the respective authority assigned to each position
+by law, ordinance, contract, or professional licensure.
+      (3)   Stormwater administration and floodplain administration may be
+organizationally coordinated through the Planning Department; provided,
+however, that any individual designated as the official Stormwater
+Administrator or Floodplain Administrator shall retain those responsibilities
+specifically imposed upon that official by federal law, Arkansas law,
+applicable regulatory requirements, or city ordinance.
+      (4)   The Planning Director may serve in a deputy, coordinating,
+administrative, or record-keeping capacity concerning stormwater and floodplain
+matters when lawfully designated.
+      (5)   Technical engineering determinations requiring the professional
+judgment or licensure of a professional engineer shall remain the
+responsibility of a duly qualified professional engineer.
+      (6)   Nothing in this section shall transfer responsibility for the
+physical maintenance of streets, drainage infrastructure, rights-of-way, or
+other public infrastructure from the department to which those operational
+functions are otherwise assigned by ordinance or the city’s adopted
+organizational structure.
+   (H)   Planning Commission.
+      (1)   Nothing in this section shall diminish, enlarge, transfer, or
+otherwise alter the powers, duties, or responsibilities of the Tontitown
+Planning Commission established by Arkansas law or city ordinance.
+      (2)   The Planning Director shall serve as the principal city staff
+liaison to the Planning Commission and shall provide or coordinate the
+professional and administrative support necessary for the commission to perform
+its lawful duties, including the Planning Commission’s administration of land-
+development regulations under A.C.A. § 14-56-417.
+      (3)   The Planning Director shall not exercise legislative, quasi-
+legislative, or quasi-judicial authority reserved by law to the Planning
+Commission or City Council.
+      (4)   Reports and recommendations prepared by the Planning Director or
+Planning Department are advisory unless decision-making authority is expressly
+delegated by law or ordinance. The Planning Director shall not predetermine a
+matter reserved for hearing or decision by the Planning Commission, Board of
+Zoning Adjustment, or City Council.
+   (I)   Professional and consulting services.
+      (1)   When specialized professional expertise is necessary, the Planning
+Director may recommend that the city obtain professional planning, engineering,
+architectural, GIS, surveying, technical, legal, environmental, or other
+consulting services.
+      (2)   All professional and consulting services shall be obtained in
+accordance with applicable Arkansas law, city purchasing requirements, budget
+appropriations, and any required approval of the Mayor or City Council.
+      (3)   Nothing in this section shall grant the Planning Director
+independent authority to enter into contracts or obligate city funds except to
+the extent expressly authorized by Arkansas law, city ordinance, duly adopted
+budget, or lawful city policy.
+   (J)   Minimum qualifications.
+      (1)   The Planning Director shall possess education, training,
+experience, and demonstrated professional qualifications reasonably related to
+the responsibilities of the position.
+      (2)   Minimum qualifications for the role of Planning Director shall be
+stated in a written job description approved in the manner required by the
+city’s personnel policies and shall be applied consistently in recruitment and
+appointment. Any equivalency provision shall be clearly stated and consistently
+applied. The Planning Director shall obtain and maintain any license,
+certification, or training required by law for a regulated function personally
+performed by the director.
+      (3)   Designation of the Planning Director as a department head does not,
+by itself, determine the position’s status under the Fair Labor Standards Act
+(FLAS) or any city benefit, leave, or personnel policy.
+      (4)   This section does not appoint any person to the position, create an
+employment contract or property interest in employment, establish compensation,
+or appropriate funds. The appointment and removal of the Planning Director
+shall occur under A.C.A. § 14-42-110, and compensation and funding shall be
+established through the city’s lawful budget and compensation processes.
+   (K)   Compliance with law and limitation of authority.
+      (1)   The Planning Director shall perform all duties in accordance with:
+         (a)   The Constitution and laws of the State of Arkansas;
+         (b)   The Tontitown Municipal Code;
+         (c)   Duly adopted ordinances and resolutions of the city;
+         (d)   Applicable federal and state laws and regulations;
+         (e)   The Arkansas Freedom of Information Act;
+         (f)   Applicable building, fire, floodplain, stormwater, planning,
+zoning, subdivision, and development regulations; and
+         (g)   Lawful administrative directives of the Mayor consistent with
+the Mayor’s statutory executive authority.
+      (2)   Nothing in this section shall be interpreted to authorize the
+Planning Director to exercise authority reserved by law to the Mayor, City
+Council, Planning Commission, Clerk-Treasurer, City Attorney, City Engineer,
+Building Official, another elected official, or any independently designated
+municipal official.
+   (L)   Existing references to Community Development Director and related
+positions.
+      (1)   The City Council recognizes that the Tontitown Municipal Code and
+previously adopted ordinances may contain references to the “Community
+Development Director,” “Community Development Department,” “City Planner,”
+“Planning Director,” or other titles associated with planning and development
+functions.
+      (2)   It is the intent of the City Council that the position of Planning
+Director established by this section become the principal department-head
+position responsible for the city’s planning and development administration.
+      (3)   References in existing ordinances to the “Community Development
+Director” that concern functions properly assigned to the Planning Department
+shall be reviewed for amendment to “Planning Director.”
+      (4)   No existing code provision shall be deemed amended solely by
+implication where such amendment would:
+         (a)   Transfer statutory authority assigned to another official;
+         (b)   Transfer technical or professional authority requiring
+independent licensure or certification;
+         (c)   Transfer legislative or quasi-judicial authority assigned to the
+City Council or Planning Commission;
+         (d)   Transfer operational responsibilities assigned to another
+municipal department; or
+         (e)   Create a conflict with Arkansas law.
+      (5)   The City Attorney may prepare or review conforming amendments
+necessary to reconcile existing municipal code references with the
+organizational structure established by this section but no municipal code
+provision shall be amended except by formal action of the City Council.
+      (6)   Until such conforming amendments are adopted, this section shall
+control the administrative status and reporting relationship of the Planning
+Director, while existing substantive assignments of statutory, technical,
+professional, or regulatory authority shall remain in effect unless expressly
+amended.
+   (M)   Organizational structure and future organizational chart.
+      (1)   This section establishes the legal status, general authority,
+departmental responsibilities, and reporting relationship of the Planning
+Director.
+      (2)   The detailed organizational structure of the Planning Department,
+including subordinate employees and administrative assignments, may be
+reflected in an organizational chart and departmental responsibility matrix
+separately adopted or approved by the City Council.
+      (3)   The organizational chart shall be consistent with this section and
+all other applicable provisions of the Tontitown Municipal Code and Arkansas
+law.
+      (4)   No organizational chart, personnel policy, job description,
+administrative directive, or internal operating procedure shall supersede
+Arkansas law or a duly enacted ordinance of the city.
+      (5)   Any future organizational restructuring that materially transfers
+authority established by ordinance shall be accomplished through an appropriate
+amendment to the applicable ordinance and shall not be accomplished solely
+through modification of an organizational chart.
+   (N)   Transition and continuity of operations.
+      (1)   Adoption of this section is intended to clarify and establish the
+city’s administrative structure and shall not, standing alone, abolish any
+existing municipal employment position.
+      (2)   Existing employees performing planning, development, building, code
+enforcement, stormwater, floodplain, GIS, or related functions shall continue
+performing their assigned duties unless and until those duties are lawfully
+modified.
+      (3)   Existing contracts, professional service agreements, permits,
+applications, enforcement proceedings, development approvals, and other pending
+municipal matters shall remain in full force and effect and shall not be
+invalidated solely by the organizational changes established by this section.
+      (4)   The Mayor, Planning Director, City Attorney, and affected
+department heads shall coordinate the orderly implementation of this section
+consistent with their respective lawful authorities.
+(Ord. 2026-08-1322, passed 8-3-26)
+§ 30.55 MUNICIPAL TECHNOLOGY AND ADMINISTRATIVE SERVICES COORDINATOR.
+   (A)   Establishment of position. There is hereby created the position of
+Municipal Technology and Administrative Services Coordinator (“Coordinator”).
+      (1)   The Coordinator shall be a municipal employee of the City of
+Tontitown.
+      (2)   The Coordinator shall be organizationally assigned to the Planning
+Department.
+      (3)   The Coordinator shall be organizationally assigned to the Planning
+Department for the purposes of day-to-day supervision, work coordination, and
+accountability.
+      (4)   The position established in this section is a municipal staff
+position and shall not constitute a separate municipal department, department-
+head position, elected office, statutory office, board, or commission.
+   (B)   Employment.
+      (1)   The recruitment, selection, hiring, compensation, classification,
+discipline, evaluation, and separation of the Coordinator shall be governed by
+applicable Arkansas law, the city’s duly adopted personnel policies and
+compensation plan, and available appropriations.
+      (2)   Nothing in this section creates a contract of employment,
+guarantees employment for a stated term, or alters any employment status
+established by Arkansas law or city policy.
+      (3)   Nothing contained herein shall alter or diminish the lawful
+executive or supervisory authority of the Mayor.
+   (C)   Supervision.
+      (1)   The Coordinator shall report directly to the Planning Director for
+day-to-day supervision, including but not limited to work assignments,
+establishment of priorities, coordination of duties, and performance
+evaluations.
+      (2)   Nothing contained herein shall alter or diminish the executive
+authority vested in the Mayor by Arkansas law.
+   (D)   Technology coordinator role. The Municipal Technology and
+Administrative Services Coordinator shall serve as the city’s technology
+coordinator role.
+      (1)   The Coordinator shall serve as the city’s primary administrative
+point of coordination for municipal technology matters and may be identified
+administratively as the city’s “technology coordinator.”
+      (2)   In this capacity, the Coordinator shall coordinate with city
+departments, technology vendors, software providers, communications providers,
+cybersecurity consultants, and other contracted technology professionals. This
+designation is administrative in nature and does not confer independent policy-
+making, purchasing, contracting, spending, or supervisory authority. It also
+does not designate the Coordinator as the legal custodian of any city records
+for the purposes of the Arkansas Freedom of Information Act.
+   (E)   General authority.
+      (1)   The Coordinator is authorized to coordinate municipal technology
+operations, administer assigned technology systems, recommend technology
+improvements, maintain technology inventories, provide technical assistance to
+municipal departments, and perform such related administrative duties as may be
+assigned by the Planning Director.
+      (2)   Nothing contained herein shall authorize the Coordinator to:
+         (a)   Establish or modify municipal policy;
+         (b)   Execute, amend or terminate contracts on behalf of the city;
+         (c)   Purchase goods or services, obligate city funds or approve any
+payment without authority;
+         (d)   Exercise independent supervisory authority over department
+heads;
+         (e)   Perform duties reserved by Arkansas law to the Mayor, City
+Council, or other municipal officials;
+         (f)   Make final determinations concerning the disclosure,
+withholding, retention, or destruction of public records; or
+         (g)   Represent that the Coordinator possesses authority to bind the
+city.
+   (F)   Duties and responsibilities. The Municipal Technology and
+Administrative Services Coordinator shall perform professional technology
+coordination and administrative support services for the city as assigned by
+the Planning Director. The duties described herein are intended to define the
+general scope of the position and shall not be construed as limiting additional
+duties reasonably related to municipal operations.
+      (1)   Information technology administration. The Coordinator shall:
+         (a)   Coordinate the operation, maintenance, and replacement planning
+of municipal computer hardware, software, servers, workstations, mobile
+devices, and related technology resources.
+         (b)   Coordinate installation, configuration, maintenance, and life-
+cycle management of municipal technology equipment.
+         (c)   Assist in administering municipal computer networks, wireless
+systems, internet connectivity, telephone systems, printers, scanners, and
+other technology infrastructure.
+         (d)   Coordinate cybersecurity measures, including user account
+administration, password management, anti-virus protection, multi-factor
+authentication, backup verification, security awareness, and coordination with
+contracted cybersecurity professionals.
+         (e)   Maintain inventories of municipal technology assets.
+         (f)   Coordinate software licensing and subscription management.
+         (g)   Develop recommendations regarding annual technology replacement
+schedules.
+         (h)   Coordinate disaster-recovery planning and continuity of
+operations for municipal information systems.
+         (i)   Coordinate with technology vendors, consultants, and service
+providers provided that the Coordinator shall not execute or modify a contract,
+authorize additional services, approve expenditure, or otherwise obligate the
+city without requisite lawful authorization.
+         (j)   Prepare recommendations concerning future municipal technology
+improvements.
+         (k)   Perform other technology-related duties assigned by the Planning
+Director.
+      (2)   Geographic information systems (GIS). The Coordinator may:
+         (a)   Maintain municipal geographic information system databases.
+         (b)   Assist in maintaining mapping associated with planning, zoning,
+streets, utilities, drainage, parks, rights-of-way, and municipal facilities.
+         (c)   Coordinate GIS information provided by engineering consultants.
+         (d)   Assist departments utilizing GIS information.
+         (e)   Maintain digital mapping records supporting municipal
+operations.
+      (3)   Planning Department support. The Coordinator shall provide
+technical support to the Planning Department including:
+         (a)   Electronic permitting software;
+         (b)   Digital plan review systems;
+         (c)   Electronic records management;
+         (d)   Support for the retention and organization of Planning
+Department records in accordance with applicable retention requirements and the
+direction of the official records custodian; website updates related to
+planning activities, subject to necessary approval and any applicable city
+communication or website policies;
+         (e)   Planning Commission meeting technology;
+         (f)   Digital file organization;
+         (g)   Administrative technology support.
+      (4)   Administrative services.
+         (a)   The Coordinator may provide administrative support services as
+operational needs require, including but not limited to:
+            1.   Administrative or technology support for water billing, as
+authorized by the official responsible for that function;
+            2.   Customer service assistance;
+            3.   Reception coverage;
+            4.   Electronic document management;
+            5.   Records retention support;
+            6.   Agenda packet preparation;
+            7.   Digital archiving;
+            8.   Asset inventory systems;
+            9.   Purchasing documentation;
+            10.   Grant administration technology support;
+            11.   Fleet management software support;
+            12.   Other administrative assignments consistent with the
+employee’s qualifications.
+         (b)   Administrative support provided under this division (F)(4) shall
+not transfer to the Coordinator any statutory responsibility, records-custodian
+authority, financial-approval authority, or supervisory authority assigned to
+another municipal official or department head.
+      (5)   Public meeting technology.
+         (a)   The Coordinator shall coordinate technology utilized for:
+            1.   City Council meetings;
+            2.   Planning Commission meetings;
+            3.   Boards and commissions;
+            4.   Public hearings;
+            5.   Audio and visual presentation systems;
+            6.   Electronic agenda management;
+            7.   Digital recordings;
+            8.   Live-streaming systems;
+            9.   Electronic archives;
+            10.   Other public meeting technology approved by the Planning
+Director.
+         (b)   Recordings, agenda materials, and other electronic records
+created or maintained under this division (F)(5) shall be preserved and managed
+in accordance with applicable law, city retention requirements, and the
+direction of the appropriate records custodian. The Coordinator shall not
+alter, delete, or dispose of any such record except through an authorized and
+lawful records-management process.
+   (G)   Information security, confidentiality, and records.
+      (1)   The Coordinator shall protect city systems, credentials,
+confidential information, and records in accordance with applicable law and
+city policy, including the Arkansas Freedom of Information Act. Access to city
+systems and information shall be limited to the access reasonably necessary for
+assigned duties and may be modified or revoked by authorized city officials.
+      (2)   The Coordinator shall promptly report suspected unauthorized
+access, data loss, cybersecurity incidents, or material system failures through
+the city’s established reporting chain.
+      (3)   The Coordinator shall not alter, conceal, delete, or dispose of a
+public record except pursuant to an approved retention schedule, lawful
+disposition process, or direction from the authorized records custodian.
+Records subject to a pending Freedom of Information Act request, audit,
+investigation, litigation hold, or other legal preservation obligation shall be
+preserved notwithstanding any otherwise applicable retention schedule.
+   (H)   Cross-training.
+      (1)   The City Council finds that operational continuity is enhanced
+through appropriate cross-training of municipal personnel.
+      (2)   Accordingly, the Coordinator may receive cross-training and may be
+temporarily assigned responsibilities supporting other municipal departments,
+provided such assignments:
+         (a)   Are consistent with the employee’s education, training, and
+experience;
+         (b)   Do not conflict with Arkansas law;
+         (c)   Do not interfere with the primary duties established by this
+section;
+         (d)   Are assigned through the Planning Director or the Mayor; and
+         (e)   Promote continuity of municipal operations.
+      (3)   Nothing contained herein shall be interpreted as permanently
+transferring supervision of another department or creating additional municipal
+departments.
+   (I)   Administrative coordination.
+      (1)   The Coordinator shall assist the Planning Director in developing
+recommendations concerning:
+         (a)   Municipal technology standards;
+         (b)   Technology replacement planning;
+         (c)   Cybersecurity improvements;
+         (d)   Electronic records management;
+         (e)   Technology purchasing specifications;
+         (f)   Municipal software implementation;
+         (g)   Business continuity planning;
+         (h)   Administrative efficiencies through technology.
+      (2)   The Coordinator shall serve in an advisory and administrative
+capacity and shall possess no independent authority to establish municipal
+policy or obligate municipal funds.
+   (J)   Personnel status.
+      (1)   The classification, compensation, overtime status, and other terms
+and conditions of employment applicable to the Coordinator shall be determined
+in accordance with the city’s personnel policies, compensation plan, annual
+budget, and applicable law.
+      (2)   The position shall remain assigned to the Planning Department and
+shall not constitute a department head, elected office, statutory office,
+commission, board, or independent administrative department.
+      (3)   Nothing contained herein shall affect the statutory authority of
+the Mayor, City Council, City Clerk-Treasurer, or any department head
+established by ordinance or Arkansas law.
+   (K)   Administration and interdepartmental coordination.
+      (1)   The Planning Director shall coordinate the implementation and
+administration of this section and shall ensure that the Municipal Technology
+and Administrative Services Coordinator performs duties consistent with the
+operational needs of the city.
+      (2)   The Municipal Technology and Administrative Services Coordinator
+shall provide technology and administrative support services to all city
+departments as directed through the Planning Director and coordinated with the
+department head or official responsible for the affected function.
+      (3)   Nothing contained herein shall be construed as transferring
+supervisory authority over employees assigned to another department. Department
+heads shall retain supervisory authority over employees assigned to their
+respective departments unless otherwise provided by ordinance or Arkansas law.
+      (4)   The Planning Director may assign additional duties reasonably
+related to municipal technology, planning support, electronic records
+management, geographic information systems, administrative services, or other
+operational functions consistent with this section.
+      (5)   Requests involving privileged, confidential, law-enforcement,
+personnel, utility-customer, financial, or security-sensitive information shall
+be handled only with authorization from the official responsible for the
+information and in accordance with applicable law and city policy.
+   (L)   Budget.
+      (1)   The position established by this section shall be funded only
+through appropriations approved by the City Council.
+      (2)   Nothing contained herein shall require the immediate employment of
+additional personnel.
+      (3)   Implementation of this section shall occur as staffing levels and
+budget appropriations permit.
+      (4)   Nothing in this section authorizes an expenditure, purchase,
+contract, subscription, or technology acquisition that has not been separately
+budgeted and approved in accordance with applicable law and city purchasing
+procedures.
+      (5)   The city’s job description for the position may provide additional
+details consistent with this section and may be updated through the process
+established by the city’s personnel policies.
+(Ord. 2026-08-1320, passed 8-3-26)
 CHAPTER 31: DEPARTMENTS, BOARDS, COMMISSIONS AND COMMITTEES
 Section
    
@@ -1026,7 +1695,7 @@ Section
    
 31.02   Museum Commission
    
-31.03   Committee of the Whole
+31.03   [Reserved]
    
 31.04   Water and Sewer Department
    
@@ -1100,52 +1769,29 @@ they are required to travel pursuant to business related to the museum.
 from time to time to the City Council regarding its projects, budgets and
 overall operation.
 (Ord. 167, passed 3-6-03; Am. Ord. 179, passed 5-4-04)
-§ 31.03 COMMITTEE OF THE WHOLE.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
-IMAGES/0-0-0-4262.jpg]Publisher's Note: This Section has been REPEALED by new
-legislation (Ord. 2026-07-1310, adopted 7-21-2026). The text of the amendment
-will be incorporated below when the ordinance is codified.
-   (A)   There is hereby created a Committee of the Whole of the City Council
-(“the Committee”).
-   (B)   The Committee shall be comprised of the duly elected or appointed
-Aldermen of the city.
-   (C)   The Committee shall meet at least monthly on a date and time
-established by the Committee.
-   (D)   At its first meeting of each calendar year the Committee shall elect
-one of its number to serve as the Chairperson of the Committee who shall serve
-for a term of one year.
-   (E)   The Committee may enact bylaws for its operation and functioning. The
-Committee may, as its discretion, create sub-committees, composed citizens of
-the city and one or more Committee members, to address any issue to be
-considered by the Committee. The Committee may also designate one or more of
-its members to be sponsors of particular issues, such as streets, parks and
-recreation, finance, information technology, etc. Sponsors shall function
-similar to sub-committees on the topic they sponsor and shall perform the
-background work necessary to develop issues for consideration of the Committee.
-   (F)   The Committee shall consider the matters heretofore considered by the
-various committees of the City Council, including city streets, parks and
-recreation, and finance, in addition to information technology matters and
-other matters as directed from time to time by the City Council.
-   (G)   The Committee shall report at least monthly to the City Council.
-   (H)   The Committee shall have exclusive management and supervision of
-routine city-related information technology (IT) issues and shall make
-recommendations to the City Council on IT issues which require action or
-expenditure of city funds.
-   (I)   This section shall have no application to or affect upon commissions
-of the city.
-(Ord. 2009-02-330, passed 2-3-09)
+§ 31.03 [RESERVED].
 § 31.04 WATER AND SEWER DEPARTMENT.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
-IMAGES/0-0-0-4262.jpg]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 2026-06-1300, adopted 6-16-2026). The text of the amendment
-will be incorporated below when the ordinance is codified.
-   (A)   Establishing a Water and Sewer Department. There is hereby created a
-Water and Sewer Department of the City of Tontitown, Arkansas. The Water and
-Sewer Department shall report to the Mayor and advise the Council. The City
-Council shall retain full and complete control of all properties of every kind
-and character belonging to the city and used in connection with the waterworks
-and sewer system, whether, subject to exceptions below, said properties are
-situated within or without the corporate limits of the city.
+   (A)   Establishment and control authority.
+      (1)   There is hereby continued and established a municipal Water and
+Sewer Department of the City of Tontitown, Arkansas, which is, and shall
+continue to be, an administrative department of the city government and not as
+an independent commission or separate political entity.
+      (2)   The City Council shall retain full and complete control authority
+over all properties, facilities, infrastructure, equipment, revenues,
+operations, policies, rates, capital improvements, contracts, expenditures, and
+general affairs relating to the municipal waterworks and sewer system, whether
+located within or outside the corporate limits of the city, except as otherwise
+limited by state law or contractual obligations lawfully entered into by the
+city.
+      (3)   The City Council shall serve as the governing and legislative
+authority for the municipal waterworks and sewer system and shall approve
+utility-related contracts, capital expenditures, interlocal agreements, or any
+written agreement or other obligations that requires City Council authorization
+under Arkansas law or city purchasing ordinances or policies.
+      (4)   Any prior ordinance, resolution, policy, organizational chart, or
+reference suggesting that a separate Water and Sewer Commission retains
+governing authority over the municipal waterworks or sewer system is hereby
+repealed, revoked, and superseded.
    (B)   Powers and duties.
       (1)   The Water and Sewer Department shall establish one monthly
 department meeting between the Water and Sewer Department Manager and employees
@@ -1171,7 +1817,54 @@ lines lying outside of the city limits, or NACA's treatment plant.
 annual audits of the operation to the Mayor and City Council, and furnish such
 other or further reports, data, or information as may be requested by the Mayor
 or City Council.
-(Ord. 2015-01-506, passed 1-13-15)
+   (C)   Administrative supervision.
+      (1)   The Water and Sewer Department shall operate under the
+administrative supervision of the Mayor, subject to applicable ordinances,
+budgets, appropriations, and policies lawfully adopted by the City Council.
+      (2)   The Water and Sewer Manager shall be deemed a department head of
+the City of Tontitown and shall report directly to the Mayor regarding day-to-
+day administrative operations, personnel supervision, scheduling, and
+implementation of policies adopted by the City Council.
+      (3)   Administrative supervision by the Mayor shall not be construed to
+diminish or transfer the legislative, financial, contractual, or policy
+authority retained by the City Council as the designated control authority
+governing the municipal waterworks and sewer system.
+      (4)   Nothing contained herein shall be construed to alter or diminish
+the authority of the Mayor under Arkansas law regarding the appointment and
+removal of department heads.
+   (D)   Monthly reporting requirements.
+      (1)   The Water and Sewer Manager shall prepare and provide a written
+monthly departmental report to the City Council and the City Clerk-Treasurer or
+if such office is subsequently separated pursuant to Arkansas law, to both the
+City Clerk and the City Treasurer, by electronic mail no later than the
+fifteenth day of each calendar month.
+      (2)   The monthly report shall summarize and reflect the activities,
+expenditures, projects, operational matters, and business conducted during the
+immediately preceding calendar month.
+      (3)   The report may also be included within the official council agenda
+packet for the next regularly scheduled City Council meeting.
+      (4)   Such report shall include, at minimum, the following:
+         (a)   A summary of departmental activities;
+         (b)   Current and pending infrastructure or construction projects;
+         (c)   Major maintenance activities and operational issues;
+         (d)   A summary of departmental expenditures and budget status;
+         (e)   Pending or anticipated utility contracts or professional service
+agreements;
+         (f)   Regulatory compliance matters presently affecting or reasonably
+anticipated to affect the city’s water and sewer operations;
+         (g)   Significant customer service or operational concerns; and
+         (h)   Such additional information as may reasonably assist the City
+Council in exercising its oversight and control authority responsibilities.
+   (E)   Records retention.
+      (1)   Monthly reports and supporting documentation transmitted pursuant
+to this section shall constitute municipal records and shall be retained in
+accordance with applicable Arkansas records- retention laws, city retention
+policies, and the Arkansas Freedom of Information Act requirements.
+      (2)   Whenever practical, reports shall be transmitted in searchable,
+electronic format, such as a PDF, together with any supporting financial
+summaries, project schedules, or attachments customarily maintained by the
+department.
+(Ord. 2015-01-506, passed 1-13-15; Am. Ord. 2026-06-1300, passed 6-16-26)
 § 31.05 FIRE DEPARTMENT.
    (A)   Creation. There is hereby created a city Fire Department to be
 officially known as "The Tontitown Fire Department."
@@ -2689,10 +3382,6 @@ TSS   -   Total Suspended Solids
 U.S.C.   -   United States Code
 (Ord. 2005-8-226, passed 8-2-05)
 § 52.005 DEFINITIONS.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
-IMAGES/0-0-0-4262.jpg]Publisher's Note: This Section has been AMENDED by new
-legislation (Ord. 2026-06-1300, adopted 6-16-2026). The text of the amendment
-will be incorporated below when the ordinance is codified.
    For the purpose of this chapter, the following definitions shall apply
 unless the context clearly indicates or requires a different meaning.
    ACT or THE ACT. The Federal Water Pollution Control Act, also known as the
@@ -2747,9 +3436,12 @@ city's planning area of all building codes.
    COMPOSITE SAMPLE. The sample resulting from the combination of individual
 wastewater samples taken at selected intervals based on an increment of either
 flow or time, as specified by the Control Authority.
-   CONTROL AUTHORITY. The Tontitown Water and Sewer Commission. The Commission
-may delegate its powers to its authorized representative, and to the extent it
-does, this definition shall include any designated representative.
+   CONTROL AUTHORITY. For all matters relating to the legislative, budgetary,
+regulatory, and operational oversight of the municipal waterworks and sewer
+system, the City Council of the City of Tontitown shall constitute and serve as
+the CONTROL AUTHORITY. The term shall include the City Council acting through
+ordinances, resolutions, approved contracts, budgets, policies, and lawful
+directives administered through the Mayor and the Water and Sewer Department.
    ENVIRONMENTAL PROTECTION AGENCY (EPA).  The U.S. Environmental Protection
 Agency or its authorized representative.
    EXISTING SOURCE. Any source of discharge, the construction or operation of
@@ -2934,7 +3626,8 @@ facilities, and institutions.
 provide treatment of municipal sewage and industrial waste.
    WATERCOURSE. A channel in which a flow of water occurs, either continuously
 or intermittently.
-(Ord. 2005-8-226, passed 8-2-05; Am. Ord. 2007-06-291, passed 6-5-07)
+(Ord. 2005-8-226, passed 8-2-05; Am. Ord. 2007-06-291, passed 6-5-07; Am. Ord.
+2026-06-1300, passed 6-16-26)
 § 52.006 USE OF PUBLIC SEWERS REQUIRED.
    (A)   It shall be unlawful for any person to place, deposit, or permit to be
 deposited in any unsanitary manner on public or private property within the
@@ -6917,7 +7610,7 @@ Department. All requests are subject to the adherence to all provisions of the
 Arkansas Fire Code, most current version with revision.
 (Ord. 2014-11-486, passed 11-4-14; Am. Ord. 2016-09-596, passed 9-7-16)
 ***** CHAPTER 94: ANIMAL ABANDONMENT AND DUMPING PROHIBITION *****
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4262.jpg]Publisher's Note: This Chapter has been ADDED by new
 legislation (Ord. 2026-04-1276, adopted 4-21-2026). The text of the amendment
 will be incorporated below when the ordinance is codified.
@@ -7393,7 +8086,7 @@ than $1,000 and imprisoned for not more than six months for each such separate
 offense.
 (Ord. 86, passed 4-3-90)
 CHAPTER 113: LANDFILL ROAD ACCESS RECOVERY USER FEE
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4262.jpg]Publisher's Note: This Chapter has been ADDED by new
 legislation (Ord. 2026-04-1274, adopted 4-21-2026). The text of the amendment
 will be incorporated below when the ordinance is codified.
@@ -10977,7 +11670,7 @@ encouraged when designing streets for the established design speed:
 20)
 § 152.145 [RESERVED].
 § 152.146 GRADING AND DRAINAGE.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4262.jpg]Publisher's Note: This Section has been AMENDED by new
 legislation (Ord. 2026-06-1301, adopted 6-16-2026). The text of the amendment
 will be incorporated below when the ordinance is codified.
@@ -11142,7 +11835,7 @@ half times the height of the wall is either:
 lot, or
             2.   Such distance encroaches on any structure.
                Height of wall X 1.5 ≥ adjacent setback
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-3305.jpg]
  
          (b)   Any retaining walls over four feet in height located adjacent to
@@ -11155,7 +11848,7 @@ neighboring property lines.
       (6)   Sight triangle. Retaining walls over 30 inches constructed near
 street intersections shall not be located in the “sight distance triangle,”
 shown below, in order to provide a reasonable degree of traffic visibility.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-3307.jpg]
  
       (7)   Easements.
@@ -11171,7 +11864,7 @@ public or private access easement.
 shall be located no closer to the lower wall than 1.0 times the height of the
 tallest wall.
          Height of largest wall x 1.0 = Distance between walls
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-3309.jpg]
  
    (F)   Slopes. Slopes of 1:1 or steeper shall be required to comply with the
@@ -11258,7 +11951,7 @@ Unsignalized Driveways    40'-60'
 *GLA - Gross lease-able area
  
    Driveway Throat Length
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-3319.jpg]
  
    (E)   Driveway design, location, and construction standards.
@@ -12193,7 +12886,7 @@ less than $25 nor more than $1,000 for each separate offense.
 (Ord. 2013-04-417, passed 4-2-13; Am. Ord. 2013-09-440, §§ 152.300.03,
 152.1200.05, 152.1400.11, passed 9-3-13; Am. Ord. 2017-05-636, passed 5-2-17)
 CHAPTER 153: ZONING REGULATIONS
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4262.jpg]Publisher's Note: This Chapter has been AMENDED by new
 legislation (Ord. 2026-04-1277, adopted 4-21-2026). The text of the amendment
 will be incorporated below when the ordinance is codified.
@@ -15689,7 +16382,7 @@ Commission
    (C)   The following regulations for each sign type shall apply to any
 permitted use in a zoning district.
       (1)   Awning sign.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4087.png]
          (a)   Description. A sign where graphics or symbols are painted, sewn
 or otherwise adhered to the awning fabric or material that is soft or flexible
@@ -15715,7 +16408,7 @@ exceed a maximum total amount of 800 square feet.
 Awning -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
       (2)   Canopy sign.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4089.png]
          (a)   Description. Any sign that is mounted, painted, or otherwise
 applied on or attached to an architectural canopy or structural protective
@@ -15752,7 +16445,7 @@ of awning signage allowed per free-standing awning.
 Canopy -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
       (3)    Crown sign.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4091.png]
          (a)    Description. A wall sign extending not more than three feet
 from the building facade located on the upper horizontal band of a building at
@@ -15781,7 +16474,7 @@ exceed a maximum total amount of 800 square feet.
 Crown -- --  --  --  --  --   --  --      --   --  A   A   A   A   A
  
       (4)    Digital signs.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4093.png]
             (a)    Description. An electronically displayed sign that is static
 or changes messages by any electronic process or remote control. Permanently
@@ -15829,7 +16522,7 @@ malfunctions.
 Digital -- --  --  --  --  --   --  --      --   --  --   A*  A*  A*  A *
 *   Allowable only within 100 feet of the HWY 412 R.O.W.
       (5)   Double post sign.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4095.png]
          (a)    Description. A permanently affixed sign which is wholly
 independent of a building for support where the primary support is supplied by
@@ -15848,7 +16541,7 @@ the same property, must be a minimum of 500 feet apart.
             A  R-E R-1 R-2 R-3 R-3L R-4 R-MF-16 R-MH N-C C-I C-2 C-T L-I I
 Double Post -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4097.png]
       (6)   Pylon sign. 
          (a)   Description. A sign erected and maintained on a freestanding
@@ -15879,7 +16572,7 @@ lots (the goal is to keep signage evenly spaced along ROWS when possible).
 Pylon -- --  --  --  --  --   --  --      --   --  --  A*  A*  A*  A*
 *   Allowable only within 100 feet of the HWY 412 R.O.W.
       (7)    Monument sign.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4099.png]
          (a)    Description. A free-standing and permanently affixed sign that
 is supported by a solid base (other than poles) and such that no air space is
@@ -15915,7 +16608,7 @@ structure is allowed on the same property, must be a minimum of 500 feet apart.
 Monument -- C   C   C   C   C    C   C       C    C   A   A   A   A   A
  
       (8)    Projecting sign.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4101.png]
          (a)    Description. A sign, other than a wall sign, that is mounted to
 the wall or surface of a building or structure and which is supported by a wall
@@ -15944,7 +16637,7 @@ exceed a maximum total amount of 800 square feet.
 Projecting -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
       (9)   Sandwich board sign.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4103.png]
          (a)   De scription. A movable sign not secured or attached to the
 ground or surface upon which it is located.
@@ -15966,7 +16659,7 @@ customer entrance or up to eight feet from the facade.
 Sandwich Board -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
       (10)    Shingle sign.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4105.png]
          (a)    Desc ription. A small projecting sign that hangs from a bracket
 or support and is located over or near a building entrance.
@@ -15992,7 +16685,7 @@ building.
 Shingle -- --  --  --  --  --   --  --      --   A   A   A   A   A   A
  
       (11)    Subdivision sign.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4107.png]
          (a)   Description. A permanently affixed sign which is wholly
 independent of a building for support attached along its entire width to a
@@ -16013,7 +16706,7 @@ frontage, one on each side of an entrance street into a subdivision.
 Subdivision A A   A   A   A   A    A   A        A    A   A    A   A   A   A
  
       (12)    Wall sign.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4109.png]
          (a)    Description. Means any attached sign other than a projecting
 sign or a banner sign, which is permanently attached to or painted on any wall
@@ -16045,7 +16738,7 @@ exceed a maximum total amount of 800 square feet per wall.
 Wall -- --  --  --  --  --   --  A       --   A   A   A   A   A   A
  
       (13)    Window sign.
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4111.png]
          (a)    Description. An attached sign that is not a temporary sign and
 which is attached to, painted on, etched or otherwise adhered to a window or
@@ -21130,9 +21823,9 @@ directly or through one of the wireless provider's affiliates for the placement
 of the suspension cables in the right-of-way.
 (Ord. 2019-08-856, passed 8-20-19)
 APPENDIX A: GUIDANCE ILLUSTRATIONS
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4119.png]
-[https://export.amlegal.com/media/826a4b4f5cab6946002189fcfe6e2dd13f2e4bcf/
+[https://export.amlegal.com/media/c51bcd9a39a58917bc8b4c4db8bef2c72f6cbf69/
 IMAGES/0-0-0-4121.png]
 (Ord. 2019-08-856, passed 8-20-19)
 TABLE OF SPECIAL ORDINANCES
@@ -21814,7 +22507,8 @@ A.C. Cite                           Code Section
 14-42-107                           32.05
 14-42-107(b)(1)                     32.02
 14-42-109                           32.07
-14-42-110                           31.06
+14-42-110                           30.54,
+                                    31.06
 14-42-112                           30.50
 14-44-106                           30.52
 14-44-107                           30.51
@@ -21841,6 +22535,7 @@ A.C. Cite                           Code Section
 14-56-401 through 14-56-426         152.002,
                                     152.004
 14-56-416                           150.005
+14-56-417                           30.54
 14-59-115                           30.52
 14-164-212                          30.52
 14-234-116                          31.04
@@ -22178,8 +22873,7 @@ Ord. No.                               Date Passed Code Section
                                                    54.14
 2009-01-328                            1-6-09      32.10
 2009-01-329                            1-6-09      32.09
-2009-02-330                            2-3-09      30.52,
-                                                   31.03
+2009-02-330                            2-3-09      30.52
 2009-03-331                            3-3-09      Repealed
                                                    116.01 -
 2009-04-333                            4-7-09      116.07,
@@ -23006,15 +23700,23 @@ Ord. No.                               Date Passed Code Section
 2025-09-1215                           9-16-25     110.02
 2025-10-1219                           10-21-25    30.52
 2025-10-1220                           10-21-25    30.53
-2025-11-1236                           11-18-25    30.05,
-                                                   31.03
-2026-01-1245                           1-20-2026   51.04
-2026-02-1254                           2-17-2026   153.086
-2026-02-1256                           2-17-2026   30.01,
+2025-11-1236                           11-18-25    30.05
+2026-01-1245                           1-20-26     51.04
+2026-02-1254                           2-17-26     153.086
+2026-02-1256                           2-17-26     30.01,
                                                    32.04
-2026-02-1259                           2-17-2026   155.04
+2026-02-1259                           2-17-26     155.04
 2026-04-1274                           4-21-26     35.11
 2026-04-1276                           4-21-26     130.06
 2026-04-1277                           4-21-26     155.01
 2026-05-1284                           5-19-26     153.172
+2026-06-1300                           6-16-26     31.04,
+                                                   52.005
+2026-07-1308                           7-21-26     30.01
+2026-07-1310                           7-21-26     30.01, Repealed 31.03
+2026-07-1311                           7-21-26     30.05—
+                                                   30.09
+2026-07-1314                           7-21-26     30.52
+2026-08-1320                           8-3-26      30.55
+2026-08-1322                           8-3-26      30.54
                                                   

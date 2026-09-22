@@ -1,7 +1,7 @@
 WILLCOX, AZ
 MUNICIPAL CODE
 2014
-Current through Ord. NS376, passed 4-21-2026
+Current through Ord. NS379, passed 8-11-2026
 A Codification of the General Ordinances of the City of Willcox, Arizona
 Published by:
 American Legal Publishing
@@ -6583,7 +6583,7 @@ if the property is a slum property in accordance with section
 10.02.050 above.
    C.   The process for enforcement of this chapter is described in following
 flow chart:
-[https://export.amlegal.com/media/54ca9b96a54df6beb15c30a636922d9bf6474c92/
+[https://export.amlegal.com/media/5ba6433297e0e2ecda9636aa1b7eaf6e08e5c482/
 IMAGES/0-0-0-26.png]
  
 (Ord. NS289, § 2, 2008)
@@ -7296,7 +7296,7 @@ the driver.
    C.   Trucks must operate only on "truck routes" as identified by the truck
 route map highlighted in yellow. The city manager or designee is authorized to
 install adequate signage along truck routes and restricted routes, as needed.
-[https://export.amlegal.com/media/54ca9b96a54df6beb15c30a636922d9bf6474c92/
+[https://export.amlegal.com/media/5ba6433297e0e2ecda9636aa1b7eaf6e08e5c482/
 IMAGES/0-0-0-28.png]
  
 (Ord. NS337 , § 1, 2021)
@@ -10949,6 +10949,8 @@ Chapters:
    
 17.82   SR, Single-Household Residential Zoning Districts
    
+17.83   R, Residential Zoning District
+   
 17.84   Size Regulations
    
 17.88   Large Scale Development
@@ -12160,7 +12162,7 @@ minus) surface or better.
          c.   An improved apron consisting of concrete or asphalt shall be
 provided no less than fifteen (15) feet wide by five (5) feet deep and a
 minimum of 4" thickness.
-[https://export.amlegal.com/media/54ca9b96a54df6beb15c30a636922d9bf6474c92/
+[https://export.amlegal.com/media/5ba6433297e0e2ecda9636aa1b7eaf6e08e5c482/
 IMAGES/0-0-0-2035.png]
  
 (Prior code § 17.12.23 0) (Ord. NS360, Exhibit A, 2023; Ord. NS365, Exhibit A,
@@ -13813,27 +13815,43 @@ permitted in this zone.
 stabilize and protect the essential characteristics of this zone, the following
 regulations shall apply in the R-1 residential zone.
 (Prior code § 17.24.020)
-17.24.030 Use requirements.
-The following buildings, structures, and uses of land shall be permitted in the
-R-1 residential zone upon compliance with requirements as set forth in this
-title:
-   A.   One-family dwellings and accessory buildings, including a private
-garage for the storage of vehicles owned by persons residing on the premises,
-greenhouses for private use only, private swimming pools, pergolas, and arbors;
-   B.   Home occupations when approved by the board of adjustment;
-   C.   Public parks, public recreation grounds, but not including privately
-owned amusement parks or recreation grounds;
-   D.   Agriculture;
-   E.   A signboard not exceeding eight square feet in area, appertaining to
-the lease or sale of the property, also nameplates in connection with dwellings
-or offices of professional persons not exceeding 226 square inches in area,
-provided such signs are constructed and maintained in harmony with the
-residential character of the zone;
-   F.   Fences, walls, and hedges which do not exceed six feet in height;
-   G.   Schools and churches and public cemeteries;
-   H.   Customary household pets;
-   I.   Accessory dwelling unit.
-(Prior code § 17.24.030; Ord. No. NS341 , § 9(Exh. A), 2021)
+17.24.030 Permitted uses.
+The buildings, structures, and uses of land established in Table 17-24.A
+(Permitted Uses) shall be permitted in the R-1 residential zone upon compliance
+with the requirements as set forth in this title:
+Table 17-24.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-24.A: Permitted Uses
+Use                       Director Board of Adjustment Standard or Specific Use
+                                                       Regulation
+Accessory dwelling unit   P                             
+Agriculture               P                             
+Churches                  P                             
+Customary household pets  P                             
+Dwellings, one-family,
+and accessory buildings,
+including a private
+garage for the storage of
+vehicles owned by persons P                             
+residing on the premises,
+greenhouses for private
+use only, private
+swimming pools, pergolas,
+and arbors
+Fences, walls, and hedges P                            Max. 6 feet in height
+Home occupations                   CUP                  
+Public cemeteries         P                             
+Public parks, public
+recreation grounds, but
+not including privately   P                             
+owned amusement parks or
+recreation grounds
+Schools                   P                             
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.24.030; Ord. No. NS341 , § 9 (Exh. A), 2021; Ord. No. NS379,
+Exh. A, 2026)
 17.24.040 Other requirements.
    A.   Requirements and restrictions pertaining to area and width of lots, the
 location of buildings and structures, the size of yards and open space, the
@@ -13861,14 +13879,45 @@ residential development than is the R-1 residential zone.
 stabilize and protect the essential characteristics of this zone, the following
 regulations in this chapter shall apply in the R-2 residential zone.
 (Prior code § 17.28.020)
-17.28.030 Use requirements.
-The following buildings, structures, and uses of land shall be permitted upon
-compliance with requirements set forth in this title:
-   A.   Any use permitted in the R-1 residential zone;
-   B.   Day care nurseries and rest homes when approved by the board of
-adjustment;
-   C.   Two-family dwellings.
-(Prior code § 17.28.030)
+17.28.030 Permitted uses.
+The buildings, structures, and uses of land established in Table 17-28.A
+(Permitted Uses) shall be permitted upon compliance with the requirements set
+forth in this title:
+Table 17-28.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-28.A: Permitted Uses
+Use                       Director Board of Adjustment Standard or Specific Use
+                                                       Regulation
+Accessory dwelling unit   P                             
+Agriculture               P                             
+Cemeteries, public        P                             
+Churches                  P                             
+Customary household pets  P                             
+Day care nurseries                 CUP                  
+Dwellings, one-family,
+and accessory buildings,
+including a private
+garage for the storage of
+vehicles owned by persons P                             
+residing on the premises,
+greenhouses for private
+use only, private
+swimming pools, pergolas,
+and arbors
+Dwellings, two-family     P                             
+Fences, walls, and hedges P                            Max. 6 feet in height
+Home occupations                   CUP                  
+Public parks, public
+recreation grounds, but
+not including privately   P                             
+owned amusement parks or
+recreation grounds
+Rest homes                         CUP                  
+Schools                   P                             
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.28.030; Ord. No. NS379, Exh. A, 2026)
 17.28.040 Other requirements.
    A.   Requirements and restrictions pertaining to area and width of lots, the
 location of buildings and structures, the size of yards and open space, the
@@ -13896,14 +13945,57 @@ somewhat denser residential development than is the R-2 residential zone.
 stabilize and protect the essential characteristics of this zone, the following
 regulations in this chapter shall apply in the R-3 residential zone.
 (Prior code § 17.32.020)
-17.32.030 Use requirements.
-The following buildings, structures, and uses of land shall be permitted upon
-compliance with the requirements set forth in this title:
-   A.   Any use permitted in the R-2 residential zone;
-   B.   Apartment houses, lodging houses, and other multiple dwellings;
-   C.   Group dwellings subject to requirements set forth in sections 17.88.010
-through 17.88.210 of this title, which pertain to group dwellings.
-(Prior code § 17.32.030)
+17.32.030 Permitted uses.
+The buildings, structures, and uses of land established in Table 17-32.A
+(Permitted Uses) shall be permitted upon compliance with the requirements set
+forth in this title:
+Table 17-32.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-32.A: Permitted Uses
+Use                      Director Board of Adjustment Standard or Specific Use
+                                                      Regulation
+Accessory dwelling unit  P                             
+Apartment houses         P                             
+Agriculture              P                             
+Cemeteries, public       P                             
+Churches                 P                             
+Customary household pets P                             
+Day care nurseries                CUP                  
+                                                      Subject to the
+                                                      requirements set forth in
+                                                      Sections
+Dwellings, group         P                            17.88.010 through
+                                                      17.88.210 of this title,
+                                                      which apply to group
+                                                      dwellings
+Dwellings, one-family,
+and accessory buildings,
+including a private
+garage for the storage
+of vehicles owned by     P                             
+persons residing on the
+premises, greenhouses
+for private use only,
+private swimming pools,
+pergolas, and arbors
+Dwellings, multiple      P                             
+Dwellings, two-family    P                             
+Fences, walls, and       P                            Max. 6 feet in height
+hedges
+Home occupations                  CUP                  
+Lodging houses           P                             
+Other multiple dwellings P                             
+Public parks, public
+recreation grounds, but
+not including privately  P                             
+owned amusement parks or
+recreation grounds
+Rest homes                        CUP                  
+Schools                  P                             
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.32.030; Ord. No. NS379, Exh. A, 2026)
 17.32.040 Other requirements.
    A.   Requirements and restrictions pertaining to area and width of lots, the
 location of buildings and structures, the size of yards and open space, the
@@ -13931,13 +14023,61 @@ trailer houses.
 stabilize and protect the essential characteristics of this zone, the following
 regulations in this chapter shall apply in the R-3-A residential zone.
 (Prior code § 17.36.020)
-17.36.030 Use requirements.
-The following buildings, structures, and uses of land shall be permitted upon
-compliance with the requirements set forth in this title:
-   A.   Any use permitted in the R-3 residential zone;
-   B.   Mobile homes subject to regulations and conditions set forth in section
-17.12.290(D) of this title.
-(Prior code § 17.36.030)
+17.36.030 Permitted uses.
+The buildings, structures, and uses of land established in Table 17-36.A
+(Permitted Uses) shall be permitted upon compliance with the requirements set
+forth in this title:
+Table 17-36.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-36.A: Permitted Uses
+Use                      Director Board of Adjustment Standard or Specific Use
+                                                      Regulation
+Accessory dwelling unit  P                             
+Apartment houses         P                             
+Agriculture              P                             
+Cemeteries, public       P                             
+Churches                 P                             
+Customary household pets P                             
+Day care nurseries                CUP                  
+Fences, walls, and       P                            Max. 6 feet in height
+hedges
+                                                      Subject to the
+                                                      requirements set forth in
+                                                      Sections
+Dwellings, group         P                            17.88.010 through
+                                                      17.88.210 of this title,
+                                                      which apply to group
+                                                      dwellings
+Dwellings, multiple      P                             
+Dwellings, one-family,
+and accessory buildings,
+including a private
+garage for the storage
+of vehicles owned by     P                             
+persons residing on the
+premises, greenhouses
+for private use only,
+private swimming pools,
+pergolas, and arbors
+Dwellings, two-family    P                             
+Home occupations                  CUP                  
+Lodging houses           P                             
+                                                      Subject to the
+                                                      regulations and
+Mobile homes             P                            conditions set forth in
+                                                      17.12.290(D) of this
+                                                      title
+Public parks, public
+recreation grounds, but
+not including privately  P                             
+owned amusement parks or
+recreation grounds
+Rest homes                        CUP                  
+Schools                  P                             
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.36.030; Ord. No. NS379, Exh. A, 2026)
 17.36.040 Reserved.
 Editor's note(s)-Section 1 of Ord. NS224, adopted April 25, 2000, repealed §
 17.36.040 which pertained to special provisions, and derived from prior code §
@@ -13964,21 +14104,31 @@ playgrounds, and other community facilities. This zone is characterized by
 mobile homes placed on individual lots which have been included within an
 approved subdivision.
 (Prior code § 17.40.020)
-17.40.030 Use requirements.
-The following buildings, structures, and uses of land shall be permitted in the
-R-3-M residential zone upon compliance with the requirements set forth in this
-title:
-   A.   Mobile homes subject to regulations and conditions set forth in section
-17.12.290(D) of this title;
-   B.   Public parks, public recreation grounds but not including privately
-owned amusement parks or recreation grounds;
-   C.   Agriculture;
-   D.   A signboard not exceeding eight square feet in area appertaining to the
-lease or sale of the property. Also, nameplates in connection with mobile homes
-not exceeding 226 square inches;
-   E.   Fences, walls, and hedges which do not exceed six feet in height;
-   F.   Customary household pets.
-(Prior code § 17.40.030)
+17.40.030 Permitted uses.
+The buildings, structures, and uses of land established in Table 17-40.A
+(Permitted Uses) shall be permitted in the R-3-M residential zone upon
+compliance with the requirements set forth in this title:
+Table 17-40.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-40.A: Permitted Uses
+Use                       Director Board of Adjustment Standard or Specific Use
+                                                       Regulation
+Agriculture               P                             
+Customary household pets  P                             
+Fences, walls, and hedges P                            Max. 6 feet in height
+                                                       Subject to the
+                                                       regulations and
+Mobile homes              P                            conditions set forth in
+                                                       17.12.290(D) of this
+                                                       title
+Public parks, public
+recreation grounds, but
+not including privately   P                             
+owned amusement parks or
+recreation grounds
+Legend:
+“P” = Permitted use
+(Prior code § 17.40.030; Ord. No. NS379, Exh. A, 2026)
 17.40.040 Special provisions.
 All mobile homes, except recreational vehicles as defined in the Arizona Rules
 and Regulations for the Division of Mobile and Manufactured Housing Standards,
@@ -14027,26 +14177,91 @@ are also characteristic of this zone.
 stabilize and protect the essential characteristics of this zone, the following
 regulations in this chapter shall apply in the R-4 residential zone.
 (Prior code § 17.44.020)
-17.44.030 Use requirements.
-The following buildings, structures, and uses of land shall be permitted upon
-compliance with the requirements set forth in this title:
-   A.   Any use permitted in the R-3 residential zone;
-   B.   Office buildings or a group of office buildings on one lot but not
-including office buildings that involve the exchange of goods or money on the
-premises;
-   C.   Hospitals, clinics, clubs;
-   D.   Parking lots for public use;
-   E.   Nonflashing signs advertising the services performed within the
-building and signs designating the name of the building, provided such signs
-shall be attached to and placed flat against the wall of the building and
-provided no part of such sign shall extend more than two feet above the
-building wall and provided that any lights used to illuminate such signs shall
-be shielded or diffused;
-   F.   Mortuaries, wedding chapels;
-   G.   Other uses ruled by the board of adjustment to be similar to the uses
-specifically permitted in the zone and which will harmonize with the objectives
-and characteristics of the R-4 residential zone.
-(Prior code § 17.44.030)
+17.44.030 Permitted uses.
+The buildings, structures, and uses of land established in Table 17-44.A
+(Permitted Uses) shall be permitted upon compliance with the requirements set
+forth in this title:
+Table 17-44.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-44.A: Permitted Uses
+Use                      Director Board of Adjustment Standard or Specific Use
+                                                      Regulation
+Accessory dwelling unit  P                             
+Apartment houses         P                             
+Agriculture              P                             
+Cemeteries, public       P                             
+Churches                 P                             
+Clinics                  P                             
+Clubs                    P                             
+Customary household pets P                             
+Day care nurseries                CUP                  
+Dwelling unit, accessory P                             
+                                                      Subject to the
+                                                      requirements set forth in
+                                                      Sections
+Dwellings, group         P                            17.88.010 through
+                                                      17.88.210 of this title,
+                                                      which apply to group
+                                                      dwellings
+Dwellings, one-family,
+and accessory buildings,
+including a private
+garage for the storage
+of vehicles owned by     P                             
+persons residing on the
+premises, greenhouses
+for private use only,
+private swimming pools,
+pergolas, and arbors
+Dwellings, multiple      P                             
+Dwellings, two-family    P                             
+Fences, walls, and       P                            Max. 6 feet in height
+hedges
+Home occupations                  CUP                  
+Hospitals                P                             
+Lodging houses           P                             
+Mortuaries               P                             
+Office buildings or a
+group of office
+buildings on one lot but
+not including office     P                             
+buildings that involve
+the exchange of goods or
+money on the premises
+Other uses determined to
+be similar to the uses
+specifically permitted
+in the zone and which             P                    
+will harmonize with the
+objectives and
+characteristics of the
+R-4 residential zone
+Other multiple dwellings P                             
+Parking lots, public use P                             
+Public parks, public
+recreation grounds, but
+not including privately  P                             
+owned amusement parks or
+recreation grounds
+Rest homes                        CUP                  
+Schools                  P                             
+                                                      Such signs shall be
+                                                      attached to and placed
+                                                      flat against the wall of
+Signs advertising the                                 the building.
+services performed                                    No part of such sign
+within the building and                             shall extend more than
+designating the name of                               two feet above the
+the building                                          building wall.
+                                                      Any non-flashing lights
+                                                      used to illuminate signs
+                                                      shall be shielded or
+                                                      diffused.
+Wedding chapels          P                            
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.44.030; Ord. No. NS379, Exh. A, 2026)
 17.44.040 Other requirements.
    A.   Requirements and restrictions pertaining to area and width of lots, the
 location of buildings and structures, the size of yards and open space, the
@@ -14070,16 +14285,96 @@ stabilize and protect the essential characteristics of this zone, the following
 regulations in this chapter shall apply in the R-5 large scale development
 zone.
 (Prior code § 17.48.010; Ord. NS250, § 1, 2003)
-17.48.020 Use requirements.
-The following buildings, structures, and uses of land shall be permitted upon
-compliance with requirements set forth in this title:
-   A.   Any use permitted in the R-2 residential zone;
-   B.   Planned unit developments, mobile home parks, mobile home subdivisions,
-group dwellings, subject to the regulations and conditions set forth in
-sections 17.88.010 through 17.88.210 of this title provided, however, that a
-mobile home may be located in the Nordus Subdivision on any lot which was of
-record at the time of the passage of the ordinance codified in this title.
-(Prior code § 17.48.020; Ord. NS250, § 1, 2003)
+17.48.020 Permitted uses.
+The buildings, structures, and uses of land established in Table 17-48.A
+(Permitted Uses) shall be permitted upon compliance with requirements set forth
+in this title:
+Table 17-48.A: Permitted Uses
+Use Director Board of Adjustment Planning Commission Standard or Specific Use
+                                                     Regulation
+Table 17-48.A: Permitted Uses
+                            Board of                       Standard or
+Use                Director Adjustment Planning Commission Specific Use
+                                                           Regulation
+Accessory dwelling P                                        
+unit
+Agriculture        P                                        
+Cemeteries, public P                                        
+Churches           P                                        
+Customary          P                                        
+household pets
+Day care nurseries          CUP                             
+                                                           Subject to the
+                                                           requirements set
+                                                           forth in Sections
+Dwellings, group   P                                       17.88.010 through
+                                                           17.88.210 of this
+                                                           title, which apply
+                                                           to group dwellings
+Dwellings, one-
+family, and
+accessory
+buildings,
+including a
+private garage for
+the storage of
+vehicles owned by  P                                        
+persons residing
+on the premises,
+greenhouses for
+private use only,
+private swimming
+pools, pergolas,
+and arbors
+Dwellings, two-    P                                        
+family
+Fences, walls, and P                                       Max. 6 feet in
+hedges                                                     height
+Home occupations            P                               
+                                                           Subject to the
+                                                           regulations and
+                                                           conditions set
+Mobile home parks                      CUP                 forth in Sections
+                                                           17.88.010 through
+                                                           17.88.210 of this
+                                                           title
+                                                           Subject to the
+                                                           regulations and
+                                                           conditions set
+                                                           forth in Sections
+                                                           17.88.010 through
+                                                           17.88.210 of this
+                                                           title provided,
+Mobile home                                                however, that a
+subdivisions       P                                       mobile home may be
+                                                           located in the
+                                                           Nordus Subdivision
+                                                           on any lot which
+                                                           was of record at
+                                                           the time of the
+                                                           passage of the
+                                                           ordinance codified
+                                                           in this title
+                                                           Subject to the
+                                                           regulations and
+Planned unit                                               conditions set
+developments                           CUP                 forth in Sections
+                                                           17.88.010 through
+                                                           17.88.210 of this
+                                                           title
+Public parks,
+public recreation
+grounds, but not
+including          P                                        
+privately owned
+amusement parks or
+recreation grounds
+Rest homes                  CUP                             
+Schools            P                                        
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.48.020; Ord. NS250, § 1, 2003; Ord. No. NS379, Exh. A, 2026)
 17.48.030 Other requirements.
    A.   Requirements and restrictions pertaining to area and width of lots, the
 location of buildings and structures, the size of yards and open spaces, the
@@ -14187,16 +14482,238 @@ areas of the community.
 similar characteristics to make a recognizable entity.
 (Ord. NS121, 1985)
 17.52.060 Permitted uses.
-   A.   Use requirements in the HP-1 historical preservation zone shall be as
-follows: any use permitted in the H-1 highway service zone, CC-1 central
-commercial zone, and GC general commercial zone except for automobile filling
-stations, gasoline, oil, and L.P. gas storage and sales, automobile sales
-yards, nonaccessory advertising signs and similar uses which were not in
-popular usage prior to 1900.
-   B.   Landmarks shall retain their previous zoning use. An H shall be added
+   A.   The following uses established in Table 17-52.A (Permitted Uses) shall
+be permitted upon compliance with requirements set forth in this title.
+   B.   Landmarks shall retain their previous zoning use. An "H" shall be added
 to the zoning designation.
-   C.   Accessory dwelling units shall be allowed on residential property.
-(Ord. NS121, 1985; prior code § 17.52.120; Ord. No. NS341 , § 9(Exh. A), 2021)
+Table 17-52.A: Permitted Uses
+Use Director Board of Adjustment Planning Commission Standard or Specific Use
+                                                     Regulation
+Table 17-52.A: Permitted Uses
+                            Board of                       Standard or
+Use                Director Adjustment Planning Commission Specific Use
+                                                           Regulation
+Accessory dwelling                                         Only allowed on
+unit               P                                       residential
+                                                           property
+Assembly and the
+sale of farm                                               Excluding junk
+equipment, mining  P                                       yards and auto
+machinery,                                                 wrecking yards
+vehicles and
+similar articles
+Amusement          P                                        
+enterprises
+Billboards         P                                        
+Bowling alleys     P                                        
+Bus stations       P                                        
+Cafes              P                                        
+Carting, express
+hauling, and       P                                        
+storage
+Churches           P                                        
+Clinics            P                                        
+Clubs              P                                        
+Copying and        P                                        
+blueprinting
+                                                           Must be in
+Day care nurseries P                                       compliance with
+                                                           State Board of
+                                                           Health requirements
+Drive-in, food     P                                        
+service
+Drive-in, retail   P                                        
+Dwellings, bona    P                                        
+fide caretakers’
+Dwellings, when
+located above the
+ground floor,
+provided the
+ground floor is    P                                        
+designed and used
+exclusively for a
+commercial purpose
+permitted in the
+zone
+Establishments,
+alcoholic and beer P                                        
+dispensing
+                                                           No storage of
+                                                           merchandise,
+                                                           materials,
+                                                           equipment, or junk
+                                                           outside of
+Establishments,    P                                       enclosing
+financial                                                  buildings, or
+                                                           enclosing fences,
+                                                           except automobiles,
+                                                           trucks, and other
+                                                           vehicles in running
+                                                           order
+Establishments,
+hay, grain, and    P                                        
+feed
+                                                           No storage of
+                                                           merchandise,
+                                                           materials,
+                                                           equipment, or junk
+                                                           outside of
+Establishments,    P                                       enclosing
+personal service                                           buildings, or
+                                                           enclosing fences,
+                                                           except automobiles,
+                                                           trucks, and other
+                                                           vehicles in running
+                                                           order
+                                                           No storage of
+                                                           merchandise,
+                                                           materials,
+                                                           equipment, or junk
+                                                           outside of
+Establishments,    P                                       enclosing
+retail                                                     buildings, or
+                                                           enclosing fences,
+                                                           except automobiles,
+                                                           trucks, and other
+                                                           vehicles in running
+                                                           order
+Establishments,
+service (dyeing,
+cleaning, or
+laundry plants,    P                                        
+printing plants,
+machine shops,
+blacksmith shops)
+Establishments,
+tailor, millinery, P                                        
+and dressmaking
+                                                           Provided such
+                                                           activities do not
+                                                           give rise to dust,
+                                                           odor, noise, smoke,
+                                                           vibration, or
+                                                           intermittent light
+                                                           or glare
+Fabrication or                                             discernible beyond
+processing of                                              the zone boundary
+goods done in                                              lines and do not
+connection with,   P                                       involve the storage
+and incidental to,                                         of merchandise,
+the sale of goods                                          materials,
+on the premises                                            products,
+                                                           equipment, or junk
+                                                           outside of enclosed
+                                                           buildings except
+                                                           automobiles,
+                                                           trucks, and other
+                                                           vehicles in running
+                                                           order
+Fences and walls   P                                        
+Fine art studios   P                                        
+Garages, public    P                                        
+Hospital           P                                        
+Hotels and motels  P                                        
+Interior           P                                        
+decorating
+                                                           Landmarks shall
+                                                           retain their
+Landmarks                                                  previous zoning
+                                                           use. An H shall be
+                                                           added to the zoning
+                                                           designation.
+Laundrette (self-  P                                        
+service)
+Locksmith          P                                        
+Metal sharpening   P                                        
+Milk distribution
+stations,
+creameries,        P                                        
+bottling works,
+and similar
+businesses
+Museums, public    P                                        
+and private
+Newsstands         P                                        
+Night clubs        P                                        
+Office buildings,  P                                        
+private and public
+Offices, medical   P                                        
+and dental
+Other uses
+determined to be
+similar to uses
+specifically                P                               
+permitted in the
+CC-1 and GC-
+1 Zones
+Parking lots,      P                                        
+private and public
+Pool halls         P                                        
+Plant nurseries    P                                        
+                                                           The operation of
+                                                           which is not
+Food preparation   P                                       obnoxious by reason
+plants                                                     of emission of
+                                                           odors, smoke, or
+                                                           noise
+Printing and       P                                        
+publishing
+Public dance halls P                                        
+Radio and
+television         P                                        
+stations
+Reservoirs and     P                                        
+dams
+Restaurants        P                                        
+Schools, parochial P                                        
+Schools, public    P                                        
+Shops, cleaning                                            Using nonflammable
+and pressing       P                                       cleaning agents
+                                                           only
+Shops, optical     P                                        
+Shops, radio,
+television, and    P                                        
+electrical
+appliance repair
+Shops, shoe repair P                                        
+Signs, accessory
+and bulletin       P                                        
+boards
+Signs, non-        P                                        
+accessory
+Stone cutting and  P                                        
+monument works
+Storage yards,     P                                        
+building materials
+                                                           Not including
+Stores, egg,                                               slaughtering,
+poultry, and meat  P                                       eviscerating,
+                                                           plucking, or
+                                                           dressing
+Telephone exchange P                                        
+Theaters           P                                        
+                                                           Subject to the
+                                                           regulations and
+Travel trailer                                             conditions set
+courts                                 P                   forth in Sections
+                                                           17.88.010 through
+                                                           17.88.210 of this
+                                                           title
+Veterinary         P                                        
+hospital
+Warehouses         P                                        
+Wells, gas, oil,   P                                        
+and water
+Wholesale
+distributing       P                                        
+houses
+Wholesale and bulk P                                        
+gasoline
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Ord. NS121, 1985; prior code § 17.52.120; Ord. No. NS341 , § 9(Exh. A), 2021;
+Ord. No. NS379, Exh. A, 2026)
 17.52.070 Separate approval for signs within an historic district of landmark
 protection area.
 The appearance, color, size, position, method of attachment, texture of
@@ -14434,25 +14951,165 @@ stabilize and protect the essential characteristics of this zone, the following
 regulations in this chapter shall apply in the H-1 highway service zone.
 (Prior code § 17.56.010)
 17.56.020 Use requirements.
-The following buildings, structures, and uses of land shall be permitted in the
-H-1 highway service zone upon compliance with requirements as set forth in this
-title:
-   A.   Automobile filling stations, cafes, motels, drive-ins (food service),
-garages, and any other uses permitted in the CC-1 central commercial zone;
-   B.   Accessory signs and bulletin boards;
-   C.   Billboards;
-   D.   Art and curio shops, public and private museums;
-   E.   Fences, walls, reservoirs, and dams;
-   F.   Public parks and playgrounds;
-   G.   Caretakers' dwellings;
-   H.   Gas, oil, and water wells;
-   I.   Dental and medical offices, hospitals;
-   J.   Travel trailer courts subject to regulations and conditions set forth
-in sections 17.88.010 through 17.88.020 of this title;
-   K.   Other uses rules by the board of adjustment to be similar to uses
-specifically permitted in the zone and which will harmonize with the objectives
-and characteristics of the H-1 highway service zone.
-(Prior code § 17.56.020)
+The buildings, structures, and uses of land established in Table 17-56.A
+(Permitted Uses) shall be permitted in the H-1 highway service zone upon
+compliance with requirements as set forth in this title:
+Table 17-56.A: Permitted Uses
+Use Director Board of Adjustment Planning Commission Standard or Specific Use
+                                                     Regulation
+Table 17-56.A: Permitted Uses
+                            Board of                       Standard or
+Use                Director Adjustment Planning Commission Specific Use
+                                                           Regulation
+Amusement          P                                        
+enterprises
+Automobile filling P                                        
+stations
+Billboards         P                                        
+Bowling alleys     P                                        
+Bus stations       P                                        
+Cafes              P                                        
+Churches           P                                        
+Clinics            P                                        
+Clubs              P                                        
+Copying and        P                                        
+blueprinting
+                                                           Must comply with
+Day care nurseries P                                       State Board of
+                                                           Health requirements
+Drive-ins, food    P                                        
+service and retail
+Dwellings,         P                                        
+caretakers’
+Dwellings, when
+located above the
+ground floor,
+provided the
+ground floor is    P                                        
+designed and used
+exclusively for a
+commercial purpose
+permitted in the
+zone
+Establishments,
+alcoholic and beer P                                        
+dispensing
+Establishments,    P
+financial                                                  No storage of
+Establishments,    P                                       merchandise,
+personal service                                           materials,
+                                                           equipment, or junk
+                                                           outside of
+                                                           enclosing
+                                                           buildings, or
+Establishments,    P                                       enclosing fences,
+retail                                                     except automobiles,
+                                                           trucks, and other
+                                                           vehicles in running
+                                                           order
+
+Establishments,
+tailor, millinery, P                                        
+and dressmaking
+                                                           Provided such
+                                                           activities do not
+                                                           give rise to dust,
+                                                           odor, noise, smoke,
+                                                           vibration, or
+                                                           intermittent light
+                                                           or glare
+Fabrication or                                             discernible beyond
+processing of                                              the zone boundary
+goods done in                                              lines and do not
+connection with,   P                                       involve the storage
+and incidental to,                                         of merchandise,
+the sale of goods                                          materials,
+on the premises                                            products,
+                                                           equipment, or junk
+                                                           outside of enclosed
+                                                           buildings except
+                                                           automobiles,
+                                                           trucks, and other
+                                                           vehicles in running
+                                                           order
+Fences and walls   P                                        
+Fine arts studios  P                                        
+Garages            P                                        
+Hotels and motels  P                                        
+Interior           P                                        
+decorating
+Hospitals          P                                        
+Launderette (self- P                                        
+service)
+Locksmith          P                                        
+Metal sharpening   P                                        
+Museums, private   P                                        
+and public
+Newsstands         P                                        
+Night clubs        P                                        
+Offices, dental    P                                        
+and medical
+Office buildings,  P                                        
+private and public
+Other uses
+determined to be
+similar to uses             P                               
+specifically
+permitted in the
+zone
+Parking lots,      P                                        
+private and public
+Parks and
+playgrounds,       P                                        
+public
+Pool halls         P                                        
+Printing and       P                                        
+publishing
+Public dance halls P                                        
+Radio and
+television         P                                        
+stations
+Reservoirs and     P                                        
+dams
+Restaurants        P                                        
+Retail, drive-in   P                                        
+Schools, parochial P                                        
+Schools, public    P                                        
+Shops, art         P                                        
+Shops, cleaning                                            Using nonflammable
+and pressing       P                                       cleaning agents
+                                                           only
+Shops, curio       P                                        
+Shops, optical     P                                        
+Shops, radio,
+television, and    P                                        
+electrical
+appliance repair
+Shops, shoe repair P                                        
+Signs, accessory
+and bulletin       P                                        
+boards
+                                                           Not including
+Stores, egg,                                               slaughtering,
+poultry, and meat  P                                       eviscerating,
+                                                           plucking, or
+                                                           dressing
+Telephone exchange P                                        
+Theaters           P                                        
+                                                           Subject to
+                                                           regulations and
+Travel trailer                                             conditions set
+courts                      P                              forth in Sections
+                                                           17.88.010 through
+                                                           17.88.020 of this
+                                                           title
+Wells, gas         P                                        
+Wells, oil         P                                        
+Wells, water       P                                        
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.56.020; Ord. No. NS379, Exh. A, 2026)
 17.56.030 Other requirements.
    A.   Requirements and restrictions pertaining to area and width of lots, and
 the location of buildings and structures, the size of yards and open space, the
@@ -14484,54 +15141,112 @@ accommodations, and business establishments, have also been excluded.
 stabilize and protect the essential characteristics of this zone, the following
 regulations in this chapter shall apply in the CC-1 central commercial zone.
 (Prior code § 17.60.010) (Ord. NS364, Exhibit A, 2023)
-17.60.020 Use requirements.
-The following buildings, structures, and uses of land shall be permitted in the
-CC-1 central commercial zone upon compliance with the requirements set forth in
-this title:
-   A.   Retail, financial, and personal service establishments, provided there
-is no storage of merchandise, materials, equipment, or junk outside of
-enclosing buildings, or enclosing fences, except automobiles, trucks, and other
-vehicles in running order;
-   B.   The fabrication or processing of goods done in connection with, and
-incidental to, the sale of goods on the premises, provided such activities do
-not give rise to dust, odor, noise, smoke, vibration, or intermittent light or
-glare discernible beyond the zone boundary lines and do not involve the storage
-of merchandise, materials, products, equipment, or junk outside of enclosed
-buildings except automobiles, trucks, and other vehicles in running order;
-   C.   Parking lots;
-   D.   Private and public office buildings, clinics, clubs, churches, and
-public and parochial schools;
-   E.   Amusement enterprises, pool halls, bowling alleys, public dance halls,
-night clubs, and alcoholic and beer dispensing establishments;
-   F.   Cleaning and pressing shops which use nonflammable cleaning agents
-only;
-   G.   Fine arts studios, museums;
-   H.   Egg, poultry, and meat stores (not including slaughtering,
-eviscerating, plucking, or dressing);
-   I.   Interior decorating;
-   J.   Launderette (self-service);.
-   K.   Locksmith, metal sharpening;
-   L.   Motels, hotels, and day-care nurseries which comply with the State
-Board of Health requirements;
-   M.   Newsstands;
-   N.   Optical shops;
-   O.   Photostating and blueprinting;
-   P.   Printing and publishing;
-   Q.   Radio and television stations;
-   R.   Radio, television, and electrical appliance repair shops;
-   S.   Shoe repair shops;
-   T.   Telephone exchange;
-   U.   Tailor, millinery, and dressmaking establishments;
-   V.   Bus stations;
-   W.   Theaters;
-   X.   Accessory signs;
-   Y.   Dwellings, when located above the ground floor, provided the ground
-floor is designed and used exclusively for a commercial purpose permitted in
-the zone;
-   Z.   Restaurants, cafes, and drive-in retail;
-   AA.   Other uses ruled by the board of adjustment to be similar to uses
-specifically permitted in the zone.
-(Prior code § 17.60.020) (Ord. NS364, Exhibit A, 2023)
+17.60.020 Permitted uses.
+The buildings, structures, and uses of land established in Table 17-60.A
+(Permitted Uses) shall be permitted in the CC-1 central commercial zone upon
+compliance with the requirements set forth in this title:
+Table 17-60.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-60.A: Permitted Uses
+Use                      Director Board of Adjustment Standard or Specific Use
+                                                      Regulation
+Amusement enterprises    P                             
+Bowling alleys           P                             
+Bus stations             P                             
+Cafes                    P                             
+Churches                 P                             
+Clinics                  P                             
+Clubs                    P                             
+Copying and blueprinting P                             
+                                                      Must comply with State
+Day care nurseries       P                            Board of Health
+                                                      requirements
+Dwellings, when located
+above the ground floor,
+provided the ground
+floor is designed and    P                             
+used exclusively for a
+commercial purpose
+permitted in the zone
+Establishments,
+alcoholic and beer       P                             
+dispensing
+Establishments,          P
+financial                                             No storage of
+Establishments, personal P                            merchandise, materials,
+service                                               equipment, or junk
+                                                      outside of enclosing
+                                                      buildings, or enclosing
+                                                      fences, except
+Establishments, retail   P                            automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+
+Establishments, tailor,
+millinery, and           P                             
+dressmaking
+                                                      Provided such activities
+                                                      do not give rise to dust,
+                                                      odor, noise, smoke,
+                                                      vibration, or
+                                                      intermittent light or
+Fabrication or                                        glare discernible beyond
+processing of goods done                              the zone boundary lines
+in connection with, and  P                            and do not involve the
+incidental to, the sale                               storage of merchandise,
+of goods on the premises                              materials, products,
+                                                      equipment, or junk
+                                                      outside of enclosed
+                                                      buildings except
+                                                      automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+Fine arts studios        P                             
+Hotels and motels        P                             
+Interior decorating      P                             
+Launderette (self-       P                             
+service)
+Locksmith                P                             
+Metal sharpening         P                             
+Museums                  P                             
+Newsstands               P                             
+Night clubs              P                             
+Office buildings,        P                             
+private and public
+Other uses determined to
+be similar to uses                P                    
+specifically permitted
+in the zone
+Parking lots             P                             
+Pool halls               P                             
+Printing and publishing  P                             
+Public dance halls       P                             
+Radio and television     P                             
+stations
+Restaurants              P                             
+Retail, drive-in         P                             
+Schools, parochial       P                             
+Schools, public          P                             
+Shops, cleaning and      P                            Using nonflammable
+pressing                                              cleaning agents only
+Shops, optical           P                             
+Shops, radio,
+television, and          P                             
+electrical appliance
+repair
+Shops, shoe repair       P                             
+Signs, accessory         P                             
+                                                      Not including
+Stores, egg, poultry,    P                            slaughtering,
+and meat                                              eviscerating, plucking,
+                                                      or dressing
+Telephone exchange       P                             
+Theaters                 P                             
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.60.020) (Ord. NS364, Exhibit A, 2023; Ord. No. NS379, Exh. A,
+2026)
 17.60.030 Other requirements.
    A.   Requirements and restrictions pertaining to area and width of lots, the
 location of buildings and structures, the size of yards and open space, the
@@ -14580,41 +15295,87 @@ goods and merchandise, except those of a bakery, tailor and arts and crafts.
    H.   Any construction sites over 2,500 square feet in net area require site
 plan approval by the Willcox Planning and Zoning Commission.
 (Ord. NS-56 (part), 1978; prior code § 17.62.010)
-17.64.020 Use requirements.
-The following building structures and uses of land shall be permitted in the
-CC-2 central commercial zone upon compliance with the requirements set forth in
-this title:
-   A.   Private and public office buildings;
-   B.   Clinics;
-   C.   Fine art studios;
-   D.   Museums;
-   E.   Interior decorating;
-   F.   Locksmiths and metal sharpening;
-   G.   Optical shops;
-   H.   Photostat offices;
-   I.   Blueprinting;
-   J.   Printing;
-   K.   TV and appliance repair and sales;
-   L.   Dress shops;
-   M.   Financial institutions;
-   N.   Personal service establishments;
-   O.   Professional services;
-   P.   Bakery;
-   Q.   Specialty shops, i.e., jewelry, arts and crafts, gifts, bookstore,
-photography;
-   R.   Other uses rules by the board of adjustment to be similar to the
-foregoing uses, provided such other uses are not inconsistent with the
-objectives and characteristics of this zone.
-(Ord. NS-56 (part), 1978; prior code § 17.62.020)
+17.64.020 Permitted uses.
+The building structures and uses of land established in Table 17-64.A
+(Permitted Uses) shall be permitted in the CC-2 central commercial zone upon
+compliance with the requirements set forth in this title:
+Table 17-64.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-64.A: Permitted Uses
+Use                      Director Board of Adjustment Standard or Specific Use
+                                                      Regulation
+Bakery                   P                             
+Clinics                  P                             
+Convenience market                CUP                  
+Copying and blueprinting P                             
+Day care nursery                  CUP                  
+Establishments, personal P                             
+service
+Institutions, financial  P                             
+Interior decorating      P                             
+Locksmith                P                             
+Metal sharpening         P                             
+Mini-storage facilities           CUP                  
+Museums                  P                             
+Office buildings,        P                             
+private
+Office buildings, public P                             
+Other uses determined to
+be similar to the                 CUP                  
+foregoing uses
+Other uses determined to
+be similar to uses
+specifically permitted
+in the zone and which             P                    
+will harmonize with the
+objectives and
+characteristics of the
+CC-2 zone
+Printing                 P                             
+Repair and sales, TV and P                             
+appliance
+Services, professional   P                             
+Shops, dress             P                             
+Shops, optical           P                             
+Shops, specialty, i.e.,
+jewelry, arts and        P                             
+crafts, gifts,
+bookstore, photography
+Shops, upholstery                 CUP                  
+                                                      Max. 24 square feet in
+                                                      area
+                                                      Max. 10 feet in height at
+Signs, freestanding      P                            highest point
+                                                      No signs shall be placed
+                                                      within 30 feet of any
+                                                      residential property.
+                                                      Max. 18 square feet in
+                                                      area
+Signs, wall                                           No signs shall be placed
+                                                      within 30 feet of any
+                                                      residential property.
+Station, cable TV                 CUP                  
+Station, radio                    CUP                  
+Store, furniture                  CUP                  
+Store, hardware                   CUP                  
+Store, paint                      CUP                  
+Studios, fine art        P                             
+Theater                           CUP                  
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Ord. NS-56 (part), 1978; prior code § 17.62.020; Ord. No. NS379, Exh. A, 2026)
 17.64.030 Other requirements.
    A.   Requirements and restrictions pertaining to area and width of lots and
 location of buildings and structures, the size of yards and open space, the
 height and size of buildings and the percentage of the lot that may be occupied
-shall be as hereinafter set forth in section 17.84.010 of this title pertaining
-to the CC-2 zone.
-   B.   See also supplementary requirement and procedures applicable within
+shall be as hereinafter set forth in Section
+17.84.010 of this title pertaining to the CC-2 zone.
+   B.   All exterior lights in this zone shall be non-flashing and non-
+rotating. No lights shall be placed within 30 feet of any residential property.
+   C.   See also supplementary requirement and procedures applicable within
 zones.
-(Ord. NS-56 (part), 1978; prior code § 17.62.030)
+(Ord. NS-56 (part), 1978; prior code § 17.62.030; Ord. No. NS379, Exh. A, 2026)
 17.64.040 Prohibited uses.
 The following buildings, structures and uses of land shall be prohibited in the
 CC-2 central commercial zone:
@@ -14684,33 +15445,166 @@ stabilize and protect the essential characteristics of this zone, the following
 regulations in this chapter shall apply in the GC-1 general commercial zone.
 (Prior code § 17.64.010)
 17.68.020 Use requirements.
-The following buildings, structures, and uses of land shall be permitted in the
-GC-1 general commercial zone upon compliance with requirements as set forth in
-this title:
-   A.   Any use permitted in the CC-1 central commercial zone;
-   B.   Wholesale distributing houses and warehouses;
-   C.   Service establishments such as dyeing, cleaning, or laundry plants,
-printing plants, machine shops, blacksmith shops;
-   D.   Food preparation plants, the operation of which is not obnoxious by
-reason of emission of odors, smoke, or noise;
-   E.   Milk distribution stations, creameries, bottling works and similar
-businesses;
-   F.   Assembling and the sale of farm equipment, mining machinery, vehicles
-and similar articles, but excluding junk yards and auto wrecking yards;
-   G.   Public garages and public parking lots;
-   H.   Veterinary hospitals;
-   I.   Carting, express hauling and storage;
-   J.   Building materials storage yards, plant nurseries;
-   K.   Stone cutting and monument works;
-   L.   Hay, grain, and feed establishments;
-   M.   Wholesale and bulk gasoline;
-   N.   Oil and L.P. gas storage and sales;
-   O.   Nonaccessory signs and billboards;
-   P.   Bona fide caretakers' dwellings;
-   Q.   Other uses ruled by the board of adjustment to be similar to the
-foregoing uses provided that such other uses are not inconsistent with the
-objectives and characteristics of this zone.
-(Prior code § 17.64.020)
+The buildings, structures, and uses of land established in Table 17-68.A
+(Permitted Uses) shall be permitted in the GC-1 general commercial zone upon
+compliance with requirements as set forth in this title:
+Table 17-68.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-68.A: Permitted Uses
+Use                      Director Board of Adjustment Standard or Specific Use
+                                                      Regulation
+Assembly and the sale of
+farm equipment, mining   P                            Excluding junk yards and
+machinery, vehicles and                               auto wrecking yards
+similar articles
+Amusement enterprises    P                             
+Billboards               P                             
+Bowling alleys           P                             
+Building materials       P                             
+storage yards
+Bus stations             P                             
+Cafes                    P                             
+Carting, express hauling P                             
+and storage
+Churches                 P                             
+Clinics                  P                             
+Clubs                    P                             
+Copying and blueprinting P                             
+                                                      Must comply with State
+Day care nurseries       P                            Board of Health
+                                                      requirements
+Dwellings, bona fide     P                             
+caretakers’
+Dwellings, when located
+above the ground floor,
+provided the ground
+floor is designed and    P                             
+used exclusively for a
+commercial purpose
+permitted in the zone
+Establishments,
+alcoholic and beer       P                             
+dispensing
+                                                      No storage of
+                                                      merchandise, materials,
+                                                      equipment, or junk
+Establishments,                                       outside of enclosing
+financial                P                            buildings, or enclosing
+                                                      fences, except
+                                                      automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+Establishments, hay,     P                             
+grain, and feed
+                                                      No storage of
+                                                      merchandise, materials,
+                                                      equipment, or junk
+Establishments, personal                              outside of enclosing
+service                  P                            buildings, or enclosing
+                                                      fences, except
+                                                      automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+                                                      No storage of
+                                                      merchandise, materials,
+                                                      equipment, or junk
+                                                      outside of enclosing
+Establishments, retail   P                            buildings, or enclosing
+                                                      fences, except
+                                                      automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+Establishments, service
+(dyeing, cleaning, or
+laundry plants, printing P                             
+plants, machine shops,
+blacksmith shops)
+Establishments, tailor,
+millinery, and           P                             
+dressmaking
+                                                      Provided such activities
+                                                      do not give rise to dust,
+                                                      odor, noise, smoke,
+                                                      vibration, or
+                                                      intermittent light or
+Fabrication or                                        glare discernible beyond
+processing of goods done                              the zone boundary lines
+in connection with, and  P                            and do not involve the
+incidental to, the sale                               storage of merchandise,
+of goods on the premises                              materials, products,
+                                                      equipment, or junk
+                                                      outside of enclosed
+                                                      buildings except
+                                                      automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+Fine art studios         P                             
+                                                      The operation of which is
+Food preparation plants  P                            not obnoxious by reason
+                                                      of emission of odors,
+                                                      smoke, or noise
+Garages, public          P                             
+Hotels and motels        P                             
+Interior decorating      P                             
+Launderette (self-       P                             
+service)
+Locksmith                P                             
+Metal sharpening         P                             
+Milk distribution
+stations, creameries,    P                             
+bottling works and
+similar businesses
+Museums                  P                             
+Newsstands               P                             
+Night clubs              P                             
+Office buildings,        P                             
+private and public
+Oil and L.P. gas storage P                             
+and sales
+Other uses ruled to be
+similar to uses                   P                    
+specifically permitted
+in the zone (CC-1 zone)
+Parking lots, private    P                             
+and public
+Pool halls               P                             
+Plant nurseries          P                             
+Printing and publishing  P                             
+Public dance halls       P                             
+Radio and television     P                             
+stations
+Restaurants              P                             
+Retail, drive-in         P                             
+Schools, parochial       P                             
+Schools, public          P                             
+Shops, cleaning and      P                            Using nonflammable
+pressing                                              cleaning agents only
+Shops, optical           P                             
+Shops, radio,
+television, and          P                             
+electrical appliance
+repair
+Shops, shoe repair       P                             
+Signs, accessory         P                             
+Signs, non-accessory     P                             
+Stone cutting and        P                             
+monument works
+                                                      Not including
+Stores, poultry and meat P                            slaughtering,
+                                                      eviscerating, plucking,
+                                                      or dressing
+Telephone exchange       P                             
+Theaters                 P                             
+Veterinary hospitals     P                             
+Warehouses               P                             
+Wholesale distributing   P                             
+houses
+Wholesale and bulk       P                             
+gasoline
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.64.020; Ord. No. NS379, Exh. A, 2026)
 17.68.030 Other requirements.
 Requirements and restrictions pertaining to area and width of lots, the
 location of buildings and structures, the size of yards and open space, the
@@ -14738,26 +15632,176 @@ allowed to commingle.
 stabilize and protect the essential characteristics of this zone, the following
 regulations in this chapter shall apply in the I-1 industrial zone.
 (Prior code § 17.68.010)
-17.72.020 Use requirements.
-The following buildings, structures, and uses of land shall be permitted upon
-compliance with the requirements set forth in this title:
-   A.   Any use permitted in the CC-1 central commercial zone and GC-1 general
-commercial zone except motels, hotels, churches, public hospitals, public and
-parochial schools, day care nurseries, public dance halls, night clubs, beer
-and alcohol dispensing establishments;
-   B.   Kennels, excluding outside runs;
-   C.   All industrial, manufacturing, and processing establishments, and
-buildings and structures to accommodate the same, except the following: animal
-by-products and manufacture of fertilizer from animal by-products; manufacture
-of explosives, acetylene, acid, alcohol, ammonia, celluloid, and other
-explosive products and hog farms;
-   D.   Storage of merchandise, materials, equipment, and junk either inside or
-outside of buildings. Junkyards shall be surrounded by a sight obscuring fence
-or wall at least eight feet in height and no material or junk shall be stored
-to a height exceeding the height of the enclosing fence;
-   E.   Waste disposal sites when operated by a public agency in accordance
-with state board of health standards.
-(Prior code § 17.68.020)
+17.72.020 Permitted uses.
+The buildings, structures, and uses of land established in Table 17-72.A
+(Permitted Uses) shall be permitted upon compliance with the requirements set
+forth in this title:
+Table 17-72.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-72.A: Permitted Uses
+Use                      Director Board of Adjustment Standard or Specific Use
+                                                      Regulation
+                                                      Except the following:
+                                                      animal by-products and
+All industrial,                                       manufacture of fertilizer
+manufacturing, and                                    from animal by-products;
+processing               P                            manufacture of
+establishments, and                                   explosives, acetylene,
+buildings and structures                              acid, alcohol, ammonia,
+to accommodate the same                               celluloid, and other
+                                                      explosive products and
+                                                      hog farms
+Assembly and the sale of
+farm equipment, mining   P                            Excluding junk yards and
+machinery, vehicles and                               auto wrecking yards
+similar articles
+Amusement enterprises    P                             
+Billboards               P                             
+Bowling alleys           P                             
+Building materials       P                             
+storage yards
+Bus stations             P                             
+Cafes                    P                             
+Carting, express hauling P                             
+and storage
+Clinics                  P                             
+Clubs                    P                             
+Copying and blueprinting P                             
+Dwellings, bona fide     P                             
+caretakers’
+Dwellings, when located
+above the ground floor,
+provided the ground
+floor is designed and    P                             
+used exclusively for a
+commercial purpose
+permitted in the zone
+                                                      No storage of
+                                                      merchandise, materials,
+                                                      equipment, or junk
+Establishments,                                       outside of enclosing
+financial                P                            buildings, or enclosing
+                                                      fences, except
+                                                      automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+Establishments, hay,     P                             
+grain, and feed
+Establishments, personal P
+service                                               No storage of
+                                                      merchandise, materials,
+                                                      equipment, or junk
+                                                      outside of enclosing
+                                                      buildings, or enclosing
+Establishments, retail   P                            fences, except
+                                                      automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+
+Establishments, service
+(dyeing, cleaning, or
+laundry plants, printing P                             
+plants, machine shops,
+blacksmith shops)
+Establishments, tailor,
+millinery, and           P                             
+dressmaking
+                                                      Provided such activities
+                                                      do not give rise to dust,
+                                                      odor, noise, smoke,
+                                                      vibration, or
+                                                      intermittent light or
+Fabrication or                                        glare discernible beyond
+processing of goods done                              the zone boundary lines
+in connection with, and  P                            and do not involve the
+incidental to, the sale                               storage of merchandise,
+of goods on the premises                              materials, products,
+                                                      equipment, or junk
+                                                      outside of enclosed
+                                                      buildings except
+                                                      automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+Fine art studios         P                             
+                                                      The operation of which is
+Food preparation plants  P                            not obnoxious by reason
+                                                      of emission of odors,
+                                                      smoke, or noise
+Garages, public          P                             
+Gas storage and sales,   P                             
+oil and L.P.
+Gasoline, wholesale and  P                             
+bulk
+Interior decorating      P                             
+Kennels, excluding       P                             
+outside runs
+Launderette (self-       P                             
+service)
+Locksmith                P                             
+Metal sharpening         P                             
+Milk distribution
+stations, creameries,    P                             
+bottling works and
+similar businesses
+Museums                  P                             
+Newsstands               P                             
+Office buildings,        P                             
+private and public
+Other uses determined to
+be similar to uses                P                    
+specifically permitted
+in the zone (CC-1 Zone)
+Parking lots, private    P                             
+and public
+Pool halls               P                             
+Plant nurseries          P                             
+Printing and publishing  P                             
+Radio and television     P                             
+stations
+Restaurants              P                             
+Retail, drive-in         P                             
+Shops, cleaning and      P                            Using nonflammable
+pressing                                              cleaning agents only
+Shops, optical           P                             
+Shops, radio,
+television, and          P                             
+electrical appliance
+repair
+Shops, shoe repair       P                             
+Signs, accessory         P                             
+Signs, non-accessory     P                             
+Stone cutting and        P                             
+monument works
+                                                      Junkyards shall be
+                                                      surrounded by a sight-
+Storage of merchandise,                               obscuring fence or wall
+materials, equipment,                                 at least 8 feet in
+and junk either inside                                height.
+or outside of buildings                               No material or junk shall
+                                                      be stored to a height
+                                                      exceeding the height of
+                                                      the enclosing fence.
+                                                      Not including
+Stores, poultry and meat P                            slaughtering,
+                                                      eviscerating, plucking,
+                                                      or dressing
+Telephone exchange       P                             
+Theaters                 P                             
+Veterinary hospitals     P                             
+Warehouses               P                             
+Waste disposal sites
+when operated by a
+public agency in         P                             
+accordance with State
+Board of Health
+standards
+Wholesale distributing   P                             
+houses
+Solar energy uses                 CUP                  
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.68.020; Ord. No. NS379, Exh. A, 2026)
 17.72.030 Other requirements.
    A.   Requirements and restrictions pertaining to area and width of lots, the
 location of buildings and structures, the size of yards and open space, the
@@ -14774,12 +15818,178 @@ Sections:
 The objectives and characteristics of the I-2 zone shall be the same as in the
 I-1 industrial zone.
 (Prior code § 17.72.010)
-17.76.020 Use requirements.
-The following buildings, structures, and uses of land shall be permitted upon
-compliance with requirements set forth in this title:
-   A.   Any use permitted in the CC-1, GC-1, and I-1 zone;
-   B.   Livestock feed yards and livestock corrals.
-(Prior code § 17.72.020)
+17.76.020 Permitted uses.
+The buildings, structures, and uses of land established in Table 17-76.A
+(Permitted Uses) shall be permitted upon compliance with the requirements set
+forth in this title:
+Table 17-76.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-76.A: Permitted Uses
+Use                      Director Board of Adjustment Standard or Specific Use
+                                                      Regulation
+                                                      Except the following:
+                                                      animal by-products and
+All industrial,                                       manufacture of fertilizer
+manufacturing, and                                    from animal by-products;
+processing               P                            manufacture of
+establishments, and                                   explosives, acetylene,
+buildings and structures                              acid, alcohol, ammonia,
+to accommodate the same                               celluloid, and other
+                                                      explosive products and
+                                                      hog farms
+Assembly and the sale of
+farm equipment, mining   P                            Excluding junk yards and
+machinery, vehicles and                               auto wrecking yards
+similar articles
+Amusement enterprises    P                             
+Billboards               P                             
+Bowling alleys           P                             
+Building materials       P                             
+storage yards
+Bus stations             P                             
+Cafes                    P                             
+Carting, express hauling P                             
+and storage
+Clinics                  P                             
+Clubs                    P                             
+Copying and blueprinting P                             
+Dwellings, bona fide     P                             
+caretakers’
+Dwellings, when located
+above the ground floor,
+provided the ground
+floor is designed and    P                             
+used exclusively for a
+commercial purpose
+permitted in the zone
+                                                      No storage of
+                                                      merchandise, materials,
+                                                      equipment, or junk
+Establishments,                                       outside of enclosing
+financial                P                            buildings, or enclosing
+                                                      fences, except
+                                                      automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+Establishments, hay,     P                             
+grain, and feed
+Establishments, personal P
+service                                               No storage of
+                                                      merchandise, materials,
+                                                      equipment, or junk
+                                                      outside of enclosing
+                                                      buildings, or enclosing
+Establishments, retail   P                            fences, except
+                                                      automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+
+Establishments, service
+(dyeing, cleaning, or
+laundry plants, printing P                             
+plants, machine shops,
+blacksmith shops)
+Establishments, tailor,
+millinery, and           P                             
+dressmaking
+                                                      Provided such activities
+                                                      do not give rise to dust,
+                                                      odor, noise, smoke,
+                                                      vibration, or
+                                                      intermittent light or
+Fabrication or                                        glare discernible beyond
+processing of goods done                              the zone boundary lines
+in connection with, and  P                            and do not involve the
+incidental to, the sale                               storage of merchandise,
+of goods on the premises                              materials, products,
+                                                      equipment, or junk
+                                                      outside of enclosed
+                                                      buildings except
+                                                      automobiles, trucks, and
+                                                      other vehicles in running
+                                                      order
+Fine art studios         P                             
+                                                      The operation of which is
+Food preparation plants  P                            not obnoxious by reason
+                                                      of emission of odors,
+                                                      smoke, or noise
+Garages, public          P                             
+Gas storage and sales,   P                             
+oil and L.P.
+Gasoline, wholesale and  P                             
+bulk
+Interior decorating      P                             
+Kennels, excluding       P                             
+outside runs
+Launderette (self-       P                             
+service)
+Livestock feed yards and P                             
+corrals
+Locksmith                P                             
+Metal sharpening         P                             
+Milk distribution
+stations, creameries,    P                             
+bottling works and
+similar businesses
+Museums                  P                             
+Newsstands               P                             
+Office buildings,        P                             
+private and public
+Other uses determined to
+be similar to uses                P                    
+specifically permitted
+in the zone (CC-1 Zone)
+Parking lots, private    P                             
+and public
+Pool halls               P                             
+Plant nurseries          P                             
+Printing and publishing  P                             
+Radio and television     P                             
+stations
+Restaurants              P                             
+Retail, drive-in         P                             
+Shops, cleaning and      P                            Using nonflammable
+pressing                                              cleaning agents only
+Shops, optical           P                             
+Shops, radio,
+television, and          P                             
+electrical appliance
+repair
+Shops, shoe repair       P                             
+Signs, accessory         P                             
+Signs, non-accessory     P                             
+Stone cutting and        P                             
+monument works
+                                                      Junkyards shall be
+                                                      surrounded by a sight-
+Storage of merchandise,                               obscuring fence or wall
+materials, equipment,                                 at least 8 feet in
+and junk either inside                                height.
+or outside of buildings                               No material or junk shall
+                                                      be stored to a height
+                                                      exceeding the height of
+                                                      the enclosing fence.
+                                                      Not including
+Stores, poultry and meat P                            slaughtering,
+                                                      eviscerating, plucking,
+                                                      or dressing
+Telephone exchange       P                             
+Theaters                 P                             
+Veterinary hospitals     P                             
+Warehouses               P                             
+Waste disposal sites
+when operated by a
+public agency in         P                             
+accordance with State
+Board of Health
+standards
+Wholesale distributing   P                             
+houses
+Solar energy uses                 CUP                  
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.72.020; Ord. No. NS379, Exh. A, 2026)
 17.76.030 Other requirements.
    A.   Requirements and restrictions pertaining to area and width of lots, the
 location of buildings and structures, the size of yards and open space, the
@@ -14810,22 +16020,65 @@ stabilize and protect the essential characteristics of this zone, the following
 regulations in this chapter shall apply in the RR-1 recreational residential
 zone.
 (Prior code § 17.76.010)
-17.80.020 Use requirements.
-The following buildings, structures, and uses of land shall be permitted in the
-zone upon compliance with the requirements set forth in this title:
-   A.   Any use of land or buildings permitted in the R-1 zone;
-   B.   The raising, care, and keeping of domestic animals and chickens in
-numbers not to exceed four-animal units for each 35,000 square feet of lot
-area, not including easements. One animal unit shall be one horse, or one cow,
-or two sheep and/or dairy goats, or 25 chickens, or 25 rabbits. No animal or
-fowl (except household pets) may be kept on a lot containing less than 35,000
-square feet. Other domestic animals not otherwise mentioned may be kept subject
-to limitations of numbers and conditions as may be determined by the board of
-adjustment to be in harmony with the objectives and characteristics of this
-zone;
-   C.   Barns, pens, coops, and feed storage facilities for the care and
-keeping of permitted domestic animals.
-(Prior code § 17.76.020)
+17.80.020 Permitted uses.
+The buildings, structures, and uses of land established in Table 17-80.A
+(Permitted Uses) shall be permitted in the zone upon compliance with the
+requirements set forth in this title:
+Table 17-80.A: Permitted Uses
+Use Director Board of Adjustment Standard or Specific Use Regulation
+Table 17-80.A: Permitted Uses
+Use                      Director Board of Adjustment Standard or Specific Use
+                                                      Regulation
+Accessory dwelling unit  P                             
+Agriculture              P                             
+Barns, pens, coops, and
+feed storage facilities
+for the care and keeping P                             
+of permitted domestic
+animals
+Cemeteries, public       P                             
+Churches                 P                             
+Customary household pets P                             
+Fences, walls, and       P                            Max. 6 feet in height
+hedges
+Home occupations                  CUP                  
+One-family dwellings and
+accessory buildings,
+including a private
+garage for the storage
+of vehicles owned by     P                             
+persons residing on the
+premises, greenhouses
+for private use only,
+private swimming pools,
+pergolas, and arbors
+Public parks, public
+recreation grounds, but
+not including privately  P                             
+owned amusement parks or
+recreation grounds
+                                                      Not including easements
+                                                      One animal unit shall be
+Raising, care, and                                    one horse, or one cow, or
+keeping of domestic                                   2 sheep and/or dairy
+animals and chickens in                               goats, or 25 chickens, or
+numbers not to exceed    P                            25 rabbits.
+four animal units for                                 No animal or fowl (except
+each 35,000 square feet                               household pets) may be
+of lot area                                           kept on a lot containing
+                                                      less than 35,000 square
+                                                      feet.
+Other domestic animals                                The Board of Adjustment
+not otherwise mentioned                               shall determine if the
+in the row above, may be          P                   animals are in harmony
+kept subject to                                       with the objectives and
+limitations of numbers                                characteristics of this
+and conditions                                        zone.
+Schools                  P                             
+Legend:
+“P” = Permitted use
+“CUP” = Conditional use permit
+(Prior code § 17.76.020; Ord. No. NS379, Exh. A, 2026)
 17.80.030 Other requirements.
    A.   Requirements and restrictions pertaining to width of lots, the location
 of buildings and structures, the size of yards and open spaces, the height and
@@ -14872,27 +16125,217 @@ map, and subject to the regulations herein:
       4.   RU-4
       5.   RU-2
 (Ord. NS271, § 2(Exh. B), 2006)
-17.81.030 Permitted principal uses.
-   A.   The following uses shall be permitted in all RU zoning districts,
-provided that they conform to the applicable site development standards for
-such uses set forth below, and meet any other requirements for such uses found
-in these regulations, such as off-site road and drainage improvements.
-      1.   All single and multiple-household dwellings.
-      2.   Mobile home or manufactured home parks subject to the maximum
-densities in section 17.88.090.
-      3.   Utility installations, other than electrical generation plants,
-regional sewage treatment plants, solid waste landfills or incinerators.
-      4.   Churches or places of religious worship.
-      5.   Enclosed veterinary clinics or animal hospitals.
-      6.   Riding stables, commercial, on a minimum site of ten acres.
-      7.   Emergency vehicle stations.
-      8.   Residential care homes.
-      9.   Bed and breakfast inn.
-      10.   Grocery stores and agriculture-related retail sales (sales area not
-to exceed 2,000 square feet of total area, including any outdoor storage).
-      11.   Day care facilities.
-      12.   Wireless communications facilities at a maximum height of 30 feet.
-(Ord. NS271, § 2(Exh. B), 2006)
+17.81.030 Permitted uses.
+   The uses established in established in Table 17-81.A (Permitted Principal
+Uses) shall be permitted in all RU zoning districts, provided that they conform
+to the applicable site development standards, and meet any other requirements
+for such uses found in these regulations, such as off-site road and drainage
+improvements.
+Table 17-81.A: Permitted Uses
+Use Director Planning Commission Standard or Specific Use Regulation
+Table 17-81.A: Permitted Uses
+Use                      Director Planning Commission Standard or Specific Use
+                                                      Regulation
+Agricultural processing           CUP
+services
+Airports and flying
+fields, including                 CUP
+private landing areas
+Amusement parks, outdoor          CUP                 Subject to the procedures
+Animal husbandry                  CUP                 and review criteria set
+services                                              forth in Title 17 of the
+Associations, business,                               Willcox Municipal Code
+civic, fraternal and              CUP
+social
+Bars and taverns                  CUP
+Bed and breakfast                 CUP
+establishment
+Bed and breakfast inn    P                             
+                                                      Subject to the procedures
+Cemeteries                        CUP                 and review criteria set
+                                                      forth in Title 17 of the
+                                                      Willcox Municipal Code
+Churches or places of    P                             
+religious worship
+Commercial plant                  CUP
+nurseries                                             Subject to the procedures
+                                                      and review criteria set
+Contract construction             CUP                 forth in Title 17 of the
+services                                              Willcox Municipal Code
+
+Corrals and pens         P                            Setbacks apply; permit
+                                                      may be required.
+Cultural, historical and          CUP
+nature exhibits                                       Subject to the procedures
+                                                      and review criteria set
+                                                      forth in Title 17 of the
+Day care establishments           CUP                 Willcox Municipal Code
+                                                       
+
+Dwellings, all single-   P                             
+household
+Dwellings, all multiple- P                             
+household
+                                                      Subject to the procedures
+Educational services              CUP                 and review criteria set
+                                                      forth in Title 17 of the
+                                                      Willcox Municipal Code
+Emergency vehicle        P                             
+stations
+                                                      Subject to the procedures
+Fairgrounds                       CUP                 and review criteria set
+                                                      forth in Title 17 of the
+                                                      Willcox Municipal Code
+Fences                   P                            Setbacks do not apply;
+                                                      permit required.
+Funeral and crematory             CUP
+services
+Gasoline/service                  CUP                 Subject to the procedures
+stations                                              and review criteria set
+Golf courses                      CUP                 forth in Title 17 of the
+Group quarters                    CUP                 Willcox Municipal Code
+Guest lodging                     CUP
+Health clinics                    CUP
+Home occupations         PA                           Accessory
+                                                      Subject to the procedures
+Hospitals                         CUP                 and review criteria set
+                                                      forth in Title 17 of the
+                                                      Willcox Municipal Code
+                                                      Subject to the procedures
+Hospitals, animal                 CUP                 and review criteria set
+                                                      forth in Title 17 of the
+                                                      Willcox Municipal Code
+                                                      Subject to the maximum
+Manufactured home parks  P                            densities in Section
+                                                      17.88.090
+Manufacturing,
+wholesaling,
+warehousing,
+distribution and storage          CUP
+of products, activity
+area not to exceed 2,000
+square feet                                           Subject to the procedures
+Manufacturing,                                        and review criteria set
+wholesaling,                                          forth in Title 17 of the
+warehousing,                      CUP                 Willcox Municipal Code
+distribution, or storage
+of agriculture-related
+products
+Meat cutting or                   CUP
+butchering operations
+Meat packing plants               CUP
+                                                      Subject to the maximum
+Mobile home parks                 P                   densities in Section
+                                                      17.88.090
+Motion picture                    CUP
+production sites/studios                              Subject to the procedures
+Nightclubs                        CUP                 and review criteria set
+Offender rehabilitation                               forth in Title 17 of the
+facilities                        CUP                 Willcox Municipal Code
+
+                                                      Max. one out-building
+Out-building             P                            permanently affixed;
+                                                      setbacks apply; permit
+                                                      may be required.
+Personal and                      CUP                  
+professional services
+                                                      Subject to the procedures
+Recreational facilities,          CUP                 and review criteria set
+indoor and outdoor                                    forth in Title 17 of the
+                                                      Willcox Municipal Code
+                                                      Storage of max. 2 RVs per
+                                                      parcel is allowed (no
+                                                      permit is required).
+                                                      Temporary occupancy of
+                                                      one RV in conjunction
+                                                      with a permitted
+                                                      principal use up to six
+                                                      months in a calendar year
+                                                      (a temporary use permit
+Recreational vehicles    PA                           is required; stays of 15
+(RVs)                                                 consecutive days or less
+                                                      do not require a permit).
+                                                      Temporary occupancy of
+                                                      RVs in conjunction with
+                                                      the construction of a
+                                                      non-residential or
+                                                      residential permitted
+                                                      principal use (a
+                                                      temporary use permit is
+                                                      required).
+Recreational vehicle              CUP
+parks                                                 Subject to the procedures
+Recycling centers                 CUP                 and review criteria set
+                                                      forth in Title 17 of the
+Repair services                   CUP                 Willcox Municipal Code
+
+Residential care homes   P                             
+Residential care                  CUP
+institutions                                          Subject to the procedures
+                                                      and review criteria set
+Restaurants                       CUP                 forth in Title 17 of the
+                                                      Willcox Municipal Code
+
+                                                      Sales area not to exceed
+Retail sales,            P                            2,000 square feet of
+agriculture-related                                   total area, including
+                                                      outdoor storage
+Retail sales, rentals,                                Subject to the procedures
+or accessory storage of           CUP                 and review criteria set
+materials, merchandise,                               forth in Title 17 of the
+supplies and equipment                                Willcox Municipal Code
+Riding stables,          P                            Minimum site of 10 acres
+commercial
+Rooms in the principal                                Not exceeding two such
+dwelling for rent-paying PA                           persons per dwelling unit
+visitors                                              No permit is required.
+Shooting ranges,
+archery, firearm, skeet,          CUP                 Subject to the procedures
+trap, indoor                                          and review criteria set
+Slaughterhouses                   CUP                 forth in Title 17 of the
+Storage of agriculture-           CUP                 Willcox Municipal Code
+related products
+Stores, convenience               CUP
+                                                      Sales area not to exceed
+Stores, grocery          P                            2,000 square feet of
+                                                      total area, including any
+                                                      outdoor storage
+                                                      Other than electrical
+                                                      generation plants,
+Utility installations    P                            regional sewage treatment
+                                                      plants, solid waste
+                                                      landfills or incinerators
+                                                      Subject to the procedures
+Veterinary clinics                CUP                 and review criteria set
+                                                      forth in Title 17 of the
+                                                      Willcox Municipal Code
+Veterinary clinics,      P                             
+enclosed
+                                                      Subject to the procedures
+Welfare and charitable            CUP                 and review criteria set
+services                                              forth in Title 17 of the
+                                                      Willcox Municipal Code
+Well houses, permanently P                            Setbacks apply; no permit
+fixed                                                 required.
+Wholesaling,                                          Subject to the procedures
+warehousing,                      CUP                 and review criteria set
+distribution or storage                               forth in Title 17 of the
+of propane                                            Willcox Municipal Code
+Wireless communications  P                            Maximum height of 30 feet
+facilities
+Wireless communications                               Subject to the procedures
+facilities exceeding 30           CUP                 and review criteria set
+feet in height                                        forth in Title 17 of the
+                                                      Willcox Municipal Code
+Zoos and other animal             CUP                  
+exhibits
+Solar energy uses                 CUP                 * Pending approval by CC
+                                                      9/15
+Legend:
+“P” = Permitted use
+“PA” = Permitted accessory use
+“CUP” = Conditional use permit
+(Ord. NS271, § 2(Exh. B), 2006; Ord. No. NS379, Exh. A, 2026)
 17.81.040 Site development standards.
    A.   All uses permitted in RU zoning districts shall conform to the
 following minimum site development standards:
@@ -15034,20 +16477,88 @@ official zoning district map and are subject to regulations herein;
       7.   SR-22
       8.   SR-8
 (Ord. NS272, § 2(Exh. C), 2006)
-17.82.030 Permitted principal uses.
-   A.   The following uses shall be permitted in all SR zoning districts,
-provided that they conform to the applicable site development standards set
-forth below and meet any other requirements for such uses found in these
-regulations.
-      1.   All single-household dwellings, excluding mobile and manufactured
-homes.
-      2.   Utility installations not otherwise exempted, other than electric
-generation plants, regional sewage treatment plants, solid waste landfills or
-incinerators.
-      3.   Churches or other places of religious worship.
-      4.   Residential cares homes.
-      5.   Emergency vehicle stations not otherwise exempted.
-(Ord. NS272, § 2(Exh. C), 2006)
+17.82.030 Permitted uses.
+The uses established in Table 17-82.A (Permitted Uses) shall be permitted in
+all SR zoning districts, provided that they conform to the applicable site
+development standards set forth below and meet any other requirements for such
+uses found in these regulations.
+Table 17-82.A: Permitted Uses
+Use Director Planning Commission Standard or Specific Use Regulation
+Table 17-82.A: Permitted Uses
+Use                      Director Planning Commission Standard or Specific Use
+                                                      Regulation
+                                                      Allowed in SR-36 acres,
+                                                      SR-18 acres, SR-10 acres,
+Living quarter, one                                   SR174, SR-87 and SR-43
+accessory                PA                           zoning districts
+                                                      providing all other
+                                                      applicable regulations
+                                                      are met
+Associations, business,
+civic, fraternal and              CUP                  
+social
+Cemeteries                        CUP                  
+Churches or other places P                             
+of religious worship
+Child care facilities             CUP                  
+and establishments
+Cultural, historic and            CUP                  
+nature exhibits
+Dwellings, single-       P                            Excluding mobile and
+household                                             manufactured homes
+Emergency vehicle
+stations not otherwise   P                             
+exempted
+Golf courses                      CUP                  
+Health clinics                    CUP                  
+Home occupations         PA                            
+Lodging, bed and                  CUP                  
+breakfast
+Recreational facilities,          CUP                  
+indoor and outdoor
+                                                      Storage of max. 2 RVs per
+                                                      parcel is allowed (no
+                                                      permit is required).
+                                                      Temporary occupancy of
+                                                      one RV in conjunction
+                                                      with a permitted
+                                                      principal use up to six
+                                                      months in a calendar year
+                                                      (a temporary use permit
+Recreational vehicles    PA                           is required; stays of 15
+(RVs)                                                 consecutive days or less
+                                                      do not require a permit).
+                                                      Temporary occupancy of
+                                                      RVs in conjunction with
+                                                      the construction of a
+                                                      non-residential or
+                                                      residential permitted
+                                                      principal use (a
+                                                      temporary use permit is
+                                                      required).
+Residential care homes   P                             
+Residential care                  CUP                  
+institutions
+Rooms in the principal                                Not exceeding two such
+dwelling for rent-paying PA                           persons per dwelling unit
+visitors                                              No permit is required.
+Services, educational             CUP                  
+Services, personal and            CUP                  
+professional
+Services, welfare and             CUP                  
+charitable
+Stores, convenience               CUP                  
+Stores, grocery                   CUP                  
+                                                      Except electric
+Utility installations                                 generation plants,
+not otherwise exempted   P                            regional sewage treatment
+                                                      plants, solid waste
+                                                      landfills or incinerators
+Legend:
+“P” = Permitted use
+“PA” = Permitted accessory use
+“CUP” = Conditional use permit
+(Ord. NS272, § 2(Exh. C), 2006; Ord. No. NS379, Exh. A, 2026)
 17.82.040 Site development standards.
    A.   All uses permitted in SR zoning districts shall conform to the
 following minimum site development standards:
@@ -15100,44 +16611,208 @@ household structures. Nothing herein shall prevent permanent attachment of
 principle structures.
 (Ord. NS272, § 2(Exh. C), 2006)
 17.82.050 Permitted accessory uses.
-   A.   Accessory uses are permitted in SR zoning districts provided they are
-customarily incidental to an established permitted principal use. For
-residential uses, the following additional accessory uses and buildings shall
-be permitted:
-      1.   Recreational vehicles (RVs) are allowed as follows:
-         a.   Storage of no more than two RVs on a parcel (no permit is
-required).
-         b.   Temporary occupancy of one RV in conjunction with a permitted
-principal use up to six months in a calendar year (a temporary use permit is
-required; stays of 15 consecutive days or less do not require a permit).
-         c.   Temporary occupancy of RVs in conjunction with the construction
-of a non-residential or residential permitted principal use (a temporary use
-permit is required).
-      2.   Rooms in the principal dwelling for rent paying visitors, not
-exceeding two such persons per dwelling unit (no permit is required).
-      3.   One accessory living quarter in SR-36 acres, SR-18 acres, SR-10
-acres, SR174, SR-87 and SR-43 zoning districts providing all other applicable
-regulations are met.
-      4.   Home occupations.
-(Ord. NS272, § 2(Exh. C), 2006)
-17.82.060 Special uses.
-   A.   The following use(s) may be permitted as a special use subject to other
-applicable regulations:
-      1.   Welfare and charitable services.
-      2.   Child care facilities and establishments.
-      3.   Educational services.
-      4.   Personal and professional services.
-      5.   Health clinics.
-      6.   Residential care institutions.
-      7.   Golf courses.
-      8.   Indoor and outdoor recreational facilities.
-      9.   Cultural, historic and nature exhibits.
-      10.   Bed and breakfast lodging.
-      11.   Cemeteries.
-      12.   Civic, social, fraternal or business associations.
-      13.   Grocery stores.
-      14.   Convenience stores.
-(Ord. NS272, § 2(Exh. C), 2006)
+Accessory uses are permitted in SR zoning districts provided they are
+customarily incidental to an established permitted principal use.
+(Ord. NS272, § 2(Exh. C), 2006; Ord. No. NS379, Exh. A, 2026)
+17.82.060 Conditional uses.
+The use(s) established in Table 17-82.C (Conditional Uses) may be permitted as
+a conditional use subject to other applicable regulations.
+(Ord. NS272, § 2(Exh. C), 2006; Ord. No. NS379, Exh. A, 2026)
+Chapter 17.83
+R, RESIDENTIAL ZONING DISTRICT
+Sections:
+17.83.010 R zoning purpose.
+R (Residential) zoning districts are established to achieve the following
+purposes:
+   A.   To provide an area for families living at a variety of low to medium
+densities;
+   B.   To provide an area where single-household dwellings, rehabilitated
+mobile homes, and manufactured homes can co-exist.
+(Ord. No. NS378, Exh. A, 2026)
+17.83.020 Division of R zoning districts.
+The R (Residential) zoning district shall be further divided into the following
+density districts, which are so designated on the Official Zoning District Map,
+and subject to the regulations herein:
+   A.   R-36
+   B.   R-18
+   C.   R-9
+(Ord. No. NS378, Exh. A, 2026)
+17.83.030 Permitted uses.
+The uses established in Table 17-83.A (Permitted Uses) shall be permitted in
+all R zoning districts, provided that they conform to the applicable site
+development standards set forth below and meet any other requirements for such
+uses found in these regulations.
+Table 17-83.A: Permitted Uses
+Use Director Planning Commission Standard or Specific Use Regulation
+Table 17-83.A: Permitted Uses
+Use                      Director Planning Commission Standard or Specific Use
+                                                      Regulation
+Churches or other places P                             
+of religious worship
+Civic, social, fraternal
+or business associations
+approved as part of a
+subdivision review       PA                            
+process for subdivision
+residents and guests
+only
+Community gardens        P                             
+Emergency vehicle
+stations not otherwise   P                             
+exempted
+Recreational facilities,
+indoor and/or outdoor,
+approved as part of a
+subdivision review       PA                            
+process for subdivision
+residents and guests
+only
+Residential care homes   P                             
+Single- and multiple-    P                             
+household dwellings
+Unlighted riding
+stables, commercial, on
+a minimum site of 10
+acres, approved as part  PA                            
+of a subdivision review
+process for subdivision
+residents and guests
+only
+Utility installations
+not otherwise exempted,
+other than electric
+generation plants,       P                             
+regional sewage
+treatment plants, solid
+waste landfills, or
+incinerators
+Agritourism                       CUP                  
+Animal husbandry                  CUP                  
+                                                      Subject to the procedures
+Cemeteries                        CUP                 and review criteria set
+                                                      forth in Title 17 of the
+                                                      Willcox Municipal Code
+Civic, social,
+fraternal, and/or                 CUP                  
+business associations
+                                                      Subject to the procedures
+Commercial plant                  CUP                 and review criteria set
+nurseries                                             forth in Title 17 of the
+                                                      Willcox Municipal Code
+Communication towers              CUP                  
+Contract construction             CUP
+services in R-36 only                                 Subject to the procedures
+Cultural, historic, and/          CUP                 and review criteria set
+or nature exhibits                                    forth in Title 17 of the
+Day care facilities or            CUP                 Willcox Municipal Code
+establishments
+Educational services              CUP                  
+Farmers markets                   CUP                  
+                                                      Subject to the procedures
+Golf courses                      CUP                 and review criteria set
+                                                      forth in Title 17 of the
+                                                      Willcox Municipal Code
+Grocery stores                    CUP                  
+                                                      Subject to the procedures
+Group quarters                    CUP                 and review criteria set
+                                                      forth in Title 17 of the
+                                                      Willcox Municipal Code
+Health clinics                    CUP                  
+Manufacturing,
+wholesaling,                                          Subject to the procedures
+warehousing,                                          and review criteria set
+distribution, and/or              CUP                 forth in Title 17 of the
+storage of agriculture-                               Willcox Municipal Code
+related products in R-36
+only
+Mini-warehouses                   CUP                  
+Personal and                      CUP                  
+professional services
+Recreational facilities,          CUP
+indoor and/or outdoor                                 Subject to the procedures
+Repair services, light,                               and review criteria set
+not to exceed 2,500               CUP                 forth in Title 17 of the
+square feet of floor                                  Willcox Municipal Code
+area
+Residential care                  CUP                  
+institutions
+Veterinary clinics and/           CUP                  
+or animal hospitals
+Welfare and/or                    CUP                  
+charitable services
+Legend:
+“P” = Permitted use
+“PA” = Permitted accessory use
+“CUP” = Conditional use permit
+(Ord. No. NS378, Exh. A, 2026; Ord. No. NS379, Exh. A, 2026)
+17.83.040 R site development standards.
+All uses permitted in the R zoning districts shall conform to the following
+minimum development standards:
+   A.   Minimum site area and maximum density.
+ 
+District Minimum Site Area  Maximum Density
+R-36     36,000 square feet One dwelling per 36,000 square feet
+R-18     18,000 square feet One dwelling per 18,000 square feet
+R-9      9,000 square feet  One dwelling per 9,000 square feet
+ 
+   B.   Maximum height.
+ 
+Maximum Height
+Principal structure 30 feet above grade
+Accessory structure 20 feet above grade
+Wall or fence       8 feet above grade
+ 
+   C.   Setbacks, principal and accessory structures/uses. The minimum setback
+shall be measured from the closest point on the property line or the edge of
+the road travel way to the structure/use, whichever is closer. The minimum
+required setbacks for permitted uses are:
+ 
+District Setback*
+R-36     20 feet
+R-18     20 feet
+R-9      10 feet
+* The minimum required setbacks for accessory structures no larger than 200
+square feet are half that of the zoning district in which it is located.
+ 
+   D.   Maximum site coverage is 65%.
+   E.   Distance between structures. Except as otherwise provided in these
+zoning regulations, the minimum distance between principal structures shall be
+15 feet, ten feet for multiple-household structures. Nothing herein shall
+prevent the permanent attachment of structures.
+   F.   Screening. In category A, B, and C growth areas, whenever a non-
+residential use abuts a residential zoning district or is separated therefrom
+by an alley, the developed area of the non-residential site shall be screened
+with a six-foot-high solid screen. Non-residential outdoor storage shall be
+screened regardless of abutting zoning district. The county Zoning Inspector
+may defer the screening if the abutting residentially zoned property is not yet
+developed with a residential use. In Category D (Rural) areas, whenever a non-
+residential use abuts an area designated as Rural Residential (RR), the
+developed area of the non-residential site shall be screened with a six-foot-
+high solid screen; otherwise, screening is not required.
+   G.   Alternative conservation subdivision option. Pursuant to the Cochise
+County Subdivision Regulations, the Residential Conservation Subdivision
+option, providing a wider latitude of design, more economical use of land, and
+density bonuses, is available for the development of residential subdivisions.
+(Ord. No. NS378, Exh. A, 2026)
+17.83.050 Permitted accessory uses.
+Accessory uses are permitted in R zoning districts provided they are
+customarily incidental to an established permitted principal use.
+(Ord. No. NS378, Exh. A, 2026; Ord. No. NS379, Exh. A, 2026)
+17.83.060 Other permitted uses.
+The following uses will be allowed without the establishment of permitted
+principal use on parcels four-acres or larger:
+   A.   Well houses, in a fixed location. Required minimum setbacks shall be 50
+feet from the property lines; no permit is required if 200-square feet or less.
+A permit is required for electrical and/or if located in a floodplain.
+   B.   One out-building, in a fixed location, corrals, and pens.
+   C.   Solid fences or walls seven feet in height or less. Setbacks do not
+apply; no permit is required, except if greater than three feet in height on a
+corner lot (informational permit required).
+(Ord. No. NS378, Exh. A, 2026)
+17.83.070 Conditional uses.
+The use(s) established in Table 17-83.C (Conditional Uses) may be permitted as
+a conditional use subject to other applicable regulations.
+(Ord. No. NS378, Exh. A, 2026; Ord. No. NS379, Exh. A, 2026)
 Chapter 17.84
 SIZE REGULATIONS
 Sections:
@@ -18775,5 +20450,15 @@ NS375     19-  1 zoning district                            A       17.14.040
           4-                                                Exhibit
 NS376     21-  Adds Ch. 17.10, citizen review process       A       17.10.010—17.10.070
           2026
+          7-
+NS377     21-  Levies a property tax                        1, 2    Not codified
+          2026
+          8-   Adds Ch. 17.83, residential zoning district  Exhibit
+NS378     11-  provisions                                   A Added 17.83.010—17.83.070
+          2026
+          8-                                                        17.24.030, 17.28.030, 17.32.030, 17.36.030, 17.40.030, 17.44.030,
+NS379     11-  Amends permitted and conditional uses        Exhibit 17.48.020, 17.52.060, 17.56.020, 17.60.020, 17.64.020, 17.64.030,
+          2026 throughout various zoning districts          A       17.68.020, 17.72.020, 17.76.020, 17.80.020, 17.81.030, 17.82.030,
+                                                                    17.82.050, 17.82.060, 17.83.030, 17.83.050, 17.83.070
  
  
