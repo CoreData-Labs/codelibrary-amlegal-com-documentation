@@ -1,7 +1,7 @@
 CITY OF BARNESVILLE, MINNESOTA
 CODE OF ORDINANCES
 2026 S-1 Supplement contains:
-Local legislation current through Ord. 2026-04, passed 2-9-2026
+Local legislation current through Ord. 2026-08, passed 9-8-2026
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -6028,6 +6028,8 @@ TITLE IX: GENERAL REGULATIONS
 93.   PARKS AND RECREATION
       
 94.   MUNICIPAL AIRPORT
+      
+95.   DEPLOYMENT AND OPERATION OF FIXED SURVEILLANCE CAMERA SYSTEMS
 CHAPTER 90: HEALTH, SANITATION, AND SAFETY
 Section
 General Provisions
@@ -7847,6 +7849,150 @@ under the license.
 not be transferable.
 (Prior Code, § 1-0402) Penalty, see §
 10.99
+CHAPTER 95: DEPLOYMENT AND OPERATION OF FIXED CAMERA SYSTEMS
+Section
+   
+95.01   Purpose and intent
+   
+95.02   Definitions
+   
+95.03   Scope and exemptions
+   
+95.04   Operational restrictions and system controls
+   
+95.05   Data classification and public access
+   
+95.06   Data retention, disposition, and security
+   
+95.07   Mandatory redaction compliance
+   
+95.08   Public notification signage
+   
+95.09   Liability and private right of action
+§ 95.01 PURPOSE AND INTENT.
+   It is the purpose of this chapter to regulate the use of fixed-location
+closed-circuit television (CCTV) and network security camera systems deployed
+on city-owned property, public infrastructure, and public rights-of-way by
+municipal departments. This chapter establishes standard controls to balance
+the city’s operational need to protect infrastructure, deter criminal activity,
+and enhance public safety with the privacy expectations and public data rights
+of individuals under federal, state, and local laws.
+(Ord. 2026-08, passed 9-8-2026)
+§ 95.02 DEFINITIONS.
+   For the purposes of this chapter, the following definitions shall apply
+unless the context clearly indicates or requires a different meaning.
+   CITY SURVEILLANCE SYSTEM. Any permanently or semi-permanently mounted
+network camera, closed-circuit television system, or optical video capture
+device owned, leased, or operated by any department of the City of Barnesville.
+   CRITICAL INFRASTRUCTURE. Municipal facilities vital to public health,
+safety, and community operations, including but not limited to the municipal
+water treatment plant, water towers, sanitary sewer lift stations, public works
+maintenance facilities, utility substations, internal information technology
+server rooms, and any other municipal facility, asset, or utility network
+designated as secure by the responsible authority.
+   GOVERNMENT DATA. Has the meaning ascribed to it in M.S. § 13.02(7), Subd. 7.
+   RESPONSIBLE AUTHORITY. The formal designee charged with managing government
+data practices.
+(Ord. 2026-08, passed 9-8-2026)
+§ 95.03 SCOPE AND EXEMPTIONS.
+   (A)   Applicability. This chapter applies to all fixed security camera
+installations managed by city departments, including without limitation to
+administration, streets, parks, water/wastewater, TEC or other municipal
+utilities.
+   (B)   Exemptions. This chapter does not apply to mobile law enforcement
+dash-cams, police body-worn cameras (BWC), undercover electronic surveillance,
+or temporary mobile video recording equipment deployed during active criminal
+investigations governed under M.S. § 13.82.
+(Ord. 2026-08, passed 9-8-2026)
+§ 95.04 OPERATIONAL RESTRICTIONS AND SYSTEM CONTROLS.
+   (A)   Audio capture prohibited. It is unlawful for any city surveillance
+system deployed in a public space to capture or record ambient audio or oral
+communications, except where explicitly authorized by a judicially executed
+warrant or court order. All hardware-based built-in microphones must otherwise
+be physically disconnected, prevented from recording, or permanently disabled
+via system software configuration.
+   (B)   Expectations of privacy. No city surveillance system shall be
+installed in, or focused toward, any location where an individual has a
+reasonable expectation of privacy. Prohibited zones include public restrooms,
+locker rooms, changing areas, and internal employee break spaces.
+   (C)   Digital masking and incidental capture. If a city surveillance system
+monitoring public property or right-of-way fields of view extend into adjacent
+private residential windows or private backyards, the system shall be
+physically realigned or digitally masked using software-based privacy blocks
+where technically feasible. The inadvertent, incidental, or temporary capture
+of adjacent private property during the lawful surveillance of public spaces or
+critical infrastructure shall not constitute a violation of this chapter or
+generate municipal liability.
+(Ord. 2026-08, passed 9-8-2026)
+§ 95.05 DATA CLASSIFICATION AND PUBLIC ACCESS.
+   (A)   Public data. Video footage captured in open areas where there is no
+expectation of privacy—such as public parks, streets, sidewalks, and open
+municipal office lobbies—shall be classified
+as public government data pursuant to M.S. § 13.03. Any individual may request
+to inspect or obtain copies of such footage without providing identification or
+a statement of purpose, and any fees incurred will follow as ascribed in §
+95.06(D).
+   (B)   Security information. Video footage captured within or focused on the
+secure perimeters of critical infrastructure is hereby classified as nonpublic
+data or private data on individuals, pursuant to M.S. § 13.37, Subd. 1(a), as
+the responsible authority has determined its public release would jeopardize
+the safety and security of public property, utility systems, and personnel.
+   (C)   Active investigation data. Video data transferred to law enforcement
+for use in an active criminal investigation shall be classified as confidential
+or protected nonpublic data under M.S. § 13.82 until the investigation is
+concluded.
+(Ord. 2026-08, passed 9-8-2026)
+§ 95.06 DATA RETENTION, DISPOSITION, AND SECURITY.
+   (A)   Standard retention period. Standard public video footage capturing no
+incidents or liabilities typically shall be maintained on a rolling cycle of up
+to 30 days, subject to change based on system storage capacity, technical
+constraints, or automatic server overwrite schedules.
+   (B)   Evidentiary and litigation holds. Video footage capturing incidents
+involving property damage, personal injury, potential city liability, or items
+requested by active law enforcement subpoenas shall be exempted from the
+standard overwrite cycle. Such footage shall be exported and securely archived
+for a minimum of six years or until final adjudication of any associated
+litigation.
+   (C)   System security and unauthorized use. Access to live or recorded video
+streams shall be secured as outlined in M.S. § 13.05, Subd. 5 and require
+unique, single-user authentication credentials. It is unlawful for any city
+official, operator, or employee to share access credentials or export city
+surveillance system video data for personal or non-city commercial gain.
+   (D)   Fees for copies. While inspection of public surveillance data shall be
+provided free of charge, the city reserves the right to assess fees for
+providing copies of video data. Such fees shall reflect the actual costs of
+searching, compiling, manipulating, and redacting the data to prepare it for
+release, including but not limited to: the hourly wage of the employee
+performing the redaction and the cost of any physical media, as authorized
+pursuant to M.S. § 13.03, Subd. 3.
+(Ord. 2026-08, passed 9-8-2026)
+ 
+§ 95.07 MANDATORY REDACTION COMPLIANCE.
+   Prior to the public release of any video data pursuant to a public records
+request, the responsible authority shall ensure that all protected private data
+is securely redacted. This includes utilizing video-editing software to
+completely blur or obscure the faces of minors, unassociated bystanders,
+undercover law enforcement officers, or medical emergency victims captured
+incidentally.
+(Ord. 2026-08, passed 9-8-2026)
+§ 95.08 PUBLIC NOTIFICATION SIGNAGE.
+   The city shall ensure visible signage be posted near primary perimeter
+entrance(s) of major municipal facilities and parks utilizing city surveillance
+systems, signs shall clearly state that the area is subject to 24-hour video
+surveillance and recording, if applicable. The temporary absence or vandalism
+of a surveillance notification sign shall not invalidate the authority of the
+city to operate surveillance systems or collect data.
+(Ord. 2026-08, passed 9-8-2026)
+§ 95.09 LIABILITY AND NO PRIVATE RIGHT OF ACTION.
+   Nothing contained in this chapter is intended to, nor shall it be construed
+to, create a private right of action, create a special relationship, or form
+the basis of any civil liability on the part of the city, its officers,
+employees, or agents for any damages resulting from a violation of this
+chapter, or from a failure or malfunction of any system, software,
+configuration, or signage. Any administrative remedies or penalties for data
+practices violations remain solely governed by the Minnesota Government Data
+Practices Act (M.S. Chapter 13).
+(Ord. 2026-08, passed 9-8-2026)
 TITLE XI: BUSINESS REGULATIONS
    Chapter
       
@@ -12445,7 +12591,7 @@ General Provisions
    
 151.005   Board of adjustment
    
-151.006   Applications for variances, building permits, and conditional use
+151.006   Applications for variances, building permits and conditional use
 permits
 Zoning Districts Established
    
@@ -13196,17 +13342,22 @@ environment which is consistent with the environment of the neighborhood.
 minimize traffic congestion in the area.
       (6)   The conditional use shall preserve the purpose of this chapter.
 (Prior Code, § 7-0105)
-§ 151.006 APPLICATION FOR VARIANCES, BUILDING PERMITS, AND CONDITIONAL USE
+§ 151.006 APPLICATION FOR VARIANCES, BUILDING PERMITS AND CONDITIONAL USE
 PERMITS.
-   (1)   Variances, building permits, and conditional use permits shall be
+   (A)   Variances, building permits, and conditional use permits shall be
 issued only upon written application filed with the city, and must include all
 of the information requested on the application.
-   (2)   The city may condition the issuance of any variance, building permit,
+   (B)   The city may condition the issuance of any variance, building permit
 or conditional use permit granted pursuant to this chapter upon the applicant’s
-agreement that it will pay the reasonable costs, disbursement, and attorney
+agreement that it will pay the reasonable costs, disbursements and attorney
 fees incurred by the city in enforcing the provisions of the variance, building
-permit, or conditional use permit or any violation of the same.
-(Ord. 2024-07, passed 3-11-2024)
+permit or conditional use permit or any violation of the same.
+   (C)   The city may condition its acceptance of any application for and
+issuance of any variance, conditional use permit and building permit upon
+verification that the applicant has paid in full all real estate taxes due and
+payable for the property in question, and all other taxes and fees due to the
+city at the time the request or application is made.
+(Ord. 2024-07, passed 3-11-2024; Ord. 2026-07, passed 8-10-2026)
 **** ZONING DISTRICTS ESTABLISHED ****
 § 151.020 ESTABLISHMENT OF DISTRICT REGULATIONS.
    (A)   Zoning map.
@@ -14209,7 +14360,7 @@ exceed 32 square feet in area.
 limited to, signs located within the sign triangle of an intersection, which
 shall be within 30 feet of an intersecting curb line of an intersection, if it
 shall impede vision between a height of 30 feet and eight feet.
-[https://export.amlegal.com/media/389aa2dc07897aafc42d341780254123f18d1ce8/
+[https://export.amlegal.com/media/d193d18812b4d36ecc57082d982badf83693b28b/
 IMAGES/0-0-0-1207.jpg]
       (8)   In any zoning district, animal displays, lights directed skyward,
 pieces of sculpture, fountains, or other displays or features which do not
@@ -16996,14 +17147,19 @@ valid for a period of one year from the date of issue.
 chapter and to the zoning map. The Planning Commission or a petition from a
 person residing or owning property within the city may also initiate
 amendments.
-   (B)   Petitions. Petitions for amendment shall be filed with the Planning
-Commission, and the petitioner, upon such filing shall pay an advertising
-deposit and a filing fee of $75. The Planning Commission shall review the
-proposed amendment and report its findings and recommendations in writing to
-the Council and to the petitioner. The proposed amendment shall be introduced
-before the Council only if a Councilperson elects to do so. If an amendment
-proposed by petition is not introduced, the advertising deposit shall be
-refunded to the petitioner otherwise, such deposit shall be paid to the city.
+   (B)   Petitions. The city may condition its acceptance of any petition for
+amendment to this chapter or to the zoning map upon verification that all
+petitioners have paid in full all real estate taxes due and payable for the
+property in the city where the petitioners reside or which the petitioners own,
+and all other taxes and fees due from the petitioners to the city at the time
+the request or application is made. Petitions for amendment shall be filed with
+the city for the Planning Commission to consider, and the petitioner, upon such
+filing shall pay an advertising deposit and a filing fee as determined annually
+by the Council. The Planning Commission shall review the proposed amendment and
+report its findings and recommendations to the Council and to the petitioner.
+The proposed amendment shall be introduced before the Council only if a
+Councilperson elects to do so. If an amendment proposed by petition is not
+introduced, the filing fee shall be refunded to the petitioner.
    (C)   Action. Before acting upon proposed amendment, the Council shall hold
 a public hearing thereon. Notice of such public hearing, containing a brief
 summary of the proposed amendment and a reference to the place where copies of
@@ -17015,7 +17171,7 @@ hearing to each owner of affected property and property situated wholly or
 partly within 300 feet of the property to which the amendment relates. All
 zoning changes or amendments shall not become effective until they have been
 duly published in the official newspaper of the city.
-(Prior Code, § 7-1302)
+(Prior Code, § 7-1302) (Ord. 2026-07, passed 8-10-2026)
 § 151.162 VIOLATIONS AND ENFORCEMENT.
    (A)   Violation a misdemeanor. In addition to any other provision specified
 in any section of this chapter, any person violating any provision of this
@@ -18831,7 +18987,7 @@ business in the same building or structure is prohibited.
 (Prior Code, § 7-1503) Penalty, see §
 151.999
 APPENDIX A: PARKING STANDARDS
-[https://export.amlegal.com/media/389aa2dc07897aafc42d341780254123f18d1ce8/
+[https://export.amlegal.com/media/d193d18812b4d36ecc57082d982badf83693b28b/
 IMAGES/0-0-0-1209.jpg]
  
 § 151.999 PENALTY.
@@ -18877,6 +19033,13 @@ M.S. Cite Code Section
 M.S. Cite                             Code Section
 10A.14                                112.02
 Chapter 12                            31.35
+Chapter 13                            95.09
+13.02, Subd. 7                        95.02
+13.03                                 95.05
+13.03, Subd. 3                        95.06
+13.05, Subd. 5                        95.06
+13.37, Subd. 1(a)                     95.05
+13.82                              95.03   
 Chapter 14                            112.06;
                                       151.201
 65A.50                                33.31
@@ -19510,13 +19673,17 @@ Charter  11-10-2003      Charter
 2025-03  4-14-2025       93.01
 2025-04  6-23-2025       TSO Table II
 2025-05  - -2025         151.004
-                         151.021,
-2025-06  9-8-2025        151.022,
+                         151.021; 
+2025-06  9-8-2025        151.022; 
                          151.024
 2025-07  9-8-2025        54.20
 2026-01  1-12-2026       Adopting Ordinance
 2026-02  2-9-2026        34.01
 2026-03  2-9-2026        34.01
 2026-04  2-9-2026        34.01
+2026-07  8-10-2026       151.006;
+                         151.161
+2026-08  9-8-2026        95.01—
+                         95.09
                         
  
