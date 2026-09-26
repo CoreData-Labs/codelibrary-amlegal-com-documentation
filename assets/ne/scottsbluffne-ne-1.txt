@@ -9,7 +9,7 @@ AMERICAN LEGAL PUBLISHING
 Cincinnati, Ohio 45202
 1-800-445-5588 www.amlegal.com
 ADOPTING ORDINANCE
-ORDINANCE NO. 4273
+**** ORDINANCE NO. 4273 ****
    AN ORDINANCE OF THE CITY OF SCOTTSBLUFF, NEBRASKA RECODIFYING THE GENERAL
 ORDINANCES OF THE CITY, GENERALLY REVISING THE SCOTTSBLUFF MUNICIPAL CODE,
 REPEALING PRIOR ORDINANCES IN CONFLICT HEREWITH, PROVIDING FOR AN EFFECTIVE
@@ -320,7 +320,7 @@ General Provisions
 1-2-19   Violations; penalty
 Statutory reference:
    Civil defense, see Neb. RS A1-109
-DEFINITIONS
+*** DEFINITIONS ***
 § 1-2-1 GENERALLY.
    Any of the terms defined in subsequent sections of this article has the
 meaning, when used in any article of this chapter, which is given the term in
@@ -348,7 +348,7 @@ and the following sunrise.
    PRACTICE BLACKOUT. The period of time beginning and ending at the times of
 day designated in an order issued by the City Manager, which order may provide
 that such practice blackout shall apply to a part, parts, or all of the city.
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 1-2-8 AIR RAID PERIOD; ACTS PROHIBITED DURING.
    It shall be unlawful during an air raid period to:
    (A)   Operate any vehicle, except that emergency vehicles designated as such
@@ -786,7 +786,7 @@ General Provisions
 2-3-13   Mini-pigs; spaying or neutering
    
 2-3-14   Mini-pigs; dangerous; other provisions applicable
-LICENSES
+*** LICENSES ***
 § 2-3-1 LICENSE; LICENSE TAX; VACCINATION; REQUIRED; EXCEPTIONS.
    (A)   It shall be unlawful for any person to own in the city a mini-pig that
 is seven months of age or older, or a dog or cat that is four months of age or
@@ -852,7 +852,7 @@ duplicate or new tag or plate for the balance of the year for which the tax has
 been paid.
 (Ord. 3461, passed - -1995)
 §§ 2-3-6 – 2-3-8 RESERVED.
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 2-3-9 DOGS AND MINI-PIGS; AT LARGE; PROHIBITED.
    It shall be unlawful for the owner of any dog or mini-pig, whether the dog
 or mini-pig is harbored within or outside the corporate limits of the city, to
@@ -2411,7 +2411,7 @@ Electrical Code
 Violations; Penalty
    
 4-2-42   Violations; penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 4-2-1 DEFINITIONS; GENERALLY.
    The following words or phrases, whenever used in this article or the
 Electrical Code, shall be deemed to mean the following.
@@ -2430,7 +2430,7 @@ fixtures, apparatus, and the like, as a part of, or in connection with, an
 electrical installation.
 (Ord. 3503, passed - -1996)
 §§ 4-2-5 – 4-2-9 RESERVED.
-ADMINISTRATION OF LAW
+*** ADMINISTRATION OF LAW ***
 § 4-2-10 ELECTRICAL INSPECTOR; POWER; DUTIES.
    The City Manager is authorized to designate an employee of the city as
 Electrical Inspector. If no employee is so designated, the functions of the
@@ -2623,7 +2623,7 @@ provided in
 Chapter 6, Article 6 of this code.
 (Ord. 2892, passed - -1984)
 §§ 4-2-28 – 4-2-32 RESERVED.
-ELECTRICAL CODE
+*** ELECTRICAL CODE ***
 § 4-2-33 NATIONAL ELECTRICAL CODE; ADOPTED.
    The 2023 Edition of NFPA 70, National Electrical Code, as published by the
 National Fire Protection Association, is adopted for the purpose of
@@ -2677,7 +2677,7 @@ to the disconnecting means”.
 (Ord. 3850, passed - -2005)
 § 4-2-37 REPEALED.
 §§ 4-2-38 – 4-2-41 RESERVED.
-VIOLATIONS; PENALTY
+*** VIOLATIONS; PENALTY ***
 § 4-2-42 VIOLATIONS; PENALTY.
    A violation of any provision of this article or the neglect or refusal to
 comply with any lawful order or notice of the Electrical Inspector made
@@ -2968,7 +2968,7 @@ Violations; Penalty
 4-3-160   Violations; penalty
 Statutory reference:
    Plumbing inspection, see Neb. RS 18-1901 et seq.
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 4-3-1 ARTICLE; SCOPE.
    The provisions of this article shall apply to all installations and repair
 of plumbing material and fixtures, gas fittings, devices, appliances, fixture
@@ -2981,7 +2981,7 @@ jurisdiction, for the conveyance of water, waterborne wastes, fuels or gases
 and their respective disposal systems.
 (Ord. 3084, passed - -1988)
 §§ 4-3-2 – 4-3-6 RESERVED.
-DEFINITIONS
+*** DEFINITIONS ***
 § 4-3-7 GENERALLY.
    Any of the terms defined in subsequent sections of this article has the
 meaning, when used in any article of this chapter, which is given the term in
@@ -3084,7 +3084,7 @@ heaters, and room heaters.
    VENT. A pipe designed to convey the products of combustion from an appliance
 to the outside atmosphere.
 §§ 4-3-30 – 4-3-33 RESERVED.
-COMPLIANCE WITH STATE LAW; ADOPTION OF CODES; PLUMBING INSPECTOR
+*** COMPLIANCE WITH STATE LAW; ADOPTION OF CODES; PLUMBING INSPECTOR ***
 § 4-3-34 PLUMBING INSPECTOR.
    The City Manager is authorized to designate an employee of the city as
 Plumbing Inspector. If no employee is so designated, the functions of the
@@ -3176,7 +3176,7 @@ if there be an unreasonable delay in obtaining such permit, a double fee as
 herein provided shall be charged and paid.
 (Ord. 2892, passed - -1984; Ord. 3796, passed - -2004)
 §§ 4-3-45 – 4-3-49 RESERVED.
-PLUMBERS; LICENSING; REGULATION
+*** PLUMBERS; LICENSING; REGULATION ***
 § 4-3-50 PLUMBING LICENSE; REQUIRED.
    It shall be unlawful for any individual to do any plumbing within the
 corporate limits of the city, or the area outside the city within which the
@@ -3510,7 +3510,7 @@ requirements of this article, or that part of the water supply line leading to
 such vacuum breaker.
 (Ord. 3084, passed - -1988)
 §§ 4-3-81 – 4-3-84 RESERVED.
-CONSTRUCTION PERMITS; INSPECTION
+*** CONSTRUCTION PERMITS; INSPECTION ***
 § 4-3-85 CONSTRUCTION; REPAIR; PERMIT; REQUIRED; EXCEPTIONS.
    Every person, prior to beginning or performing any work in the construction,
 reconstruction, or alteration of any plumbing, gas fitting, steam fitting, oil
@@ -3673,7 +3673,7 @@ installation of lawn sprinkler systems, or parts thereof, which are subject to
 4-3-97 of this subchapter.
 (Ord. 3084, passed - -1988)
 §§ 4-3-100 – 4-3-104 RESERVED.
-WATER SUPPLY
+*** WATER SUPPLY ***
 § 4-3-105 SERVICE LINE; DEPTH; PROTECTION FROM FREEZING.
    All service pipe from the curb box to the building shall be laid not less
 than four and one-half feet below the surface of the ground. In all cases,
@@ -3766,7 +3766,7 @@ Governing Water Well Construction, Pump Installation and Water Well
 Decommissioning Standards, Title 178, and the Nebraska Department of Health and
 Human Services, Regulations Governing Public Water Systems, Title 179.
 §§ 4-3-117 – 4-3-118 RESERVED.
-SEWERS; DRAINS
+*** SEWERS; DRAINS ***
 § 4-3-119 PUBLIC SEWER; INDEPENDENT CONNECTION; REQUIRED; WHEN.
    The plumbing and drainage system of each new building, and of new work
 installed in an existing building or premises, shall, except as hereinafter
@@ -3869,7 +3869,7 @@ connected to a sanitary sewer of the city any material other than mud and water
 resulting from the washing of vehicles.
 (Ord. 1116, passed 2-25-1957; Ord. 2382, passed - -1978)
 §§ 4-3-132 – 4-3-135 RESERVED.
-PLUMBING FIXTURES; ACCOMMODATIONS
+*** PLUMBING FIXTURES; ACCOMMODATIONS ***
 § 4-3-136 WOODEN SINKS, WASH TRAYS, AND BATHTUBS; PROHIBITED; EXCEPTIONS;
 PERMIT.
    Wooden sinks, wash trays, and bathtubs are hereby prohibited in any
@@ -3891,7 +3891,7 @@ other opening in a building that is used for ventilation purposes or as a means
 of fresh air supply.
 (Ord. 1116, passed 2-25-1957; Ord. 2382, passed - -1978)
 §§ 4-3-138 – 4-3-141 RESERVED.
-GAS LINES
+*** GAS LINES ***
 § 4-3-142 MAIN-TO-CURB LINES; INSTALLATION; BY WHOM.
    All main-to-curb lines shall be installed by the gas company.
 (Ord. 1116, passed 2-25-1957; Ord. 2382, passed - -1978)
@@ -3950,7 +3950,7 @@ feet from the appliance. Pipe joint cement may be used on male threads only.
 of the gas company.
 (Ord. 1116, passed 2-25-1957; Ord. 2382, passed - -1978)
 §§ 4-3-151 – 4-3-154 RESERVED.
-HEATING UNITS
+*** HEATING UNITS ***
 § 4-3-155 GAS APPLIANCES AND ACCESSORIES; SPECIFICATIONS; GENERAL.
    Every gas appliance and accessory shall have an input rating for high
 altitude operation, established by a testing laboratory approved by the
@@ -3961,7 +3961,7 @@ accessory shall bear the label of a nationally recognized testing agency, such
 as American Gas Association.
 (Ord. 1116, passed 2-25-1957; Ord. 2382, passed - -1978)
 §§ 4-3-156 – 4-3-159 RESERVED.
-VIOLATIONS; PENALTY
+*** VIOLATIONS; PENALTY ***
 § 4-3-160 VIOLATIONS; PENALTY.
    A violation of any provision of this article is a Class II violation. Each
 day’s failure, neglect, or refusal to comply with such provisions shall be
@@ -4056,7 +4056,7 @@ General Provisions
 4-5-7   Approved construction and materials
    
 4-5-8   Construction standards
-DEFINITIONS
+*** DEFINITIONS ***
 § 4-5-1 GENERALLY.
    The following definitions shall apply in the interpretation and enforcement
 of this article.
@@ -4074,7 +4074,7 @@ height deemed necessary for adequate operation.
 § 4-5-5 PERSON.
    PERSON. Any person, firm, partnership, association, corporation, company or
 organization of any kind.
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 4-5-6 COMPLIANCE WITH ARTICLE; REQUIRED.
    All television or radio transmission or receiving antenna systems shall
 comply with the requirements of this article.
@@ -4164,7 +4164,7 @@ Violations; Penalty
 4-6-39   Violations; penalty
 Statutory reference:
    Unsafe buildings, see Neb. RS 18-1722 and 18-1722.01
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 4-6-1 UNSAFE BUILDING AND STRUCTURE; UNLAWFUL; NUISANCE.
    It shall be unlawful for the owner or occupant of any building or structure
 within the corporate limits of the city to cause or permit such building or
@@ -4279,7 +4279,7 @@ notice which was served, the names of the persons upon whom the notice was
 served, and the date and manner of service. If the notice was published, an
 affidavit by the printer of publication shall be obtained.
 (Ord. 3805, passed - -2004)
-ADMINISTRATION OF LAW
+*** ADMINISTRATION OF LAW ***
 § 4-6-8 INSPECTION; PLANNING AND BUILDING OFFICIAL.
    The Planning and Building Official, or his or her duly appointed deputies,
 may inspect or cause to be inspected all public or quasi-public buildings,
@@ -4578,7 +4578,7 @@ at the expense of the city until final determination of the proceedings
 therein.
 (Ord. 1116, passed 2-25-1957; Ord. 1901, passed - -1971)
 §§ 4-6-34 – 4-6-38 RESERVED.
-VIOLATIONS; PENALTY
+*** VIOLATIONS; PENALTY ***
 § 4-6-39 VIOLATIONS; PENALTY.
    (A)   The following are Class II violations:
       (1)   A violation of any provision of this article;
@@ -5612,7 +5612,7 @@ Mayor
 6-1-54   Repealed
 Statutory reference:
    City Council, see Neb. RS 16-401 et seq. and 19-611 et seq.
-CITY COUNCIL MEMBERS
+*** CITY COUNCIL MEMBERS ***
 § 6-1-1 CITY COUNCIL MEMBER-ELECT; QUALIFICATIONS; ASSUMPTION OF OFFICE.
    Each City Council member-elect shall make every reasonable effort to be
 qualified to assume, and to assume, his or her office and make demand therefor
@@ -5650,7 +5650,7 @@ which a City Council member may have an interest are exempted from the
 provisions Neb. RS 49-14,103.01 through 49-14,103.03.
 (Ord. 3159, passed - -1990)
 §§ 6-1-6 – 6-1-10 RESERVED.
-CITY COUNCIL MEETINGS
+*** CITY COUNCIL MEETINGS ***
 § 6-1-11 COUNCIL MEETINGS; PLACE.
    Rule 1. All meetings of the City Council shall be held at City Hall located
 at 2525 Circle Drive, Scottsbluff, Nebraska, except as herein provided. In the
@@ -5893,7 +5893,7 @@ foregoing rules, Robert’s Rules of Order shall be the authority by which the
 City Council is governed.
 (Ord. 3379, passed 6-27-1994)
 §§ 6-1-41 – 6-1-44 RESERVED.
-ORDINANCES, RESOLUTIONS, AND ORDERS
+*** ORDINANCES, RESOLUTIONS, AND ORDERS ***
 § 6-1-45 ORDINANCES, RESOLUTIONS, AND ORDERS; PASSAGE; REQUISITES.
    All ordinances, resolutions, and orders shall require for their passage or
 adoption the concurrence of a majority of all members elected to the City
@@ -5913,7 +5913,7 @@ apply to ordinances, and only ordinances, introduced for passage after July 5,
 1972.
 (Ord. 1116, passed 2-25-1957; Ord. 1924, passed - -1972)
 §§ 6-1-47 – 6-1-50 RESERVED.
-MAYOR
+*** MAYOR ***
 § 6-1-51 MAYOR; SIGNATURE; OATHS.
    The Mayor shall sign all ordinances, resolutions, and orders which have been
 passed or adopted by the City Council. He or she shall sign the City Clerk’s
@@ -6259,7 +6259,7 @@ Part 8. Public Works Department
 6-2-176   Public Works Director; office established
    
 6-2-177– 6-2-199   Reserved
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 6-2-1 OFFICE AND EMPLOYMENT; ELIGIBILITY; GENERAL.
    Any citizen of the United States, regardless of sex, race, national origin,
 or religion, shall be eligible to be the head of any administrative department
@@ -6395,8 +6395,8 @@ excess of the maximum amount provided by law for the salary or compensation of
 the office, or offices so merged and combined.
 (Ord. 4294, passed 11-21-2022)
 §§ 6-2-16 – 6-2-18 RESERVED.
-OFFICERS
-PART 1. CITY ATTORNEY AND DEPUTY(IES)
+*** OFFICERS ***
+** PART 1. CITY ATTORNEY AND DEPUTY(IES) **
 § 6-2-19 CITY ATTORNEY; ESTABLISHED; APPOINTMENT.
    There is hereby established the office of City Attorney. The City Attorney
 shall be appointed by the City Manager.
@@ -6447,7 +6447,7 @@ performed by them for the city, or to employ additional legal assistance and
 make payment out of funds of the city.
 (Ord. 3442, passed - -1995)
 §§ 6-2-23 – 6-2-26 RESERVED.
-PART 2. CITY CLERK AND DEPUTY CITY CLERK
+** PART 2. CITY CLERK AND DEPUTY CITY CLERK **
 § 6-2-27 CITY CLERK; ESTABLISHED; OFFICE PLACE.
    There is hereby established the office of City Clerk. The City Clerk shall
 maintain his or her office in the City Hall or at such other place in the
@@ -6471,7 +6471,7 @@ the municipal code and by the City Manager and, during the absence or
 disability of the City Clerk, shall also perform the duties of the City Clerk.
 (Ord. 3378, passed - -1994)
 §§ 6-2-31 – 6-2-33 RESERVED.
-PART 3. CITY ENGINEER
+** PART 3. CITY ENGINEER **
 § 6-2-34 CITY ENGINEER; ESTABLISHED; APPOINTMENT; DUTIES.
    There is hereby established the office of City Engineer. The City Engineer
 shall be appointed by the City Manager. The City Engineer shall perform all the
@@ -6479,7 +6479,7 @@ duties as prescribed by the state statutes, such duties as are, or may be
 prescribed by the municipal code to be performed by the City Engineer, and such
 other duties as the City Manager may prescribe.
 (Ord. 3378, passed - -1994)
-PART 4. CITY MANAGER AND ASSISTANT CITY MANAGER
+** PART 4. CITY MANAGER AND ASSISTANT CITY MANAGER **
 § 6-2-35 CITY MANAGER; ESTABLISHED; APPOINTMENT; QUALIFICATIONS; RESIDENCE OR
 DISABILITY.
    There is hereby established the office of City Manager. The City Manager
@@ -6571,7 +6571,7 @@ effective date of this section shall meet the requirements of this section
 within 30 days after the effective date of this section.
 (Ord. 3474, passed - -1995)
 § 6-2-42 – 6-2-43 RESERVED.
-PART 5. CITY TREASURER
+** PART 5. CITY TREASURER **
 § 6-2-44 CITY TREASURER; ESTABLISHED; APPOINTMENT.
    There is hereby established the office of City Treasurer. The City Treasurer
 shall be appointed by the City Manager.
@@ -6591,8 +6591,8 @@ and by the municipal code, and shall perform such other duties as the City
 Manager may prescribe.
 (Ord. 3378, passed - -1994)
 §§ 6-2-47 – 6-2-49 RESERVED.
-BOARDS AND COMMISSIONS
-PART 1. GENERAL PROVISIONS
+*** BOARDS AND COMMISSIONS ***
+** PART 1. GENERAL PROVISIONS **
 § 6-2-50 MEMBERS; APPOINTMENT; REMOVAL.
    The members of all boards or commissions shall be appointed by the City
 Manager, with the approval of the City Council. The unexpired portion of the
@@ -6646,7 +6646,7 @@ a quorum.
 board or commission In the performance of its duties.
 (Ord. 3378, passed - -1994)
 §§ 6-2-56 – 6-2-58 RESERVED.
-PART 2. BOARD OF ADJUSTMENT
+** PART 2. BOARD OF ADJUSTMENT **
 § 6-2-59 BOARD OF ADJUSTMENT; ESTABLISHED; MEMBERSHIP; TERMS.
    There hereby is established a Board of Adjustment, consisting of five
 regular members, plus one additional member designated as an alternate who
@@ -6677,7 +6677,7 @@ Adjustment and, in his or her discretion, duplicate copies of other documents
 in the proceedings.
 (Ord. 3378, passed - -1994)
 §§ 6-2-62 – 6-2-64 RESERVED.
-PART 3. BUILDING AND FIRE CODES EXCEPTIONS BOARD
+** PART 3. BUILDING AND FIRE CODES EXCEPTIONS BOARD **
 § 6-2-65 BUILDING AND FIRE CODES EXCEPTIONS BOARD; ESTABLISHED; MEMBERSHIP.
    There hereby is established a Building and Fire Codes Exceptions Board. The
 Board shall consist of five regular members, plus one additional member who
@@ -6695,7 +6695,7 @@ by statute or by ordinance in the Board of Adjustment or the Planning
 Commission of the city.
 (Ord. 3378, passed - -1994)
 §§ 6-2-67 – 6-2-69 RESERVED.
-PART 4. BUSINESS IMPROVEMENT BOARD
+** PART 4. BUSINESS IMPROVEMENT BOARD **
 § 6-2-70 BUSINESS IMPROVEMENT BOARD; ESTABLISHED; MEMBERSHIP; TERMS.
    There is hereby established in accordance with the applicable state statutes
 as now existing or hereafter amended, a Business Improvement Board. The Board
@@ -6746,7 +6746,7 @@ be administered by such employee(s) of the city as the City Manager shall
 designate.
 (Ord. 3378, passed - -1994)
 §§ 6-2-73 – 6-2-75 RESERVED.
-PART 5. CIVIL SERVICE COMMISSION
+** PART 5. CIVIL SERVICE COMMISSION **
 § 6-2-76 CIVIL SERVICE COMMISSION; MEMBERSHIP; TERMS.
    The Civil Service Commission of the city which has been created by the Civil
 Service Act, being Neb. RS 19-1826 and 19-1827 shall have three members. The
@@ -6951,7 +6951,7 @@ period and subsequent restoration to duty or demotion in position or pay. A
 decision shall be rendered no later than ten calendar days after the hearing.
 The findings shall be certified in writing and enforced by the City Manager.
 (Ord. 3486, passed - -1996)
-PART 5a. COMMUNITY REDEVELOPMENT AUTHORITY
+** PART 5a. COMMUNITY REDEVELOPMENT AUTHORITY **
 § 6-2-90 COMMUNITY REDEVELOPMENT AUTHORITY; CREATION.
    The Community Redevelopment Authority of the city (the “Authority”) is
 created, pursuant to the provisions of Neb. RS 18-2102.01.
@@ -7000,7 +7000,7 @@ et seq., as may be amended from time to time. The Authority shall assume all
 obligations of, and exercise all power and authority previously exercised by
 the City Council acting as the Community Development Agency.
 (Ord. 4209, passed 5-1-2017)
-PART 6. ECONOMIC DEVELOPMENT APPLICATION REVIEW COMMISSION
+** PART 6. ECONOMIC DEVELOPMENT APPLICATION REVIEW COMMISSION **
 § 6-2-95 ECONOMIC DEVELOPMENT APPLICATION REVIEW COMMISSION; ESTABLISHED;
 MEMBERSHIP.
    There is established an Economic Development Application Review Commission
@@ -7032,7 +7032,7 @@ state law, the city’s economic development plan, or by agreement with the
 applicant. Unauthorized disclosure of any confidential business information
 shall be a Class I violation.
 (Ord. 4071, passed - -2012)
-PART 7. ECONOMIC DEVELOPMENT CITIZEN ADVISORY COMMISSION
+** PART 7. ECONOMIC DEVELOPMENT CITIZEN ADVISORY COMMISSION **
 § 6-2-98 ECONOMIC DEVELOPMENT CITIZEN ADVISORY COMMISSION; ESTABLISHED;
 MEMBERSHIP; TERMS.
    An Economic Development Citizen Advisory Commission is established. This
@@ -7084,7 +7084,7 @@ not be released to the general public and are not considered public records for
 the purpose of the public records state statutes. Any unauthorized disclosure
 of any such information shall be a Class I violation.
 (Ord. 3444, passed - -1995; Ord. 4170, passed - -2015)
-PART 8. FAIR HOUSING COMMISSION
+** PART 8. FAIR HOUSING COMMISSION **
 § 6-2-101 FAIR HOUSING COMMISSION; ESTABLISHED; MEMBERSHIP; TERMS.
    There is hereby established the Fair Housing Commission. The Planning
 Commission of the city shall serve and act as the Fair Housing Commission when
@@ -7093,7 +7093,7 @@ Housing Commission under the municipal code.
 (Ord. 3378, passed - -1994; Ord. 4164, passed - -2015)
 § 6-2-102 REPEALED.
 §§ 6-2-103 – 6-2-105 RESERVED.
-PART 9. LIBRARY BOARD
+** PART 9. LIBRARY BOARD **
 § 6-2-106 LIBRARY BOARD; ESTABLISHED; MEMBERSHIP; TERMS.
    There is hereby established a Library Board, which shall consist of five
 members. Each member shall serve a term of five years.
@@ -7102,7 +7102,7 @@ members. Each member shall serve a term of five years.
    The Library Board shall advise the City Manager in regard to the operation,
 maintenance, and development of the public library.
 (Ord. 3378, passed - -1994)
-PART 10. LIQUOR LICENSE HOLDERS INVESTIGATORY BOARD
+** PART 10. LIQUOR LICENSE HOLDERS INVESTIGATORY BOARD **
 § 6-2-108 LIQUOR LICENSE HOLDERS INVESTIGATORY BOARD; ESTABLISHED; MEMBERSHIP;
 TERMS.
    There is hereby established a Liquor License Holders Investigatory Board
@@ -7135,7 +7135,7 @@ The City Council may exercise any of its lawful powers under the Nebraska
 Liquor Control Act, being Neb. RS 53-101 et seq. at any time it deems
 appropriate without regard to whether the Liquor License Holders Investigatory
 Board has acted.
-PART 11. PARK, CEMETERY, AND TREE BOARD
+** PART 11. PARK, CEMETERY, AND TREE BOARD **
 § 6-2-111 PARK, CEMETERY, AND TREE BOARD; ESTABLISHED; MEMBERSHIP; TERMS.
    There is hereby established a Park, Cemetery, and Tree Board. Such Board
 shall have seven members who will serve for a term of five years. Provided, all
@@ -7153,7 +7153,7 @@ defined in this code) together with any other duties which may be vested in the
 Board by this code.
 (Ord. 3378, passed - -1994)
 §§ 6-2-113 – 6-2-115 RESERVED.
-PART 12. PLANNING COMMISSION
+** PART 12. PLANNING COMMISSION **
 § 6-2-116 PLANNING COMMISSION; ESTABLISHED.
    There is hereby established a Planning Commission of the city as authorized
 by the state statutes. The Planning Commission shall include one alternate
@@ -7216,7 +7216,7 @@ Planning and Building Official within the time and in the manner in which such
 notice is required to be served upon members of the Planning Commission.
 (Ord. 3378, passed - -1994)
 §§ 6-2-120 – 6-2-122 RESERVED.
-PART 13. PLUMBERS EXAMINING BOARD
+** PART 13. PLUMBERS EXAMINING BOARD **
 § 6-2-123 PLUMBERS EXAMINING BOARD; ESTABLISHED; MEMBERSHIP; TERMS.
    There hereby is established a Plumbers Examining Board. Such Board shall
 have six members. Each member shall serve a term of four years.
@@ -7241,7 +7241,7 @@ respect of an application for a license or certificate by, or for revocation or
 suspension of a license, such member of the Board or a member or employee of
 the firm of which such member of the Board is a member or employee.
 (Ord. 3378, passed - -1994)
-PART 14. SCOTTSBLUFF CITY YOUTH COUNCIL
+** PART 14. SCOTTSBLUFF CITY YOUTH COUNCIL **
 § 6-2-127 SCOTTSBLUFF CITY YOUTH COUNCIL; COMPOSITION; STUDENT REPRESENTATIVE
 APPOINTMENT; CITY COUNCIL ADVISOR APPOINTMENT.
    (A)   The Scottsbluff City Youth Council is hereby established for the
@@ -7325,8 +7325,8 @@ criteria as outlined in the city’s construction policies.
    (C)   The records of the selection board in evaluating proposals and making
 recommendations shall be considered public records under Neb. RS 84-712.01.
 (Ord. 3998, passed - -2009)
-DEPARTMENTS
-PART 1. FINANCE DEPARTMENT
+*** DEPARTMENTS ***
+** PART 1. FINANCE DEPARTMENT **
 § 6-2-130 FINANCE DEPARTMENT; ESTABLISHED.
    There is hereby established a Finance Department.
 (Ord. 3378, passed - -1994)
@@ -7336,7 +7336,7 @@ Director shall be the head of the Finance Department and shall have such duties
 and perform such functions as prescribed by the City Manager.
 (Ord. 3378, passed - -1994)
 §§ 6-2-132 – 6-2-134 RESERVED.
-PART 2. FIRE DEPARTMENT
+** PART 2. FIRE DEPARTMENT **
 § 6-2-135 FIRE DEPARTMENT; ESTABLISHED.
    There is hereby established a Fire Department.
 (Ord. 3378, passed - -1994)
@@ -7387,7 +7387,7 @@ care and control of the Fire Chief.
 engine, and other equipment in serviceable condition.
 (Ord. 3378, passed - -1994)
 §§ 6-2-144 – 6-2-146 RESERVED.
-PART 3. LIBRARY DEPARTMENT
+** PART 3. LIBRARY DEPARTMENT **
 § 6-2-147 LIBRARY; ESTABLISHED.
    There is hereby established a Library Department.
 (Ord. 3378, passed - -1994)
@@ -7397,7 +7397,7 @@ Director shall be the head of the Library Department and shall perform such
 functions as prescribed by the City Manager.
 (Ord. 3378, passed - -1994)
 §§ 6-2-149 – 6-2-151 RESERVED.
-PART 4. DEPARTMENT OF PARKS AND RECREATION
+** PART 4. DEPARTMENT OF PARKS AND RECREATION **
 § 6-2-152 DEPARTMENT OF PARKS AND RECREATION; ESTABLISHED.
    There is hereby established a Department of Parks and Recreation.
 (Ord. 3378, passed - -1994)
@@ -7409,7 +7409,7 @@ Parks and Recreation, and shall perform such functions as prescribed by the
 City Manager.
 (Ord. 3378, passed - -1994)
 §§ 6-2-154 – 6-2-156 RESERVED.
-PART 5. PERSONNEL DEPARTMENT
+** PART 5. PERSONNEL DEPARTMENT **
 § 6-2-157 PERSONNEL DEPARTMENT; ESTABLISHED.
    There is hereby established a Personnel Department.
 (Ord. 3378, passed - -1994)
@@ -7419,7 +7419,7 @@ Director shall be the head of the Personnel Department and shall perform such
 functions as prescribed by the City Manager.
 (Ord. 3378, passed - -1994)
 §§ 6-2-159 – 161 RESERVED.
-PART 6. DEVELOPMENT SERVICES DEPARTMENT
+** PART 6. DEVELOPMENT SERVICES DEPARTMENT **
 § 6-2-162 DEVELOPMENT SERVICES DEPARTMENT; ESTABLISHED; DUTIES.
    There hereby is established a Department of Development Services.
 (Ord. 3534, passed - -1997)
@@ -7445,7 +7445,7 @@ Administrator who shall direct the Community Development Division. The
 Community Development Administrator shall be appointed by the City Manager.
 (Ord. 3378, passed - -1994)
 §§ 6-2-167 – 6-2-169 RESERVED.
-PART 7. POLICE DEPARTMENT
+** PART 7. POLICE DEPARTMENT **
 § 6-2-170 POLICE DEPARTMENT; ESTABLISHED.
    There is hereby established a Police Department.
 (Ord. 3378, passed - -1994)
@@ -7466,7 +7466,7 @@ city, the City of Gering, the Village of Terrytown, or of an unincorporated
 area within five miles of the city limits.
 (Ord. 3636, passed - -1999)
 §§ 6-2-173 – 6-2-174 RESERVED.
-  PART 8. PUBLIC WORKS DEPARTMENT
+**   PART 8. PUBLIC WORKS DEPARTMENT **
 § 6-2-175 PUBLIC WORKS DEPARTMENT; ESTABLISHED.
    There is hereby established a Public Works Department.
 (Ord. 3706, passed - -2002)
@@ -7808,7 +7808,7 @@ qualifications; election
 6-5-125   Retirement Committee; rules
 Statutory reference:
    City employees’ pensions, see Neb. RS 19-3501
-PLAN; CREATION; EFFECTIVE DATE; DEFINITIONS
+*** PLAN; CREATION; EFFECTIVE DATE; DEFINITIONS ***
 § 6-5-1 GENERAL CITY EMPLOYEES’ PENSION PLAN.
    A pension plan, which shall be known as the Scottsbluff General City
 Employees’ Pension Plan, and which is designed and intended to provide
@@ -8080,7 +8080,7 @@ inconsistent with federal or state law or the municipal code, as the Committee
 shall determine to be necessary or proper for the orderly and proper
 performance of its duties.
 (Ord. 3352, passed - -1994)
-EMPLOYMENT, CONTINUITY, AND LENGTH
+*** EMPLOYMENT, CONTINUITY, AND LENGTH ***
 § 6-5-32 ACTIVE SERVICE; LEAVE.
    EMPLOYMENT for the purposes of this article only shall mean the total length
 of continuous active service for the employer, together with the period of any
@@ -8118,7 +8118,7 @@ of service; and
    (B)   For purposes of benefits payable in respect of services rendered prior
 to December 29, 1969, by taking into consideration only full years of service.
 (Ord. 3148, passed - -1990)
-ELIGIBILITY FOR MEMBERSHIP
+*** ELIGIBILITY FOR MEMBERSHIP ***
 § 6-5-37 MEMBERSHIP; COMPULSORY.
    Each employee who shall be eligible to become a member of the plan shall
 become such a member.
@@ -8156,7 +8156,7 @@ employment of the employer, upon retirement or otherwise, and he or she shall
 be entitled only to those benefits herein specifically provided.
 (Ord. 3148, passed - -1990)
 §§ 6-5-40 – 6-5-43 RESERVED.
-RETIREMENT
+*** RETIREMENT ***
 § 6-5-44 NORMAL RETIREMENT DATE.
    Each member or inactive member shall be eligible to retire at the end of the
 month in which his or her 65th birthday occurs.
@@ -8179,7 +8179,7 @@ or her retirement date.
 terminated employment with the employer.
 (Ord. 3148, passed - -1990)
 §§ 6-5-48 – 6-5-51 RESERVED.
-CONTRIBUTIONS; ACCOUNTS; FUTURE SERVICE
+*** CONTRIBUTIONS; ACCOUNTS; FUTURE SERVICE ***
 § 6-5-52 MEMBER’S ACCOUNT.
    Each member’s contributions will be held by the company in a separate
 account (but not a segregated fund) to the credit of the member. Investment
@@ -8196,7 +8196,7 @@ with §
 contributions.
 (Ord. 3148, passed - -1990)
 §§ 6-5-54 – 6-5-57 RESERVED.
-RETIREMENT BENEFITS
+*** RETIREMENT BENEFITS ***
 § 6-5-58 SERVICES ON AND AFTER DECEMBER 29, 1969; ACCOUNTS; RETIREMENT VALUE.
    At the retirement date of a member, the sum of the amounts in his or her
 member’s account and his or her employer’s account shall be combined. The
@@ -8321,7 +8321,7 @@ such limitations. The employer has made the election described in § 415(b)(10)
 (c) of the Internal Revenue Code, being 26 U.S.C. § 415(b)(10)(c).
 (Ord. 3148, passed - -1990)
 §§ 6-5-64 – 6-5-67 RESERVED.
-OTHER BENEFITS
+*** OTHER BENEFITS ***
 § 6-5-68 BENEFITS ON TERMINATION OF EMPLOYMENT.
    (A)   Any member leaving the employment of the employer before his or her
 normal retirement date and before completing four years as a member shall
@@ -8398,7 +8398,7 @@ member may be entitled under this article.
 6-5-62 of this article.
 (Ord. 3148, passed - -1990)
 §§ 6-5-73 – 6-5-76 RESERVED.
-CONTINUANCE OF PLAN
+*** CONTINUANCE OF PLAN ***
 § 6-5-77 CONTINUANCE OF PLAN.
    It is the expectation of the employer that it will continue this plan and
 the payments of its contributions hereunder indefinitely, but the same is not
@@ -8421,7 +8421,7 @@ employer, and inactive member accounts as of the date of such discontinuance of
 contributions.
 (Ord. 3148, passed - -1990)
 §§ 6-5-80 – 6-5-83 RESERVED.
-FIREFIGHTERS
+*** FIREFIGHTERS ***
 § 6-5-84 FIREFIGHTERS’ RETIREMENT SYSTEM; ESTABLISHED.
    (A)   There hereby is established pursuant to Neb. RS Chapter 16, Article
 10, subdivision (b), as now existing or hereafter amended, a Firefighters’
@@ -8595,7 +8595,7 @@ shall determine to be necessary or proper for the orderly and otherwise proper
 performance of its duties under statute and ordinances of the city.
 (Ord. 2839, passed - -1983)
 §§ 6-5-100 – 6-5-103 RESERVED.
-POLICE OFFICERS
+*** POLICE OFFICERS ***
 § 6-5-104 DEFINITIONS; GENERALLY.
    For purposes of the sections contained in this subchapter, and of
 interpretation of words and phrases in Neb. RS Chapter 16, Article 10,
@@ -8898,7 +8898,7 @@ Miscellaneous Fees
 party, streets for carnivals, bazaars, or the sale of merchandise
    
 6-6-36   Deposit for city services
-FEES RELATING TO ANIMALS
+*** FEES RELATING TO ANIMALS ***
 § 6-6-1 ANIMALS.
    The following fees are hereby imposed for matters relating to animals:
 License fee for each mini-pig                                             $5
@@ -8913,7 +8913,7 @@ following fees are applicable:
    Replacement for lost animal license tag                             $1
  
 (Ord. 3567, passed - -1997)
-PERMITS RELATING TO BUILDINGS AND CONSTRUCTION
+*** PERMITS RELATING TO BUILDINGS AND CONSTRUCTION ***
 § 6-6-2 BUILDING PERMIT.
    (A)   Fees. The fees for a permit for the construction or alteration of a
 building or structure, and for an incidental certificate of occupancy shall be
@@ -9216,7 +9216,7 @@ the sum of $50.
    The fee for building contractor registration shall be $50 for the initial
 registration and $25 to renew such registration.
 (Ord. 3880, passed - -2005)
-CEMETERIES
+*** CEMETERIES ***
 § 6-6-11 BURIAL SPACES; FAIRVIEW CEMETERY.
    Effective October 21, 2009, the purchase price of burial spaces in Fairview
 Cemetery shall be as follows.
@@ -9285,7 +9285,7 @@ Second double marker (without burial)                                 $600
  
 (Ord 3801, passed - -2004; Ord. 4005, passed - -2009; Ord. 4215, passed 7-3-
 2017; Ord. 4250, passed 10-21-2019)
-RECREATION FEES
+*** RECREATION FEES ***
 § 6-6-13 CAMPGROUND.
    Users of Riverside Park campground shall pay fees to the city daily for use
 of facilities at such campground as follows:
@@ -9409,7 +9409,7 @@ Centennial        Gazebo           $200    $100
 condition they were found in.
 (Ord. 3739, passed - -2002; Ord. 4055, passed - -2011; Ord. 4204, passed - -
 2017; Ord. 4331, passed 5-6-2024)
-LICENSES AND OCCUPATION TAXES
+*** LICENSES AND OCCUPATION TAXES ***
 § 6-6-16 PLUMBING LICENSES.
    The following fees are hereby imposed for licenses relating to plumbing.
  
@@ -9509,7 +9509,7 @@ Retail business occupation tax                                                  
 (Ord 3835, passed - -2005; Ord. 3991, passed - -2009; Ord. 4115, passed - -
 2013; Ord. 4154, passed - - 2015; Ord. 4210, passed 5-15-2017; Ord. 4327,
 passed 4-15-2024)
-SEWER USE FEES
+*** SEWER USE FEES ***
 § 6-6-19 MINIMUM CHARGE.
    (A)   Each user shall pay a monthly sewer service charge of $21.13. Each
 user shall pay an additional charge of$2.87 per each 1,000 gallons for all
@@ -9588,7 +9588,7 @@ respect to connections, installations and billings after October 1, 2024.
 7-3-2017; Ord. 4234, passed 9-17-2018; Ord. 4247, passed 9-16-2019; Ord. 4263,
 passed 9-13-2021; Ord. 4288, passed 9-27-2022; Ord. 4301, passed 2-21-2023;
 Ord. 4310, passed 9-25-2023; Ord. 4337, passed 9-3-2024)
-SOLID WASTE COLLECTION
+*** SOLID WASTE COLLECTION ***
 § 6-6-23 RESIDENTIAL.
    (A)   The minimum monthly charges for collection and disposal service to
 residential units for solid waste and the single stream recycling program all
@@ -9733,7 +9733,7 @@ each pick-up load.
 1, 2023.
 (Ord. 4214, passed 7-3-2017; Ord. 4235, passed 9-17-2018; Ord. 4263, passed 9-
 13-2021; Ord. 4288, passed 9-27-2022; Ord. 4314, passed 11-6-2023)
-WATER SERVICE
+*** WATER SERVICE ***
 § 6-6-28 WATER SERVICE.
    (A)   (1)   Each user of the city water system located within the city
 limits shall pay charges based on monthly consumption as follows:
@@ -9776,7 +9776,7 @@ with respect to all connections, installations, and billings after October 1,
 passed 9-17-2018; Ord. 4247, passed 9-17-2019; Ord. 4263, passed 9-13-2021;
 Ord. 4288, passed 9-27-2022; Ord. 4301, passed 2-21-2023; Ord. 4310, passed 9-
 25-2023; Ord. 4337, passed 9-3-2024)
-LAND USE
+*** LAND USE ***
 § 6-6-29 LAND USE PERMITS.
    The following fees are hereby imposed for matters pertaining to zoning and
 land use:
@@ -9807,7 +9807,7 @@ Zoning verification letter      $20
 Zoning/land use map (11" X 17") $20
  
 (Ord. 3458, passed - -1995; Ord. 4332, passed 7-15-2024)
-PARKING
+*** PARKING ***
 § 6-6-30 PARKING PERMITS AND FEES.
    The following fees are hereby imposed relating to the parking of vehicles.
  
@@ -9817,7 +9817,7 @@ If paid more than 24 hours and less than 72 hours after notice $10
 Limited time parking permit                                    $15
  
 (Ord. 3499, passed - -1996; Ord. 4115, passed - -2013)
-MISCELLANEOUS FEES
+*** MISCELLANEOUS FEES ***
 § 6-6-31 POLICE ESCORT FEES.
    A fee of $10 shall be paid for each police escort during the transportation
 of monies or valuables.
@@ -10302,7 +10302,7 @@ Particular Hazards
 Violations; Penalty
    
 8-1-58   Violations; penalty
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 8-1-1 TERMS; DEFINED.
    For the purposes of this article, certain terms (in addition to those
 defined in the standard codes, or parts thereof, adopted in this article) are
@@ -10418,7 +10418,7 @@ prescribed by the Fire Code Official within five working days after the
 inspections, tests, and maintenance are completed.
 (Ord. 4255, passed 1-19-2021)
 §§ 8-1-15 – 8-1-17 RESERVED.
-ADMINISTRATION OF LAW
+*** ADMINISTRATION OF LAW ***
 § 8-1-18 REPEALED.
 § 8-1-19 REPEALED.
 § 8-1-20 REPEALED.
@@ -10432,7 +10432,7 @@ minutes’ response time from Fire Station 1 from the time of notification by th
 Fire Department as determined by the Fire Chief.
 (Ord. 4290, passed 10-3-2022; Ord. 4336, passed 9-3-2024)
 §§ 8-1-24 – 8-1-26 RESERVED
-PARTICULAR HAZARDS
+*** PARTICULAR HAZARDS ***
 § 8-1-27 REPEALED.
 § 8-1-28 REPEALED.
 § 8-1-29 FIREWORKS; SALE; DISCHARGE; POSSESSION FOR SALE; GIFT; USE.
@@ -10540,7 +10540,7 @@ on, above or below the surface of the ground) shall constitute a nuisance.
 § 8-1-52 REPEALED.
 § 8-1-53 REPEALED.
 §§ 8-1-54 – 8-1-57 RESERVED.
-VIOLATIONS; PENALTY
+*** VIOLATIONS; PENALTY ***
 § 8-1-58 VIOLATIONS; PENALTY.
    A violation of any provision of this article, or the failure to comply with
 any order or regulation made thereunder, or building in violation of a detailed
@@ -10716,7 +10716,7 @@ Regulations
 8-3-29   Alarm system; annunciator location(s)
    
 8-3-30   Alarm system; main panel replacement
-DEFINITIONS
+*** DEFINITIONS ***
 § 8-3-1 DEFINITIONS; GENERALLY.
    The terms defined in subsequent sections of this article which shall have
 the meaning, when used in this article, that is given to the terms in the
@@ -10782,7 +10782,7 @@ include, but are not necessarily limited to, any of the following: selling,
 replacing, moving, repairing, maintaining, or installing an alarm system on or
 in any structure, building, or facility.
 (Ord. 4255, passed 1-19-2021)
-REGULATIONS
+*** REGULATIONS ***
 § 8-3-10 ALARM SYSTEM; REGULATION; GENERAL.
    No alarm system shall be installed, maintained, or used in violation of any
 of the requirements of this article, or of any applicable statute, law, or
@@ -11337,7 +11337,7 @@ Peddling
 Solicitations
    
 11-1-101   Soliciting; statement; filing; exceptions
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 11-1-1 LICENSES; TERM; GENERALLY.
    No license granted under any provision of this municipal code shall continue
 in force or effect after the expiration of the municipal year in which such
@@ -11349,7 +11349,7 @@ taken by the city.
 § 11-1-2 VIOLATIONS; CLASSIFICATION.
    A violation of any provision of this article is a Class II violation.
 §§ 11-1-3 – 11-1-5 RESERVED.
-ALCOHOLIC LIQUOR
+*** ALCOHOLIC LIQUOR ***
 § 11-1-6 DEFINITIONS.
    Unless the context otherwise requires, the words and phrases used in this
 subchapter shall have the meaning as defined in the Nebraska Liquor Control
@@ -11502,7 +11502,7 @@ manager, or employee to serve or sell alcoholic liquor while under the
 influence of such liquor.
 (Ord. 3967, passed - -2008; Ord. 4045, passed - -2011)
 §§ 11-1-25 – 11-1-27 RESERVED.
-BINGO
+*** BINGO ***
 § 11-1-28 DEFINITIONS.
    The purposes of this article, the words “bingo”, “gross receipts”,
 “license”, and “licensed organization” shall have the same meaning as those
@@ -11539,7 +11539,7 @@ shall be sufficiently detailed so that an examination thereof will permit a
 determination of whether the provisions of this article have been complied
 with. It shall be unlawful for any person to submit a false report.
 §§ 11-1-32 – 11-1-35 RESERVED.
-CARNIVALS
+*** CARNIVALS ***
 § 11-1-36 CARNIVAL AND CIVIC ORGANIZATION; PERMIT.
    It shall be unlawful for any person, firm, association, or corporation, to
 set up, show, or operate within the city any combination of rides, shows, and
@@ -11649,9 +11649,9 @@ shall deliver or mail to the permittee a notice in writing of the revocation,
 stating the reason therefor.
 (Ord. 1116, passed 2-25-1957; Ord. 2294, passed - -1977)
 §§ 11-1-48 – 11-1-59 RESERVED.
-REPEALED
+*** REPEALED ***
 §§ 11-1-60 – 11-1-64 RESERVED.
-PAWNBROKERS
+*** PAWNBROKERS ***
 § 11-1-65 DEFINITIONS.
    Any person engaged in the business of lending money upon chattel property
 for security and requiring possession of the property so mortgaged on condition
@@ -11706,7 +11706,7 @@ in the state statutes as now existing or hereafter amended, in addition to the
 requirements specified in this subchapter.
 (Ord. 2888, passed - -1984)
 §§ 11-1-71 – 1-1-75 RESERVED.
-PUBLIC DANCES
+*** PUBLIC DANCES ***
 § 11-1-76 PUBLIC DANCE; DEFINED.
    A PUBLIC DANCE is a social gathering where dancing is permitted and to which
 the public is admitted.
@@ -11816,7 +11816,7 @@ decision within seven days after the conclusion of the hearing and shall notify
 the parties of such decision in writing. Any appeal from the decision of the
 City Manager shall be to a court of competent jurisdiction.
 (Ord. 3976, passed - -2008)
-ALCOHOLIC LIQUOR; LICENSE APPLICATION; HEARING
+*** ALCOHOLIC LIQUOR; LICENSE APPLICATION; HEARING ***
 § 11-1-82 LICENSES; PROCEEDINGS OF CITY COUNCIL.
    The sections in this subchapter shall apply to proceedings before and by the
 City Council on applications for a license to sell alcoholic liquors at retail
@@ -11917,7 +11917,7 @@ whether a special designated license is to be approved or denied. The
 determination of the agent shall be considered the determination of the City
 Council unless otherwise provided by the City Council.
 §§ 11-1-89 – 11-1-90 RESERVED.
-PEDDLING
+*** PEDDLING ***
 § 11-1-91 PEDDLING; REGULATING; PERMIT; REQUIRED; EXCEPTIONS.
    (A)   It shall be unlawful for any person traveling by foot, wagon,
 automotive, or other type of vehicle from place to place, house to house, or
@@ -11993,7 +11993,7 @@ the grounds of complaint and the time and place of hearing, and shall be
 mailed, postage prepaid, to the permittee at his or her last known address at
 least five days prior to the date set for hearing.
 §§ 11-1-97 – 11-1-100 RESERVED.
-SOLICITATIONS
+*** SOLICITATIONS ***
 § 11-1-101 SOLICITING; STATEMENT; FILING; EXCEPTIONS.
    (A)   It shall be unlawful for any person, persons, firm, corporation, or
 association to solicit or collect any money or other contributions within the
@@ -13453,7 +13453,7 @@ Violations
 Statutory reference:
    Authorizing cities to declare and abate nuisances, see Neb. RS 16-230 and
 18-1720
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 12-1-1 DEFINITIONS.
    As used in this chapter, the following terms shall have the following
 definitions unless the context clearly indicates otherwise.
@@ -13593,7 +13593,7 @@ chapter, any police officer, the Planning and Building Official, and any other
 city employee designated by the City Manager shall have the right to enter any
 premises in the city at any reasonable time.
 (Ord. 3452, passed - -1995)
-ABATEMENT PROCEDURES
+*** ABATEMENT PROCEDURES ***
 § 12-1-9 NOTICE TO REMOVE.
    (A)   If any nuisance as defined in this municipal code shall exist anywhere
 subject to this chapter, the City Manager or his or her designee may give
@@ -13647,7 +13647,7 @@ shall be valued as provided in this chapter. The remedy provided in this
 section shall be cumulative with any other remedy provided in this municipal
 code, or otherwise available at law or in equity.
 (Ord. 3452, passed - -1995)
-SPECIAL PROVISIONS RELATING TO JUNK
+*** SPECIAL PROVISIONS RELATING TO JUNK ***
 § 12-1-11 VALUE DETERMINATION.
    (A)   The City Manager or his or her designee, after removing and impounding
 junk as provided elsewhere in this chapter, shall determine whether the fair
@@ -13761,7 +13761,7 @@ or any officer, employee, or contractual agent thereof shall be liable to any
 person for loss or damage to any junk which occurs during its removal,
 impoundment, storage, or disposition by the city as provided in this chapter.
 (Ord. 3452, passed - -1995)
-VIOLATIONS
+*** VIOLATIONS ***
 § 12-1-20 VIOLATION; PENALTY.
    It is a Class II violation to permit a nuisance to exist or continue in
 violation of this chapter or of any notice served as provided in this chapter.
@@ -14024,7 +14024,7 @@ Excessive Noise
 13-3-20   Same; nuisance
 Statutory reference:
    Disturbing the peace, see Neb. RS 28-1322
-DISTURBING THE PEACE
+*** DISTURBING THE PEACE ***
 § 13-3-1 DISORDERLY CONDUCT; PROHIBITED.
    It shall be unlawful for any person or persons within the city to indulge or
 engage in any riotous, tumultuous, or disorderly conduct; to take part in any
@@ -14126,7 +14126,7 @@ cunnilingus, fellatio, anilingus, or excretory functions.
 inconvenient or hazardous.
 (Ord. 3874, passed - -2005)
 §§ 13-3-5 – 13-3-8 RESERVED.
-DISORDERLY HOUSES
+*** DISORDERLY HOUSES ***
 § 13-3-9 DISORDERLY HOUSE; DEFINED.
    (A)   Any room, house, building, structure, place, or premises wherein or
 upon any unlawful or illegal acts are committed in violation of local state or
@@ -14196,7 +14196,7 @@ to commence the appropriate action in court to suppress the conduct if the
 conduct does not cease.
 (Ord. 3410, passed - -1995)
 §§ 13-3-13 – 13-3-14 RESERVED.
-EXCESSIVE NOISE
+*** EXCESSIVE NOISE ***
 § 13-3-15 EXCESSIVE NOISE; FINDING; DECLARATION.
    It is found and declared that:
    (A)   The making and creation of excessive, unnecessary, or unusually loud
@@ -14493,7 +14493,7 @@ Permits for Recreational or Special Events in Public Places
 13-6-17   Same; application
    
 13-6-18   Same; permit; standards for issuance
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 13-6-1 ALCOHOLIC LIQUOR; CONSUMPTION; OPEN CONTAINERS; PLACES UNLAWFUL.
    (A)   It shall be unlawful for any person:
       (1)   To consume or have in his or her possession any open container of
@@ -14543,7 +14543,7 @@ room, or space owned or rented by a non-profit corporation shall not be deemed
 to be occurring in a place of public resort.
 (Ord 3641, passed - -2000)
 § 13-6-6 RESERVED.
-PERMITS FOR RECREATIONAL OR SPECIAL EVENTS IN PUBLIC PLACES
+*** PERMITS FOR RECREATIONAL OR SPECIAL EVENTS IN PUBLIC PLACES ***
 § 13-6-7 OTHER RECREATIONAL EVENTS; ORGANIZATIONS; PERMIT.
    The City Council may authorize the City Clerk to issue a permit to a non-
 profit organization conducting or sponsoring a special event as that term is
@@ -15601,7 +15601,7 @@ Special Events
 15-1-40   Park shelters
    
 15-1-41   Violations
-GENERAL REGULATIONS
+*** GENERAL REGULATIONS ***
 § 15-1-1 PARKS; IDENTIFIED.
    For the purposes of this code, the following named parks shall be deemed to
 be compromised of the areas owned or controlled by the city and located at the
@@ -15808,7 +15808,7 @@ clearly inapplicable to parks. It shall be unlawful to conduct or participate
 in such an event otherwise than in accordance with the provisions of this
 chapter, and of the applicable provisions of
 Chapter 200 of this code.
-TREES
+*** TREES ***
 § 15-1-22 DEFINITIONS.
    Whenever used in this chapter, the following words or terms have the
 following meaning.
@@ -15871,7 +15871,7 @@ engaged in the business or occupation of pruning, treating, or removal of
 street trees and the other provisions in such section shall apply, also, to
 park trees.
 (Ord. 3103, passed - -1988)
-SPECIAL EVENTS
+*** SPECIAL EVENTS ***
 § 15-1-28 DEFINITIONS.
    The following definitions are applicable to this subchapter.
    APPLICANT. Any person or organization who seeks a special event permit from
@@ -16332,7 +16332,7 @@ Regulations
 16-2-34   Administration of provisions
    
 16-2-35   Violations; penalty
-DEFINITIONS
+*** DEFINITIONS ***
 § 16-2-1 DEFINITIONS; GENERALLY.
    The terms defined in subsequent sections of this article which shall have
 the meaning, when used in this article, that is given to the terms in the
@@ -16398,7 +16398,7 @@ include but are not necessarily limited to, any of the following: selling,
 replacing, moving, repairing, maintaining, or installing an alarm system on or
 in any structure, building, or facility.
 (Ord. 2827, passed - -1983)
-REGULATIONS
+*** REGULATIONS ***
 § 16-2-10 ALARM SYSTEM; REGULATION; GENERAL.
    No alarm system shall be installed, maintained, or used in violation of any
 of the requirements of this article, or of any applicable statute, law, or
@@ -17172,7 +17172,7 @@ permit conditions
 18-2-28   Revocation of permit
    
 18-2-29   Revocation, permit, and procedure
-CONNECTION TO SEWER
+*** CONNECTION TO SEWER ***
 § 18-2-1 WHEN REQUIRED.
    (A)   If a premises within the city abuts any street, alley, or easement in
 which runs a city sanitary sewer main or lateral, then the sanitary sewer
@@ -17235,7 +17235,7 @@ issue permits under this article.
 the owner of the premises from which the connection is to be made shall pay to
 the City Clerk for each connection the tap fee provided and the sewer plant
 investment fee as provided in Chapter 6, Article 6 of this code.
-PREMISES OUTSIDE CITY
+*** PREMISES OUTSIDE CITY ***
 § 18-2-6 CONNECTIONS; ELIGIBILITY.
    No connection shall be made to a sewer of the city from premises that are
 outside the city but that are subject at the time to being brought within the
@@ -17335,13 +17335,13 @@ provisions shall not be construed in such a manner as to impair the obligation
 of written contracts entered into by the city prior to the adoption of such
 provisions.
 (Ord. 2613, passed - -1980)
-PREMISES OWNED BY CITY
+*** PREMISES OWNED BY CITY ***
 § 18-2-16 PREMISES OWNED BY CITY.
    The provisions of this article, except §
 18-2-1, shall not apply to premises owned by the city.
 (Ord. 2613, passed - -1980)
 §§ 18-2-17 – 8-2-20 RESERVED.
-INDUSTRIAL USERS
+*** INDUSTRIAL USERS ***
 § 18-2-21 INDUSTRIAL USER; WHOLESALE USER; PERMIT REQUIRED.
    No industrial user shall discharge industrial waste into the city sanitary
 sewer after December 31, 1992 without having first obtained a permit in
@@ -19768,7 +19768,7 @@ Community and Business Promotion Events
 20-6-85   Permit; revocation
    
 20-6-86   Permit; appeal
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 20-6-1 USE OF RIGHT-OF-WAY; PERMISSION REQUIRED; OBSTRUCTING; PROHIBITED;
 NUISANCE.
    It shall be unlawful for any person, firm, or corporation to use city right-
@@ -19858,7 +19858,7 @@ thereof, and are not used merely or primarily for advertisement.
 the violation constitutes a nuisance, each day of default after notice in
 writing by the Police Chief to such person, firm, or corporation to remove or
 abate such nuisance shall constitute a separate offense.
-SIDEWALKS
+*** SIDEWALKS ***
 § 20-6-13 OBSTRUCTIONS; SIDEWALKS; PARKING; PERMITTING; UNLAWFUL; NUISANCE;
 EXCEPTIONS.
    It shall be unlawful for the occupant of any lot or the owner of any vacant
@@ -19929,7 +19929,7 @@ or the designee of the City Manager, as being in compliance with the
 requirements of this section and not creating a hazard to pedestrians and
 vehicles.
 (Ord. 3134, passed - -1989)
-SNOW, ICE, AND MUD REMOVAL FROM SIDEWALKS
+*** SNOW, ICE, AND MUD REMOVAL FROM SIDEWALKS ***
 § 20-6-20 SNOW, ICE, AND MUD; REMOVAL; NUISANCE.
    It shall be unlawful for the occupant of any lot or the owner of any vacant
 lot within the city to suffer or permit snow, sleet, ice, mud, slush, or other
@@ -20012,7 +20012,7 @@ drivers at intersections as described above shall be contacted to remove the
 snow and should they fail to comply within 24 hours from the date of said
 request being made, the snow shall be removed by the city, at the property
 owner’s expense.
-PLAY VEHICLES
+*** PLAY VEHICLES ***
 § 20-6-26 PLAY VEHICLES; DEFINED.
    The term PLAY VEHICLE shall include wagons, sleds, ice skates, scooters
 which are not motorized, tricycles, bicycles with both wheels smaller than
@@ -20055,7 +20055,7 @@ preceding 12 months, a written warning shall be issued and a copy shall be
 mailed to the parents or guardians of the apparent violator at their last known
 address.
 (Ord. 3202, passed - -1991)
-INJURIOUS VEHICLES
+*** INJURIOUS VEHICLES ***
 § 20-6-31 INJURIOUS VEHICLES, MACHINERY, AND STRUCTURES; OPERATION; ROUTES OF
 TRAVEL; RESTRICTIONS.
    It shall be unlawful for any person, firm, or corporation to move or operate
@@ -20079,7 +20079,7 @@ choose the route over which the moving of such vehicles, structures, or
 machines will be permitted or allowed.
 (Ord. 1116, passed 2-25-1957)
 § 20-6-32 RESERVED.
-MOVING BUILDINGS
+*** MOVING BUILDINGS ***
 § 20-6-33 BUILDINGS; MOVING; RESTRICTIONS.
    It shall be unlawful for any person to move any building upon, along, or
 across any street or alley within the city, except as provided in this article.
@@ -20109,7 +20109,7 @@ herein provided for shall be given to such company or companies by the City
 Manager or the designee of the City Manager.
 (Ord. 1116, passed 2-25-1957)
 § 20-6-36 RESERVED.
-PARADES
+*** PARADES ***
 § 20-6-37 PARADES; DEFINITION.
    For the purposes of this article, the word PARADE shall mean and include any
 parade, march, ceremony, show, exhibition, pageant, or procession of any kind,
@@ -20277,7 +20277,7 @@ locations, and it shall be unlawful for any person to operate or to park or
 leave unattended any vehicle in violation of such sign or directions given by
 such officers.
 (Ord. 1116, passed 2-25-1957; Ord. 1756, passed - -1969)
-COMMUNITY AND BUSINESS PROMOTION EVENTS
+*** COMMUNITY AND BUSINESS PROMOTION EVENTS ***
 § 20-6-51 COMMUNITY AND BUSINESS PROMOTION EVENTS.
    Public streets, sidewalks, and municipal parking lots in a business area of
 the city may be used temporarily for the purpose of conducting thereon an
@@ -20532,7 +20532,7 @@ Building Official, within 24 hours after the revocation of the permit, shall
 deliver or mail to the permittee notice in writing of the revocation stating
 the reasons therefor.
 (Ord. 3520, passed - -1997)
-NEIGHBORHOOD BLOCK PARTY
+*** NEIGHBORHOOD BLOCK PARTY ***
 § 20-6-79 NEIGHBORHOOD BLOCK PARTY; DEFINITION.
    (A)   For the purpose of this article, the words NEIGHBORHOOD BLOCK PARTY
 shall mean and include any event open to a specific, defined neighborhood or
@@ -20732,7 +20732,7 @@ Miscellaneous Provisions
 20-7-34   Tree; cutting down and injuring
    
 20-7-35   Violations; penalties
-DEFINITIONS
+*** DEFINITIONS ***
 § 20-7-1 DEFINITIONS; GENERALLY.
    Any of the terms defined in any subsequent section has the meaning which is
 ascribed to the term in such section.
@@ -20790,7 +20790,7 @@ sidewalk where curb and sidewalk are separated by two feet or more of ground.
    CURB-SIDEWALK. The sidewalk is installed right next to the curb with no
 ground space between curb and sidewalk.
 (Ord. 3161, passed - -1990)
-STREET TREES
+*** STREET TREES ***
 § 20-7-13 SPECIES.
    It shall be unlawful to any person to plant any species of tree or shrub
 other than those included on the official list of street trees in any location,
@@ -20897,7 +20897,7 @@ in such section; or any tree that is unsafe or injurious or affected by an
 insect or disease as provided in such section, to cause such tree to be
 removed.
 (Ord. 3103, passed - -1988)
-HAZARDOUS TREES
+*** HAZARDOUS TREES ***
 § 20-7-24 HAZARDOUS TREES; STATEMENT OF POLICY; DISCRETION CONFERRED.
    (A)   The City Council finds that there are within the corporate limits of
 the city numerous trees which are dead or dying. The proximity of many of these
@@ -20989,7 +20989,7 @@ of §§
 during which a violation occurs shall constitute a separate and distinct
 offense.
 (Ord. 3103, passed - -1988)
-MISCELLANEOUS PROVISIONS
+*** MISCELLANEOUS PROVISIONS ***
 § 20-7-28 ARTICLE; SCOPE.
    This article shall apply to all street trees as defined in this article, and
 to other trees, as well, in situations in which the context clearly so
@@ -21211,7 +21211,7 @@ Official; contents; fees
    
 21-1-68   Amended plat; limiting the number of times a final plat can be
 amended; procedures; notice; fees
-DEFINITIONS
+*** DEFINITIONS ***
 § 21-1-1 GENERALLY.
    Any of the terms defined in subsequent sections of this article has the
 meaning, when used in any article of this chapter, which is given the term in
@@ -21247,7 +21247,7 @@ resubdivision of a lot or tract of land.
 § 21-1-9 OTHER.
    Other words and phrases shall have the meaning ascribed to them in
 Chapter 25, Article 22 of this code.
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 21-1-10 PROVISIONS; APPLICABILITY.
    The provisions of this article shall be applicable to all lots, tracts of
 land, and parts thereof within the corporate limits of the city and, except as
@@ -22795,7 +22795,7 @@ provisions; where
 22-2-131   Accidents; stopping vehicle; information; aid; report; required
    
 22-2-132   Unnecessary smoke, gas, steam, and odors; prohibited
-STARTING, TURNING, AND STOPPING
+*** STARTING, TURNING, AND STOPPING ***
 § 22-2-1 STARTING; BACKING AND TURNING FROM CURB; YIELDING RIGHT-OF-WAY.
    Where a vehicle is parked in a diagonal parking space, so identified by
 lines on the pavement, it shall be unlawful to cause the vehicle to leave the
@@ -23115,7 +23115,7 @@ of speed as is reasonable and proper under the circumstances and condition of
 the street and the traffic within the immediate vicinity.
 (Ord. 1116, passed 2-25-1957)
 §§ 22-2-29 – 22-2-35 RESERVED.
-FOLLOWING AND OVERTAKING
+*** FOLLOWING AND OVERTAKING ***
 § 22-2-36 FOLLOWING ANOTHER VEHICLE; SAFE DISTANCE; REQUIRED.
    The operator of a vehicle shall not follow another vehicle more closely than
 is reasonable and prudent having due regard for the speed of such vehicle and
@@ -23164,7 +23164,7 @@ intersection or at any railroad crossing, unless directed so to do by a traffic
 or police officer.
 (Ord. 1116, passed 2-25-1957)
 §§ 22-2-42 – 22-2-45 RESERVED.
-MEETING
+*** MEETING ***
 § 22-2-46 ONCOMING VEHICLES; PASSING; TO RIGHT.
    Vehicles moving in opposite directions shall pass each other by keeping to
 the right.
@@ -23209,7 +23209,7 @@ pedestrians from crossing a street at any point other than a pedestrian
 crossing, crosswalk, or street intersection.
 (Ord. 1116, passed 2-25-1957)
 §§ 22-2-51 – 22-2-54 RESERVED.
-SPEED
+*** SPEED ***
 § 22-2-55 GENERAL RESTRICTION; REASONABLENESS; PRUDENCE.
    No person shall operate a vehicle on any street or alley within the city at
 a speed greater than that which is reasonable and prudent under the conditions
@@ -23262,7 +23262,7 @@ forfeit any right-of-way which he or she might otherwise have had under the
 ordinances of the city.
 (Ord. 1116, passed 2-25-1957)
 §§ 22-2-62 – 21-2-64 RESERVED.
-THREE-LANE STREETS
+*** THREE-LANE STREETS ***
 § 22-2-65 THREE-LANE STREETS; DESIGNATED; MARKING.
    (A)   The following streets are hereby declared to be three-lane streets:
       (1)   Avenue I, between West 20th Street and West 27th Street;
@@ -23279,7 +23279,7 @@ and out of the center lane.
 of a three-lane street to make a right turn onto an intersecting street or to
 make a right turn between street intersections.
 (Ord. 3466, passed - -1995)
-FOUR-LANE STREETS
+*** FOUR-LANE STREETS ***
 § 22-2-66 FOUR-LANE STREETS; DESIGNATED; MARKING.
    (A)   The following parts of streets are hereby made and declared to be
 four-lane streets, and shall have two contiguous lanes for traffic moving in
@@ -23320,7 +23320,7 @@ crossing the center double yellow line.
 intersection street from the inside lane of any four-lane street, or to turn
 left into an intersecting street from the outside lane of any four-lane street.
 §§ 22-2-71 – 22-2-74 RESERVED.
-FIVE-LANE STREETS
+*** FIVE-LANE STREETS ***
 § 22-2-75 FIVE-LANE STREETS; DESIGNATED; MARKING.
    (A)   The following parts of streets are hereby made and declared to be
 five-lane streets:
@@ -23355,7 +23355,7 @@ except for the limited purpose of continuing travel in the same direction in
 the abutting right lane, or to make a left turn between street intersections
 except at places where permitted as indicated by yellow lines on the street.
 (Ord. 1116, passed 2-25-1957; Ord. 2107, passed - -1975)
-THROUGH STREETS
+*** THROUGH STREETS ***
 § 22-2-78 THROUGH STREETS; DESIGNATED.
    The City Council, whenever it shall determine, by resolution, that the
 public safety, convenience, or welfare requires or warrants, by resolution, may
@@ -23363,7 +23363,7 @@ designate any street, or part of a street, as an arterial street, collector
 street, marginal access street, or minor street.
 (Ord. 1116, passed 2-25-1957; Ord. 1539, passed - -1965)
 §§ 21-2-79 – 21-2-82 RESERVED.
-COMMERCIAL VEHICLE ROUTES
+*** COMMERCIAL VEHICLE ROUTES ***
 § 22-2-83 COMMERCIAL VEHICLE ROUTES; DESIGNATED; MARKING.
    The following streets and parts of streets are hereby established as routes
 to be used by commercial vehicles, farm or construction machinery or equipment,
@@ -23438,7 +23438,7 @@ routes designated in § 22-2-157 of this article shall be by the most direct
 routes.
 (Ord. 1116, passed 2-25-1957; Ord. 2286, passed - -1977)
 §§ 22-2-87 – 22-2-90 RESERVED.
-ONE-WAY STREETS AND ALLEYS
+*** ONE-WAY STREETS AND ALLEYS ***
 § 22-2-91 ONE-WAY STREETS AND ALLEYS; RESOLUTIONS; MARKING.
    Whenever the City Council determines that the public safety, convenience, or
 welfare requires or warrants certain streets or alleys to be designated for
@@ -23459,8 +23459,8 @@ designated by the appropriate signs. This prohibition shall not apply to
 authorized emergency vehicles.
 (Ord. 3562, passed - -1997)
 §§ 22-2-93 – 22-2-95 RESERVED.
-SPECIAL REGULATIONS FOR SEMI-PUBLIC PLACES
-PART 1. GENERAL PROVISIONS
+*** SPECIAL REGULATIONS FOR SEMI-PUBLIC PLACES ***
+** PART 1. GENERAL PROVISIONS **
 § 22-2-96 NO PARKING AND FIRE LANE ZONES; PROHIBITIONS.
    It shall be unlawful for any person to park or leave standing a vehicle at
 any time in an area shown in the drawings in §§
@@ -23512,7 +23512,7 @@ Visually handicapped                                   22-1-47
  
    (B)   The provisions of Article 10, as amended, of this chapter also shall
 be applicable to such areas.
-PART 2. SCOTTSBLUFF SCHOOL DISTRICT
+** PART 2. SCOTTSBLUFF SCHOOL DISTRICT **
 § 22-2-98 SCHOOL DISTRICT PREMISES; PARKING; REQUEST.
    The Mayor and City Council find that:
    (A) Scottsbluff School District has, in writing, requested the City Council
@@ -23562,7 +23562,7 @@ the drawings in §§
 parking” imprinted thereon, at points where the signs reasonably may be seen by
 the operators of vehicles.
 §§ 22-2-103 – 22-2-106 RESERVED.
-PART 3. WESTERN NEBRASKA COMMUNITY COLLEGE AREA
+** PART 3. WESTERN NEBRASKA COMMUNITY COLLEGE AREA **
 § 22-2-107 OFF-STREET PARKING; REGULATIONS.
    The Mayor and the City Council find that Western Nebraska Community College
 Area, the owner of the campus of Western Nebraska Community College, a semi-
@@ -23601,7 +23601,7 @@ Uniform Traffic Control Devices for Streets and Highways issued by the State
 Department of Roads.
 (Ord. 3380, passed - -1994)
 § 22-2-111 RESERVED.
-PART 4. OTHER PLACES
+** PART 4. OTHER PLACES **
 § 22-2-112 MCDONALD’S RESTAURANT; TURN RESTRICTION WHILE EXITING FROM PARKING
 LOT; REQUEST.
    (A)   The owner of the McDonald’s Restaurant located at 419 West 27th
@@ -23648,7 +23648,7 @@ also to the areas requested by the owner of semi-public places according to §
 22-2-97 of this article.
 (Ord. 4228, passed 4-16-2018)
 §§ 22-2-115 – 22-2-117 RESERVED.
-MISCELLANEOUS PROVISIONS
+*** MISCELLANEOUS PROVISIONS ***
 § 22-2-118 KEEPING TO RIGHT; GENERALLY.
    Upon all streets and alleys of sufficient width, except one-way streets, the
 driver of a vehicle shall drive such vehicle upon the right half of the street.
@@ -24603,7 +24603,7 @@ arterial and residential streets
 22-6-66   Curb sidewalk areas and private driveways
    
 22-6-67   Violation of vehicles parking on emergency snow routes
-GENERAL PROVISIONS
+*** GENERAL PROVISIONS ***
 § 22-6-1 DIAGONAL PARKING; WHERE; MARKING.
    (A)   The parking areas on the following parts of streets shall be marked as
 diagonal parking at an angle of 30 degrees with the curb so that the right
@@ -24950,7 +24950,7 @@ prosecuted in the manner provided by law. Upon conviction, the person shall be
 punished in the manner provided for Class II violations.
 (Ord. 3322, passed - -1993)
 §§ 22-6-29 – 22-6-32 RESERVED.
-TRUCKS
+*** TRUCKS ***
 § 22-6-33 TRUCKS; CERTAIN STREETS; RESTRICTIONS; GENERAL.
    It shall be unlawful to park any motor truck vehicle on the following
 described avenues:
@@ -25076,7 +25076,7 @@ curb shall be painted yellow.
 space for the parking of commercial vehicles, and it shall be unlawful for any
 person to park any other vehicle in such zones at any time.
 (Ord. 1116, passed 2-25-1957)
-MUNICIPAL LOTS
+*** MUNICIPAL LOTS ***
 § 22-6-40 MUNICIPAL PARKING LOTS; DESIGNATED.
    The following tracts of land owned by the city shall be public off-street
 parking lots, and shall be improved, maintained, and operated by the city:
@@ -25185,7 +25185,7 @@ parking lots, except as otherwise provided in this chapter and except as to
 provisions of this chapter that clearly are not applicable to public off-street
 parking lots.
 (Ord. 1116, passed 2-25-1957; Ord. 1561, passed - -1966)
-HANDICAPPED PARKING
+*** HANDICAPPED PARKING ***
 § 22-6-47 HANDICAPPED PARKING SPACES; AUTHORIZED; MARKING; PERMIT DISPLAY.
    (A)   The City Council may, by ordinance or by resolution, designate certain
 parking spaces on public streets or on off-street parking facilities owned or
@@ -25347,7 +25347,7 @@ handicapped parking permit.
 period.
 (Ord. 3499, passed - -1996)
 §§ 22-6-58 – 22-6-60 RESERVED.
-SNOW EMERGENCY ROUTES
+*** SNOW EMERGENCY ROUTES ***
 § 22-6-61 SNOW EMERGENCY ROUTES; DESIGNATED.
    (A)   The streets described below are hereby declared to be snow emergency
 routes in the city. Appropriate signs or other traffic-control devices shall be
@@ -26799,7 +26799,7 @@ required
 23-4-26   Same; double check valve; required
    
 23-4-27   Same; existing systems; requirements
-ADMINISTRATION
+*** ADMINISTRATION ***
 § 23-4-1 PURPOSE.
    This article is intended to protect the public water supply system of the
 city from the possibility of contamination by isolating real or potential
@@ -27026,7 +27026,7 @@ or property as a result of any act required or authorized by this article, or
 by reason of any act or omission of the City Manager in the discharge of his or
 her duties hereunder.
 (Ord. 3261, passed - -1992)
-BACKFLOW PREVENTION
+*** BACKFLOW PREVENTION ***
 § 23-4-11 CROSS-CONNECTIONS; FORBIDDEN.
    No person shall install or maintain a water service connection containing
 cross-connections to a public water supply system or a consumers’ potable water
@@ -34300,7 +34300,7 @@ subdivision regulations and its comprehensive development plan; and
    (E)   To facilitate accomplishment of these objectives through planned unit
 developments of various types.
 (Ord. 3639, passed - -2000)
-(a) GENERAL DEVELOPMENT STANDARDS
+*** (a) GENERAL DEVELOPMENT STANDARDS ***
 § 25-7-2 DEVELOPMENT STANDARDS; GENERAL REQUIREMENT.
    All residential planned unit developments shall be designed to meet all of
 the general development standards concerning open space, circulation, off-
@@ -34623,7 +34623,7 @@ plan. Provided, compliance or noncompliance with such recommendations shall not
 be a factor to be considered by the Commission in granting or denying an
 application for a special permit for a planned unit development.
 (Ord. 3639, passed - -2000)
-(b) CONDOMINIUM PROPERTY
+*** (b) CONDOMINIUM PROPERTY ***
 § 25-7-31 CONDOMINIUM PROPERTY REGULATIONS; APPLICABILITY; SCOPE; PURPOSE.
    (A)   Applicability. The regulations in this subdivision (b) of this article
 apply to real property which:
@@ -34777,7 +34777,7 @@ does not include public streets, driveways, private yards and patios, parking
 spaces, parkways, or other areas not primarily designed for recreational or
 leisure use.
 (Ord. 3639, passed - -2000)
-(c) TOWNHOUSES
+*** (c) TOWNHOUSES ***
 § 25-7-40 TOWNHOUSES; REGULATIONS; APPLICABILITY, SCOPE, AND PURPOSE.
    (A)   Applicability. The regulations in this subdivision (c) of this article
 apply to townhouse planned unit developments.
@@ -34857,7 +34857,7 @@ include public streets, driveways, private yards and patios, parking spaces,
 parkways, or other areas not primarily designed for recreational or leisure
 use.
 (Ord. 3639, passed - -2000)
-(d) CLUSTER HOUSING
+*** (d) CLUSTER HOUSING ***
 § 25-7-48 CLUSTER HOUSING; REGULATIONS; APPLICABILITY, SCOPE, AND PURPOSE.
    (A)   Applicability. The regulations in this subdivision (d) of this article
 apply to cluster housing planned unit developments.
@@ -34925,7 +34925,7 @@ development for each dwelling unit. If more than one such space is provided on
 a lot on which is situated a dwelling unit, such space shall be set back from
 the front lot line not less than the front building line.
 (Ord. 3639, passed - -2000)
-(e) MOBILE HOME PLANNED UNIT DEVELOPMENT
+*** (e) MOBILE HOME PLANNED UNIT DEVELOPMENT ***
 § 25-7-56 MOBILE HOME PLANNED UNIT DEVELOPMENTS; REGULATIONS; APPLICABILITY,
 SCOPE, AND PURPOSE.
    (A)   Applicability. The regulations in this subdivision (e) of this article
@@ -34996,7 +34996,7 @@ other material approved by the Planning and Building Director.
 skirts or by a combination of skirts and grading, except openings required for
 cross-ventilation.
 (Ord. 3639, passed - -2000)
-(f) SPECIAL PERMITS
+*** (f) SPECIAL PERMITS ***
 § 25-7-63 SPECIAL PERMIT; ZONING MODIFICATIONS.
    The Planning Commission may issue a special permit authorizing a planned
 unit development in Districts R-1a, R-1b, R-2, R-3, R-4, R-6, R-7, O-P, C-1, C-
@@ -35215,7 +35215,7 @@ the development site. A mortgaging of the development site, or a part thereof,
 shall not constitute a transfer of ownership within the meaning of this
 section.
 (Ord. 3639, passed - -2000)
-(g) CONSTRUCTION AND OCCUPANCY
+*** (g) CONSTRUCTION AND OCCUPANCY ***
 § 25-7-77 CONSTRUCTION; COMPLETION.
    The proposed construction shall begin within 12 months after approval of the
 application by the Planning Commission. A minimum of 50%, in terms of cost, of
@@ -35254,7 +35254,7 @@ been completed with; and
    (B)   An occupancy permit has been issued by the Director or his or her
 authorized agent.
 (Ord. 3639, passed - -2000)
-(h) TINY HOME COMMUNITY PLANNED UNIT DEVELOPMENT
+*** (h) TINY HOME COMMUNITY PLANNED UNIT DEVELOPMENT ***
 § 25-7-81 GENERALLY.
    (A)   Applicability. The regulations in this subdivision (h) of this article
 apply to tiny home community planned unit developments.
@@ -35493,7 +35493,7 @@ plumbing, and electrical system
 25-9-30   Nonconforming parks; defined; requirements; license
    
 25-9-31   Lessees; agents; provisions applicable
-(a) GENERAL PROVISIONS
+*** (a) GENERAL PROVISIONS ***
 § 25-9-1 MOBILE HOMES; OCCUPANCY; LOCATION.
    No person shall occupy any mobile home except in R-6 Mobile Home District,
 R-7 Mobile Home District, or in a mobile home park which is licensed under this
@@ -35557,7 +35557,7 @@ pounds. Unless the foundation is continuous, there shall be installed between
 the permanent segments a non-combustible skirt. No combustible material shall
 be stored under a mobile home.
 (Ord. 3639, passed - -2000)
-(b) MOBILE HOME PARKS
+*** (b) MOBILE HOME PARKS ***
 § 25-9-7 LOTS; NUMBERING.
    Each mobile home park lot shall be numerically designated for address and
 mail purposes.
@@ -35871,7 +35871,7 @@ Section
 25-10-7   Service building; required
    
 25-10-8   Trailer spaces; occupancy; duration
-(a) GENERAL PROVISIONS
+*** (a) GENERAL PROVISIONS ***
 § 25-10-1 TRAVEL TRAILERS; OCCUPANCY; LOCATION.
    No person shall occupy any travel trailer outside a trailer park which is
 licensed under this article.
@@ -35880,7 +35880,7 @@ licensed under this article.
    The provisions of subdivision (a) of Article 9 of this chapter, except § 25-
 9-1, shall be applicable, also, to travel trailers.
 (Ord. 3639, passed - -2000)
-(b) TRAILER PARKS
+*** (b) TRAILER PARKS ***
 § 25-10-3 TRAILER PARKS; PROVISIONS APPLICABLE.
    The provisions of subdivision (b) of Article 9 of this chapter, except §§
 25-9-11(D), 25-9-13, and 25-9-23, shall be applicable, also, to travel trailer
@@ -37143,7 +37143,7 @@ Section
 (k) Penalties for Violation
    
 25-19-45   Penalties
-(a) STATUTORY AUTHORIZATION, FINDINGS OF FACT, AND PURPOSES
+*** (a) STATUTORY AUTHORIZATION, FINDINGS OF FACT, AND PURPOSES ***
 § 25-19-1 DEFINITIONS.
    Unless specifically defined below, words or phrases used in Chapter 25,
 Article 19 shall be interpreted so as to give them the meaning they have in
@@ -37388,7 +37388,7 @@ and unsafe development in areas subject to flooding.
    (D)   Assure that eligibility is maintained for property owners in the city
 to purchase flood insurance from the National Flood Insurance Program.
 (Ord. 3639, passed - -2000; Ord. 4293, passed 11-7-2022)
-(b) GENERAL PROVISIONS
+*** (b) GENERAL PROVISIONS ***
 § 25-19-5 ADHERENCE TO REGULATIONS.
    The regulations of this article are in compliance with the National Flood
 Insurance Program Regulations as published in Title 44 of the Code of Federal
@@ -37458,7 +37458,7 @@ lawfully made thereunder.
 unconstitutional or invalid by a court of competent jurisdiction, the remainder
 of this article shall not be affected thereby.
 (Ord. 3639, passed - -2000; Ord. 4293, passed 11-7-2022)
-(c) ESTABLISHMENT OF DISTRICTS
+*** (c) ESTABLISHMENT OF DISTRICTS ***
 § 25-19-13 ESTABLISHMENT OF ZONING DISTRICTS.
    (A)   Along watercourses where a floodway has been established, the mapped
 floodplain areas are hereby divided into the two following districts: a
@@ -37473,7 +37473,7 @@ areas in Zone AE that are identified on the FIRM panels. Within these
 districts, all uses not meeting the standards of this article and those
 standards of the underlying zoning district shall be prohibited.
 (Ord. 4293, passed 11-7-2022)
-(d) DEVELOPMENT PERMIT
+*** (d) DEVELOPMENT PERMIT ***
 § 25-19-14 FLOODPLAIN MANAGEMENT ADMINISTRATION.
    (A)   Designation of Floodplain Administrator. The Floodplain Manager or
 designated representative of the city is hereby designated as the city’s local
@@ -37722,7 +37722,7 @@ remedied within an established and reasonable time.
 appropriate authority from taking such other lawful action as is necessary to
 prevent or remedy any violation.
 (Ord. 4293, passed 11-7-2022)
-(e) STANDARDS FOR FLOODPLAIN DEVELOPMENT
+*** (e) STANDARDS FOR FLOODPLAIN DEVELOPMENT ***
 § 25-19-20 ALTERATION OR RELOCATION OF A WATERCOURSE.
    (A)   A watercourse or drainway shall not be altered or relocated in any way
 that in the event of a base flood or more frequent flood will alter the flood
@@ -38014,7 +38014,7 @@ Article 19 may be amended, supplemented, changed or appealed as defined by §§
 25-15-10 and
 25-15-27.
 (Ord. 4293, passed 11-7-2022)
-(f) FLOOD FRINGE OVERLAY DISTRICT  (INCLUDING AO AND AH DISTRICTS)
+*** (f) FLOOD FRINGE OVERLAY DISTRICT  (INCLUDING AO AND AH DISTRICTS) ***
 § 25-19-27 PERMITTED USES.
    Any use permitted in §
 25-19-32 of this article shall be permitted in the Flood Fringe Overlay
@@ -38130,7 +38130,7 @@ shall be provided to the Development Services Director as set forth in §
    (C)   Adequate drainage paths around structures on slopes shall be required
 in order to guide floodwaters around and away from proposed structures.
 (Ord. 3639, passed - -2000)
-(g) FLOODWAY OVERLAY DISTRICT
+*** (g) FLOODWAY OVERLAY DISTRICT ***
 § 25-19-32 PERMITTED USES.
    (A)   Only uses having a low flood damage potential and not obstructing
 flood flows shall be permitted within the Floodway Overlay District to the
@@ -38160,7 +38160,7 @@ floodway data available through federal, state, or other sources or §
 25-19-26 of this article shall be obtained, reviewed, and reasonably utilized
 in meeting the standards of this section.
 (Ord. 3639, passed - -2000)
-(h) VARIANCE PROCEDURES
+*** (h) VARIANCE PROCEDURES ***
 § 25-19-34 VARIANCE REQUESTS; BOARD OF ADJUSTMENT TO HEAR.
    The Board of Adjustment shall hear and decide requests for variances from
 the requirements of the provisions of this article.
@@ -38199,7 +38199,7 @@ conditions, including maintenance and repair of public utilities and
 facilities, such as sewer, gas, electrical, and water systems, and streets and
 bridges.
 (Ord. 3639, passed - -2000)
-(i) CONDITIONS FOR VARIANCES
+*** (i) CONDITIONS FOR VARIANCES ***
 § 25-19-37 VARIANCES; GENERAL CONDITIONS.
    Generally, variances may be issued for new construction and substantial
 improvements to be erected on a lot of one-half acre or less in size contiguous
@@ -38240,7 +38240,7 @@ ordinances.
 that the cost of flood insurance will be commensurate with the increased risk
 resulting from the reduced lowest floor evaluation.
 (Ord. 3639, passed - -2000)
-(j) NONCONFORMING USE
+*** (j) NONCONFORMING USE ***
 § 25-19-43 NONCONFORMING USE; CONDITIONS FOR CONTINUANCE.
    A structure or the use of a structure or premises which was lawful before
 the passage or amendment of the article but which is not in conformity with the
@@ -38265,7 +38265,7 @@ the cost of any alteration of a structure listed on the National Register of
 Historic Places or a State Inventory of Historic Places, provided that the
 alteration shall not preclude its continued designation.
 (Ord. 3639, passed - -2000)
-(k) PENALTIES FOR VIOLATION
+*** (k) PENALTIES FOR VIOLATION ***
 § 25-19-45 PENALTIES.
    Any building or structure which is in violation of any provision of this
 article is declared to be an unsafe structure. All provisions of
