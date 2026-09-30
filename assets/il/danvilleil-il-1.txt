@@ -1,8 +1,8 @@
 Danville, Illinois
 Code of Ordinances
-2025 S-62 Supplement contains:
-Local legislation current through Ord. 9540, passed 6-3-25
-State legislation current through 2025 ALS #1
+2026 S-63 Supplement contains:
+Local legislation current through Ord. 9557, passed 12-2-25
+State legislation current through 2025 ALS #5
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -18,7 +18,7 @@ TREASURER                      Chris Heeren
                                
 ALDERMEN
 Ward 1: Ed Butler              Jaleel Jones
-Ward 2: Rick Strebing          Carolyn Wands
+Ward 2: Rick Strebing          Carolyn DeToye
 Ward 3: Sharon Pickering       Tom Hightower
 Ward 4: Wm. Michael O’Kane   Tricia Teague
 Ward 5: Eve Ludwig          Michael Puhr
@@ -28,7 +28,7 @@ Ward 7: Doug Ahrens            Barry Johnson
 APPOINTED CITY OFFICIALS
 CITY CLERK                     Rachel Haun
 CITY COMPTROLLER               Alyssa Sweeten
-INTERIM CITY ENGINEER          Eric Childers
+CITY ENGINEER                   
 CHIEF OF POLICE                Christopher Yates
 CORPORATION COUNSEL            Leon Parker
 FIRE CHIEF                     Aaron Marcott
@@ -1541,6 +1541,45 @@ of the people of this municipality, and shall take effect immediately.
                         Rickey Williams, Jr. /s/
                         Mayor
 ATTEST:   Lisa K. Monson /s/
+      City Clerk
+***** ORDINANCE NO. 9557 *****
+AN ORDINANCE ENACTING AND ADOPTING
+SUPPLEMENT TO THE CODE OF ORDINANCES
+OF THE CITY OF DANVILLE
+   WHEREAS, American Legal Publishing Corporation of Cincinnati, Ohio, has
+completed the S-62 Supplement to the Code of Ordinances of the City of
+Danville, which supplements contain all ordinances of a general and permanent
+nature enacted since the prior supplement to the Code of Ordinances of the City
+of Danville, including Ordinance No. 9479, passed May 21, 2024, through
+Ordinance No. 9540, passed June 3, 2025; and
+   WHEREAS, American Legal Publishing Corporation has recommended the revision
+or addition of certain sections of the Code of Ordinances, which are based on
+or make reference to sections of the Illinois Compiled Statutes; and
+   WHEREAS, it is the intent of the City of Danville to accept these updated
+sections in accordance with the changes of the law of the State of Illinois;
+and
+   WHEREAS, it is necessary to provide for the usual daily operation of the
+municipality and for the immediate preservation of the public peace, health,
+safety and general welfare of the municipality that this ordinance takes effect
+at an early date.
+   NOW, THEREFORE, BE IT ORDAINED by the City Council of the City of Danville
+that:
+   Section 1: That the S-62 Supplement to the Code of Ordinances of the City of
+Danville as submitted by American Legal Publishing Corporation of Cincinnati,
+Ohio, be and the same are hereby adopted by reference as if set out in its
+entirety.
+   Section 2: Such supplement shall be deemed published as of the day of their
+adoption and approval by the City Council and the City Clerk is hereby
+authorized and ordered to insert such supplement into the copy of the Code of
+Ordinances kept on file in the Office of the Clerk.
+   Section 3: This ordinance is declared to be an emergency measure necessary
+for the immediate preservation of the peace, health, safety and general welfare
+of the people of this municipality and shall take effect immediately.
+   PASSED this 2nd day of December 2025, by 14 Ayes, 0 Nays, 0 Absent
+                     APPROVED BY:
+                        Rickey Williams, Jr. /s/
+                        Mayor
+ATTEST:   Rachel Haun /s/
       City Clerk
 TITLE I: GENERAL PROVISIONS
       Chapter
@@ -7656,8 +7695,8 @@ Ord. 9171, passed 10-2-18; Am. Ord. 9173, passed 10-2-18; Am. Ord. 9174, passed
 21; Am. Ord. 9363, passed 3-1-22; Am. Ord. 9387, passed 8-16-22; Am. Ord. 9391,
 passed 10-4-22; Am. Ord. 9429, passed 4-4-23; Am. Ord. 9434, passed 5-2-23; Am.
 Ord. 9438, passed 5-16-23; Am. Ord. 9466, passed 2-6-24; Am. Ord. 9469, passed
-3-5-24; Am. Ord. 9477, passed 5-7-24; Am. Ord. 9491, passed 7-16-24; Am. Ord.
-9536, passed 3-4-25)
+3-5-24; Am. Ord. 9477, passed 5-7-24; Am.  Ord. 9491, passed 7-16-24; Am. Ord.
+9536, passed 3-4-25; Am. Ord. 9549, passed 7-15-25)
    (C)   Holiday pay. In order to receive pay for the holiday, all employees
 must work a complete scheduled work day on their last scheduled day before the
 holiday and the first scheduled workday after the holiday unless they are on
@@ -8810,9 +8849,9 @@ sewers, see ILCS Ch. 65, Act 5, § 11-80-7
 § 50.01 DEFINITIONS.
    For purposes of this chapter the following words and phrases shall have the
 following meanings ascribed to them respectively.
-   (A)   "BOARD OF HEALTH." The board of health provided for in § 94.02, acting
-as a board or through its duly authorized representative or director of health
-or other health authority.
+   (A)   "BOARD OF HEALTH." The board of health provided for in §
+94.02 , acting as a board or through its duly authorized representative or
+director of health or other health authority.
    (B)   "COMPANY." The Interstate Water Company or its duly authorized
 representative.
    (C)   "DAM NO. 1." The dam constructed in the North Fork of the Vermilion
@@ -9137,7 +9176,8 @@ Discharges and Sampling
    
 51.24   Industrial discharge permits
    
-51.25   Installation of control manhole and devices for observation of wastes
+51.25   Installation of control manhole and devices for observation/measurement
+of wastes
    
 51.26   Laboratory analysis of waters and wastes
    
@@ -9290,6 +9330,10 @@ City of Danville. It shall also include sewers within or outside the City
 boundaries that serve one or more persons and ultimately discharge into the
 City sanitary or combined sewer system, even though those sewers may not have
 been constructed with City funds.
+      "PALMER-BOWLUS FLUME." A flume specifically designed to measure sanitary
+sewage/wastewater flows. Installed into manhole channels and in line with sewer
+piping as a fixed hydraulic structure to measure the flow of sub-critical
+waters in open channels with a constant cross-sectional area and a throat ramp.
       “SANITARY SEWER.” A sewer that conveys sewage or industrial wastes or a
 combination of both, and into which storm, surface, and ground water, or
 unpolluted industrial wastes, are not intentionally admitted.
@@ -9361,7 +9405,8 @@ the wastewater facilities. The service charge shall be computed as outlined in
 applicable.
    (M)   “WATER PROVIDER.” Aqua Illinois, its successors or assigns.
 (Ord. 7193, passed 7-29-86; Am. Ord. 8055, 12-7-99; Am. Ord. 8781, passed 1-17-
-12; Am. Ord. 9212, passed 8-6-19; Am. Ord. 9290, passed 11-3-20)
+12; Am. Ord. 9212, passed 8-6-19; Am. Ord. 9290, passed 11-3-20; Am. Ord. 9548,
+passed 7-15-25)
 § 51.02 USE OF PUBLIC SEWERS REQUIRED.
    (A)   It shall be unlawful for any person to place, deposit, or permit to be
 deposited in any unsanitary manner on public or private property within the
@@ -9740,8 +9785,9 @@ Penalty, see § 51.99
 Cross-reference:
    
 Permit requirements, see § 51.10
-§ 51.25 INSTALLATION OF CONTROL MANHOLE AND DEVICES FOR OBSERVATION OF WASTES.
-   Each industry shall be required to install a control manhole and, when
+§ 51.25 INSTALLATION OF CONTROL MANHOLE AND DEVICES FOR OBSERVATION/MEASUREMENT
+OF WASTES.
+   (A)   Each industry shall be required to install a control manhole and, when
 required by the Director, the owner of any property serviced by a building
 sewer carrying industrial wastes shall install a suitable control manhole
 together with such necessary meters and other appurtenances in the building
@@ -9750,7 +9796,28 @@ manhole, when required, shall be accessibly and safely located, and shall be
 constructed in accordance with plans approved by the Director. The manhole
 shall be installed by the owner at his expense, and shall be maintained by him
 so as to be safe and accessible at all times.
-(Am. Ord. 8781, passed 1-17-12)
+   (B)   Industrial users who chose to install a device for measuring each
+separate discharge point from the facility vs. metered water supply quantities
+shall only be allowed if the user satisfactorily demonstrates to the city that
+its water usage results in its wastewater discharge being less than water
+consumption. The measuring device shall contain a Palmer-Bowlus flume unless a
+weir or similar device is approved by the city and self-report monthly liquid
+discharge quantities. The flume(s) shall be equipped with a recording and
+totalizing registered for measurement in gallons of the liquid discharge
+quantity for each separate discharge in the building sewer system to the public
+sewer. These should be installed and always maintained at the User's expense
+and should have ample room and accessibility to permit authorized
+representatives of the city personnel to inspect at any time. The Industrial
+user at the User's expense shall have all recording and totalizing equipment
+inspected, tested and calibrated annually by an outside accredited and
+certified testing company. The city shall be provided with a certified copy of
+the annual report and certificate of calibration. Should the Industrial user
+fail to provide the annual report and certificate of calibration, the User will
+be subject to suspension from self-reporting monthly discharge quantities and
+revert to metered water supply quantities. The Industrial user shall report
+monthly flows as set forth in §
+51.36 (G).
+(Am. Ord. 8781, passed 1-17-12; Am. Ord. 9548, passed 7-15-25)  
 Penalty, see § 51.99
 § 51.26 LABORATORY ANALYSIS OF WATERS AND WASTES.
    (A)   The owner of any property serviced by a building sewer carrying
@@ -9916,9 +9983,24 @@ fee of $5.00 for each month or part of a month that the same is unpaid in whole
 or in part. All payments made on a delinquent bill shall be applied first to
 the cumulative late payment fees attributable to that bill and next to the
 amount of the original bill.
+   (G)   Industrial users with an installed discharge flow flume with a
+recording and totalizing equipment vs. metered water supply for total monthly
+flows per §
+51.25 (B) shall self-report the prior month daily flows in gallons to the Duty
+Comptroller or designee within the Finance Department by the 15th day of the
+month. Billing for self-report monthly flows will be calculated for industrial
+per §
+51.35 . Failure to self-report current monthly flows by the 15th of each month
+shall bear a late payment fee of 1% of their bill or $50 (whichever is greater)
+for each month's delinquent in reporting. After three delinquent self-reports
+within the reporting year, the Industrial user shall be suspended from the
+program for a year from the date of the last delinquent report and revert to
+metered water supply quantities. All payments made on a delinquent basis shall
+be applied first to the cumulative late payment fees attributable to that bill
+and next to the amount of the next original bill.
 (Ord. 8605, passed 9-16-08; Am. Ord. 8626, passed 2-3-09; Am. Ord. 8781, passed
-1-17-12; Am. Ord. 9212, passed 8-6-19; Am. Ord. 9290, passed 11-3-20) Penalty,
-see §
+1-17-12; Am. Ord. 9212, passed 8-6-19; Am. Ord. 9290, passed 11-3-20; Am. Ord.
+9548, passed 7-15-25)  Penalty, see §
 51.99
 § 51.37 DELINQUENT BILLS; LIEN.
    (A)   If the charges for sewer services become delinquent, such services may
@@ -22947,7 +23029,7 @@ Chapter
    
 93.   GARBAGE, SOLID WASTE, WEEDS, NUISANCES AND LITTERING
    
-94.   RESERVED
+94.   PUBLIC CAMPING
    
 95.   HUMAN RELATIONS
    
@@ -25267,7 +25349,292 @@ court proceeding and reasonable attorney's fees.
 (Ord. 7334, passed 6-7-88; amend. Ord. 7599, passed 9-1-92; amend. Ord. 7700,
 passed 5-3-94; amend. Ord. 8211, passed 11-20-01; amend. Ord. 8381, passed 9-7-
 04; amend. Ord. 8688, passed 2-16-10)
-CHAPTER 94: RESERVED
+CHAPTER 94: PUBLIC CAMPING
+Section
+   
+94.01   Recitals
+   
+94.02   Incorporation of recitals
+   
+94.03   Public camping as a nuisance
+   
+94.04   Regulation of public camping necessary to promote public health
+   
+94.05   Definitions
+   
+94.06   Public camping prohibited
+   
+94.07   Exceptions to prohibition
+   
+94.08   Removal of campsite
+   
+94.09   Disposition and release of personal property
+   
+94.10   Penalty; mitigation
+   
+94.11   Repeal of conflicting provisions
+   
+94.12   Severability
+§ 94.01 RECITALS.
+   (A)   Whereas, estimates provide that, in 2020, there were approximately
+10,431 Illinoisans experiencing homelessness. ILL. OFF. TO PREVENT & END
+HOMELESSNESS, ILL. DEP'T HUM. SERVS., HOME ILLINOIS: ILLINOIS' PLAN TO PREVENT
+AND END HOMELESSNESS (2022), available at https://perma.cc/QV8K-3XGK; and,
+   (B)   Whereas, a 2022 study by the United States (U.S.) Department of
+Housing and Urban Development estimated that 9,212 people were experiencing
+homelessness in Illinois in January 2022, with an estimated 20.6% of those
+homeless persons being unsheltered, meaning they have no form of shelter on
+which to rely. OFF. POL'Y DEV. & RSCH., U.S. DEP'T HOUS.& URB. DEV., PIT
+ESTIMATES OF HOMELESSNESS IN THE U.S. (2022), available at https://
+www.huduser.gov/portal/sites/default/ files/xls/2007-2022-PIT-Counts-by-
+State.xlsx ; and,
+   (C)   Whereas, the estimates provided by the U.S. Department of Housing and
+Urban Development "likely underestimate the size of the homeless population
+because identifying people experiencing homelessness is inherently difficult."
+U.S. Gov'T ACCOUNTABILITY OFF., GA0-20-433, HOMELESSNESS: BETTER HUD OVERSIGHT
+OF DATA COLLECTION COULD IMPROVE ESTIMATES OF HOMELESS POPULATION (2020),
+available at https://perma.cc/7ZUQ-U5CE.
+   (D)   Whereas, the American Public Health Association has recognized
+homelessness as a public health issue, since research shows that homeless
+individuals (l) suffer "higher mortality rates and chronic disease loads" than
+non-homeless populations; (2) "overuse emergency services, leading to higher
+costs for treatment" for all persons; and, (3) with no form of shelter "can
+exacerbate conditions such as diabetes and hepatitis C .... " Housing and
+Homelessness as a Public Health Issue, Am. Pub. Health Ass'n (Nov. 7, 2017),
+https://www.apha.org/policies-andadvocacy/ public-health-policy-statements/
+policy- database/2018/0l/18/housing-and- homelessness- as-a-public-health-
+issue; see also Bernard Beall et al., Invasive Pneumococcal Disease Clusters
+Disproportionally Impact Persons Experiencing Homelessness, Injecting Drug
+Users, and the Western United States, 226 J. Infectious Diseases 332 (2022),
+available at https://doi.org/10.1093/infdis/jiac058. (finding that "invasive
+pneumococcal disease" was "disproportionally represented" in the homeless
+population when compared against populations not experiencing homelessness);
+and,
+   (E)   Whereas, the U.S. Interagency Council on Homelessness has noted that
+people "who experience homelessness die nearly 30 years earlier than the
+average American- and often from easily treatable illnesses." Homelessness Data
+& Trends, U.S. INTERAGENCY COUNCIL ON HOMELESSNESS, https://www.usich.gov/
+guidance- reports-data/data-trends (last visited July 15, 2024); and,
+   (F)   Whereas, the City of Danville, Illinois is a Home Rule Illinois
+municipality pursuant to the Constitution of the State of Illinois of 1970, as
+amended; and,
+   (G)   Whereas, pursuant to Section 1-1-4 of the Illinois Municipal Code (65
+ILCS 5/1-1-4), the City of Danville has those powers conferred upon it by the
+Illinois Municipal Code; and,
+   (H)   Whereas, the Section 1-2-1 of the Illinois Municipal Code (65 ILCS 5/
+1-2-1), provides that the corporate authorities of each municipality may pass
+all ordinances and make all rules and regulations proper or necessary, to carry
+into effect the powers granted to municipalities, with such fines or penalties
+as may be deemed proper; and,
+   (I)   Whereas, Section 1-2-1.1 of the Illinois Municipal Code (65 ILCS 5/1-
+2-1.1) empowers the corporate authorities of the municipality to pass
+ordinances to regulate any matter that is expressly within the powers granted
+to the municipality by making the violation a misdemeanor punishable by up to
+six months of incarceration; and,
+   (J)   Whereas, Section 1-1-10 of the Illinois Municipal Code (65 ILCS 5/1-1-
+10) empowers the corporate authorities of the municipality to exercise all
+powers granted to it expressly, by necessity, by the Illinois Municipal Code,
+by Illinois statute, or by the Illinois Constitution; and,
+   (K)   Whereas, Section 11-20-5 of the Illinois Municipal Code (65 ILCS 5/11-
+20-5) empowers the corporate authorities of each municipality to "do all acts
+and make all regulations which may be necessary or expedient for the promotion
+of health or the suppression of diseases"; and,
+   (L)   Whereas, Section 11-60-2 of the Illinois Municipal Code (65 ILCS 5/11-
+60-2) empowers the corporate authorities of each municipality to define,
+prevent and abate nuisances; and,
+   (M)   Whereas, Section 3-102 of the Local Governmental and Governmental
+Employees Tort Immunity Act (745 ILCS 10/3-102) obligates the city to "exercise
+ordinary care to maintain public property in a reasonably safe condition." Bubb
+v. Springfield Sch. Dist. 186, 167 Ill. 2d 372, 377 (1995) (citing 745 ILCS 10/
+3-102); and,
+   (N)   Whereas, the Local Governmental and Governmental Employees Tort
+Immunity Act generally immunizes municipalities from damages claims where the
+public property was not being used in the manner intended and permitted by the
+municipality. See Wojdyla v. City of Park Ridge, 148 Ill. 2d 417, 421-22 (1992)
+(quoting 745 ILCS 10/3-102(a)) ("Thus, for a pedestrian to be protected in the
+present circumstances by the statute, he must be an intended and permitted user
+of the property under the control of the city."); and,
+   (O)   Whereas, in City of Grants Pass, Oregon v. Johnson, 603 U.S. 520, 144
+S. Ct. 2202 (2024), the United States Supreme Court held that the
+criminalization of "public camping", as defined in the City of Grants Pass's
+ordinance, did not unconstitutionally infringe on the Eighth Amendment rights
+of homeless and otherwise unhoused persons within said city; and,
+   (P)   Whereas, in Johnson, the United States Supreme Court acknowledged that
+homelessness is a "complex and serious social issue" whose "causes are many"
+and which "cries out for effective responses" to combat it. Johnson, 603 U.S.
+520, slip op. at 10, 34; and,
+   (Q)   Whereas, in Johnson, the United States Supreme Court relied heavily on
+the "stepwise" escalation of penalties in Grants Pass's ordinance to uphold its
+constitutionality. Id. at 11, 16-17; and,
+   (R)   Whereas, in view of the foregoing, the City Council believe that it is
+appropriate, necessary and in the best interests of the city and its residents,
+that the city implement a Public Camping Prohibition and related enforcement
+mechanisms, to address the myriad public concerns that public camping creates.
+   (S)   Now, therefore, be it ordained, by the City Council of the City of
+Danville, Illinois as follows:
+(Ord. 9541, passed 6-3-25)
+§ 94.02 INCORPORATION OF RECITALS.
+   The foregoing recitals shall be and are hereby incorporated as findings of
+fact as if said recitals were fully set forth herein.
+(Ord. 9541, passed 6-3-25)
+§ 94.03 PUBLIC CAMPING AS NUISANCE.
+   Public Camping, as the term is defined herein, is hereby declared to be a
+nuisance within the city for the reasons identified above.
+(Ord. 9541, passed 6-3-25)
+§ 94.04 REGULATION OF PUBLIC CAMPING NECESSARY TO PROMOTE PUBLIC HEALTH.
+   In an effort to address the public health concerns identified above, the
+City Council hereby declare it necessary or expedient for the promotion of
+health or the suppression of diseases, to regulate Public Camping, as that term
+is defined herein, within the city's corporate limits.
+(Ord. 9541, passed 6-3-25)
+§ 94.05 DEFINITIONS.
+   "BEDDING." A sleeping bag, or any other material, used for bedding purposes.
+   "CAMPSITE." Any physical space that is not within an established structure,
+where Bedding or any stove or fire is placed, established or maintained for the
+purpose of maintaining a temporary place to live, whether or not such place
+incorporates the use of any tent, lean-to, shack or any other structure, or any
+vehicle or part thereof.
+   "EXEMPT PERSONAL PROPERTY." Items which would otherwise constitute Personal
+Property under the terms of this chapter, but which (i) has no apparent utility
+or monetary value; (ii) Personal Property which is unsanitary to store or
+otherwise maintain; (iii) any weapon possessed illegally; (iv) drug
+paraphernalia; (v) items appearing to be stolen or otherwise appearing to be
+evidence of a crime; (vi) items which the person cannot demonstrate the
+requisite lawful authority to possess; and, (vii) any items of food which can
+reasonably be expected to spoil or otherwise perish within the next 30 days.
+   "PERSONAL PROPERTY." Any item reasonably recognizable as belonging to a
+person and having apparent utility or monetary value, except for Exempt
+Personal Property.
+   "PUBLIC CAMPING." To cause or participate in the establishment of, or the
+act of remaining in or at, a Campsite.
+(Ord. 9541, passed 6-3-25)
+§ 94.06 PUBLIC CAMPING PROHIBITED.
+   (A)   No person may sleep, nor otherwise engage in Public Camping, on a
+public sidewalk, street, alley, lane, other public right-of-way, park, bench,
+or any other publicly-owned property, nor on or under any bridge or viaduct, at
+any time.
+   (B)   No person may sleep, nor otherwise engage in Public Camping, in any
+pedestrian or vehicular entrance to public or private property abutting a
+public right-of-way.
+   (C)   No person may sleep, nor otherwise engage in Public Camping, on any
+real property owned or otherwise maintained by the city.
+   (D)   No person may park a vehicle overnight within the city for the purpose
+of sleeping or otherwise engaging in Public Camping in said vehicle.
+   (E)   For the purposes of this section, the act of parking or leaving a
+vehicle parked for two consecutive hours, and/or remaining within a public
+vehicle on any property under the jurisdiction of the city for the purpose of
+Public Camping, for two consecutive hours without permission from the City
+Council, between the hours of midnight and 6:00 a.m., shall be considered a
+violation of this chapter.
+(Ord. 9541, passed 6-3-25)
+§ 94.07 EXCEPTIONS TO PROHIBITION.
+   Notwithstanding the foregoing, it shall not be a violation to engage in
+Public Camping when done (i) in a manner specifically authorized by this code;
+(ii) after a formal declaration of the city in emergency circumstances; or,
+(iii) upon resolution of the City Council, the same may exempt a special event
+from the prohibitions of this section, if the City Council finds such exemption
+to be in the public interest and consistent with the goals and objectives of
+the City Council, and with such conditions imposed as the City Council deems
+necessary. Any conditions imposed will include a condition requiring that the
+applicant provide evidence of adequate insurance coverage and agree to
+indemnify the city for any liability, damage or expense incurred by the city as
+a result of the activities of the applicant. Any findings by the City Council
+shall specify the exact dates and location covered by the exemption.
+(Ord. 9541, passed 6-3-25)
+§ 94.08 REMOVAL OF CAMPSITE.
+   Removal of a Campsite in violation of this chapter may occur under the
+following circumstances:
+   (A)   Prior to removing a Campsite, the city shall post a notice, 24-hours
+in advance of the removal, unless immediate removal of the Campsite is deemed
+to be necessary for one of the reasons in divisions (A)(1)-(4), below. If such
+immediate removal is undertaken, the basis for causing the immediate removal of
+such Campsite should be adequately documented by the appropriate person(s).
+      (1)   Immediate removal of the Campsite is necessary to maintain access
+to a property;
+      (2)   Immediate removal of the Campsite is necessary to maintain the
+sanitary condition of a property;
+      (3)   Immediate removal of the Campsite is necessary because the Campsite
+is an obstruction to any public right-of-way; or,
+      (4)   Immediate removal of the Campsite is necessary because the Campsite
+poses a risk to the health and safety of the city and its residents.
+   (B)   Upon any action pursuant to division (A) above, the person causing
+such action to be taken shall inform an appropriate agency delivering social
+services to homeless individuals in the city, of the location of the Campsite
+and the persons found to be in violation of this chapter, so said agency may
+determine whether or not it would be appropriate to offer its services to those
+persons.
+   (C)   If a 24-hour notice has been posted, and the 24-hour notice period has
+passed, then the Campsite, as well as all Personal Property thereon, shall be
+removed by the appropriate person(s) acting on behalf of the city.
+   (D)   No portion of this section shall be construed to prohibit any person
+found to be engaging in Public Camping from removing their Personal Property
+from the Campsite; however, such Personal Property that constitutes Exempt
+Personal Property and which a reasonably prudent law enforcement officer,
+exercising the applicable constitutional standard, would conclude that said
+Exempt Personal Property constitutes items appearing to be stolen or otherwise
+appearing to be evidence of a crime, and/or items which the person cannot
+demonstrate the requisite lawful authority to possess, may be retained and
+stored as evidence.
+(Ord. 9541, passed 6-3-25)
+§ 94.09 DISPOSITION AND RELEASE OF PERSONAL PROPERTY.
+   (A)   All Personal Property removed from any Campsite which is not Exempt
+Personal Property shall be stored by the appropriate law enforcement agency of
+the city, for a minimum of 30 days, during which time it shall be reasonably
+available for and released to an individual confirming ownership.
+   (B)   All Exempt Personal Property may be disposed of or retained as
+evidence by the appropriate law enforcement agency of the City.
+(Ord. 9541, passed 6-3-25)
+§ 94.10 PENALTY; MITIGATION.
+   (A)   The penalty for any person's first violation of this chapter within a
+rolling 24 month period shall be $75.
+   (B)   The penalty for any person's second violation of this chapter within a
+rolling 24 month period shall be $150.
+   (C)   The penalty for any person's third violation of this chapter within a
+rolling 24 month period shall be $350.
+   (D)   The penalty for any person's fourth violation of this chapter within a
+rolling 24 month period shall be $500.
+   (E)   The penalty for any person's fifth violation of this chapter within a
+rolling 24 month period shall be $750.
+   (F)   The penalty for any person's sixth or subsequent violation of this
+chapter within a rolling 24 month period may be a monetary penalty of $750 or
+incarceration for a period not exceeding the maximum time allowed pursuant to
+Section 1-2-9 of the Illinois Municipal Code (65 ILCS 5/1-2-9).
+   (G)   As a substitute for any monetary penalty assessed pursuant to
+divisions (A)-(F), above, and if consented to by the city, the penalty assessed
+to any person found in violation of this chapter may be that said person must
+engage in public service by cleaning the rights-of-way and other public
+facilities of the City for an amount of time that, if the person found to have
+violated this chapter was being paid the minimum wage under Illinois law, the
+amount paid for that person's labors would have been equal to the monetary
+penalty assessed under this chapter.
+   (H)   The city is hereby empowered to exercise all powers afforded to it, at
+law or in equity, to collect any fines assessed against a person pursuant to
+this chapter, including but not limited to seeking incarceration of said person
+for a period of time that conforms with Section 1-2-9 of the Illinois Municipal
+Code (65 ILCS 5/1-2-9).
+   (I)   In the imposition of any penalty pursuant to this section, the penalty
+shall be mitigated by whether or not the person immediately removed all
+Personal Property and litter, including but not limited to bottles, cans, and
+garbage, from the Campsite after the person was informed that the person was in
+violation of this chapter.
+   (J)   A separate offense of this chapter shall be deemed committed on each
+day on which a violation occurs or continues.
+   (K)   In addition to any other remedy provided by law or this chapter, any
+person found in violation of this section may be immediately removed from the
+premises where the Campsite is located.
+(Ord. 9541, passed 6-3-25)
+§ 94.11 REPEAL OF CONFLICTING PROVISIONS.
+   All ordinances, resolutions and policies or parts thereof, in conflict with
+the provisions of this chapter are, to the extent of the conflict, expressly
+repealed on the effective date of this chapter.
+(Ord. 9541, passed 6-3-25)
+§ 94.12 SEVERABILITY.
+   If any provision of this chapter or application thereof to any person or
+circumstances is ruled unconstitutional or otherwise invalid, such invalidity
+shall not affect other provisions or applications of this chapter that can be
+given effect without the invalid application or provision, and each invalid
+provision or invalid application of this chapter is severable.
+(Ord. 9541, passed 6-3-25)
 CHAPTER 95: HUMAN RELATIONS
 Section
 General Provisions
@@ -31773,9 +32140,16 @@ violation of the Illinois Drug Paraphernalia Control Act, ILCS Ch. 720, Act 600
 Chapter 139 of the Danville City Code, pertaining to possession of drug
 paraphernalia.
       (13)   The driver of the vehicle commits a violation of the Illinois
-Motor Vehicle Code, ILCS Ch. 625, Act 5 § 11-501, entitled Driving Under the
+Motor Vehicle Code, ILCS Ch. 625, Act 5 § 11- 501, entitled Driving Under the
 Influence of Alcohol, Other Drug or Drugs, Intoxicating Compound or Compounds
 or Any Combination Thereof.
+      (14)   The driver or any other person in possession of a motor vehicle
+commits a violation of the Illinois Vehicle Code 625 ILCS 5/11-503 titled,
+Reckless Driving; and
+      (15)   The driver or any other person in possession of a motor vehicle
+commits a violation of Illinois Criminal Code 720 ILCS 5/16-25 titled Retail
+Theft or Danville City Code §
+132.20.
    (B)   The penalties provided in this chapter shall be in addition to any
 penalties which may be imposed against the driver or other persons within the
 motor vehicle pursuant to any other City ordinance or state law.
@@ -31788,7 +32162,7 @@ pedalcycles, as defined in
 (Ord. 8269, passed 9-3-02; Am. Ord. 8340, passed 2-3-04; Am. Ord. 8351, passed
 4-20-04; Am. Ord. 8462, passed 12-6-05; Am. Ord. 8689, passed 3-2-10; Am. Ord.
 8764, passed 12-6-11; Am. Ord. 9219, passed 9-3-19; Am. Ord. 9236, passed 12-
-17-19)
+17-19; Am. Ord. 9553, passed 9-2-25)
 Editor’s note:
    ILCS Ch. 720, Act 5, § 11-15 was repealed by P.A. 96-1551
 § 103.02 EXCEPTIONS.
@@ -44907,11 +45281,9 @@ cause damage to these other properties.
 sustainable growth, the following regulations shall apply to development along
 the North Bowman Ave. and West Newell Rd. corridors, notwithstanding any
 requirements herein to the contrary.
-   (A)   Any new non-residential use must be adjoining an existing legal non-
-residential use.
-   (B)   Any new non-residential use shall be required to utilize both public
+   (A)   Any new non-residential use shall be required to utilize both public
 sanitary sewers and public water.
-(Ord. 8612, passed 12-2-08)
+(Ord. 8612, passed 12-2-08; Am. Ord 9546, passed 7-15-25)
 § 150.074 DEVELOPMENT IN THE LAKE VERMILION WATERSHED.
    In accordance with the City's general desire to preserve and protect a
 healthy drinking water supply, the following regulations shall apply within
@@ -47017,7 +47389,8 @@ Design Compatibility Review - $50
 Minor Variance - $50
 Major Variance - $125
 Appeal - $75
-(Ord. 8612, passed 12-2-08)
+Zoning Compliance/Verification Letter - $125
+(Ord. 8612, passed 12-2-08; Am. Ord. 9544, passed 7-15-25)
 § 150.190 VIOLATIONS.
    (A)   No person shall erect, construct, alter, use, maintain or allow any
 building, lot, or parcel of land to be used or maintained in violation of this
@@ -47996,16 +48369,16 @@ requirements for the R-2 District (single family dwellings) or the R-3 District
    e.   50 feet when abutting a residential zoning district.
 (Ord. 8612, passed 12-2-08)
 APPENDIX C: ILLUSTRATIONS
-[https://export.amlegal.com/media/ea7f76f34c2f5b698c3512c7500be6caeebe034b/
+[https://export.amlegal.com/media/791f782a756627f76800794c7a901c48c8759006/
 IMAGES/0-0-0-7367.jpg]
  
-[https://export.amlegal.com/media/ea7f76f34c2f5b698c3512c7500be6caeebe034b/
+[https://export.amlegal.com/media/791f782a756627f76800794c7a901c48c8759006/
 IMAGES/0-0-0-7370.jpg]
  
-[https://export.amlegal.com/media/ea7f76f34c2f5b698c3512c7500be6caeebe034b/
+[https://export.amlegal.com/media/791f782a756627f76800794c7a901c48c8759006/
 IMAGES/0-0-0-7373.jpg]
  
-[https://export.amlegal.com/media/ea7f76f34c2f5b698c3512c7500be6caeebe034b/
+[https://export.amlegal.com/media/791f782a756627f76800794c7a901c48c8759006/
 IMAGES/0-0-0-7376.jpg]
  
 (Ord. 8612, passed 12-2-08)
@@ -49890,11 +50263,17 @@ Industrial, and AG-1, Agriculture Zoning District as a principal use on a lot.
 § 155.004 DESIGN STANDARDS FOR COMMERCIAL SOLAR ENERGY FACILITIES.
    (A)   Foundations. The manufacturer's engineer or another qualified engineer
 shall certify that the foundation and design of the solar panels is within
-accepted professional standards, given local soil and climate conditions.
+accepted professional standards, given local soil and climate conditions. (This
+division shall not be enforceable for Solar Energy Facility/System outside of
+City of Danville Limits as defined in 65 ILCS 5/11-13-1. Any provisions of this
+state statute shall be enforced at the time of passage.)
    (B)   Building codes. All commercial solar energy facilities be in
 compliance with any applicant local, state and federal regulatory standards,
 and the National Electric Code as amended. All materials shall be federally
-sourced and manufactured.
+sourced and manufactured. (This division shall not be enforceable for Solar
+Energy Facility/System outside of City of Danville Limits as defined in 65 ILCS
+5/11-13-1. Any provisions of this state statute shall be enforced at the time
+of passage.)
    (C)   Power and communication line. Power and communication lines running
 between banks of solar panels and to electric substations or interconnections
 with buildings shall be buried underground. Exemptions or variances may be
@@ -49950,14 +50329,18 @@ energy system shall be certified to meet the US EPA Toxicity Characteristic
 Leaching Procedure Standards (TCLP). Disposal of solar panels after replacement
 or abandonment shall follow Federal Resource Conservation and Recovery Act
 requirements where applicable.
-(Ord. 9527, passed 2-18-25; Am. Ord. 9531, passed 2-18-25)
+(Ord. 9527, passed 2-18-25; Am. Ord. 9531, passed 2-18-25; Am. Ord. 9556,
+passed 11-18-25)
 § 155.005 BUILDING PERMIT REQUIREMENTS.
    The Commercial Solar Energy Facility/system shall require a building permit
 and shall be subject to the procedures and standards included in this Chapter.
 Actual construction must start on a site within two years of application
 approval by the City of Danville Community Development Division or such permits
 will no longer be valid. It is the responsibility of the facility owner or
-operator to provide the City with proof of actual construction.
+operator to provide the City with proof of actual construction. (This division
+shall not be enforceable for Solar Energy Facility/System outside of City of
+Danville Limits as defined in 65 ILCS 5/11-13-1. Any provisions of this state
+statute shall be enforced at the time of passage.)
    (A)   Application documents.
       (1)   Site plans.
       (2)   Impacts of views analysis.
@@ -49965,7 +50348,10 @@ operator to provide the City with proof of actual construction.
       (4)   Noise study.
       (5)   Visualization.
       (6)    Vegetative/landscaping management plan.
-      (7)   Stormwater management plan.
+      (7)   Stormwater management plan. (This division shall not be enforceable
+for Solar Energy Facility/System outside of City of Danville Limits as defined
+in 65 ILCS 5/11-13-1. Any provisions of this state statute shall be enforced at
+the time of passage.)
       (8)   Property value study.
       (9)    Deconstruct/decommission plan and cost estimates.
       (10)   Interconnection agreement/application with the utility company.
@@ -49990,7 +50376,8 @@ Code as amended from time to time.
       (5)   Carbon emission.
       (6)   Impacts on adjacent properties- promote public safety, noise and
 glare reduction.
-(Ord. 9527, passed 2-18-25; Am. Ord. 9531, passed 2-18-25)
+(Ord. 9527, passed 2-18-25; Am. Ord. 9531, passed 2-18-25; Am. Ord. 9556,
+passed 11-18-25)
 § 155.006 ABANDONMENT.
    Any ground mounted solar energy system that is no longer being utilized as
 such shall be disassembled and removed by the facility owner or operator within
@@ -55021,7 +55408,7 @@ replat, planned unit development (PUD) or manufactured home park site plan.
 Stormwater management regulations are applicable if conditions are met in the
 following flowchart.
    (B)   Flow Chart.
-[https://export.amlegal.com/media/ea7f76f34c2f5b698c3512c7500be6caeebe034b/
+[https://export.amlegal.com/media/791f782a756627f76800794c7a901c48c8759006/
 IMAGES/0-0-0-8079.jpg]
  
    (C)   Affidavit of applicability; permits.
@@ -60281,6 +60668,9 @@ No.  Passed
      25
 9529 2-18-  Approving the purchase of real estate, being 125 N. Vermilion Street.
      25
+9547 7-15-  Approving the purchase of real estate, being 115 N. Washington Avenue.
+     25
+9550 8-5-25 Approving the purchase of real estate, being 8 Pine Street.
            
  
 TABLE IV. VACATIONS
@@ -60821,6 +61211,16 @@ No.  Passed
      24
 9508 11-19- Vacating an alley, or part thereof, at 7 Wisconsin Avenue.
      24
+9542 6-17-  Vacating an alley, or part thereof, at 419 and 501 Bensyl Avenue.
+     25
+9543 6-17-  Vacating an alley, or part thereof, at 110 Orchard Street.
+     25
+9551 8-19-  Vacating an alley, or part thereof, at 1335 W. Williams Street and Lots 42, 43,
+     25     44, 45, 46, 47, 48, 49, 50, 51 B4 of Hope Dale Addition.
+9552 8-19-  Vacating an alley, or part thereof, at Lots 1 through 6 of the W E Russells
+     25     First Addition.
+9554 9-16-  Vacating an alley, or part thereof, at 106 Commercial Street.
+     25
            
  
 TABLE V. ZONING CHANGES
@@ -61838,6 +62238,8 @@ No.  Passed
      1-21-  Rezoning property known as 924–938 N. Gilbert Street and 921–939 and 924–936
 9526 25     Robinson Street from R2 Single Family Residential - Medium Density to B3 General
             Business.
+9545 7-15-  Rezoning property known as PIN#s 18-09-400-004, 18-10- 300-005, and 18-16-200-014
+     25     from AG Agriculture to I2 General Industrial.
            
  
 TABLE VI. CONTRACTS
@@ -61975,11 +62377,16 @@ Ch. 55, Act 5   5-1127                   70.001
 Ch. 65                                  36.09,
                                          150.002
 Act 5           1-1-2 et seq.            41.04
-               1-2-1                    157.01
+               1-1-4                    94.01
+               1-1-10                   94.01
+               1-2-1                    94.01 ,
+                                         157.01
+               1-2-1.1                  94.01
                1-2-2                    10.19
                1-2-5                    10.16,
                                          10.17
                1-2-6                    10.18
+               1-2-9                    94.10
                1-2.1-1 et seq.          42.01
                3.1-30-20                34.31
                3.1-55-10                30.29
@@ -62014,7 +62421,10 @@ Act 5           1-1-2 et seq.            41.04
                11-12-5                  168.01
                11-12-12                 157.01
                11-13-1 et seq.          33.01
+               11-13-1                  155.004 ,
+                                         155.005
                11-15.1 et seq.          41.04
+               11-20-5                  94.01
                11-20-6                  93.14
                11-20-9                  90.02,
                                          90.17
@@ -62026,7 +62436,8 @@ Act 5           1-1-2 et seq.            41.04
                11-40-3.1                76.002
                11-42-1                  112.02
                11-42-11.05              125.06
-               11-60-2                  101.02
+               11-60-2                  94.01 ,
+                                         101.02
                11-76-1 - 11-76-3        30.07
                11-76.1-1 - 11-76.1-4    30.07
                11-80-7                  Ch. 50
@@ -62356,7 +62767,8 @@ Act 5           1-101 et seq.            74.100
                11-501.1                 70.033,
                                          75.006
                11-502                   75.003
-               11-503                   75.004
+               11-503                   75.004 ,
+                                         103.01
                11-506                   75.005
                11-601                   71.001
                11-605                   71.002
@@ -62619,7 +63031,8 @@ Act 5           2-2                      130.01
                16-5                     132.07
                16-6                     132.08
                16-14                    141.01
-               16-25                    132.20
+               16-25                    103.01 ,
+                                         132.20
                16-26                    132.21
                16-30                    141.01
                17-0.5                136.01
@@ -62682,6 +63095,9 @@ Act 5           3-101 et seq.            33.72,
                7-101 et seq. (Repealed) 38.02
                7-108 (Repealed)         38.07
                7-123 (Repealed)         38.10
+Ch. 745,                                 
+Act. 10         3-102                    94.01
+               3-102(a)                 94.01
 Ch. 765,                                 
 Act. 201        1 et seq.                161.02
 Act. 205        1 et seq.                161.01,
@@ -66695,5 +67111,25 @@ ORD. NO. DATE PASSED CODE SEC.
 9539     5-20-25     T.S.O. I
 9540     6-3-25      92.01,
                      92.02
+9541     6-3-25      94.01 -
+                     94.12
+9542     6-17-25     T.S.O. IV
+9543     6-17-25     T.S.O. IV
+9544     7-15-25     150.189
+9545     7-15-25     T.S.O. V
+9546     7-15-25     150.073
+9547     7-15-25     T.S.O. III
+                     51.01,
+9548     7-15-25     51.25,
+                     51.36
+9549     7-15-25     39.07
+9550     8-5-25      T.S.O. III
+9551     8-19-25     T.S.O. IV
+9552     8-19-25     T.S.O. IV
+9553     9-2-25      103.01
+9554     9-16-25     T.S.O. IV
+9556     11-18-25    155.004,
+                     155.005
+9557     12-2-25     Adopting Ordinance
                     
  
