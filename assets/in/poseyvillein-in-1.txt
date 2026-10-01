@@ -1,7 +1,8 @@
 TOWN OF POSEYVILLE, INDIANA
 CODE OF ORDINANCES
-Current through 2025-05-13-01
-passed on 5-13-2025
+2026 S-1 Supplement contains:
+Local legislation current through Ord. 2025-10-15-01, passed 10-15-2025
+State legislation current through 2026 ALS Pamphlet #3
  
 Published by:
 AMERICAN LEGAL PUBLISHING
@@ -337,6 +338,9 @@ Department of Economic Development
 31.15   Establishment and composition
    
 31.16   Revenue bond application fees
+Fire Department
+   
+31.30   Mitigation rates for deployment of emergency and non-emergency services
 **** GENERAL PROVISIONS ****
 § 31.01 POSITIONS COVERED BY A BLANKET BOND.
    The bond covering the positions of Town Marshal, Deputy Marshal(s), and
@@ -389,6 +393,31 @@ $10,000 per issue for a single project issue. The fee shall apply to each issue
 for a single project issue. If a bond is issued in phases, the fee shall apply
 to each phase.
 (Ord. 1997-6-11-1, passed 6-11-1997)
+****    FIRE DEPARTMENT ****
+§ 31.30 MITIGATION RATES FOR DEPLOYMENT OF EMERGENCY AND NON-EMERGENCY
+SERVICES.
+   (A)   The Volunteer Fire Department shall initiate mitigation rates for the
+delivery of emergency and non-emergency services by the Fire Department for
+personnel, supplies and equipment to the scene of emergency and non-emergency
+incidents as listed in Exhibit A of Ordinance 2025-06-17-06. The mitigation
+rates shall be based on actual costs of the services and that which is usual,
+customary and reasonable (UCR) as shown in Exhibit A of Ordinance 2025-06-17-
+06, which may include any services, personnel, supplies, and equipment and with
+baselines established by addendum to Exhibit A of Ordinance 2025-06-17-06.
+   (B)   A claim shall be filed to the responsible party(s) through their
+insurance carrier. In some circumstances, the responsible party(s) will be
+billed directly.
+   (C)   The Fire Department's Town Council may make rules or regulations and
+from time to time may amend, revoke, or add rules and regulations, not
+consistent with this section, as they may deem necessary or expedient in
+respect to billing for these mitigation rates or the collection thereof.
+   (D)   The mitigation rates lists in Exhibit A of Ordinance 2025-06-17-06
+will increase annually based on the annual percentage increase in the consumer
+price index (CPI), as developed by the Bureau of Labor Statistics of the U.S.
+Department of Labor. Rate adjustments will occur on the anniversary date of
+this section to keep the Fire Department's cost recovery program in conformity
+with increasing operating expenses.
+(Ord. 2025-06-17-06, passed 6-17-2025)
 CHAPTER 32: TOWN POLICIES
 Section
    
@@ -484,17 +513,17 @@ consistent with, the said internal control standards.
 (Ord. 2016-05-11-01, passed 5-11-2016)
 § 33.04 FIXED CAPITALIZATION POLICY.
    (A)   Purpose. The Capitalization Ordinance aims to establish guidelines for
-classifying and recording capital assets in compliance with the State Board of
-Accounts (SBOA) requirements and Generally Accepted Accounting Principles
+classifying and recording capital assets in compliance with Indiana State Board
+of Accounts (SBOA) requirements and Generally Accepted Accounting Principles
 (GAAP). Ordinance 2025-04-08-01 replaces ordinances 2004-02-11-01 and 2022-12-
-13-02.
+13- 02.
    (B)   Capital asset definition. CAPITAL ASSETS include land, buildings,
 infrastructure, equipment, and improvements that:
-      (1)   Have an estimated useful life of more than one year; and
+      (1)   Have an estimated useful life of more than one year.
       (2)   Meet or exceed the capitalization threshold established in this
 policy.
    (C)   Capitalization thresholds. To ensure consistency and accountability,
-the town will capitalize assets based on the following thresholds.
+the town will capitalize assets based on the following thresholds:
  
 Asset Category Capitalization Threshold
 Buildings      $5,000
@@ -522,19 +551,19 @@ be used.
       (3)   Donated assets will be recorded at fair market value at the time of
 donation.
    (F)   Inventory and asset tracking.
-      (1)   The Clerk-Treasurer’s office will maintain an inventory of all
+      (1)   The Clerk-Treasurer's Office will maintain an inventory of all
 capital assets.
       (2)   An annual physical inventory of capital assets will be conducted,
 and records will be updated accordingly.
    (G)   Disposal of capital assets.
       (1)   Assets that are no longer useful will be disposed of in accordance
-with I.C. 5-22-22 and town policies.
+with I.C. 5- 22-22 and town policies.
       (2)   Proceeds from the sale of assets will be recorded as revenue in the
 appropriate fund.
    (H)   Compliance and review. This policy will be reviewed periodically to
 ensure compliance with state regulations and financial reporting requirements.
 Any amendments must be approved by the Town Council.
-(Ord. 2024-04-08-01, passed 4-8-2025)
+(Ord. 2024-04-08-01, passed 4-8-2025; Ord. 2025-05-13-01, passed 4-8-2025)
 § 33.05 PUBLIC SAFETY TAX.
    (A)   The County Income Tax Council previously imposed the local public
 safety tax on the county taxpayers. The local public safety tax was imposed at
@@ -795,13 +824,25 @@ CHAPTER 51: WATER
 Section
 General Provisions
    
-51.01   Connection required
+51.01   Definitions
    
-51.02   Water leaks
+51.02   Service connection and installation
    
-51.03   Water rates
+51.03   Private fire protection service
    
-51.04   Distributions to the Water Depreciation Fund
+51.04   Bulk water sales
+   
+51.05   Water usage standard billing, payment, reconnection, and penalties
+   
+51.06   Water rates
+   
+51.07   Water tap-in and installation fees
+   
+51.08   Water leak adjustments
+   
+51.09   Water shortage and allocation
+   
+51.10   Inspections and compliance
 Cross-Connections
    
 51.15   Responsibility
@@ -834,74 +875,393 @@ Cross-Connections
    
 51.99   Penalty
 **** GENERAL PROVISIONS ****
-§ 51.01 CONNECTION REQUIRED.
-   (A)   The owner of all houses, buildings, or properties situated within the
+§ 51.01 DEFINITIONS.
+   For the purpose of this subchapter, the following definitions apply unless
+the context clearly indicates or requires a different meaning.
+      COMMERCIAL USER. Any property or establishment engaged in the exchange or
+sale of goods or services, including but not limited to retail stores, offices,
+restaurants, hotels, service stations, daycare centers, and other
+nonresidential facilities operating for profit or general business purposes.
+      CROSS CONNECTION. Any actual or potential connection between the potable
+water system and any source of contamination or pollution.
+      CUSTOMER VALVE. A valve installed on the user's side of the meter to
+allow the user to turn the water supply on or off without affecting other
+customers or requiring access to the utility's valve.
+      GOVERNING BODY. A group of elected people that have the authority to
+exercise governance over an organization or political entity.
+      INDUSTRIAL USER. Any entity engaged in manufacturing, processing,
+fabrication, or other operations that discharge wastewater containing
+pollutants regulated by federal, state, or local pretreatment standards.
+Industrial users may be subject to additional reporting, sampling,
+pretreatment, and permit requirements based on the type and volume of
+wastewater discharged.
+      INSTITUTIONAL USER. Any facility operated by a public or private
+organization that provides public service or support functions. This includes
+schools, hospitals, nursing homes, churches, government buildings, and similar
+establishments. Sewer usage typically includes restroom and kitchen facilities,
+laundry services, and other activities associated with institutional functions.
+      METER. The device installed by the utility to measure water usage by the
+user.
+      RESIDENTIAL USER. Any individual, household, or property primarily used
+as a place of human habitation. This includes single- family homes, duplexes,
+mobile homes, and individual units within multi-family dwellings (such as
+apartments or condominiums) where water service is supplied for domestic
+purposes such as drinking, cooking, bathing, washing, and other typical
+household uses.
+      SERVICE LINE. The water line extending from the water meter/service valve
+to the dwelling or place of use.
+      SERVICE VALVE. A valve installed by the utility to control water flow to
+the user.
+      TAP-IN FEE. The one-time fee charged by the town to a new user for the
+privilege of connecting to the municipal water system.
+      TOWN. The Town of Poseyville, Indiana, including its agents, employees,
+and representatives acting within their authority.
+      USER. Any person, firm, corporation, or entity who receives water service
+from the town, whether as a property owner, tenant, or other occupant.
+      UTILITY OR WATER UTILITY. The Poseyville Municipal Utilities, or its
+successors, authorized to operate and maintain the town's water supply system.
+      VOLUNTARY UTILITY SHUT OFF. A temporary disconnection of utility services
+initiated at the request of the property owner or authorized account holder for
+reasons not related to delinquency or nonpayment. This typically applies to
+unoccupied rental properties, seasonal residences, vacation homes, or other
+situations where the premises will not require utility service for a specified
+period of time.
+(Ord. 2025-09-09-01, passed 9-9-2025)
+§ 51.02 SERVICE CONNECTION AND INSTALLATION.
+   (A)   All new connections must submit a formal request to the utility that
+includes the applicant's name, contact information, property address, intended
+use (residential or commercial), anticipated water needs, site plan (if
+applicable), and proof of ownership or lease.
+   (B)   All new users will be supplied with updated lead/copper information.
+   (C)   All users shall install and maintain a service line at their own
+expense, beginning at the water meter and extending to the point of use.
+   (D)   All users with a basement meter shall be responsible for piping from
+or at property line or service valve to the home.
+   (E)   The utility shall install a cutoff valve and water meter at a point
+adjacent to the property line, as agreed upon by both the user and the utility.
+   (F)   The utility retains exclusive rights to access, maintain, repair, and
+replace the service valve and meter.
+   (G)   The user shall execute an easement allowing the utility access to
+install and maintain the meter.
+   (H)   All new connections to install their own accessible customer valve on
+their side of the meter.
+   (I)   All users shall have the option to install a separate, non-sewered
+meter for outdoor water use such as lawn sprinkling, irrigation, or other
+similar purposes. Water usage recorded by the non-sewered meter shall not be
+subject to sewer charges. Installation and maintenance of such meters shall be
+at the user's expense and must comply with all applicable utility requirements
+and specifications.
+   (J)   All users must adhere to §
+51.16.
+   (K)   All users must adhere to §
+50.03.
+   (L)   The owner of all houses, buildings, or properties situated within the
 town corporate limits and abutting on any street, alley, or right-of- way in
 which there is now located water service is hereby required to be connected to
 the service.
-   (B)   No underground or surface water source shall provide water to any
+   (M)   No underground or surface water source shall provide water to any
 property located within town limits other than the water service provided by
 the town.
-(Ord. 2005-07-13-01, passed 7-13-2005) Penalty, see §
-51.99
-§ 51.02 WATER LEAKS.
-   (A)   Where, due to a sudden increase in water usage, a water leak is
-suspected, the customer and/or landowner should contact the Town Municipal
-Utility Office by the twenty-third of the month.
-   (B)   If the water leak is an underground leak only, the municipal utility
-shall not charge or bill the actual water usage pursuant to the meter reading,
-but rather shall average the customer’s bill using the immediate past three-
-month average, with the sewage being adjusted accordingly, provided that the
-customer furnishes a copy of the bill showing charges for the repair of the
-leak or signs a statement stating that the leak was repaired.
-   (C)   Commodes, water softeners, or other in-house leaks will not be
-considered eligible for leak adjustments.
-   (D)   If the suspected leak is not repaired within 30 days of notification,
-municipal utilities shall bill or charge according to the actual meter reading.
-(Ord. 2001-03-14-01, passed 3-14-2001)
-§ 51.03 WATER RATES.
-   (A)   The water usage schedule on which the amount of said rates and charges
-shall be determined is as follows.
-      (1)   Metered rates. Each metered customer shall pay a monthly charge
-based upon the quantity of water supplied by the water utility as metered in
-accordance with the following schedule.
+(Ord. 2025-09-09-01, passed 9-9-2025)
+§ 51.03 PRIVATE FIRE PROTECTION SERVICE.
+   (A)   The entire private fire protection service on a customer's premises
+shall be subject to inspection and tests by the utility at such times as it is
+deemed necessary.
+   (B)   Before any modifications are made to any private fire protection
+system or before service is furnished to any new private fire protection system
+connected to or proposed to be connected to and supplied with water from the
+utility's distribution mains, the owner of the private fire protection system,
+or his or her contractor or engineer, shall file final plans of such fire
+protection system with the utility and receive approval. The following shall be
+included in the final plans:
+      (1)   The number of sprinkler heads to be served;
+      (2)   The sizes and location of the system's piping;
+      (3)   The sizes and locations of all connections to the utility's
+distribution mains;
+      (4)   The sizes, locations and types of all valves;
+      (5)   The sizes and locations of all hose connections, reels and/or
+cabinets;
+      (6)   The sizes and locations of storage tanks connected to the fire
+system; and/or
+      (7)   The outlet sizes and locations of all fire hydrants.
+   (C)   New service. The owner of the private fire protection system, or his
+or her contractor or engineer, shall provide certification to the utility that
+the system has been disinfected and tested in accordance with ANSI/AWWA C651-
+99, or latest revision. Results of bacteriological testing carried out per
+ANSI/AWWA C651-99, or latest revision, shall be reported in writing to the
+utility by a laboratory qualified to make such an analysis and acceptable to
+the utility.
+   (D)   Existing service modification. Modifications to or extensions of
+existing private fire protection systems may be supplied with water from the
+existing system without disinfection or testing provided that the change does
+not require a new tap or a modification of an existing tap. If the system is to
+be supplied with water from a new tap, or if a change in tap size or location
+is required, disinfection and testing in accordance with ANSI/AWWA C651-99, or
+latest revision, shall be required for the private fire service modification or
+extension. Disinfection and testing of the tap will be required per the
+applicable sections of these general rules and regulations.
+   (E)   All fire protection lines within buildings must be installed in such a
+manner that all pipes shall be easily accessible for inspection at any time.
+Underground pipes outside of buildings must be placed and maintained at a
+minimum depth of four feet.
+   (F)   No connection with a fire protection system shall be permitted to
+supply water for general purposes unless the connection has been approved by
+the customer's fire underwriter and unless the general-purpose water is
+metered. If such a connection is approved, both the fire protection line and
+the general-purpose line shall be separately valved outside the building to be
+served in accordance with the utility's specifications, thus permitting either
+line to be turned on or off without affecting the other.
+   (G)   A private fire protection system without a tank shall be equipped with
+an alarm valve and a double check valve on the incoming line and a single check
+valve on the Fire Department connection. A system with a tank shall have one
+alarm valve and a double.
+   (H)   Check valve assembly backflow preventative device, the double check
+valve assembly to be located on the main service pipe(s) supplying fire
+protection to the property. All check valves shall be of the "no slam" type, in
+order to reduce the potential of water hammer, resulting in damage to the
+utility's water distribution system. A system containing antifreeze shall have
+a reduced pressure principal backflow preventer.
+   (I)   An unmetered private fire service is furnished for the sole purpose of
+supplying water for the extinguishment of accidental fires and use of water
+from such a service connection for any other purpose is absolutely forbidden.
+Any violation of this provision shall be considered theft of utility property
+and services and shall subject the offender to the penalty provided in the town
+ordinances and to a bill for the estimated quantity of water so used.
+   (J)   Hydrants and other fixtures connected to a private fire service
+connection may be sealed by the utility and such seal shall be broken only in
+case of fire or as specifically permitted by the utility. The customer must
+immediately notify the utility when any such seal is broken.
+   (K)   Whenever a private fire system is to be tested under the regulations
+of the fire service underwriters, the customer shall notify the Utility
+Department of such proposed test, naming the day and the hour when same is to
+be made so that, if it desires, the utility may have a representative present
+for the test.
+(Ord. 2025-09-09-01, passed 9-9-2025)
+§ 51.04 BULK WATER SALES.
+   (A)   The utility currently does not offer bulk water sales.
+   (B)   Connection to hydrants is prohibited. See §
+50.03.
+(Ord. 2025-09-09-01, passed 9-9-2025)
+§ 51.05 WATER USAGE STANDARD BILLING, PAYMENT, RECONNECTION, AND PENALTIES.
+   (A)   The user agrees to pay for utilities at such rates, times, and
+locations as determined by the town.
+   (B)   Any payment not received by the due date at 4:00 p.m. shall be
+considered delinquent.
+   (C)   All customers of the utility services owned and operated by the town
+shall be sent statements indicating the account is due and payable in full on a
+specific date of each month. If the date falls on a non-business day, a drop
+box is provided for customer use as well as online credit card payments.
+Payments shall be received in full by 4:00 p.m. on the due date or otherwise
+considered delinquent.
+   (D)   Bills unpaid by 4:00 p.m. on the due date as stated above shall be
+subject to a collection charge of 10% on the first $3 of each unpaid charge,
+and 3% on the balance of each unpaid charge in excess of $3 for water and gas
+charges. Sewage charges will be penalized at 10%.
+   (E)   A disconnect notice will be sent after the due date of the month
+stating that the total balance is due, including penalties, within ten regular
+days from the date the delinquent notice is sent, or service will be
+disconnected.
+   (F)   Payment arrangements will be accepted. It is the responsibility of the
+user to call the office to set up the payment arrangement. Failure to pay the
+full agreed-upon balance on the scheduled payment date will result in a broken
+payment arrangement, and no future payment arrangements will be allowed.
+   (G)   If any bill shall remain delinquent for 30 days or more, utility
+service shall be disconnected and shall not be reconnected except upon payment
+of all charges, together with a reconnection charge of $75 per utility (non-
+payment disconnect); provided, however, that in case of a change in occupancy
+of any leased premises, the new lessee shall not be charged with the
+delinquencies of the prior occupant, but the utilities shall only be
+reconnected upon the payment of the reconnection charge and/or deposits.
+   (H)   A lien may be placed upon a property or per person using the TRECS
+system to collect an unpaid balance after 45 days.
+   (I)   The governing body reserves the right to work with delinquent
+customers on a case- by-case basis.
+   (J)   Users who own the property being serviced shall not be required to pay
+a deposit before commencement of service if the owner(s) provide ownership
+paperwork, such as, a warranty deed or settlement statement and sign a
+statement or consent, authorizing the governing body to place a lien against
+the property serviced by utilities in the event of any delinquent accounts.
+   (K)   All new users must provide a form of ID and contact information upon
+starting a new account.
+   (L)   Users who do not own the property to which the utilities are provided
+(including mobile home owners who rent the lot the home is on), shall be
+required to pay a $150 deposit for water.
+   (M)   In addition to deposits, all new users will pay a $15 per utility
+reconnect fee for any service that is currently off. Payment of deposits and
+reconnection fees must be cash, cashier's check, or money order.
+   (N)   Any user that would like a voluntary utility shut off will be charged
+a reconnection fee of $150. This will include any unoccupied rental properties,
+seasonal residences, vacation homes, or other situations where the premises
+will not require utility service for a specified period of time.
+   (O)   Requests to test utilities for inspection purposes related to a
+property purchase shall be subject to a $75 test fee per occurrence, payable
+prior to the inspection. If the customer or their representative fails to be
+present at the scheduled inspection time ("no show"), an additional $75 test
+fee shall be charged for each subsequent visit.
+   (P)   Users who temporarily turn utilities off to fix a leak or do repairs
+will not be charged this fee, but will be urged to put in a customer valve.
+   (Q)   Customers may pay bills by:
+      (1)   Mail.
+      (2)   In person at the Utility Office.
+      (3)   Via authorized drop box.
+      (4)   Electronic payment systems via online, over the phone or in the
+office. The customer will pay any fees associated with credit card/online
+payments.
+      (5)   By automatic withdrawal (ACH or autopay).
+   (R)   Partial payments may be accepted at the utility's discretion, but do
+not relieve the customer from responsibility for the full balance.
+   (S)   Users disputing charges must notify the utility as soon as possible.
+If a user questions meter accuracy, the utility will replace the meter and test
+the old meter. If the meter is bad, the utility will pay for the cost of the
+new meter. If the meter test concludes the meter is working properly, the
+customer will pay for the new meter and the testing of the old meter.
+   (T)   Pending resolution, disputed charges must still be paid to avoid
+disconnection.
+   (U)   The utility is authorized to assess a service charge of $30 to the
+account of any customer whose check or ACH payment is returned unpaid by their
+financial institution. Payment to resolve a returned item must be made by cash,
+cashier's check, money order, or credit card.
+(Ord. 2025-09-09-01, passed 9-9-2025)
+§ 51.06 WATER RATES.
+   (A)   The water rates are as follows:
+Meter Size Minimum Charge Per Month
+           Phase 1 Phase 2
+Meter Size Minimum Charge Per Month
+           Phase 1   Phase 2
+5/8-inch   $40.77    $41.53
+3/4-inch   $40.77    $41.53
+1-inch     $55.63    $56.67
+1-1/2-inch $85.35    $86.95
+2-inch     $308.27   $314.03
+3-inch     $694.65   $707.64
+4-inch     $1,229.65 $1,252.63
  
-Metered Quantity              Monthly Charge per 1,000 Gallons
-                              Phase I Phase II
-First 2,000 gallons per month $20.38  $20.76
-Over 2,000 gallons per month  $14.86  $15.14
- 
-      (2)   Minimum charge. Each user shall pay a minimum charge in accordance
+   (B)   The water usage schedule on which the amount of said rates and charges
+shall be determined is as follows:
+      (1)   Metered rates. 
+         (a)   Each metered customer shall pay a monthly minimum charge based
+upon the quantity of water supplied by the water utility as metered in
+accordance with the following schedule:
+         (b)   Metered quantity.
+            1.   Rate for the first 2,000 gallons used: $20.76/1,000 gallons.
+            2.   After 2,000 gallon usage charge: $15.14/1,000 gallons.
+      (2)   Minimum charge.
+         (a)   Each user shall pay a minimum of 2,000 gallons in accordance
 with the following applicable size of meter installed, for which the user will
-be entitled to the quantity of water set out in the schedule of rates in
-division (A)(1) above.
-Meter Size  Minimum Charge per Month
-(in inches) Phase I Phase II
-Meter Size  Minimum Charge per Month
-(in inches) Phase I   Phase II
-5/8         $40.77    $41.53
-3/4         $40.77    $41.53
-1           $55.63    $56.67
-1 1/2       $85.35    $86.95
-2           $308.27   $314.03
-3           $694.65   $707.64
-4           $1,229.65 $1,252.63
+be entitled to the quantity of water set out in the above schedule of rates.
+         (b)   Base rate of $20.76/1,000 gallons for the first 2,000 gallons
+used.
+         (c)   Rate of $15.14/1,000 gallons after the minimum.
+(Ord. 2025-09-09-01, passed 9-9-2025)
+§ 51.07 WATER TAP-IN AND INSTALLATION FEES.
+   All new users shall be required to pay applicable tap-in connection fees
+prior to service installation as referenced below and then upon completion pay
+applicable material and construction cost:
+Inch Meter Area Ratio One-Time Charge
+Inch Meter        Area Ratio One-Time Charge
+5/8- and 3/4-inch 1.0        $250
+1-inch            1.5        $300
+1-1/4-inch        2.0        $400
+1-1/2-inch        2.5        $600
+2-inch            10.0       $1,200
+4-inch            41.0       $2,400
+6-inch                       $3,600
+8-inch                       $4,800
  
-   (B)   Implementation of rates and charges in phases. While this section is
-intended to be effective upon adoption by the Town Council, the new rates and
-charges set forth herein will not be implemented until the commencement of the
-Phase I billing cycle and then will be further implemented for the Phase II
-billing cycle as follows:
-      (1)   Phase I: Effective on March 1, 2023; and
-      (2)   Phase II: Effective on January 1, 2024, and thereafter.
-   (C)   Except as hereby amended and revised, the prior ordinance shall remain
-in full force and effect.
-(Ord. 2022-06-28-01, passed 6-28-2022; Ord. 2023-01-31-01, passed 1-31-2023)
-§ 51.04 DISTRIBUTIONS TO THE WATER DEPRECIATION FUND.
-   The water utility of the town shall transfer the sum of $500 per month from
-the Water Operating Fund to the town’s Water Depreciation Fund, commencing with
-the town’s January 2017 claims and receipts.
-(Ord. 2016-12-14-02, passed 12-14-2016)
+(Ord. 2025-09-09-01, passed 9-9-2025)
+§ 51.08 WATER LEAK ADJUSTMENTS.
+   (A)   Where due to a sudden increase in water usage and water leak is
+suspected, the customer and/or landowner should contact the Municipal Utility
+Office as soon as possible.
+   (B)   The resident(s) are responsible to repair water leaks located upon the
+resident's property downstream of service valve.
+   (C)   If the water leak is underground only, the utility shall not charge or
+bill the actual water usage according to the meter reading, but rather shall
+average the customer's bill using the immediate past three month average, with
+the sewage being adjusted accordingly, provided that the customer furnishes a
+copy of the bill showing charges or the repair of the leak or signs a statement
+stating that the leak was repaired. If the suspected leak is not repaired
+within 30 days of notification, the utility shall bill or charge according to
+the actual meter reading.
+   (D)   Each utility account is eligible for a one-time credit for an
+underground water leak during the lifetime of the account. This credit applies
+per property account holder and does not transfer if ownership or account
+responsibility changes.
+   (E)   Commodes, water softeners, or other in-house leak(s) will not be
+considered eligible for leak adjustments. The customer will be responsible for
+the payment of the full balance.
+(Ord. 2025-09-09-01, passed 9-9-2025)
+§ 51.09 WATER SHORTAGE AND ALLOCATION.
+   (A)   In the event of a water shortage, the utility may allocate water based
+on reasonable and fair criteria, with priority given to domestic use over non-
+essential uses such as lawns and gardens.
+   (B)   The utility shall have the authority to enforce restrictions on water
+use during emergencies or periods of limited supply.
+      (1)   Application. This shall apply to all persons, firms, partnerships,
+companies, associations, corporations, or organizations, of any kind connected
+to the town public water system or using water therefrom (hereafter, users).
+      (2)   Declaration of need. Upon determining that the utility is in
+imminent danger of a shortage of water or is experiencing a shortage of water,
+the governing body shall declare a water conservation emergency and establish
+the appropriate conservation measures and the duration thereof.
+      (3)   Exceptions. The governing body of the town reserves the right to
+establish alternative rationing requirements for the following:
+         (a)   Health care providers.
+         (b)   A reasonable use of water to maintain adequate heath and
+sanitary standards.
+         (c)   Those industrial and agricultural activities declared to be
+necessary for the public health and well-being.
+      (4)   Voluntary conservation. In accordance with notice guidelines below,
+users shall be requested to reduce water consumption by practicing voluntary
+conservation techniques. The governing body suggest reasonable and meaningful
+actions which will alleviate existing or potential water shortage.
+      (5)   Mandatory conservation. In accordance with notice guidelines below,
+users shall be prohibited from the water uses listed below, subject to
+reasonable terms, times, and conditions as the governing body shall determine.
+         (a)   Sprinkling, watering, or irrigating of shrubbery, trees, grass,
+ground covers, plants, vines, gardens, vegetables, or any other vegetation.
+         (b)   Washing of automobiles, trucks, trailers, mobile homes, railroad
+cars, or any other type of mobile equipment.
+         (c)   Cleaning or spraying of sidewalks, driveways, paved areas, or
+other outdoor surfaces.
+         (d)   Washing and cleaning of any business equipment or machinery.
+         (e)   The filling of swimming pools, wading pools, and ornamental
+fountains.
+         (f)   Knowingly allowing leakage through defective plumbing.
+      (6)   Rationing. In addition to the mandatory conservation measures and
+in accordance with the notice guidelines, users shall be limited to water use
+per the following schedule:
+         (a)   Residential use shall be limited to 100 gallons per day.
+         (b)   Business, commercial and industrial users shall be limited to
+80% of the volume of water used during the corresponding month of the preceding
+year. Business, commercial or industrial users that were not in business and
+operating in the area served by the town public water system more than one year
+prior to the declaration of need shall be restricted to 80% of the average
+monthly volume of water used during the number of months such business,
+commercial or industrial user was in business and operating in the public water
+supply area.
+      (7)   Notice. Notice of voluntary conservation measures shall be by
+publication in a local newspaper of general circulation or other means as
+deemed appropriate by the governing body. Said notice shall be effective upon
+publication. Notice of mandatory conservation or rationing shall be by first
+class USPS mail or by door-to-door distribution to each current user, and by
+electronic and print media.Said notice shall be deemed effective at the
+conclusion of door-to-door distribution, or at noon of the third day after
+depositing same at the USPS.
+      (8)   Enforcement. Any user who violates the mandatory conservation or
+rationing section of this subchapter may be punished by a fine of not more than
+$2,500 (see I.C. 36-1-3-8(10)). Each day of violation shall constitute a
+separate offense. In addition to, or in the alternative to a fine, water
+service may be terminated for any user who violates the mandatory conservation
+or rationing section(s) of this subchapter.
+(Ord. 2025-09-09-01, passed 9-9-2025)
+§ 51.10 INSPECTIONS AND COMPLIANCE.
+   (A)   The utility reserves the right of inspection to ensure that user
+complies with all laws, rules, and regulations of the State of Indiana and town
+ordinances.
+   (B)   Any and all cross connections are prohibited and illegal. No secondary
+water sources are allowed to be connected to our utility.
+(Ord. 2025-09-09-01, passed 9-9-2025)
 **** CROSS-CONNECTIONS ****
 § 51.15 RESPONSIBILITY.
    The town’s municipal utilities shall be responsible for the protection of
@@ -1323,28 +1683,132 @@ Section
    
 53.03   Distributions to Gas Depreciation Fund
 § 53.01 GAS RATES AND CHARGES.
-   Town Municipal Gas shall charge gas users the following gas rates and
-charges measured by metered gas usage:
-   (A)   Rate per MCF, subject to a purchased gas cost adjustment tracking
-factor occasioned solely by the changes in the cost of purchased gas, including
-transportation and balancing charges:
-      (1)   Effective March 1, 2015: $9.95; and
-      (2)   Effective August 1, 2022: $9.81.
-   (B)   Monthly meter charge, in addition to rate per MCF charge and GCA
-tracking charges:
-      (1)   Residential and small commercial: $5.18;
-      (2)   Medium commercial (rotary and three and one-half to four M):
-$11.83; and
-      (3)   Large commercial/industrial (five M to 16M): $24.65.
-   (C)   Persons who opt to have their gas service locked off for whatever
-reason will have to pay a (seasonal) reconnection charge of $150 for a
-residential customer and $250 for a commercial customer at such time that they
-want gas service restored.
-(Ord. 2022-06-28-02, passed 6-28-2022)
+   (A)   Calculation of natural gas utility bills.
+      (1)   Natural gas utility bills shall be calculated as the sum of the
+following charges:
+         (a)   Facility charge;
+         (b)   Distribution charge; and
+         (c)   Cost of gas.
+      (2)   The facility charge, which may also be referred to hereinafter as
+the "monthly minimum bill," represents the cost of providing and maintaining
+service to a customer.
+      (3)   The distribution charge is the transportation fee associated with
+delivery of each unit of gas to a customer.
+      (4)   The cost of gas is the total cost of gas purchased and transported
+to the town distribution system.
+      (5)   The facility charge and distribution charge are fixed fees that may
+only charge upon the amendment of this section. The cost of gas may change each
+month and may reflect over and under recovery of costs associated with gas
+supply and transportation. Gas billing units will be in therms. A therm is
+equivalent to 100 cubic feet of gas.
+      (6)   Service definitions are as follows:
+         GENERAL SERVICE. Non- residential customers with connected loads less
+than 5,000 CFH.
+         LARGE COMMERCIAL/ INDUSTRIAL. Nonresidential customers with connected
+loads of 5,000 CFH or greater.
+         RESIDENTIAL. Customer using gas service primarily for a single-family
+dwelling unit, mobile home, apartment unit, or condominium.
+   (B)   Facility charge. The facility charge shall be assessed as follows:
+      (1)   Residential service: $12/month.
+      (2)   General service: $25/month.
+      (3)   Large commercial and industrial service: $75/month.
+   (C)   Distribution charge. The distribution charge shall be assessed as
+follows:
+      (1)   Residential service: $0.60/therm.
+      (2)   Small commercial service: $0.58/therm.
+      (3)   Large commercial and industrial service: $0.55/therm.
+   (D)   Cost of gas. The cost of gas shall be based on the cost to the town in
+purchasing gas, including the costs of transporting and delivering gas.
+Accordingly, the cost of gas may vary from month to month. All gas billings for
+service rendered by the town's municipal gas utility are subject to adjustments
+occasioned solely by changes in the cost of purchased gas, including all
+transportation costs and other costs related to the purchase and delivery of
+gas to the city.
+   (E)   Standard billing, payment, reconnection, and penalties.
+      (1)   The user agrees to pay for utilities at such rates, times, and
+locations as determined by the town.
+      (2)   Any payment not received by the due date at 4:00 p.m. shall be
+considered delinquent.
+      (3)   All customers of the utility services owned and operated by the
+town shall be sent statements indicating the account is due and payable in full
+on a specific date of each month. If the date falls on a non-business day, a
+drop box is provided for customer use as well as online credit card payments.
+Payments shall be received in full by 4:00 p.m. on the due date or are
+otherwise considered delinquent.
+      (4)   Bills unpaid by 4:00 p.m. on the due date as stated above shall be
+subject to a collection charge of 10% on the first $3 of each unpaid charge,
+and 3% on the balance of each unpaid charge in excess of $3 for water and gas
+charges. Sewage charges will be penalized at 10%.
+      (5)   A disconnect notice will be sent after the due date of the month
+stating that the total balance is due, including penalties, within ten regular
+days from the date the delinquent notice is sent, or service will be
+disconnected.
+      (6)   Payment arrangements will be accepted. It is the responsibility of
+the user to call the office to set up the payment arrangement. Failure to pay
+the full agreed-upon balance on the scheduled payment date will result in a
+broken payment arrangement, and no future payment arrangements will be allowed.
+      (7)   Suppose any bill shall remain delinquent for 30 days or more. In
+that case, utility service shall be disconnected and shall not be reconnected
+except upon payment of all charges, together with a reconnection charge of $75
+per utility (non-payment disconnect; provided,however, that in case of a change
+in occupancy of any leased premises, the new lessee shall not be charged with
+the delinquencies of the prior occupant. The utilities shall only be
+reconnected upon the payment of the reconnection charge and/or deposits.
+      (8)   A lien may be placed upon a property or per person using the TRECS
+system to collect an unpaid balance after 45 days.
+      (9)   The governing body reserves the right to work with delinquent
+customers on a case-by-case basis.
+      (10)   Users who own the property being serviced shall not be required to
+pay a deposit before commencement of service if the owner(s) provide ownership
+paperwork, such as, a warranty deed or settlement statement and sign a
+statement or consent, authorizing the governing body to place a lien against
+the property serviced by utilities in the event of any delinquent accounts.
+      (11)   All new users must provide a form of ID and contact information
+upon starting a new account.
+      (12)   Users who do not own the property to which the utilities are
+provided (including mobile home owners who rent the lot the home is on), shall
+be required to pay a $250 deposit for gas.
+      (13)   In addition to deposits, all new users will pay a $15 per utility
+reconnect fee for any service that is currently off. Payment of deposits and
+reconnection fees must be cash, cashier's check, or money order.
+      (14)   Requests to test utilities for inspection purposes related to a
+property purchase shall be subject to a $75 test fee per occurrence, payable
+prior to the inspection. If the customer or their representative fails to be
+present at the scheduled inspection time ("no show"), an additional $75 test
+fee shall be charged for each subsequent visit.
+      (15)   Customers may pay bills by:
+         (a)   Mail.
+         (b)   In person at the Utility Office.
+         (c)   Via authorized drop box.
+         (d)   Electronic payment systems via online, over the phone or in the
+office. The customer will pay any fees associated with credit card/online
+payments.
+         (e)   By automatic withdrawal (ACH or autopay).
+      (16)   Partial payments may be accepted at the utility's discretion, but
+do not relieve the customer from responsibility for the full balance.
+      (17)   Pending resolution, disputed charges must still be paid to avoid
+disconnection.
+      (18)   The utility is authorized to assess a service charge of $30 to the
+account of any customer whose check or ACH payment is returned unpaid by their
+financial institution. Payment to resolve a returned item must be made by cash,
+cashier's check, money order, or credit card.
+   (F)   Other charges/temporary shut-off. Customers who opt to have gas
+service locked off for whatever reason (including seasonal) will have to pay a
+reconnection charge of $75 plus the facility charge for each inactive month of
+shut-off.
+(Ord. 2022-06-28-02, passed 6-28-2022; Ord. 2025-10-15-01, passed 10-15-2025)
 § 53.02 GAS TAP-IN FEES.
-   Residential gas tap-in fee (up to 200 feet) is $650 (includes material
-cost).
-(Ord. 2015-10-14-02, passed 10-14-2015)
+   (A)   All new customers shall be required to pay the applicable tap-in
+connection fees prior to the installation of service.
+   (B)   In addition to the tap-in connection fee, the customer shall be
+responsible for all applicable material, labor, and construction costs
+associated with the service installation, which shall be paid upon completion
+of the work.
+   (C)   The tap-in connection fee schedule is as follows:
+      (1)   Residential gas service tap-in (up to 200 feet): $250.
+      (2)   Small commercial service tap-in: $400.
+      (3)   Large commercial and industrial service tap-in: $600.
+(Ord. 2015-10-14-02, passed 10-14-2015; Ord. 2025-10-15-01, passed 10-15-2025)
 § 53.03 DISTRIBUTIONS TO GAS DEPRECIATION FUND.
    The gas utility of the town shall transfer the sum of $500 per month from
 the Gas Operating Fund to the town’s Gas Depreciation Fund, commencing with the
@@ -2233,7 +2697,7 @@ height;
       (4)   Vegetation obstructing public ways or creating visual or safety
 hazards; and/or
       (5)   Any plant or vegetation constituting a safety or health hazard.
-(Ord. 2025-05-13-01, passed 5-13-2025)
+(Ord. 2025-05-13-01A, passed 5-13-2025)
 § 90.41 MAINTENANCE OF PREMISES.
    (A)   Vegetation control. Owners, occupants, or persons with interest in any
 real estate within the town shall:
@@ -2248,12 +2712,12 @@ mowing.
 from garbage and trash.
       (2)   Temporary accumulation in approved containers is permitted prior to
 scheduled collection.
-(Ord. 2025-05-13-01, passed 5-13-2025) Penalty, see §
+(Ord. 2025-05-13-01A, passed 5-13-2025)  Penalty, see §
 90.99
 § 90.42 LITTERING PROHIBITED.
    No person shall deposit garbage or trash on public or private property,
 except into containers approved by the Town or the State Board of Health.
-(Ord. 2025-05-13-01, passed 5-13-2025) Penalty, see §
+(Ord. 2025-05-13-01A, passed 5-13-2025)  Penalty, see §
 90.99
 § 90.43 VIOLATIONS AND NOTICE PROCEDURE.
    (A)   Upon observation of a violation, the Town Marshal shall issue a
@@ -2265,7 +2729,7 @@ via certified mail to their last known address.
       (1)   The location of the property;
       (2)   Description of the violation; and
       (3)   Enforcement procedures.
-(Ord. 2025-05-13-01, passed 5-13-2025) Penalty, see §
+(Ord. 2025-05-13-01A, passed 5-13-2025)  Penalty, see §
 90.99
 § 90.44 REMOVAL BY TOWN; COLLECTION COSTS.
    If violations are not abated within the time specified:
@@ -2278,7 +2742,7 @@ costs, and attorney fees shall be sent to the owner and occupant;
 collection as real estate taxes pursuant to I.C. 36-1-6-2 or the State Tax
 Refund Exchange and Compliance System (TRECS); and
       (5)   Collected costs will be distributed to the appropriate town funds.
-(Ord. 2025-05-13-01, passed 5-13-2025)
+(Ord. 2025-05-13-01A, passed 5-13-2025)
 § 90.45 LIEN ON PROPERTY.
    All costs associated with violation abatement, including removal, fines, and
 administrative costs, shall constitute a lien against the property and may be
@@ -2286,14 +2750,14 @@ enforced through foreclosure proceedings in a court of competent jurisdiction.
 In addition, the town may certify any unpaid amounts to the State Tax Refund
 Exchange and Compliance System (TRECS) for collection through the intercept of
 state income tax refunds.
-(Ord. 2025-05-13-01, passed 5-13-2025)
+(Ord. 2025-05-13-01A, passed 5-13-2025)
 § 90.46 APPEALS.
    (A)   Appeals must be submitted in writing to the Clerk-Treasurer of the
 town within five days of a removal notice or cost certification.
    (B)   The Town Council shall hold a hearing and issue written findings.
    (C)   Further appeals must be filed in a court of competent jurisdiction
 within ten days of the Town Council’s findings.
-(Ord. 2025-05-13-01, passed 5-13-2025)
+(Ord. 2025-05-13-01A, passed 5-13-2025)
 § 90.99 PENALTY.
    (A)   Any person violating any provision of this chapter for which no
 specific penalty is prescribed shall be subject to §
@@ -3126,7 +3590,8 @@ I.C. Cite               Code Section
 14-16-1-33              71.03
 15-16-8-1               90.40
 35-49-3-2               110.01
-36-1-3-8(a)(10)         10.99
+36-1-3-8(a)(10)         10.99,
+                        51.09
 36-1-6-2                90.44
 36-4-8                  33.20
 36-5-2-2                10.15
@@ -3179,7 +3644,6 @@ Ord. No.       Date Passed Description
                            130.99
 2000-12-27-02  12-27-2000  91.99
 2001-02-14-01  2-14-2001   50.01
-2001-03-14-01  3-14-2001   51.02
 2001-04-11-01  4-11-2001   33.02
 2001-11-14-03  11-14-2001  Ch. 72, Sched. II
 2003-8-13-2    8-13-2003   110.01;
@@ -3190,7 +3654,6 @@ Ord. No.       Date Passed Description
 2005-02-09-01  2-9-2005    TSO Table V
 2005-03-09-01  3-9-2005    33.01
 2005-03-09-02  3-9-2005    32.01
-2005-07-13-01  7-13-2005   51.01
 2006-07-12-01  7-12-2006   151.01
                            71.60 
 2006-11-15-01  11-15-2006  71.62;
@@ -3227,7 +3690,6 @@ Ord. No.       Date Passed Description
                            51.99
 2016-10-12-02  10-12-2016  51.28
 2016-12-14-01  12-14-2016  53.03
-2016-12-14-02  12-14-2016  51.04
 2016-12-14-03  12-14-2016  52.03
                            90.20 
 2017-          - -2017     90.29;
@@ -3257,10 +3719,8 @@ Ord. No.       Date Passed Description
 2021-08-10-1   8-10-2021   TSO Table V
 2021-08-10-02  8-10-2021   50.02
 2021-09-14-01  9-14-2021   TSO Table V
-2022-06-28-01  6-28-2022   51.03
 2022-06-28-02  6-28-2022   53.01
 14-10-8-03     2-14-2023   153.01
-2023-01-31-01  1-31-2023   51.03
 2023-05-16-02  5-16-2023   150.02
 2024-07-09-01  7-9-2024    TSO Table I
 2024-09-17-01  9-17-2024   TSO Table II
@@ -3270,8 +3730,13 @@ Ord. No.       Date Passed Description
 2025-02-11-01  2-11-2025   50.03;
                            50.99
 2025-04-08-01  4-8-2025    33.04
-                           90.40 
-2025-05-13-01  5-13-2025   90.46;
-                           90.99
+2025-05-13-01  4-8-2025    33.04
+2025-05-13-01A 5-13-2025   90.40—
+                           90.46
+2025-06-17-06  6-17-2025   31.30
+2025-09-09-01  9-9-2025    51.01—
+                           51.10
+2025-10-15-01  10-15-2025  53.01,
+                           53.02
                           
  
