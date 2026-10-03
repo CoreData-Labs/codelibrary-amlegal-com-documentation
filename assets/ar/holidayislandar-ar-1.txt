@@ -6237,34 +6237,6 @@ maximum height regulations to be exceeded for such district as set forth below.
          (b)   A listing of supplements and exceptions to these regulations
 follows the table.
       (2)   Minimum dimension requirements as set forth below.
-Residential Minimum Square Footage
-     Declaration                            Area under Roof - Including
-     of          Enclosed Heated Area       Covered Contiguous Porch/Patio/
-Unit Reservation                            Garage
-     Date        R-1/R-1M R-2 each R-3 each R-1/R-1M R-2 each R-3 each unit
-                          unit (1) unit (1)          unit (1) (1)
-Residential Minimum Square Footage
-            Declaration                            Area under Roof - Including
-            of          Enclosed Heated Area       Covered Contiguous Porch/
-Unit        Reservation                            Patio/Garage
-            Date        R-1/R-1M R-2 each R-3 each R-1/R-1M R-2 each R-3 each
-                                 unit (1) unit (1)          unit (1) unit (1)
-104 - n/a   n/a         n/a      X        n/a      n/a      X        n/a
-108 - n/a   n/a         X        X        n/a      X        X        n/a
-123 - n/a   n/a         n/a      X        X        n/a      X        X
-127 - n/a   n/a         X        X        n/a      X        X        n/a
-128 - n/a   n/a         n/a      X        X        n/a      X        X
-129 - n/a   n/a         n/a      X        X        n/a      X        X
-301 Block 5 10/29/12    1,700    X        X        rm       X        X
-302 Block 2 09/25/19    rm       rm       X        rm       rm       X
-304 - n/a   n/a         n/a      X        X        n/a      X        X
-Notes to Table:
-Note (1) = R-2 has 2 dwelling units; R-3 has 3 or 4 dwelling units
-Note (2) = ground floor of 2-story dwelling not less than 600 sq ft.
-n/a = Declaration of reservation not available for inspection
-rm = Declaration of reservation minimum requirement missing
-X = This residential zone not permitted in this unit
- 
 Residential Districts Lot, Yard and Height Regulations
      R-l / R-1M Property Line Minimum Setback R-2 Property Line Minimum Setback (Feet) R-3 Property Line Minimum Setback (Feet) Minimum Easement (Feet)
      (Feet)                                                                            [*2]
@@ -6456,6 +6428,72 @@ extent authorized through conditional use approval.
 minimum enclosed heated square footage (having a minimum of six feet of
 headroom) and the minimum area under roof, including the covered contiguous
 porch/patio/garage, for all residential structures as detailed below.
+Residential Minimum Square Footage
+     Declaration                            Area under Roof - Including
+     of          Enclosed Heated Area       Covered Contiguous Porch/Patio/
+Unit Reservation                            Garage
+     Date        R-1/R-1M R-2 each R-3 each R-1/R-1M R-2 each R-3 each unit
+                          unit (1) unit (1)          unit (1) (1)
+Residential Minimum Square Footage
+            Declaration                            Area under Roof - Including
+            of          Enclosed Heated Area       Covered Contiguous Porch/
+Unit        Reservation                            Patio/Garage
+            Date        R-1/R-1M R-2 each R-3 each R-1/R-1M R-2 each R-3 each
+                                 unit (1) unit (1)          unit (1) unit (1)
+1           12/13/89    1,200    X        X        rm       X        X
+2           11/21/05    1,000    X        X        rm       X        X
+3           12/29/99    1,200    600      X        1,600    800      X
+4           10/15/70    600      X        X        1,200    X        X
+5           02/08/71    1,000    X        X        1,400    X        X
+6           02/09/72    900      X        X        1,300    X        X
+7           05/09/72    800      X        X        1,200    X        X
+8           07/17/90    1,400    X        X        1,800    X        X
+9           08/18/89    1,400    X        X        1,800    X        X
+10          06/21/71    X        700      500      X        900      rm
+11          12/19/89    1,400    X        X        1,800    X        X
+12          06/02/82    800      X        X        1,200    X        X
+13          07/21/86    800 (2)  X        X        rm       X        X
+14          05/20/83    800      X        X        1,200    X        X
+15          09/06/72    900      X        X        1,300    X        X
+16          09/06/72    1,000    X        X        1,400    X        X
+101         03/11/71    1,200    X        X        rm       X        X
+102         12/31/70    1,200    X        X        rm       X        X
+103         04/13/82    X        X        rm       X        X        rm
+104 - n/a   n/a         n/a      X        n/a      n/a      X        n/a
+105         10/25/02    X        X        rm       X        X        rm
+106         08/04/83    1,200    X        X        rm       X        X
+108 - n/a   n/a         X        X        n/a      X        X        n/a
+110         03/04/86    1,200    X        X        rm       X        X
+111         03/04/86    1,200    X        X        rm       X        X
+112         10/14/86    1,200    X        X        rm       X        X
+114         10/14/86    800      X        X        1,200    X        X
+115         10/14/86    800      X        X        1,200    X        X
+116         10/14/86    800      X        X        1,200    X        X
+117         10/14/86    800      X        X        1,200    X        X
+118         05/19/88    1,000    X        X        1,400    X        X
+119         05/19/88    1,000    X        X        1,400    X        X
+120         06/17/93    X        X        rm       X        X        rm
+121         04/12/93    2,000    X        X        rm       X        X
+122         05/31/94    1,500    X        X        rm       X        X
+123 - n/a   n/a         n/a      X        X        n/a      X        X
+125         12/22/06    X        X        rm       X        X        rm
+127 - n/a   n/a         X        X        n/a      X        X        n/a
+128 - n/a   n/a         n/a      X        X        n/a      X        X
+129 - n/a   n/a         n/a      X        X        n/a      X        X
+301         06/17/98    2,000    X        X        rm       X        X
+301 Block 5 10/29/12    1,700    X        X        rm       X        X
+302         12/03/98    X        rm       rm       X        rm       rm
+302 Block 2 09/25/19    rm       rm       X        rm       rm       X
+303         10/29/07    X        X        rm       X        X        rm
+304 - n/a   n/a         n/a      X        X        n/a      X        X
+Notes to Table:
+Note (1) = R-2 has 2 dwelling units; R-3 has 3 or 4 dwelling units
+Note (2) = ground floor of 2-story dwelling not less than 600 sq ft.
+n/a = Declaration of reservation not available for inspection
+rm = Declaration of reservation minimum requirement missing
+X = This residential zone not permitted in this unit
+ 
+ 
    (O)   An alternative to division (D) above: single-family residential
 development may optionally be constructed across one or more lot lines of
 adjoining lots sharing the same street frontage with the following conditions.
@@ -8425,7 +8463,7 @@ found as follows. The images illustrated are intended to convey pictorially a
 sign type, not design recommendations. Image credits to: https://www.bing.com/
 images/search.
       (1)   Awning signs.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-641.gif]
  
          (a)   Description. A sign where graphics or symbols are painted, sewn
@@ -8448,7 +8486,7 @@ awning, canopy, crown, projection and wall signs shall not exceed 20% of the
 total square footage of the wall area of that side of the building, not to
 exceed a maximum total amount of 800 square feet.
       (2)   Canopy signs.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-643.gif]
  
          (a)   Description. Any sign that is mounted, painted or otherwise
@@ -8482,7 +8520,7 @@ not to exceed a maximum total amount of 800 square feet.
             2.   For free-standing awnings; no more than 24 square feet total
 of awning signage allowed per free-standing awning.
       (3)   Crown sign.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-645.gif]
  
          (a)   Description. A wall sign extending not more than three feet from
@@ -8508,7 +8546,7 @@ awning, canopy, crown, projection and wall signs shall not exceed 20% of the
 total square footage of the wall area of that side of the building, not to
 exceed a maximum total amount of 800 square feet.
       (4)   Digital sign.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-647.gif]
  
          (a)   Description. An electronically displayed sign that is static or
@@ -8549,7 +8587,7 @@ light, as measured using a foot candle (Lux) meter.
             10.   All signs shall contain a default mechanism that will cause
 the sign to revert immediately to a black screen if the sign malfunctions.
       (5)   Double post sign.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-649.gif]
  
          (a)   Description. A permanently affixed sign which is wholly
@@ -8566,7 +8604,7 @@ sign*) is allowed per street frontage.
             2.   Where more than one monument sign or pylon sign* is allowed on
 the same property, must be a minimum of 500 feet apart.
       (6)   Monument sign.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-651.gif]
  
          (a)   Description. A free-standing and permanently affixed sign that
@@ -8593,7 +8631,7 @@ is allowed per street frontage.
             2.   Where more than one monument, double post or freestanding sign
 structure is allowed on the same property, must be a minimum of 500 feet apart.
       (7)   Projecting sign.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-653.gif]
  
          (a)   Description. A sign, other than a wall sign, that is mounted to
@@ -8618,7 +8656,7 @@ awning, canopy, crown, projection and wall signs shall not exceed 20% of the
 total square footage of the wall area of that side of the building, not to
 exceed a maximum total amount of 800 square feet.
       (8)   Pylon sign.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-655.gif]
  
          (a)   Description. A sign erected and maintained on a freestanding
@@ -8640,7 +8678,7 @@ allowed on the same property, must be a minimum of 500 feet apart.
 Planning Official to achieve appropriate spacing of signage between adjoining
 lots (the goal is to keep signage evenly spaced along R.O.W. when possible).
       (9)   Sandwich board sign.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-657.gif]
  
          (a)   Description. A movable sign not secured or attached to the
@@ -8659,7 +8697,7 @@ must comply with ADA clearance and accessibility.
 sign located adjacent to the primary facade on the sidewalk with the principal
 customer entrance or up to eight feet from the facade.
       (10)   Shingle sign.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-659.gif]
  
          (a)   Description. A small projecting sign that hangs from a bracket
@@ -8684,7 +8722,7 @@ sign for each individual building or tenant of each individual building or for
 each public/private street or parking area frontage side of an individual
 building.
       (11)   Subdivision sign.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-661.gif]
  
          (a)   Description. A permanently affixed sign which is wholly
@@ -8702,7 +8740,7 @@ outgoing traffic.
          (d)   Number of signs. Two subdivision signs are allowed per street
 frontage, one on each side of an entrance street into a subdivision.
       (12)   Wall sign.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-663.gif]
  
          (a)   Description. Means any attached sign other than a projecting
@@ -8731,7 +8769,7 @@ awning, canopy, crown, projection and wall signs shall not exceed 20% of the
 total square footage of the wall area of that side of the building, not to
 exceed a maximum total amount of 800 square feet per wall.
       (13)   Window sign.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-665.gif]
  
          (a)   Description. An attached sign that is not a temporary sign and
@@ -9199,7 +9237,7 @@ them, 25 feet from their point of intersection. This sight triangle standard
 may be increased by the city in those instances deemed necessary for promoting
 traffic safety, and may be lessened at intersections involving one-way streets.
 Graphic illustration of this requirement is provided below:
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-668.gif]
  
 (Ord. 2025-008, passed 10-16-2025)
@@ -11101,7 +11139,7 @@ half times the height of the wall is either:
             1.   Greater than or equal to the building setback of an adjacent
 lot; or
             2.   Such distance encroaches on any structure.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-674.gif]
  
          (b)   Any retaining walls over four feet in height located adjacent to
@@ -11128,7 +11166,7 @@ public or private access easement.
       (8)   Terraced retaining walls. If walls are terraced, the upper wall
 shall be located no closer to the lower wall than one time the height of the
 tallest wall.
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-672.gif]
  
    (F)   Slopes. Slopes of 1:1 or steeper shall be required to comply with the
@@ -11215,7 +11253,7 @@ Unsignalized driveways       40’-60’
 Notes to Table:
 *GLA - gross leaseable area
  
-[https://export.amlegal.com/media/7ada58cef8877ca071acaf770d63893a25b51b4c/
+[https://export.amlegal.com/media/34e91df116017250d17311cdc5d92198989dee2c/
 IMAGES/0-0-0-676.gif]
  
    (E)   Driveway design, location and construction standards.
