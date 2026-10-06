@@ -1,7 +1,7 @@
 PERU, INDIANA
 CODE OF ORDINANCES
-2025 S-41 Supplement contains:
-Local legislation current through Ord. 21-2025, passed 9-8-25;
+2026 S-41 Supplement contains:
+Local legislation current through Ord. 7-2026, passed 5-1-26;
 State legislation current through Indiana Legislative Service,
 2024 Acts, Pamphlet No. 3
  
@@ -3280,18 +3280,27 @@ drivers, hazardous materials clean-up, and negligent acts may be subject to all
 applicable fees regardless of residency.
 (Ord. 7, 2010, passed 6-7-10)
 § 37.36 AMBULANCE AND TRANSPORT SERVICES USER FEES.
-   (A)   The city hereby establishes a basic life support (BLS) user fee of
-$600 for each transport of emergent run of an individual, $400 for transport of
-a non-emergent run of an individual, and an additional charge of $12 per mile.
-   (B)   The Peru Board of Public Works and Safety shall implement a written
+   (A)   The city hereby establishes the following fee schedule for each
+transport of emergency runs for an individual:
+      (1)   Ambulance mileage: $18 per mile.
+      (2)   ALS-1 non-emergency: $1,000.
+      (3)   BLS non-emergency: $800.
+      (4)   BLS emergency: $950.
+      (5)   ALS-2 emergency, paramedic: $1,500.
+      (6)   Specialty care transport: $1,800 - $2,000.
+   (B)   In the event that, a bill remains delinquent for more than 60 days
+after the billing date for services, the city shall charge late payment fees
+equal to $50 for every 30 days the bill remains delinquent.
+   (C)   The Board of Public Works and Safety shall implement a written
 financial management policy governing the billing and collection of ambulance
-and transport service user fees, upon recommendation of the Peru Fire
-Department, effective upon passage by the Board. The policy shall include
-provisions for hardship cases and write-offs. The policy shall be subject to
-revision from time to time as the Board of Public Works and Safety shall deem
-necessary, and shall be in compliance with all statutes, regulations and rules,
-state and federal, pertaining to such services.
-(Ord. 8, 2010, passed 6-7-10; Am. Ord. 1, 2015, passed 2-2-15)
+and transport service user fees, upon recommendation of the Fire Department,
+effective upon passage by the Board. The policy shall include provisions for
+hardship cases and write-offs. The policy shall be subject to revision from
+time to time as the Board of Public Works and Safety shall deem necessary, and
+shall be in compliance with all statutes, regulations and rules, state and
+federal, pertaining to such services.
+(Ord. 8, 2010, passed 6-7-10; Am. Ord. 1, 2015, passed 2-2-15; Am. Ord. 3-2026,
+passed 3-9-26)
 **** MATERIALITY POLICY ****
 § 37.45 REPORTING ERRONEOUS OR IRREGULAR MATERIAL VARIANCES, LOSSES, SHORTAGES
 OR THEFTS.
@@ -5142,8 +5151,8 @@ Cross-reference:
    Sewer availability fees for Grissom Aeroplex Service Area, see §
 51.02
 § 51.09 TRASH FEE ADDED TO UTILITIES BILL.
-   (A)   A user fee of $15 per month is hereby established for trash collection
-beginning December 1, 2012 for all city residents and any business that may
+   (A)   A user fee of $20 per month is hereby established for trash collection
+beginning January 1, 2023 for all city residents and any business that may
 qualify for trash collection per city ordinance.
    (B)   Unpaid fees may be assessed by the city against real property as
 provided in I.C. 36-9-23-31 through I.C. 36-9-23-34. If fees assessed against
@@ -5152,7 +5161,8 @@ the garbage fees attaches to the delinquent fees consistent with the Peru
 Utilities billing and collections processes for all utilities. The fee amount,
 the penalty and reasonable attorney’s fees may be recovered in a civil action
 in the name of the municipality.
-(Ord. 11, 2012, passed 9-17-12; Am. Ord. 23-2021, passed 11-1-21)
+(Ord. 11, 2012, passed 9-17-12; Am. Ord. 23-2021, passed 11-1-21; Am. Ord. 34-
+2022, passed 1-9-23)
 **** STORMWATER RATES ****
 § 51.20 PURPOSE.
    It is necessary for public health and welfare of the citizens of Peru to
@@ -7449,7 +7459,7 @@ Publication
 56.140   Publication of users in significant noncompliance
 Administrative Enforcement Remedies
    
-56.150   Notification of violation
+56.150   Notification of informal and formal violation
    
 56.151   Agreed orders
    
@@ -7468,7 +7478,7 @@ Judicial Enforcement Remedies
    
 56.170   Injunctive relief
    
-56.171   Civil penalties
+56.171   Civil and criminal penalties
    
 56.172   Remedies nonexclusive
    
@@ -8597,7 +8607,8 @@ volume of its wastewater at least 90 days before the change.
    (A)   The Superintendent may require the user to submit such information as
 may be deemed necessary to evaluate the changed condition, including the
 submission of a wastewater discharge permit application under §
-56.065.
+56.065. The superintendent has the legal authority to accept or deny any new or
+increased discharges from any indirect discharge.
    (B)   Within five days following such discharge, the user shall, unless
 waived by the Superintendent, submit a detailed written report describing the
 cause(s) of the discharge and the measures to be taken by the user to prevent
@@ -8611,7 +8622,8 @@ other prominent place advising employees whom to call in the event of a
 discharge described in division (A) above. Employers shall ensure that all
 employees who may cause such a discharge to occur are advised of the emergency
 notification procedure.
-(Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06)
+(Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06; Am. Ord. 26-
+2025, passed 12-1-25)
 § 56.105 REPORTS OF POTENTIAL PROBLEMS.
    (A)   In the case of any discharge, including, but not limited to,
 accidental discharges, discharges of a nonroutine, episodic nature, a
@@ -8835,20 +8847,25 @@ adversely affect the operation or implementation of the local pretreatment
 program.
 (Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06)
 **** ADMINISTRATIVE ENFORCEMENT REMEDIES ****
-§ 56.150 NOTIFICATION OF VIOLATION.
-   When the Board finds that a user has violated, or continues to violate, any
-provision of this chapter, a wastewater discharge permit or order issued
-hereunder, or any other pretreatment standard or requirement, the
-Superintendent shall serve upon that user a written Notice of Violation. Within
-30 days of the receipt of this notice, an explanation of the violation and a
-plan for the satisfactory correction and prevention thereof, to include
-specific required actions, shall be submitted by the user to the
-Superintendent. Submission of this plan does not relieve the user of liability
-for any violations occurring before or after receipt of the Notice of
+§ 56.150 NOTIFICATION OF INFORMAL AND FORMAL VIOLATION.
+   (A)   Informal notice of violation is a response to a non-significant
+infraction and may be a telephone call, email, or in person meeting. The
+informal notice may be waived in the event of repeated infractions or
+intentional discharges.
+   (B)   Formal notice of violation is when the Board finds that a user has
+violated, or continues to violate, any provision of this chapter, a wastewater
+discharge permit or order issued hereunder, or any other pretreatment standard
+or requirement, the Superintendent shall serve upon that user a written Notice
+of Violation. Within 30 days of the receipt of this notice, an explanation of
+the violation and a plan for the satisfactory correction and prevention
+thereof, to include specific required actions, shall be submitted by the user
+to the Superintendent. Submission of this plan does not relieve the user of
+liability for any violations occurring before or after receipt of the Notice of
 Violation. Nothing in this section shall limit the authority of the Board to
 take any action, including emergency actions or any other enforcement action,
 without first issuing a Notice of Violation.
-(Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06)
+(Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06; Am. Ord. 26-
+2025, passed 12-1-25)
 § 56.151 AGREED ORDERS.
    The Board may enter into Agreed Orders, assurances of voluntary compliance,
 or other similar documents establishing an agreement with any user responsible
@@ -8908,11 +8925,10 @@ prerequisite for, taking any other action against the user.
    (A)   When the Superintendent finds that a user has violated, or continues
 to violate, any provision of this chapter, a wastewater discharge permit or
 order issued pursuant to this chapter, or any other pretreatment standard or
-requirement, the Superintendent may fine such user in an amount not to exceed
-$2,500 as provided by IC § 36-1-3-8. Such fines shall be assessed on a per
-violation, per day basis. In the case of monthly or other long term average
-discharge limits, fines shall be assessed for each day during the period of
-violation.
+requirement, the Superintendent may impose a fine of not more than $2,500 per
+day, per violation for a first violation and no more than $7,500 per day, per
+violation for subsequent violations, in accordance with IC § 36-1-3-8(a)(10)
+(B).
    (B)   Any person who knowingly makes any false statement, representation or
 certification in any application, report, or other document required by this
 chapter or other applicable regulation, or who tampers with or knowingly
@@ -8920,7 +8936,7 @@ renders inaccurate any monitoring device, will, upon conviction, be guilty of a
 Class A infraction and may be fined by any sum not to exceed $10,000 pursuant
 to IC § 34-28-5-4(a).
    (C)   Unpaid charges, fines, and penalties shall, after 60 calendar days, be
-assessed an additional penalty of 10% of the unpaid balance, and interest shall
+assessed an additional fine of 10% of the unpaid balance, and interest shall
 accrue thereafter at a rate of 1.8% per month. A lien against the user's
 property may be filed for unpaid charges, fines, and penalties.
    (D)   Users desiring to dispute such fines must file a written request for
@@ -8933,10 +8949,11 @@ of preparing administrative enforcement actions, such as notices and orders, to
 the fine.
    (E)   Issuance of an administrative fine shall not be a bar against, or a
 prerequisite for, taking any other action against the user.
-(Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06)
+(Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06; Am. Ord. 26-
+2025, passed 12-1-25)
 § 56.156 EMERGENCY SUSPENSIONS.
    (A)   The Superintendent may immediately suspend a user's discharge, after
-formal notice to the user, whenever such suspension is necessary to stop an
+informal notice to the user, whenever such suspension is necessary to stop an
 actual or threatened discharge which reasonably appears to present or cause an
 imminent or substantial endangerment to the health or welfare of persons. The
 Superintendent may also immediately suspend a user's discharge, after notice
@@ -8962,7 +8979,8 @@ show cause or termination hearing under §
 56.157.
    (B)   Nothing in this section shall be interpreted as requiring a hearing
 prior to any emergency suspension under this section.
-(Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06)
+(Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06; Am. Ord. 26-
+2025, passed 12-1-25)
 § 56.157 TERMINATION OF DISCHARGE.
    In addition to the provisions in §
 56.085, any user who violates the following conditions is subject to discharge
@@ -8996,28 +9014,29 @@ and/or equitable relief, including a requirement for the user to conduct
 environmental remediation. A petition for injunctive relief shall not be a bar
 against, or a prerequisite for, taking any other action against a user.
 (Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06)
-§ 56.171 CIVIL PENALTIES.
+§ 56.171 CIVIL AND CRIMINAL PENALTIES.
    (A)   A user who has violated, or continues to violate, any provision of
 this chapter, a wastewater discharge permit, or order issued hereunder, or any
 other pretreatment standard or requirement shall be liable to the Utility for a
 maximum civil penalty of $2,500 per violation per day [IC § 36-1-3-8(a)(10)].
 In the case of a monthly or other long term average discharge limit, penalties
 shall accrue for each day during the period of the violation.
-   (B)   The Utility may bring a civil action to enforce the provisions of this
-chapter in accordance with IC § 36-1-6-4.
+   (B)   The Utility may bring civil and criminal action to enforce the
+provisions of this chapter in accordance with IC § 36-1-6-4.
    (C)   The Superintendent may recover reasonable attorneys' fees, court
 costs, and other expenses associated with enforcement activities, including
 sampling and monitoring expenses, and the cost of any actual damages incurred
 by the Utility.
-   (D)   In determining the amount of civil liability, the Court shall take
-into account all relevant circumstances, including, but not limited to, the
-extent of harm caused by the violation, the magnitude and duration of the
-violation, any economic benefit gained through the user's violation, corrective
-actions by the user, the compliance history of the user, and any other factor
-as justice requires.
+   (D)   In determining the amount of civil and criminal liability, the Court
+shall take into account all relevant circumstances, including, but not limited
+to, the extent of harm caused by the violation, the magnitude and duration of
+the violation, any economic benefit gained through the user's violation,
+corrective actions by the user, the compliance history of the user, and any
+other factor as justice requires.
    (E)   Filing a suit for civil penalties shall not be a bar against, or a
 prerequisite for, taking any other action against a user.
-(Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06)
+(Ord. 25-2000, passed 9-5-00; Am. Ord. 10-2006, passed 3-6-06; Am. Ord. 26-
+2025, passed 12-1-25)
 § 56.172 REMEDIES NONEXCLUSIVE.
    The remedies provided for in this chapter are not exclusive. The
 Superintendent and/or Board may take any, all, or any combination of these
@@ -12258,7 +12277,7 @@ considered for the type and breed of dog being raised.
    (B)   Kennel fences for all size dogs shall be no less than six feet in
 height.
    (C)   The recommended crates or pet beds shall be as listed below.
-[https://export.amlegal.com/media/54e2826336c031dca6725802815941797d267495/
+[https://export.amlegal.com/media/18e0faaea84222383ee3e5849bf3b05695ab0696/
 IMAGES/0-0-0-2341.jpg]
  
    EXHIBIT B
@@ -19531,24 +19550,19 @@ certificates, and other data for all new buildings, structures, additions,
 alterations, repairs, remodeling work, changes of use, and moving buildings,
 required by this chapter, shall be filed both with the Plan Commission and the
 Building Department. Each project filed shall be accompanied by a project
-filing fee, which fee shall be determined from the project filing fee schedule
+filing fee, such fee shall be determined from the project filing fee schedule
 listed in §
 152.18, to be promulgated and agreed on by the Building Department.
-(Ord. 2-1991, passed 2-4-91)
+(Ord. 2-1991, passed 2-4-91; Am. Ord. 12-2021, passed 10-4-21)
 § 152.16 PERMIT REQUIRED.
    (A)   A permit shall be obtained before beginning construction, alteration
-or repair of any building or structure, using forms furnished by the Building
-Commissioner, whenever the scope of the work equals or exceeds the following:
-      (1)   Work on an electrical panel or subpanel, where there may be a
-change of 10% or more in load on any panel or subpanel.
-      (2)   Plumbing work, where a contractor is hired and which involves a
-change of 10% or more in any plumbing lines to the structure.
-      (3)   Foundation or structural work, all (no exemptions).
-      (4)   Roofing work, where the repairs will cover 10% or more of the
-affected roof surface.
+or substantial repair of any building or structure, using forms furnished by
+the Building Commissioner. Exceptions to permit requirements: exact size window
+replacements, siding, floor covering, minor repairs and general maintenance.
    (B)   All fees required by this chapter shall be paid to the City Clerk-
 Treasurer.
-(Ord. 2-1991, passed 2-4-91; Am. Ord. 8, 2018, passed 3-5-18)
+(Ord. 2-1991, passed 2-4-91; Am. Ord. 8, 2018, passed 3-5-18; Am. Ord. 12-2021,
+passed 10-4- 21)
 § 152.17 COMPLIANCE WITH OTHER ORDINANCES.
    All work done under any permit shall be in full compliance with all other
 ordinances pertaining thereto, and in addition to the fees for permits, there
@@ -19562,118 +19576,94 @@ prescribed by this section.
    (A)   Residential: one and two-family dwellings. The fee calculation shall
 be as follows: the minimum dollar or square foot cost, whichever is the
 greater. No permit fee in this division shall exceed $500 for any one project.
-New construction (conventional)                 $0.10 per sq ft / $100.00 min.
-Modular Home Placement                          $0.10 per sq ft / $100.00 min.
-Manufactured Home Placement                     $0.10 per sq ft / $100.00 min.
-Addition                                        $0.10 per sq ft / $100.00 min.
-Remodeling                                      $0.10 per sq ft / $50.00 min.
-Addition of Covered Decks, Covered Porches,     $0.07 per sq ft / $25.00 min.
-Decks or Balconies in excess of 30" above grade
-Roofing - Alteration / Repair / Re-roofing      $40.00
-Accessory Structure
-Permanent ≥ 200 sq ft                         $0.07 per sq ft / $35.00 min.
-Non-Permanent ≤ 120 sq ft                     $35.00
-Miscellaneous Structures (Fences > 6' in        $40.00
-height, ramps, stairs, etc.)
-Swimming Pool/Spa/Whirlpool (residential)
-Above Ground Installation                       $50.00
-In Ground Installation                          $100.00
-Demolition
-Residential Structure                           $60.00
-Detached Accessory Structure                    $40.00
-Relocation (Structure)                          $ 0.10 per sq ft / $100.00 min.
+New construction (conventional)                    $0.10 per sq ft / $100.00
+                                                   min.
+Modular Home Placement                             $0.10 per sq ft / $100.00
+                                                   min.
+Manufactured Home Placement                        $0.10 per sq ft / $100.00
+                                                   min.
+Addition                                           $0.10 per sq ft / $100.00
+                                                   min.
+Renovation/alteration of primary structure         $0.10 per sq ft / $100.00
+                                                   min.
+Structural addition non-living, fixed              $0.07 per sq ft / $25.00
+                                                   min.
+Roofing - Overlay or Complete Tear Off             $40.00
+Renovation/Alteration of Accessory Structure        
+   Permanent 200 sq ft                          $0.10 per sq ft / $35.00
+   Non-Permanent 200 sq ft                      min.
+                                                   $35.00
+Miscellaneous Structures                           $40.00
+   (Fences > 8' in height, ramps, stairs, etc.)
+Swimming Pool / Spa (residential)                  $75.00
+Demolition                                          
+   Residential Structure                        $100.00
+   Detached Accessory Structure                 $60.00
+Relocation (Structure)                             $ 0.10 per sq ft / $100.00
+                                                   min.
 TOTAL REPLACEMENT OF THE FOLLOWING LISTED SYSTEMS:
-Electric Service only (new installation,        $40.00
-upgrade)
-Electrical Service & Rewire Installation        $75.00
-Mechanical (HVAC) Installation                  $75.00
-Plumbing Installation                           $75.00
-Structural Installation                         $75.00
-Sewer connection/alteration                     $40.00
+Electric Service only (new installation, upgrade)  $40.00
+Electrical Service & Rewire Installation           $100.00
+Mechanical (HVAC) Complete New System              $100.00
+Plumbing Installation                              $100.00
 MISCELLANEOUS ITEMS
-Re-inspection                                   $40.00
-Permit Renewal                                  50% of original fee
-Extension of unexpired permit                   $40.00 per inspection
-Certificate of Occupancy                        $125.00
+Permit Renewal One-time, additional requests are   50% of original fee
+subject to internal review and approval
  
    (B)   Agricultural/commercial/industrial. The fee calculation shall be as
 follows: the minimum dollar or square foot cost, whichever is the greater. No
 permit fee in this division shall exceed $5,000 for any one project.
 MULTI - FAMILY DWELLINGS
-MULTI - FAMILY DWELLINGS
-New Construction Apartments /            $15.00 per unit + $0.13 per sq ft
+New Construction Apartments /          $15.00 per unit + $0.13 per sq ft
 Condominiums
-Remodeling of                            $0.13 per sq ft / $100.00 min.
-Addition to                              $0.13 per sq ft / $100.00 min.
+Renovation/Alteration                  $0.25 per sq ft / $100.00 min.
+Addition to                            $0.25 per sq ft / $100.00 min.
 Addition of covered Decks, Covered
-Porches, Decks or Balconies in excess of $0.06 per sq ft / $40.00 min.
-30" above grade
-Roofing - Alteration / Repair / Re-      $50.00 per unit
-roofing
-Relocation                               $100.00 + $0.13 per sq ft
-Demolition                               $100.00 per structure
-Accessory Structure
-Permanent ≥ 200 sq ft                  $0.07 per sq ft / $100.00 min.
-Non-Permanent ≤ 120 sq ft              $75.00
+Porches, Decks or Balconies in excess  $0.06 per sq ft / $40.00 min.
+of 30" above grade
+Roofing - Overlay or Complete Tear-Off $100.00 per unit
+Demolition                             $0.15/sq ft or $100.00 per structure
+                                       minimum
+Accessory Structure                     
+   Permanent                        $0.07 per sq ft / $100.00 min.
 AGRICULTURAL / TRAVEL ROOMS / OFFICE / WAREHOUSE
-Agricultural Structure                   $60.00
-New Construction                         $30.00 per unit + $0.132 per sq ft
-Hotel / Motel                            $30.00 / unit + $0.132 per sq ft
-Warehouse                                $300.00 + $0.132 per sq ft
-Shell Only                               $300.00 + $0.132 per sq ft
-Addition                                 $200.00 + $0.132 per sq ft
+Agricultural Structure                 $60.00
+New Construction                       $30.00 per unit + $0.15 per sq ft
+Hotel / Motel                          $30.00 / unit + $0.15 per sq ft
+Warehouse                              $300.00 + $0.15 per sq ft
+Shell Only                             $300.00 + $0.15 per sq ft
+Addition                               $200.00 + $0.15 per sq ft
 Addition of covered Decks, Covered
-Porches, Decks or Balconies in excess of $0.10 per sq ft / $40.00 min.
-30" above grade
-Remodeling                               $100.00 + $0.132 per sq ft
-Roofing - Alteration / Repair / Re-      $100.00 + $0.07 per sq ft / $1,000
-roofing                                  maximum
-Commercial roofing permits for non-      $100.00 per permit
+Porches, Decks or Balconies in excess  $0.15 per sq ft / $40.00 min.
+of 30" above grade
+Renovation/Alteration                  $150.00 + $0.15 per sq ft
+Roofing - Overlay or Complete Tear-Off $100.00
+Commercial roofing permits for non-    $100.00 per permit
 profits
-Demolition                               $100.00 per structure
-Accessory Structure                      $100.00 + $0.132 per sq ft
-Miscellaneous Structures (Fences > 6' in $100.00
-height, ramps, stairs, etc.)
-Swimming Pool/Spa/Whirlpool              $150.00
+Demolition                             $100.00 per structure + $0.15 per sq ft
+Accessory Structure                    $100.00 + $0.15 per sq ft
+Miscellaneous Structures
+(Fences > 8' in height, ramps, stairs, $100.00
+etc.)
+Swimming Pool / Spa / Whirlpool        $150.00
  
 TOTAL REPLACEMENT OF THE FOLLOWING LISTED SYSTEMS:
 TOTAL REPLACEMENT OF THE FOLLOWING LISTED SYSTEMS:
-Electrical Service (new installation,
-upgrade)
-Service 400 amp                        $40.00
-Service 400 amp & 3 phase              $75.00
-Electrical Service & Rewire            $75.00 + applicable service (see above)
-Installation
-Mechanical (HVAC) Installation         $75.00
-Plumbing Installation                  $75.00
-Structural Alterations                 $75.00
-Sewer connection/alteration            $75.00
-Sprinkler System Installation          $100.00
-Commercial Range Hood Installation
-Class one hood                         $100.00
-Class two hood                         $75.00
-Storage Tank                           $150.00 per unit
-Liquid storage of flammable /
-combustible material in excess of 500
-gallons
-Compressed gas storage in fixed
-containers exceeding:
-200 cubic ft: Flammable gas
-500 cubic ft: Oxidizing gas (including
-Oxygen)
-600 cubic ft: Inert gas
-Towers and/or Similar Structures*      $150.00 per unit
-* includes, but not limited to:
-Communication towers, observation
+Electrical Service (new installation, upgrade)                          
+   Service 400 amp & 3 phase                                        $75.00
+Electrical Service & Rewire Installation                               $100.00
+Mechanical (HVAC) Installation                                         $75.00
+Plumbing Installation                                                  $75.00
+Storage Tank *In ground and flood plain only                           $150.00
+                                                                       per unit
+Towers and/or Similar Structures*                                      $150.00
+*   includes, but not limited to: Communication towers, observation per unit
 facilities, training facilities, etc.
 MISCELLANEOUS ITEMS
-Change of Use                          $75.00
-Re-inspection                          $40.00
-Partial Filing                         $100.00 / submission
-Foundation Release                     $100.00
-Permit Renewal                         50% of original fee
-Extension of unexpired permit          $40.00 per inspection
-Certificate of Occupancy               $125.00
+Change of Use                                                          $75.00
+                                                                       50% of
+Permit Renewal                                                         original
+                                                                       fee
  
    (C)   Registrations and licenses.  
       (1)   All contractors are required to register with the city annually.
@@ -19681,13 +19671,13 @@ Any contractor who is registered with the Miami County Building Commission /
 Plan Commission, the same registration will be accepted by the city. The
 contractor shall provide all applicable documents upon request.
       (2)   Contractor registration shall be accompanied by a certificate of
-liability insurance for a minimum of $100,000 and workmen's compensation issued
+liability insurance for a minimum of $100,000 and workmen’s compensation issued
 by a company registered in the state (ref: Zoning 2-3)(F).
       (3)   Contractor registration shall be valid for a term of one year
 beginning January 1 and expiring December 31 of the same year and shall be
 renewed annually at a fee of $25.
 (Ord. 1-2006, passed 3-6-06; Am. Ord. 5, 2012, passed 4-2-12; Am. Ord. 10,
-2015, amended 4-6-15)
+2015, amended 4-6-15; Am. Ord. 12-2021, passed 10-4-21)
 **** ADMINISTRATION AND ENFORCEMENT ****
 § 152.25 BOARD OF APPEALS.
    (A)   There is hereby created a Board of Housing Appeals. The Board of
@@ -26618,6 +26608,12 @@ Ord. No.   Date Description
            25
 16-2025    5-5- Rezoning from B-1 to R-1 property commonly known as 436 Chili Ave.
            25
+25-2025    11-  Rezoning from B-3 to R-1 property commonly known as 63 West 6th St.
+           3-25
+6-2026     6-1- Rezoning from R-1 to R-3 property commonly known as 366 W 3rd St.
+           26
+7-2026     5-1- Rezoning from R-1 to R-3 property commonly known as 425 W. Main St.
+           26
                
  
 TABLE VI: ECONOMIC REVITALIZATION AREA
@@ -27002,6 +26998,14 @@ amended          more commonly known as 26, 44, 46, 48, 52, 58, 60, 62, 64, 66, 
 28-2022 9-12-22  bounded by the south by West 6th St., bounded by the east by parcel #52-08-28-
                  410-037.000-016, commonly known as 370 W. 6th St., bounded on the west by
                  parcel #52-08-28-410-036.000-016, commonly known as 376 W. 6th.
+                 Vacating an undeveloped street bounded by the north by parcel #52-08-28-201-
+                 007.000-016, commonly known as 381 Blair Pike and parcel #52-08-28-201-001.000-
+                 016, commonly known as 355 Blair Pike, bounded by the south by parcel #52-08-
+33-2022 11-7-22  28-301-153.000- 016, commonly known as 415 W 15th St. and parcel #52-08-28-301-
+                 149.000-016, commonly known as 400 W 14th St. and parcel #52-08-28-301-150.000-
+                 016, commonly known as 415 W 14th St., bounded by the east by parcel #52-08-28-
+                 201-001.000-016, commonly known as 355 Blair Pike, bounded on the west by W
+                 15th St.
                  Vacating the undeveloped north/south alley bounded by the north by parcel #52-
                  08-28-102-064.000-016, commonly known as 11 Washington, bounded by the south,
                  Delores Ave., bounded by the west by parcel #52-08-28-200-001.000-015, commonly
@@ -27219,10 +27223,10 @@ IC Section                      Code Section
 36-1-3-4 et seq.                151.003,
                                 156.004
                                 10.99,
-36-1-3-8                        56.155,
-                                151.999,
+36-1-3-8                        151.999,
                                 156.999
 36-1-3-8(a)(10)                 56.171
+36-1-3-8(a)(10)(B)              56.155
                                 53.02,
                                 54.02,
 36-1-4-11                       54.12,
@@ -28157,6 +28161,9 @@ Am. 17, 2007      9-4-07      T.S.O. VII
 9-2021            4-6-21      37.50
 10, 2021          4-5-21      T.S.O. VII
 11, 2021          4-5-21      T.S.O. VII
+                              152.15,
+12-2021           10-4-21     152.16,
+                              152.18
 13-2021           6-7-21      35.10
 14-2021           7-12-21     T.S.O. II
 15, 2021          7-12-21     T.S.O. VII
@@ -28190,6 +28197,8 @@ Am. 17, 2007      9-4-07      T.S.O. VII
 29-2022           9-12-22     T.S.O. V
 31-2022           10-3-22     T.S.O. V
 32-2022           11-7-22     151.006
+33-2022           11-7-22     T.S.O. VII
+34-2022           1-9-23      51.09
 1-2023            1-9-23      35.17
 2-2023            1-9-23      35.18
 3, 2023           1-9-23      T.S.O. V
@@ -28246,6 +28255,15 @@ Am. 17, 2007      9-4-07      T.S.O. VII
 18-2025           8-4-25      T.S.O. II
 20-2025           8-4-25      91.09
 21-2025           9-8-25      T.S.O. II
+25-2025           11-3-25     T.S.O. V
+                              56.104,
+                              56.150,
+26-2025           12-1-25     56.155,
+                              56.156,
+                              56.171
+3-2026            3-9-26      37.36
+6-2026            6-1-26      T.S.O. V
+7-2026            5-1-26      T.S.O. V
                              
  
  
@@ -28294,6 +28312,9 @@ BOW Res. 5-2022 10-4-22     T.S.O. IV
 21-2023         12-4-23     T.S.O. VI
 22-2024         11-4-24     T.S.O. II
 23-2024         11-4-24     T.S.O. VI
+8, 2025         5-5-25      T.S.O. VII
+9, 2025         5-5-25      T.S.O. VII
+12-2025         7-7-25      T.S.O. VII
 8, 2025         5-5-25      T.S.O. VII
 9, 2025         5-5-25      T.S.O. VII
 12-2025         7-7-25      T.S.O. VII
