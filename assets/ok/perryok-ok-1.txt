@@ -1,7 +1,7 @@
 PERRY, OK
 CODE OF ORDINANCES
-2026 S-18 Supplement contains:
-Local legislation current through Ord. 2026-07, passed 3-16-2026
+2026 S-19 Supplement contains:
+Local legislation current through Ord. 2026-13, passed 8-3-2026
 Published by:
 American Legal Publishing
 525 Vine Street, Suite 310
@@ -3775,8 +3775,9 @@ Section
 5-113   BOARD OF APPEALS
 Section
 5-114   TEMPORARY STORAGE CONTAINERS
-Section 5-115   CONSTRUCTION AND TRADE WORK; RECOGNITION OF STATE LAW
-EXEMPTIONS; PERMIT AND AFFIDAVIT REQUIREMENTS
+Section
+5-115   CONSTRUCTION AND TRADE WORK; RECOGNITION OF STATE LAW EXEMPTIONS;
+PERMIT AND AFFIDAVIT REQUIREMENTS
 ARTICLE 2
 PLUMBING CODE
 Section
@@ -4347,12 +4348,13 @@ Perry or its public trust authorities.
 Section 5-115   CONSTRUCTION AND TRADE WORK; RECOGNITION OF STATE LAW
 EXEMPTIONS; PERMIT AND AFFIDAVIT REQUIREMENTS
    A.   Purpose and intent. The purpose and intent of this section is to
-recognize exemptions from licensures contained in Title 59 of the Oklahoma
-Statutes and clarify when certain work may be performed without engaging a
-state-licensed plumbing, electrical, or mechanical contractor or a locally
-registered residential building contractor. The section does not expand or
-restrict any exemption granted by state law. Finally, the section provides that
-when state law mandates licensure, state law shall control.
+recognize exemptions
+from licensures contained in O.S. Title 59 and clarify when certain work may be
+performed without engaging a state-licensed plumbing, electrical, or mechanical
+contractor or a locally registered residential building contractor. The section
+does not expand or restrict any exemption granted by state law. Finally, the
+section provides that when state law mandates licensure, state law shall
+control.
    B.   General construction.
       1.   No person or other entity shall engage in the occupation of or
 engage in the business of the construction of residential dwellings within the
@@ -4360,10 +4362,10 @@ city, or making repairs thereto, for which a residential building permit is
 required, without registering with the City Clerk and securing a residential
 building contractor’s registration as provided by Section
 5-112 of this municipal code.
-      2.   Except as provided in Subsection B.1., property owners may perform
-construction work on property owned by that person, subject to the acquisition
-or provision of required permits, inspections and compliance with all state
-and/or local adopted codes.
+      2.   Except as provided in Subsection B.1. above, property owners may
+perform construction work on property owned by that person, subject to the
+acquisition or provision of required permits, inspections and compliance with
+all state and/or local adopted codes.
       3.   If construction work is performed for compensation by a person
 engaged in the business of contracting, the provisions of Section
 5-112 of this municipal code shall apply.
@@ -4381,13 +4383,13 @@ including backflow preventers, appliances and/or equipment used in connection
 therewith, directly or indirectly within or without any building or structure,
 or from a point or location at a source of potable water supply at which point
 or location there exists any backflow preventer (as defined by 59 O.S. §
-1017.5, as amended), provided that said pipe and/or piping systems are for
-heating, except radiant-floor heating systems as defined in Subsection D.9. of
-Section 1003 of this title, cooling, air conditioning, refrigeration, or
-boilers and other pressure vessels of whatsoever kind and character.
-         Notwithstanding the above exemptions, a gas shut off valve, if not
-present, shall be installed by a licensed and registered contractor prior to
-the installation of any natural gas fueled appliance.
+1017.5, as amended), provided that said pipe and/or piping systems are for 1)
+heating (except “radiant-floor heating systems,” as defined in 59 O.S. § 1003
+(D)(9)), 2) cooling, 3) air conditioning, 4) refrigeration, or 5) boilers and
+other pressure vessels of whatsoever kind and character.
+         d.   Notwithstanding the above exemptions, a gas shut-off valve, if
+not present, shall be installed by a licensed and registered contractor prior
+to the installation of any natural gas-fueled appliance.
       2.   Owner residence exemption. In addition to plumbing work exempted by
 Subsection C.1. hereinabove, pursuant to 59 O.S. § 1017(6), an individual may
 perform plumbing work on such individual's property of residence subject to
@@ -4401,7 +4403,8 @@ the applicant is the property owner of record; the property is the applicant's
 property of residence; the work will be personally performed by the applicant;
 the property is not being improved for immediate sale, lease, or rental; and
 the applicant accepts responsibility for compliance with applicable plumbing
-codes. Note: See 59 O.S. § 1017, as amended.
+codes.
+            Note: See 59 O.S. § 1017, as amended.
    D.   Electrical.
       1.   Exempt work - any person. The following are exempt from the
 Electrical License Act License Law and city registration and requirements to
@@ -4425,7 +4428,8 @@ his or her own property or residence:
 the applicant is the property owner of record; the work is being performed on
 the applicant's property; the work will be personally performed by the
 applicant; and the applicant accepts responsibility for compliance with adopted
-electrical codes. Note: See 59 O.S. § 1692, as amended.
+electrical codes.
+      Note: See 59 O.S. § 1692, as amended.
    E.   Mechanical.
       1.   Minor repair - property owner. Pursuant to 59 O.S. § 1850.10(B)(1),
 a property owner of record or his or her authorized representative is not
@@ -4459,8 +4463,8 @@ authorized representative under Subsection E.1. hereinabove:
 is the property owner of record or his or her authorized representative; the
 work constitutes minor repair as Subsection E.1. hereinabove; the applicant
 understands licensure is required for non- exempt mechanical work; and the
-applicant accepts responsibility for code compliance. Note: See 59 O.S. §
-1850.10, as amended.
+applicant accepts responsibility for code compliance.
+      Note: See 59 O.S. § 1850.10, as amended.
    F.   Enforcement. The city may issue stop-work orders for work performed in
 violation of this section. Upon violation of this section, the city may issue a
 stop-work order; suspend or revoke permits; and deny issuance of future
@@ -11148,8 +11152,8 @@ any other aggrieved party from pursuing any civil remedies to recover any and
 all costs associated with administration or enforcement of this Article.
 **** ARTICLE 8 MUNICIPAL CODE LIEN ENFORCEMENT ACT ****
 Section 8-801   TITLE
-   This Article shall be known and may be cited as the "Municipal Code Lien
-Enforcement Article." This Article is adopted pursuant to and in accordance
+   This article shall be known and may be cited as the "Municipal Code Lien
+Enforcement Article." This article is adopted pursuant to and in accordance
 with the authority granted under 11 O.S. §§ 22-140 through 22-140.5, known as
 the Municipal Code Lien Enforcement Act of 2025.
 Section 8-802   DECLARATION OF PURPOSE
@@ -11166,14 +11170,14 @@ certain municipal code liens through judicial in rem foreclosure proceedings;
 authorized under 11 O.S. §§ 22-140 et seq. for the limited purpose of enforcing
 municipal code liens against real property that is not owner-occupied;
       5.   That owner-occupied properties shall be expressly excluded from
-judicial in rem foreclosure under this Article, consistent with state law; and
-      6.   That enforcement proceedings under this Article are strictly in rem
+judicial in rem foreclosure under this article, consistent with state law; and
+      6.   That enforcement proceedings under this article are strictly in rem
 and shall not impose personal liability upon property owners.
-   B.   Accordingly, the City Council adopts this Article to provide a lawful
+   B.   Accordingly, the City Council adopts this article to provide a lawful
 and uniform mechanism for enforcement of municipal code liens as authorized by
 state statute.
 Section 8-803   DEFINITIONS
-   A.   For purposes of this Article, the definitions set forth in 11 O.S. §
+   A.   For purposes of this article, the definitions set forth in 11 O.S. §
 22-140.1, as may be amended, are hereby adopted by reference and incorporated
 as if fully set forth herein, including but not limited to the following.
       1.   Code Enforcement Director.
@@ -11186,32 +11190,32 @@ as if fully set forth herein, including but not limited to the following.
       8.   Taxes.
       9.   Tax certificate holder.
       10.   Tax payoff.
-   B.   In the event of any conflict between this Article and state law, state
+   B.   In the event of any conflict between this article and state law, state
 law shall control.
 Section 8-804   APPLICABILITY
-   A.   This Article shall apply to the collection and enforcement of municipal
+   A.   This article shall apply to the collection and enforcement of municipal
 code liens against real property located within the municipal limits, other
 than owner-occupied property.
-   B.   This Article shall not apply to owner-occupied property as defined by
+   B.   This article shall not apply to owner-occupied property as defined by
 state law.
-   C.   This Article applies only to municipal code liens that:
+   C.   This article applies only to municipal code liens that:
       1.   Arise from nonpayment of fines, penalties, abatement costs, or
 enforcement costs incurred in enforcement of state or municipal housing and
 building codes; and
-      2.   Have not been certified to the County Tax Collector for inclusion on
+      2.   Have not been certified to the county tax collector for inclusion on
 the property tax bill.
 Section 8-805   AUTHORIZATION OF JUDICIAL IN REM FORECLOSURE
    A.   The city is hereby authorized to proceed with judicial in rem
 foreclosure of municipal code liens in accordance with 11 O.S. §§ 22-140
 through 22-140.5.
-   B.   Judicial in rem foreclosure under this Article shall be the sole remedy
+   B.   Judicial in rem foreclosure under this article shall be the sole remedy
 for enforcement of municipal code liens through sale of real property.
    C.   Enforcement proceedings:
       1.   Shall be initiated only by the municipality;
       2.   Shall be brought solely in rem against the real property;
       3.   Shall not constitute an action for personal liability; and
-      4.   Shall not extend to any nongovernmental transferee of municipal code
-liens.
+      4.   Shall not extend to any non-governmental transferee of municipal
+code liens.
 Section 8-806   THRESHOLD FOR FORECLOSURE
    A.   Judicial in rem foreclosure shall not commence until the cumulative
 amount of unpaid fees, penalties, and abatement costs secured by the municipal
@@ -11240,12 +11244,12 @@ newspaper of general circulation.
 verbatim where required.
 Section 8-808   EXCLUSION OF OWNER-OCCUPIED PROPERTY
    Owner-occupied property, as defined by state law, shall be expressly
-excluded from judicial in rem foreclosure proceedings under this Article. If
+excluded from judicial in rem foreclosure proceedings under this article. If
 property is reasonably determined to be owner-occupied, no foreclosure action
-shall be filed under this Article.
+shall be filed under this article.
 Section 8-809   NOTICE AND SUPPORT SERVICES FOR OWNER-OCCUPIED PROPERTY
    A.   Although owner-occupied property is excluded from foreclosure
-proceedings under this Article, the municipality shall provide:
+proceedings under this article, the municipality shall provide:
       1.    Written notice of violations and lien filings;
       2.   Information regarding available code compliance assistance programs,
 if any;
@@ -11257,7 +11261,7 @@ authorized by municipal policy.
 consistent with this section.
 Section 8-810   ADMINISTRATIVE REGULATIONS
    The Code Enforcement Director is authorized to promulgate administrative
-rules, forms, and procedures necessary to implement this Article, provided such
+rules, forms, and procedures necessary to implement this article, provided such
 regulations are consistent with state law and approved policies of the City
 Council.
 CHAPTER 9: LICENSING AND BUSINESS REGULATIONS
@@ -14651,21 +14655,38 @@ Section
 10-1103   VIOLATIONS
 ARTICLE 12
 REGULATING THE USE OF TOBACCO PRODUCTS AND/OR VAPOR PRODUCTS AND/OR MARIJUANA
-PRODUCTS ON MUNICIPAL PROPERTY AND INDOOR AND OUTDOOR AREAS AND OTHER
-PROHIBITTED CONDUCT
-SECTION
-10-1201   TOBACCO-FREE AND MARIJUANA-FREE IN CITY-OWNED AND OPERATED BUILDINGS
+PRODUCTS ON MUNICIPAL PROPERTY
+AND INDOOR AND OUTDOOR AREAS AND OTHER PROHIBITED CONDUCT
+DIVISION 1
+MUNICIPAL PROPERTY AND REAL PROPERTY WITHIN CORPORATE LIMITS
+Section
+10-1201   TOBACCO-FREE AND MARIJUANA-FREE IN CITY-OWNED AND -OPERATED BUILDINGS
 AND REAL PROPERTIES LOCATED WITHIN THE CORPORATE LIMITS OF THE CITY OF PERRY.
 Section
 10-1202   DEFINITIONS
 Section
 10-1203   PROHIBITION OF TOBACCO PRODUCTS AND MARIJUANA PRODUCTS AND VAPOR
-PRODUCTS ON CITY-OWNED AND OPERATED PROPERTIES WITHIN THE CORPORATE LIMITS;
+PRODUCTS ON CITY-OWNED AND -OPERATED PROPERTIES WITHIN THE CORPORATE LIMITS;
 PROHIBITED CONDUCT.
 Section
 10-1204   POSTING.
 Section
 10-1205   ENFORCEMENT.
+DIVISION 2
+BUSINESSES WHOSE MAIN PURPOSE IS SELLING TOBACCO AND VAPOR PRODUCTS AND/OR
+ELECTRONIC SMOKING DEVICES
+Section
+10-1206   DEFINITIONS
+Section
+10-1207   PERMIT
+Section
+10-1208   PROHIBITED LOCATION
+Section
+10-1209   VIOLATIONS
+Section
+10-1210   STATUTORY CONSTRUCTION; SEVERABILITY
+Section
+10-1211   LEGAL AUTHORITY AND LEGISLATIVE FINDINGS
 **** ARTICLE 1
 IN GENERAL, ****
 Section 10-101   ATTEMPT TO COMMIT AN OFFENSE
@@ -15478,7 +15499,7 @@ Note: Approved as Ordinance No. 95-3254 on 12-4-95.
 PREVENTION OF YOUTH ACCESS TO TOBACCO AND VAPOR PRODUCTS AND OTHER TOBACCO
 REGULATIONS ****
 Section 10-1001   DEFINITIONS 
-   The following words, terms, and phrases, when used in this Article, shall
+   The following words, terms, and phrases, when used in this article, shall
 have the meanings ascribed to them in this section, except where the context
 clearly indicates a different meaning.
    A.   “Cigarette” means any product that contains nicotine, is intended to be
@@ -15493,9 +15514,9 @@ cigarette.
       The term "cigarette" includes "roll-your-own" (i.e., any tobacco which,
 because of its appearance, type, packaging, or labeling is suitable for use and
 likely to be offered to, or purchased by, consumers as tobacco for making
-cigarettes). For purposes of this definition of cigarette, nine one-hundredths
-(0.09) of an ounce of "roll-your-own" tobacco shall constitute one individual
-"cigarette."
+cigarettes). For purposes of this definition of “cigarette,” nine one-
+hundredths of an ounce of "roll-your-own" tobacco shall constitute one
+individual "cigarette."
    B.   "Nicotine product" means any product that contains nicotine extracted
 or isolated from plants, vegetables, fruit, herbs, weeds, genetically modified
 organic matter, or that is synthetic in origin and is intended for human
@@ -15508,7 +15529,8 @@ or other generally accepted means of identification that describes the
 individual as 21 years of age or older and contains a photograph or other
 likeness of the individual and appears on its face to be valid.
    E.   “Sample” means a tobacco product or vapor product distributed to
-members of the public at no cost for the purpose of promoting the product.
+members of the
+public at no cost for the purpose of promoting the product.
    F.   “Sampling” means the distribution of samples to members of the public
 in a public place.
    G.   “Tobacco product” means any product that contains tobacco and is
@@ -15556,9 +15578,10 @@ following the first offense;
       3.   Not more than $300 for the third or subsequent offense within a two-
 year period following the first offense.
       For purpose of determining second or subsequent violations, both the
-offenses penalized by the ABLE Commission as administrative fines and the
-offenses penalized by this subsection and reported to the ABLE Commission,
-shall be considered together in such determination.
+offenses penalized by the Alcohol Beverage Laws Enforcement (ABLE) Commission
+as administrative fines and the offenses penalized by this subsection and
+reported to the ABLE Commission, shall be considered together in such
+determination.
    D.   Proof that the defendant demanded, was shown, and reasonably relied
 upon proof of age shall be a defense to any action brought pursuant to this
 section. A person cited for violating this section shall be deemed to have
@@ -15589,17 +15612,17 @@ purchasing or receiving any tobacco or vapor product. Provided, however, that
 it shall not be unlawful for an employee who is under 21 years of age to handle
 such tobacco or vapor product when required in the performance of such person's
 employment duties.
-   B.   Any person violating the provisions in Subsection A. shall be guilty of
-an offense, and upon conviction, shall be punished by a fine of:
+   B.   Any person violating the provisions in Subsection A. above shall be
+guilty of an offense, and upon conviction, shall be punished by a fine of:
       1.   Not to exceed $50 for a first offense; and
       2.   Not to exceed $100 for a second or subsequent offense within a one-
 year period following the first offense.
    C.   Upon the failure of the individual to pay any such fine within 90 days
-of the date of such fine, the municipal court clerk shall notify the Department
+of the date of such fine, the Municipal Court Clerk shall notify the Department
 of Public Safety and the department shall suspend or not issue a driver license
 to the individual until proof of payment has been furnished to the Department
 of Public Safety.
-      For purpose of determining second or subsequent violations, both the
+   For purpose of determining second or subsequent violations, both the
 offenses penalized by the ABLE Commission as administrative fines and the
 offenses penalized by this subsection and reported to the ABLE Commission,
 shall be considered together in such determination.
@@ -15614,10 +15637,10 @@ primarily by persons under 21 years of age.
    C.   When a person is convicted or enters a plea and receives a continued
 sentence for a violation of Subsections A. or B. of this section, the total of
 any fines, fees, or costs shall not exceed the following:
-      1.   One Hundred Dollars ($100.00) for the first offense;
-      2.   Two Hundred Dollars ($200.00) for the second offense; and
-      3.   Three Hundred Dollars ($300.00) for the third or subsequent offense.
-      For purpose of determining second or subsequent violations, both the
+      1.   One hundred dollars ($100) for the first offense;
+      2.   Two hundred dollars ($200) for the second offense; and
+      3.   Three hundred dollars ($300) for the third or subsequent offense.
+   For purpose of determining second or subsequent violations, both the
 offenses penalized by the ABLE Commission as administrative fines and the
 offenses penalized by this subsection and reported to the ABLE Commission,
 shall be considered together in such determination.
@@ -15633,16 +15656,15 @@ which do not admit into the store persons under 21 years of age.
 sentence for a violation of this section, the total of any fines, fees, or
 costs shall not exceed $200 for each offense.
 Section 10-1006   REPORT OF VIOLATIONS AND COMPLIANCE CHECKS.
-   A.   Any conviction for a violation of this Article and any compliance
+   A.   Any conviction for a violation of this article and any compliance
 checks conducted by the Police Department pursuant to Subsection B. of this
-section shall be reported in writing to the Alcoholic Beverage Laws Enforcement
-(ABLE) Commission within 30 days of the conviction or compliance check. Such
-reports shall be compiled in the manner prescribed by the ABLE Commission.
-Convictions shall be reported by the Court Administrator/Court Clerk or his or
-her designee and compliance checks shall be reported by the Chief of Police or
-his or her designee.
+section shall be reported in writing to the ABLE Commission within 30 days of
+the conviction or compliance check. Such reports shall be compiled in the
+manner prescribed by the ABLE Commission. Convictions shall be reported by the
+Court Administrator/Court Clerk or his or her designee and compliance checks
+shall be reported by the Chief of Police or his or her designee.
    B.   Persons under 21 years of age may be enlisted by the Police Department
-to assist in enforcement of this Article pursuant to the rules of the ABLE
+to assist in enforcement of this article pursuant to the rules of the ABLE
 Commission.
 **** ARTICLE 11
 TRUANCY ****
@@ -15700,27 +15722,30 @@ to exceed $250.00 plus costs and state assessments.
 **** ARTICLE 12
 REGULATING THE USE OF TOBACCO PRODUCTS AND/OR VAPOR PRODUCTS AND/OR MARIJUANA
 PRODUCTS ON MUNICIPAL PROPERTY AND INDOOR AND OUTDOOR AREAS AND OTHER
-PROHIBITTED CONDUCT ****
-Section 10-1201   TOBACCO-FREE AND MARIJUANA-FREE IN CITY-OWNED AND OPERATED
+PROHIBITED CONDUCT ****
+*** DIVISION 1
+MUNICIPAL PROPERTY AND REAL PROPERTY WITHIN CORPORATE LIMITS ***
+Section 10-1201   TOBACCO-FREE AND MARIJUANA-FREE IN CITY-OWNED AND -OPERATED
 BUILDINGS AND REAL PROPERTIES LOCATED WITHIN THE CORPORATE LIMITS OF THE CITY
 OF PERRY.
 Section
 10-1201 through Section
-10-1205 shall be hereafter known as the Tobacco-Free and Marijuana-Free in
-City-Owned and Operated Buildings and Real Properties located within the
-corporate limits of the City of Perry Ordinance.
+10-1205 shall be hereafter known as the “Tobacco-Free and Marijuana-Free in
+City-Owned and -Operated Buildings and Real Properties Located within the
+Corporate Limits of the City of Perry Ordinance.”
 Section 10-1202   DEFINITIONS
-   The following words, terms and phrases, when used in this Article, shall
+   The following words, terms and phrases, when used in this division, shall
 have the meanings ascribed to them in this section, except where the context
 clearly indicates a different meaning.
-   A.   "Indoor area" shall mean any indoor city-owned and operated property
-located within the Perry corporate limits. An indoor area includes work areas,
-employee lounges, restrooms, conference rooms, classrooms, employee cafeterias,
-hallways, any other spaces used or visited by employees or the public, and all
-space between a floor and ceiling that is predominantly or totally enclosed by
-walls or windows, regardless of doors, doorways, open or closed windows,
-stairways, or the like. The provisions of this section shall apply to such
-indoor areas at any given time, whether or not work is being performed.
+   A.   "Indoor area" shall mean any indoor city-owned and -operated property
+located within the Perry corporate limits. An “indoor area” includes work
+areas, employee lounges, restrooms, conference rooms, classrooms, employee
+cafeterias, hallways, any other spaces used or visited by employees or the
+public, and all space between a floor and ceiling that is predominantly or
+totally enclosed by walls or windows, regardless of doors, doorways, open or
+closed windows, stairways, or the like. The provisions of this section shall
+apply to such indoor areas at any given time, whether or not work is being
+performed.
    B.   "Outdoor area" shall mean any covered area, partially covered area or
 area open to the sky that is on a property owned and operated by the City of
 Perry and located within the Perry corporate limits.
@@ -15735,12 +15760,12 @@ from tobacco and is intended for human consumption excluding drugs or devices
 approved for cessation by the United States Food and Drug Administration. This
 includes e-cigarettes and vapor products, with or without nicotine.
    E.   "Tobacco-free" shall mean to prohibit the use of any tobacco product by
-anyone, at any time, at any prohibited location as further defined by Sections
-26-101 through 26-105.
+anyone, at any time, at any prohibited location as further defined by this
+article, this code, or Oklahoma Statutes.
    F.   "Vapor product" means any noncombustible product, that may or may not
 contain nicotine, that employs a mechanical heating element, battery,
 electronic circuit, or other mechanism, regardless of shape or size, that can
-be used to produce a vapor in a solution or other form. Vapor product shall
+be used to produce a vapor in a solution or other form. “Vapor product” shall
 include any vapor cartridge or other container with or without nicotine or
 other form that is intended to be used with an electronic cigarette, electronic
 cigar, electronic cigarillo, electronic pipe, or similar product or device and
@@ -15758,10 +15783,10 @@ preparation of the mature stalks, except the resin extracted from the mature
 stalks, fiber, oil or cake, or the sterilized seed of the plant that is
 incapable of germination.
    H.   "Marijuana-free" shall mean to prohibit the use of marijuana products
-by anyone, at any time, at any prohibited location as further defined by
-Sections 26-101 through 26-105.
+by anyone, at any time, at any prohibited location as further defined by this
+article, this code, or Oklahoma Statutes.
 Section 10-1203   PROHIBITION OF TOBACCO PRODUCTS AND MARIJUANA PRODUCTS AND
-VAPOR PRODUCTS ON CITY-OWNED AND OPERATED PROPERTIES WITHIN THE CORPORATE
+VAPOR PRODUCTS ON CITY-OWNED AND -OPERATED PROPERTIES WITHIN THE CORPORATE
 LIMITS; PROHIBITED CONDUCT.
    A.   The possession of lighted tobacco or lighted marijuana products in any
 form is a public nuisance and dangerous to public health and is hereby
@@ -15775,15 +15800,15 @@ law; and
 restaurant.
    B.   All buildings and other properties, including indoor and outdoor areas,
 owned and operated by the City of Perry located within the Perry corporate
-limits, shall be entirely tobacco free to include all forms of tobacco products
-including vapor products and entirely marijuana-free to include all forms of
-marijuana products including vapor products using marijuana. No tobacco smoking
-or tobacco vaping or marijuana smoking or marijuana vaping shall be allowed
-within 25 feet of the entrance or exit of any building specified in this
-subsection.
+limits, shall be entirely tobacco- free to include all forms of tobacco
+products including vapor products and entirely marijuana-free to include all
+forms of marijuana products including vapor products using marijuana. No
+tobacco smoking or tobacco vaping or marijuana smoking or marijuana vaping
+shall be allowed within 25 feet of the entrance or exit of any building
+specified in this subsection.
    C.   All indoor and outdoor recreational areas owned and operated by the
 City of Perry located within the Perry corporate limits, shall be entirely
-tobacco free to include all forms of tobacco products including vapor products
+tobacco-free to include all forms of tobacco products including vapor products
 and entirely marijuana-free to include all forms of marijuana products
 including vapor products using marijuana.
    D.   Smoking tobacco products or lighted marijuana products are prohibited
@@ -15796,7 +15821,7 @@ festivals and events are permitted, sanctioned or conducted by the city.
    F.   The possession of lighted tobacco or lighted marijuana products in any
 form, the smoking or vaping tobacco or smoking or vaping marijuana, or the use
 of any and all tobacco products or the possession or use of any and all
-mariiuana products are prohibited in all vehicles owned or operated by the
+marijuana products are prohibited in all vehicles owned or operated by the
 city.
    G.   No person or entity shall intimidate, threaten, or otherwise retaliate
 against another person or entity that seeks to attain compliance with this
@@ -15807,30 +15832,180 @@ Section 10-1204   POSTING.
 two inches in size, at each entrance of city owned and/or operated property or
 building located within the Perry corporate limits indicating the property and/
 or building is tobacco-free and marijuana-free.
-   B.   The City of Perry is responsible for posting weather resistant signage
-of at least 15 inches by 15 inches in size with at least 1 inch lettering at
+   B.   The City of Perry is responsible for posting weather-resistant signage
+of at least 15 inches by 15 inches in size with at least one-inch lettering at
 the entrance of outdoor areas owned or operated by the city that clearly state
 that smoking or tobacco use is prohibited or that a tobacco-free environment is
 provided.
    C.   The posting of signs or decals is the responsibility of the Mayor and/
-or supervisor of the city owned and operated property located within the Perry
+or supervisor of the city-owned and -operated property located within the Perry
 corporate limits.
    D.   Notwithstanding the provision of this section, the presence or absence
-of signs shall not be a defense to a charge of the violation of Section 26-103.
+of signs shall not be a defense to a charge of the violation of this article,
+this code, or Oklahoma Statutes.
 Section 10-1205   ENFORCEMENT.
    The City of Perry shall, at a minimum, do the following in order to prevent
-tobacco and marijuana products and vapor product use in city owned and operated
-property located within the Perry corporate limits:
-   A.   Post signs at entrances to city owned and operated properties located
+tobacco and marijuana products and vapor product use in city-owned and -
+operated property located within the Perry corporate limits:
+   A.   Post signs at entrances to city-owned and -operated properties located
 within the Perry corporate limits which state that tobacco use and/or marijuana
 product use and/or vapor product use are prohibited; and
    B.   Ask tobacco users to refrain from using any form of tobacco products,
 including vapor products upon observation of anyone violating the provisions of
-this Article. In addition, ask marijuana product users to refrain from using
+this division. In addition, ask marijuana product users to refrain from using
 any form of marijuana products, including marijuana vapor products upon
-observation of anyone violating the provisions of this Article.
+observation of anyone violating the provisions of this division.
    C.   The Perry Police Department is responsible for the enforcement of this
-Article.
+division.
+*** DIVISION 2
+BUSINESSES WHOSE MAIN PURPOSE IS SELLING TOBACCO AND VAPOR PRODUCTS AND/OR
+ELECTRONIC SMOKING DEVICES ***
+Section 10-1206   DEFINITIONS.
+   The following words, terms and phrases, when used in this division, shall
+have the meanings ascribed to them in this section, except where the context
+clearly indicates a different meaning:
+   A.   “Electronic smoking device” means any device that may be used to
+deliver any aerosolized or vaporized substance to the person inhaling from the
+device, including, but not limited to, an e-cigarette, e-cigar, e-pipe, vape
+pen, or e-hookah. “Electronic smoking devices” include any component, part, or
+accessory of the device, and includes any substance that may be aerosolized or
+vaporized by such device, whether or not the substance contains nicotine.
+“Electronic smoking device” does not include drugs, devices, or combination
+products authorized for sale by the U.S. Food and Drug Administration, as those
+terms are defined in the Federal Food, Drug, and Cosmetic Act.
+   B.   “Person” means any individual, firm, fiduciary, partnership,
+corporation, trust, or association, however formed.
+   C.   "Public Parks" means any real property owned by the city or state and
+intended by the public entity as a park.
+   D.   "Public Playground" means any area used for outdoor play or recreation,
+especially by children, and often containing recreational equipment such as
+slides and swings.
+   E.   "Main Purpose" means an estimated one-half or more of the total gross
+revenue received in a calendar year by the sale of tobacco products and/or
+vapor products and/or electronic smoking devices by any person in a business
+location within the corporate limits of the City of Perry.
+   F.   "School" means any property, building, permanent structure, facility,
+auditorium, stadium, arena or recreational facility owned, leased or under the
+control of a public school district or private school or any educational
+facility that is accredited by the State of Oklahoma. “School” also means and
+includes all licensed childcare facilities, kindergartens, elementary schools,
+which may include either K-6 or K-8, and all secondary schools. “School”
+includes any institution within the Oklahoma State System of Higher Education
+or any other public or private college or university that is accredited by a
+national accrediting body.
+   G.   "Tobacco product" means any product that is made from or derived from
+tobacco, or that contains nicotine, that is intended for human consumption or
+is likely to be consumed, whether smoked, heated, chewed, absorbed, dissolved,
+inhaled or ingested by any other means, including, but not limited to, a
+cigarette, a cigar, pipe tobacco, chewing tobacco, snuff, or snus. "Tobacco
+product" also means electronic smoking devices and any component or accessory
+used in the consumption of a tobacco product, such as filters, rolling papers,
+pipes, and liquids used in electronic smoking devices, whether or not they
+contain nicotine. “Tobacco product” does not include drugs, devices, or
+combination products authorized for sale by the U.S. Food and Drug
+Administration, as those terms are defined in the Federal Food, Drug and
+Cosmetic Act.
+   H.   "Vapor product" shall mean noncombustible products, that may or may not
+contain nicotine, that employ a mechanical heating element, battery, electronic
+circuit, or other mechanism, regardless of shape or size, that can be used to
+produce a vapor in a solution or other form. "Vapor products" shall include any
+vapor cartridge or other container with or without nicotine or other form that
+is intended to be used with an electronic cigarette, electronic cigar,
+electronic cigarillo, electronic pipe, or similar product or device. "Vapor
+products" do not include any products regulated by the United States Food and
+Drug Administration under Chapter V of the Food, Drug, and Cosmetic Act.
+Section 10-1207   PERMIT.
+   Any person desiring to own, operate, manage or lease a business which has as
+its main purpose the sale or furnishing of tobacco products and/or vapor
+products and/or electronic smoking devices in a properly commercial zoning
+district, shall apply for and secure an annual permit (January 1 through
+December 31) with the City Clerk and pay a fee of $10. No person shall own,
+operate, manage or lease a business which has at its main purpose the sale or
+furnishing of tobacco products and/or vapor products and/or sale of electronic
+smoking devices, without having secured a valid and legally effective permit.
+Section 10-1208   PROHIBITED LOCATION.
+   No person shall own, operate, manage or lease a business which has as its
+main purpose the sale or furnishing of tobacco products and/or vapor products
+and/or electronic smoking devices, which business is located within 300 feet of
+any school, playground, public park or other facilities being used primarily by
+persons under 21 years of age within the corporate limits of the City of Perry
+(hereinafter referred to as a "prohibited location"). The distance indicated in
+this section shall be measured from the nearest property line of such school,
+public playground, public park or other facilities being used primarily by
+persons under 21 years of age, to the nearest perimeter wall of the premises of
+the business which has at its main purpose the sale or furnishing of tobacco
+products and/or vapor products and/or electronic smoking devices. No permit
+shall be issued for such a business in a prohibited location.
+Section 10-1209   VIOLATIONS.
+   It shall be unlawful for any person to violate, by act or omission, any
+section of this division. Any violation of any section of this division is an
+offense against the City of Perry and upon conviction of any such offense, the
+violator shall be punished with a fine of not more than $100, plus court costs
+and fees and with each such day of continuing violation considered a separate
+offense.
+Section 10-1210   STATUTORY CONSTRUCTION; SEVERABILITY.
+   The provisions of this division are adopted in furtherance of the State of
+Oklahoma's compelling interest in protecting public health and welfare,
+reducing exposure to secondhand smoke, and supporting tobacco-control efforts
+consistent with Oklahoma public policy. Nothing in this division shall be
+interpreted to conflict with, preempt, or exceed the authority granted to local
+governments under applicable state law or constitutional provisions. In
+interpreting this division, governing bodies and courts shall:
+   A.   Harmonize with Oklahoma Statutes governing smoking in public places. It
+is the intent of the City Council that this division be construed in harmony
+with the Smoking in Public Places and Indoor Workplaces Act codified in 63 O.S.
+§§ 1-1521 through 1-1527, and related provisions that regulate smoking in
+public and indoor workplaces, except where local authority to adopt more
+protective measures is expressly permitted by law. Any interpretation shall
+give effect to the purpose of reducing exposure to tobacco smoke in public
+places while respecting exemptions recognized by state statute.
+   B.   Support of public health policy and tobacco prevention. This division
+shall be interpreted to further the State of Oklahoma's public health policy
+objectives, including reducing the harmful effects of tobacco use and
+secondhand smoke in the community—objectives which are consistent with funding
+priorities identified in Article X, Section 40 of the Oklahoma Constitution,
+establishing the Tobacco Settlement Endowment Trust Fund to prevent and combat
+tobacco-related disease and fund tobacco prevention and cessation programs.
+   C.   Broad construction for public health protection. Words and phrases used
+in this division shall be construed in context and according to the purpose of
+protecting public health. When a term is not defined in this division, it
+should be given its plain and ordinary meaning unless otherwise defined by
+applicable state law. Any ambiguities shall be resolved in favor of advancing
+public health and minimizing harm from tobacco smoke.
+Section 10-1211   LEGAL AUTHORITY AND LEGISLATIVE FINDINGS.
+   The City Council finds and declares that this division is adopted pursuant
+to the City's constitutional and charter authority, the Oklahoma Municipal
+Code, and applicable Oklahoma statutes preserving municipal zoning and land-use
+authority. Specifically, this division is adopted pursuant to:
+   A.   Article XI, Section 9 of the Charter of the City of Perry, which grants
+the city full power to promote the public health, safety, morals, and general
+welfare by regulating the use of real property, controlling and directing the
+development of the city, and exercising complete planning, zoning, development,
+and subdivision regulatory authority to the fullest extent permitted by the
+Constitutions of the United States and the State of Oklahoma.
+   B.   11 O.S. § 43-101 et seq., which authorizes municipalities to regulate
+and restrict the location and use of land and buildings in order to promote the
+health, safety, morals, and general welfare of the community.
+   C.   63 O.S. § 1-229.20, which expressly preserves the lawful authority of
+municipalities to regulate zoning and land use affecting businesses engaged in
+the sale of tobacco products, nicotine products, and vapor products,
+notwithstanding the statutory preemption of local regulation of the sale,
+distribution, advertising, licensing, or taxation of such products.
+   D.   2023 OK AG 16, which concludes that Oklahoma law permits municipalities
+to adopt zoning and land-use regulations governing the location of businesses
+selling tobacco products, nicotine products, and vapor products, including
+reasonable separation requirements from schools and facilities used primarily
+by minors, when adopted pursuant to the municipality's zoning authority.
+   The City Council further finds that the location of businesses whose
+principal purpose is the sale of tobacco products, nicotine products, vapor
+products, and electronic smoking devices is a legitimate land-use concern
+affecting neighborhood compatibility, the protection of children and young
+adults, pedestrian-oriented public facilities, and the general health, safety,
+and welfare of the citizens of the city. Accordingly, this division constitutes
+a land-use and zoning regulation and is not intended to regulate the
+manufacture, sale, taxation, advertising, distribution, possession, or
+licensing of tobacco, nicotine, or vapor products except as reasonably
+necessary to implement the city's lawful zoning authority.
 CHAPTER 11: LIBRARIES, CEMETERIES, AND LAKE REGULATIONS
 ARTICLE 1
 LIBRARIES
@@ -17969,10 +18144,10 @@ D.   Curb Length per car
 E.   Aisle Width
 F.   Wall to Wall Width for Double Aisle
 G.   Overlap Center to Overlap Center Width for Double Aisle
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-25.png]
  
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-27.png]
  
 PARKING LAYOUT DIMENSIONS
@@ -17994,10 +18169,10 @@ A  B     C    D    E    F
    D.   Aisle Width
    E.   Vehicle Projection for 18’ Stall Length
    F.   Wall to Wall Width for Double Aisle
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-29.png]
  
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-31.png]
  
    (4)   Separation from Public Right-of Way. All off-street parking areas,
@@ -18871,7 +19046,7 @@ concrete measuring no less than 8 x 16 x 4 inches, forming a base sixteen (16)
 inches square. For leveling purposes, wood blocking no less than the nominal
 dimensions of 8 x 16 inches with a maximum thickness of four (4) inches may be
 used.
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-33.png]
    2.    The tie down and anchoring system shall be provided as recommended by
 the manufacturer or as follows:
@@ -18937,20 +19112,20 @@ least two (2) off-street parking spaces of no less than two hundred square feet
 of this municipal code.
    T.   The following are figures of mobile, manufactured and modular homes.
 Trailer House, Mobile Home, Double Wide:
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-35.png]
  
 All have their own steel frame and are tied down with straps and rest on
 blocks.
 Manufactured and New Manufactured Home:
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-37.png]
  
 Built off-site using same materials and components as a conventional house.
 Sits on a perimeter foundation, on a poured footingand is bolted down to it.
 Transported to site on a trailer or other temporary wheeled apparatus.
 Modular Home:
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-39.png]
  
 Built in pre-finished modules or pieces off-site and assembled and finished on-
@@ -21911,26 +22086,26 @@ office of the city clerk. Any violation of the subdivision regulations of the
 city is punishable as provided in Section
 1-108 of this code.
 Section 12-321   CLOSING OF PUBLIC WAYS OR EASEMENTS BY ORDINANCE
-   A.   Definitions. For purpose of this Section, the following words shall
+   A.   Definitions. For purpose of this section, the following words shall
 have the following meanings:
-      1.   “Close” shall mean the legislative act of the City Council
+      1.   "Close" shall mean the legislative act of the City Council
 discontinuing the public use of a public way or easement without affecting
 title to real property.
-      2.   “Vacate” shall mean the termination, by written instrument, as
-provided by 11 O.S. §42-106, or judicial act of the Noble County District
+      2.   "Vacate" shall mean the termination, by written instrument, as
+provided by 11 O.S. § 42-106, or judicial act of the Noble County District
 Court, of private and/or public rights in a public way, easement, or plat and
 vesting title in real estate in private ownership.
-      3.   “Public way” shall mean a street, avenue, boulevard, alley, lane, or
+      3.   "Public way" shall mean a street, avenue, boulevard, alley, lane, or
 thoroughfare open for public use.
-      4.   “Easement” shall mean rights in real property as set forth in 60
-O.S. §49.
-   B.   Application and Fee. Any person, firm or corporation owning any real
-property in the City who desires to close a public way or easement abutting
+      4.   "Easement" shall mean rights in real property as set forth in 60
+O.S. § 49.
+   B.   Application and fee. Any person, firm or corporation owning any real
+property in the city who desires to close a public way or easement abutting
 such real property shall file an application with the City Clerk and pay an
-application fee of One Hundred Dollars ($100.00). The application shall include
-a metes and bounds description of the public way or easement sought to be
-closed, the reason for such request for closing and whether the applicant
-intends to seek to vacate the real property.
+application fee of $100. The application shall include a metes and bounds
+description of the public way or easement sought to be closed, the reason for
+such request for closing and whether the applicant intends to seek to vacate
+the real property.
    C.   Procedure. Upon receipt of such application and fee, the City Clerk
 shall send a copy of the application to the City Manager or designee, Electric
 Superintendent, Police Chief, Fire Chief, Water and Sewer Superintendent. If
@@ -21942,26 +22117,26 @@ applicant shall be advised and, if possible, the concerns should be resolved by
 negotiation. In any event, the City Clerk shall thereafter prepare and mail a
 notice of closing of the public way or easement which provides for the date,
 time and location for a public hearing before the City Council on the
-application. The hearing before the City Council shall be set at least thirty
-(30) days after the date of mailing the notice. The notice shall contain the
-date of the hearings, information from the application and the ordinance
-proposing to close the public way or easement. The notice with the proposed
-enclosed ordinance shall be mailed by the City Clerk to the telephone, cable,
-electric, water, sewer, natural gas, solid waste companies, internet companies,
-and any other holder of a city franchise. The City Council hereby legislatively
-determines that in addition to the above persons and entities required to
-receive notice, any person, firm, or corporation owning real property which is
-adjacent or abutting to the public way or easement sought to be closed shall
-receive a copy of the notice and ordinance.
-   D.   Hearing. After conducting the hearings set out in subsection C, the
+application. The hearing before the City Council shall be set at least 30 days
+after the date of mailing the notice. The notice shall contain the date of the
+hearings, information from the application and the ordinance proposing to close
+the public way or easement. The notice with the proposed enclosed ordinance
+shall be mailed by the City Clerk to the telephone, cable, electric, water,
+sewer, natural gas, solid waste companies, internet companies, and any other
+holder of a city franchise. The City Council hereby legislatively determines
+that in addition to the above persons and entities required to receive notice,
+any person, firm, or corporation owning real property which is adjacent or
+abutting to the public way or easement sought to be closed shall receive a copy
+of the notice and ordinance.
+   D.   Hearing. After conducting the hearings set out in Subsection C, the
 City Council by ordinance may close to the public use any public way or
-easement within the City whenever necessary or expedient. The ordinance shall
-provide that the City retains the absolute right to reopen the public way or
-easement without expense to the City until and unless the public way or
+easement within the city whenever necessary or expedient. The ordinance shall
+provide that the city retains the absolute right to reopen the public way or
+easement without expense to the city until and unless the public way or
 easement is vacated by the Noble County District Court. The public way or
 easement may be reopened by ordinance whenever:
       1.   The City Council deems it necessary; or
-      2.   An application of property owners owning more than one- half in area
+      2.   An application of property owners owning more than one-half in area
 of the property abutting on the public way or easement previously closed is
 filed with the City Council.
    E.   Closing the public way or easement shall not affect the right to
@@ -22961,16 +23136,16 @@ property.
 SECTION 12-503   GENERAL SIGN TYPES
    1.   General. Sign types and the computation of sign area of sign area shall
 be depicted in Figures (1) through (4).
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-41.png]
  
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-43.png]
  
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-45.png]
  
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-47.png]
  
 SECTION 12-504   GENERAL PROVISIONS.
@@ -23167,14 +23342,14 @@ agricultural
 zone
 Commercial &   unlimited       See Figs. 5 - 7 See Figs. 5 - 7 100'
 Industrial
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-49.png]
 FIGURE 5
 ON-PREMISES FREE-STANDING SIGNS
 COMMERCIAL AND INDUSTRIAL ZONES
 VEHICULAR SPEED SUBJECT TO POSTED
 LIMITS UNDER 35 MILES PER HOUR
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-51.png]
  
 FIGURE 6
@@ -23182,7 +23357,7 @@ ON-PREMISES FREE-STANDING SIGNS
 COMMERCIAL AND INDUSTRIAL ZONES
 VEHICULAR SPEEDS SUBJECT TO POSTED
 LIMITS BETWEEN 35 AND 55 MILES PER HOUR
-[https://export.amlegal.com/media/0be099c6d2b80a69987e79eef9fd1b15a773f17d/
+[https://export.amlegal.com/media/d9e5046a914f46294a06c0bc105dd403cea1c87b/
 IMAGES/0-0-0-53.png]
  
 FIGURE 7
@@ -25605,7 +25780,7 @@ Section
 14-116   MOWING AND/OR SWEEPING GRASS CLIPPINGS, VEGETATIVE MATERIAL OR OTHER
 LITTER IN THE STREETS OR OTHER PUBLIC PLACE PROHIBITED
 Section
-14-117   SIDEWALKS REQUIRED FOR NEW DEVELOPMENT; DEFINITIONS;, REQUIREMENTS;
+14-117   SIDEWALKS REQUIRED FOR NEW DEVELOPMENT; DEFINITIONS; REQUIREMENTS;
 SIDEWALK SPECIFICATIONS; EXCEPTIONS. 
 ARTICLE 2
 EXCAVATING OR CUTTING STREETS AND ALLEYS
@@ -25812,38 +25987,82 @@ shall keep the sidewalk, street, or other public place free of grass clippings,
 vegetative material, or other litter.
 Section 14-117   SIDEWALKS REQUIRED FOR NEW DEVELOPMENT; DEFINITIONS;
 REQUIREMENTS; SIDEWALK SPECIFICATIONS; EXCEPTIONS.
-   A.   Definitions: For the purposes of this section, the following definition
+   A.   Definitions. For the purposes of this section, the following definition
 shall apply:
-NEW DEVELOPMENT shall mean any new subdivision of land in the City requiring a
-platting process which occurs after the enactment of this section, resulting in
-the development of three (3) or more lots or tracts.    
-   B.   Requirement: Developers, owners or persons in custody and control of
+      "New Development" shall mean any new subdivision of land in the city
+requiring a platting process which occurs after the enactment of this section,
+resulting in the development of three or more lots or tracts.
+   B.   Requirement. Developers, owners or persons in custody and control of
 any real property desiring to construct new development in a residential,
 commercial or special/public use zoning district in the City of Perry shall
 construct sidewalks that parallel abutting streets in the public right-of-way
 pursuant to the specifications as provided by Subsection C, unless excepted as
 provided in Subsection D. The purpose of this section is to encourage sidewalks
-that promote active living in the City. The requirements of this section are
+that promote active living in the city. The requirements of this section are
 applicable to site plan review and may be considered and required as a part of
-site plan review process.   
-   C.   Sidewalk Specifications.    
-   1.   Sidewalks, including curbs, ramps and other associated facilities and
-appurtenances (“sidewalks”) shall comply with the most current design,
+site plan review process.
+   C.   Sidewalk specifications.
+      1.   Sidewalks, including curbs, ramps and other associated facilities
+and appurtenances ("sidewalks") shall comply with the most current design,
 construction and accessibility guidelines provided in the Americans with
-Disabilities Act (hereinafter the “ADA”).    
-   2.   Plans for sidewalks shall be submitted in the form of an application
-for permit and approved by the City Building Official with respect to location
+Disabilities Act (hereinafter the "ADA").
+      2.   Plans for sidewalks shall be submitted in the form of an application
+for permit and approved by the city Building Official with respect to location
 and the requirements of this section prior to construction. A permit will be
-issued for the construction of such sidewalk at no cost to the applicant.    
-   D.   Exceptions:   
-   1.   New development located adjacent to unimproved roads.   
-   2.   New development located on agricultural or industrial zoned land unless
-such property is subject to rezoning for the new residential, commercial or
-special/public use zoning district development.    
-   3.   Placement or construction of an accessory building in a residential,
-commercial or special/public use zoning district.    
-   4.   In the case of a new subdivision of land, the sidewalk need only be
-constructed on one (1) side of the public right-of-way.   
+issued for the construction of such sidewalk at no cost to the applicant.
+   D.   Exceptions.
+      1.   New development located adjacent to unimproved roads.
+      2.   New development located on agricultural- or industrial-zoned land
+unless such property is subject to rezoning for the new residential, commercial
+or special/public use zoning district development.
+      3.   Placement or construction of an accessory building in a residential,
+commercial or special/public use zoning district.
+      4.   In the case of a new subdivision of land, the sidewalk need only be
+constructed on one side of the public right-of-way.
+      5.   Notwithstanding the foregoing requirements, the City Council may
+waive or modify the sidewalk requirements of this section upon making written
+findings that one or more of the following conditions exist:
+         a.   The proposed development does not connect to an existing public
+sidewalk system and there are no reasonably anticipated public sidewalk
+improvements planned within five years that would connect to the proposed
+sidewalk;
+         b.   The installation of sidewalks would not substantially improve
+pedestrian connectivity, public safety, or access to schools, parks, commercial
+areas, public facilities, or other activity centers;
+         c.   Physical characteristics of the property, including but not
+limited to drainage features, topography, utility conflicts, existing
+easements, or right-of-way limitations, make sidewalk construction impractical
+or create disproportionate costs relative to the public benefit received;
+         d.   The development provides alternative pedestrian facilities,
+pedestrian pathways, trails, internal circulation systems, or other pedestrian
+amenities that substantially satisfy the intent and purpose of this section;
+         e.   The development is approved as a planned unit development and the
+City Council determines that the proposed pedestrian circulation system
+adequately serves the development and surrounding area;
+         f.   The development consists of a single tract or parcel and is not
+being subdivided into three or more lots or tracts requiring a platting
+process;
+         g.   Strict application of this section would not further the stated
+purpose of encouraging active living and pedestrian connectivity within the
+city; or
+         h.   The City Council determines, based upon competent evidence
+presented during the review process, that a waiver or modification is in the
+best interests of the city and will not adversely affect public health, safety,
+or welfare.
+         Any waiver or modification granted pursuant to this subsection shall
+be supported by findings entered into the record as part of the approval
+process.
+   E.   City participation. Notwithstanding any provision contained hereto, the
+city may, in its sole discretion, appropriate up to 50% of the estimated cost
+for such sidewalk, as determined appropriate by the City Manager and within his
+or her spending authority and available appropriated monies; provided however,
+the person, firm, corporation or other entity shall have an affirmative duty to
+make a written request for participation to the city. If the city makes the
+appropriation, it shall pay such amount to the person, firm, corporation or
+other entity constructing the sidewalk, which sidewalk must be constructed
+pursuant to this section and other requirements of the city, and after approval
+and acceptance of the sidewalk and receipt of all requested documentation from
+the person, firm, corporation or other entity.
 **** ARTICLE 2
 EXCAVATING OR CUTTING STREETS AND ALLEYS ****
 Section 14-201   APPLICATION FOR A CITY PERMIT.
@@ -30355,9 +30574,51 @@ Section
 Section
 17-608   USE OF ANOTHER'S TRASH CONTAINER
 ARTICLE 7
-STORMWATER DRAINAGE SYSTEM SERVICE ORDINANCE
+STORMWATER MANAGEMENT SYSTEM
+Division 1
+IN GENERAL
 Section
-17-701   STORMWATER DRAINAGE SYSTEM SERVICE ORDINANCE AUTHORIZED
+17-701   STATUTORY AUTHORIZATION
+Section
+17-702   FINDINGS OF FACT
+Section
+17-703   STATEMENT OF PURPOSE
+Section
+17-704   DEFINITIONS
+Section
+17-705   DUTIES OF DIRECTOR
+Section
+17-706   STORMWATER DRAINAGE FUND
+Section
+17-707   MASTER DRAINAGE PLAN
+Section
+17-708   SUBDIVISION PLAT, SITE PLAN AND BUILDING PERMIT APPROVAL
+Section
+17-709   STORMWATER MITIGATION
+Section
+17-710   DEVELOPMENT FEE REQUIREMENTS; CREDITS
+Division 2
+STORMWATER DRAINAGE FEES
+Section
+17-720   DEFINITIONS
+Section
+17-721   STORMWATER UTILITY SERVICE CHARGE AND EXEMPTIONS
+Section
+17-722   COLLECTION OF SERVICE CHARGE
+Section
+17-723   CALCULATION OF EQUIVALENT SERVICE UNIT (ESU)
+Section
+17-724   STORMWATER DEVELOPMENT FEE
+Division 3
+STORMWATER DEVELOPMENT FEE/STORMWATER UTILITY SERVICE CHARGES
+Section
+17-730   STORMWATER UTILITY SERVICE CHARGES
+Section
+17-731   STORMWATER DEVELOPMENT FEES
+Division 4
+TECHNICAL STANDARDS
+Section
+17-740   TECHNICAL STANDARDS
 **** ARTICLE 1
 UTILITY SYSTEMS GENERALLY ****
 Section 17-101   LEASE OF SYSTEMS
@@ -31932,65 +32193,1243 @@ another person's trash container, whether the container is furnished by the
 city or the Contractor or by the individual or some other person, without
 permission of such other person.
 **** ARTICLE 7
-STORMWATER DRAINAGE SYSTEM SERVICE ORDINANCE ****
-Section 17-701   STORMWATER DRAINAGE SYSTEM SERVICE ORDINANCE AUTHORIZED
-   A.   Definitions.    
-Unless otherwise provided in this Article, the following words and phrases
-shall have the meanings given herein:
-City shall mean the City of Perry, Oklahoma.
-Stormwater Drainage Management Program means the overall strategy and framework
-for the stormwater management activities of the City.
-Stormwater Drainage System means any facility, structure, improvement,
-development, equipment, property, or interest therein, or other structural or
-nonstructural element made, constructed, used, or acquired for the purpose of
-collecting, containing, storing, conveying, and controlling stormwater wherever
-located including, but not limited to, storm sewers, conduits, natural and man-
-made channels, pipes, culverts, curbs, gutters, and detention ponds whether
-public or private.
-Developed real estate shall mean real property altered from its natural state
-by the addition to or construction of any impervious surface such that the
-hydrology of the property is affected.
-Impervious surface shall mean any hard surfaced area which prevents or retards
-the entry of water into the soil in the manner and to the extent that such
-water entered the soil under natural conditions, causing water to run off the
-surface in greater quantities or at an increased rate of flow than was present
-under natural conditions, such as but not limited to rooftops, asphalt or
-concrete sidewalks, paving, driveways and parking lots, walkways, patio areas,
-storage areas, and gravel, oiled macadam, or other surfaces which similarly
-affect the natural infiltration or runoff patterns of real property in its
-natural state.
-Service charge shall mean the fee levied within the boundaries of the City for
-the City's stormwater drainage facilities.
-Undeveloped Real Estate shall mean real estate unaltered by the construction or
-addition of any impervious surface which would change the hydrology of the
-property from its natural state.
-   B.   Service Charge and Exemptions.    
-There is hereby established a service charge for the City's stormwater drainage
-system at rates hereinafter established; provided, however, that the service
-charge shall not be imposed on the following types of property:
-   1.   City streets, rights-of-way, parks, and open space;   
-   2.   State of Oklahoma highway or County rights-of-way; or   
-   3.   Undeveloped Real Estate   
-   C.   Rate Schedule.    
-The monthly service charge rate is hereby established at Three Dollars ($3.00)
-for Developed Real Estate constituting one tract of real property located
-within the corporate limits of the City. The monthly service charge shall be
-capped at one for each tract of real property under a single ownership without
-regard to the number of lots or size of the tract.
-   D.   Collection of Service Charge; Use of the Monies Collected.    
-   1.   The service charges herein established for the City's stormwater
-drainage system shall be billed monthly on the utility bill and may include
-such penalties as are now or may hereafter be established for utility service
-bills. The provisions for collection provided herein shall be the rights or
-remedies which the City may have under the laws of the State of Oklahoma.    
-   2.   All monies collected shall be placed in a special account and used only
-for Stormwater Drainage System Projects and pursuant to the City’s Stormwater
-Drainage Management Program, as now constituted or hereinafter amended.   
-   E.   City Council Review.    
-The City Council shall evaluate annually, as part of the budget preparation
-process, the financial needs of the stormwater drainage systems and make such
-amendments to this section which may be in the best interest of the residents
-of the City.
+STORMWATER MANAGEMENT SYSTEM ****
+Section 17-701   STATUTORY AUTHORIZATION
+The Oklahoma Legislature has, in 82 O.S. §§ 1601 through 1620.1 entitled
+"Oklahoma Floodplain Management Act", delegated the responsibility to local
+governmental units to adopt regulations designed to minimize flood losses.
+Therefore, the city does hereby adopt this stormwater management article.
+Section 17-702   FINDINGS OF FACT.
+   A.   The flood hazard areas of the city are subject to periodic inundation,
+which results in loss of life and property, health and safety hazards,
+disruption of commerce and governmental services and extraordinary public
+expenditures for flood protection and relief, all of which adversely affect the
+public health, safety and general welfare.
+   B.   Because of its physical terrain and geographical location, the city is
+particularly subject to damage from stormwaters, which, from time to time,
+overflow from existing watercourses and drainage facilities.
+   C.   The presently existing stormwater drainage facilities of the city
+require continuous operation, maintenance, renewal and replacement.
+   D.   A comprehensive approach to managing stormwater runoff is required to
+address existing and future needs.
+   E.   Standardized drainage design criteria are necessary to ensure that all
+development projects are evaluated and constructed with consistent, reliable,
+and protective measures, thereby reducing localized flooding, protecting public
+infrastructure, and ensuring long-term sustainability.
+   F.   The cost of operating and maintaining all stormwater drainage systems,
+and the financing of existing and future necessary repairs, replacement,
+improvements and extensions thereof, should, to the extent practicable, be
+allocated in relationship to the benefit enjoyed and services received
+therefrom.
+   G.   Implementing a comprehensive stormwater management program requires a
+combination of strategies, including standardized drainage design criteria,
+construction of regional detention facilities identified in any future master
+drainage plans adopted by the city, on-site stormwater mitigation, and the use
+of stormwater development and utility service fees. These measures provide an
+equitable and effective framework for managing runoff impacts, supporting
+responsible development, and protecting public and private infrastructure.
+   H.   The City Council finds that stormwater development fees established
+pursuant to this article are intended to recover only a proportionate share of
+the costs reasonably attributable to the impacts of new development upon the
+city's stormwater drainage system and are not intended to generate general
+revenue.
+   I.   The City Council further finds that the stormwater development fees
+imposed by this article bear a reasonable relationship to the additional demand
+placed upon the city's stormwater drainage system by development and are
+reasonably calculated to offset the cost of existing and future stormwater
+facilities, drainage improvements, and related infrastructure required as a
+result of such development.
+   J.   The City Council further finds that the stormwater utility service
+charges and stormwater development fees established by this article are imposed
+pursuant to the city's constitutional and statutory authority to construct,
+own, operate, regulate, and maintain a municipal stormwater drainage utility
+and stormwater management system. The City Council further finds that such
+charges constitute regulatory utility service charges and development
+mitigation fees, and are not taxes imposed for the purpose of raising general
+governmental revenue. The fees established by this article are reasonably
+related to the benefits conferred and the burdens imposed upon the city's
+stormwater management system by development and by properties utilizing that
+system.
+Section 17-703   STATEMENT OF PURPOSE.
+   A.   It is the purpose of this article to promote public health, safety and
+welfare by providing for operating, constructing, equipping, maintaining,
+acquiring and owning within the city a stormwater drainage system.
+   B.   The establishment of a stormwater drainage system will:
+      1.   Minimize flood and storm losses and inconveniences from uncontrolled
+stormwater runoff in the city;
+      2.   Assure that the movement of emergency vehicles is not prohibited nor
+inhibited during storm or flood periods;
+      3.   Preserve the city's watercourses, improve and preserve purity of
+water, minimize water quality degradation and otherwise facilitate urban water
+resource management techniques, including both the reduction of pollution and
+the enhancement of the urban environment;
+      4.   Establish a long-term framework and future master drainage plans for
+stormwater and flood management, including a coordinated program for upstream
+ponding, detention, and other regional mitigation strategies as adopted by the
+city;
+      5.   Establish stormwater and flood management utility to coordinate,
+design, construct, manage, operate and maintain the stormwater and flood
+management system;
+      6.   Establish reasonable stormwater utility and flood management fees
+based on the use of stormwater drainage system and flood drainage facilities;
+      7.   Establish reasonable stormwater and flood management fees based on
+the impact or future impact of development on the stormwater drainage system;
+and
+      8.   Promote the use of standardized drainage design criteria and
+technical standards to ensure consistent, effective, and resilient development
+throughout the city.
+Section 17-704   DEFINITIONS.
+For the purpose of this division, the following definitions shall apply unless
+the context clearly indicates or requires a different meaning.
+   “Best Management Practices (BMPs)” means structural and non-structural
+methods used to manage the quantity and quality of stormwater runoff in a
+manner that reduces pollution, controls flooding, and protects water resources.
+“BMPs” may include vegetated swales, detention basins, silt fences, erosion
+control blankets, infiltration systems, and good housekeeping practices on
+construction sites.
+   “Channel capacity” means the ability of a channel, whether natural or
+constructed, to convey stormwater runoff without causing excessive overflow or
+damage. Minimum design standards for “channel capacity” shall be specified in
+the city's technical standards.
+   “Critical facility” means any public or private facility for which continued
+operation during and following a storm event is essential to the protection of
+public health, safety, or welfare, including but not limited to hospitals,
+emergency medical facilities, police and fire stations, emergency operations
+centers, public utilities, water and wastewater treatment facilities, schools
+designated as emergency shelters, and other facilities designated by the city.
+   “Department” means the city department or division responsible for
+administering the stormwater management program as established by the City
+Manager, or in absence of a dedicated division, the City Engineer shall serve
+this function.
+   “Detention or retention facilities” means facilities designed to hold
+stormwater for a short period and then to release it to a watercourse or to
+hold stormwater for a sufficient length of time to provide for it to be
+consumed by evaporation, infiltration into the soil or other natural means.
+   “Developed real estate (developed property)” means any real property altered
+from its natural state by the addition to, or construction of, any impervious
+surface such that the hydrology of the property is affected.
+   “Developer” means the person(s) who improves, subdivides land or alters real
+property from its natural state by the addition to, or construction of, any
+impervious surface such that the hydrology of the property is affected.
+   “Director” means the Director of the Stormwater Management Department
+appointed by the City Manager, or the City Manager's designated representative.
+   “Drainage basin plan” means a planning document adopted by the city for
+managing surface and stormwater facilities within a defined drainage basin.
+Such plans shall only be considered regulatory when formally adopted by the
+City Council.
+   “Drainage plan” means the engineering plans, calculations, reports, and
+supporting documents prepared by a licensed professional engineer demonstrating
+compliance with this article and the city's technical standards for the
+management of stormwater runoff associated with a proposed development.
+   “Drainageway.”
+      “Major drainageway” means a natural or constructed channel, creek,
+stream, drainage corridor, or other conveyance designated by the city as a
+principal component of the stormwater drainage system and intended to convey
+runoff from multiple drainage basins or significant portions of the watershed.
+      “Minor drainageway” means any swale, ditch, storm sewer, roadside
+channel, or other local drainage facility designed primarily to collect and
+convey runoff from individual properties, streets, subdivisions, or localized
+drainage areas into a “major drainageway.”
+   “Floodplain Administrator” means the municipal official designated by the
+City Manager to administer and enforce the city's floodplain management
+regulations and the requirements of the National Flood Insurance Program
+(NFIP).
+   “Green infrastructure” means a set of stormwater management practices that
+use natural processes and landscape features to manage runoff and improve water
+quality. Examples include bioretention cells, rain gardens, permeable
+pavements, vegetated swales, green roofs, and infiltration trenches.
+   “Hydrologic study” means an engineering analysis prepared by a licensed
+professional engineer evaluating stormwater runoff characteristics, watershed
+conditions, peak flow rates, runoff volumes, and other hydrologic and hydraulic
+information necessary to determine compliance with this article.
+   “Impacted channel” means the segment of a natural or constructed drainageway
+that receives stormwater runoff from a proposed development site and conveys it
+to the primary or regional drainage system. “Impacted channels” must be
+evaluated to determine whether additional runoff from the development will
+exceed their capacity, cause erosion, or contribute to downstream flooding.
+   “Impervious area calculation” means the measurement of the total area of
+impervious surfaces on a tract or development, determined in accordance with
+the city's approved engineering standards, for purposes of calculating
+equivalent service units (ESUs), stormwater utility service charges, stormwater
+development fees, detention requirements, or other requirements of this
+article.
+   “Impervious surface” means any surface that significantly reduces or
+prevents the infiltration of stormwater into the soil. “Impervious surfaces”
+include, but are not limited to, rooftops, sidewalks, driveways, parking areas,
+patios, compacted gravel or stone surfaces, and paved or sealed surfaces,
+whether concrete, asphalt, or similar materials.
+   “Low impact development (LID)” means a land development approach that
+manages stormwater runoff through decentralized, site-level practices that
+mimic natural hydrology. “LID” emphasizes conservation, infiltration, and
+volume reduction using techniques such as reduced impervious cover, on-site
+stormwater reuse, and green infrastructure.
+   “Master drainage plan” means a city-wide planning document identifying
+existing and proposed drainage facilities, regional detention sites, impacted
+channels, and flood-prone areas, to guide the development and prioritization of
+stormwater infrastructure. The “master drainage plan” shall not be regulatory
+unless formally adopted by the City Council.
+   “Off-site mitigation” means stormwater improvements or enhancements made
+outside the boundaries of a development site that reduce the impact of
+increased runoff on downstream drainage systems. “Off-site mitigation” may
+include channel upgrades, erosion protection, or contributions to regional
+detention facilities, subject to approval by the City Engineer.
+   “On-site detention” means a stormwater control measure constructed within a
+development site that temporarily stores runoff generated by the site and
+releases it at a controlled rate to reduce downstream impacts. “On-site
+detention” is typically required when regional facilities are not available or
+adequate to mitigate increased runoff from the development.
+   “On-site retention” means a stormwater management practice that captures and
+permanently retains stormwater runoff on the development site through
+infiltration, evaporation, or reuse. Unlike detention, “retention” systems are
+designed with no surface discharge under normal conditions.
+   “Pre-developed condition” means the natural state of land prior to any
+grading, clearing, construction, or installation of impervious surfaces or
+other improvements. This includes the land's original topography, vegetation,
+and hydrologic characteristics, as they existed before any human-induced
+alteration or development activity.
+   “Post-developed condition” means the state of land after completion of
+construction or development activities, including grading, installation of
+impervious surfaces, structures, utilities, and other site improvements that
+alter the land's natural topography, vegetation, or hydrologic response.
+   “Redevelopment” means the reconstruction, expansion, alteration,
+replacement, or improvement of an existing developed property that increases
+impervious surface area, changes drainage patterns, or otherwise alters the
+hydrologic response of the property.
+   “Regional detention” means a stormwater-control facility designed and
+constructed to serve multiple developments or an entire drainage basin,
+typically located at a downstream point within the watershed. “Regional
+detention” is intended to provide collective stormwater mitigation by reducing
+peak flows and controlling runoff at a broader scale than individual on-site
+systems.
+   “Residential property” means any property designed and used principally for
+residential single-family, duplex or multi-family purposes and developed
+according to, and meeting the bulk and area requirements for, residential
+single-family-, duplex- or apartment-zoned property as set forth in the city's
+zoning code at the time of development of such property.
+   “Storm event” means a rainfall occurrence or precipitation event having a
+specified intensity, duration, frequency, or recurrence interval used for
+hydrologic and hydraulic analysis, including design storms identified in the
+city's technical standards.
+   “Stormwater development fee” means the fee levied within the boundaries of
+the city against proposed developing real estate to cover development's cost
+share of the stormwater management program.
+   “Stormwater drainage system” means any facility, structure, improvement,
+development, equipment, property or interest therein, or other structural or
+nonstructural element made, constructed, used or acquired for the purpose of
+collecting, containing, storing, conveying and controlling stormwater wherever
+located, including, but not limited to, storm sewers, conduits, natural and
+manmade channels, pipes, culverts and detention ponds whether public or
+private.
+   “Stormwater Management Program” means the overall strategy and framework for
+the stormwater management activities of the city.
+   “Stormwater runoff” means that portion of the rainfall that is drained into
+the stormwater drainage system.
+   “Subdivision” means land that is separated into tracts, parcels or lots.
+   “Tract” means a lot, or parcel of land. Properties that are not abutting or
+adjoining or are separated by any street, alley or other property shall be
+considered separate “
+   “Undeveloped land (undeveloped property)” means real property that remains
+in its natural state and has not been altered by the construction or addition
+of any impervious surface in a manner that would change the property's
+hydrology.
+   “Water quality treatment practices” means stormwater controls designed to
+improve the quality of runoff by removing pollutants through physical,
+chemical, or biological processes. These may include sedimentation basins,
+constructed wetlands, filter strips, or proprietary treatment devices.
+   “Watershed” means the total land area that contributes stormwater runoff to
+a common outlet, drainageway, watercourse, detention facility, or receiving
+water.
+   “Watershed boundary” means the topographic divide separating one watershed
+from another, establishing the limits within which precipitation drains to a
+common outlet or drainage system.
+Section 17-705   DUTIES OF DIRECTOR.
+   A.   The director, as designated by the City Manager, shall exercise all
+lawful powers necessary and appropriate to administer the city Stormwater
+Management Program. Where appropriate, the director shall coordinate with and
+delegate technical responsibilities to the City Engineer or other hired
+professional as approved by the City Manager.
+   B.   The director shall have the authority to:
+      1.   Develop and administer all phases of a comprehensive program of
+stormwater management, including planning, designing, establishing, acquiring,
+constructing, developing, installing, administering, maintaining, operating,
+improving, repairing, replacing and reconstructing the stormwater drainage
+system of the city;
+      2.   Administer the accounting, budgeting, record-keeping and support
+personnel necessary for the efficient operation of the Stormwater Management
+Program in accordance with the city's purchasing manual;
+      3.   Administer the regulations contained in this article;
+      4.   Perform studies and analyses required to establish or modify the
+Stormwater Management Program;
+      5.   Provide for public information and awareness that will improve
+management and reduce hazards to life and property;
+      6.   Coordinate enforcement of the regulations contained in this article
+with other city departments; and
+      7.   Seek the cooperation of counties and municipalities within the area
+in minimizing the contribution of all storm drainage systems to flooding and,
+in particular, cooperate with other affected political jurisdictions in
+preparing and implementing master drainage plans.
+   C.   The director may delegate technical review, engineering analysis, plan
+review, inspections, permit administration, and other duties under this article
+to the City Engineer, Public Works Director, or such other qualified municipal
+employee or consultant as the City Manager may designate. Any action taken by
+such designee pursuant to this article shall be deemed the action of the
+director.
+   D.   Administrative appeals. Any person aggrieved by a final administrative
+decision or determination made by the director, the City Engineer, or any
+authorized designee under this article may appeal such decision to the City
+Council by filing a written notice of appeal with the City Clerk within 15
+calendar days after the date of the decision. The notice of appeal shall
+briefly state the grounds for the appeal. The City Clerk shall place the appeal
+upon the agenda of the next regular meeting of the City Council for which
+notice may legally be given. The filing of an appeal shall not automatically
+stay enforcement of the decision unless the director determines that a stay
+will not endanger the public health, safety, or welfare, or unless otherwise
+directed by the City Council. After considering the evidence presented, the
+City Council may affirm, modify, reverse, or remand the decision. The decision
+of the City Council shall be final.
+   E.   Enforcement authority. In addition to any other remedies provided by
+this article or by law, the director is authorized to enforce the provisions of
+this article and may, when necessary to protect the public health, safety, and
+welfare:
+      1.   Issue written notices of violation and orders requiring corrective
+action;
+      2.   Issue stop-work orders requiring the immediate cessation of any
+development or construction activity being performed in violation of this
+article or any approved drainage plan;
+      3.   Suspend or revoke approvals, permits, or authorizations issued
+pursuant to this article until violations have been corrected;
+      4.   Recommend that the city withhold the issuance of a certificate of
+occupancy or final acceptance of improvements until compliance with this
+article has been achieved;
+      5.   Institute or request the City Attorney to institute appropriate
+civil proceedings, including actions for injunctive relief, specific
+performance, abatement, or any other remedy authorized by law;
+      6.   Require restoration of property damaged as a result of violations of
+this article;
+      7.   Recover from the responsible party all reasonable costs incurred by
+the city in investigating violations, performing corrective work, restoring
+damaged public facilities, or enforcing this article, to the extent authorized
+by law; and
+      8.   Exercise any other enforcement authority authorized by the
+ordinances of the city or the laws of the State of Oklahoma.
+Section 17-706   STORMWATER DRAINAGE FUND.
+A separate account or accounts shall be maintained for the purpose of
+identifying and controlling all revenues for stormwater drainage services. The
+costs of administration, data collection, planning, maintaining, operating and
+improving drainage services and facilities shall be paid from these revenues.
+Section 17-707   MASTER DRAINAGE PLAN.
+   A.   Plan developed. The director, in coordination with the City Engineer,
+shall develop a master drainage plan for the city, based on engineering studies
+and technical data. The plan shall identify the location of existing drainage
+facilities and evaluate the need for future improvements, including proposed
+regional detention facilities, drainage channels, impacted conveyances, and
+other system components. The plan may also show any other information that the
+director deems necessary to support effective stormwater management.
+   B.   Purpose of plan. The purpose of the master drainage plan is to provide
+a comprehensive framework to guide long-term stormwater and flood management
+within the city. The plan shall present hydrologic and hydraulic data in an
+organized manner to help understand rainfall-runoff relationships, prioritize
+capital improvements, and reduce flood risk and drainage impacts. The plan
+shall serve as the official designation of drainage facilities, drainageways,
+and basins only upon formal adoption by the City Council.
+   C.   Cost estimate. The director may undertake supplementary studies to
+determine the estimated cost of constructing the drainage facilities shown on
+the master drainage plan, including the expense of any necessary land
+acquisition.
+   D.   Individual basin plans. The master drainage plan may include individual
+drainage basin plans for specific watersheds or sub-basins within the city.
+These basin plans may be developed and adopted independently or incorporated
+into the citywide plan by formal action of the City Council.
+   E.   Plan adoption and modifications. The master drainage plan and any
+substantial modifications thereto shall be adopted by resolution or ordinance
+of the City Council before becoming enforceable. Until such adoption occurs,
+the plan shall serve as a planning tool but shall not impose binding
+development or mitigation requirements. Adoption of the master drainage plan or
+any drainage basin plan shall not constitute approval of any subdivision, site
+plan, development, or construction project, nor shall it create any obligation
+or duty on the part of the city to construct, fund, or maintain any drainage
+improvement identified therein. The timing, funding, design, and construction
+of any public drainage improvement shall remain within the sole discretion of
+the City Council and subject to the availability of appropriated funds.
+Section 17-708   SUBDIVISION PLAT, SITE PLAN AND BUILDING PERMIT APPROVAL.
+All subdivision plats, re-plats, site plans, and industrial building permits
+shall be reviewed by the Community Development Director, or the director's
+designee as appointed by the City Manager, in coordination with the City
+Engineer as needed. Approval of any such plat, re-plat, site plan, or
+industrial building permit shall require the submittal and written acceptance
+of a drainage plan that demonstrates conformance with the city's subdivision
+regulations, standard construction specifications and details, the requirements
+of this article, all adopted standardized drainage design criteria and
+technical standards, and any formally adopted master drainage plan or
+individual basin plans applicable to the development area. No plat shall be
+recorded, and no building or site work shall commence, until the drainage plan
+is reviewed and accepted by both the Community Development Director and the
+City Engineer. Where private stormwater facilities are required as part of an
+approved drainage plan, approval shall be conditioned upon compliance with the
+maintenance requirements of Section
+17-709, Subsection G.
+Section 17-709   STORMWATER MITIGATION.
+   A.   Mitigation required. All development that involves the filing of a
+plat, re-plat, site plan or industrial building permit shall mitigate the
+impact of that development's increased stormwater runoff. Mitigation shall be
+accomplished by performing work on a regional detention facility identified in
+an adopted master drainage plan or basin plan located within the same drainage
+basin as the proposed development, or by paying the development fee as outlined
+in Section
+17-710. Where appropriate, the city may also approve alternative mitigation
+measures, including but not limited to on-site detention or retention, water
+quality treatment practices, green infrastructure or low-impact development
+(LID) features, or off-site improvements to impacted drainage channels,
+provided such measures are demonstrated to reduce the development's peak
+discharge, volume, or downstream impact to acceptable levels as determined by
+the City Engineer.
+   B.   Amount of mitigation. The amount of mitigation required shall be
+sufficient to offset the total increase in stormwater runoff generated by the
+proposed development under post-developed conditions. Mitigation shall address
+both the increased runoff volume and peak flow rate resulting from the
+development, in accordance with the applicable design storm events and the
+city's technical standards. Mitigation may be provided through on-site
+detention or retention, improvements to downstream drainage systems, work on an
+adopted regional detention facility, or a combination thereof, as approved by
+the City Engineer.
+   C.   Responsibility to mitigate. This mitigation work does not relieve the
+developer from the responsibility to address stormwater impacts to downstream
+properties and infrastructure between the development site and the nearest main
+drainage channel identified in the applicable adopted drainage plan. Where the
+proposed development increases runoff volume or flow above the capacity of any
+downstream conveyance system, channel, or culvert, the developer shall
+implement mitigation measures such as on-site detention, channel improvements,
+or other solutions approved by the City Engineer to ensure that post-developed
+conditions do not adversely affect downstream areas.
+   D.   Development fee. Where physical mitigation cannot be reasonably
+accomplished — either on-site, through downstream improvements, or at a
+regional detention facility identified in an adopted drainage plan within the
+same drainage basin — the developer shall pay the applicable stormwater
+development fee as outlined in Section 17-710. The City Engineer shall
+determine whether alternative mitigation options are feasible before the fee
+requirement is imposed.
+   E.   Developments outside limits of master plan. For developments located
+outside the boundaries, scope or current completion of an adopted master
+drainage plan, the drainage study for the proposed development shall include a
+plan to mitigate downstream stormwater impacts between the development site and
+the nearest main drainage channel. Where on-site detention is proposed to
+mitigate impacts, the detention facility shall be designed in accordance with
+the city's technical standards and is subject to approval by the City Engineer.
+It is the responsibility of the developer to demonstrate, through the technical
+submittal, that the proposed facility provides sufficient capacity and benefit
+to function as a regional detention basin if the facility is part of a broader
+planned future development.
+   F.   Variances. The City Council may grant a variance from the strict
+application of the requirements of this article upon the written recommendation
+of the City Engineer where it is determined that: (l) strict application of
+this article would create an unnecessary hardship due to the unique physical
+characteristics of the property; (2) the requested variance will not materially
+increase stormwater runoff, flood hazards, erosion, or adverse impacts to
+downstream properties or public infrastructure; (3) the variance is the minimum
+necessary to afford relief; and (4) granting the variance will not be contrary
+to the public health, safety, or welfare or the purposes of this article. In
+granting a variance, the City Council may impose such reasonable conditions as
+are necessary to protect the public and to carry out the intent of this
+article.
+   G.   1.   Maintenance of private stormwater facilities. As a condition of
+approval of any development utilizing private detention facilities, retention
+facilities, stormwater quality facilities, green infrastructure, low impact
+development practices, or other privately owned stormwater improvements
+required by this article, the owner shall execute and record a stormwater
+facilities maintenance agreement in a form approved by the City Attorney. The
+agreement shall run with the land and shall be binding upon the owner and all
+successors and assigns. The maintenance agreement shall, at a minimum:
+         a.   Require the owner to operate, inspect, repair, and maintain all
+stormwater facilities in accordance with approved plans and accepted
+engineering practices;
+         b.   Grant the city the right to enter upon the property at reasonable
+times to inspect the facilities and verify compliance with this article;
+         c.   Grant the city the right, after reasonable notice and opportunity
+to cure, to perform necessary maintenance or repairs if the owner fails to do
+so and to recover all reasonable costs incurred by the city. Except in the
+event of an emergency posing an immediate threat to public health, safety, or
+property, the city shall provide the owner with not less than 30 days' written
+notice and an opportunity to cure prior to undertaking such work;
+         d.   Grant the city a perpetual access easement sufficient for
+inspection, maintenance, repair, and emergency access to the facilities; and
+         e.   Provide that all costs incurred by the city in maintaining or
+repairing such facilities may be assessed against the property and collected in
+the same manner as other lawful municipal charges to the extent permitted by
+Oklahoma law.
+         No final plat shall be recorded, and no certificate of occupancy or
+final acceptance of public improvements shall be issued, until the required
+maintenance agreement has been executed, approved, and recorded.
+      2.   Periodic inspection. The owner of any privately owned stormwater
+detention facility, retention facility, water quality treatment facility, or
+other stormwater management facility serving commercial, industrial,
+multifamily, institutional, or subdivision common areas shall inspect such
+facility at least once each calendar year and after any major storm event that
+causes visible damage or impairs the operation of the facility. The owner shall
+maintain written records of all inspections, maintenance, repairs, and
+corrective actions and shall make such records available to the city upon
+request.
+      3.   Certification of compliance. Upon written request of the city, the
+owner shall submit a certification prepared by a licensed professional engineer
+or other qualified professional acceptable to the city stating whether the
+facility has been inspected and is operating in substantial compliance with the
+approved drainage plans and the requirements of this article. If deficiencies
+are identified, the certification shall include a schedule for corrective
+action subject to approval by the city.
+Section 17-710   DEVELOPMENT FEE REQUIREMENTS; CREDITS.
+   A.   Development fee. Where physical mitigation is not performed or does not
+fully offset the stormwater impact of the proposed development, the developer
+shall be required to pay a stormwater development fee at the time of approval
+of any proposed development, including but not limited to subdivision plats,
+re-plats, site plans, or building permits, as provided for in Section
+17-731.
+   B.   Obtaining credits. Credits can be obtained by developers to offset
+stormwater development fees for a particular tract of land by providing land or
+improvements that benefit the stormwater system in accordance with the adopted
+master drainage plan. Credits are calculated in dollars based on the following.
+      1.   Dollar value of credits for land provided shall be based on the
+appraised value, less the cost of appraisal. Only land that provides for
+drainage improvements compatible with the master drainage plan may be provided
+for credits. The dedication of property or the granting of easements normally
+provided as part of the development process cannot be used for credit.
+      2.   Dollar value of improvements provided shall be mutually agreed upon
+and shall be based on the beneficial share of a complete project based on the
+master drainage plan construction cost. Interim and incidental work such as
+erosion protection, engineering, staking, safety measures and access roads
+shall not be calculated as a beneficial share. Where detailed construction
+plans are not available, an interim construction plan shall be provided by the
+developer.
+      3.   Where engineering services are proposed for credit, the dollar value
+shall be mutually agreed upon based on a detailed proposal of the engineering
+services and conditioned upon acceptance of the construction plan.
+      4.   Other community benefits generated by the project that may be
+considered in evaluating whether those benefits offset the cost of required
+drainage improvements, as determined by the City Manager and Chief Financial
+Officer.
+   C.   Issuance of credits. Credits shall be issued by letter upon the
+completion of the work and/or acceptance of the land by the City Council.
+      1.   Letter agreements shall establish the value of the credit. Credits
+shall be tied to a specific basin but may be transferred to a third party with
+notice to the city.
+      2.   Use of credits may be made at the time of approval of a plat, re-
+plat, lot split or building permit. Credits shall be set out on a per-acre
+basis in the letter agreement.
+      3.   Application to use credit shall include a copy of the letter
+agreement and, if applicable, the credit transfer.
+      4.   Any credit amount applied against the stormwater development fee
+shall be deducted from the amount of the fee set out for the referenced tract
+or tracts.
+      5.   At any time the remaining credit for any tract shall fall below a
+value of $500, no further credits can be applied for under the referenced
+letter agreement, and the tracking of the use shall be discontinued.
+   D.   Application of credits. A developer may apply credits only to the
+development of land within the drainage basin in which the land or work was
+provided.
+   E.   Special credits. Special credits shall be established by letter
+agreement.
+*** Division 2
+STORMWATER DRAINAGE FEES ***
+Section 17-720   DEFINITIONS.
+For the purpose of this division, the following definitions shall apply unless
+the context clearly indicates or requires a different meaning.
+   “City” means the City of Perry.
+   “Common billed” means a billing for water and/or sanitary sewer service for
+a tract that is billed to the tract as one bill and not directly to the
+individual units of that tract.
+   “Equivalent service unit (ESU)” means a unit of measure used to determine
+the stormwater utility service charge. One “ESU” is equal to 2,860 square feet
+of impervious surface. The total impervious surface on a tract shall be divided
+by 2,860 and rounded up to the nearest whole number to determine the number of
+“ESUs” assigned to the tract. The minimum number of “ESUs” for any tract with
+impervious surface shall be one.
+   “Individual billed” means where billing for water and/or sanitary sewer
+services for a tract is by separate billing to the individual units of that
+tract.
+   “Stormwater utility service charge” means the fee levied within the
+boundaries of the city for the use of the city's stormwater drainage
+facilities.
+   “User” means the owner, renter or lessee of a tract of land that drains
+stormwater to the stormwater drainage system.
+Section 17-721   STORMWATER UTILITY SERVICE CHARGE AND EXEMPTIONS.
+   A.   Charges established. There is hereby established a stormwater utility
+service charge for the city's stormwater drainage system at rates hereinafter
+established; provided, however, that the service charge shall not be imposed on
+the following types of property:
+      1.   City streets, rights-of-way, parks and city-owned property;
+      2.   State highway rights-of-way;
+      3.   Railroad rights-of-way; and
+      4.   Undeveloped land.
+   B.   Monthly rate. The monthly stormwater utility service charge rate shall
+be charged and collected as provided for in Section
+17-730.
+   C.   Application for reduced impervious surface rate. Any individually
+billed single-family residential user may apply for a reduced impervious
+surface rate for the user's individually billed single-family unit where the
+total impervious surface of the tract associated to the unit is less than 1,250
+square feet in area. Application shall be made to the Customer Service
+Department on forms provided. Review of applications shall be made by the
+Engineering Department for completeness and correctness. Upon approval of
+application for a unit, the stormwater utility service charge rate for that
+unit shall be changed to the reduced impervious surface rate at the next
+billing cycle. At such time as the impervious surface area of a unit exceeds
+1,250 square feet, the standard rate shall apply and the reduced impervious
+surface rate shall not apply.
+Section 17-722   COLLECTION OF SERVICE CHARGE.
+   A.   Monthly charges; billing; water termination for nonpayment.
+      1.   The stormwater utility service charges herein established for the
+use of the city's stormwater drainage system shall be billed to each user
+monthly, along with a bill for water or other utility services and such
+penalties as are now or may hereafter be established for other utility service
+bills. All collecting agencies authorized by the city to accept payment of city
+utility bills are hereby directed to advise customers of the provisions of this
+section.
+      2.   In the event that any person, firm or corporation shall tender as
+payment of water service, sewer service, collection of solid waste service and/
+or stormwater utility service charge for the use of the city's systems an
+amount insufficient to pay in full all of the charges so billed, the payment
+shall be credited to the account or accounts in accordance with accounting
+procedures used by the Customer Service Department for utility bill payments.
+      3.   The city shall have the right and privilege of discontinuing any and
+all utility service to any premises for insufficient payment.
+      4.   In the event that any utility account shall become delinquent, water
+services may be terminated by the city until all delinquent charges for the use
+of the city's stormwater drainage system, collection of solid waste service,
+sanitary sewer service and water service shall have been paid in full.
+      5.   The provisions for collection provided herein shall be in addition
+to any rights or remedies which the city may have under the laws of the state.
+   B.   Billing for stormwater drainage only. In the case of users of real
+estate who are not billed for water, sanitary sewer or collection of solid
+waste, the owner of the real estate or agent of the owner shall be billed
+monthly for the service charges herein established.
+Section 17-723   CALCULATION OF EQUIVALENT SERVICE UNIT (ESU).
+   A.   Basis for billing. The equivalent service unit (ESU) shall be
+calculated by determination of the amount of impervious surface that exists or
+will exist after development of any tract as set out in the definition of
+"equivalent service unit (ESU)" in Section
+17-720. The ESU for certain tracts as calculated by, and on file in, the City
+Engineer shall be the official determination and shall be used as the basis for
+billing of the stormwater development fee charge.
+   B.   Application for determination.
+      1.   Upon the development of a tract or tracts of land, the owner or user
+of the same shall make application for a determination of ESU for the tract.
+      2.   Application shall include the measured square-foot area of the site
+being developed, amount of impervious surface to be in place at the time of
+full development, location, legal description, name of owner or user of the
+tract and address.
+      3.   Application shall be made as part of the building or other city
+permit application. A building permit shall be required when no other city
+permit is applied for.
+      4.   Upon determination of the ESU for the tract, it shall be added to
+the official list, and billing for the stormwater utility service charge shall
+begin as set out in this article.
+   C.   Changes in list. Changes may be made in the official list of ESU, from
+time to time, to add tracts not included, add new developments or make
+corrections or adjustments.
+   D.   Appeal of determination. Any determination of the official equivalent
+service unit (ESU) calculation may be appealed by the owner or user of the
+affected tract in accordance with the administrative appeal procedure set forth
+in Section
+17-705, Subsection D. Appeals shall be made in writing to the director and
+shall include evidence of an error or miscalculation in the determination. The
+director shall be given two weeks to review the application and, upon finding
+sufficient evidence, may direct the official ESU determination to be corrected.
+A finding of insufficient evidence, or no response within the two-week period,
+shall constitute a denial of the appeal.
+Section 17-724   STORMWATER DEVELOPMENT FEE.
+The stormwater development fee is a one-time fee required for proposed
+development to mitigate the impact of increased runoff in accordance with
+Section
+17-710. Charges and regulations governing this fee are provided in Section
+17-731.
+*** Division 3
+STORMWATER DEVELOPMENT FEE/STORMWATER UTILITY SERVICE CHARGES ***
+Section 17-730   STORMWATER UTILITY SERVICE CHARGES.
+Rates effective February 1, 2026. Effective February 1, 2026, the following
+rates and charges are established. The rates and charges established in Section
+17-722 shall be as follows: Rates per water meter: $3 monthly.
+Section 17-731   STORMWATER DEVELOPMENT FEES.
+   A.   Purpose. The purpose of stormwater impact fees is to provide an
+equitable mechanism for funding off-site improvements necessary to mitigate the
+increased stormwater volume runoff and peak flow rates resulting from
+development, based on the 100-year, 24-hour storm event.
+   B.   Applicability. Stormwater impact fees shall apply to all new
+developments, redevelopments, and expansions that increase impervious surface
+area or alter hydrologic response.
+   C.   The stormwater impact fee for development within commercial or
+industrial zones shall be based on a rate of $2.42 for each equivalent service
+unit (ESU) assigned to a lot, tract, or parcel of real estate wherein the ESU
+is an average area of impervious surface material on a nonresidential parcel.
+One ESU shall be defined as 2,860 square feet of impervious area. The one-time
+impact fee shall be calculated as follows:
+      (Square feet of new impervious surface ÷ 2,860) x $2.42, where 2,860
+represents the standard impervious surface unit
+   D.   Pre- and post-development conditions. Pre-developed conditions shall
+reflect the site in its natural, undisturbed state or as defined in the adopted
+stormwater ordinance. Post-developed conditions shall reflect full build-out
+under the proposed site plan.
+   E.   Hydrologic criteria. Hydrologic and hydraulic analyses shall follow
+methods approved by the City Engineer, including acceptable modeling software
+and design standards.
+   F.   Credits and offsets. Developers may receive credits toward the impact
+fee for:
+      1.   Construction of regional detention improvements consistent with the
+adopted master drainage plan;
+      2.   Conveyance system upgrades that offset identified downstream
+deficiencies;
+      3.   Other city-approved mitigation strategies.
+   G.   Payment of fee. Impact fees shall be paid prior to approval of the
+final plat, site plan, or issuance of a building permit, whichever occurs
+first.
+   H.   Annual adjustment of fees. The rates and fees charged under this
+section shall be adjusted annually in accordance with the Consumer Price Index
+calculation set forth in Section
+17-221 of the City Municipal Code.
+*** Division 4
+TECHNICAL STANDARDS ***
+Section 17-740   TECHNICAL STANDARDS.
+   A.   A site groundwork permit application for construction sites less than
+five acres in size shall be required and shall contain all applicable
+information listed.
+      1.   Name, address and telephone number of the applicant, land owner,
+developer and engineer;
+      2.   Project description; briefly describe the total land area in acres
+or boundary dimensions, the nature and purpose of the land disturbing activity,
+the amount of grading involved and project location including lot, block and
+addition or section, range and township;
+      3.   Existing site conditions; a description of the existing topography,
+vegetation and drainage;
+      4.   Immediate adjacent areas; a description of neighboring areas such as
+streams, lakes, residential areas, roads and the like, which might be affected
+by the land disturbance;
+      5.   Erosion and sediment control measures; a description of the methods,
+which will be used to control erosion and sedimentation on the site while under
+construction;
+      6.   Permanent stabilization; a brief description of how the site will be
+stabilized after construction is completed;
+      7.   Stormwater management considerations; explain how stormwater will be
+managed and determine detention requirements;
+      8.   General location map; a map shall be provided in sufficient detail
+to indicate the location of the project site; and the map shall be at a scale
+of one inch equaling 1,000 feet and shall indicate the project site in relation
+to existing topography, transportation, features and land boundaries. The map
+shall show adjacent land drainage areas contributing to the site;
+      9.   Sediment and erosion control plan. Maps of the proposed development
+at a scale no smaller than one inch equaling 200 feet shall be included. The
+plan shall show the following:
+         a.   A boundary line survey of the site on which the work is to be
+performed;
+         b.   Existing topography at a maximum of two-foot contour intervals;
+         c.   Proposed topography at a maximum of two-foot contour intervals;
+         d.   Location of any existing structure or natural feature on the
+site;
+         e.   Location of any structure or natural feature on the land adjacent
+to the site and within a minimum of 100 feet of the site boundary line; the map
+shall show the location of the storm sewer, channel or creek receiving the
+stormwater runoff from the site.
+         f.   Location of any additional proposed structures or development on
+the site, if known; and
+         g.   Limits of clearing and grading areas which are to be cleared and
+graded.
+   B.   All site groundwork permit applications for residential construction
+sites less than two acres in size shall contain all applicable information
+listed.
+      1.   Name, address and telephone number of the applicant, land owner,
+developer and engineer;
+      2.   Project description; briefly describe the total land area in acres
+or boundary dimensions, the nature and purpose of the land disturbing activity,
+the amount of grading involved and project location including lot, block and
+addition or section, range and township;
+      3.   Existing site conditions; a description of the existing topography,
+vegetation and drainage;
+      4.   Immediate adjacent areas; a description of neighboring areas such as
+streams, lakes, residential areas, roads and the like, which might be affected
+by the land disturbance; and/or
+      5.   Erosion and sediment control measures; a description of the methods
+which will be used to control erosion and sedimentation on the site while under
+construction.
+   C.   Design policies and standards.
+      1.   Drainage policies.
+         a.   Whenever practicable, the city shall require that stormwater
+drainage systems be designed to convey peak runoff from both upstream areas and
+the subject property for storm events with durations of up to 24 hours and
+return periods of up to 100 years. Exceptions shall be made for updates to
+existing city infrastructure based upon budgetary considerations.
+         b.   All development, redevelopment, and earth changes shall be
+constructed so that it will not increase the frequency of flooding or the depth
+of flood flows for any storm, up to and including the 24-hour 100-year storm.
+Exceptions shall be made for updates to existing city infrastructure based upon
+budgetary considerations.
+         c.   Peak flows shall not be increased at any location for any storm,
+up to and including the 24-hour 100-year storm. Exceptions shall be made for
+updates to existing city infrastructure based upon budgetary considerations.
+         d.   Regulation of peak flows to allowable levels, as determined by
+this article, shall be achieved by on-site or off-site storage and/or other
+water management facilities as provided in the city drainage standards.
+         e.   Subject to requirements for a drainage plan or earth change
+permit and of the city drainage standards, downstream conveyance may be
+improved or easements obtained for inundated areas to compensate for increased
+flow depths if such improvements comply with the policies of this article.
+         f.   All development, redevelopment, and earth changes shall be
+constructed so that it will not cause harm to other properties as a result of
+concentrating flows.
+         g.   On-site storm water control may not be required for sites less
+than two and one-half acres in size if it is determined by the City Engineer
+that storm water runoff from the site will not cause adverse effects as
+described in this chapter. The City Engineer may request that the applicant
+provide such information as required to make this determination. In such cases,
+a cash payment in lieu of on-site storm water control shall be made to the
+Stormwater Capital Improvement Fund in an amount equal to the estimated cost of
+providing on-site stormwater control, consistent with the fee structures
+established in Section
+17-731 (Stormwater Development Fees) and Section 17-732 (Stormwater Impact
+Development Fees).
+      2.   Erosion and sediment control policies.
+         a.   All development, redevelopment, and earth changes shall be
+designed, constructed and completed in a manner which minimizes the exposure of
+bare earth to precipitation.
+         b.   All development, redevelopment, and earth changes shall be
+constructed only if appropriate sedimentation facilities are installed and
+maintained throughout the construction period.
+         c.   All development, redevelopment, and earth changes shall be
+accompanied by best management practices for controlling sediment and erosion
+so as to minimize the amount of sediment leaving the site.
+      3.   Standards.
+         a.   Requirements and design standards for all components of drainage
+facilities shall be established by the city drainage standards.
+         b.   The city drainage standards shall govern all earth changes,
+drainage plans, excavating, grading, regrading, re-vegetation, landfilling,
+berming and diking of land within the jurisdictional area of the city and shall
+specifically regulate the following considerations:
+            1.   The city drainage standards shall regulate the design,
+installation, utilization and removal of all temporary and permanent drainage
+facilities and best management practices; and
+            2.   The city drainage standards shall regulate the placement and
+compaction of fill material.
+   D.   Regional detention systems.
+      1.   Regional detention systems may be permitted and are recognized as
+one of the preferred methods of providing stormwater control. These systems may
+be designed to control the fully urbanized flows so as to permit the maximum
+use by developments in lieu of constructing small, on-site detention.
+      2.   If it is determined by the City Engineer that stormwater runoff from
+the site will cause adverse effects as described in this chapter, the site
+shall not be eligible for the cash payment option. The City Engineer may
+request that the applicant provide such information as required to make this
+determination.
+   E.   Regulatory requirements.
+      1.   Develop all stormwater design plans to ensure all applicable
+regulations are met:
+         a.   Any applicable city codes;
+         b.   Any applicable State of Oklahoma statutes;
+         c.   Any applicable United States of America federal regulations.
+      2.   Develop all stormwater system plans with applicable Oklahoma
+Department of Environmental Quality (ODEQ) design standards and to ensure
+proper permits are obtained.
+   F.   Construction plan requirements.
+      1.   Construction plan drawings shall include:
+         a.   Contour lines and spot elevations to support construction;
+         b.   Existing and proposed elevations;
+         c.   Existing and proposed structures with elevation information;
+         d.   Obstructions;
+         e.   Storage basins;
+         f.   Roadways, pavement, parking areas or other impervious surfaces;
+         g.   Curbs/gutters;
+         h.   All utilities (buried, elevated and/or abandoned);
+         i.   Easements, property lines, and rights-of-ways;
+         j.   Best management practices (BMPs) for erosion and sediment
+control;
+         k.   All work limits;
+         l.   EMA regulatory floodplain zones (floodway, 100-year, 500-year);
+         m.   Appropriate profiles and section details; and
+         n.   Directions of flow.
+      2.   Building elevations. At a minimum, plans shall include ground
+elevations and grade at the buildings perimeter. Where buildings are within the
+FEMA regulatory floodplain, base flood elevations shall be identified.
+      3.   Hydraulic gradient. Plans shall include hydraulic gradient lines
+and/or 100-year floodplain water surface elevations, where applicable.
+      4.   Site context. Plans shall include any additional information for
+areas outside of the site limits that may require modification as part of the
+project to mitigate adverse impacts downstream.
+      5.   Easements and rights-of-way.
+         a.   All restricted drainage easements shall be clearly shown detailed
+as to type, location, and width on the construction plans, record drawings, and
+final plats, as well as described in the conditions and restrictions of the
+plat or by separate instrument.
+         b.   Adequate access and maintenance easements shall be provided for
+all public and private stormwater drainage facilities requiring periodic
+inspection or maintenance. Unless otherwise approved by the City Engineer based
+upon site-specific engineering considerations, such easements shall have a
+minimum unobstructed width of 20 feet and shall be sufficient to permit
+vehicular access by maintenance and emergency equipment. No permanent
+structures, landscaping, or other obstructions shall be constructed within such
+easements that interfere with access, drainage, inspection, operation, or
+maintenance.
+   G.   Requirements for drainage reports and plans.
+      1.   Drainage report certification and submittal.
+         a.   The report to be submitted shall include a cover letter
+presenting the study for review.
+         b.   Drainage reports shall be prepared following the guidelines below
+and all reports and plans must be signed, sealed, and dated by a professional
+engineer with certification that the report and plan is in compliance with good
+engineering practice and the requirements of this code.
+      2.   Cover letter required. A cover letter shall accompany all submittals
+and include the following:
+         a.   Summary statement identifying and characterizing (location, area
+of project in acres, and proposed land use) the proposed land development
+project and discussing how the project will adhere to the requirements of this
+code;
+         b.   Brief description of drainage system components, the overall
+concept of the proposed drainage system, and its interaction with existing
+drainage facilities;
+         c.   Policy statement discussing the design criteria and any proposed
+deviation from methodology, as set forth by this code.
+      3.   Preliminary drainage study. The report submitted as a preliminary
+drainage study shall be formatted in accordance with the following outline and
+contain all of the information listed:
+         a.   Project location map and information. The project location map
+shall contain the following information:
+            1.   Map with township, range, section, quarter-section;
+            2.   Name and address of property owner;
+            3.   Legal description of property;
+            4.   Streets within and adjacent to the project;
+            5.   Names of surrounding developments.
+         b.   Existing drainage map. The existing drainage map shall show the
+following:
+            1.   Drainage area map at a scale of one-inch equals 20 feet to
+one-inch equals 100 feet identifying all pre-development drainage basins and
+sub-basins within and that contribute flow through or across the proposed land
+development project;
+            2.   Existing land use and predominant cover type (shrubs, trees,
+grass);
+            3.   Identify all existing basins and discharge points with unique
+alphanumeric labels, list area of each basin in acres, and list runoff
+coefficients or curve numbers appropriate for the existing land use;
+            4.   Existing contours at two-foot maximum intervals for all basins
+and sub-basins;
+            5.   Limits of floodplain and floodway located within or adjacent
+to (within 75 feet of the property) the proposed land development project;
+            6.   Existing drainage facilities within and adjacent to (within 75
+feet of the property) the proposed land development project;
+            7.   Location, size and type of easements within and adjacent to
+the proposed land development project.
+         c.   Proposed drainage map. The proposed drainage map shall show the
+following:
+            1.   Drainage area map at same scale as existing drainage map
+identifying all proposed (post-development) drainage basins and sub-basins and
+existing basins that will not be altered;
+            2.   Identify all proposed basins and proposed discharge points
+with unique alphanumeric labels, list area of each basin in acres, and list
+runoff coefficients or curve numbers appropriate for the proposed land use;
+            3.   Existing and proposed contours at two-foot maximum intervals
+for all basins and sub-basins;
+            4.   Limits of floodplain and floodway located within or adjacent
+to (within 75 feet of the property) the proposed land development project;
+            5.   Existing drainage facilities to remain and proposed drainage
+facilities within and adjacent to (within 75 feet of the property) the proposed
+land development project;
+            6.   Existing and proposed easements within and adjacent to (within
+75 feet of the property) the proposed land development project;
+         d.   Hydrology and hydraulics. The hydrology and hydraulics shall show
+the following:
+            1.   A written summary of the existing drainage patterns and off-
+site drainage patterns and impact on the proposed development;
+            2.   A summary table of the following: existing (pre- development)
+hydrologic characteristics, including, but not limited to, discharge points,
+basin areas, soil types, runoff coefficients, curve numbers, hydraulic lengths,
+and time of concentration values; and assumptions, including a written
+description of the basis for each assumption used in the calculations;
+            3.   A summary table of hydrologic analysis results for all of the
+basins and sub-basins based on existing conditions for the minor and major
+storm events;
+            4.   A written general description of the proposed stormwater
+drainage facilities and methods for controlling the post-development drainage
+including the proposed locations of stormwater drainage facilities required to
+mitigate any potential adverse impacts;
+            5.   A summary table comparing existing and proposed peak flow
+rates at each discharge point for the minor and major storm events;
+            6.   Design rainfall data used for minor and major storms;
+            7.   Hydraulic capacity calculations for all existing drainage
+facilities that currently serve or will serve the proposed land development
+project;
+            8.   Volumetric computations for compensatory storage requirements
+for any alterations of the floodplain.
+   H.   Final drainage study. The report submitted as a final drainage study
+shall include a final drainage plan, shall be formatted in accordance with the
+following outline, and shall contain all information listed for a preliminary
+drainage study in addition to the following information:
+      1.   Drainage facility design. The drainage facility design shall show
+the following:
+         a.   Post-development hydrologic characteristics, including but not
+limited to discharge points, basin areas, soil types, runoff coefficients,
+curve numbers, hydraulic lengths, and time of concentration values; and
+assumptions, including a written description of the basis for each assumption
+used in the calculations;
+         b.   A summary table of hydrologic analysis results for all of the
+basins and sub-basins based on proposed (fully developed) conditions for the
+minor and major storm events;
+         c.   A summary table of hydraulic capacity calculations for all
+proposed drainage facilities, including but not limited to streets, storm
+inlets, storm sewers, drainage channels, swales, culverts, and on-site or
+regional detention facilities, that will serve the proposed development project
+(on-site and off-site) or convey pass-through runoff from upstream or off-site
+basins and sub-basins.
+      2.   Conclusions.
+         a.   A written summary statement indicating compliance with this code,
+the city drainage standards and the city standards, as well as any accepted
+drainage plans, where applicable;
+         b.   A detailed statement concerning the projected effects of the
+proposed land development project on property adjoining the site and on
+existing drainage facilities and systems both on and off site.
+      3.   References. List all design criteria and technical information used.
+      4.   Appendices. The appendices shall contain the following:
+         a.   Land use assumptions regarding adjacent properties;
+         b.   Time of concentration flow path characteristics and calculations;
+         c.   Runoff calculations at specific design points on-site and off-
+site;
+         d.   Historic and fully developed runoff computations at points of
+compliance;
+         e.   Hydrographs at critical design points, if applicable;
+         f.   Culvert capacity charts;
+         g.   Storm sewer capacity calculations;
+         h.   Street capacity calculations;
+         i.   Storm inlet capacity calculations;
+         j.   Open channel design calculations;
+         k.   Grade control and/or channel drop design;
+         l.   Detention area/volume capacity and outlet capacity calculations
+(stage-storage discharge table);
+         m.   Routing of off-site drainage flow through the development,
+easements, and/or right-of-way dedications;
+         n.   Location/alignment of watercourse and the appropriate hydraulic
+analysis for any alteration of a watercourse;
+         o.   Hydraulic analysis for compensatory storage requirements for any
+alterations of the floodplain;
+         p.   Detention facility outlet details and maintenance plan;
+         q.   All appropriate FEMA submittal data and application for a LOMR,
+if applicable.
+      5.   Final drainage plan.
+         a.   A drainage plan must contain a general location map in sufficient
+detail to identify all surface drainage entering and leaving the development
+and general drainage patterns. The map should be at a scale of one inch equals
+200 feet up to one inch equals 2,000 feet and show the path of all drainage
+from the upper reach of any off-site basins to the defined major drainage ways.
+         b.   Maps of the proposed development at a scale of one inch equals 20
+feet to one inch equals 100 feet on a full size drawing (22 inches by 34
+inches) oriented in plan view with north arrow and scale shall be included with
+the drainage plan. The plan shall show the following:
+            1.   Existing and proposed contours at one-foot maximum intervals;
+            2.   Spot elevations and drainage arrows at all grade breaks within
+the development and at all locations where proposed surface improvements tie
+into existing grade around the perimeter of the property. In every instance,
+the plan shall include topography a minimum of 75 feet beyond the limits of
+proposed development;
+            3.   Property lines, easements, and common areas with purposes
+noted;
+            4.   Streets, roads, and highways adjacent to the property;
+            5.   Overall drainage area boundary and drainage sub-area
+boundaries identified by bold, dashed lines;
+            6.   Existing drainage facilities and structures, natural or
+manmade, including roadside ditches, drainage ways, gutter flow directions, and
+culverts. All pertinent information such as material, size, shape, slope and
+location shall also be included;
+            7.   Proposed storm sewers and open drainage ways, including
+inlets, manholes, culverts, retaining walls, erosion control measures, and
+other appurtenances;
+            8.   Drainage arrows indicating individual lot grading patterns
+shall be clearly illustrated. Surface drainage from the lesser of three
+residential lots or three acres is allowed to combine before entering
+stormwater drainage facilities designed to collect and transport surface
+drainage;
+            9.   Proposed discharge points for runoff from the project area and
+all facilities designed to convey flows to the final outfall point without
+adverse effects to downstream property;
+            10.   The on-site 100-year flood elevations and the limits of
+regulatory floodway, floodplain and/or water surfaces. In every instance, the
+plan shall include a determination of the 100-year water surface elevation and
+the area of inundation based on routing off-site drainage flow through the
+development for a 100-year 24-hour storm;
+            11.   Location and elevation of all existing and proposed utilities
+affected by or affecting the drainage design;
+            12.   Details for the construction of all proposed stormwater
+drainage facilities at a scale sufficient to demonstrate conformance with city
+drainage standards and city standards shall be included. Details shall include,
+but not be limited to, plan and profile view of all drainage facilities,
+culvert and underground pipe trench details, detention storage and outlet
+details, street inlet details, low-flow concrete swale and curb cut details and
+channel and swale standard cross-sections;
+            13.   Water surface profiles for the major storm shall be computed
+using standard backwater analysis (taking into consideration all losses due to
+changes in velocity, drops, bridge openings, culverts, and other obstructions)
+and delineated in the profile view of all channels and drainage facilities;
+            14.   The existing and proposed surface area (in units of square
+feet) of impervious materials for nonresidential land development projects
+shall be calculated and included in tabular form for proper assignment of
+equivalent residential units (ERUs) for drainage fees;
+            15.   When construction is phased or when temporary facilities are
+used, an outline of the sequence of construction activities shall be provided
+that notes when the various aspects of the drainage study will be implemented.
+   I.   Drainage system requirements.
+      1.   Stormwater drainage system design capacity.
+         a.   The stormwater drainage system shall be designed to receive and
+pass the runoff from a 1% (100-year) frequency rainstorm under full
+urbanization. The entire flow shall be confined within the stormwater drainage
+system and shall include easements and drainage facilities within the public
+rights-of-way.
+         b.   When roadways are used as a part of the stormwater drainage
+system, all street design requirements shall be followed.
+      2.   Stormwater flow.
+         a.   The stormwater flow of a collector system shall be designed
+within the confines of dedicated rights-of-way or restricted drainage easements
+to ensure that stormwater runoff can pass through a project site without
+inundating the lowest level of any building, dwelling, or structure.
+         b.   When stormwater drainage system features are located between
+buildings or lots rather than within the right-of-way of a street, designs
+shall include restricted drainage easement as platted. City code prohibits
+structures from being located within restricted drainage easements.
+         c.   The adjacent water surface elevation produced from a 1% (100-
+year) storm shall be no closer than one foot from the finished floor of any
+structure.
+         d.   Drainage easement language shall state on the plat that the
+restricted drainage easement is provided for stormwater flow, and that the area
+shall be maintained by the property owner in accordance with the Land
+Development Code.
+      3.   Bridges, culverts, and swales.
+         a.   All bridges shall be designed to pass the flow produced by the
+regulatory 1% (100-year) storm with two feet of freeboard from the water
+surface to the low chord of the bridge. All culverts determined to be bridge
+box culverts, shall be designed to pass the flow produced by the regulatory 1%
+(100-year) storm with two foot of freeboard from the water surface to the
+inside top of the culvert.
+         b.   All culverts under roadways, regardless of size, shall be
+designed to pass the flow produced by the regulatory 1% (100-year) storm with
+one foot of freeboard from the water surface to the upstream edge of pavement,
+for which backwater from 100% blockage would flood upstream structures.
+Backwater analysis shall be provided to illustrate compliance with this
+requirement.
+         c.   Maximum upstream headwater allowed shall be one and one-half
+times the vertical interior dimension the culvert; the culverts shall be
+designed to have overland relief in a restricted drainage easement or right-of-
+way assuming 100% blockage of the culvert.
+         d.   Culverts, gutter lines, and associated longitudinal street grades
+for all streets shall be designed without street overtopping for floods
+produced by all storms up to and including the regulatory 1% (100-year) storm.
+Where overtopping will occur, the design shall include roadside swales, storm
+sewers or other stormwater appurtenances.
+         e.   Culverts shall be designed such that backwater from the culvert
+does not inundate any structure.
+         f.   Provide protective measures for culverts and embankments to
+minimize embankment damage during overflow.
+         g.   When roadside swales without storm sewers are to convey
+stormwater, the swales shall convey the regulatory 1% (100-year) flow and have
+a maximum depth of 30 inches to limit traffic and pedestrian safety hazards,
+regardless of right-of-way width, slope or paved bottom. If a greater depth is
+required, by design and/or site conditions, an alternative stormwater
+conveyance system must be used. Special considerations will be made for use of
+engineered bioswales which require a greater depth than 30 inches; traffic and
+pedestrian safety will be required to be addressed as part of the design.
+Roadside swale cross-slopes shall be no steeper than 3:1 (H:V). Wherever
+practical, side slopes of 4:1 (H:V) shall be required to allow for maintenance
+safety.
+         h.   Roadside swales with vegetative cover shall have a longitudinal
+slope of no less than 2% to ensure drainage. When slopes greater than 2% are
+used, the channel must be designed to ensure that surfaces are protected from
+erosion.
+   J.   Rainfall. All hydrological analyses for projects within the city shall
+utilize the rainfall data published by the National Oceanic and Atmospheric
+Administration (NOAA) Atlas 14 as the basis for rainfall intensity or
+cumulative depth.
+   K.   Runoff
+      1.   General.
+         a.   A drainage study which compares pre-project conditions to
+proposed conditions and shall be developed and submitted as a report as part of
+the design submittals.
+         b.   For new construction projects, "pre-project conditions" refers to
+the natural state.
+      2.   Soil Conservation Service (SCS) unit hydrograph method. The method
+of runoff analysis that shall be used for the design of storm drainage system
+components is the SCS Method.
+         a.   Soil-cover complex number (CN) determination. When using the SCS
+unit hydrograph method for a sub-basin, the SCS basin lag time shall be used in
+conjunction with the CN value to determine runoff. The soil type and vegetative
+covers of a watershed are generally classified separately. A combination of a
+specific soil type and a specific cover is referred to as a soil-cover complex
+number (CN) and a measure of this complex can be used as a watershed parameter
+in estimating runoff. The CN for each area in the hydrologic analysis can be
+derived by first determining the classification of the soil, and then choosing
+the CN from the NRCS Urban Hydrology For Small Watersheds (TR-55 report).
+         b.   Basin characteristics. Sub-basin characteristics needed for the
+SCS unit hydrograph method are:
+            1.   Drainage area of the sub-basin;
+            2.   Longest flow path length;
+            3.   Characteristics of individual flow paths that make up the
+longest flow path (e.g., overland, grassed channel, gutter);
+            4.   Slope of individual flow paths; and
+            5.   Land use types and areas throughout the basin (e.g.,
+agricultural, residential, business).
+      3.   Time of concentration. The time of concentration (Tc) for the basin
+is made up of two time components, according to the following equation:
+         Tc = To + Tt
+         Where:
+         Tc = time of concentration (minutes)
+         To = initial, inlet, or sheet flow time (minutes)
+         Tt = travel time in the ditch, channel, gutter, storm sewer, etc.
+(minutes)
+         a.   For urban areas, the time of concentration consists of an
+overland sheet flow time (To) plus the time of travel (Tt) in the storm sewer,
+paved gutter, roadside drainage ditch, or drainage channel.
+         b.   For non-urban areas, the time of concentration consists of an
+overland sheet flow time (To) plus the time of travel (Tt) in a combined form,
+such as a small swale, channel, or drainage way.
+         c.   Overland sheet flow time, To, varies with surface slope, surface
+coverage and distance of surface flow.
+         d.   Overland flow distance shall not exceed 200 feet.
+         e.   A one-minute time increment shall be used in developing the
+rainfall distribution.
+      4.   Rational formula. The rational method shall only be used to
+determine pipe sizes for stormwater drainage systems. It shall not be used for
+any routing calculations for stormwater storage facilities.
+         a.   The rational method, using the Wright-McLaughlin modifier
+(correction factor) is based on the formula:
+            Q = CIA
+            Where:
+            Q = peak discharge, (cubic feet per second, cfs)
+            C = runoff coefficient (dimensionless) (see Table 1800.2 or 1800.3)
+            I = rainfall intensity for a duration equal to the time of
+concentration, (inches/hour)
+            A = watershed area (acres)
+         b.   Runoff coefficient. Runoff coefficients for different land use or
+surface characteristics are found in Table X. If the sub-basin is not
+homogeneous in its land use type, then a composite runoff coefficient should be
+calculated by averaging the areas of different runoff coefficients.
+         c.   Rainfall intensity. The rainfall intensity is the average
+rainfall rate in inches per hour for the period of maximum rainfall of a given
+frequency having a duration equal to the time of concentration. As described in
+the current Drainage Design Manual, the following equations shall be used. The
+most current ODOT Intensity-Duration-Frequency curves shall supersede this
+information.
+            I = a / (Tc + b)c
+            Where:
+            I = rainfall Intensity (inches per hour)
+            Tc = time of concentration (minutes)
+            a, b, c = defined through regression of NOAA Atlas 14 data
+         d.   Where the City Engineer determines that unusual site conditions,
+the size of the drainage facility, or maintenance requirements necessitate a
+greater easement width, the city may require a wider maintenance easement
+reasonably necessary to provide safe and adequate access for inspection,
+repair, replacement, and operation of the drainage facilities.
+   L.   Updates to technical standards. The City Engineer is authorized to
+prepare, publish, and periodically revise administrative technical manuals,
+standard specifications, design criteria, standard details, engineering
+policies, and related technical guidance necessary to implement this article.
+Such technical manuals and standards may incorporate or reference current
+editions of publications issued by the Oklahoma Department of Transportation
+(ODOT), the Oklahoma Department of Environmental Quality (ODEQ), the Federal
+Emergency Management Agency (FEMA), the National Oceanic and Atmospheric
+Administration (NOAA), the Natural Resources Conservation Service (NRCS), the
+American Society of Civil Engineers (ASCE), or other generally accepted
+engineering authorities. Administrative revisions that do not substantially
+alter the substantive requirements of this article shall become effective upon
+approval by the City Engineer and filing with the City Clerk and shall not
+require amendment of this article. Any revision that materially changes the
+rights or obligations of property owners or developers shall require approval
+by the City Council by ordinance or resolution, as applicable.
 CHAPTER 18. FEE SCHEDULE
 Pursuant to Section
 1-112 of this code and for purpose of providing a clear and concise listing of
